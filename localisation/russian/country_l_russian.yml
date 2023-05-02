@@ -29,7 +29,7 @@ MANPOWER_USAGE:1 "Свободные людские ресурсы: $FREE|^2H$\n
 MANPOWER_CURRENT: "Всего людских ресурсов: $TOTAL|^2H$\n$PERC|2%H$ имеющегося в наличии годного основного населения ($ELIGIBLE|^H$)"
  MANPOWER_CURRENT_MOBILIZATION: "Всего людских ресурсов: $TOTAL|^2H$\n$PERC|2%H$ (около $MOB|+3H%$ мобилизуется в день) Доступная основная группа населения ($ELIGIBLE|^H$)".
  MANPOWER_NON_CORE: "$NC_PERC|3%H$ правомочного неосновного населения в наличии ($NC_ELIGIBLE|^H$)"
- MANPOWER_GROWTH: "§YЕжемесячный рост в регионах§!\nРекрутирумого: $RECRUITABLE|^G$\nГражданского: $CIVILIAN|^G$"
+ MANPOWER_GROWTH: "§YЕжемесячный рост в регионах§!\nРекрутируемого: $RECRUITABLE|^G$\nГражданского: $CIVILIAN|^G$"
  MANPOWER_VALUE:3 "$USAGE$\n\n$CURRENT$\n$GROWTH$"
  MANPOWER_DESC: "Призыв солдат в этой стране. Принять более строгие законы о призыве для увеличения".
  MANPOWER_DIVISION: "Численность дивизии"
