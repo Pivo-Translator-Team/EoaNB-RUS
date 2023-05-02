@@ -1,0 +1,181 @@
+﻿l_russian:
+ ### EVENTS ### #NT!
+ scan_monetary_union.1.t: "Возможность создания Скандинавского валютного союза"
+ scan_monetary_union.1.d: "[ROOT.GetName] - маленькая страна в европейском, не говоря уже о мировом масштабе. Для того чтобы наша экономика выжила, в наш век империализма и экономического блокостроительства может быть крайне необходимо найти партнеров по сотрудничеству, чтобы обеспечить наш суверенитет. Наши скандинавские братья сталкиваются с аналогичными проблемами, и некоторые из наших бизнесменов уже связались с другими скандинавскими промышленниками и выдвинули идею создания скандинавского валютного союза. Возможно, было бы разумно принять участие в предстоящих дискуссиях. Что нам делать?"
+ scan_monetary_union.1.a: "Продолжайте".
+ SDN_smu_discussions_present_effect_tt: "§GЭто даст вам гораздо больше шансов на успешное обсуждение.§!"
+ scan_monetary_union.1.b: "Оставьте все как есть".
+ SDN_smu_discussions_not_present_effect_tt: "§RХотя вы все еще можете присоединиться к потенциальному валютному союзу позже, это значительно снизит вероятность успеха.§!"
+ scan_monetary_union.2.t: "Скандинавский валютный союз?\nПредварительная встреча в Гетеборге"
+ scan_monetary_union.2.d: "Промышленники, бизнесмены, ученые и политики со всей Скандинавии собрались в Гетеборге, чтобы обсудить возможность создания в будущем Скандинавского валютного союза. Наиболее интенсивно обсуждаемым вопросом является вопрос о валюте и о том, как она должна быть организована и основана. Хотя ожидается, что непосредственное политическое влияние встречи будет незначительным, первый фундамент для дальнейших переговоров уже заложен."
+ scan_monetary_union.2.a: "Хорошее начало".
+ scan_monetary_union.2.b: "Пусть ведут свои гипотетические дискуссии".
+ scan_monetary_union.2.c: "Возможно, нам стоит присоединиться к следующей встрече?".
+ scan_monetary_union.2.e: "Мы приняли неправильное решение, давайте откажемся".
+ SDN_smu_discussions_rejoin_effect_tt: "§GХотя мы, конечно, будем некоторое время подвергаться неодобрению за отказ от первоначального приглашения, это скоро пройдет, и в дальнейшем мы присоединимся к следующей встрече, чтобы участвовать в этих обсуждениях.§!".
+ scan_monetary_union.3.t: "Скандинавский валютный союз?\nПредварительная встреча в Стокгольме"
+ scan_monetary_union.3.d: "Вновь промышленники, бизнесмены, ученые и политики со всей Скандинавии собрались, на этот раз в столице Швеции, Стокгольме, для дальнейшего обсуждения возможности создания Скандинавского валютного союза. Наиболее интенсивно обсуждаемым вопросом является основа будущей скандинавской валюты и соответствующая расчетная единица. В то время как большинство скандинавских валют традиционно придерживались серебряного стандарта, незначительное большинство, похоже, выступает за золотой стандарт с французским золотым франком в качестве предпочтительной расчетной единицы. Утверждалось, что это будет иметь ряд преимуществ: поскольку на золотые валюты уже приходится более половины внешней торговли Скандинавии, можно избежать дорогостоящего и неэффективного процесса их обмена на серебро для чеканки серебряных монет. Кроме того, золото стоит гораздо больше, чем то же количество серебра, что позволило бы использовать меньшее количество монет и упростить транспортировку больших сумм денег, к тому же золото более устойчиво, чем серебро. Эти характеристики также затрудняют подделку золотых монет. Однако, последние геополитические события в Германии, вероятно, означают, что обязательное решение не будет достигнуто в ближайшее время."
+ scan_monetary_union.3.a: "Все начинает становиться серьезным".
+ scan_monetary_union.3.b: "Пусть они продолжают вести свои гипотетические дискуссии".
+ scan_monetary_union.3.c: "Возможно, мы действительно хотели бы присоединиться к следующей встрече?".
+ SDN_smu_discussions_rejoin_for_real_effect_tt: "§GХотя нас, конечно, будут некоторое время порицать за отказ от первоначального приглашения, это скоро пройдет, и в дальнейшем мы присоединимся к следующей встрече, чтобы участвовать в этих обсуждениях.§!\n§RЭто может быть ваш последний шанс повысить шансы на успех...§!"
+ scan_monetary_union.3.e: "Мы приняли неправильное решение, давайте откажемся от участия".
+ scan_monetary_union.4.t: "Пригласить шведских и норвежских протагонистов на встречу в Копенгагене?".
+ scan_monetary_union.4.d: ""
+ scan_monetary_union.4.a: "Отправить приглашение".
+ scan_monetary_union.4.b: "Пока отложите проект".
+ scan_monetary_union.5.t: "Приглашение на предварительную встречу валютного союза в Копенгагене".
+ scan_monetary_union.5.d: ""
+ scan_monetary_union.5.a: "Принять приглашение".
+ scan_monetary_union.5.b: "Отклонить приглашение".
+ SDN_smu_discussions_failure_effect_tt: "§RНа данном этапе отказ будет означать, что валютный союз потерпит неудачу.§!"
+ scan_monetary_union.6.t: "[FROM.GetName] Принимает приглашение"
+ scan_monetary_union.6.d: ""
+ scan_monetary_union.6.a: "Очень хорошо".
+ scan_monetary_union.7.t: "[FROM.GetName] Отклоняет приглашение"
+ scan_monetary_union.7.d: ""
+ scan_monetary_union.7.a: "Очень плохо".
+ scan_monetary_union.8.t: "Пригласить датских и норвежских протагонистов на встречу в Стокгольме?".
+ scan_monetary_union.8.d: ""
+ scan_monetary_union.8.a: "Отправить приглашение".
+ scan_monetary_union.8.b: "Бросить проект".
+ scan_monetary_union.9.t: "Приглашение на предварительную встречу валютного союза в Стокгольме".
+ scan_monetary_union.9.d: ""
+ scan_monetary_union.9.a: "Принять приглашение".
+ scan_monetary_union.9.b: "Отклонить приглашение".
+ SDN_smu_discussions_potential_failure_effect_tt: "§RНа данном этапе отказ может означать, что валютный союз потерпит неудачу.§!"
+ scan_monetary_union.10.t: "Скандинавский валютный союз терпит неудачу"
+ scan_monetary_union.10.d: ""
+ scan_monetary_union.10.a: "Какой позор".
+ scan_monetary_union.11.t: "Скандинавский валютный союз терпит неудачу"
+ scan_monetary_union.11.d: ""
+ scan_monetary_union.11.a: "Какой позор".
+ scan_monetary_union.12.t: "Подготовить встречу Скандинавского валютного союза в Копенгагене".
+ scan_monetary_union.12.d: ""
+ scan_monetary_union.12.a: "Сделать необходимые приготовления".
+ scan_monetary_union.13.t: "Скандинавский валютный союз? Предварительная встреча в Копенгагене"
+ scan_monetary_union.13.d: ""
+ scan_monetary_union.13.a: "Мы должны создать комиссию".
+ scan_monetary_union.13.b: "Давайте посмотрим, что придумает комиссия".
+ SDN_smu_discussions_no_vote_effect_tt: "§RМы не будем голосовать по предложению комиссии...".
+ scan_monetary_union.14.t: "Подготовить встречу Скандинавского валютного союза в Стокгольме".
+ scan_monetary_union.14.d: ""
+ scan_monetary_union.14.a: "Сделать необходимые приготовления".
+ scan_monetary_union.15.t: "Скандинавский валютный союз? Предварительная встреча в Стокгольме"
+ scan_monetary_union.15.d: ""
+ scan_monetary_union.15.a: "Мы должны создать комиссию".
+ scan_monetary_union.15.b: "Посмотрим, что придумает комиссия".
+ scan_monetary_union.16.t: "Скандинавская валютная комиссия".
+ scan_monetary_union.16.d: ""
+ scan_monetary_union.16.a: "Они будут знать, что лучше".
+ scan_monetary_union.17.t: "Скрытое мероприятие по определению предложения комиссии"
+ scan_monetary_union.17.d: "Скрытое"
+ scan_monetary_union.17.a: "Скрытый"
+ scan_monetary_union.18.t: "Скандинавская золотая валюта"
+ scan_monetary_union.18.d: ""
+ scan_monetary_union.18.a: "Голосуйте за".
+ scan_monetary_union.18.b: "Голосуйте против".
+ scan_monetary_union.19.t: "Французский золотой франк как расчетная единица".
+ scan_monetary_union.19.d: ""
+ scan_monetary_union.19.a: "Голосуйте за".
+ scan_monetary_union.19.b: "Голосуйте против".
+ scan_monetary_union.20.t: "Немецкая золотая марка как расчетная единица".
+ scan_monetary_union.20.d: ""
+ scan_monetary_union.20.a: "Голосуйте за".
+ scan_monetary_union.20.b: "Голосуйте против".
+ scan_monetary_union.21.t: "Британский фунт как расчетная единица".
+ scan_monetary_union.21.d: ""
+ scan_monetary_union.21.a: "Голосуйте за".
+ scan_monetary_union.21.b: "Голосуйте против".
+ scan_monetary_union.22.t: "Скрытое событие, определяющее голосование по предложению комиссии".
+ scan_monetary_union.22.d: "Скрытое"
+ scan_monetary_union.22.a: "Скрытый"
+ scan_monetary_union.22.b: "Скрыто"
+ scan_monetary_union.22.c: "Скрыто"
+ scan_monetary_union.22.e: "Скрыто"
+ scan_monetary_union.23.t: "Предложение комиссии успешно"
+ scan_monetary_union.23.d: ""
+ scan_monetary_union.23.a: "Отличные новости".
+ scan_monetary_union.23.b: "Мы были отклонены...".
+ scan_monetary_union.23.c: "Они решили без нас...".
+ scan_monetary_union.24.t: "Предложение комиссии не увенчалось успехом"
+ scan_monetary_union.24.d: ""
+ scan_monetary_union.24.a: "Позор".
+ scan_monetary_union.25.t: "Скандинавский валютный союз - специфика согласована".
+ scan_monetary_union.25.d: ""
+ scan_monetary_union.25.a: "Время ратифицировать договор".
+ scan_monetary_union.25.b: "Возможно, нам все же стоит присоединиться?"
+ scan_monetary_union.25.c: "Мы должны определиться".
+ scan_monetary_union.26.t: "Скандинавский валютный союз - другое решение?".
+ scan_monetary_union.26.d: ""
+ scan_monetary_union.26.a: "Посмотрим..."
+ scan_monetary_union.27.t: "Скрытое событие для определения выполнения условий"
+ scan_monetary_union.27.d: "Скрытый"
+ scan_monetary_union.27.a: "Скрыто"
+ scan_monetary_union.28.t: "Договор о валютном союзе ратифицирован"
+ scan_monetary_union.28.d: "[FROM.GetName] ратифицировал договор и присоединился к валютному союзу".
+ scan_monetary_union.28.a: "Наконец-то!"
+ scan_monetary_union.29.t: "[FROM.GetName] Хочет присоединиться к валютному союзу"
+ scan_monetary_union.29.d: "Хотя [FROM.GetName] в прошлом решил держаться подальше от дискуссий, их правительство попросило присоединиться к нашему валютному союзу. Как нам следует реагировать?"
+ scan_monetary_union.29.a: "Мы приветствуем их просьбу".
+ scan_monetary_union.29.b: "Мы отвергаем их просьбу".
+ scan_monetary_union.30.t: "Скрытое событие для проверки того, был ли удовлетворен запрос".
+ scan_monetary_union.30.d: "Скрытое"
+ scan_monetary_union.30.a: "Скрыто"
+ scan_monetary_union.31.t: "Запрос на вступление в валютный союз удовлетворен"
+ scan_monetary_union.31.d: ""
+ scan_monetary_union.31.a: "Отличные новости".
+ scan_monetary_union.32.t: "Запрос на вступление в валютный союз отклонен"
+ scan_monetary_union.32.d: ""
+ scan_monetary_union.32.a: "Какая жалость".
+ SDN_smu_request_rejected_effect_tt: "§YМы можем снова запросить вступление в валютный союз через два года.§!"
+
+ scandinavian_votes.1.t: "Ратификация Договора о валютном союзе"
+ scandinavian_votes.1.d: "После долгих лет предложений, хождений туда-сюда и бесконечных дебатов мы, наконец, смогли договориться об условиях валютного союза, включающего нас и наших северных собратьев. Теперь настало время дать парламенту ратифицировать договор. Будем надеяться, что наши усилия не были напрасными".
+ scandinavian_votes.1.a: "Давайте проголосуем через месяц".
+ scandinavian_votes.1.b: "Откажитесь от этой идеи".
+ scandinavian_votes_results.1.t: "Результаты голосования [Root.GetCurrentVotedReform]".
+ scandinavian_votes_results.1.d: "Получены результаты парламентского голосования по [Root.GetCurrentVotedReform]... Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является отражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \nНет : [?nay_votes]".
+ scandinavian_votes_results.1.a: "Акт принят!"
+ scandinavian_votes_results.1.b: "Это провал...".
+ scandinavian_votes_results.1.c: "Ничья, придется голосовать снова...".
+ SDN_smu_ratification_failed_effect_tt: "§YМы можем снова обратиться за парламентской ратификацией через два года.§!".
+
+ ### DECISIONS ### #NT!
+ #Scandinavian Monetary Union #NT!
+ SDN_decision_category_monetary_union: "Валютный союз"
+ SDN_decision_category_monetary_union_desc: ""
+ SDN_decision_ratify_monetary_union_treaty: "Ратифицировать договор о валютном союзе".
+ SDN_decision_ratify_monetary_union_treaty_desc: ""
+ SDN_decision_ratify_monetary_union_treaty_overruled: "Ратифицировать договор о валютном союзе".
+ SDN_decision_ratify_monetary_union_treaty_overruled_desc: ""
+ SDN_decision_ask_to_join_monetary_union: "Попросить о вступлении в валютный союз"
+ SDN_decision_ask_to_join_monetary_union_desc: ""
+ SDN_decision_DEN_replace_the_rigsdaler: "Заменить ригсдалер на крону".
+ SDN_decision_DEN_replace_the_rigsdaler_desc: ""
+ SDN_decision_NOR_replace_the_riksdaler: "Заменить специедалер на крону".
+ SDN_decision_NOR_replace_the_riksdaler_desc: ""
+ SDN_decision_SWE_replace_the_riksdaler: "Заменить риксдалер на крону".
+ SDN_decision_SWE_replace_the_riksdaler_desc: ""
+ SDN_decision_DEN_introduce_the_25_ore_coin: "Ввести монету номиналом 25 эре"
+ SDN_decision_DEN_introduce_the_25_ore_coin_desc: ""
+ SDN_decision_NOR_introduce_the_5_kroner_coin: "Ввести монету номиналом 5 крон"
+ SDN_decision_NOR_introduce_the_5_kroner_coin_desc: ""
+ SDN_decision_SWE_introduce_the_5_kronor_coin: "Представить монету номиналом 5 крон"
+ SDN_decision_SWE_introduce_the_5_kronor_coin_desc: ""
+ SDN_fiscal_measure_ongoing_flag: " §YПроводимая фискальная мера§!"
+
+ #Scandinavian Wolves #NT!
+ SDN_decision_kill_wolves: "Сократить популяцию волков".
+
+ ### IDEAS ### #NT!
+ #Scandinavian Monetary Union #NT!
+ SDN_idea_scandinavian_monetary_union_1: "Скандинавский валютный союз"
+ SDN_idea_scandinavian_monetary_union_1_desc: ""
+ SDN_idea_scandinavian_monetary_union_2: "Скандинавский валютный союз"
+ SDN_idea_scandinavian_monetary_union_2_desc: ""
+ SDN_idea_scandinavian_monetary_union_3: "Скандинавский валютный союз"
+ SDN_idea_scandinavian_monetary_union_3_desc: ""
+
+ #Scandinavian Wolves #NT!
+ SDN_idea_scandinavian_wolves: "Скандинавские волки".

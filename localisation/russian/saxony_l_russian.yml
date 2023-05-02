@@ -1,0 +1,801 @@
+﻿l_russian:
+################### #NT!
+#  Saxony Events  # #NT!
+################### #NT!
+
+### STARTING, GENERAL INFO AND FLAVOUR EVENTS #NT!
+#STARTING EVENTS #NT!
+saxony.1.t:0 "Королевство Саксония -\nНачальная ситуация: Внутренняя политика"
+saxony.1.d:0 "\n[SAX.GetNameDef] было сильно вовлечено в революционные восстания 1830 и 1848/49 годов. Общественное давление, оказанное в основном интеллектуалами и учеными Лейпцига и Дрездена, привело к принятию относительно прогрессивной конституции в 1831 году, которая превратила королевство в конституционную монархию, включая публичные выборы во вторую палату ландтага.\n\nВ то же время, [SAX.GetName] стала первой страной в Германии, испытавшей быстрые изменения, вызванные промышленной революцией. В основном вокруг городов Хемниц и Цвиккау было построено большое количество фабрик, в основном специализирующихся на текстильной и машиностроительной промышленности. В связи с этим возник новый социальный класс: промышленный пролетариат, который становился все более недовольным плохими условиями труда и отсутствием политического представительства.\n\n\nПод влиянием всеобщего недовольства и высокого уровня безработицы Саксония стала одним из центров Мартовской революции 1848/49 годов. Вспышки насилия заставили короля несколько раз менять правительство, назначать более прогрессивных министров, отменить цензуру в прессе и либерализовать избирательное право. Когда силы реакции попытались вернуть контроль, после роспуска королем ландтага и вмешательства прусских войск в Дрездене начались кровавые уличные бои, в результате которых погибло несколько сотен человек. В конце концов, силы, верные короне, одержали верх, и большинство уступок было отменено.\n\n\n[SAX.GetNameDef] теперь находится на перепутье. В то время как аристократы цепляются за свои привилегии, общественность требует прогресса и либерализации, а также стоит вопрос о том, как справиться с растущими националистическими настроениями среди сорбов. Важно найти баланс, развивать экономику и не допустить нового восстания, если мы хотим, чтобы Саксония процветала и благоденствовала".
+saxony.1.a:0 "Glück auf, Glück auf, mein Sachsenland!".
+saxony.2.t:0 "Королевство Саксония -\nНачальная ситуация: Иностранные дела"
+saxony.2.d:0 "\n[SAX.GetNameDef] находится в сложном географическом положении. Находясь между двумя немецкими гегемонами, [PRS.GetName] и [AUS.GetName], и гранича с третьей немецкой державой, [BAV.GetName] на юге, правительству придется действовать осторожно, особенно на международной арене.\n\nХотя членство в Союз имеет жизненно важное экономическое значение, наши отношения с ведущей державой Союз, Пруссией, были не самыми лучшими. На самом деле, Саксония была почти полностью аннексирована [PRS.GetName] во время Венского конгресса 1815 года, в наказание за то, что до последней минуты поддерживала Наполеона.\n\n\nОднако только вмешательство [AUS.GetName] предотвратило полное включение нашего королевства в состав Пруссии, но мы все равно потеряли более половины территории и почти 40% населения в соответствии с Заключительным актом Венского конгресса. Времена, когда мы считались средней европейской державой, прошли, и нам лишь с трудом удалось предотвратить инициативу объединения Пруссии после мартовской революции, известную как Эрфуртский союз.\n\n Нам придется решить, как действовать дальше. В последнее время мы добились некоторого многообещающего прогресса в работе с другими немецкими несовершеннолетними, и продолжение этого пути должно быть нашим лучшим вариантом, хотя, возможно, будет трудно добиться единства мнений всех заинтересованных сторон. В то же время мы должны быть осторожны, чтобы не разозлить Австрию и Пруссию, иначе наши дни как независимой страны могут быть сочтены...".
+saxony.2.a:0 "Gott sei mit dir, mein Sachsenland!".
+
+###POLITICAL AND WAR EVENTS #NT!
+#DOMESTIC POLITICS #NT!
+saxony.201.t:0 "Фердинанд фон Зшинский смертельно болен - Фридрих Фердинанд фон Бойст назначен исполняющим обязанности премьер-министра"
+saxony.201.d:0 "Премьер-министр фон Зшинский уже около двух лет находился в плохом состоянии здоровья, когда в начале этого года по просьбе короля Иоганна отправился в отпуск на оздоровление в Южную Францию и Италию. По словам врачей, премьер-министр страдает от хронического заболевания легких, которое можно вылечить только сменой климата. Однако путешествие не привело к значительному улучшению его здоровья, и фон Зшинский вернулся в Дрезден три недели назад. Сегодня до короля и парламента дошли печальные новости: фон Зшинский опасно заболел и в обозримом будущем не сможет исполнять свои министерские обязанности. Врач, занимающийся лечением фон Зшинского, не скрывает своих сомнений в том, что премьер-министр вообще поправится...\n\nЕго Величество, король Иоганн, уже назначил давнего политического противника фон Зшинского, министра иностранных дел Фридриха Фердинанда фон Бюста, исполняющим обязанности премьер-министра. Фон Бойст известен своими либерально-консервативными взглядами и хочет вернуть Саксонию на дипломатическую карту Европы. Ухудшение здоровья фон Зшинского могло положить начало значительным переменам в саксонской политике."
+saxony.201.a:0 "Дни фон Зшинского, похоже, сочтены..."
+saxony.202.t:0 "Смерть Фердинанда фон Зшинского"
+saxony.202.d:0 "После нескольких дней предсмертных мук сегодня утром умер премьер-министр Фердинанд фон Зшинский. Десять лет работы в правительстве в качестве главы министерства внутренних дел и, наконец, премьер-министра сделали фон Зшинского известной фигурой не только в саксонской, но и в немецкой политике. Его юридическое мастерство также снискало ему уважение коллег и законодателей по всей Европе. Награжденный Большим крестом Саксонского гражданского ордена "За заслуги", Императорским австрийским орденом Железной короны, Императорским российским орденом Святой Анны и другими, фон Зшинский будет очень скучать и получит почетное погребение".
+saxony.202.a:0 "Ruhe in Frieden".
+saxony.203.t:0 "Смерть Фердинанда Лассаля"
+saxony.203.d:0 "Поступают сообщения о том, что Фердинанд Лассаль признан мертвым. Будучи набожным социалистом и сторонником монархии одновременно, Лассаль был идеологически противоречивым человеком. Он поддерживал отношения как с архикоммунистом Карлом Марксом, так и с архимонархистом Отто фон Бисмарком. Хотя некоторые утверждают, что Лассаль был коммунистом, в конечном итоге он был тем же, кем и Бисмарк: националистом в душе, готовым принять любую социальную идеологию для достижения цели - объединенной Германии. Его безвременная смерть, безусловно, станет тяжелым ударом для умеренного социализма в Германии, поскольку движение теряет своего самого блестящего мыслителя."
+saxony.203.a:0 "Ruhe in Frieden".
+saxony.204.t:0 "Сорбский вопрос"
+saxony.204.d:0 "Сорбы - западнославянская этническая группа, преимущественно населяющая Лужицу, северо-западную часть нашего королевства. В результате Венского конгресса 1815 года большая часть сорбских земель была захвачена [PRS.GetName], но до сих пор в [SAX.GetName] проживает около 65 000 сорбов. Сорбский национализм в последнее время находится на подъеме, особенно в контексте Мартовской революции 1848/49 годов, а многие сорбские интеллектуалы придерживаются панславистских настроений и поддерживают связи с другими славянскими интеллектуалами на востоке. Последние события вызывают все большую тревогу, и теперь мы должны решить, как дальше решать сорбский вопрос."
+saxony.204.a:0 "Мы должны принять их выражение самобытности".
+saxony.204.b:0 "Мы будем продолжать в основном игнорировать этот вопрос".
+saxony.204.c:0 "Мы должны ассимилировать их любой ценой!".
+saxony.205.t:0 "Формирование сорбского письменного языка"
+saxony.205.d:0 "На протяжении веков сорбы, западнославянское этническое меньшинство, проживающее в основном в Лужице, в основном общались и передавали свои традиции и историю устно. Хотя и раньше существовали письменные формы сорбских диалектов, они были очень непоследовательны, а их взаимная разборчивость не была само собой разумеющейся. В течение нескольких десятилетий сорбские интеллектуалы упорно работали над созданием фиксированной грамматики, свода правил, регулирующих сорбский язык и его диалекты. Это укрепило сорбский национализм и самосознание, и мы должны ожидать в будущем больше сорбских литературных, историографических и лингвистических публикаций".
+saxony.205.a:0 "Что ж, хорошо для них".
+saxony.206.t:0 "Десятилетний юбилей Мачицы Сербской"
+saxony.206.d:0 "Так называемая Мачица Сербская - влиятельное сорбское научное общество. Основанное в лужицком городе Баутцен в 1847 году, многие сорбские интеллектуалы, такие как Хандрий Цейлер (на фото) и Ян Арношт Смолер, находили и продолжают находить вдохновение и общее дело в продвижении сорбской культуры в Мачице Сербской. Общество сыграло ключевую роль в становлении сорбской грамматики и литературы и, скорее всего, продолжит функционировать как ядро сорбской идентичности."
+saxony.206.a:0 "Мы должны следить за ними".
+saxony.207.t:0 "Serbske Nowiny - Сорбский журнал"
+saxony.207.d:0 "Первый сорбский журнал был основан в 1842 году Хандрием Цейлером, к которому позже присоединился Ян Арношт Смолер. В 1854 году журнал был переименован в "Serbske Nowiny" - "Сорбскую газету", и с тех пор тираж значительно вырос. Особенно среди протестантов-сорбов он оказывает значительное влияние, и мы должны внимательно следить за деятельностью издателей. Наши предшественники уже запретили газете печатать новости, касающиеся иностранных дел, и мы будем продолжать это делать до сих пор".
+saxony.207.a:0 "Их нужно контролировать".
+saxony.208.t:0 "Новый лужицкий журнал - 40-летие"
+saxony.208.d:0 "Новый лужицкий журнал, или "Neues Lausitzisches Magazin", является издательским органом Верхнелужицкого научного общества, расположенного в Гёрлице. Хотя общество и его журнал не агитируют за сорбский национализм и идентичность, они предоставляют платформу многим сорбским интеллектуалам, а их публикации находят отклик у либерально-прогрессивной буржуазии в Саксонии и Пруссии. Будем надеяться, что научные преимущества перевесят опасность, которую представляют некоторые из этих диссидентов".
+saxony.208.a:0 "Уже не так ново, да?"
+saxony.209.t:0 "Фонд Катольского Посола - католический сорбский журнал"
+saxony.209.d:0 "Недавно основанный Михалом Гурником, "Катольский вестник" - это сорбский журнал, предназначенный специально для сорбов-католиков. Хотя журнал носит религиозный характер, он также может быть использован для тайной агитации сорбских сепаратистских тенденций. Мы должны следить за их публикациями".
+saxony.209.a:0 "Католики-сорбисты также могут быть опасны...".
+saxony.210.t:0 "Slawisches Zentralblatt - еженедельный журнал с панславянскими тенденциями"
+saxony.210.d:0 "Jan Arnošt Smoler has recently established another Sorbian Journal, the 'Slawisches Zentralblatt' - Slavic Central Journal, published in German. The subtitle reads 'für Literatur, Kunst, Wissenschaft und nationale Interessen des Gesamtslawentums' - for Literature, Art, Science, and the national interests of all Slavs. Smoler does not bother to cover the Panslavic tendencies of this publication and we will have to make sure to limit and hamper its circulation." #NT!
+saxony.210.a:0 "Сорбские интеллектуалы тянутся к России, тревожась...".
+saxony.211.t:0 "Опубликован лужицко-нижнесорбский словарь".
+saxony.211.d:0 "Сорбское меньшинство лингвистически сильно отличается от своих немецких соседей, что затрудняет взаимопонимание. Сорбский язык, который в Германии обычно называют "вендиш", теперь имеет словарь, который значительно облегчает перевод на немецкий и наоборот для людей с небольшим знанием обоих языков. Хотя использование этого словаря практически повысит значимость и ранг вендского языка, это звучит как хорошая возможность для взаимного сближения."
+saxony.211.a:0 "По крайней мере, теперь мы можем взаимно понимать друг друга".
+saxony.212.t:0 "Второй панславянский конгресс в Вене"
+saxony.212.d:0 "Делегация сорбов приняла участие во втором панславянском конгрессе в Вене в начале этого года. После первого панславянского съезда в Праге в 1847 году националистическая и сепаратистская агитация среди славян достигла точки кипения по всей Восточной Европе, включая [SAX.GetName]. Мы должны быть очень осторожны, чтобы не позволить этим повстанцам снова вызвать проблемы. Возможно, нам придется усилить нашу разведку, чтобы справиться с ними".
+saxony.212.a:0 "Эти панславянские агитаторы должны быть остановлены".
+
+#FOREIGN POLITICS AND WAR EVENTS #NT!
+saxony.301.t:0 "Прусско-саксонские отношения - статус кво"
+saxony.301.d:0 "Наши отношения с Пруссией были и остаются, мягко говоря, проблемными. Первоначально мы были союзниками в период реформаторства и против Австрии в конце 18 века, сражаясь в Баварской войне за наследство, где Саксония позже выступала посредником между двумя главными державами в Германии. Но в то же время Пруссия все больше возрастала в роли нашего главного врага, поскольку она стала представлять для нас опасность, так как усилила свои вооруженные силы. \nС 1740-х годов наши отношения ухудшались все больше и больше, но когда произошла Французская революция и король Людовик был свергнут (а затем казнен), Пруссия и Саксония согласились сражаться на стороне французского короля против республиканцев. Этот союз просуществовал до 1806 года, когда Наполеон оккупировал Саксонию, а мы перешли на его сторону. Хотя мы воевали довольно успешно и завоевали много территорий, все это прекратилось, когда Наполеон потерпел поражение в 1815 году. \nХотя мы потеряли половину территории и населения Пруссии в 1815 году, нам удалось сохранить свою независимость, так как Пруссия не смогла аннексировать нас. Наши отношения с 1815 года были прочными. Поскольку мы оба являемся частью Германской конфедерации и Союз, мы должны работать вместе, чтобы продвигать Германию как единое целое. В революционном хаосе 1849 года Пруссия дала отпор революционерам, поскольку мы сами были не в состоянии это сделать. \n\nТак, союзник превратился во врага, с которым у нас были неприятные отношения. Как нам быть с Пруссией?".
+saxony.301.a:0 "Пруссия не является нашим союзником и никогда им не будет".
+SAX_PRS_relation_bad_effect_tt:0 "§RМы будем идти по пути противостояния с Пруссией.§!".
+saxony.301.b:0 "Нам нужно примириться".
+SAX_PRS_relation_good_effect_tt:0 "§GМы будем идти по пути сближения с Пруссией.§!"
+saxony.302.t:0 "Австро-саксонские отношения - статус кво"
+saxony.302.d:0 "Союзники со времен старой Священной Римской империи, с тех пор как Габсбурги взяли на себя титул императора Священной Римской империи, курфюршество Саксония и Австрия поддерживали прочные отношения, вплоть до периода реформаторства. По мере того, как наше население переходило в лютеранство, австрийцы предпочитали оставаться католиками, что, естественно, вызывало напряженность в империи. Во время 30-летней войны Саксония сначала была союзницей австрийцев, но позже была вынуждена сменить сторону, так как шведы уже оккупировали большую часть Саксонии. \n\nВестфальский мир принес Саксонии некоторые территории и прекратил войну с Австрией. С этого момента Саксония и Австрия поддерживали нейтральные, прочные отношения, помогая друг другу, когда Вена была захвачена турками в 1683 году, и сражаясь против турок в следующей войне. \n\nПосле 100 лет мира Саксонии пришлось вмешаться в Баварскую войну за наследство, сражаясь против Австрии, а затем стать посредником между Пруссией и Австрией. В последующих наполеоновских войнах Саксония сражалась на стороне Австрии, пока не присоединилась к наполеоновскому "Рейнбунду" в 1806 году. После этого Саксония воевала против Австрии, пока Наполеон не проиграл в 1815 году. Австрия была причиной того, что мы смогли остаться независимыми после Венского конгресса, где Пруссия хотела аннексировать нас. \n\nРаботающие вместе в Германской конфедерации, Саксония и Австрия установили дружеские отношения и выразили желание сотрудничать, как, например, в "Венском мюнцвертраге". Австрия является важным партнером в нашей внешней политике, поскольку она помогает нам в военных вопросах, особенно в борьбе с Пруссией. \n\nНаши отношения с Австрией, возможно, имели низкие точки раньше, но сейчас мы определенно сформировали лучшие отношения. Итак, как мы хотим подходить к Австрии сейчас, в эти трудные времена?".
+saxony.302.a:0 "У нас дружеские отношения с Австрией, и мы постараемся их усилить".
+SAX_AUS_relation_good_effect_tt:0 "§RМы будем идти по пути дружбы с Австрией.§!"
+saxony.302.b:0 "Мы должны быть максимально беспристрастными".
+SAX_AUS_relation_neutral_effect_tt:0 "§GМы будем идти по пути нейтралитета по отношению к Австрии.§!"
+saxony.303.t:0 "[SAX.GetNameDef] Предлагает бундесреформу"
+saxony.303.d:0 "Саксонцы объявили о своем намерении реформировать Германскую конфедерацию, передать часть власти германскому Бундестагу и представили свою идею об открытии судебной ветви в Германской конфедерации, которая будет иметь власть во всей Германии. Эти идеи могут привести к централизации Германской конфедерации. Должны ли мы поддержать идею Саксонии?".
+saxony.303.a:0 "Дайте им положительный отзыв".
+SAX_bundesreform_event_positive_effect_tt:0 "Это подбодрит правительство Саксонии в их попытке реформы".
+saxony.303.b:0 "Скажите им, что мы заинтересованы, но не давайте никаких обещаний".
+SAX_bundesreform_event_cautious_effect_tt:0 "Это сообщит саксонскому правительству, что нас нужно убедить".
+saxony.303.c:0 "Сообщите им, что мы не заинтересованы".
+SAX_bundesreform_event_negative_effect_tt:0 "Это сообщит саксонскому правительству, что наше сотрудничество сомнительно."
+saxony.304.t:0 "[FROM.GetNameDef] реагирует положительно"
+saxony.304.d:0 "[FROM.GetNameDef] отреагировал на нашу программу реформ".
+saxony.304.a:0 "Gute Neuigkeiten!"
+saxony.305.t:0 "[FROM.GetNameDef] реагирует осторожно"
+saxony.305.d:0 "[FROM.GetNameDef] отреагировал на нашу программу реформ".
+saxony.305.a:0 "Damit lässt sich arbeiten..."
+saxony.306.t:0 "[FROM.GetNameDef] реагирует отрицательно"
+saxony.306.d:0 "[FROM.GetNameDef] отреагировал на нашу программу реформ".
+saxony.306.a:0 "Wie schade!"
+saxony.307.t:0 "Саксонское приглашение на конференцию Триаса"
+saxony.307.d:0 "[SAX.GetNameDef] пригласил нас на встречу средних государств Германии, так называемый Триас, в Вюрцбурге. Саксонцы в последнее время проявляют большую дипломатическую активность, пытаясь развить взаимопонимание между малыми германскими державами, достигнутое на Бамбергской конференции в 1854 году. Они продолжают утверждать, что единственный способ сохранить независимость и мир для мелких немецких держав - это более тесное сотрудничество. Как мы ответим на их приглашение?"
+saxony.307.a:0 "Мы присоединимся к конференции".
+saxony.307.b:0 "Мы не присоединимся к конференции".
+saxony.308.t:0 "[FROM.GetNameDef] Принимает приглашение"
+saxony.308.d:0 "[FROM.GetNameDef] принял наше приглашение на Вюрцбургскую конференцию, где фон Бойст, наш министр иностранных дел, представит свой план реформирования Германской Конфедерации. Это доказывает, что [FROM.GetNameDef] хочет помочь нам в реализации нашего плана и что они также выступают против нынешнего статус-кво!".
+saxony.308.a:0 "Sehr gut!"
+saxony.309.t:0 "[FROM.GetNameDef] отклоняет приглашение"
+saxony.309.d:0 "[FROM.GetNameDef] отклонил наше приглашение стать участником Вюрцбургской конференции, где фон Бойст, наш министр иностранных дел, представит свой план реформирования Германской Конфедерации. Это лишь показывает, что [FROM.GetNameDef] не хочет делать следующий шаг и предпочел бы, чтобы Германия была расколота под сапогами Пруссии и Австрии!".
+saxony.309.a:0 "Schande!"
+saxony.310.t:0 "Reform Debates Commence at the Würzburg Conference" #NT!
+saxony.310.d:0 "The delegates of the German middle states who decided to dispatch diplomats for the discussion of a reform of the German Confederation have gathered in Würzburg, Bavaria. Our Bavarian hosts have prepared a well-known hotel in the city for the talks and also arranged for several social activities over the next four days, including a visit to the theater, a festive dinner at the mansion of the district president of Lower Franconia, Friedrich von Zu Rhein, and a ball." #NT!
+saxony.310.a:0 "Ok, but don't forget the talks!" #NT!
+saxony.311.t:0 "Würzburg Conference Comes to a Close" #NT!
+saxony.311.d:0 "The Würzburg Conference has come to a close and our delegates are on their way back home. Although there haven't been any monumental breakthroughs in the discussions, we surely know much better where everyone stands now." #NT!
+saxony.311.a:0 "It's been rather productive?" #NT!
+SAX_first_wurzburg_conference_effect_tt:0 "§YWe will be able to convene another conference in a few months time.§!\n\n" #NT!
+saxony.312.t:0 "Judiciary Reform Proposal Successful" #NT!
+saxony.312.d:0 "The proposal for a judiciary reform of the German Confederation was passed by the Bundestag in Frankfurt. This is a very positive sign that our cooperation with the other middle states can bear fruit." #NT!
+saxony.312.a:0 "Great news!" #NT!
+saxony.313.t:0 "Judiciary Reform Proposal Fails" #NT!
+saxony.313.d:0 "The proposal for a judiciary reform of the German Confederation has failed to secure a majority at the Bundestag in Frankfurt. Although this is certainly sad news, the cooperation of the German middle states prior to the debate in Frankfurt was promosing." #NT!
+saxony.313.a:0 "Let's not bury our heads in the sand just yet." #NT!
+saxony.314.t:0 "Promising Signs of Success" #NT!
+saxony.314.d:0 "Our recent success in Frankfurt proves that we are on the right track, and it did certainly not go unnoticed by our potential partners for cooperation. We can surely build on this." #NT!
+saxony.314.a:0 "Forward!" #NT!
+saxony.315.t:0 "Invitation to the Second Würzburg Conference" #NT!
+saxony.315.d:0 "[SAX.GetNameDef] has again invited us to a gathering of German middle states, the so-called Trias, in Würzburg. The Saxons maintain their assertion that the only way to preserve independence and peace for the German minors is to work together much more closely. How will we respond to their invitation?" #NT!
+saxony.315.a:0 "Accept the invitation." #NT!
+saxony.315.b:0 "Reject the invitation." #NT!
+saxony.316.t:0 "[FROM.GetNameDef] Accepts Invitation to the Second Würzburg Conference" #NT!
+saxony.316.d:0 "[FROM.GetNameDef] has accepted our invitation to the Second Würzburg Conference, where von Beust, our foreign minister, wants to present more of his ideas for a reform of the German Confederation. This suggests that the [FROM.GetName] wants to assist us in our plan and that they do also oppose the current status quo!" #NT!
+saxony.316.a:0 "Sehr gut!" #NT!
+saxony.317.t:0 "[FROM.GetNameDef] Rejects Invitation to the Second Würzburg Conference" #NT!
+saxony.317.d:0 "[FROM.GetNameDef] has rejected our invitation to participate in the Second Würzburg Conference, where von Beust, our foreign minister, wants to present more of his ideas for a reform of the German Confederation. This just shows that the [FROM.GetName] is not willing to take the next step towards a closer cooperation and would rather like for their independence to remain at the mercy of Austria and Prussia. Pathetic!" #NT!
+saxony.317.a:0 "Schande!" #NT!
+saxony.318.t:0 "Second Würzburg Conference Commences" #NT!
+saxony.318.d:0 "The delegates of the German middle states who decided to dispatch diplomats for the discussion of a reform of the German Confederation have gathered in Würzburg, Bavaria, for the Second Würzburg Conference. This time, matters of war and defence are at the forefront of the discussions, which are expected to be visited by the most important war ministers of the German middle states." #NT!
+saxony.318.a:0 "Let the discussions begin." #NT!
+saxony.319.t:0 "Second Würzburg Conference Comes to a Close" #NT!
+saxony.319.d:0 "A grand breakfast this morning has terminated the Second Würzburg Conference. The discussions have been productive, but we will have to wait and see if anything will come of it." #NT!
+saxony.319.a:0 "Let's hope this will yield results." #NT!
+SAX_second_wurzburg_conference_effect_tt:0 "§YWe will be able to convene another conference in a few months time.§!\n\n" #NT!
+saxony.320.t:0 "Invitation to the Third Würzburg Conference" #NT!
+saxony.320.d:0 "[SAX.GetNameDef] has again invited us to a gathering of German middle states, the so-called Trias, in Würzburg. The Saxons maintain their assertion that the only way to preserve independence and peace for the German minors is to work together much more closely. The meeting's agenda still concerns the German Confederation's war constitution, as there are still matters to discuss. How will we respond to their invitation?" #NT!
+saxony.320.a:0 "Accept the invitation." #NT!
+saxony.320.b:0 "Reject the invitation." #NT!
+saxony.321.t:0 "[FROM.GetNameDef] Accepts Invitation to the Third Würzburg Conference" #NT!
+saxony.321.d:0 "[FROM.GetNameDef] has accepted our invitation to participate at the Third Würzburg Conference, at which our Minister of State von Beust still wants to discuss the reform of the German Confederation's war constitution. This suggests that the [FROM.GetName] wants to assist us in our plan and that they do also oppose the current status quo!" #NT!
+saxony.321.a:0 "Sehr gut!" #NT!
+saxony.322.t:0 "[FROM.GetNameDef] Rejects Invitation to the Third Würzburg Conference" #NT!
+saxony.322.d:0 "[FROM.GetNameDef] has declined our invitation to participate at the Third Würzburg Conference, at which our Minister of State von Beust still wants to discuss the reform of the German Confederation's war constitution. This only shows that the [FROM.GetName] remains unwilling to take the next step toward closer cooperation, preferring to leave its independence at the mercy of Austria and Prussia. Their downfall will be their own fault!" #NT!
+saxony.322.a:0 "Schande!" #NT!
+saxony.323.t:0 "Third Würzburg Conference Commences" #NT!
+saxony.323.d:0 "The delegates of the German middle states who decided to dispatch diplomats for the discussion of a reform of the German Confederation have gathered in Würzburg, Bavaria, for the Third Würzburg Conference. Again, matters of war and defence are at the forefront of the discussions, as the Saxon State Minister von Beust wants to continue discussing possible changes to the war constitution of the German Confederation. Let's hope for a breakthrough in the discussions." #NT!
+saxony.323.a:0 "Indeed." #NT!
+saxony.324.t:0 "Third Würzburg Conference Comes to a Close" #NT!
+saxony.324.d:0 "Yesterday, the Third Würzburg Conference came to a close. The discussions have been rather productive, but now comes the time to make the most of the arrangements." #NT!
+saxony.324.a:0 "Let's hope this will finally yield results." #NT!
+SAX_third_wurzburg_conference_effect_tt:0 "§YWe will be able to attempt another constitutional reform of the German Confederation.§!\n\n" #NT!
+saxony.325.t:0 "War Constitution Reform Proposal Successful" #NT!
+saxony.325.d:0 "The proposal for a change of the war constitution of the German Confederation was passed by the Bundestag in Frankfurt. This is a very positive sign that our cooperation with the other middle states can bear fruit." #NT!
+saxony.325.a:0 "Great news!" #NT!
+saxony.326.t:0 "War Constitution Reform Proposal Fails" #NT!
+saxony.326.d:0 "The proposal for a change of the war constitution of the German Confederation has failed to secure a majority at the Bundestag in Frankfurt. Although this is certainly sad news, the cooperation of the German middle states prior to the debate in Frankfurt was promosing." #NT!
+saxony.326.a:0 "We have to work even harder." #NT!
+saxony.327.t:0 "Saxony's Proposal for a Comprehensive Constitutional Reform" #NT!
+saxony.327.d:0 "[SAX.GetNameDef] has approached us with a plan for a more comprehensive constitutional reform of the German Confederation. The reform would provide a more flexible and powerful Federal Assembly whose delegates would be voted in by the state parliaments. This way they could propose laws with more legitimacy. The executive power of the Confederation would also be tripartite following a successful reform, with a third alternating monarch joining the Emperor of Austria and the King of Prussia at the head of the German Confederation." #NT!
+saxony.327.a:0 "Support the proposal." #NT!
+saxony.327.b:0 "Reject the proposal." #NT!
+saxony.327.c:0 "Support the proposal." #NT!
+saxony.327.e:0 "The King of Bavaria should always be the third monarch at the head of the Confederation - reject the proposal!" #NT!
+saxony.328.t:0 "[FROM.GetNameDef] Supports Proposal for a Comprehensive Constitutional Reform" #NT!
+saxony.328.d:0 "[FROM.GetNameDef] supports our proposal for a more comprehensive constitutional reform in the German Confederation, and we can expect them to do so in the Federal Assembly in Frankfurt as well." #NT!
+saxony.328.a:0 "Sehr gut!" #NT!
+saxony.329.t:0 "[FROM.GetNameDef] Rejects Proposal for a Comprehensive Constitutional Reform" #NT!
+saxony.329.d:0 "[FROM.GetNameDef] rejects our proposal for a more comprehensive constitutional reform in the German Confederation, and without their support we can hardly push the reform through the Federal Assembly in Frankfurt..." #NT!
+saxony.329.a:0 "Schande!" #NT!
+saxony.330.t:0 "Bavaria Rejects Proposal for a Comprehensive Constitutional Reform" #NT!
+saxony.330.d:0 "[FROM.GetNameDef] rejects our proposal for a more comprehensive constitutional reform in the German Confederation, and without their support we can hardly push the reform through the Federal Assembly in Frankfurt... They claim that, given their relative power in comparison to the other German minors, the Bavarian king should automatically be the third monarch at head of the German Confederation's executive power, and therefore withdraw any support for the reform they might have otherwise had." #NT!
+saxony.330.a:0 "Damn Bavarians!" #NT!
+saxony.331.t:0 "Comprehensive Constitutional Reform Proposal Successful" #NT!
+saxony.331.d:0 "The proposal for a comprehensive constitutional reform of the German Confederation was passed by the Federal Assembly in Frankfurt. This is a very positive sign that our cooperation with the other middle states can bear fruit." #NT!
+saxony.331.a:0 "Amazing!" #NT!
+saxony.332.t:0 "Comprehensive Constitutional Reform Proposal Fails" #NT!
+saxony.332.d:0 "The proposal for a comprehensive constitutional reform of the German Confederation has failed to secure a majority at the Federal Assembly in Frankfurt. Although this is certainly sad news, the cooperation of the German middle states prior to the debate in Frankfurt was promosing." #NT!
+saxony.332.a:0 "Still a bummer." #NT!
+saxony.333.t:0 "Saxony Proposes Adapted Reform Plan" #NT!
+saxony.333.d:0 "[SAX.GetNameDef] has sent a diplomatic delegation to continue the discussion about a reform of the German Confederation's constitution. Following our initial rejection, the reform plan has been altered taking the concerns of the sceptics into consideration. The new proposal seems to address our concerns, although the general character remains the same. The Saxon delegates would like to know whether we would now support the plan in front of the Federal Assembly in Frankfurt, or whether we will continue our rejection of it." #NT!
+saxony.333.a:0 "Ok, that's convincing." #NT!
+saxony.333.b:0 "Our rejection persists." #NT!
+saxony.334.t:0 "[FROM.GetNameDef] Now Supports the Proposal" #NT!
+saxony.334.d:0 "Our attempt to adapt the reform proposal in hope of swaying the [FROM.GetName] to support it in Frankfurt was successful. This is an important step in the right direction." #NT!
+saxony.334.a:0 "Good news!" #NT!
+saxony.335.t:0 "[FROM.GetNameDef] Continues to Reject the Proposal" #NT!
+saxony.335.d:0 "Unfortunately, our attempt to adapt the reform proposal in hope of swaying the [FROM.GetNameDef] to support it in Frankfurt was not successful." #NT!
+saxony.335.a:0 "Damn!" #NT!
+SAX_continued_rejection_of_reform_proposal_effect_tt:0 "§RThis means we cannot present the reform proposal to the Federal Assembly.§!\n" #NT!
+
+###ECONOMY AND TRADE EVENTS #NT!
+
+###MILITARY EVENTS #NT!
+#GENERAL AND ADMIRAL EVENTS #NT!
+
+#ARMY EVENTS #NT!
+saxony.751.t:0 "[FROM.GetNameDef] просит подписать военную конвенцию"
+saxony.751.d:0 "[FROM.GetNameDef] попросил подписать с нами военную конвенцию. Это будет отличная возможность для нас получить еще одного союзника, который может поддержать наше дело и наше видение сильной Германии! Нам только нужно решить, будут ли они полезны для нашего дела...".
+saxony.751.a:0 "Это прекрасная идея, подпишите конвенцию".
+saxony.751.b:0 "[ROOT.GetNameDef] не нуждается в таком соглашении".
+saxony.752.t:0 "[FROM.GetNameDef] соглашается на военную конвенцию"
+saxony.752.d:0 "[FROM.GetNameDef] согласился подписать с нами военную конвенцию! Отличные новости, ведь теперь мы нашли союзника, готового поддержать нас во время кризиса и войны. Вместе с [FROM.GetNameDef] у наших врагов не будет ни единого шанса победить нас!".
+saxony.752.a:0 "Отличные новости".
+saxony.753.t:0 "[FROM.GetNameDef] отвергает военную конвенцию"
+saxony.753.d:0 "[FROM.GetNameDef] отказался подписать с нами военную конвенцию! Они не думают, что мы будем им очень полезны, и они явно не хотят помогать нам, если мы будем втянуты в войну в Германии. Мы должны искать альтернативы, так как наша безопасность еще не гарантирована!".
+saxony.753.a:0 "Печальные новости".
+
+### MISSIONS & DECISIONS ### #NT!
+#Foreign Policy #NT!
+SAX_decision_category_foreign_policy:0 "Внешние дела Саксонии"
+SAX_decision_category_foreign_policy_desc:0 "Венский конгресс сильно ограничил наши возможности в отношении внешней политики. Пришло время решить, как мы хотим действовать дальше. Мы можем либо выбрать §Yзатягивание связей с [AUS.GetName]§!, либо оставить прошлое в прошлом и §Yзакрыть наши отношения с [PRS.GetName]§! Третьим вариантом было бы попытаться сохранить нейтралитет, но для успеха такого предприятия потребуется §Yсотрудничество с другими немецкими несовершеннолетними§!".
+SAX_decision_prusso_saxon_rapprochement:0 "Прусско-саксонское сближение"
+SAX_decision_prusso_saxon_rapprochement_desc:0 "В Германской конфедерации происходит перелом. В то время как старый гегемон, [AUS.GetName], медленно теряет позиции, власть и влияние, ее братский соперник, [PRS.GetName], вырос в истинно германскую державу и быстро модернизируется. Мы решили вновь обратиться к пруссакам, чтобы смягчить нашу зависимость от Австрии".
+SAX_decision_convince_the_people:0 "Убедить народ"
+SAX_decision_convince_the_people_desc:0 "Саксонский народ все еще страдает от потерь, которые мы понесли от рук пруссаков в 1815 году. Многие семьи были разорваны, а многие дворяне потеряли обширные территории на территории нынешней прусской провинции Саксония, к северу и востоку от нашей границы. Нам нужно убедить и примирить этих людей, если мы хотим, чтобы наше сближение было успешным".
+
+#Trias Policy #NT!
+
+########################################## #NT!
+#### German Trias - Balance of Power ##### #NT!
+########################################## #NT!
+
+SAX_Balance_of_Power_Trias:0 "The German Trias\n§RTHIS IS WORK IN PROGRESS§!" #NT!
+SAX_Balance_of_Power_Trias_active:0 "Legacy of German Particularism" #NT!
+SAX_Balance_of_Power_Trias_active_talks:0 "Talks in Progress" #NT!
+SAX_Balance_of_Power_Trias_beust_promoter:0 "Friedrich Ferdinand von Beust - Promoter of the Trias" #NT!
+SAX_BOP_Particularism:0 "Particularism" #NT!
+SAX_BOP_Cooperation:0 "Cooperation" #NT!
+SAX_BOP_Trias_Particularism_Dominant:0 "Particularism Dominant" #NT!
+SAX_BOP_Trias_Particularism_Prevalent:0 "Particularism Prevalent" #NT!
+SAX_BOP_Trias_Level_Playing_Field:0 "Level Playing Field" #NT!
+SAX_BOP_Trias_Cooperation_Prevalent:0 "Cooperation Prevalent" #NT!
+SAX_BOP_Trias_Cooperation_Dominant:0 "Cooperation Dominant" #NT!
+
+SAX_decision_category_trias_policy:0 "Политика Триаса"
+SAX_mission_trias_policy:0 "The Trias Policy" #NT!
+SAX_mission_trias_policy_desc:0 "As the Trias consists of the several German middle states, we will have to come to terms with the way the Trias shall be organised or what ideas of ours will be implemented in it. We will only have a chance to make the Trias work if we and the other German middle states are able to cooperate. Only then, we will be able to challenge §YPrussia§! and §YAustria§! for influence in Germany!\n§RWe need to act quickly to secure the support of the other German middle states, before the political realities in the German Confederation force our hand...§!" #NT!
+SAX_mission_trias_policy_trigger_tt:0 "§LThe other German middle states support our plan for closer cooperation:§!\n[SAX_mission_trias_policy_BAD_scripted]\n[SAX_mission_trias_policy_BAV_scripted]\n[SAX_mission_trias_policy_HAN_scripted]\n[SAX_mission_trias_policy_HES_scripted]\n[SAX_mission_trias_policy_HSD_scripted]\n[SAX_mission_trias_policy_WUR_scripted]\n\n" #NT!
+SAX_mission_trias_policy_BAD_supportive:0 "§Y[BAD.GetNameWithFlag]§! is §Gsupportive§!." #NT!
+SAX_mission_trias_policy_BAD_positive:0 "§Y[BAD.GetNameWithFlag]§! is §7cooperative§!." #NT!
+SAX_mission_trias_policy_BAD_cautious:0 "§Y[BAD.GetNameWithFlag]§! is §Ccautious§!." #NT!
+SAX_mission_trias_policy_BAD_negative:0 "§Y[BAD.GetNameWithFlag]§! is §Ropposed§!." #NT!
+SAX_mission_trias_policy_BAD_unknown:0 "§Y[BAD.GetNameWithFlag]§! is §Lundecided§!." #NT!
+SAX_mission_trias_policy_BAV_supportive:0 "§Y[BAV.GetNameWithFlag]§! is §Gsupportive§!." #NT!
+SAX_mission_trias_policy_BAV_positive:0 "§Y[BAV.GetNameWithFlag]§! is §7cooperative§!." #NT!
+SAX_mission_trias_policy_BAV_cautious:0 "§Y[BAV.GetNameWithFlag]§! is §Ccautious§!." #NT!
+SAX_mission_trias_policy_BAV_negative:0 "§Y[BAV.GetNameWithFlag]§! is §Ropposed§!." #NT!
+SAX_mission_trias_policy_BAV_unknown:0 "§Y[BAV.GetNameWithFlag]§! is §Lundecided§!." #NT!
+SAX_mission_trias_policy_HAN_supportive:0 "§Y[HAN.GetNameWithFlag]§! is §Gsupportive§!." #NT!
+SAX_mission_trias_policy_HAN_positive:0 "§Y[HAN.GetNameWithFlag]§! is §7cooperative§!." #NT!
+SAX_mission_trias_policy_HAN_cautious:0 "§Y[HAN.GetNameWithFlag]§! is §Ccautious§!." #NT!
+SAX_mission_trias_policy_HAN_negative:0 "§Y[HAN.GetNameWithFlag]§! is §Ropposed§!." #NT!
+SAX_mission_trias_policy_HAN_unknown:0 "§Y[HAN.GetNameWithFlag]§! is §Lundecided§!." #NT!
+SAX_mission_trias_policy_HES_supportive:0 "§Y[HES.GetNameWithFlag]§! is §Gsupportive§!." #NT!
+SAX_mission_trias_policy_HES_positive:0 "§Y[HES.GetNameWithFlag]§! is §7cooperative§!." #NT!
+SAX_mission_trias_policy_HES_cautious:0 "§Y[HES.GetNameWithFlag]§! is §Ccautious§!." #NT!
+SAX_mission_trias_policy_HES_negative:0 "§Y[HES.GetNameWithFlag]§! is §Ropposed§!." #NT!
+SAX_mission_trias_policy_HES_unknown:0 "§Y[HES.GetNameWithFlag]§! is §Lundecided§!." #NT!
+SAX_mission_trias_policy_HSD_supportive:0 "§Y[HSD.GetNameWithFlag]§! is §Gsupportive§!." #NT!
+SAX_mission_trias_policy_HSD_positive:0 "§Y[HSD.GetNameWithFlag]§! is §7cooperative§!." #NT!
+SAX_mission_trias_policy_HSD_cautious:0 "§Y[HSD.GetNameWithFlag]§! is §Ccautious§!." #NT!
+SAX_mission_trias_policy_HSD_negative:0 "§Y[HSD.GetNameWithFlag]§! is §Ropposed§!." #NT!
+SAX_mission_trias_policy_HSD_unknown:0 "§Y[HSD.GetNameWithFlag]§! is §Lundecided§!." #NT!
+SAX_mission_trias_policy_WUR_supportive:0 "§Y[WUR.GetNameWithFlag]§! is §Gsupportive§!." #NT!
+SAX_mission_trias_policy_WUR_positive:0 "§Y[WUR.GetNameWithFlag]§! is §7cooperative§!." #NT!
+SAX_mission_trias_policy_WUR_cautious:0 "§Y[WUR.GetNameWithFlag]§! is §Ccautious§!." #NT!
+SAX_mission_trias_policy_WUR_negative:0 "§Y[WUR.GetNameWithFlag]§! is §Ropposed§!." #NT!
+SAX_mission_trias_policy_WUR_unknown:0 "§Y[WUR.GetNameWithFlag]§! is §Lundecided§!." #NT!
+SAX_decision_develop_reform_agenda:0 "Develop a Reform Agenda" #NT!
+SAX_decision_develop_reform_agenda_desc:0 "" #NT!
+SAX_decision_notify_the_middle_states:0 "Уведомить средние государства Германии"
+SAX_decision_notify_the_middle_states_desc:0 "После унизительного поражения 1815 года Саксония едва выжила как суверенное государство, но дни международного влияния и славы прошли. Наш единственный шанс действовать более свободно - это совместная работа с теми несовершеннолетними немецкими государствами, которые достаточно велики, чтобы иметь значение, так называемыми средними государствами. Только коллективные действия могут уравновесить мощь Пруссии и Австрии. Мы проинформируем другие средние государства о наших намерениях".
+SAX_decision_notify_the_middle_states_complete_effect_tt:0 "§GМы уведомим другие средние государства Германии о наших планах попытаться провести реформу в Германской Конфедерации, чтобы испытать воду.§!\n\n"
+SAX_decision_notify_the_middle_states_remove_effect_tt:0 "§GЭффект от этого изменится в зависимости от количества положительных ответов, полученных нами к концу месяца.§!\n\n\n"
+SAX_decision_notify_the_middle_states_remove_effect_failure_tt:0 "Текущий прогноз:\n§RПопытка реформы, похоже, не имеет большинства в пользу.§!\n\n"
+SAX_decision_notify_the_middle_states_remove_effect_small_majority_tt:0 "Текущий прогноз:\n§YПопытка реформы, похоже, имеет незначительное большинство голосов.§!\n\n"
+SAX_decision_notify_the_middle_states_remove_effect_decent_majority_tt:0 "Текущий прогноз:\n§YПопытка реформы, кажется, имеет большинство в пользу.§!\n\n"
+SAX_decision_notify_the_middle_states_remove_effect_big_majority_tt:0 "Текущий прогноз:\n§GПопытка реформы, кажется, имеет решающее большинство в пользу.§!\n\n"
+SAX_decision_notify_the_middle_states_remove_effect_unanimity_tt:0 "Текущий прогноз:\n§GПопытка реформы, похоже, получила единогласную поддержку!§!\n\n"
+SAX_decision_notify_the_middle_states_BAD_positive:0 "§Y[BAD.GetNameWithFlag]§!: reacted §7positively§!." #NT!
+SAX_decision_notify_the_middle_states_BAD_cautious:0 "§Y[BAD.GetNameWithFlag]§!: reacted §Ccautiously§!." #NT!
+SAX_decision_notify_the_middle_states_BAD_negative:0 "§Y[BAD.GetNameWithFlag]§!: reacted §Rnegatively§!." #NT!
+SAX_decision_notify_the_middle_states_BAD_not_yet_reacted:0 "§Y[BAD.GetNameWithFlag]§!: has not yet reacted." #NT!
+SAX_decision_notify_the_middle_states_BAV_positive:0 "§Y[BAV.GetNameWithFlag]§!: reacted §7positively§!." #NT!
+SAX_decision_notify_the_middle_states_BAV_cautious:0 "§Y[BAV.GetNameWithFlag]§!: reacted §Ccautiously§!." #NT!
+SAX_decision_notify_the_middle_states_BAV_negative:0 "§Y[BAV.GetNameWithFlag]§!: reacted §Rnegatively§!." #NT!
+SAX_decision_notify_the_middle_states_BAV_not_yet_reacted:0 "§Y[BAV.GetNameWithFlag]§!: has not yet reacted." #NT!
+SAX_decision_notify_the_middle_states_HAN_positive:0 "§Y[HAN.GetNameWithFlag]§!: reacted §7positively§!." #NT!
+SAX_decision_notify_the_middle_states_HAN_cautious:0 "§Y[HAN.GetNameWithFlag]§!: reacted §Ccautiously§!." #NT!
+SAX_decision_notify_the_middle_states_HAN_negative:0 "§Y[HAN.GetNameWithFlag]§!: reacted §Rnegatively§!." #NT!
+SAX_decision_notify_the_middle_states_HAN_not_yet_reacted:0 "§Y[HAN.GetNameWithFlag]§!: has not yet reacted." #NT!
+SAX_decision_notify_the_middle_states_HES_positive:0 "§Y[HES.GetNameWithFlag]§!: reacted §7positively§!." #NT!
+SAX_decision_notify_the_middle_states_HES_cautious:0 "§Y[HES.GetNameWithFlag]§!: reacted §Ccautiously§!." #NT!
+SAX_decision_notify_the_middle_states_HES_negative:0 "§Y[HES.GetNameWithFlag]§!: reacted §Rnegatively§!." #NT!
+SAX_decision_notify_the_middle_states_HES_not_yet_reacted:0 "§Y[HES.GetNameWithFlag]§!: has not yet reacted." #NT!
+SAX_decision_notify_the_middle_states_HSD_positive:0 "§Y[HSD.GetNameWithFlag]§!: reacted §7positively§!." #NT!
+SAX_decision_notify_the_middle_states_HSD_cautious:0 "§Y[HSD.GetNameWithFlag]§!: reacted §Ccautiously§!." #NT!
+SAX_decision_notify_the_middle_states_HSD_negative:0 "§Y[HSD.GetNameWithFlag]§!: reacted §Rnegatively§!." #NT!
+SAX_decision_notify_the_middle_states_HSD_not_yet_reacted:0 "§Y[HSD.GetNameWithFlag]§!: has not yet reacted." #NT!
+SAX_decision_notify_the_middle_states_WUR_positive:0 "§Y[WUR.GetNameWithFlag]§!: reacted §7positively§!." #NT!
+SAX_decision_notify_the_middle_states_WUR_cautious:0 "§Y[WUR.GetNameWithFlag]§!: reacted §Ccautiously§!." #NT!
+SAX_decision_notify_the_middle_states_WUR_negative:0 "§Y[WUR.GetNameWithFlag]§!: reacted §Rnegatively§!." #NT!
+SAX_decision_notify_the_middle_states_WUR_not_yet_reacted:0 "§Y[WUR.GetNameWithFlag]§!: has not yet reacted." #NT!
+SAX_decision_persuade_BAD:0 "Persuade the [BAD.GetName]" #NT!
+SAX_decision_persuade_BAD_desc:0 "[BAD.GetNameDef] has expressed concerns with our reform agenda, they're currently very unlikely to support our plan. Perhaps we could try to persuade them through our diplomatic channels. Having them on our side could surely prove to be important." #NT!
+SAX_decision_persuade_BAD_effect_tt:0 "§Y[BAD.GetNameDef] will no longer reject the reform idea.§!" #NT!
+SAX_decision_persuade_BAV:0 "Persuade the [BAV.GetName]" #NT!
+SAX_decision_persuade_BAV_desc:0 "[BAV.GetNameDef] has expressed concerns with our reform agenda, they're currently very unlikely to support our plan. Perhaps we could try to persuade them through our diplomatic channels. Having them on our side could surely prove to be important." #NT!
+SAX_decision_persuade_BAV_effect_tt:0 "§Y[BAV.GetNameDef] will no longer reject the reform idea.§!" #NT!
+SAX_decision_persuade_HAN:0 "Persuade the [HAN.GetName]" #NT!
+SAX_decision_persuade_HAN_desc:0 "[HAN.GetNameDef] has expressed concerns with our reform agenda, they're currently very unlikely to support our plan. Perhaps we could try to persuade them through our diplomatic channels. Having them on our side could surely prove to be important." #NT!
+SAX_decision_persuade_HAN_effect_tt:0 "§Y[HAN.GetNameDef] will no longer reject the reform idea.§!" #NT!
+SAX_decision_persuade_HES:0 "Persuade the [HES.GetName]" #NT!
+SAX_decision_persuade_HES_desc:0 "[HES.GetNameDef] has expressed concerns with our reform agenda, they're currently very unlikely to support our plan. Perhaps we could try to persuade them through our diplomatic channels. Having them on our side could surely prove to be important." #NT!
+SAX_decision_persuade_HES_effect_tt:0 "§Y[HES.GetNameDef] will no longer reject the reform idea.§!" #NT!
+SAX_decision_persuade_HSD:0 "Persuade the [HSD.GetName]" #NT!
+SAX_decision_persuade_HSD_desc:0 "[HSD.GetNameDef] has expressed concerns with our reform agenda, they're currently very unlikely to support our plan. Perhaps we could try to persuade them through our diplomatic channels. Having them on our side could surely prove to be important." #NT!
+SAX_decision_persuade_HSD_effect_tt:0 "§Y[HSD.GetNameDef] will no longer reject the reform idea.§!" #NT!
+SAX_decision_persuade_WUR:0 "Persuade the [WUR.GetName]" #NT!
+SAX_decision_persuade_WUR_desc:0 "[WUR.GetNameDef] has expressed concerns with our reform agenda, they're currently very unlikely to support our plan. Perhaps we could try to persuade them through our diplomatic channels. Having them on our side could surely prove to be important." #NT!
+SAX_decision_persuade_WUR_effect_tt:0 "§Y[WUR.GetNameDef] will no longer reject the reform idea.§!" #NT!
+SAX_decision_convince_BAD:0 "Убедить [BAD.GetName] Принять наши планы реформ"
+SAX_decision_convince_BAD_desc:0 "[BAD.GetNameDef] остается нерешенным в отношении наших реформ. Мы должны отправить дипломатического посланника, чтобы попытаться убедить их в наших планах и повысить вероятность того, что они поддержат нас."
+SAX_decision_convince_BAV:0 "Убедить [BAV.GetName] Принять наши планы реформ"
+SAX_decision_convince_BAV_desc:0 "[BAV.GetNameDef] остается нерешенным в отношении наших реформ. Мы должны отправить дипломатического посланника, чтобы попытаться убедить их в наших планах и повысить вероятность того, что они поддержат нас."
+SAX_decision_convince_HAN:0 "Убедить [HAN.GetName] Принять наши планы реформ"
+SAX_decision_convince_HAN_desc:0 "[HAN.GetNameDef] остается нерешенным в отношении наших реформ. Мы должны отправить дипломатического посланника, чтобы попытаться убедить их в наших планах и повысить вероятность того, что они поддержат нас."
+SAX_decision_convince_HES:0 "Убедить [HES.GetName] Принять наши планы реформ"
+SAX_decision_convince_HES_desc:0 "[HES.GetNameDef] остается нерешенным в отношении наших реформ. Мы должны отправить дипломатического посланника, чтобы попытаться убедить их в наших планах и повысить вероятность того, что они поддержат нас."
+SAX_decision_convince_HSD:0 "Убедить [HSD.GetName] Принять наши планы реформ"
+SAX_decision_convince_HSD_desc:0 "[HSD.GetNameDef] остается нерешенным в отношении наших реформ. Мы должны отправить дипломатического посланника, чтобы попытаться убедить их в наших планах и повысить вероятность того, что они поддержат нас."
+SAX_decision_convince_WUR:0 "Убедить [WUR.GetName] Принять наши планы реформ"
+SAX_decision_convince_WUR_desc:0 "[WUR.GetNameDef] остается нерешенным в отношении наших реформ. Мы должны отправить дипломатического посланника, чтобы попытаться убедить их в наших планах и повысить вероятность того, что они поддержат нас."
+SAX_decision_tighten_bonds_BAD:0 "Затяните скрепления с помощью [BAD.GetName]"
+SAX_decision_tighten_bonds_BAD_desc:0 "[BAD.GetNameDef] выражает готовность сотрудничать в вопросе нашей программы реформ. Мы должны использовать это для дальнейшего укрепления связей между нашими правительствами, чтобы сделать сотрудничество более вероятным."
+SAX_decision_tighten_bonds_BAV:0 "Затяните скрепления с помощью [BAV.GetName]"
+SAX_decision_tighten_bonds_BAV_desc:0 "[BAV.GetNameDef] выражает готовность сотрудничать в вопросе нашей программы реформ. Мы должны использовать это для дальнейшего укрепления связей между нашими правительствами, чтобы сделать сотрудничество более вероятным."
+SAX_decision_tighten_bonds_HAN:0 "Затяните скрепления с помощью [HAN.GetName]"
+SAX_decision_tighten_bonds_HAN_desc:0 "[HAN.GetNameDef] выражает готовность сотрудничать в вопросе нашей программы реформ. Мы должны использовать это для дальнейшего укрепления связей между нашими правительствами, чтобы сделать сотрудничество более вероятным."
+SAX_decision_tighten_bonds_HES:0 "Затяните скрепления с помощью [HES.GetName]"
+SAX_decision_tighten_bonds_HES_desc:0 "[HES.GetNameDef] выражает готовность сотрудничать в вопросе нашей программы реформ. Мы должны использовать это для дальнейшего укрепления связей между нашими правительствами, чтобы сделать сотрудничество более вероятным."
+SAX_decision_tighten_bonds_HSD:0 "Затяните скрепления с помощью [HSD.GetName]"
+SAX_decision_tighten_bonds_HSD_desc:0 "[HSD.GetNameDef] выражает готовность сотрудничать в вопросе нашей программы реформ. Мы должны использовать это для дальнейшего укрепления связей между нашими правительствами, чтобы сделать сотрудничество более вероятным."
+SAX_decision_tighten_bonds_WUR:0 "Затяните скрепления с помощью [WUR.GetName]"
+SAX_decision_tighten_bonds_WUR_desc:0 "[WUR.GetNameDef] выражает готовность сотрудничать в вопросе нашей программы реформ. Мы должны использовать это для дальнейшего укрепления связей между нашими правительствами, чтобы сделать сотрудничество более вероятным."
+SAX_decision_trias_diplomatic_mission_flag:0 " §RДипломатическая миссия в настоящее время выполняется.§!"
+SAX_decision_attempt_to_reform_the_confederations_judiciary:0 "Attempt to Reform the German Confederation's Judiciary" #NT!
+SAX_decision_attempt_to_reform_the_confederations_judiciary_desc:0 "Our gathering at Wurzburg has shown that there seems to be support for a judiciary reform of the German Confederation. We should table an amendment at the Bundestag in Frankfurt to see whether the proposal can gather enough support from the members of the Confederation." #NT!
+SAX_decision_attempt_to_reform_the_confederations_judiciary_effect_tt:0 "§YWe will present the judiciary reform proposal in Frankfurt. The chances for success are small, but our efforts are likely to have a positive effect on the other German minors anyway.§!\n" #NT!
+SAX_decision_convene_second_wurzburg_conference:0 "Convene the Second Würzburg Conference" #NT!
+SAX_decision_convene_second_wurzburg_conference_desc:0 "" #NT!
+SAX_decision_convene_second_wurzburg_conference_effect_tt:0 "§YWe will invite the German middle states to a second conference discussing a possible reform of the German Confederation in Würzburg.§!\n\n" #NT!
+SAX_decision_convene_third_wurzburg_conference:0 "Convene the Third Würzburg Conference" #NT!
+SAX_decision_convene_third_wurzburg_conference_desc:0 "" #NT!
+SAX_decision_convene_third_wurzburg_conference_effect_tt:0 "§YWe will invite the German middle states to a third conference discussing a possible reform of the German Confederation in Würzburg.§!\n\n" #NT!
+SAX_third_wurzburg_conference_flag:0 "The §YThird Würzburg Conference§! has ended." #NT!
+SAX_decision_attempt_to_reform_the_confederations_war_constitution:0 "Attempt to Reform the German Confederation's War Constitution" #NT!
+SAX_decision_attempt_to_reform_the_confederations_war_constitution_desc:0 "The second Trias conference in Würzburg brought to light some of the concerns of the German middle states regarding the Federation's War Constitution. We should try to remedy the grievances discussed by submitting a constitutional amendment to the Bundestag in Frankfurt." #NT!
+SAX_decision_attempt_to_reform_the_confederations_war_constitution_effect_tt:0 "§YWe will present the reform proposal in Frankfurt. Although the chances for success are small, our efforts are likely to have a positive effect on the other German minors anyway.§!\n" #NT!
+SAX_decision_propose_a_comprehensive_constitutional_reform:0 "Propose a Comprehensive Constitutional Reform" #NT!
+SAX_decision_propose_a_comprehensive_constitutional_reform_desc:0 "The time has come to propose a more comprehensive constitutional reform to the Trias states. The plan would provide a more flexible and powerful Federal Assembly whose delegates would be voted in by the state parliaments. This way they could propose laws with more legitimacy. The executive power of the Confederation would also be tripartite following a successful reform, with a third alternating monarch joining the Emperor of Austria and the King of Prussia at the head of the German Confederation." #NT!
+SAX_decision_propose_a_comprehensive_constitutional_reform_effect_tt:0 "§YWe will present the layout for a more comprehensive constitutional reform to the other German middle states. If all of them agree, we can present the plan to the Federal Assembly in Frankfurt.§!\n" #NT!
+SAX_decision_present_the_constitutional_reform_proposal_in_frankfurt:0 "Present the Constitutional Reform Proposal in Frankfurt" #NT!
+SAX_decision_present_the_constitutional_reform_proposal_in_frankfurt_desc:0 "Now that we've secured support for our comprehensive reform proposal among the Trias, we should present it to the Federal Assembly in Frankfurt. Austria and Prussia are very likely to reject the proposal, but they will be faced with united opposition from the German middle states in that case." #NT!
+SAX_decision_present_the_constitutional_reform_proposal_in_frankfurt_effect_tt:0 "§YWe will present the reform proposal in Frankfurt. Although the chances for success are slim, the combined efforts of the German middle states speak for themselves.§!\n" #NT!
+SAX_decision_attempt_to_sway_the_sceptics:0 "Attempt to Sway the Sceptics" #NT!
+SAX_decision_attempt_to_sway_the_sceptics_desc:0 "Some of the German middle states have expressed their reservations regarding our reform plan. Perhaps it would be wise to make some changes to the proposal to convince them to support it in Frankfurt?" #NT!
+SAX_decision_attempt_to_sway_the_sceptics_effect_tt:0 "§YWe will make changes to proposal in an attempt to sway the sceptics among the German middle states.§!\n" #NT!
+SAX_decision_develop_trias_idea:0 "Развивать идею "Триас"".
+SAX_decision_develop_trias_idea_desc:0 "Наша программа реформ вращается вокруг идеи о том, чтобы крупнейшие из несовершеннолетних немецких государств, так называемые средние земли, работали более тесно вместе, почти как если бы они были одной страной. Такое сотрудничество создало бы в Германии своего рода третью силу, которая могла бы выступить в качестве противовеса постоянной борьбе за власть между [PRS.GetName] и [AUS.GetName], создав, таким образом, немецкий триас. Если все немецкие миноры будут полагаться и действовать только в своих собственных интересах, это может стать концом их независимости...".
+SAX_decision_develop_trias_idea_complete_effect_tt:0 "§YПлан реформ для более тесного сотрудничества триасов и лучшего баланса в Германской Конфедерации будет изложен в письменном виде.§!"
+SAX_decision_develop_trias_idea_remove_effect_tt:0 "§YМы сможем уточнить наши планы в будущем.§!"
+SAX_decision_refine_trias_idea:0 "Уточнить идею триаса"
+SAX_decision_refine_trias_idea_desc:0 "После создания идеи Триаса, мы должны посоветоваться с нашими дипломатическими сотрудниками, чтобы убедиться, что наши планы осуществимы. Возможно, у них есть интересные предложения, чтобы уточнить нашу программу и сделать ее более вероятной для успеха."
+SAX_decision_refine_trias_idea_complete_effect_tt:0 "§YПлан реформ будет доработан и адаптирован с помощью нашего дипломатического корпуса.§!"
+SAX_decision_refine_trias_idea_remove_effect_tt:0 "§YВозможно, нам придется внести дальнейшие поправки, чтобы успокоить страны, все еще находящиеся на заборе.§!"
+SAX_decision_appease_skeptics:0 "Внести поправки, чтобы успокоить скептиков"
+SAX_decision_appease_skeptics_desc:0 "Несмотря на все наши дипломатические усилия, есть еще некоторые средние немецкие государства, которые скептически относятся к нашим планам реформ в Германской Конфедерации. Мы могли бы попытаться внести дополнительные поправки, чтобы успокоить их, чтобы повысить вероятность получения их поддержки."
+SAX_decision_appease_skeptics_complete_effect_tt:0 "§YПлан реформ будет еще раз адаптирован, чтобы успокоить скептиков среди других средних земель Германии.§!".
+SAX_decision_prepare_a_trias_conference_in_dresden:0 "Prepare a Trias Conference in Dresden" #NT!
+SAX_decision_prepare_a_trias_conference_in_dresden_desc:0 "" #NT!
+SAX_decision_prepare_a_trias_conference_in_dresden_effect_tt:0 "§YWe will make the necessary arrangements for a gathering of the Trias states in Dresden.§!" #NT!
+SAX_decision_convene_the_trias_conference:0 "Convene the Trias Conference" #NT!
+SAX_decision_convene_the_trias_conference_desc:0 "" #NT!
+SAX_decision_convene_the_trias_conference_effect_tt:0 "§YWe will invite the Trias states to a conference in Dresden, discussing the possible foundations of a much closer collaboration.§!\n\n" #NT!
+
+SAX_decision_trias_conference_ready_effect_tt:0 "§YМы готовы пригласить средние земли Германии на конференцию.§!"
+
+#Domestic Policy #NT!
+SAX_decision_category_domestic_policy:0 "Внутренняя политика Саксонии"
+SAX_decision_category_domestic_policy_desc:0 "Потрясения, вызванные §YМартовской революцией§! оставили Саксонию в §Yсостоянии хаоса§!, с монархической §Yконтрреволюцией, последовавшей за революцией§! которая разгорелась на улицах. Теперь, когда внутренняя ситуация успокоилась, а правление монарха укрепилось§!, пришло время определить политический путь Саксонии на будущее."
+SAX_decision_grant_partial_amnesty_to_richard_wagner:0 "Предоставить частичную амнистию Рихарду Вагнеру"
+SAX_decision_grant_partial_amnesty_to_richard_wagner_desc:0 "Конечно, было неприятным сюрпризом узнать, что известный композитор Рихард Вагнер участвовал в Майском восстании в Дрездене в 1849 году, и его изгнание было безальтернативным. Теперь, когда пыль улеглась и он выглядит наказанным, возможно, пришло время объявить Вагнеру частичную амнистию, которая позволила бы ему снова легально въехать на территорию Германии."
+SAX_decision_grant_partial_amnesty_to_richard_wagner_effect_tt:0 "§GЭто может иметь положительные последствия в будущем...§!".
+SAX_decision_grant_full_amnesty_to_richard_wagner:0 "Предоставить полную амнистию Рихарду Вагнеру"
+SAX_decision_grant_full_amnesty_to_richard_wagner_desc:0 "После частичной амнистии, объявленной Его Величеством королем Иоганном Саксонским, Рихард Вагнер теперь снова живет в Германии. Саксония - родина Вагнера, и было бы жестоко отказывать ему в посещении места его рождения еще долгое время. Кроме того, в будущем мы могли бы извлечь выгоду из его художественного гения".
+
+#Foreign Arms Deals #NT!
+SAX_decision_category_obtain_foreign_equipment:0 "Сделки с иностранным оружием"
+SAX_decision_category_obtain_foreign_equipment_desc:0 "У нас могут быть некоторые варианты укрепления нашей армии, например, призыв большего количества мужчин, но чего нам не хватает, так это оружейных заводов. Из-за этого нам приходится смотреть на соседей вокруг нас и покупать их более качественное оружие."
+SAX_decision_buy_rifles_from_liege_factories:0 "Купить винтовки на заводах Льежа".
+SAX_decision_buy_rifles_from_liege_factories_desc:0 "Если мы хотим купить качественное оружие, возможно, нам следует смотреть не на север или юг, а на запад. Находясь в тени Пруссии и Австрии, бельгийцы также способны разрабатывать хорошее оружие на своей фабрике в Льеже. Нам следует присмотреться к ним и купить их. Это поможет нам не попасть в зависимость от одной державы, продающей нам оружие".
+SAX_decision_buy_austrian_rifles:0 "Купить винтовки у Австрии".
+SAX_decision_buy_austrian_rifles_desc:0 "Австрия - наш большой партнер и в то же время самый яростный союзник. Покупка у них армейского снаряжения - это само собой разумеющееся, особенно если принять во внимание их статус "великой державы" и тот факт, что мы можем получить огромную выгоду от торговли с ними в денежном выражении, поскольку у нас хорошие отношения друг с другом."
+SAX_decision_buy_prussian_cannons:0 "Купить пушки у Пруссии"
+SAX_decision_buy_prussian_cannons_desc:0 "Хотя у нас с нашим северным соседом неспокойная история, им удалось постоянно совершенствовать и реформировать свою армию, что возвело их в статус великой державы в Европе, в то время как наша армия и государство находились в упадке с 1815 года. Мы определенно выиграем в качестве пушек, если решим их импортировать, даже если они будут из одной из наших величайших вражд".
+
+#Military Convention #NT!
+SAX_decision_category_military_convention:0 "Военная конвенция"
+SAX_decision_category_military_convention_desc:0 "Ситуация в Германской Конфедерации ухудшается. В то время как австро-прусский дуализм был гарантией мира и стабильности в Германии, ситуация с Шлезвиг-Гольштейном способна вызвать открытую конфронтацию между Пруссией и Австрией. Мы должны стремиться к подписанию военной конвенции, которая могла бы спасти нас от нападения в такой войне."
+SAX_decision_convention_with_prussia:0 "Попросить о военной конвенции с Пруссией".
+SAX_decision_convention_with_prussia_desc:0 "Наши отношения могут быть не самыми лучшими. И наше прошлое может быть неприятным. Но в то же время, Пруссия улучшила свою армию с тех пор, как Бисмарк стал премьер-министром Пруссии, и, вероятно, уже превосходит военный потенциал Австрии. Хотя мы, безусловно, потеряем право на нашу бывшую территорию Северной Саксонии, союз с Пруссией может позволить нам сохранить независимость. Это может быть больно, но подписание военной конвенции с Пруссией - лучший вариант, который у нас есть".
+SAX_decision_convention_with_austria:0 "Попросить о военной конвенции с Австрией".
+SAX_decision_convention_with_austria_desc:0 "Причина, по которой мы должны выбрать Австрию в качестве нашего партнера, проста. Они не только хотят сохранить нашу независимость, в отличие от Пруссии, которая несколько раз, например, в 1815 году, хотела нас аннексировать! Австрия также является хорошим партнером для нас в течение длительного времени, и это более крупная страна, чем Пруссия, с более сильной армией. В то время как Пруссия уже давно реформировала свою армию, Бисмарк не сможет бросить вызов могущественной Австрии!".
+SAX_decision_intensify_convention:0 "Усилить военную конвенцию"
+SAX_decision_intensify_convention_desc:0 "Мы скоро столкнемся с открытой войной в Германии, если никому не удастся деэскалировать ситуацию. Готовясь к худшему, мы должны использовать эту возможность, чтобы усилить нашу военную конвенцию, так как кажется все более очевидным, что мы подвергнемся нападению во время войны в Германии."
+
+#Economy #NT!
+SAX_decision_category_economy:0 "Экономическое развитие Саксонии"
+SAX_decision_category_economy_desc:0 "Поскольку нам удалось провести индустриализацию быстрее, чем другим, §YСаксония§! стала одним из экономических центров Германской Конфедерации. Но если мы хотим остаться на этой позиции, нам нужно продолжать индустриализацию и модернизацию!".
+SAX_mission_railway_expansion:0 "Расширить сеть железных дорог"
+SAX_mission_railway_expansion_desc:0 "Чтобы сохранить наше доминирование в промышленном секторе, необходимо построить еще больше железных дорог внутри Саксонии, чтобы убедить других инвестировать в нас еще больше и ускорить транспортировку столь необходимых материалов в ткани."
+SAX_mission_railway_expansion_trigger_tt_1:0 "£railroad_connection_texticon Имеет железнодорожное сообщение между\n §YХемницом§! и §YЦвиккау§!\n"
+SAX_mission_railway_expansion_trigger_tt_2:0 "£railroad_connection_texticon Имеет железнодорожное сообщение между\n §YДрезденом§! и §YФрайбергом§!\n"
+SAX_decision_railway_upgrade:0 "Обновление железной дороги"
+SAX_decision_railway_upgrade_desc:0 "Наша железнодорожная сеть уже не справляется с задачей поддержки современной промышленности. Ее модернизация и расширение не только решат эту проблему, но и предоставят нашей промышленности важные контракты и возможность расширения торговли."
+SAX_decision_expand_resource_output:0 "Расширить выход ресурсов"
+SAX_decision_expand_resource_output_desc:0 "Несмотря на то, что с начала этого века мы достигли индустриализации, нам по-прежнему необходимо добывать природные ресурсы, которые мы можем использовать для дальнейшей переработки в наших тканях. Мы должны делать это на наших государственных шахтах и металлургических заводах".
+SAX_decision_expand_mining_districts:0 "Расширить горные районы"
+SAX_decision_expand_mining_districts_desc:0 "Поскольку мы смягчили Бергрегал, теперь мы можем решить, где именно должны быть созданы шахты. Некоторые политики считают, что лучшей идеей будет расширение существующих горнодобывающих районов, а открытие новых шахт поможет нашей экономике и привлечет новых инвесторов."
+SAX_decision_leipzig_plagwitz_city_development:0 "Развитие города Лейпциг-Плагвиц"
+SAX_decision_leipzig_plagwitz_city_development_desc:0 "В 1854 году адвокат Карл Гейне начал покупать недвижимость в Плагвице. С учетом того, что в настоящее время строится необходимая инфраструктура, мы должны искать подходящие компании, которые будут открывать филиалы и работать из Плагвица."
+SAX_decision_meissner_porzellan:0 "Meißner Porzellan"
+SAX_decision_meissner_porzellan_desc:0 ""Meißner Porzellan", ранее называвшаяся "Königlich-Polnische und Kurfürstlich-Sächsische Porzellanmanufaktur", является государственной компанией, отвечающей за производство фарфоровых изделий. Существуют планы по переносу производства из "Альбрехтсбурга" на фабрику в Тибиштале, коммуне Майсен. Мы должны поддержать компанию в этом, так как это позволит им более рационально организовать рабочие процессы, тем самым повысив уровень производства, от чего мы получим прибыль за счет увеличения возможных продаж".
+SAX_decision_spiegelglas_friedrichsthal:0 "Spiegelglashütte Friedrichsthal"
+SAX_decision_spiegelglas_friedrichsthal_desc:0 ""Spiegelglashütte Friedrichsthal" был открыт в начале 18 века. Причиной его открытия было желание Саксонии стать независимой от дорогостоящего импорта иностранного стекла. Она действовала большую часть времени до 1815 года, с небольшими перерывами между ними. С 1783 года она находилась в государственной собственности до 1815 года, когда нам пришлось уступить Фридрихсталь и другие части Лаузица Пруссии."
+SAX_decision_enact_free_enterprise:0 "Ввести свободное предпринимательство"
+SAX_decision_enact_free_enterprise_desc:0 "We will need to adjust our laws in order to attract investors, as we have too harsh laws currently, which hamper the development of our economy. Liberialising the market is one thing we could do, as it would make us more attractive for investors."
+SAX_decision_establish_an_industrial_code:0 "Установить промышленный код"
+SAX_decision_establish_an_industrial_code_desc:0 "Установив промышленный кодекс, мы можем дать нашим предприятиям правовую определенность. Это будет мешать им делать то, чего мы не хотим, но в долгосрочной перспективе это повысит их инновационность и компенсирует проблемы в краткосрочной перспективе".
+SAX_decision_attract_foreign_businesses:0 "Привлекать иностранные предприятия"
+SAX_decision_attract_foreign_businesses_desc:0 "Если мы хотим быть успешными на международном рынке, а не только на немецком, мы должны стремиться привлечь иностранных инвесторов. Тогда они могли бы производить продукцию, предназначенную для заграницы, от чего мы получили бы прибыль за счет новых рабочих мест и еще больше прибыли, которую мы получаем от налогообложения."
+SAX_decision_chemnitzer_actien_spinnerei:0 "Chemnitzer Actien-Spinnerei"
+SAX_decision_chemnitzer_actien_spinnerei_desc:0 "Хемницкая прядильня" была открыта в начале 18 века в связи с высоким спросом на пряжу в саксонской текстильной промышленности. Финансируемая двумя банками и некоторыми торговцами, фабрика стала крупнейшей в Саксонии, когда было открыто около 60.000 веретен и 1.000 рабочих. Свое название она носит благодаря тому, что компания, созданная для этой ткани, является "Aktiengesellschaft", государственным кооперативом."
+SAX_decision_plauen_embroidery_industry:0 "Плауенская вышивальная промышленность"
+SAX_decision_plauen_embroidery_industry_desc:0 "Плауэн - это место в Саксонии, где расположена вышивальная промышленность. Во время индустриализации этот промышленный сектор был оснащен машинами, что в свою очередь повысило уровень производства. Плауэн стал одним из промышленных центров Саксонии. В середине 18 века ткань была модернизирована с помощью дальнейшей механизации. С дальнейшими проектами, касающимися Плауэна, такими как новые железные дороги от и до него, промышленность Саксонии будет только выигрывать!".
+SAX_decision_chemnitzer_werkzeugmaschinenfabrik:0 "Chemnitzer Werkzeugmaschinenfabrik"
+SAX_decision_chemnitzer_werkzeugmaschinenfabrik_desc:0 "Chemnitzer Werkzeugmaschinenfabrik" была открыта Иоганном Циммерманом в 1852 году. Первоначально копируя английские машины, компания начала производить собственные машины после открытия нового завода в 1854 году. Благодаря своему высокому качеству "Werkzeugmaschinenfabrik" будет отличным партнером в будущем. Поддерживая их, мы не сможем сделать ничего плохого".
+SAX_decision_saxon_maschinenfabrik:0 "Sächsische Maschinenfabrik"
+SAX_decision_saxon_maschinenfabrik_desc:0 "Открытая в 1837 году, "Sächsische Maschinenfabrik" специализировалась в различных отраслях промышленности. С 1848 года основное внимание уделяется строительству и обслуживанию паровозов. Королевские саксонские железные дороги являются их клиентом, поэтому у нас уже сложились отношения с этой компанией. И поскольку у нас не было никаких проблем с их локомотивами с самого начала сотрудничества, нет причин отменять наши заказы. Мы должны поддержать наших верных партнеров из "Maschinenfabrik" и сохранить наши нынешние отношения!".
+SAX_industry_development_ongoing_effect_tt:0 "§GМы начнем процесс промышленного развития.§!\n\n§RПока он длится, мы не можем инвестировать в другие отрасли.§!\n"
+SAX_industry_development_ongoing_flag:0 " §ԌПроцесс промышленного развития продолжается§!"
+SAX_decision_support_adca:0 "Поддержать ADCA"
+SAX_decision_support_adca_desc:0 "Allgemeine Deutsche Credit-Anstalt" был основан в 1856 году и является саксонским банком. Они являются символом силы Саксонии в торговом и финансовом секторе и хорошим партнером, когда речь идет об инвестициях. Мы должны поддерживать их, так как однажды они могут оказаться полезными для нас, если у нас возникнут финансовые проблемы".
+SAX_decision_strenghten_leipzig_trade_fair:0 "Укрепить Лейпцигскую торговую ярмарку".
+SAX_decision_strenghten_leipzig_trade_fair_desc:0 "Лейпцигская ярмарка получает прибыль от промышленной революции и расширения железнодорожной системы, так как все больше и больше торговцев могут посетить ярмарку и представить свои новейшие продукты. Однако это также означает, что в наших залах почти не осталось мест для новых торговцев. Мы должны найти решение этой проблемы...".
+SAX_decision_found_saxon_bank_dresden:0 "Найден Sächsische Bank zu Dresden".
+SAX_decision_found_saxon_bank_dresden_desc:0 "Способ укрепить нашу экономику и другие части общества - открыть банк, способный выдавать различные кредиты компаниям и инвесторам. К счастью для нас, некоторые бизнесмены выразили заинтересованность в открытии такого банка. Если мы поможем им денежными льготами, мы сможем фактически укрепить нашу собственную экономику и будем иметь банк, который связан с нами".
+SAX_financial_investment_ongoing_effect_tt:0 "§GМы начнем процесс финансовых инвестиций.§!\n\n§RПока он длится, мы не можем инвестировать в другие предприятия.§!\n"
+SAX_financial_investment_ongoing_flag:0 " §ԌФинансовые инвестиции в стадии реализации§!"
+
+### FOCUS TREE ### #NT!
+saxony_focus:0 "Саксонское Дерево Фокусов"
+
+#Foreign Policy #NT!
+SAX_focus_our_place_in_germany:0 "Место Саксонии в Германии"
+SAX_focus_our_place_in_germany_desc:0 "Саксония находится в проблемном месте. Находясь между двумя крупными немецкими государствами, Пруссией и Австрией, мы почти наверняка должны присоединиться к одному из них, чтобы сохранить свою независимость. Мы должны принять решение быстро, поскольку потенциал для конфликта растет с каждым днем".
+SAX_focus_prusso_saxon_relationship:0 "Прусско-саксонские отношения"
+SAX_focus_prusso_saxon_relationship_desc:0 "Наши отношения с Пруссией были, мягко говоря, непростыми. Изначально союзники, поскольку мы оба - протестантские государства, Пруссия давно превратилась во врага. Они даже украли нашу территорию, когда мы перешли на их сторону! Мы просто не можем доверять Пруссии".
+SAX_focus_deepen_rift:0 "Углубить разлом"
+SAX_focus_deepen_rift_desc:0 "Наши сложные отношения с Пруссией были вызваны ими, поэтому у нас нет причин отказываться от каких-либо наших претензий или первыми отказываться от своей позиции в отношении определенных событий. Это они должны сделать первый шаг! А если они хотят этого не делать, то, возможно, нам следует просто быть в оппозиции против их империалистических агитаций!".
+SAX_focus_deepen_rift_trigger_tt:0 "Мы решили идти по пути оппозиции по отношению к Пруссии."
+SAX_focus_claim_former_saxon_lands:0 "Претендовать на бывшие саксонские земли".
+SAX_focus_claim_former_saxon_lands_desc:0 "Пруссия незаслуженно украла наши земли на Венском конгрессе в 1815 году. Мы сражались на их стороне против Франции, так почему для нас должно быть приемлемо потерять какую-либо территорию? Мы имеем полное право требовать наши территории, захваченные ими в 1815 году!".
+SAX_focus_mend_divide:0 "Устранить раскол"
+SAX_focus_mend_divide_desc:0 "Даже если Пруссия имела амбиции аннексировать нас во время Венского конгресса, или, наконец, захватила часть наших территорий, мы оба все еще являемся частью Германской Конфедерации, и нам необходимо сотрудничать. Кроме того, такие проекты, как "Союз", показали, что мы оба можем сотрудничать, поэтому ничто не стоит на пути сотрудничества между нами. В конце концов, кто-то должен сделать первый шаг".
+SAX_focus_mend_divide_trigger_tt:0 "Мы решили идти по пути сближения с Пруссией".
+SAX_focus_improve_relations_prs:0 "Улучшить отношения с Пруссией".
+SAX_focus_improve_relations_prs_desc:0 "Нам удалось вновь наладить отношения с Пруссией, и они тоже проявили интерес к расширению наших отношений и их улучшению для повышения стабильности в Германии. Ради общего блага мы продолжим наш путь!".
+SAX_focus_attempt_to_reform_confederation:0 "Попытка реформировать Конфедерацию"
+SAX_focus_attempt_to_reform_confederation_desc:0 "Германская конфедерация - это конфедерация, которая не работает в ее нынешнем состоянии, поскольку Пруссии и Австрии удается обойти ее почти везде. Если мы хотим иметь функционально работающую конфедерацию, где немецкие государства могут быть уверены в сотрудничестве и ощущать естественное единство, реформы неизбежны! Мы должны добиться дальнейшей централизации и создания "Бундестага", в который войдут и другие немецкие земли, например, земли из "Триаса"".
+SAX_focus_legacy_of_four_kings_alliance:0 "Legacy of the Four Kings' Alliance" #NT!
+SAX_focus_legacy_of_four_kings_alliance_desc:0 "" #NT!
+SAX_focus_legacy_of_bamberg_conference:0 "Наследие Бамбергской конференции"
+SAX_focus_legacy_of_bamberg_conference_desc:0 "Бамбергская конференция в 1854 году была встречей немецких государств, исключая Пруссию и Австрию, на которой малые и средние немецкие государства обсуждали возможное вмешательство их в Крымскую войну. Это была одна из первых встреч "других" немецких государств, которая показала Пруссии и Австрии, что другие члены также хотят решать некоторые вопросы в Германии. Конференция закончилась тем, что немецкие государства согласились вступить в союз с Австрией, если она останется нейтральной, чего, конечно, не произошло."
+SAX_focus_wurzburg_conference:0 "Вюрцбургская конференция"
+SAX_focus_wurzburg_conference_desc:0 "Фон Бойст, наш министр иностранных дел, внес предложение о том, как можно реформировать Германскую Конфедерацию, без потери суверенитета государств-членов. Он предложил нам идею предоставить Конфедерации больше исполнительной власти и больше прав в судебной системе. Для того чтобы убедить другие малые и средние государства Германии и обсудить свою идею, он решил провести конференцию в баварском городе Вюрцбурге. Будем надеяться, что его идея будет принята другими государствами".
+SAX_focus_wurzburg_conference_trigger_tt:0 "§YNone of the other German minors rejects the idea of reform.§!" #NT!
+SAX_focus_wurzburg_conference_effect_tt:0 "§YWe will invite the German middle states to a conference discussing a possible reform of the German Confederation in Würzburg.§!\n\n" #NT!
+SAX_focus_idea_of_german_trias:0 "Идея германского триаса"
+SAX_focus_idea_of_german_trias_desc:0 "Триас", третья Германия, состоящая из малых и средних немецких государств, была предложена Баварией, чтобы сохранить наш суверенитет против Пруссии и Австрии и получить власть в Германской конфедерации, одновременно покончив с австро-прусским дуализмом в Германии. В "Триас" войдут все средние государства Германии, такие как Бавария, Ганновер и наше королевство".
+SAX_focus_idea_of_german_trias_effect_tt:0 "§YThis will unlock several decisions presenting the opportunity to tighten the bonds with the other German middle states.§!" #NT!
+SAX_focus_schleswig_holstein_question:0 "Шлезвиг-Гольштейнский вопрос"
+SAX_focus_schleswig_holstein_question_desc:0 "Шлезвиг-Гольштейнский вопрос сильно переплетается с вопросом о единстве Германии. Хотя герцогство Шлезвиг-Гольштейн существует, сам Шлезвиг является датским протекторатом, в то время как Гольштейн принадлежит Германской Конфедерации и имеет в ней право голоса, хотя де-юре оба являются частью Германской Конфедерации. Хотя в Лондонском протоколе было оговорено, что Шлезвиг-Гольштейн никогда не может быть разделен или аннексирован Данией, сейчас, похоже, происходит и то, и другое. Поскольку война между германскими величествами и Данией приближается, Триас должен будет занять свою позицию!".
+SAX_focus_support_augustenburger:0 "Поддержите Аугустенбургер"
+SAX_focus_support_augustenburger_desc:0 "Пруссия и Австрия стремятся признать нынешнего датского короля законным правителем герцогства Шлезвиг-Гольштейн, чтобы получить эти территории для себя после победы над Данией. Вместо того, чтобы присоединяться к австрийцам и пруссакам в их стремлении к Дании, нам следует попытаться признать притязания Августенбергской ветви шлезвиг-гольштейн-готтропской семьи, что позволит нам создать еще одно немецкое государство, вместо того, чтобы усиливать Пруссию и Австрию."
+SAX_focus_trias_succeeds:0 "Триас добился успеха"
+SAX_focus_trias_succeeds_desc:0 "Несмотря на то, что временами это выглядело мрачно, в конце концов, средние государства Германской Конфедерации, такие как Бавария, Ганновер и мы, собрались, чтобы сформировать "Триас", третью Германию и противопоставление Пруссии и Австрии. Теперь нам просто нужно договориться об общей цели, которую мы хотим достичь...".
+SAX_focus_common_goal:0 "Общая цель"
+SAX_focus_common_goal_desc:0 "Государства "Триаса" снова собрались, чтобы договориться об общей цели, от которой выиграет каждое немецкое государство. Все государства согласились с тем, что Германская Конфедерация должна быть реформирована, так или иначе. Другим вопросом нашей безопасности является тот факт, что государства Триаса хотят иметь свою независимость, не тронутую великими державами Пруссией и Австрией, и поэтому они готовы сотрудничать в этих двух областях для своего блага".
+SAX_focus_common_goal_trigger_tt:0 "§YThe German middle states are ready to join a common federation.§!" #NT!
+SAX_focus_trias_fails:0 "Триас терпит неудачу"
+SAX_focus_trias_fails_desc:0 "В конце концов, этому не суждено было случиться. Интересы государств "Триаса" слишком разнообразны, чтобы найти общую цель, которая позволила бы нам официально создать "Триас", третью Германию, которая должна была положить конец господству австро-прусского дуализма в Германии. Одни хотели большего централизма, другие меньшего, одни хотели союза с Пруссией, другие с Австрией, в итоге мы не смогли прийти к соглашению".
+SAX_focus_pick_side:0 "Выберите сторону"
+SAX_focus_pick_side_desc:0 "Теперь, когда наша идея создания Триаса провалилась, у нас нет другого выхода, кроме как выбрать сторону в предстоящем конфликте, иначе мы станем подсадной уткой для двух великих держав Германии. Будущее Германской Конфедерации может быть неопределенным, но наше - нет!".
+SAX_focus_austro_saxon_relationship:0 "Австро-саксонские отношения"
+SAX_focus_austro_saxon_relationship_desc:0 "Союзники со времен старой Священной Римской империи, Саксония и Австрия всегда поддерживали прочные отношения, чаще всего даже дружеские. После Венского конгресса австрийцы не позволили Пруссии аннексировать нас, и мы остались независимыми, даже если в итоге нам пришлось смириться с потерей половины нашей территории и граждан. Австрия несколько раз добивалась того, чтобы мы оставались независимыми и даже увеличивали свою территорию. Как дружественные страны, мы должны будем тщательно решить, как мы будем вести себя по отношению к великой державе Австрии".
+SAX_focus_strengthen_bond:0 "Укрепить узы"
+SAX_focus_strengthen_bond_desc:0 "Для любого здравомыслящего человека этот путь - правильный. Поскольку Пруссия угрожает нам с тех пор, как создала более сильную армию и страну, чем мы, мы были занозой в их боку. Их аттики на Венском конгрессе показали нам это. Даже если мы останемся нейтральными, они все равно вторгнутся к нам. Нам нужно укреплять связь с нашим южным соседом".
+SAX_focus_strengthen_bond_trigger_tt:0 "Мы решили идти по пути дружбы с Австрией".
+SAX_focus_improve_relations_aus:0 "Улучшить отношения с Австрией".
+SAX_focus_improve_relations_aus_desc:0 "Если мы хотим быть в состоянии противостоять прусскому вторжению в будущем, нам понадобится защита от их коллеги в Германии, Австрии. Пришло время улучшить наши отношения, что может привести к союзу между нами двумя!".
+SAX_focus_loosen_ties:0 "Ослабить узы"
+SAX_focus_loosen_ties_desc:0 "Даже если Австрия была великим партнером в прошлом, за что мы будем благодарны всегда, нам нужно реалистично взглянуть на ситуацию. У Пруссии сильная армия и отличная инфраструктура, которую она может использовать для прибытия и организации на нашей границе, в то время как у Австрии может быть сильная армия, но недостаток в коммуникации между членами армии, так как у нее многонациональная армия и недостаточная инфраструктура, вызванная Рудными горами. Мы будем первой целью Пруссии в случае войны, так как по нашим дорогам быстрее всего добраться до Праги и Вены. Нам нужно будет подумать о том, как дистанцироваться от военного союза с Австрией, но не разгневать ее, так как мы все еще заинтересованы в хороших отношениях между нами и Австрией."
+SAX_focus_loosen_ties_trigger_tt:0 "Мы решили идти по пути нейтралитета по отношению к Австрии."
+SAX_focus_neutral_stance:0 "Нейтральная позиция"
+SAX_focus_neutral_stance_desc:0 "В будущем мы хотим занять нейтральную позицию в наших внешних отношениях и в Германской Конфедерации, так как мы считаем, что это может спасти нашу независимость, если Пруссия или Австрия начнут войну в Конфедерации, и уберечь нас от конфликта, в котором они сейчас находятся."
+SAX_focus_conflict_in_german_confederation:0 "Конфликт в Германской Конфедерации"
+SAX_focus_conflict_in_german_confederation_desc:0 "Все наши усилия были бесполезны. В конце концов, после прусской оккупации Гольштейна, который принадлежал Австрии после войны с Данией, Пруссия вышла из Германской конфедерации и объявила о ее роспуске. В настоящее время идет мобилизация войск, и Пруссия и ее союзники готовятся к войне. Поскольку австро-прусский дуализм в Германии заканчивается, открытая война решит, каким будет новый порядок в Германии! Какую роль здесь сыграем мы?"
+
+#Domestic Policy #NT!
+SAX_focus_reign_of_king_johann:0 "Правление Кёнига Иоганна"
+SAX_focus_reign_of_king_johann_desc:0 "Кёниг Иоганн - сын принца Максимилиана Саксонского и младший брат нашего бывшего кёнига Фридриха Августа II, трагически погибшего в 1854 году во время поездки в Тироль. Иоганн всегда проявлял интерес к политике, с 1831 года он входил в наш ландтаг, в котором был очень активным членом и всегда принимал участие в дискуссиях. Он уже начал проводить некоторые реформы, хотя взошел на престол не так давно. С таким королем Саксонию ждет светлое будущее...".
+SAX_focus_cultural_heritage:0 "Культурное наследие"
+SAX_focus_cultural_heritage_desc:0 "У нас, саксонцев, сильное культурное наследие, собственный язык и некоторые другие вещи, которые могут заставить нас гордиться тем, что мы саксонцы. Нам нужно продвигать наше культурное наследие, чтобы сохранить связь нашего населения со своей родиной, вместо того, чтобы они дезертировали в сторону идеи объединенной Германии."
+SAX_focus_patronage_of_the_fine_arts:0 "Покровительство изобразительному искусству"
+SAX_focus_patronage_of_the_fine_arts_desc:0 "Частью нашей культуры являются наши художники и их искусство в нашей стране. Мы должны стремиться продвигать нашу культуру с помощью различных инвестиций в нескольких сферах."
+SAX_focus_gewandhaus_leipzig:0 "Gewandhaus Leipzig"
+SAX_focus_gewandhaus_leipzig_desc:0 "Гевандхаус был сначала местом, где строилось и ремонтировалось военное оборудование, когда он был впервые открыт в 1498 году. Однако примерно в середине 18 века здесь разместился оркестр, и регулярно проводились концерты. Отремонтированный в 1833 и 1842 годах, теперь больше людей, чем когда-либо, могут увидеть игру одного из наших великих оркестров. Это, безусловно, большой знак для саксонской музыкальной сцены и культуры!".
+SAX_focus_semperoper_dresden:0 "Земперопер Дрезден"
+SAX_focus_semperoper_dresden_desc:0 "Построенная в 1838-1841 годах, "Земперопер" в Дрездене, названная в честь ее строителя Готфрида Земпера, стала новым домом саксонской оперы, заменив прежние оперные театры в Дрездене. Его внешний вид, который некоторые называют одним из самых красивых в Европе, является прекрасным знаком для саксонской культуры! Этот престижный проект показывает, как мы гордимся нашей культурой и как много мы готовы инвестировать в нее!".
+SAX_focus_religion_and_education:0 "Религия и образование"
+SAX_focus_religion_and_education_desc:0 "Частью нашего культурного наследия является история нашей протестантской религии, которая началась еще с Мартина Лютера, проживавшего в Саксонии. Отсюда он перевел Библию на немецкий язык, что позволило простым людям стать независимыми от толкований католической церкви. Через некоторое время после этого христиане, верившие в идеи Лютера, отделились от католической церкви и основали свою протестантскую. Будучи в прошлом самым сильным протестантским государством, мы сделали все, чтобы защитить свою религию, но с тех пор прошло много времени. Ранее мы преподавали наши религиозные ценности в школах, но, возможно, пришло время взглянуть на религию и ее роль в образовании?".
+SAX_focus_secularize_secondary_education:0 "Секуляризация среднего образования"
+SAX_focus_secularize_secondary_education_desc:0 "Возможной реформой для нашего образования была бы секуляризация среднего образования, что позволило бы нам учить наших студентов более важным вещам, которые понадобятся в будущем, а не учить их тому, чему они научились в предыдущие годы в школе. Это также сделало бы школы независимыми от церковных надзирателей, которые до сих пор используются церковью. Мы бы, несомненно, выиграли от такой реформы!".
+SAX_focus_kirchen_und_synodalordnung:0 "Церковный и синодальный устав"
+SAX_focus_kirchen_und_synodalordnung_desc:0 "В Саксонии давно назрела необходимость введения новых церковных и синодальных правил. С помощью этого закона мы планируем внедрить систему, при которой избранные саксонские консистории получат власть над церковными делами в нашей стране, вместо того, чтобы государство усиливало и контролировало эти дела."
+SAX_focus_scientific_progress:0 "Научный прогресс"
+SAX_focus_scientific_progress_desc:0 "Поскольку мы должны обратить внимание на нашу религию и художников, мы не должны игнорировать другую важную культурную группу - ученых. Мы должны посмотреть, где мы могли бы помочь им и продвинуть их исследования. Это может быть полезно в будущем, так как однажды это может сыграть важную роль в нашей промышленности, от чего мы, несомненно, выиграем".
+SAX_focus_support_saxon_society_for_sciences:0 "Поддержите Королевское саксонское общество наук".
+SAX_focus_support_saxon_society_for_sciences_desc:0 "Поддерживая Королевское саксонское научное общество, мы могли бы помочь университету обучать больше студентов, которые, в свою очередь, будут иметь знания для работы в нашем промышленном секторе и, возможно, снова произведут революцию в промышленности. Привлечение новых квалифицированных студентов - это хорошая идея для поддержки нашей промышленности".
+SAX_focus_expand_the_universitat_leipzig:0 "Expand the Leipzig University" #NT!
+SAX_focus_expand_the_universitat_leipzig_desc:0 "As our minister of culture, Johann Paul von Falkenstein has the authority over our scientific matters. One of his ambitions is to expand the Leipzig university, our oldest university in Saxony. Our expansion would include several new buildings for the different natural sciences, where these can be teached and experiments can be carried out." #NT!
+SAX_focus_political_realities:0 "Политические реалии"
+SAX_focus_political_realities_desc:0 "У нас может быть политически заинтересованный король, но мы все еще живем в трудные времена. Начиная с 1830 года, наши граждане вынудили нас создать демократические структуры в нашей монархической системе, которую мы долгое время имели. Хотя введение парламента и конституции было достаточно, чтобы удовлетворить наших граждан к 1831 году, они снова восстали в 1848 году, требуя, чтобы Саксония стала частью объединенной Германии, а позже - чтобы была создана Саксонская республика! В разгар революции нас спасла только Пруссия. Катастрофа! Нам необходимо переосмыслить нашу политическую стратегию, если мы хотим, чтобы ситуация, подобная 1848 году, не повторилась".
+SAX_focus_liberalize_saxony:0 "Либерализовать Саксонию"
+SAX_focus_liberalize_saxony_desc:0 "Возможно, нам следует либерализовать Саксонию в некоторых частях нашей политики и пойти по пути революционной идеи 1848 года, но при этом сохранить части нашей старой системы. Наша конституция дала этому дорогу, и мы должны продолжать идти по нашему пути".
+SAX_focus_thorough_reforms:0 "Тщательные реформы"
+SAX_focus_thorough_reforms_desc:0 "Очевидно, что нам необходимо реформировать нашу Саксонию более радикально, чем мы хотели бы это сделать, поскольку наше население уже показало нам, что если мы не отреагируем соответствующим образом, оно может снова восстать. настало время для сквозных реформ! Только так мы сможем стабилизировать нашу страну после многих лет конфликтов и революций".
+SAX_focus_universal_male_franchise:0 "Универсальная мужская франшиза"
+SAX_focus_universal_male_franchise_desc:0 "Как часть наших реформ, мы должны будем взглянуть на нашу систему выборов. Нынешняя система показывает, что либо король может определять своих заместителей в парламенте, либо они просто входят в него, благодаря своему положению. Средний саксонец не имеет возможности выбирать своих правителей, и это нужно немедленно изменить! Введя всеобщее мужское избирательное право, мы обеспечим каждому мужчине-саксонцу возможность голосовать за свой парламент, как это было в 1848 и 1849 годах, пока контрреволюционеры снова не отменили закон!".
+SAX_focus_full_equality_for_sorbs:0 "Полное равенство для сорбов"
+SAX_focus_full_equality_for_sorbs_desc:0 "В Саксонии есть меньшинство, о котором забывают - сорбы. Сорбы - потомки славян, в отличие от саксонцев, которые являются немцами. Живя в восточной Саксонии еще до прихода немцев, они были порабощены саксонскими правителями на протяжении веков, даже если они принадлежат к Саксонии, как и саксонцы. Мы должны отменить эти дискриминационные законы, введенные давным-давно, и вместо них принять новые законы, предоставляющие сорбам полное равноправие в нашей стране, как и должно быть".
+SAX_focus_moderate_reforms:0 "Умеренные реформы"
+SAX_focus_moderate_reforms_desc:0 "Хотя мы должны реформировать Саксонию, возможно, нам следует попытаться найти компромисс с другими партиями, участвующими в таких обсуждениях, так как это обеспечит нам отсутствие проблем с кем-либо из других в парламенте или за его пределами. Это также заставит короля быть более заинтересованным в сотрудничестве с нами".
+SAX_focus_adapt_sufferage_law:0 "Адаптировать закон о избирательном праве"
+SAX_focus_adapt_sufferage_law_desc:0 "Мы должны попытаться изменить закон об избирательном праве в этом отношении, чтобы позволить большему количеству мужчин, которым больше 25 лет и которые платят налоги государству, быть допущенными к голосованию во вторую палату парламента. Мы также должны попытаться реформировать нашу избирательную систему, чтобы сделать выборы одинаково справедливыми для всего голосующего населения".
+SAX_focus_accept_sorbian_identity:0 "Принимаю сорбскую идентичность"
+SAX_focus_accept_sorbian_identity_desc:0 "Наши отношения с сорбами были проблемными, в то время как правительство пыталось ассимилировать их в саксонскую культуру. Мы должны немедленно прекратить эти выходки и признать, что у сорбов есть свой собственный язык и культура. Это стало бы началом в улучшении наших внутрисаксонских этнических отношений и способом положить конец сохраняющейся этнической напряженности".
+SAX_focus_end_press_censorship:0 "Положить конец цензуре прессы и ассоциаций"
+SAX_focus_end_press_censorship_desc:0 "Введенная в 1819 году, цензура прессы должна была помешать газетам и их ассоциациям писать статьи о любых идеях, которые противоречили идеям реставрации после Венского конгресса. Во время революций 1830 и 1848/49 годов эта цензура показала себя очень недостаточной, и поэтому она только мешает людям официально высказывать свое мнение в газетах, даже если они могут делать это на собраниях. Мы должны добиваться отмены этого закона".
+SAX_focus_amnesty_for_insurgents_of_48_49:0 "Амнистия для повстанцев 1848/49 годов"
+SAX_focus_amnesty_for_insurgents_of_48_49_desc:0 "В конечном итоге повстанцы майского восстания в Дрездене и все остальные боролись за правое дело - за либерализацию Саксонии дальше, чем она была, даже если некоторые из них были немного резкими в отношении своих идей или сопротивления и были схвачены полицией и войсками. Мы должны объявить им всеобщую амнистию, чтобы показать им, что государство не является их врагом, и в знак того, что мы хотим действительно реформировать Саксонию!".
+SAX_focus_civil_law_code:0 "Кодекс гражданского права"
+SAX_focus_civil_law_code_desc:0 "Нам необходимо реформировать наши устаревшие гражданские законы, и для этого мы должны заменить старые гражданские законы новым сводом современного гражданского права и новым кодексом гражданского права. Это поможет нам показать, что Саксония действительно современная страна с современным законодательством и современной судебной системой."
+SAX_focus_conserve_the_status_quo:0 "Сохранить статус-кво"
+SAX_focus_conserve_the_status_quo_desc:0 "Вместо того чтобы уступать либералам, которые не остановились после того, как мы предоставили им реформы в 1830 и 1848 годах, а попытались свергнуть монархию и установить республику, мы должны стремиться сохранить стабильность вместо того, чтобы пытаться реформировать нас еще раз. Мы должны сохранить Status Quo, потому что эта система доказала свою успешность по сравнению с недолговечными революционными государствами."
+SAX_focus_conserve_the_status_quo_effect_tt:0 "§RWARNING: This might lock you out of the Trias path!§!\n\n" #NT!
+SAX_focus_create_elitist_preponderance:0 "Создать элитарное преобладание"
+SAX_focus_create_elitist_preponderance_desc:0 "Саксония была, есть и, вероятно, должна управляться монархом и его элитой. Со времен старого саксонского курфюршества и до сегодняшнего дня Саксония всегда была монархией и всегда с этим справлялась. Так зачем менять сложившуюся систему?"
+SAX_focus_revoke_1849_consessions:0 "Отменить последние уступки 1849 года"
+SAX_focus_revoke_1849_consessions_desc:0 "Уступки, которые мы сделали повстанцам в 1849 году, были сделаны для того, чтобы протестующие могли успокоиться и успокоить себя в своем плане свержения монархии. После того, как прусские войска спасли нашего короля, это был лишь вопрос времени, когда мы отменим уступки 1849 года. Время пришло, теперь у нас есть шанс отозвать эти уступки и устранить те слабости, которые мы сами на себя навлекли!".
+SAX_focus_the_sorbian_question:0 "Сорбский вопрос"
+SAX_focus_the_sorbian_question_desc:0 "Большой вопрос в нашем политическом ландшафте - как быть с сорбами, славянским меньшинством в Восточной Саксонии, которое требует все больше прав и принятия их культуры. Нам придется посмотреть, как мы можем справиться с этой этнической напряженностью сейчас, поскольку дальнейшая эскалация не в наших интересах".
+SAX_focus_noble_autocracy:0 "Благородная автократия"
+SAX_focus_noble_autocracy_desc:0 "Со времен саксонского курфюршества Саксония управлялась абсолютным монархом и достигла величия! Только наполеоновские войны и последующие вопросы объединения Германии и саксонского либерализма ослабили Саксонию до того уровня, на котором она находится сегодня. Мы должны стремиться вернуть былое величие и осуществить необходимые изменения, с помощью которых мы сможем достичь былой славы!".
+SAX_focus_revoke_1831_constitution:0 "Отменить Конституцию 1831 года"
+SAX_focus_revoke_1831_constitution_desc:0 "Конституция, которую Саксония приняла в 1831 году, установила в Саксонии демократические структуры путем введения парламента и его двух кабинетов, и хотя она помогла успокоить граждан, она также положила конец абсолютной монархии, которая правила в Саксонии до этого времени. Большая катастрофа! Но теперь, когда наше правление утешилось, у нас есть возможность отменить это ужасное решение, принятое тогда, и восстановить правителя на его троне, и ему будет позволено править без всякого вмешательства. Или - другими словами - он снова будет править абсолютно!".
+SAX_focus_forced_assimilation:0 "Принудительная ассимиляция"
+SAX_focus_forced_assimilation_desc:0 "Меньшинство всегда должно подстраиваться под большинство, а не наоборот. Возможно, для сорбов было бы лучше просто ассимилироваться с нашей культурой, тогда "проблема" сразу же исчезнет. А если они не хотят делать это добровольно, возможно, нам нужно помочь им принять лучший вариант ради их блага."
+SAX_focus_toughen_press_censorship:0 "Ужесточить цензуру прессы и ассоциаций"
+SAX_focus_toughen_press_censorship_desc:0 "В 1819 году мы решили ввести закон, который позволял нам цензурировать прессу, чтобы наша цель восстановления после Венского конгресса могла быть достигнута без вмешательства националистов, желающих создать немецкое государство. Как видно в 1830 и 1848 годах, эти законы были недостаточно суровыми, поэтому мы должны их ужесточить! В противном случае наша цель может оказаться под угрозой. Возможно, мы могли бы использовать эту опасность как предлог для исключения газет, которые слишком демократичны или либеральны, чтобы укрепить наши монархические позиции!".
+SAX_focus_renew_warrents_for_insurgents_of_48_49:0 "Обновить ордера для повстанцев 1848/49 годов"
+SAX_focus_renew_warrents_for_insurgents_of_48_49_desc:0 "Повстанцы 1848 и 1849 годов стремились свергнуть нашу монархию и установить либеральную демократию, которая разрушила бы Саксонию! Эти предатели не заслуживают свободы. Мы должны продлить их ордера и преподать им урок! Такой шаг будет способствовать стабильности и безопасности нашего общества!".
+SAX_focus_supress_workers_movement:0 "Подавить рабочее движение"
+SAX_focus_supress_workers_movement_desc:0 "После индустриализации, и особенно в последние годы, поднялось новое движение. Рабочие сформировали движение, которое стремится радикально изменить наше общество. Некоторые члены этого движения также стремятся свергнуть монархию и установить более экстремальную республику, чем хотят даже либералы! Мы должны подавить это движение ради блага нашего общества!".
+
+#Army #NT!
+SAX_focus_saxonys_army:0 "Саксонская армия"
+SAX_focus_saxonys_army_desc:0 "После поражения в Наполеоновских войнах и того, что мы были последним союзником Наполеона, который от него отступил, мы были сурово наказаны Великими державами на Венском конгрессе в 1815 году. Хотя мы потеряли большую часть нашей армии, последние годы показали нам, что мы должны быть в состоянии реагировать на революции и войны в Германии, в которых мы принимаем непосредственное участие. Мы должны начать перевооружение наших солдат!".
+SAX_focus_reinforce_conscription_laws:0 "Усилить законы о воинской повинности"
+SAX_focus_reinforce_conscription_laws_desc:0 "Первым шагом в перевооружении нашей армии будет усиление закона о воинской повинности и, таким образом, призыв большего количества мужчин на защиту нашей страны. Они могут понадобиться, если ситуация в Германской Конфедерации обострится...".
+SAX_focus_reform_officers_training:0 "Обучение офицеров реформы"
+SAX_focus_reform_officers_training_desc:0 "В то время как призыв большего количества солдат, безусловно, поможет укрепить нашу армию и увеличить численность личного состава, это не принесет пользы, если мы отдадим их под контроль офицеров, которые используют старые, устаревшие доктрины или применяют запрещенные наказания, чтобы "научить" солдат лекции. Нам нужно реформировать и модернизировать подготовку наших офицеров, чтобы мы смогли снова построить успешную армию!".
+SAX_focus_obtain_foreign_military_equipment:0 "Получить иностранное военное оборудование"
+SAX_focus_obtain_foreign_military_equipment_desc:0 "В то время как мы можем изменить некоторые вещи в нашей армии, например, призвать больше людей или провести некоторые реформы, мы не производим качественного оружия, которым мы могли бы оснастить наших людей. Из-за этого нам придется присмотреться к иностранному оружию и подумать о его покупке, так как мы хотим, чтобы наши солдаты были оснащены наилучшим образом".
+SAX_focus_buy_rifles_from_liege_factories:0 "Купить винтовки на заводах Льежа"
+SAX_focus_buy_rifles_from_liege_factories_desc:0 "Если мы хотим купить качественное оружие, то, возможно, нам стоит обратить внимание не на север или юг, а на запад. Находясь в тени Пруссии и Австрии, бельгийцы также способны разрабатывать хорошее оружие на своей фабрике в Льеже. Нам следует присмотреться к ним и купить их. Это поможет нам не попасть в зависимость от одной державы, продающей нам оружие".
+SAX_focus_buy_austrian_rifles:0 "Купить австрийские винтовки"
+SAX_focus_buy_austrian_rifles_desc:0 "Австрия - наш большой партнер и в то же время самый яростный союзник. Покупка у них армейского оборудования - это само собой разумеющееся, особенно если принять во внимание их статус "великой державы" и тот факт, что мы можем получить огромную выгоду от торговли с ними в денежном выражении, поскольку у нас хорошие отношения друг с другом."
+SAX_focus_buy_prussian_cannons:0 "Купить прусские пушки"
+SAX_focus_buy_prussian_cannons_desc:0 "Хотя у нас с нашим северным соседом неспокойная история, им удалось постоянно совершенствовать и реформировать свою армию, что возвело их в статус великой державы в Европе, в то время как наша армия и государство находились в упадке с 1815 года. Мы определенно выиграем в качестве пушек, если решим их импортировать, даже если они будут из одной из наших величайших вражд".
+SAX_focus_sign_military_convention:0 "Подписать военную конвенцию...".
+SAX_focus_sign_military_convention_desc:0 "Ситуация в Германской Конфедерации ухудшается. После успешной войны с Данией австро-прусская коалиция распалась, и теперь ситуация в Шлезвиге и Гольштейне может привести к прямой конфронтации между двумя великими державами в Германии. Поскольку мы не в состоянии выжить в одиночку в этом вопросе, нам придется выбрать свою сторону...".
+SAX_focus_convention_with_prussia:0 "...с Пруссией"
+SAX_focus_convention_with_prussia_desc:0 "Наши отношения могут быть не самыми лучшими. И наше прошлое может быть неприятным. Но в то же время, Пруссия улучшила свою армию с тех пор, как Бисмарк стал премьер-министром Пруссии, и, вероятно, уже превосходит военный потенциал Австрии. Союз с Пруссией был бы хорош и с нашей стратегической точки зрения, так как австрийские подкрепления прибудут только после того, как мы потеряем большую часть нашей территории против Пруссии. Хотя мы, безусловно, потеряем наши права на бывшую территорию северной Саксонии, союз с Пруссией может позволить нам остаться независимыми, в то время как союз с Австрией может означать конец Саксонии как независимого государства. Это может быть больно, но подписание военной конвенции с Пруссией - лучший вариант, который у нас есть".
+SAX_focus_convention_with_the_trias:0 "...с Триасом".
+SAX_focus_convention_with_the_trias_desc:0 "В соответствии с нашей политикой в последние годы мы должны подписать военную конвенцию с Триасом, другими германскими государствами, которые не хотят выбирать сторону. Подписав эту конвенцию, мы получим огромный шанс, что ни одна из великих держав не сможет вторгнуться к нам, даже если у нас будет прямой путь на Берлин или Прагу, так как ни Пруссия, ни Австрия не хотят, чтобы объединенный Триас сражался бок о бок с их врагом в случае войны. Этим шагом мы можем обеспечить свою безопасность, даже если Триас не будет сильнее, чем Пруссия или Австрия в одиночку."
+SAX_focus_convention_with_austria:0 "...с Австрией".
+SAX_focus_convention_with_austria_desc:0 "Причина, по которой мы должны выбрать Австрию в качестве нашего партнера, проста. Они не только хотят сохранить нашу независимость, в отличие от Пруссии, которая несколько раз, например, в 1815 году, хотела нас аннексировать! Австрия также является хорошим партнером для нас в течение длительного времени, и это более крупная страна, чем Пруссия, с более сильной армией. В то время как Пруссия уже давно реформировала свою армию, Бисмарк не сможет бросить вызов могущественной Австрии!".
+SAX_focus_army_administration_reform:0 "Реформа управления армией"
+SAX_focus_army_administration_reform_desc:0 "Подобно тому, как мы реформируем подготовку наших офицеров, мы также должны обратить внимание на реформу армейской администрации, видя, как она осталась нетронутой после нашего поражения 1815 года и после революции 1848 года, в которой наша армия и администрация показали несколько недостатков."
+SAX_focus_new_court_martial_jurisdiction:0 "Новая юрисдикция военного трибунала"
+SAX_focus_new_court_martial_jurisdiction_desc:0 "Юрисдикция нашей армии устарела. Поскольку в настоящее время мы реформируем нашу армию, мы могли бы взглянуть на устаревшие структуры в военной юрисдикции и также реформировать их. Если мы хотим иметь сильную и современную армию, мы также должны иметь сильную, независимую юрисдикцию!".
+SAX_focus_new_military_trial_codes:0 "Новые процессуальные кодексы военного судопроизводства"
+SAX_focus_new_military_trial_codes_desc:0 "Поскольку мы уже находимся в процессе реформирования нашей армии, возможно, нам также следует взглянуть на наши устаревшие армейские судебные кодексы и переработать и их."
+SAX_focus_new_military_leadership:0 "Новое военное руководство"
+SAX_focus_new_military_leadership_desc:0 "Поскольку наша армия реформирована и сделала несколько шагов вперед, возможно, нам следует выбрать нового лидера для наших военных. Он получит ответственность за организацию и мобилизацию наших войск, если потребуется, для защиты от возможных нападений."
+SAX_focus_field_marshal_kronpinz_albert:0 "Field Marshal Kronprinz Albert" #NT!
+SAX_focus_field_marshal_kronpinz_albert_desc:0 "Albert, the oldest son of our King Johann, is the designated successor of his father. As Kronprinz, he will need to learn to take responsibility of Saxon matters and he will need to learn how to handle such responsibility. Perhaps it would be suitable to name him Field Marshall, so that he will have a chance to learn how to handle army matters." #NT!
+SAX_focus_field_marshal_prinz_georg:0 "Field Marshal Prinz Georg" #NT!
+SAX_focus_field_marshal_prinz_georg_desc:0 "Since our crown prince is heavily involved in political affairs and takes an active role in the State Council, we should not place any additional burdens on him or involve him further in our army. Instead, we could appoint his younger brother George as field marshal, since he does not interfere in politics or other affairs of the state, but the gain in military experience would serve him well." #NT!
+
+#Economy #NT!
+SAX_focus_saxonys_economy:0 "Экономика Саксонии"
+SAX_focus_saxonys_economy_desc:0 "Как и любая другая немецкая земля, Саксония начала индустриализацию в начале 19 века. Но, в отличие от других, мы сумели стать одной из доминирующих промышленных держав Германии, доминируя в Союз, и сумели построить самую густую железнодорожную сеть в Германской Конфедерации. И если мы хотим остаться на этой позиции, мы должны предпринять дальнейшие шаги, продолжать индустриализацию и расширять нашу инфраструктуру".
+SAX_focus_saxon_state_railway:0 "Расширить железнодорожную инфраструктуру"
+SAX_focus_saxon_state_railway_desc:0 "Одним из шагов для сохранения нашего доминирования в промышленном секторе является строительство еще большего количества железных дорог внутри Саксонии, чтобы убедить других инвестировать в нас еще больше и ускорить транспортировку столь необходимых материалов в ткани. Инвестиции в железнодорожную систему означают для Саксонии больше денег и власти!".
+SAX_customeffect_infra_bonus_one:0 "§Y1x§! §G50%§! Бонус скорости строительства для: §YИнфраструктуры§!"
+SAX_customeffect_rail_bonus_two:0 "§Y2x§! §G50%§! Construction speed bonus for: §YRailway§!" #NT!
+SAX_focus_railway_bavaria:0 "Железнодорожное соединение\nв Баварии"
+SAX_focus_railway_bavaria_desc:0 "В 1841 году мы открыли железнодорожную линию, которая соединила нас с Баварией, но через Альтенбург, который является частью Тюрингии. Чтобы обойти проблему отрезания Тюрингией железнодорожной линии, в 1845 году мы решили построить еще одну линию между Хемницем, важным промышленным центром Саксонии, и Баварией. В то время как мы уже открыли участок от Цвиккау до Баварии, мы не смогли завершить строительство железной дороги Хемниц-Цвиккау до настоящего времени. Мы откроем эту железнодорожную линию и дадим возможность тканям в Хемнице импортировать необходимые ресурсы из Баварии и экспортировать готовую продукцию".
+SAX_focus_railway_ore_mountains:0 "Железные дороги в\nРудных Горах"
+SAX_focus_railway_ore_mountains_desc:0 "Теперь, когда мы завершили большую часть нашей железнодорожной системы в Саксонии и наладили железнодорожное сообщение с Баварией, нам нужно подумать о следующем возможном соединении, которое мы должны построить. Одно из таких соединений должно быть между Хемницем и Рудными горами, которые также являются границей между Саксонией и нашим южным партнером Австрией. Строительство этой железнодорожной линии может помочь нам в двух отношениях: во-первых, она позволит нам или промышленности Саксонии импортировать бурый уголь из Северо-Богемского бассейна на северо-западе Чехии. Вторая причина строительства железной дороги заключается в том, что наши партнеры из Австрии смогут защитить нас в маловероятной войне с Пруссией".
+SAX_focus_railway_prussia:0 "Железнодорожное соединение\nв Пруссии"
+SAX_focus_railway_prussia_desc:0 "Мы завершили соединение с нашими южными соседями. Теперь мы должны начать думать о строительстве железной дороги к нашему северному соседу, Пруссии. Строительство такой железной дороги соединит нас с Рургебитом и Силезией, двумя регионами в Германии, где добывается много ресурсов. Мы также могли бы попытаться улучшить наши отношения с ними, работая вместе над проектом".
+SAX_focus_railway_gaps:0 "Устранение пробелов \nв Сети"
+SAX_focus_railway_gaps_desc:0 "Теперь, когда мы построили плотную железнодорожную систему в Саксонии, соединили наши железные дороги с соседними, у нас остался единственный приоритет - закрыть разрывы между железными дорогами и завершить нашу железнодорожную систему на данный момент."
+SAX_focus_mining_and_metallurgy:0 "Горное дело и металлургия"
+SAX_focus_mining_and_metallurgy_desc:0 "Несмотря на индустриализацию с начала этого века, нам все еще необходимо добывать природные ресурсы, которые мы можем использовать для дальнейшей переработки в наших тканях. Мы должны делать это на наших государственных шахтах и металлургических заводах".
+SAX_focus_queen_mary_ironworks:0 "Königin Marienhütte"
+SAX_focus_queen_mary_ironworks_desc:0 "Открытый в 1839 году в Цвиккау, "Königin Marienhütte" является одним из крупнейших предприятий в Саксонии. Оно расположено недалеко от Цвиккау, поскольку основной ресурс, уголь, используемый ими, добывается в местной угольной шахте. Продукция, производимая на "Мариенхютте", а именно железнодорожные рельсы и мосты из стали, используется нами для строительства нашей железнодорожной системы и расширения инфраструктуры в целом. Настоящий образец саксонского класса!".
+SAX_customeffect_coal_mine_bonus_one:0 "§Y1x§! §G75%§! Бонус скорости строительства для: §YУгольной шахты§!".
+SAX_focus_soften_bergregal:0 "Смягчить Бергрегал"
+SAX_focus_soften_bergregal_desc:0 "Бергрегал - это акт, который объявляет дворянство страны владельцем нескольких минеральных ресурсов в стране. Введенный во времена ранней Священной Римской империи, он до сих пор является законом в Саксонии, что может вызвать проблемы в нашем промышленном развитии, так как возможные инвесторы могут быть лишены желания вкладывать средства. Чтобы предотвратить это, мы пойдем дальше и смягчим Бергрегаля, чтобы открыть больше инвестиционных возможностей для иностранных инвесторов, даже если это означает, что инг должен отказаться от своих (несуществующих) претензий на природные ресурсы Саксонии!".
+SAX_focus_expand_mining_districts:0 "Расширить горные районы"
+SAX_focus_expand_mining_districts_desc:0 "Поскольку мы смягчили Бергрегаля, теперь мы можем решить, где именно должны быть созданы шахты. Некоторые политики считают, что лучшей идеей будет расширение существующих горнодобывающих районов, а открытие новых шахт поможет нашей экономике и привлечет новых инвесторов."
+SAX_focus_enact_berggesetz:0 "Принять Berggesetz"
+SAX_focus_enact_berggesetz_desc:0 "Хотя мы уже де-факто отменили "Берггаль", поскольку дворяне отказались от своих претензий и уже открыли горнодобывающий сектор для инвесторов, он все еще действует в нашем законодательстве. Мы должны отменить его официально и заменить более либеральным законом, который официально разрешит инвесторам вкладывать средства в те отрасли, которые были затронуты "Бергрегалом". Возможно, с помощью этого закона мы также сможем сделать металлургию независимой".
+SAX_focus_factory_industry:0 "Заводская промышленность"
+SAX_focus_factory_industry_desc:0 "В 1854 году адвокат Карл Гейне начал покупать землю в муниципалитете Плагвиц и начал развивать необходимую инфраструктуру, чтобы иметь возможность привлекать богатых инвесторов, в чем он добился определенных успехов. Мы должны поддержать Хайне в его начинании, так как мы тоже многое выиграем от новых инвестиций и укрепления промышленности!".
+SAX_focus_proto_industrialization:0 "Наследие протоиндустриализации"
+SAX_focus_proto_industrialization_desc:0 "До того, как процесс индустриализации пришел в Саксонию, уже существовали некоторые рабочие, которые работали на ранних фабриках, как, например, рабочие в текстильной промышленности. Хотя в то время они работали с тканями, им все еще приходилось делать все вручную, и у них не было машин, которые бы им помогали. Мы должны помнить об этом и стараться совершенствовать наши машины, чтобы больше не возвращаться в те времена".
+SAX_focus_free_enterprise:0 "Необходимость свободного предпринимательства"
+SAX_focus_free_enterprise_desc:0 "Нам нужно будет скорректировать наши законы, чтобы привлечь инвесторов, так как сейчас у нас слишком суровые законы, которые мешают развитию нашей экономики."
+SAX_focus_textile_industry:0 "Саксонская текстильная промышленность"
+SAX_focus_textile_industry_desc:0 "Саксония имеет долгую историю с текстильной промышленностью. С тех пор, как началась индустриализация и Саксония стала одной из самых развитых стран Центральной Европы, многочисленные компании открыли в Саксонии производство тканей. Но это еще не конец - у нас есть еще несколько бизнесменов, которые хотят открыть новые ткани в Саксонии. Мы должны поддержать их, так как нам выгодна сильная текстильная промышленность".
+SAX_focus_saxon_manchester:0 "Хемниц -\nСаксонский Манчестер"
+SAX_focus_saxon_manchester_desc:0 "Сердце индустриальной Саксонии находится в Хемнице. Здесь большинство компаний и инвесторов решают открыть производство тканей и текстиля, и город имеет большую связь с другими саксонскими и немецкими регионами. Подобно Манчестеру в Англии, Хемниц является промышленным центром нашей Саксонии! Но если мы хотим прогрессировать, нам нужно расширять наши промышленные отрасли, чтобы не попасть в зависимость от нашей текстильной промышленности. Мы будем поддерживать рост машиностроительной промышленности".
+SAX_focus_trade_and_commerce:0 "Торговля и коммерция"
+SAX_focus_trade_and_commerce_desc:0 "Саксония - это не только страна с сильной промышленностью, но и сильная держава в торговле и коммерции. Благодаря нашей торговле, начиная с 16 века, нам удалось стать важным экономическим партнером и одним из экономических центров Европы. Мы должны стараться поддерживать этот статус, так как наша экономика получает от этого огромную выгоду!".
+SAX_focus_allgemeine_creditanstalt:0 "Allgemeine Deutsche Credit-Anstalt"
+SAX_focus_allgemeine_creditanstalt_desc:0 "Allgemeine Deutsche Credit-Anstalt" был основан в 1856 году и является саксонским банком. Он является символом силы Саксонии в торговом и финансовом секторе и хорошим партнером, когда речь идет об инвестировании. За первый год работы они уже успели закрепиться на немецком рынке и объявили о своих амбициозных планах. Они обязательно пригодятся нам, если когда-нибудь нам понадобится кредит...".
+SAX_focus_leipzig_book_fair:0 "Лейпцигская книжная ярмарка"
+SAX_focus_leipzig_book_fair_desc:0 "Лейпцигская книжная ярмарка имеет давние традиции в нашей стране. Впервые организованная в 17 веке, она росла из года в год и сейчас является самой большой книжной ярмаркой во всей Германии, даже больше, чем Франкфуртская книжная ярмарка, ее традиционный конкурент. Каждый год миру показывают саксонскую и немецкую культуру, и мы можем использовать ярмарку для продвижения нашей собственной культуры в Саксонии и в других странах".
+SAX_focus_pelzhandelszentrum_leipzig:0 "Pelzhandelszentrum Leipziger Brühl"
+SAX_focus_pelzhandelszentrum_leipzig_desc:0 "Наш "Pelzhandelszentrum" в Лейпциге является большой частью экономики Лейпцига и, в свою очередь, Саксонии. Будучи крупнейшим центром продажи меха, он стал синонимом самой продажи меха. Его сила вносит свой вклад в экономику Саксонии, и поэтому его нужно получить - во что бы то ни стало".
+SAX_focus_saxon_bank_dresden:0 "Sächsische Bank zu Dresden"
+SAX_focus_saxon_bank_dresden_desc:0 "Способ укрепить нашу экономику и другие части общества - это открыть банк, способный выдавать различные кредиты компаниям и инвесторам. К счастью для нас, некоторые бизнесмены выразили заинтересованность в открытии такого банка. Если мы поможем им денежными льготами, мы сможем фактически укрепить собственную экономику и иметь банк, который будет связан с нами".
+SAX_focus_model_country:0 "Промышленно развивающаяся\nМодель Страны"
+SAX_focus_model_country_desc:0 "Наше и без того превосходное положение в немецкой промышленности и статус великой промышленной державы были обеспечены. Но все же для сохранения этого статуса были необходимы реформы. Наши успешные реформы позволили модернизировать Саксонию и расширить ее промышленную мощь - как в Германии, так и за рубежом. Мы идем в светлое будущее с нашей неудержимой экономикой!".
+
+#General Focus Tooltips (used for various foci) #NT!
+SAX_focus_unfinished_warning_effect_tt:0 "§RПРЕДУПРЕЖДЕНИЕ: Содержание ниже этого фокуса в настоящее время является незаконченным в процессе разработки!§!\n\n"
+
+### IDEAS ### #NT!
+#Country Ideas #NT!
+SAX_idea_napoleonic_war_defeat_1:0 "Поражение в Наполеоновской войне"
+SAX_idea_napoleonic_war_defeat_1_desc:0 "Саксония потерпела крупное поражение в битве при Лейпциге во время Наполеоновских войн. Тысячи солдат дезертировали на сторону врага, что привело к тысячам потерь. Саксонская сельская местность была разрушена, а король попал в плен к пруссакам. Саксонские военные нелегко оправились от поражения в войне, и реформа все еще неизбежна."
+SAX_idea_napoleonic_war_defeat_2:0 "Поражение в Наполеоновской войне"
+SAX_idea_napoleonic_war_defeat_2_desc:0 "Саксония потерпела крупное поражение в битве при Лейпциге во время Наполеоновских войн. Тысячи солдат дезертировали на сторону врага, что привело к тысячам жертв. Саксонская сельская местность была разрушена, а король попал в плен к пруссакам. Саксонские военные нелегко оправились от поражения в войне, и реформа все еще неизбежна."
+SAX_idea_napoleonic_war_defeat_3:0 "Поражение в Наполеоновской войне"
+SAX_idea_napoleonic_war_defeat_3_desc:0 "Саксония потерпела крупное поражение в битве при Лейпциге во время Наполеоновских войн. Тысячи солдат дезертировали на сторону врага, что привело к тысячам потерь. Саксонская сельская местность была разрушена, а король попал в плен к пруссакам. Саксонские военные нелегко оправились от поражения в войне, и реформа все еще неизбежна."
+SAX_idea_napoleonic_war_defeat_4:0 "Поражение в Наполеоновской войне"
+SAX_idea_napoleonic_war_defeat_4_desc:0 "Саксония потерпела крупное поражение в битве при Лейпциге во время Наполеоновских войн. Тысячи солдат дезертировали на сторону врага, что привело к тысячам потерь. Саксонская сельская местность была разрушена, а король попал в плен к пруссакам. Саксонские военные нелегко оправились от поражения в войне, и реформа все еще неизбежна."
+SAX_idea_napoleonic_war_defeat_5:0 "Поражение в Наполеоновской войне"
+SAX_idea_napoleonic_war_defeat_5_desc:0 "Саксония потерпела крупное поражение в битве при Лейпциге во время Наполеоновских войн. Тысячи солдат дезертировали на сторону врага, что привело к многотысячным потерям. Саксонская сельская местность была разрушена, а король попал в плен к пруссакам. Саксонские военные нелегко оправились от поражения в войне, и реформа все еще неизбежна."
+SAX_idea_anti_prussian_sentiments:0 "Антипрусские настроения"
+SAX_idea_anti_prussian_sentiments_desc:0 "Чуть более 40 лет назад Пруссия отобрала 60% саксонской территории в результате Венского конгресса. Пруссию едва остановили от аннексии всего государства, очевидно, что они мало заботятся о суверенитете Королевства Саксония. Наполеоновские войны вернули Пруссию за стол переговоров европейских великих держав, и их стремление объединить все немецкие государства представляет наибольшую угрозу для независимости Саксонии."
+SAX_idea_land_owners_prevalence_1:0 "Распространенность землевладельцев"
+SAX_idea_land_owners_prevalence_1_desc:0 "Наше нынешнее законодательство об избирательном праве благоприятствует землевладельцам и аристократам. Доминирование этих старых элит препятствует развитию нашей промышленности и затрудняет открытие нашей страны для иностранных идей, бизнеса и капитала."
+SAX_idea_land_owners_prevalence_2:0 "Распространенность землевладельцев"
+SAX_idea_land_owners_prevalence_2_desc:0 "Наше нынешнее законодательство в значительной степени благоприятствует землевладельцам и аристократам. Доминирование этих старых элит препятствует развитию нашей промышленности и затрудняет открытие нашей страны для иностранных идей, бизнеса и капитала."
+SAX_idea_land_owners_prevalence_3:0 "Land Owners Prevalence" #NT!
+SAX_idea_land_owners_prevalence_3_desc:0 "Our current legislation heavily favors land owners and aristocrats. The dominance of these old elites hampers our ability to develop our industry and makes it harder to open our country for foreign ideas, businesses and capital." #NT!
+SAX_idea_ethnic_tensions_1:0 "Сорбская напряженность"
+SAX_idea_ethnic_tensions_1_desc:0 "Саксония не является королевством, состоящим исключительно из этнических немцев. Небольшое славянское меньшинство, сорбы, являются жителями провинции Верхняя Лужица. Лужица, некогда независимая нация, сегодня является источником этнической напряженности в Саксонии. На протяжении веков саксонцы насильно ассимилировали сорбов путем уничтожения сорбской культуры, литературы и языка. В последнее время сорбы стали более буйными, тысячи из них призывают к прекращению ассимиляции, и напряженность теперь рискует перекипеть через край."
+SAX_idea_ethnic_tensions_2:0 "Сорбское меньшинство"
+SAX_idea_ethnic_tensions_2_desc:0 "Саксония не является королевством, состоящим исключительно из этнических немцев. Небольшое славянское меньшинство, сорбы, являются жителями провинции Верхняя Лужица. Лужица, некогда независимая нация, сегодня является источником этнической напряженности внутри Саксонии. Национальная культура сорбов в настоящее время переживает свой расцвет в поэзии, музыке, литературе и языке. Тем не менее, путь взаимного признания, вероятно, ослабит напряженность и поможет мирной ассимиляции в долгосрочной перспективе."
+SAX_idea_ethnic_tensions_3:0 "Принудительная ассимиляция сорбов"
+SAX_idea_ethnic_tensions_3_desc:0 "Саксония не является королевством, состоящим исключительно из этнических немцев. Небольшое славянское меньшинство, сорбы, являются жителями провинции Верхняя Лужица. Лужица, некогда независимая нация, сегодня является источником этнической напряженности внутри Саксонии. В настоящее время национальная культура сорбов переживает свой расцвет в поэзии, музыке, литературе и языке. Мы должны подавить их сепаратистские тенденции и заставить их ассимилироваться!".
+SAX_idea_royal_society_for_sciences_1:0 "Королевское саксонское общество наук"
+SAX_idea_royal_society_for_sciences_1_desc:0 "Поддерживая Королевское саксонское общество наук, мы могли бы помочь университету обучать больше студентов, которые, в свою очередь, будут обладать знаниями в своей отрасли, например, для работы в нашем промышленном секторе и, возможно, снова произведут революцию в промышленности. Наличие квалифицированных студентов помогает нам прогрессировать как обществу, во всех вопросах. Это также поддерживает нас в нашей промышленности, где мы можем прогрессировать с более квалифицированным персоналом".
+SAX_idea_royal_society_for_sciences_2:0 "Королевское саксонское научное общество и Лейпцигский университет"
+SAX_idea_royal_society_for_sciences_2_desc:0 "Поддерживая Королевское саксонское научное общество и Лейпцигский университет, мы сможем обучать больше студентов, которые являются будущим Саксонии. Их знания пригодятся в будущем, ведь сегодняшние студенты - это завтрашние рабочие. Мы будем прогрессировать вместе с нашим обществом!"
+
+#Military Ideas #NT!
+SAX_idea_PRS_military_convention_1:0 "Военная конвенция с Пруссией"
+SAX_idea_PRS_military_convention_1_desc:0 ""Армия с государством", как много раз называли Пруссию, показала нам, как строить армию и как важно иметь сильную армию, если мы хотим оставаться независимыми. Мы определенно можем многому у них научиться!".
+SAX_idea_PRS_military_convention_2:0 "Военная конвенция с Пруссией"
+SAX_idea_PRS_military_convention_2_desc:0 ""Армия с государством", как много раз называли Пруссию, показала нам, как строить армию и как важно иметь сильную армию, если мы хотим оставаться независимыми. Мы определенно можем многому у них научиться!".
+SAX_idea_AUS_military_convention_1:0 "Военная конвенция с Австрией"
+SAX_idea_AUS_military_convention_1_desc:0 "Наш давний союзник Австрия подписала с нами военную конвенцию, чтобы помочь нам защитить себя в случае войны. Пусть она не так важна, как армия Пруссии, но все же это отличный, квалифицированный партнер, у которого мы можем многому научиться в плане нашего армейского опыта. Могущественная Австрия останется нетронутой, даже если Пруссия начнет с ней войну, поэтому мы должны с нетерпением ждать, чтобы перенять опыт их армии."
+SAX_idea_AUS_military_convention_2:0 "Военная конвенция с Австрией"
+SAX_idea_AUS_military_convention_2_desc:0 "Наш давний союзник Австрия подписала с нами военную конвенцию, чтобы помочь нам защитить себя в случае войны. Пусть она не так важна, как армия Пруссии, но все же это отличный, квалифицированный партнер, у которого мы можем многому научиться в плане нашего армейского опыта. Могущественная Австрия останется нетронутой, даже если Пруссия начнет с ней войну, поэтому мы должны с нетерпением ждать, чтобы перенять опыт их армии."
+
+#Economic Ideas #NT!
+SAX_idea_leipzig_center_of_trade_1:0 "Leipzig - Center of Trade" #NT!
+SAX_idea_leipzig_center_of_trade_1_desc:0 "Благодаря Лейпцигской ярмарке и статусу "Pelzhandelszentrum" Лейпциг показывает, что он действительно является центром торговли в Саксонии. Со средних веков Лейпциг имел особый статус в Саксонии, так как здесь пересекались Via Regia и Via Imperii, что позволило возникнуть торговле. Лейпциг продолжает эту традицию и в наши дни".
+SAX_idea_leipzig_center_of_trade_2:0 "Лейпциг - центр торговли"
+SAX_idea_leipzig_center_of_trade_2_desc:0 "С помощью Лейпцигской ярмарки и статуса "Pelzhandelszentrum" Лейпциг показывает, что он действительно является центром торговли в Саксонии. Со средних веков Лейпциг имел особый статус в Саксонии, так как здесь пересекались Via Regia и Via Imperii, что позволило возникнуть торговле. Лейпциг продолжает эту традицию и в наши дни".
+SAX_idea_leipzig_center_of_trade_3:0 "Лейпциг - центр торговли"
+SAX_idea_leipzig_center_of_trade_3_desc:0 "С помощью Лейпцигской ярмарки и статуса "Pelzhandelszentrum" Лейпциг показывает, что он действительно является центром торговли в Саксонии. Со средних веков Лейпциг имел особый статус в Саксонии, так как здесь пересекались Via Regia и Via Imperii, что позволило возникнуть торговле. Лейпциг продолжает эту традицию и в наши дни".
+SAX_idea_bergregal_1:0 "Sächsisches Bergregal"
+SAX_idea_bergregal_1_desc:0 "Bergregal - это акт, который объявляет дворянство страны владельцем нескольких минеральных ресурсов в стране. Введенный во времена ранней Священной Римской империи, он до сих пор является законом в Саксонии, что может вызвать проблемы в нашем промышленном развитии, так как возможные инвесторы могут быть лишены желания вкладывать средства."
+SAX_idea_bergregal_2:0 "Sächsisches Bergregal"
+SAX_idea_bergregal_2_desc:0 "Bergregal - это акт, который объявляет дворянство страны владельцем нескольких минеральных ресурсов в стране. Введенный во времена ранней Священной Римской империи, он до сих пор является законом в Саксонии, что может вызвать проблемы в нашем промышленном развитии, так как возможные инвесторы могут быть лишены желания вкладывать средства."
+SAX_idea_berggesetz:0 "Sächsisches Berggesetz"
+SAX_idea_berggesetz_desc:0 "Berggesetz" призван заменить строгий "Bergregal", который был введен в действие в средние века. Берггесетц" стремится де-юре осуществить изменения, которые были де-факто осуществлены некоторое время назад. Это позволит инвесторам вкладывать средства в нашу землю, не опасаясь, что их земля может отойти государству после прихода к власти нового правительства."
+SAX_idea_foreign_investors:0 "Свобода предпринимательства"
+SAX_idea_foreign_investors_desc:0 "Свобода предпринимательства необходима для того, чтобы инвесторы могли вкладывать деньги в нашу землю и экономику, не опасаясь возникновения проблем. Это позволит нашей экономике расти еще больше".
+SAX_idea_state_railways_1:0 "Königlich Sächsische Staatseisenbahnen"
+SAX_idea_state_railways_1_desc:0 "Königlich Sächsische Staatseisenbahnen" является государственной железнодорожной компанией Саксонии. Состоящая из множества мелких железнодорожных компаний, которые были созданы в результате частного строительства железных дорог в Саксонии, Королевские саксонские государственные железные дороги отвечают за строительство новых железнодорожных линий в Саксонии и железнодорожных соединений с другими немецкими землями, но они также обязаны поддерживать уже существующие железные дороги в Саксонии."
+SAX_idea_state_railways_2:0 "Königlich Sächsische Staatseisenbahnen"
+SAX_idea_state_railways_2_desc:0 "Königlich Sächsische Staatseisenbahnen" является государственной железнодорожной компанией Саксонии. Состоящая из множества мелких железнодорожных компаний, которые были созданы в результате частного строительства железных дорог в Саксонии, Королевские саксонские государственные железные дороги отвечают за строительство новых железнодорожных линий в Саксонии и железнодорожных соединений с другими немецкими землями, но они также обязаны поддерживать уже существующие железные дороги в Саксонии."
+SAX_idea_state_railways_3:0 "Königlich Sächsische Staatseisenbahnen"
+SAX_idea_state_railways_3_desc:0 "Königlich Sächsische Staatseisenbahnen" - это государственная железнодорожная компания Саксонии. Состоящая из множества более мелких железнодорожных компаний, которые были созданы в результате частного строительства железных дорог в Саксонии, Королевские саксонские государственные железные дороги отвечают за строительство новых железнодорожных линий в Саксонии и железнодорожных соединений с другими немецкими землями, но они также обязаны поддерживать уже существующие железные дороги в Саксонии."
+SAX_idea_state_railways_4:0 "Königlich Sächsische Staatseisenbahnen"
+SAX_idea_state_railways_4_desc:0 "Königlich Sächsische Staatseisenbahnen" - это государственная железнодорожная компания Саксонии. Состоящая из множества более мелких железнодорожных компаний, которые были созданы в результате частного строительства железных дорог в Саксонии, Королевские саксонские государственные железные дороги отвечают за строительство новых железнодорожных линий в Саксонии и железнодорожных соединений с другими немецкими землями, но они также обязаны поддерживать уже существующие железные дороги в Саксонии."
+SAX_idea_industrializing_model_country:0 "Модель страны немецкой индустриализации"
+SAX_idea_industrializing_model_country_desc:0 "Наше и без того превосходное положение в немецкой промышленности и статус великой промышленной державы были обеспечены. Но все же для сохранения этого статуса были необходимы реформы. Наши успешные реформы позволили модернизировать Саксонию и расширить ее промышленную мощь - как в Германии, так и за рубежом. Мы идем в светлое будущее с нашей неудержимой промышленностью!".
+
+#Construction Bonuses #NT!
+SAX_idea_boost_coal:0 "Бонус на строительство угольной шахты"
+SAX_idea_boost_coal_desc:0 "Добывая наши природные ресурсы, мы дадим нашим компаниям возможность сэкономить деньги, которые они могли бы потратить на дорогой импорт, чтобы вложить их в другие, более полезные вещи, которые, в свою очередь, укрепят нашу собственную экономику!".
+SAX_idea_boost_infra:0 "Бонус строительства инфраструктуры"
+SAX_idea_boost_infra_desc:0 "Нам необходимо улучшить нашу инфраструктуру, чтобы обеспечить стабильный транспортный поток по всей Саксонии и надежное сообщение с граничащими с нами государствами!".
+SAX_idea_boost_rail:0 "Railway Construction Bonus" #NT!
+SAX_idea_boost_rail_desc:0 "We need to expand our railways to be able to secure a steady flow of transports throughout Saxony and to secure good connectionds to the states bordering us!" #NT!
+
+#Advisor Traits #NT!
+SAX_trait_Albert_Dufour_Feronce:0 "Хорошо связанный бизнесмен\n(Нейтрал)"
+SAX_trait_Bernhard_Hirschel:0 "Пионер гомеопатии\n(Центрист)"
+SAX_trait_Carl_Koch:0 "Популярный мэр Лейпцига\n(Нейтрал)"
+SAX_trait_Friedrich_Ferdinand_von_Beust:0 "Влиятельный министр иностранных дел\n(Центрист)"
+SAX_trait_Gustav_Fechner:0 "Отец психофизики\n(Нейтрал)"
+SAX_trait_Gustav_Harkort:0 "Саксонский железнодорожный пионер\n(Нейтрал)"
+SAX_trait_Hermann_Joseph:0 "Ассоциативный член Vaterlandsverein\n(Центрист)"
+SAX_trait_Johann_Andreas_Schubert:0 "Инженер-ученый\n(Нейтрал)"
+SAX_trait_Johann_Paul_von_Falkenstein:0 "Влиятельный министр культуры\n(Консерватор)"
+SAX_trait_Julius_Traugott_von_Konneritz:0 "Консервативный администратор\n(Консерватор)"
+SAX_trait_Karl_Braun:0 "Умеренный мартовский министр\n(Центрист)"
+SAX_trait_Martin_Gotthard_Oberlander:0 "Христианский либералист\n(Центрист)"
+SAX_trait_Otto_Bruckwald:0 "Саксонский архитектор\n(Нейтрал)"
+SAX_trait_Otto_Leonhard_Heubner:0 "Саксонский турнватер\n(Центрист)"
+SAX_trait_Otto_von_Tschirschky_Bogendorff:0 "Директор Королевских саксонских железных дорог\n(Нейтрал)"
+SAX_trait_Richard_Hartmann:0 "Саксонский промышленный магнат\n(Нейтрал)"
+SAX_trait_Richard_von_Friesen:0 "Финансовый эксперт\n(Консерватор)"
+SAX_trait_Wilhelm_Pfotenhauer:0 "Промышленный мэр Дрездена\n(Консерватор)"
+
+#Companies #NT!
+kanonenbohrwerk_dresden:0 "Завод пушечного бурения в Дрездене"
+saxon_maschinenfabrik:0 "Саксонский машиностроительный завод".
+queen_mary_ironworks:0 "Железные заводы королевы Марии"
+
+#Company Traits #NT!
+SAX_trait_concern_saxon_maschinenfabrik:0 "Саксонский производитель паровозов и локомотивов"
+SAX_trait_concern_queen_mary_ironworks:0 "Саксонский королевский железоделательный завод"
+
+#Leader Traits #NT!
+SAX_trait_Beust_Trias_Promoter:0 "Promoter of the Trias" #NT!
+SAX_trait_Beust_Trias_Promoter_desc:0 "Friedrich Ferdinand von Beust is an active supporter of the Trias, the idea that the German middle states should work in close cooperation to act as a counterweight against the growing influence of the two German hegemons, Austria and Prussia. It will be interesting to see whether von Beust can succeed in uniting the German middle states politically." #NT!
+
+#Heads of State #NT!
+SAX_Johann:0 "Король Иоанн Саксонский"
+
+#Country Leader Descriptions #NT!
+SAX_FERDINAND_VON_ZSCHINSKY_LEADER_DESC:0 "Получив образование и работая юристом в частной, общественной и аристократической сферах, Фердинанд фон Зшинский проработал две недели в качестве главы Министерства внутренних дел Саксонии в 1848 году, после чего в 1849 году был назначен королем Фридрихом Августом II главой саксонского правительства, что в конечном итоге принесло ему аристократический титул в 1856 году. \n\nЗщинский руководил страной идеологически неоднозначно: одним из первых действий его правительства был роспуск Саксонского государственного парламента и восстановление менее либеральной конституции 1831 года (значительный отказ от уступок, сделанных после революции 1848 года), но с другой стороны он также лишил феодальных помещиков их юридической юрисдикции и разделил полномочия государства и судебной власти. \n\nХотя его пребывание у власти имело большое значение для Саксонии, Фердинанд фон Зшинский находится в слабом состоянии здоровья, и, вероятно, ему осталось недолго руководить".
+
+### OPINION MODIFIERS ### #NT!
+SAX_THU_HISTORICAL_TIES_REL:0 "Исторические связи"
+SAX_LEGACY_OF_THE_FOUR_KINGS_ALLIANCE_REL:0 "Legacy of the Four Kings' Alliance" #NT!
+SAX_LEGACY_OF_THE_FOUR_KINGS_ALLIANCE_WEAK_REL:0 "Legacy of the Four Kings' Alliance" #NT!
+SAX_LEGACY_OF_BAMBERG_REL:0 "Legacy of the Bamberg Conference" #NT!
+SAX_PRS_ANTI_PRUSSIAN_SENTIMENT_REL:0 "Антипрусские настроения"
+SAX_PRS_EARLY_RAPPROCHEMENT_REL:0 "Попытка сближения"
+SAX_PRS_MEDIUM_RAPPROCHEMENT_REL:0 "Продолжающееся сближение"
+SAX_PRS_FULL_RAPPROCHEMENT_REL:0 "Успешное сближение"
+SAX_AUS_GOODWILL_REL:0 "Австро-саксонская добрая воля"
+SAX_AUS_GOODWILL_COOLING_REL:0 "Охлаждение австро-саксонской доброй воли"
+SAX_GC_BUNDESREFORM_SUPPORT_REL:0 "Supports Bundesreform Endeavor" #NT!
+SAX_GC_BUNDESREFORM_POSITIVE_REL:0 "Положительно реагирует на начинание бундесреформы"
+SAX_GC_BUNDESREFORM_CAUTIOUS_REL:0 "Осторожно отреагировали на начинание бундесреформы"
+SAX_GC_BUNDESREFORM_NEGATIVE_REL:0 "Негативно отреагировали на начинание бундесреформы"
+SAX_MILITARY_CONVENTION_EARLY_REL:0 "Военная конвенция подписана"
+SAX_MILITARY_CONVENTION_MEDIUM_REL:0 "Военная конвенция активизировалась"
+SAX_MILITARY_CONVENTION_REJECTED_REL:0 "Военная конвенция отклонена"

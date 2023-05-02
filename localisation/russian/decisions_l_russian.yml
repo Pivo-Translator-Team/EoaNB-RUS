@@ -1,0 +1,857 @@
+﻿l_russian:
+ war_planning: "Планирование войны"
+ DECISIONVIEW_TITLE: "События и решения"
+ DECISIONSVIEW_EVENT_HEADER: "События"
+ POPUP_NEWS: "Всплывающее окно новостей"
+ POPUP_EVENTS: "Всплывающее окно события"
+ CATEGORY_COLLAPSE_DESC: "§GЩёлкните§! чтобы свернуть"
+ CATEGORY_EXPAND_DESC: "§GЩёлккните§! чтобы развернуть"
+ DECISION_KEEP_NOTIFIED:1 "§HУведомление§!\n\n§GЩёлкните§! чтобы §Rне получать уведомление§! когда можно будет принять это решение.\n"
+ DECISION_NOT_KEEP_NOTIFIED:1 "§HУведомление§!\n\n§GЩёлкните§! чтобы §Gбыть уведомлённым§! когда можно принять это решение.\n"
+ TAKE_DECISION_HEADER: "§HПринять решение§!\n\n\n"
+ NEWS_POPUP_CHECKBOX_TOOLTIP:0 "§GЩёлкните§! для переключения уведомлений о новостях."
+ EVENT_POPUP_CHECKBOX_TOOLTIP:0 "§GЩёлкните§! для переключения уведомлений о событиях."
+ MINOR_EVENT_POPUP_CHECKBOX_TOOLTIP:0 "§GЩёлкните§! для переключения уведомлений о незначительных событиях, таких как события Пилот Ас."
+ POPUP_MINOR_EVENTS:0 "Незначительное всплывающее окно"
+ DECISION_COST_DESC: "Принятие решения стоит £pol_power $VAL|H0$".
+ DECISION_COST_NOT_ENOUGH: "Принятие решения обходится в £pol_power $VAL|HR0$".
+ country_decisions: "Решения по всей стране"
+ ON_MAP_DECISION_NAME_DEFAULT: "Найти решения на карте".
+ ADD_DAYS_TO_DECISION: "Добавить $DAYS|H$ дней к решению $DECISION|H$".
+ REMOVE_DAYS_TO_DECISION: "Удалить дни $DAYS|H$ из решения $DECISION|H$".
+ ADD_DAYS_TO_MISSION: "Добавить дни $DAYS|H$ к миссии $MISSION|H$".
+ REMOVE_DAYS_TO_MISSION: "Удалить дни $DAYS|H$ из миссии $MISSION|H$".
+ CLICK_TO_TOGGLE_ALL_CATEGORY_DECISION_TRACKING: "§GЩёлкните§! чтобы переключить статус уведомления для всех решений в этой категории."
+ eoanb_category_institutions: "Научное развитие"
+ eoanb_decision_advance_to_machine_era: "Продвижение в машинную эру"
+ eoanb_decision_advance_to_machine_era_desc: "Ваша страна перейдет в машинную эру.\n\nЭто потребует от вас значительного прогресса в промышленном строительстве и научных исследованиях в областях §YМеханическая инженерия§!, §YПроцессная инженерия§!, §YБиохимия§! и §YЭлектроника и приборы§! Чем раньше вы хотите перейти в следующую эру, тем более передовой должна быть ваша страна".
+ eoanb_tt_advance_era_machine: "§Y[Root.GetName]§! перейдет в §bМашинную Эру§!".
+ eoanb_decision_advance_to_oil_era: "Продвинуться в нефтяную эру"
+ eoanb_decision_advance_to_oil_era_desc: "Ваша страна перейдет в нефтяную эру.\n\nЭто потребует от вас значительного прогресса в промышленном строительстве и научных исследованиях в областях §YМеханическая инженерия§!, §YПроцессная инженерия§!, §YБиохимия§! и §YЭлектроника и приборы§! Чем раньше вы хотите перейти в следующую эру, тем более передовой должна быть ваша страна".
+ eoanb_decision_advance_to_victorian_era: "Продвинуться в Викторианскую эпоху".
+ eoanb_decision_advance_to_victorian_era_desc: "Ваша страна перейдет в Викторианскую эпоху.\n\nЭто потребует от вас значительного прогресса в промышленном строительстве и научных исследованиях в областях §YМеханическая инженерия§!, §YПроцессная инженерия§!, §YБиохимия§! и §YЭлектроника и приборы§! Чем раньше вы хотите перейти в следующую эру, тем более передовой должна быть ваша страна".
+ eoanb_decision_advance_to_aviation_era: "§Y[Root.GetName]§! перейдет в §bЭпоху Авиации!§!".
+ eoanb_decision_advance_to_aviation_era_desc: ""
+ eoanb_tt_advance_era_victorian: "§Y[Root.GetName]§! перейдет в §bВикторианскую эпоху!§!"
+ eoanb_tt_advance_era_oil: "§Y[Root.GetName]§! перейдет в §bНефтяную эру!§!".
+ eoanb_decision_pursue_dream_flight: "Преследовать мечту о полете".
+ eoanb_decision_pursue_dream_flight_desc: "Человек давно мечтал летать в небе. Наша страна готова сделать первые шаги к осуществлению этой мечты".
+ eoanb_decision_war_austerity: "Продвигать [Root.GetAdjective] Военную экономию".
+ eoanb_decision_war_austerity_desc: "Наш народ должен беречь свои ресурсы и помогать своему государству как можно лучше, чтобы мы выиграли войну!".
+ eoanb_category_diplomatic_actions: "Дипломатические действия"
+ eoanb_category_economic: "Экономические решения"
+ eoanb_decision_building_slot_victorian: "Развивать [Root.GetAdjective] Родину".
+ eoanb_decision_building_slot_victorian_desc: "Нашим штатам не помешало бы немного финансирования для увеличения развития, что позволит нам построить больше зданий в соответствующей области."
+ eoanb_decision_building_slot_victorian_cost: "[eoanb_decision_building_slot_victorian_cost_scripted]".
+ eoanb_decision_building_slot_victorian_cost_blocked: "[eoanb_decision_building_slot_victorian_cost_blocked_scripted]"
+ eoanb_decision_building_slot_victorian_cost_tooltip: "[eoanb_decision_building_slot_victorian_cost_tooltip_scripted]"
+ eoanb_decision_building_slot_victorian_cost_loc: "£pol_power §H100§!"
+ eoanb_decision_building_slot_victorian_cost_loc_blocked: "£pol_power §R100§!"
+ eoanb_decision_building_slot_victorian_cost_loc_tooltip: "Стоит §R100§! £pol_power, чтобы принять решение"
+ eoanb_is_crisis_true: "§R[Root.GetNameDef] переживает Кризис!§!".
+ eoanb_decision_promote_shipbuilding: "Субсидировать [Root.GetAdjective] судостроительную промышленность".
+ eoanb_decision_promote_shipbuilding_desc: "Нам нужно расширить наш флот - и для этого нам нужно больше кораблей. Целевая кампания по финансированию наших верфей и военно-морских заводов поможет нам построить их больше".
+ eoanb_decision_promote_shipbuilding_cost: "[eoanb_decision_promote_shipbuilding_cost_scripted]".
+ eoanb_decision_promote_shipbuilding_cost_blocked: "[eoanb_decision_promote_shipbuilding_cost_blocked_scripted]"
+ eoanb_decision_promote_shipbuilding_cost_tooltip: "[eoanb_decision_promote_shipbuilding_cost_tooltip_scripted]"
+ eoanb_decision_promote_shipbuilding_cost_loc: "£pol_power §H200§!"
+ eoanb_decision_promote_shipbuilding_cost_loc_blocked: "£pol_power §R200§!"
+ eoanb_decision_promote_shipbuilding_cost_loc_tooltip: "Стоит §Р200§! £pol_power, чтобы принять решение"
+ eoanb_decision_infrastructure_investment_debt_cost: "[eoanb_decision_infrastructure_investment_debt_cost_scripted]"
+ eoanb_decision_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_infrastructure_investment_debt_cost_blocked_scripted]"
+ eoanb_decision_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_infrastructure_investment_debt_cost_tooltip_scripted]"
+ eoanb_decision_infrastructure_investment_debt_cost_loc: "£pol_power §H50§!" #NT!
+ eoanb_decision_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R50§!"
+ eoanb_decision_infrastructure_investment_debt_cost_loc_tooltip: "Принятие решения стоит 50£pol_power."
+ eoanb_decision_army_infrastructure_investment_debt_cost: "[eoanb_decision_army_infrastructure_investment_debt_cost_scripted]".
+ eoanb_decision_army_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_army_infrastructure_investment_debt_cost_blocked_scripted]" #NT!
+ eoanb_decision_army_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_army_infrastructure_investment_debt_cost_tooltip_scripted]" #NT!
+ eoanb_decision_army_infrastructure_investment_debt_cost_loc: "£pol_power §H50§! £command_power §H50§!" #NT!
+ eoanb_decision_army_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R50§! £command_power §R50§!" #NT!
+ eoanb_decision_army_infrastructure_investment_debt_cost_loc_tooltip: "Принятие решения стоит 50£pol_power и 50£command_power".
+ eoanb_decision_army_investment_debt_cost: "[eoanb_decision_army_investment_debt_cost_scripted]"
+ eoanb_decision_army_investment_debt_cost_blocked: "[eoanb_decision_army_investment_debt_cost_blocked_scripted]"
+ eoanb_decision_army_investment_debt_cost_tooltip: "[eoanb_decision_army_investment_debt_cost_tooltip_scripted]"
+ eoanb_decision_army_investment_debt_cost_loc: "£pol_power §H25§!  £army_experience §H25§!  £command_power §H50§!".
+ eoanb_decision_army_investment_debt_cost_loc_blocked: "£pol_power §R25§!  £army_experience §R25§!  £command_power §R50§!".
+ eoanb_decision_army_investment_debt_cost_loc_tooltip: "Принятие решения стоит 25£pol_power, 25£army_experience и 50£command_power".
+ eoanb_decision_navy_infrastructure_investment_debt_cost: "[eoanb_decision_navy_infrastructure_investment_debt_cost_scripted]".
+ eoanb_decision_navy_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_navy_infrastructure_investment_debt_cost_blocked_scripted]" #NT!
+ eoanb_decision_navy_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_navy_infrastructure_investment_debt_cost_tooltip_scripted]"
+ eoanb_decision_navy_infrastructure_investment_debt_cost_loc: "£pol_power §H100§! £navy_experience §H50§! £command_power §H50§!" #NT!
+ eoanb_decision_navy_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R100§! £navy_experience §R50§!  £command_power §50§!".
+ eoanb_decision_navy_infrastructure_investment_debt_cost_loc_tooltip: "Принятие решения стоит 100£pol_power, 50£navy_experience и 50£command_power".
+ eoanb_decision_navy_investment_debt_cost: "[eoanb_decision_navy_investment_debt_cost_scripted]".
+ eoanb_decision_navy_investment_debt_cost_blocked: "[eoanb_decision_navy_investment_debt_cost_blocked_scripted]"
+ eoanb_decision_navy_investment_debt_cost_tooltip: "[eoanb_decision_navy_investment_debt_cost_tooltip_scripted]"
+ eoanb_decision_navy_investment_debt_cost_loc: "£pol_power §H25§!  £navy_experience §H25§!  £command_power §H50§!".
+ eoanb_decision_navy_investment_debt_cost_loc_blocked: "£pol_power §R25§!  £navy_experience §R25§!  £command_power §R50§!".
+ eoanb_decision_navy_investment_debt_cost_loc_tooltip: "Принятие решения стоит 25£pol_power, 25£navy_experience и 50£command_power".
+ eoanb_decision_cost_1_debt_loc: "§R+1§! £prosperity_texticon"
+ eoanb_decision_cost_1_debt_loc_blocked: "§RБанкрот§!"
+ eoanb_decision_cost_1_debt_loc_tooltip: "§R+1§! £prosperity_texticon  §Y[Root.GetAdjective]§!  долг §Rвырастет§! на 1"
+ eoanb_decision_cost_2_debt_loc: "§R+2§! £prosperity_texticon"
+ eoanb_decision_cost_2_debt_loc_blocked: "§RБанкрот§!"
+ eoanb_decision_cost_2_debt_loc_tooltip: "§R+2§! £prosperity_texticon  §Y[Root.GetAdjective]§!  долг §Rвырастет§! на 2"
+ eoanb_decision_cost_3_debt_loc: "§R+3§! £prosperity_texticon"
+ eoanb_decision_cost_3_debt_loc_blocked: "§RБанкрот§!"
+ eoanb_decision_cost_3_debt_loc_tooltip: "§R+3§! £prosperity_texticon  §Y[Root.GetAdjective]§!  долг §Rвырастет§! на 3"
+ eoanb_decision_cost_4_debt_loc: "§R+4§! £prosperity_texticon"
+ eoanb_decision_cost_4_debt_loc_blocked: "§RБанкрот§!"
+ eoanb_decision_cost_4_debt_loc_tooltip: "§R+4§! £prosperity_texticon  §Y[Root.GetAdjective]§!  долг §Rвырастет§! на 4"
+ eoanb_decision_cost_5_debt_loc: "§R+5§! £prosperity_texticon"
+ eoanb_decision_cost_5_debt_loc_blocked: "§RБанкрот§!"
+ eoanb_decision_cost_5_debt_loc_tooltip: "§R+5§! £prosperity_texticon  §Y[Root.GetAdjective]§!  долг §Rвырастет§! на 5"
+ eoanb_decision_cost_6_debt_loc: "§R+6§! £prosperity_texticon"
+ eoanb_decision_cost_6_debt_loc_blocked: "§RБанкрот§!"
+ eoanb_decision_cost_6_debt_loc_tooltip: "§R+6§! £prosperity_texticon  §Y[Root.GetAdjective]§!  долг §Rвырастет§! на 6"
+ eoanb_decision_cost_7_debt_loc: "§R+7§! £prosperity_texticon"
+ eoanb_decision_cost_7_debt_loc_blocked: "§RБанкрот§!"
+ eoanb_decision_cost_7_debt_loc_tooltip: "§R+7§! £prosperity_texticon  §Y[Root.GetAdjective]§!  долг §Rвырастет§! на 7"
+ eoanb_decision_cost_8_debt_loc: "§R+8§! £prosperity_texticon"
+ eoanb_decision_cost_8_debt_loc_blocked: "§RБанкрот§!"
+ eoanb_decision_cost_8_debt_loc_tooltip: "§R+8§! £prosperity_texticon  §Y[Root.GetAdjective]§!  долг §Rвырастет§! на 8"
+ eoanb_decision_cost_9_debt_loc: "§R+9§! £prosperity_texticon"
+ eoanb_decision_cost_9_debt_loc_blocked: "§RБанкрот§!"
+ eoanb_decision_cost_9_debt_loc_tooltip: "§R+9§! £prosperity_texticon  §Y[Root.GetAdjective]§!  долг §Rвырастет§! на 9"
+ eoanb_decision_cost_10_debt_loc: "§R+10§! £prosperity_texticon"
+ eoanb_decision_cost_10_debt_loc_blocked: "§RБанкрот§!"
+ eoanb_decision_cost_10_debt_loc_tooltip: "§R+10§! £prosperity_texticon  §Y[Root.GetAdjective]§!  долг §Rвырастет§! на 10"
+ eoanb_decision_cost_20_debt_loc: "§R+20§! £prosperity_texticon"
+ eoanb_decision_cost_20_debt_loc_blocked: "§RБанкрот§!"
+ eoanb_decision_cost_20_debt_loc_tooltip: "§R+20§! £prosperity_texticon  §Y[Root.GetAdjective]§!  долг §Rвырастет§! на 20"
+ eoanb_decision_cost_1_debt_50pp: "[eoanb_decision_investment_debt_and_50_pp_cost_scripted]" #NT!
+ eoanb_decision_cost_1_debt_50pp_blocked: "[eoanb_decision_investment_debt_and_50_pp_cost_blocked_scripted]" #NT!
+ eoanb_decision_cost_1_debt_50pp_tooltip: "[eoanb_decision_investment_debt_and_50_pp_cost_tooltip_scripted]" #NT!
+ eoanb_decision_cost_1_debt_50pp_loc: "£pol_power §H50§!  §R+1§! £prosperity_texticon" #NT!
+ eoanb_decision_cost_1_debt_50pp_loc_blocked: "£pol_power §R50§!  §R+1§! £prosperity_texticon" #NT!
+ eoanb_decision_cost_1_debt_50pp_loc_tooltip: "It costs 50£pol_power to take the decision, and §Y[Root.GetName]'s§! debt §Rincreases§! by 1" #NT!
+ eoanb_decision_cost_1_debt_75pp: "[eoanb_decision_investment_debt_and_75_pp_cost_scripted]" #NT!
+ eoanb_decision_cost_1_debt_75pp_blocked: "[eoanb_decision_investment_debt_and_75_pp_cost_blocked_scripted]" #NT!
+ eoanb_decision_cost_1_debt_75pp_tooltip: "[eoanb_decision_investment_debt_and_75_pp_cost_tooltip_scripted]" #NT!
+ eoanb_decision_cost_1_debt_75pp_loc: "£pol_power §H75§!  §R+1§! £prosperity_texticon" #NT!
+ eoanb_decision_cost_1_debt_75pp_loc_blocked: "£pol_power §R75§!  §R+1§! £prosperity_texticon" #NT!
+ eoanb_decision_cost_1_debt_75pp_loc_tooltip: "It costs 75£pol_power to take the decision, and §Y[Root.GetName]'s§! debt §Rincreases§! by 1" #NT!
+ eoanb_decision_cost_1_debt_100pp: "[eoanb_decision_investment_debt_and_100_pp_cost_scripted]" #NT!
+ eoanb_decision_cost_1_debt_100pp_blocked: "[eoanb_decision_investment_debt_and_100_pp_cost_blocked_scripted]" #NT!
+ eoanb_decision_cost_1_debt_100pp_tooltip: "[eoanb_decision_investment_debt_and_100_pp_cost_tooltip_scripted]" #NT!
+ eoanb_decision_cost_1_debt_100pp_loc: "£pol_power §H100§!  §R+1§! £prosperity_texticon" #NT!
+ eoanb_decision_cost_1_debt_100pp_loc_blocked: "£pol_power §R100§!  §R+1§! £prosperity_texticon" #NT!
+ eoanb_decision_cost_1_debt_100pp_loc_tooltip: "It costs 100£pol_power to take the decision, and §Y[Root.GetName]'s§! debt §Rincreases§! by 1" #NT!
+ eoanb_command_power_20: "£command_power §H20§!"
+ eoanb_command_power_20_blocked: "£command_power §R20§!"
+ eoanb_command_power_20_tooltip: "Принятие этого решения стоит 20£command_power!".
+ eoanb_command_power_50: "£command_power §H50§!".
+ eoanb_command_power_50_blocked: "£command_power §Р50§!"
+ eoanb_command_power_50_tooltip: "Принятие решения стоит 50£command_power".
+ eoanb_command_power_100: "£command_power §H100§!".
+ eoanb_command_power_100_blocked: "£command_power §R100§!"
+ eoanb_command_power_100_tooltip: "Принятие решения стоит 100£command_power".
+ eoanb_command_power_100_army_experience_25: "£command_power §H100§!  £army_experience §H25§!".
+ eoanb_command_power_100_army_experience_25_blocked: "£command_power §R100§!  £армия_опыта §R25§!".
+ eoanb_command_power_100_army_experience_25_tooltip: "Принятие решения стоит 100£ command_power и 25£army_experience".
+ eoanb_political_power_100_command_power_50: "£pol_power §H100§! £command_power §H50§!" #NT!
+ eoanb_political_power_100_command_power_50_blocked: "£pol_power §R100§! £command_power §R50§!" #NT!
+ eoanb_political_power_100_command_power_50_tooltip: "It costs 100£pol_power and 50£command_power to take the decision." #NT!
+ eoanb_political_power_20_command_power_50: "£pol_power §H20§! £command_power §Н50§!".
+ eoanb_political_power_20_command_power_50_blocked: "£pol_power §R20§! £команда_власти §Р50§!".
+ eoanb_political_power_20_command_power_50_tooltip: "Принятие решения стоит 20£pol_power и 50£command_power".
+ eoanb_political_power_10_command_power_75: "£pol_power §H10§! £command_power §H75§!".
+ eoanb_political_power_10_command_power_75_blocked: "£pol_power §R10§! £команда_власти §Р75§!".
+ eoanb_political_power_10_command_power_75_tooltip: "Принятие решения стоит 10£pol_power и 75£command_power."
+ eoanb_political_power_25_army_experience_25_command_power_50: "£pol_power §H25§! £army_experience §H25§! £command_power §H50§!".
+ eoanb_political_power_25_army_experience_25_command_power_50_blocked: "£pol_power §R25§! £army_experience §R25§! £command_power §R50§!".
+ eoanb_political_power_25_army_experience_25_command_power_50_tooltip: "Принятие решения стоит 25£pol_power, 25£army_experience и 50£command_power".
+ eoanb_political_power_25_navy_experience_25_command_power_50: "£pol_power §H25§! £navy_experience §H25§! £command_power §H50§!".
+ eoanb_political_power_25_navy_experience_25_command_power_50_blocked: "£pol_power §R25§! £navy_experience §R25§! £command_power§R50§!".
+ eoanb_political_power_25_navy_experience_25_command_power_50_tooltip: "Принятие решения стоит 25£pol_power, 25£navy_experience и 50£command_power".
+ eoanb_political_power_100_loc: "£pol_power §H100§!" #NT!
+ eoanb_political_power_100_loc_blocked: "£pol_power §R100§!" #NT!
+ eoanb_political_power_100_loc_tooltip: "It costs 100£pol_power to take the decision." #NT!
+ eoanb_political_power_75_loc: "£pol_power §H75§!" #NT!
+ eoanb_political_power_75_loc_blocked: "£pol_power §R75§!" #NT!
+ eoanb_political_power_75_loc_tooltip: "It costs 75£pol_power to take the decision." #NT!
+ eoanb_political_power_50_loc: "£pol_power §H50§!" #NT!
+ eoanb_political_power_50_loc_blocked: "£pol_power §R50§!" #NT!
+ eoanb_political_power_50_loc_tooltip: "It costs 50£pol_power to take the decision." #NT!
+ eoanb_decision_war_troops_inspire: "Поднять боевой дух армии".
+ eoanb_decision_war_troops_inspire_desc: "Мы ведем войну, и наши армии могли бы проявить больше энтузиазма. Кампания военного вдохновения может пойти нам на пользу".
+ eoanb_category_politics_internal: "Внутренняя политика"
+ eoanb_decision_drift_centrism: "Поощрять [Root.GetAdjective] либерализм".
+#centrism_desc:0 "We want to have our country experience a drift towards centrism and we will take the steps necessary to ensure political authors and leaders promoting it are heard."
+ eoanb_decision_war_mobilize_men: "Отчаянная мобилизация"
+ eoanb_decision_war_mobilize_men_desc: "Для победы в войне нам нужна еще горстка мужчин - их призыв, вероятно, повлияет на общественное мнение о том, как мы ведем конфликт, но победа важнее этого".
+ eoanb_decision_AUS_mein_wille: "\"Es ist mein Wille!\""
+ eoanb_decision_AUS_mein_wille_desc: "Франц Иосиф I давно планировал снести некоторые части старой венской городской стены, чтобы построить новую дорогу, проходящую вокруг города, называемую Рингштрассе. Этим указом будет дано разрешение на начало строительства".
+ AUS_flag_about_to_form_g: "Австрия собирается самостоятельно образовать Германию".
+ eoanb_decision_BAV_ask_austria_to_unify_germany: "Попросить Австрию об объединении Германии"
+ eoanb_tt_no_war_with_japan: "Не в состоянии войны с Японией"
+ eoanb_tt_no_war_with_china: "Не воюет с Китаем"
+ eoanb_decision_SWI_JAP_treaty: "Договор с Японией"
+ eoanb_decision_SWI_JAP_treaty_desc: "Япония - восходящая держава. Мы должны первыми признать это и заключить с ними договор о дружбе и торговле. Это укрепит наши взаимные позиции. В конце концов, и Япония, и Швейцария в чем-то похожи - богатые, изолированные нации своего региона."
+ eoanb_decision_BEL_JAP_treaty: "Договор с Японией".
+ eoanb_decision_BEL_JAP_treaty_desc: "Япония - восходящая держава. Мы должны первыми признать это и заключить с ними договор о дружбе и торговле. Это укрепит наши взаимные позиции".
+ RUS_decision_category_siberian_colonization: "Колонизация Сибири"
+ RUS_decision_category_siberian_colonization_desc: "Продвижение на восток было одним из самых выгодных дел России с самого начала ее истории. Славяне тысячу лет заселяли поля и леса русских равнин, затем новогородцы заселяли тундры Северной Руси, и это достигло кульминации в безудержном походе в XVI и XVII веках, когда русские появились, чтобы закрепиться в Сибири и на Дальнем Востоке. После небольшой неудачи в Нерчинске, где империи Цинь удалось заключить выгодный для себя договор и лишить Россию своих завоеваний из-за коррупции русских чиновников, в распоряжении русских оставались обширные пространства Сибири с ее богатыми запасами природных ресурсов, таких как железо, медь, драгоценные камни, уголь, меха и древесина. Но этот гигантский регион, вмещающий по меньшей мере еще одну Европу, населен скуднее, чем европейская Россия, и по количеству жителей не может сравниться даже с Францией или Австрией. Поэтому российское правительство постоянно начинало кампании по заселению Сибири колонистами, в основном состоящими из крестьян и казаков. В XIX веке проблема все еще остается, а крестьянство Европейской России становится все более и более бедным, и с каждым поколением его земельные наделы становятся все меньше и меньше. Если правительство выделит некоторые ресурсы, а также избавится от коррумпированных бюрократов на пути мигрантов, проблемы с крестьянством могут быть сведены на нет... до следующего поколения".
+ eoanb_flag_RUS_colonizing_siberia: "Россия прилагает огромные усилия для колонизации Сибири".
+ eoanb_flag_RUS_colonizing_siberia_intensely: "Россия прилагает огромные усилия для колонизации Сибири".
+ eoanb_trigger_state_is_siberian: "Государство находится в Сибири".
+ eoanb_decision_RUS_resettle_polish: "Переселить польских граждан в Сибирь".
+ eoanb_decision_RUS_resettle_polish_desc: "После недавнего восстания в Польше нам необходимо рассеять сепаратистскую мысль. Одним из способов сделать это было бы переселение некоторых польских граждан в Сибирь. Это также поможет нашим усилиям по колонизации там".
+ eoanb_tt_decision_RUS_resettle_polish: "§Y20,000§! Польских граждан будет переселено из польских земель в сибирские земли."
+ eoanb_decision_RUS_siberia_efforts_increase: "Увеличить усилия по колонизации"
+ eoanb_decision_RUS_siberia_efforts_increase_desc: "Нам нужно предоставить больше финансирования, пропагандировать крестьян для переселения туда и больше проверять чиновников на их компетентность, чтобы количество колонистов в Сибири увеличилось."
+ eoanb_decision_RUS_siberia_efforts_decrease: "Уменьшить усилия по колонизации".
+ eoanb_decision_RUS_siberia_efforts_decrease_desc: "Нам нужно предоставить меньше финансирования и мотивации мигрантам, чтобы количество колонистов в Сибири уменьшилось."
+ eoanb_decision_RUS_siberia_efforts_end: "Прекратить усилия по колонизации".
+ eoanb_decision_RUS_siberia_efforts_end_desc: "Мы достаточно колонизировали Сибирь. Больше нет необходимости стимулировать наших людей к переселению с наших основных земель. Мы прекращаем направленные усилия по колонизации Сибири".
+ eoanb_tt_decision_RUS_siberia_efforts_increase: "Количество колонистов, переселяемых каждый год, будет §Gувеличиваться§!".
+ eoanb_tt_decision_RUS_siberia_efforts_decrease: "Количество колонистов, переселяемых каждый год, будет §Rуменьшаться§!".
+ eoanb_tt_decision_RUS_siberia_efforts_end: "Наши усилия по колонизации Сибири будут прекращены".
+ eoanb_missions: "Миссии".
+ eoanb_situations: "Ситуации"
+ eoanb_crisis: "Кризисы"
+ eoanb_decision_AUS_gerconfed_frk: "Франкфуртское реформаторство"
+ eoanb_decision_AUS_gerconfed_frk_desc: "Мы попытаемся провести некоторые реформы в Германской конфедерации, чтобы укрепить наши позиции".
+#eoanb_tt_decisions_aus_frk:0 "§YAll members of the German Confederation will get an event where they can vote on our proposal.§!"
+ eoanb_var_votes_gerconfed_1_yes: "Число голосов за Франкфуртские реформы"
+ eoanb_var_votes_gerconfed_1_no: "Количество голосов против реформ Франкфурта"
+ eoanb_tt_decisions_aus_frk: "§YВсе члены Германской Конфедерации получат мероприятие, где они смогут проголосовать по нашему предложению.§!\n\n§GЗа каждый голос в нашу поддержку мы получим небольшое количество политической власти.§!"
+ eoanb_decision_AUS_gerconfed_frk2: "День франкфуртских принцев"
+ eoanb_decision_AUS_gerconfed_frk2_desc: "Мы пригласим всех членов Германской Конфедерации на диету во Франкфурте, где мы будем представлять наши интересы для будущего Конфедерации."
+ eoanb_decision_ALL_gerconfed_war1: "Мобилизация для второй войны за независимость".
+ eoanb_decision_ALL_gerconfed_war1_desc: "Австрия ведет войну с Сардинией-Пьемонтом за территорию Ломбардии - поскольку Италия также является регионом государств, борющихся за объединение, возможно, мы могли бы чему-то научиться у этой войны. Нам следует мобилизовать некоторые войска - если мы не воспользуемся этой возможностью, мы можем отстать".
+ FRA_decision_general_amnesty: "Общая амнистия"
+ FRA_decision_general_amnesty_desc: "Это немного сдвинет нас в сторону автократии".
+ eoanb_decision_generic_seek_heir: "Искать наследника".
+ eoanb_decision_generic_seek_heir_desc: "[Root.GetNameDef] слишком долго был без сильного преемника, и народ начинает беспокоиться - нам следует искать наследника."
+ eoanb_decision_generic_strengthen_heir: "Усилить притязания нашего наследника".
+ eoanb_decision_generic_strengthen_heir_desc: "Наш нынешний наследник слаб, и мы не хотим заменять следующее поколение. Мы должны попытаться доказать, что наследник достоин править нашей страной".
+ eoanb_religious_affairs: "Религиозные дела"
+ eoanb_decision_generic_change_protestant: "Перейти в протестантизм".
+ eoanb_decision_generic_change_protestant_desc: "Мы можем попытаться изменить религию большинства в [Root.GetName] на протестантизм. Это будет долгое и дорогостоящее дело, но мы можем это сделать...".
+ eoanb_decision_generic_change_catholic: "Перевести в католицизм".
+ eoanb_decision_generic_change_catholic_desc: "Мы можем попытаться изменить религию большинства в [Root.GetName] на католицизм. Это будет долгое и дорогостоящее дело, но мы можем это сделать...".
+ eoanb_tt_decision_protestant: "Большинство в государстве [Root.GetName] перейдет в §YПротестантизм§!".
+ eoanb_tt_decision_catholic: "Большинство в государстве [Root.GetName] перейдет в §YКатолицизм§!".
+ eoanb_tt_decision_secular: "[Root.GetName] станет §Yсекулярной§! нацией".
+ eoanb_decision_generic_change_secular: "Начать секуляризацию государства [Root.GetName]".
+ eoanb_decision_generic_change_secular_desc: "Нашему народу и стране давно пора научиться принимать все религии. Мы попытаемся секуляризировать нашу страну, хотя это будет чрезвычайно дорого и займет много, много времени...".
+#jihad_wargoal:0 "Jihad"
+ eoanb_decision_generic_jiahd_against_christianity: "Готовьтесь к джихаду против язычников!"
+ eoanb_decision_generic_jiahd_against_christianity_desc: "Нельзя больше терпеть язычников у наших границ! Мы должны напасть на них!"
+ eoanb_decision_generic_hold_animist_festival: "Подношения нашим богам"
+ eoanb_decision_generic_hold_animist_festival_desc: "Мы должны провести фестиваль, чтобы умиротворить наших богов!"
+ eoanb_tt_decision_industrializing: "§Y[Root.GetName] начнет индустриализацию!§!".
+ eoanb_decision_generic_start_industrializing: "Начать индустриализацию"
+ eoanb_decision_generic_start_industrializing_desc: "Наша промышленность должна перейти к более эффективным методам производства."
+ eoanb_decision_generic_start_industrializing_cost: "[eoanb_decision_generic_start_industrializing_cost_scripted]"
+ eoanb_decision_generic_start_industrializing_cost_blocked: "[eoanb_decision_generic_start_industrializing_cost_blocked_scripted]"
+ eoanb_decision_generic_start_industrializing_cost_tooltip: "[eoanb_decision_generic_start_industrializing_cost_tooltip_scripted]"
+ eoanb_decision_generic_start_industrializing_cost_loc: "£pol_power §H250§!".
+ eoanb_decision_generic_start_industrializing_cost_loc_blocked: "£pol_power §R250§!".
+ eoanb_decision_generic_start_industrializing_cost_loc_tooltip: "Стоит §R250§! £pol_power для принятия решения"
+
+ eoanb_decision_generic_industrialiation: "Полная индустриализация"
+ eoanb_decision_generic_industrialiation_desc: "Нашей промышленности необходимо перейти к более эффективным методам производства".
+ eoanb_decision_generic_industrialiation_cost: "[eoanb_decision_generic_industrialiation_cost_scripted]"
+ eoanb_decision_generic_industrialiation_cost_blocked: "[eoanb_decision_generic_industrialiation_cost_blocked_scripted]"
+ eoanb_decision_generic_industrialiation_cost_tooltip: "[eoanb_decision_generic_industrialiation_cost_tooltip_scripted]"
+ eoanb_decision_generic_industrialiation_cost_loc: "£pol_power §H250§!"
+ eoanb_decision_generic_industrialiation_cost_loc_blocked: "£pol_power §R250§!"
+ eoanb_decision_generic_industrialiation_cost_loc_tooltip: "Стоит §R250§! £pol_power для принятия решения"
+
+ eoanb_tt_decision_public_schools: "§YМы перейдем на систему государственных школ.§!".
+ eoanb_decision_generic_public_schools: "Обеспечить государственное образование"
+ eoanb_decision_generic_public_schools_desc: "Чтобы обеспечить наше будущее, следующие поколения должны быть хорошо образованы".
+ eoanb_flag_istanbul_renamed_constantinople: "Стамбул был переименован в Константинополь".
+ eoanb_decision_generic_rename_constantinople: "Переименовать Стамбул в Константинополь".
+ eoanb_decision_generic_rename_constantinople_desc: "Мы отвоевали священный византийский город! Мы должны переименовать его соответствующим образом...".
+ eoanb_decision_generic_rename_istanbul: "Переименовать Константинополь в Стамбул".
+ eoanb_decision_generic_rename_istanbul_desc: "Мы отвоевали город Константинополь у христиан! Мы должны немедленно переименовать его в его собственное имя!".
+ eoanb_flag_new_york_renamed_new_amsterdam: "Нью-Йорк был переименован в Новый Амстердам".
+ eoanb_decision_generic_rename_new_amsterdam: "Переименовать Нью-Йорк в Новый Амстердам".
+ eoanb_decision_generic_rename_new_amsterdam_desc: "Мы должны переименовать город Нью-Йорк обратно в его первоначальное название!".
+ eoanb_decision_generic_rename_new_york: "Переименовать Новый Амстердам в Нью-Йорк".
+ eoanb_decision_generic_rename_new_york_desc: "Голландцы были изгнаны из Америки, и поэтому мы должны переименовать город Новый Амстердам в его прежнее название!".
+ eoanb_decision_land_reclamation_amsterdam: "Рекультивация земель в Амстердаме"
+ eoanb_decision_land_reclamation_amsterdam_desc: "Море и болота требуют от нас много земли в государстве Голландия... мы должны попытаться вернуть эту землю, чтобы мы могли использовать ее для себя."
+ ITA_decisions_category_formables: "Итальянские формулы"
+ eoanb_decision_ITA_formed_by_PIE: "Оформить Италию"
+ eoanb_decision_ITA_formed_by_PIE_desc: "Мы объединим итальянские государства!".
+ eoanb_tt_decision_PIE_forms_ITA: "§GМы сформируем итальянскую нацию!§!".
+ eoanb_flag_konigsberg_renamed_kaliningrad: "Кенигсберг был переименован в Калининград".
+ eoanb_decision_generic_rename_kaliningrad: "Переименовать Кёнигсберг в Калининград".
+ eoanb_decision_generic_rename_kaliningrad_desc: "Мы должны переименовать бывший немецкий город Кёнигсберг в знак победы!".
+ eoanb_decision_generic_rename_konigsberg: "Переименовать Калининград в Кёнигсберг".
+ eoanb_decision_generic_rename_konigsberg_desc: "Мы отвоевали Калининград - или лучше сказать Кенигсберг? Мы должны восстановить старое название гордого города...".
+ eoanb_category_formables: "Формируемые нации"
+ eoanb_decision_generic_abolish_heir_system: "Отменить систему наследования".
+ eoanb_decision_generic_abolish_heir_system_desc: "Поскольку наша нация реформировалась, чтобы функционировать без монархической наследственной системы, мы можем решить отменить ее, если захотим. Возможно, мы захотим сохранить нашу монархию как символ в любом случае с намерением обеспечить стабильность, хотя...".
+ eoanb_decision_generic_reintroduce_heir_system: "Вновь ввести систему наследования".
+ eoanb_decision_generic_reintroduce_heir_system_desc: "Наша страна претерпела некоторые изменения, и мы могли бы ввести монархическую наследственную систему, если мы того пожелаем. Это могло бы немного стабилизировать нашу нацию".
+ eoanb_tt_switch_no_heir: "Мы отменим нашу §YНаследственную систему§!".
+ eoanb_tt_switch_yes_heir: "Мы перейдем на §YНаследственную систему§!".
+ eoanb_category_options: "Опции игры"
+ eoanb_decision_open_options: "Открыть меню опций"
+ eoanb_decision_open_options_desc: "Это решение открывает меню §YОпций§!".
+ eoanb_decision_disable_options: "Отключить меню опций"
+ eoanb_decision_disable_options_desc: "Используйте это решение, чтобы §RПостоянно отключить§! меню §YОпции§! и §YПомощь§! для этой сессии.\n\n\nЭто также отключает любые другие решения на этой вкладке. \n\nЧтобы меню снова появилось в этом файле сохранения, вам придется ввести в консоль следующую команду (без кавычек):\n\"set_country_flag eoanb_flag_options_disabled 0\"\n\nЭто §Yневозможно§! в §YРежиме Ironman§!".
+ eoanb_tt_decision_disable_options: "Меню §YОпции§! будет §RОтключено§!.\nМеню §YПомощь§! будет §RОтключено§!".
+ eoanb_tt_decision_disinherit_heir: "Наш нынешний §YНаследник§! будет §Yлишен наследства§!.\n\nЭто решение может быть принято только §Үраз в год§!".
+ eoanb_decision_generic_disinherit_heir: "Лишить наследства нашего наследника"
+ eoanb_decision_generic_disinherit_heir_desc: "Наш Наследник не соответствует ожиданиям, чтобы править страной в случае, если он унаследует трон, мы должны избавиться от него, лишив его наследства".
+ eoanb_decision_raise_stability_victorian: "Стабилизировать нацию".
+ eoanb_decision_raise_stability_victorian_desc: "Мы попытаемся немного стабилизировать нацию, инвестируя политический и промышленный капитал в мир и порядок.\n\n§YЭто решение можно принимать только раз в 6 месяцев.§!"
+ eoanb_decision_gather_warsupport_victorian: "Собрать поддержку войны".
+ eoanb_decision_gather_warsupport_victorian_desc: "Нам нужно собрать некоторую поддержку для войны, которую мы планируем и/или улучшить боевой дух в мирное время, поэтому мы должны перенаправить некоторые армейские и политические усилия на это.\n\n§YЭто решение может быть принято только раз в год.§!"
+ eoanb_threat_gather_warsupport_victorian: "Сделал подготовку к войне".
+ eoanb_tt_decision_core_united_reich: "Мы получим §YНациональный претензии§! на южные земли Германии и §YЭльзас§!.\nДополнительно, §YЭльзас§! будет переименован в \"§YЭльзасс§!\n"."
+ eoanb_tt_trigger_core_united_reich: "§Y[Root.GetNameDef]§! должен владеть южными землями Германии и §YЭльзас§!".
+ eoanb_decision_sww_side_with_prussia: "Поддержать Пруссию"
+ eoanb_decision_sww_side_with_prussia_desc: "В случае войны в немецких областях, мы выберем сторону Пруссии".
+ eoanb_customeffect_sww_side_prs: "§GПруссия будет проинформирована о нашей поддержке.§!".
+ eoanb_decision_sww_side_with_austria: "Поддержать Австрию"
+ eoanb_decision_sww_side_with_austria_desc: "В случае войны в немецких областях, мы выберем сторону Австрии."
+ eoanb_customeffect_sww_side_aus: "§GАвстрия будет проинформирована о нашей поддержке.§!".
+ eoanb_decision_sww_side_with_middle: "Поддержать средние государства"
+ eoanb_decision_sww_side_with_middle_desc: "В случае войны в немецких областях, мы выберем сторону Средних государств."
+ eoanb_decision_sww_side_neutral: "Оставаться нейтральным".
+ eoanb_decision_sww_side_neutral_desc: "В случае войны в немецких областях, мы останемся нейтральными".
+ eoanb_decision_GER_core_united_reich: "Государственная администрация Германии"
+ eoanb_decision_GER_core_united_reich_desc: "Нам нужно правильно включить наши новые государства в [Root.GetNameDef]".
+ eoanb_category_military: "Армейские решения"
+ eoanb_category_navy: "Военно-морские решения"
+ eoanb_category_air: "Авиационные решения"
+ eoanb_category_space: "Космические решения"
+ eoanb_decision_generic_recruit_colonial_troops: "Набрать колониальную пехоту".
+ eoanb_decision_generic_recruit_colonial_troops_desc: "Мы наберем немного пехоты в наших колониях.\n\n§YЭто решение может быть принято только один раз.§!".
+ eoanb_tt_decision_recruit_colonial_infantry_1: "Вы получите два полка §YКолониальной Пехоты§! в §YКейптауне§!".
+ eoanb_decision_generic_recruit_colonial_troops_2: "Набрать колониальную пехоту".
+ eoanb_decision_generic_recruit_colonial_troops_2_desc: "Мы наберем немного пехоты в наших колониях.\n\n§YЭто решение может быть принято только один раз.§!".
+ eoanb_tt_decision_recruit_colonial_infantry_2: "Вы получите два полка §YКолониальной Пехоты§! в §YЛуанде§!".
+ eoanb_decision_generic_recruit_colonial_troops_3: "Набрать колониальную пехоту".
+ eoanb_decision_generic_recruit_colonial_troops_3_desc: "Мы наберем немного пехоты в наших колониях.\n\n§YЭто решение может быть принято только один раз.§!".
+ eoanb_tt_decision_recruit_colonial_infantry_3: "Вы получите два полка §YКолониальной Пехоты§! в §YАлжире§!".
+ GER_decision_tt_unite_alternative: "Мы образуем §YГерманию§!.\nМы получим §YНациональные Претензии§! на все немецкие земли."
+ eoanb_decision_GER_unify_germany_alternative: "Образуем Германию"
+ eoanb_decision_GER_unify_germany_alternative_desc: "Пришло время объединить немецкие народы под единым знаменем!".
+ eoanb_tt_trigger_unite_GER_alternative_1: "§Y[Root.GetName]§! владеет всеми территориями в §YЮжной Германии§!".
+ eoanb_tt_trigger_unite_GER_alternative_2: "§Y[Root.GetName]§! владеет всеми территориями в §YСеверно-Южной Германии§!".
+ eoanb_tt_trigger_unite_GER_alternative_3: "§Y[Root.GetName]§! владеет всеми территориями в §YСеверной Германии§! и §ҮСилезии§!".
+ eoanb_tt_trigger_unite_GER_alternative_4: "§Y[Root.GetName]§! владеет всеми территориями в §YСтарой Пруссии§!".
+ eoanb_tt_decision_remove_southern_cores: "Миноры §YЮжной Германии§! потеряют свои национальные претензии в этих территориях".
+ cheats_true: "Читы включены для этой нации".
+ eoanb_category_cheats: "Меню читов".
+ eoanb_decision_ENG_develop_IOM: "Развивать остров Мэн"
+ eoanb_decision_ENG_develop_IOM_desc: "Остров Мэн - небольшой остров между Шотландией и Ирландией, который демонстрирует хороший потенциал для промышленного развития. Мы должны инвестировать в него".
+ eoanb_om_ENG_developed_IOM: "Взаимопомощь"
+
+
+ eoanb_decision_generic_arrest_opposition_leaders: "Арестовать лидеров оппозиции".
+ eoanb_decision_generic_arrest_opposition_leaders_tt: "Это действие §Gуменьшит§! количество мест, занятых §Rоппозиционными партиями§! Как вы и ожидали, это действие будет иметь §Rпоследствия§! для нашей §Yстабильности§! и нашей §Yлегитимности§!.\n"
+ eoanb_decision_generic_arrest_opposition_leaders_cost: "[eoanb_decision_generic_arrest_opposition_leaders_cost_scripted]"
+ eoanb_decision_generic_arrest_opposition_leaders_cost_blocked: "[eoanb_decision_generic_arrest_opposition_leaders_cost_blocked_scripted]"
+ eoanb_decision_generic_arrest_opposition_leaders_cost_tooltip: "[eoanb_decision_generic_arrest_opposition_leaders_cost_tooltip_scripted]"
+ eoanb_decision_generic_arrest_opposition_leaders_cost_loc: "£pol_power §H75§!".
+ eoanb_decision_generic_arrest_opposition_leaders_cost_loc_blocked: "£pol_power §R75§!"
+ eoanb_decision_generic_arrest_opposition_leaders_cost_loc_tooltip: "Это стоит §R75§! £pol_power для принятия решения".
+ eoanb_decision_generic_arrest_opposition_leaders_cost_polizeiverein: "£pol_power §H50§!".
+ eoanb_decision_generic_arrest_opposition_leaders_cost_polizeiverein_blocked: "£pol_power §R50§!".
+eoanb_decision_generic_arrest_opposition_leaders_cost_polizeiverein_tooltip: "Из-за нашего членства в Полицейском Союзе, это стоит только §R50§! £pol_power для принятия решения".
+ eoanb_decision_generic_ban_opposition_party: "Запретить оппозиционные партии"
+ eoanb_decision_generic_ban_opposition_party_tt: "Это действие §Gудалит§! каждое место, занятое §Rоппозиционными партиями§! и запретит их. Это будет очень сложно, и ваша §Yлегитимность§! как политического деятеля §Rуменьшится§! значительно, если партия будет достаточно популярна.\n"
+ eoanb_decision_generic_ban_opposition_party_cost: "[eoanb_decision_generic_ban_opposition_party_cost_scripted]"
+ eoanb_decision_generic_ban_opposition_party_cost_blocked: "[eoanb_decision_generic_ban_opposition_party_cost_blocked_scripted]"
+ eoanb_decision_generic_ban_opposition_party_cost_tooltip: "[eoanb_decision_generic_ban_opposition_party_cost_tooltip_scripted]"
+ eoanb_decision_generic_ban_opposition_party_cost_loc: "£pol_power §H100§!".
+ eoanb_decision_generic_ban_opposition_party_cost_loc_blocked: "£pol_power §R100§!".
+ eoanb_decision_generic_ban_opposition_party_cost_loc_tooltip: "Это стоит §R100§! £pol_power для принятия решения".
+ eoanb_decision_generic_ban_opposition_party_cost_polizeiverein: "£pol_power §H75§!".
+ eoanb_decision_generic_ban_opposition_party_cost_polizeiverein_blocked: "£pol_power §R75§!".
+ eoanb_decision_generic_ban_opposition_party_cost_polizeiverein_tooltip: "Из-за нашего членства в Полицейском Союзе, это стоит только §R75§! £pol_power для принятия решения".
+
+ GER_category_fortress_status: "Статус крепости"
+ eoanb_decision_GER_fortress_stettin: "Форт Штеттин"
+ eoanb_decision_GER_fortress_stettin_desc: "Форт в Штеттине стал причиной ссор между гражданской администрацией и военной администрацией, а его содержание отнимает у нас много средств. Мы должны решить, что с ним делать".
+ eoanb_decision_GER_fortress_minden: "Форт Минден".
+ eoanb_decision_GER_fortress_minden_desc: "Форт в Миндене стал причиной ссор между гражданской администрацией и военной администрацией, а его содержание отнимает у нас много средств. Мы должны решить, что с ним делать".
+ eoanb_decision_GER_fortress_kosel: "Форт Козель"
+ eoanb_decision_GER_fortress_kosel_desc: "Форт в Козеле стал причиной ссор между гражданской администрацией и военной администрацией, а его содержание отнимает у нас много средств. Мы должны решить, что с ним делать".
+ eoanb_decision_GER_fortress_erfurt: "Форт Эрфурт"
+ eoanb_decision_GER_fortress_erfurt_desc: "Форт в Эрфурте стал причиной ссор между гражданской администрацией и военной администрацией, а его содержание отнимает у нас много средств. Мы должны решить, что с ним делать".
+ eoanb_decision_GER_fortress_glatz: "Форт Глац".
+ eoanb_decision_GER_fortress_glatz_desc: "Форт в Глатце стал причиной ссор между гражданской администрацией и военной администрацией, а его содержание отнимает у нас много средств. Мы должны решить, что с ним делать".
+ GER_decision_tt_zollverein_removed: "§RПартия§! §YЦентра§! §прекратит свое существование.§!\n".
+ GER_category_kiel_canal: "Проект Кильского канала"
+ eoanb_flag_PRS_kiel_canal_preparations_finished: "Германия завершила подготовку к строительству Кильского канала".
+ eoanb_tt_decision_GER_kiel_canal_preparations: "Мы завершим подготовку к §YКильскому каналу§!".
+ eoanb_decision_GER_kiel_canal_preparations: "Подготовка Кильского канала".
+ eoanb_decision_GER_kiel_canal_preparations_desc: "Нам предстоит решить некоторые административные вопросы и измерить территорию, на которой будет построен канал. Кроме того, мы разработаем план строительства - все это займет у нас около года".
+ eoanb_decision_GER_kiel_canal_section1: "Построить участок Киль - Рендсбург".
+ eoanb_decision_GER_kiel_canal_section1_desc: "У нас есть промышленные мощности и технологии для строительства первого участка запланированного канала - давайте сделаем это".
+ eoanb_tt_decision_GER_kiel_canal_section1: "Первый участок §YКильского канала§! будет закончен".
+ eoanb_flag_PRS_kiel_canal_section1_finished: "Германия завершила строительство первой секции Кильского канала".
+ eoanb_decision_GER_kiel_canal_section2: "Построить участок Рендсбург - Куксхавен".
+ eoanb_decision_GER_kiel_canal_section2_desc: "У нас есть промышленные мощности и технологии для строительства второго участка запланированного канала - давайте сделаем это".
+ eoanb_tt_decision_GER_kiel_canal_section2: "§YКильский канал§! будет закончен и открыт".
+ GER_category_war_in_sight: "\"Война в поле зрения\"-кризис"
+ eoanb_decision_GER_crisis_warinsight: "\"Война в поле зрения\"\""
+ eoanb_decision_GER_crisis_warinsight_desc: "Одна из наших самых популярных газет, \"Post\", опубликовала на своей первой странице статью, утверждающую огромными буквами, что война с §Y[FRA.GetName]§ назревает!!! [FRA.GetAdjective] правительства очевидно, узнали об этом и начали первые мобилизационные мероприятия, так как они считают это серьезным признаком того, что наша страна готовится к войне против них. Так это или нет, но нам нужно решить, как повлиять на этот кризис в наших интересах...\n\nБисмарк уже начал угрожать [FRA.GetAdjective], заявляя, что если они не демобилизуются немедленно, то столкнутся с военным вмешательством с нашей стороны.\n\n§RСилы§! §Y[ENG.GetName]§! §Rи§! §Y[RUS.GetName]§! §Rвозможно, вмешаются, если мы начнем войну! §!".
+ eoanb_om_GER_crisis_warinsight_goodover: "Кризис предотвращен"
+ eoanb_threat_germany_expanding_rapidly: "Агрессивная экспансия"
+ eoanb_threat_germany_nonaggressive_france: "Сохранять мир"
+ eoanb_flag_GER_defused_warinsight: "Германия разрядила \"Войну в свете\"-кризис".
+ eoanb_tt_decision_GER_defuse_warinsight: "Мы разрядим продолжающийся §YКризис§!".
+ eoanb_decision_GER_defuse_warinsight: "Разрядим кризис".
+eoanb_decision_GER_defuse_warinsight_desc: " Продолжающуюся \"Война в свете\"-кризис можно разрядить, просто опубликовав заявление о том, что мы не намерены агрессивно расширять наше влияние в Европе в данный момент, и вновь обратившись к [FRA.GetAdjective] дипломатическим путем. Если мы не хотим, чтобы кризис перерос в войну, мы должны разрядить его немедленно".
+ eoanb_decision_QNG_kick_out_GER: "Выгнать немцев".
+ eoanb_decision_QNG_kick_out_GER_desc: "Присутствие немецких войск в Китае, иногда за пределами их торговых портов, просто неприемлемо. Мы должны выгнать их силой, даже если это может привести к конфликту."
+ eoanb_category_projects: "Великие проекты"
+ eoanb_category_industry: "Отраслевые решения"
+ eoanb_category_development: "Решения по развитию"
+ GER_category_southern_generals: "Генералы с Юга"
+ eoanb_decision_GER_southern_general_SAX_1: "Нанять Карла фон Хейгендорфа"
+ eoanb_decision_GER_southern_general_SAX_1_desc: "Теперь, когда мы объединили Германию и завоевали юг, хорошей идеей будет нанять некоторых из их бывших генералов. Этот конкретный выглядит хорошим вариантом".
+ eoanb_decision_GER_southern_general_BAD_1: "Нанять Альфреда Людвига фон Дегенфельда".
+ eoanb_decision_GER_southern_general_BAD_1_desc: "Теперь, когда мы объединили Германию и завоевали юг, может быть хорошей идеей нанять некоторых из их бывших генералов. Этот конкретный выглядит хорошим вариантом".
+ eoanb_decision_GER_southern_general_WUR_1: "Нанять Фердинанда фон Цеппелина".
+ eoanb_decision_GER_southern_general_WUR_1_desc: "Теперь, когда мы объединили Германию и завоевали юг, может быть хорошей идеей нанять некоторых из их бывших генералов. Этот конкретный выглядит хорошим вариантом".
+ eoanb_decision_GER_southern_general_BAV_1: "Нанять Якоба фон Хартмана".
+ eoanb_decision_GER_southern_general_BAV_1_desc: "Теперь, когда мы объединили Германию и завоевали юг, может быть хорошей идеей нанять некоторых из их бывших генералов. Этот конкретный выглядит хорошим вариантом".
+ eoanb_decision_GER_southern_general_BAV_2: "Нанять Карла Крайзена".
+ eoanb_decision_GER_southern_general_BAV_2_desc: "Теперь, когда мы объединили Германию и завоевали юг, может быть хорошей идеей нанять некоторых из их бывших генералов. Этот конкретный выглядит хорошим вариантом".
+ eoanb_category_traditions_celebrations: "Традиции и торжества"
+ eoanb_decision_ITA_regional_celebration_tradition: "[Root.GetItalianTraditionCelebrationName]".
+ eoanb_decision_ITA_regional_celebration_tradition_desc: "Мы будем праздновать [Root.GetAdjective] региональные традиции, чтобы укрепить наше чувство единства как страны."
+ eoanb_lockey_italian_celebrate_traditions_PIE: "Святая Елена Сагра Дель'Ува".
+ eoanb_lockey_italian_celebrate_traditions_BAV: "Октоберфест"
+ eoanb_lockey_italian_celebrate_traditions_SPR: "Гонка в журнале"
+ eoanb_lockey_italian_celebrate_traditions_HOL: "Кёкенхоф"
+ eoanb_lockey_italian_celebrate_traditions_PRS: "Кельнский карнавал"
+ eoanb_lockey_italian_celebrate_traditions_SWI: "Базельский карнавал"
+ eoanb_lockey_italian_celebrate_traditions_BAD: "Вальпургиева ночь"
+ eoanb_lockey_italian_celebrate_traditions_TUS: "Палио в Сиене"
+ eoanb_lockey_italian_celebrate_traditions_NSC: "Неаполитанский карнавал"
+ eoanb_lockey_italian_celebrate_traditions_RUS: "Ирбитская ярмарка"
+ eoanb_lockey_italian_celebrate_traditions_general: "Праздновать [Root.GetAdjective] традиции".
+ eoanb_tt_decision_ROM_generic_form: "Мы станем страной §YРумыния§!".
+ eoanb_decision_ROM_form_romania: "Образуем Румынию"
+ eoanb_decision_ROM_form_romania_desc: "Мы объединили территории людей, считающих себя румынами. Мы должны реформировать нашу нацию, чтобы соответствовать этому новому определению".
+ eoanb_decision_ENG_clean_great_stink: "Очистить Темзу".
+ eoanb_decision_ENG_clean_great_stink_desc: "Река Темза невероятно важна для города Лондона, но из-за зловония и загрязнения человеческими и промышленными отходами, которые остаются на ее берегах и в воздухе рядом с ней, никто больше не хочет подходить к ней, а водные путешествия почти полностью прекратились. Мы должны предпринять усилия по очистке реки - как можно скорее".
+ eoanb_tt_ENG_thames_cleaned_decision: "Река §YThames§! снова станет чистой".
+ eoanb_tt_decision_ENG_emergencyunits_sepoy: "§Y[ENG.GetNameDef]§! получит §Y2 полка§! нерегулярной пехоты§! в §YКалькутте§!".
+ eoanb_decision_ENG_emergency_sepoy_fighters: "Полки чрезвычайного призыва"
+ eoanb_decision_ENG_emergency_sepoy_fighters_desc: "В Индии вспыхнуло восстание, и нам нужно больше войск, чтобы сдержать его - немедленно призовите несколько граждан!".
+ eoanb_tt_decision_ENG_RAJ_peacekeepers: "§RРиск восстания§! в §Y[RAJ.GetNameDef]§! уменьшится на §G2§! пунктов".
+ eoanb_decision_ENG_send_RAJ_peacekeepers: "Отправить полицейские войска в [RAJ.GetNameDef]".
+ eoanb_decision_ENG_send_RAJ_peacekeepers_desc: "Ситуация в [RAJ.GetNameDef] стала довольно нестабильной, и, возможно, было бы разумно послать туда часть наших резервных войск, чтобы немного поддержать ситуацию.\n\n§YПрибытие войск займет 10 дней.§!\n\n§YЭто решение может быть принято не чаще двух раз в год.§!"
+ eoanb_tt_decision_ENG_hongkong_troops_sow: "§Y[ENG.GetNameDef]§! получит §G1§! §YПолк§! в §YГонконге§!".
+ eoanb_decision_sow_ENG_hongkong_troops: "Поднять войска в Гонконге".
+ eoanb_decision_sow_ENG_hongkong_troops_desc: "Мы ведем войну в Китае, и наш бастион Гонконг должен устоять!".
+ eoanb_flag_QNG_fortified_guangzhou: "Китай укрепил Гуанчжоу".
+ eoanb_decision_sow_QNG_guangzhou_fort: "Укрепить Гуанчжоу"
+ eoanb_decision_sow_QNG_guangzhou_fort_desc: "Несколько простых баррикад и укреплений помогут нам защитить город Гуанчжоу от британцев!".
+ eoanb_decision_sow_QNG_guangzhou_troops: "Поднять войска в Гуанчжоу".
+ eoanb_decision_sow_QNG_guangzhou_troops_desc: "Мы поднимем войска в Гуанчжоу, чтобы защитить его!".
+ eoanb_tt_decision_QNG_guangzhou_troops_sow: "§Y[QNG.GetNameDef]§! получит §G1§! §YПолк§! в §YГуанчжоу§!".
+ eoanb_tt_decision_FRA_hongkong_troops_sow: "§Y[ENG.GetNameDef]§! получит §G1§! §YПолк§! в §YГонконге§!".
+ eoanb_decision_sow_FRA_hongkong_troops: "Отправить войска в Гонконг".
+ eoanb_decision_sow_FRA_hongkong_troops_desc: "Нам нужно больше войск в Китае, чтобы выиграть войну, и поскольку мы сотрудничаем с британцами, мы должны отправить их в Гонконг, их порт в регионе".
+ eoanb_decision_sow_ENG_ultimatum_to_QNG: "Послать ультиматум Китаю".
+ eoanb_decision_sow_ENG_ultimatum_to_QNG_desc: "С нас хватит этой войны, она должна быть закончена немедленно! Мы должны немедленно предъявить ультиматум Китаю!".
+ eoanb_tt_decision_ENG_nanjing_treaty_sow: "§Y[QNG.GetNameDef]§! будет §RТерять§! §YСтабильность§! и §YЗаконодательная власть§!\nПобедившие страны §GПолучат§! значительное количество §YЗаконодательной власти§!\n§Y[QNG.GetNameDef]§! изменит свои торговые законы, чтобы двигаться в направлении, более ориентированном на §YЭкспорт§!\nОтношения между победившими странами и §Y[QNG.GetNameDef]§! пострадают".
+ eoanb_decision_sow_ENG_draft_nanjing_treaty: "Нанкинский договор"
+ eoanb_decision_sow_ENG_draft_nanjing_treaty_desc: "Китайцы приняли наш ультиматум - теперь мы должны ратифицировать новый договор и внести некоторые поправки в старый Нанкинский договор".
+ eoanb_om_QNG_dislikes_winners: "Нанкинский договор"
+ eoanb_om_QNG_dislikes_winners_tianjin: "Тяньцзиньский договор"
+ eoanb_category_second_opium_war: "Вторая опиумная война"
+ eoanb_category_second_opium_war_desc: "В 1842 году Нанкинский договор, первый из неравноправных договоров, предоставил британцам компенсацию и экстерриториальность, открытие пяти договорных портов и уступку острова Гонконг. После провала договора британские войска возобновили вражду, что привело ко Второй опиумной войне."
+ eoanb_decision_sow_ENG_assault_canton: "Штурм Гуанчжоу"
+ eoanb_decision_sow_ENG_assault_canton_desc: "Мы начнем штурм Гуанчжоу!".
+ eoanb_tt_decision_ENG_canton_assault_sow: "Возле §YГуанчжоу§ начнется пограничная война!.\n"
+ eoanb_tt_decision_ENG_kowloon_assault_sow: "Пограничная война разразится около §YГонконга§!.\n"
+ eoanb_decision_sow_ENG_assault_kowloon: "Отвоевать Коулун"
+ eoanb_decision_sow_ENG_assault_kowloon_desc: "После китайской засады в Гонконге, мы должны отчаянно отвоевать Коулун, чтобы удержать наши позиции."
+ eoanb_decision_sow_ENG_assault_taku: "Штурмовать форты Таку".
+ eoanb_decision_sow_ENG_assault_taku_desc: "Мы начнем штурм фортов Таку!".
+ eoanb_decision_sow_ENG_assault_taku_2: "Снова штурмовать форты Таку!"
+ eoanb_decision_sow_ENG_assault_taku_2_desc: "Мы начнем штурм фортов Таку во второй раз!".
+ eoanb_decision_sow_ENG_assault_taku_3: "Еще раз штурмовать форты Таку".
+ eoanb_decision_sow_ENG_assault_taku_3_desc: "Мы начнем штурм фортов Таку в третий раз!".
+ eoanb_decision_sow_ENG_assault_beijing: "Марш на Пекин".
+ eoanb_decision_sow_ENG_assault_beijing_desc: "После победы в фортах Таку, мы должны теперь идти на Пекин, чтобы навязать свою волю".
+ eoanb_decision_sow_ENG_land_at_shanghaifen: "Высадиться в Шанхай-Фене".
+ eoanb_decision_sow_ENG_land_at_shanghaifen_desc: "Чтобы подготовиться к штурму Шанхая, мы должны высадить войска в Фене".
+ eoanb_decision_sow_ENG_assault_shanghai: "Штурм Шанхая".
+ eoanb_decision_sow_ENG_assault_shanghai_desc: "После захвата концессий в Шанхае мы должны срочно заставить Китай вернуть их. Штурмуйте город".
+ eoanb_decision_sow_ENG_hold_beijing_convention: "Провести Пекинскую конвенцию".
+ eoanb_decision_sow_ENG_hold_beijing_convention_desc: "Мы достаточно продемонстрировали свою силу, чтобы добиться выполнения наших требований. Давайте организуем съезд в Пекине".
+ eoanb_tt_decision_ENG_sow_peking_treaty: "Каждый член §YЗападной коалиции§! получит §Yсреднее§! количество §Yполитической власти§!\n§Y[QNG.GetNameDef]§! §Rполучит§! §Yбольшой§! штраф к §YЗаконодательной власти§! и §YСтабильности§!\n§Y[QNG.GetNameDef]§! получит новый §YНациональный дух§! и будет вынужден открыть свою экономику (§YЗакон о торговле§!)".
+ eoanb_decision_sow_RUS_peking_treaty_supplement: "Предложить дополнение к Пекинскому договору".
+ eoanb_decision_sow_RUS_peking_treaty_supplement_desc: "Мы давно хотели территориальных завоеваний в Маньчжурском регионе, нынешней границе с [QNG.GetNameDef]. Теперь, когда они ослаблены, а Пекинский договор вступил в силу, возможно, настало наше время нанести удар. Мы должны предложить поправки к договору, которые позволят добиться территориальных завоеваний".
+ eoanb_decision_sow_RUS_war_QNG_peking: "Обеспечить выполнение поправок к Пекинскому договору".
+ eoanb_decision_sow_RUS_war_QNG_peking_desc: "Мы будем добиваться выполнения наших требований с помощью войны!".
+ eoanb_flag_sow_RUS_QNG_peking_war: "Россия и Китай находятся в состоянии войны из-за Пекинского договора".
+ eoanb_tt_decision_ENG_taku_assault_sow: "Возле §YТяньсиня§ начнется пограничная война!.\n"
+ eoanb_tt_decision_ENG_taku_assault_sow_2: "Пограничная война начнется около §НТяньсиня§!.\n"
+ eoanb_tt_decision_ENG_taku_assault_sow_3: "Пограничная война разразится около §НТяньсиня§!.\n"
+ eoanb_tt_decision_ENG_taku_assault_beijing: "Пограничная война разразится рядом с §НТяньсинем§!.\n"
+ eoanb_tt_decision_ENG_taku_assault_shanghai: "Пограничная война разразится около §НШанхая§!.\n"
+ eoanb_decision_sow_ENG_land_at_caofeidian: "Земля в Каофейдиане"
+ eoanb_decision_sow_ENG_land_at_caofeidian_desc: "Мы подготовимся к штурму фортов Таку возле Тяньцзиня, высадившись в Цаофэйдиан".
+ eoanb_decision_sow_ENG_fortify_guangzhou: "Укрепить Гуанчжоу".
+ eoanb_decision_sow_ENG_fortify_guangzhou_desc: "Мы захватили город Гуанчжоу, теперь нам нужно укрепить его, чтобы не потерять снова".
+ eoanb_decision_sow_ENG_fortify_hong_kong: "Укрепить Гонконг"
+ eoanb_decision_sow_ENG_fortify_hong_kong_desc: "После нашего поражения в Гуанчжоу китайцы могут напасть на Гонконг. Мы должны укрепить его, чтобы подготовиться к такому развитию событий".
+ eoanb_decision_sow_QNG_prepare_hk_siege: "Приготовиться к осаде Гонконга".
+ eoanb_decision_sow_QNG_prepare_hk_siege_desc: "Мы победили британцев в Гуанчжоу, теперь пришло время изгнать их из Китая! Мы создадим инфраструктуру возле Гонконга, чтобы подготовиться к осаде".
+ eoanb_decision_sow_QNG_prepare_hk_siege_2: "Призывать гражданские суда".
+ eoanb_decision_sow_QNG_prepare_hk_siege_2_desc: "Мы призовем и отремонтируем несколько гражданских судов, чтобы помочь нам в осаде".
+ eoanb_decision_sow_QNG_prepare_hk_siege_3: "Каждый способный человек".
+ eoanb_decision_sow_QNG_prepare_hk_siege_3_desc: "Гражданский призыв в регионе обеспечит нам достаточное количество мужчин для штурма".
+ eoanb_tt_decision_sow_join_western_coalition: "Мы отправим посланника в Гонконг, после чего сможем более активно вмешаться во Вторую опиумную войну".
+ eoanb_decision_sow_join_western_coalition: "Отправить посланника в Гонконг"
+ eoanb_decision_sow_join_western_coalition_desc: "Мы отправим посланника в Гонконг, чтобы попытаться договориться с Британией о нашем участии во Второй опиумной войне".
+ eoanb_flag_sent_hk_envoy: "Отправили посланника в Гонконг".
+ eoanb_decision_sow_support_ENG: "Послать поддержку Британии".
+ eoanb_decision_sow_support_ENG_desc: "Мы отправим военную поддержку Великобритании во второй опиумной войне".
+ eoanb_decision_sow_join_western_coalition_actually: "Запрос на присоединение к коалиции".
+ eoanb_decision_sow_join_western_coalition_actually_desc: "Мы спросим британцев, можем ли мы официально присоединиться к Западной коалиции".
+ eoanb_decision_sow_RUS_draft_aigun_treaty: "Айгунский договор".
+ eoanb_decision_sow_RUS_draft_aigun_treaty_desc: "Мы передадим некоторые требования [QNG.GetNameDef]".
+ eoanb_decision_sow_RUS_war_QNG_aigun: "Обеспечить выполнение Айгунского договора".
+ eoanb_decision_sow_RUS_war_QNG_aigun_desc: "Мы добьемся выполнения наших требований с помощью войны!".
+ eoanb_flag_sow_RUS_QNG_aigun_war: "Россия и Китай находятся в состоянии войны из-за Айгунского договора".
+ eoanb_decision_sow_QNG_strengthen_coastline: "Укреплять Тяньцзинь"
+ eoanb_decision_sow_QNG_strengthen_coastline_desc: "Мы должны подготовиться ко второму нападению Британии!"
+ eoanb_decision_sow_QNG_seize_shanghai_concessions: "Захватить Шанхайские концессии".
+ eoanb_decision_sow_QNG_seize_shanghai_concessions_desc: "Мы были вынуждены пойти на уступки западным державам в виде земли в Шанхае. После нашей недавней победы пришло время обратить это вспять".
+ eoanb_flag_sow_QNG_seized_shanghai_concessions: "Китай захватил Шанхайские концессии".
+ eoanb_decision_sow_USA_shanghai_warships: "Угрожать [QNG.GetNameDef] военными кораблями".
+ eoanb_decision_sow_USA_shanghai_warships_desc: "Наши военные корабли отправились в Шанхай. Пришло время добиваться выполнения наших требований".
+ eoanb_flag_QNG_prepared_hk_siege_1: "Первая стадия подготовки к осаде китайского Гонконга".
+ eoanb_flag_QNG_prepared_hk_siege_2: "Подготовка к осаде китайского Гонконга - вторая стадия"
+ eoanb_flag_QNG_prepared_hk_siege_3: "Третий этап подготовки к осаде китайского Гонконга"
+ eoanb_decision_sow_QNG_refurbish_kowloon_naval_fort: "Переоборудовать военно-морской форт Коулун".
+ eoanb_decision_sow_QNG_refurbish_kowloon_naval_fort_desc: "Старый военно-морской форт Коулун, если его отремонтировать, может оказать большую помощь во время запланированной осады Гонконга".
+ eoanb_decision_sow_QNG_develop_tc: "Развивать Тунг Чанг"
+ eoanb_decision_sow_QNG_develop_tc_desc: "Мы будем развивать городской квартал Тунг Чунг на нашей стороне земли возле Гонконга, чтобы улучшить наши шансы на победу в осаде."
+ eoanb_tt_decision_QNG_strengthen_tianjin_troops: "Усилить гарнизон Тяньцзиня".
+ eoanb_decision_sow_QNG_strenghten_tianjin_troops: "We expect that the British will next attack us at Tianjin. We should improve the garrison over there." #NT!
+ eoanb_decision_sow_QNG_strenghten_tianjin_troops_desc: "§Y[QNG.GetNameDef]§! получит §G2§! §YПолка§! в §YТяньцзине§!".
+ eoanb_decision_sow_ENG_draft_tianjin_treaty: "Тяньцзиньский договор".
+ eoanb_decision_sow_ENG_draft_tianjin_treaty_desc: "После наших побед в Гуанчжоу и Тяньцзине мы готовы составить договор для Китая".
+ eoanb_decision_sow_QNG_relieve_tianjin_garrison: "Освободить гарнизон Тяньцзиня".
+ eoanb_decision_sow_QNG_relieve_tianjin_garrison_desc: "После второй битвы за форты Таку наш гарнизон в Тяньцине сильно побит. Нам нужно освободить солдат, чтобы обеспечить стабильность в городе".
+ eoanb_decision_sow_QNG_strengthen_beijing: "Укрепить оборону Пекина".
+ eoanb_decision_sow_QNG_strengthen_beijing_desc: "После нашего поражения в фортах Таку, вероятно, западная коалиция пойдет на Пекин. Мы должны укрепить его на этот случай".
+ eoanb_decision_sow_QNG_strengthen_beijing_2: "Укрепить северную столицу".
+ eoanb_decision_sow_QNG_strengthen_beijing_2_desc: "После поражения в Шанхае, вероятно, следующим будет Пекин. Мы должны укрепить его".
+ eoanb_decision_sow_ENG_mass_in_shanghai: "Массовые войска в Шанхае".
+ eoanb_decision_sow_ENG_mass_in_shanghai_desc: "После недавней победы в Шанхае нам нужно сосредоточить там войска, чтобы мы могли попытаться взять форты Таку во второй раз."
+ eoanb_tt_decision_ENG_mass_shanghai: "Мы сможем снова атаковать форты Таку".
+ eoanb_flag_ENG_taku_shanghai_assault: "Британия сможет атаковать форты Таку после Шанхайской битвы".
+ eoanb_decision_sow_QNG_counterattack_coalition: "Контратаковать коалицию".
+ eoanb_decision_sow_QNG_counterattack_coalition_desc: "После того, как мы победили западную коалицию в Шанхае, мы должны решить, как нанести ответный удар - потенциально в Шанхае и потенциально в Гонконге."
+ eoanb_tt_decision_QNG_counterattack_coalition: "Мы сможем осадить §Гонконг§!".
+ eoanb_flag_sow_QNG_counterattack_hk: "Китай готов к нападению на Гонконг".
+ eoanb_decision_sow_QNG_hk_battle_1: "Штурм Гонконга".
+ eoanb_decision_sow_QNG_hk_battle_1_desc: "Мы готовы к штурму Гонконга и изгнанию британцев".
+ eoanb_decision_open_help: "Открыть меню помощи".
+ eoanb_decision_open_help_desc: "Это решение открывает меню §Yпомощи§!".
+ eoanb_category_sepoy_rebellion: "Восстание сипаев".
+ eoanb_threat_joined_SRS_rebellion: "Присоединился к восстанию сипаев".
+ eoanb_decision_ENG_indian_minors_join_sepoy: "Взять в руки оружие против Британии!"
+ eoanb_decision_ENG_indian_minors_join_sepoy_desc: "[ENG.GetNameDef] долгое время подавляли нас и держали в качестве простой марионетки для достижения своих целей, но мы положим этому конец! Продолжающееся восстание сипаев - прекрасная возможность взять в руки оружие против наших угнетателей и бороться за свободный [Root.GetName]!".
+ eoanb_decision_GER_try_buy_heligoland: "Попытка купить Гелиголанд".
+ eoanb_decision_GER_try_buy_heligoland_desc: "Остров Гелиголанд - важная стратегическая база в Северном море, и, учитывая, как близко он находится к Германии, мы должны владеть им. Давайте спросим [ENG.GetNameDef], сможем ли мы заключить сделку, чтобы они продали его нам...".
+ eoanb_decision_ENG_fortify_land_strategic: "Укрепить стратегические позиции".
+ eoanb_decision_ENG_fortify_land_strategic_desc: "В случае потенциальной высадки вражеского десанта во время вторжения нам необходимо убедиться, что ключевые стратегические районы могут быть эффективно защищены от наступающих сил. Мы должны построить укрепления в этих ключевых районах, чтобы обеспечить это".
+ eoanb_decision_ENG_fortify_land_coast: "Укреплять побережье"
+ eoanb_decision_ENG_fortify_land_coast_desc: "Еще лучше, чем остановить продвижение на наш материк, было бы сразу отразить врага на побережье - и укрепление нашего побережья значительно поможет нам в этом".
+ eoanb_decision_ENG_fortify_coast_east: "Береговые батареи на востоке"
+ eoanb_decision_ENG_fortify_coast_east_desc: "Чтобы обезопасить наше побережье на востоке от возможного морского вторжения, мы построим береговые укрепления и батареи вдоль пляжей."
+ eoanb_decision_ENG_fortify_coast_west: "Береговые батареи на западе"
+ eoanb_decision_ENG_fortify_coast_west_desc: "Чтобы обезопасить наше западное побережье от возможного морского вторжения, мы построим береговые укрепления и батареи вдоль пляжей".
+ eoanb_tt_ENG_decision_strategic_fortifications: "Мы построим §G3§! §YНаземных укреплений§! в §ҮБольшом районе Лондона§! и §ҮСассексе§!".
+ eoanb_tt_ENG_decision_coastal_fortifications: "Мы построим §G3§! §YНаземных укреплений§! возле прибрежных городов в §YКорнуолле§! и §YСассексе§!".
+ eoanb_tt_ENG_decision_coastal_batteries_east: "Мы построим §G4§! §YБереговых укреплений§! в §ҮБольшом районе Лондона§! и §ҮСассексе§!".
+ eoanb_tt_ENG_decision_coastal_batteries_west: "Мы построим §G4§! §YБереговых укреплений§! в §YКорнуолле§!".
+ eoanb_decision_ENG_commission_vrc: "Отправить королевскую комиссию в ВРК".
+ eoanb_decision_ENG_commission_vrc_desc: "Мы проверим состояние ВРК".
+ eoanb_decision_ENG_vrc_volunteer_act: "Закон о волонтерах от [GetYear]".
+ eoanb_decision_ENG_vrc_volunteer_act_desc: "Мы реформируем Добровольческий стрелковый корпус и распределим центры управления вербовкой по всей стране."
+ ENG_being_invaded: "По крайней мере, §YОдин регионе§! в §YВеликобритании§! контролируется государством, с которым мы находимся в состоянии войны".
+ eoanb_tt_ENG_decision_emergency_call_vrc: "§YВРК§! будет призван на службу в §YЛондоне§!!".
+ eoanb_decision_ENG_emergency_call_vrc: "Призвать ВРК к оружию"
+ eoanb_decision_ENG_emergency_call_vrc_desc: "Добровольческий стрелковый корпус был создан с целью защиты нашей британской родины. Сейчас ситуация требует от VRC именно этого".
+ eoanb_decision_ENG_finance_military_CAN: "Финансировать военное оборудование для [CAN.GetAdjective] правительства".
+ eoanb_decision_ENG_finance_military_CAN_desc: "Мы могли бы перенаправить часть нашего собственного бюджета на одну из наших колоний, чтобы купить им военное оборудование - поскольку они подчиняются нам, это, несомненно, принесет нам пользу и в будущем."
+ eoanb_decision_ENG_finance_military_AST: "Финансировать военное оборудование для [AST.GetAdjective] правительства".
+ eoanb_decision_ENG_finance_military_AST_desc: "Мы могли бы перенаправить часть нашего собственного бюджета на одну из наших колоний, чтобы купить им военное оборудование - поскольку они подчиняются нам, это, несомненно, принесет нам пользу и в будущем."
+ eoanb_decision_ENG_finance_military_NZL: "Финансировать военное оборудование для [NZL.GetAdjective] правительства".
+ eoanb_decision_ENG_finance_military_NZL_desc: "Мы могли бы перенаправить часть нашего собственного бюджета на одну из наших колоний, чтобы купить им военное оборудование - поскольку они подчиняются нам, это, несомненно, принесет нам пользу и в будущем."
+ eoanb_decision_ENG_finance_military_SAF: "Финансировать военное оборудование для [SAF.GetAdjective] правительства".
+ eoanb_decision_ENG_finance_military_SAF_desc: "Мы могли бы перенаправить часть нашего собственного бюджета на одну из наших колоний, чтобы купить им военное оборудование - поскольку они подчиняются нам, это, несомненно, пойдет нам на пользу и в будущем."
+ ENG_decision_category_worker_unrest: "Рабочие волнения"
+ eoanb_decision_ENG_improve_worker_conditions: "Улучшить условия труда"
+ eoanb_decision_ENG_improve_worker_conditions_desc: "Рабочие на нашей фабрике вкалывают долгие часы, не уделяя должного внимания здоровью и безопасности. Мы должны немного улучшить ситуацию, чтобы они не страдали так сильно - и это их немного успокоит.\n\n§YЭто решение может быть принято только раз в 6 месяцев.§!"
+ eoanb_tt_ENG_decision_improve_worker_conditions: "§RВолнение работников§! в §Y[ENG.GetNameDef]§! уменьшится на §G1§! пункт.\n"
+ eoanb_decision_ENG_shorten_workday: "Сократить рабочий день"
+ eoanb_decision_ENG_shorten_workday_desc: "Рабочие в нашей стране уже стали весьма недовольны и организуются, требуя улучшения условий труда и сокращения рабочего дня. Если бы мы предоставили им последнее, мы могли бы радикально уменьшить количество беспорядков.\n\n§YЭто решение может быть принято только раз в 3 года.§!"
+ eoanb_tt_ENG_decision_shorten_workday: "§RВолнение рабочих§! в §Y[ENG.GetNameDef]§! уменьшится на §G10§! пунктов.\n"
+ eoanb_tt_ENG_decision_trade_unions_ban: "§RВолнение рабочих§! в §Y[ENG.GetNameDef]§! увеличится на §R3§! пункта.\n"
+ eoanb_tt_ENG_decision_trade_unions_reallow: "§RВолнение рабочих§! в §Y[ENG.GetNameDef]§! уменьшится на §G3§! пункта.\n"
+ eoanb_decision_ENG_trade_unions_ban: "Запретить профсоюзы"
+ eoanb_decision_ENG_trade_unions_ban_desc: "Профсоюзы опасны и не могут действовать в нашей стране. Запретите их все".
+ eoanb_decision_ENG_trade_unions_reallow: "Разрешить профсоюзы".
+ eoanb_decision_ENG_trade_unions_reallow_desc: "Запрет профсоюзов был ошибкой - мы должны немедленно снять запрет. Это также немного уменьшит волнения рабочих".
+ eoanb_ttt_ENG_decision_improve_worker_conditions: "Требуется уровень §RВолнение рабочих§ не ниже §R1§!".
+ eoanb_ttt_ENG_decision_shorten_workday: "Требуется уровень §RВолнение рабочих§! не ниже §R10§!".
+ eoanb_ttt_ENG_decision_trade_unions_reallow: "Требуется уровень §RВолнение рабочих§! не ниже §R5§!".
+ eoanb_decision_RAJ_core_ceylon: "Администрация Цейлона"
+ eoanb_decision_RAJ_core_ceylon_desc: "Остров Цейлон на юге Индии слишком долго оставался без надлежащего управления. Нам необходимо установить там административное присутствие".
+ eoanb_decision_minors_join_sepoy: "Присоединиться к восстанию сипаев".
+ eoanb_decision_minors_join_sepoy_desc: "Сипаи подняли восстание против своих британских угнетателей! Мы присоединимся к ним в их стремлении бороться за свободную Индию!".
+ eoanb_decision_SRS_defend_delhi: "Защитить Дели!".
+ eoanb_decision_SRS_defend_delhi_desc: "Наше восстание получило несколько сокрушительных ударов, но мы не должны позволить нашему главному бастиону, городу Дели, пасть перед захватчиком! Как бы тяжело нам ни пришлось сражаться, мы будем уверены, что, если эта битва будет нашей последней, мы будем сражаться до конца".
+ eoanb_decision_RAJ_officer_program: "[RAJ.GetAdjective] Офицерская программа".
+ eoanb_decision_RAJ_officer_program_desc: "Война с сепоями изматывает, и становится ясно, что наши офицеры недостаточно хорошо обучены - и что у нас их недостаточно. Мы разошлем запросы в наши военные академии, чтобы найти самых перспективных, талантливых студентов и попросить их присоединиться к нам в военных действиях."
+ eoanb_decision_form_nation_upca: "Сформировать СПЦА".
+ eoanb_decision_form_nation_upca_desc: "С 1823 по 1841 год Федеративная Республика Центральной Америки господствовала в регионе, обеспечивая стабильность и существование сильного национального государства для народов Центральной Америки. Нам нужно реформировать это государство, поскольку мы уже владеем необходимыми территориями, чтобы называть себя его преемником."
+ eoanb_om_RAJ_ENG_friendship: "Договор о дружбе".
+ eoanb_decision_RAJ_bonds_with_ENG: "Подтвердить нашу дружбу с [ENG.GetNameDef]".
+ eoanb_decision_RAJ_bonds_with_ENG_desc: "Мы являемся и всегда будем оставаться лояльным государством-субъектом [ENG.GetNameDef], и мы должны подписать праздничный договор, чтобы подтвердить это!".
+ eoanb_flag_RAJ_draw_away_from_ENG: "Индия отдаляется от Великобритании".
+ eoanb_decision_RAJ_distance_from_ENG: "Стремиться отдалиться от [ENG.GetNameDef]".
+ eoanb_decision_RAJ_distance_from_ENG_desc: "Мы постараемся добиться большей независимости для [RAJ.GetNameDef], дистанцируясь от [ENG.GetNameDef]! Конечно, мы должны осознавать риски, связанные с этим...".
+ eoanb_decision_RUS_send_tsushima_ship: "Послать корабль в Цусиму".
+ eoanb_decision_RUS_send_tsushima_ship_desc: "Остров Цусима, в настоящее время принадлежащий [JAP.GetAdjective] правительству, является важным стратегическим активом между Японским и Желтым морями. Мы должны стремиться получить контроль над ним - поэтому мы должны послать корабль.\n\n§R[JAP.GetNameDef] может быть разгневан этим!§!".
+ eoanb_decision_RUS_send_tsushima_ship2: "Послать второй корабль к Цусиме".
+ eoanb_decision_RUS_send_tsushima_ship2_desc: "Мы пошлем второй корабль к Цусиме, чтобы разрешить ситуацию там и далее установить контроль над островом."
+ eoanb_decision_RUS_tsushima_coastline_charter: "Хартия побережья Цусимы".
+ eoanb_decision_RUS_tsushima_coastline_charter_desc: "Мы составили устав, в котором говорится, что [RUS.GetNameDef] будет разрешено использовать побережье Цусимы для военно-морских операций - теперь посмотрим, согласятся ли японцы и власти Цусимы."
+ eoanb_decision_ENG_grant_CAN_HBC_land: "Передача земли Канаде"
+ eoanb_decision_ENG_grant_CAN_HBC_land_desc: "Новообразованный [CAN.GetName] - административный и экономический союз, позволяющий доминиону расти, и для большей эффективности он должен включать еще немного земли - земли, которая сейчас принадлежит [HBC.GetNameDef]. Мы организуем передачу".
+ eoanb_decision_CAN_purchase_ruperts_land: "Приобретение земли Руперта"
+ eoanb_decision_CAN_purchase_ruperts_land_desc: "Мы спросим британцев, будет ли нам позволено приобрести землю Руперта, которая в настоящее время принадлежит [HBC.GetNameDef]".
+ eoanb_decision_CAN_core_ruperts_land: "Провинциальное управление Землей Руперта".
+ eoanb_decision_CAN_core_ruperts_land_desc: "Мы приобрели Землю Руперта, но еще не создали официальную администрацию и провинциальное правительство. Поскольку Земля Руперта - большая территория, это будет стоить нам довольно много законодательной власти - но, вероятно, в какой-то момент нам все равно придется это сделать."
+ eoanb_decision_generic_attack_NSI_tribals: "Атаковать племена на Северном Сентинельском острове".
+ eoanb_decision_generic_attack_NSI_tribals_desc: "В лесу небольшого острова Северный Сентинел, который является частью наших территорий, есть племя. Они ведут себя враждебно по отношению к любому внешнему присутствию, и мы должны быть уверены, что они не смогут преследовать нас на острове. Давайте подчиним их".
+
+
+
+ #Italian Decisions #NT!
+ form_italy_category: "Формирование Италии"
+ form_italy: "Сформировать итальянскую нацию"
+ ITA_Culture_category_decisions: "Итальянская культура"
+ ITA_Culture_category_decisions_desc: "Как новое государство Италия теперь имеет шанс развить свою национальную идентичность. Поддерживая культуры, которые поднимаются к популярности, можно обеспечить итальянскую национальную идентичность. "
+ ITA_decision_invest_in_opera: "Инвестировать в оперу".
+ ITA_decision_invest_in_opera_desc: "Опера является растущей традицией в Италии. Итальянцы уже создали множество опер. Инвестиции в эту традицию помогут построить культуру Италии".
+ ITA_decision_spread_new_songs: "Распространять итальянские песни".
+ ITA_decision_spread_new_songs_desc: "Италия обрела новую культуру - музыку. Итальянская музыка распространяется по всей Италии, а некоторые песни популярны и за ее пределами. Правительство не будет спонсировать некоторые песни".
+ ITA_decision_pasta: "Принять популярность спагетти"
+ ITA_decision_pasta_desc: "Итальянские иммигранты выбрали пасту в качестве культурной еды Италии. По всему миру люди отправляются в ближайшую Маленькую Италию, чтобы насладиться спагетти".
+ ITA_brigindage_category_decisions: "Бригандизм"
+ ITA_brigindage_category_decisions_desc: "С момента завершения объединения Италии Юг остается интересным вопросом. Многие банды разбойников разбросаны по всей сельской местности. Они недовольны нашим правлением и вдохновляют население Юга присоединиться к их идеологии."
+ ITA_decision_deal_with_brigindage: "Справиться с бригандизмом".
+ ITA_decisions_category_influence_minor_states: "Влиять на второстепенные государства".
+ PIE_Manpower_Minor_States_blocked: "1000 человек".
+ ITA_decision_influence_parma: "Подготовить революционеров в Парме"
+ ITA_decision_influence_parma2: "Аннексия Пармы"
+ ITA_decision_influence_Modena: "Подготовить революционеров в Модене"
+ ITA_decision_influence_modena2: "Приложить Модену".
+ PIE_Decision_Unlock_Deal_with_Tuscany: "§YРазблокирует Решения для заключения сделки с Тосканой§!".
+ PIE_Decision_Unlock_Tuscany_Formation_Central_States: "§YРазблокирует решения начать формирование Центральных провинций§!".
+ ITA_decision_influence_tuscany_begin_negotiation: "Начнет серию переговоров с Тосканой, чтобы склонить ее на нашу сторону. Это потребует серии §CУступок§!, которые могут дать §GПоложительные§! и §RОтрицательные§! результаты".
+ ITA_decision_influence_tuscany: "Начать переговоры"
+ ITA_decision_influence_tuscany1: "Предлагать должности политикам"
+ ITA_decision_influence_tuscany1_desc: "Предложение должностей тосканским политикам после объединения Италии может обеспечить некоторую поддержку для создания Центральных провинций и последующей аннексии, но сопряжено с риском коррупции."
+ PIE_Tuscan_Politicians_Corruption: "Коррупция в Тоскане"
+ PIE_Tuscan_Politicians_Corruption_desc: "Тосканские чиновники были подкуплены, чтобы поддержать наши кампании посредством того, что любой логичный человек может объявить коррупционной сделкой. Это будет иметь некоторые негативные последствия".
+ ITA_decision_influence_tuscany3: "Формализовать договор".
+ ITA_decision_influence_tuscany2: "Продолжить встречу с Тосканой".
+ ITA_Decisions_Tuscan_Complete: "Должно быть завершено §СРешения по переговорам с Тосканой§!".
+ PIE_Manpower_Minor_States: "1000 человек"
+
+
+
+
+ #Spanish Decisions #NT!
+ SPR_Patronage: "Испанский патронаж"
+ SPR_Patronage_desc: "Испания - родина многих блестящих умов. Было бы полезно помочь этим людям материально".
+ Gustavo_Adolfo_Becquer: "Густаво Адольфо Беккер".
+ Gustavo_Adolfo_Becquer_desc: "Писатель, поэт и литературный обозреватель, Беккер стал одним из самых популярных писателей в Испании, его произведения, несомненно, будут помнить."
+ Maria_Rosalia_Rita_de_Castro: "Мария Розалия Рита де Кастро".
+ Maria_Rosalia_Rita_de_Castro_desc: "Галисийский романтик и поэт, она вызвала ностальгию и подъем галисийской гордости".
+ Jose_Echegaray_y_Eizaguirre: "Хосе Эчегарай-и-Эйзагирре".
+ Jose_Echegaray_y_Eizaguirre_desc: "Ведущий драматург и инженер, Хосе признан за многие достижения в математике, инженерном деле и возрождении многих традиций в испанской драме."
+ Emilia_Pardo_Bazan: "Эмилия Пардо Базан"
+ Emilia_Pardo_Bazan_desc: "Введя натурализм в испанскую литературу, Эмилия стала популярной писательницей, особенно за свои феминистские идеалы."
+ Benito_Perez_Galdos: "Бенито Перес Гальдос".
+ Benito_Perez_Galdos_desc: "Бенито стал очень популярен не только в Испании благодаря своим реалистическим романам, но и очень популярен среди англоязычных читателей. Многие считают его вторым после Сервантеса".
+Francesc_Pi_i_Margall: "Франческ Пи-и-Маргалл".
+ Francesc_Pi_i_Margall_desc: "Бывший президент и известный писатель Франческ, один из лидеров либеральной революции 1854 года. Возможно, его работы по либертарианскому социализму могут стать именно тем, что нужно этой нации."
+Casto_Mendez_Nunez: "Касто Мендес Нуньес".
+ Casto_Mendez_Nunez_desc: "Нуньес - многообещающий морской офицер, его цели - обогнуть мир на железном военном корабле - неортодоксальны, но инновации - ключ к победе в битве."
+ Fernando_Villaamil: "Фернандо Виллаамиль Фернандес-Куэто".
+ Fernando_Villaamil_desc: "Почитаемый за свой профессионализм и необычные проекты военных кораблей, Виллаамиль может быть именно тем, кто нужен Испании для возрождения ее былой военно-морской славы."
+ Pedro_Antonio_de_Alarcon: "Педро Антонио де Аларкон".
+ Pedro_Antonio_de_Alarcon_desc: "A popular novelist and a veteran from the military, Alarcón has become a writer of interest, especially for soldiers. #NT!
+ eoanb_decision_POR_macau_slaves_expand: "Расширить работорговлю в Макао".
+ eoanb_decision_POR_macau_slaves_expand_desc: "Продажа и перевозка рабов в Макао очень выгодна. Мы должны расширить ее".
+ eoanb_decision_POR_macau_slaves_end: "Положить конец работорговле в Макао".
+ eoanb_decision_POR_macau_slaves_end_desc: "Продажа и перевозка рабов в Макао бесчеловечна. Мы должны положить этому конец".
+ dynmod_POR_macau_slaves: "Работорговля в Макао".
+ dynmod_POR_macau_slaves_desc: ""
+ dynmod_POR_macau_slaves_expanded: "Работорговля в Макао"
+ dynmod_POR_macau_slaves_expanded_desc: ""
+ dynmod_POR_macau_casinos: "Казино Макао"
+ dynmod_POR_macau_casinos_desc: ""
+ eoanb_decision_POR_sell_macau_china: "Попросить Китай купить Макао".
+ eoanb_decision_POR_sell_macau_china_desc: "Макао больше не приносит прибыли. Лучший способ избавиться от него - спросить у Китая, не хотят ли они его купить".
+ eoanb_idea_macau_payment_giver: "Платеж за Макао"
+ eoanb_idea_macau_payment_giver_desc: ""
+ eoanb_idea_macau_payment_receiver: "Платеж для Макао"
+ eoanb_idea_macau_payment_receiver_desc: ""
+ Juan_Ariza: "Писатель-романтик и драматург, проявлявший большой интерес к колониям. Его произведения вызвали интерес у колонистов".
+ Jose_Amador_de_los_Rios: "Хосе Амадор де лос Риос"
+ Jose_Amador_de_los_Rios_desc: "Люди со всей Европы съезжаются посмотреть на его художественные и археологические работы. Отличный представитель испанского влияния во всем мире".
+ Cesareo_Fernandez_Duro: "Сесарео Фернандес Дуро".
+ Cesareo_Fernandez_Duro_desc: "Принятый в военно-морское училище всего в 15 лет, Дуро показал себя достойным адмиралом."
+ eoanb_trigger_tt_law_african_all: "Ваша нация не может быть ни одной из разновидностей §YАфриканского племени§!".
+
+
+ eoanb_decision_ENG_build_dockyard_london: "Построить военно-морскую верфь в Лондоне"
+ eoanb_decision_ENG_build_dockyard_london_desc: "Мы будем инвестировать в судостроительную промышленность, финансируя строительство военно-морской верфи в Лондоне".
+ eoanb_decision_ENG_build_dockyard_liverpool: "Построить военно-морскую верфь в Ливерпуле".
+ eoanb_decision_ENG_build_dockyard_liverpool_desc: "Мы будем инвестировать в судостроительную промышленность, финансируя строительство военно-морского дока в Ливерпуле".
+ eoanb_decision_ENG_sea_cable_USA: "Проложить морской кабель к [USA.GetNameDef]".
+ eoanb_decision_ENG_sea_cable_USA_desc: "Мы проложим морской кабель до [USA.GetNameDef] с помощью новых достижений в телеграфной технологии - это покажет желание нашей стороны поддерживать хорошую связь."
+ eoanb_decision_ENG_sea_cable_FRA: "Проложить морской кабель в [FRA.GetNameDef]".
+ eoanb_decision_ENG_sea_cable_FRA_desc: "Мы проложим морской кабель до [FRA.GetNameDef] с помощью новых достижений телеграфной технологии - это покажет желание нашей стороны поддерживать хорошую связь".
+ eoanb_decision_ENG_sea_cable_RUS: "Проложить морской кабель к [RUS.GetNameDef]".
+ eoanb_decision_ENG_sea_cable_RUS_desc: "Мы проложим морской кабель до [RUS.GetNameDef] с помощью новых достижений в телеграфной технологии - это покажет желание нашей стороны поддерживать хорошую связь."
+ eoanb_decision_ENG_build_london_sewers: "Построить лондонскую канализацию"
+ eoanb_decision_ENG_build_london_sewers_desc: "Канализация Лондона давно нуждается в ремонте и реконструкции. Мы должны, наконец, приступить к этому делу".
+ eoanb_decision_ENG_build_london_underground: "Построить лондонское метро".
+ eoanb_decision_ENG_build_london_underground_desc: "Лондонский Сити - мировой мегаполис, и, будучи таким огромным городом, как он есть, передвигаться по нему пешком уже недостаточно. Мы начнем работу над лондонским метро - системой метро, полностью построенной в туннелях под городом. Это покажет всему миру, насколько мы велики".
+ dynmod_ENG_london_sewers: "Канализация Лондона".
+ dynmod_ENG_london_sewers_desc: ""
+ eoanb_decision_ENG_worker_social_aid: "Программы помощи бедным"
+ eoanb_decision_ENG_worker_social_aid_desc: "Нашим самым бедным работникам не помешала бы помощь, чтобы убедиться, что они могут жить в приемлемых условиях. Это также уменьшит волнения среди рабочих.\n\n§YЭто решение может быть принято только два раза в год!§!"
+ eoanb_tt_decision_ENG_RAJ_revolt_risk_annex: "§RРиск восстания§! в §Y[RAJ.GetNameDef]§! должен быть §Yне более! §R10§!."
+ eoanb_tt_decision_ENG_RAJ_revolt_risk_core_remove: "§RРиск восстания§! в §Y[RAJ.GetNameDef]§! должен быть §Yне более§! §R5§!."
+ eoanb_decision_ENG_RAJ_prepare_against_KAS: "Подготовиться к включению [KAS.GetNameDef] в [RAJ.GetNameDef]".
+ eoanb_decision_ENG_RAJ_prepare_against_KAS_desc: "Мы расширим границы нашей колонии в Индии, присоединив больше земель в Кашмире и Джамму!".
+ eoanb_decision_ENG_RAJ_prepare_against_KAR: "Подготовиться к включению [KAR.GetNameDef] в [RAJ.GetNameDef]".
+ eoanb_decision_ENG_RAJ_prepare_against_KAR_desc: "Мы расширим границы нашей колонии в Индии, присоединив больше земель в Карпутале!".
+ eoanb_decision_ENG_RAJ_prepare_against_BIK: "Приготовьтесь включить [BIK.GetNameDef] в [RAJ.GetNameDef]".
+ eoanb_decision_ENG_RAJ_prepare_against_BIK_desc: "Мы расширим границы нашей колонии в Индии, присоединив больше земель в Биканере!".
+ eoanb_decision_ENG_RAJ_prepare_against_GWA: "Подготовиться к включению [GWA.GetNameDef] в [RAJ.GetNameDef]".
+ eoanb_decision_ENG_RAJ_prepare_against_GWA_desc: "Мы расширим границы нашей колонии в Индии, присоединив больше земель в Гвалиоре!".
+ eoanb_decision_ENG_RAJ_prepare_against_HYD: "Подготовиться к включению [HYD.GetNameDef] в [RAJ.GetNameDef]".
+ eoanb_decision_ENG_RAJ_prepare_against_HYD_desc: "Мы расширим границы нашей колонии в Индии, присоединив больше земель в Хайдарабаде!".
+ eoanb_decision_ENG_RAJ_prepare_against_TRA: "Подготовиться к присоединению [TRA.GetNameDef] к [RAJ.GetNameDef]".
+ eoanb_decision_ENG_RAJ_prepare_against_TRA_desc: "Мы расширим границы нашей колонии в Индии, присоединив больше земель в Траванкоре!".
+ eoanb_decision_ENG_RAJ_prepare_against_OUD: "Подготовиться к включению [OUD.GetNameDef] в [RAJ.GetNameDef]".
+ eoanb_decision_ENG_RAJ_prepare_against_OUD_desc: "Мы расширим границы нашей колонии в Индии, присоединив больше земель в Удхе!".
+ eoanb_decision_ENG_RAJ_prepare_against_REW: "Приготовьтесь включить [REW.GetNameDef] в [RAJ.GetNameDef]".
+ eoanb_decision_ENG_RAJ_prepare_against_REW_desc: "Мы расширим границы нашей колонии в Индии, присоединив больше земель в Реве!".
+ eoanb_decision_ENG_RAJ_prepare_against_RJP: "Приготовьтесь к включению Раджпутану в состав [RAJ.GetName]".
+ eoanb_decision_ENG_RAJ_prepare_against_GUJ: "Приготовьтесь к включению Гуджарата в состав [RAJ.GetName]".
+ eoanb_decision_ENG_RAJ_prepare_against_JPR: "Приготовьтесь к включению Джайпур в состав [RAJ.GetName]".
+ eoanb_decision_ENG_RAJ_prepare_against_BTR: "Приготовьтесь к включению Бастара в состав [RAJ.GetName]".
+ eoanb_decision_ENG_RAJ_prepare_against_MYS: "Приготовьтесь к включению Майсура в состав [RAJ.GetName]".
+ eoanb_decision_ENG_RAJ_prepare_against_SKK: "Приготовьтесь к включению Сиккима в состав [RAJ.GetName]".
+ eoanb_decision_ENG_RAJ_prepare_against_ORS: "Приготовьтесь к включению [ORS.GetNameDef] в состав [RAJ.GetName]".
+ eoanb_decision_RAJ_remove_core_KAS: "Уничтожить сепаратизм Кашмира и Джамму".
+ eoanb_decision_RAJ_remove_core_KAS_desc: "Мы достаточно долго терпели сепаратистские настроения в Кашмире и Джамму - они должны быть искоренены, чтобы наша колониальная администрация могла работать бесперебойно".
+ eoanb_decision_RAJ_remove_core_KAR: "Покончить с сеператизмом Карпутхалы".
+ eoanb_decision_RAJ_remove_core_KAR_desc: "Мы достаточно долго терпели сепаратистские настроения в Карпутхале - они должны быть искоренены, чтобы наша колониальная администрация могла работать бесперебойно".
+ eoanb_decision_RAJ_remove_core_BIK: "Покончить с сеператизмом в Биканере".
+ eoanb_decision_RAJ_remove_core_BIK_desc: "Мы достаточно долго терпели сепаратистские настроения в Биканере - они должны быть искоренены, чтобы наша колониальная администрация могла работать бесперебойно".
+ eoanb_decision_RAJ_remove_core_GWA: "Покончить с сеператизмом в Гвалиоре".
+ eoanb_decision_RAJ_remove_core_GWA_desc: "Мы достаточно долго терпели сепаратистские настроения в Гвалиоре - они должны быть искоренены, чтобы наша колониальная администрация могла работать бесперебойно".
+ eoanb_decision_RAJ_remove_core_HYD: "Покончить с сеператизмом в Хайдарабаде".
+ eoanb_decision_RAJ_remove_core_HYD_desc: "Мы достаточно долго терпели сепаратистские настроения в Хайдарабаде - они должны быть искоренены, чтобы наша колониальная администрация могла работать бесперебойно".
+ eoanb_decision_RAJ_remove_core_TRA: "Покончить с сеператизмом в Траванкоре".
+ eoanb_decision_RAJ_remove_core_TRA_desc: "Мы достаточно долго терпели сепаратистские настроения в Траванкоре - они должны быть искоренены, чтобы наша колониальная администрация могла работать бесперебойно".
+ eoanb_decision_RAJ_remove_core_OUD: "Покончить с сеператизмом в Удхе".
+ eoanb_decision_RAJ_remove_core_OUD_desc: "Мы достаточно долго терпели сепаратистские настроения в Удхе - они должны быть искоренены, чтобы наша колониальная администрация могла работать бесперебойно".
+ eoanb_decision_RAJ_remove_core_REW: "Покончить с сеператизмом в Реве".
+ eoanb_decision_RAJ_remove_core_REW_desc: "Мы достаточно долго терпели сепаратистские настроения в Реве - они должны быть искоренены, чтобы наша колониальная администрация могла работать бесперебойно".
+
+ #Cultural Naming #NT!
+ eoanb_decision_cultural_name_aus: "Культурное именование: §YАвстрия§!"
+ eoanb_decision_cultural_name_aus_desc: "Используйте соответствующие региональные названия, которые использовались бы в 19 веке в пределах Австрийской империи". Включая это решение, вы разрешаете культурное именование как для Австрийской империи, так и для любых будущих государств, которые займут бывшие австрийские земли."
+ eoanb_decision_cultural_name_aus_reset: "Сбросить культурное именование для §YАвстрии§!".
+
+##NEW SOUTH WALES ## #NT!
+NSW_New_South_Wales_Government_Railway:0 "Правительственная железная дорога Нового Южного Уэльса"
+NSW_New_South_Wales_Government_Railway_desc:0 "Следующий поезд, прибывающий на платформу 12, отправляется в Когда бы страт ни привёл проект системы.\n\n\ncash резерв: §$$[?nswgr_cash]§!".
+
+
+ #Industrial Management System ref:(industrial_management.txt) #NT!
+#eoanb_decision_reopen_textile_mill:0 "Reopen inactive Textile Mill in one of our States?"
+#eoanb_trigger_has_4_cotton:0 "We have a lot of cotton being produced, but not refined! Naturally, we could continue to sell the raw materials on the world markets, but perhaps it would be more prudent to refine it to cloth?\n\nThe local administration of one of our states has notified the central planning committee that there is a deserted textile mill in their possession. With a little funding out the door, we can get this old mill going again!"
+#closed_textile_mill_reopens:0 "The local administration in one of our states has started the work of getting the textile mill we funded back into functioning order. Further news tells us that the mill's steering board has begun hiring new workers to work the machinery, and that the mill should be operational shortly!"
+#eoanb_decision_reopen_steel_mill:0 "Reopen inactive Steel Mill in one of our States?"
+#eoanb_trigger_has_4_iron:0 "The production of raw iron ore is steadily proceeding as usual... But murmurs among the governors of the local cabinet in one of our states has suggested a desire to further build on the industry in the area. The primary desire being refining the iron ore to steel.\n\nThe governors note that there is a defunct steel mill that used to operate in the area, and they believe the reopening of this mill would strengthen the local economy, and thus, the nation!"
+#eoanb_trigger_has_2_coal:0 "Coal and different Cokes is the lifeblood of any proper industry of our time!\n\nWhile this is the case, we have an abundance which we do nothing with! The suggestion of having a manufactory make use of it by some of our cabinet governors might be just the right thing to make use of this abundant coal, unless we want to continue to sell it to the world markets, of course..."
+#closed_steel_mill_reopens:0 "Our governors report that great progress has been made in the effort of reopening the steel mill in one of our states. Organization of the transport of raw materials for refinement has been successful, and workers are lining up in the hundreds to work the new jobs created in the mill!"
+#eoanb_decision_reopen_machine_parts_factory:0 "Reopen inactive Machine Factory in one of our States?"
+#eoanb_trigger_has_3_steel:0 "Our steel production is quite satisfactory for our current demands, and our sales on the world market go as is usually expected from current trends. Though now a suggestion that has been floating around the regional office has recently gained popularity.\n\nIf we were to reopen one of the old machine factories in one of our states, then we might get more value out of the excess steel we're making."
+#closed_machine_parts_factory_reopens:0 "The machine factory we established plans of reopening has recently come to fruition! The factory is now bustling along in activity, creating both as much parts as it is creating machines for industrial use. The factory is yet to be at full speed, but the progression is quick enough to expect the plant to be ready post-haste!"
+ focus_on_industry: "Фокус на промышленность"
+ eoanb_category_war_measures: "Подготовка к войне"
+ eoanb_category_politics_foreign: "Внешняя дипломатия"
+
+# DEBUG EVENTS #NT!
+ EOANBSYS_debug_decision_category: "Команды отладки разработчика"
+ EOANBSYS_debug_decision_category_desc: "§gЗдесь представлены некоторые полезные команды отладки EoaNB! <3§! - Vanadium"
+ debug_decision_slot_machine: "Расширить демократию"
+ debug_decision_slot_machine_desc: "Теперь мы Пеги 18"
+ debug_decision_begin_armageddon: "Начало нового конца"
+ debug_decision_begin_armageddon_desc: "Буквально поджечь мир"
+ debug_decision_end_armageddon: "Возобновить производство туалетной бумаги"
+ debug_decision_end_armageddon_desc: "Мир во всем мире"
+ debug_decision_remove_ottoman_cores_europe: "Османский кошмар"
+ debug_decision_remove_ottoman_cores_europe_desc: "Османы потеряли все свои претензии в Европе".
+ debug_flag_no_more_toilet_paper: "Большой дефицит туалетной бумаги".
+ debug_flag_no_more_toilet_paper_desc: "Пожары §YВеликий дефицит туалетной бумаги [GetYear]§!.\n \n§RЭта команда может буквально поджечь ваш ПК. Используйте на свой страх и риск!§!"
+ DEBUG_TP_WAR_NAME: "[ROOT.GetAdj] Приобретение [PREV.GetAdj] Туалетной бумаги"
+ toilet_paper_debug_war: "Приобретение туалетной бумаги"
+ debug_decision_update_focus_trees: "Пощекотать мое дерево"
+ debug_decision_update_focus_trees_desc: "Обновить проверки деревьев фокуса текущей области видимости"
+ debug_decision_imperialize_africa: "Не Coggernaut".
+ debug_decision_imperialize_africa_desc: "Alexa, воспроизведите "Africa by Toto", поскольку мы удаляем из игры доколониальный контент Garion & Coggernaut".
+ debug_decision_imperialize_africa_effect_tooltip: "§RЭто заставит §!§YCoggernaut§!§R плакать.§!".
+ debug_decision_break_the_usa: "Разрушить надежды и мечты Ormr1".
+ debug_decision_break_the_usa_desc: "С ужасом и грустью наблюдайте, как величайшая нация, когда-либо существовавшая на планете, распадается на части, словно печенье со звездочками. Если вы прислушаетесь, то сможете услышать рыдания самого патриотичного американца в команде разработчиков."
+ debug_decision_make_ormr1_cry_tooltip: "§RЭто заставит §!§YOrmr1§!§R плакать.§!".
+ debug_decision_break_the_qing: "Опиумная перегрузка"
+ debug_decision_break_the_qing_desc: "Балканизировать [QNG.GetNameDef]"
+ debug_decision_break_russia: "Кошмар Путина"
+ debug_decision_break_russia_desc: "Балканизировать [RUS.GetNameDef]"
+ debug_decision_unite_germany: "Бисмарк исполняет джигу"
+ debug_decision_unite_germany_desc: "Oh, boi. Время для мировых войн"
+ debug_decision_unite_germany_tt: "[PRS.GetNameDef] формирует Германию"
+
+
+
+
+
+
+
+##### Easter Egg Decisions #NT!
+eoanb_category_eastereggs:0 "Решения пасхальных яиц"
+eoanb_decision_easteregg_geracwse:0 "Южногерманская конфедерация"
+eastereggse.1.t:0 "Образование Южногерманской конфедерации"
+eastereggse.1.d:0 "После победы Германии в Гражданской войне канцлер Германской Конфедерации Отто фон Бисмарк объявил о формальном создании Южно-Германской Конфедерации в этот день. Это произошло после тяжелой войны против так называемого Союза. Многие с удивлением смотрят на то, чего сможет добиться это новое немецкое государство."
+eastereggse.1.a:0 "Как... странно"
+GER_ACW_SUPEREVENT_FLAG:0 "Германия не выиграла Гражданскую войну"
+

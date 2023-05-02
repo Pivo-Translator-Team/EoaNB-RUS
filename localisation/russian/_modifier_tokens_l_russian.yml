@@ -1,0 +1,10 @@
+﻿l_russian:
+# Manpower #NT!
+ weekly_manpower: "Еженедельные Людские Ресурсы"
+ weekly_manpower_factor: "Еженедельный Коэффициент Людских Ресурсов"
+local_weekly_manpower: "Местные еженедельные Людские Ресурсы"
+ local_weekly_manpower_factor: "Фактор местной еженедельной людской силы"
+# Legitimacy #NT!
+ political_legitimacy: "Легитимность"
+ political_legitimacy_factor: "Фактор легитимности"
+ political_legitimacy_change_tt: "Легитимность: $RIGHT|+=%$"

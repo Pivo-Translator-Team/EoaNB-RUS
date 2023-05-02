@@ -1,0 +1,460 @@
+﻿l_russian:
+ # American Encroachment & Civil War #NT!
+
+ NA_N_cooperative_tribe_opinion_modifier: "История сотрудничества"
+ NA_N_territory_disputes_opinion_modifier: "Территориальные споры"
+ NA_N_history_of_conflict_opinion_modifier: "История конфликтов"
+ NA_N_history_of_alliances_opinion_modifier: "История альянсов"
+
+
+ NA_N_buffalo_population_0: "Зависимость от буйвола"
+NA_N_buffalo_population_0_desc: " §WЗдесь есть§! §РНедостаточное§! §YДоступность буйволов§! §WВ пределах границ [ROOT.GetName]. Достаточное количество бизонов необходимо для удовлетворения потребностей кочевого народа.§\n\nКоренные племена Великих равнин в значительной степени полагаются на бизонов для удовлетворения всех основных потребностей. Это животное священно, и каждая часть буйвола имеет жизненно важное применение в [ROOT.GetAdjective] культуре".
+ NA_N_buffalo_population_1: "Зависимость от буйвола"
+NA_N_buffalo_population_1_desc: " §YЗдесь есть§! §RМаленькая§! §YДоступность буйволов§! §WВ пределах границ [ROOT.GetName]. Для удовлетворения потребностей кочевого населения требуется достаточное количество буйволов.§\n\nКоренные племена Великих равнин в значительной степени полагаются на буйволов для удовлетворения всех основных потребностей. Это животное священно, и каждая часть буйвола имеет жизненно важное применение в [ROOT.GetAdjective] культуре".
+ NA_N_buffalo_population_2: "Зависимость от буйвола"
+ NA_N_buffalo_population_2_desc: "§WЗдесь есть§! §OУменьшенная§! §YДоступность буйволов§! §WВ пределах границ [ROOT.GetName]. Для удовлетворения потребностей кочевого населения требуется достаточное количество буйволов.§\n\nКоренные племена Великих равнин в значительной степени полагаются на буйволов для удовлетворения всех основных потребностей. Это животное священно, и каждая часть буйвола имеет жизненно важное применение в [ROOT.GetAdjective] культуре".
+ NA_N_buffalo_population_3: "Зависимость от буйвола"
+ NA_N_buffalo_population_3_desc: "§WЗдесь есть§! §GДостаточная§! §YДоступность буйволов§! §WВ пределах границ [ROOT.GetName]. Это означает, что кочевые потребности людей удовлетворены в изобилии.§!\n\nКоренные племена Великих равнин в значительной степени полагаются на буйвола для удовлетворения всех основных потребностей. Это животное священно, и каждая часть буйвола имеет жизненно важное применение в [ROOT.GetAdjective] культуре".
+
+ FNT_raid_likelihood_var_increased: "Вероятность §YРейда§! §Rувеличится§!!".
+ FNT_raid_likelihood_var_decreased: "Вероятность §YРейда§! §Rуменьшится§!!"
+
+ ACW_has_not_started_trigger_tooltip: "§YАмериканская гражданская война§! не началась".
+ not_claimed_by_native_tribes_scripted_trigger_tooltip: "На него не претендует §YПлемя первых наций§!".
+ first_nations_acw_border_claim_remove_tooltip: "Удаляет §YПограничную претензию§! на §Y[THIS.GetName]§!".
+
+ first_nations_colonial_encroacher_opinion_modifier: "Колониальное посягательство"
+ acw_first_nations_choose_USA_strong_opinion_modifier: "Поддерживает США"
+ acw_first_nations_choose_CSA_strong_opinion_modifier: "Поддерживал КША"
+ acw_first_nations_choose_USA_normal_opinion_modifier: "Поддерживал США"
+ acw_first_nations_choose_CSA_normal_opinion_modifier: "Поддерживал КША"
+ acw_first_nations_choose_USA_weak_opinion_modifier: "Поддерживал США"
+ acw_first_nations_choose_CSA_weak_opinion_modifier: "Поддерживал КША"
+ acw_first_nations_choose_USA_negative_opinion_modifier: "Поддерживал КША"
+ acw_first_nations_choose_CSA_negative_opinion_modifier: "Поддерживал США"
+
+ NA_N_removed_settlers_opinion_modifier: "Выселенные поселенцы"
+
+ FN_T_nomadic_tribal_nation: "Племенное государство кочевников"
+ FN_T_nomadic_regional_power: "Региональная держава кочевников".
+ FN_T_settled_tribal_nation: "Государство оседлых племен"
+ FN_T_settled_regional_power: "Региональная держава поселенцев"
+ FN_T_american_civil_war_usa: "Гражданская война в США"
+ FN_T_american_civil_war_usa_desc: "Началась американская гражданская война, и [ROOT.GetName] объявили о своей поддержке [USA.GetName]. Кочевой образ жизни [ROOT.GetAdjective] позволяет этой нации расширяться и удерживать любые земли, отнятые у [CSA.GetName]."
+ FN_T_american_civil_war_csa: "Американская гражданская война".
+ FN_T_american_civil_war_csa_desc: "Началась американская гражданская война, и [ROOT.GetName] объявили о своей поддержке [CSA.GetName]. Кочевой образ жизни [ROOT.GetAdjective] позволяет этой нации расширяться и удерживать любые земли, отобранные у [USA.GetName]".
+ has_chosen_USA_side_in_acw_trigger_tooltip: "Стал на сторону §Y[USA.GetName]§!".
+ has_chosen_CSA_side_in_acw_trigger_tooltip: "Стал на сторону §Y[CSA.GetName]§!".
+ first_nations_tribal_border_war_enemy_usa_diplomacy_trigger: "У §Y[FROM.GetName]§ нет §YДипломатических Договоров§! с §YСоюзной Стороной§!".
+ first_nations_tribal_border_war_enemy_csa_diplomacy_trigger: "§Y[FROM.GetName]§! не имеет §YДипломатических Договоров§! со §YСтороной Конфедерации§!".
+
+ first_nations_tribal_conflict_category: "Конфликты первых наций"
+ first_nations_tribal_conflict_category_desc: "[NA_N_conflict_escalation_scripted]\n\n§YThe Western Territories:§!\n§gThe First Nations people typically have a nomadic lifestyle, this leaves them without a physical border that would be guarded. Colonists regularly settle and exploit the resources and land, but this is not without resistance from the nomadic tribes. Colonial military, like the United States army, has military access to these uncontrolled borders.§!\n\n§YFirst Nations Wars:§!\n §gThe westward expansion of the [USA.GetName], dubbed as Manifest Destiny, resulted in conflict between them and various First Nations people. While tribes typically resist the [USA.GetName] and other colonial forces, conflict can erupt between the various tribes too.§!" #NT!
+ first_nations_tribal_raid_neighbor: "Отправить рейд по запасам: [FROM.GetAdjective] граница".
+ first_nations_tribal_raid_neighbor_desc: "Мы отправим рейдовый отряд к границе [FROM.GetName], в надежде на успешный набег на их запасы."
+ first_nations_tribal_raid_neighbor_at_peace_trigger: "Не находится в состоянии §YРейда§! или §YВойны§! с кем-либо".
+ first_nations_tribal_raid_neighbor_diplomacy_trigger: "Не имеет §Yдипломатических договоров§! с §Y[FROM.GetName]§!".
+ first_nations_tribal_raid_neighbor_command_power_more_than_99: "£command_power §H100§!".
+ first_nations_tribal_raid_neighbor_command_power_more_than_99_blocked: "£command_power §R100§!".
+ first_nations_tribal_raid_neighbor_command_power_more_than_99_tooltip: "It costs 100£command_power send a §YRaiding Party§! to the border of §Y[FROM.GetName]§!." #NT!
+
+ NA_N_conflict_escalation_declare_war: "Эскалация конфликта: Объявление войны"
+ NA_N_conflict_escalation_value_trigger_tooltip: "§YУровень Эскалации§! должен быть не менее §Y10§!".
+
+ NA_N_conflict_escalation_native_loc: "§YАнтагонизация и эскалация:§!\nНапряженность между коренными народами и колониальными поселенцами может усиливаться в результате антагонизации. По мере усиления антагонизации, эскалация конфликта будет возрастать до такой степени, что война с колониальными поселенцами будет оправдана. Чтобы избежать войны, предпринимайте действия, снижающие антагонизацию между этими группами. Учтите, когда это число достигнет 10, вас ждет чертовски увлекательная поездка.[FROM_conflict_escalation_scripted]".
+ NA_N_conflict_escalation_loc: "§YАнтагонизация и эскалация:§!\nНапряженность между коренными народами и колониальными поселенцами может усилиться в результате антагонизации. По мере усиления антагонизации, эскалация конфликта будет нарастать до такой степени, что война с колониальными поселенцами будет оправдана. Чтобы избежать войны, предпринимайте действия, снижающие антагонизацию между этими группами. Будьте внимательны, когда число достигнет 10, вас ждет чертовски увлекательная поездка.\n\n§YУровень эскалации конфликта§! [SEM_conflict_escalation_scripted[APA_conflict_escalation_scripted[NAV_conflict_escalation_scripted[COM_conflict_escalation_scripted[CHY_conflict_escalation_scripted[SIX_conflict_escalation_scripted[CRW_conflict_escalation_scripted[SHO_conflict_escalation_scripted[BFT_conflict_escalation_scripted[NEZ_conflict_escalation_scripted".
+
+ FROM_conflict_escalation_loc: "\n\n§YConflict Escalation Level:§!\n§W[?afr_empire_politics_foreign_diplomacy_target.GetName]:§! [FROM_conflict_escalation_color]"
+ FROM_conflict_escalation_no_target: "\n\n§O(!) §!To view the level of Escalation with a colonial nation, go to the Diplomacy Category and select a valid target after you §YEnable Diplomacy Decisions§!."
+ FROM_conflict_escalation_green: "§G[?NA_N_conflict_escalation_value@var:afr_empire_politics_foreign_diplomacy_target]§!"
+ FROM_conflict_escalation_orange: "§O[?NA_N_conflict_escalation_value@var:afr_empire_politics_foreign_diplomacy_target]§!"
+ FROM_conflict_escalation_red: "§R[?NA_N_conflict_escalation_value@var:afr_empire_politics_foreign_diplomacy_target]§!"
+
+
+ SEM_conflict_escalation_loc: "\n§W[SEM.GetName]:§! [SEM_conflict_escalation_color]"
+ SEM_conflict_escalation_green: "§G[?SEM.NA_N_conflict_escalation_value@ROOT]§!"
+ SEM_conflict_escalation_orange: "§O[?SEM.NA_N_conflict_escalation_value@ROOT]§!"
+ SEM_conflict_escalation_red: "§R[?SEM.NA_N_conflict_escalation_value@ROOT]§!"
+
+ APA_conflict_escalation_loc: "\n§W[APA.GetName]:§! [APA_conflict_escalation_color]"
+ APA_conflict_escalation_green: "§G[?APA.NA_N_conflict_escalation_value@ROOT]§!"
+ APA_conflict_escalation_orange: "§O[?APA.NA_N_conflict_escalation_value@ROOT]§!"
+ APA_conflict_escalation_red: "§R[?APA.NA_N_conflict_escalation_value@ROOT]§!"
+
+ NAV_conflict_escalation_loc: "\n§W[NAV.GetName]:§! [NAV_conflict_escalation_color]"
+ NAV_conflict_escalation_green: "§G[?NAV.NA_N_conflict_escalation_value@ROOT]§!"
+ NAV_conflict_escalation_orange: "§O[?NAV.NA_N_conflict_escalation_value@ROOT]§!"
+ NAV_conflict_escalation_red: "§R[?NAV.NA_N_conflict_escalation_value@ROOT]§!"
+
+ COM_conflict_escalation_loc: "\n§W[COM.GetName]:§! [COM_conflict_escalation_color]"
+ COM_conflict_escalation_green: "§G[?COM.NA_N_conflict_escalation_value@ROOT]§!"
+ COM_conflict_escalation_orange: "§O[?COM.NA_N_conflict_escalation_value@ROOT]§!"
+ COM_conflict_escalation_red: "§R[?COM.NA_N_conflict_escalation_value@ROOT]§!"
+
+ CHY_conflict_escalation_loc: "\n§W[CHY.GetName]:§! [CHY_conflict_escalation_color]"
+ CHY_conflict_escalation_green: "§G[?CHY.NA_N_conflict_escalation_value@ROOT]§!"
+ CHY_conflict_escalation_orange: "§O[?CHY.NA_N_conflict_escalation_value@ROOT]§!"
+ CHY_conflict_escalation_red: "§R[?CHY.NA_N_conflict_escalation_value@ROOT]§!"
+
+ SIX_conflict_escalation_loc: "\n§W[SIX.GetName]:§! [SIX_conflict_escalation_color]"
+ SIX_conflict_escalation_green: "§G[?SIX.NA_N_conflict_escalation_value@ROOT]§!"
+ SIX_conflict_escalation_orange: "§O[?SIX.NA_N_conflict_escalation_value@ROOT]§!"
+ SIX_conflict_escalation_red: "§R[?SIX.NA_N_conflict_escalation_value@ROOT]§!"
+
+ CRW_conflict_escalation_loc: "\n§W[CRW.GetName]:§! [CRW_conflict_escalation_color]"
+ CRW_conflict_escalation_green: "§G[?CRW.NA_N_conflict_escalation_value@ROOT]§!"
+ CRW_conflict_escalation_orange: "§O[?CRW.NA_N_conflict_escalation_value@ROOT]§!"
+ CRW_conflict_escalation_red: "§R[?CRW.NA_N_conflict_escalation_value@ROOT]§!"
+
+ SHO_conflict_escalation_loc: "\n§W[SHO.GetName]:§! [SHO_conflict_escalation_color]"
+ SHO_conflict_escalation_green: "§G[?SHO.NA_N_conflict_escalation_value@ROOT]§!"
+ SHO_conflict_escalation_orange: "§O[?SHO.NA_N_conflict_escalation_value@ROOT]§!"
+ SHO_conflict_escalation_red: "§R[?SHO.NA_N_conflict_escalation_value@ROOT]§!"
+
+ BFT_conflict_escalation_loc: "\n§W[BFT.GetName]:§! [BFT_conflict_escalation_color]"
+ BFT_conflict_escalation_green: "§G[?BFT.NA_N_conflict_escalation_value@ROOT]§!"
+ BFT_conflict_escalation_orange: "§O[?BFT.NA_N_conflict_escalation_value@ROOT]§!"
+ BFT_conflict_escalation_red: "§R[?BFT.NA_N_conflict_escalation_value@ROOT]§!"
+
+ NEZ_conflict_escalation_loc: "\n§W[NEZ.GetName]:§! [NEZ_conflict_escalation_color]"
+ NEZ_conflict_escalation_green: "§G[?NEZ.NA_N_conflict_escalation_value@ROOT]§!"
+ NEZ_conflict_escalation_orange: "§O[?NEZ.NA_N_conflict_escalation_value@ROOT]§!"
+ NEZ_conflict_escalation_red: "§R[?NEZ.NA_N_conflict_escalation_value@ROOT]§!"
+
+
+ NA_N_remove_resource_rights: "Вернуть ресурсы [FROM.GetName]".
+ NA_N_remove_resource_rights_desc: "Имея возможность ограничить влияние Соединенных Штатов, мы можем вернуть ресурсы в [FROM.GetName]".
+ NA_N_remove_resource_rights_command_power_more_than_99: "[NA_N_remove_resource_rights_cost_scripted]".
+ NA_N_remove_resource_rights_command_power_more_than_99_blocked: "[NA_N_remove_resource_rights_rights_cost_blocked_scripted]".
+ NA_N_remove_resource_rights_command_power_more_than_99_tooltip: "[NA_N_remove_resource_rights_cost_tooltip_scripted] §YВыселение§! и §GВозвращение Ресурсов§! из этого штата."
+ NA_N_remove_resource_rights_free: "£pol_power §H25§!".
+ NA_N_remove_resource_rights_free_blocked: "£pol_power §R25§!"
+ NA_N_remove_resource_rights_free_tooltip: "Дипломатические договоры позволяют нам тратить 25£pol_power для"
+ NA_N_remove_resource_rights_cost: "£command_power §H100§!"
+ NA_N_remove_resource_rights_cost_blocked: "£command_power §R100§!"
+NA_N_remove_resource_rights_cost_tooltip: "Это стоит 100£ командной_силы, чтобы"
+ NA_N_remove_resource_rights_tooltip: "Разблокирует решения, связанные с §GВозвращением Ресурсов§! и §YВыселением§!.\n"
+ NA_N_evict_settlers_outcome_tooltip: "§RНаши§! §YКолониальные соседи§! §Rбудут сердиться§!\n".
+ NA_N_evict_settlers_tooltip: "Население §Rуменьшится§! от переселения\n\n"
+ NA_N_settlers_relocation_tooltip: "Население §Gувеличится§! от переселения\n\n\n"
+
+ NA_N_war_operations_category: "Американские военные планы"
+ NA_N_war_operations_category_desc: "Борьба с американцами на нашей земле - это непосильная задача, которую некоторые называют самоубийственной. Однако, при тщательном планировании и использовании ключевых слабостей, мы можем компенсировать недостаток численности и оборудования."
+ operation_smash_and_grab: "Операция "Разбить и захватить"
+ operation_smash_and_grab_desc: "Если мы собираемся изгнать угрозу с востока, нам понадобится оружие и боеприпасы. В районах Мичигана и Иллинойса есть несколько ключевых оружейных заводов и арсеналов, которые мы можем захватить".
+ operation_heavens_gate: "Операция "Небесные врата"
+ operation_heavens_gate_desc: "Будем честны, наших соседей мормонов можно назвать "немного эксцентричными", а циничных - "сумасшедшими НЛО-культистами". Однако мы все можем согласиться с тем, что время для того, чтобы они селились на нашей земле, прошло. Насильно накормите этих придурков их кул-эйдом".
+ operation_pinewoods: "Операция "Пайнвудс""
+ operation_pinewoods_desc: "Слухи распространяются быстро, и благодаря нашим разведчикам у нас есть новые сведения. В горах Кламат на юге Орегона найдено золото, и белый человек спешит его захватить. Сильный прорыв вверх через Монтанну должен перерезать их пути снабжения и дать понять, что их не ждут".
+ operation_puddle_pirates: "Операция "Пираты лужи"
+ operation_puddle_pirates_desc: "Как только мы разберемся с Мичиганом, следующим логическим шагом будет Миннесота, чтобы мы могли сохранить контроль над великими озерами и предотвратить свободное движение торговых и промышленных судов без нашего согласия."
+
+ NA_N_war_operations_category_2: "Теперь, когда мы оттеснили американцев на востоке и на западе, мы можем начать предпринимать более наступательные шаги по захвату и окружению стратегических пунктов, имеющих экономическую и военную ценность."
+ NA_N_war_operations_category_2: "Теперь, когда мы оттеснили американцев на востоке и на западе, мы можем начать предпринимать более наступательные шаги по захвату и окружению стратегических пунктов, имеющих экономическую и военную ценность."
+ operation_golden_gate: "Операция "Золотые ворота"
+ operation_golden_gate_desc: "Похоже, отрезать Орегонскую тропу у Монтаны было для них недостаточным намеком, поэтому нам нужно продвинуться дальше по западному побережью и загнать их в Сьерры."
+ operation_potato_digger: "Операция "Картофелекопатель"
+ operation_potato_digger_desc: "Айдахо - следующий на очереди, и хотя кажется, что мы вторгаемся в самый безвкусный штат в мире, он нужен нам для важнейших железнодорожных и логистических узлов".
+ operation_pretzel: "Операция "Крендель""
+ operation_pretzel_desc: "Операция "Крендель" - это первая часть трехэтапной операции по захвату северо-востока, в ходе которой мы захватим северо-восток и обрушим капкан на американский центр власти. Ожидайте жесткого сопротивления".
+ operation_statten_island: "Операция "Статен-Айленд"
+ operation_statten_island_desc: "Контроль над важнейшими портами Нью-Йорка имеет первостепенное значение для успеха плана, так как нам необходимо предотвратить прибытие подкреплений из-за пределов США и с севера. Благодаря этому мы эффективно разрежем страну пополам".
+ operation_tattered_flag: "Операция "Рваный флаг" позволяет нам окончательно затянуть петлю на шее американской власти и еще на шаг приблизить нас к тому, чтобы отрубить голову змее. Следующим будет Вашингтон".
+ operation_tattered_flag: "Операция "Рваный флаг" позволяет нам окончательно затянуть петлю на шее американской власти и еще на шаг приблизить нас к тому, чтобы отрубить голову змее. Следующим будет Вашингтон".
+
+ USA_military_access_to_western_territories: "[FROM.GetAdjective] Доступ к территории"
+ USA_military_access_to_western_territories_desc: "Соединенные Штаты имеют военный доступ и различные лагеря на [FROM.GetAdjective] территориях".
+ USA_military_access_to_western_territories_trigger: "§Y[FROM.GetName]§ имеет §YNo Borders§!".
+
+ first_nations_tribal_raid_colonial_neighbor: "Рейд на колониального нарушителя: [FROM.GetAdjective] границы".
+ first_nations_tribal_raid_colonial_neighbor_desc: "Мы отправим рейдовый отряд к границе [FROM.GetName], в надежде успешно расхитить их запасы и помешать их усилиям по расширению."
+ first_nations_tribal_raid_colonial_neighbor_command_power_more_than_99: "£command_power §H100§!".
+  first_nations_tribal_raid_colonial_neighbor_command_power_more_than_99_blocked: "£command_power §R100§!".
+ first_nations_tribal_raid_colonial_neighbor_command_power_more_than_99_tooltip: "Стоит 100£command_power отправить §YRaiding Party§! к границе §Y[FROM.GetName]§!".
+
+ FNT_has_not_recently_raided_colonial_encroacher_tooltip: "Недавно не совершал набегов §Y[FROM.GetName]§!".
+
+ first_nations_tribal_raid.23.t: "Обнаружен [FROM.GetAdjective] рейдерский отряд!"
+ first_nations_tribal_raid.23.d: "Мы должны подготовиться к предстоящему рейду на нашей с ними границе!"
+ first_nations_tribal_raid.23.a: "Мы должны готовиться к этой пограничной войне".
+ first_nations_tribal_raid.23.b: "Отправьте наших воинов на защиту этих границ сейчас же!".
+set_border_war_data_first_nations_tribal_raid_neighbor_combat_width_tooltip: "Разведка предсказала, что §YШирина Фронта§! для этой §YПограничной Войны§! будет §R10§!".
+
+ first_nations_tribal_raid.24.t: "Обнаружен [FROM.GetAdjective] рейдовый отряд!"
+ first_nations_tribal_raid.24.d: "Мы должны подготовиться к предстоящему набегу на нашу границу с ними!"
+ first_nations_tribal_raid.24.a: "Мы должны подготовиться к пограничной войне".
+ set_border_war_data_first_nations_tribal_raid_colonial_neighbor_combat_width_tooltip: "Разведка предсказала, что §YШирина Фронта§! для этой §YПограничной Войны§! будет §R12§!".
+
+ first_nations_tribal_american_civil_war_category: "Гражданская война в Америке"
+ first_nations_tribal_american_civil_war_category_desc: "§YАмериканская гражданская война:§!\n §gВозникла американская гражданская война, оставив возможность нейтралитета невозможной. Племена первых наций решают, на чьей стороне быть в гражданской войне, надеясь оказаться на стороне победителей. В эти хаотичные времена можно добиться массовой экспансии земель, пока в Америке существует вакуум власти. Многие племена надеются использовать свою помощь в качестве политического веса, чтобы обеспечить себе независимость победителя после окончания гражданской войны в Америке.§!"
+ first_nations_tribal_border_war_enemy: "Вторгнуться в [FROM.GetAdjective] пограничный штат".
+ first_nations_tribal_border_war_enemy_desc: "Мы вторгнемся на границу [FROM.GetName], в надежде успешно захватить ее для себя."
+ first_nations_tribal_border_war_enemy_at_peace_trigger: "Не §YВторгается§! или в §YВойне§! с кем-либо".
+ first_nations_tribal_border_war_enemy_diplomacy_trigger: "Не имеет §Yдипломатических договоров§! с §Y[FROM.GetName]§!".
+ first_nations_tribal_border_war_enemy_command_power_more_than_99: "£command_power §H100§!".
+ first_nations_tribal_border_war_enemy_command_power_more_than_99_blocked: "£command_power §R100§!".
+ first_nations_tribal_border_war_enemy_command_power_more_than_99_tooltip: "Стоит 100£command_power для §Yвторжения§! на §Y[FROM.GetAdjective]§! границу".
+ first_nations_tribal_border_war_enemy_available_land_tooltip: "Любой §Y[FROM.GetAdjective] пограничный штат§! не имеет §YПограничных претензий§! на нем".
+
+ first_nations_tribal_raid.25.t: "Обнаружен [FROM.GetAdjective] рейдерский отряд!"
+ first_nations_tribal_raid.25.d: "Мы должны подготовиться к предстоящему набегу на нашу границу с ними!"
+ first_nations_tribal_raid.25.a: "Мы должны подготовиться к пограничной войне".
+ set_border_war_data_first_nations_tribal_border_war_enemy_combat_width_tooltip: "Разведка предсказала, что §YШирина Фронта§! для этой §YПограничной Войны§! будет §R20§!".
+
+
+ first_nations_tribal_raid.4.t: "Пограничный рейд удался!"
+ first_nations_tribal_raid.4.d: "Наши воины вернулись с добычей из запасов противника!".
+ first_nations_tribal_raid.4.a: "Отлично! Принесите это в хранилище!".
+
+ first_nations_tribal_raid.5.t: "Пограничный рейд провален!"
+ first_nations_tribal_raid.5.d: "Наши воины возвращаются домой с пустыми руками после неудачного рейда. Пограничная война была не только проиграна, но и понесла большие потери."
+ first_nations_tribal_raid.5.a: "Это ужасно!"
+
+ first_nations_tribal_raid.6.t: "Патовая ситуация на границе!"
+ first_nations_tribal_raid.6.d: "То, что началось как набег, превратилось в полномасштабную пограничную войну, которую не может выдержать ни одна из сторон. Агрессоры конфликта решили отступить, так как продолжать пограничную войну стало слишком дорого."
+ first_nations_tribal_raid.6.a: "Лишь временная неудача...".
+
+ first_nations_tribal_raid.7.t: "Оборона границы успешна!"
+ first_nations_tribal_raid.7.d: "Рейдовая группа была успешно отбита! Запасы на границе пока в безопасности".
+ first_nations_tribal_raid.7.a: "Они не смогут так легко разграбить наши запасы!".
+
+ first_nations_tribal_raid.8.t: "Запасы разграблены на границе!"
+ first_nations_tribal_raid.8.d: "Пограничная оборона была плохо оборудована для защиты лагеря от вражеских набегов! В результате запасы нашего лагеря были разграблены, а агрессоры сбежали с нашими припасами."
+ first_nations_tribal_raid.8.a: "Надеюсь, они не успели унести много!"
+
+ first_nations_tribal_raid.9.t: "Патовая ситуация на границе!"
+ first_nations_tribal_raid.9.d: "То, что началось как набег, превратилось в полномасштабную пограничную войну, которую не может выдержать ни одна из сторон. Агрессоры конфликта решили отступить, так как продолжать пограничную войну стало слишком дорого."
+ first_nations_tribal_raid.9.a: "Похоже, на данный момент мы можем расслабиться..."
+
+
+
+ first_nations_tribal_raid.10.t: "Пограничный рейд удался!"
+ first_nations_tribal_raid.10.d: "Наши воины вернулись с добычей из запасов противника!".
+ first_nations_tribal_raid.10.a: "Отлично! Принесите это в хранилище!"
+
+ first_nations_tribal_raid.11.t: "Пограничный рейд провален!"
+ first_nations_tribal_raid.11.d: "Наши воины возвращаются домой с пустыми руками после неудачного рейда. Пограничная война была не только проиграна, но и понесла большие потери."
+ first_nations_tribal_raid.11.a: "Это ужасно!"
+
+ first_nations_tribal_raid.12.t: "Тупик на границе!"
+ first_nations_tribal_raid.12.d: "То, что началось как набег, превратилось в полномасштабную пограничную войну, которую не может выдержать ни одна из сторон. Агрессоры конфликта решили отступить, так как продолжать пограничную войну стало слишком дорого."
+ first_nations_tribal_raid.12.a: "Лишь временная неудача...".
+
+ first_nations_tribal_raid.13.t: "Оборона границы успешна!"
+ first_nations_tribal_raid.13.d: "Рейдовая группа была успешно отбита! Запасы на границе пока в безопасности".
+ first_nations_tribal_raid.13.a: "Они не смогут так легко разграбить наши запасы!".
+
+ first_nations_tribal_raid.14.t: "Запасы разграблены на границе!"
+ first_nations_tribal_raid.14.d: "Пограничная оборона была плохо оборудована для защиты города от вражеских набегов! В результате запасы нашего города были разграблены, а агрессоры сбежали с нашими припасами."
+ first_nations_tribal_raid.14.a: "Надеюсь, они не успели унести много!"
+
+ first_nations_tribal_raid.15.t: "Патовая ситуация на границе!"
+ first_nations_tribal_raid.15.d: "То, что началось как набег, превратилось в полномасштабную пограничную войну, которую не может выдержать ни одна из сторон. Агрессоры конфликта решили отступить, так как продолжать пограничную войну стало слишком дорого."
+ first_nations_tribal_raid.15.a: "Похоже, мы можем расслабиться на время...".
+
+
+ acw_first_nations.1.t: "Дни нейтралитета сочтены"
+ acw_first_nations.1.d: "Разразилась американская гражданская война, в результате которой нейтралитет стал невозможен. Когда война закончится, победитель будет рассматривать [ROOT.GetAdjective] нейтралитет как поддержку другой стороны. Потенциально мы могли бы подождать дольше, чтобы узнать, какая сторона побеждает, прежде чем выбрать свою сторону, но это резко снизит дипломатическое влияние принятия той или иной стороны. Если война закончится до того, как мы сделаем выбор, мы рискуем прослыть предателями победителя.\n\n\nПосле рассмотрения всех вариантов, мы остаемся перед выбором: выбрать сторону сейчас и получить максимальный дипломатический эффект или выбрать позже и сделать более осознанный выбор. Какова будет позиция [ROOT.GetName] в конфликте?".
+ acw_first_nations.1.a: "Мы должны быстро выбрать свою сторону".
+ acw_first_nations.1.b: "Подождать месяц и посмотреть, кто победит".
+ acw_first_nations.1.c: "Подождите два месяца, чтобы увидеть, кто победит".
+
+ acw_first_nations.2.t: "На чьей стороне Гражданская война?"
+ acw_first_nations.2.d: "У нас еще есть два месяца до того, как дипломатическое влияние выбора стороны будет сведено на нет. Мы можем выбрать сторону сейчас и получить максимальный дипломатический эффект от нашего выбора. Какой будет наша позиция?"
+ acw_first_nations.2.a: "[USA.GetName] собираются победить!".
+ acw_first_nations.2.b: "Победят [CSA.GetName]!".
+ acw_first_nations.2.c: "Вообще-то, нам стоит подождать месяц, прежде чем принимать решение".
+
+ acw_first_nations.3.t: "На чьей стороне гражданская война?"
+ acw_first_nations.3.d: "Поскольку наша нация ждет месяц, чтобы выбрать сторону, дипломатическое воздействие от выбора стороны значительно увеличилось. Если мы примем решение сейчас, выбранная нами сторона все равно будет затронута нашим решением оказать им помощь. Сделаем ли мы выбор сейчас или подождем еще месяц?".
+ acw_first_nations.3.a: "[USA.GetName] собираются победить!".
+ acw_first_nations.3.b: "[CSA.GetName] собираются победить!".
+ acw_first_nations.3.c: "Вообще-то, нам следует подождать еще месяц, прежде чем принимать решение".
+
+ acw_first_nations.4.t: "На чьей стороне гражданская война?"
+ acw_first_nations.4.d: "Дни нейтралитета подошли к концу. Если мы не выберем сейчас, то когда война закончится, нас будут считать предателями победителя. Наша лучшая надежда - выбрать сторону, которая, похоже, победит".
+ acw_first_nations.4.a: "[USA.GetName] собираются победить!".
+ acw_first_nations.4.b: "[CSA.GetName] собираются победить!".
+
+ acw_first_nations.5.t: "[FROM.GetName] Поддерживает Союз!".
+ acw_first_nations.5.d: "[FROM.GetName] бросил свой жребий вместе с [ROOT.GetName] в американской гражданской войне! Отвлекающие маневры отвлекут солдат противника от основных сражений, что даст нам больше шансов. В рамках официального договора был подписан пакт о ненападении, и нам был предоставлен военный доступ."
+ acw_first_nations.5.a: "Непоколебим в своем деле!"
+ acw_first_nations.5.b: "Их помощь приветствуется".
+ acw_first_nations.5.c: "Приятно знать".
+
+ acw_first_nations.6.t: "[FROM.GetName] Поддерживает Конфедерацию!".
+ acw_first_nations.6.d: "[FROM.GetName] бросил свой жребий вместе с [ROOT.GetName] в американской гражданской войне! Отвлекающие маневры отвлекут солдат противника от основных сражений, что даст нам больше шансов. В рамках официального договора был подписан пакт о ненападении, и нам был предоставлен военный доступ."
+ acw_first_nations.6.a: "Непоколебим в своем деле!"
+ acw_first_nations.6.b: "Их помощь приветствуется".
+ acw_first_nations.6.c: "Приятно знать".
+
+ NA_N_event.1.t: "[FROM.GetName] Стремится к мирному сотрудничеству!"
+ NA_N_event.1.d: "[FROM.GetName] решили прекратить набеги и соблюдать наши договоры. Мы рассматриваем это как положительную возможность сотрудничества. Возможно, теперь мы будем более склонны посылать им пайки и продовольствие. Хотя чем больше бизонов будет убито, тем больше племена будут зависеть от нас".
+ NA_N_event.1.a: "По крайней мере, у нас будет меньше беспокойных соседей".
+
+ NA_N_event.2.t: "Уважать [FROM.GetAdjective] границы?".
+ NA_N_event.2.d: "Просьба об уважении была тем, что вы бы назвали письмом с нарушением границ. Письмо, доставленное лично самым храбрым дипломатом, которого они смогли найти, было уведомлением Соединенным Штатам о том, что правительство здесь собирается оформить свою государственность и просит уважать, среди прочего, права на твердую границу и права на ресурсы.\n\nОбычные подозреваемые во власти немедленно выползли из леса, оптимисты наивно надеялись на лучшее, а более циничные ожидали, что сенат США будет смеяться до потери сознания. Это было похоже на то, как мышь просит льва уважать ее границы, в то время как лев просто удивляется, почему его обед разговаривает с ним."
+ NA_N_event.2.a: "Если мы убедим конгресс, то сможем добиться принятия этих договоров".
+ NA_N_event.2.b: "Пусть конгресс решает".
+
+ NA_N_event.3.d: "Из непроглядной черной ямы американской психики взошла искра добра. Сенат США милостиво передал свое соглашение в руки сенатора Сьюарда, и тот формально согласился уважать границы нашей страны.\n\nЭто было знаменательное событие, поскольку впервые сенатор ступил на наши земли. Когда прибыл сенатор из Нью-Йорка, многие прокомментировали, что американцы считают нужным принимать законы, даже не находясь здесь, но этим людям было велено быстро заткнуться, пока они не скомпрометировали деликатную ситуацию."
+
+ NA_N_event.4.d: "Реакция США была однозначной: хихикающее презрение. Полное ликующее презрение к очень разумной просьбе. Мы думали об этом несколько недель, но, похоже, голоса оптимистов замолкли, и слово осталось за циниками.\n\nКак бы то ни было, наш ответ готов, и наша позиция решительна. Если поселенцы не уйдут по своей воле, то армия готова заставить их уйти на кончиках штыков. Даже сейчас открыт набор, и новые войска тренируются, готовые к неизбежному американскому возмущению по этому поводу."
+
+ NA_N_event.5.t: "Поселенцы выселены!"
+ NA_N_event.5.d: "Когда пришли поселенцы, они тоже охотились здесь. Старейшины сказали, что они переборщили с охотой, даже в неподходящий сезон, и что земля не предназначена для такого обращения. Арни рассказывал мне истории о том, что он видел, как эти поселенцы делали. Он долго говорил о том, что находил горы мертвых бизонов, оставленных на пустыре, и стальные следы, разрезающие места предков. Вчера случилось что-то плохое. Один из мальчиков был найден мертвым недалеко от деревни. Его мать не переставала плакать. Это была незавидная трата жизни, и мы смотрели, как она ускользает. А на горизонте мы увидели белых людей на лошадях в широкополых шляпах, уезжающих прочь. Сегодня в полдень посланный нами гонец вернулся с подкреплением из ополчения, о котором мы просили. Они сказали, что высший совет издал приказ об удалении белых людей с этих земель. Старейшины нашей деревни рассказали им, что произошло, и сообщили, где живет поселенец. Ополченцы ушли в сумерках".
+ NA_N_event.5.a: "Возвращение земли".
+
+ NA_N_event.7.t: "Поселенцы выселены с [FROM.GetAdjective] территорий!".
+ NA_N_event.7.d: "Поток поселенцев прибыл в город в [FROM.GetName] после того, как [FROM.FROM.GetName] выселил их из [FROM.FROM.GetName]. Один поселенец описал этот случай в письме, отправленном его матери:\n\nДорога к этой земле была долгой и трудной. Мы шли и ехали по территории долгими часами днем, а ночью спали в холодных вагонах. Это был трудный образ жизни, но не такой трудный, как развернуться и пойти обратно.\n\n\nСмотрите, человек, который продал нам землю, сказал нам, что о туземцах не стоит беспокоиться, они были кучкой отсталых дикарей. Оказалось, что это были не тупые алкоголики, а холодные люди в форме с острыми штыками, и они очень не хотели нас там видеть. Уже смеркалось, когда мужчины из местного лагеря пришли в наш маленький бумтаун. Они пришли в большом количестве, с винтовками и пистолетами, и сказали нам, что у нас есть время до рассвета следующего дня, чтобы собрать вещи и отправиться на восток. Старый Поли попытался сопротивляться, и они застрелили его на месте. В ту ночь мужчины города сформировали отряд и отправились разбираться с туземцами, где они живут, полагая, что те вернулись в свои вигвамы. Они не знали, что туземцы никогда не уходили. Они не ожидали, что их окружат. Когда пыль рассеялась и последний выстрел эхом отразился от равнины, мы сделали то, что они сказали. Мы собрали все, что у нас было, и ушли. Я просто благодарю Бога, что мой отец не пошел с отрядом в ту ночь".
+ NA_N_event.7.a: "Какое варварство!"
+
+ NA_N_event.8.t: "Военные поставки от [FROM.GetName]!".
+
+ NA_N_event.9.t: "Дебаты о рабстве"
+ NA_N_event.9.d: "Вопрос о рабах является здесь дискуссионным, но не таким дискуссионным, как в американском штате. Наше отношение к рабству и положению рабов в обществе сильно отличается от американского, и в настоящее время многие комментаторы документально подтверждают наши взгляды. Одно из наших отличий заключается в том, что принципы, используемые для оправдания рабства, не так сильно распространены, что делает его гораздо менее укорененным в обществе. Это означает, что мы могли бы легко устранить негативные социальные последствия этой практики с помощью некоторых законодательных актов. Тем не менее, есть те, кто хочет сохранить эту практику из стремления к вестернизации и контролю над классом рабов."
+ NA_N_event.9.a: "Статус-кво".
+ NA_N_event.9.a: "Статус-кво".
+
+ NA_N_event.10.t: "Меняющиеся времена"
+ NA_N_event.10.d: "Для нашего народа нет ничего более священного, чем традиции. Мы живем и дышим ею. Поддерживать их - значит крепко держаться за свою самоидентификацию, и в политике это ничем не отличается. Самоидентификация и национальный дух - важные и ценные вещи для народа, ведь без этих давних традиций духов и людей мы были бы ничем. Нам, коренным жителям этой земли, дороги эти вещи, которые колониальные захватчики пытались уничтожить. Это наше вечное кредо".
+ NA_N_event.10.a: ""
+
+ NA_N_event.11.t: "Меняющиеся времена"
+ NA_N_event.11.d: "Обувь мокасинов переросла в сапоги. Воины переросли в наряды, хотя все еще очень явно туземные, но все еще единообразные. Звания. Формации. Полированные винтовки с острыми штыками. Развивающаяся столица знакомится с новым революционным понятием: военный парад и митинг. Вереницы солдат маршируют перед толпой людей, а верховный вождь наблюдает сверху. Нация взрастила в себе образ, в котором природное спокойствие и собранность превратились в холодную, расчетливую безжалостность."
+ NA_N_event.11.a: ""
+
+ NA_N_event.12.t: "Меняющиеся времена"
+ NA_N_event.12.d: "Итак, мы все сожгли. Я наблюдал. Мы развели большой костер в центре города и положили на него все, что касалось старого совета и его путей. Мы сожгли их одежду, их безделушки и прочее имущество. Мой друг спросил свою мать, что случилось с советниками. Она сказала, что ему лучше не знать. Иногда я все еще вижу тот пожар, ту ночь, когда мы сожгли старые пути дотла. Я думаю, что в ту ночь мы что-то потеряли. Мы принесли в жертву огню часть себя, за право остаться в живых".
+ NA_N_event.12.a: ""
+
+ NA_N_event.13.t: "Меняющиеся времена"
+ NA_N_event.13.d: "Когда мы подписали закон, мы сразу же получили гневное письмо из Конгресса США. Его было очень забавно читать, оно вызвало много смеха в офисах. Очевидно, что создание "конституционной монархии" было полным отказом от свободы, еще немного болтовни о сходстве с британской системой (что на самом деле не имеет большого значения, мы этого не видим, и мы написали это письмо) и зловещая угроза "негативных дипломатических отношений". Последний пункт вызвал серьезный смех у нескольких человек."
+ NA_N_event.13.a: ""
+
+ NA_N_event.14.t: "Lege Nativa"
+ NA_N_event.14.d: "Вчера соседский мужчина сделал нечто странное: он закончил строительство дома. Это была простая вещь, сделанная из набора, оставленного поселенцами, но это был крепкий дом. В наши дни их становилось все больше, они появлялись вдоль грунтовых дорог. Некоторые из более оживленных дорог теперь были заасфальтированы. На следующий день солнце встало по-другому. Это был восход, который многие видели тысячу раз, но он освещал изменившуюся землю. Через несколько городов строилась железная дорога, ведущая в столицу. Как будто внезапно земля потеряла часть своего духа. Фабрики стали более распространенными. Они появлялись повсюду, как и магазины и телеграфные конторы. Прогуливаясь по новому "городу", можно было почувствовать, как дух падает с земли, словно пепел с сигареты. Но эти перемены придали делу определенный импульс, который вселял страх в сердца американских поселенцев. Это озарило самые темные части американской психики шокирующим осознанием того, что цивилизация не является исключительной прерогативой белого человека, и что при наличии достаточного времени коренное население вполне способно представлять собственную угрозу".
+ NA_N_event.14.a: ""
+
+ NA_N_event.15.t: "Модель нашей экономики"
+ NA_N_event.15.d: ""
+ NA_N_event.15.a: "Земля - земля вождя".
+ NA_N_event.15.b: "Земля - это земля общины".
+ NA_N_event.15.c: "Земля - это земля владельца".
+
+ NA_N_event.16.t: "Вопрос об ограничении рабочего дня"
+ NA_N_event.16.d: ""
+ NA_N_event.16.a: "Без лимита"
+ NA_N_event.16.b: "Установить лимит"
+
+ NA_N_event.17.t: "Вопрос о работающих детях"
+ NA_N_event.17.d: ""
+ NA_N_event.17.a: "Мы все должны внести свой вклад".
+ NA_N_event.17.b: "Мы можем ограничить виды работ".
+ NA_N_event.17.c: "Мы покончим с детьми, работающими на производстве".
+
+ NA_N_event.18.t: "Вопрос о торговле"
+ NA_N_event.18.d: ""
+ NA_N_event.18.a: ""
+ NA_N_event.18.b: ""
+ NA_N_event.18.c: ""
+
+ NA_N_event.19.t: "Вопрос о военном бюджете"
+ NA_N_event.19.d: ""
+ NA_N_event.19.a: ""
+ NA_N_event.19.b: ""
+ NA_N_event.19.c: ""
+
+ NA_N_event.20.t: "Вопрос о налогообложении"
+ NA_N_event.20.d: ""
+ NA_N_event.20.a: ""
+ NA_N_event.20.b: ""
+ NA_N_event.20.c: ""
+
+ NA_N_event.21.t: "Вопрос о полиции"
+ NA_N_event.21.d: ""
+ NA_N_event.21.a: ""
+ NA_N_event.21.b: ""
+
+ NA_N_event.22.t: "Вопрос о судах"
+ NA_N_event.22.d: ""
+ NA_N_event.22.a: ""
+ NA_N_event.22.b: ""
+ NA_N_event.22.c: ""
+
+ NA_N_event.24.t: "Соединенные Штаты исправляют аннуитетные платежи племен"
+ NA_N_event.24.d: "Договор Форт-Ларами 1851 года разрешал строительство дорог и фортов на территориях коренных американцев в обмен на обещание аннуитета в размере пятидесяти тысяч долларов в течение пятидесяти лет. После подписания договора был произведен только один аннуитетный платеж, что сразу же нарушило обещание договора. Соединенные Штаты решили исправить это нарушение и снова платить нам ежегодно".
+ NA_N_event.24.a: "Пусть это будет та ветвь, которая возродит наше доверие".
+
+ NA_N_event.58.t: "Билет на шоу"
+ NA_N_event.58.d: "На перекрестке в городе какой-то трудолюбивый человек построил театр. Замечательное достижение, он был маленьким, но, впрочем, как и деревня. Наше население уменьшалось с каждым днем. Старейшины говорили нам, что поселенцы с востока принесли с собой злых духов, болезни. Каждую неделю или около того мы получали известия о новых мертвых буйволах, оставленных гнить. Их убивали для железных дорог. Мы с сестрой купили по билету на сегодняшний спектакль. Фильм был плохим, но таким плохим, что смотреть его было просто интересно. Мы сидели во втором ряду спереди и смотрели, как актеры в дешевых костюмах начинают свои неуклюжие и неловкие вступительные реплики. Всегда было смешно, когда они лажали, и это вызвало несколько искренних смешков. Мы были на полпути второго акта, когда городской колокол зазвонил в тревоге. Вдалеке раздался громкий гул, а затем это случилось. Американское пушечное ядро врезалось в крышу театра, разбрасывая щепки дерева и шрапнель, наполняя воздух дымом и пылью. Раздался сумасшедший звон колокола, и воздух наполнился криками атаки. Люди кричали, толкаясь к выходу. В этом хаосе я услышала, как сестра зовет меня. Это был последний раз, когда я слышала ее живой. Ее тело нашли под обломками, когда осела пыль. Цикл захватов и набегов наконец-то уступил место войне, войне, на которую меня призовут".
+ NA_N_event.58.a: "Теперь показываю, ад на земле"
+
+ NA_N_event.59.t: "Кровавые деньги"
+ NA_N_event.59.d: "Они умерли за что? За землю? Золото? Оружие? Что бы ни было в мешке, оно обрекало целый народ на жестокое кровопролитие. Набеги, посягательства, дорога сюда была длинной, трудной и опасной. На хижину, где все началось, Заяц наткнулся случайно, после того как отделился от своего военного отряда. В хижине было темно и тускло горел свет, но в лампе еще оставалось масло. Кто-то недавно был здесь. Вокруг стола лежали три трупа. Два офицера конфедератов и один команч. Было очевидно, что произошло. Они стреляли друг в друга из-за сумки на столе. Когда заяц подошел к столу, в хижине раздался выстрел. Дешевое и старое дерево разлетелось на зубочистки, когда он упал на пол. Снаружи он услышал сильный акцент техасцев. Линия конфедератов отступила, и они сжигали все на своем пути. Шальная пуля сбила лампу с боку, разлив горячее масло, которое вспыхнуло, коснувшись фитиля. Вскоре вся хижина была охвачена пламенем, а воздух наполнился дымом. Дышать становилось все труднее и труднее, крыша начала скрипеть, и отсутствие выхода стало очевидным. Заяц, медленно кашляя, открыл сумку на столе. Что это было, что вызвало все это? Что могло быть настолько важным, что послужило последней искрой, воспламенившей пороховую бочку? Это были деньги. Доллары, выпущенные Конфедерацией. Это... это ничего не стоило. Бесценная бумага, выпущенная никчемными людьми для обмена на никчемный хлопок. Эта война, хотя и была результатом долгого пути, но, безусловно, была разочаровывающим пунктом назначения. Заяц вздохнул. И тут на него обрушилась крыша".
+ NA_N_event.59.a: "Некоторые люди готовы на все ради нескольких долларов...".
+
+ NA_N_event.60.t: "Золото Бога"
+ NA_N_event.60.d: "Мормоны хотят нашу землю. Они говорят нам, что их бог даровал ее им, а мы сами были благословлены, чтобы увидеть желания людей их глазами, окнами в душу твою. И вот, в сердцах их была жажда золота. Потребность в драгоценных металлах заставляет людей совершать жестокие поступки. Потребность в драгоценных металлах оскверняет сердца людей. Когда они пришли с крестами, мы увидели их лживые пророчества и проповеди. Они пришли, чтобы обратить нас, безбожных язычников, как они утверждали. Они пришли, чтобы обратить нас в веру, превратить наше золото в деньги. Что касается их бога, то даже другие белые люди считают их безумными фанатиками. Но этот цикл длится уже много лет. Цикл набегов и миссионерства. Ну, это всегда должно было закончиться именно так".
+ NA_N_event.60.a: "Время встретить своего бога"
+
+ NA_N_event.61.t: "Раннее зачисление"
+ NA_N_event.61.d: "Школы - это не то, о чем вы думаете как о чем-то страшном, в обычном понимании. Но это так, если школой управляют канадцы. Наслушавшись рассказов, многие не хотят отдавать своих детей в руки колониальных захватчиков. Многие не возвращаются из этих школ, а те, кто возвращается? Они жалеют, что не вернулись. Некоторые привозят рисунки, которые вызывают кошмары. Шрамы также вызывают беспокойство, поэтому очевидно, что многие будут сопротивляться, и они сопротивлялись. Вскоре колонисты вернулись с солдатами, чтобы взять их силой. Местным жителям это не понравилось. Они открыли ответный огонь. Теперь у нас есть то, что часто называют "небольшим мочиловом", в виде войны с Канадой".
+ NA_N_event.61.a: "*сжимает жемчуг*"
+
+acw_first_nations_choose_early_tooltip: " \nВыбор на ранней стадии §GМаксимизирует§! наше §YДипломатическое Влияние§!".
+acw_first_nations_choose_later_tooltip: "\nОжидание одного месяца §RУменьшит§! наше §YДипломатическое Влияние§!".
+ acw_first_nations_choose_latest_tooltip: "\nОжидание двух месяцев §RЗначительно Уменьшит§! наше §YДипломатическое Влияние§!".
+
+ acw_first_nations_choose_USA_tooltip: "\n§GМы будем на стороне §!§Y[USA.GetName]§!§G в §!§YAmerican Civil War§!§G!§!".
+ acw_first_nations_choose_CSA_tooltip: "\n§GМы будем на стороне §!§Y[CSA.GetName]§!§G в §!§YAmerican Civil War§!§G!§!".
+
+ acw_first_nations_choose_USA_trigger_tooltip: "Встал на сторону §YСоединенных Штатов§!".
+ acw_first_nations_choose_CSA_trigger_tooltip: "Встал на сторону §YКонфедеративных Штатов§!".
+
+ # Seminole Events #NT!
+ SEM_become_stay_nomadic_tribe: "Мы будем продолжать оставаться §YНомадическим обществом§!".
+ SEM_become_settled_tribe: "Мы будем реформироваться в §YПоселенческое общество§!".
+ USA_sem_native_reservation: "В §Y[SEM.GetName]§! будет создана §Y[THIS.GetName]§! §YРезервация первых нацийn§! для племени §Y[SEM.GetName]§!.\n".
+
+ USA_core_provides_militia_divisions: "\n§Y[THIS.GetName]§! выделит §G10% своего населения§! для формирования до §Y6 дивизий государственного ополчения§! для §Gотбивания§! §RРодных американских рейдов§! которые направлены против штата.\n\n"
+
+  colonial_state_neighbor_is_tribe: "Защита от рейдов"
+colonial_state_neighbor_is_tribe_desc: "§WЕсли штат захвачен, §!§G10%§W населения будет использовано для формирования государственного ополчения для §!§Gзащиты§!§W местных земель. \n\nДополнительно, штат с определенным уровнем форта предоставит подразделение Государственного Ополчения для защиты местных земель.§!\n\n§YВысший уровень форта в штате:§!\n§WУровень форта §!§Y1§!§W:§! §G+2§!§W Государственное ополчение§!§W\nУровень форта §!§Y2§!§W:§! §G+4§!§W Штатское Ополчение!§W\nУровень форта §!§Y3§!§W:§! §G+6§!§W Штатское Ополчение§!"
+
+ NA_N_event.30.t: "Окончание третьей Семинольской войны"
+ NA_N_event.30.d: "Война началась в 1855 году в результате реакции семинолов на вторжение поселенцев и разведывательных партий армии США на их земли. Семинолы настаивали на том, что Соединенные Штаты намеренно послали поселенцев, чтобы спровоцировать агрессивную реакцию, которая нарушила бы договор между двумя странами. Независимо от того, что произошло на самом деле, земли семинолов теперь оккупированы [USA.GetName], и необходимо сделать выбор, что делать дальше.\n\nПредлагаемая идея - переселить семинолов на [374.GetName] и создать официальную резервацию для коренного американского народа семинолов. Хотя, если народ семинолов будет разоружен, ныне не действующий договор может быть пересмотрен и во Флориде может быть создана полуавтономная резервация."
+ NA_N_event.30.a: "Они нарушили договор и напали на нас! Они могут жить в [374.GetName]".
+ NA_N_event.30.b: "С некоторыми политическими одолжениями, возможно, мы сможем пересмотреть старый договор...".
+
+ NA_N_event.29.t: "Конец третьей семинольской войны".
+ NA_N_event.29.d: "Война началась в 1855 году в результате ответных действий семинолов на вторжение поселенцев и разведывательных партий армии США на их земли. Семинолы настаивали на том, что Соединенные Штаты намеренно послали поселенцев, чтобы спровоцировать агрессивную реакцию, которая нарушила бы договор между двумя странами. Независимо от того, что произошло на самом деле, земли семинолов теперь оккупированы [USA.GetName], и необходимо сделать выбор, что делать дальше.\n\nПредлагаемая идея - переселить семинолов на [374.GetName] и создать официальную резервацию для коренного американского народа семинолов. Хотя, если народ семинолов будет разоружен, ныне не действующий договор может быть пересмотрен и во Флориде может быть создана полуавтономная резервация."
+ NA_N_event.29.a: "Они нарушили договор и напали на нас! Они могут жить в [374.GetName]".
+ NA_N_event.29.b: "С некоторыми политическими одолжениями, возможно, мы сможем пересмотреть и поддержать договор...".
+
+ NA_N_event.28.t: "Конец третьей семинольской войны".
+ NA_N_event.28.d: "Война началась в 1855 году в результате реакции семинолов на вторжение поселенцев и разведывательных партий армии США на их земли. Семинолы настаивали на том, что Соединенные Штаты намеренно послали поселенцев, чтобы спровоцировать агрессивную реакцию, которая нарушила бы договор между двумя странами. Независимо от того, что произошло на самом деле, земли семинолов теперь оккупированы [USA.GetName], и необходимо сделать выбор, что делать дальше.\n\nУдивительно, но [USA.GetName] решили поддержать договор, слегка пересмотрев его. Они позволили народу семинолов сохранить свои земли и управлять ими как полуавтономной резервацией.\n\n\nНастало время решить, будем ли мы продолжать наш кочевой образ жизни в резервации или перестроимся в оседлое общество."
+ NA_N_event.28.a: "Они нарушили договор и напали на нас! Они могут жить в [374.GetName]".
+ NA_N_event.28.b: "С некоторыми политическими одолжениями, возможно, мы сможем пересмотреть старый договор...".
+
+ NA_N_event.31.t: "Конец третьей семинольской войны".
+ NA_N_event.31.d: "Война началась в 1855 году в результате реакции семинолов на вторжение поселенцев и разведывательных партий армии США на их земли. Семинолы настаивали на том, что Соединенные Штаты намеренно послали поселенцев, чтобы спровоцировать агрессивную реакцию, которая нарушила бы договор между двумя странами. Независимо от того, что произошло на самом деле, земли семинолов теперь оккупированы [USA.GetName]\n\nСША.GetName решили аннексировать эти земли, а затем сослать народ семинолов в [374.GetName], чтобы поселить в резервации для коренного населения. Лишь нескольким семьям семинолов удалось избежать обнаружения американской армией и остаться на родной флоридской земле."
+ NA_N_event.31.a: "Это ужасно! Наша родная земля потеряна!"
+
+ NA_N_event.32.t: "Изгнание народа семинолов"
+ NA_N_event.32.d: "Большая часть народа семинолов уже переехала в [374.GetName], чтобы жить в резервации, созданной [USA.GetName]. Лишь нескольким семьям семинолов удалось избежать обнаружения американской армией и остаться на своей родной флоридской земле."
+ NA_N_event.32.a: "Дело сделано".
+
+ # Navajo Events #NT!
+ navajo.1.t: "Тень форта Дефанс"
+ navajo.1.d: "Прошло несколько лет с тех пор, как армия США построила форт Дефанс на Оконной скале. То, что форт находится так близко к нашим землям, вызывает беспокойство, и старейшины становятся параноиками. Мы можем попросить США передать нам контроль над фортом в обмен на денежную компенсацию или просто взять форт силой".
+ navajo.1.a: "Послать делегацию для переговоров о форте".
+ navajo.1.b: "Защитить наши дома и штурмовать форт!".
+ navajo.1.b_tt: "Мы подготовим людей и оружие".
+ navajo.2.t: "Навахо требуют контроля над фортом Дефанс".
+ navajo.2.d: "Прошло менее десяти лет с тех пор, как был построен форт Дефайнс, а он уже создает проблемы. Мы получаем бесчисленные жалобы от племени навахо, и дело дошло до нескольких рейдов с целью разрушения форта. Чтобы найти компромисс, вожди выдвинули предложение, чтобы навахо получили контроль над фортом, а в обмен они должны выплатить денежную компенсацию. Если мы откажемся, это может привести к войне с маленькими туземцами. Хотя уничтожить их было бы небольшим делом, действительно ли мы хотим тратить армию на такого незначительного врага?".
+ navajo.2.a: "Пусть они ноют сколько хотят, форт останется за нами".
+ navajo.2.b: "Просто отдайте им этот чертов форт".
+ navajo.4.t: "Американцы согласны на сделку!"
+ navajo.4.d: ""
+ navajo.4.a: "Замечательно!"

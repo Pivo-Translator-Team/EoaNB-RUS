@@ -1,0 +1,1187 @@
+﻿l_russian:
+################### #NT!
+#  Denmark Events # #NT!
+################### #NT!
+
+###SUCCESSION, STARTING, GENERAL INFO AND FLAVOUR EVENTS #NT!
+#SUCCESSION EVENTS #NT!
+denmark.1.t:0 "Смерть Фридриха VII"
+denmark.1.d:0 "Фредерик VII умер".
+denmark.1.a:0 "Да покоится он с миром".
+DEN_succession_effect_tt_1:0 "§RФредерик VII умер! Кристиан IX станет нашим новым королем.§!".
+denmark.2.t:0 "Смерть Кристиана IX"
+denmark.2.d:0 "Кристиан IX умер."
+denmark.2.a:0 "Да упокоится он с миром".
+DEN_succession_effect_tt_2:0 "§RКристиан IX умер! Фредерик VIII станет нашим новым королем.§!".
+denmark.3.t:0 "Смерть Фридриха VIII"
+denmark.3.d:0 "Фредерик VIII умер".
+denmark.3.a:0 "Да упокоится он с миром".
+DEN_succession_effect_tt_3:0 "§RФредерик VIII умер! Кристиан X станет нашим новым королем.§!".
+
+#STARTING EVENTS #NT!
+denmark.11.t:0 "Внешние сношения Королевства Дании"
+denmark.11.d:0 ""
+denmark.11.a:0 "Время доказать нашу значимость на дипломатической арене".
+
+#GENERAL INFO AND FLAVOUR EVENTS #NT!
+denmark.16.t:0 "Датский демографический бум"
+denmark.16.d:0 "Население Дании быстро растет благодаря высокому уровню рождаемости, улучшению общественной гигиены и достижениям медицины".
+denmark.16.a:0 "Продолжайте в том же духе!"
+
+###POLITICAL AND WAR EVENTS #NT!
+#DOMESTIC POLITICS #NT!
+denmark.201.t:0 "Статс-министр Карл Кристоффер Георг Андрэ уходит в отставку"
+denmark.201.d:0 "[DEN.GetLeader] объявил о своей отставке. У национал-либералов есть подходящий кандидат на его место - Карл Кристиан Холл. Халл кажется ярым сторонником новой конституции для Хельштата, привязывающей Шлезвиг ближе к Дании. Это, безусловно, противоречит интересам немецкоязычных подданных Дании, и будет интересно посмотреть, как довольно молодой министр попытается реализовать свое видение."
+denmark.201.a:0 "Тогда удачи".
+denmark.202.t:0 "Политика гаг"
+denmark.202.d:0 ""
+denmark.202.a:0 "Вперед, к Дании!"
+denmark.203.t:0 "ДЕБАГ: Скрытое событие вычисления результатов выборов в фолькетинг 1858 года"
+denmark.203.d:0 "Скрыто"
+denmark.204.t:0 "Выборы в фолькетинг 1858 года"
+denmark.204.d_historical:0 ""
+denmark.204.d_althistory_social_liberals: "The election results are in, and it looks like the social liberals have managed to achieve what is undoubtedly a surprise victory. Although their advantage over the other parties is rather slim and they could not secure an overall majority, they look determined to be the leading force in Danish politics for the time being, whilst the national liberals and the conservatives will have to fight for temporary alliances with the social liberals or one another if they want to push their agendas. But other possibilities for building a government are also still on the cards." #NT!
+denmark.204.d_althistory_liberals:0 ""
+denmark.204.d_althistory_conservatives:0 ""
+denmark.204.a:0 "Что это будет означать?"
+denmark.205.t:0 "Левое правительство"
+denmark.205.d:0 ""
+denmark.205.a:0 "Это будет интересно".
+denmark.206.t:0 "Либеральное правительство"
+denmark.206.d:0 ""
+denmark.206.a:0 "Это преемственность".
+denmark.207.t:0 "Консервативное правительство"
+denmark.207.d:0 ""
+denmark.207.a:0 "Будет ли это означать мир и спокойствие?"
+denmark.208.t:0 "Карл Христиан Холл в затруднительном положении"
+denmark.208.d:0 ""
+denmark.208.a:0 "Что из этого выйдет?"
+denmark.209.t:0 "Карл Эдуард Ротвитт вступает в должность статс-министра"
+denmark.209.d:0 ""
+denmark.209.a:0 "Вызовет ли это изменения в политике?"
+denmark.210.t:0 "Смерть Карла Эдуарда Ротвитта"
+denmark.210.d:0 ""
+denmark.210.a:0 "Какая трагедия!"
+denmark.211.t:0 "Карл Кристиан Халль вступает в должность статс-министра"
+denmark.211.d:0 ""
+denmark.211.a:0 "Он заслуживает второго шанса".
+denmark.212.t: "The Social Liberal Government Fails to Gain Sufficient Support" #NT!
+denmark.212.d: "Facing significant political obstacles and opposition across the Folketing, the social liberal government has failed to gain sufficient support to stay in power. The respective ministers have stepped down and the future of Danish politics hangs in the balance once again." #NT!
+denmark.212.a: "What now?" #NT!
+denmark.213.t: "DEBUG: Hidden Event Calculating Folketing Re-Election after Social Liberals' Failure" #NT!
+denmark.213.d: "Hidden" #NT!
+denmark.214.t: "Folketing Re-Elections" #NT!
+denmark.214.d: "Following the resignation of the social liberal government a few weeks ago, the monarch had to call a re-election of the Folketing. Yesterday, the Danish citizens who are eligible to vote were able to cast their vote, and the results have just arrived." #NT!
+denmark.214.a: "The National Liberals are Victorious" #NT!
+denmark.214.b: "The Conservatives are Victorious" #NT!
+denmark.214.c: "It's a close call..." #NT!
+denmark.215.t: "Who Should Lead the New Government?" #NT!
+denmark.215.d: "Following the very close election results, the decision who should head the new government hangs in the balance. Who should lead the country in the future?" #NT!
+denmark.215.a: "The National Liberals" #NT!
+denmark.215.b: "The Conservatives" #NT!
+
+#FOREIGN POLITICS, COLONIAL, AND WAR EVENTS #NT!
+denmark.301.t:0 "Унифицированный обмен с [DEN.GetName]?".
+denmark.301.d:0 ""
+denmark.301.a:0 "Согласен".
+denmark.301.b:0 "Отклонено".
+denmark.302.t:0 "Единообразный обмен с [USA.GetName] Согласен"
+denmark.302.d:0 ""
+denmark.302.a:0 "Отличные новости".
+denmark.303.t:0 "Единообразный обмен с [USA.GetName] Отклонен"
+denmark.303.d:0 ""
+denmark.303.a:0 "Печально".
+denmark.304.t:0 "Обмен униформой зарождает дружбу"
+denmark.304.d:0 ""
+denmark.304.a:0 "Хорошо".
+denmark.305.t:0 "Единый обмен искрами дружбы"
+denmark.305.d:0 ""
+denmark.305.a:0 "Хорошо".
+denmark.306.t:0 "Обмен униформой продвигает военные исследования"
+denmark.306.d:0 ""
+denmark.306.a:0 "Беспроигрышная ситуация".
+denmark.307.t:0 "Обмен униформой вдохновляет на инновации"
+denmark.307.d:0 ""
+denmark.307.a:0 "Плод нашего общего труда".
+denmark.308.t:0 "Александр III и принцесса Дагмар"
+denmark.308.d:0 ""
+denmark.308.a:0 "Отправьте сообщение".
+denmark.308.b:0 "Оставить все как есть".
+denmark.309.t:0 "Датское предложение руки и сердца"
+denmark.309.d:0 ""
+denmark.309.a:0 "Мы согласны".
+denmark.309.b:0 "Мы отвергаем их предложение".
+
+denmark.401.t:0 "Состояние наших колоний"
+denmark.401.d_nicobars:0 "Когда-то мы были одной из крупнейших колониальных держав с владениями по всему миру с 17 века до недавнего времени, когда стало очевидно, что нашей экономической и военной мощи недостаточно для поддержания глобальной империи. Всего несколько лет назад мы продали британцам наши последние торговые посты и форты в Африке, а также оставшиеся плацдармы на индийском материке. От бывших датских колоний остались лишь малонаселенные Никобарские острова в Индийском океане и датская Вест-Индия, состоящая из островов Сент-Томас, Сент-Крус и Сент-Джон, на которых проживает около 40 000 человек. Есть потенциал для того, чтобы сделать эти владения прибыльными, но сначала нам нужно будет инвестировать".
+denmark.401.d_no_nicobars:0 "Когда-то мы были одной из крупнейших колониальных держав с владениями по всему миру с 17 века до недавнего времени, когда стало очевидно, что нашей экономической и военной мощи недостаточно для поддержания глобальной империи. Всего несколько лет назад мы продали британцам наши последние торговые посты и форты в Африке, а также оставшиеся плацдармы на индийском материке. Теперь все, что осталось от бывших датских колоний, - это Датская Вест-Индия, состоящая из островов Сент-Томас, Сент-Крус и Сент-Джон, на которых проживает около 40 000 душ. Есть потенциал сделать эти колонии прибыльными, но сначала нам нужно будет инвестировать".
+denmark.401.a:0 "Куда мы пойдем дальше?".
+denmark.402.t: "Colonial Expansion in the Caribbean?" #NT!
+denmark.402.d: "Danish colonial merchants and enthusiasts have approached our government with an inquiry about a possible acquisition of St. Barthélemy island, which is part of the Lesser Antilles in the Caribbean and currently owned by Sweden. Our informants claim that they have valid intel that suggests Sweden would be more than willing to sell the island for a reasonable price. Should we sent an offer to the Swedish government to purchase the island and, with that, expand our colonial empire?" #NT!
+denmark.402.a: "Approach the Swedes with an offer." #NT!
+denmark.402.b: "No, thanks. That's likely not going to be profitable." #NT!
+denmark.403.t: "[DEN.GetNameDef] Asks to Buy St. Barthélemy" #NT!
+denmark.403.d: "The Danish government has approached us with an offer for St. Barthélemy, the Caribbean island currently under our control. The island has proven to be a financial burden in the recent past, and factions within parliament are asking to get rid of it as soon as possible. If we agree, we would lose a colonial possession but profit financially. How should we respond?" #NT!
+denmark.403.a: "Agree to sell the island." #NT!
+denmark.403.b: "Reject their offer." #NT!
+denmark.404.t: "[SWE.GetNameDef] Agrees to Sell St. Barthélemy" #NT!
+denmark.404.d: "The Swedish government has responded positively to our offer for the island of St. Barthélemy. The deal can now go through and our administration will take control of the island shortly." #NT!
+denmark.404.a: "Great news!" #NT!
+denmark.405.t: "[SWE.GetNameDef] Rejects the Offer for St. Barthélemy" #NT!
+denmark.405.d: "The Swedish government has rejected our offer for the island of St. Barthélemy. Therefore, the deal cannot go through, and we probably have some explaining to do..." #NT!
+denmark.405.a: "Hm, ok then." #NT!
+denmark.406.t: "Deal for St. Barthélemy Finalized" #NT!
+denmark.406.d: "The Danish government has confirmed the deal for St. Barthélemy, and control of the island will be handed over shortly. We will also receive the agreed compensation from Denmark now." #NT!
+denmark.406.a: "Good news." #NT!
+
+denmark.451.t:0 "Немецкие призывники дезертировали"
+denmark.451.d:0 ""
+denmark.451.a:0 ""
+denmark.452.t:0 "Блокада датского флота"
+denmark.452.d:0 ""
+denmark.452.a:0 ""
+denmark.452.b:0 ""
+
+###ECONOMY AND TRADE EVENTS #NT!
+denmark.501.t:0 "Улучшить инфраструктуру на Борнхольме?"
+denmark.501.d:0 "В нашем бюджете есть место для инвестиций в инфраструктуру. Инфраструктура на Борнхольме не соответствует стандартам сегодняшнего дня. Если мы хотим иметь полезный военно-морской порт для операций в Балтийском море, нам нужно инвестировать в порт. Если мы вложим средства в дорожную сеть, мы сможем привлечь инвесторов для открытия рыболовства. Что нам делать?"
+denmark.501.a:0 "Нам не нужно инвестировать в Борнхольм".
+denmark.501.b:0 "Инвестировать только в порт".
+denmark.501.c:0 "Инвестировать только в дорожную сеть".
+denmark.501.e:0 "Инвестировать и в порт, и в дорожную сеть".
+denmark.502.t:0 "Развитие инфраструктуры Борнхольма завершено".
+denmark.502.d:0 "Запланированное нами развитие инфраструктуры на Борнхольме завершено. Теперь мы можем получать прибыль от улучшения инфраструктуры на острове."
+denmark.502.a:0 "Meget godt".
+denmark.503.t:0 "Улучшить инфраструктуру на Исландии?".
+denmark.503.d:0 "В нашем бюджете есть место для инвестиций в инфраструктуру. Инфраструктура Исландии не соответствует стандартам сегодняшнего дня. Если мы хотим иметь полезный военно-морской порт для операций в Атлантике, нам нужно инвестировать в порт Рейкьявика. Если мы вложим средства в дорожную сеть, мы сможем привлечь инвесторов для открытия рыболовства и потенциальной эксплуатации ресурсов во внутренних районах страны. Что нам делать?"
+denmark.503.a:0 "Нам не нужно инвестировать в Исландию".
+denmark.503.b:0 "Инвестировать только в порт Рейкьявика".
+denmark.503.c:0 "Инвестировать только в дорожную сеть".
+denmark.503.e:0 "Инвестировать и в порт, и в дорожную сеть".
+denmark.504.t:0 "Развитие инфраструктуры Исландии завершено".
+denmark.504.d:0 "Запланированное нами развитие инфраструктуры Исландии завершено. Теперь мы можем получать прибыль от улучшения инфраструктуры на острове."
+denmark.504.a:0 "Meget godt".
+denmark.505.t:0 "Улучшить инфраструктуру на Фарерских островах?".
+denmark.505.d:0 "В нашем бюджете предусмотрены средства для инвестиций в инфраструктуру. Инфраструктура Фарерских островов не соответствует стандартам сегодняшнего дня. Если мы хотим иметь полезный военно-морской порт для операций в Северном море, нам необходимо инвестировать в порт Туршавн. Если мы вложим средства в дорожную сеть, мы сможем привлечь инвесторов для открытия рыболовства вблизи богатых лососевых рыболовных угодий. Что же нам делать?"
+denmark.505.a:0 "Нам не нужно инвестировать в Фарерские острова".
+denmark.505.b:0 "Инвестируйте только в порт Туршавн".
+denmark.505.c:0 "Инвестировать только в дорожную сеть".
+denmark.505.e:0 "Инвестировать и в порт, и в дорожную сеть".
+denmark.506.t:0 "Развитие инфраструктуры Фарерских островов завершено"
+denmark.506.d:0 "Запланированное нами развитие инфраструктуры на Фарерских островах завершено. Теперь мы можем получать прибыль от улучшения инфраструктуры".
+denmark.506.a:0 "Meget godt".
+denmark.507.t:0 "Улучшить инфраструктуру в Гренландии?".
+denmark.507.d:0 "В нашем бюджете есть место для инвестиций в инфраструктуру. Инфраструктура в Гренландии не соответствует стандартам сегодняшнего дня. Если мы хотим иметь полезный военно-морской порт для операций в Атлантике, нам необходимо инвестировать в порт Годтхоб. Если мы вложим средства в дорожную сеть, мы сможем привлечь инвесторов для открытия рыболовства и потенциальной эксплуатации ресурсов во внутренних районах страны. Что нам делать?"
+denmark.507.a:0 "Нам не нужно инвестировать в Гренландию".
+denmark.507.b:0 "Инвестировать только в порт Годтхоб".
+denmark.507.c:0 "Инвестировать только в дорожную сеть".
+denmark.507.e:0 "Инвестировать и в порт, и в дорожную сеть".
+denmark.508.t:0 "Развитие инфраструктуры Гренландии завершено"
+denmark.508.d:0 "Запланированное нами развитие инфраструктуры в Гренландии завершено. Теперь мы можем получать прибыль от улучшения инфраструктуры".
+denmark.508.a:0 "Meget godt".
+denmark.509.t:0 "[DEN.GetNameDef] просит импортировать нашу древесину"
+denmark.509.d:0 "[DEN.GetNameDef] обратился к нам с просьбой импортировать древесину из наших лесозаготовительных лагерей. Как мы должны отреагировать?"
+denmark.509.a:0 "Мы будем рады их торговле".
+denmark.509.b:0 "Мы не хотим экспортировать в Данию".
+denmark.509.c:0 "Мы никогда не будем экспортировать древесину в Данию".
+DEN_SWE_trade_accepted_effect_tt:0 "§GЕсли Дания подтвердит торговлю с нами, мы получим финансовую выгоду, размер которой зависит от объема их заказов, и наши взаимоотношения укрепятся.§!"
+DEN_SWE_trade_denied_effect_tt:0 "§RМы не будем экспортировать дополнительные ресурсы в Данию, что несколько ухудшит наши взаимные отношения.§!"
+DEN_SWE_wood_trade_denied_forever_effect_tt:0 "§RМы скажем датскому правительству, что мы больше не будем давать им шведскую древесину и что они должны прекратить спрашивать нас об этом в обозримом будущем, что ухудшит наши взаимоотношения.§!".
+denmark.510.t:0 "[SWE.GetNameDef] Приветствует нашу торговлю древесиной"
+denmark.510.d:0 "[SWE.GetNameDef] положительно ответил на наш запрос о торговле древесиной. Если мы решим продолжить торговлю, то теперь мы можем это сделать".
+denmark.510.a:0 "Хорошие новости".
+denmark.511.t_denied:0 "[SWE.GetNameDef] Отказывает нам в торговле древесиной".
+denmark.511.t_denied_categorically:0 "[SWE.GetNameDef] Категорически отрицает нашу торговлю древесиной"
+denmark.511.d_denied:0 "К сожалению, [SWE.GetName] отклонил наш запрос на торговлю древесиной. Возможно, в будущем они изменят свое решение...".
+denmark.511.d_denied_categorically:0 "К сожалению, [SWE.GetName] категорически отклонил наш торговый запрос на древесину. Похоже, их мнение невозможно изменить".
+denmark.511.a:0 "Печально".
+denmark.512.t:0 "[DEN.GetNameDef] просит импортировать наше железо"
+denmark.512.d:0 "[DEN.GetNameDef] обратился к нам с просьбой импортировать сырое железо с наших шахт. Как мы должны отреагировать?"
+denmark.512.a:0 "Мы будем рады их торговле".
+denmark.512.b:0 "Мы не хотим экспортировать в Данию".
+denmark.512.c:0 "Мы никогда не будем экспортировать железо в Данию".
+DEN_SWE_iron_trade_denied_forever_effect_tt:0 "§RМы скажем датскому правительству, что мы больше не будем давать им шведское железо и что они должны прекратить спрашивать нас об этом в обозримом будущем, что обострит наши взаимные отношения.§!".
+denmark.513.t:0 "[SWE.GetNameDef] Would Welcome our Trade for Iron"
+denmark.513.d:0 "[SWE.GetNameDef] положительно ответил на наш запрос о торговле железом. Если мы решим продолжить торговлю, то теперь мы можем это сделать."
+denmark.513.a:0 "Хорошие новости".
+denmark.514.t_denied:0 "[SWE.GetNameDef] Отказывает нам в торговле железом".
+denmark.514.t_denied_categorically:0 "[SWE.GetNameDef] Категорически отрицает нашу железную торговлю"
+denmark.514.d_denied:0 "К сожалению, [SWE.GetName] отклонил наш запрос на торговлю железом. Возможно, в будущем они изменят свое мнение...".
+denmark.514.d_denied_categorically:0 "К сожалению, [SWE.GetName] категорически отклонил наш торговый запрос на железо. Похоже, их мнение нельзя изменить".
+denmark.514.a:0 "Печально."
+denmark.515.t:0 "Импорт древесины от [SWE.GetNameDef]"
+denmark.515.d:0 "[SWE.GetNameDef] принял наш торговый запрос на древесину, и мы хотим подтвердить заказ. Сколько древесины нам нужно?"
+denmark.515.a:0 "Только немного".
+denmark.515.b:0 "Разумное количество".
+denmark.515.c:0 "Довольно много".
+denmark.515.e:0 "Очень много".
+denmark.515.f:0 "Да".
+denmark.516.t:0 "[DEN.GetNameDef] Импортирует наш лес"
+denmark.516.d:0 "[DEN.GetNameDef] подтвердил торговлю древесиной. Пока торговля длится, мы будем получать от нее финансовую выгоду".
+denmark.516.a:0 "Хорошие новости".
+denmark.517.t:0 "Импортируем железо из [SWE.GetNameDef]".
+denmark.517.d:0 "[SWE.GetNameDef] принял наш торговый запрос на железо, и мы хотим подтвердить заказ. Сколько железа нам нужно?"
+denmark.517.a:0 "Только немного".
+denmark.517.b:0 "Разумное количество".
+denmark.517.c:0 "Довольно много".
+denmark.517.e:0 "Очень много".
+denmark.517.f:0 "Да".
+denmark.518.t:0 "[DEN.GetNameDef] Импортирует наше железо"
+denmark.518.d:0 "[DEN.GetNameDef] подтвердил торговлю железом. Пока торговля длится, мы будем получать от нее финансовую выгоду".
+denmark.518.a:0 "Хорошие новости".
+denmark.519.t:0 "[DEN.GetNameDef] отменяет сделку по торговле древесиной"
+denmark.519.d:0 "[DEN.GetNameDef] отменил нашу взаимную торговую сделку по древесине. Мы больше не будем получать от нее финансовую выгоду".
+denmark.519.a:0 "Хорошо".
+denmark.520.t:0 "[DEN.GetNameDef] отменяет торговую сделку на железо"
+denmark.520.d:0 "[DEN.GetNameDef] отменил нашу взаимную торговую сделку по железу. Мы больше не будем получать от нее финансовую выгоду".
+denmark.520.a:0 "Хорошо".
+denmark.521.t:0 "Подписать договор о дружбе, торговле и мореплавании с Данией?".
+denmark.521.d:0 ""
+denmark.521.a:0 "Подписать договор".
+denmark.521.b:0 "Отклонить договор".
+denmark.522.t:0 "[FROM] Подписывает договор о дружбе"
+denmark.522.d:0 ""
+denmark.522.a:0 "Хорошие новости".
+denmark.523.t:0 "[FROM] Отклоняет договор о дружбе"
+denmark.523.d:0 ""
+denmark.523.a:0 "Позор..."
+denmark.524.t:0 "Подписать торговый договор с Данией?"
+denmark.524.d:0 ""
+denmark.524.a:0 "Подписать договор".
+denmark.524.b:0 "Отклонить договор".
+denmark.525.t:0 "[FROM] Подписывает торговый договор"
+denmark.525.d:0 ""
+denmark.525.a:0 "Хорошие новости".
+denmark.526.t:0 "[FROM] Отклоняет торговый договор"
+denmark.526.d:0 ""
+denmark.526.a:0 "Позор..."
+denmark.527.t:0 "Копенгагенский торговый кризис"
+denmark.527.d:0 ""
+denmark.527.a:0 "Нам нужно что-то делать".
+
+denmark.601.t:0 "Подружиться с ганзейскими городами"
+denmark.601.d:0 ""
+denmark.601.a:0 "Торговля с Гамбургом"
+denmark.601.b:0 "Торговля с Любеком"
+
+###MILITARY EVENTS #NT!
+#GENERAL AND ADMIRAL EVENTS #NT!
+
+#ARMY EVENTS #NT!
+denmark.751.t:0 "Реформы кригсминистра Лундбай"
+denmark.751.d:0 "Наш последний военный министр, Матиас Люттихау, ушел в отставку, потому что его законопроекты о реформах были заблокированы, и он не смог добиться финансирования для расширения Копенгагенской морской крепости. Теперь новому кригсминистру, Карлу Лундбай, придется разрабатывать собственные планы реформ. Вопрос о Копенгагенской морской крепости определенно будет вновь поднят, и Лундбай, будучи артиллерийским офицером, может быть полон решимости повысить влияние и статус этого вида вооруженных сил. Однако влиятельная клика внутри армии уже начала собирать поддержку, чтобы противостоять любым изменениям в этом направлении. Сможет ли Лундбай добиться успеха?"
+denmark.751.a:0 "Посмотрим".
+denmark.752.t:0 "Прогресс в оружейных технологиях - эспингол"
+denmark.752.d:0 "Датская артиллерия использует так называемый Espingole, примитивный пулемет, со времен Первой Шлезвигской войны. В последнее время технологические достижения, такие как нарезные стволы, повысили точность и дальность стрельбы. Возможно, мы могли бы использовать это в интересах обороноспособности нашей страны?".
+denmark.752.a:0 "Интересно. Возможно, мы могли бы купить некоторые из этих пушек?".
+
+#NAVY EVENTS #NT!
+denmark.826.t:0 "Бронепалубные шхуны с английских верфей готовы к вводу в эксплуатацию"
+denmark.826.d:0 "Корабли, которые мы заказали на верфях Англии, прибыли в Копенгаген и готовы к вводу в эксплуатацию".
+denmark.826.a:0 "Skib hej!"
+DEN_event_order_armored_schooners_abroad_tt:0 "§GМы успешно заказали две броненосные шхуны на английских верфях. Они только что прибыли в Копенгаген.§!".
+denmark.827.t:0 "Броненосные шхуны с верфей Копенгагена готовы к вводу в эксплуатацию"
+denmark.827.d:0 "Корабли, которые мы заказали на Копенгагенской верфи, были оплачены и готовы к вводу в эксплуатацию".
+denmark.827.a:0 "Skib hej!"
+DEN_event_order_armored_schooners_domestically_tt:0 "§GМы успешно заказали две броненосные шхуны на датских верфях. Они только что прибыли в Копенгаген.§!".
+denmark.828.t:0 "Рольф Краке готов к сдаче в эксплуатацию"
+denmark.828.d:0 "Могучий железный монитор, который мы заказали в Шотландии, прибыл в Копенгаген. Военный корабль получил имя "Рольф Краке" и теперь готов к вводу в эксплуатацию".
+denmark.828.a:0 "Skib hej!"
+DEN_event_order_rolf_krake_tt:0 "§G Мы успешно заказали Рольф Краке, полностью железный военный корабль, из Шотландии. Корабль только что прибыл в Копенгаген.§!".
+denmark.829.t:0 "Даннеброг переоборудован в железный корабль"
+denmark.829.d:0 "После почти двух лет переоборудования, "Даннеброг", бывший корабль линии, был успешно переоборудован в броненосный фрегат. Будем надеяться, что он сослужит нам хорошую службу".
+denmark.829.a:0 "Skib hej!"
+DEN_event_refit_dannebrog_tt:0 "§GМы успешно переоборудовали Dannebrog. Корабль готов к новым заказам в Копенгагене.§!".
+denmark.830.t:0 "Винтовые фрегаты готовы к сдаче в эксплуатацию"
+denmark.830.d:0 "После почти двух лет строительства два винтовых фрегата, которые мы заказали на верфи военно-морских доков Копенгагена, завершены. Будем надеяться, что они сослужат нам хорошую службу".
+denmark.830.a:0 "Skib hej!".
+DEN_event_order_screw_frigates_tt:0 "§GМы успешно заказали два винтовых фрегата на датских верфях. Они только что прибыли в Копенгаген.§!".
+denmark.831.t:0 "Важность наших атлантических военно-морских портов"
+denmark.831.d:0 "Наши военно-морские порты, прилегающие к Атлантике, очень важны для торговли, снабжения наших колониальных владений и обеспечения безопасного порта как для нашего торгового флота, так и для военно-морского. Однако сами по себе они довольно уязвимы. Возможно, нам потребуется укрепить порты, чтобы быть уверенными, что мы сможем защитить эти позиции во время войны".
+denmark.831.a:0 "Мы подумаем об этом".
+
+###PARLIAMENTARY EVENTS #NT!
+denmark.901.t:0 "Закон о новом бизнесе от [GetYear]"
+denmark.901.d:0 ""
+denmark.901.a:0 "Давайте проголосуем через месяц".
+denmark.901.b:0 "Отказаться от идеи".
+denmark.902.t:0 "Результаты голосования [Root.GetCurrentVotedReform]"
+denmark.902.d:0 "Получены результаты парламентского голосования по [Root.GetCurrentVotedReform]... Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является выражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \nНет : [?nay_votes]".
+denmark.902.a:0 "Акт принят!"
+denmark.902.b:0 "Это провал..."
+denmark.902.c:0 "Это ничья. Это как-то хуже, чем провал...".
+denmark.903.t:0 "Закон Стоулога от [GetYear]".
+denmark.903.d:0 ""
+denmark.903.a:0 "Давайте проголосуем через месяц".
+denmark.903.b:0 "Отказаться от идеи".
+denmark.904.t:0 "Результаты голосования [Root.GetCurrentVotedReform]"
+denmark.904.d:0 "Получены результаты парламентского голосования по [Root.GetCurrentVotedReform]... Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является выражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \nНет : [?nay_votes]".
+denmark.904.a:0 "Акт принят!"
+denmark.904.b:0 "Это провал..."
+denmark.904.c:0 "Это ничья... Это как-то хуже, чем провал"
+denmark.905.t:0 "Закон о военно-морской базе Холмен от [GetYear]"
+denmark.905.d:0 ""
+denmark.905.a:0 "Давайте проголосуем через месяц".
+denmark.905.b:0 "Отказаться от идеи".
+denmark.906.t:0 "Результаты голосования [Root.GetCurrentVotedReform]"
+denmark.906.d:0 "Получены результаты парламентского голосования по [Root.GetCurrentVotedReform]... Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является выражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \nНет : [?nay_votes]".
+denmark.906.a:0 "Акт принят!"
+denmark.906.b:0 "Это провал..."
+denmark.906.c:0 "Это ничья... Это как-то хуже, чем провал".
+denmark.907.t:0 "Законопроект о дублировании пехотных батальонов военного времени от [GetYear]"
+denmark.907.d:0 ""
+denmark.907.a:0 "Давайте проголосуем через месяц".
+denmark.907.b:0 "Отказаться от идеи".
+denmark.908.t:0 "Результаты голосования [Root.GetCurrentVotedReform]"
+denmark.908.d:0 "Получены результаты парламентского голосования по [Root.GetCurrentVotedReform]... Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является выражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \nНет : [?nay_votes]".
+denmark.908.a:0 "Акт принят!"
+denmark.908.b:0 "Это провал..."
+denmark.908.c:0 "Это ничья... Это как-то хуже, чем провал".
+DEN_parl_vote_wartime_battalion_duplication_effect_tt:0 "Мы будем получать §YДополнительную рабочую силу§! во время войны, и, если у нас есть рабочая сила, §YТри дополнительных пехотных батальона§! с двумя полками каждый будут мобилизованы сразу же после начала войны (§RПРИМЕЧАНИЕ: 6,000 человек требуется в резерве рабочей силы для этих частей, чтобы они появились§!)".
+denmark.909.t:0 "Датский закон о воинской повинности от [GetYear]"
+denmark.909.d:0 ""
+denmark.909.a:0 "Давайте проголосуем через месяц".
+denmark.909.b:0 "Отказаться от идеи".
+denmark.910.t:0 "Результаты голосования [Root.GetCurrentVotedReform]"
+denmark.910.d:0 "Получены результаты парламентского голосования по [Root.GetCurrentVotedReform]... Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является выражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \nНет : [?nay_votes]".
+denmark.910.a:0 "Акт принят!"
+denmark.910.b:0 "Это провал..."
+denmark.910.c:0 "Это ничья... Это как-то хуже, чем провал".
+denmark.911.t:0 "Закон о бюджете датской армии от [GetYear]".
+denmark.911.d:0 ""
+denmark.911.a:0 "Давайте проголосуем через месяц".
+denmark.911.b:0 "Отказаться от идеи".
+denmark.912.t:0 "Результаты голосования [Root.GetCurrentVotedReform]"
+denmark.912.d:0 "Получены результаты парламентского голосования по [Root.GetCurrentVotedReform]... Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является выражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \nНет : [?nay_votes]".
+denmark.912.a:0 "Акт принят!"
+denmark.912.b:0 "Это провал..."
+denmark.912.c:0 "Это ничья... Это как-то хуже, чем провал".
+denmark.913.t:0 "Закон о бюджете датского флота от [GetYear]".
+denmark.913.d:0 ""
+denmark.913.a:0 "Давайте проголосуем через месяц".
+denmark.913.b:0 "Отказаться от идеи".
+denmark.914.t:0 "Результаты голосования [Root.GetCurrentVotedReform]"
+denmark.914.d:0 "Получены результаты парламентского голосования по [Root.GetCurrentVotedReform]... Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является выражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \nНет : [?nay_votes]".
+denmark.914.a:0 "Акт принят!"
+denmark.914.b:0 "Это провал..."
+denmark.914.c:0 "Это ничья... Это как-то хуже, чем провал".
+denmark.915.t:0 "Закон об освобождении крестьян от [GetYear]".
+denmark.915.d:0 ""
+denmark.915.a:0 "Давайте проголосуем через месяц".
+denmark.915.b:0 "Отказаться от идеи".
+denmark.916.t:0 "Результаты голосования по [Root.GetCurrentVotedReform]"
+denmark.916.d:0 "Получены результаты парламентского голосования по [Root.GetCurrentVotedReform]... Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является выражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \nНет : [?nay_votes]".
+denmark.916.a:0 "Акт принят!"
+denmark.916.b:0 "Это провал..."
+denmark.916.c:0 "Это ничья... Это как-то хуже, чем провал".
+denmark.917.t:0 "Приведение в исполнение Закона о свободе торговли 1857 года?"
+denmark.917.d:0 ""
+denmark.917.a:0 "Давайте проголосуем через месяц".
+denmark.917.b:0 "Отказаться от идеи".
+denmark.918.t:0 "Результаты голосования [Root.GetCurrentVotedReform]"
+denmark.918.d:0 "Получены результаты парламентского голосования по [Root.GetCurrentVotedReform]... Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является выражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \nНет : [?nay_votes]".
+denmark.918.a:0 "Акт принят!"
+denmark.918.b:0 "Это провал..."
+denmark.918.c:0 "Это ничья... Это как-то хуже, чем провал".
+denmark.919.t:0 "Проголосовать за защиту идеи Хельштатена?".
+denmark.919.d:0 ""
+denmark.919.a:0 "Давайте проголосуем через месяц".
+denmark.919.b:0 "Отказаться от идеи".
+denmark.920.t:0 "Результаты голосования [Root.GetCurrentVotedReform]"
+denmark.920.d:0 "Получены результаты парламентского голосования по [Root.GetCurrentVotedReform]... Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является выражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \nНет : [?nay_votes]".
+denmark.920.a:0 "Акт принят!"
+denmark.920.b:0 "Это провал..."
+denmark.920.c:0 "Это ничья... Это как-то хуже, чем провал".
+
+
+### MISSIONS & DECISIONS ### #NT!
+#Second Schleswig War #NT!
+DEN_decision_category_second_schleswig_war:0 "Вторая Шлезвигская война"
+DEN_decision_category_second_schleswig_war_desc:0 ""
+DEN_decision_raise_militias_to_defend_the_islands:0 "Поднять ополчение для защиты островов"
+DEN_decision_raise_militias_to_defend_the_islands_desc:0 ""
+DEN_decision_recruit_scandinavian_volunteers:0 "Набрать добровольцев по всей Скандинавии"
+DEN_decision_recruit_scandinavian_volunteers_desc:0 ""
+DEN_decision_prepare_the_danevirke_fortifications:0 "Подготовка укреплений Даневирке"
+DEN_decision_prepare_the_danevirke_fortifications_desc:0 ""
+DEN_decision_prepare_the_dybbol_fortifications:0 "Подготовить укрепления Дыббёля"
+DEN_decision_prepare_the_dybbol_fortifications_desc:0 ""
+DEN_decision_blockade_prussian_ports:0 "Блокада портов Пруссии"
+DEN_decision_blockade_prussian_ports_desc:0 ""
+
+#Military #NT!
+DEN_decision_category_military:0 "Датские военные"
+DEN_decision_category_military_desc:0 ""
+DEN_mission_krigsministre_lundbyes_acts:0 "Планы Лундбай по военной реформе"
+DEN_mission_krigsministre_lundbyes_acts_desc:0 ""
+DEN_mission_krigsministre_lundbyes_acts_trigger_1_tt:0 "Требуется §YКарл Лундбай§! в качестве военного министра в §YВерховном военном командовании§!".
+DEN_mission_krigsministre_lundbyes_acts_trigger_2_tt:0 "§YСяэлланд§! По крайней мере §Y2 береговых укреплений§! в §YКопенгагене§!".
+DEN_mission_krigsministre_lundbyes_acts_cancel_trigger_tt:0 " §YКарл Лундбай§! не является военным министром в §YВоенном верховном командовании§!".
+DEN_decision_enhance_status_of_scientific_departments:0 "Повысить статус научных департаментов армии".
+DEN_decision_enhance_status_of_scientific_departments_desc:0 ""
+DEN_decision_expand_copenhagen_sea_fortress:0 "Расширить Копенгагенскую морскую крепость"
+DEN_decision_expand_copenhagen_sea_fortress_desc:0 ""
+DEN_decision_military_uniform_exchange:0 "Обмен военной формы"
+DEN_decision_military_uniform_exchange_desc:0 ""
+DEN_mission_thestrups_army_reforms:0 "Реформы армии Теструпа"
+DEN_mission_thestrups_army_reforms_desc:0 ""
+DEN_mission_thestrups_army_reforms_trigger_1_tt:0 "Требуется §YХанс Николай Теструп§! в качестве военного министра в §YВысшем военном командовании§!".
+DEN_mission_thestrups_army_reforms_cancel_trigger_tt:0 "§YХанс Николай Теструп§! не является военным министром в §YВысшем военном командовании§!".
+DEN_decision_buy_espingoles_guns:0 "Купить эспинголы"
+DEN_decision_buy_espingoles_guns_desc:0 ""
+DEN_decision_prince_christians_commission:0 "Комиссия принца Кристиана по реформе кавалерии"
+DEN_decision_prince_christians_commission_desc:0 ""
+DEN_decision_wartime_battalion_duplication:0 "Дублирование батальона военного времени"
+DEN_decision_wartime_battalion_duplication_desc:0 ""
+DEN_decision_promote_talented_army_leaders:0 "Продвигать талантливых армейских командиров"
+DEN_decision_promote_talented_army_leaders_desc:0 ""
+DEN_decision_new_conscription_law:0 "Новый закон о воинской повинности"
+DEN_decision_new_conscription_law_desc:0 ""
+DEN_decision_increase_army_budget:0 "Увеличение бюджета армии"
+DEN_decision_increase_army_budget_desc:0 ""
+DEN_decision_move_navy_base_to_holmen:0 "Переместить военно-морской порт Копенгагена в Холмен"
+DEN_decision_move_navy_base_to_holmen_desc:0 ""
+DEN_mission_study_modern_warships:0 "Изучение современных военных кораблей"
+DEN_mission_study_modern_warships_desc:0 ""
+DEN_decision_danish_armored_schooners:0 "Заказать датские броненосные шхуны"
+DEN_decision_danish_armored_schooners_desc:0 ""
+DEN_decision_foreign_armored_schooners:0 "Заказ иностранных броненосных шхун"
+DEN_decision_foreign_armored_schooners_desc:0 ""
+DEN_decision_order_the_rolf_krake:0 "Заказать Rolf Krake"
+DEN_decision_order_the_rolf_krake_desc:0 ""
+DEN_decision_refit_the_dannebrog_to_ironclad:0 "Переоборудовать Dannebrog в Ironclad"
+DEN_decision_refit_the_dannebrog_to_ironclad_desc:0 ""
+DEN_decision_refit_the_dannebrog_to_ironclad_effect_tt:0 "\n§YДаннеброг, линейный корабль, будет переоборудован во фрегат Ironclad.§! §RВ то же время, он не сможет служить во флоте до завершения переоборудования.§!\n"
+DEN_decision_danish_screw_frigates:0 "Заказать датские винтовые фрегаты"
+DEN_decision_danish_screw_frigates_desc:0 ""
+DEN_decision_fortify_atlantic_naval_bases:0 "Укрепить военно-морские порты Атлантики"
+DEN_decision_fortify_atlantic_naval_bases_desc:0 ""
+DEN_decision_increase_navy_budget:0 "Увеличить бюджет ВМФ"
+DEN_decision_increase_navy_budget_desc:0 ""
+DEN_army_reform_ongoing_flag:0 " §YАрмейская реформа в процессе§!"
+DEN_navy_reform_ongoing_flag:0 " §YРеформа ВМФ в процессе§!"
+
+#Imperialism #NT!
+DEN_decision_category_imperialism:0 "Датский империализм"
+DEN_decision_category_imperialism_desc:0 ""
+DEN_decision_attract_danish_settlers_to_colony_trigger_tt: "§YThere are still enticing bodies of land available.§!" #NT!
+DEN_decision_intensify_tobacco_cultivation_west_indies_1: "Intensify Cultivation of Tobacco in the West Indies" #NT!
+DEN_decision_intensify_tobacco_cultivation_west_indies_1_desc: "" #NT!
+DEN_decision_intensify_tobacco_cultivation_west_indies_2: "Build Tobacco Plantations in the West Indies" #NT!
+DEN_decision_intensify_tobacco_cultivation_west_indies_2_desc: "" #NT!
+DEN_decision_intensify_coffee_cultivation_west_indies_1: "Intensify Cultivation of Coffee in the West Indies" #NT!
+DEN_decision_intensify_coffee_cultivation_west_indies_1_desc: "" #NT!
+DEN_decision_intensify_coffee_cultivation_west_indies_2: "Build Coffee Plantations in the West Indies" #NT!
+DEN_decision_intensify_coffee_cultivation_west_indies_2_desc: "" #NT!
+DEN_decision_attract_danish_settlers_to_west_indies: "Attract Danish Settlers to the West Indies" #NT!
+DEN_decision_attract_danish_settlers_to_west_indies_desc: "" #NT!
+DEN_decision_integrate_west_indies_into_the_helstaten: "Integrate the West Indies into the Helstaten" #NT!
+DEN_decision_integrate_west_indies_into_the_helstaten_desc: "" #NT!
+DEN_decision_integrate_west_indies_into_the_helstaten_trigger_tt: "§YRequires at least 10% of the population in [1357.GetName] to be Danish.§!" #NT!
+DEN_decision_intensify_cotton_cultivation_nicobars_1: "Intensify Cultivation of Cotton on the Nicobars" #NT!
+DEN_decision_intensify_cotton_cultivation_nicobars_1_desc: "" #NT!
+DEN_decision_intensify_cotton_cultivation_nicobars_2: "Build Cotton Plantations on the Nicobars" #NT!
+DEN_decision_intensify_cotton_cultivation_nicobars_2_desc: "" #NT!
+DEN_decision_attract_danish_settlers_to_nicobars: "Attract Danish Settlers to the Nicobars" #NT!
+DEN_decision_attract_danish_settlers_to_nicobars_desc: "" #NT!
+DEN_decision_integrate_nicobars_into_the_helstaten: "Integrate the Nicobars into the Helstaten" #NT!
+DEN_decision_integrate_nicobars_into_the_helstaten_desc: "" #NT!
+DEN_decision_integrate_nicobars_into_the_helstaten_trigger_tt: "§YRequires at least 10% of the population in [1307.GetName] to be Danish.§!" #NT!
+DEN_mission_build_a_naval_base_in_africa:0 "Построить надлежащую военно-морскую базу в Африке"
+DEN_mission_build_a_naval_base_in_africa_desc:0 ""
+DEN_mission_build_cotton_plantations_in_africa:0 "Построить хлопковые плантации в Африке"
+DEN_mission_build_cotton_plantations_in_africa_desc:0 ""
+DEN_decision_attract_danish_settlers_to_porto_novo:0 "Привлечь датских поселенцев в Порто-Ново"
+DEN_decision_attract_danish_settlers_to_porto_novo_desc:0 ""
+DEN_decision_integrate_porto_novo_into_the_helstaten:0 "Интегрировать Порто-Ново в Хельштатен".
+DEN_decision_integrate_porto_novo_into_the_helstaten_desc:0 ""
+DEN_decision_integrate_porto_novo_into_the_helstaten_trigger_tt:0 "§YТребуется, чтобы не менее 10% населения в [1111.GetName] были датчанами.§!"
+DEN_mission_prepare_possible_colonization_of_dahomey: "Prepare Possible Colonization of Dahomey" #NT!
+DEN_mission_prepare_possible_colonization_of_dahomey_desc: "" #NT!
+DEN_decision_intensify_cocoa_cultivation_africa_1: "Intensify Cultivation of Cocoa in Africa" #NT!
+DEN_decision_intensify_cocoa_cultivation_africa_1_desc: "" #NT!
+DEN_decision_intensify_cocoa_cultivation_africa_2: "Build Cocoa Plantations in Africa" #NT!
+DEN_decision_intensify_cocoa_cultivation_africa_2_desc: "" #NT!
+DEN_decision_establish_trade_hub_nicobars: "Establish a Trade Hub on the Nicobars" #NT!
+DEN_decision_establish_trade_hub_nicobars_desc: "" #NT!
+DEN_decision_the_stooulog_law:0 "Закон Стоулога"
+
+#Economy #NT!
+DEN_decision_category_economy:0 "Экономика Дании"
+DEN_decision_category_economy_desc:0 ""
+DEN_decision_railway_upgrade:0 "Обновление наших железных дорог"
+DEN_decision_railway_upgrade_desc:0 "Наша железнодорожная сеть больше не справляется с задачей поддержки, не говоря уже о стимулировании современной промышленности. Ее модернизация и расширение не только решат эту проблему, но и предоставят нашей промышленности важные контракты и возможность расширения торговли."
+DEN_mission_improve_danish_infrastructure:0 "Улучшить датскую инфраструктуру"
+DEN_mission_improve_danish_infrastructure_desc:0 ""
+DEN_mission_improve_danish_infrastructure_trigger_100_tt:0 "§YИсландия§! По крайней мере, военно-морской порт §YLevel 2§! в §YРейкьявике§!".
+DEN_mission_improve_danish_infrastructure_trigger_101_tt:0 "§YГренландия§!: По крайней мере, военно-морской порт §Y2 уровня§! в §YГодтхобе§!".
+DEN_mission_improve_danish_infrastructure_trigger_337_tt:0 " §ҮФарерские острова§!: По крайней мере, военно-морской порт §Y2 уровня§! в §YТуршавне§!".
+DEN_decision_aarhus_randers_railway:0 "Железнодорожная линия Орхус-Рандерс"
+DEN_decision_aarhus_randers_railway_desc:0 ""
+DEN_decision_fredericia_aarhus_railway:0 "Железнодорожная линия Фредерисия - Орхус"
+DEN_decision_fredericia_aarhus_railway_desc:0 ""
+DEN_decision_lille_syd_railway:0 "Железнодорожная линия Лилль-Сид"
+DEN_decision_lille_syd_railway_desc:0 ""
+DEN_decision_odense_svendborg_railway:0 "Железнодорожная линия Оденсе-Свендборг"
+DEN_decision_odense_svendborg_railway_desc:0 ""
+DEN_railway_project_ongoing_flag:0 " §YЖелезнодорожный проект в процессе реализации§!"
+DEN_decision_copenhagen_sewerage:0 "Создать канализационную систему в Кёбенхавне"
+DEN_decision_copenhagen_sewerage_desc:0 ""
+DEN_decision_copenhagen_zoo:0 "Открыть зоопарк в Кёбенхавне"
+DEN_decision_copenhagen_zoo_desc:0 ""
+DEN_decision_aarhus_botanical_garden:0 "Орхусский ботанический сад"
+DEN_decision_aarhus_botanical_garden_desc:0 ""
+DEN_decision_new_business_act:0 "Новый закон о бизнесе"
+DEN_decision_new_business_act_desc:0 ""
+DEN_mission_hassel_teudt:0 "Фабрика Hassel & Teudt"
+DEN_mission_hassel_teudt_desc:0 ""
+DEN_mission_hansen_writing_ball:0 "Письменный шар Хансена"
+DEN_mission_hansen_writing_ball_desc:0 ""
+DEN_mission_carlsberg_company:0 "Carlsberg-Bryggerier"
+DEN_mission_carlsberg_company_desc:0 ""
+DEN_mission_dfds_company:0 "Det Forenede Dampskibs-Selskab"
+DEN_mission_dfds_company_desc:0 ""
+DEN_mission_dfds_company_trigger_tt:0 "§YСьялланд§! По крайней мере §Y4 Военно-морской порт§! в §YКопенгагене§!".
+DEN_mission_esbjerg_port:0 "Построить порт Эсбьерга"
+DEN_mission_esbjerg_port_desc:0 ""
+DEN_mission_esbjerg_port_trigger_tt:0 "§YЮтландия§! Не менее §Y2 военно-морского порта§! в провинции §YЭсбьерг§! на юго-западе Ютландии (провинция 399)."
+DEN_decision_danske_bank:0 "Основание Den Danske Landmandsbank".
+DEN_decision_danske_bank_desc:0 ""
+DEN_fiscal_measure_ongoing_flag:0 " §YПроводимая фискальная мера§!"
+
+#Trade Influence (unfinished) #NT!
+DEN_decision_category_trade_influence:0 "Ганзейское торговое влияние"
+DEN_decision_expand_economic_ties_hamburg:0 "Расширение экономических связей с Гамбургом"
+DEN_Hamburg_Trade:0 "§YТорговля с Гамбургом активизировалась§!".
+DEN_decision_expand_economic_ties_lubeck:0 "Экономические связи с Любеком"
+DEN_decision_influence_danish_trade:0 "Влияние на датскую торговлю"
+DEN_decision_corrupt_danish_officials:0 "Коррумпированные датские чиновники"
+DEN_decision_combat_enemy_influence:0 "Отбиваться от конкурентов"
+DEN_trade_war_increase_influence_effect_tt:0 "Наше влияние увеличится"
+
+#Foreign Relations (obsolete?) #NT!
+DEN_decision_category_foreign_relations:0 "Внешние отношения Дании"
+DEN_decision_treaty_of_friendship_commerce_and_navigation_with_siam:0 "Договор о дружбе, торговле и мореплавании с Сиамом"
+DEN_decision_treaty_of_friendship_commerce_and_navigation_with_siam_desc:0 ""
+DEN_decision_trade_with_siam:0 "Переговоры о заключении торгового договора с Сиамом"
+DEN_decision_trade_with_siam_desc:0 "После недавнего подписания Договора о дружбе, торговле и мореплавании между нашими двумя странами, мы можем поддерживать более тесные торговые отношения с Королевством Сиам."
+DEN_decision_trade_with_china:0 "Вести переговоры о заключении торгового договора с Китаем".
+DEN_decision_trade_with_china_desc:0 "После недавнего подписания Пекинского договора и завершения Второй опиумной войны мы тоже должны обеспечить торговые привилегии и отношения с Китаем. Пора послать дипломата".
+DEN_decision_treaty_of_friendship_commerce_and_navigation_with_japan:0 "Договор о дружбе, торговле и мореплавании с Японией".
+DEN_decision_treaty_of_friendship_commerce_and_navigation_with_japan_desc: "" #NT!
+DEN_decision_trade_with_japan:0 "Вести переговоры о заключении торгового договора с Японией"
+DEN_decision_trade_with_japan_desc:0 ""
+DEN_trade_with_japan_trigger_tt:0 "§YЯпония в мире.§!"
+
+#Trade #NT!
+DEN_decision_ask_to_import_swedish_wood:0 "Попросить импортировать шведскую древесину"
+DEN_decision_ask_to_import_swedish_wood_desc:0 ""
+DEN_decision_ask_to_import_swedish_iron:0 "Попросить импортировать шведское железо"
+DEN_decision_ask_to_import_swedish_iron_desc:0 ""
+DEN_decision_import_swedish_wood:0 "Импортировать шведскую древесину"
+DEN_decision_import_swedish_wood_desc:0 ""
+DEN_decision_import_swedish_iron:0 "Импорт шведского железа"
+DEN_decision_import_swedish_iron_desc:0 ""
+DEN_decision_stop_importing_swedish_wood:0 "Прекратить импорт шведской древесины"
+DEN_decision_stop_importing_swedish_wood_desc:0 ""
+DEN_decision_stop_importing_swedish_iron:0 "Прекратить импорт шведского железа"
+DEN_decision_stop_importing_swedish_iron_desc:0 ""
+
+#Political Actions #NT!
+DEN_decision_expand_our_sphere_of_popular_support:0 "Расширить нашу сферу народной поддержки"
+DEN_decision_expand_our_sphere_of_popular_support_desc:0 ""
+DEN_decision_national_liberal_programs_in_academia:0 "Национальные либеральные программы в академических кругах"
+DEN_decision_national_liberal_programs_in_academia_desc:0 ""
+DEN_decision_enact_the_naeringsloven:0 "Принять Næringsloven"
+DEN_decision_enact_the_naeringsloven_desc:0 ""
+#Social Liberal Path #NT!
+DEN_mission_overcome_political_obstacles:0 "Преодоление политических препятствий"
+DEN_mission_overcome_political_obstacles_desc:0 ""
+DEN_decision_organize_a_gathering_of_peasants_in_jutland:0 "Организовать собрание крестьян в Ютландии"
+DEN_decision_organize_a_gathering_of_peasants_in_jutland_desc:0 ""
+DEN_decision_organize_a_gathering_of_peasants_in_sjaelland:0 "Организовать собрание крестьян в Сьялланде"
+DEN_decision_organize_a_gathering_of_peasants_in_sjaelland_desc:0 ""
+DEN_decision_increase_literacy_amongst_the_peasantry:0 "Повысить грамотность среди крестьянства"
+DEN_decision_increase_literacy_amongst_the_peasantry_desc:0 ""
+DEN_decision_create_a_newspaper_aimed_at_the_peasantry:0 "Создать газету, ориентированную на крестьянство"
+DEN_decision_create_a_newspaper_aimed_at_the_peasantry_desc:0 ""
+#National Liberal Path #NT!
+DEN_decision_create_national_liberal_aligned_newspapers:0 "Создать национальные газеты с либеральной направленностью"
+DEN_decision_create_national_liberal_aligned_newspapers_desc:0 ""
+DEN_decision_encourage_authors_supporting_our_ideals:0 "Поощрять авторов, поддерживающих наши идеалы"
+DEN_decision_encourage_authors_supporting_our_ideals_desc:0 ""
+#Conservative Path #NT!
+DEN_decision_create_conservative_aligned_newspapers:0 "Создание газет с консервативной направленностью"
+DEN_decision_create_conservative_aligned_newspapers_desc:0 ""
+DEN_decision_gather_support_amongst_the_ruling_classes:0 "Собирать поддержку среди правящих классов"
+DEN_decision_gather_support_amongst_the_ruling_classes_desc:0 ""
+
+### FOCUSES/FOCI ### #NT!
+#Economy/Industry #NT!
+DEN_focus_danish_economy:0 "Экономика Дании"
+DEN_focus_danish_economy_desc:0 "Дания все еще остается в значительной степени аграрной страной, и большая часть нашей экономики зависит от сельского хозяйства. Однако, если такое положение дел сохранится, наша страна будет отставать от своих соседей, а также рискует тем, что в случае значительного изменения цен на продукты питания наша экономика может рухнуть. Чтобы обеспечить наш народ необходимыми товарами, возможностями и безопасностью, мы должны начать дальнейшую индустриализацию."
+DEN_focus_abolition_of_the_sound_toll:0 "Отмена платы за пользование звуком"
+DEN_focus_abolition_of_the_sound_toll_desc:0 "Звуковой сбор был существенной частью доходов нашего правительства на протяжении веков, но его влияние на нашу экономику оказалось весьма негативным. Мы должны нести тяжесть этой потери, чтобы укрепить нашу экономику и улучшить отношения с нашими соседями и торговыми партнерами. Получив разумную компенсацию за отмену, мы должны немедленно вложить эти средства в другие проекты."
+DEN_focus_infrastructure_projects:0 "Инфраструктурные проекты"
+DEN_focus_infrastructure_projects_desc:0 "Чтобы использовать наше промышленное развитие на благо наших граждан, мы модернизируем нашу инфраструктуру. Эти усовершенствования позволят ускорить связь, улучшить торговлю и облегчить перемещение товаров и людей по стране. Как только эти улучшения будут сделаны, мы даже сможем начать работу над еще более современными инициативами, чтобы дополнить то, что мы уже построили".
+DEN_focus_aarhus_randers_railway:0 "Железнодорожная линия Орхус-Рандерс"
+DEN_focus_aarhus_randers_railway_desc:0 "Рандерс - один из самых заметных городов Ютландии и один из важнейших центров сельскохозяйственной промышленности. С другой стороны, Орхус уже давно является крупным центром промышленной переработки сельскохозяйственной продукции, а также крупным торговым центром. Соединив эти два города, мы сможем еще теснее сплотить регион, а также значительно укрепить экономику обоих городов".
+DEN_focus_fredericia_aarhus_railway:0 "Железнодорожная линия Фредерисия - Орхус"
+DEN_focus_fredericia_aarhus_railway_desc:0 "Фредерисия играет две роли: она выступает в качестве порта и центра производства инновационных товаров и других отраслей промышленности. В связи с этим, соединение ее с экономическим центром Орхус, который имеет свои порты и промышленность, позволит усилить взаимосвязь между экономиками обеих стран, а также обеспечит коридор дальше на юг королевства. Благодаря этим усилиям мы сможем соединить нацию, ее товары и наших людей".
+DEN_focus_lille_syd_railway:0 "Железнодорожная линия Лилль-Сид"
+DEN_focus_lille_syd_railway_desc:0 "Хотя наша железнодорожная линия из Копенгагена в Корсёр была завершена много лет назад, дальнейшее строительство железнодорожных линий могло бы способствовать дальнейшему улучшению экономики Зеландии. С помощью дополнительной линии, которая соединится с нашей уже построенной железной дорогой, мы сможем соединить ранее заброшенные районы Зеландии, помогая улучшить жизнь тех, кто живет вдали от столицы и прочности позиций Копенгагена."
+DEN_focus_odense_svendborg_railway:0 "Железнодорожная линия Оденсе-Свендборг"
+DEN_focus_odense_svendborg_railway_desc:0 "Оденсе стал вторым по величине городом Дании и доминирует на острове Фюнен. Соединив Оденсе со Свендборгом на юге, мы можем способствовать развитию экономики обоих городов, а также более тесному объединению нашей страны. Эти усилия укрепят место Оденсе и, надеюсь, улучшат жизнь людей как на острове, так и в нашей стране".
+DEN_focus_infrastructure_bornholm:0 "Улучшить инфраструктуру на Борнхольме"
+DEN_focus_infrastructure_bornholm_desc: "Bornholm is somewhat isolated compared to the rest of Denmark, and while bridges between other islands could be considered, Bornholm can never be connected directly to Zealand. Therefore, to improve the situation for our citizens on Bornholm we must make investments into their local infrastructure with a focus on the development of the region itself, rather than its interconnectedness." #NT!
+DEN_focus_infrastructure_iceland:0 "Улучшить инфраструктуру Исландии"
+DEN_focus_infrastructure_iceland_desc:0 "Исландия удалена от наших основных островов, но имеет стратегическое значение и предоставляет полезные ресурсы, а также сильную рыболовную промышленность. Необходимо дополнительное улучшение ее инфраструктуры. Эти усилия могут потенциально укрепить уже существующую экономику острова, а также дать местным и национальным инвесторам возможность для дальнейших инвестиций и развития острова."
+DEN_focus_infrastructure_faroe_islands:0 "Улучшить инфраструктуру Фарерских островов"
+DEN_focus_infrastructure_faroe_islands_desc:0 "Фарерские острова тесно граничат с Великобританией и, как и большинство других наших островов, в значительной степени зависят от рыбной промышленности. Улучшение местной инфраструктуры может дать возможность уменьшить эту зависимость, а также улучшить размер и экономические возможности портов и городов."
+DEN_focus_infrastructure_greenland:0 "Улучшить инфраструктуру в Гренландии"
+DEN_focus_infrastructure_greenland_desc:0 "Изолированная и малонаселенная, главная ценность Гренландии заключается в ее природных ресурсах и рыбной промышленности. Улучшив инфраструктуру, мы сможем усилить контроль над территорией, а также получить возможность добывать природные богатства острова."
+DEN_focus_demographic_development:0 "Демографическое развитие"
+DEN_focus_demographic_development_desc:0 "Массовый рост сельскохозяйственного производства, а также улучшение медицины и санитарии по всей стране вызвали массовый рост продолжительности жизни и позволили населению нашей страны быстро расти. По всей стране больше наших граждан выживают в детстве, люди рожают больше детей, и больше рабочих рук вносят свой вклад в нашу экономику."
+DEN_focus_copenhagen_sewerage:0 "Канализационная система Кёбенхавна"
+DEN_focus_copenhagen_sewerage_desc:0 "Создание единой канализационной системы для нашей столицы значительно улучшит безопасность и гигиену города. При нашей нынешней практике отходы могут стать причиной появления и распространения болезней, подвергая риску наших граждан. Устранив эту проблему, Копенгаген сможет стать городом, который действительно соответствует качеству нашей нации".
+DEN_focus_rapid_urbanization:0 "Быстрая урбанизация"
+DEN_focus_rapid_urbanization_desc:0 "Хотя наша экономика по-прежнему в значительной степени зависит от сельскохозяйственной деятельности, ее новые промышленные масштабы в сочетании с возможностями и богатством, доступными в городах, заставляют многих покидать сельскую местность и перебираться в наши города. Мы должны способствовать этому росту и помочь ему продолжаться или увеличиваться в связи с зависимостью наших новых промышленных усилий от постоянно растущей рабочей силы."
+DEN_focus_improve_public_hygiene:0 "Улучшить общественную гигиену"
+DEN_focus_improve_public_hygiene_desc:0 "В то время как урбанизация постоянно увеличивает размеры наших городов, санитария наших городов часто не поспевает за ней. Инвестируя в санитарные работы, такие как канализация, мы можем сделать наши города гораздо более безопасными для жизни наших граждан и обеспечить меньшую опасность и сдерживание вспышек заболеваний."
+DEN_focus_population_boom:0 "Бум народонаселения"
+DEN_focus_population_boom_desc:0 "Изменения в гигиене, медицинском обслуживании и доступности продуктов питания позволили нашему населению в последние годы резко увеличиться, обеспечив нашей нации великое будущее. Хотя эти изменения можно увидеть в размерах многих наших небольших городов, они также позволяют расти населению деревень по всей стране, а в наших величайших городах население также увеличилось."
+DEN_focus_industrialization_efforts:0 "Усилия по индустриализации"
+DEN_focus_industrialization_efforts_desc:0 "Чтобы наша экономика действительно была конкурентоспособной по отношению к нашим соседям и на международной арене, необходимо уделять большое внимание индустриализации. Большая часть этих усилий должна быть направлена на развитие сельского хозяйства в большем масштабе, а также на развитие способности перерабатывать продукты нашего собственного сельского хозяйства. В дополнение к этому наше центральное положение как единственного пути в Балтику и из Балтики может дать нашей экономике прекрасную возможность перерабатывать товары с одной стороны моря и продавать их на другом конце".
+DEN_focus_hassel_teudt:0 "Hassel & Teudt"
+DEN_focus_hassel_teudt_desc:0 "Предприниматели Й.Г. Фридолин Хассель и Людвиг Ф. Теудт основали в Копенгагене фабрику, которая носит их имена. Он производит металлические изделия и, надеюсь, будет представлять собой большую тенденцию индустриализации в нашей столице, приводя все больше и больше предпринимателей и предприятий в наш великий город."
+DEN_focus_hansen_writing_ball:0 "Письменный мяч Хансена"
+DEN_focus_hansen_writing_ball_desc:0 "С момента изобретения печатного станка письменность оставалась практически неизменной. Так было до тех пор, пока преподобный Расмус Маллинг-Хансен не изобрел свой пишущий шар. Он позволяет пользователю писать с помощью клавиш, вдавливаемых внутрь, а не рукой или с помощью традиционного печатного станка. Эта революция в письменности будет экспортирована многим желающим, хотя в настоящее время, к сожалению, она все еще производится вручную."
+DEN_focus_carlsberg_company:0 "Carlsberg-Bryggerier"
+DEN_focus_carlsberg_company_desc:0 ""
+DEN_focus_carlsberg_company_effect_tt:0 "§GCarlsberg может быть выбран для партнерства с компанией.§!"
+DEN_focus_dfds_company:0 "Det Forenede Dampskibs-Selskab"
+DEN_focus_dfds_company_desc:0 "Для страны, находящейся на перепутье, какой является Дания, а также для страны с таким количеством портов и такой протяженной береговой линией, высокоразвитая судоходная промышленность является естественной. Однако сила этой отрасли во многом разделена. Если бы три сильнейшие пароходные судоходные компании были объединены в одну, единую, компанию, наш морской флот мог бы занять гораздо более прочные позиции в Балтийском и Северном морях".
+DEN_focus_dfds_company_effect_tt:0 "§GDFDS может быть выбрана для партнерства с компанией.§!"
+DEN_focus_economic_future:0 "Экономическое будущее"
+DEN_focus_economic_future_desc:0 "Дания - страна, находящаяся на многих перепутьях. Мы - единственный вход и выход из Балтийского моря, мы втянуты в несчастливый союз с Великобританией и пытаемся устоять как в скандинавском, так и в германском мире. Однако мы не можем вечно стоять на краю пропасти, и в конце концов необходимо принять решение. Что ждет Данию и ее народ в будущем?".
+DEN_focus_our_future_scandinavia:0 "Наше будущее лежит в Скандинавии"
+DEN_focus_our_future_scandinavia_desc:0 "Хотя наша история со скандинавскими соседями часто была жестокой и наше соперничество давно устоялось, наша общая история и близость сближают нас больше, чем наша история может нас разъединить. В то время как наши отношения с другими европейскими странами могут быть непостоянными, установление тесного сотрудничества с нашими соседями может создать стабильность, необходимую нашей нации для дальнейшего процветания."
+DEN_focus_found_the_danske_bank:0 "Den Danske Landmandsbank"
+DEN_focus_found_the_danske_bank_desc:0 "Хотя в Дании уже есть национальный банк, создание коммерческого банка, особенно ориентированного на наших фермеров, может принести значительную пользу нашей экономике, обеспечивая средства для расширения отраслей и развития новых. Дополнительное развитие банков в нашей стране может обеспечить средства, необходимые для запланированной нами промышленной экспансии".
+DEN_focus_scandinavian_monetary_union:0 "Скандинавский валютный союз"
+DEN_focus_scandinavian_monetary_union_desc:0 "Учитывая нашу ориентацию на скандинавских соседей, создание валютного союза было бы естественным. Привязав нашу экономику и валюту к нашим соседям, мы можем принести большую пользу нашей собственной стране, а также нашим соседям, и обеспечить справедливое и простое ведение торговли. Такая большая интеграция поможет сделать общие связи наших стран практическими, а также политическими и культурными".
+DEN_focus_scandinavian_monetary_union_trigger_tt:0 "§YВ Копенгагене состоялась третья предварительная встреча по созданию Скандинавского валютного союза.§!".
+DEN_focus_replace_the_rigsdaler_with_the_krone:0 "Замените ригсдалер на крону"
+DEN_focus_replace_the_rigsdaler_with_the_krone_desc:0 "Чтобы лучше интегрировать нашу экономику с нашими скандинавскими братьями, мы должны отказаться от нашего старого ригсдалера. Вместо него мы примем крону и сблизимся с нашими соседями. Этот валютный союз объединит наши экономики и нашу торговлю и одновременно будет способствовать политическому единству."
+DEN_focus_our_future_germany:0 "Наше будущее за Германией"
+DEN_focus_our_future_germany_desc:0 "На протяжении почти тысячелетия Дания то и дело вступала на полшага в Германию. Даже сегодня Гольштейн и Шлезвиг связывают нас с нашими южными соседями. Хотя многие ожидают, что мы объединимся с нашими скандинавскими соседями, растущая мощь Пруссии и других немецких государств может предложить нам альтернативное будущее."
+DEN_focus_join_the_zollverein:0 "Попроситься в Союз".
+DEN_focus_join_the_zollverein_desc:0 "Мало кто считает Данию "немецкой" нацией, но у нас, безусловно, есть глубокие связи с немцами как в нашей истории, так и в настоящем. В свете этого мы можем попросить о вступлении в Союз. Наше присоединение к Союзу укрепит экономику обеих сторон, и все, что для этого нужно, это чтобы немцы разрешили наше вступление".
+DEN_focus_dano_german_monetary_union:0 "Дано-германский валютный союз"
+DEN_focus_dano_german_monetary_union_desc:0 "Мы уже привели нашу экономику в соответствие с Германией, и принятие мер по еще большей интеграции наших экономик и упорядочению торговли принесет нам большую пользу. С этой целью мы вступим в валютный союз с нашим южным соседом, что еще больше сплотит нас".
+DEN_focus_replace_the_rigsdaler_with_the_mark:0 "Заменить ригсдалер на марку"
+DEN_focus_replace_the_rigsdaler_with_the_mark_desc:0 "С нашим объединением с Германией мы официально откажемся от ригсдалера и заменим его немецкой маркой. Этот шаг поможет объединить нашу экономику с мощью нашего южного соседа".
+DEN_focus_second_industrial_revolution:0 "Вторая промышленная революция"
+DEN_focus_second_industrial_revolution_desc:0 "Хотя первая промышленная революция принесла масштабные изменения в нашу экономику, многие из этих изменений были засекречены или просто шокировали своим масштабом и эффективностью. Сегодня изменения, которые приносят технологии, создают невиданные ранее чудеса, которые изменят жизнь людей как в Дании, так и в Европе. Строятся железнодорожные линии, пересекающие всю страну, огромные стальные корабли и еще больше невиданных чудес, и наша страна получит от них пользу!".
+
+#Politics #NT!
+DEN_focus_carl_christian_halls_presidency:0 "Президентство Карла Кристиана Холла"
+DEN_focus_carl_christian_halls_presidency_desc:0 ""
+DEN_focus_forming_the_cabinet:0 "Формирование кабинета министров"
+DEN_focus_forming_the_cabinet_desc:0 ""
+DEN_focus_addressing_our_policies:0 "Обращение к нашей политике"
+DEN_focus_addressing_our_policies_desc:0 ""
+DEN_focus_adopting_the_eider_policy:0 "Принятие политики Eider"
+DEN_focus_adopting_the_eider_policy_desc:0 ""
+DEN_focus_a_free_liberal_economy:0 "Наша мечта о свободной либеральной экономике"
+DEN_focus_a_free_liberal_economy_desc:0 ""
+DEN_focus_the_copenhagen_trade_crisis:0 "Вмешательство в копенгагенский торговый кризис"
+DEN_focus_the_copenhagen_trade_crisis_desc:0 ""
+DEN_focus_the_copenhagen_trade_crisis_trigger_tt: "The §YPanic of 1857§! has happened." #NT!
+DEN_focus_the_1858_elections:0 "Выборы 1858 года"
+DEN_focus_the_1858_elections_desc:0 ""
+#Social Liberals #NT!
+DEN_focus_a_coalition_of_the_left:0 "Коалиция левых"
+DEN_focus_a_coalition_of_the_left_desc:0 ""
+DEN_focus_a_government_of_the_people:0 "Правительство народа"
+DEN_focus_a_government_of_the_people_desc:0 ""
+DEN_focus_contain_the_resistance:0 "Сдерживать сопротивление"
+DEN_focus_contain_the_resistance_desc:0 ""
+DEN_focus_implement_social_liberal_policies: "Implement Social Liberal Policies" #NT!
+DEN_focus_implement_social_liberal_policies_desc: "It's time to follow through on our promises to the people prior to the election. In order to keep our word and please our voters we need to implement the social liberal policies we have been talking about up to this point. Let's not fool ourselves, though. Strong resistance is to be expected." #NT!
+DEN_focus_act_as_representative_of_the_rural_people:0 "Действовать как представитель сельского населения"
+DEN_focus_act_as_representative_of_the_rural_people_desc:0 ""
+DEN_focus_creation_of_rural_commissions:0 "Создание сельских комиссий"
+DEN_focus_creation_of_rural_commissions_desc:0 ""
+DEN_focus_establish_legal_equality_of_the_peasantry:0 "Установление юридического равенства крестьянства"
+DEN_focus_establish_legal_equality_of_the_peasantry_desc:0 ""
+DEN_focus_protect_tenant_farmers_from_exploitation:0 "Защитить фермеров-арендаторов от эксплуатации"
+DEN_focus_protect_tenant_farmers_from_exploitation_desc:0 ""
+DEN_focus_building_up_support_social_liberals: "Building up Support" #NT!
+DEN_focus_building_up_support_social_liberals_desc: "With our policies now firmly underway, we must use our influence and leverage to build up support for the upcoming election." #NT!
+DEN_focus_prepare_for_the_next_election_social_liberals: "Prepare for the Next Election" #NT!
+DEN_focus_prepare_for_the_next_election_social_liberals_desc: "The next election is just around the corner and we must prepare." #NT!
+#National Liberals #NT!
+DEN_focus_a_coalition_of_the_center:0 "Коалиция центра"
+DEN_focus_a_coalition_of_the_center_desc:0 ""
+DEN_focus_stability_and_progress:0 "Стабильность и прогресс"
+DEN_focus_stability_and_progress_desc:0 ""
+DEN_focus_prepare_the_stage_for_liberal_policies:0 "Подготовить сцену для либеральной политики"
+DEN_focus_prepare_the_stage_for_liberal_policies_desc:0 ""
+DEN_focus_focus_on_reforming_the_country:0 "Сосредоточьтесь на реформировании страны"
+DEN_focus_focus_on_reforming_the_country_desc:0 ""
+DEN_focus_liberal_economic_reforms:0 "Либеральные экономические реформы"
+DEN_focus_liberal_economic_reforms_desc:0 ""
+DEN_focus_enforce_the_freedom_of_trade_act_of_1857:0 "Обеспечение соблюдения Закона о свободе торговли 1857 года"
+DEN_focus_enforce_the_freedom_of_trade_act_of_1857_desc:0 ""
+DEN_focus_act_as_the_center_of_danish_politics:0 "Действовать как центр датской политики"
+DEN_focus_act_as_the_center_of_danish_politics_desc:0 ""
+DEN_focus_cooperate_with_the_conservatives:0 "Сотрудничать с консерваторами"
+DEN_focus_cooperate_with_the_conservatives_desc:0 ""
+DEN_focus_prepare_social_liberal_policies:0 "Готовить социально-либеральную политику"
+DEN_focus_prepare_social_liberal_policies_desc:0 ""
+DEN_focus_building_up_support_liberals:0 "Наращивание поддержки"
+DEN_focus_building_up_support_liberals_desc:0 ""
+DEN_focus_prepare_for_the_next_election_liberals:0 "Подготовка к следующим выборам"
+DEN_focus_prepare_for_the_next_election_liberals_desc:0 ""
+#Conservatives #NT!
+DEN_focus_a_coalition_of_the_right:0 "Коалиция правых"
+DEN_focus_a_coalition_of_the_right_desc:0 ""
+DEN_focus_a_conservative_government:0 "Консервативное правительство"
+DEN_focus_a_conservative_government_desc:0 ""
+DEN_focus_gather_support_for_conservative_policies:0 "Собирать поддержку для консервативной политики"
+DEN_focus_gather_support_for_conservative_policies_desc:0 ""
+DEN_focus_support_the_rejection_of_universal_suffrage:0 "Поддерживать отказ от всеобщего избирательного права"
+DEN_focus_support_the_rejection_of_universal_suffrage_desc:0 ""
+DEN_focus_support_from_landowners_and_guilds:0 "Поддержка со стороны землевладельцев и гильдий"
+DEN_focus_support_from_landowners_and_guilds_desc:0 ""
+DEN_focus_ensuring_the_kings_support:0 "Обеспечение поддержки короля"
+DEN_focus_ensuring_the_kings_support_desc:0 ""
+DEN_focus_profit_from_the_landstinget_system:0 "Прибыль от системы ландстинга"
+DEN_focus_profit_from_the_landstinget_system_desc:0 ""
+DEN_focus_protect_the_helstaten_idea:0 "Защитить идею Хельштатена"
+DEN_focus_protect_the_helstaten_idea_desc:0 ""
+DEN_focus_building_up_support_conservatives:0 "Наращивание поддержки"
+DEN_focus_building_up_support_conservatives_desc:0 ""
+DEN_focus_prepare_for_the_next_election_conservatives:0 "Подготовка к следующим выборам"
+DEN_focus_prepare_for_the_next_election_conservatives_desc:0 ""
+#Aftermath of 1861 Elections #NT!
+DEN_focus_the_1861_elections:0 "Выборы 1861 года"
+DEN_focus_the_1861_elections_desc:0 ""
+
+#Military #NT!
+DEN_focus_danish_military:0 "Датские военные"
+DEN_focus_danish_military_desc:0 "Наша страна, возможно, не самая густонаселенная, и наша военная история может не иметь такого престижа, как у наших соседей, но наши успехи в последние годы и прочные международные отношения обеспечивают нашим военным сильную позицию. Никакие другие средства, имеющиеся в нашем распоряжении, не могут защитить нашу нацию так хорошо, как наши вооруженные силы, и при правильном уходе они могут сдержать почти любого врага, пока не вмешается дипломатия. Чтобы обеспечить это, мы должны совершенствовать, укреплять и модернизировать как нашу армию, так и флот. Если мы не сделаем этого, мы можем обнаружить, что история раздавит нас под своей могучей ногой, оставив нас под игом иностранной державы...".
+DEN_focus_lundbyes_acts:0 "Реформы кригсминистра Лундбай"
+DEN_focus_lundbyes_acts_desc:0 "Наш военный министр, Карл Лундбай, пользуется очень плохим уважением у многих офицеров, но его идеи предлагают весьма интересные альтернативы нынешнему состоянию наших дел. Его планы заключаются в расширении наших постоянных и профессиональных военных, с упором на более научные подходы к войне, а не на более традиционные методы, которые предпочитают многие наши офицеры. Это мнение коренится в его образовании, ведь он много лет был офицером артиллерии, и его реформы, вероятно, принесут большую пользу этой отрасли."
+DEN_focus_lundbyes_acts_trigger_tt:0 "Требуется §YКарл Лундбай§! в качестве военного министра в §YВерховном военном командовании§!".
+DEN_focus_army_modernization_efforts:0 "Усилия по модернизации армии"
+DEN_focus_army_modernization_efforts_desc:0 "Несмотря на наши успехи против немцев в Первой Шлезвигской войне, наша армия сильно устарела. Наши люди оснащены устаревшим оружием, руководят ими некачественными методами, а большинство наших военных планов основаны больше на оптимизме, чем на наших реальных возможностях. Мы должны начать реформировать нашу армию, пока не стало слишком поздно и мы не столкнулись с настоящей войной. Мы начнем с того, что решим, кто возглавит эти реформы, а затем займемся такими вопросами, как оснащение и обучение".
+DEN_focus_thestrup_army_reforms:0 "Реформы армии Кригсминистра Теструпа"
+DEN_focus_thestrup_army_reforms_desc:0 "Теструп считает, что будущее армии - это не карьерный солдат, а скорее призывник. Массовый призыв уже несколько десятилетий является фактором победы в войнах, начиная с наполеоновского "Levée en masse", который быстро доказал свое решающее преимущество. Наша страна может не иметь такого количества населения, как наши соседи, но полагаться на армию нашего нынешнего масштаба может обречь нас на гибель. Возможно, это не приведет наши вооруженные силы к тому же масштабу, что и у других, но это приблизит нас к паритету. Этот паритет должен быть нашей с Теструпом целью, и мы будем упорно работать, чтобы достичь его".
+DEN_focus_thestrup_army_reforms_trigger_tt:0 "Требуется §YХанс Николай Тёструп§! в качестве военного министра в §YВерховном военном командовании§!".
+DEN_focus_artillery_modernization_efforts:0 "Усилия по модернизации артиллерии"
+DEN_focus_artillery_modernization_efforts_desc:0 "Артиллерия была необходима для ведения войны на протяжении веков, но достижения последних лет быстро и радикально изменили ее эффективность. Чтобы правильно использовать эти достижения и не стать их жертвой, мы должны модернизировать наши собственные артиллерийские силы. Наблюдение Теструпа будет очень важным в этих усилиях, и превосходная артиллерия может быть именно тем, что нужно нашей армии, чтобы быть в состоянии конкурировать с нашими врагами."
+DEN_focus_espingoles:0 "Эспинголес"
+DEN_focus_espingoles_desc:0 "Уникальное датское оружие, Espingole, в отличие от названия, не является мушкетоном. Вместо этого это скорострельное оружие, способное стрелять гораздо быстрее, чем любое отдельное артиллерийское орудие, которым располагают наши соседи. Этот факт, а также его уникальная датская особенность, подтолкнули нас к его принятию на вооружение. Дальнейшие испытания и производство могут доказать ценность этого оружия на поле боя и, возможно, позволят нам разработать более совершенные формы этого оружия. После завершения этих испытаний мы могли бы даже начать массовое производство и как принять его на вооружение в наших вооруженных силах, так и экспортировать его на международный рынок для получения прибыли."
+DEN_focus_prince_christians_commission:0 "Комиссия принца Кристиана"
+DEN_focus_prince_christians_commission_desc:0 "Многие в Дании считают наследника престола, принца Кристиана Шлезвиг-Гольштейн-Зондербург-Глюксбургского, иностранцем. Хотя они не обязательно ошибаются, такое восприятие может быть опасным, если ему позволить сохраниться. Несмотря на то, что он родился за пределами Дании, однажды он станет нашим королем, и поэтому мы должны помочь ему интегрироваться в Данию. Учитывая, что его отец служил офицером, а он сам окончил военную академию в Копенгагене, мы произведем его в офицеры и начнем его службу Дании. Мы можем только надеяться, что его пребывание в нашей армии окажется полезным, и что оно, возможно, изменит представление общественности о нашем принце".
+DEN_focus_wartime_battalion_duplication:0 "Расширение батальона военного времени"
+DEN_focus_wartime_battalion_duplication_desc:0 "Важной частью улучшения нашей армии будет фактическое увеличение ее численности. Для этого мы будем набирать и обучать больше солдат, чтобы они присоединялись к нашим батальонам, когда грянет война. Хотя у нас могут возникнуть некоторые трудности с поиском рабочей силы, улучшения, которые мы сделали в наших вооруженных силах, должны облегчить этот процесс. С помощью этих профессионалов мы покажем великую силу нации и ее солдат. С таким расширением наши крепости будут должным образом охраняться, наши пушки будут полностью укомплектованы, а наши войска будут способны встретить наших врагов."
+DEN_focus_rifle_modernization_efforts:0 "Усилия по модернизации винтовки"
+DEN_focus_rifle_modernization_efforts_desc:0 "Наших нынешних винтовок недостаточно, чтобы противостоять нашим соперникам, и мы должны искать замену, чтобы идти в ногу со временем. Принятие на вооружение такого оружия значительно повысит смертоносность и эффективность наших солдат, причем увеличение темпа стрельбы будет самым заметным улучшением. В нашей стране много умов, способных создать такие винтовки, и использование этих талантов не только облегчит процесс, локализовав его, но и создаст национальную гордость за наши собственные таланты. Если мы не сможем использовать наши собственные таланты для удовлетворения потребностей наших вооруженных сил, успехи прошлого могут никогда не повториться".
+DEN_focus_promote_talented_army_leaders:0 "Продвигать талантливых армейских лидеров"
+DEN_focus_promote_talented_army_leaders_desc:0 "Наша страна, как и многие другие, часто отдавала предпочтение богатым и хорошо связанным офицерам при продвижении по службе. Хотя это не всегда было официальной позицией, но часто случалось так, что квалифицированные офицеры оставались позади, в то время как менее компетентные, но принадлежащие к высшему классу офицеры превосходили их. Чтобы помочь улучшить работу и способности наших офицеров, мы начнем инициативу по продвижению многих наиболее талантливых лидеров на должности, соответствующие их способностям. Это изменение поможет улучшить моральный дух простых солдат и, надеюсь, положительно скажется на действиях нашей армии на поле боя. Мы должны надеяться, что высшее сословие быстро адаптируется к этому новому положению вещей."
+DEN_focus_new_conscription_law:0 "Новый закон о воинской повинности"
+DEN_focus_new_conscription_law_desc:0 "Во всей Европе воинская повинность стала обычным аспектом мобилизации, и Дания не может быть иной. Призыв - это единственный способ для нации нашего размера выстоять против наших врагов. Без массовой мобилизации мужского населения Дания никогда не сможет выставить достаточно солдат для защиты страны от врагов. Мы будем реформировать наши нынешние законы о призыве, чтобы лучше использовать нашу рабочую силу в военное время и предотвратить ненужное бремя для неправильных слоев общества".
+DEN_focus_frilodsmaend:0 "Frilodsmænd"
+DEN_focus_frilodsmaend_desc:0 "Уникальный датский тип призыва, Frilodsmænd - это те, кто выбран по жребию, чтобы не участвовать в типичной 16-месячной подготовке других солдат, но вместо этого призываются только в случае необходимости. Несмотря на этот уникальный метод, Frilodsmænd играют роль, аналогичную таким группам, как ландвер и другие резервные группы в других странах. Цель - позволить мобилизовать слои населения, превосходящие по численности профессиональных военных, до массового призыва, создавая армию, превосходящую ту, которую правительство могло бы содержать на постоянной основе. Это дает нам отличный резерв дополнительных солдат на случай чрезвычайных ситуаций и помогает облегчить проблемы с рабочей силой, с которыми мы можем столкнуться".
+DEN_focus_increase_army_budget:0 "Увеличить бюджет армии"
+DEN_focus_increase_army_budget_desc:0 "Политическая ситуация и географическое положение Дании означают, что в будущем мы можем снова оказаться втянутыми в войну с нашими более могущественными соседями, и, несмотря на надежды некоторых после Первой Шлезвигской войны, наша армия в настоящее время недостаточна для решения задач, с которыми она может столкнуться. Увеличение нашего бюджета поможет решить многие из этих проблем, позволив провести реорганизацию и переоснащение армии. Точное распределение бюджета будет зависеть от идеалов, целей и потребностей наших генералов и военного министерства, но оно должно значительно улучшить их положение. Правильная подготовка может дать нам единственный шанс выйти победителями, а такая подготовка возможна только при наличии соответствующего бюджета. Мы можем только надеяться, что этих усилий будет достаточно для защиты Дании".
+DEN_focus_navy_modernization:0 "Усилия по модернизации ВМС"
+DEN_focus_navy_modernization_desc:0 "Положение Дании на перекрестке морской торговли заставляет нас поддерживать тонкий баланс между наличием собственного мощного флота и отсутствием зависимости от британского. Нашей первоочередной задачей будет изучение современных кораблей для выявления их достоинств и недостатков, а затем проектирование или приобретение кораблей для замены многих наших старых и устаревших судов. Если мы не сможем усовершенствовать наш флот, наше место как в Балтийском, так и в Северном море может утратить свою значимость, поскольку мы не сможем защитить даже собственное побережье. Но если мы добьемся успеха, наше положение может быть обеспечено и даже улучшено, так как мы окажемся без сопротивления".
+DEN_focus_study_modern_warships:0 "Изучение современных военных кораблей"
+DEN_focus_study_modern_warships_desc:0 "Наши отношения с британцами могут предоставить нам прекрасную возможность понаблюдать за тем, на что способны современные достижения в области военно-морских технологий. Наше положение уже не такое доминирующее, как в прошлом, но мы, несомненно, можем учиться у других и восстановить некое подобие того, что у нас когда-то было. Хотя Дания много раз была в авангарде военно-морских технологий, Британия и другие великие державы создали корабли, с которыми старые суда практически не способны бороться, что заставляет полностью переоценить наш флот."
+DEN_focus_reinforced_hulls:0 "Усиленные корпуса"
+DEN_focus_reinforced_hulls_desc:0 "Хотя железные корпуса чрезвычайно эффективны, они также очень дороги. Поэтому простое усиление корпусов часто является очень эффективной альтернативой. Нам может не хватить ресурсов или богатства, чтобы полностью построить наши корабли из железа, но усиленных корпусов должно быть достаточно на данный момент. Это поможет нам использовать наши текущие корабли, а не топить их, по крайней мере, до тех пор, пока мы не сможем заменить их более эффективными судами."
+DEN_focus_armored_schooners:0 "Датские бронированные шхуны"
+DEN_focus_armored_schooners_desc:0 "Хотя разработка больших бронированных военных кораблей была в центре внимания некоторых наций, бронированные шхуны и корветы полезны как более быстрая и менее дорогая альтернатива. Для нашей страны это крайне желательный вариант, так как у нас нет таких ресурсов и верфей, как у других держав, и в то же время нам необходимо большое количество универсальных кораблей. С помощью этих кораблей мы сможем модернизировать наш флот снизу вверх, а также обеспечить меньшую вероятность того, что наши самые дорогие корабли будут устаревать".
+DEN_focus_monitor_turrets:0 "Турели мониторов"
+DEN_focus_monitor_turrets_desc:0 "Увидев их ценность, доказанную в Америке, мы разработаем наши собственные турели-мониторы. Эти турели показали себя очень полезными, так как они почти непробиваемы для большинства видов огня, которому они могут подвергнуться, и все же они чрезвычайно эффективны против других кораблей. Установленные на мониторе, они полезны только на мелководье, но если их приспособить для других классов кораблей, они будут неудержимы на воде, так как традиционные методы размещения пушек станут неактуальными."
+DEN_focus_rolf_krake:0 "Рольф Краке"
+DEN_focus_rolf_krake_desc:0 "Наш первый полностью железный корабль с паровым двигателем, "Рольф Краке", был спроектирован Каупером Фиппсом Коулзом, который установил на корабле свои инновационные башни. Корабль будет построен в Шотландии, где опыт британских докеров в строительстве таких кораблей пойдет нам на пользу, и как Британия, так и Дания увидят ценность наших технологических достижений. Это только укрепит наши отношения с британскими судостроителями и, возможно, даст нам возможность приобрести еще больше судов в будущем, и, возможно, по еще более выгодным ценам. Как именно сложатся эти отношения, еще предстоит увидеть, но пока нам будет достаточно "Рольфа Краке"".
+DEN_focus_modern_engines:0 "Современные двигатели"
+DEN_focus_modern_engines_desc:0 "Хотя мы и раньше использовали паровые двигатели на наших кораблях, мы часто применяли устаревшие формы, которые гораздо менее эффективны, чем более современные изобретения. Что толку от такой технологии, если она менее эффективна и менее мощна, чем те, что используют другие державы? Чтобы противостоять этому факту, мы будем исследовать и разрабатывать более совершенные двигатели, которые можно будет устанавливать на наши собственные корабли, а также улучшать вновь построенные корабли по мере их строительства. Правильное переоснащение наших кораблей и разработка более современных двигателей также облегчит нам задачу не отставать от подобных достижений в будущем, поскольку закладывается фундамент для последующих поколений усовершенствований."
+DEN_focus_screw_frigates:0 "Датские винтовые фрегаты"
+DEN_focus_screw_frigates_desc:0 "Винтовые фрегаты показали себя во всем мире, а их скорость и эффективность вызывают искреннее восхищение. Строительство и использование таких кораблей может принести Дании большую пользу, поэтому мы начнем проектирование и строительство наших собственных кораблей. Это позволит снизить затраты по сравнению с покупкой таких судов, сохранив при этом средства, используемые в нашей собственной экономике. Самое главное, что расширение наших возможностей по строительству кораблей такого класса только облегчит строительство подобных судов в будущем, так как наши знания и навыки, несомненно, будут расти в процессе".
+DEN_focus_atlantic_naval_bases:0 "Военно-морские порты Атлантики"
+DEN_focus_atlantic_naval_bases_desc:0 "Большинство наших нынешних военно-морских баз расположены в Ютландии или на одном из наших главных островов. Однако у нас есть владения гораздо дальше, которые мы могли бы использовать для значительного увеличения нашего оперативного потенциала. Это позволит нашему флоту защищать все воды, на которые претендует наша страна, и даст нам возможность проецировать нашу силу далеко от нашей территории. Мы должны начать строительство военно-морских баз на этих островах, что даст нам и нашим союзникам стратегические опорные пункты вдали от родины".
+DEN_focus_modern_naval_tactics:0 "Современная военно-морская тактика"
+DEN_focus_modern_naval_tactics_desc:0 "С огромным развитием военно-морских технологий в последние годы, военно-морская тактика также сильно изменилась. Несмотря на это, Дания до сих пор не переняла многие из этих новых достижений. Мы должны это изменить, чтобы обеспечить нашему флоту достойное место в Балтийском регионе и за его пределами. Мы будем изучать и перенимать многие из самых последних и инновационных военно-морских тактик, которые правильно используют имеющиеся в настоящее время технологические достижения. Возможно, мы даже сможем рассчитывать на советы других стран, если не на непосредственное обучение под руководством их офицеров".
+DEN_focus_increase_navy_budget:0 "Увеличить бюджет ВМФ"
+DEN_focus_increase_navy_budget_desc:0 "Корабли сейчас недешевы, и они, конечно, не станут дешевле в ближайшее время. Однако мы должны нести расходы на расширение нашего флота, иначе наше шаткое положение будет сокрушено нашими завистливыми соседями. Нас окружает слишком много потенциальных врагов, и мы слишком долго сохраняли наше относительно доминирующее положение, чтобы рисковать его потерять. Мы должны сделать все возможное, чтобы избежать такой участи. Мы увеличим бюджет нашего флота и обеспечим его правильное распределение, прежде чем нас превзойдут и в конечном итоге затмят и уничтожат."
+DEN_focus_prepare_next_war:0 "Готовиться к следующей войне"
+DEN_focus_prepare_next_war_desc:0 "Война на горизонте. Когда-то это казалось маловероятным, учитывая наши международные связи и великие победы, но, к сожалению, скоро наша нация снова будет вынуждена воевать. Хотя это может быть неожиданно, мы не будем застигнуты врасплох. Мы немедленно укрепим наши самые важные крепости, расширим нашу оборону и мобилизуем наши резервы. Если все пойдет по плану, мы сможем рассчитывать на помощь других государств и, возможно, даже привлечь к войне наших союзников. Однако с таким же успехом мы можем быть вынуждены сражаться как остров в море врагов. Мы можем только молиться за нашу победу...".
+
+#Imperialism #NT!
+DEN_focus_danish_imperialism:0 "Датский империализм"
+DEN_focus_danish_imperialism_desc:0 ""
+DEN_focus_deal_with_helstaten:0 "Сделка с хельштатенами"
+DEN_focus_deal_with_helstaten_desc:0 ""
+DEN_focus_schleswig_holstein_question:0 "Шлезвиг-Гольштейнский вопрос"
+DEN_focus_schleswig_holstein_question_desc:0 ""
+DEN_focus_maintain_status_quo:0 "Поддерживать статус-кво"
+DEN_focus_maintain_status_quo_desc:0 ""
+DEN_focus_silence_proponents_of_ejderpolitikken:0 "Заставить замолчать сторонников Ejderpolitikken"
+DEN_focus_silence_proponents_of_ejderpolitikken_desc:0 ""
+DEN_focus_attempt_containment_of_nationalist_tendencies:0 "Попытка сдерживания националистических тенденций"
+DEN_focus_attempt_containment_of_nationalist_tendencies_desc:0 ""
+DEN_focus_defend_the_duchies:0 "Защитить герцогства любой ценой"
+DEN_focus_defend_the_duchies_desc:0 ""
+DEN_focus_danmark_til_ejderen:0 "Danmark til Ejderen!"
+DEN_focus_danmark_til_ejderen_desc:0 ""
+DEN_focus_approach_danish_intellectuals_in_the_duchies:0 "Приблизить датскую интеллигенцию в герцогствах"
+DEN_focus_approach_danish_intellectuals_in_the_duchies_desc:0 ""
+DEN_focus_prepare_drafts_for_common_constitution:0 "Подготовка проектов общей конституции"
+DEN_focus_prepare_drafts_for_common_constitution_desc:0 ""
+DEN_focus_november_constitution:0 "Ноябрьская конституция"
+DEN_focus_november_constitution_desc:0 ""
+DEN_focus_iceland_question:0 "Исландский вопрос"
+DEN_focus_iceland_question_desc:0 ""
+DEN_focus_resist_against_icelandic_nationalists:0 "Противодействие исландскому националистическому движению"
+DEN_focus_resist_against_icelandic_nationalists_desc:0 ""
+DEN_focus_suppress_icelandic_nationalists:0 "Подавить исландских националистов"
+DEN_focus_suppress_icelandic_nationalists_desc:0 ""
+DEN_focus_reestablish_danish_trade_monopoly:0 "Восстановить датскую торговую монополию"
+DEN_focus_reestablish_danish_trade_monopoly_desc:0 ""
+DEN_focus_force_iceland_into_folkekirken:0 "Принудить Исландию вступить в Folkekirken"
+DEN_focus_force_iceland_into_folkekirken_desc:0 ""
+DEN_focus_appease_icelandic_nationalists:0 "Умиротворить исландских националистов"
+DEN_focus_appease_icelandic_nationalists_desc:0 ""
+DEN_focus_stooulog_law:0 "Закон Стоулога"
+DEN_focus_stooulog_law_desc:0 ""
+DEN_focus_grant_iceland_home_rule:0 "Предоставление Исландии домашнего права"
+DEN_focus_grant_iceland_home_rule_desc:0 ""
+DEN_focus_constitution_for_iceland:0 "Конституция для Исландии"
+DEN_focus_constitution_for_iceland_desc:0 ""
+DEN_focus_deal_with_colonies:0 "Сделка с колониями"
+DEN_focus_deal_with_colonies_desc:0 ""
+DEN_focus_sell_nicobar_islands:0 "Продать Никобарские острова"
+DEN_focus_sell_nicobar_islands_desc:0 ""
+DEN_focus_focus_on_west_indies:0 "Фокус на Вест-Индии"
+DEN_focus_focus_on_west_indies_desc:0 ""
+DEN_focus_keep_nicobar_islands:0 "Сохранить Никобарские острова"
+DEN_focus_keep_nicobar_islands_desc:0 ""
+DEN_focus_develop_ny_danmark:0 "Развивать Най-Данмарк"
+DEN_focus_develop_ny_danmark_desc:0 ""
+DEN_focus_foothold_in_africa:0 "Новый плацдарм в Африке?"
+DEN_focus_foothold_in_africa_desc:0 ""
+DEN_focus_naval_base_in_africa:0 "Построить надлежащую военно-морскую базу в Африке"
+DEN_focus_naval_base_in_africa_desc:0 ""
+DEN_focus_cotton_plantations_in_africa:0 "Построить плантации товарных культур в Африке"
+DEN_focus_cotton_plantations_in_africa_desc:0 ""
+DEN_focus_colonies_in_africa_effect_tt:0 "§GУспешно завершая миссии по строительству нашей колонии в Порто-Ново, можно разблокировать дальнейшие решения относительно управления колонией.§!"
+DEN_focus_consolidate_colonial_possessions:0 "Укрепление и расширение наших колониальных владений"
+DEN_focus_consolidate_colonial_possessions_desc:0 ""
+DEN_focus_coffee_plantations_in_the_caribbean:0 "Создание кофейных плантаций в Карибском бассейне"
+DEN_focus_coffee_plantations_in_the_caribbean_desc:0 ""
+DEN_focus_cocoa_plantations_in_africa:0 "Построить плантации какао в Африке"
+DEN_focus_cocoa_plantations_in_africa_desc:0 ""
+DEN_focus_trade_hub_on_the_nicobars:0 "Создать торговый центр на Никобарах"
+DEN_focus_trade_hub_on_the_nicobars_desc:0 ""
+
+#Aftermath of the SSW #NT!
+DEN_focus_glorious_victory:0 "Славная победа!"
+DEN_focus_glorious_victory_desc:0 ""
+DEN_focus_using_victory_to_boost_party_popularity_victory:0 "Использование победы для повышения популярности партии"
+DEN_focus_using_victory_to_boost_party_popularity_victory_desc:0 ""
+DEN_focus_a_revised_constitution_victory:0 "Пересмотренная конституция"
+DEN_focus_a_revised_constitution_victory_desc:0 ""
+DEN_focus_the_germans_will_come_back_again:0 "Немцы вернутся снова!"
+DEN_focus_the_germans_will_come_back_again_desc:0 ""
+DEN_focus_defenses_at_the_border:0 "Оборона на границе"
+DEN_focus_defenses_at_the_border_desc:0 ""
+DEN_focus_demobilization_victory:0 "Демобилизация"
+DEN_focus_demobilization_victory_desc:0 ""
+DEN_focus_build_esbjerg_port_victory:0 "Построить порт Эсбьерга"
+DEN_focus_build_esbjerg_port_victory_desc:0 "Последние события показывают, что наш предыдущий порт в Северном море, Альтона, может больше не быть безопасным вариантом в качестве нашего основного порта в Северном море. Вместо этого мы будем развивать новый порт в Эсбьерге, который станет центром для наших судов, а также для тех, кто импортирует товары из Великобритании и далее на запад. Скорее всего, он также станет основным местом базирования нашего рыболовного флота, что вполне естественно, поскольку он является важной частью нашей экономики".
+DEN_focus_denmark_will_never_bow_down:0 "Дания никогда не отступит!".
+DEN_focus_denmark_will_never_bow_down_desc:0 ""
+
+DEN_focus_a_region_divided:0 "Разделенный регион"
+DEN_focus_a_region_divided_desc:0 ""
+DEN_focus_using_victory_to_boost_party_popularity_stalemate:0 "Использование победы для повышения популярности партии"
+DEN_focus_using_victory_to_boost_party_popularity_stalemate_desc:0 ""
+DEN_focus_a_revised_constitution_stalemate:0 "Пересмотренная конституция"
+DEN_focus_a_revised_constitution_stalemate_desc:0 ""
+DEN_focus_our_schleswig_is_a_better_schleswig:0 "Наш Шлезвиг - лучший Шлезвиг"
+DEN_focus_our_schleswig_is_a_better_schleswig_desc:0 ""
+DEN_focus_a_danish_north_schleswig:0 "Датский Северный Шлезвиг"
+DEN_focus_a_danish_north_schleswig_desc:0 ""
+DEN_focus_demobilization_stalemate:0 "Демобилизация"
+DEN_focus_demobilization_stalemate_desc:0 ""
+DEN_focus_build_esbjerg_port_stalemate:0 "Строительство порта Эсбьерг"
+DEN_focus_build_esbjerg_port_stalemate_desc:0 "Последние события показывают, что наш предыдущий порт в Северном море, Альтона, небезопасен. Вместо этого мы будем развивать новый порт в Эсбьерге, который станет центром для наших судов, а также для тех, кто импортирует товары из Великобритании и далее на запад. Скорее всего, он также станет основным местом базирования нашего рыболовного флота, что вполне естественно, поскольку он является важной частью нашей экономики".
+DEN_focus_denmark_will_keep_what_it_has:0 "Дания сохранит то, что имеет"
+DEN_focus_denmark_will_keep_what_it_has_desc:0 ""
+
+DEN_focus_humiliating_defeat:0 "Унизительное поражение"
+DEN_focus_humiliating_defeat_desc:0 ""
+DEN_focus_the_fall_of_the_governing_party:0 "Падение правящей партии"
+DEN_focus_the_fall_of_the_governing_party_desc:0 ""
+DEN_focus_a_revised_constitution_defeat:0 "Пересмотренная конституция"
+DEN_focus_a_revised_constitution_defeat_desc:0 ""
+DEN_focus_learning_from_military_failures:0 "Учиться на военных неудачах"
+DEN_focus_learning_from_military_failures_desc:0 ""
+DEN_focus_recovery_from_the_war:0 "Восстановление после войны"
+DEN_focus_recovery_from_the_war_desc:0 ""
+DEN_focus_demobilization_defeat:0 "Демобилизация"
+DEN_focus_demobilization_defeat_desc:0 ""
+DEN_focus_build_esbjerg_port_defeat:0 "Построить порт Эсбьерга"
+DEN_focus_build_esbjerg_port_defeat_desc:0 "Последние события означают, что наш предыдущий порт в Северном море, Альтона, больше не пригоден для использования. Вместо этого мы будем развивать новый порт в Эсбьерге, который станет центром для наших кораблей, а также для тех, кто импортирует товары из Великобритании и других западных стран. Скорее всего, он также станет основным местом базирования нашего рыболовного флота, что вполне естественно, поскольку он является важной частью нашей экономики".
+DEN_focus_denmark_looks_towards_the_future:0 "Дания смотрит в будущее"
+DEN_focus_denmark_looks_towards_the_future_desc:0 ""
+
+DEN_unbelievable_triumph:0 "Невероятный триумф"
+DEN_ger_will_return:0 "Немцы вернутся"
+DEN_defensive_construction:0 "Оборонительные сооружения"
+DEN_perseverance:0 "Датское упорство"
+DEN_perseverance2:0 "Датское упорство"
+DEN_costly_victory:0 "Дорогостоящая победа"
+DEN_embarrassingly_trounced1:0 "Стыдливая победа"
+DEN_embarrassingly_trounced2:0 "Стыдливая победа"
+DEN_embarrassingly_trounced3:0 "Стыдливая победа"
+DEN_recovery:0 "Восстановление"
+
+eoanb_decision_DEN_learn_from_the_war:0 "Учиться на войне"
+eoanb_mission_DEN_fortify_schleswig:0 "Наш Шлезвиг - лучший Шлезвиг"
+eoanb_decision_DEN_fortify_border:0 "Укрепить границу"
+
+#Foreign Policy #NT!
+DEN_focus_foreign_relations:0 "Внешние отношения Дании"
+DEN_focus_foreign_relations_desc:0 ""
+DEN_focus_relations_with_the_north_german_minors:0 "Отношения с северогерманскими минорами"
+DEN_focus_relations_with_the_north_german_minors_desc:0 ""
+DEN_focus_befriend_oldenburg:0 "Дружить с Ольденбургом"
+DEN_focus_befriend_oldenburg_desc:0 ""
+DEN_focus_befriend_hanover:0 "Подружиться с Ганновером"
+DEN_focus_befriend_hanover_desc:0 ""
+DEN_focus_befriend_mecklenburg:0 "Подружиться с Мекленбургом"
+DEN_focus_befriend_mecklenburg_desc:0 ""
+DEN_focus_relations_with_the_baltic_sea_states:0 "Отношения с государствами Балтийского моря"
+DEN_focus_relations_with_the_baltic_sea_states_desc:0 ""
+DEN_focus_befriend_sweden:0 "Дружить со Швецией"
+DEN_focus_befriend_sweden_desc:0 ""
+DEN_focus_royal_ties_with_russia:0 "Королевские связи с Россией"
+DEN_focus_royal_ties_with_russia_desc:0 ""
+DEN_focus_befriend_finland:0 "Дружить с Финляндией"
+DEN_focus_befriend_finland_desc:0 ""
+DEN_focus_relations_in_the_far_east:0 "Отношения на Дальнем Востоке"
+DEN_focus_relations_in_the_far_east_desc:0 ""
+DEN_focus_befriend_the_siamese:0 "Подружиться с сиамцами"
+DEN_focus_befriend_the_siamese_desc:0 ""
+DEN_focus_trade_profits_in_china:0 "Прибыль от торговли в Китае"
+DEN_focus_trade_profits_in_china_desc:0 ""
+DEN_focus_befriend_the_japanese:0 "Подружиться с японцами"
+DEN_focus_befriend_the_japanese_desc:0 ""
+
+#Obsolete? #NT!
+DEN_focus_befriend_hanseatic_cities:0 "Подружитесь с Ганзейскими городами"
+DEN_focus_befriend_hanseatic_cities_desc:0 ""
+DEN_more_open_trade_with_prussia:0 "Заключать торговые сделки с Пруссией"
+DEN_more_open_trade_with_prussia_desc:0 ""
+DEN_connect_railways:0 "Соединить пограничные железные дороги"
+DEN_connect_railways_desc:0 ""
+DEN_hostilities:0 "Враждебные отношения с Германией"
+DEN_hostilities_desc:0 ""
+DEN_third_schleswig_war:0 "Третья Шлезвигская война"
+DEN_third_schleswig_war_desc:0 ""
+DEN_schleswig_ressistance:0 "Поддержка датского сопротивления в Шлезвиге"
+DEN_schleswig_ressistance_desc:0 ""
+
+### IDEAS ### #NT!
+#Political Spirits #NT!
+DEN_idea_london_protocol:0 "Лондонский протокол 1852 года"
+DEN_idea_london_protocol_desc:0 "Подписанный после Первой Шлезвигской войны в 1852 году, этот договор связывает герцогства Шлезвиг, Гольштейн и Лауэнбург с Данией. Герцогства, однако, не должны быть отделены друг от друга и не могут быть привязаны к Дании ближе, чем сейчас."
+DEN_idea_november_constitution:0 "Ноябрьская конституция"
+DEN_idea_november_constitution_desc:0 "Ноябрьская конституция стабилизирует Данию, но может привести к конфликту с Германской конфедерацией, поскольку она привязывает Шлезвиг ближе к Дании посредством объединенного парламента. Это может быть истолковано как нарушение Лондонского протокола 1852 года...".
+DEN_idea_rural_commissions:0 "Сельские комиссии"
+DEN_idea_rural_commissions_desc:0 ""
+DEN_idea_the_helstaten:0 ""
+DEN_idea_the_helstaten_desc:0 ""
+
+#Economic Spirits #NT!
+DEN_idea_foreign_trade_treaty:0 "Договор о внешней торговле"
+DEN_idea_foreign_trade_treaty_desc:0 ""
+DEN_idea_sound_toll_compensation:0 "Компенсация за звуковой сбор"
+DEN_idea_sound_toll_compensation_desc:0 ""
+DEN_idea_infrastructure_projects:0 "Инфраструктурные проекты"
+DEN_idea_infrastructure_projects_desc:0 ""
+DEN_idea_danske_statsbaner:0 "Danske Statsbaner"
+DEN_idea_danske_statsbaner_desc:0 ""
+DEN_idea_infrastructure_projects_helstaten:0 "Незавершенный инфраструктурный проект"
+DEN_idea_infrastructure_projects_helstaten_desc:0 ""
+DEN_idea_danish_demographics_1:0 "Демографическая ситуация в Дании"
+DEN_idea_danish_demographics_1_desc:0 ""
+DEN_idea_danish_demographics_2:0 "Демографические данные Дании"
+DEN_idea_danish_demographics_2_desc:0 ""
+DEN_idea_industrialization_efforts:0 "Усилия по индустриализации"
+DEN_idea_industrialization_efforts_desc:0 ""
+DEN_idea_hansen_writing_ball:0 "Письменный мяч Хансена"
+DEN_idea_hansen_writing_ball_desc:0 ""
+DEN_idea_danske_bank:0 "Den Danske Landmandsbank"
+DEN_idea_danske_bank_desc:0 ""
+DEN_idea_guilds_presence:0 "Присутствие гильдий"
+DEN_idea_guilds_presence_desc:0 "Гильдии, хотя они уже не занимают того могущественного положения, которое занимали столетие назад, все еще присутствуют в нашей стране и представляют значительную угрозу на местном уровне, а также в некоторых крупных городах. С благородной целью защитить членов гильдий от банкротства и голода, эти уставы довольно строго регулируют торговлю и ремесло. Хотя это и помогает защитить местные предприятия от худшего, это также препятствует экономическому росту и инновациям, поскольку подрывает конкуренцию и индивидуальную изобретательность."
+DEN_idea_free_and_liberal_economy_1:0 "Свободная и либеральная экономика"
+DEN_idea_free_and_liberal_economy_1_desc:0 "Мы стремимся к свободной и либеральной экономике, где ремесло, мастерство и ум человека определяют чей-то успех, а не столько наследие или власти."
+DEN_idea_free_and_liberal_economy_2:0 "Свободная и либеральная экономика"
+DEN_idea_free_and_liberal_economy_2_desc:0 "Мы стремимся к свободной и либеральной экономике, где ремесло, мастерство и ум человека определяют чей-то успех, а не столько наследие или власть".
+DEN_idea_hamburg_trade_influence_1:0 "Влияние Гамбурга на датскую экономику"
+DEN_idea_hamburg_trade_influence_2:0 "Влияние Гамбурга на датскую экономику"
+DEN_idea_lubeck_trade_influence_1:0 "Торговый договор между Данией и Любеком"
+DEN_idea_lubeck_trade_influence_2:0 "Торговый договор между Данией и Любеком"
+
+#Military Spirits #NT!
+DEN_idea_victors_of_first_schleswig_war:0 "Победители первой Шлезвигской войны"
+DEN_idea_victors_of_first_schleswig_war_desc:0 ""
+DEN_idea_wartime_battalion_duplication:0 "Дублирование пехотного батальона военного времени"
+DEN_idea_wartime_battalion_duplication_desc:0 ""
+DEN_idea_frilodsmaend:0 "Frilodsmænd"
+DEN_idea_frilodsmaend_desc:0 ""
+DEN_idea_spirit_of_1848:0 "Дух 1848 года"
+DEN_idea_spirit_of_1848_desc:0 "Мы уже смогли победить немцев и обязательно попытаемся сделать это снова!"
+DEN_idea_pomerania_blockade:0 "Восточная Померания блокирована"
+DEN_idea_pomerania_blockade_desc:0 "Вход в Балтийское море через Эресунн был заблокирован датским флотом".
+DEN_idea_lost_second_schleswig_war:0 "Проиграна вторая Шлезвигская война"
+DEN_idea_lost_second_schleswig_war_desc:0 ""
+DEN_idea_lost_second_schleswig_war_2:0 "Проиграл вторую Шлезвигскую войну"
+DEN_idea_lost_second_schleswig_war_2_desc:0 ""
+DEN_idea_lost_second_schleswig_war_3:0 "Проиграл вторую Шлезвигскую войну"
+DEN_idea_lost_second_schleswig_war_3_desc:0 ""
+DEN_idea_lost_second_schleswig_war_4:0 "Проиграл вторую Шлезвигскую войну"
+DEN_idea_lost_second_schleswig_war_4_desc:0 ""
+DEN_idea_lost_second_schleswig_war_5:0 "Проиграл вторую Шлезвигскую войну"
+DEN_idea_lost_second_schleswig_war_5_desc:0 ""
+DEN_idea_schleswig_is_danish_1:0 "Северный Шлезвиг в армии"
+DEN_idea_schleswig_is_danish_1_desc:0 ""
+DEN_idea_schleswig_is_danish_2:0 "Северный Шлезвиг в армии"
+DEN_idea_schleswig_is_danish_2_desc:0 ""
+DEN_idea_won_second_schleswig_war_1:0 "Выиграл вторую Шлезвигскую войну"
+DEN_idea_won_second_schleswig_war_1_desc:0 ""
+DEN_idea_won_second_schleswig_war_2:0 "Победа во второй Шлезвигской войне"
+DEN_idea_won_second_schleswig_war_2_desc:0 ""
+DEN_idea_won_second_schleswig_war_3:0 "Победа во второй Шлезвигской войне"
+DEN_idea_won_second_schleswig_war_3_desc:0 ""
+
+#Imperial Spirits #NT!
+DEN_idea_danish_colonies_1:0 "Датские колонии"
+DEN_idea_danish_colonies_1_desc:0 ""
+DEN_idea_danish_colonies_2: "The Danish Colonies" #NT!
+DEN_idea_danish_colonies_2_desc: "" #NT!
+DEN_idea_danish_colonies_3: "The Danish Colonies" #NT!
+DEN_idea_danish_colonies_3_desc: "" #NT!
+DEN_idea_danish_colonies_4: "The Danish Colonies" #NT!
+DEN_idea_danish_colonies_4_desc: "" #NT!
+DEN_idea_danish_colonies_5: "The Danish Colonies" #NT!
+DEN_idea_danish_colonies_5_desc: "" #NT!
+
+DEN_idea_kept_our_colony: "Kept the Nicobar Islands" #NT!
+DEN_idea_kept_our_colony_desc: "" #NT!
+
+DEN_idea_crash_crop_colonies_1: "Cash Crop Colonies" #NT!
+DEN_idea_crash_crop_colonies_1_desc: "" #NT!
+DEN_idea_crash_crop_colonies_2: "Cash Crop Colonies" #NT!
+DEN_idea_crash_crop_colonies_2_desc: "" #NT!
+DEN_idea_crash_crop_colonies_3: "Cash Crop Colonies" #NT!
+DEN_idea_crash_crop_colonies_3_desc: "" #NT!
+DEN_idea_crash_crop_colonies_4: "Cash Crop Colonies" #NT!
+DEN_idea_crash_crop_colonies_4_desc: "" #NT!
+DEN_idea_crash_crop_colonies_5: "Cash Crop Colonies" #NT!
+DEN_idea_crash_crop_colonies_5_desc: "" #NT!
+
+DEN_idea_denmark_bought_our_land: "Denmark Bought Our Land" #NT!
+DEN_idea_denmark_bought_our_land_desc: "" #NT!
+DEN_idea_colonial_acquisitions: "Colonial Acquisitions" #NT!
+DEN_idea_colonial_acquisitions_desc: "" #NT!
+
+DEN_idea_icelandic_independence_movement_1: "Icelandic Independence Movement" #NT!
+DEN_idea_icelandic_independence_movement_1_desc: "Inspired by nationalist and romantic ideas from mainland Europe, an Icelandic independence movement took shape in the 1850s under the leadership of Jón Sigurðsson, based on the burgeoning Icelandic nationalism inspired by the Fjölnismenn and other Danish-educated Icelandic intellectuals." #NT!
+DEN_idea_icelandic_independence_movement_2: "Icelandic Independence Movement" #NT!
+DEN_idea_icelandic_independence_movement_2_desc: "Inspired by nationalist and romantic ideas from mainland Europe, an Icelandic independence movement took shape in the 1850s under the leadership of Jón Sigurðsson, based on the burgeoning Icelandic nationalism inspired by the Fjölnismenn and other Danish-educated Icelandic intellectuals." #NT!
+
+DEN_new_buisness_act:0 "Закон о новом бизнесе"
+DEN_danish_japanese_trade:0 "Датско-японский торговый договор"
+DEN_german_conscripts_deserted:0 "Немецкие призывники дезертировали"
+
+#Trade with Sweden #NT!
+dynmod_DEN_swedish_trade:0 "Торговля со Швецией"
+dynmod_DEN_swedish_trade_desc:0 "Мы импортируем ресурсы из Швеции".
+DEN_swedish_trade_effect_tt:0 "§CЭто увеличит §Rстоимость§! §Yторговли со Швецией§! на:§!\n"
+
+#Advisor Traits #NT!
+DEN_trait_Adam_Wilhelm_Moltke:0 "Умеренный аристократ\n(Консерватор)"
+DEN_trait_Andreas_Frederik_Krieger:0 "Оживленный юрист\n(Либерал)"
+DEN_trait_Anker_Heegaard:0 "Сторонник свободной торговли\n(Нейтрал)"
+DEN_trait_Anton_Frederik_Tscherning:0 "Сторонник вооруженной нации\n(Социал-Эгалитар)"
+DEN_trait_Carl_Frederik_Tietgen:0 "Универсальный промышленник\n(Нейтрал)"
+DEN_trait_Christian_Albrecht_Bluhme:0 "Харизматичный реалист\n(Консерватор)"
+DEN_trait_Ferdinand_Meldahl:0 "Известный архитектор\n(Нейтрал)"
+DEN_trait_Jacob_Christian_Jacobsen:0 "Промышленный филантроп\n(Либерал)"
+DEN_trait_Jens_Andersen_Hansen:0 "Друг крестьян\n(Социал-Эгалитар)"
+DEN_trait_Johan_Fridolin_Hassel:0 "Владелец машиностроительного завода\n(Нейтрал)"
+DEN_trait_Johan_Nicolai_Madvig:0 "Влиятельный академик\n(Либерал)"
+DEN_trait_Louis_Pio:0 "Социалистический агитатор\n(Коллективист-Социалист)"
+DEN_trait_Ludvig_Ferdinand_Holmberg:0 "Инженер-конструктор\n(Нейтрал)"
+DEN_trait_Orla_Lehmann:0 "Сторонник программы Eider\n(Либерал)"
+DEN_trait_Soren_Hjorth:0 "Железнодорожный инженер и изобретатель\n(Нейтрал)"
+
+#Companies #NT!
+orlogsvaerftet:0 "Orlogsværftet"
+ammunitionsarsenalet:0 "Ammunitionsarsenalet"
+royal_copenhagen:0 "Королевский Копенгаген"
+dfds:0 "DFDS"
+carlsberg:0 "Carlsberg"
+
+#Company Traits #NT!
+DEN_trait_ammunitionsarsenalet:0 "Королевский арсенал боеприпасов"
+DEN_trait_concern_royal_copenhagen:0 "Королевский фарфоровый завод"
+DEN_trait_concern_dfds:0 "Датская судоходная компания"
+DEN_trait_concern_carlsberg:0 "Датская пивоварня"
+
+#Heads of State #NT!
+DEN_Frederick_VII:0 "Фредерик VII"
+DEN_Frederick_VII_desc:0 "Король Дании Фредерик VII"
+DEN_Christian_IX:0 "Кристиан IX"
+DEN_Christian_IX_desc:0 "Король Дании Кристиан IX"
+DEN_Frederick_VIII:0 "Фредерик VIII"
+DEN_Frederick_VIII_desc:0 "Король Дании Фредерик VIII"
+DEN_Christian_X:0 "Кристиан X"
+DEN_Christian_X_desc:0 "Король Дании Кристиан X"
+
+#Country Leader Descriptions #NT!
+DEN_CARL_CHRISTOFFER_GEORG_ANDRAE_LEADER_DESC:0 "Карл Кристофер Георг Андрæ - президент Дании и лидер кабинета Андрæ. С 1842 по 1854 год он был профессором математики и механики в национальном военном колледже. Во время работы профессором он был назначен королевской властью членом Учредительного собрания Дании 1848 года, а шесть лет спустя стал министром финансов в кабинете Банга. В 1856 году он был назначен президентом Дании, но хотя он пытался умиротворить как левых, так и правых, его правление, к сожалению, не было мирным и спокойным, поскольку напряженность в Шлезвиге и Гольштейне продолжала расти даже после завершения Первой Шлезвигской войны. Из-за изнурительной политической войны его дни на посту президента, похоже, сочтены, и в политических кругах стало полуизвестно, что Андрэ рассматривает возможность ухода со своего поста."
+DEN_CARL_CHRISTIAN_HALL_LEADER_DESC:0 "Карл Кристиан Холл - датский национальный либеральный государственный деятель. У него была выдающаяся учеба в школе и колледже, после чего он стал профессором права. Свои первые шаги в политике Холл сделал 12 декабря 1854 года, когда занял пост в администрации Банга. С тех пор он приобрел неплохую репутацию как политик, и на данный момент он был назначен президентом Дании. В связи с ростом напряженности вокруг шлезвиг-голштинского вопроса Холл был убежденным сторонником политики Ejderpolitikken, которая направлена на восстановление исторической южной границы Дании по реке Эйдер, которая проходит между Шлезвигом и Гольштейном. Холл разделяет это убеждение с большинством национал-либералов, которые стремятся крепче привязать герцогство Шлезвиг к Дании, даже если это означает конфронтацию с Германской конфедерацией."
+DEN_CHRISTIAN_EMIL_FRIJS_LEADER_DESC:0 "Кристиан Эмиль Фриис - датский политик, который в настоящее время является президентом Дании, возглавляя кабинет Фрииса. В 1835 году он окончил академию Соре и продолжил изучать право. Он является самым богатым крупным сквайром Дании и пользуется почетом у своих крестьян. Он входит в партию Хёйре, также известную как Консервативная партия, и активно выступает против национал-либералов. Заметив напряженность вокруг Шлезвиг-Гольштейна, Фрийс пока решил выступить против политики Ejderpolitikken в пользу сохранения статус-кво."
+
+#Schleswig-Holstein #NT!
+HLS_idea_profits_from_altona_1:0 "Торговое соревнование Гамбург - Любек"
+HLS_idea_profits_from_altona_1_desc:0 "Несмотря на то, что оба они являются городами Ганзы и имеют некий союз, два наших соседа, Гамбург и Любек, являются ярыми соперниками в торговле. Оба они стремятся стать лучшим городом Ганзы и поэтому оказывают влияние на города Ганзы, чтобы добиться превосходства. \n\n\nВлияние городов Ганзы\n\nГамбург Влияние на торговлю: §R[?Root.DEN_hamburg_trade]§! \nЛюбек Торговое влияние : §R[?Root.DEN_lubeck_trade]§!"
+HLS_idea_profits_from_altona_2:0 "Прибыль от порта Альтона"
+HLS_idea_profits_from_altona_2_desc:0 "Альтона - это город на нашей южной границе, на Эльбе, граничащий с Гамбургом. Таким образом, большинство товаров, перевозимых туда, должны проходить через порт Альтоны, что приводит к тому, что мы получаем прибыль за счет пошлин, которые приходится платить. Эта ситуация вызвала и вызывает трудности в отношениях между Гольштейном и Датским королем с Гамбургом, который является хорошим торговым партнером."
+SCH_idea_ethnic_conflicts:0 "Основное население Германии"
+SCH_idea_ethnic_conflicts_desc:0 "Герцогство Шлезвиг-Гольштейн состоит из двух частей Шлезвиг и Гольштейн. Гольштейн - это часть, в которой проживает немецкое население Шлезвиг-Гольштейна, что приводит к конфликту с населенным датчанами Шлезвигом, который Дания хочет присоединить к собственно Дании, но не может из-за Лондонского протокола, который запрещает любой раскол герцогства. Немецкое население Шлезвиг-Гольштейна также представляет интерес для Германской Конфедерации, в которой различные фракции хотят интегрировать эти немецкоязычные части в ее состав, что опять же приводит к конфликту с Данией, которая также имеет претензии на наш регион. Эта сложная ситуация означает, что напряженность в отношениях между немцами и Данией высока и может обостриться в любую секунду...".
+SCH_idea_ethnic_conflicts_DEN:0 "Крупное население Дании"
+SCH_idea_ethnic_conflicts_DEN_desc:0 "Герцогство Шлезвиг-Гольштейн состоит из двух частей Шлезвиг и Гольштейн. Шлезвиг - это часть, которая населена датчанами, что приводит к попыткам датчан интегрировать Шлезвиг в датское государство. К сожалению, Лондонский протокол, завершивший войну в Шлезвиг-Гольштейне в 1852 году, запретил Дании предпринимать подобные шаги снова, заявив, что Шлезвиг и его немецкоязычный аналог Гольштейн неразделимы и должны управляться только отдельно от самой Дании. Только время покажет, захочет ли Дания следовать правилам, установленным Лондонским протоколом, или они захотят пойти по пути интеграции Шлезвига в Данию...".
+DEN_SCH_no_request_forces:0 "Из-за ограничений §YЛондонского протокола 1852 года§! Дании не разрешается запрашивать силы у Шлезвига и Гольштейна, так как герцогства должны управляться как отдельное образование вне §Y[DEN.GetNameDef]§!".
+
+### OPINION MODIFIERS ### #NT!
+DEN_PROTECT_THE_HELSTATEN_IDEA_REL:0 "Защитили статус-кво в Шлезвиге и Гольштейне"
+DEN_SWE_WOOD_TRADE_ESTABLISHED_REL:0 "Установлена торговля древесиной"
+DEN_SWE_WOOD_TRADE_DENIED_REL:0 "Торговля древесиной запрещена"
+DEN_SWE_WOOD_TRADE_DENIED_CATEGORICALLY_REL:0 "Торговля древесиной категорически запрещена"
+DEN_SWE_IRON_TRADE_ESTABLISHED_REL:0 "Торговля железом установлена"
+DEN_SWE_IRON_TRADE_DENIED_REL:0 "Торговля железом отклонена"
+DEN_SWE_IRON_TRADE_DENIED_CATEGORICALLY_REL:0 "Железная торговля категорически запрещена"
+DEN_USA_UNIFORM_EXCHANGE_REJECTED_REL:0 "Единообразный обмен отклонен"
+DEN_USA_UNIFORM_EXCHANGE_AGREED_REL:0 "Обмен армейской униформы"

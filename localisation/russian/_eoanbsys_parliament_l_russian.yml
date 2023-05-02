@@ -1,0 +1,612 @@
+﻿l_russian:
+  EOANB_RULING_PARTY_INFO: "Правящая партия - это §Y[Root.GetRulingParty] ([Root.GetRulingIdeologyAdjectiveShort] [Root.GetSystemGovernment])§!".
+  INT_POL_VOTE_REFORM_TOOLTIP: "Проголосуйте за эту реформу".
+  INT_POL_REFORM_TOOLTIP: "§YРеформа§! этого закона"
+  INT_POL_EXECUTIVE_REFORM_TOOLTIP: "§RИсполнительный приказ§!\n--------------\nПрямое принятие реформы без одобрения §YПарламента§!\n§RМожно использовать только один раз в 30 недель.§!\n--------------\n§R-100§! Законодательная власть\nЕсли вы не являетесь авторитарным режимом (§YАбсолютная монархия§!, §YРеволюционное правительство§!, §ҮСоциалистическое государство§!, §YТоталитарная диктатура§! или §ҮВоенная хунта§!), то вы §Rпотеряете политическую стабильность§!".
+  INT_POL_EXECUTIVE_REFORM_CIVIL_TOOLTIP: "§RИсполнительный приказ§!\n--------------\nПрямое принятие реформы без одобрения §YПарламента§!.\n§RМожно использовать только один раз в 30 недель.§!\n--------------\n§R-450§! Законодательная власть\nЕсли вы не являетесь авторитарным режимом (§YАбсолютная монархия§!, §YРеволюционное правительство§!, §ҮСоциалистическое государство§!, §YТоталитарная диктатура§! или §ҮВоенная хунта§!), то вы §Rпотеряете политическую стабильность§!".
+  INT_POL_EXECUTIVE_REFORM_LAND_TOOLTIP: "§RИсполнительный приказ§!\n--------------\nПрямое принятие реформы без одобрения §YПарламента§!\n§RМожно использовать только раз в 30 недель.§!\n--------------\n§R-1000§! Законодательная власть\nЕсли вы не являетесь авторитарным режимом (§YАбсолютная монархия§!, §YРеволюционное правительство§!, §ҮСоциалистическое государство§!, §ҮТоталитарная диктатура§! или §ҮВоенная хунта§!), вы §Rпотеряете политическую стабильность§!".
+
+  EOANB_LEGITIMACY_SCORE: "[?political_legitimacy|%0]"
+  EOANB_LEGITIMACY_TOOLTIP: "[eoanb_legitimacy_tooltip_scripted]"
+  EOANB_LEGITIMACY_TOOLTIP_LATE: "§WЛегитимность представляет, насколько легитимно нынешнее правительство. Легитимность крайне важна для любого правительства, без нее оно может пострадать.§!"
+
+afr_empire_politics_legitimacy_tooltip: "§HЛегитимность§!\n \nУ вас есть [GetLegitimacyState] Легитимность империи.\n \n \n§YЭффекты:§!\nДневная законодательная власть: [?ROOT.legitimacy_ppg|+=]\nВоенная поддержка: [?ROOT.legitimacy_wsf|0%+=]\n Стоимость политического советника: [?ROOT.legitimacy_pacf|%0-=]\n \nВ настоящее время дрейф [?political_legitimacy_drift|%0+=] в месяц в сторону равновесия: [?Root.political_legitimacy_equilibrium|%0+]\n \n§YТекущие Значения:§!\n Базовое значение: §G68%§!\n Скорректированная легитимность: [?ROOT. political_legitimacy_equilibrium_custom|%+=0][political_legitimacy_power_rank][political_legitimacy_is_subject][political_legitimacy_has_offensive_war][political_legitimacy_has_defensive_war][political_legitimacy_leader_of_religion][political_legitimacy_anarchist_government][political_legitimacy_autocracy_heir][political_legitimacy_government_net_popularity][political_legitimacy_government_constitution][political_legitimacy_political_stability][political_legitimacy_unpopular_rulers][political_legitimacy_debt_concern][political_legitimacy_debt_level][political_legitimacy_subjects_loyal]"
+
+  non_afr_empire_politics_legitimacy_tooltip: "§HЛегитимность§!\n \nУ вас есть [GetLegitimacyState] Легитимность.\n \n§YЭффекты:§! \nДневная законодательная власть: [?ROOT.legitimacy_ppg|+=]\nВоенная поддержка: [?ROOT.legitimacy_wsf|0%+=]\n Стоимость политического советника: [?ROOT.legitimacy_pacf|%0-=]\n \nВ настоящее время дрейф [?political_legitimacy_drift|%0+=] в месяц в сторону равновесия: [?Root.political_legitimacy_equilibrium|%0+]\n \n§YТекущие Значения:§!\n Базовое значение: §G68%§!\n Скорректированная легитимность: [?ROOT. political_legitimacy_equilibrium_custom|%+=0][political_legitimacy_power_rank][political_legitimacy_is_subject][political_legitimacy_has_offensive_war][political_legitimacy_has_defensive_war][political_legitimacy_leader_of_religion][political_legitimacy_anarchist_government][political_legitimacy_autocracy_heir][political_legitimacy_government_net_popularity][political_legitimacy_government_constitution][political_legitimacy_political_stability][political_legitimacy_unpopular_rulers][political_legitimacy_debt_concern][political_legitimacy_debt_level]"
+
+  legitimacy_dynamic_modifier: "£pol_power Легитимность"
+
+  legitimacy_state_0: "§RКатастрофическая§!"
+  legitimacy_state_1: "§OОчень плохая§!"
+  legitimacy_state_2: "§YПлохая§!"
+  legitimacy_state_3: "§WПриличная§!"
+  legitimacy_state_4: "§GХорошая§!"
+  legitimacy_state_5: "§GОчень Хорошая§!"
+  legitimacy_state_6: "§CОтличная§!"
+
+  political_legitimacy_has_offensive_war_tt: "\n Наступательная война: §R-5%§!"
+  political_legitimacy_has_defensive_war_tt: "\n Оборонительная война: §G+3%§!"
+  political_legitimacy_is_subject_tt: "\n Не независимый: §R-5%§!"
+  political_legitimacy_leader_of_religion_catholicism_tt: "\n Центр католицизма: §G+10%§!"
+  political_legitimacy_leader_of_religion_islam_tt: "\n Центр Ислама: §G+10%§!"
+  political_legitimacy_leader_of_religion_judaism_tt: "\n Центр Иудаизма: §G+10%§!"
+  political_legitimacy_anarchist_government_tt: "\n Анархистское правительство: §R-10%§!"
+  political_legitimacy_autocracy_no_heir_tt: "\n Без наследника: §R-10%§!"
+political_legitimacy_autocracy_dethroned_heir_tt: "\n Свергнутый наследник: §R-5%§!"
+  political_legitimacy_autocracy_weak_heir_tt: "\n Слабый наследник: §R-5%§!"
+  political_legitimacy_autocracy_nonfamily_heir_tt: "\n Несемейный наследник: §R-2%§!"
+  political_legitimacy_autocracy_has_heir_tt: "\n Сильный Наследник: §G+5%§!"
+  political_legitimacy_government_net_popularity_tt: "\n Правительство меньшинства: §R-10%§!"
+  political_legitimacy_government_no_constitution_tt: "\n Нет конституции: §R-5%§!"
+  political_legitimacy_government_human_rights_tt: "\n Некоторые права человека: §R-1%§!"
+  political_legitimacy_government_constitution_adopted_tt: "\n Конституция: §G+1%§!"
+  political_legitimacy_government_limited_constitution_tt: "\n Ограниченные права: §G+5%§!"
+  political_legitimacy_government_sharia_constitution_tt: "\n Закон шариата: §R+7%§!"
+  political_legitimacy_government_sharia_constitution_noislam_tt: "\n Закон шариата: §R-7%§!"
+  political_legitimacy_political_stability_neg3_tt: "\n Политическая стабильность: §R-9%§!"
+  political_legitimacy_political_stability_neg2_tt: "\n Политическая стабильность: §R-6%§!"
+  political_legitimacy_political_stability_neg1_tt: "\n Политическая стабильность: §R-3%§!"
+  political_legitimacy_political_stability_0_tt: "\n Политическая стабильность: §Y0%§!"
+  political_legitimacy_political_stability_pos1_tt: "\n Политическая стабильность: §G+3%§!"
+  political_legitimacy_political_stability_pos2_tt: "\n Политическая стабильность: §G+6%§!"
+  political_legitimacy_political_stability_pos3_tt: "\n Политическая стабильность: §G+9%§!"
+   political_legitimacy_unpopular_rulers_vin_tuc_duc_tt: "\n Оппозиция Динь Дао: §R-10%§!"
+  political_legitimacy_debt_concern_bankrupt_tt: "\n Банкротство: §R-30%§!"
+political_legitimacy_debt_concern_bankrupt_reduced_tt: "\n Снижение Банкротства: §R-15%§!"
+  political_legitimacy_debt_concern_1_tt: "\n Беспокойство Долга: §R-1%§!"
+  political_legitimacy_debt_concern_2_tt: "\n Беспокойство Долга: §R-2%§!"
+  political_legitimacy_debt_concern_3_tt: "\n Беспокойство Долга: §R-3%§!"
+  political_legitimacy_debt_concern_4_tt: "\n Беспокойство Долга: §R-4%§!"
+  political_legitimacy_debt_concern_5_tt: "\n Беспокойство Долга: §R-5%§!"
+  political_legitimacy_debt_level_1_tt: "\n Беспокойство Долга: §R-1%§!"
+  political_legitimacy_debt_level_2_tt: "\n Беспокойство Долга: §R-2%§!"
+  political_legitimacy_debt_level_3_tt: "\n Беспокойство Долга: §R-3%§!"
+  political_legitimacy_debt_level_4_tt: "\n Беспокойство Долга: §R-4%§!"
+  political_legitimacy_debt_level_5_tt: "\n Беспокойство Долга: §R-5%§!"
+  political_legitimacy_power_rank_great_power_tt: "\n Великая Держава: §G+5%§!"
+  political_legitimacy_power_rank_secondary_power_tt: "\n Вторичная Держава §G+3%§!"
+  political_legitimacy_power_rank_minor_power_tt: "\n Минорная Держава: §G+1%§!"
+  political_legitimacy_power_rank_insignificant_power_tt: "\n Незначительная Держава: §Y0%§!"
+  political_legitimacy_equilibrium_adjustment_tt: "Скорректированная легитимность: [?ROOT.political_legitimacy_equilibrium_custom|%+0]".
+  Generic_Idea_Legitimacy_View: "Скорректированная легитимность"
+  Generic_Idea_Legitimacy_View_desc: "Легитимность: [?ROOT.political_legitimacy_equilibrium_custom|%+0]".
+
+  political_legitimacy_subjects_loyal_neg2_tt: "\n Слабая лояльность субъектов: §R-9%§!"
+  political_legitimacy_subjects_loyal_neg1_tt: "\n Слабая лояльность субъекта: §R-3%§!"
+  political_legitimacy_subjects_loyal_0_tt: "\n Разнообразная лояльность субъектов: §Y0%§!"
+  political_legitimacy_subjects_loyal_pos1_tt: "\n Хорошая лояльность субъектов: §G+3%§!"
+  political_legitimacy_subjects_loyal_pos2_tt: "\n Сильная лояльность: §G+9%§!"
+
+  eoanb_political_legitimacy_change_tt: "Получить [?political_legitimacy_change|%0+] §bЛегитимности§!\n"
+
+  rad_soc_status_0: "Радикально социалистические" 
+  rad_soc_status_1: "§GРадикально социалистические§!" 
+  rad_soc_status_2: "§RРадикально социалистические§!" 
+  rad_soc_status_3: "§YРадикально социалистические§!" 
+  rad_soc_status_4: "§gРадикально социалистические§!" 
+
+  soc_lib_status_0: "Социал-либеральные" 
+  soc_lib_status_1: "§GСоциал-либеральные§!" 
+  soc_lib_status_2: "§RСоциал-либеральные§!" 
+  soc_lib_status_3: "§YСоциал-либеральные§!" 
+  soc_lib_status_4: "§gСоциал-либеральные§!" 
+
+  soc_ega_status_0: "Социал-эгалитаристские"
+  soc_ega_status_1: "§GСоциал-эгалитаристские§!"
+  soc_ega_status_2: "§RСоциал-эгалитаристские§!"
+  soc_ega_status_3: "§YСоциал-эгалитаристские§!"
+  soc_ega_status_4: "§gСоциал-эгалитаристские§!"
+
+  cen_status_0: "Центристские"
+  cen_status_1: "§GЦентристские§!"
+  cen_status_2: "§RЦентристские§!"
+  cen_status_3: "§YЦентристские§!"
+  cen_status_4: "§gЦентристские§!"
+
+  tra_con_status_0: "Традиционно консервативные"
+  tra_con_status_1: "§GТрадиционно консервативные§!"
+  tra_con_status_2: "§RТрадиционно консервативные§!"
+  tra_con_status_3: "§YТрадиционно консервативные§!"
+  tra_con_status_4: "§gТрадиционно консервативные§!"
+
+  rad_dem_status_0: "Радикально демократичные"
+  rad_dem_status_1: "§GРадикально демократичные§!"
+  rad_dem_status_2: "§RРадикально демократичные§!"
+  rad_dem_status_3: "§YРадикально демократичные§!"
+  rad_dem_status_4: "§gРадикально демократичные§!"
+
+  chauv_pop_status_0: "Шовинисто-популистические"
+  chauv_pop_status_1: "§GШовинисто-популистические§!"
+  chauv_pop_status_2: "§RШовинисто-популистические§!"
+  chauv_pop_status_3: "§YШовинисто-популистические§!"
+  chauv_pop_status_4: "§gШовинисто-популистические§!"
+
+  aut_status_0: "Автократические"
+  aut_status_1: "§GАвтократические§!"
+  aut_status_2: "§RАвтократические§!"
+  aut_status_3: "§YАвтократические§!"
+  aut_status_4: "§gАвтократические§!"
+
+  fun_status_0: "Фундаменталистические"
+  fun_status_1: "§GФундаменталистические§!"
+  fun_status_2: "§RФундаменталистические§!"
+  fun_status_3: "§YФундаменталистические§!"
+  fun_status_4: "§gФундаменталистические§!"
+
+  EOANBSYS_legislative_reform_process_decision_category: "Парламент"
+  EOANBSYS_legislative_reform_process_decision_category_desc: "[GetParliamentDesc]"
+  EOANBSYS_legislative_reform_process_decision_category_desc_0: "В настоящее время ни один закон не находится на голосовании."
+  EOANBSYS_legislative_reform_process_decision_category_desc_1: "В настоящее время парламент голосует по реформе: §Y[Root.GetCurrentVotedReform]§!\n\n §YАвангард Коммунист§! одобрение: [Root.GetVanComApproval]\n\n §YКоллективистский социалист§! одобрение: [Root.GetColSocApproval]\n §YСоциал-Эгалитар§! одобрение: [Root.GetSocEgaApproval]\n §YЦентрист§! одобрение: [Root.GetCenApproval]\n §YТрадиционный консерватор§! одобрение: [Root.GetTraConApproval]\n §YРадикальная демократ§! одобрение: [Root.GetRadDemApproval]\n §YШовинист-популист§! одобрение: [Root.GetChauvPopApproval]\n §Яавтократ§! одобрение: [Root.GetAutApproval]\n §YФундаменталист§! одобрение: [Root.GetFunApproval]\n\n Мы §Gоцениваем§! что за реформу проголосует §Y[?parl_est_num_seats]§! из §Y[?parl_tot_num_seats]§! общего числа голосов. (Для принятия реформы необходимо §Y[?parl_num_seats_half]§! голосов)".
+  EOANBSYS_legislative_reform_process_decision_category_desc_2: "Парламент будет голосовать по специальному вопросу вне программы. (§gЭто голосование было запущено либо фокусом, либо решением, либо событием, а не системой Реформ.§!)\n\n §YАвангардный Коммунист§! одобрение: [Root.GetVanComApproval]\n\n §YКоллективистский социалист§! одобрение: [Root.GetColSocApproval]\n §YСоциал-Эгалитар§! одобрение: [Root.GetSocEgaApproval]\n §YЦентрист§! одобрение: [Root.GetCenApproval]\n §YТрадиционный консерватор§! одобрение: [Root.GetTraConApproval]\n §YРадикальная демократ§! одобрение: [Root.GetRadDemApproval]\n §YШовинист-популист§! одобрение: [Root.GetChauvPopApproval]\n §Яавтократ§! одобрение: [Root.GetAutApproval]\n §YФундаменталист§! одобрение: [Root.GetFunApproval]\n\n Мы §Gоцениваем§! что за реформу проголосует §Y[?parl_est_num_seats]§! из §Y[?parl_tot_num_seats]§! общего числа голосов. (Для принятия реформы необходимо §Y[?parl_num_seats_half]§! голосов)".
+
+  reform_vote_approval_no_rep: "§RНет репрезентации§!".
+  reform_vote_approval_id_0: "[?parl_voting_approval_array^0|%1]"
+  reform_vote_approval_id_1: "[?parl_voting_approval_array^1|%1]"
+  reform_vote_approval_id_2: "[?parl_voting_approval_array^2|%1]"
+  reform_vote_approval_id_3: "[?parl_voting_approval_array^3|%1]"
+  reform_vote_approval_id_4: "[?parl_voting_approval_array^4|%1]"
+  reform_vote_approval_id_5: "[?parl_voting_approval_array^5|%1]"
+  reform_vote_approval_id_6: "[?parl_voting_approval_array^6|%1]"
+  reform_vote_approval_id_7: "[?parl_voting_approval_array^7|%1]"
+  reform_vote_approval_id_8: "[?parl_voting_approval_array^8|%1]"
+
+  EOANB_RAD_SOC_PARTY_INFO: "Партийные вопросы §YРадикальных Социалистов§!: \n    Культурная политика : §Y[Root.GetRadSocCulturalIssue]§!\n    Экономическая политика : §Y[Root.GetRadSocEconomicIssue]§!\n    Демографическая политика : §Y[Root.GetRadSocDemographicIssue]§!\n    Военная политика : §Y[Root.GetRadSocWarIssue]§!" 
+  EOANB_SOC_LIB_PARTY_INFO: "Партийные вопросы §YСоциал-Либералистов§!: \n    Культурная политика : §Y[Root.GetSocLibCulturalIssue]§!\n    Экономическая политика : §Y[Root.GetSocLibEconomicIssue]§!\n    Демографическая политика : §Y[Root.GetSocLibDemographicIssue]§!\n    Военная политика : §Y[Root.GetSocLibWarIssue]§!" 
+  EOANB_SOC_EGA_PARTY_INFO: "Партийные вопросы §YСоциал-Эгалитаристов§! \n Культурная политика : §Y[Root.GetSocEgaCulturalIssue]§!\n Экономическая политика : §Y[Root.GetSocEgaEconomicIssue]§!\n Демографическая политика : §Y[Root.GetSocEgaDemographicIssue]§!\n Военная политика : §Y[Root.GetSocEgaWarIssue]§!"
+  EOANB_CEN_PARTY_INFO: "Партийные вопросы §YЦентристов§! \n Культурная политика : §Y[Root.GetCenCulturalIssue]§!\n Экономическая политика : §Y[Root.GetCenEconomicIssue]§!\n Демографическая политика : §Y[Root.GetCenDemographicIssue]§!\n Военная политика : §Y[Root.GetCenWarIssue]§!"
+  EOANB_TRA_CON_PARTY_INFO: "Партийные вопросы §YТрадиционных Консерваторов§! \n Культурная политика : §Y[Root.GetTraConCulturalIssue]§!\n Экономическая политика : §Y[Root.GetTraConEconomicIssue]§!\n Демографическая политика : §Y[Root.GetTraConDemographicIssue]§!\n Военная политика : §Y[Root.GetTraConWarIssue]§!"
+  EOANB_RAD_DEM_PARTY_INFO: "Партийные вопросы §YРадикальных Демократов§! \n Культурная политика : §Y[Root.GetRadDemCulturalIssue]§!\n Экономическая политика : §Y[Root.GetRadDemEconomicIssue]§!\n Демографическая политика : §Y[Root.GetRadDemDemographicIssue]§!\n Военная политика : §Y[Root.GetRadDemWarIssue]§!"
+  EOANB_CHAUV_POP_PARTY_INFO: "Партийные вопросы §YШовинистов-популистов§! \n Культурная политика : §Y[Root.GetChauvPopCulturalIssue]§!\n Экономическая политика : §Y[Root.GetChauvPopEconomicIssue]§!\n Демографическая политика : §Y[Root.GetChauvPopDemographicIssue]§!\n Военная политика : §Y[Root.GetChauvPopWarIssue]§!"
+  EOANB_AUT_PARTY_INFO: "Партийные вопросы §YАвтократов§! \n Культурная политика : §Y[Root.GetAutCulturalIssue]§!\n Экономическая политика : §Y[Root.GetAutEconomicIssue]§!\n Демографическая политика : §Y[Root.GetAutDemographicIssue]§!\n Военная политика : §Y[Root.GetAutWarIssue]§!"
+  EOANB_FUN_PARTY_INFO: "Партийные вопросы §YФундаменталистов§! \n Культурная политика : §Y[Root.GetFunCulturalIssue]§!\n Экономическая политика : §Y[Root.GetFunEconomicIssue]§!\n Демографическая политика : §Y[Root.GetFunDemographicIssue]§!\n Военная политика : §Y[Root.GetFunWarIssue]§!"
+
+  EOANB_REFORM_BUTTON: "§YРеформировать§! нашу страну \n\nОткрыть окно для изменения и голосования законов и политики, принятых в отношении нации. Это единственный способ изменить их в демократическом обществе, и голосование остается на усмотрение парламента, но, конечно, вы можете повлиять на эти голоса, потратив немного §YЛегитимности§Y".
+  EOANB_CALL_ELECTION_BUTTON: "Вызвать §YВыборы§! \n\nВызывайте немедленные внеочередные выборы, чтобы перераспределить места в парламенте. Это рискованное политическое действие, но его можно использовать, чтобы извлечь выгоду из особенно хорошего, но, вероятно, эфемерного политического климата. \n--------------\n§R-50§! Законодательная власть\n§R-10%§! Легитимность"
+
+  colonial_government: "Колониальное правительство"
+
+ court: "Судебные законы"
+ kangaroo_court: "Суд кенгуру"
+ kangaroo_court_desc: "В этой стране неорганизованные и очень несправедливые суды. Это приводит к тому, что многие невиновные казнены, заключены в тюрьму или даже подвергаются пыткам."
+ biased_courtroom: "Предвзятый зал суда"
+ biased_courtroom_desc: "В этой стране хорошо работают суды, но закон можно трактовать очень широко. Это приводит к несправедливости, когда элита не может быть ни в чем обвинена из-за своих высококвалифицированных адвокатов, но низший класс не может иметь адвокатов."
+ high_judge_courtroom: "Зал заседаний Верховного судьи"
+ high_judge_courtroom_desc: "В этой стране есть верховные судьи, которые обычно являются честными людьми. Они могут судить любое дело, однако, они очень заняты, и человек может долго ждать слушания".
+ quasi_jury_court: "Квази-суд присяжных"
+ quasi_jury_court_desc: "В этой стране есть присяжные, которые являются юристами, избранными для работы в суде. Они могут вынести вердикт о том, виновен подсудимый или нет, но наказание или освобождение все равно зависит от решения главного судьи."
+ jury_court: "Суд присяжных"
+ jury_court_desc: "В этой стране есть присяжные, которые являются адвокатами, избранными для работы в суде. Они могут вынести вердикт о том, виновен подсудимый или нет, и наказание или освобождение полностью зависит от их решения."
+
+ political_parties: "Законы о политических партиях"
+ pp_open_politics: "Открытая политика"
+ pp_open_politics_desc: "В этой стране нет ограничений для политических партий."
+ pp_ban_extremist_parties: "Запретить экстремистские партии"
+ pp_ban_extremist_parties_desc: "В этой стране нет никаких ограничений для политических партий, кроме запрета экстремистских".
+ pp_limited_party_freedom: "Ограниченная свобода партий"
+ pp_limited_party_freedom_desc: "В этой стране есть жесткие ограничения для всех политических партий".
+ pp_underground_parties: "Подпольные партии"
+ pp_underground_parties_desc: "В этой стране запрещены все политические партии".
+
+ internal_budget: "Законы о внутреннем бюджете"
+
+ healthcare: "Поддержка здравоохранения"
+ hc_no_healthcare: "Нет здравоохранения"
+ hc_no_healtchare_desc: "В этой стране нет официального здравоохранения для населения".
+ hc_low_healthcare: "Низкий уровень здравоохранения"
+ hc_low_healthcare_desc: "Эта страна предлагает примитивное и дорогое здравоохранение для населения". \n\n§GКапиталистические§! и §GПрогрессивные§! партии поддерживают это, §RКонсервативные§! и §RЭкономные§! партии выступают против этого."
+ hc_decent_healthcare: "Достойное здравоохранение"
+ hc_decent_healthcare_desc: "Эта страна предлагает достойное и научное здравоохранение для населения. \n\n§GКапиталистические§! и §GПрогрессивные§! партии поддерживают это, §RКонсервативные§! и §RЭкономные§! партии выступают против этого."
+ hc_good_healthcare: "Хорошее здравоохранение"
+ hc_good_healthcare_desc: "Эта страна предлагает хорошее, современное здравоохранение для населения. \n\n§GКапиталистические§! и §GПрогрессивные§! партии поддерживают это, §RКонсервативные§! и §RЭкономные§! партии выступают против этого."
+ hc_excellent_healthcare: "Отличное здравоохранение"
+ hc_excellent_healthcare_desc: "Эта страна предлагает отличное и доступное здравоохранение для населения. \n\n§GКапиталистические§! и §GПрогрессивные§! партии поддерживают это, §RКонсервативные§! и §RЭкономные§! партии выступают против этого."
+
+ law_and_order: "Закон и порядок"
+ law_communal_policing: "Общинная полиция"
+ law_communal_policing_desc: "Эта страна имеет форму децентрализованной организованной полиции, где люди сами себя охраняют в своей собственной форме коммунальной полиции."
+ law_no_organized_force: "Нет организованных сил"
+ law_no_organized_force_desc: "В этой стране нет организованных полков охраны правопорядка".
+ law_mercenary_groups: "Группы наемников"
+ law_mercenary_groups_desc: "В этой стране есть организованные полки правоохранительных органов, полностью укомплектованные наемниками".
+ law_military_police_force: "Военная полиция"
+ law_military_police_force_desc: "В этой стране есть организованные полки правоохранительных органов, полностью укомплектованные солдатами".
+ law_paramilitary_police_force: "Военизированные полицейские силы"
+ law_paramilitary_police_force_desc: "В этой стране организованы полки правоохранительных органов, укомплектованные как солдатами, так и полицейскими."
+ law_police_force: "Полицейские силы"
+ law_police_force_desc: "В этой стране есть организованные полки правоохранительных органов, полностью укомплектованные полицейскими".
+
+ road_maintenance: "Поддержка содержания дорог"
+
+ inframain_no_subsidies_infrastructure: "Нет технического обслуживания"
+ inframain_no_subsidies_infrastructure_desc: "Эта страна не субсидирует и не ремонтирует свою инфраструктуру."
+ inframain_basic_maintenance_infrastructure: "Базовое обслуживание"
+ inframain_basic_maintenance_infrastructure_desc: "Эта страна несколько субсидирует строительство и ремонт инфраструктуры. Процент современной инфраструктуры составляет 15%."
+ inframain_well_maintaned_infrastructure: "Хорошо поддерживается"
+ inframain_well_maintaned_infrastructure_desc: "Эта страна субсидирует строительство и ремонт инфраструктуры. Процент современной инфраструктуры составляет 30%."
+ inframain_steady_network_expansion: "Расширение сети"
+ inframain_steady_network_expansion_desc: "Эта страна сильно субсидирует строительство и ремонт инфраструктуры. Процент современной инфраструктуры составляет 45%."
+ inframain_rapid_network_expansion: "Быстрое расширение".
+ inframain_rapid_network_expansion_desc: "Эта страна субсидирует строительство и ремонт инфраструктуры в невероятных размерах. Процент современной инфраструктуры составляет 60%."
+
+ naval_infrastructure: "Поддержка военно-морской инфраструктуры"
+
+ navinfra_no_naval_infrastructure: "Нет военно-морской инфраструктуры"
+ navinfra_no_naval_infrastructure_desc: "Эта страна не субсидирует и не ремонтирует свою военно-морскую инфраструктуру."
+ navinfra_low_naval_infrastructure: "Базовая инфраструктура"
+ navinfra_low_naval_infrastructure_desc: "Эта страна несколько субсидирует свою военно-морскую инфраструктуру и ремонт. Флот поддерживается на низком уровне".
+ navinfra_decent_naval_infrastructure: "Приличная инфраструктура".
+ navinfra_decent_naval_infrastructure_desc: "Эта страна субсидирует свою военно-морскую инфраструктуру и ремонт. Флот поддерживается на достойном уровне".
+ navinfra_good_naval_infrastructure: "Хорошая инфраструктура".
+ navinfra_good_naval_infrastructure_desc: "Эта страна много субсидирует свою военно-морскую инфраструктуру и ремонт. Флот поддерживается на высоком уровне".
+ navinfra_excellent_naval_infrastructure: "Отличная инфраструктура".
+ navinfra_excellent_naval_infrastructure_desc: "Эта страна субсидирует свою военно-морскую инфраструктуру и ремонт в невероятно больших объемах. Флот поддерживается на самом высоком уровне".
+
+
+ scientific_funding: "Финансирование научных исследований"
+ sfund_private_ventures_only: "Только частные предприятия"
+ sfund_private_ventures_only_desc: "Эта страна вообще не субсидирует научные исследования".
+
+ parliament_name_1: "Парламент"
+ parliament_name_2: "Совет"
+ parliament_name_3: "Ассамблея"
+ parliament_name_4: "Сенат"
+ parliament_name_5: "Центральный комитет"
+ parliament_name_6: "Государственный Совет"
+ parliament_name_7: "Революционный совет"
+ parliament_name_8: "Верховное командование"
+ parliament_name_9: "Правительственная хунта"
+ parliament_name_10: "Децентрализованное правительство"
+ parliament_name_11: "Колониальная ассамблея"
+
+  government_system_loc_1: "Конституционная монархия"
+  government_system_loc_2: "Парламентская монархия"
+  government_system_loc_3: "Парламентская республика"
+  government_system_loc_4: "Абсолютная монархия"
+  government_system_loc_5: "Вольный город"
+  government_system_loc_6: "Полупрезидентская республика"
+  government_system_loc_7: "Президентская республика"
+  government_system_loc_8: "Социалистическая республика"
+  government_system_loc_9: "Социалистическое государство"
+  government_system_loc_10: "Революционное правительство"
+  government_system_loc_11: "Тоталитарная диктатура"
+  government_system_loc_12: "Военная хунта"
+  government_system_loc_13: "Анархия"
+  government_system_loc_14: "Колониальное правительство"
+
+  ideology_adjective_1: "Авангардно Коммунистическая"
+  ideology_adjective_2: "Коллективистско Социалистическая"
+  ideology_adjective_3: "Социал-Эгалитарная"
+  ideology_adjective_4: "Центристская"
+  ideology_adjective_5: "Традиционно Консервативная"
+  ideology_adjective_6: "Радикально Демократичная"
+  ideology_adjective_7: "Автократическая"
+  ideology_adjective_8: "Шовинисто-Популистическая"
+  ideology_adjective_9: "Фундаменталистическая"
+  ideology_adjective_10: "Анархическая"
+
+  ideology_adjective_short_1: "Коммунистическая"
+  ideology_adjective_short_2: "Социалистическая"
+  ideology_adjective_short_3: "Эгалитарный"
+  ideology_adjective_short_4: "Центристская"
+  ideology_adjective_short_5: "Консервативная"
+  ideology_adjective_short_6: "Радикальная"
+  ideology_adjective_short_7: "Автократическая"
+  ideology_adjective_short_8: "Националистическая"
+  ideology_adjective_short_9: "Фундаменталистическая"
+  ideology_adjective_short_10: "Анархическая"
+
+  ideology_adjective_plural_1: "Авангардно Коммунистические"
+  ideology_adjective_plural_2: "Коллективистско социалистические"
+  ideology_adjective_plural_3: "Социал-эгалитаристские"
+  ideology_adjective_plural_4: "Центристские"
+  ideology_adjective_plural_5: "Традиционно консервативные"
+  ideology_adjective_plural_6: "Радикально демократичные"
+  ideology_adjective_plural_7: "Автократические"
+  ideology_adjective_plural_8: "Шовинисто-популистические"
+  ideology_adjective_plural_9: "Фундаменталистические"
+  ideology_adjective_plural_10: "Анархические"
+
+  ideology_adjective_plural_coalition_1: "§GАвангардно Коммунистические§!"
+  ideology_adjective_plural_coalition_2: "§GКоллективистско социалистические§!"
+  ideology_adjective_plural_coalition_3: "§GСоциал-эгалитаристские§!"
+  ideology_adjective_plural_coalition_4: "§GЦентристские§!"
+  ideology_adjective_plural_coalition_5: "§GТрадиционно консервативные§!"
+  ideology_adjective_plural_coalition_6: "§GРадикально демократичные§!"
+  ideology_adjective_plural_coalition_7: "§GАвтократические§!"
+  ideology_adjective_plural_coalition_8: "§GШовинисто-популистические§!"
+  ideology_adjective_plural_coalition_9: "§GФундаменталистические§!"
+  ideology_adjective_plural_coalition_10: "§GАнархические§!"
+
+  ideology_adjective_plural_opposition_1: "§YАвангардно Коммунистические§!"
+  ideology_adjective_plural_opposition_2: "§YКоллективистско социалистические§!"
+  ideology_adjective_plural_opposition_3: "§YСоциал-эгалитаристские§!"
+  ideology_adjective_plural_opposition_4: "§YЦентристские§!"
+  ideology_adjective_plural_opposition_5: "§YТрадиционно консервативные§!"
+  ideology_adjective_plural_opposition_6: "§YРадикально демократичные§!"
+  ideology_adjective_plural_opposition_7: "§YАвтократические§!"
+  ideology_adjective_plural_opposition_8: "§YШовинисто-популистические§!"
+  ideology_adjective_plural_opposition_9: "§YФундаменталистические§!"
+  ideology_adjective_plural_opposition_10: "§YАнархические§!"
+
+  ideology_adjective_plural_banned_1: "§RАвангардно Коммунистические§!"
+  ideology_adjective_plural_banned_2: "§RКоллективистско социалистические§!"
+  ideology_adjective_plural_banned_3: "§RСоциал-эгалитаристские§!"
+  ideology_adjective_plural_banned_4: "§RЦентристские§!"
+  ideology_adjective_plural_banned_5: "§RТрадиционно консервативные§!"
+  ideology_adjective_plural_banned_6: "§RРадикально демократичные§!"
+  ideology_adjective_plural_banned_7: "§RАвтократические§!"
+  ideology_adjective_plural_banned_8: "§RШовинисто-популистические§!"
+  ideology_adjective_plural_banned_9: "§RФундаменталистические§!"
+  ideology_adjective_plural_banned_10: "§RАнархические§!"
+
+  ideology_adjective_plural_unorg_1: "§gАвангардно Коммунистические§!"
+  ideology_adjective_plural_unorg_2: "§gКоллективистско социалистические§!"
+  ideology_adjective_plural_unorg_3: "§gСоциал-эгалитаристские§!"
+  ideology_adjective_plural_unorg_4: "§gЦентристские§!"
+  ideology_adjective_plural_unorg_5: "§gТрадиционно консервативные§!"
+  ideology_adjective_plural_unorg_6: "§gРадикально демократичные§!"
+  ideology_adjective_plural_unorg_7: "§gАвтократические§!"
+  ideology_adjective_plural_unorg_8: "§gШовинисто-популистические§!"
+  ideology_adjective_plural_unorg_9: "§gФундаменталистические§!"
+  ideology_adjective_plural_unorg_10: "§GАнархические§!"
+
+  var_issue_culture_1: "Реакционер"
+  var_issue_culture_2: "Консерватор"
+  var_issue_culture_3: "Либерал"
+  var_issue_culture_4: "Прогрессивист"
+
+  var_issue_economy_1: "Свободный экономист"
+  var_issue_economy_2: "Интервенционист"
+  var_issue_economy_3: "Государственный капиталист"
+  var_issue_economy_4: "Плановый экономист"
+
+  var_issue_demography_1: "Аристократ"
+  var_issue_demography_2: "Элитар"
+  var_issue_demography_3: "Фаворитист"
+  var_issue_demography_4: "Эгалитар"
+
+  var_issue_war_policies_1: "Джингоист"
+  var_issue_war_policies_2: "Промилитарист"
+  var_issue_war_policies_3: "Антимилитарист"
+  var_issue_war_policies_4: "Пацифист"
+
+  reform_name_0: "Закон "Я - ОШИБКА""
+
+  reform_name_1_1: "Закон об атеистическом государстве от [GetYear]"
+  reform_name_1_2: "Закон о лаиците от [GetYear]"
+  reform_name_1_3: "Закон о государственной религии от [GetYear]"
+  reform_name_1_4: "Закон "Бог превыше всего" от [GetYear]"
+
+  reform_name_2_1: "Закон об устной традиции от [GetYear]"
+  reform_name_2_2: "Закон об образовании для богатых от [GetYear]"
+  reform_name_2_3: "Закон о школе для всех от [GetYear]"
+  reform_name_2_4: "Закон об обязательной школе от [GetYear]".
+
+  reform_name_3_1: "Закон о государственной прессе от [GetYear]"
+  reform_name_3_2: "Закон о цензурированной прессе"
+  reform_name_3_3: "Закон о свободной прессе от [GetYear]"
+
+  reform_name_4_1: "Закон "О мире на наших улицах" от [GetYear]"
+  reform_name_4_2: "Закон о государственных собраниях от [GetYear]"
+  reform_name_4_3: "Закон об ограничении собраний от [GetYear]".
+  reform_name_4_4: "Закон об одобренных собраниях от [GetYear]"
+  reform_name_4_5: "Закон о свободе собраний от [GetYear]"
+
+  reform_name_5_1: "Закон о правах промышленников от [GetYear]"
+  reform_name_5_2: "Закон о профсоюзах под контролем государства от [GetYear]"
+  reform_name_5_3: "Закон о нейтральных профсоюзах от [GetYear]"
+  reform_name_5_4: "Закон о свободных профсоюзах от [GetYear]"
+  reform_name_5_5: "Закон о власти профсоюзов от [GetYear]"
+
+  reform_name_6_1: "Закон о народном правосудии от [GetYear]"
+  reform_name_6_2: "Закон о государственной судебной палате от [GetYear]"
+  reform_name_6_3: "Закон о верховном судье от [GetYear]"
+  reform_name_6_4: "Закон о квазиприсяжных от [GetYear]"
+  reform_name_6_5: "Закон о суде присяжных от [GetYear]"
+
+  reform_name_7_1: "Закон о свободной торговле от [GetYear]"
+  reform_name_7_2: "Закон о свободном экспорте от [GetYear]"
+  reform_name_7_3: "Закон о регулировании экспорта от [GetYear]"
+  reform_name_7_4: "Закон об экономической изоляции от [GetYear]"
+
+  reform_name_8_1: "Закон о налогах на богатство от [GetYear]"
+  reform_name_8_2: "Закон о высоких налогах от [GetYear]"
+  reform_name_8_3: "Закон о справедливых налогах от [GetYear]"
+  reform_name_8_4: "Закон о доступных налогах от [GetYear]"
+  reform_name_8_5: "Закон о налоговом рае от [GetYear]"
+
+  reform_name_9_1: "Закон "Работа для молодых" от [GetYear]"
+  reform_name_9_2: "Закон о регулируемом возрасте работы от [GetYear]"
+  reform_name_9_3: "Закон "Ни одного ребенка на фабриках" от [GetYear]".
+
+  reform_name_10_1: "Закон о Дне либертарианства от [GetYear]"
+  reform_name_10_2: "Закон о 14-часовом дне от [GetYear]"
+  reform_name_10_3: "Закон о 12-часовом дне от [GetYear]"
+  reform_name_10_4: "Закон о 10-часовом дне от [GetYear]"
+  reform_name_10_5: "Закон о 8-часовом дне от [GetYear]"
+
+  reform_name_11_1: "Феодальный закон от [GetYear]"
+  reform_name_11_2: "Закон о поместьях от [GetYear]"
+  reform_name_11_3: "Закон о собственности от [GetYear]"
+  reform_name_11_4: "Закон о крестьянских владениях от [GetYear]"
+  reform_name_11_5: "Закон "Без собственности" от [GetYear]"
+
+  reform_name_12_1: "Закон о военном бюджете от [GetYear]"
+  reform_name_12_2: "Закон о военном бюджете от [GetYear]"
+  reform_name_12_3: "Закон о военном бюджете от [GetYear]"
+  reform_name_12_4: "Закон о военном бюджете от [GetYear]"
+  reform_name_12_5: "Закон о военном бюджете от [GetYear]"
+
+  reform_name_13_1: "Закон о расширенной семье от [GetYear]"
+  reform_name_13_2: "Закон о большой семье от [GetYear]"
+  reform_name_13_3: "Закон о семье от [GetYear]"
+  reform_name_13_4: "Закон о политике в отношении двух детей от [GetYear]"
+  reform_name_13_5: "Закон о политике в отношении одного ребенка от [GetYear]"
+
+  reform_name_14_1: "Закон о безопасной границе от [GetYear]"
+  reform_name_14_2: "Закон о контролируемой границе от [GetYear]"
+  reform_name_14_3: "Закон об открытой границе от [GetYear]"
+  reform_name_14_4: "Закон о свободе передвижения от [GetYear]"
+
+  reform_name_15_1: "Закон о традиционном рабстве от [GetYear]"
+  reform_name_15_2: "Закон о рабстве от [GetYear]"
+  reform_name_15_3: "Закон о человеческой собственности от [GetYear]"
+  reform_name_15_4: "Закон о гражданстве от [GetYear]"
+  reform_name_15_5: "Закон о сегрегации от [GetYear]"
+  reform_name_15_6: "Закон о равенстве от [GetYear]"
+  reform_name_15_7: "Закон о всеобщем равенстве от [GetYear]"
+
+  reform_name_16_1: "Закон о разоружении от [GetYear]"
+  reform_name_16_2: "Закон о добровольцах от [GetYear]"
+  reform_name_16_3: "Закон о воинской повинности от [GetYear]"
+  reform_name_16_4: "Закон о призыве от [GetYear]"
+  reform_name_16_5: "Закон о всеобщей мобилизации от [GetYear]"
+  reform_name_16_6: "Закон о всеобщей мобилизации от [GetYear]"
+  reform_name_16_7: "Закон об окончательной борьбе от [GetYear]"
+
+  reform_name_17_1: "Закон правителя от [GetYear]"
+  reform_name_17_2: "Закон о парламентском голосовании от [GetYear]"
+  reform_name_17_3: "Закон о голосовании владельцев собственности от [GetYear]"
+  reform_name_17_4: "Закон о всеобщем мужском избирательном праве от [GetYear]"
+  reform_name_17_5: "Закон о всеобщем избирательном праве от [GetYear]"
+
+  reform_name_18_1: "Закон об открытой политике от [GetYear]"
+  reform_name_18_2: "Закон о борьбе с экстремизмом от [GetYear]"
+  reform_name_18_3: "Закон о партийном регулировании голосования от [GetYear]"
+  reform_name_18_4: "Закон о единой партии от [GetYear]"
+
+  reform_name_19_1: "Закон "Нет здравоохранению" от [GetYear]"
+  reform_name_19_2: "Закон о бюджете здравоохранения от [GetYear]"
+  reform_name_19_3: "Закон о бюджете на здравоохранение от [GetYear]"
+  reform_name_19_4: "Закон о бюджете на здравоохранение от [GetYear]"
+  reform_name_19_5: "Закон о бюджете на здравоохранение от [GetYear]"
+
+  reform_name_20_1: "Закон о приватизации полиции от [GetYear]"
+  reform_name_20_2: "Закон о наемниках от [GetYear]"
+  reform_name_20_3: "Закон о военной полиции от [GetYear]"
+  reform_name_20_4: "Закон о военизированной полиции от [GetYear]"
+  reform_name_20_5: "Закон о полиции от [GetYear]".
+
+  reform_name_21_1: "Закон о приватизации инфраструктуры от [GetYear]"
+  reform_name_21_2: "Закон о бюджете инфраструктуры от [GetYear]"
+  reform_name_21_3: "Закон о бюджете инфраструктуры от [GetYear]"
+  reform_name_21_4: "Закон о расширении сети от [GetYear]"
+  reform_name_21_5: "Закон о расширении сети от [GetYear]"
+
+  reform_name_22_1: "Закон о приватизации ВМС от [GetYear]"
+  reform_name_22_2: "Закон о бюджете инфраструктуры ВМС от [GetYear]"
+  reform_name_22_3: "Закон о бюджете инфраструктуры ВМС от [GetYear]"
+  reform_name_22_4: "Закон о бюджете на военно-морскую инфраструктуру от [GetYear]"
+  reform_name_22_5: "Закон о бюджете на военно-морскую инфраструктуру от [GetYear]"
+
+  reform_name_23_1: "Закон о ненарушенной изоляции от [GetYear]"
+  reform_name_23_2: "Закон об экономической изоляции от [GetYear]"
+  reform_name_23_3: "Гражданский закон от [GetYear]"
+  reform_name_23_4: "Закон об экономической мобилизации от [GetYear]"
+  reform_name_23_5: "Закон об экономической мобилизации от [GetYear]"
+  reform_name_23_6: "Закон о военной экономике от [GetYear]"
+  reform_name_23_7: "Закон о тотальной войне от [GetYear]"
+
+  reform_name_24_1: "Закон о частных предприятиях от [GetYear]"
+  reform_name_24_2: "Закон о финансировании науки от [GetYear]"
+  reform_name_24_3: "Закон о финансировании науки от [GetYear]"
+  reform_name_24_4: "Закон о финансировании науки от [GetYear]"
+
+  #Prussian Custom Votes 
+  reform_name_25_1: "Прусский закон об избирательных правах от [GetYear]"
+  reform_name_25_2: "Закон об ответственности министров от [GetYear]"
+  reform_name_25_3: "Принятие новой конституции"
+  reform_name_25_4: "Парламентское одобрение англо-прусского военно-морского договора"
+  reform_name_25_5: "Закон о прусской торговле и тарифах от [GetYear]"
+  reform_name_25_6: "Пятилетний закон от [GetYear]"
+  reform_name_25_7: "Принятие прусского конституционализма"
+  reform_name_25_8: "Закон о прусской торговле и тарифах от [GetYear]"
+
+  #Danish Custom Votes 
+  reform_name_26_3: "Закон о военно-морском порте Холмен от [GetYear]"
+  reform_name_26_4: "Закон о дублировании пехотных батальонов военного времени от [GetYear]"
+  reform_name_26_5: "Закон Дании о воинской повинности от [GetYear]"
+  reform_name_26_6: "Закон о бюджете датской армии от [GetYear]"
+  reform_name_26_7: "Закон о бюджете военно-морского флота Дании от [GetYear]"
+  reform_name_26_8: "Закон об освобождении крестьян от [GetYear]"
+  reform_name_26_9: "Закон о применении закона о свободе торговли от 1857 года"
+  reform_name_26_10: "Защита гельштатов"
+
+  #Scandinavian Custom Votes 
+  reform_name_27_1: "Ратификация договора о валютном союзе"
+
+  parl_rad_soc_meet_party_leaders: "Встреча с представителями Радикального социализма" 
+  parl_soc_lib_meet_party_leaders: "Встреча с представителями Социального либерализма" 
+  parl_soc_ega_meet_party_leaders: "Встреча с представителями Социального эгалитаризма"
+  parl_cen_meet_party_leaders: "Встреча с представителями Центристов"
+  parl_tra_con_meet_party_leaders: "Встреча с представителями Традиционных консерваторов"
+  parl_rad_dem_meet_party_leaders: "Встреча с представителями Радикальных демократов"
+  parl_aut_meet_party_leaders: "Встреча с представителями Автократов"
+  parl_chauv_pop_meet_party_leaders: "Встреча с представителями Шовинистов-популистов".
+  parl_fun_meet_party_leaders: "Встреча с представителями Фундаменталистской партии"
+
+  parl_make_speech_in_parliament: "Выступить с речью в парламенте"
+  parl_make_political_deals: "Заключать политические сделки"
+  parl_convince_opposition_leaders: "Убедить лидеров оппозиции"
+  parl_pressure_the_lobbies: "Давить на лобби".
+  parl_talk_with_the_unions: "Поговорить с профсоюзами"
+  parl_buy_out_politicians: "Выкупать политиков"
+  parl_silence_out_opponants: "Заставить замолчать противников".
+  parl_propose_compromises: "Находить компромиссы"
+
+  parl_vote_for_the_reform: "Обратный отсчет до голосования".
+
+  parl_meeting_small_boost_tt: "Это действие будет наиболее эффективным для §Y-партий на заборе§!, но, скорее всего, не будет очень эффективным для партий со §Rстойким§! мнением".
+  parl_speech_boost_tt: "Это действие повысит одобрение партий в §GВашей коалиции§! или без принадлежности, но снизит одобрение партий в §RОппозиции§!".
+  parl_political_deals_tt: "Это действие даст небольшой толчок к одобрению партий §YБез аффилиации§!, но с недостатком в виде снижения §YПолитического веса§! §YВашей партии§!".
+  parl_convince_opposition_leaders_tt: "Это действие увеличит одобрение партий в §RОппозиции§! Однако это увеличит §YПолитический вес§! этих партий".
+parl_pressure_the_lobbies_leaders_tt: "Это действие §GОчень§! увеличит одобрение партий, которые верят в §YLaissez-Faire§! и §YГосударственно-капиталистическую§! экономику, но уменьшит ваш §Yполитический вес§!".
+parl_talk_with_the_unions_tt: "Это действие §GОчень§! увеличит одобрение партий, которые верят в §YИнтервенционизм§! и §ҮПлановую экономику§!, но уменьшит ваш §Үполитический вес§!".
+  parl_buy_out_politicians_tt: ""
+  parl_silence_out_opponants_tt: "Это действие увеличит одобрение партий в §RОппозиции§! или без принадлежности, но уменьшит вашу §YЛегитимность§! и повредит §YСтабильности нашей политической системы§!".
+  parl_propose_compromises_tt: "Это действие §Gувеличит§! одобрение партий с §Yнизким§! одобрением, но §Rуменьшит§! одобрение партий с §Yвысоким§! одобрением".
+
+  parl_political_action_in_progress: "Любое политическое действие в процессе"
+
+  parliament_vote.0.t: "Результаты голосования"
+  parliament_vote.0.d: "Сегодня день, когда правительство принимает решение о будущем [Root.GetCurrentVotedReform]. Все члены различных представленных партий проголосовали за то, что, по их мнению, является правильным путем вперед для нашей страны. Нравится нам результат или нет, но это голосование является отражением воли наших избирателей.\n\nПосле тщательного подсчета всех голосов, окончательные результаты таковы:\n Ура: [?yay_votes] \n Нет : [?nay_votes]".
+  parliament_vote.0.a: "Это успех!"
+  parliament_vote.0.b: "Это провал..."
+  parliament_vote.0.c: "Это как-то хуже, чем провал"
+
+  parliament_vote.100.t: "Правительство предлагает [Root.GetCurrentVotedReform]"
+  parliament_vote.100.a: "Давайте проголосуем через месяц"
+  parliament_vote.100.b: "Это срочно, голосуйте немедленно"
+  parliament_vote.100.c: "Откажитесь от этой идеи"
+
+  parliament_seats.1.t: "Установление стартовых весов"
+  parliament_seats.1.d: ""
+  parliament_seats.1.a: "Ок"
+
+#parliament_seats.2.t: "Seats GFX"
+#parliament_seats.2.d:0 ""
+#parliament_seats.2.a:0 "Fancy"
+
+#parliament_seats.2.t: "Seats GFX"
+#parliament_seats.2.d:0 ""
+#parliament_seats.2.a:0 "Fancy"
+
+  parliament_seats.2.t: "Постановка партийных вопросов"
+  parliament_seats.2.d: ""
+  parliament_seats.2.a: "#politics"
+
+  parliament_election.1.t: "Выборы лидера"
+  parliament_election.1.d: ""
+  parliament_election.1.a: "Авангардный коммунист"
+  parliament_election.1.b: "Коллективистский социалист"
+  parliament_election.1.c: "Социальный эгалитарист"
+  parliament_election.1.e: "Центрист"
+  parliament_election.1.f: "Традиционный консерватор"
+  parliament_election.1.g: "Радикальная демократ"
+  parliament_election.1.h: "Шовинист-популист"
+  parliament_election.1.i: "Автократ"
+
+  eoanb_decision_legitimize_military_austerity_victorian: "Доказать военную доблесть"
+  eoanb_decision_gather_legitimacy_victorian: "Добиваться политической легитимности"
+
+  reform_screen_disabled_for_government_flag: "Правительство государства §b[THIS.GetNameDef]§! заинтересовано в динамической реформе"

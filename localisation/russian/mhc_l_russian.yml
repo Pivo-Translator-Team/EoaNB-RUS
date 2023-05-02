@@ -1,0 +1,647 @@
+﻿l_russian:
+ ###LABELS### #NT!
+ MHC_LABEL: "Высшее военное командование"
+ MHC_ARMY_LABEL_PROXY: "[MHC_ORG_INDICATOR_ARMY]"
+ MHC_ARMY_LABEL: "Армия"
+ MHC_ARMY_LABEL_RED: "§RАрмия§!"
+ MHC_NAVY_LABEL_PROXY: "[MHC_ORG_INDICATOR_NAVY]"
+ MHC_NAVY_LABEL: "ВМС"
+ MHC_NAVY_LABEL_RED: "§RВМС§!"
+ MHC_AIR_LABEL_PROXY: "[MHC_ORG_INDICATOR_AIRFORCE]"
+ MHC_AIR_LABEL: "ВВС"
+ MHC_AIR_LABEL_RED: "§RВВС§!"
+ MHC_SELECTOR_LABEL: "[MHC_SELECTOR_CURRENT_LABEL]"
+ MHC_SELECTOR_LABEL_UNDER: "Выберите §Y[MHC_SELECTOR_CURRENT_TYPE]§!".
+
+ MHC_DEFAULT_LABEL: "Обзор"
+ MHC_DETAIL_LABEL: "Офицеры"
+
+ MHC_ARMY_SEC_LABEL: "Мин. Войны ([?mhc_sec_power])"
+ MHC_ARMY_SEC_LABEL_ACTIVE: "§YМин. Войны ([?mhc_sec_power])§!".
+ MHC_ARMY_SEC_ACTIVATOR_LABEL_PROXY: "[MHC_ARMY_SEC_ACTIVATOR_LABEL]"
+ MHC_ARMY_CHIEF_LABEL: "Шеф армии ([?mhc_chief_power])"
+ MHC_ARMY_CHIEF_LABEL_ACTIVE: "§YШеф армии ([?mhc_chief_power])§!".
+ MHC_ARMY_CHIEF_ACTIVATOR_LABEL_PROXY: "[MHC_ARMY_CHIEF_ACTIVATOR_LABEL]"
+ MHC_ARMY_VCHIEF_LABEL: "В.Шеф Армии ([?mhc_vchief_power])"
+ MHC_ARMY_VCHIEF_LABEL_ACTIVE: "§YВ.Шеф Армии ([?mhc_vchief_power])§!".
+ MHC_ARMY_VCHIEF_ACTIVATOR_LABEL_PROXY: "[MHC_ARMY_VCHIEF_ACTIVATOR_LABEL]".
+ MHC_ARMY_QUART_LABEL: "Квартермейстер ([?mhc_quart_power])"
+ MHC_ARMY_QUART_LABEL_ACTIVE: "§YКвартермейстер ([?mhc_quart_power])§!".
+ MHC_ARMY_QUART_ACTIVATOR_LABEL_PROXY: "[MHC_ARMY_QUART_ACTIVATOR_LABEL]"
+ MHC_ARMY_PCHIEF_LABEL: "Шеф От.Ком ([?mhc_pchief_power])"
+ MHC_ARMY_PCHIEF_LABEL_ACTIVE: "§YШеф От.Ком ([?mhc_pchief_power])§!"
+ MHC_ARMY_PCHIEF_ACTIVATOR_LABEL_PROXY: "[MHC_ARMY_PCHIEF_ACTIVATOR_LABEL]".
+ MHC_ARMY_INS_LABEL: "Инспектор ([?mhc_ins_power])".
+ MHC_ARMY_INS_LABEL_ACTIVE: "§YИнспектор ([?mhc_ins_power])§!"
+ MHC_ARMY_INS_ACTIVATOR_LABEL_PROXY: "[MHC_ARMY_INS_ACTIVATOR_LABEL]"
+
+ MHC_NAVY_NAS_LABEL: "Сек. ВМС ([?mhc_nas_power])"
+ MHC_NAVY_NAS_LABEL_ACTIVE: "§YСек. ВМС ([?mhc_nas_power])§!".
+ MHC_NAVY_NAS_ACTIVATOR_LABEL_PROXY: "[MHC_NAVY_NAS_ACTIVATOR_LABEL]".
+ MHC_NAVY_NCS_LABEL: "Шеф ВМФ ([?mhc_ncs_power])"
+ MHC_NAVY_NCS_LABEL_ACTIVE: "§YШеф ВМФ ([?mhc_ncs_power])§!".
+ MHC_NAVY_NCS_ACTIVATOR_LABEL_PROXY: "[MHC_NAVY_NCS_ACTIVATOR_LABEL]"
+ MHC_NAVY_NOG_LABEL: "Ген. ВМО. ([?mhc_nog_power])".
+ MHC_NAVY_NOG_LABEL_ACTIVE: "§YГен. ВМО. ([?mhc_nog_power])§!".
+ MHC_NAVY_NOG_ACTIVATOR_LABEL_PROXY: "[MHC_NAVY_NOG_ACTIVATOR_LABEL]"
+ MHC_NAVY_COG_LABEL: "Ген. Прибрежных Оп. ([?mhc_cog_power])".
+ MHC_NAVY_COG_LABEL_ACTIVE: "§YГен. Прибрежных Оп. ([?`])§!".
+ MHC_NAVY_COG_ACTIVATOR_LABEL_PROXY: "[MHC_NAVY_COG_ACTIVATOR_LABEL]"
+ MHC_NAVY_NLG_LABEL: "Ген. логистики ([?mhc_nlg_power])".
+ MHC_NAVY_NLG_LABEL_ACTIVE: "§YГен. логистики ([?mhc_nlg_power])§!"
+ MHC_NAVY_NLG_ACTIVATOR_LABEL_PROXY: "[MHC_NAVY_NLG_ACTIVATOR_LABEL]"
+ MHC_NAVY_MOG_LABEL: "Ген. Морских Оп. ([?mhc_mog_power])".
+ MHC_NAVY_MOG_LABEL_ACTIVE: "§YГен. Морских Оп. ([?mhc_mog_power])§!".
+ MHC_NAVY_MOG_ACTIVATOR_LABEL_PROXY: "[MHC_NAVY_MOG_ACTIVATOR_LABEL]".
+
+ MHC_AIRFORCE_AFC_LABEL: "Сек. ВВС ([?mhc_afc_power])"
+ MHC_AIRFORCE_AFC_LABEL_ACTIVE: "§YСек. ВВС ([?mhc_afc_power])§!".
+ MHC_AIRFORCE_AFC_ACTIVATOR_LABEL_PROXY: "[MHC_AIRFORCE_AFC_ACTIVATOR_LABEL]".
+ MHC_AIRFORCE_ACH_LABEL: "Шеф ВВС ([?mhc_afh_power])".
+ MHC_AIRFORCE_ACH_LABEL_ACTIVE: "§YШеф ВВС ([?mhc_afh_power])§!".
+ MHC_AIRFORCE_ACH_ACTIVATOR_LABEL_PROXY: "[MHC_AIRFORCE_ACH_ACTIVATOR_LABEL]".
+ MHC_AIRFORCE_OPG_LABEL: "Оп. Генерал ([?mhc_opg_power])".
+ MHC_AIRFORCE_OPG_LABEL_ACTIVE: "§YОп. Генерал ([?mhc_opg_power])§!".
+ MHC_AIRFORCE_OPG_ACTIVATOR_LABEL_PROXY: "[MHC_AIRFORCE_OPG_ACTIVATOR_LABEL]".
+ MHC_AIRFORCE_WIC_LABEL: "Ком. Авиакрыльев  ([?mhc_wic_power])".
+ MHC_AIRFORCE_WIC_LABEL_ACTIVE: "§YКом. Авиакрыльев ([?mhc_wic_power])§!".
+ MHC_AIRFORCE_WIC_ACTIVATOR_LABEL_PROXY: "[MHC_AIRFORCE_WIC_ACTIVATOR_LABEL]"
+ MHC_AIRFORCE_SUPC_LABEL: "Ком. Поддержки ([?mhc_supc_power])".
+ MHC_AIRFORCE_SUPC_LABEL_ACTIVE: "§YКом. Поддержки ([?mhc_supc_power])§!".
+ MHC_AIRFORCE_SUPC_ACTIVATOR_LABEL_PROXY: "[MHC_AIRFORCE_SUPC_ACTIVATOR_LABEL]"
+
+ MHC_ACTIVATE_TRATS_LABEL: "Активные позиции"
+ MHC_ACTIVATOR_LABEL_UNDER: "§YАктивировать§! и §YДеактивировать§! позиции"
+
+ MHC_SELECTOR_ENTRY_NAME_PROXY: "[MHC_SELECTOR_ENTRY_NAME]"
+ MHC_SELECTOR_ENTRY_COST_PROXY: "[MHC_SELECTOR_ENTRY_COST]"
+ MHC_SELECTOR_ENTRY_COST_YELLOW: "£pol_power §Y50§!".
+ MHC_SELECTOR_ENTRY_COST_RED: "£pol_power §R50§!"
+ MHC_SELECTOR_ENTRY_COST_FREE: "£pol_power §Y0§!".
+ MHC_SELECTOR_ENTRY_COST_UNDER_YELLOW: "Стоимость (£pol_power ): §Y50§!"
+ MHC_SELECTOR_ENTRY_COST_UNDER_RED: "Стоимость (£pol_power ): §R50§!"
+ MHC_SELECTOR_ENTRY_COST_UNDER_FREE: "Стоимость (£pol_power ): §Y0§!"
+
+ ###TOOLTIPS### #NT!
+ MHC_AIRFORCE_TAB_TOOLTIP: "[!tab_airforce_click_enabled]"
+ MHC_NAVY_TAB_TOOLTIP: "[!tab_navy_click_enabled]"
+ air_force_founded: "ВВС были основаны".
+ naval_command_founded: "Основан флот".
+
+ MHC_tooltip: "§YВерховное военное командование§!\nВы руководите высшим военным составом, включая армию, флот и ВВС.[MHC_IS_TRIBAL_PROXY]".
+ MHC_IS_TRIBAL: "\n\n§RПлеменные страны и страны без военной структуры не могут использовать Высшее военное командование.§!"
+ MHC_SELECTOR_ENTRY_ARMY_TOOLTIP_PROXY: "§Y[MHC_SELECTOR_ENTRY_NAME]§! \nКогда активировано:\n[MHC_SELECTOR_ENTRY_TRAIT_ARMY_ADDITION]\n[MHC_SELECTOR_ENTRY_HIGH_POSITION_ARMY_FIT][MHC_REPLACE_POWERFUL_PROXY][MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_SELECTOR_ENTRY_UNDER_COST]".
+ MHC_SELECTOR_ENTRY_NAVY_TOOLTIP_PROXY: "§Y[MHC_SELECTOR_ENTRY_NAME]§! \nКогда активировано:\n[MHC_SELECTOR_ENTRY_TRAIT_NAVY_ADDITION]\n[MHC_SELECTOR_ENTRY_HIGH_POSITION_NAVY_FIT][MHC_REPLACE_POWERFUL_PROXY][MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_SELECTOR_ENTRY_UNDER_COST]".
+ MHC_SELECTOR_ENTRY_AIRFORCE_TOOLTIP_PROXY: "§Y[MHC_SELECTOR_ENTRY_NAME]§! \nКогда активировано:\n[MHC_SELECTOR_ENTRY_TRAIT_AIRFORCE_ADDITION]\n[MHC_SELECTOR_ENTRY_HIGH_POSITION_AIRFORCE_FIT][MHC_REPLACE_POWERFUL_PROXY][MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_SELECTOR_ENTRY_UNDER_COST]".
+
+ MHC_SELECTOR_ENTRY_TRAIT_ARMY_UNDER_PROXY: "[MHC_SELECTOR_ENTRY_TRAIT_ARMY_UNDER]"
+ MHC_SELECTOR_ENTRY_TRAIT_NAVY_UNDER_PROXY: "[MHC_SELECTOR_ENTRY_TRAIT_NAVY_UNDER]"
+ MHC_SELECTOR_ENTRY_TRAIT_AIRFORCE_UNDER_PROXY: "[MHC_SELECTOR_ENTRY_TRAIT_AIRFORCE_UNDER]".
+
+ MHC_SELECTOR_ENTRY_HIGH_NOT_FIT: "§RЭтот советник не подходит для выбранной позиции. Использование этого советника в данной позиции может привести к проблемам.§!\n\n".
+
+ MHC_ACTIVATE_TRATS_TOOLTIP: "§YАктивируйте позиции§!\nАктивируйте позицию в вашем военном верховном командовании, чтобы получить эффекты черты советника."
+
+ MHC_MILITARY_JUNTA_NAME: "Военная хунта"
+
+ MHC_LEADER_JUNTA_TOOLTIP_PROXY: "[MHC_LEADER_JUNTA_TOOLTIP]".
+ MHC_LEADER_JUNTA_ARMY_TOOLTIP: "§YВоенная хунта (Армия)§!\nВременный лидер §Y[ROOT.GetNameWithFlag]§!"
+ MHC_LEADER_JUNTA_ARMY_TOOLTIP_DELAYED: ""
+ MHC_LEADER_JUNTA_AIRFORCE_TOOLTIP: "§YВоенная хунта (ВВС)§!\nВременный лидер §Y[ROOT.GetNameWithFlag]§!"
+ MHC_LEADER_JUNTA_AIRFORCE_TOOLTIP_DELAYED: ""
+ MHC_LEADER_JUNTA_NAVY_TOOLTIP: "§YВоенная Хунта (ВМФ)§!\nВременный лидер §Y[ROOT.GetNameWithFlag]§!"
+ MHC_LEADER_JUNTA_NAVY_TOOLTIP_DELAYED: ""
+
+ MHC_TOOLTIP_NA: "Не назначен"
+ MHC_ARMY_PERSON_TOOLTIP_DELAYED: ""
+
+ MHC_SEC_TOOLTIP_PROXY: "[MHC_SEC_TOOLTIP]"
+ MHC_SEC_TOOLTIP_SHOW: "§YМинистр Войны§! имеет уровень мощности §Y[?mhc_sec_power]§!."
+ MHC_CHIEF_TOOLTIP_PROXY: "[MHC_CHIEF_TOOLTIP]"
+ MHC_CHIEF_TOOLTIP_SHOW: "§YШеф Армии§! имеет уровень мощности §Y[?mhc_chief_power]§!."
+ MHC_VCHIEF_TOOLTIP_PROXY: "[MHC_VCHIEF_TOOLTIP]"
+ MHC_VCHIEF_TOOLTIP_SHOW: "§YВице Шеф Армии§! имеет уровень мощности §Y[?mhc_vchief_power]§!."
+ MHC_QUART_TOOLTIP_PROXY: "[MHC_QUART_TOOLTIP]"
+ MHC_QUART_TOOLTIP_SHOW: "§YКвартермейстер§! имеет уровень мощности §Y[?mhc_quart_power]§!."
+ MHC_PCHIEF_TOOLTIP_PROXY: "[MHC_PCHIEF_TOOLTIP]"
+ MHC_PCHIEF_TOOLTIP_SHOW: "§YШеф отдела Кадров§! имеет уровень мощности §Y[?mhc_pchief_power]§!."
+ MHC_INS_TOOLTIP_PROXY: "[MHC_INS_TOOLTIP]"
+ MHC_INS_TOOLTIP_SHOW: "§YИнспектор§! имеет уровень мощности §Y[?mhc_ins_power]§!."
+
+ MHC_NAS_TOOLTIP_PROXY: "[MHC_NAS_TOOLTIP]"
+ MHC_NAS_TOOLTIP_SHOW: "§YСекретарь ВМС§! имеет уровень мощности §Y[?mhc_nas_power]§!."
+ MHC_NCS_TOOLTIP_PROXY: "[MHC_NCS_TOOLTIP]"
+ MHC_NCS_TOOLTIP_SHOW: "§YШеф ВМС§! имеет уровень мощности §Y[?mhc_ncs_power]§!."
+ MHC_NOG_TOOLTIP_PROXY: "[MHC_NOG_TOOLTIP]"
+ MHC_NOG_TOOLTIP_SHOW: "§YГенерал военно-морских операций§! имеет уровень мощности §Y[?mhc_nog_power]§!."
+ MHC_COG_TOOLTIP_PROXY: "[MHC_COG_TOOLTIP]"
+ MHC_COG_TOOLTIP_SHOW: "§YГенерал Прибрежных Операций§! имеет уровень мощности §Y[?mhc_cog_power]§!."
+ MHC_NLG_TOOLTIP_PROXY: "[MHC_NLG_TOOLTIP]"
+ MHC_NLG_TOOLTIP_SHOW: "§YГенерал логистики§! имеет уровень мощности §Y[?mhc_nlg_power]§!."
+ MHC_MOG_TOOLTIP_PROXY: "[MHC_MOG_TOOLTIP]"
+ MHC_MOG_TOOLTIP_SHOW: "§YГенерал Морских Операций§! имеет уровень мощности §Y[?mhc_mog_power]§!."
+
+ MHC_AFC_TOOLTIP_PROXY: "[MHC_AFC_TOOLTIP]"
+ MHC_AFC_TOOLTIP_SHOW: "§YСекретарь ВВС§! имеет уровень мощности §Y[?mhc_afc_power]§!."
+ MHC_ACH_TOOLTIP_PROXY: "[MHC_ACH_TOOLTIP]"
+ MHC_ACH_TOOLTIP_SHOW: "§YШеф ВВС§! имеет уровень мощности §Y[?mhc_ach_power]§!."
+ MHC_OPG_TOOLTIP_PROXY: "[MHC_OPG_TOOLTIP]"
+ MHC_OPG_TOOLTIP_SHOW: "§YОперативный Генерал§! имеет уровень мощности §Y[?mhc_opg_power]§!."
+ MHC_WIC_TOOLTIP_PROXY: "[MHC_WIC_TOOLTIP]"
+ MHC_WIC_TOOLTIP_SHOW: "§YКомандир Авиакрыльев§! имеет уровень мощности §Y[?mhc_wic_power]§!."
+ MHC_SUPC_TOOLTIP_PROXY: "[MHC_SUPC_TOOLTIP]"
+ MHC_SUPC_TOOLTIP_SHOW: "§YКомандир поддержки§! имеет уровень мощности §Y[?mhc_supc_power]§!."
+
+ MHC_SEC_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_SEC_TOOLTIP]"
+ MHC_CHIEF_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_CHIEF_TOOLTIP]"
+ MHC_VCHIEF_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_VCHIEF_TOOLTIP]"
+ MHC_QUART_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_QUART_TOOLTIP]"
+ MHC_PCHIEF_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_PCHIEF_TOOLTIP]"
+ MHC_INS_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_INS_TOOLTIP]"
+
+ MHC_NAS_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_NAS_TOOLTIP]"
+ MHC_NCS_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_NCS_TOOLTIP]"
+ MHC_NOG_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_NOG_TOOLTIP]"
+ MHC_COG_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_COG_TOOLTIP]"
+ MHC_NLG_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_NLG_TOOLTIP]"
+ MHC_MOG_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_MOG_TOOLTIP]"
+
+ MHC_AFC_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_AFC_TOOLTIP]"
+ MHC_ACH_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_ACH_TOOLTIP]"
+ MHC_OPG_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_OPG_TOOLTIP]"
+ MHC_WIC_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_WIC_TOOLTIP]"
+ MHC_SUPC_ACTIVATOR_TOOLTIP_PROXY: "Нажмите, чтобы переключить §YАктивацию§!\n[MHC_JUNTA_NON_MODIFIABLE_PROXY]Стоимость для активации (£command_power ): §Y15§!\nСтоимость для деактивации (£command_power ): §Y0§!\n\n[MHC_SUPC_TOOLTIP]"
+
+ MHC_JUNTA_NON_MODIFIABLE: "§YПозиции в высшем военном командовании не могут быть изменены, пока у власти находится военная хунта.§!\n\n".
+
+ MHC_ORG_ARMY_TOOLTIP_PROXY: "§YАрмия§! имеет уровень мощности §Y[?mhc_army_power]§!.\n\n[MHC_ORG_ARMY_TOOLTIP_DELAYED_PROXY_PROXY]"
+ MHC_ORG_ARMY_TOOLTIP_DELAYED_PROXY: "[MHC_ORG_ARMY_HAS_UNFIT][MHC_ORG_ARMY_HAS_POWER][MHC_ORG_ARMY_HAS_POWER_MEMBERS]"
+ MHC_ORG_NAVY_TOOLTIP_PROXY: "§YВМФ§! имеет уровень мощности §Y[?mhc_navy_power]§!.\n\n[MHC_ORG_NAVY_TOOLTIP_DELAYED_PROXY_PROXY]"
+ MHC_ORG_NAVY_TOOLTIP_DELAYED_PROXY: "[MHC_ORG_NAVY_HAS_UNFIT][MHC_ORG_NAVY_HAS_POWER][MHC_ORG_NAVY_HAS_POWER_MEMBERS]"
+ MHC_ORG_AIRFORCE_TOOLTIP_PROXY: "§YВВС§! имеет уровень мощности §Y[?mhc_airforce_power]§!.\n\n[MHC_ORG_AIRFORCE_TOOLTIP_DELAYED_PROXY_PROXY]"
+ MHC_ORG_AIRFORCE_TOOLTIP_DELAYED_PROXY: "[MHC_ORG_AIRFORCE_HAS_UNFIT][MHC_ORG_AIRFORCE_HAS_POWER][MHC_ORG_AIRFORCE_HAS_POWER_MEMBERS]"
+
+ MHC_ORG_UNFIT_LEADERSHIP: "§RОрганизация имеет негодное руководство:§!\n §YНегодное руководство в организации ведет к потере власти этой организации.§!\n\n"
+MHC_ORG_POWERFUL: "§RОрганизация очень мощная:§!\n §ҮМощные организации способны блокировать правительство и навязывать свои взгляды, если они не согласны с текущим положением вещей.§!\n\n"
+ MHC_ORG_POWERFUL_MEMBERS: "§RУ организации есть влиятельные члены:§!\n §YВлиятельные члены в организации способны быстро увеличить мощь своей организации.§!\n\n"
+
+ MHC_REMOVE_TOGGLE_TOOLTIP: "§YСоветники на пенсии§![MHC_RETIRE_ON_OFF]\nПереключение опций, чтобы иметь возможность отправлять советников на пенсию обратно в выбираемый пул."
+ MHC_RETIRE_ON: "§G - ВКЛ - §!"
+ MHC_RETIRE_OFF: "§R - ВЫКЛ - §!"
+ MHC_REMOVE_TOOLTIP_PROXY_DELAYED: "Отставка этого советника вернет его в пул выбираемых".
+
+ MHC_SEC_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YМинистра Войны§!.\n\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_SEC]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_CHIEF_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YШефа армии§!.\n\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_CHIEF]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_VCHIEF_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YВице Шефа Армии§!.\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_VCHIEF]Cost (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_QUART_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YКвартермейстера§!.\n\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_QUART]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_PCHIEF_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YШефа отдела кадров§!.\n\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_PCHIEF]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_INS_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YГенерал- инспектора§!.\n\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_INS]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+
+ MHC_NAS_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YСекретаря ВМС§!.\n\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_NAS]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_NCS_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YШефа ВМС§!.\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_NCS]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_NOG_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YГенерала военно-морских операций§!.\n\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_NOG]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_COG_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YГенерала Прибрежных Операций§!.\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_COG]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_PNCS_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YГенерала логистики§!.\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_PNCS]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_MOG_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YГенерала Морских Операций§!.\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_MOG]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+
+ MHC_AFC_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YСекретаря ВВС§!.\n\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_AFC]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_ACH_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YШефа ВВС§!.\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_ACH]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_OPG_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YОперативного Генерала§!.\n\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_OPG]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_WIC_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YКомандира Авиакрыльями§!.\n\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_WIC]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+ MHC_SUPC_REMOVE_TOOLTIP_PROXY: "Отправить на пенсию §YКомандира поддержки§!.\n\n\n[MHC_JUNTA_NON_MODIFIABLE_PROXY][MHC_RETIRE_POWERFUL_SUPC]Стоимость (£pol_power ): [MHC_RETIRE_COST]".
+
+ MHC_REMOVE_COST: "§Y100§!"
+ MHC_REMOVE_COST_RED: "§R100§!"
+ MHC_REMOVE_POWERFUL: "§RПолная отставка влиятельного советника невозможна.§!\n\n"
+ MHC_REPLACE_POWERFUL: "§RУровень власти [MHC_SELECTOR_CURRENT_LABEL] сильно пострадает, если вы замените влиятельного советника на руководящей должности.§!\n\n\n"
+
+ MHC_ARROW_ARMY_AIRFORCE_UP_TOOLTIP: "§YВВС§! имеет больше власти, чем §YАрмия§!".
+ MHC_ARROW_ARMY_AIRFORCE_DOWN_TOOLTIP: "§YАрмия§! имеет больше энергии, чем §YВВС§!".
+ MHC_ARROW_ARMY_AIRFORCE_LINE_TOOLTIP: "§YАрмия§! и §YВВС§! имеют одинаковое количество энергии."
+ MHC_ARROW_NAVY_AIRFORCE_UP_TOOLTIP: "§YВВС§! имеет больше энергии, чем §YВМФ§!".
+ MHC_ARROW_NAVY_AIRFORCE_DOWN_TOOLTIP: "§YВМФ§! имеет больше энергии, чем §YВВС§!".
+ MHC_ARROW_NAVY_AIRFORCE_LINE_TOOLTIP: "§YВМФ§! и §YВВС§! имеют одинаковое количество энергии."
+ MHC_ARROW_ARMY_NAVY_LEFT_TOOLTIP: "§YАрмия§! имеет больше энергии, чем §YВМФ§!".
+ MHC_ARROW_ARMY_NAVY_RIGHT_TOOLTIP: "§YВМФ§! имеет больше власти, чем §YАрмия§!".
+ MHC_ARROW_ARMY_NAVY_LINE_TOOLTIP: "§YАрмия§! и §YВМФ§! имеют одинаковое количество энергии."
+
+ MHC_ARROW_PCHIEF_CHIEF_UP_TOOLTIP: "§YШеф Армии§! имеет больше власти, чем §YШеф отдела Кадров§!."
+ MHC_ARROW_PCHIEF_CHIEF_DOWN_TOOLTIP: "§YШеф отдела Кадров§! имеет больше власти, чем §YШеф Армии§!."
+ MHC_ARROW_QUART_VCHIEF_UP_TOOLTIP: "§YВице Шеф Армии§! имеет больше власти, чем §YКвартермейстер§!."
+ MHC_ARROW_QUART_VCHIEF_DOWN_TOOLTIP: "§YКвартермейстер§! имеет больше власти, чем §YВице Шеф Армии§!."
+ MHC_ARROW_CHIEF_SEC_UP_TOOLTIP: "§YМинистр Войны§! имеет больше власти, чем §YШеф Армии§!."
+ MHC_ARROW_CHIEF_SEC_DOWN_TOOLTIP: "§YШеф Армии§! имеет больше власти, чем §YМинистр Войны§!."
+ MHC_ARROW_CHIEF_VCHIEF_LEFT_TOOLTIP: "§YШеф Армии§! имеет больше власти, чем §YВице Шеф Армии§!."
+ MHC_ARROW_CHIEF_VCHIEF_RIGHT_TOOLTIP: "§YВице Шеф Армии§! имеет больше власти, чем §YШеф Армии§!."
+ MHC_ARROW_INS_PCHIEF_LEFT_TOOLTIP: "§YИнспектор§! имеет больше власти, чем §YШеф отдела Кадров§!."
+ MHC_ARROW_INS_PCHIEF_RIGHT_TOOLTIP: "§YШеф отдела Кадров§! имеет больше власти, чем §YИнспектор§!."
+
+ MHC_ARROW_NAS_NCS_UP_TOOLTIP: "§YСекретарь ВМС§! имеет больше власти, чем §YШеф ВМС§!."
+ MHC_ARROW_NAS_NCS_DOWN_TOOLTIP: "§YШеф ВМС§! имеет больше власти, чем §YСекретарь ВМС§!."
+ MHC_ARROW_NCS_NLG_UP_TOOLTIP: "§YШеф ВМС§! имеет больше власти, чем §YNaval Генерал логистики§!."
+ MHC_ARROW_NCS_NLG_DOWN_TOOLTIP: "§YГенерал логистики ВМС§! имеет больше власти, чем §YШеф ВМС§!."
+ MHC_ARROW_NCS_NOG_LEFT_TOOLTIP: "§YШеф ВМС§! имеет больше власти, чем §YГенерал военно-морских операций§!."
+ MHC_ARROW_NCS_NOG_RIGHT_TOOLTIP: "§YГенерал военно-морских операций§! имеет больше власти, чем §YШеф ВМС§!."
+ MHC_ARROW_COG_NCS_LEFT_TOOLTIP: "§YГенерал Прибрежных Операций§! имеет больше власти, чем §YШеф ВМС§!."
+ MHC_ARROW_COG_NCS_RIGHT_TOOLTIP: "§YШеф ВМС§! имеет больше власти, чем §YГенерал Прибрежных Операций§!."
+ MHC_ARROW_COG_MOG_UP_TOOLTIP: "§YГенерал Прибрежных Операций§! имеет больше власти, чем §YГенерал Морских Операций§!."
+ MHC_ARROW_COG_MOG_DOWN_TOOLTIP: "§YГенерал Морских Операций§! имеет больше власти, чем §YГенерал Прибрежных Операций§!."
+
+ MHC_ARROW_ACH_AFC_UP_TOOLTIP: "§YСекретарь ВВС§! имеет больше власти, чем §YШеф ВВС§!."
+ MHC_ARROW_ACH_AFC_DOWN_TOOLTIP: "§YШеф ВВС§! имеет больше власти, чем §YСекретарь ВВС§!."
+ MHC_ARROW_OPG_ACH_UP_TOOLTIP: "§YШеф ВВС§! имеет больше власти, чем §YОперативный Генерал§!."
+ MHC_ARROW_OPG_ACH_DOWN_TOOLTIP: "§YОперативный Генерал§! имеет больше власти, чем §YШеф ВВС§!."
+ MHC_ARROW_WIC_OPG_LEFT_TOOLTIP: "§YКомандир Авиакрыльев§! имеет больше власти, чем §YОперативный Генерал§!."
+ MHC_ARROW_WIC_OPG_RIGHT_TOOLTIP: "§YОперативный Генерал§! имеет больше власти, чем §YКомандир Авиакрыльев§!."
+ MHC_ARROW_OPG_SUPC_LEFT_TOOLTIP: "§YОперативный Генерал§! имеет больше власти, чем §YКомандир поддержки§!."
+ MHC_ARROW_OPG_SUPC_RIGHT_TOOLTIP: "§YКомандир поддержки§! имеет больше власти, чем §YОперативный Генерал§!."
+
+ ###EVENTS### #NT!
+ mhc.10.t: "Военная хунта в [FROM.GetNameDef]"
+ mhc.10.d: "[MHC_JUNTA_NEWS_EVENT_PROXY]"
+ mhc.10.d.1.v: "\nПо инициативе военных и в соответствии с чрезвычайным положением, наш парламент, как ожидается, проведет голосование по новому закону через несколько дней, хотя исход этого голосования, похоже, уже предрешен..."
+ mhc.10.d.1a: "Похоже, недовольные нашими последними законами и общим политическим климатом в стране, высшее военное руководство армии решило, что пришло время вмешаться. Сегодня, в [GetDateText], армия успешно осуществила хорошо подготовленный переворот, захватив всю власть в правительстве [FROM.GetNameDef]. Сегодня наши солдаты маршируют дома. Персонал ключевых правительственных учреждений и агентств был \n "взят под охрану\n". Ситуация только ухудшается, местонахождение [FROM.GetLeader] в настоящее время неизвестно. Однако мы подозреваем, что они были отправлены в безопасное место, хотя военные хранят молчание по этому поводу, заявляя, что\n\n\n "враги могут быть повсюду\n".[MHC_JUNTA_NEWS_EVENT_VOTE_PROXY]".
+ mhc.10.d.2a: "Похоже, недовольные недавними законами и общим политическим климатом в стране, высшее военное руководство армии [FROM.GetAdjectiveCap] решило, что пришло время вмешаться. Сегодня, в [GetDateText], их армия успешно осуществила хорошо подготовленный переворот, захватив всю власть в правительстве [FROM.GetNameDef]. Персонал ключевых правительственных учреждений и агентств был \n "взят под защиту\n". Только усугубляя ситуацию для [FROM.GetAdjectiveCap]ов, [FROM.GetLeader]'ов, местонахождение их лидера в настоящее время неизвестно. Воистину, [FROM.GetName] погружается в хаос".
+ mhc.10.d.1b: "Похоже, недовольные нашими недавними законами и общим политическим климатом в стране, высшее военное руководство ВВС решило, что пришло время вмешаться. Сегодня, в [GetDateText], ВВС успешно осуществили хорошо подготовленный переворот, захватив всю власть в правительстве [FROM.GetNameDef]. Сегодня ночью прожекторы заменят лунный свет. Персонал ключевых правительственных учреждений и агентств был взят под охрану. Усугубляет ситуацию то, что местонахождение [FROM.GetLeader] в настоящее время неизвестно. Однако мы подозреваем, что они были отправлены в безопасное место, хотя военные хранят молчание по этому поводу, заявляя, что\n\n\n "враги могут быть повсюду\n".[MHC_JUNTA_NEWS_EVENT_VOTE_PROXY]".
+ mhc.10.d.2b: "Похоже, недовольные недавними законами и общим политическим климатом в стране, высшее военное руководство [FROM.GetAdjectiveCap] ВВС решило, что пришло время вмешаться. Сегодня, в [GetDateText], их ВВС успешно осуществили хорошо подготовленный переворот, захватив всю власть в правительстве [FROM.GetNameDef]. Персонал ключевых правительственных учреждений и агентств был \n "взят под защиту\n". Только усугубляя ситуацию для [FROM.GetAdjectiveCap]ов, [FROM.GetLeader]'ов, местонахождение их лидера в настоящее время неизвестно. Воистину, [FROM.GetName] погружается в хаос".
+ mhc.10.d.1c: "Похоже, недовольные нашими недавними законами и общим политическим климатом в стране, высшее военное руководство флота решило, что пришло время вмешаться. Сегодня, в [GetDateText], флот успешно осуществил хорошо подготовленный переворот, захватив всю власть в правительстве [FROM.GetNameDef]. Сегодня ночью на берегах наших морей воцарилась жуткая тишина. Персонал ключевых правительственных учреждений и агентств был взят под охрану. Ситуация только ухудшается, местонахождение [FROM.GetLeader] в настоящее время неизвестно. Однако мы подозреваем, что они были отправлены в безопасное место, хотя военные хранят молчание по этому вопросу, заявляя, что\n\n\n "враги могут быть повсюду\n".[MHC_JUNTA_NEWS_EVENT_VOTE_PROXY]".
+ mhc.10.d.2c: "Похоже, недовольные недавними законами и общим политическим климатом в стране, высшее военное руководство [FROM.GetAdjectiveCap] флота решило, что пришло время вмешаться. Сегодня, в [GetDateText], их флот успешно осуществил хорошо подготовленный переворот, захватив всю власть в правительстве [FROM.GetNameDef]. Персонал ключевых правительственных учреждений и агентств был \n "взят под защиту\n". Только усугубляя ситуацию для [FROM.GetAdjectiveCap]ов, [FROM.GetLeader]'ов, местонахождение их лидера в настоящее время неизвестно. Воистину, [FROM.GetName] погружается в хаос".
+ mhc.10.a: "Как они посмели?!"
+ mhc.10.b: "Забавно".
+ mhc.11.t: "[Root.GetCurrentVotedReform]".
+ mhc.11.d: "Члены нашего парламента собрались, но обычно довольно оживленных дебатов нигде не слышно. Вместо этого комнату наполняют обеспокоенные шепотки, в каждом углу стоит человек с винтовкой и наблюдает за происходящим. Взгляды обмениваются снова и снова, и все же никто не осмеливается встать и высказать свое мнение, по крайней мере, никто из действительно важных людей. Представителей от каждой фракции выводят вперед, но каждый раз вслух зачитывается только патриотическая речь".
+ mhc.11.a: "Какая шутка..."
+ mhc.12.t: "[Root.GetCurrentVotedReform]".
+ mhc.12.d: "Кости брошены, результаты получены. После тщательного подсчета всех голосов по поводу нового закона в нашем парламенте, окончательные результаты таковы:\n Ура: [?yay_votes] \n Нет: [?nay_votes]".
+ mhc.12.a: "Да поможет Бог "Ней"..."
+ mhc.13.t: "Военная хунта"
+ mhc.13.d: "Хаос постиг наше правительство. Поскольку военные продолжают блокировать наши усилия по управлению [ROOT.GetNameDef], нашей родиной, которой мы дорожим, все остановилось. Парламент находится под дулом пистолета, местонахождение [ROOT.GetLeader] до сих пор неизвестно, и, возможно, самое худшее: наши соседи не могут удержаться от смеха.\nВместе с тем, мы ожидаем, что эта ситуация продлится несколько месяцев."
+ mhc.13.a: "Мы стоим униженные..."
+ mhc.14.t: "Военная хунта закончилась"
+ mhc.14.d: "Последние несколько месяцев были тяжелыми для нас. Военные усилили свою власть, а правительство было вынуждено наблюдать за происходящим. Тем не менее, кажется, что худшее уже позади, поскольку военные успешно добились того, к чему стремились. Тем не менее, хунта оставила после себя заметные последствия, с которыми нам теперь приходится сталкиваться.\nНе говоря уже о том, что это, возможно, последний раз, когда военные вмешиваются в дела правительства. Если представится возможность, они обязательно сделают это снова".
+ mhc.14.a: "Какой беспорядок они нам оставили...".
+ mhc.17.t: "Армия предупреждает о [MHC_INCOMING_JUNTA] Хунте"
+ mhc.17.d: "Высшее командование армии нашей страны принесло серьезные новости из рядов вооруженных сил: [MHC_INCOMING_JUNTA] планирует военную хунту. Такая хунта блокирует наше правительство, делая невозможным принятие собственных законов, по сути, замораживая любые политические процессы в нашей дорогой [ROOT.GetName].\nНо, возможно, на горизонте есть и положительная сторона. У высшего руководства армии есть для нас предложение: они могут позаботиться о приходящей хунте за нас. Власть [MHC_INCOMING_JUNTA] при этом пострадает, но мы должны знать, что определенные последствия, такие как политический хаос, все равно будут иметь место. Кроме того, мощь армии значительно возрастет".
+ mhc.17.a: "Лучше перестраховаться, чем потом жалеть. Мы примем их предложение".
+ mhc.17.b: "Мы можем справиться с этим сами".
+ mhc.18.t: "ВВС предупреждают о [MHC_INCOMING_JUNTA] Хунте".
+ mhc.18.d: "Высшее командование ВВС нашей страны приносит серьезные новости из военных рядов: [MHC_INCOMING_JUNTA] планирует военную хунту. Такая хунта блокирует наше правительство, делая невозможным принятие собственных законов, по сути, замораживая любые политические процессы в нашей дорогой [ROOT.GetName].\nНо, возможно, на горизонте есть и положительная сторона. У высшего командования ВВС есть предложение для нас: они могут позаботиться о приходящей хунте за нас. Власть [MHC_INCOMING_JUNTA] при этом пострадает, но мы должны знать, что определенные последствия, такие как политический хаос, все равно будут иметь место. Кроме того, мощь ВВС значительно возрастет".
+ mhc.19.t: "Флот предупреждает о [MHC_INCOMING_JUNTA] Хунте".
+ mhc.19.d: "Высшее командование ВМС нашей страны приносит серьезные новости из военных рядов: [MHC_INCOMING_JUNTA] планирует военную хунту. Такая хунта блокирует наше правительство, делая невозможным принятие собственных законов, по сути, замораживая любые политические процессы в нашей дорогой [ROOT.GetName].\nНо, возможно, на горизонте есть и положительная сторона. У высшего командования ВМФ есть предложение: они могут позаботиться о приходящей хунте за нас. Власть [MHC_INCOMING_JUNTA] при этом пострадает, но мы должны знать, что определенные последствия, такие как политический хаос, все равно будут иметь место. Кроме того, мощь флота значительно возрастет".
+ mhc.20.t: "Армия и ВВС предупреждают [MHC_INCOMING_JUNTA] Хунту".
+ mhc.20.d: "Высшее руководство армии и ВВС нашей страны сообщает серьезные новости из военных рядов: [MHC_INCOMING_JUNTA] планирует военную хунту. Такая хунта блокирует наше правительство, делая невозможным принятие собственных законов, по сути, замораживая любые политические процессы в нашей дорогой [ROOT.GetName].\nНо, возможно, на горизонте есть и положительная сторона. У высшего руководства армии и ВВС есть предложение для нас: вместе они могут позаботиться о приходящей хунте за нас. Власть [MHC_INCOMING_JUNTA] при этом пострадает, но мы должны знать, что определенные последствия, такие как политический хаос, все равно будут иметь место. Кроме того, армия и ВВС значительно увеличат свою мощь".
+ mhc.21.t: "Армия и флот предупреждают о [MHC_INCOMING_JUNTA] Хунте".
+ mhc.21.d: "Высшие чины армии и флота нашей страны сообщают серьезные новости из военных рядов: [MHC_INCOMING_JUNTA] планирует военную хунту. Такая хунта блокирует наше правительство, делая невозможным принятие собственных законов, по сути, замораживая любые политические процессы в нашей дорогой [ROOT.GetName].\nНо, возможно, на горизонте есть и положительная сторона. У высшего руководства армии и флота есть предложение для нас: вместе они могут позаботиться о приходящей хунте за нас. Власть [MHC_INCOMING_JUNTA] при этом пострадает, но мы должны знать, что определенные последствия, такие как политический хаос, все равно будут иметь место. Кроме того, армия и флот значительно увеличат свою мощь".
+ mhc.22.t: "ВВС и ВМС предупреждают о [MHC_INCOMING_JUNTA] Хунте".
+ mhc.22.d: "Высшие чины ВВС и ВМС нашей страны сообщают серьезные новости из военных рядов: [MHC_INCOMING_JUNTA] планирует военную хунту. Такая хунта блокирует наше правительство, делая невозможным принятие собственных законов, по сути, замораживая любые политические процессы в нашей дорогой [ROOT.GetName].\nНо, возможно, на горизонте есть и положительная сторона. У высшего руководства ВВС и ВМС есть для нас предложение: вместе они могут позаботиться о приходящей хунте за нас. Власть [MHC_INCOMING_JUNTA] при этом пострадает, но мы должны знать, что определенные последствия, такие как политический хаос, все равно будут иметь место. Кроме того, ВВС и ВМС значительно увеличат свою мощь".
+
+ ###FLAGS### #NT!
+ MHC_military_junta_army: "Имеет военную хунту (Армия)".
+ MHC_military_junta_airforce: "Имеет военную хунту (ВВС)".
+ MHC_military_junta_navy: "Имеет военную хунту (ВМС)".
+
+ ###IDEAS### #NT!
+ mhc_disorganized_modifier_army: "Дезорганизованное высшее военное командование (Армия)".
+ mhc_disorganized_modifier_navy: "Дезорганизованное высшее военное командование (ВМС)".
+ mhc_disorganized_modifier_airforce: "Дезорганизованное высшее военное командование (ВВС)".
+
+ mhc_military_junta_idea_army: "Военная хунта (Армия)".
+ mhc_military_junta_idea_army_after_effects: "Последствия военной хунты (Армия)".
+ mhc_military_junta_idea_navy: "Военная хунта (ВМФ)"
+ mhc_military_junta_idea_navy_after_effects: "Последствия военной хунты (ВМС)".
+ mhc_military_junta_idea_airforce: "Военная хунта (ВВС)"
+ mhc_military_junta_idea_airforce_after_effects: "Последствия военной хунты (ВВС)".
+
+ mhc_trait_1: "Действующая военная должность высшего командного состава"
+ mhc_trait_2: "Действующая военная должность высшего командного состава"
+ mhc_trait_3: "Действующая военная должность высшего командного состава"
+ mhc_trait_4: "Действующая военная должность высшего командного состава"
+ mhc_trait_5: "Действующая военная должность высшего командного состава"
+ mhc_trait_6: "Действующая военная должность высшего командного состава"
+ mhc_trait_7: "Действующая военная должность высшего командного состава"
+ mhc_trait_8: "Действующая военная должность высшего командного состава"
+ mhc_trait_9: "Действующая военная должность высшего командного состава"
+ mhc_trait_10: "Действующая военная должность высшего командного состава"
+ mhc_trait_11: "Действующая военная должность высшего командного состава"
+ mhc_trait_12: "Действующая военная должность высшего командного состава"
+ mhc_trait_13: "Действующая военная должность высшего командного состава"
+ mhc_trait_14: "Действующая военная должность высшего командного состава"
+ mhc_trait_15: "Действующая военная должность высшего командного состава"
+ mhc_trait_16: "Действующая военная должность высшего командного состава"
+ mhc_trait_17: "Действующая военная должность высшего командного состава"
+ mhc_trait_18: "Действующая военная должность высшего командного состава"
+ mhc_trait_19: "Действующая военная должность высшего командного состава"
+ mhc_trait_20: "Действующая военная должность высшего командного состава"
+ mhc_trait_21: "Действующая военная должность высшего командного состава"
+ mhc_trait_22: "Действующая военная должность высшего командного состава"
+ mhc_trait_23: "Действующая военная должность высшего командного состава"
+ mhc_trait_24: "Действующая военная должность высшего командного состава"
+ mhc_trait_25: "Действующая военная должность высшего командного состава"
+ mhc_trait_26: "Действующая военная должность высшего командного состава"
+ mhc_trait_27: "Действующая военная должность высшего командного состава"
+ mhc_trait_28: "Действующая военная должность высшего командного состава"
+ mhc_trait_29: "Действующая военная должность высшего командного состава"
+ mhc_trait_30: "Действующая военная должность высшего командного состава"
+ mhc_trait_31: "Действующая военная должность высшего командного состава"
+ mhc_trait_32: "Действующая военная должность высшего командного состава"
+ mhc_trait_33: "Действующая военная должность высшего командного состава"
+ mhc_trait_34: "Действующая военная должность высшего командного состава"
+ mhc_trait_35: "Действующая военная должность высшего командного состава"
+ mhc_trait_36: "Действующая военная должность высшего командного состава"
+ mhc_trait_37: "Действующая военная должность высшего командного состава"
+ mhc_trait_38: "Действующая военная должность высшего командного состава"
+ mhc_trait_39: "Действующая военная должность высшего командного состава"
+ mhc_trait_40: "Действующая военная должность высшего командного состава"
+ mhc_trait_41: "Действующая военная должность высшего командного состава"
+ mhc_trait_42: "Действующая военная должность высшего командного состава"
+ mhc_trait_43: "Действующая военная должность высшего командного состава"
+ mhc_trait_44: "Действующая военная должность высшего командного состава"
+ mhc_trait_45: "Действующая военная должность высшего командного состава"
+ mhc_trait_46: "Действующая военная должность высшего командного состава"
+ mhc_trait_47: "Действующая военная должность высшего командного состава"
+ mhc_trait_48: "Действующая военная должность высшего командного состава"
+ mhc_trait_49: "Действующая военная должность высшего командного состава"
+ mhc_trait_50: "Действующая военная должность высшего командного состава"
+ mhc_trait_51: "Действующая военная должность высшего командного состава"
+ mhc_trait_52: "Действующая военная должность высшего командного состава"
+ mhc_trait_53: "Действующая военная должность высшего командного состава"
+ mhc_trait_54: "Действующая военная должность высшего командного состава"
+ mhc_trait_55: "Действующая военная должность высшего командного состава"
+ mhc_trait_56: "Действующая военная должность высшего командного состава"
+ mhc_trait_57: "Действующая военная должность высшего командного состава"
+ mhc_trait_58: "Действующая военная должность высшего командного состава"
+ mhc_trait_59: "Действующая военная должность высшего командного состава"
+ mhc_trait_60: "Действующая военная должность высшего командного состава"
+ mhc_trait_61: "Действующая военная должность высшего командного состава"
+ mhc_trait_62: "Действующая военная должность высшего командного состава"
+ mhc_trait_63: "Действующая военная должность высшего командного состава"
+ mhc_trait_64: "Действующая военная должность высшего командного состава"
+ mhc_trait_65: "Действующая военная должность высшего командного состава"
+ mhc_trait_66: "Действующая военная должность высшего командного состава"
+ mhc_trait_67: "Действующая военная должность высшего командного состава"
+ mhc_trait_68: "Действующая военная должность высшего командного состава"
+ mhc_trait_69: "Действующая военная должность высшего командного состава"
+ mhc_trait_70: "Действующая военная должность высшего командного состава"
+ mhc_trait_71: "Действующая военная должность высшего командного состава"
+ mhc_trait_72: "Действующая военная должность высшего командного состава"
+ mhc_trait_73: "Действующая военная должность высшего командного состава"
+ mhc_trait_74: "Действующая военная должность высшего командного состава"
+ mhc_trait_75: "Действующая военная должность высшего командного состава"
+ mhc_trait_76: "Действующая военная должность высшего командного состава"
+ mhc_trait_77: "Действующая военная должность высшего командного состава"
+ mhc_trait_78: "Действующая военная должность высшего командного состава"
+ mhc_trait_79: "Действующая военная должность высшего командного состава"
+ mhc_trait_80: "Действующая военная должность высшего командного состава"
+ mhc_trait_81: "Действующая военная должность высшего командного состава"
+ mhc_trait_82: "Действующая военная должность высшего командного состава"
+ mhc_trait_83: "Действующая военная должность высшего командного состава"
+ mhc_trait_84: "Действующая военная должность высшего командного состава"
+ mhc_trait_85: "Действующая военная должность высшего командного состава"
+ mhc_trait_86: "Действующая военная должность высшего командного состава"
+ mhc_trait_87: "Действующая военная должность высшего командного состава"
+ mhc_trait_88: "Действующая военная должность высшего командного состава"
+ mhc_trait_89: "Действующая военная должность высшего командного состава"
+ mhc_trait_90: "Действующая военная должность высшего командного состава"
+ mhc_trait_91: "Действующая военная должность высшего командного состава"
+ mhc_trait_92: "Действующая военная должность высшего командного состава"
+ mhc_trait_93: "Действующая военная должность высшего командного состава"
+ mhc_trait_94: "Действующая военная должность высшего командного состава"
+ mhc_trait_95: "Действующая военная должность высшего командного состава"
+ mhc_trait_96: "Действующая военная должность высшего командного состава"
+ mhc_trait_97: "Действующая военная должность высшего командного состава"
+ mhc_trait_98: "Действующая военная должность высшего командного состава"
+ mhc_trait_99: "Действующая военная должность высшего командного состава"
+ mhc_trait_100: "Действующая военная должность высшего командного состава"
+ mhc_trait_101: "Действующая военная должность высшего командного состава"
+ mhc_trait_102: "Действующая военная должность высшего командного состава"
+ mhc_trait_103: "Действующая военная должность высшего командного состава"
+ mhc_trait_104: "Действующая военная должность высшего командного состава"
+ mhc_trait_105: "Действующая военная должность высшего командного состава"
+ mhc_trait_106: "Действующая военная должность высшего командного состава"
+ mhc_trait_107: "Действующая военная должность высшего командного состава"
+ mhc_trait_108: "Действующая военная должность высшего командного состава"
+ mhc_trait_109: "Действующая военная должность высшего командного состава"
+ mhc_trait_110: "Действующая военная должность высшего командного состава"
+ mhc_trait_111: "Действующая военная должность высшего командного состава"
+ mhc_trait_112: "Действующая военная должность высшего командного состава"
+ mhc_trait_113: "Действующая военная должность высшего командного состава"
+ mhc_trait_114: "Действующая военная должность высшего командного состава"
+ mhc_trait_115: "Действующая военная должность высшего командного состава"
+ mhc_trait_116: "Действующая военная должность высшего командного состава"
+ mhc_trait_117: "Действующая военная должность высшего командного состава"
+ mhc_trait_118: "Действующая военная должность высшего командного состава"
+ mhc_trait_119: "Действующая военная должность высшего командного состава"
+ mhc_trait_120: "Действующая военная должность высшего командного состава"
+ mhc_trait_121: "Действующая военная должность высшего командного состава"
+ mhc_trait_122: "Действующая военная должность высшего командного состава"
+ mhc_trait_123: "Действующая военная должность высшего командного состава"
+ mhc_trait_124: "Действующая военная должность высшего командного состава"
+ mhc_trait_125: "Действующая военная должность высшего командного состава"
+ mhc_trait_126: "Действующая военная должность высшего командного состава"
+ mhc_trait_127: "Действующая военная должность высшего командного состава"
+ mhc_trait_128: "Действующая военная должность высшего командного состава"
+ mhc_trait_129: "Действующая военная должность высшего командного состава"
+ mhc_trait_130: "Действующая военная должность высшего командного состава"
+ mhc_trait_131: "Действующая военная должность высшего командного состава"
+ mhc_trait_132: "Действующая военная должность высшего командного состава"
+ mhc_trait_133: "Действующая военная должность высшего командного состава"
+ mhc_trait_134: "Действующая военная должность высшего командного состава"
+ mhc_trait_135: "Действующая военная должность высшего командного состава"
+ mhc_trait_136: "Действующая военная должность высшего командного состава"
+ mhc_trait_137: "Действующая военная должность высшего командного состава"
+ mhc_trait_138: "Действующая военная должность высшего командного состава"
+ mhc_trait_139: "Действующая военная должность высшего командного состава"
+
+ ###TRAITS### #NT!
+ #defense #NT!
+ MHC_TRAIT_1: "Оборона Дивизии: §G+5%§!\n"
+ MHC_TRAIT_2: "Оборона Дивизии: §G+10%§!\n"
+ MHC_TRAIT_3: "Оборона Дивизии: §G+15%§!\n"
+ #offense #NT!
+ MHC_TRAIT_4: "Атака Дивизии: §G+5%§!\n"
+ MHC_TRAIT_5: "Атака Дивизии: §G+10%§!\n"
+ MHC_TRAIT_6: "Атака Дивизии: §G+15%§!\n"
+ #army old guard #NT!
+ MHC_TRAIT_7: "Прирост законодательной власти: §G+10%§!\nПрирост опыта армии: §R-10.0%§!\n"
+ #drill #NT!
+ MHC_TRAIT_8: "Время обучения дивизии: §Y-5.0%§!\n"
+ MHC_TRAIT_9: "Время обучения дивизии: §Y-10.0%§!\n"
+ MHC_TRAIT_10: "Время обучения дивизии: §Y-15.0%§!\n"
+ #reform #NT!
+ MHC_TRAIT_11: "Прирост опыта армии: §G+5.0%§!\n"
+ MHC_TRAIT_12: "Прирост опыта армии: §G+10.0%§!\n"
+ MHC_TRAIT_13: "Прирост опыта армии: §G+15.0%§!\n"
+ #organization #NT!
+ MHC_TRAIT_14: "Организация Дивизии: §G+4.0%§!\n"
+ MHC_TRAIT_15: "Организация Дивизии: §G+8.0%§!\n"
+ MHC_TRAIT_16: "Организация Дивизии: §G+12.0%§!\n"
+ #planning #NT!
+ MHC_TRAIT_17: "Скорость планирования: §G+5.0%§!\n"
+ MHC_TRAIT_18: "Скорость планирования: §G+10.0%§!\n"
+ MHC_TRAIT_19: "Скорость планирования: §G+15.0%§!\n"
+ #morale #NT!
+ MHC_TRAIT_20: "Коэффициент восстановления дивизии: §G+4.0%§!\n"
+ MHC_TRAIT_21: "Коэффициент восстановления дивизии: §G+8.0%§!\n"
+ MHC_TRAIT_22: "Коэффициент восстановления дивизии: §G+12.0%§!\n"
+ #maneuver #NT!
+ MHC_TRAIT_23: "Скорость дивизии: §G+5.0%§!\n"
+ MHC_TRAIT_24: "Скорость дивизии: §G+10.0%§!\n"
+ MHC_TRAIT_25: "Скорость дивизии: §G+15.0%§!\n"
+ #entrenchment #NT!
+ MHC_TRAIT_26: "Скорость окопов: §G+4.0%§!\n"
+ MHC_TRAIT_27: "Скорость окопов: §G+8.0%§!\n"
+ MHC_TRAIT_28: "Скорость окопов: §G+12.0%§!\n"
+ #armor #NT!
+ MHC_TRAIT_29: "Броневая Атака Дивизии: §G+5.0%§!\nБроневая Оборона Дивизии: §G+5.0%§!\n"
+ MHC_TRAIT_30: "Броневая Атака Дивизии: §G+10.0%§!\nБроневая Оборона Дивизии: §G+10.0%§!\n"
+ MHC_TRAIT_31: "Броневая Атака Дивизии: §G+15.0%§!\nБроневая Оборона Дивизии: §G+15.0%§!\n"
+ #artillery #NT!
+ MHC_TRAIT_32: "Артиллерийская Атака: §G+10.0%§!\nАртиллерийская оборона: §G+5.0%§!\n"
+ MHC_TRAIT_33: "Артиллерийская Атака: §G+15.0%§!\nАртиллерийская оборона: §G+10.0%§!\n"
+ MHC_TRAIT_34: "Артиллерийская Атака: §G+20.0%§!\nАртиллерийская оборона: §G+15.0%§!\n"
+ #infantry #NT!
+ MHC_TRAIT_35: "Пехотная Атака Дивизии: §G+5.0%§!\nПехотная Оборона Дивизии: §G+10.0%§!\n"
+ MHC_TRAIT_36: "Пехотная Атака Дивизии: §G+10.0%§!\nПехотная Оборона Дивизии: §G+15.0%§!\n"
+ MHC_TRAIT_37: "Пехотная Атака Дивизии: §G+15.0%§!\nПехотная Оборона Дивизии: §G+20.0%§!\n"
+ #commando #NT!
+ MHC_TRAIT_38: "Атака спецназа: §G+10.0%§!\nОборона Спецназа: §G+10.0%§!\n"
+ MHC_TRAIT_39: "Атака спецназа: §G+15.0%§!\nОборона Спецназа: §G+15.0%§!\n"
+ MHC_TRAIT_40: "Атака спецназа: §G+20.0%§!\nОборона Спецназа: §G+20.0%§!\n"
+ #cavalry #NT!
+ MHC_TRAIT_41: "Моторизованная Атака: §G+5.0%§!\nМоторизованная оборона: §G+5.0%§!\nКавалерийская Атака: §G+5.0%§!\nОборона кавалерии: §G+5.0%§!\n"
+ MHC_TRAIT_42: "Моторизованная Атака: §G+10.0%§!\nМоторизованная оборона: §G+10.0%§!\nКавалерийская Атака: §G+10.0%§!\nОборона кавалерии: §G+10.0%§!\n"
+ MHC_TRAIT_43: "Моторизованная Атака: §G+15.0%§!\nМоторизованная оборона: §G+15.0%§!\nКавалерийская Атака: §G+15.0%§!\nОборона кавалерии: §G+15.0%§!\n"
+ #regrouping #NT!
+ MHC_TRAIT_44: "Скорость восстановления дивизии: §G+4.0%§!\n"
+ MHC_TRAIT_45: "Скорость восстановления дивизии: §G+8.0%§!\n"
+ MHC_TRAIT_46: "Скорость восстановления дивизии: §G+12.0%§!\n"
+ #concealment #NT!
+ MHC_TRAIT_47: "Вражеская воздушная поддержка: §G-5.0%§!\n"
+ MHC_TRAIT_48: "Вражеская воздушная поддержка: §G-10.0%§!\n"
+ MHC_TRAIT_49: "Вражеская воздушная поддержка: §G-15.0%§!\n"
+ #logistics #NT!
+ MHC_TRAIT_50: "Потери дивизии: §G-4.0%§!\n"
+ MHC_TRAIT_51: "Потери дивизии: §G-8.0%§!\n"
+ MHC_TRAIT_52: "Потери дивизии: §G-12.0%§!\n"
+ #eoanb_trait_inf_defence_1 #NT!
+ MHC_TRAIT_53: "Скорость окопов: §G+5.0%§!\nПехотная Оборона Дивизии: §G+10.0%§!\n"
+ #eoanb_trait_cav_general_2 #NT!
+ MHC_TRAIT_54: "Кавалерийская Атака: §G+10.0%§!\nОборона кавалерии: §G+10.0%§!\n"
+ #eoanb_trait_partisan_killer #NT!
+ MHC_TRAIT_138: "Скорость роста сопротивления: §G-5.0%§!\nУщерб гарнизонам: §G-5.0%§!\nШанс активности сопротивления: §G-5.0%§!\n"
+ #nation in arms #NT!
+ MHC_TRAIT_139: "Рекрутируемое население: §Y+10%§!\n"
+
+ #air experience gain #NT!
+ MHC_TRAIT_55: "Прирост опыта ВВС: §G+5.0%§!\n"
+ MHC_TRAIT_56: "Прирост опыта ВВС: §G+10.0%§!\n"
+ MHC_TRAIT_57: "Прирост опыта ВВС: §G+15.0%§!\n"
+ #accident chance #NT!
+ MHC_TRAIT_58: "Шанс авиакатастрофы: §G-5.0%§!\n"
+ MHC_TRAIT_59: "Шанс авиакатастрофы: §G-10.0%§!\n"
+ MHC_TRAIT_60: "Шанс авиакатастрофы: §G-15.0%§!\n"
+ #airforce old guard #NT!
+ MHC_TRAIT_61: "Прирост законодательной власти: §G+10%§!\nПрирост опыта ВВС: §R-10.0%§!\n"
+ #night penalty #NT!
+ MHC_TRAIT_62: "Штраф за ночные операции: §G-10.0%§!\n"
+ MHC_TRAIT_63: "Штраф за ночные операции: §G-20.0%§!\n"
+ MHC_TRAIT_64: "Штраф за ночные операции: §G-30.0%§!\n"
+ #air superiority #NT!
+ MHC_TRAIT_65: "Превосходство в воздухе: §G+5.0%§!\n"
+ MHC_TRAIT_66: "Превосходство в воздухе: §G+10.0%§!\n"
+ MHC_TRAIT_67: "Превосходство в воздухе: §G+15.0%§!\n"
+ #weather #NT!
+ MHC_TRAIT_68: "Штраф за плохую погоду: §G-10.0%§!\n"
+ MHC_TRAIT_69: "Штраф за плохую погоду: §G-20.0%§!\n"
+ MHC_TRAIT_70: "Штраф за плохую погоду: §G-30.0%§!\n"
+ #air combat #NT!
+ MHC_TRAIT_71: "Шанс появления Аса: §G+5.0%§!\n"
+ MHC_TRAIT_72: "Шанс появления Аса: §G+10.0%§!\n"
+ MHC_TRAIT_73: "Шанс появления Аса: §G+15.0%§!\n"
+ #naval strike #NT!
+ MHC_TRAIT_74: "Морская бомбардировка: §G+2.0%§!\nНавигационное прицеливание: §G+2.0%§!\nНавигационная Маневренность: §G+2.0%§!\n"
+ MHC_TRAIT_75: "Морская бомбардировка: §G+3.0%§!\nНавигационное прицеливание: §G+3.0%§!\nНавигационная Маневренность: §G+3.0%§!\n"
+ MHC_TRAIT_76: "Морская бомбардировка: §G+5.0%§!\nНавигационное прицеливание: §G+5.0%§!\nНавигационная Маневренность: §G+5.0%§!\n"
+ #interception #NT!
+ MHC_TRAIT_77: "Атака с перехватом: §G+2.0%§!\nОборона от перехвата: §G+2.0%§!\nПерехват Маневренность: §G+2.0%§!\n"
+ MHC_TRAIT_78: "Атака с перехватом: §G+3.0%§!\nОборона от перехвата: §G+3.0%§!\nПерехват Маневренность: §G+3.0%§!\n"
+ MHC_TRAIT_79: "Атака с перехватом: §G+5.0%§!\nОборона от перехвата: §G+5.0%§!\nПерехват Маневренность: §G+5.0%§!\n"
+ #specific air superiority #NT!
+ MHC_TRAIT_80: "Атака воздушного превосходства: §G+2.0%§!\nОборона воздушного превосходства: §G+2.0%§!\nПревосходство в воздухе Маневренность: §G+2.0%§!\n"
+ MHC_TRAIT_81: "Атака воздушного превосходства: §G+3.0%§!\nОборона воздушного превосходства: §G+3.0%§!\nПревосходство в воздухе Маневренность: §G+3.0%§!\n"
+ MHC_TRAIT_82: "Атака воздушного превосходства: §G+5.0%§!\nОборона воздушного превосходства: §G+5.0%§!\nПревосходство в воздухе Маневренность: §G+5.0%§!\n"
+ #close air support #NT!
+ MHC_TRAIT_83: "Атака ближней авиационной поддержки: §G+2.0%§!\nОборона ближней воздушной поддержки: §G+2.0%§!\nМаневренность ближней авиационной поддержки: §G+2.0%§!\n"
+ MHC_TRAIT_84: "Атака ближней авиационной поддержки: §G+3.0%§!\nОборона ближней воздушной поддержки: §G+3.0%§!\nМаневренность ближней авиационной поддержки: §G+3.0%§!\n"
+ MHC_TRAIT_85: "Атака ближней авиационной поддержки: §G+5.0%§!\nОборона ближней воздушной поддержки: §G+5.0%§!\nМаневренность ближней авиационной поддержки: §G+5.0%§!\n"
+ #strategic bombing #NT!
+ MHC_TRAIT_86: "Стратегическое бомбометание: §G+3.0%§!\nБомбардировочная Атака: §G+1.0%§!\nБомбовая Оборона: §G+1.0%§!\nБомбардировочная Маневренность: §G+1.0%§!\n"
+ MHC_TRAIT_87: "Стратегическая бомбардировка: §G+5.0%§!\nБомбардировочная Атака: §G+2.0%§!\nБомбовая Оборона: §G+2.0%§!\nБомбардировочная Маневренность: §G+2.0%§!\n"
+ MHC_TRAIT_88: "Стратегическая бомбардировка: §G+9.0%§!\nБомбардировочная Атака: §G+3.0%§!\nБомбовая Оборона: §G+3.0%§!\nБомбардировочная Маневренность: §G+3.0%§!\n"
+ #tactical bombing / ground support #NT!
+ MHC_TRAIT_89: "Наземная поддержка: §G+10.0%§!\n"
+ MHC_TRAIT_90: "Наземная поддержка: §G+15.0%§!\n"
+ MHC_TRAIT_91: "Наземная поддержка: §G+20.0%§!\n"
+ #paradrop #NT!
+ MHC_TRAIT_92: "ВДВ Атака: §G+1.0%§!\nВДВ Оборона: §G+3.0%§!\nВДВ Маневренность: §G+3.0%§!\n"
+ MHC_TRAIT_93: "ВДВ Атака: §G+2.0%§!\nВДВ Оборона: §G+5.0%§!\nВДВ Маневренность: §G+5.0%§!\n"
+ MHC_TRAIT_94: "ВДВ Атака: §G+3.0%§!\nВДВ Оборона: §G+7.0%§!\nВДВ Маневренность: §G+7.0%§!\n"
+ #pilot training #NT!
+ MHC_TRAIT_95: "Прирост опыта тренировки авиакрыла: §G+5.0%§!\n"
+ MHC_TRAIT_96: "Прирост опыта тренировки авиакрыла: §G+10.0%§!\n"
+ MHC_TRAIT_97: "Прирост опыта тренировки авиакрыла: §G+15.0%§!\n"
+
+ #naval aviation #NT!
+ MHC_TRAIT_98: "Морские воздушные атаки с авианосцев: §G+3.0%§!\nВоенно-морские воздушные атаки с авианосцев: §G+3.0%§!\nNВоздушная маневренность с авианосцев: §G+4.0%§!\n"
+ MHC_TRAIT_99: "Морские воздушные атаки с авианосцев: §G+6.0%§!\nВоенно-морские воздушные атаки с авианосцев: §G+7.0%§!\nВоздушная маневренность с авианосцев: §G+8.0%§!\n"
+ MHC_TRAIT_100: "Морские воздушные атаки с авианосцев: §G+10.0%§!\nВоенно-морские воздушные атаки с авианосцев: §G+12.0%§!\nВоздушная маневренность с авианосцев: §G+15.0%§!\n"
+ #decisive battle #NT!
+ MHC_TRAIT_101: "Атака столичного корабля: §G+5.0%§!\nОборона столичного корабля: §G+5.0%§!\nМониторинг Атака: §G+5.0%§!\nОборона мониторинга: §G+5.0%§!\n"
+ MHC_TRAIT_102: "Атака столичного корабля: §G+10.0%§!\nОборона столичного корабля: §G+10.0%§!\nМониторинг Атака: §G+10.0%§!\nОборона мониторинга: §G+10.0%§!\n"
+ MHC_TRAIT_103: "Атака столичного корабля: §G+15.0%§!\nОборона столичного корабля: §G+15.0%§!\nМониторинг Атака: §G+15.0%§!\nОборона мониторинга: §G+15.0%§!\n"
+ #commerce raiding #NT!
+ MHC_TRAIT_104: "Эффективность атаки на конвои: §G+10.0%§!\n"
+ MHC_TRAIT_105: "Эффективность атаки на конвои: §G+15.0%§!\n"
+ MHC_TRAIT_106: "Эффективность атаки на конвои: §G+20.0%§!\n"
+ #navy old guard #NT!
+ MHC_TRAIT_107: "Прирост законодательной власти: §G+10%§!\nПрирост опыта флота: §R-10.0%§!\n"
+ #reform #NT!
+ MHC_TRAIT_108: "Прирост опыта флота: §G+5.0%§!\n"
+ MHC_TRAIT_109: "Прирост опыта флота: §G+10.0%§!\n"
+ MHC_TRAIT_110: "Прирост опыта флота: §G+15.0%§!\n"
+ #maneuver #NT!
+ MHC_TRAIT_111: "Морская скорость: §G+5.0%§!\n"
+ MHC_TRAIT_112: "Морская скорость: §G+10.0%§!\n"
+ MHC_TRAIT_113: "Морская скорость: §G+15.0%§!\n"
+ #anti submarine #NT!
+ MHC_TRAIT_114: "Обнаружение подводных лодок: §G+10.0%§!\n"
+ MHC_TRAIT_115: "Обнаружение подводной лодки: §G+15.0%§!\n"
+ MHC_TRAIT_116: "Обнаружение подводной лодки: §G+20.0%§!\n"
+ #naval air defense #NT!
+ MHC_TRAIT_117: "Морская Атака АА: §G+8.0%§!\n"
+ MHC_TRAIT_118: "Морская Атака АА: §G+15.0%§!\n"
+ MHC_TRAIT_119: "Морская Атака АА:  §G+20.0%§!\n"
+ #fleet logistics #NT!
+ MHC_TRAIT_120: "Коэффициент максимальной дальности плавания: §G+5.0%§!\n"
+ MHC_TRAIT_121: "Коэффициент максимальной дальности плавания: §G+10.0%§!\n"
+ MHC_TRAIT_122: "Коэффициент максимальной дальности плавания: §G+15.0%§!\n"
+ #amphibious assault #NT!
+ MHC_TRAIT_123: "Скорость вторжения амфибий: §G+5.0%§!\n"
+ MHC_TRAIT_124: "Скорость вторжения амфибии: §G+10.0%§!\n"
+ MHC_TRAIT_125: "Скорость вторжения амфибий: §G+15.0%§!\n"
+ #submarine #NT!
+ MHC_TRAIT_126: "Атака подводной лодки: §G+10.0%§!\nОборона подводной лодки: §G+5.0%§!\n"
+ MHC_TRAIT_127: "Атака подводной лодки: §G+15.0%§!\nОборона подводной лодки: §G+10.0%§!\n"
+ MHC_TRAIT_128: "Атака подводной лодки: §G+20.0%§!\nОборона подводной лодки: §G+15.0%§!\n"
+ #capital ships #NT!
+ MHC_TRAIT_129: "Атака столичного корабля: §G+5.0%§!\nБроня столичного корабля: §G+5.0%§!\n"
+ MHC_TRAIT_130: "Атака столичного корабля: §G+10.0%§!\nБроня столичного корабля: §G+10.0%§!\n"
+ MHC_TRAIT_131: "Атака столичного корабля: §G+15.0%§!\nБроня столичного корабля: §G+15.0%§!\n"
+ #screen #NT!
+ MHC_TRAIT_132: "Мониторинг Атака: §G+5.0%§!\nМониторинг Оборона: §G+10.0%§!\n"
+ MHC_TRAIT_133: "Мониторинг Атака: §G+10.0%§!\nМониторинг Оборона: §G+15.0%§!\n"
+ MHC_TRAIT_134: "Мониторинг Атака: §G+15.0%§!\nМониторинг Оборона: §G+20.0%§!\n"
+ #carrier #NT!
+ MHC_TRAIT_135: "Эффективность сортировки: §G+10.0%§!\n"
+ MHC_TRAIT_136: "Эффективность сортировки: §G+15.0%§!\n"
+ MHC_TRAIT_137: "Эффективность сортировки: §G+20.0%§!\n"

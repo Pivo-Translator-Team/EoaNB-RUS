@@ -1,0 +1,595 @@
+﻿l_russian:
+### EVENTS ### #NT!
+#DIETS AND CONFERENCES #NT!
+gerconfed.1.t: "Наш голос: Франкфуртское реформаторство"
+gerconfed.1.d: "Австрия недавно предложила \"Франкфуртскую реформу\" членам Германской Конфедерации. Эти реформы укрепят их государство с помощью некоторых законов, а также продвинут Германскую Конфедерацию к тому, чтобы стать государством наций. Теперь вопрос заключается в следующем: Поддержим ли мы эту реформу? Вероятно, это будет обременительно для нашей страны...".
+gerconfed.1.a: "Мы не видим проблем с этими реформами - мы будем голосовать за это".
+gerconfed.1.b: "Это очевидный захват власти Австрией - мы будем голосовать против".
+gerconfed.2.t: "ДЕБАГ: Подсчет голосов Франкфуртской реформы"
+gerconfed.2.d: "Скрытое событие, подсчет голосов Франкфуртской реформы".
+gerconfed.2.a: "Реформа проходит".
+gerconfed.2.b: "Реформа не проходит".
+gerconfed.2.c: "Ничья".
+eoanb_tt_event_gerconfed_1_yes: "§YМы будем голосовать за Франкфуртские реформы!§!".
+eoanb_tt_event_gerconfed_1_no: "§YМы будем голосовать против Франкфуртских реформ!§!".
+eoanb_tt_generic_variable: "Общая всплывающая подсказка для переменных (скрытая)".
+eoanb_tt_event_gerconfed_5_c: "§YНичего не произойдет.§!".
+gerconfed.3.t: "Наше предложение успешно!"
+gerconfed.3.d: "Страны-члены Германской Конфедерации проголосовали, и наше предложение прошло! Франкфуртские реформы вступили в силу".
+gerconfed.3.a: "Очень хорошо!"
+gerconfed.4.t: "Наше предложение отклонено!"
+gerconfed.4.d: "Страны-члены Германской Конфедерации проголосовали, и наше предложение было отклонено! Франкфуртские реформы были отклонены большинством голосов".
+gerconfed.4.a: "Черт побери!"
+gerconfed.5.t: "Франкфуртские реформы - ничья в Конфедерации"
+gerconfed.5.d: "Страны-члены Германской Конфедерации проголосовали, и похоже, что ничья! Голосов за и против предложения абсолютно одинаковое количество, поэтому вопрос просто снят с рассмотрения..."
+gerconfed.5.a: "Какая жалость..."
+eoanb_tt_event_gerconfed_6_a: "§YАвстрия получит небольшое количество политической власти.§!"
+eoanb_tt_event_gerconfed_6_b: "§YМы проголосуем против их предложения.§!"
+gerconfed.6.t: "Диета во Франкфурте"
+gerconfed.6.d: "Австрия созвала диету Германской Конфедерации во Франкфурте, где они будут пытаться укрепить свои интересы в отношении Конфедерации. Каждая страна-член имеет право голосовать по их предложению - и теперь наша очередь."
+gerconfed.6.a: "Мы поддержим Австрию".
+gerconfed.6.b: "Мы не будем поддерживать Австрию".
+eoanb_om_gerconfed_7: "Участвовал в первой Вюрцбургской конференции"
+eoanb_tt_event_gerconfed_7_no: "§RНас могут выгнать из Конфедерации, если мы отклоним слишком много приглашений.§!"
+eoanb_flag_event_gerconfed_7_declined: "Приглашение на первую Вюрцбургскую конференцию было отклонено этой страной".
+eoanb_tt_event_gerconfed_7_yes: "§GСледует несколько улучшить отношения со всеми членами Конфедерации.§!".
+gerconfed.7.t: "Первая Вюрцбургская конференция"
+gerconfed.7.d: "Члены Германской Конфедерации были приглашены принять участие в конференции в Вюрцбурге в попытке укрепить связь между нациями, составляющими Конфедерацию. Должен ли [Root.GetName] принять приглашение?".
+gerconfed.7.a: "Принять приглашение".
+gerconfed.7.b: "Отклонить приглашение".
+eoanb_tt_event_gerconfed_8_no: "§RНас могут выгнать из Конфедерации, если мы отклоним слишком много приглашений.§!".
+eoanb_flag_event_gerconfed_8_declined: "Приглашение на вторую Вюрцбургскую конференцию было отклонено этой страной".
+gerconfed.8.t: "Вторая Вюрцбургская конференция"
+gerconfed.8.d: "Члены Германской Конфедерации были приглашены принять участие в очередной конференции в Вюрцбурге - на этот раз будут обсуждаться военные дела Конфедерации. Будет ли [Root.GetName] присутствовать?".
+gerconfed.8.a: "Принять приглашение".
+gerconfed.8.b: "Отклонить приглашение".
+eoanb_tt_event_gerconfed_9_yes: "§YВсе остальные члены Конфедерации также получат некоторую политическую власть.§!"
+eoanb_tt_event_gerconfed_9_no: "§YВсе другие члены Конфедерации также потеряют некоторую политическую власть.§!"
+gerconfed.9.t: "Вторая Вюрцбургская конференция"
+gerconfed.9.d: "Члены Германской Конфедерации были приглашены принять участие в очередной конференции в Вюрцбурге - на этот раз будут обсуждаться военные дела Конфедерации. Примет ли Пруссия участие?"
+gerconfed.9.a: "Принять приглашение".
+gerconfed.9.b: "Отклонить приглашение".
+eoanb_tt_event_gerconfed_10_yes: "§YВсе остальные члены Конфедерации также получат некоторую политическую власть.§!"
+eoanb_tt_event_gerconfed_10_no: "§YВсе другие члены Конфедерации также потеряют некоторую политическую власть.§!"
+gerconfed.10.t: "Вторая Вюрцбургская конференция"
+gerconfed.10.d: "Члены Германской Конфедерации были приглашены принять участие в очередной конференции в Вюрцбурге - на этот раз будут обсуждаться военные вопросы Конфедерации. Примет ли Австрия участие?"
+gerconfed.10.a: "Принять приглашение".
+gerconfed.10.b: "Отклонить приглашение".
+eoanb_flag_event_gerconfed_7_true: "Первая Вюрцбургская конференция состоялась".
+eoanb_flag_event_gerconfed_8_true: "Вторая Вюрцбургская конференция состоялась".
+eoanb_flag_event_gerconfed_11_true: "Состоялась первая часть Третьей Вюрцбургской конференции."
+eoanb_flag_event_gerconfed_12_true: "Вторая часть Третьей Вюрцбургской конференции состоялась."
+eoanb_tt_event_gerconfed_11_no: "§Нас могут выгнать из Конфедерации, если мы отклоним слишком много приглашений.§!".
+eoanb_flag_event_gerconfed_11_declined: "Приглашение на третью Вюрцбургскую конференцию было отклонено этой страной".
+gerconfed.11.t: "Третья Вюрцбургская конференция - первое заседание".
+gerconfed.11.d: "Члены Германской Конфедерации были приглашены принять участие в очередной конференции в Вюрцбурге - на этот раз должны были обсуждаться части конституции, касающиеся военных дел нескольких стран - но первая часть конференции закончилась гигантской склокой и ничего не было достигнуто... Вторая встреча была назначена через несколько недель."
+gerconfed.11.a: "Ну и бардак!"
+gerconfed.11.b: "Хорошо, что мы отклоняети приглашение...".
+gerconfed.12.t: "Третья Вюрцбургская конференция - вторая встреча"
+gerconfed.12.d: "Членам Германской Конфедерации было предложено прислать представителей в Вюрцбург на обязательное заседание после того, как первое заседание Третьей Вюрцбургской конференции ужасно провалилось. На этот раз мы должны проголосовать за предоставление Германской Конфедерации большей власти над своими членами."
+gerconfed.12.a: "Почему бы и нет? Более сильная Конфедерация может принести пользу всем нам...".
+gerconfed.12.b: "Это очевидный заговор с целью лишить нас независимости!"
+gerconfed.13.t: "Выгнать из Конфедерации!"
+gerconfed.13.d: "После нашего неоднократного неповиновения Немецкой Конфедерации, выраженного в отказе от их приглашений на конференции, Конфедерация проголосовала за изгнание [Root.GetName] из своих рядов. Мы больше не имеем права голоса в их делах...".
+gerconfed.13.a: "Похоже, нас это ожидало..."
+gerconfed.14.t: "ДЕБАГ: Устанавливает глобальный флаг"
+gerconfed.14.d: "Устанавливает глобальный флаг для первой Вюрцбургской конференции, чтобы он не срабатывал многократно".
+gerconfed.14.a: "Хорошо".
+gerconfed.15.t: "ДЕБАГ: Устанавливает глобальный флаг"
+gerconfed.15.d: "Устанавливает глобальный флаг для второй Вюрцбургской конференции, чтобы он не срабатывал многократно".
+gerconfed.15.a: "Хорошо".
+gerconfed.16.t: "ДЕБАГ: Устанавливает глобальный флаг"
+gerconfed.16.d: "Устанавливает глобальный флаг для первой половины третьей Вюрцбургской конференции, чтобы он не срабатывал многократно".
+gerconfed.16.a: "Хорошо".
+gerconfed.17.t: "ДЕБАГ: Устанавливает глобальный флаг"
+gerconfed.17.d: "Устанавливает глобальный флаг для второй половины третьей Вюрцбургской конференции, чтобы он не срабатывал многократно".
+gerconfed.17.a: "Хорошо".
+gerconfed.18.t: "ДЕБАГ: Очищает 4 глобальных флага"
+gerconfed.18.d: "Это очищает 4 флага о Германской конфедерации, чтобы игра не лагала".
+gerconfed.18.a: "Хорошо."
+
+#GENERAL EVENTS #NT!
+gerconfed.30.t: "Успешная разведка ресурсов"
+gerconfed.30.d: "Наши геологи вернулись с хорошими новостями: мы обнаружили новое месторождение ресурсов в нашей области".
+gerconfed.30.a: "Отличные новости!"
+gerconfed.31.t: "Поиски ресурсов не увенчались успехом"
+gerconfed.31.d: "К сожалению, наши усилия по поиску ресурсов не увенчались успехом".
+gerconfed.31.a: "Будем надеяться, что в следующий раз нам повезет больше".
+gerconfed.32.t: "[FROM.GetNameDef] Ищет военную конвенцию"
+gerconfed.32.d: ""
+gerconfed.32.a: "Это прекрасная идея, подпишите конвенцию".
+gerconfed.32.b: "[ROOT.GetNameDef] не нуждается в таком соглашении".
+gerconfed.33.t: "[FROM.GetNameDef] соглашается на военную конвенцию"
+gerconfed.33.d: ""
+gerconfed.33.a: "Отличные новости".
+gerconfed.34.t: "[FROM.GetNameDef] отклоняет военную конвенцию"
+gerconfed.34.d: ""
+gerconfed.34.a: "Печальные новости".
+gerconfed.35.t: "[FROM.GetNameDef] просит о сделке по оружию"
+gerconfed.35.d_rifles: "[FROM.GetNameDef] обратился к нам с предложением купить винтовки у наших производителей. Они хотели бы приобрести 500 единиц пехотных винтовок по разумной цене. Если мы согласимся на их запрос, они могут выполнить заказ".
+gerconfed.35.d_uniforms: "[FROM.GetNameDef] обратился к нам с предложением купить униформу у наших производителей. Они хотели бы приобрести 500 единиц пехотной униформы по разумной цене. Если мы согласимся на их запрос, они могут выполнить заказ".
+gerconfed.35.d_cannons: "[FROM.GetNameDef] обратился к нам с предложением купить пушки у наших производителей. Они хотели бы приобрести 25 единиц полевых пушек по разумной цене. Если мы согласимся на их запрос, они могут выполнить заказ".
+gerconfed.35.a: "Мы согласились бы на такое соглашение".
+gerconfed.35.b: "Мы отвергаем такое соглашение".
+GEC_sell_weapons_profit_effect_tt: "§YМы бы получили финансовую выгоду от такой сделки по продаже оружия.§!"
+gerconfed.36.t: "[FROM.GetNameDef] Принял бы сделку по оружию"
+gerconfed.36.d: "[FROM.GetNameDef] принял наш запрос на покупку военного оборудования. Теперь мы можем выполнить заказ, если мы все еще хотим купить оружие".
+gerconfed.36.a: "Отличные новости".
+gerconfed.37.t: "[FROM.GetNameDef] отказывается от сделки по оружию"
+gerconfed.37.d: "[FROM.GetNameDef] отклоняет наш запрос на покупку военного оборудования. Мы можем обратиться к ним снова примерно через два года, возможно, до этого времени они передумают".
+gerconfed.37.a: "Печальные новости".
+gerconfed.38.t: "[FROM.GetNameDef] подтверждает оружейную сделку"
+gerconfed.38.d: "[FROM.GetNameDef] подтвердил сделку по оружию. Мы получим деньги в обмен на наше военное оборудование".
+gerconfed.38.a: "Хорошая сделка для обеих сторон".
+
+#FLAVOUR EVENTS #NT!
+gerconfed.501.t: "50th Anniversary Ceremony of the Battle of the Nations at Leipzig"
+gerconfed.501.d: "It's been 50 years since the combined armies of Russia, Sweden and many German countries handed Napoléon Bonaparte a decisive defeat south of Leipzig, in a battle that was the largest Europe has ever seen. Not only was the so-called 'Battle of the Nations' a major milestone in Napoléon's demise, it also fueled hopes of a German nation state and, for the first time, made this distant dream seem like a real possibility."
+gerconfed.501.a: "Let's commemorate and remember the fallen soldiers."
+gerconfed.502.t: "Centenary of Friedrich Schiller's Birthday"
+gerconfed.502.d: "Today marks the Centenary of Friedrich Schiller's birthday, the famous and influential German poet, playwright, and philosopher born in 1759. He was a vital member of both the 'Sturm und Drang' and the 'Weimar Classicism' literary movements and author of many divine works of art such as the dramas 'Die Räuber' ('The Robbers'), 'Don Karlos' ('Don Carlos'), 'Wallenstein', 'Mary Stuart', or 'Wilhelm Tell' ('William Tell'), and his most famous work of all times, the ode 'An die Freude' ('Ode to Joy') that was later used in Ludwig van Beethoven's Ninth Symphony many years after Schiller's death, which further underlines his status and importance in German and international literature and culture. Celebrations will be held in a great number of German cities, the largest festivities are expected to take place in Frankfurt and of course Weimar, Schiller's main place of activity."
+gerconfed.502.a: "A great literate for sure."
+gerconfed.503.t: "Richard Wagner Granted Partial Amnesty"
+gerconfed.503.d: "Today, Richard Wagner, a German composer, theatre director, and conductor was granted partial amnesty by His Majesty King Johann of Saxony. After his participation in the failed May Uprising in Dresden, Wagner had been exiled to Switzerland in 1849, where he kept composing music and contacted his good friend Franz Liszt to stage the 'Lohengrin' (a Romantic opera in three acts completed before the Dresden Uprising) in his absence. During his exile, Wagner also wrote 'Das Judenthum in der Musik', a pamphlet that featured his blazing antisemitic views, often criticizing Jewish composers like Felix Mendelssohn."
+gerconfed.503.a: "Hm, what will Wagner do now?"
+gerconfed.504.t: "Richard Wagner Granted Full Amnesty"
+gerconfed.504.d: "A few days ago, the political ban that had been placed on Richard Wagner has finally been lifted and full amnesty has been granted by His Majesty King Johann of Saxony. Wagner is now a free man and able to travel at his own volition, though he still faces economic challenges and is heavily dependent on his patrons. Will Wagner be able to resurge to relevancy once again?"
+gerconfed.504.a: "Only time will tell."
+gerconfed.505.t: "King Ludwig II of Bavaria Becomes Wagner's Patron"
+gerconfed.505.d: "The recently crowned King Ludwig II of Bavaria recently became Richard Wagner's main patron. When he ascended to the throne, he expressed interest in Wagner's operas and eventually brought the composer to Munich, Bavaria's capitol. The King is rumored to have homosexual tendencies, and, thus, it is being said that he was not only interested in Wagner's talent but also had an ardent passion for him out of personal adoration. King Ludwig is now expected to settle Wagner's debts, and he is offering a stage for the operas Wagner has already written and still in mind. What will this mean for Wagner's career?"
+gerconfed.505.a: "We shall wait and see."
+gerconfed.506.t: "World Premiere of 'Tristan und Isolde' in Munich"
+gerconfed.506.d: "As promised by His Majesty King Ludwig II of Bavaria, 'Tristan und Isolde', a complicated opera composed by Richard Wagner, considered by many to be almost impossible to sing and unperformable, yesterday premiered at the National Theatre Munich. Almost 15 years after Wagner's last opera premiere, the event went as planned and the impossible was accomplished, leaving the audience in awe. Though the person who played Tristan, Ludwig Schnorr von Carolsfeld is not feeling very well after the performance, but that might just be a stomachache or something like that and the actor should soon be able to perform again."
+gerconfed.506.a: "Wagner's career has been revived."
+gerconfed.507.t: "World Premiere of 'Das Rheingold' in Munich"
+gerconfed.507.d: "Yesterday, 'Das Rheingold' premiered in Munich, though it was surrounded by controversy. Richard Wagner, the composer of the music drama, didn't want 'Das Rheingold' to premiere at this point, because he wanted to finish the other parts of his four-part cycle of epic music dramas called 'Der Ring des Nibelungen', or the Ring Cycle, first, of which only 'Das Rheingold' is ready to be staged yet. Although there was another reason for Wagner's refusal, as he is purported to have an affair with Cosima von Bülow, a married woman and daughter of Wagner's dear friend Franz Liszt, which led to scandal. Nevertheless, His Majesty King Ludwig II of Bavaria is in possession of the copyright of the work and decided to hold the premiere this year, although Wagner had persuaded the conductor Hans Richter to step down earlier. The angered King Ludwig denounced Wagner and sacked Richter, appointing another conductor, Franz Wüllner, to conduct the piece for the premiere. This matter greatly damaged the relationship of King Ludwig II and Wagner."
+gerconfed.507.a: "This might have consequences..."
+gerconfed.508.t: "World Premiere of 'Die Walküre' in Munich"
+gerconfed.508.d: "Just like 'Das Rheingold' last year, 'Die Walküre' also premiered in Munich yesterday against Wagner's will. The composer is opposed to the premiering because his Ring Cycle is not yet complete and Wagner still holds the opinion that it is an atrocity to premiere them separately. This is almost certain to sour the already damaged relationship between King Ludwig and Wagner further."
+gerconfed.508.a: "Oh dear..."
+gerconfed.508.b: "Oh dear..."
+gerconfed.509.t: "Richard Wagner Married Cosima Liszt in Lucerne"
+gerconfed.509.d: "News reaches us of the marriage of Cosima Liszt, former von Bülow, (daughter of Franz Liszt) and Richard Wagner in Lucerne, Switzerland, and the corresponding celebrations. The marriage had been planned for a long time, and the newlyweds had already been in a secret and then open relationship before the death of Wagner's first wife in 1866. Cosima was, at the time, also married, to Hans von Bülow, a friend of Wagner, but the couple finally separated in 1868 and von Bülow granted Cosima a divorce earlier this year, as she already has three children with Wagner now. This is expected to further strengthen the bond between Richard Wagner and Franz Liszt as well."
+gerconfed.509.a: "Congratulations!"
+gerconfed.509.b: "Congratulations!"
+gerconfed.510.t: "Cornerstone Ceremony of the Festspielhaus in Bayreuth"
+gerconfed.510.d: "After moving to Bayreuth in 1871, in search for a place willing to build a new opera house, the local town council donated Richard Wagner a large plot of land for that purpose. Earlier this year, the initial foundations for the so-called Festspielhaus, or Festival Theatre, have been laid in Bayreuth. At the cornerstone ceremony earlier today Wagner announced that the building is supposed to be completed by 1873. The venue will feature a so-called 'mystic gulf', a pit between the audience and the stage where the orchestra will be located, meant to provide a unique character to the performances and a physical reinforcement of the mythic character of many of Wagner's operas."
+gerconfed.510.a: "Wagner's future looks bright as day..."
+gerconfed.511.t: "World Premiere of the Bayreuther Festspiele"
+gerconfed.511.d: "Yesterday evening, the first Bayreuther Festspiele, or Bayreuth Festival, commenced in Wagner's Festspielhaus at Bayreuth. The venue was supposed to be completed by 1873, but King Ludwig II of Bavaria refused to finance the project further, and to sustain his dream, Wagner had to raise funds through the so-called 'Wagner societies', which took some time to accumulate a part of the required funding, and in early 1874, King Ludwig agreed to provide Wagner with a loan for the project, and the theatre was finished in 1875, in time for the first edition of the Festspiele this year. The festival was opened with a performance of Beethoven's 'Choral' Symphony yesterday, and today the world premiere of the complete Ring Cycle, along with those of its third and fourth parts 'Siegfried' and 'Götterdämmerung' in the coming days. Although the event's success is yet to be seen, the festival will definitely cement Wagner's standing as an important artist of elevated importance on a global scale, as many important people are set to attend the premiere festival, among them Kaiser Wilhelm I, Emperor Pedro II of Brazil, Anton Bruckner, Camille Saint-Saëns, Edvard Grieg, Friedrich Nietzsche, and Pyotr Ilyich Tchaikovsky."
+gerconfed.511.a: "What will the future hold for Wagner and Bayreuth?"
+gerconfed.512.t: "Second Edition of the Bayreuther Festspiele"
+gerconfed.512.d: "The premiere of the Bayreuth Festival ended in a financial loss for Wagner, but his standing as an artist improved drastically. In the aftermath, Wagner began working on his opera 'Parsifal'. The composition alone took him four years, most of which Wagner spent in Italy because of his declining health. At first he was having a hard time financing 'Parsifal', but he was assisted again by King Ludwig, but his personal financial situation still forced him to sell the rights to some of his unpublished works. Yesterday, after another ordeal to secure the financing, the second edition of the Bayreuth Festival commenced with the world premiere of 'Parsifal', which was greatly acclaimed by the public. This time, Wagner even held the conductor's baton in his own hands and led the performance to the end, the first time he ever did that at Bayreuth. Worrying, however, is Wagner's health. The renowned composer is severely ill and may not be able to host another festival himself."
+gerconfed.512.a: "We can only hope for the best..."
+gerconfed.513.t: "Richard Wagner Dies in Venice"
+gerconfed.513.d: "Wilhelm Richard Wagner, aged 69, died of a heart attack while on a journey with his family in Venice yesterday.\n He is survived by his wife Cosima Wagner and his children: Isolde Josefa Ludovika, Eva Maria Chamberlain, and Siegfried Helferich Richard Wagner. Today, a funerary gondola will guide his body through Venice, after which his body is going to be taken back to Germany where he will be put to rest in the garden of the Villa Wahnfried in Bayreuth, with the funeral scheduled for the 18th of February."
+gerconfed.513.a: "Good heavens!"
+gerconfed.514.t: "Richard Wagner's Funeral in Bayreuth"
+gerconfed.514.d: "Following his tragic death in Venice, Richard Wagner's body has been taken back to Germany, accompanied by honorary acts of condolence along the way to Bayreuth via Munich. His funeral is scheduled for today, when his body will be put to rest in the garden of his home in Bayreuth, the Villa Wahnfried, close to the grave of his beloved dog Russ. The German and global art scene has lost one its greatest artistic masterminds, but his legacy is going to live on in Bayreuth and beyond surely."
+gerconfed.514.a: "Rest in Peace."
+gerconfed.515.t: "HAPAG Steamer Austria Sinks - Hundreds of Casualties"
+gerconfed.515.d: ""
+gerconfed.515.a: "Good heavens!"
+gerconfed.516.t: "Foundation of the 'Deutsche Volkspartei' (DVP)" #NT!
+gerconfed.516.d: "Bismarck's question for indemnity, in this case meaning the subsequent legitimization of a previously enforced political action, has divided the liberal movement in Northern Germany, and we, too, can feel the ramifications of this political earthquake. The social liberal movements in the south gathered in Stuttgart a few days ago to coordinate their response, and a vast majority of delegates have voted to form a new party, the so-called 'German People's Party', or 'Deutsche Volkspartei' (DVP), and oppose Bismarck's course towards German unification under Prussian overlordship." #NT!
+gerconfed.516.a: "Finally a liberal party promoting the greater German solution..." #NT!
+gerconfed.517.t: "Badische Anilin- und Sodafabrik (BASF) Founded by Friedrich Engelhorn" #NT!
+gerconfed.517.d_bad: "Capitalist Friedrich Engelhorn from Mannheim has established a new chemical and dye company called “Badische Anilin- und Sodafabrik” (BASF), or Baden Aniline and Soda Factory. As owner of the local gas lighting company, Engelhorn intends to use coal tar, a waste by-product from the creation of illuminating gas for streets lights, as tar dye (also known as aniline dye), a synthetic dye that is as beautiful as natural dyes but cheaper to produce and less prone to stain when exposed to light. Engelhorn is expected to start construction of the new plant very soon on his premises in Mannheim, but the locals are worried about the pollution and stench that might result from the new plant." #NT!
+gerconfed.517.d_bav: "Capitalist Friedrich Engelhorn from the [BAD.GetName] has established a new chemical and dye company called “Badische Anilin- und Sodafabrik” (BASF), or Baden Aniline and Soda Factory in Mannheim. As owner of the local gas lighting company, Engelhorn intends to use coal tar, a waste by-product from the creation of illuminating gas for streets lights, as tar dye (also known as aniline dye), a synthetic dye that is as beautiful as natural dyes but cheaper to produce and less prone to stain when exposed to light. The process has the potential to make the production of textiles and other goods depending on dyes in Germany much cheaper. Engelhorn is expected to start construction of the new plant very soon on his premises in Mannheim, but the locals are worried about the pollution and stench that might result from the new plant. We could use these concerns to our advantage and offer Engelhorn subsidies, if he were to move his company to Ludwigshafen just across the Rhine - but on our territory. Do we want to get involved?" #NT!
+gerconfed.517.d_gec: "Capitalist Friedrich Engelhorn from the [BAD.GetName] has established a new chemical and dye company called “Badische Anilin- und Sodafabrik” (BASF), or Baden Aniline and Soda Factory in Mannheim. As owner of the local gas lighting company, Engelhorn intends to use coal tar, a waste by-product from the creation of illuminating gas for streets lights, as tar dye (also known as aniline dye), a synthetic dye that is as beautiful as natural dyes but cheaper to produce and less prone to stain when exposed to light. The process has the potential to make the production of textiles and other goods depending on dyes in Germany much cheaper. Engelhorn is expected to start construction of the new plant very soon on his premises in Mannheim, but the locals are worried about the pollution and stench that might result from the new plant." #NT!
+gerconfed.517.a: "They've got nothing to worry about." #NT!
+gerconfed.517.b: "Offer him subsidies for a move to Ludwigshafen." #NT!
+BAV_attract_basf_to_ludwigshafen_effect_tt: "§YDepending on how the Baden government reacts, Engelhorn might accept our offer and move the company to Ludwigshafen.§!" #NT!
+gerconfed.517.c: "Don't get involved." #NT!
+gerconfed.517.e: "Sounds like a business with good prospects." #NT!
+gerconfed.518.t: "Bavaria Lures Engelhorn with Industrial Subsidies" #NT!
+gerconfed.518.d: "News reaches us that the Bavarians have offered Friedrich Engelhorn subsidies to move his company over the Rhine to Ludwigshafen, and, thus, out of our country. They must have gotten wind of the concerns among the Mannheim locals and the city council regarding the factory's potentially unpleasant and hazardous emissions. If we don't match the Bavarians' offer for subsidies, we risk losing Engelhorn and his company..." #NT!
+gerconfed.518.a: "Match their offer to keep him here." #NT!
+basf_and_engelhorn_available_effect_tt: "§GThis will unlock the BASF for a company partnership and Friedrich Engelhorn as an advisor.§!" #NT!
+gerconfed.518.b: "Don't match their offer." #NT!
+basf_moves_to_ludwigshafen_effect_tt: "§RThis will mean that Friedrich Engelhorn and the BASF will move to Ludwigshafen.§!" #NT!
+gerconfed.519.t: "Baden Matches Offer for Industrial Subsidies" #NT!
+gerconfed.519.d: "Our plan to attract Friedrich Engelhorn and his company, the BASF, to Ludwigshafen was unsuccessful. The Baden government has decided to match our offer and to make sure that the local city council won't get in the way of Engelhorn's vision of the new company. There's not much that we can do about it." #NT!
+gerconfed.519.a: "Good luck to him anyway." #NT!
+gerconfed.520.t: "Engelhorn and the BASF Move to Ludwigshafen" #NT!
+gerconfed.520.d_bav: "Our plan to attract Friedrich Engelhorn and his company, the BASF, to Ludwigshafen has been successful. The businessman agreed to our subsidy plan which earmarks 1.5 million guldens to assist with the establishment and growth of the company, and we dearly hope that our investment will be worthwhile. For now, it looks like a certain success." #NT!
+gerconfed.520.d_gec: "In a surprising turn of events, Friedrich Engelhorn chose the opposite side of the Rhine to establish his chemical production plant. Instead of his hometown of Mannheim in the [BAD.GetName], he opted to construct the new factory in the city of Ludwigshafen, [BAV.GetName], probably attracted by the promise of subsidies provided by King Maximilian II for the promotion of industrial companies in Bavaria. BASF is expected to receive 1.5 million guldens from the Bavarian government; money that can be used in generating further growth and driving innovation for the company. But at least the citizens of Mannheim can rest easy with their fresh and undisturbed air." #NT!
+gerconfed.520.a: "Great News!" #NT!
+gerconfed.520.b: "Oh, we should be careful this doesn't happen here, too..." #NT!
+
+### GERMAN MINORS GENERIC FOCUS TREE ### #NT!
+#Political Branch #NT!
+GEC_focus_member_of_the_german_confederation: "Член Германской конфедерации"
+GEC_focus_member_of_the_german_confederation_desc: "Под защитой Германской конфедерации мы можем, наконец, сосредоточиться на внутренних проблемах. Мы должны стать менее зависимыми от наших больших соседей".
+GEC_focus_political_maneuvering: "Политическое маневрирование"
+GEC_focus_political_maneuvering_desc: "Германская конфедерация дает нам защиту, но также ставит нас между Австрией и Пруссией в их борьбе за гегемонию над Германией, мы должны маневрировать очень осторожно, иначе мы будем раздавлены между этими двумя гигантами."
+GEC_focus_internal_policy: "Внутренняя политика"
+GEC_focus_internal_policy_desc: "Нашу внутреннюю политику нельзя игнорировать. Даже во времена большой опасности извне нашей самой важной задачей всегда будет обеспечение богатства и стабильности нашего собственного королевства и его народа."
+GEC_focus_liberal_reforms: "Либеральные реформы"
+GEC_focus_liberal_reforms_desc: "Наша страна была втянута в либеральные восстания, обычно называемые мартовскими революциями 1848 года. После того, как первоначальная пыль осела, мы подавили восставших силой, но при этом раскололи общество. Пришло время наконец ответить на призыв к большей индивидуальной свободе".
+GEC_focus_constitutional_amendments: "Конституционные поправки"
+GEC_focus_constitutional_amendments_desc: "На нашем пути либерализации мы должны изменить нашу конституцию в соответствии с новой ситуацией. Вновь полученные гражданские права должны быть подписаны в законе".
+GEC_focus_conservative_stance: "Консервативная позиция"
+GEC_focus_conservative_stance_desc: "Наше наследие уходит корнями в традиции, а оттуда проистекают стабильность и гордость. Будь то избранный богом или назначенный древним ритуалом, мы не имеем права сомневаться в легитимности нашего правления. Старые пути обеспечили мир и процветание, и мы будем придерживаться их".
+GEC_focus_peace_and_quiet: "Мир и спокойствие"
+GEC_focus_peace_and_quiet_desc: "Народ должен оставаться единым за нашим великим правителем, который проведет нас через все кризисы. До тех пор, пока граждане остаются в строю и следуют за ним, мир и процветание будут обеспечены."
+GEC_focus_external_policy: "Внешняя политика"
+GEC_focus_external_policy_desc: "Наши позиции во внешней политике должны быть укреплены, чтобы мы не исчезли в неактуальности. Несмотря на продолжающуюся борьбу за власть Австрии и Пруссии, нам нужно сохранить как можно больше нашей независимости."
+GEC_focus_trade_policy: "Торговая политика"
+GEC_focus_trade_policy_desc: "Наша торговая политика имеет большое значение. Мы должны обеспечить безопасность наших торговых путей и расширить наши усилия по сотрудничеству и процветанию, чтобы избежать дефицита торгового баланса."
+GEC_focus_profits_from_our_harbours: "Прибыль от наших гаваней"
+GEC_focus_profits_from_our_harbours_desc: "Наши гавани дают нам возможность экспортировать наши товары отечественного производства за границу и получать прибыль в виде таможенных платежей за товары, поступающие на нашу территорию от иностранных торговых партнеров или Союза".
+GEC_focus_profits_from_our_harbours_trigger_tt: "§YЭта страна является прибрежной и не входит в Союз.§!"
+GEC_focus_profits_from_the_zollverein: "Прибыль от Союза"
+GEC_focus_profits_from_the_zollverein_desc: "Союз предоставляет нашей экономике прекрасную возможность торговать с другими членами и партнерами, как внутри, так и за пределами Германии, с уплатой лишь ограниченных и разумных таможенных платежей. Это дает нам большой шанс экспортировать нашу продукцию на другие рынки с возможностью максимизации прибыли для наших коммерсантов и бизнесменов."
+GEC_focus_profits_from_the_zollverein_trigger_tt: "§YЭта страна является частью Союз.§!"
+GEC_focus_tensions_in_the_confederation: "Напряженность в Конфедерации"
+GEC_focus_tensions_in_the_confederation_desc: "В Германской конфедерации всегда доминировали Австрия и Пруссия. Этот дуализм больше не кажется стабильным решением немецкого вопроса. Возможно, нам придется выбрать сторону, если мы хотим избежать изоляции, что, однако, оставляет риск быть раздавленными между ними в конечном итоге."
+GEC_focus_prussian_affiliation: "Прусская принадлежность"
+GEC_focus_prussian_affiliation_desc: "Присоединяясь к Прусскому королевству, мы соединяем наши судьбы в грядущих внутригерманских конфликтах. Мы будем стоять или падать вместе с ними в борьбе за Германию".
+GEC_focus_austrian_affiliation: "Австрийская принадлежность"
+GEC_focus_austrian_affiliation_desc: "Присоединяясь к Австрийской империи, мы соединяем наши судьбы для грядущих внутригерманских конфликтов. Мы будем стоять или падать вместе с ними в борьбе за Германию".
+GEC_focus_bring_our_weight_to_bear: "Нести наш груз на плечах"
+GEC_focus_bring_our_weight_to_bear_desc: "Наш политический вес доказан. Страна сплотилась, как никогда раньше. Настало время решить, как мы можем использовать наш вес".
+#Military Branch #NT!
+GEC_focus_the_state_of_our_armed_forces: "Состояние наших вооруженных сил"
+GEC_focus_the_state_of_our_armed_forces_desc: "Наши вооруженные силы должны быть проверены и приведены в соответствие с современным уровнем оборудования и тактики. Хотя они не сравнимы с армиями наших больших соседей, когда дело дойдет до драки, это может быть единственное, что стоит между нашей свободой и порабощением."
+GEC_focus_das_heer: "Das Heer"
+GEC_focus_das_heer_desc: "Наши сухопутные войска являются самым важным видом вооруженных сил, так как именно эти люди стоят на защите нашей свободы, защищая страну. Мы должны сделать все, что в наших силах, чтобы поддержать их в выполнении их долга".
+GEC_focus_prussian_style_reform: "Реформа в прусском стиле"
+GEC_focus_prussian_style_reform_desc: "Наши сухопутные войска должны адаптироваться к современным реалиям войны. Нам нужна высококвалифицированная, хорошо обученная армия, способная адаптироваться к меняющимся ситуациям. Мы должны сосредоточиться на инновациях, таких как система загрузки брешей, и интеграции железных дорог в нашу военную стратегию, следуя таким образом примеру Пруссии."
+GEC_focus_austrian_style_reform: "Реформа австрийского стиля"
+GEC_focus_austrian_style_reform_desc: "Мы должны поддерживать наши старые традиции военной истории. Это означает, что сражение в длинных боевых линиях является основной стратегией. Этот успешный метод, вдохновленный австрийской армией, всегда будет лучшим способом ведения пехотного боя!"
+GEC_focus_landwehr_adaptation: "Адаптация ландвера"
+GEC_focus_landwehr_adaptation_desc: "Институт ландвера сыграл большую роль в победе над Наполеоном. Однако с тех пор многое изменилось, и настало время адаптировать концепцию, чтобы сохранить ее преимущества. Возможно, это все еще дает возможность создать резервы и укрепить признание наших военных среди гражданского населения. Но это также может привести к тому, что по стране будут бродить вооруженные и обученные гражданские лица, субъекты, которые могут не разделять наши идеалы...".
+GEC_focus_jager_tactics: "Егерская тактика"
+GEC_focus_jager_tactics_desc: "Егеря - это небольшое элитное подразделение опытных стрелков. Эти подразделения могут поддерживать пехоту в бою или устраивать засады против движущихся вражеских формирований. Они уже доказали свою ценность в прусской и австрийской армиях, и настало время, чтобы мы приняли эту концепцию для поддержки нашей пехоты."
+GEC_focus_cavalry_modernization: "Модернизация кавалерии"
+GEC_focus_cavalry_modernization_desc: "Кавалерия всегда была важной частью вооруженных сил. Потенциал кавалерии по-прежнему велик, но ее необходимо перевести в современную эпоху. Тогда кавалерия сможет снова господствовать на поле боя".
+GEC_focus_die_marine: "Умри морпех".
+GEC_focus_die_marine_desc: "Какими бы малыми они ни были, наши военно-морские силы могут обеспечить безопасность торговых путей вдоль наших рек и побережья и, при небольших инвестициях, могут даже проецировать нашу мощь за границу. Это может сделать военно-морской флот отличным, но дорогостоящим инструментом при правильном использовании".
+GEC_focus_a_small_task_force: "Малая оперативная группа?"
+GEC_focus_a_small_task_force_desc: "Наша промышленность, очевидно, не способна произвести крупный боевой флот. Но даже небольшая оперативная группа сможет удовлетворить наши потребности, если мы готовы инвестировать...".
+GEC_focus_naval_developments: "Военно-морские разработки"
+GEC_focus_naval_developments_desc: "Если мы хотим пойти по пути создания полноценного военно-морского флота, нам сначала нужно догнать и перехватить некоторые новейшие разработки в области военно-морских технологий и тактики. Поэтому, прежде чем наш план по гранту увенчается успехом, нам нужны отечественные конструкции кораблей и квалифицированные моряки для создания подходящих сил."
+GEC_focus_defending_our_coast_and_rivers: "Защита нашего побережья и рек"
+GEC_focus_defending_our_coast_and_rivers_desc: "Если мы подвергнемся нападению со стороны более крупной морской державы, мы не можем рисковать, оставляя наши берега полностью незащищенными. Таким образом, нам необходимо иметь запасное решение, способное защитить наши реки и побережье".
+GEC_focus_naval_exercises: "Военно-морские учения"
+GEC_focus_naval_exercises_desc: "Наши военно-морские силы должны быть сформированы в надлежащий флот путем интенсивных тренировок. Это позволит нам улучшить тактическое понимание морской войны, которым обладают не только наши адмиралы, но и матросы."
+GEC_focus_new_ship_classes: "Новые классы кораблей"
+GEC_focus_new_ship_classes_desc: "Великие военно-морские державы недавно представили новые классы кораблей, которые выглядят как предвкушение того, что еще предстоит. Если мы хотим иметь хоть какой-то шанс на успех, чтобы представлять угрозу, нам придется улучшить наши собственные военно-морские возможности."
+GEC_focus_a_force_to_be_reckoned_with: "Сила, с которой нужно считаться".
+GEC_focus_a_force_to_be_reckoned_with_desc: "Наши вооруженные силы сейчас одни из лучших, небольшие, но превосходные. Поэтому наши армии и флоты - сила, с которой нужно считаться, и мы не погибнем без боя, если возникнет необходимость."
+#Economic Branch #NT!
+GEC_focus_industrialization: "Индустриализация"
+GEC_focus_industrialization_desc: "Промышленная революция наконец-то достигла нашего королевства, но нам предстоит наверстать много упущенного, чтобы догнать таких крупных игроков, как Великобритания или Франция. Мы должны ускорить процесс индустриализации всеми средствами, чтобы иметь возможность догнать их".
+GEC_focus_technological_advancements: "Технологические достижения"
+GEC_focus_technological_advancements_desc: "Технологический прогресс нынешней эпохи стремителен. Если мы хотим играть значительную роль в этих изменениях, мы должны поощрять и поддерживать наших ученых, новаторов и инженеров."
+GEC_focus_biochemical_discoveries: "Биохимические открытия"
+GEC_focus_biochemical_discoveries_desc: "Биохимия - важный предмет. Мы должны быть одними из первых, кто ворвется в это открывающееся поле возможностей. Мы должны быть в состоянии извлечь выгоду из дальнейших исследований в этой области".
+GEC_focus_electronic_inventions: "Электронные изобретения"
+GEC_focus_electronic_inventions_desc: "Последние открытия в физике привели к большим разработкам в области электронной техники. Эти инновации теперь могут быть использованы в промышленности, и было бы глупо закрывать глаза на эти возможности."
+GEC_focus_new_production_methods: "Новые методы производства"
+GEC_focus_new_production_methods_desc: "Благодаря великим умам некоторых новаторов, у нас теперь есть возможность улучшить наши производственные методы путем внедрения новейших практик технологического инжиниринга. Эти оптимизации улучшат наши промышленные мощности и окупятся в долгосрочной перспективе".
+GEC_focus_modern_means_of_transportation: "Современные средства транспорта"
+GEC_focus_modern_means_of_transportation_desc: "Последние десятилетия принесли большие достижения в области транспорта и логистики. Теперь мы можем использовать эти достижения в промышленных целях, а также для общественной мобильности".
+GEC_focus_infrastructure_investments: "Инвестиции в инфраструктуру"
+GEC_focus_infrastructure_investments_desc: "Чтобы использовать самые последние достижения, мы должны улучшить нашу инфраструктуру за счет государственных инвестиций. Это означает капитальный ремонт нашей военно-морской и наземной инфраструктуры".
+GEC_focus_naval_infrastructure: "Военно-морская инфраструктура"
+GEC_focus_naval_infrastructure_desc: "Военно-морская инфраструктура жизненно важна для любого государства, в том числе и для тех, у которых нет береговой линии. Она может стимулировать торговлю и расширять возможности проецирования силы на морях, а также на стратегически важных озерах и главных реках."
+GEC_focus_ports_and_docks: "Порты и доки"
+GEC_focus_ports_and_docks_desc: "Инвестиции в наши порты и доки могут улучшить наши связи с торговыми партнерами и оживить нашу отечественную судостроительную промышленность."
+GEC_focus_terrestrial_infrastructure: "Наземная инфраструктура"
+GEC_focus_terrestrial_infrastructure_desc: "Наша наземная инфраструктура все еще отстает от последних стандартов. Мы должны приложить усилия, чтобы улучшить ее".
+GEC_focus_roads_and_canals: "Дороги и каналы".
+GEC_focus_roads_and_canals_desc: "Разветвленная и хорошо поддерживаемая дорожная сеть приносит пользу всему обществу. Она предоставляет возможности для улучшения транспортировки людей и материалов. Кроме того, инвестиции в систему каналов позволят более широко использовать внутреннее судоходство для перевозки товаров и ресурсов".
+GEC_focus_railway_connections: "Железнодорожные соединения"
+GEC_focus_railway_connections_desc: "Железная дорога становится самым важным средством транспортировки ресурсов, промышленных товаров и населения в целом. Расширяя наши сетевые соединения, мы можем ускорить транспортировку и сделать торговлю более эффективной."
+GEC_focus_industrial_developments: "Промышленные разработки"
+GEC_focus_industrial_developments_desc: "Развивая новые промышленные методы, мы можем повысить эффективность нашей экономики. Если мы будем поощрять эти разработки, мы сможем ускорить процесс в целом."
+GEC_focus_resource_prospecting: "Поиск ресурсов"
+GEC_focus_resource_prospecting_desc: "Природные ресурсы всегда были и будут одной из движущих сил экономического роста. Если мы сможем обнаружить новые месторождения, мы сможем обеспечить нашу экономику большим количеством ресурсов и увеличить наш экспорт."
+GEC_focus_extraction_enhancement: "Усиление добычи"
+GEC_focus_extraction_enhancement_desc: "Новые методы добычи обещают значительное увеличение наших возможностей по добыче и, следовательно, доходов. Улучшив добычу ресурсов, мы сможем увеличить наш прибыльный экспорт".
+GEC_focus_encouraging_trades_and_industry: "Поощрение торговли и промышленности"
+GEC_focus_encouraging_trades_and_industry_desc: "Поощряя торговлю и промышленность в нашем королевстве, мы можем улучшить положение нашей экономики. Хотя переходный период может быть болезненным, модернизация методов ведения бизнеса нашими гражданами позволит проделать долгий путь в индустриализации страны."
+GEC_focus_industrial_subsidies_and_support: "Субсидии и поддержка промышленности"
+GEC_focus_industrial_subsidies_and_support_desc: "Субсидирование важных частей нашей промышленности может еще больше стимулировать инвестиции и ускорить процесс экономического роста."
+GEC_focus_industrializing_society: "Индустриализация общества"
+GEC_focus_industrializing_society_desc: "Мы близки к тому, чтобы достичь точки, когда мы сможем назвать себя промышленно развитой страной. Наша экономика находится в отличном состоянии, и мы являемся ведущей фигурой в промышленном развитии."
+
+### MISSIONS & DECISIONS ### #NT!
+#Domestic Policy #NT!
+GEC_decision_category_domestic_policy: "Внутренняя политика"
+GEC_decision_category_domestic_policy_desc: ""
+GEC_decision_constitutional_amendments: "Конституционные поправки"
+GEC_decision_constitutional_amendments_desc: ""
+GEC_decision_contain_revolutionary_ideas: "Содержать революционные идеи"
+GEC_decision_contain_revolutionary_ideas_desc: ""
+GEC_decision_open_our_trade_policy: "Открыть нашу торговую политику"
+GEC_decision_open_our_trade_policy_desc: ""
+GEC_decision_establish_scientific_research: "Создать научные исследования"
+GEC_decision_establish_scientific_research_desc: ""
+
+#Our Armed Forces #NT!
+GEC_decision_category_our_armed_forces: "Наши вооруженные силы"
+GEC_decision_category_our_armed_forces_desc: ""
+GEC_decision_military_convention_with_prussia: "Просить о военной конвенции с Пруссией"
+GEC_decision_military_convention_with_prussia_desc: ""
+GEC_decision_military_convention_with_austria: "Попросить о военной конвенции с Австрией"
+GEC_decision_military_convention_with_austria_desc: ""
+GEC_decision_intensify_convention: "Усилить военную конвенцию"
+GEC_decision_intensify_convention_desc: ""
+GEC_decision_ask_to_buy_rifles_from_prussia: "Попросить купить винтовки у Пруссии".
+GEC_decision_ask_to_buy_rifles_from_prussia_desc: ""
+GEC_decision_ask_to_buy_rifles_effect_tt: "§YМы сможем попросить больше винтовок для покупки примерно через два года.§!"
+GEC_decision_ask_to_buy_uniforms_from_prussia: "Попросить купить униформу у Пруссии".
+GEC_decision_ask_to_buy_uniforms_from_prussia_desc: ""
+GEC_decision_ask_to_buy_uniforms_effect_tt: "§YМы сможем попросить купить больше униформы примерно через два года.§!"
+GEC_decision_ask_to_buy_cannons_from_prussia: "Попросить купить пушки у Пруссии".
+GEC_decision_ask_to_buy_cannons_from_prussia_desc: ""
+GEC_decision_ask_to_buy_cannons_effect_tt: "§YМы сможем попросить купить больше пушек примерно через два года.§!"
+GEC_decision_buy_rifles_from_prussia: "Купить винтовки у Пруссии"
+GEC_decision_buy_rifles_from_prussia_desc: ""
+GEC_decision_buy_uniforms_from_prussia: "Купить униформу у Пруссии"
+GEC_decision_buy_uniforms_from_prussia_desc: ""
+GEC_decision_buy_cannons_from_prussia: "Купить пушки у Пруссии"
+GEC_decision_buy_cannons_from_prussia_desc: ""
+GEC_decision_ask_to_buy_rifles_from_austria: "Попросить купить винтовки у Австрии".
+GEC_decision_ask_to_buy_rifles_from_austria_desc: ""
+GEC_decision_ask_to_buy_uniforms_from_austria: "Попросить купить обмундирование у Австрии".
+GEC_decision_ask_to_buy_uniforms_from_austria_desc: ""
+GEC_decision_ask_to_buy_cannons_from_austria: "Попросить купить пушки у Австрии".
+GEC_decision_ask_to_buy_cannons_from_austria_desc: ""
+GEC_decision_buy_rifles_from_austria: "Купить винтовки из Австрии"
+GEC_decision_buy_rifles_from_austria_desc: ""
+GEC_decision_buy_uniforms_from_austria: "Купить униформу из Австрии"
+GEC_decision_buy_uniforms_from_austria_desc: ""
+GEC_decision_buy_cannons_from_austria: "Купить пушки у Австрии"
+GEC_decision_buy_cannons_from_austria_desc: ""
+GEC_decision_landwehr_adaptation_strenghtening: "Укрепление ландвера"
+GEC_decision_landwehr_adaptation_strenghtening_desc: ""
+GEC_decision_landwehr_adaptation_weakening: "Ослабление ландвера"
+GEC_decision_landwehr_adaptation_weakening_desc: ""
+GEC_decision_incorporate_jager_tactics: "Включить егерскую тактику".
+GEC_decision_incorporate_jager_tactics_desc: ""
+GEC_decision_cavalry_modernization: "Модернизация кавалерии"
+GEC_decision_cavalry_modernization_desc: ""
+GEC_decision_a_small_flotilla: "Малая флотилия"
+GEC_decision_a_small_flotilla_desc: ""
+GEC_decision_a_small_river_flotilla: "Небольшая речная флотилия"
+GEC_decision_a_small_river_flotilla_desc: ""
+
+#Industrialization in Germany #NT!
+GEC_decision_category_industrialization: "Индустриализация в Германии"
+GEC_decision_category_industrialization_desc: "Промышленная революция, наконец, достигла нашей страны, но нам предстоит еще многое сделать, чтобы догнать таких крупных игроков, как Великобритания или Франция. Мы должны ускорить процесс индустриализации всеми средствами, чтобы иметь возможность догнать их". На первый взгляд, это очень просто - инвестировать в модернизацию нашей промышленности и развитие более передовых методов производства. Большой вопрос в том, где должны быть наши приоритеты?".
+GEC_mission_industrializing: "Индустриализация"
+GEC_mission_industrializing_desc: "Долгосрочная цель - догнать ведущие промышленные страны. Но это дело, которое займет нас на многие годы. С другой стороны, вполне вероятно, что наши усилия окупятся в долгосрочной перспективе".
+GEC_decision_railway_upgrade: "Модернизация железной дороги"
+GEC_decision_railway_upgrade_desc: "Наша железнодорожная сеть больше не справляется с задачей поддержки, не говоря уже о стимулировании современной промышленности. Ее модернизация и расширение не только решат эту проблему, но и предоставят нашей промышленности важные контракты и возможность расширения торговли."
+GEC_decision_invest_in_our_naval_infrastructure: "Инвестировать в нашу военно-морскую инфраструктуру"
+GEC_decision_invest_in_our_naval_infrastructure_desc: "Военно-морская инфраструктура жизненно важна для любого государства, особенно для тех, которые находятся на море. Она может стимулировать торговлю и возможности проецирования силы через моря. Инвестирование в наши возможности в этой отрасли позволит нам использовать эти возможности для нашего экономического и военного преимущества."
+GEC_decision_invest_in_our_naval_infrastructure_inland: "Инвестировать в нашу военно-морскую инфраструктуру"
+GEC_decision_invest_in_our_naval_infrastructure_inland_desc: "Военно-морская инфраструктура жизненно важна для любого государства, в том числе для тех, у которых нет береговой линии. Она может стимулировать торговлю и проецировать мощь на моря, а также на стратегически важные озера и реки. Инвестирование в наши возможности в этой отрасли позволит нам использовать эти возможности для нашего экономического и военного преимущества."
+GEC_decision_invest_in_our_naval_ports: "Инвестировать в наши военно-морские порты"
+GEC_decision_invest_in_our_naval_ports_desc: "Инвестируя в наши военно-морские порты, мы можем стимулировать торговлю с зарубежными странами. Это может принести пользу нашей экономике и придать нам большую международную известность".
+GEC_decision_invest_in_our_river_ports: "Инвестировать в наши речные порты"
+GEC_decision_invest_in_our_river_ports_desc: "Инвестируя в наши речные порты, мы можем стимулировать торговлю с зарубежными странами. Это может принести пользу нашей экономике и повысить нашу международную известность".
+GEC_decision_invest_in_our_dockyards: "Инвестировать в наши верфи"
+GEC_decision_invest_in_our_dockyards_desc: "Инвестируя в наши верфи, мы сможем расширить наши судостроительные мощности".
+GEC_decision_invest_in_our_terrestrial_infrastructure: "Инвестировать в нашу наземную инфраструктуру".
+GEC_decision_invest_in_our_terrestrial_infrastructure_desc: "Наша наземная инфраструктура все еще не соответствует последним стандартам. Инвестируя в нее, мы сможем решить эту проблему".
+GEC_decision_invest_in_our_road_network: "Инвестировать в нашу дорожную сеть"
+GEC_decision_invest_in_our_road_network_desc: "Разветвленная и хорошо поддерживаемая дорожная сеть приносит пользу всему обществу. Она предлагает возможности для улучшения транспортировки людей и материалов. Мы должны приложить усилия, чтобы привести нашу сеть в соответствие с современными требованиями, чтобы воспользоваться этим".
+GEC_decision_invest_in_our_canals: "Инвестировать в наши каналы"
+GEC_decision_invest_in_our_canals_desc: "Инвестиции в нашу систему каналов позволили бы более широко использовать внутреннее судоходство для транспортировки товаров и ресурсов".
+GEC_decision_acquire_trains: "Приобрести поезда".
+GEC_decision_acquire_trains_desc: "Приобретая поезда, мы сможем правильно использовать преимущества парового двигателя в транспортном секторе. То, на что наша отечественная промышленность может быть не способна самостоятельно".
+GEC_decision_resource_prospecting_iron: "Разведка железа"
+GEC_decision_resource_prospecting_iron_desc: "Если нам удастся найти больше месторождений железа, пригодных для добычи в нашем королевстве, мы сможем стимулировать нашу промышленность и расширить нашу торговлю, что благоприятно скажется на нашем торговом балансе в целом."
+GEC_decision_resource_prospecting_coal: "Разведка угля"
+GEC_decision_resource_prospecting_coal_desc: "Если нам удастся найти больше месторождений угля, пригодных для добычи в нашем королевстве, мы сможем стимулировать нашу промышленность и расширить нашу торговлю, что благоприятно скажется на нашем торговом балансе в целом."
+GEC_decision_resource_prospecting_effect_tt: "Есть §шанс§! обнаружить §новые месторождения ресурсов§! в пределах наших границ".
+GEC_decision_subsidize_new_extraction_methods_1: "Субсидировать новые методы добычи".
+GEC_decision_subsidize_new_extraction_methods_1_desc: "Выдавая субсидии на перспективные методы добычи, мы могли бы надеяться увеличить добычу ресурсов внутри страны."
+GEC_decision_subsidize_new_extraction_methods_2: "Субсидировать новейшие методы добычи".
+GEC_decision_subsidize_new_extraction_methods_2_desc: "Новейшие методы добычи являются передовыми. Хотя они вносят некоторую неопределенность, они также обещают большое процветание".
+GEC_decision_weaken_the_guilds: "Weaken the Guilds" #NT!
+GEC_decision_weaken_the_guilds_desc: "The guilds are still very strong in our country, and their rules and obligations hinder economic growth and competition. We need to weaken their grip on trade and craftsmanship in order to realize our potential for industrial development." #NT!
+GEC_decision_enact_gewerbefreiheit: "Принять Gewerbefreiheit".
+GEC_decision_enact_gewerbefreiheit_desc: "Свобода предпринимательства предоставит большие возможности людям, желающим и способным ими воспользоваться. Сокрушение господства гильдий должно привести наш процесс индустриализации в ускоренное состояние."
+GEC_decision_establish_gewerbeordnung: "Учредить Gewerbeordnung".
+GEC_decision_establish_gewerbeordnung_desc: "Создав Gewerbeordnung, мы можем дать нашим предприятиям правовую определенность. Это будет мешать им делать то, что мы не хотим, чтобы они делали. Но в долгосрочной перспективе это повысит их инновационность и компенсирует проблемы в краткосрочной перспективе".
+GEC_decision_subsidize_and_support_major_industries: "Subsidize and Support Major Industries"
+GEC_decision_subsidize_and_support_major_industries_desc: "In subsidizing and supporting our major industries we are placing a safe bet. These industries have brought us wealth before, and they are likely to continue to do so. By offering government support we can expand the possible gains."
+
+HSD_decision_man_werk_gustavsburg: "MAN Werk Gustavsburg".
+HSD_decision_man_werk_gustavsburg_desc: ""
+GEC_pp_more_than_49_navy_experience_more_than_10: "£pol_power §H50§! £navy_experience §H10§!".
+GEC_pp_more_than_49_navy_experience_more_than_10_blocked: "£pol_power §R50§! £navy_experience §R10§!".
+GEC_pp_more_than_49_navy_experience_more_than_10_tooltip: "Принятие решения стоит 50£pol_power и 10£navy_experience".
+GEC_pp_more_than_49_navy_experience_more_than_30: "£pol_power §H50§! £navy_experience §H30§!".
+GEC_pp_more_than_49_navy_experience_more_than_30_blocked: "£pol_power §R50§! £navy_experience §R30§!".
+GEC_pp_more_than_49_navy_experience_more_than_30_tooltip: "Принятие решения стоит 50£pol_power и 30£navy_experience".
+
+#Trade #NT!
+GEC_decision_category_trade: "Торговые возможности"
+GEC_decision_trade_consulate_bremen: "Торговое представительство в Бремене"
+GEC_decision_trade_consulate_hamburg: "Торговый офис в Гамбурге"
+GEC_decision_purchasing_trade_convoys_non_coastal: "Приобрести торговые конвои".
+GEC_decision_establish_trade_UK: "Установить торговлю с [ENG.GetName]".
+
+#Hansa Cities #NT!
+GEC_decision_category_hansa_cities: "Ганзейские города".
+GEC_decision_purchasing_trade_convoys: "Закупка торговых конвоев".
+HAM_decision_zoologischer_garten: "Establishment of the Zoological Garden" #NT!
+HAM_decision_rescue_shipwrecked_people: "Гамбургское общество спасения людей, потерпевших кораблекрушение".
+
+#Polizeiverein #NT!
+GEC_decision_category_polizeiverein: "Полицейский союз".
+GEC_decision_category_polizeiverein_desc: "Мы являемся членом "§YСекретного полицейского союза§!", или "§YГехеймерского полицейского союза§!", состоящего из нескольких немецких земель, цель которых - сотрудничество полицейской деятельности для §YСтабильности и сохранения статус-кво§! против §YПодрывных элементов§! Мы должны воспользоваться информацией, предоставленной союзом, чтобы выявить §Yопасных лиц и организации§! в пределах наших границ".
+GEC_decision_censor_press_temporarily: "Временно цензурировать прессу".
+GEC_decision_censor_press_temporarily_desc: "Появилось множество газетных статей с критикой правительства, предлагающих серьезные изменения в нашей политической системе. Эта агитация может привести к восстанию, если мы не будем действовать быстро и не пошлем предупреждение".
+GEC_decision_suppress_clubs_and_societies: "Подавить клубы и общества"
+GEC_decision_suppress_clubs_and_societies_desc: "Клубы, общества и ассоциации изобретательно используют свободы и возможности, которые предоставляют наши законы, чтобы скрыть свою политическую природу и повестку дня. Мы должны положить этому конец".
+GEC_decision_surveil_contacts_of_expatriates: "Наблюдать за контактами экспатриантов".
+GEC_decision_surveil_contacts_of_expatriates_desc: "Будь то друзья, знакомые или родственники, нам нужно внимательно следить за субъектами, с которыми поддерживают связь политически мотивированные экспатрианты".
+GEC_decision_collaborate_to_limit_smuggled_propaganda: "Сотрудничать для ограничения контрабандной пропаганды".
+GEC_decision_collaborate_to_limit_smuggled_propaganda_desc: "Прогрессивные и левые политические активисты в большом количестве бежали из Германии после краха мартовской революции 1849 года. Они по-прежнему агитируют за радикальные перемены из-за рубежа, а их сообщники нелегально переправляют печатную пропаганду через наши границы. Мы можем эффективно бороться с этой проблемой только в сотрудничестве с другими членами Polizeiverein. Но сначала мы должны внести свою лепту".
+GEC_decision_collaborate_to_limit_smuggled_propaganda_effect_tt: " \n§ԌЕсли все члены Полицейского Союза будут сотрудничать, мы получим большую выгоду от этого начинания.§!\n"
+GEC_decision_put_nationalist_agitators_under_surveillance: "Поставить под наблюдение националистических агитаторов".
+GEC_decision_put_nationalist_agitators_under_surveillance_desc: "Националистические агитаторы организуют оппозицию против наших попыток централизации. Мы можем использовать силы тайной полиции, чтобы установить наблюдение за наиболее опасными людьми".
+GEC_decision_arrest_nationalist_intellectuals_hungary: "Арестовать националистическую интеллигенцию в Венгрии".
+GEC_decision_arrest_nationalist_intellectuals_hungary_desc: "Интеллектуалы играют большую роль в венгерском националистическом движении. Если мы арестуем некоторых из наиболее откровенных писателей, поэтов и других интеллектуалов, мы сможем нанести серьезный удар по движению и одновременно подать пример, который оттолкнет других последовать их примеру."
+GEC_decision_arrest_nationalist_intellectuals_bohemia: "Арестовать националистическую интеллигенцию в Богемии".
+GEC_decision_arrest_nationalist_intellectuals_bohemia_desc: "Интеллектуалы играют большую роль в богемском националистическом движении. Если мы арестуем некоторых из самых откровенных писателей, поэтов и других интеллектуалов, мы сможем нанести серьезный удар по движению и одновременно подать пример, который оттолкнет других последовать их примеру."
+GEC_decision_arrest_nationalist_intellectuals_croatia: "Арестовать националистическую интеллигенцию в Хорватии".
+GEC_decision_arrest_nationalist_intellectuals_croatia_desc: "Интеллектуалы играют большую роль в хорватском националистическом движении. Если мы арестуем некоторых из самых откровенных писателей, поэтов и других интеллектуалов, мы сможем нанести серьезный удар по движению и подать пример, который одновременно оттолкнет других последовать их примеру."
+GEC_decision_arrest_nationalist_intellectuals_galicia: "Арестовать националистическую интеллигенцию в Галиции".
+GEC_decision_arrest_nationalist_intellectuals_galicia_desc: "Интеллектуалы играют большую роль в польском националистическом движении. Если мы арестуем некоторых из наиболее откровенных писателей, поэтов и других интеллектуалов, мы сможем нанести серьезный удар по движению и подать пример, который одновременно оттолкнет других последовать их примеру."
+
+#Military Conventions - NGC #NT!
+GEC_decision_category_military_conventions: "Военная реорганизация"
+GEC_decision_category_military_conventions_desc: ""
+
+### IDEAS ### #NT!
+##Country-specific Spirits #NT!
+BRE_idea_dissolved_city_guard: "Распущенный Бюргервер"
+BRE_idea_dissolved_city_guard_desc: ""
+
+##Shared Spirits #NT!
+#General #NT!
+GER_general_idea_ger_confed: "Член Германской конфедерации"
+GER_general_idea_ger_confed_desc: "Созданная в 1815 году Венским конгрессом, Германская конфедерация является объединением немецких государств на территории бывшей Священной Римской империи. С 1848 года, однако, напряженность возросла, особенно между двумя немецкими гегемонами, Пруссией и Австрией, и узы этой конфедерации сильно натянулись в эпоху растущего национализма, но у нее все еще есть шанс быть реформированной и спасенной..."
+
+GEC_idea_hanseaten: "Ганзейцы".
+
+#Domestic Policy #NT!
+GEC_idea_scientific_research: "Научные исследования"
+GEC_idea_scientific_research_desc: "[THIS.GetNameDef] активизирует свои усилия по поощрению научных исследований в университетах и лабораториях."
+
+#Economy #NT!
+GEC_idea_gewerbeordnung: "Торговое регулирование"
+GEC_idea_gewerbeordnung_desc: ""
+GEC_idea_gewerbefreiheit: "Gewerbefreiheit"
+GEC_idea_gewerbefreiheit_desc: "Guilds, or 'Zünfte', although still present, do not hold administrative power in our country anymore, and all guild constitutions have been abolished. Even though some less competitive and skilled craftsmen and merchants will probably lose their business, the freedom of enterprise, or 'Gewerbefreiheit', now granted is going to encourage economic growth and innovation, as it promotes competition and individual ingenuity."
+GEC_idea_weakened_zunftwesen: "Weakened Zunftwesen"
+GEC_idea_weakened_zunftwesen_desc: "Guilds, or 'Zünfte', although weakened through our government's efforts, are still present within our country, some of them still hold on to their own guild constitutions locally. With the noble purpose of protecting guild members from bankruptcy and starvation, these constitutions regulate trade and craftsmanship fairly strictly. Although this does help in protecting local businesses from the worst, it also hinders economic growth and innovation, as it undermines competition and individual ingenuity."
+GEC_idea_strong_zunftwesen: "Strong Zunftwesen"
+GEC_idea_strong_zunftwesen_desc: "Guilds, or 'Zünfte', are still very strong within our country, some of them have even enacted their own guild constitutions locally. With the noble purpose of protecting guild members from bankruptcy and starvation, these constitutions regulate trade and craftsmanship quite strictly. Although this does help in protecting local businesses from the worst, it also hinders economic growth and innovation, as it practically prohibits competition and individual ingenuity."
+GEC_idea_opened_trade: "Opened Trade"
+GEC_idea_opened_trade_desc: ""
+GEC_idea_harbour_trade_profits: "Прибыль по портовой торговле"
+GEC_idea_harbour_trade_profits_desc: ""
+GEC_idea_zollverein_trade_profits: "Союз Торговая Прибыль"
+GEC_idea_zollverein_trade_profits_desc: ""
+GEC_idea_industrialization_efforts: "Усилия по индустриализации"
+GEC_idea_industrialization_efforts_desc: ""
+GEC_idea_infrastructure_investments: "Инвестиции в инфраструктуру"
+GEC_idea_infrastructure_investments_desc: ""
+GEC_idea_investments_in_naval_infrastructure: "Инвестиции в военно-морскую инфраструктуру"
+GEC_idea_investments_in_naval_infrastructure_desc: ""
+GEC_idea_investments_in_naval_infrastructure_inland: "Инвестиции в инфраструктуру рек и каналов".
+GEC_idea_investments_in_naval_infrastructure_inland_desc: ""
+GEC_idea_stimulated_trade: "Стимулированная торговля"
+GEC_idea_stimulated_trade_desc: ""
+GEC_idea_stimulated_trade_inland: "Стимулированная торговля"
+GEC_idea_stimulated_trade_inland_desc: ""
+GEC_idea_investments_in_terrestrial_infrastructure: "Инвестиции в наземную инфраструктуру"
+GEC_idea_investments_in_terrestrial_infrastructure_desc: ""
+GEC_idea_road_investments: "Инвестиции в дорожную сеть"
+GEC_idea_road_investments_desc: ""
+GEC_idea_canal_investments: "Инвестиции в сеть каналов"
+GEC_idea_canal_investments_desc: ""
+GEC_idea_new_extraction_methods_1: "Новые методы добычи"
+GEC_idea_new_extraction_methods_1_desc: ""
+GEC_idea_new_extraction_methods_2: "Новые методы экстракции"
+GEC_idea_new_extraction_methods_2_desc: ""
+GEC_idea_steady_industrialization: "Стабильная индустриализация"
+GEC_idea_steady_industrialization_desc: ""
+GEC_idea_basf_subsidies: "BASF Subsidies" #NT!
+GEC_idea_basf_subsidies_desc: "We have decided to offer Friedrich Engelhorn subsidies to establish the Badische Anilin- und Sodafabrik (BASF) on our territory." #NT!
+
+#Trade Category #NT!
+GEC_idea_trade_with_england: "Торговые отношения с [ENG.GetName]".
+GEC_idea_trade_with_england_desc: ""
+
+#Polizeiverein #NT!
+GEC_idea_polizeiverein_leader_1: "Ведущий член - Гехеймерского Полицейского Союза"
+GEC_idea_polizeiverein_leader_1_desc: ""Гехеймерский Полицейский Союз" - или Тайный полицейский союз - это тайное учреждение, основанное в 1851 году для подавления революционных движений и политической агитации по всей Германской Конфедерации. Эта страна является одним из ведущих членов союза и должна иметь возможность навязывать свои взгляды другим немецким государствам."
+GEC_idea_polizeiverein_leader_2: "Ведущий член - Гехеймерского Полицейского Союза".
+GEC_idea_polizeiverein_leader_2_desc: ""Гехеймерский Полицейский Союз" - или Тайный полицейский союз - это тайное учреждение, основанное в 1851 году для подавления революционных движений и политической агитации по всей Германской Конфедерации. Эта страна является одним из ведущих членов союза и должна иметь возможность навязывать свои взгляды другим немецким государствам."
+GEC_idea_polizeiverein_member: "Член - Гехеймерского Полицейского Союза".
+GEC_idea_polizeiverein_member_desc: ""Гехеймерский Полицейский Союз" - или Тайный полицейский союз - это тайное учреждение, основанное в 1851 году для подавления революционных движений и политической агитации по всей Германской Конфедерации. Во главе с прусской и австрийской полицией, большинство крупных немецких несовершеннолетних являются членами этого союза, в том числе и эта страна."
+GEC_idea_polizeiverein_modifier_tt: "§GУникальные решения доступны в категории Полицейского Союза, некоторые из общих решений в категории внутренней политики также дешевле, пока мы являемся частью Гехеймерского Полицейского Союза.§!"
+
+#Military #NT!
+GEC_idea_military_convention_with_PRS: "Военная конвенция с Пруссией"
+GEC_idea_military_convention_with_PRS_desc: "Следуя военной конвенции, которую мы подписали с Пруссией, мы реорганизуем нашу армию в их духе и в соответствии с их принципами."
+GEC_idea_PRS_military_convention_1: "Военная конвенция с Пруссией"
+GEC_idea_PRS_military_convention_1_desc: ""
+GEC_idea_PRS_military_convention_2: "Военная конвенция с Пруссией"
+GEC_idea_PRS_military_convention_2_desc: ""
+GEC_idea_AUS_military_convention_1: "Военная конвенция с Австрией"
+GEC_idea_AUS_military_convention_1_desc: ""
+GEC_idea_AUS_military_convention_2: "Военная конвенция с Австрией"
+GEC_idea_AUS_military_convention_2_desc: ""
+GEC_idea_weapons_deal_profit: "Прибыль от сделок с оружием".
+GEC_idea_weapons_deal_profit_desc: ""
+GEC_idea_landwehr_strengthened: "Ландвер усилен"
+GEC_idea_landwehr_strengthened_desc: ""
+GEC_idea_landwehr_weakened: "Ландвер ослаблен"
+GEC_idea_landwehr_weakened_desc: ""
+GEC_idea_a_small_flotilla: "Маленькая флотилия"
+GEC_idea_a_small_flotilla_desc: ""
+GEC_idea_a_river_flotilla: "Речная флотилия"
+GEC_idea_a_river_flotilla_desc: ""
+GEC_idea_naval_defense_measures: "Меры военно-морской обороны"
+GEC_idea_naval_defense_measures_desc: ""
+
+##Companies #NT!
+#Material Manufacturers #NT!
+crause_in_herzberg: "Краузе в Герцберге".
+anschutz: "J.G. Anschütz"
+#Industrial Concerns #NT!
+HES_henschel_und_sohn: "Henschel und Sohn"
+HSD_man_werk_gustavsburg: "Eisengießerei Klett & Comp. Gustavsburg"
+HSD_hessische_ludwigsbahn: "Hessische Ludwigsbahn"
+
+##Advisor Traits #NT!
+eoanb_minister_des_hauses: "Министр великокняжеского дома".
+eoanb_kriegs_minister: "Кригсминистр".
+
+##Heads of State #NT!
+BRE_Senat: "Сенат вольного ганзейского города Бремена".
+FRK_Senat: "Сенат вольного города Франкфурта".
+HAM_Senat: "Сенат вольного и ганзейского города Гамбурга".
+HES_Friedrich_Wilhelm: "Курфюрст Фридрих Вильгельм I Гессен-Кассельский".
+HSD_Ludwig_III: "Великий герцог Людвиг III Гессен-Дармштадтский".
+LCK_Senat: "Сенат вольного и ганзейского города Любека".
+NAS_Adolph_I: "Герцог Адольф I Нассау-Вейльбургский".
+OLD_Peter_II: "Великий герцог Петр II Ольденбургский".
+THU_Carl_Alexander_von_Sachsen_Weimar_Eisenach: "Великий герцог Карл Александр Тюрингский".
+
+##Country Leader Descriptions #NT!
+HAN_GEORG_V_LEADER_DESC: "Несмотря на потерю зрения в результате детской болезни и несчастного случая в подростковом возрасте, Георг V был признан своим отцом, Эрнстом Августом, пригодным для управления Ганновером. Его автократические наклонности привели к тому, что он несколько раз вступал в конфликт с более либеральным Ганноверским ландтагом, и Георг не является сильным сторонником промышленного развития.\n\n Вместо этого он предпочитает старые порядки и продолжает быть откровенным (и очень упрямым) сторонником Австрии и продолжающейся независимости Ганновера. От того, сможет ли он помочь Австрии сохранить свою мощь и обеспечить правление своей династии над своими владениями, будет зависеть, суждено ли Георгу V стать последним королем Ганновера."
+HSD_LUDWIG_III_LEADER_DESC: "Военный энтузиаст и первоначально популярный среди гессенских либералов при восшествии на престол в 1848 году, Людвиг III с тех пор показал себя неэффективным правителем. Великий герцог не примыкал к какому-либо политическому лагерю и не демонстрировал твердых убеждений, в основном позволяя своим министрам принимать решения и проводить политику; однако он постепенно отменил некоторые либеральные реформы в стране, такие как свобода прессы и объединений. Желая обеспечить продолжение своей династии и суверенитет Гессен-Дармштадта, Людвиг еще больше сблизил Великое герцогство с Австрией и, в меньшей степени, с Францией. Если Людвиг хочет добиться успеха в своих усилиях, ему, возможно, придется перераспределить большую часть своего времени, потраченного на покровительство истории и искусству, на то, чтобы стать более сильным и эффективным лидером."
+
+### OPINION MODIFIERS ### #NT!
+GEC_MILITARY_CONVENTION_EARLY_REL: "Военная конвенция подписана"
+GEC_MILITARY_CONVENTION_MEDIUM_REL: "Военная конвенция активизировалась"
+GEC_MILITARY_CONVENTION_REJECTED_REL: "Военная конвенция отклонена"
+GEC_TRADE_WITH_ENG_REL: "Торговые отношения"
+
+### FLAGS ### #NT!
+GEC_domestic_policy_flag: " §YВнутренняя политика в процессе реализации§!"
+GEC_weapons_deal_inquiry_pending_flag: " §YЗапрос о сделке с оружием находится на рассмотрении§!"
+GEC_weapons_deal_flag: " §YОружейная сделка в процессе выполнения§!"
+GEC_army_reform_flag: " §YМероприятие по реформе армии в процессе выполнения§!"
+GEC_navy_reform_flag: " §YВоенно-морская реформа в процессе!"
+GEC_economic_investment_flag: " §YЭкономические инвестиции в процессе реализации§!"
+GEC_resource_prospecting_flag: " §YИдет поиск ресурсов§!"
+GEC_trade_from_hamburg_flag: "Торговля может вестись через Гамбург".
+GEC_trade_from_bremen_flag: "Торговля может вестись через Бремен"
+GEC_trade_purchasing_convoys_flag: "Идет закупка конвоев"
+HSD_man_werk_gustavsburg_start: "§YMAN Werk Gustavsburg§! был разблокирован решением".

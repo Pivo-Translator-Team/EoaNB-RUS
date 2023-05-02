@@ -1,0 +1,514 @@
+﻿l_russian:
+
+ SKT_END_OF_NEW_BEG_DESC:0 "Восстания, вдохновленные исламом, прорастают по всей Западной Африке. В 1804 году революционер Усман дан Фодио создал халифат Сокото, крупнейшее из государств джихада фулани. Цель революций фулани - покончить с коррупцией, принести стабильность в Африку и стать оплотом против колониализма. На востоке старое королевство Канем-Борну находится в упадке и уже не в состоянии противостоять халифату. На западе другие государства фулани-джихада заняты борьбой с французским колониализмом. Настало время для восстания истинного исламского халифата!".
+
+ #Other Jihads #NT!
+ skt_command_power_more_than_50:0 "£command_power §H50§!"
+ skt_command_power_more_than_50_blocked:0 "£command_power §R50§!"
+ skt_command_power_more_than_50_tooltip:0 "Набег за рабами стоит 50£command_power".
+
+ skt_jihad_caliphate_member_is_neighbor:0 "Является соседом §Y[ROOT.GetName]§! или §YЧленом Халифата§!".
+
+ skt_jihad_caliphate_member_in_close_proximity:0 "Член §Y[SKT.GetName]§! или член §YХалифата§! находится в непосредственной близости от ячейки §YДжихада§!".
+ skt_jihad_jihadist_cell_is_ready:0 "Ячейка §YДжихадистов§! этого региона предана и готова к §YИсламскому восстанию§!".
+
+ skt_jihad_an_islamic_nation_does_not_exist_algers:0 "§YИсламское Государство§! не существует в §YАлжире§!".
+ skt_jihad_bab_has_followed_the_jihadist_path:0 "§Y[BAB.GetName]§! преследовал §YДжихадскую Революцию§!".
+ skt_jihad_bab_is_opppressed:0 "Мусульмане §Y[BAB.GetName]§! угнетены в регионе"
+
+
+ skt_jihad_an_islamic_nation_does_not_exist_abyssinia:0 "§YИсламское Государство§! не существует в §YАбиссинии§!".
+ skt_jihad_oromo_has_followed_the_jihadist_path:0 "§Y[ORO.GetName]§! преследовал §YДжихадскую Революцию§!".
+ skt_jihad_oromo_is_opppressed:0 "§Y[ORO.GetName]§! мусульмане угнетены в регионе"
+
+
+ afr_jihad_repair_ribats_completed:0 "Восстановленые исламские рибаты"
+ afr_jihad_repair_ribats_completed_tooltip:0 "Восстановленные исламские рибаты"
+ afr_jihad_repair_ribats_manpower_tooltip:0 "§YТрудовые требования проекта:§!\n §Y500§! Людских Ресурсов"
+ afr_jihad_repair_ribats_manpower_effect_tooltip:0 "\nПо крайней мере §R500§! §YЛюдских Ресурсов§! может быть израсходована в связи с этим проектом.\n"
+
+ afr_jihad_ribat_stage_1:0 "Проект восстановления Рибата"
+ afr_jihad_ribat_stage_2:0 "Проект восстановления Рибата"
+ afr_jihad_ribat_stage_3:0 "Проект восстановления Рибата"
+ afr_jihad_ribat_stage_4:0 "Проект восстановления Рибата"
+ afr_jihad_ribat_stage_5:0 "Проект восстановления Рибата"
+
+ skt_jihad_repair_ribats.1.t:0 "[SKT.GetAdjective] Рибаты!"
+ skt_jihad_repair_ribats.1.d:0 "Давным-давно халифаты построили небольшие пограничные укрепления во время завоевания Северной Африки. Эти рибаты использовались для Джихада Меча, защиты ислама, для размещения тех, кто добровольно вызвался защищать. Позже эти укрепления стали торговыми центрами для мусульманских общин.\n\nВ дальнейшем [SKT.GetName] копировали стратегию рибатов и использовали их для сохранения контроля над завоеванными территориями. Со временем [SKT.GetName] революционизировал назначение рибатов и превратил их в исламские центры торговли, образования и процветания."
+ skt_jihad_repair_ribats.1.a:0 "Иншаллах! Аллаху Акбар!"
+
+ afr_jihad_repair_ribats.1.t:0 "Восстановить рибаты в [Root.Capital.GetName]?".
+ afr_jihad_repair_ribats.1.d:0 "Давным-давно, во время мусульманского завоевания Северной Африки, на границе были построены небольшие укрепления. Эти рибаты использовались в джихаде, защите ислама, для размещения тех, кто добровольно вызвался защищать ислам. Позднее эти укрепления служили для защиты торговых путей, а также в качестве центров для изолированных мусульманских общин.\n\nНа протяжении веков некоторые из этих зданий на нашей земле пришли в запустение или были разрушены. Мусульманские ученые королевства считают, что мы можем восстановить или даже повторить эти структуры, что обеспечит лучшую защиту ислама и [Root.Capital.GetName]".
+ afr_jihad_repair_ribats.1.a:0 "Эти рибаты могут стать бастионами для верующих в Аллаха!".
+ afr_jihad_repair_ribats.1.b:0 "Мы не можем утруждать себя этим дорогостоящим проектом".
+
+ afr_jihad_repair_ribats.2.t:0 "Нехватка людской силы в [Root.Capital.GetName] Рибатах".
+ afr_jihad_repair_ribats.2.d:0 "Много жизней было потеряно при добыче материала, в сочетании с травмами при строительстве это привело к сокращению трудовых ресурсов проекта. Наши мусульманские ученые советуют направить больше людской силы на это дело, чтобы завершить проект."
+ afr_jihad_repair_ribats.2.a:0 "Задействуйте любую квалифицированную рабочую силу, которую мы сможем найти! Иншаллах!"
+ afr_jihad_repair_ribats.2.b:0 "Послать рабов для выполнения задания".
+ afr_jihad_repair_ribats.2.c:0 "Это становится слишком дорого, отмените проект".
+
+ afr_jihad_repair_ribats.3.t:0 "Предложение по проекту Рибат: Взаимосвязанные рибаты"
+ afr_jihad_repair_ribats.3.d:0 "Рибаты обеспечивают отличную гражданскую инфраструктуру, а также являются отличной защитой. Наши опытные мусульманские ученые, которых мы привлекли, предложили соединить рибаты дорогами. К сожалению, это резко увеличит затраты на рабочую силу".
+ afr_jihad_repair_ribats.3.a:0 "Отличная идея! Мы сможем выделить больше людской силы".
+ afr_jihad_repair_ribats.3.b:0 "Мы не можем принять предложение, мы не в состоянии выделить больше людской силы".
+
+ afr_jihad_repair_ribats.4.t:0 "Предложение по проекту Рибат: Создать фермы среди рибатов".
+ afr_jihad_repair_ribats.4.d:0 "Рибаты оказываются отличными центрами торговли. Предлагается построить фермы на окраинах рибатов. Хотя это может дать небольшой долгосрочный экономический бум, необходимые материалы и людская сила будут до предела сокращать нашу экономику."
+ afr_jihad_repair_ribats.4.a:0 "Дорогостоящая идея, но мы пришлем необходимую рабочую силу".
+ afr_jihad_repair_ribats.4.b:0 "Мы не можем принять это предложение! Такими темпами мы окажемся в экономической рецессии!".
+
+ afr_jihad_repair_ribats.5.t:0 "Завершение Рибат в [Root.Capital.GetName] !"
+ afr_jihad_repair_ribats.5.d:0 ""
+ afr_jihad_repair_ribats.5.a:0 "Машаллах! Рибаты завершены!"
+
+
+ #Sokoto #NT!
+
+ afr_generic_jihadist_skt_conquer_the_fulani_calpiphates_tooltip:0 "Разблокирует решения по интеграции:"
+ afr_generic_jihadist_skt_conquer_the_fulani_calpiphates_TOU_tooltip:0 " §Y[TOU.GetName]§! в наш §YХалифат§!"
+ afr_generic_jihadist_skt_conquer_the_fulani_calpiphates_FTT_tooltip:0 " §Y[FTT.GetName]§! в наш §YХалифат§!"
+ afr_generic_jihadist_skt_conquer_the_fulani_calpiphates_FTJ_tooltip:0 " §Y[FTJ.GetName]§! в наш §YХалифат§!"
+afr_generic_jihadist_skt_conquer_the_fulani_calpiphates_else_tooltip:0 " §RДругие §! §ҮФуланийские Джихады§! §Rне существуют!§!".
+
+ SKT_war_exhaustion:0 "Усталость от войны: [?afr_war_exhaustion_value]".
+ SKT_war_exhaustion_desc:0 "§YВоенное истощение:§!\n§WКогда война заканчивается §!§R20§!§W, нации будут предоставлены варианты, как решить §!§RВоенное истощение§!§W или подписать белый мир, если она является агрессором.§!\n\n§YВоенное истощение:§!\n§gВоенное истощение происходит, когда доиндустриальная страна находится в состоянии войны. Часто война обходится дорого для простых людей из-за того, что ресурсы выделяются на военные действия. Когда нация испытывает все большее военное истощение, не имея экономических средств для поддержания долгосрочных целей, ей придется искать способы, как сохранить народ довольным.§!"
+ SKT_war_exhaustion_mission:0 "Военное истощение!"
+ SKT_war_exhaustion_mission_desc:0 "Войны стоят дорого, а доиндустриальная экономика может предоставить только столько людской силы и оборудования. Чем дольше длится война, тем больше нагрузка на экономику".
+ SKT_war_exhaustion_mission_peace:0 "Пополнение в мирное время!".
+ SKT_war_exhaustion_mission_peace_desc:0 "Люди могут свободно заниматься своей жизнью, не беспокоясь о войне. Экономика может восстановиться после военного истощения и сосредоточиться на экономическом росте."
+ afr_war_exhaustion_mission_exertion:0 "Устранить военное истощение".
+ afr_war_exhaustion_mission_exertion_desc:0 "Нация должна в ближайшее время решить проблему высокого уровня истощения военного времени. Экономика находится на пределе, но нам, возможно, придется напрячь ее еще больше, чтобы продолжить военные действия."
+
+ afr_prosperity_has_no_forging_tech:0 "§YКузнечное дело§!§R должно быть исследована, прежде чем §!§YКузнецы§!§R смогут заняться делом.§!\n\n".
+ afr_prosperity_mechanic_nomadic_blacksmith:0 "Экономика кочевников: Кузнечное дело"
+ afr_prosperity_mechanic_nomadic_blacksmith_tooltip:0 "§GBКузнецы добавят §!§YОружие племени §!§G к нашим национальным запасам во время §! §YПроцветания в мирное время§!§G.§!".
+ afr_peacetime_economy_nomadic_blacksmith_income:0 "\n§YКузнечное дело кочевников§! Доход:"
+ afr_peacetime_economy_nomadic_blacksmith_building_unlocked:0 "\nПозволяет §YКочевым обществам§! практиковать §GКовку§!.\n"
+ afr_peacetime_economy_tribal_weapon_income:0 "\n§YГильдия кузнецов§! Доход:"
+ afr_peacetime_economy_tribal_weapon_income_need_tech:0 "§RТребуется технологии:§! §YКузнечное дело§! §Ранд§! §YГильдии§!\n"
+ afr_peacetime_economy_tribal_weapon_income_building_unlocked:0 "\nПозволяет §YПоселенческим обществам§! создать §GВоенную Индустрию§!.\n"
+ afr_peacetime_economy_weapon_income_need_tech:0 "§RТребуется технологии:§! §YПика и выстрел§!\n"
+ afr_peacetime_economy_weapon_income_upgrade_tech:0 "§OТехнология модернизации:§! §YФлинтлоковые ружья§!\n"
+ afr_peacetime_economy_weapon_income_uniform_production:0 "§O Производство униформы:§!\n"
+ afr_peacetime_economy_uniform_income_need_tech:0 "§R Требуется технология:§! §YНаполеоновские униформы:§!\n"
+ afr_peacetime_economy_uniform_income_need_artisan_tech:0 "§R Требуется технология:§! §YРемесленники§!\n"
+ afr_peacetime_economy_weapon_income_upgrade_tech_1:0 "§O Модернизация Технологии:§! §YВикторианская Униформа§!\n"
+ afr_peacetime_economy_weapon_income_upgrade_tech_2:0 "§O Модернизация Технологии:§! §Y1850 Униформа§!\n"
+ afr_peacetime_economy_weapon_income_upgrade_tech_3:0 "§O Модернизация Технологии:§! §Y1864 Униформа§!\n"
+ afr_peacetime_economy_weapon_income_upgrade_uniform_production:0 "§O Модернизация Продукции:§!\n"
+ afr_peacetime_economy_uniform_income_need_weavery:0 "§R Требуется здание:§! §YТекстильная фабрика§!\n"
+ afr_peacetime_economy_tribal_weapon_need_tech:0 "§R Требуется технология:§! §YПлеменное оружие§!\n"
+
+afr_prosperity_has_no_riding_tech:0 "§YЛошадиная Езда§!§R должна быть исследована прежде, чем §!§ҮЖивотноводство§!§R может быть установлено.§!\n\n"
+ afr_prosperity_mechanic_nomadic_animal_husbandry:0 "Экономика кочевников: Животноводство"
+afr_prosperity_mechanic_nomadic_animal_husbandry_tooltip:0 "§GКоневоды добавят §!§YКавалерийское Оборудование§!§G к нашим национальным запасам во время §! §YПроцветания в мирное время§!§G.§!".
+ afr_peacetime_economy_nomadic_animal_husbandry_income:0 "\n§YКочевое животноводство§! Доход:"
+afr_peacetime_economy_nomadic_animal_husbandry_building_unlocked:0 "\nПозволяет §YКочевым обществам§! практиковать §ҮЖивотноводство§!.\n"
+
+ afr_peacetime_economy_base_prosperity_very_low_taxes_tooltip:0 "\n§RВведение §!§YОчень низких налогов§!§R удалит любой §!§YБазовый доход§! §Rот процветания.§!\n"
+afr_peacetime_economy_base_prosperity_unorganized_upgrade_tooltip:0 " Стать §YОрганизованным племенным государством§! чтобы процветало §YМирное Время§!.\n"
+ afr_peacetime_economy_base_prosperity_organized_upgrade_tooltip:0 "\nСтать  §YНебольшим Королевством§! чтобы процветало §YМирное Время§!.\n"
+ afr_peacetime_economy_base_prosperity_small_kingdom_upgrade_tooltip:0 "\nСтать §YРегиональной Державой§! чтобы процветало §YМирное Время§!.\n"
+
+ afr_peacetime_economy_base_prosperity_growth:0 "\n§YРост благосостояния:§!\n"
+ afr_peacetime_economy_base_prosperity_very_low_taxes:0 "Базовый доход: §R+0§!\n"
+ afr_peacetime_economy_base_prosperity_unorganized:0 "Базовый доход: §R+0§!\n"
+ afr_peacetime_economy_base_prosperity_organized:0 "Базовый доход: §G+1§!\n"
+ afr_peacetime_economy_base_prosperity_small_kingdom:0 "Базовый доход: §G+2§!\n"
+ afr_peacetime_economy_base_prosperity_regional_power:0 "Базовый доход: §G+3§!\n"
+ afr_peacetime_economy_base_prosperity_colonial_company:0 "§YКолониальная Компания Партнёра§! Доход: §G+1§!\n"
+ ETH_one_camel_trade_industry_income:0 "§YВерблюжья торговая индустрия§! Доход: §G+1§!\n"
+ ETH_two_camel_trade_industry_income:0 "§YВерблюжья торговая индустрия§! Доход: §G+2§!\n"
+
+ afr_peacetime_state_prosperity_growth:0 "Доход государства: §GГарантированный§!\n"
+
+ afr_prosperity_mechanic_value:0 "[?afr_prosperity_mechanic_value]"
+ afr_prosperity_mechanic_category:0 "Резерв процветания: [?afr_prosperity_mechanic_value]"
+afr_prosperity_mechanic_category_desc:0 "§YПроцветание в мирное время:§!\n[ROOT.GetName] процветание будет расти во время §Gмира§!, но только когда §Rвоенное истощение§! будет восстановлено.\n\n\n§YИзбыточный долг:§!\nЕсли резерв процветания ниже §R-10§!, страна будет иметь §Rмалый штраф§! при попытке восстановить этот долг. После индустриализации страны, за каждый интервал §R-40§! §YПроцветание§!, наш §YУровень долга§! будет увеличиваться на §R1§! Уровень §Yдолга§! в §R20§! приведет к §Rбольшим штрафам§! если долг не будет выплачен. \n\n§YРегиональные проекты:§!\n§gВ мирное время люди могут свободно заниматься своей жизнью, не беспокоясь о войне. Когда страна оправится от истощения войной, можно проводить региональные проекты, способствующие экономическому росту.§!"
+ afr_prosperity_mechanic_change_tt:0 "\nПроцветание: [?prosperity_change|+=0]\n"
+
+ afr_prosperity_mechanic_custom_cost_2:0 "£prosperity_texticon §H2§!"
+ afr_prosperity_mechanic_custom_cost_2_blocked:0 "£prosperity_texticon §R2§!"
+ afr_prosperity_mechanic_custom_cost_2_tooltip:0 "Стоит §R2§! §YПроцветания§! для принятия решения"
+ afr_prosperity_mechanic_minus_2:0 "\n§YПроцветание:§! §Р-2§!\n"
+ afr_prosperity_mechanic_greater_than_2:0 "§YПроцветание§! больше или равно §Y2§!".
+
+ afr_prosperity_mechanic_custom_cost_3:0 "£prosperity_texticon §H3§!"
+ afr_prosperity_mechanic_custom_cost_3_blocked:0 "£prosperity_texticon §R3§!"
+ afr_prosperity_mechanic_custom_cost_3_tooltip:0 "Стоит §R3§! §YПроцветания§! для принятия решения"
+ afr_prosperity_mechanic_minus_3:0 "\n§YПроцветание:§! §Р-3§!\n"
+ afr_prosperity_mechanic_greater_than_3:0 "§YПроцветание§! больше или равно §Y3§!".
+
+ afr_prosperity_mechanic_minus_5:0 "\n§YПроцветание:§! §Р-5§!\n"
+ afr_prosperity_mechanic_custom_cost_5:0 "£prosperity_texticon §H5§!"
+ afr_prosperity_mechanic_custom_cost_5_blocked:0 "£prosperity_texticon §R5§!"
+ afr_prosperity_mechanic_custom_cost_5_tooltip:0 "Стоит §R5§! §YПроцветания§! для принятия решения"
+ afr_prosperity_mechanic_greater_than_5:0 "§YПроцветание§! больше или равно §Y5§!".
+
+ afr_prosperity_mechanic_minus_6:0 "\n§YПроцветание:§! §Р-6§!\n"
+ afr_prosperity_mechanic_custom_cost_6:0 "£prosperity_texticon §H6§!"
+ afr_prosperity_mechanic_custom_cost_6_blocked:0 "£prosperity_texticon §R6§!"
+ afr_prosperity_mechanic_custom_cost_6_tooltip:0 "Стоит §R6§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_greater_than_6:0 "§YПроцветание§! больше или равно §Y6§!".
+
+ afr_prosperity_mechanic_custom_cost_7:0 "£prosperity_texticon §H7§!"
+ afr_prosperity_mechanic_custom_cost_7_blocked:0 "£prosperity_texticon §R7§!"
+ afr_prosperity_mechanic_custom_cost_7_tooltip:0 "Стоит §R7§! §YПроцветания§! для принятия решения"
+ afr_prosperity_mechanic_minus_7:0 "\n§YПроцветание:§! §Р-7§!\n"
+ afr_prosperity_mechanic_greater_than_7:0 "§YПроцветание§! больше или равно §Y7§!".
+
+ afr_prosperity_mechanic_custom_cost_9:0 "£prosperity_texticon §H9§!".
+ afr_prosperity_mechanic_custom_cost_9_blocked:0 "£prosperity_texticon §R9§!"
+ afr_prosperity_mechanic_custom_cost_9_tooltip:0 "Стоит §R9§! §YПроцветания§! для принятия решения"
+ afr_prosperity_mechanic_minus_9:0 "\n§YПроцветание:§! §Р-9§!\n"
+ afr_prosperity_mechanic_greater_than_9:0 "§YПроцветание§! больше или равно §Y9§!".
+
+
+ afr_prosperity_mechanic_custom_cost_10:0 "£prosperity_texticon §H10§!"
+ afr_prosperity_mechanic_custom_cost_10_blocked:0 "£prosperity_texticon §R10§!"
+ afr_prosperity_mechanic_custom_cost_10_tooltip:0 "Стоит §R10§! §YПроцветания§! для принятия решения"
+ afr_prosperity_mechanic_minus_10:0 "\n§YProsperity:§! §Р-10§!\n"
+ afr_prosperity_mechanic_plus_10:0 "\n§YProsperity:§! §G+10§!\n"
+ afr_prosperity_mechanic_greater_than_10:0 "§YПроцветание§! больше или равно §Y10§!".
+ afr_prosperity_mechanic_minus_10_tooltip:0 "Эта инвестиция будет стоить §R10§! §YПроцветание§!.\n"
+ afr_prosperity_mechanic_greater_than_10_tooltip:0 "Стоит §R10§! §YПроцветания§! чтобы выполнить это вложение.\n"
+
+ afr_prosperity_mechanic_custom_cost_15:0 "£prosperity_texticon §H15§!"
+ afr_prosperity_mechanic_custom_cost_15_blocked:0 "£prosperity_texticon §R15§!"
+ afr_prosperity_mechanic_custom_cost_15_tooltip:0 "Стоит §R15§! §YПроцветания§! для принятия решения"
+ afr_prosperity_mechanic_minus_15:0 "\n§YПроцветание:§! §Р-15§!\n"
+ afr_prosperity_mechanic_greater_than_15:0 "§YПроцветание§! больше или равно §Y15§!".
+
+ afr_prosperity_mechanic_custom_cost_20:0 "£prosperity_texticon §H20§!"
+ afr_prosperity_mechanic_custom_cost_20_blocked:0 "£prosperity_texticon §R20§!"
+ afr_prosperity_mechanic_custom_cost_20_tooltip:0 "Стоит §R20§! §YПроцветания§! для принятия решения"
+ afr_prosperity_mechanic_minus_20:0 "\n§YПроцветание:§! §Р-20§!\n"
+ afr_prosperity_mechanic_plus_20:0 "\n§YПроцветание:§! §G+20§!\n"
+ afr_prosperity_mechanic_greater_than_20:0 "§YПроцветание§! больше или равно §Y20§!".
+ afr_prosperity_mechanic_minus_20_tooltip:0 "Эта инвестиция будет стоить §R20§! §YПроцветания§!.\n"
+ afr_prosperity_mechanic_greater_than_20_tooltip:0 "Стоит §R20§! §YПроцветания§! чтобы выполнить это вложение.\n"
+
+ afr_prosperity_mechanic_custom_cost_25:0 "£prosperity_texticon §H25§!"
+ afr_prosperity_mechanic_custom_cost_25_blocked:0 "£prosperity_texticon §R25§!"
+ afr_prosperity_mechanic_custom_cost_25_tooltip:0 "Стоит §R25§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_minus_25:0 "\n§YПроцветание:§! §Р-25§!\n"
+ afr_prosperity_mechanic_greater_than_25:0 "§YПроцветание§! больше или равно §Y25§!".
+
+ afr_prosperity_mechanic_custom_cost_30:0 "£prosperity_texticon §H30§!".
+ afr_prosperity_mechanic_custom_cost_30_blocked:0 "£prosperity_texticon §R30§!"
+ afr_prosperity_mechanic_custom_cost_30_tooltip:0 "Стоит §R30§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_minus_30:0 "\n§YПроцветание:§! §Р-30§!\n"
+ afr_prosperity_mechanic_greater_than_30:0 "§YПроцветание§! больше или равно §Y30§!".
+
+ afr_prosperity_mechanic_custom_cost_40:0 "£prosperity_texticon §H40§!"
+ afr_prosperity_mechanic_custom_cost_40_blocked:0 "£prosperity_texticon §R40§!"
+ afr_prosperity_mechanic_custom_cost_40_tooltip:0 "Стоит §R40§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_minus_40:0 "\n§YПроцветание:§! §Р-40§!\n"
+ afr_prosperity_mechanic_greater_than_40:0 "§YПроцветание§! больше или равно §Y40§!".
+ afr_prosperity_mechanic_minus_40_tooltip:0 "Эта инвестиция будет стоить §R40§! §YПроцветания§!.\n"
+ afr_prosperity_mechanic_greater_than_40_tooltip:0 "Стоит §R40§! §YПроцветания§! чтобы выполнить это вложение.\n"
+
+ afr_prosperity_mechanic_custom_cost_50:0 "£prosperity_texticon §H5§!"
+ afr_prosperity_mechanic_custom_cost_50_blocked:0 "£prosperity_texticon §R50§!"
+ afr_prosperity_mechanic_custom_cost_50_tooltip:0 "Стоит §R50§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_minus_50:0 "\n§YПроцветание§! §Р-50§!\n"
+ afr_prosperity_mechanic_greater_than_50:0 "§YПроцветание§! больше или равно §Y50§!".
+
+ afr_prosperity_mechanic_custom_cost_200:0 "£prosperity_texticon §H200§!".
+ afr_prosperity_mechanic_custom_cost_200_blocked:0 "£prosperity_texticon §R200§!"
+ afr_prosperity_mechanic_custom_cost_200_tooltip:0 "Стоит §R200§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_minus_200:0 "\n§YПроцветание:§! §Р-200§!\n"
+ afr_prosperity_mechanic_greater_than_200:0 "§YПроцветание§! больше или равно §Y200§!".
+
+ afr_war_exhaustion_reduction:0 "Облегчение военного истощения"
+ afr_war_exhaustion_reduction_desc:0 "Вкладывая процветание из наших резервов, мы можем смягчить влияние военного истощения на нашу экономику".
+ afr_prosperity_mechanic_minus_15_war_exhaustion:0 "£prosperity_texticon §H15§!".
+ afr_prosperity_mechanic_minus_15_war_exhaustion_blocked:0 "£prosperity_texticon §R15§!"
+ afr_prosperity_mechanic_minus_15_war_exhaustion_tooltip:0 "Вкладывает §R15§! §YПроцветания§! в нашу доиндустриальную экономику, чтобы §GУменьшить§! §YВоенное истощение§!.\n"
+
+ afr_prosperity_mechanic_minus_3_investment_tooltip:0 "Инвестирует §Р3§! §YПроцветания§! для оплаты внешней помощи нашей §GИндустриализации§!.\n"
+afr_prosperity_mechanic_minus_3_investment_debt_tooltip:0 "Наше §YПартнерство Колониальной Компании§! одолжит нам §GКредит§! для того, чтобы оплатить их помощь в нашей §GИндустриализации§! В результате мы накопим §OДолг§! в размере §Р3§! §YПроцветания§!.\n"
+ afr_prosperity_mechanic_greater_than_3_has_company:0 "§gНаше §!§YПартнерство Колониальной Компании§!§g позволит нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо того, чтобы платить §!§R3§! §YПроцветания§! чтобы принять решение".
+ afr_prosperity_mechanic_greater_than_3_has_oman:0 "§gНаши инвестиции от §!§Y[OMA.GetName]§!§!§g позволят нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо оплаты §!§R3§! §YПроцветания§! чтобы принять решение".
+ afr_prosperity_mechanic_greater_than_3_no_company:0 "§YПроцветание§! больше или равно §Y3§!\n§g§! §YПартнерство Колониальной Компании§!§g или любая §!§YЗарубежная помощь§!§g позволят нам накапливать §!§Долг§!§g вместо того, чтобы платить из нашего §!§gРезерва Процветания§!§g!§g!".
+
+ afr_prosperity_mechanic_minus_5_investment_tooltip:0 "Инвестирует §Р5§! §YПроцветания§! для оплаты внешней помощи нашей §GИндустриализации§!.\n"
+ afr_prosperity_mechanic_minus_5_investment_debt_tooltip:0 "Наше §YПартнерство Колониальной Компании§! одолжит нам §GКредит§! для того, чтобы оплатить их помощь в нашей §GИндустриализации§! В результате мы накопим §OДолг§! в размере §Р5§! §YПроцветания§!.\n"
+ afr_prosperity_mechanic_greater_than_5_has_company:0 "§gНаше §!§YПартнерство Колониальной Компании§!§g позволит нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо того, чтобы платить §!§R5§! §YПроцветания§! чтобы принять решение".
+ afr_prosperity_mechanic_greater_than_5_has_oman:0 "§gНаши инвестиции от §!§Y[OMA.GetName]§!§!§g позволят нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо оплаты §!§R5§! §YПроцветания§! чтобы принять решение".
+ afr_prosperity_mechanic_greater_than_5_no_company:0 "§YПроцветание§! больше или равно §Y5§!\n§g§! §YПартнерство Колониальной Компании§!§g или любая §!§YЗарубежная помощь§!§g позволят нам накапливать §!§Долг§!§g вместо того, чтобы платить из нашего §!§gРезерва Процветания§!§g!§g!".
+
+ afr_prosperity_mechanic_minus_10_investment_tooltip:0 "Инвестирует §Р10§! §YПроцветания§! для оплаты внешней помощи нашей §GИндустриализации§!.\n"
+ afr_prosperity_mechanic_minus_10_investment_debt_tooltip:0 "Наше §YПартнерство Колониальной Компании§! одолжит нам §GКредит§! для того, чтобы оплатить их помощь в нашей §GИндустриализации§! В результате мы накопим §OДолг§! в размере §Р10§! §YПроцветания§!.\n"
+ afr_prosperity_mechanic_greater_than_10_has_company:0 "§gНаше §!§YПартнерство Колониальной Компании§!§g позволит нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо того, чтобы платить §!§R10§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_greater_than_10_has_oman:0 "§gНаши инвестиции от §!§Y[OMA.GetName]§!§!§g позволят нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо оплаты §!§R10§! §YПроцветания§! чтобы принять решение".
+ afr_prosperity_mechanic_greater_than_10_no_company:0 "§YПроцветание§! больше или равно §Y10§!\n§g§! §YПартнерство Колониальной Компании§!§g или любая §!§YЗарубежная помощь§!§g позволят нам накапливать §!§Долг§!§g вместо того, чтобы платить из нашего §!§gРезерва Процветания§!§g!§g!".
+
+ afr_prosperity_mechanic_minus_15_investment_tooltip:0 "Инвестирует §Р15§! §YПроцветания§! для оплаты внешней помощи нашей §GИндустриализации§!.\n"
+ afr_prosperity_mechanic_minus_15_investment_debt_tooltip:0 "Наше §YПартнерство Колониальной Компании§! одолжит нам §GКредит§! для того, чтобы оплатить их помощь в нашей §GИндустриализации§! В результате мы накопим §OДолг§! в размере §Р15§! §YПроцветания§!.\n"
+ afr_prosperity_mechanic_greater_than_15_has_company:0 "§gНаше §!§YПартнерство Колониальной Компании§!§g позволит нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо того, чтобы платить §!§R15§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_greater_than_15_has_oman:0 "§gНаши инвестиции от §!§Y[OMA.GetName]§!§!§g позволят нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо оплаты §!§R15§! §YПроцветания§! чтобы принять решение".
+ afr_prosperity_mechanic_greater_than_15_no_company:0 "§YПроцветание§! больше или равно §Y15§!\n§g§! §YПартнерство Колониальной Компании§!§g или любая §!§YЗарубежная помощь§!§g позволят нам накапливать §!§Долг§!§g вместо того, чтобы платить из нашего §!§gРезерва Процветания§!§g!§g!".
+
+ afr_prosperity_mechanic_minus_20_investment_tooltip:0 "Инвестирует §Р20§! §YПроцветания§! для оплаты внешней помощи нашей §GИндустриализации§!.\n"
+ afr_prosperity_mechanic_minus_20_investment_debt_tooltip:0 "Наше §YПартнерство Колониальной Компании§! одолжит нам §GКредит§! для того, чтобы оплатить их помощь в нашей §GИндустриализации§! В результате мы накопим §OДолг§! в размере §Р20§! §YПроцветания§!.\n"
+ afr_prosperity_mechanic_greater_than_20_has_company:0 "§gНаше §!§YПартнерство Колониальной Компании§!§g позволит нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо того, чтобы платить §!§R20§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_greater_than_20_has_oman:0 "§gНаши инвестиции от §!§Y[OMA.GetName]§!§!§g позволят нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо оплаты §!§R20§! §YПроцветания§! чтобы принять решение".
+ afr_prosperity_mechanic_greater_than_20_no_company:0 "§YПроцветание§! больше или равно §Y20§!\n§g§! §YПартнерство Колониальной Компании§!§g или любая §!§YЗарубежная помощь§!§g позволят нам накапливать §!§Долг§!§g вместо того, чтобы платить из нашего §!§gРезерва Процветания§!§g!§g!".
+
+ afr_prosperity_mechanic_minus_30_investment_tooltip:0 "Инвестирует §Р30§! §YПроцветания§! для оплаты внешней помощи нашей §GИндустриализации§!.\n"
+ afr_prosperity_mechanic_minus_30_investment_debt_tooltip:0 "Наше §YПартнерство Колониальной Компании§! одолжит нам §GКредит§! для того, чтобы оплатить их помощь в нашей §GИндустриализации§! В результате мы накопим §OДолг§! в размере §Р30§! §YПроцветания§!.\n"
+ afr_prosperity_mechanic_greater_than_30_has_company:0 "§gНаше §!§YПартнерство Колониальной Компании§!§g позволит нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо того, чтобы платить §!§R30§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_greater_than_30_has_oman:0 "§gНаши инвестиции от §!§Y[OMA.GetName]§!§!§g позволят нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо оплаты §!§R30§! §YПроцветания§! чтобы принять решение".
+ afr_prosperity_mechanic_greater_than_30_no_company:0 "§YПроцветание§! больше или равно §Y30§!\n§g§! §YПартнерство Колониальной Компании§!§g или любая §!§YЗарубежная помощь§!§g позволят нам накапливать §!§Долг§!§g вместо того, чтобы платить из нашего §!§gРезерва Процветания§!§g!§g!".
+
+ afr_prosperity_mechanic_minus_40_investment_tooltip:0 "Инвестирует §Р40§! §YПроцветания§! для оплаты внешней помощи нашей §GИндустриализации§!.\n"
+ afr_prosperity_mechanic_minus_40_investment_debt_tooltip:0 "Наше §YПартнерство Колониальной Компании§! одолжит нам §GКредит§! для того, чтобы оплатить их помощь в нашей §GИндустриализации§! В результате мы накопим §OДолг§! в размере §Р40§! §YПроцветания§!.\n"
+ afr_prosperity_mechanic_greater_than_40_has_company:0 "§gНаше §!§YПартнерство Колониальной Компании§!§g позволит нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо того, чтобы платить §!§R40§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_greater_than_40_has_oman:0 "§gНаши инвестиции от §!§Y[OMA.GetName]§!§!§g позволят нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо оплаты §!§R40§! §YПроцветания§! чтобы принять решение".
+ afr_prosperity_mechanic_greater_than_40_no_company:0 "§YПроцветание§! больше или равно §Y40§!\n§g§! §YПартнерство Колониальной Компании§!§g или любая §!§YЗарубежная помощь§!§g позволят нам накапливать §!§Долг§!§g вместо того, чтобы платить из нашего §!§gРезерва Процветания§!§g!§g!".
+
+ afr_prosperity_mechanic_minus_50_investment_tooltip:0 "Инвестирует §Р50§! §YПроцветания§! для оплаты внешней помощи нашей §GИндустриализации§!.\n"
+ afr_prosperity_mechanic_minus_50_investment_debt_tooltip:0  "Наше §YПартнерство Колониальной Компании§! одолжит нам §GКредит§! для того, чтобы оплатить их помощь в нашей §GИндустриализации§! В результате мы накопим §OДолг§! в размере §Р50§! §YПроцветания§!.\n"
+ afr_prosperity_mechanic_greater_than_50_has_company:0 "§gНаше §!§YПартнерство Колониальной Компании§!§g позволит нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо того, чтобы платить §!§R50§! §YПроцветания§! чтобы принять решение"
+ afr_prosperity_mechanic_greater_than_50_has_oman:0 "§gНаши инвестиции от §!§Y[OMA.GetName]§!§!§g позволят нам накопить §!§OДолг§!§g через §!§GКредит§!§g вместо оплаты §!§R50§! §YПроцветания§! чтобы принять решение".
+ afr_prosperity_mechanic_greater_than_50_no_company:0 "§YПроцветание§! больше или равно §Y50§!\n§g§! §YПартнерство Колониальной Компании§!§g или любая §!§YЗарубежная помощь§!§g позволят нам накапливать §!§Долг§!§g вместо того, чтобы платить из нашего §!§gРезерва Процветания§!§g!§g!".
+
+
+ afr_ethiopia_send_gift_por:0 "Отправить подарок в Португалию"
+ afr_ethiopia_send_gift_por_desc:0 "Португалия была давним торговым партнером [ROOT.GetName]. Отправив подарок, возможно, они признают нас торговыми партнерами".
+afr_ethiopia_send_gift_por_trigger:0 " §ҮСхватка за Африку§! не началась".
+ afr_ethiopia_purchase_por_supplies:0 "Приобрести старые португальские товары"
+ afr_ethiopia_purchase_por_supplies_desc:0 "Португалия была старым торговым партнером [ROOT.GetName]. Если их мнение о нас достаточно высоко, мы сможем приобрести некоторое старое оружие."
+ afr_prosperity_mechanic_construction:0 "Не имеет §YПроекта регионального развития§! в процессе реализации".
+ afr_prosperity_mechanic_build_cotton_farm:0 "Проект регионального развития: Хлопковая ферма"
+ afr_prosperity_mechanic_build_cotton_farm_desc:0 "Инвестируя часть своего богатства в местные хлопковые фермы, мы можем §Gувеличить производство ресурсов хлопка§! для растущего мирового рынка."
+ afr_prosperity_mechanic_build_farm:0 "Проект регионального развития: Ферма"
+ afr_prosperity_mechanic_build_farm_desc:0 "Вкладывая часть своего богатства в местные фермы, мы можем расширить производство продуктов питания, чтобы §увеличить население§!".
+ afr_prosperity_mechanic_build_logging_camp:0 "Проект регионального развития: Лагерь лесорубов"
+ afr_prosperity_mechanic_build_logging_camp_desc:0 "Инвестируя часть нашего богатства в местные лесозаготовительные лагеря, мы можем §Gувеличить производство древесных ресурсов§! для растущего мирового рынка."
+ afr_prosperity_mechanic_build_coal_mine:0 "Проект регионального развития: Угольная шахта"
+ afr_prosperity_mechanic_build_coal_mine_desc:0 "Инвестируя часть своего богатства в местные угольные шахты, мы можем §Gувеличить производство угольных ресурсов§! для растущего мирового рынка."
+
+
+ afr_prosperity_mechanic_clear_development:0 "Проект регионального развития: Разрешение на развитие"
+ afr_prosperity_mechanic_clear_development_desc:0 "Путем §RУдаления слота здания§! из предыдущего проекта регионального развития, §GНовый проект§! может быть разработан в этом состоянии."
+ afr_prosperity_mechanic_clear_coastal_development:0 "Проект развития побережья: Разрешение на разработку"
+ afr_prosperity_mechanic_clear_coastal_development_desc:0 "Путем §RУдаления слота здания§! из предыдущего проекта регионального развития, §GНовый проект§! может быть разработан в этом штате."
+
+ afr_war_exhaustion_value_penalty_1_idea:0 "Возбужденное население"
+ afr_war_exhaustion_value_penalty_1_idea_desc:0 "Население взбудоражено из-за высокого истощения войной. Чтобы сохранить вербовку для военных действий, делаются уступки нашим соплеменникам."
+ afr_war_exhaustion_value_penalty_2_idea:0 "Напряженная экономика".
+ afr_war_exhaustion_value_penalty_2_idea_desc:0 "Война истощила нашу доиндустриальную экономику до предела. Наша племенная логистика не успевает за требуемым приобретением сырья."
+ afr_war_exhaustion_value_penalty_3_idea:0 "Скудные запасы".
+ afr_war_exhaustion_value_penalty_3_idea_desc:0 "Из-за истощения войны ремесленники племени не в состоянии поддерживать спрос на припасы для войны. Припасы для войны скудны и малочисленны. Население больше не поддерживает эту войну".
+ afr_war_exhaustion_value_penalty_4_idea:0 "Сепаратистские движения"
+ afr_war_exhaustion_value_penalty_4_idea_desc:0 "Правительство племени стало нестабильным из-за опасного уровня истощения войной. Внутри внутреннего правительства сформировались сепаратистские движения. Население жаждет перемен, и эти субъекты извлекают из этого выгоду."
+ afr_war_exhaustion_enter_space:0 "\n\n"
+
+
+afr_max_war_exhaustion_value_reached:0 " §RМаксимум §! §YВоенного истощения§!§RДостигнуто!§!"
+
+ afr_war_exhaustion_value_less_than_5:0 "§YВоенного истощение§! меньше чем §Y5§!".
+ afr_war_exhaustion_value_less_than_10:0 "§YВоенного истощение§! меньше чем §Y10§!".
+ afr_war_exhaustion_value_less_than_20:0 "§YВоенного истощение§! меньше чем §Y20§!".
+ afr_war_exhaustion_value_less_than_40:0 "§YВоенного истощение§! меньше чем §Y40§!".
+ afr_war_exhaustion_value_add_15:0 "\nВоенного истощение: §R+15§!\n"
+ afr_war_exhaustion_value_add_10:0 "\nВоенного истощение: §R+10§!\n"
+ afr_war_exhaustion_value_add_5:0 "\nВоенного истощение: §R+5§!\n"
+ afr_war_exhaustion_value_add_3:0 "Военного истощение: §R+3§!\n"
+ afr_war_exhaustion_value_add_2:0 "Военного истощение: §R+2§!\n"
+ afr_war_exhaustion_value_add_1:0 "Военного истощение: §R+1§!\n"
+ afr_war_exhaustion_value_minus_1:0 "Военного истощение: §G-1§!\n"
+ afr_war_exhaustion_value_minus_3:0 "Военного истощение: §G-3§!\n"
+ afr_war_exhaustion_value_minus_5:0 "Военного истощение: §G-5§!\n"
+
+ afr_war_exhaustion_value_add_15_if_declined:0 "\nЕсли интеграция отклонена и начинается война:\n Военного истощение: §R+15§!\n"
+ afr_war_exhaustion_value_add_10_if_declined:0 "\nЕсли интеграция отклонена и начинается война:\n Военного истощение: §R+10§!\n"
+ afr_war_exhaustion_value_add_5_if_declined:0 "\nЕсли интеграция отклонена и начинается война:\n Военного истощение: §R+5§!\n"
+
+ skt_expand_slave_markets:0 "Завоевал чужую землю"
+ skt_expand_slave_markets_colonial:0 "\nЕсли мы соседи с §YКолониальной Державой§!, они могут быть заинтересованы в §GСпециальной Торговле§!.\n\n"
+
+ afr_war_exhaustion_exertion.1.t:0 "Решение проблемы истощения в военное время"
+ afr_war_exhaustion_exertion.1.d:0 "Во время войны люди сильно страдают от экономических последствий войны. Наша доиндустриальная экономика может выдержать только столько, как наша нация должна реагировать на это военное истощение?".
+ afr_war_exhaustion_exertion.1.a:0 "Продолжайте сражаться!".
+ afr_war_exhaustion_exertion.1.b:0 "Напрягая нашу экономику, мы должны продолжать борьбу!".
+ afr_war_exhaustion_exertion.1.c:0 "Рационировать все запасы, которые мы можем, чтобы продолжать борьбу!".
+ afr_war_exhaustion_exertion.1.e:0 "Эта война стала слишком дорогостоящей, мы должны прекратить атаку".
+
+#Ideas #NT!
+ SKT_sokoto_jihad:0 "Джихад Сокото"
+ SKT_an_african_jihad:0 "Африканский джихад"
+ SKT_African_Caliphate:0 "Африканский халифат"
+ AFR_religion_sunni_tooltip:0 "Государственная религия - §YСуннитский Ислам§!"
+ AFR_religion_not_sunni_tooltip:0 "Государственная религия не §Южный ислам§!"
+
+ afr_generic_jihadist_skt_a_united_african_jihad_flag:0 "§YСокотский халифат§! образовал §YАфриканский халифат§!".
+
+ #Decisions #NT!
+ AFR_constructing_islamic_frontier_ribat:0 "В настоящее время не строит никаких §Исламских Пограничных Рибатов§!".
+ Jihad_develop_frontier_ribats_tooltip:0 "Разблокирует новые §YРешения§! связанные со строительством §YИсламских пограничных рибатов§! в принадлежащих территория, которые обеспечат §GИнфраструктуру§!".
+ afr_islamic_renaissance:0 "Исламское возрождение"
+ SKT_KBO_build_ribats:0 "Построить пограничные рибаты в Канем-Борну"
+ SKT_BAG_build_ribats:0 "Построить пограничные рибаты в Багирмяне"
+ SKT_SNS_build_ribats:0 "Построить пограничные рибаты в Сенусси"
+ SKT_IJB_build_ribats:0 "Построить пограничные рибаты в Иджебу"
+ SKT_ARO_build_ribats:0 "Построить пограничные рибаты в конфедерации Аро"
+ SKT_MOS_build_ribats:0 "Построить пограничные рибаты в Мосси"
+ SKT_ASH_build_ribats:0 "Построить пограничные рибаты в Ашанти"
+ SKT_KAG_build_ribats:0 "Построить пограничные рибаты в Кель-Ахаггаре"
+ SKT_TUG_build_ribats:0 "Построить пограничные рибаты в Кель-Айре"
+ SKT_GBG_build_ribats:0 "Построить пограничные рибаты в Гбагиане"
+ SKT_OYO_build_ribats:0 "Построить пограничные рибаты в Ойо"
+ SKT_DAH_build_ribats:0 "Построить пограничные рибаты в Дагомее"
+ SKT_BRG_build_ribats:0 "Построить пограничные рибаты в Боргу"
+ SKT_DDI_build_ribats:0 "Построить пограничные рибаты в Дендиане"
+
+ SKT_Caliphate_raids:0 "Рейды халифата Сокото"
+ SKT_raid_infidel_neighbor:0 "[FROM.GetAdjective] Рейд неверных"
+
+ afr_religion_not_sunni:0 "Религия §Y[THIS.GetName]§! не является §YСуннисткой§!"
+ afr_religion_is_sunni:0 "Религия §Y[THIS.GetName]§! является §YСуннисткой§!"
+
+ SKT_TOU_declare_war:0 "Вторгнуться в Тукулер".
+ SKT_FTJ_declare_war:0 "Вторгнуться в Фута-Джаллон"
+ SKT_FTT_declare_war:0 "Вторжение в Фута Торо"
+
+ SKT_Caliphate_Diplomacy:0 "Дипломатия халифата Сокото"
+ SKT_form_an_african_jihad:0 "Образовать африканский халифат"
+ SKT_form_an_african_jihad_tooltip:0 "\nМы должны восстать в §GДжихаде§! нашего §YАфриканского Халифата§! и дать отпор §RКолониальным Державам.§!\n"
+ SKT_TUG_sunni_integration:0 "Интегрировать суннитов Кель-Айра"
+ SKT_BAG_sunni_integration:0 "Интегрировать суннитов Багирмиана"
+ SKT_GBG_sunni_integration:0 "Интеграция гбагийских суннитов"
+ SKT_OYO_sunni_integration:0 "Интеграция суннитов Ойо"
+ SKT_DAH_sunni_integration:0 "Интеграция суннитов Дагомея"
+ SKT_BRG_sunni_integration:0 "Интеграция суннитов Боргу"
+ SKT_DDI_sunni_integration:0 "Интеграция суннитов Дендиана"
+ SKT_border_war_ended:0 "Пограничная война закончилась"
+
+ SKT_BAG_sunni_influence:0 "Джихад в султанате Багирми"
+ SKT_BRG_sunni_influence:0 "Джихад в Боргу"
+ SKT_jihad_member_opinion:0 "Джихад с халифатом Сокото"
+ SKT_jihad_member:0 "Это образует джихад с халифатом Сокото. Джихад - это защита ислама, что означает, что обе стороны будут иметь военный доступ и гарантировать друг друга."
+ SKT_jihad:0 "Инициирован джихад с Сокото".
+
+ SKT_sunni_integration.1.t:0 "Халифат продвигает интеграцию!"
+ SKT_sunni_integration.1.a:0 "Присоединяйтесь к Халифату! Аллаху Акбар!"
+ SKT_sunni_integration.1.b:0 "Мы не будем интегрированы в чужой халифат!".
+
+ SKT_sunni_influence.1.t:0 "Халифат Сокото призывает нас к джихаду!".
+ SKT_sunni_influence.1.a:0 "Объявите джихад во имя Аллаху!".
+ SKT_sunni_influence.1.b:0 "Мы предпочитаем не ввязываться в чужие войны".
+
+SKT_TUG_prepare_border_raid:0 "Рейд на §G[515.Owner.GetAdjective] Неверных!§!".
+ SKT_TUG_islamic_raid.1.t:0 "Рейд на [515.Owner.GetAdjective] Неверных!".
+ SKT_TUG_islamic_raid.1.a:0 "За халифат Сокото! Аллаху Акбар!"
+ SKT_TUG_end_border_raid:0 "§RЗаканчивается рейд§!".
+
+ SKT_BAG_prepare_border_raid:0 "Рейд на §G[805.Owner.GetAdjective] Неверных§!"
+ SKT_BAG_islamic_raid.1.t:0 "Рейд на [805.Owner.GetAdjective] Неверных!".
+ SKT_BAG_islamic_raid.1.a:0 "За халифат Сокото! Аллаху Акбар!"
+ SKT_BAG_end_border_raid:0 "§RЗаканчивается рейд§!".
+
+ SKT_GBG_prepare_border_raid:0 "Рейд на §[558.Owner.GetAdjective] Неверных§! §!"
+ SKT_GBG_islamic_raid.1.t:0 "Рейд на [558.Owner.GetAdjective] Неверных!".
+ SKT_GBG_islamic_raid.1.a:0 "За халифат Сокото! Аллаху Акбар!"
+ SKT_GBG_end_border_raid:0 "§RЗаканчивается рейд§!".
+
+ SKT_OYO_prepare_border_raid:0 "Рейд на §[871.Owner.GetAdjective] Неверных! §!"
+ SKT_OYO_islamic_raid.1.t:0 "Рейд на [871.Owner.GetAdjective] Неверных!".
+ SKT_OYO_islamic_raid.1.a:0 "За халифат Сокото! Аллаху Акбар!"
+ SKT_OYO_end_border_raid:0 "§RЗаканчивается рейд§!".
+
+ SKT_DAH_prepare_border_raid:0 "Рейд на §[769.Owner.GetAdjective] Неверных! §!"
+ SKT_DAH_islamic_raid.1.t:0 "Рейд на [769.Owner.GetAdjective] Неверных!".
+ SKT_DAH_islamic_raid.1.a:0 "За халифат Сокото! Аллаху Акбар!"
+ SKT_DAH_end_border_raid:0 "§RЗаканчивается рейд§!".
+
+ SKT_BRG_prepare_border_raid:0 "Рейд на §[872.Owner.GetAdjective] Неверных! §!"
+ SKT_BRG_islamic_raid.1.t:0 "Рейд на [872.Owner.GetAdjective] Неверных!".
+ SKT_BRG_islamic_raid.1.a:0 "За халифат Сокото! Аллаху Акбар!"
+ SKT_BRG_end_border_raid:0 "§RЗаканчивается рейд§!".
+
+ SKT_DDI_prepare_border_raid:0 "Рейд на §[770.Owner.GetAdjective] Неверных§!".
+ SKT_DDI_islamic_raid.1.t:0 "Рейд на [770.Owner.GetAdjective] Неверных!".
+ SKT_DDI_islamic_raid.1.a:0 "За халифат Сокото! Аллаху Акбар!"
+ SKT_DDI_end_border_raid:0 "§RЗаканчивается рейд§!".
+
+ SKT_BAB_jihad_rebellion.1:0 "Восстать в джихаде!".
+ SKT_BAB_jihad_rebellion.1.t:0 "Восстаньте в джихаде против Франции!".
+ SKT_BAB_jihad_rebellion.1.d:0 "С халифатом Сокото мы вернем нашу законную землю! Аллаху Акбар!"
+ SKT_BAB_jihad_rebellion.1.a:0 "Смерть колониализму! Встаньте на джихад за наш дом!".
+
+ SKT_join_caliphate.1:0 "Присоединяйтесь к Африканскому халифату!".
+ SKT_join_caliphate.1.t:0 "Присоединяйтесь к Африканскому халифату!".
+ SKT_join_caliphate.1.d:0 "Вместе с халифатом Сокото мы поднимемся на джихад за Африку! Аллаху Акбар!"
+ SKT_join_caliphate.1.a:0 "Смерть колониализму! Поднимайтесь на джихад!"
+ SKT_join_caliphate.1.b:0 "Мы не присоединимся к Африканскому халифату".
+
+ SKT_raid_stolen_treasures:0 "§YУкраденные сокровища:§!\n Прирост Базовой Стабильности: §G1%§!\n Прирост законодательной власти: §G+35§!\n"
+ skt_islamic_raid.2.t:0 "Рейд возвращается победителем!"
+ skt_islamic_raid.2.a:0 "Аллаху Акбар! Обращайте пленных и вводите их в нашу армию!".
+ skt_islamic_raid.3.t:0 "Рейд побежден!"
+ skt_islamic_raid.3.a:0 "Неприемлемо!"
+ skt_islamic_raid.4.t:0 "Рейд в тупике"
+ skt_islamic_raid.4.a:0 "Мы должны подготовиться лучше!"
+ skt_islamic_raid_defender.1.t:0 "[SKT.GetName] совершает набег на нашу границу!"
+ skt_islamic_raid_defender.1.a:0 "Подготовить оборону складов!".
+skt_islamic_raid_defender.2.t:0 "[SKT.GetName] разгромлен!".
+ skt_islamic_raid_defender.2.a:0 "Отлично!"
+ skt_islamic_raid_defender.3.t:0 "[SKT.GetName] Налетает на наши запасы!"
+ skt_islamic_raid_defender.3.a:0 "Будем надеяться, что они не награбили ничего важного..."
+ skt_islamic_raid_defender.4.t:0 "Рейд закончился тупиком"
+ skt_islamic_raid_defender.4.a:0 "Мы должны подготовиться лучше!"
+
+ SKT_joint_invasion_bagirmi.1.t:0 "Совместное вторжение в Багирми!"
+ SKT_joint_invasion_bagirmi.1.d:0 ""
+ SKT_joint_invasion_bagirmi.1.a:0 "Начать вторжение!"
+ SKT_joint_invasion_bagirmi.1.b:0 "Отказаться присоединиться к вторжению".
+
+ SKT_joint_invasion_bagirmi.2.t:0 "[FROM.GetName] Принимает!".
+ SKT_joint_invasion_bagirmi.2.d:0 ""
+ SKT_joint_invasion_bagirmi.2.a:0 "Начать вторжение!".
+
+ SKT_joint_invasion_bagirmi.3.t:0 "[FROM.GetName] отклоняет!"
+ SKT_joint_invasion_bagirmi.3.d:0 ""
+ SKT_joint_invasion_bagirmi.3.a:0 "Нам не нужен Ваддай, начинайте вторжение!".
+ SKT_joint_invasion_bagirmi.3.b:0 "Отменить вторжение".
+
+ SKT_joint_invasion_bagirmi.4.t:0 "[WDD.GetAdjective] Претензии"
+ SKT_joint_invasion_bagirmi.4.d:0 "Как и было оговорено в договоре о совместном вторжении, Ваддаи предъявили претензии на [1339.GetName], и мы незамедлительно передадим его им."
+ SKT_joint_invasion_bagirmi.4.a:0 "Мы выполним наше соглашение".
+
+ SKT_joint_invasion_bagirmi.5.t:0 "[SKT.GetAdjective] Претензии".
+ SKT_joint_invasion_bagirmi.5.d:0 "Как было оговорено в договоре о совместном вторжении, Сокото претендовал на [1912.GetName], и мы незамедлительно передадим его им".
+ SKT_joint_invasion_bagirmi.5.a:0 "Мы будем соблюдать наше соглашение".
+
+ SKT_joint_invasion_bagirmi.6.t:0 "Демилитаризованная зона Ваддай-Сокото".
+ SKT_joint_invasion_bagirmi.6.d:0 "Совместное вторжение в [KBO.GetName] привело к созданию предварительного военного союза. Наши идеи не совпадают с их идеями, и буферное государство было взаимно согласованным условием в рамках договора. [860.GetName] и [789.GetName] должны быть под контролем [WDD.GetAdjective], а [1340.GetName] под [SKT.GetAdjective] контролем. Они должны быть временной зоной демилитаризации, пока оккупированные земли не будут готовы иметь субъекта."
+ SKT_joint_invasion_bagirmi.6.a:0 "Мы не можем доверять империи, которая не правит по догматам Аллаха".
+ SKT_joint_invasion_bagirmi.6.b:0 "Мы не можем допустить, чтобы их Давах искоренял законность нашего правления".
+
+ SKT_joint_invasion_bagirmi.7.t:0 "Буферное государство между державами"
+ SKT_joint_invasion_bagirmi.7.c:0 "Как было решено, [BAG.GetName] и [ADM.GetName] должны стать буферным государством между [SKT.GetName] и [WDD.GetName]. В надежде уменьшить случаи конфликта между двумя региональными державами."
+ SKT_joint_invasion_bagirmi.7.d:0 "Как было согласовано, [BAG.GetName] будет буферным государством между [SKT.GetName] и [WDD.GetName]. В надежде уменьшить случаи конфликта между двумя региональными державами."
+ SKT_joint_invasion_bagirmi.7.a:0 "Это, надеюсь, уменьшит вероятность конфликта с Ваддаем".
+ SKT_joint_invasion_bagirmi.7.b:0 "Это, надеюсь, уменьшит вероятность конфликта с Сокото".
+
+ SKT_joint_invasion_bagirmi.8.t:0 "Буфер между региональными державами".
+ SKT_joint_invasion_bagirmi.8.d:0 "[ROOT.GetName] стал буфером между доминирующими региональными державами, [SKT.GetName] и [WDD.GetName], в надежде уменьшить пограничные конфликты. Положительным результатом всего этого является автономия, которую нам предоставили, чтобы показать, что мы не находимся под прямым контролем [WDD.GetName]".
+ SKT_joint_invasion_bagirmi.8.a:0 "По крайней мере, у нас больше автономии".
+
+ SKT_joint_invasion_bagirmi.9.t:0 "Формальный конец нашего стратегического союза".
+ SKT_joint_invasion_bagirmi.9.d:0 "Теперь, когда буферные государства урегулированы, наш стратегический союз с [SKT.GetName] может закончиться."
+SKT_joint_invasion_bagirmi.9.a:0 "Хорошее избавление!".
+
+ SKT_joint_invasion_bagirmi.10.t:0 "Официальный конец нашего стратегического союза".
+ SKT_joint_invasion_bagirmi.10.d:0 "Теперь, когда буферные государства урегулированы, наш стратегический союз с [WDD.GetName] может закончиться."
+ SKT_joint_invasion_bagirmi.10.a:0 "Хорошее избавление!".
+
+ SKT_joint_invasion_bagirmi.11.t:0 "Буфер между региональными державами"
+ SKT_joint_invasion_bagirmi.11.d:0 "[ROOT.GetName] стал буфером между доминирующими региональными державами, [SKT.GetName] и [WDD.GetName], в надежде уменьшить пограничные конфликты. Положительным результатом всего этого является автономия, которую нам предоставили, чтобы показать, что мы не находимся под прямым контролем [SKT.GetName]."
+ SKT_joint_invasion_bagirmi.11.a:0 "По крайней мере, у нас больше автономии".

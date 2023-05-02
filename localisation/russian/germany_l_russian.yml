@@ -1,0 +1,132 @@
+﻿l_russian:
+
+germany.1.t: "Флаг Германии"
+germany.1.d: "Наша долгая и великая борьба за объединение немецких земель и обеспечение нашего места как значительной державы в Европе наконец-то завершилась победой! Мы обеспечили появление нового, унитарного немецкого государства - но теперь, когда оно у нас есть, возникает один вопрос: Под каким флагом должна объединиться наша нация? Будет лучше, если мы займемся этим вопросом немедленно...".
+germany.1.a: "Гордый имперский флаг, как было предложено вначале!".
+germany.1.b: "Объединить флаг Конфедерации и прусского орла в одно могучее знамя!".
+germany.1.c: "Старый Черный Орел, чествующий нас как преемников Рима и Священной Римской империи!".
+germany.1.e: "Национальный флаг Германии, стоящий за свободу и единство!".
+eoanb_tt_ger_event_1_a: "Этот вариант заставит нас сохранить §YГерманский Имперский флаг§! - Красный снизу, белый посередине и черный сверху".
+eoanb_tt_ger_event_1_b: "Эта опция заставит нас переключиться на §YГерманский военный флаг§! - Имперский флаг в левом верхнем углу и черный орел посередине".
+eoanb_tt_ger_event_1_c: "Эта опция заставит нас переключиться на §YСтарый Германский Имперский Флаг§! - Черный орел на желтом фоне".
+eoanb_tt_ger_event_1_e: "Этот вариант заставит нас перейти на §Германский национальный флаг§! - Желтый, красный и черный".
+germany.2.t: "Статус крепости Штеттин".
+germany.2.d: "Пришло время принять решение относительно статуса крепости в Штеттине".
+germany.2.a: "Она больше не представляет практически никакой ценности - закрыть ее".
+germany.2.b: "Мы должны продолжать ее содержать!"
+germany.3.t: "Статус крепости Минден"
+germany.3.d: "Пришло время принять решение относительно статуса крепости в Миндене".
+germany.3.a: "Она больше не представляет практически никакой ценности - закрыть ее".
+germany.3.b: "Мы должны продолжать ее содержать!"
+germany.4.t: "Статус крепости Козель"
+germany.4.d: "Пришло время принять решение относительно статуса крепости в Козеле".
+germany.4.a: "Она больше не представляет практически никакой ценности - закрыть ее".
+germany.4.b: "Мы должны продолжать ее содержать!"
+germany.5.t: "Состояние Эрфуртской крепости"
+germany.5.d: "Пришло время принять решение относительно статуса крепости в Эрфурте".
+germany.5.a: "Она больше не представляет практически никакой ценности - закрыть ее".
+germany.5.b: "Мы должны продолжать ее содержать!"
+germany.6.t: "Состояние крепости Глац"
+germany.6.d: "Пришло время принять решение относительно статуса крепости в Глатце".
+germany.6.a: "Она больше не представляет практически никакой ценности - закрыть ее".
+germany.6.b: "Мы должны продолжать ее содержать!"
+eoanb_om_GER_AUS_alliance_failed: "Неудавшийся альянс"
+germany.7.t: "[PRS.GetNameDef] предлагает союз"
+germany.7.d: "Новое предложение поступило от [PRS.GetNameDef]: Так называемый \"Двойной альянс\". Они предлагают нам заключить с ними союз в попытке обеспечить мир и стабильность в качестве сильного оборонительного пакта в центре Европы. Что мы скажем?"
+germany.7.a: "Отличная идея!"
+germany.7.b: "Мы не будем заключать с ними союз".
+germany.8.t: "[AUS.GetNameDef] доказывает свою готовность к сотрудничеству"
+germany.8.d: "Наше предложение о двойном союзе было принято [AUS.GetNameDef]! Это значительно укрепляет наши позиции в Центральной Европе..."
+germany.8.a: "Отлично!"
+germany.9.t: "[AUS.GetNameDef] отклонил наше предложение".
+germany.9.d: "Австрийцы решили отклонить наше предложение, и мы стоим одни на мировой арене - пока что".
+germany.9.a: "Жаль..."
+eoanb_om_GER_ITA_alliance_failed: "Неудавшийся альянс"
+eoanb_tt_ger_event_11_a: "§Y[ITA.GetNameDef]§! будет добавлен к §YDual Alliance§!, превращая его в §YTriple Alliance§!".
+germany.10.t: "Предложение Альянса от [PRS.GetNameDef]".
+germany.10.d: "Немцы, которые недавно заключили союз с [AUS.GetNameDef], прислали нам предложение: Они хотели бы, чтобы мы присоединились к их союзу. Что мы скажем им в ответ?".
+germany.10.a: "Мы с радостью присоединимся к ним!"
+germany.10.b: "Мы откажемся".
+germany.11.t: "[ITA.GetNameDef] принимает!"
+germany.11.d: "Итальянцы приняли наше предложение и формально присоединятся к альянсу с подписанием договора сегодня вечером. Двойной союз стал Тройным союзом...".
+germany.11.a: "Это укрепит наш союз!"
+germany.12.t: "[ITA.GetNameDef] отказывается"
+germany.12.d: "Наша просьба к итальянцам присоединиться к нашему альянсу, очевидно, была отклонена. Итальянское правительство заявило, что они \"не видят никаких преимуществ\" в присоединении к нашему пакту."
+germany.12.a: "Их потеря".
+eoanb_tt_ger_event_13_a: "Мы можем выгнать немцев, если захотим, но это может привести к конфликту".
+eoanb_tt_ger_event_14_a: "Наше военное присутствие в Китае будет ограничено только нашими торговыми портами".
+germany.13.t: "Военное присутствие Германии в Китае"
+germany.13.d: "Немцы, поскольку они уже владеют торговыми портами в Китае, взяли на себя смелость установить военное присутствие вокруг принадлежащих им территорий, часто за пределами границ их торговых портов... нам решать, как реагировать на это, и реагировать ли вообще..."
+germany.13.a: "Хорошо..."
+germany.14.t: "[QNG.GetNameDef] вмешивается против нашего военного присутствия".
+germany.14.d: "С тех пор, как мы расширили наше военное присутствие в Китае на районы за пределами наших торговых портов, в этих регионах росли волнения. Теперь они перекипели, и правительство утверждает, что было вынуждено принять меры по ограничению доступа наших военных только к торговым портам - принимаем ли мы это от них?"
+germany.14.a: "Мы немного отступим".
+germany.14.b: "Они думают, что могут сделать это с нами?!".
+germany.15.t: "Наводнение в Балтийском море"
+germany.15.d: "За последние несколько ночей несколько ужасных наводнений обрушились на все прибрежные районы Балтийского моря. Инфраструктуре этих районов нанесен большой ущерб, но, возможно, еще не поздно восстановить некоторые из них..."
+germany.15.a: "Мы должны помогать везде, где можем!".
+germany.15.b: "Сейчас мы не можем выделить никаких ресурсов...".
+germany.16.t: "Землетрясения в Рейнской области"
+germany.16.d: "Сегодня рано утром в Рейнланде царили разрушения и ужас, когда вблизи города Кельн произошло сильное землетрясение, разрушившее множество зданий и убившее или ранившее сотни наших граждан. Восстановительные работы уже ведутся".
+germany.16.a: "Ужасно".
+germany.17.t: "Огромные забастовки рабочих в [PRS.GetNameDef]!".
+germany.17.d: "Неизвестно для нас, рабочие в нашей стране сумели организовать огромную всеобщую забастовку! Сегодня они маршируют по улицам, требуя улучшения условий труда и сокращения рабочего дня, и угрожают вообще прекратить работу, если эти требования не будут удовлетворены."
+germany.17.a: "Думаю, нам придется продержаться - в конце концов они сдадутся".
+germany.17.b: "Попробуйте подкупить рабочих".
+germany.17.c: "Мы могли бы просто уступить их требованиям...".
+germany.18.t: "Покушение на Бисмарка!".
+germany.18.d: "Сегодня во время своего путешествия по Баварии канцлер Отто фон Бисмарк подвергся покушению! Нападавший, который уже арестован, выстрелил в его карету с расстояния нескольких ярдов, но попал только в правую руку. Мотивы нападения пока не известны. Фон Бисмарк был срочно доставлен в больницу и сейчас проходит ночное лечение...".
+germany.18.a: "Будем молиться, чтобы он поправился".
+germany.18.b: "Сделаем все необходимое, чтобы он выжил!".
+germany.18.c: "Разве не будет обидно, если его врач немного \"оступится\"?"
+germany.19.t: "Возвращение экспедиции Эйленбурга"
+germany.19.d: "В 1859 году Фридрих Альбрехт цу Эйленбург отправился из Пруссии в надежде установить отношения с некоторыми из самых важных государств в далеких землях Азии. Сейчас он успешно вернулся с этой миссии и сообщает о переговорах и дипломатических любезностях с нациями [QNG.GetNameDef], [JAP.GetNameDef] и [SIA.GetNameDef]".
+germany.19.a: "Отлично!"
+germany.20.t: "Наше предложение британцам"
+germany.20.d: "Что мы предложим [ENG.GetNameDef] в обмен на Гелиголанд?"
+germany.20.a: "Предложим им выгодные политические договоры!"
+germany.20.b: "Предложите им промышленную компенсацию!"
+germany.20.c: "Предложите им Кюрасао!"
+germany.21.t: "Немцы хотят купить Гелиголанд"
+germany.21.d: "Немцы сделали нам предложение о покупке острова Гелиголанд. Похоже, они хотят приобрести эту стратегическую базу довольно срочно...\n\n\n(Вы можете просмотреть предложение, наведя курсор на опцию \n\n\n\n "Мы примем их предложение\n)".
+germany.21.a:  "Мы примем их предложение".
+germany.21.b: "Нет, мы не можем позволить себе потерять эту базу".
+germany.22.t: "Британия отрицает"
+germany.22.d: "[ENG.GetNameDef] отказалась продать нам остров Гелиголанд! Жаль, но это был не единственный способ приобрести этот остров...".
+germany.22.a: "Какая жалость..."
+germany.23.t: "Британия принимает!"
+germany.23.d: "[ENG.GetNameDef] приняла наше предложение и согласилась официально передать нам остров Гелиголанд! Это, несомненно, станет важной стратегической базой в Северном море...".
+germany.23.a: "Ура!"
+eoanb_flag_GER_heligoland_offer_power: "[PRS.GetNameDef] предложил выгодные договоры в обмен на Гелиголанд"
+eoanb_flag_GER_heligoland_offer_industry: "[PRS.GetNameDef] предложил промышленную компенсацию в обмен на Гелиголанд"
+eoanb_flag_GER_heligoland_offer_curacao: "[PRS.GetNameDef] предложил государство Кюрасао в обмен на Гелиголанд".
+eoanb_tt_ger_event_21_a: "§Y[PRS.GetNameDef]§! передаст §YКуракао§! нам в ближайшее время".
+
+#FLAVOUR EVENTS #NT!
+germany.101.t: "Генрих Шлиман - раскопки в Хисарлыке".
+germany.101.d: "Генрих Шлиманн, богатый торговец и археолог-любитель из Мекленбурга, недавно начал раскопки вблизи древнего поселения Хисарлик на берегу Эгейского моря в Османской империи. Шлиман считает, что под этими холмами находятся древние руины мифологического города Троя, и его убеждения подтверждает британский эмигрант и археолог-любитель Фрэнк Калверт. Команда, работающая на месте раскопок, похоже, полна решимости доказать свою теорию в течение следующих месяцев и лет".
+germany.101.a: "Звучит многообещающе".
+germany.102.t: "Генрих Шлиман - найдено сокровище Приама".
+germany.102.d: "Срочные новости доходят до нас из Османской империи, сообщая об обнаружении древнего и мифического города Троя! До недавнего времени многие считали его легендой и вымыслом, но раскопки, проведенные археологом Генрихом Шлиманом в Хисарлыке, открыли тайны, которые веками хранила земля. Шлиман также нашел значительное количество драгоценностей, золота и артефактов, которые, по его мнению, являются так называемым "сокровищем Приама", названным в честь гомеровского царя Приама. Среди наиболее заметных найденных предметов клада - оружие, сделанное в основном из меди, две золотые диадемы и другие медные артефакты. Хотя находки еще предстоит подтвердить, это открытие способно навсегда изменить наше представление об истории Греции и ее мифологии".
+germany.102.a: "Какое открытие!"
+germany.103.t: "Генрих Шлиман - раскопки в Микенах".
+germany.103.d: "С помощью других известных археологов, таких как Вильгельм Дёрпфельд, Генрих Шлиман начал новые раскопки в надежде открыть новую правду о греческой мифологии в Микенах, на холме к северу от долины Аргоса, на греческом полуострове Пелопоннес. Шлиман считает, что это место скрывает секреты, связанные с микенским царем Агамемноном, предводителем ахейцев в эпосе Гомера о Троянской войне "Илиада". После его открытий в Хисарлыке общественный интерес к этому новому проекту раскопок, как полагают, будет огромным".
+germany.103.a: "Шлиман снова что-то обнаружил".
+germany.104.t: "Генрих Шлиман - найдена маска Агамемнона".
+germany.104.d: "Сегодня был зарегистрирован крупный прорыв в археологических раскопках Микен: Генрих Шлиман, немецкий археолог, который несколько лет назад раскопал Трою, обнаружил Валовые могилы, царское кладбище. Всего было обнаружено девятнадцать тел: восемь мужчин, девять женщин и двое детей, а также находящиеся там вещи и оружие усопших. Одним из самых впечатляющих найденных артефактов была золотая маска, которую Шлиманн называет "Маской Агамемнона", по имени легендарного микенского царя Агамемнона. Эти находки еще предстоит подтвердить на предмет их исторической ценности, но, несомненно, это еще один впечатляющий успех Шлимана".
+germany.104.a: "Какое открытие!"
+germany.105.t: "Konrad Duden's First Dictionary of German Spelling" #NT!
+germany.105.d: "Dr. Konrad Duden, a grammar school principal from Schleiz, has authored a monography called 'Deutsche Rechtschreibung', or 'German Spelling'. As one of its key components, this book contains a dictionary of the German language that lists example words that follow his language principle. Dr. Duden teaches in a region where three German dialects overlap, each with its own spelling features, and the evaluation of the students' orthography depends heavily on the linguistic tradition their teacher was raised in. Duden's dictionary adapts the spelling of the words to be more phonetically accurate and consistent, and it seems vastly more practical and easier to learn and use. His work will definitely be used by experts to push for a unified spelling system instead of keeping the teacher-based language learning system that has thus far dictated which spelling variant the student learns. Since this work simplifies the German language, it is possible that those of lower education could become more literate than has been the case in the past, which Duden has commented that was his goal. He certainly seems intent on continuing his work on the simplification and unification of the German language." #NT!
+germany.105.a: "Certainly interesting." #NT!
+germany.106.t: "Conference for the Establishment of Greater Unity in German Spelling" #NT!
+germany.106.d: "At the behest of the Prussian ministry of education and cultural affairs, 14 specialists of the German language have gathered in Berlin for the 'Conference for the Establishment of Greater Unity in German Spelling' or otherwise called 'Orthographical Conference'. On the basis of a draft by the Germanist Rudolf von Raumer, the participants will discuss possible solutions to the various problems in the days ahead. Dr. Konrad Duden, the school principal responsible for one of the most influential works on the topic, is also present at the conference. This sparks hope that inner unification of the country might be advanced further." #NT!
+germany.106.a: "Well, good luck." #NT!
+germany.107.t: "[PRS.GetLeader] Vetoes the Resolution of the Orthographical Conference" #NT!
+germany.107.d: "The orthographical conference in Berlin ended ten days ago, and the specialists present did come to some important conclusions and presented their resolution to the public and the Prussian government. They have been facing considerable backlash from a variety of sources over the last days, however. Many critics doubt that the changes can be successful as they are deemed too extensive. The Prussian prime minister, [PRS.GetLeader], has today vetoed the resolution of the orthographical conference, and, thus, it has to be considered a failure. The struggle for some sort of unity in the German spelling system will continue." #NT!
+germany.107.a: "That's a bummer." #NT!
+germany.108.t: "Duden Publishes 'Complete Orthographic Dictionary of the German Language'" #NT!
+germany.108.d: "Dr. Konrad Duden has finally achieved his goal of a comprehensive dictionary of the German language. The book is titled 'Vollständiges Orthographisches Wörterbuch der deutschen Sprache', or 'C'omplete Orthographic Dictionary of the German Language'. It contains a staggering 27,000 words on 187 pages that fulfilled everything Dr. Duden wished to do with the current spelling systems taught in schools all over the German states. Unfortunately, it still seems that the Prussian ministry of education and cultural affairs and the prime minister, [PRS.GetLeader], who also happens to be Chancellor of the German Empire, has some reservations regarding the unification of German spelling. Be that as it may, the Prussian government has issued a ban on the usage of Duden's orthography in bureaucracy across Prussia. The reasoning behind this decision is unknown, but here's hoping that this will change in the future, as an easier way of spelling and learning would undoubtedly support the German language in the world." #NT!
+germany.108.a: "That will undoubtedly have an impact." #NT!
+germany.109.t: "Second Orthographical Conference Succeeds" #NT!
+germany.109.d: "Following nearly three decades of debate after the political unification of Germany, the German language will finally have a unified spelling system. Thanks in large part to the continuing efforts of German linguists, teachers, and politicians, spearheaded by Dr. Konrad Duden, the Second Orthographical Conference had more success than its prequel 25 years ago. Over the last three days, 26 plenipotentiaries of the German states, Dr. Huemer as Austrian commissioner, and representatives of other institutions as well as the book trade met and discussed the standardization of a uniform German orthography in Berlin. In addition to state officials, a few experts took part, including Konrad Duden and Wilhelm Wilmanns, who had also already participated in the First Orthographical Conference in 1876. The resolution was accepted by both German and Austrian state officials, and, thus, is binding. It is also expected that [SWI.GetName] will join the resolution for German spelling shortly." #NT!
+germany.109.a: "Finally!" #NT!

@@ -1,0 +1,1093 @@
+﻿l_russian:
+
+ #################### #NT!
+ # Greek Focus Tree # #NT!
+ #################### #NT!
+ GRE_Matters_of_Realm_1857: "Вопросы королевства"
+ GRE_Matters_of_Realm_1857_desc: "Как европейскому национальному государству нам крайне важно заниматься делами королевства и решать их как можно лучше."
+ GRE_Succession_Issue: "Вопрос престолонаследия"
+ GRE_Succession_Issue_desc: "Пришло время решить, кто станет преемником Отто на троне нашего королевства. У короля нет наследника, поэтому поиск квалифицированного кандидата будет нашей первоочередной задачей."
+ GRE_A_Visit_Munchen: "Визит в Мюнхен"
+ GRE_A_Visit_Munchen_desc: "Будучи немцем, наш король имеет много родственников в окрестностях города Мюнхен. Возможно, королевский визит туда предоставит нам прекрасную возможность выбрать наследника...".
+ GRE_A_New_Heir: "Новый наследник"
+ GRE_A_New_Heir_desc: "Наконец-то! После долгих лет споров о престолонаследии у нас наконец-то появился шанс выбрать того, кто станет следующим королем Греции!"
+ GRE_Deadlock_Persists: "Тупик сохраняется"
+ GRE_Deadlock_Persists_desc: "К сожалению, похоже, мы не нашли подходящего кандидата для нашего наследного принца. Теперь мы должны искать альтернативы".
+ GRE_Ludwigs_Conversion: "Обращение наследника"
+ GRE_Ludwigs_Conversion_desc: "Греческий народ примет в качестве законного монарха только православного христианина, поэтому наш следующий король должен погрузиться в эллинский язык и культуру, одновременно обратившись в нашу веру."
+ GRE_Amalia_Succession: "Наследство Амалии"
+ GRE_Amalia_Succession_desc: ""
+ GRE_Otto_Death: "Смерть Отто"
+ GRE_Otto_Death_desc: ""
+ GRE_Old_Order_Continues: "Старый порядок продолжается"
+ GRE_Old_Order_Continues_desc: ""
+ GRE_Censorship_Autocracy: "Цензура и автократия"
+ GRE_Censorship_Autocracy_desc: ""
+ GRE_Enlightened_Despotism: "Просвещенный деспотизм"
+ GRE_Enlightened_Despotism_desc: ""
+ GRE_Monarchy_Stands_Strong: "Монархия стоит крепко"
+ GRE_Monarchy_Stands_Strong_desc: ""
+ GRE_Old_Order_Overthrown: "Старый порядок свергнут"
+ GRE_Old_Order_Overthrown_desc: ""
+ GRE_Ludwigs_Coronation: "Коронация наследника"
+ GRE_Ludwigs_Coronation_desc: ""
+ GRE_Amalias_Regency: "Регентство Амалии"
+ GRE_Amalias_Regency_desc: ""
+ GRE_Royal_Tour: "Королевский тур"
+ GRE_Royal_Tour_desc: ""
+ GRE_German_Customs: "Таможня Германии"
+ GRE_German_Customs_desc: ""
+ GRE_Search_for_Bride: "Поиск невесты"
+ GRE_Search_for_Bride_desc: ""
+ GRE_Look_Landstag: "Посмотреть на ландстаг"
+ GRE_Look_Landstag_desc: ""
+ GRE_Liberal_Administration: "Либеральная администрация"
+ GRE_Liberal_Administration_desc: ""
+ GRE_Search_New_King: "Поиск нового короля"
+ GRE_Search_New_King_desc: ""
+ GRE_Queen_Victorias_Model: "Модель королевы Виктории"
+ GRE_Queen_Victorias_Model_desc: ""
+ GRE_Prepare_Succession: "Подготовить преемника"
+ GRE_Prepare_Succession_desc: ""
+ GRE_Regent_Steps_Down: "Регент уходит в отставку"
+ GRE_Regent_Steps_Down_desc: ""
+ GRE_Elections_of_Date_1: "Выборы [GetYear]"
+ GRE_Elections_of_Date_1_desc: ""
+ GRE_agrarian_nation: "Аграрная нация"
+ GRE_agrarian_nation_desc: "Сельское хозяйство является основой Греции, практически все доходы поступают через этот сектор. В Греции в изобилии растут оливки и виноград, качество которых не превзойдет ни одна другая страна. Однако сельское хозяйство здесь развито, мягко говоря, слабо. Даже в непосредственной близости от Афин можно встретить архаичные орудия труда, такие как грубые мотыги и деревянные плуги. Поля распахиваются или перепахиваются, а посевы пересаживаются сезон за сезоном, пока истощенная почва не выдержит. Удобрения не используются в сколько-нибудь заметной степени, а сельскохозяйственные орудия имеют самое грубое описание. Кроме того, греческие оливки и виноград страдают от неправильной транспортировки в условиях, снижающих качество товара. Чтобы создать прочную основу для развития Греции как государства, правительству необходимо решить эти проблемы".
+ GRE_control_debts: "Контролировать национальный долг"
+ GRE_tt_control_debts: "Принятие этого решения начнет §Греформирование§! греческой экономики, но будет §Очень дорогостоящим.§!\n\n"
+ GRE_control_debts_desc: ""
+ GRE_cut_administration: "Сократить гражданскую администрацию"
+ GRE_cut_administration_desc: ""
+ GRE_tt_cut_administration: "Принять меры по §ограничению§! влияния §Гражданской администрации§!\n"
+ GRE_clamp_on_corruption: "Сдерживать коррупцию"
+ GRE_tt_clamp_corruption: "Бороться с §Yкоррупцией§! в стране\n"
+ GRE_clamp_on_corruption_desc: ""
+ GRE_fiscal_responsability: "Фискальная ответственность"
+ GRE_tt_fiscal_responsability: "§Сократить расходы§! с целью §Улучшить§! экономику.\n"
+ GRE_fiscal_responsability_desc: ""
+ GRE_repay_debt: "Погасить кредит 1831 года"
+ GRE_tt_repay_debt: "§GПогасить§! кредит, взятый в §Y1831§!.\nНаши держатели §RДолга§! наконец-то §Ԍуверены§! что мы можем погасить остальную часть нашего §RДолга§!.\n"
+ GRE_repay_debt_desc: ""
+ GRE_land_reform: "Земельная реформа"
+ GRE_land_reform_desc: "Греция имеет доступ к 9 000 000 акрам земли, экспроприированной у мусульманских землевладельцев, которые были изгнаны во время войны за независимость. В результате сельская местность заполнена пустыми поместьями. Закон "Об обеспечении греческих семей" от 1835 года предоставил каждой семье кредит в размере 2 000 драхм, который можно было использовать для покупки 12 акров земли на аукционе по плану дешевого кредитования. В результате был создан новый класс свободных крестьян. Мы должны собрать больше средств для исполнения этого закона и предоставить обещанную сумму греческим семьям. Значительное увеличение наших предпринимательских возможностей и производственных связей, а также среднего уровня жизни."
+ GRE_cotton: "Продвижение хлопка"
+ GRE_cotton_desc: ""
+ GRE_promote_tobbaco: "Продвижение табака"
+ GRE_promote_tobbaco_desc: ""
+ GRE_wine_exports: "Экспорт вина"
+ GRE_wine_exports_desc: ""
+ GRE_fruit_exports: "Экспорт фруктов"
+ GRE_fruit_exports_desc: ""
+ GRE_dry_copais: "Сухое озеро Копаис"
+ GRE_tt_dry_lake_copais: "Начать осушение §YОзера Копаис§! в §YЦентральной Греции§!\n"
+ GRE_dry_copais_desc: ""
+ GRE_industrialization: "Индустриализация"
+ GRE_industrialization_desc: ""
+ GRE_improve_roads: "Улучшение дорог"
+ GRE_improve_roads_desc: ""
+ GRE_improve_ship_lines: "Улучшить судоходные линии"
+ GRE_improve_ship_lines_desc: ""
+ GRE_athens-piraeus_rail: "Железная дорога Афины-Пирей".
+ GRE_tt_begin_athens_piraeus_rail: "Начать строительство §YАфино-Пирейской§! железной дороги"
+ GRE_athens-piraeus_rail_desc: ""
+ GRE_athens_industry: "Промышленность Афин"
+ GRE_athens_industry_desc: ""
+ GRE_rural_exodus: "Сельский исход"
+ GRE_rural_exodus_desc: ""
+ GRE_urbanisation: "Урбанизация"
+ GRE_urbanisation_desc: ""
+ GRE_syros_shipyards: "Судоверфь Сироса"
+ GRE_syros_shipyards_desc: ""
+ GRE_trade_and_industry: "Торговля и промышленность"
+ GRE_trade_and_industry_desc: ""
+ GRE_national_benefactors: "Национальные бенефакторы"
+ GRE_national_benefactors_desc: ""
+
+ GRE_dry_lake_kopais: "Сухое озеро Копаис"
+ GRE_dry_lake_kopais_desc: ""
+ GRE_subsidise_the_epirotiki_line: "Субсидировать линию Эпиротики".
+ GRE_subsidise_the_epirotiki_line_desc: ""
+ GRE_expand_fix_beer_into_piraeus: "Расширить Fix Beer В Пирее".
+ GRE_expand_fix_beer_into_piraeus_desc: ""
+ GRE_increase_industrial_capacity: "Увеличить промышленные мощности"
+ GRE_increase_industrial_capacity_desc: ""
+ GRE_acquire_train_technologies: "Приобрести технологии обучения"
+ GRE_acquire_train_technologies_desc: ""
+ GRE_establish_the_greek_stock_market: "Создать греческий фондовый рынок"
+ GRE_establish_the_greek_stock_market_desc: ""
+ GRE_the_build_up_of_piraeus: "Строительство порта Пирей".
+ GRE_the_build_up_of_piraeus_desc: ""
+ GRE_rural_development: "Развитие сельских районов"
+ GRE_rural_development_desc: ""
+ GRE_expand_public_housing: "Расширить государственное жилье"
+ GRE_expand_public_housing_desc: ""
+ GRE_encourage_textile_industry: "Поощрять текстильную промышленность"
+ GRE_encourage_textile_industry_desc: ""
+ GRE_cotton_plantations: "Хлопковые плантации"
+ GRE_cotton_plantations_desc: ""
+ GRE_restructure_kouppas: "Реструктуризация Куппас"
+ GRE_restructure_kouppas_desc: ""
+ GRE_guideline_basileiades: "Guideline Basileiades"
+ GRE_guideline_basileiades_desc: ""
+ GRE_focus_on_export: "Ориентация на экспорт"
+ GRE_focus_on_export_desc: ""
+ GRE_the_syros_shipyard: "Судоверфь Сироса"
+ GRE_the_syros_shipyard_desc: ""
+ GRE_balance_import_and_export: "Баланс импорта и экспорта"
+ GRE_balance_import_and_export_desc: ""
+ GRE_the_athens-piraeus_rail: "Железная дорога Афины-Пирей".
+ GRE_the_athens-piraeus_rail_desc: ""
+ GRE_attract_foreign_investors: "Привлечение иностранных инвесторов"
+ GRE_attract_foreign_investors_desc: ""
+ GRE_expand_the_laurion_mines: "Расширить шахты Лауриона".
+ GRE_expand_the_laurion_mines_desc: ""
+ GRE_encourage_the_growth_of_basileiades: "Поощрять рост Базилиады".
+ GRE_encourage_the_growth_of_basileiades_desc: ""
+ GRE_control_the_national_debt: "Контролировать государственный долг"
+ GRE_control_the_national_debt_desc: ""
+ GRE_clamp_down_on_corruption: "Сдерживать коррупцию"
+ GRE_clamp_down_on_corruption_desc: ""
+ GRE_reduce_the_civil_administration: "Сократить гражданскую администрацию"
+ GRE_reduce_the_civil_administration_desc: ""
+ #GRE_fiscal_responsability: "Фискальная ответственность"
+ GRE_fiscal_responsability_desc: ""
+ GRE_repay_the_1831_loan: "Погасить кредит 1831 года"
+ GRE_repay_the_1831_loan_desc: ""
+
+ GRE_hellenic_army: "Греческая армия"
+ GRE_hellenic_army_desc: ""
+ GRE_standardize_the_equipment: "Стандартизировать оборудование"
+ GRE_standardize_the_equipment_desc: ""
+ GRE_belgian_rifles: "Бельгийские винтовки"
+ GRE_belgian_rifles_desc: ""
+ GRE_prussian_rifles: "Прусские винтовки"
+ GRE_prussian_rifles_desc: ""
+ GRE_french_rifles: "Французские винтовки"
+ GRE_french_rifles_desc: ""
+ GRE_british_artillery: "Британская артиллерия"
+ GRE_british_artillery_desc: ""
+ GRE_krupp_cannons: "Крупповские пушки"
+ GRE_krupp_cannons_desc: ""
+ GRE_french_artillery: "Французская артиллерия"
+ GRE_french_artillery_desc: ""
+ GRE_eforeia_ylikou_polemou: "Eforeia Ylikou Polemou"
+ GRE_eforeia_ylikou_polemou_desc: ""
+ GRE_m1872_greek_mylonas: "M1871 Greek Mylonas"
+ GRE_m1872_greek_mylonas_desc: ""
+ GRE_greek_military_industry: "Военная промышленность Греции"
+ GRE_greek_military_industry_desc: ""
+ GRE_contract_neorion: "Контракт Неорион"
+ GRE_contract_neorion_desc: ""
+ GRE_nationalise_neorion: "Национализировать Неорион"
+ GRE_nationalise_neorion_desc: ""
+ GRE_nationalise_neorion_tooltip: "Скорость строительства верфи"
+ GRE_hire_ilias_kehagias: "Нанять Илиаса Кехагиаса".
+ GRE_hire_ilias_kehagias_desc: ""
+ GRE_establishment_of_hellenic_powder_manufacturing: "Эллинское пороховое производство"
+ GRE_establishment_of_hellenic_powder_manufacturing_desc: ""
+ GRE_renovation_of_nafplion_arsenal: "Реконструкция Нафплионского арсенала"
+ GRE_renovation_of_nafplion_arsenal_desc: ""
+ GRE_the_evelpidon_military_academy: "Эвелпидонская военная академия"
+ GRE_the_evelpidon_military_academy_desc: ""
+ GRE_search_for_talent: "Поиск талантов"
+ GRE_search_for_talent_desc: ""
+ GRE_foreign_military_instructors: "Иностранные военные инструкторы"
+ GRE_foreign_military_instructors_desc: ""
+ GRE_creation_of_evzones_army_unit: "Создание подразделения армии Эвзонеса"
+ GRE_creation_of_evzones_army_unit_desc: ""
+ GRE_expansion_of_ethnophylakoi: "Расширение Этнофилакои (Национальной гвардии)"
+ GRE_expansion_of_ethnophylakoi_desc: ""
+ GRE_question_of_phalanx: "Вопрос о фаланге"
+ GRE_question_of_phalanx_desc: ""
+ GRE_the_general_staff: "Генеральный штаб"
+ GRE_the_general_staff_desc: ""
+ GRE_improve_the_military: "Улучшить вооруженные силы"
+ GRE_improve_the_military_desc: ""
+
+ GRE_hellenic_navy: "Греческий флот"
+ GRE_hellenic_navy_desc: ""
+ GRE_combat_piracy: "Боевое пиратство"
+ GRE_combat_piracy_desc: ""
+ GRE_expansion_of_aegan_squadron: "Расширение эскадры Эгана".
+ GRE_expansion_of_aegan_squadron_desc: ""
+ GRE_expansion_of_west_squadron: "Расширение Западной эскадры"
+ GRE_expansion_of_west_squadron_desc: ""
+ GRE_greek_corvettes: "Греческие корветы"
+ GRE_greek_corvettes_desc: ""
+ GRE_amalia_frigate: "Фрегат Амалия"
+ GRE_amalia_frigate_desc: ""
+ GRE_greek_gunboats: "Греческие канонерские лодки"
+ GRE_greek_gunboats_desc: ""
+ GRE_destruction_of_piracy: "Уничтожение пиратства"
+ GRE_destruction_of_piracy_desc: ""
+ GRE_school_ship_athens: "Школьный корабль Афины"
+ GRE_school_ship_athens_desc: ""
+ GRE_school_ship_loudovikos: "Школьный корабль Лудовикос"
+ GRE_school_ship_loudovikos_desc: ""
+ GRE_send_abroad_cadets: "Отправить курсантов за границу"
+ GRE_send_abroad_cadets_desc: ""
+ GRE_new_naval_tactics: "Новая военно-морская тактика"
+ GRE_new_naval_tactics_desc: ""
+ GRE_cretan_revolution_experience: "Опыт критской революции"
+ GRE_cretan_revolution_experience_desc: ""
+ GRE_vasilefs_georgios: "Василефс Георгиос"
+ GRE_vasilefs_georgios_desc: ""
+ GRE_vasilissa_olga: "Василисса Ольга"
+ GRE_vasilissa_olga_desc: ""
+ GRE_british_ships: "Британские корабли"
+ GRE_british_ships_desc: ""
+ GRE_french_ships: "Французские корабли"
+ GRE_french_ships_desc: ""
+ GRE_russian_ships: "Русские корабли"
+ GRE_russian_ships_desc: ""
+ GRE_the_merchant_marine: "Торговый флот"
+ GRE_the_merchant_marine_desc: ""
+ GRE_recovery_after_1860s_crash: "Восстановление после крушения 1860-х годов"
+ GRE_recovery_after_1860s_crash_desc: ""
+ GRE_expansion_of_greek_steamship_company: "Расширение греческой пароходной компании"
+ GRE_expansion_of_greek_steamship_company_desc: ""
+ GRE_epirotiki_line: "Линия Эпиротики"
+ GRE_epirotiki_line_desc: ""
+ GRE_ironworks_in_ermoupoli: "Железные заводы в Эрмуполи"
+ GRE_ironworks_in_ermoupoli_desc: ""
+ GRE_anastassios_tassos_potamianos: "Anastassios 'Tassos' Potamianos"
+ GRE_anastassios_tassos_potamianos_desc: ""
+
+# GRE_standard_equip: "Standardize the Equipment"
+# GRE_standard_equip_desc: ""
+# GRE_uk_equip: "British Equipment"
+# GRE_uk_equip_desc: ""
+# GRE_prs_equip: "Prussian Equipment"
+# GRE_prs_equip_desc: ""
+# GRE_fr_equip: "French Equipment"
+# GRE_fr_equip_desc: ""
+# GRE_mil_factories: "Military Manufactories"
+# GRE_mil_factories_desc: ""
+# GRE_euvelpidon: "The Euvelpidon Military Academy"
+# GRE_euvelpidon_desc: ""
+# GRE_more_academies: "More Military Academy"
+# GRE_more_academies_desc: ""
+# GRE_general_staff: "The General Staff"
+# GRE_general_staff_desc: ""
+# GRE_europe_training: "European Training"
+# GRE_europe_training_desc: ""
+# GRE_improve_formations: "Improve the Military"
+# GRE_improve_formations_desc: ""
+# GRE_hellenic_navy: "The Hellenic Navy"
+# GRE_hellenic_navy_desc: ""
+# GRE_steamships: "Steamships"
+# GRE_steamships_desc: ""
+# GRE_iron_wall: "The Iron Wall"
+# GRE_iron_wall_desc: ""
+# GRE_comission_ships: "Commission New Ships"
+# GRE_tt_comission_ships_1: "Commission new §Gmodern§! ships for the §Ynavy§!"
+# GRE_comission_ships_desc: ""
+# GRE_eng_ships: "British Ships"
+# GRE_tt_comission_ships_eng: "Commission a §YBritish§! ship"
+# GRE_eng_ships_desc: ""
+# GRE_fra_ships: "French Ships"
+# GRE_tt_comission_ships_fra: "Commission a §YFrench§! ship"
+# GRE_fra_ships_desc: ""
+# GRE_rus_ships: "Russian Ships"
+# GRE_tt_comission_ships_rus: "Commission a §YRussian§! ship"
+# GRE_rus_ships_desc: ""
+# GRE_naval_academy: "A Naval Academy"
+# GRE_naval_academy_desc: ""
+# GRE_merchant_marine: "The Merchant Marine"
+# GRE_merchant_marine_desc: ""
+# GRE_naval_shipyard: "Modern Tactics on the Sea"
+# GRE_naval_shipyard_desc: ""
+# GRE_modern_navy: "A Modern Navy"
+# GRE_modern_navy_desc: ""
+ GRE_culture_revival: "Культурное возрождение"
+ GRE_culture_revival_desc: ""
+ GRE_hansen_trilogy: "Трилогия Хансена"
+ GRE_hansen_trilogy_desc: ""
+ GRE_university_athens: "Афинский университет"
+ GRE_university_athens_desc: ""
+ GRE_academy: "Афинская академия"
+ GRE_library_athens: "Национальная библиотека"
+ GRE_library_athens_desc: ""
+ GRE_encourage_art: "Поощрять искусство"
+ GRE_encourage_art_desc: ""
+ GRE_encourage_literacy: "Поощрять образование"
+ GRE_encourage_literacy_desc: ""
+ GRE_language_question: "Языковой вопрос"
+ GRE_language_question_desc: ""
+ GRE_demoticism: "Демотицизм"
+ GRE_demoticism_desc: ""
+ GRE_katharevousa: "Катаревуса"
+ GRE_katharevousa_desc: ""
+ GRE_constitutionalism_txt: "Принятие этого фокуса §Gбудет способствовать дальнейшим реформам и может спасти короля§!, §Rно неизвестно, как старые политики воспримут их§!...".
+ GRE_absolutism_txt: "Принятие этого фокуса §Gпрекратит реформы и может спасти короля§!, §Rно неясно, как народ их воспримет§!...".
+ GRE_appease_populace_txt: "Разблокирует решения для §Yулучшения популярности нашего короля§!".
+ otto_win: "§YАбсолютисты§! победили"
+ otto_lose: "§YКонституционалисты§! победили".
+ greece_alternative_political_focus: "Новое правительство"
+ GRE_custom_tt_Amalia_Regency: "Убрать §GКоролеву Амалию§! с поста политического советника.\n"
+ GRE_custom_tt_hansen_trilogy: "После завершения Афинской трилогии (§YУниверситет§!, §YАкадемия§! и §YБиблиотека§!) вы получите один слот §GИсследований§!".
+ GRE_tt_iron_wall: "Отправьте письмо в Англию с просьбой о проектировании корабля".
+ GRE_custom_tt_research_slot: "Вы получите один слот исследования, когда срок действия идеи истечет".
+ GRE_custom_tt_stability_caution: "§RБудьте осторожны!\nЭтот путь ведет к огромной потере стабильности.§!".
+
+ GRE_custom_tt_not_ready: "§RНе выбирайте этот фокус, так как он не имеет эффекта!§!"
+
+
+ #2nd Focus Tree #NT!
+ GRE_Revolutionary_Government: "Революционное правительство"
+ GRE_Revolutionary_Government_desc: ""
+ GRE_New_King: "Новый король"
+ GRE_New_King_desc: ""
+ GRE_Proclaim_Elections_Rev_Gov: "Провозгласить выборы"
+ GRE_Proclaim_Elections_Rev_Gov_desc: ""
+ GRE_Begin_National_Convention_Rev_Gov: "Начать национальную конвенцию"
+ GRE_Begin_National_Convention_Rev_Gov_desc: ""
+ GRE_New_Monarchy: "Новая монархия"
+ GRE_New_Monarchy_desc: ""
+ GRE_Proclaim_Republic_Rev_Gov: "Республиканское правительство"
+ GRE_Proclaim_Republic_Rev_Gov_desc: ""
+ GRE_King_George: "Король Георг"
+ GRE_King_George_desc: ""
+ GRE_King_Alfred: "Король Альфред"
+ GRE_King_Alfred_desc: ""
+ GRE_Marry_Olga_Russia: "Брак с Ольгой"
+ GRE_Marry_Olga_Russia_desc: ""
+ GRE_George_Royal_Tour: "Королевский тур"
+ GRE_George_Royal_Tour_desc: ""
+ GRE_British_King: "Британский король"
+ GRE_British_King_desc: ""
+ GRE_Marry_Maria_Alexandrovna: "Брак с Марией Александровной"
+ GRE_Marry_Maria_Alexandrovna_desc: ""
+ GRE_George_Pro_British_Foreign_Policy: "Про-британская внешняя политика"
+ GRE_George_Pro_British_Foreign_Policy_desc: ""
+ GRE_Ionian_Islands: "Ионические острова"
+ GRE_Ionian_Islands_desc: ""
+ GRE_Suffrage_For_The_Masses: "Суфражизм для масс"
+ GRE_Suffrage_For_The_Masses_desc: ""
+ GRE_Establish_Order: "Установить порядок"
+ GRE_Establish_Order_desc: ""
+ GRE_National_Father: "Национальный отец"
+ GRE_National_Father_desc: ""
+ GRE_President_Grivas: "Президент Гривас"
+ GRE_President_Grivas_desc: ""
+ GRE_Cleanse_Public_Administration: "Очистить государственную администрацию"
+ GRE_Cleanse_Public_Administration_desc: ""
+ GRE_Exile_Voulgaris: "Изгнать Вулгариса"
+ GRE_Exile_Voulgaris_desc: ""
+ GRE_True_Republic_Rev_Gov: "Истинная Республика"
+ GRE_True_Republic_Rev_Gov_desc: ""
+ GRE_Elections_Rev_Gov_Republic: "Выборы"
+ GRE_Elections_Rev_Gov_Republic_desc: ""
+ GRE_Alfred_Ionian_Islands: "Ионические острова"
+ GRE_Alfred_Ionian_Islands_desc: ""
+ GRE_Alfred_Pro_Russian_Foreign_Policy: "Пророссийская внешняя политика"
+ GRE_Alfred_Pro_Russian_Foreign_Policy_desc: ""
+ GRE_Alfred_Pro_British_Foreign_Policy: "Про-британская внешняя политика"
+ GRE_Alfred_Pro_British_Foreign_Policy_desc: ""
+
+
+ ################ #NT!
+ # Greek Events # #NT!
+ ################ #NT!
+
+ GRE_misc.1.t: "Премьер-министр Вулгарис уходит в отставку"
+ GRE_misc.1.d: "Сегодня премьер-министр Димитриос Вулгарис подал в отставку после ссоры с королем Отто. Вулгарис известен как умный и способный администратор, но также очень вспыльчивый и контролирующий. После его отставки нам остается только назначить нового премьер-министра, который будет более предан королю, чем собственным интересам". Афанасиос Мяулис, сын великого морского офицера времен революции Андреаса Мяулиса, считается идеальным кандидатом, лояльным монархии и популярным в народе."
+ GRE_misc.1.a: "Миаулис станет новым премьер-министром".
+ GRE_misc.2.t: "Фальсификация выборов?"
+ GRE_misc.2.d: "В связи с проведением новых выборов мы можем поддержать королевскую фракцию путем фальсификации выборов. Это будет заключаться в оказании давления на людей, чтобы они голосовали за нас в избирательных центрах, и в завышении цифр в нашу пользу."
+ GRE_misc.2.a: "Еще несколько голосов в нашу пользу...".
+ GRE_misc.2.b: "Нет. Мы не должны вмешиваться".
+ GRE_misc.3.t: "Газета критикует монархию"
+ GRE_misc.3.d: "Одна известная газета сегодня опубликовала статью, в которой осуждает короля Отто и монархию "за то, что они несут ответственность за плохое экономическое и политическое состояние нации" и выступает за "создание республики, достойной наших предков". Эта клевета не должна остаться безнаказанной, иначе это ослабит нашу сторону".
+ GRE_misc.3.a: "Арестовать журналиста".
+ GRE_misc.3.b: "В нашем государстве нет цензуры".
+ GRE_misc.4.t: "Публичные протесты"
+ GRE_misc.4.d: "Сегодня тысячи граждан организовали в Афинах под эгидой республиканцев акции протеста против нынешней администрации и монархии. Они требуют, чтобы премьер-министр ушел в отставку, а король "стал компетентным". Естественно, такие публичные проявления несогласия могут только навредить монархии, и мы должны вмешаться, пока не стало слишком поздно."
+ GRE_misc.4.a: "Подавить протесты"
+ GRE_misc.4.b: "Это всего лишь незначительные беспорядки"
+ GRE_misc.5.t: "Мяулис уходит в отставку"
+ GRE_misc.5.d: "Премьер-министр Мяулис подал в отставку из-за растущего несогласия народа против него и короля после Науплианской революции. С отставкой Мяулиса у нас есть только один вариант, и это назначить Иоанниса "Геннайоса Колокотрониса", сына великого героя революционной войны Теодороса Колокотрониса, как и Мяулис, он очень популярен в народе и может помочь возродить популярность монархии, которая с годами становится все слабее и слабее."
+ GRE_misc.5.a: "Принять отставку"
+ GRE_misc.5.b: "Отклонить отставку"
+ miaoulis_remove: "Удаление §YМяулиса§! будет §Rнепопулярным§!".
+ GRE_misc.6.t: "Революция науплиев"
+ GRE_misc.6.d: "Из города Науплион в номосе Арголис на Пелопоннесе пришли страшные новости: несколько тысяч человек взяли в руки оружие и объявили восстание против короля Оттона. Похоже, что народ очень сильно возмущен безответственным поведением Оттона и его политикой, которая привела к незначительным изменениям в экономическом положении страны с 1833 года, когда Оттон впервые прибыл, по иронии судьбы, в Науплион. Монархия Оттона началась в Науплионе, и, похоже, оттуда же она и закончится".
+ GRE_misc.6.a: "Немедленно подавить восстание".
+ GRE_misc.7.t: "События в Скиадике"
+ GRE_misc.7.d: "Позавчера несколько сотен студентов вышли на Марсово поле в "скиадиках" - соломенных шляпах греческого производства. Протест был идеей Клеона Рагазиса, сына Александра Рагазиса, министра иностранных дел. Целью было убедить высшие классы покупать греческие шляпы, но все пошло не так, поскольку импортеры шляп прислали своих агентов, чтобы посмеяться над протестующими, что привело к насильственным действиям с обеих сторон и вмешательству полиции. На следующий день они организовали новый протест и потребовали отставки главы полиции и встречи с Отто. Их требования были отклонены, в результате чего студенты были арестованы, что положило конец протестам."
+ GRE_misc.7.a: "Освободить студентов"
+ GRE_misc.8.t: "Покушение на королеву Амалию".
+ GRE_misc.8.d: "18 сентября 1861 года, когда королева Амалия ехала на своей лошади рядом с королевским дворцом, молодой студент по имени Аристидис Досиос попытался убить королеву Амалию. Ему это не удалось, так как королева повернула лошадь на него, и он не сумел как следует прицелиться. Мотивом попытки была дестабилизация режима, так как королева Амалия была регентом Греции, поскольку король Оттон находился в зарубежной поездке. Неудача покушения позволила возродить некоторую популярность монархии, хотя возрождение оказалось недолгим."
+ GRE_misc.8.a: "Симпатия к королеве"
+ GRE_misc.9.t: "Карельская табачная компания"
+ GRE_misc.9.d: "Сегодня [GetDateText] первое поколение семьи Карелия основало небольшой табачный бизнес в Каламате, Греция. Надеюсь, их бизнес будет процветать в течение следующих лет".
+ GRE_misc.9.a: "Отлично!"
+
+
+ GRE_politics.2.t: "Отречение Оттона"
+ GRE_politics.2.d: "On October 11th the Hellenic Parliament, which was under the control of the revolutionaries, declared Otto's position as King of Greece 'null and void' and declared a new government under Voulgaris, Canaris and Roufos, until the convention of a national assembly to elect a new King. The next day the Royal Yatch 'Amalia' entered Piraeus, and Otto was informed of the news. On that night the Yatch was joined by the British ship 'Scylla' and the French Ship 'Deer' and landed at Salamis. Otto decided then to flee Greece with the ship 'Scylla' to Venice, effectively resigning from the Greek throne, though this was not confirmed officially. Now Greece is free to chose her future." #NT!
+ GRE_politics.2.a: "Некомпетентный король"
+ GRE_politics.4.t: "Смерть короля Оттона I"
+ GRE_politics.4.d: "On this day, on the year [GetYear], His Majesty, King Otto I of Greece, of the House von Wittelsbach, has passed away, and he will now rest in peace. His Majesty's Funeral was attended by several thousand loyal citizens, as well as by the Wittelsbachs, yet with his passing there was also much apathy or even anger by a part of the population that still considered His Majesty a failed leader. Prince Luitpold von Wittelsbach has been chosen as the next King, as he is the rightful heir, and he is expected to be baptized Orthodox as the Constitution requires soon enough in order to arrive in to Greece and to be crowned." #NT!
+ GRE_politics.4.a: "Покойся с миром, король Оттон"
+ GRE_politics.5.t: "Референдум 1862 года"
+ GRE_politics.5.d: "The time has come to conduct the referendum to chose whether we will crown a King or install a Republic. The most popular choice so far for King seems to be Alfred von Saxe-Coburg Gotha, the son of Queen Victoria of the United Kingdom and the heir to the Duchy of Saxe-Coburg Gotha. He is a young man and very popular to most Greeks, who believe that if the British are friendly to us, the liberation of our territories will be achieved easily. On the other hand, a significant portion of our population wants to see the abolishment of the monarchy and the establishment of a Republic. If we remain a monarchy, we will enjoy the support of the Great Powers, but with the limitations that come with it, if we become a Republic, we will be initially isolated, but a bright future opens up." #NT!
+ GRE_politics.5.a: "Провести референдум"
+ GRE_tt_conduct_referenduma: "Проведите референдум, чтобы выбрать между §YМонархией§! и §YРеспубликой§!".
+ GRE_politics.5.b: "Не проводить референдум".
+ GRE_tt_not_conduct_referenduma: "Отказ от проведения референдума может вызвать §RРеспубликанский переворот§!".
+ GRE_politics.6.t: "Конец референдума"
+ GRE_politics.6.d: "Референдум завершился, и голоса подсчитаны. После нескольких месяцев напряженной предвыборной кампании референдум завершился, и голоса были подсчитаны. Неудивительно, что были нарушения в ходе выборов и даже вмешательство иностранных держав, но теперь важен только результат. Кто бы ни победил, ему предстоит восстановить разделенную нацию".
+ GRE_politics.6.a: "Избрание Альфреда фон Саксен-Кобурга и Гота".
+ GRE_politics.6.b: "Республиканцы одерживают верх"
+ GRE_politics.7.t: "Альфред избран королем в Греции"
+ GRE_politics.7.d: "Prince Albert von Saxe-Coburg Gotha, the son of Queen Victoria has been reportedly elected King of Greece in a referendum conducted amongst the Greek populace following the abdication of the former King, the Bavarian Otto von Wittelsbach, who was deeply unpopular due to his absolutist practices which ravaged the economy of the nation. Should Prince Albert be allowed to become King of Greece, this would reinforce our standing with the Greeks, but at the same time this will cause great dissatisfaction amongst the other guaranteeing powers of Greece -France and Russia- and will disrupt the fragile balance of powers." #NT!
+ GRE_politics.7.a: "Позволить Альфреду стать королем".
+ GRE_politics.7.b: "Не позволять Альфреду стать королем"
+ GRE_politics.8.t: "Коронация короля Альфреда I"
+ GRE_politics.8.d: "King Alfred I has been crowned King of the Greeks in a private ceremony in the Cathedral of Athens. Avoiding the pomp of his predecessor, the whole affair of Alfred's coronation happened quickly and quite humbly. In attendance were the Prime Minister, the Archbishop, most prominent politicians and representatives from the business community. With his coronation, King Albert has to deal with several issues, including stabilizing Greek politics and dealing with the years of mismanagement that have left the Greek economy weak and unproductive. Nevertheless with his extensive influence with the United Kingdom and Germany he is expected to campaign in favour of reclaiming our territories." #NT!
+ GRE_politics.8.a: "Да здравствует новый король"
+ GRE_politics.9.t: "Альфреду не позволили стать королем"
+ GRE_politics.9.d: "Queen Victoria has rejected the Greek demands that Prince Alfred becomes King of Greece. Her rejection comes from the concerns voiced from France and Russia that the United Kingdom would gain too much power in Greece, and now we have to find a new King. A suitable candidate would be Prins Vilhelm von Glucksburg, the son of the Crown Prince Christian of Denmark and who belongs to a minor dynasty with no major claims or pretentions, and thus an ideal candidate approved by the Great Powers. Prince Vilhelm may not have as close relations to the British as Alfred, but he is a worthy substitute and his family has connections with nearly every European house." #NT!
+ GRE_politics.9.a: "Что насчет принца Вильгельма Датского?"
+ GRE_politics.10.t: "Коронация короля Георга I"
+ GRE_politics.10.d: "Prins Vilhelm von Glucksburg, who has recently come from Denmark, was today crowned King of the Greeks, under the regnal name of George which is much easier to pronounce, in a private ceremony in the Cathedral of Athens. Avoiding the pomp of his precedecessor, the whole affair of George's coronation happened quickly and quite humbly. In attendance were the Prime Minister, the Archbishop, most prominent politicians and representatives from the business community. With his coronation, King Geirge has to deal with several issues, including stabilizing Greek politics and dealing with the years of mismanagement that have left the Greek economy weak and underproductive. Nevertheless with his extensive influence with the United Kingdom and Germany he is expected to campaign in favour of reclaiming our territories." #NT!
+ GRE_politics.10.a: "Да здравствует новый король"
+ GRE_politics.11.t: "The coronation of King Leopold I" #NT!
+ GRE_politics.11.d: "Prince Luitpold von Wittelsbach, the younger brother of the late King Otto was today crowned King of Greece in a lavish ceremony in the Cathedral of Athens. Trying to prove to his new subjects that he is fit to rule, the coronation was very expensive and impressed many attendants of the competence of the new King. Nevertheless, the majority of the population views the new King with skepticism as he is overshadowed by his predecessors unpopularity and the fact that his conversion to Orthodox Christianity a few days prior to the coronation was viewed very oddly. King Leopold will have to prove the entirety of his new Kingdom that he is a good sovereign and that he will recover the Hellenic lands. In doing so he will have the advantage of close relations with Germany and Austria, as well as with Russia, though that will upset France and the United Kingdom." #NT!
+ GRE_politics.11.a: "Да здравствует новый король"
+ GRE_politics.12.t: "Republican coup d'Etat" #NT!
+ GRE_politics.12.d: "" #NT!
+ GRE_politics.12.a: "Down with the Monarchy" #NT!
+ GRE_politics.13.t: "Революции по всей Греции"
+ GRE_politics.13.d: "After several months of severe political turbulence, and while the King and Queen are touring the province seeking support from the people, anti-Othonian revolutions have broken out all over Greece, and they seem to have the support of the majority of the Greek population. The revolutions began with the repressed Nauplian Revolution, but now bigger ones have broken out in Aetolia-Acarnania, where General Theodoros Grivas has declared a full scale rebellion, as well as in parts of the Peloponnese and the Aegean Islands. The situation is critical for Otto as he no longer has control over anything, and even the Great Powers seem to support the people's demand." #NT!
+ GRE_politics.13.a: "Возможно, для Отто будет лучше бежать".
+ GRE_politics.14.t: "Выборы 1864 года"
+ GRE_politics.14.d_george: ""
+ GRE_politics.14.d_alfred: ""
+ GRE_politics.14.d_republic: ""
+ GRE_politics.14.a: "Александрос Кумундурос победил"
+ GRE_politics.14.b: "Димитриос Вулгарис победил"
+ GRE_politics.14.c: "Эпаминондас Делигиоргис победил"
+ GRE_politics.15.t: "Коронация Людвига I"
+ GRE_politics.15.d: "Today, [GetDateText] the Coronation of Ludwig I took place" #NT!
+ GRE_politics.15.a: "Long may he reign!" #NT!
+ GRE_politics.16.t: "Поиск невесты"
+ GRE_politics.16.d: "Ludwig had several extramarital affairs and was one of the lovers of Lady Jane Digby, an aristocratic English adventuress. Another affair was the Italian noblewoman Marianna Marquesa Florenzi. His affair with Lola Montez also caused some scandal." #NT!
+ GRE_politics.16.a: "Будем надеяться, что он наконец остепенится!".
+ GRE_politics.17.t: "Брак Людвига"
+ GRE_politics.17.d: "Today, [GetDateText] Ludwig I announced his marriage with Lady Jane Digby of England." #NT!
+ GRE_politics.17.a: "Excellent!" #NT!
+ GRE_politics.18.t: "Выборы 1859 года"
+ GRE_politics.18.d: "The Elections of 1859 are set to begin today and this will be a great struggle between the absolutist current government and the constitutionalist opposition. Prime Minister Miaoulis is expected to perform, though we might need to 'help' the absolutist faction against the constitutionalists." #NT!
+ GRE_politics.18.a: "Начать выборы"
+ GRE_politics.19.t: "Окончание выборов 1859 года"
+ GRE_politics.19.d: "The Elections of 1859 have ended after several months of intense campaigning by both sides, and widespread accusations of electoral irregularity. The votes have been counted and the new government is soon expected to be called to the Royal Palace to be appointed by the King." #NT!
+ GRE_politics.19.a: "Монархисты победили"
+ GRE_politics.19.b: "The Constitutionalists win" #NT!
+ GRE_politics.1.t: "Король Оттон"
+ GRE_politics.1.d: "Since the establishment of monarchy in Greece in 1832 under the Convention of London, the Kingdom Of Greece has been ruled by King Otto the second son of Ludwig I of Bavaria. Initially having high hopes for him the Greek populace welcomed the young monarch with open arms hoping that with his wise actions he would guide them to build a strong prosperous and enlarged Greek kingdom. All their hopes were proven fruitless. The young king proved to extremely inexperienced, despotic and an egoist by ruling as an absolute monarch and refusing repeatedly to concede to the creation of a constitution out of fear of losing his power and failing to understand and adopt the customs and practices of the Greek people till the local populace decided that enough was enough. An armed revolution in 3 September 1843 forced Otto to accept the creation of a Greek constitution. Now, 25 years later the situation hasn't improved almost at all. Although Greece now has a constitution and elections are held Otto is still causing instability by appointing weak governments so that he retains his autocratic power and on top of that he remains childless despite the repeated attempts the queen and him made to produce a male heir. And on top of all that Otto managed to repeatedly displease the 3 Great Powers by constantly trying to earn the favor of one of them and by constantly defying their orders especially when it comes to Greek foreign policy. If the situation doesn't improve soon the Greek populace might soon rebel once more and this time Otto might be unable to keep his crown." #NT!
+ GRE_politics.1.a: "Будем надеяться, что это не приведет к новой революции".
+
+ GRE_Military.1.t: "Вопрос о фаланге"
+ GRE_Military.1.d: "Пришло время решить, должны ли мы придерживаться наших прошлых военных ценностей или, возможно, принять новые военные взгляды".
+ GRE_Military.1.a: "Заменить фалангу на королевскую гвардию".
+ GRE_Military.1.b: "Сохранить фалангу и расширить ее".
+ GRE_Military.1.c: "Полностью удалить фалангу"
+
+ ### GREEK NAVY EVENTS#### #NT!
+
+ GRE_Navy.1.t: "Вопрос о флоте"
+ GRE_Navy.1.d: "Мы должны принять решение о направлении развития нашего флота".
+ GRE_Navy.1.a: "Focus on BattleShips & Carriers" #NT!
+ GRE_Navy.1.b: "Сосредоточиться на малых и эффективных кораблях"
+ GRE_Navy.1.c: "Под поверхностью мы идем!"
+
+ GRE_Navy.2.t: "Миссия по отправке курсантов за границу"
+ GRE_Navy.2.d: ""
+ GRE_Navy.2.a: "Наше путешествие начинается"
+
+ GRE_Navy.3.t: "Курсанты вернулись"
+ GRE_Navy.3.d: "Наши курсанты наконец-то вернулись".
+ GRE_Navy.3.a: "Надеюсь, оно того стоило"
+
+ GRE_Navy_4.t: "Греческий пароход "Афины"
+ GRE_Navy_4.d: "Деревянный колесный пароход "Афины", весом 430 тонн и способный перевозить еще 100 тонн, был построен в октябре 1837 года в морском порту Порос адмиралом Г. Томбази и впервые назван в честь короля Отто. Он использовался как транспортное судно для королевской семьи, а также как государственный грузовой корабль. В 1850 году он был конфискован англичанами в связи с делом Дона Пасифико. Он был снова конфискован вместе с остальным греческим флотом у французов в мае 1854 года во время Крымской войны. Позднее, в 1854 году, ему было поручено перевезти афинских оккупантов на острова Сароникос из-за эпидемии холеры в Афинах. В 1862 году он участвовал в блокаде Нафплиона и в подавлении Нафплионского восстания. Позже в том же году он был переименован в "Афины". Он оставался в строю до 1864 года для перевозки военных процессий на Корфу во время празднования объединения Ионических островов с остальной Грецией."
+ GRE_Navy_4.a: "Интересно".
+
+ GRE_Navy_5.t: "Греческий корвет "Loudovikos"".
+ GRE_Navy_5.d: "Loudovikos" был корветом греческого флота, построенным в 1838 году на верфи Poros Naval Shipyard по проекту морского архитектора Георгиоса Томбазиса. Он был назван в честь короля Людвига I Баварского, отца короля Греции Отто. Это был относительно большой корабль (длина 44,1 м, водоизмещение 1000 тонн), вооруженный двумя 22-фунтовыми плюс четырьмя 20-фунтовыми длинноствольными орудиями и двадцатью четырьмя 32-фунтовыми карронадами, с экипажем из 182 человек. В оперативном отношении корабль не использовался, а с 1846 года использовался в качестве учебного судна (переименованного в Messolongion после свержения Отто в 1862 году). Официально он оставался на вооружении Королевского греческого флота до 1873 года."
+ GRE_Navy_5.a: "Интересно".
+
+
+ ####THE ROYAL TOUR CHAIN of King Ludwig #NT!
+
+ GRE_misc.17.t: "Королевский тур"
+ GRE_misc.17.d: "В честь своей коронации наш король, Людвиг 1-й, должен отправиться в турне по нашей стране. Ожидается, что через месяц он посетит город Патры".
+ GRE_misc.17.a: "Давайте начнем это путешествие!"
+
+ GRE_misc.18.t: "Прибытие в Патры"
+ GRE_misc.18.d: "Прибытие короля в город Патры прошло, как и ожидалось. Его следующий пункт назначения - остров Сирос. Король сядет на королевский корабль у причала Патры".
+ GRE_misc.18.a: "Все взоры устремлены на него".
+
+ GRE_misc.19.t: "Прибытие в Сирос"
+ GRE_misc.19.d: "Сегодня [GetDateText] наш царь прибыл в Сирос. Он сразу же отправился посетить верфь Ермуполиса. После осмотра он пообещал отдать часть своего личного богатства на улучшение верфи острова. Похоже, он очень хотел построить греческий королевский флот".
+ GRE_misc.19.a: "Возможно, он что-то задумал".
+
+
+  ####THE ROYAL TOUR CHAIN of King George #NT!
+
+ GRE_George_royaltour.1.t: "Королевский тур"
+ GRE_George_royaltour.1.d: "To celebrate his coronation, our King George is expected to go on a tour around our country. He's expected to visit the city of Corinth within a month." #NT!
+ GRE_George_royaltour.1.a: "Let's begin this journey!" #NT!
+
+ GRE_George_royaltour.2.t: "Прибытие в Коринф"
+ GRE_George_royaltour.2.d: "The king's arrival in the city of Corinth went as expected. His next destination is the City of Tripoli. The king will board on a royal ship from the dock of Patras." #NT!
+ GRE_George_royaltour.2.a: "Все внимание приковано к нему"
+
+ GRE_George_royaltour.3.t: "Прибытие в Триполи"
+ GRE_George_royaltour.3.d: "Today, [GetDateText] our king arrived in Tripoli." #NT!
+ GRE_George_royaltour.3.a: "He might be on to something." #NT!
+
+
+ ### SUCCESSION EVENT CHAIN ### #NT!
+
+
+ GRE_succession.1.t: "Проблема преемственности"
+ GRE_succession.1.d: "In the coming weeks, the kingdom of Greece must find an heir to lead the nation." #NT!
+ GRE_succession.1.a: "An heir must be found!" #NT!
+
+ GRE_succession.2.t: "Визит в Мюнхен"
+ GRE_succession.2.d: "Today, [GetDateText] we sent a group of diplomats to the German city of Munchen on our quest to find a legitimate heir for our mighty kingdom." #NT!
+ GRE_succession.2.a: "Hopefully, they'll return with good news!" #NT!
+
+ GRE_succession.3.t: "The heir to Greece" #NT!
+ GRE_succession.3.d: "" #NT!
+ #GRE_succession.3.a: "Luitpold shall be the heir" #NT!
+ GRE_succession.3.a: "Ludwig shall be the heir" #NT!
+ GRE_succession.3.b: "Greece is on its own" #NT!
+
+ #Not implemented yet #NT!
+ GRE_succession.31.t: "Луитпольд - новый наследник"
+ GRE_succession.31.d: "Luckily, our diplomats returned with good news from Germany. Tomorrow we'll announce to the people that Luitpold I will be the heir to the throne." #NT!
+ GRE_succession.31.a: "Excellent" #NT!
+
+ GRE_succession.32.t: "Людвиг - новый наследник"
+ GRE_succession.32.d: "Luckily, our diplomats returned with good news from Germany. Tomorrow we'll announce to the people that Ludwig I will be the heir to the throne." #NT!
+ GRE_succession.32.a: "Excellent" #NT!
+
+ GRE_succession.33.t: "Наследник не найден"
+ GRE_succession.33.d: "Unfortunately, despite the best efforts of our diplomats, no heir was found to succeed our King Otto. What should we do?" #NT!
+ GRE_succession.33.a: "Queen Amalia shall succeed the King" #NT!
+
+ GRE_succession.4.t: "Людвиг обращается в православие"
+ GRE_succession.4.d: "Today, [GetDateText] Ludwig the first, publicly denounced his old beliefs and converted to Orthodox. His baptism is expected to take place within the next month." #NT!
+ GRE_succession.4.a: "Первое действие по умиротворению народа".
+
+ GRE_succession.5.t: "Амалия станет регентом"
+ GRE_succession.5.d: "Queen Amalia will succeed the king to the throne." #NT!
+ GRE_succession.5.a: "Better than nothing." #NT!
+
+ ####### Diplomacy #NT!
+
+ GRE_diplomacy.1.t: "Лондонский договор"
+ GRE_diplomacy.1.d: "On March 29th, 1864 representatives from the United Kingdom, Russia, Prussia and Greece met in London to agree upon ceding the Ionian Islands, currently a protectorate of the British to Greece. Charilaos Trikoupis, the Greek delegate, signed the agreement. The British will depart from the territory on October 2nd and let us take it over, but they will be allowed to retain the use of the Port of Corfu for military purposes. The agreement was largely influenced due to our election of an Anglophile King. The Ionian Islands are the first territory to become Greek, following independence." #NT!
+ GRE_diplomacy.1.a: "Еще одна освобожденная территория"
+ GRE_Ionian_Islands_modifier: "Уступка Ионических островов".
+ GRE_diplomacy.2.t: "Греки поддерживают критян".
+ GRE_diplomacy.2.a: "Inform them of our dissatisfaction" #NT!
+ GRE_diplomacy.3.t: "Османы угрожают нам войной"
+ GRE_diplomacy.3.a: "Blind threats with no substance" #NT!
+ GRE_diplomacy.3.b: "It would be wiser to cease our actions in Crete" #NT!
+ GRE_diplomacy.4.t: "Греки отказываются от наших требований"
+ GRE_diplomacy.4.a: "Begin preparing for war" #NT!
+ GRE_diplomacy.5.t: "Греки принимают наши требования"
+ GRE_diplomacy.5.a: "It is peace in the Balkans" #NT!
+ GRE_diplomacy.6.t: "Греция просит посредничества по поводу Крита"
+ GRE_diplomacy.6.d: ""
+ GRE_diplomacy.6.a: "Support the Status Quo Ante" #NT!
+ GRE_diplomacy.6.b: "Support the Greeks" #NT!
+ GRE_diplomacy.7.t: "Британцы отказываются нас поддерживать"
+ GRE_diplomacy.7.d: ""
+ GRE_diplomacy.7.a: "Accept the British Demands" #NT!
+ GRE_diplomacy.7.b: "Defy the British" #NT!
+ GRE_diplomacy.8.t: "Британцы поддерживают греков"
+ GRE_diplomacy.8.d: ""
+ GRE_diplomacy.8.a: "Accept the British demands" #NT!
+ GRE_diplomacy.8.b: "Defy the British" #NT!
+ GRE_diplomacy.9.t: "Просить помощи у Британии"
+ GRE_diplomacy.9.d: "Send a message to Britain, asking for help in our war against the Ottomans." #NT!
+ GRE_diplomacy.9.a: "Send it at once!" #NT!
+ GRE_diplomacy.10.t: "Просить помощи у России"
+ GRE_diplomacy.10.d: "Send a message to Russia, asking for help in our war against the Ottomans." #NT!
+ GRE_diplomacy.10.a: "Send it at once!" #NT!
+ GRE_diplomacy.11.t: "Попросить помощи у Пруссии"
+ GRE_diplomacy.11.d: "Send a message to Prussia, asking for help in our war against the Ottomans." #NT!
+ GRE_diplomacy.11.a: "Send it at once!" #NT!
+ GRE_diplomacy.12.t: "Возвращение греческого государства"
+ GRE_diplomacy.12.d: "After 5 years of foreign influence, our state has returned in our control." #NT!
+ GRE_diplomacy.12.a: "Finally!" #NT!
+ GRE_diplomacy.13.t: "Возвращение греческого государства"
+ GRE_diplomacy.13.d: "Our influence over the Kingdom of Greece has eclipsed and the state is now under Greek control." #NT!
+ GRE_diplomacy.13.a: "Sad to see it go" #NT!
+ GRE_diplomacy.17.t: "Greece helped Crete" #NT!
+ GRE_diplomacy.17.d: "Our decision to help Crete has some positive outcome within our country." #NT!
+ GRE_diplomacy.17.a: "Hooray" #NT!
+ GRE_diplomacy.18.t: "Греция не помогала Криту"
+ GRE_diplomacy.18.d: "Our decision to not help Crete has a negative effect within the people of our country." #NT!
+ GRE_diplomacy.18.a: "It wasn't an easy decision, but we had to stay neutral." #NT!
+ GRE_diplomacy.19.t: "Greece remained neutral to the Crete Rebellion" #NT!
+ GRE_diplomacy.19.d: "Our neutrality in the Cretan revolt has had a positive outcome with our neighbours." #NT!
+ GRE_diplomacy.19.a: "That was our goal all along." #NT!
+
+ GREeconomy.1.t: "Начинается строительство железной дороги Афины-Пирей"
+ GREeconomy.1.d: "Today, on [GetDateText] the British Businessman Edward Pickering applied to receive the construction permit to build and operate the railway between Athens and Piraeus. The permit was granted and it is expected that construction will start within the two months. The railway was first proposed in 1835, but the proposal was very ahead of time and was ignored. The issue resurfaced on 1843 under the proposal of Foreign Minister Alexandros Rizas Ragazis, but he was too ignored. It was not until 1855 with the support of Foreign Minister Alexandros Mauvrokordatos that an edict was passed allowing for the construction of the Athens - Piraeus railway, but the political instability would prevent this from happening." #NT!
+ GREeconomy.1.a: "Отлично"
+ GREeconomy.2.t: "Торжественное открытие железной дороги Афины - Пирей"
+ GREeconomy.2.d: "On [GetDateText] the Athens - Piraeus Railway was inaugurated with the attendance of the Queen of Greece, the Prime Minister, several politicians and military officers and foreign dignitaries. This was a brilliant moment and the attendants experienced the whole trip from Athens to Piraeus and back. Most notably the railway was praised as 'a symbol of progress and of civilization'." #NT!
+ GREeconomy.2.a: "Какая это была прекрасная поездка".
+ GREeconomy.3.t: "Осушение озера Копаис"
+ GREeconomy.3.d: "When the lake existed, the towns of Haliartus, Orchomenus, and Chaeronea were on its shores. Rivers feeding the lake included the Cephissus, Termessus and Triton. The lake was (and is) surrounded by fertile land, but the lake increasingly encroached on the surrounding land because of inadequate drainage. In response to this, in 1867–1887 Scots and French engineers reclaimed the land for the British Lake Copais Company, by building channels to drain water from the lake to the Cephissus and from there to Lake Yliki (Ylíki Limní, ancient Hylica). In total about 200 square kilometres (77 sq mi) were reclaimed. This land was returned to the Greek government in 1952. The Kopais Lake Agency was created in 1957 to supervise the draining of the lake and building of a new road." #NT!
+ GREeconomy.3.a: "Отлично"
+ GREeconomy.4.t: "Осушение озера Копаис"
+ GREeconomy.4.d: "The draining of Lake-Kopais is completed" #NT!
+ GREeconomy.4.a: "Excellent" #NT!
+ GREeconomy.5.t: "Пивоварня Fix"
+ GREeconomy.5.d: " "
+ GREeconomy.5.a: "Excellent" #NT!
+ GREeconomy.6.t: "Усилия по увеличению промышленного потенциала Греции"
+ GREeconomy.6.d: " "
+ GREeconomy.6.a: "Maximum Effort" #NT!
+ GREeconomy.6.b: "Medium Effort" #NT!
+ GREeconomy.6.c: "Minimal Effort" #NT!
+ GREeconomy.7.t: "Вновь открытые шахты в Греции"
+ GREeconomy.7.d: "Since the independence, Greece has been a predominantly agricultural country. The first industries established in the 1860s were also linked to agriculture such as wine, paper, cotton. It has been argued that the discovery of the mines was accidental. A Greek sailing ship is said to have used the slag from Lavrion as ballast. During a stay in Sardinia, Mr Serpieri, the owner of the mines on the island, had the idea of analysing them. After discovering their potential, he joined forces with the Marseille entrepreneur Roux to exploit the Laurion deposit. The reopening of the Lorient mines in the 1860s and 1870s coincided with the creation of other mining, metallurgical and chemical enterprises that took the country in a new economic direction. Social life in Lavrio, having been so depended from the industries of the area, naturally followed their course." #NT!
+ GREeconomy.7.a: "Будем надеяться, что это поможет нам справиться с кризисом".
+ GREeconomy.8.t: "Дело Лавреотики"
+ GREeconomy.8.d: "In 1864, Serpieri founded the Italian-French company Hilarion Roux & Cie in the port of Ergastiriacchia, Port of Laurio. The company undertook the exploitation of ancient mines and the mining of silver-bearing lead ores. In 1865 it opened a fully equipped plant with 18 furnaces, small ore washing facilities and a railway system. The company continued to expand rapidly. By 1867, it employed 1,200 workers, a record number compared to contemporary employment figures for the entire country. In the spring of 1871, the Franco-Italian Company began to make profits, especially when it began to mine in situ and slag. In the spring of 1871, however, France found itself in a delicate diplomatic situation after its defeat by Prussia. Greece tried to take advantage of this to improve its economic situation." #NT!
+ GREeconomy.8.a: "Национализировать шахты"
+ GREeconomy.8.b: "Leave the mines to the French for now" #NT!
+ GREeconomy.9.t: "Национальное собрание 1872 года"
+ GREeconomy.9.d: "The prime minister, Thrasyvulos Zaimis, promised in 1871 that what became the "Lavreotika affair" was his government's main concern. His successor, Dimitrios Voulgaris, pleaded with France and Italy for patience and forbearance until parliamentary elections could be organised in 1872 and the new session opened. Europe offered its good offices. German scholars failed to provide convincing expert opinions. New samples were sent to Great Britain. The matter began to get lost in the maze of diplomatic relations. Whoever decided in favour of France would, according to Bismarck, be guilty of breaking the isolation imposed. Whoever decided to choose Greece would look like the country's protector, at the risk of upsetting the other candidates for that title. The mine occupation continues. Visiting French and Italian diplomats were insulted and shoved around. France threatened to send its navy and even troops. The new French ambassador, Jules Ferry, passed through Rome. In Piraeus he was more than warmly received. Shortly before his arrival, the Greek government offers to buy the mines from the Roux-Serpieri company." #NT!
+ GREeconomy.9.a: "Мы должны полностью отступить"
+ GREeconomy.9.b: "We shall defend our interests" #NT!
+ GREeconomy.10.t: "France backs down" #NT!
+ GREeconomy.10.d: "France has completetly backed down from their interests in the Lavrion mines. Let's begin the extraction." #NT!
+ GREeconomy.10.a: "That was unexpected." #NT!
+ GREeconomy.11.t: "France didn't back down" #NT!
+ GREeconomy.11.d: "France has sent their ships in the Aegean. This is an immediate threat for our country's sovereignty. What should we do?" #NT!
+ GREeconomy.11.a: "That was unexpected." #NT!
+ GREeconomy.11.b: "They're bluffing!" #NT!
+ GREeconomy.12.t: "Вопрос о шахтах Лавриона"
+ GREeconomy.12.d: "Greece thinks we're bluffing. Our naval presence in the Aegean didn't convince them about our intentions. They don't actually think we're about to declare war on them. What should we do?" #NT!
+ GREeconomy.12.a: "Оставьте их пока в покое. Они заплатят за это со временем...".
+ GREeconomy.12.b: "Guess what? We weren't bluffing!" #NT!
+
+ GREcrete.1.t: "Великая критская революция 1866 года"
+ GREcrete.1.d: ""
+ GREcrete.1.a: "Restore order on Crete." #NT!
+ GREcrete.1.b: "Поддерживать свободу Крита"
+ GREcrete.2.t: "Офицеры прибыли с материка"
+ GREcrete.2.d: ""
+ GREcrete.2.a: "Will their struggle succeed?" #NT!
+ GREcrete.3.t: "Взрыв в Аркадии"
+ GREcrete.3.d: ""
+ GREcrete.3.a: "Excellent!" #NT!
+ GREcrete.4.t: "Взрыв в Аркадии"
+ GREcrete.4.d: ""
+ GREcrete.4.a: "Great news!" #NT!
+ GREcrete.5.t: "Military Equipment from Greece Arrives" #NT!
+ GREcrete.5.d: "Military equipment from the mainland has arrived to help the rebels in their struggle for freedom. We surely make use of these weapons to hold the island against Ottoman invasions." #NT!
+ GREcrete.5.a: "Forward!" #NT!
+ GREcrete.6.t: "Критяне снова восстают"
+ GREcrete.6.d: ""
+ GREcrete.6.a: "For Greece!" #NT!
+ GREcrete.7.t: "Греческое оружие прибыло"
+ GREcrete.7.d: ""
+ GREcrete.7.a: "What a terrible tragedy..." #NT!
+ GREcrete.8.t: "Греческие добровольцы прибыли"
+ GREcrete.8.d: ""
+ GREcrete.8.a: "What a tragedy." #NT!
+ GREcrete.8.b: "We have to do something to help..." #NT!
+ GREcrete.9.t: "Греция готовит интервенцию"
+ GREcrete.9.d: ""
+ GREcrete.9.a: "Finally!" #NT!
+ GREcrete.10.t: "More Volunteers Arrive from Christian Countries" #NT!
+ GREcrete.10.d: "Following news of the Arkadi explosion, hundreds of volunteers from Christian countries across Europe and the US have since arrived on the island, ready to take up arms against the Ottomans. Many of them even brought their own weapons and other equipment. Their help will certainly be appreciated." #NT!
+ GREcrete.10.a: "They have our eternal gratitude!" #NT!
+ GREcrete.11.t: "The Cretan Revolution Succeeds" #NT!
+ GREcrete.11.d: "Our struggle was not futile and our prayers have been answered - the Ottoman forces and their administration on the island have surrendered and the government in Constantinople has sent messages to enter peace talks. Crete will be free from their oppression!" #NT!
+ GREcrete.11.a: "Rejoice!" #NT!
+ GREcrete.12.t: "The Cretan Revolution Succeeds" #NT!
+ GREcrete.12.d: "After years of bloody combat, death and devastation on the island, the Ottoman forces on Crete have surrendered and the Ottoman government has had to sent messages to enter peace talks with the rebel leaders. The island will be free from foreign oppression, although it remains uncertain whether Crete will unite with the Greek mainland or whether it will stay an independent state. Given the island's strategic position in the center of the Mediterranean Sea and at the entrance to the Aegean, it will certainly be interesting to see how the great powers react.\n\nHowever, for the Ottoman Empire, not long ago the undisputed hegemon of the region, this surprising defeat seems to indicate that their tumble will continue. The various ethnic groups under Ottoman rule in the Balkans have certainly observed the situation on Crete very carefully, and it is highly likely that they, too, will take up arms to fight for their right of self determination if necessary." #NT!
+ GREcrete.12.a: "The Ottomans are weaker than we thought..." #NT!
+ GREcrete.12.b: "A heroic struggle!" #NT!
+ GREcrete.12.c: "A humiliating defeat..." #NT!
+ GREcrete.13.t: "The Cretan Revolution Fails" #NT!
+ GREcrete.13.d: "Our forces have finally managed to pacify the island. We will have to make sure that this was the last rebellion against our rule there." #NT!
+ GREcrete.13.a: "Order has been restored." #NT!
+ GREcrete.14.t: "The Cretan Revolution Fails" #NT!
+ GREcrete.14.d: "The last remaining rebel forces on Crete have surrendered, and the Ottomans have reestablished a firm hold over the island. The Ottoman commanders seem destined to make sure that this was the last uprising of such magnitude there, and the High Porte is said to be actively seeking ways to strengthen their military positions to quell any possible unrest before it can burst. This victory comes at a time of doubt directed towards the strength and stability of the Ottoman Empire, and the world has certainly observed the situation on Crete very carefully, with many foreign ethnic groups under Ottoman rule, especially in the Balkans, seeking for their own path to freedom. For now, their hopes have been shattered. But for how long?" #NT!
+ GREcrete.14.a: "The rebels have fought honorably." #NT!
+ GREcrete.14.b: "This won't be the last time..." #NT!
+
+ GRE_misc.10.t: "Афинский университет"
+ GRE_misc.10.d: "Сегодня [GetDateText] началось строительство Афинского университета. Проект планируется завершить в течение года".
+ GRE_misc.10.a: "Excellent!" #NT!
+
+ GRE_misc.11.t: "Афинский университет"
+ GRE_misc.11.d: "Строительство Афинского университета завершено".
+ GRE_misc.11.a: "Let's find some young and bright minds!" #NT!
+
+ GRE_misc.12.t: "Афинская академия"
+ GRE_misc.12.d: "Сегодня [GetDateText] началось строительство Афинской академии. Проект планируется завершить в течение года".
+ GRE_misc.12.a: "Great!" #NT!
+
+ GRE_misc.13.t: "Афинская академия".
+ GRE_misc.13.d: "Строительство Афинской академии завершено".
+ GRE_misc.13.a: "Great!" #NT!
+
+ GRE_misc.14.t: "Национальная библиотека"
+ GRE_misc.14.d: "Сегодня [GetDateText] началось строительство Национальной библиотеки. Проект планируется завершить в течение года".
+ GRE_misc.14a: "Нам понадобятся книги!"
+
+ GRE_misc.15.t: "Национальная библиотека"
+ GRE_misc.15.d: "Строительство Национальной библиотеки завершено".
+ GRE_misc.15.a: "Есть ли у нас книги?"
+
+ GRE_misc.16.t: "Больше ученых"
+ GRE_misc.16.d: "Наши усилия по улучшению образования в нашей стране наконец-то окупились".
+ GRE_misc.16.a: "Excellent!"
+ ################### #NT!
+ # Greek Decisions # #NT!
+ ################### #NT!
+
+ GRE_decision_category_influence_referendum_monarchist: "Влиять на референдум".
+ GRE_decision_category_influence_referendum_monarchist_desc: "Влиять на референдум в пользу монархической фракции".
+ GRE_decision_category_influence_referendum_republican: "Влиять на референдум".
+ GRE_decision_category_influence_referendum_republican_desc: "Влиять на референдум в пользу республиканской фракции".
+ GRE_decision_pick_monarchist_a: "Встать на сторону монархистов".
+ GRE_decision_pick_monarchist_a_desc: "Встать на сторону монархистов на референдуме и повлиять на него".
+ GRE_decision_pick_republic_a: "Встать на сторону республиканцев".
+ GRE_decision_pick_republic_a_desc: "Встать на сторону республиканцев на референдуме и повлиять на него".
+ GRE_decision_fraud_a: "Совершить мошенничество на выборах"
+ GRE_decision_fraud_a_desc: "Провести фальсификацию выборов в пользу монархической фракции".
+ GRE_decision_fraud_b: "Провести фальсификацию выборов"
+ GRE_decision_fraud_b_desc: "Провести фальсификацию выборов в пользу республиканской фракции".
+ GRE_decision_censorship_a: "Цензурировать наших республиканских оппонентов".
+ GRE_decision_censorship_a_desc: "Цензурировать республиканские газеты и гарантировать, что республиканцы не смогут использовать прессу в свою пользу".
+ GRE_decision_censorship_b: "Цензура наших монархических оппонентов".
+ GRE_decision_censorship_b_desc: "Цензурировать монархические газеты и гарантировать, что монархисты не смогут использовать прессу в свою пользу".
+ GRE_decision_discredit_a: "Дискредитировать республиканскую фракцию"
+ GRE_decision_discredit_a_desc: "Дезинформировать общественность в отношении республиканцев и способствовать росту популярности монархистов."
+ GRE_decision_discredit_b: "Дискредитировать фракцию монархистов".
+ GRE_decision_discredit_b_desc: "Дезинформировать общественность в отношении монархистов и способствовать росту популярности республиканцев".
+ GRE_decision_open_ballots_a: "Использовать систему открытых бюллетеней".
+ GRE_decision_open_ballots_a_desc: "Использовать систему открытого голосования, чтобы запугать наших избирателей и манипулировать референдумом".
+ GRE_decision_open_ballots_b: "Использовать систему открытых бюллетеней"
+ GRE_decision_open_ballots_b_desc: "Использовать систему открытого голосования для запугивания наших избирателей и манипулирования референдумом".
+
+ #GRE_decision_category_industry: "Industrial Actions"
+ on_map_improve_infrastructure: "Улучшить инфраструктуру в [FROM.GetName]".
+ on_map_improve_infrastructure_desc: ""
+ GRE_Athens_Patras_railway: "Железная дорога Афины-Патры"
+ GRE_Athens_Patras_railway_desc: ""
+ GRE_Central_Greece_railway: "Продлить железную дорогу в Центральную Грецию"
+ GRE_Central_Greece_railway_desc: ""
+ GRE_extend_Patras_railway_to_Kalamata: "Продлить железную дорогу до Каламаты"
+ GRE_extend_Patras_railway_to_Kalamata_desc: ""
+ GRE_decision_railway_upgrade: "Модернизация железной дороги"
+ GRE_decision_railway_upgrade_desc: "Наша железнодорожная сеть больше не справляется с задачей поддержки современной промышленности, не говоря уже о стимулировании ее развития. Ее модернизация и расширение не только решат эту проблему, но и предоставят нашей промышленности важные контракты и возможность расширения торговли."
+ GRE_mission_piraeus_port: "Расширение Пирея - основание верфей Василиадиса".
+
+ #Cretan Revolution #NT!
+ GRE_decision_category_cretan_revolution: "The Cretan Revolution" #NT!
+ eoanb_mission_cretan_revolution: "The Cretan Revolution" #NT!
+ cretan_revolution_ottoman_trigger_tt: "§YIf the Cretan rebels hold out for too long, we might be forced to accept their independence due to international pressure.§!" #NT!
+ GRE_decision_help_the_cretan_rebels: "Help the Cretan Rebels" #NT!
+ GRE_decision_help_the_cretan_rebels_desc: "Helping the Cretan rebels is in our best interest, since they are not only Greeks and follow our faith, their rebellion provides a welcome opportunity for us to regian rightfully Greek shores in the Mediterranean." #NT!
+ GRE_decision_help_the_cretan_rebels_1: "Send Military Officers to Crete" #NT!
+ GRE_decision_help_the_cretan_rebels_2: "Send Military Equipment to Crete" #NT!
+ GRE_decision_help_the_cretan_rebels_3: "Send a Volunteer Unit to Crete" #NT!
+ cretan_revolution_help_crete_effect_tt: "§RTaking this decision will anger the Ottomans.§!" #NT!
+ GRE_decision_help_the_cretan_rebels_4: "Prepare an Intervention" #NT!
+ OTO_decision_violate_greek_sovereignty: "Violate Greek Sovereignty" #NT!
+ GRE_decision_request_british_mediation: "Запросить британское посредничество".
+ GRE_tt_eng_help_crete_1: "§YБританцы§! могут помочь нам в зависимости от нашего положения с ними"
+ GRE_decision_request_austrian_mediation: "Запросить австрийское посредничество"
+ GRE_tt_aus_help_crete_1: "§YАвстрийцы§! могут помочь нам в зависимости от нашего положения с ними"
+
+ GRE_decision_category_army: "Военные решения"
+ GRE_decision_category_army_desc: ""
+ GRE_decision_renovation_of_nafplion_arsenal: "Реконструкция Нафплионского арсенала"
+ GRE_decision_renovation_of_nafplion_arsenal_desc: ""
+ GRE_decision_contract_neorion: "Контракт Неориона"
+ GRE_decision_contract_neorion_desc: " "
+ GRE_the_Lavrion_mines: "Освободить шахты Лавриона".
+ GRE_decision_found_greek_stock_exchange: "Создание греческой фондовой биржи"
+ GRE_decision_invite_foreign_investors: "Иностранные инвестиции"
+ GRE_decision_fix_brewery: "Расширение пивоварни Fix"
+ GRE_decision_greek_textile_industry: "Текстильная промышленность Греции"
+ GRE_decision_land_reform: "Земельная реформа"
+ GRE_decision_greek_cotton_peloponnese: "Греческий хлопок - плантации Пелопоннеса"
+ GRE_decision_greek_cotton_central_greece: "Греческий хлопок - плантации Центральной Греции".
+ GRE_decision_enact_free_enterprise: "Ввести свободное предпринимательство"
+ GRE_decision_basileiades: "Базилиады"
+ GRE_decision_ironworks_in_ermoupoli: "Железные заводы Эрмуполи"
+ GRE_mission_syros_shipyard: "Порт и верфь Сироса"
+ GRE_decision_expand_resource_output: "Указ короля от [GetYear] - шахты Лауриона".
+
+
+ GRE_decision_category_obtain_foreign_equipment: "Сделки с иностранными вооружениями"
+ GRE_decision_category_obtain_foreign_equipment_desc: ""
+ GRE_decision_buy_belgian_rifles: "Купить винтовки из Бельгии"
+ GRE_decision_buy_belgian_rifles_desc: ""
+ GRE_decision_buy_french_rifles: "Купить винтовки из Франции"
+ GRE_decision_buy_french_rifles_desc: ""
+ GRE_decision_buy_prussian_rifles: "Купить винтовки из Пруссии"
+ GRE_decision_buy_prussian_rifles_desc: ""
+ GRE_decision_buy_english_cannons: "Покупать пушки из Великобритании"
+ GRE_decision_buy_english_cannons_desc: ""
+ GRE_decision_buy_prussian_cannons: "Купить пушки из Пруссии"
+ GRE_decision_buy_prussian_cannons_desc: ""
+ GRE_decision_buy_french_cannons: "Купить пушки из Франции"
+ GRE_decision_buy_french_cannons_desc: ""
+
+ GRE_decision_category_navy: "Военно-морские решения"
+ GRE_decision_category_navy_desc: ""
+ GRE_decision_greek_corvettes: "Греческие корветы"
+ GRE_decision_greek_corvettes_desc: "Выдать частный контракт на греческий корвет".
+ GRE_decision_greek_frigates: "Греческие фрегаты"
+ GRE_decision_greek_frigates_desc: "Выдать частный контракт на греческий фрегат"
+ GRE_decision_greek_gunboats: "Греческие канонерские лодки"
+ GRE_decision_greek_gunboats_desc: "Заключить частный контракт на греческую канонерскую лодку"
+ GRE_mission_study_modern_warships: "Изучить современные военные корабли"
+ GRE_mission_study_modern_warships_desc: ""
+ GRE_decision_greek_king_frigate: "Фрегат для короля"
+ GRE_decision_greek_king_frigate_desc: ""
+ GRE_decision_greek_queen_frigate: "Фрегат для королевы"
+ GRE_decision_greek_queen_frigate_desc: ""
+ GRE_decision_foreign_ships: "Заказать иностранные броненосные шхуны"
+
+
+ eoanb_greek_heir_otto_luitpold: "Луитпольд - наследник Греции"
+ eoanb_greek_heir_otto_ludwig: "Людвиг - наследник Греции"
+ eoanb_greek_heir_none: "Наследник не найден"
+
+ eoanb_decision_request_prussian_help: "Попросить Пруссию о помощи!"
+ eoanb_decision_request_russian_help: "Попросите помощи у России!"
+ eoanb_decision_request_british_help: "Обратитесь за помощью к Британии!"
+
+ GRE_decision_tax_laurion_mines: "Обложить налогом шахты Лауриона".
+ GRE_decision_tax_laurion_mines_desc: "Греки действовали за нашей спиной и национализировали наши шахты. Они должны заплатить за это"
+
+ GRE_decision_category_industry: "Промышленные решения".
+ GRE_decision_category_debt_management: "Управление долгом"
+
+ GRE_decision_Lavrion_mines_tin_extractions: "Начать добычу олова на рудниках Лавриона".
+ GRE_decision_contest_Lavrion_Mines: "Оспаривать греческие шахты Лавриона".
+ GRE_decision_tax_laurion_mines_desc: "Греки действовали за нашей спиной и национализировали наши шахты. Они должны заплатить за это"
+
+ GRE_looming_debt: "Надвигающийся долг"
+GRE_looming_debt_desc: "§RНадвигающаяся задолженность§! появляется каждый раз, когда ваш §RДолг§! становится §Yвыше§! или §Yравным§! до §R30§!.\nКогда миссия появляется, вас просят сделать §Cплатеж§!, выбирая решения ниже.\n\nВ зависимости от того, насколько высок ваш долг, последствия за неуплату становятся хуже."
+ GRE_decision_acquire_trains: "Приобрести железнодорожное оборудование"
+ GRE_decision_acquire_trains_desc: ""
+ GRE_enact_executive_order_raise_taxes: "Принять указ о повышении налогов".
+ GRE_enact_executive_order_raise_taxes_desc: ""
+ GRE_enact_executive_order_reduce_military_budget: "Принять указ о сокращении военного бюджета".
+ GRE_enact_executive_order_reduce_military_budget_desc: ""
+ GRE_enact_executive_order_reduce_healthcare_budget: "Принять указ о сокращении бюджета на здравоохранение".
+ GRE_enact_executive_order_reduce_healthcare_budget_desc: ""
+ GRE_stability_drop_tt: "Если вы не являетесь авторитарным режимом (§YАбсолютная монархия§!, §YРеволюционное правительство§!, §YСоциалистическое государство§!, §YТоталитарная диктатура§! или §YВоенная хунта§!), то вы §RПотеряете политическую стабильность§!.\n\n"
+ GRE_tax_greek_marine_merchants: "Налог на греческих морских торговцев"
+
+ ################### #NT!
+ # Greek Ideas     # #NT!
+ ################### #NT!
+
+ GRE_idea_Bavarocracy: "Баварократия"
+ GRE_idea_Bavarocracy_desc: "Прошло 14 лет после революции 1843 года, а король Оттон по-прежнему остается крайне непопулярным среди греческого населения. Эта большая непопулярность является результатом множества факторов. Оттон считает, что он может править Грецией, как его отец правил Баварией, не понимая, что Греция - это не Германия и не среднеевропейское государство. Он продолжает цепляться за свои абсолютные полномочия, не понимая, что чем больше он упорствует, тем более непопулярным он становится. Последние баварские войска и чиновники покинули Грецию всего несколько лет назад, поскольку король счел благоразумным назначать баварцев на важные государственные и армейские должности, оставив в то же время коренных жителей земли, с которыми они не так давно боролись за право самим определять свою судьбу. В свою очередь, баварские государственные чиновники правили Грецией по-своему, импортируя и навязывая собственные германские модели управления, права и образования, не обращая внимания на местные обычаи и традиции. В результате была создана правовая образовательная и армейская система по образцу немецкой и французской. Все эти ошибки в сочетании с тем, что греческий король остается набожным католиком, что является серьезным оскорблением для его благочестивых восточных православных подданных, вызвали сильное брожение среди местного населения."
+ GRE_idea_Megali_Idea: "Идея Мегали"
+ GRE_idea_Megali_Idea_desc: "С момента обретения независимости Королевство Греция мучительно переживало из-за того, что греческий народ выходит за его пределы. Оно усилило идею о том, что нынешнее государство было лишь несовершенной конструкцией, фундаментом для чего-то большего. Идея Мегали, деградировавшая из-за этой самой концепции, породила надежды на завершение национального видения при условии, что существующие границы будут значительно расширены. Именно эта идеология имела серьезные последствия для политических и экономических аспектов государства, особенно в тяжелые времена, как в случае с Критом и Македонией. Идея Мегали создает сильное чувство единства греческого народа, помогая ему отодвинуть в сторону свои политические разногласия ради блага нации и государства. Однако король и тогдашнее правительство Греции должны понимать, что для реализации Мегалической идеи Греция должна сначала сосредоточиться на создании сильной экономики и более организованной, обученной и оснащенной армии. Только тогда Греция сможет освободить неискупленных греков, оставшихся за пределами ее владений."
+ GRE_idea_1844_Constitution: "Конституция 1844 года"
+ GRE_idea_1844_Constitution_desc: "Греческая конституция 1844 года стала результатом революции 3 сентября 1843 года, которая заставила короля Оттона уступить требованиям восставших о создании конституции. Она была создана по образцу французской конституции 1830 года и бельгийской конституции 1831 года. Она появилась в результате работы Третьего сентября Национального собрания эллинов в Афинах и была, по сути, договором между монархом и нацией. Наиболее важными ее статьями были установление принципа монархического суверенитета, поскольку монарх был решающей силой государства, и определение его прав. Король имел право осуществлять законодательную власть, а также право ратифицировать законы. Он также определил создание двух законодательных органов: парламента, который мог состоять не менее чем из 80 членов, избираемых народом на выборах, и сената из 27 членов, назначаемых непосредственно королем. Таким образом, законодательная власть должна была осуществляться совместно королем, парламентом и сенатом. Король имел право назначать и смещать министров правительства, которые осуществляли исполнительную власть от имени короля. Одним из величайших нововведений конституции было голосование по избирательному закону от 18 марта 1844 года, который сделал Грецию первой европейской страной, обеспечившей всеобщее избирательное право для мужчин. С другой стороны, у конституции было два основных недостатка. Во-первых, судебная власть не была провозглашена независимой, но было решено, что судьи назначаются и увольняются королем и осуществляют свои полномочия от имени короля. Вторым и, возможно, более серьезным недостатком было то, что право на собрания и ассоциации не было ратифицировано конституцией, что создавало проблемы с созданием политических партий. Хотя Оттон и принял создание конституции, он с самого начала показал, что будет использовать любую возможность, чтобы нарушить ее, пытаясь собрать как можно больше власти в своих руках, что, в свою очередь, вызвало еще большее недовольство его персоной и сделало его крайне непопулярным."
+ GRE_idea_Memory_Revolution: "Воспоминания о греческой революции"
+ GRE_idea_Memory_Revolution_desc: "36 лет назад греческий народ взял в руки оружие и изгнал османов из Пелопоннеса и центральной Греции, фактически положив конец 400-летнему османскому правлению. Так в результате греческой революции 1821 года родилось Королевство Греция. Наконец-то у греков появилось место, которое они смогли назвать своим домом, смогли определить свою судьбу и построить собственное будущее. Греция стала первой балканской страной, завоевавшей независимость от Османской империи, и греческий народ очень гордится этим событием".
+ GRE_idea_Greek_Guarantors: "Гаранты независимости Греции".
+ GRE_idea_Greek_Guarantors_desc: "Хотя греки очень упорно и храбро сражались за свою независимость во время войны за независимость Греции, в конечном итоге казалось, что они могут проиграть войну. Но три соперничающие великие державы, Соединенное Королевство Великобритании и Ирландии, Франция и Российская империя, имея стратегические причины поддерживать независимость Греции, потребовали немедленного прекращения военных действий между османскими войсками и греками. Когда Возвышенная Порта отказалась дать согласие на создание греческого государства, автономного или независимого, объединенные военно-морские флоты вышеупомянутых великих держав одержали решающую победу над туркоагептским флотом в морском сражении при Наварино. И вот в третьем Лондонском протоколе от 3 февраля 1830 года полномочные представители Великих держав объявили Грецию независимым суверенным государством под их совместной защитой."
+ GRE_idea_free_enterprise: "Свободное предпринимательство"
+ GRE_idea_free_enterprise_desc: "Свободное предпринимательство необходимо для того, чтобы инвесторы могли вкладывать средства в нашу землю и нашу экономику, не опасаясь возникновения каких-либо проблем. Это позволит нашей экономике расти дальше".
+ GRE_idea_occupation_athens: "Англо-французская оккупация Афин"
+ GRE_idea_occupation_athens_desc: "В 1854 году мы попытались объявить войну османам, чтобы воспользоваться бушующей войной между Россией и османами для освобождения наших территорий, но англичане и французы, союзники османов, послали войска и оккупировали Афины и Пирей на три года, чтобы остановить нас. Это событие вызвало национальный позор для нашего короля и нашей армии".
+ GRE_idea_New_Generation_Politicians: "Новое поколение политиков"
+ GRE_idea_New_Generation_Politicians_desc: "С 1825 года и во время войны за независимость Греции начали появляться первые политические партии Греции. Это были английская, французская и русская партии. Они были названы в честь трех великих держав, которые помогли Греции достичь и гарантировали ее независимость. Их название намекало на то, что у каждой из них были определенные интересы в Греции, которых они пытались достичь. Различные политики Греции и местное население наивно полагали, что каждая из этих Великих держав поможет им развить и расширить Грецию как в экономическом, так и в военном отношении. После обретения Грецией независимости и с течением времени три греческие партии начали постепенно терять свою власть, поскольку появилось новое поколение политиков с совершенно иным складом ума и происхождением. Для этого нового поколения революция стала достоянием истории. Они переживали быстрые перемены, вызванные частыми политическими изменениями, а также экономическим и техническим развитием того времени. Они считали, что конституционализм не может реально развиваться, потому что король и его двор подрывают его, и что старые греческие партии были коррумпированными декадентами с устаревшими идеями. Греческое население уже потеряло доверие к старым партиям, когда во время Крымской войны объединенный англо-французский флот блокировал греческие порты, потому что Греция думала, что, вступив в войну на стороне Российской империи, она сможет аннексировать Эпир и Фессалию у османов. Греки поняли, что для того, чтобы расширить свои границы, они должны научиться управлять самостоятельно."
+ GRE_Disorganised_Army: "Дезорганизованная армия"
+ GRE_Disorganised_Army_desc: "Несмотря на яростную и доблестную борьбу в войне за независимость Греции, греческая армия не была современной профессиональной силой. Она состояла из независимых местных вождей, каждый из которых командовал небольшими отрядами солдат. Это были не профессиональные солдаты, а нерегулярные войска, называемые клефтами или, в лучшем случае, арматолоями - полицейскими, ранее служившими в Османской империи, которые были среди повстанцев, сражавшихся за независимость Греции во время восстания 1821 года. Вожди также не установили четкой субординации между собой, поскольку все они хотели быть равными. После убийства Каподистрии в 1831 году армия просто перестала существовать, поэтому, когда король Отто впервые приехал в Грецию, он привел с собой баварский контингент численностью 4000 человек. Королевское правительство восстановило регулярную армию и распустило иррегулярные войска, поскольку их нельзя было контролировать или вписать в современную армию. Но этот шаг был воспринят местным населением как несправедливый, поскольку именно эти нерегулярные войска сражались во время войны за независимость Греции. Постепенно греков стали принимать в армию, и за эти годы армия много раз реформировалась. Но в 1857 году она все еще не имеет многих важных вещей, которые есть у современных армий великих держав, и никак не готова к противостоянию с Османской империей. Греческое королевство должно сначала создать и развить сильную экономику, чтобы оно могло финансировать, оснащать и модернизировать армию и быть готовым к реализации Мегалийской идеи."
+ GRE_idea_Underdeveloped_Agriculture: "Неразвитое сельское хозяйство"
+ GRE_idea_Underdeveloped_Agriculture_desc: "Греция всегда была преимущественно аграрной страной, даже с древних времен. Это имело как преимущества, так и недостатки. Но главной проблемой Греческого королевства с момента его образования был тот факт, что оно было в основном импортером, а не экспортером. Это можно объяснить многими причинами. Во-первых, население Греции было небольшим, что привело к ограничению покупательской способности. Третьей причиной было почти полное отсутствие крупных производственных мощностей. По этим же причинам торговля страны была слишком тесно связана с внешней торговлей. Это фактически означает, что Греция покупает у других стран гораздо больше, чем экспортирует, и поэтому государство теряет деньги, а не получает. Несмотря на то, что это аграрная страна, ее сельское хозяйство настолько слабо развито, что Греция вынуждена импортировать зерно из других стран, чтобы решить свой продовольственный кризис. В то же время внешняя торговля является одним из единственных источников дохода. Поэтому Греция, чтобы добиться успеха, должна модернизировать и расширить свое сельское хозяйство, чтобы в конечном итоге начать больше экспортировать."
+ GRE_idea_Poor_Land_Reform: "Реформа бедных земель"
+ GRE_idea_Poor_Land_Reform_desc: "Из множества проблем, доставшихся Королевству Греция в наследство от Османской империи, одной из самых важных был вопрос о национальных землях. Эти земли представляли собой поместья, ранее принадлежавшие либо Османскому государству, либо османским богатым землевладельцам, которые теперь перешли под контроль Греции в результате греческой войны за независимость. Для греческих революционных правительств эти земли были, по сути, единственным капиталом на протяжении всей войны, поэтому они были использованы в качестве залога для первых займов, чтобы финансировать революцию. Их площадь можно оценить в 4-5 миллионов акров. Хотя этот вопрос беспокоил греческое правительство с самого начала его существования, до сих пор по множеству причин было сделано очень мало шагов. Жизненно важно, чтобы государство нашло способ распределить эти драгоценные земельные гектары, чтобы каждый фермер мог получить участок земли для обработки, чтобы экспорт сельскохозяйственной продукции увеличился, и доходы государства тоже увеличились."
+ GRE_idea_Sea_Trade: "Греческая морская торговля"
+ GRE_idea_Sea_Trade_desc: "В течение 18 века во многих приморских регионах Греции наблюдался большой рост судоходства и коммерческой деятельности. Эта деятельность значительно расширилась благодаря ряду благоприятных событий, таких как договор Киутскоук-Кайнартци, который побудил многих греческих граждан Османской империи включиться в морской торговый бизнес, в результате чего многие разбогатели. Когда началась война за независимость Греции, греческий торговый флот был легко преобразован в боевой флот, что помогло революции добиться успеха, но ценой больших потерь, так как многие корабли были в конечном итоге уничтожены. Тем не менее, несмотря на эти потери, в годы, последовавшие за окончанием революции, греческая морская торговля находилась на подъеме. В 1840 году грузоподъемность всех кораблей греческого торгового флота вместе взятых составляла 100 тыс. тонн, а в следующем десятилетии она еще более возросла. Конечно, есть и колебания, поскольку греческие такелажники в настоящее время заменяются новыми торговыми пароходами, но это только поможет Греции в долгосрочной перспективе."
+ GRE_Alfred_I: "Альфред I".
+ GRE_Luitpold_I: "Луитпольд I"
+ GRE_Ludwig_I: "Людвиг I"
+ #FOR Industry: #NT!
+ GRE_Antonios_Mavromichalis: "Антониос Мавромихалис".
+ GRE_basileiades: "Базилиадес"
+ GRE_hellenic_material_authority: "Греческое управление материального обеспечения"
+ #FOR Navy Manufacturer: #NT!
+ GRE_hellenic_shipyards_stauros_niarxos: "Греческие верфи Стаурос Ниарксос".
+ #For HoS #NT!
+ GRE_Amalia: "Королева Амалия"
+ GRE_Dimitrios_Kallergis: "Димитриос Каллергис"
+ GRE_Epameinondas_Deligiorgis: "Эпамейнондас Делигиоргис"
+ GRE_Panos_Koronaios: "Панос Коронайос"
+ GRE_idea_uncertain_succession: "Неопределенное преемство"
+ GRE_idea_uncertain_succession_desc: ""
+ GRE_idea_certain_succession: "Определенное правопреемство"
+ GRE_idea_certain_succession_desc: ""
+ GRE_idea_Ottos_despotism: "Деспотизм Оттона".
+ GRE_idea_Ottos_despotism_desc: ""
+ GRE_idea_merchant_marine: "Греческий торговый флот"
+ GRE_idea_merchant_marine_desc: ""
+ GRE_idea_merchant_marine1: "Греческий торговый флот"
+ GRE_idea_merchant_marine1_desc: ""
+ GRE_idea_merchant_marine2: "Греческий торговый флот"
+ GRE_idea_merchant_marine2_desc: ""
+ GRE_idea_national_benefactors: "Национальные благотворители"
+ GRE_idea_national_benefactors_desc: ""
+ GRE_idea_King_Otto_Army: "Королевская гвардия"
+ GRE_idea_King_Otto_Army_desc: ""
+ GRE_idea_evzones_army_unit: "Эвзоны"
+ GRE_idea_evzones_army_unit_desc: ""
+ GRE_idea_Military_Academy: "Военная академия Эвелпидона".
+ GRE_idea_Military_Academy_desc: ""
+ GRE_idea_Military_Academy_2: "Военная академия Эвелпидона"
+ GRE_idea_Military_Academy_2_desc: ""
+ GRE_idea_general_staff: "Греческий генеральный штаб"
+ GRE_idea_general_staff_desc: ""
+ GRE_idea_Military_Industry: "Улучшить военную промышленность"
+ GRE_idea_Military_Industry_desc: ""
+ CET_idea_cretan_spirit: "The Cretan Spirit" #NT!
+ GRE_idea_national_debt: "Международная экономическая комиссия по расследованию"
+ GRE_idea_national_debt1: "Международная экономическая комиссия по расследованию"
+ GRE_idea_monthly_population: "Исход сельского населения"
+ CET_idea_cretan_spirit_desc: "The Cretans have been known since times immemorial to be a hardy and strong people. Much of the Cretan culture is based upon warfare and fighting, and this can be evidenced by the countless uprisings that have happened in Crete since the Venetian period. Now however the warrior spirit is directed towards a particular foe, the Ottomans." #NT!
+ GRE_idea_Athens_Piraeus_rail: "Строительство железной дороги Афины-Пирей".
+ GRE_idea_draining_lake_kopais: "Осушение озера Копаис".
+ GRE_idea_fruit_exports: "Экспорт фруктов"
+ GRE_idea_Ottos_death: "Смерть короля"
+ GRE_idea_german_customs: "Немецкая таможня"
+ GRE_idea_education_boom: "Бум образования"
+ GRE_idea_encourage_arts: "Инвестировать в искусство"
+ GRE_idea_construct_academy: "Построить Афинскую академию"
+ GRE_idea_construct_library: "Построить Афинскую библиотеку"
+ GRE_idea_construct_university: "Создание Афинского университета"
+ GRE_idea_Queen_Victoria_model: "Для королевы"
+ GRE_idea_Language_Katharevousa: "Официальный язык"
+ GRE_idea_Language_Dimotiki: "Официальный язык"
+ GRE_idea_Old_Order_Overthrown1: "Национальные волнения"
+ GRE_idea_Old_Order_Overthrown2: "Национальные беспорядки"
+ GRE_idea_Old_Order_Overthrown3: "Национальные беспорядки"
+ GRE_idea_British_Influence: "Британское влияние"
+ GRE_idea_Prussian_Influence: "Прусское влияние"
+ GRE_idea_Russian_Influence: "русское влияние"
+ GRE_idea_Memories_Greek_Revolution: "Воспоминания о греческой революции"
+ GRE_idea_Lessons_Greek_Revolution: "Уроки греческой революции"
+ GRE_pyrkal: "Оборонная промышленность Пиркала"
+ GRE_idea_Piracy: "Пиратство"
+ GRE_idea_Piracy_2: "Пиратство"
+ GRE_idea_Navy_focus_large: "Эскадра Эгана"
+ GRE_idea_Navy_focus_small: "Западная эскадра"
+ GRE_idea_new_naval_tactics: "Новая военно-морская тактика"
+ GRE_idea_1860_crash: "Крушение [GetYear]".
+ GRE_idea_promise_fullfilled: "Обещание выполнено"
+ GRE_idea_failed_promise: "Невыполненное обещание"
+ GRE_idea_Piraeus_buildup: "Строительство греческих портов и верфей".
+ GRE_idea_encourage_textile_industry: "Поощрять текстильную промышленность"
+ GRE_idea_increase_industrial_capacity1: "Увеличение промышленных мощностей"
+ GRE_idea_increase_industrial_capacity2: "Увеличение промышленных мощностей"
+ GRE_idea_increase_industrial_capacity3: "Увеличение промышленных мощностей"
+ GRE_laurion_mines: "Laurion Mines".
+ GRE_idea_control_debt_1: "Контролировать государственный долг".
+ GRE_idea_control_debt_2: "Контролировать национальный долг".
+ GRE_idea_control_debt_3: "Контролировать государственный долг".
+ GRE_idea_control_debt_4: "Контролировать национальный долг".
+ GRE_idea_tax_greek_marine_merchants: "Обложить налогом греческих морских торговцев".
+
+ ################### #NT!
+ # Greek Flags     # #NT!
+ ################### #NT!
+ otto_removed: " §YОтто§! отрекся от престола".
+ GRE_flag_Luitpold_I: "§YЛуитпольд§! был коронован королем"
+ GRE_flag_Republic: "Провозглашена §YРеспублика§!"
+GRE_flag_George_I: "§YГеорг§! был коронован королем"
+GRE_flag_Alfred_I: "§YАльфред§! был коронован королем"
+ GRE_Queen_Amalia_Non_Regent: "Амалия не унаследовала трон".
+
+ GRE_flag_increase_chance_Prussia: "Помощь Пруссии"
+GRE_flag_increase_chance_Prussia_desc: "§Y[Root.GetName]§! разблокирует решение для запроса помощи §YПруссии§! в войне против Османской империи".
+ GRE_flag_increase_chance_England: "Помощь Великобритании"
+ GRE_flag_increase_chance_England_desc: "§Y[Root.GetName]§! разблокирует решение для запроса помощи §YБритании§! в войне против Османской империи".
+ GRE_flag_increase_chance_Russia: "Помощь России"
+ GRE_flag_increase_chance_Russia_desc: "§Y[Root.GetName]§! разблокирует решение для запроса помощи §YРоссии§! в войне против Османской империи".
+ GRE_cadets_returned: "Курсанты вернулись из-за границы".
+ GRE_yearly_debt_repayment: "Годовой §RДолг§! выплачен".
+ GRE_Lavrion_mines_flag: "Открыл рудники Лавриона".
+ GRE_founded_the_Lavrion_mines: "Отвоевал рудники Лавриона".
+
+ cretan_revolution_ongoing_flag: "The Cretan Revolution is currently ongoing." #NT!
+
+
+ ################### #NT!
+ # Greek Custom Tooltips    # #NT!
+ ################### #NT!
+GRE_M1872_Weapons: "Разблокирует технологию §YВинтовка Мартини-Генри§!".
+GRE_Eforeia_Ylikou_Polemou_tt: "Разблокирует §YГреческое материальное управление§!".
+GRE_hellenic_powder_industry_tt: "Разблокирует §YОборонную промышленность Пыркала§!".
+GRE_pp_more_than_10_cp_more_than_25: "Иметь более 10 политической власти и 25 командной власти".
+crete_revolt_tt: "Крит поднял восстание".
+GRE_event_order_armored_schooners_abroad_tt: "§GМы успешно заказали две бронированные шхуны на иностранных верфях. Они только что прибыли в Афины.§!".
+GRE_mission_piraeus_port_tt: "Как минимум §Y3 военно-морских порта§! и §Y1 верфи§! в регионе §YАфин§!".
+GRE_mission_syros_shipyard_tt: "Не менее §Y1 Военно-морского порта§! и §Y1 Верфи§! в регионе §YЦентральной Греции§!".
+GRE_debt_less_than_40: "Уровень долга §Y[ROOT.GetName] меньше §Y40§!".
+GRE_focus_basileiades_effect_tt: "§GБазилеиадес может быть выбран для партнерства с компанией.§!"
+GRE_focus_expand_the_laurion_mines_effect_tt: "§GLaurion Mines могут быть выбраны для партнерства с компанией.§!"
+GRE_decision_tax_laurion_mines_trigger_tt: "§GМы можем выбрать налог на Laurion Mines и бороться с долгами.§! §RБудьте осторожны! Это имеет плохие внешнеполитические последствия!§!".
+GRE_acquire_train_equipment_tt: "Приобретите §G25 единиц§! §YЖелезнодорожного Оборудования§! на основе §ҮТехнологии§! которой вы владеете."
+GRE_FRA_backdown_from_Lavrion_mines_tt: "Мы откажемся от наших интересов в Lavrion Mines.".
+
+
+################### #NT!
+# Greek Traits    # #NT!
+################### #NT!
+GRE_trait_Pyrkal: "Греческий производитель оружия"
+GRE_trait_neorion_founder: "Основатель Неориона"
+GRE_trait_greek_jurist: "Греческий юрист"
+GRE_trait_aristeidis_dosios: "Греческий финансист"
+GRE_trait_aristotelis_valaoritis: "Представитель гептанской школы"
+GRE_trait_evangelinos_apostolides_sophocles: "Профессор литературы"
+GRE_trait_karl_johann_fix: "Немецкий пивовар"
+GRE_trait_basileiades: "Греческая машиностроительная компания"
+GRE_trait_epirotiki_line_founder: "Основатель Epirotiki Line".
+GRE_trait_laurion_mines: "Горнодобывающая компания"
+GRE_nationalise_neorion_tt: "§YЦентральная Греция§!:\n Добавить следующее:\n Скорость ремонта судов:§G+50%§!\n Добавить следующее:\n Скорость строительства доков:§G+35%§!"
+
+########################### #NT!
+# Greek Opinion Modifiers # #NT!
+########################### #NT!
+GRE_GEORGE_I: "George I" #NT!
+GRE_GEORGE_I_Marriage: "Marriage of George I" #NT!
+GRE_CRETAN_BRETHREN_REL: "Our Cretan Brethren" #NT!
+GRE_ARKADI_EXPLOSION_REL: "The Arkadi Explosion" #NT!
+GRE_CRETAN_HELP_OTO_1_REL: "Basic Support for the Cretan Rebels" #NT!
+GRE_CRETAN_HELP_OTO_2_REL: "Extensive Support for the Cretan Rebels" #NT!
+GRE_CRETAN_HELP_OTO_3_REL: "Massive Support for the Cretan Rebels" #NT!
+
+
+# GENERIC FOR INFRASTRUCTURE & RAILWAYS # #NT!
+GRE_allowed_infrastructure_tt: "Регион не имеет инфраструктуры максимального уровня"
+allowed_railways_tt: "Регион не имеет железных дорог максимального уровня"

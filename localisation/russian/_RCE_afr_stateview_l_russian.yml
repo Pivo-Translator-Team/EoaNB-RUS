@@ -1,0 +1,18 @@
+﻿l_russian:
+ state_menu_state_interactive_capital_button_tt: "§YСтолица Империи§!"
+ state_menu_state_interactive_capital_button_tt_delayed: " §YСтолица Империи§!" является главным центром нашей империи. Здесь можно обсуждать местную политику, чтобы повысить лояльность и счастье местного населения."
+ state_menu_state_interactive_office_button_tt: "§YРегиональная столица§!".
+ state_menu_state_interactive_office_button_tt_delayed: "§YРегиональная столица§!" является центром активности для местного региона. Здесь можно обсуждать местную политику, чтобы повысить лояльность и счастье местного населения или обеспечить наше правление."
+ state_menu_state_interactive_temple_button_tt: "§YХрам§!".
+ state_menu_state_interactive_temple_button_tt_delayed: "§RСодержание храма еще не реализовано§!".
+ state_menu_state_interactive_barracks_button_tt: "§YБарраки§!"
+ state_menu_state_interactive_barracks_button_tt_delayed: "§YБарраки§!" - это места, где воины тренируются и спят. В зависимости от лояльности региона, местное население будет предоставлять леви воинов."
+ state_menu_state_interactive_market_button_tt: "§YРынок§!".
+ state_menu_state_interactive_market_button_tt_delayed: "§YТорговая площадка§! является центром экономики региона. Здесь можно приобрести предметы роскоши".
+ state_menu_state_interactive_port_button_tt: "§YПорт§!".
+ state_menu_state_interactive_port_button_tt_delayed: "§RСодержание порта еще не реализовано§!".
+ state_menu_state_interactive_workshop_button_tt: "§YМастерская§!"
+ state_menu_state_interactive_workshop_button_tt_delayed: "§RСодержание мастерской еще не реализовано§!"
+ state_menu_state_interactive_commons_button_tt: "§YОбщины§!"
+ state_menu_state_interactive_commons_button_tt_delayed: "§YОбщины§! это отличное место, чтобы поговорить с населением [FROM.GetName] и узнать слухи, которые могут не дойти до ушей наших чиновников."
+

@@ -1,0 +1,230 @@
+﻿l_russian:
+
+ # USAROD Focus Tree #NT!
+ USAROD_suppress_dissent_focus: "Подавление инакомыслия"
+ USAROD_suppress_dissent_focus_desc: "Дикси не любят реинтеграцию".
+ USAROD_gather_support_focus: "Собирать поддержку"
+ USAROD_gather_support_focus_desc: "Есть несколько вольноотпущенников и нежелающих работать с нами дикси!".
+ USAROD_conscript_troops_focus: "Волонтеры-фридмены"
+ USAROD_conscript_troops_focus_desc: "Многие, недавно освобожденные рабы спешат вступить в армию, в надежде на обеспеченную жизнь."
+ USAROD_protect_blacks_focus: "Эмиграция чернокожих"
+ USAROD_protect_blacks_focus_desc: "Многие освобожденные рабы выходят на улицы и железнодорожные пути и движутся на север в поисках возможностей".
+ USAROD_freedom: "Стремиться к свободе"
+ USAROD_freedom_desc: "Теперь мы независимы. Давайте добиваться нашей свободы".
+
+ # USAROD Focus Tree Tooltips #NT!
+ 01_USAROD_focus_tt: "Государство [Root.GetName] должно быть §OОккупационной Зоной§!.\n"
+ USAROD_Reconstruction_Decision_Taken: " Недавно принял §YРешение о строительстве§!".
+
+ # USAROD Focus Ideas #NT!
+ USAROD_occupation: "Администрация военной оккупации"
+ USAROD_occupation_desc: "Большая часть политической воли вкладывается в активную оккупацию".
+ USAROD_suppress_dissent: "Подавление инакомыслия"
+ USAROD_suppress_dissent_desc: "Многие гражданские лица не в восторге от реинтеграции".
+ USAROD_gather_support: "Собранная поддержка"
+ USAROD_gather_support_desc: "Есть несколько вольноотпущенников и нежелающих работать с правительством дикси!".
+ USAROD_conscript_troops: "Волонтеры-фридмены".
+ USAROD_conscript_troops_desc: "Многие, недавно освобожденные рабы спешат вступить в армию, в надежде на обеспеченную жизнь."
+ USAROD_protect_blacks: "Эмиграция чернокожих"
+ USAROD_protect_blacks_desc: "Многие освобожденные рабы выходят на улицы и железнодорожные линии и движутся на север в поисках возможностей".
+ USAROD_freedom_csa: "Восстановить §Y[CSA.GetNameWithFlag]§!".
+
+ # Reconstruction Decisions #NT!
+ USA_readmission_decisions: "Действия по реадмиссии"
+ USA_readmission_decisions_desc: "\nПосле окончания жестокой §YАмериканской Гражданской Войны§!, вопрос о реинтеграции штатов, которые пытались §sотделиться§!, остается.\n\nДля возрождения §CЛегитимности Союза§!, мы должны искать пути восстановления разрушенных правительств и экономик разрушенных войной штатов, и §Cредмитировать§! их в Союз.\n\n§YТекущий Прогресс:§! [AL_reintegration_progress][AR_reintegration_progress][CA_reintegration_progress][CU_reintegration_progress][CT_reintegration_progress][FL_reintegration_progress][GA_reintegration_progress][KS_reintegration_progress][KY_reintegration_progress][LA_reintegration_progress][ME_reintegration_progress][MA_reintegration_progress][MS_reintegration_progress][MO_reintegration_progress][NH_reintegration_progress][NY_reintegration_progress][NC_reintegration_progress][OK_reintegration_progress][RI_reintegration_progress][SC_reintegration_progress][TN_reintegration_progress][TX_reintegration_progress][VT_reintegration_progress][VA_reintegration_progress]\n"
+ eoanb_decision_usarod_reconstruction: "Решения о реконструкции в [FROM.GetName]".
+ AL_reintegration_progress_tt: "\n §g[367.GetName]§!  —  [?367.reconstruction_integration_progress|%0]"
+ AR_reintegration_progress_tt: "\n §g[372.GetName]§!  —  [?372.reconstruction_integration_progress|%0]"
+ CA_reintegration_progress_tt: "\n §g[1343.GetName]§!  —  [?1343.reconstruction_integration_progress|%0]"
+ CU_reintegration_progress_tt: "\n §g[315.GetName]§!  —  [?315.reconstruction_integration_progress|%0]"
+ CT_reintegration_progress_tt: "\n §g[958.GetName]§!  —  [?958.reconstruction_integration_progress|%0]"
+ FL_reintegration_progress_tt: "\n §g[366.GetName]§!  —  [?366.reconstruction_integration_progress|%0]"
+ GA_reintegration_progress_tt: "\n §g[365.GetName]§!  —  [?365.reconstruction_integration_progress|%0]"
+ KS_reintegration_progress_tt: "\n §g[383.GetName]§!  —  [?383.reconstruction_integration_progress|%0]"
+ KY_reintegration_progress_tt: "\n §g[369.GetName]§!  —  [?369.reconstruction_integration_progress|%0]"
+ LA_reintegration_progress_tt: "\n §g[371.GetName]§!  —  [?371.reconstruction_integration_progress|%0]"
+ ME_reintegration_progress_tt: "\n §g[961.GetName]§!  —  [?961.reconstruction_integration_progress|%0]"
+ MA_reintegration_progress_tt: "\n §g[357.GetName]§!  —  [?357.reconstruction_integration_progress|%0]"
+ MS_reintegration_progress_tt: "\n §g[370.GetName]§!  —  [?370.reconstruction_integration_progress|%0]"
+ MO_reintegration_progress_tt: "\n §g[373.GetName]§!  —  [?373.reconstruction_integration_progress|%0]"
+ NH_reintegration_progress_tt: "\n §g[960.GetName]§!  —  [?960.reconstruction_integration_progress|%0]"
+ NY_reintegration_progress_tt: "\n §g[358.GetName]§!  —  [?358.reconstruction_integration_progress|%0]"
+ NC_reintegration_progress_tt: "\n §g[363.GetName]§!  —  [?363.reconstruction_integration_progress|%0]"
+ OK_reintegration_progress_tt: "\n §g[374.GetName]§!  —  [?374.reconstruction_integration_progress|%0]"
+ RI_reintegration_progress_tt: "\n §g[1031.GetName]§!  —  [?1031.reconstruction_integration_progress|%0]"
+ SC_reintegration_progress_tt: "\n §g[364.GetName]§!  —  [?364.reconstruction_integration_progress|%0]"
+ TN_reintegration_progress_tt: "\n §g[368.GetName]§!  —  [?368.reconstruction_integration_progress|%0]"
+ TX_reintegration_progress_tt: "\n §g[375.GetName]§!  —  [?375.reconstruction_integration_progress|%0]"
+ VT_reintegration_progress_tt: "\n §g[959.GetName]§!  —  [?959.reconstruction_integration_progress|%0]"
+ VA_reintegration_progress_tt: "\n §g[362.GetName]§!  —  [?362.reconstruction_integration_progress|%0]"
+
+
+
+
+
+
+
+
+
+ USA_reconstruction_radicalization: "Радикализация Америки"
+ USA_reconstruction_radicalization_desc: "По мере восстановления американского населения после Гражданской войны и перехода нации в современную эпоху, возникают вопросы о том, работает ли нынешняя политическая система для всех американцев.\n\n\n§YОсновные фракции§!:\n §gАнархисты§!  - [?UCT.forming_usaanarchy_progress?0]%\n §gСвободный американский фронт§!  - [?UCT.forming_radabolition_progress?0]%\n §gКу-Клукс-Клан§!  - [?UCT.forming_kuklux_progress?0]%\n §gНортонские империалисты§!  - [?UCT.forming_nortonrevival_progress?0]%\n §gОбъединенный труд§!  - [?UCT.forming_usasyndicate_progress?0]%\n"
+
+ eoanb_decision_reconstruct_1_alabama: "Патрулировать улицы Алабамы"
+ eoanb_decision_reconstruct_2_alabama: "Инвестировать в инфраструктуру Алабамы"
+ eoanb_decision_reconstruct_3_alabama: "Задержать алабамских конфедератов"
+ eoanb_decision_reconstruct_4_alabama: "Принудить алабамскую конвенцию"
+ eoanb_decision_readmit_alabama: "Принять Алабаму"
+ eoanb_decision_reconstruct_1_arkansas: "Патрулировать улицы Арканзаса".
+ eoanb_decision_reconstruct_2_arkansas: "Инвестировать в инфраструктуру Арканзаса"
+ eoanb_decision_reconstruct_3_arkansas: "Задержать арканзасских конфедератов"
+ eoanb_decision_reconstruct_4_arkansas: "Принудить арканзасскую конвенцию"
+ eoanb_decision_readmit_arkansas: "Принять Арканзас"
+ eoanb_decision_reconstruct_1_california: "Патрулировать калифорнийские улицы"
+ eoanb_decision_reconstruct_2_california: "Инвестировать в инфраструктуру Калифорнии"
+ eoanb_decision_reconstruct_3_california: "Задерживать калифорнийских нортонистов"
+ eoanb_decision_reconstruct_4_california: "Принудить калифорнийскую конвенцию"
+ eoanb_decision_readmit_california: "Принять Калифорнию"
+ eoanb_decision_reconstruct_1_connecticut: "Патрулировать улицы Коннектикута"
+ eoanb_decision_reconstruct_2_connecticut: "Инвестировать в инфраструктуру Коннектикута"
+ eoanb_decision_reconstruct_3_connecticut: "Задержать коннектикутских радикалов"
+ eoanb_decision_reconstruct_4_connecticut: "Принудить коннектикутскую конвенцию"
+ eoanb_decision_readmit_connecticut: "Принять Коннектикут"
+ eoanb_decision_reconstruct_1_cuba: "Патрулировать кубинские улицы"
+ eoanb_decision_reconstruct_2_cuba: "Инвестировать в инфраструктуру Вирджинии"
+ eoanb_decision_reconstruct_3_cuba: "Задержать кубинских конфедератов"
+ eoanb_decision_reconstruct_4_cuba: "Принудить кубинскую конвенцию"
+ eoanb_decision_readmit_cuba: "Реорганизовать территорию Кубы"
+ eoanb_decision_reconstruct_1_florida: "Патрулировать улицы Флориды".
+ eoanb_decision_reconstruct_2_florida: "Инвестировать в инфраструктуру Флориды"
+ eoanb_decision_reconstruct_3_florida: "Задержать флоридских конфедератов"
+ eoanb_decision_reconstruct_4_florida: "Принудить флоридскую конвенцию"
+ eoanb_decision_readmit_florida: "Принять Флориду"
+ eoanb_decision_reconstruct_1_georgia: "Патрулировать улицы Джорджии"
+ eoanb_decision_reconstruct_2_georgia: "Инвестировать в инфраструктуру Грузии"
+ eoanb_decision_reconstruct_3_georgia: "Задержать грузинских конфедератов"
+ eoanb_decision_reconstruct_4_georgia: "Принудить грузинскую конвенцию"
+ eoanb_decision_readmit_georgia: "Принять Джорджию"
+ eoanb_decision_reconstruct_1_kansas: "Патрулировать улицы Канзаса"
+ eoanb_decision_reconstruct_2_kansas: "Инвестировать в инфраструктуру Канзаса"
+ eoanb_decision_reconstruct_3_kansas: "Задержать канзасских радикалов"
+ eoanb_decision_reconstruct_4_kansas: "Принудить канзасский съезд"
+ eoanb_decision_readmit_kansas: "Принять Канзас"
+ eoanb_decision_reconstruct_1_kentucky: "Патрулировать улицы Кентукки"
+ eoanb_decision_reconstruct_2_kentucky: "Инвестировать в инфраструктуру Кентукки"
+ eoanb_decision_reconstruct_3_kentucky: "Задерживать конфедератов Кентукки"
+ eoanb_decision_reconstruct_4_kentucky: "Принудить Кентуккийскую конвенцию"
+ eoanb_decision_readmit_kentucky: "Принять Кентукки".
+ eoanb_decision_reconstruct_1_louisiana: "Патрулировать улицы Луизианы"
+ eoanb_decision_reconstruct_2_louisiana: "Инвестировать в инфраструктуру Луизианы"
+ eoanb_decision_reconstruct_3_louisiana: "Задержать луизианских конфедератов"
+ eoanb_decision_reconstruct_4_louisiana: "Принудить луизианскую конвенцию"
+ eoanb_decision_readmit_louisiana: "Принять Луизиану".
+ eoanb_decision_reconstruct_1_maine: "Патрулировать улицы Мейна"
+ eoanb_decision_reconstruct_2_maine: "Инвестировать в инфраструктуру штата Мэн"
+ eoanb_decision_reconstruct_3_maine: "Задержать радикалов из штата Мэн"
+ eoanb_decision_reconstruct_4_maine: "Принудить к съезду мэйнэров"
+ eoanb_decision_readmit_maine: "Принять Мэн"
+ eoanb_decision_reconstruct_1_massachusetts: "Патрулировать улицы Массачусетса".
+ eoanb_decision_reconstruct_2_massachusetts: "Инвестировать в инфраструктуру Массачусетса"
+ eoanb_decision_reconstruct_3_massachusetts: "Задерживать массачусетских радикалов"
+ eoanb_decision_reconstruct_4_massachusetts: "Принудить Массачусетскую конвенцию"
+ eoanb_decision_readmit_massachusetts: "Принять Массачусетс"
+ eoanb_decision_reconstruct_1_mississippi: "Патрулировать улицы Миссисипи".
+ eoanb_decision_reconstruct_2_mississippi: "Инвестировать в инфраструктуру Миссисипи"
+ eoanb_decision_reconstruct_3_mississippi: "Detain Mississippian Confederates" #NT!
+ eoanb_decision_reconstruct_4_mississippi: "Force a Mississippian Convention" #NT!
+ eoanb_decision_readmit_mississippi: "Принять Миссисипи"
+ eoanb_decision_reconstruct_1_missouri: "Патрулировать улицы Миссури".
+ eoanb_decision_reconstruct_2_missouri: "Инвестировать в инфраструктуру Миссури"
+ eoanb_decision_reconstruct_3_missouri: "Задержать миссуринских конфедератов"
+ eoanb_decision_reconstruct_4_missouri: "Принудить миссурийскую конвенцию"
+ eoanb_decision_readmit_missouri: "Принять Миссури"
+ eoanb_decision_reconstruct_1_newhampshire: "Патрулировать улицы Нью-Гемпшира"
+ eoanb_decision_reconstruct_2_newhampshire: "Инвестировать в инфраструктуру Нью-Гэмпшира"
+ eoanb_decision_reconstruct_3_newhampshire: "Задерживать новогемпширских радикалов"
+ eoanb_decision_reconstruct_4_newhampshire: "Форсировать съезд новогемпширцев"
+ eoanb_decision_readmit_newhampshire: "Принять Нью-Гэмпшир"
+ eoanb_decision_reconstruct_1_newyork: "Патрулировать улицы Нью-Йорка"
+ eoanb_decision_reconstruct_2_newyork: "Инвестировать в инфраструктуру Нью-Йорка"
+ eoanb_decision_reconstruct_3_newyork: "Задерживать нью-йоркских радикалов"
+ eoanb_decision_reconstruct_4_newyork: "Форсировать съезд ньюйоркцев"
+ eoanb_decision_readmit_newyork: "Принять Нью-Йорк"
+ eoanb_decision_reconstruct_1_northcarolina: "Патрулировать улицы Северной Каролины"
+ eoanb_decision_reconstruct_2_northcarolina: "Инвестировать в инфраструктуру Северной Каролины"
+ eoanb_decision_reconstruct_3_northcarolina: "Задержать конфедератов Северной Каролины"
+ eoanb_decision_reconstruct_4_northcarolina: "Принудить к съезду жителей Северной Каролины".
+ eoanb_decision_readmit_northcarolina: "Принять Северную Каролину"
+ eoanb_decision_reconstruct_1_oklahoma: "Патрулировать улицы Оклахомы"
+ eoanb_decision_reconstruct_2_oklahoma: "Инвестировать в инфраструктуру Оклахомы"
+ eoanb_decision_reconstruct_3_oklahoma: "Задерживать сторонников конфедератов в Оклахоме"
+ eoanb_decision_reconstruct_4_oklahoma: "Принудить Оклахомскую конвенцию"
+ eoanb_decision_readmit_oklahoma: "Реорганизовать территорию Оклахома"
+ eoanb_decision_reconstruct_1_rhodeisland: "Патрулировать улицы Род-Айленда".
+ eoanb_decision_reconstruct_2_rhodeisland: "Инвестировать в инфраструктуру Род-Айленда"
+ eoanb_decision_reconstruct_3_rhodeisland: "Задержать радикалов Род-Айленда"
+ eoanb_decision_reconstruct_4_rhodeisland: "Принудить к съезду жителей Род-Айленда"
+ eoanb_decision_readmit_rhodeisland: "Принять Род-Айленд"
+ eoanb_decision_reconstruct_1_southcarolina: "Патрулировать улицы Южной Каролины".
+ eoanb_decision_reconstruct_2_southcarolina: "Инвестировать в инфраструктуру Южной Каролины"
+ eoanb_decision_reconstruct_3_southcarolina: "Задержать конфедератов Южной Каролины"
+ eoanb_decision_reconstruct_4_southcarolina: "Принудить конвенцию Южной Каролины".
+ eoanb_decision_readmit_southcarolina: "Принять Южную Каролину"
+ eoanb_decision_reconstruct_1_tennessee: "Патрулировать улицы Теннесси".
+ eoanb_decision_reconstruct_2_tennessee: "Инвестировать в инфраструктуру штата Теннесси"
+ eoanb_decision_reconstruct_3_tennessee: "Задержать конфедератов-теннессийцев"
+ eoanb_decision_reconstruct_4_tennessee: "Принудить Теннессийскую конвенцию"
+ eoanb_decision_readmit_tennessee: "Принять Теннесси"
+ eoanb_decision_reconstruct_1_texas: "Патрулировать техасские улицы"
+ eoanb_decision_reconstruct_2_texas: "Инвестировать в инфраструктуру Техаса"
+ eoanb_decision_reconstruct_3_texas: "Задержать техасских конфедератов"
+ eoanb_decision_reconstruct_4_texas: "Принудить техасскую конвенцию"
+ eoanb_decision_readmit_texas: "Принять Техас"
+ eoanb_decision_reconstruct_1_vermont: "Патрулировать улицы Вермонтера".
+ eoanb_decision_reconstruct_2_vermont: "Инвестировать в инфраструктуру Вермонта"
+ eoanb_decision_reconstruct_3_vermont: "Задержать вермонтских радикалов"
+ eoanb_decision_reconstruct_4_vermont: "Принудить вермонтскую конвенцию"
+ eoanb_decision_readmit_vermont: "Принять Вермонт"
+ eoanb_decision_reconstruct_1_virginia: "Патрулировать улицы Вирджинии"
+ eoanb_decision_reconstruct_2_virginia: "Инвестировать в инфраструктуру Вирджинии"
+ eoanb_decision_reconstruct_3_virginia: "Задержать виргинских конфедератов"
+ eoanb_decision_reconstruct_4_virginia: "Принудить виргинскую конвенцию"
+ eoanb_decision_readmit_virginia: "Принять Вирджинию"
+
+
+
+ # Reconstruction Decision Tooltips #NT!
+ 01_ACW_RECON_DEC_tt: "Имеет §ОРеконструктивное правительство§!\n"
+ 02_ACW_RECON_DEC_tt: "Находится под нашим §ОРеконструктивным Правительством§!\n"
+ 03_ACW_RECON_DEC_tt: "Находится под нашим §OРеконструктивным Правительством§!\n Готов к §Cредмиту§!\n"
+ 20_ACW_RECON_DEC_tt: "[ЭТО.GetName] будет §Gратифицировать§! §CАмериканскую Конституцию§! и §CБилль о правах§!!\n"
+ 21_ACW_RECON_DEC_tt: "будет §Cреинтегрирован§! в §CСоюз§!!\n"
+
+ # Reconstuction Effect Tooltips #NT!
+ USAROD_reconstruction_progress_minus_3_tt: "Потеряет §R3%§! Прогресса в реконструкции.\n"
+ USAROD_reconstruction_progress_minus_2_tt: "Потеряет §R2%§! Прогресса в реконструкции.\n"
+ USAROD_reconstruction_progress_minus_1_tt: "Потеряет §R1%§! Прогресса в реконструкции.\n"
+ USAROD_reconstruction_progress_plus_1_tt: "Получит §G1%§! Прогресса в реконструкции.\n"
+ USAROD_reconstruction_progress_plus_2_tt: "Получит §G2%§! Прогресса в реконструкции.\n"
+ USAROD_reconstruction_progress_plus_3_tt: "Получит §G3%§! Прогресса в реконструкции.\n"
+ USAROD_reconstruction_progress_plus_5_tt: "Получит §G5%§! Прогресса в реконструкции.\n"
+ USAROD_reconstruction_progress_plus_10_tt: "Получит §G10%§! Прогресса в реконструкции.\n"
+ USAROD_reconstruction_progress_plus_20_tt: "Получит §G20%§! Прогресса в реконструкции.\n"
+ USAROD_kuklux_progress_plus_2: ":\n Будет способствовать §R2%§! прогрессу формирования §ОКу Клукс Клана§!.\n"
+ USAROD_kuklux_progress_plus_1: ":\n Будет способствовать §R1%§! прогрессу формирования §OКу Клукс Клана§!.\n"
+ USAROD_radabolition_progress_plus_2: ":\n Будет способствовать §R2%§! прогрессу формирования §OСвободного Американского Фронта§!.\n"
+ USAROD_radabolition_progress_plus_1: ":\n Будет способствовать §R1%§! прогрессу формирования §OСвободного Американского Фронта§!.\n"
+
+ # Reconstruction Ideas #NT!
+ USAROD_infrastructure_investments: "Инвестиции в восстановленную инфраструктуру"
+ USAROD_infrastructure_investments_desc: "Разрушенная войной инфраструктура нуждается в восстановлении".
+
+
+ # Reconstruction Events #NT!
+ acw_reconstruction.16.t: "Реконструкция в [FROM.GetName]?".
+ acw_reconstruction.16.d: "Гражданская война в Америке завершилась, но культура и быт жителей [FROM.GetName] по-прежнему кардинально отличаются от наших. Разрозненные остатки ополчения Конфедерации все еще бродят по стране, а чернокожие вольноотпущенники, хотя и получили эмансипацию, часто все еще живут в страхе за свою жизнь и работают в тех же условиях, в которых они страдали, будучи рабами."
+ acw_reconstruction.16.a: "Усилить охрану правопорядка"
+ acw_reconstruction.16.b: "Трудоустройство чернокожих и гражданские программы"
+ acw_reconstruction.16.c: "Контролировать конституционные изменения"
+ acw_reconstruction.16.e: "Принять [FROM.GetName]"
+ acw_reconstruction.16.f: "Неважно".
+ acw_reconstruction.16.f_tt: "§RЕсли вы не видите других вариантов, это означает, что в настоящее время вы не имеете права принимать другие варианты.§!"

@@ -1,0 +1,91 @@
+﻿l_russian:
+ STARTUP_EVENT_VERSION:0 "§bВерсия. 0.2.7§!"
+ STARTUP_EVENT_DESCRIPTION:0 "[STARTUP_EVENT_SCRIPTED]"
+ STARTUP_EVENT_DESCRIPTION_DEFAULT: "§bДобро пожаловать в Модификацию End of a New Beginning- Steam Edition!§!\n \n \n§gEnd of a New Beginning§! это проект полной конверсии, целью которого является моделирование эпохи между восстанием сипаев в Индии и расцветом империализма примерно до 1930 года с помощью опыта Hearts of Iron IV. В отличие от других модов на основе HOI, §gEoaNB§! не предназначен для игры как боевая карта, а вместо этого подробно описывает политические, экономические и общественные изменения, которые кардинально изменили человеческий опыт в Викторианскую эпоху. §gEoaNB§! все еще находится в стадии интенсивной разработки. Пользователи с низкокачественными устройствами могут испытывать §Rзаметные лаги и вылеты§!.\n \n§MОбновление :§! 0.3 Терра Славика\nТерра Славика приносит обновленный, переработанный и совершенно новый контент для многих стран Восточной Европы. В число наций входят Россия, Сербия, Болгария, Румыния и Черногория. §GПодробный список изменений можно найти на нашем публичном Discord-сервере сообщества!§!\n\n Спасибо за игру в нашу версию для разработчиков, и мы надеемся, что вам понравится - §CКоманда EoaNB§!"
+ STARTUP_EVENT_DESCRIPTION_SETTINGS:0 "§bРегулируемые внутриигровые настройки:§!\n \n §YОпределения и механика§!\n \n \n \n §YВкус и содержание§!\n \n \n \n §YОптимизационная бережливость§!"
+ STARTUP_EVENT_DESCRIPTION_COMMUNITY:0 "§bСообщество и Благодарности:§!\n \n \n§gEnd of a New Beginning§! является модом и сообществом с открытым исходным кодом. Мы всегда ищем соавторов и новых членов сообщества. Присоединяйтесь к нашему Discord для получения обновлений, обсуждения мода и многого другого. §S(Ссылка в левом нижнем углу меню)§!\n\nМы хотели бы поблагодарить наших бесчисленных исследователей, писателей, художников и многих других. Без вас EoaNB никогда бы не развивалась! Мы также хотели бы выразить огромную любовь нашим сторонникам на §RПатреон§! (Никнеймы остаются на английском): \n§gJake Fish, Cody Black, Destro71, Tom schuelke, Mike Shrout, Stian Karlsen Eggen, Lumina, TheProfessorGabrielAG, Harry Yan, David Sirkin, John Hanni, Jakob Brommersma, Jakop Dalunde, Sephone S, Carlos Trevino, GSuer, Jakop Dalunde, MasterMochi, and Leixi.§!\n\n§RВедущие Разработчики§!: §gAytarel, ChrisSGD, Coggernaut, DEM0, EnzoC9083, Imperialism & Kuba.§!\n§GРазработчики на Пенсии§!: §gMakkkkus, Funkyman, Toadsess, TPS-Geronam, AtomicFalco, Powerblo, Tomvand, Londinium, Minn, Silver, StrikerVX4, PresidentStorm, Filippos, Hogthra, BlueFox, ClassyAmoeba, Jen, Rolf, HolyDoggo & Neo. §!\n\nКредиты также принадлежат §gчеловеку§!, создателю мода §YModifier Icons§! в Steam, чьи иконки мы с удовольствием используем."
+
+
+
+ #§bCommunity & Credits:§! (wip)\n\n§ODevelopment Team Leads —§! Imperialism, ChrisSGD, TPS-Geronam, Kuba, Garion132, Coggernaut, Vanadium, Energywelder, EnzoC & Lancer2201 (§CFormer Leads —§! AtomicFalco, Powerblo, tomvand)\n (§OFormer Subteam Leads —§! Londinium, AtomicFalco, Minn, Silver, StrikerVX4, PresidentStorm, Filippos, Hogthra, BlueFox, ClassyAmoeba, Jen, Rolf, & Holydoggo)\nCountless other Research Helpers, Coding Assistants, Freelance Arists and more from our Discord server and elsewhere. We couldn't have created this without you guys!\n\nWe would also like to give a huge love to our supporters over at §RPatreon§!:\n Jen, Alex, David Sirkin, Michael Wolf, Aviel Fartuk, Harry Chambers, BlueFox098, Darcy Clutton, Lasse Venner Jensen, Crimsomon, John Hanni, Zhang Qi, Clammed Oyster, Lachlan Gretgrix, Showmaster LP, Alviun, Alexander Sapic, Jason, Lui, Davin Adams, Oğuzkan Batyr, Jake Fish, theRonBurgundy, James, Filipek Flaczyńsk, Prince Illis, Cody Black, Gavin Werner, Tom Schuelke and MasterQG." #NT!
+ #STARTUP_EVENT_DESCRIPTION_DEFAULT:0 "§bWelcome to the End of a New Beginning Mod!§!\n \n§gEnd of a New Beginning§! is a total conversion project that aims to simulate 200 years of world history via the Hearts of Iron IV experience. Unlike other major mods, §gEoaNB§! is not intended to be a war-based map painter but instead focuses on the political, economic, and societal changes that drastically changed humanity onwards. §gEoaNB§! still in heavy development. Users with lower-end devices may experience §Rnoticable lag and crashes§!.\n \n§MUpdate Summary:§! Beta 0.2.7 Ver-Tersus\n   Compatibility Patch for HOI-4 §Y1.11 Barbarossa Update§! (with No Step Back Expansion additions). Rehaul of Technology Tree, Era Progression & Interface. Trains & Supply Re-Work. Mapmodes. Content Added for United States, Japan, Spain, Denmark and more. Lots of Optimization touches. §GFor full list, check out our Steam Page or Discord.§!\n\n        Thanks for playing and we hope you enjoy the experience - §CTeam EoaNB§!"
+
+
+
+
+ #§YWelcome to the End of a New Beginning!§!\n§g !!! Please read the ingame wiki (the \"?\" in the upper right corner) before playing !!!§!\n EoaNB is a total-conversion mod with aims of simulating World History from 1857 onwards. We are still in §REarly Alpha§!, so expect incomplete content and/or a variety of bugs. However, the team is always doing its best to polish and improve the mod!\n \n If you are interested in staying up to date with daily development, join our §GDiscord Server§! and check out our §GDevelopment GitHub§!:\nPlease note that §Ypeople with smaller screens§! may experience an issue with the research interface where not all the folders are displayed. This can be circumvented by going into your options and lowering the UI Scale modifier. To verify that you can see all technology folders, please check whether the rightmost folder is called \"Special Projects\". If that is the case, all the folders are displayed on your screen.\n\nUsers with low-end PCs may also experience §Rsignificant lag or even crashes§! when playing on speed 5 (maximum speed). The lag can be fought by using the §Y\"Unite Africa\"§! option in the options menu, while, if you crash, you can try to reload and play the month on speed 4.\n\nThanks for playing our mod and we hope you will enjoy it!\n — §WThe EoaNB Team§!" #NT!
+ STARTUP_EVENT_PLAY:0 "£occupation_costs Войти в EoaNB"
+ STARTUP_EVENT_SUMMARY:0 "£research_icon Подробности"
+ STARTUP_EVENT_SETTINGS:0 "£repairing Внутриигровые Настройки"
+ STARTUP_EVENT_COMMUNITY:0 "£pops_texticon Наше сообщество"
+ STARTUP_EVENT_PLAY_tt:0 "Щёлкните, чтобы §YИграть§!".
+ STARTUP_EVENT_SUMMARY_tt:0 "Просмотреть §YДетали Обновления§!"
+ STARTUP_EVENT_SETTINGS_tt:0 "Посмотреть §YВнутриигровые Настройки§!"
+ STARTUP_EVENT_COMMUNITY_tt:0 "Просмотреть §YСообщество и Благодарности§!"
+ STARTUP_EVENT_DISCORD:0 "Присоединиться к Дискорду EoaNB"
+#  STARTUP_EVENT_PROGRESS_tt:0 "[!startup_event_button_summary_click]"
+#  STARTUP_EVENT_CREDITS_tt:0 "[!startup_event_button_credits_click]"
+
+ GAMERULE_ECONOMY:0 "Экономика - [GetRuleEconomy]"
+ GAMERULE_AGENCY:0 "Агентства - [GetRuleAgency]"
+ GAMERULE_TRIBAL:0 "Племена - [GetRuleTribal]"
+ GAMERULE_REBEL:0 "Восстания - [GetRuleRebel]"
+ GAMERULE_PANDEMIC:0 "Пандемии - [GetRulePandemic]"
+ GAMERULE_CONTROVERSIAL:0 "Спорный контент - [GetRuleControversial]"
+ GAMERULE_EASTER:0 "Пасхальные яйца - [GetRuleEaster]"
+ GAMERULE_MUSIC:0 "Музыка - [GetRuleMusic]"
+ GAMERULE_INTERFACE:0 "Интерфейс - [GetRuleInterface]"
+ GAMERULE_UNITE_AFRICA:0 "Объединить [GetAfricaUnited] Африку"
+ GAMERULE_LOCK:0 "Заблокировать[GetRuleLocked] настройки".
+
+ STARTUP_EVENT_ECONOMY_tt:0 "Настройки автоматизации экономики"
+ STARTUP_EVENT_AGENCY_tt:0 "§YАгентство§! Настройки игры\n \n§OТребуется DLC:§! La Resistance"
+ STARTUP_EVENT_TRIBAL_tt:0 "§YМеханика племенной империи§! Настройки игры\n \n§OТребуется DLC:§! Together for Victory"
+ STARTUP_EVENT_REBEL_tt:0 "§YСопротивление и восстания§! Настройки игры\n \n§OТребуется DLC:§! La Resistance"
+ STARTUP_EVENT_PANDEMIC_tt:0 "§YПандемии§! Настройки игры"
+ STARTUP_EVENT_CONTROVERSIAL_tt:0 "§YСпорный контент§! Настройки игры"
+ STARTUP_EVENT_EASTER_tt:0 "§YПасхальные яйца§! Настройки игры"
+ STARTUP_EVENT_MUSIC_tt:0 "§YМузыка§! - Настройки игры\n \n§OОпределенная настройка создателя контента:§! Отключено"
+ STARTUP_EVENT_UNITE_AFRICA_tt:0 "§YОбъединить Африку§! Настройки игры"
+ STARTUP_EVENT_LOCK_tt:0 "§RЗаблокировать Настройки§!\n \nЭто §YНавсегда§! блокирует внутриигровые настройки для этой кампании. (Полезно для игр в Мультиплеере)[GetRuleLockedDebug]".
+ STARTUP_EVENT_LOCK_tt1:0 "\n \n§YКонсольная команда позволяющая открыть Внутриигровые Настройки:§! event eoanb_gamerules.11"
+
+ STARTUP_EVENT_GAMERULE_DISABLED:0 "§RВыкл.§!"
+ STARTUP_EVENT_GAMERULE_ENABLED:0 "§GВкл.§!"
+ STARTUP_EVENT_GAMERULE_UNDER_DEVELOPMENT:0 "§RВ процессе разработки§!"
+
+# Gamerule Events #NT!
+ eoanb_gamerules.1.t:0 "Настройки системы экономики"
+ eoanb_gamerules.1.d:0 "§RЭта функция запланирована для обновления Ars Bellica и в настоящее время находится в разработке.§!\n \n Текущий статус: [GetRuleEconomy]"
+ eoanb_gamerules.1.a:0 "Включить"
+ eoanb_gamerules.1.b:0 "Отключить"
+
+ eoanb_gamerules.2.t:0 "Настройки разведывательного агентства"
+ eoanb_gamerules.2.d:0 "Текущее состояние: [GetRuleAgency]"
+
+ eoanb_gamerules.3.t:0 "Настройки племенной механики"
+ eoanb_gamerules.3.d:0 "Текущее состояние: [GetRuleTribal]"
+
+ eoanb_gamerules.4.t:0 "Настройки восстания и сопротивления"
+ eoanb_gamerules.4.d:0 "§RЭта функция запланирована для обновления Ars Bellica и в настоящее время находится в разработке.§!\n \n \nТекущий статус: [GetRuleRebel]"
+
+ eoanb_gamerules.5.t:0 "Настройки содержимого Пандемии"
+ eoanb_gamerules.5.d:0 "§RЭта функция запланирована для обновления Ars Bellica и в настоящее время находится в разработке.§!\n \n \nТекущий статус: [GetRulePandemic]".
+
+ eoanb_gamerules.6.t:0 "Настройки спорного контента"
+ eoanb_gamerules.6.d:0 "События вкуса и другое содержание, которое может быть признано спорным и не рекомендовано для всех аудиторий.\n \n \nТекущий статус: [GetRuleControversial]".
+
+ eoanb_gamerules.7.t:0 "Настройки содержимого пасхальных яиц"
+ eoanb_gamerules.7.d:0 "События вкуса и другое содержимое, которое прикрепляется к веселым шуткам, сделанным членами сообщества EoaNB.\n \n \nТекущий статус: [GetRuleEaster]".
+
+ eoanb_gamerules.8.t:0 "Пользовательские настройки музыки"
+ eoanb_gamerules.8.d:0 "Пользовательская музыка, которая добавляется к музыкальному пакету Vanilla HOI4 Music Pack. Некоторые музыкальные композиции могут быть защищены авторскими правами, и создатели контента, использующие эту настройку, делают это на свой страх и риск.\n \n \nТекущий статус: [GetRuleMusic]".
+
+ eoanb_gamerules.9.t:0 "Настройки обновления интерфейса"
+ eoanb_gamerules.9.d:0 "Текущее состояние: [GetRuleInterface]"
+
+ eoanb_gamerules.10.t:0 "Настройки объединения Африки"
+ eoanb_gamerules.10.d:0 "Настройка для нашей даты начала 1857 года, удаляющая с карты множество лишних африканских племенных наций."
+ eoanb_gamerules.10.a:0 "Объединение Африки"
+ eoanb_gamerules.10.a_tt:0 "§RОбъединяет племенную Африку§!\n \nЭто решение §YУдалит до 150 стран с карты в Африке§! Если вы являетесь меткой, базирующейся в Африке, вы можете быть аннексированы."
+ eoanb_gamerules.10.b:0 "Неважно."

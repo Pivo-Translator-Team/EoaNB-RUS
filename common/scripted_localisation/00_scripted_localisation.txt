@@ -1,0 +1,2479 @@
+defined_text = {
+	name = eoanb_decision_promote_shipbuilding_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_promote_shipbuilding_cost_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_promote_shipbuilding_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_promote_shipbuilding_cost_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_promote_shipbuilding_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_promote_shipbuilding_cost_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_building_slot_victorian_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_building_slot_victorian_cost_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_building_slot_victorian_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_building_slot_victorian_cost_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_building_slot_victorian_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_building_slot_victorian_cost_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_start_industrializing_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_10_debt_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_start_industrializing_cost_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_start_industrializing_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_10_debt_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_start_industrializing_cost_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_start_industrializing_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_10_debt_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_start_industrializing_cost_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_industrialiation_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_20_debt_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_industrialiation_cost_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_industrialiation_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_20_debt_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_industrialiation_cost_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_industrialiation_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_20_debt_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_industrialiation_cost_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_infrastructure_investment_debt_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_infrastructure_investment_debt_cost_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_infrastructure_investment_debt_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_infrastructure_investment_debt_cost_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_infrastructure_investment_debt_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_infrastructure_investment_debt_cost_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_army_infrastructure_investment_debt_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_army_infrastructure_investment_debt_cost_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_army_infrastructure_investment_debt_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_army_infrastructure_investment_debt_cost_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_army_infrastructure_investment_debt_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_army_infrastructure_investment_debt_cost_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_army_investment_debt_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_army_investment_debt_cost_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_army_investment_debt_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_army_investment_debt_cost_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_army_investment_debt_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_army_investment_debt_cost_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_investment_debt_and_50_pp_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_50pp_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_political_power_50_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_investment_debt_and_50_pp_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_50pp_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_political_power_50_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_investment_debt_and_50_pp_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_50pp_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_political_power_50_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_investment_debt_and_75_pp_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_75pp_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_political_power_75_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_investment_debt_and_75_pp_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_75pp_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_political_power_75_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_investment_debt_and_75_pp_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_75pp_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_political_power_75_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_investment_debt_and_100_pp_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_100pp_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_political_power_100_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_investment_debt_and_100_pp_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_100pp_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_political_power_100_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_investment_debt_and_100_pp_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_100pp_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_political_power_100_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_navy_infrastructure_investment_debt_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_2_debt_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_navy_infrastructure_investment_debt_cost_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_navy_infrastructure_investment_debt_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_2_debt_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_navy_infrastructure_investment_debt_cost_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_navy_infrastructure_investment_debt_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_2_debt_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_navy_infrastructure_investment_debt_cost_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_navy_investment_debt_cost_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_navy_investment_debt_cost_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_navy_investment_debt_cost_blocked_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_navy_investment_debt_cost_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_navy_investment_debt_cost_tooltip_scripted
+	text = {
+		trigger = {
+			has_idea = egy_vic_debt
+		}
+		localization_key = eoanb_decision_cost_1_debt_loc_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_navy_investment_debt_cost_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_arrest_opposition_leaders_cost_scripted
+	text = {
+		trigger = {
+			OR = {
+				has_idea = GEC_idea_polizeiverein_leader_1
+				has_idea = GEC_idea_polizeiverein_leader_2
+				has_idea = GEC_idea_polizeiverein_member
+			}
+		}
+		localization_key = eoanb_decision_generic_arrest_opposition_leaders_cost_polizeiverein
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_arrest_opposition_leaders_cost_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_arrest_opposition_leaders_cost_blocked_scripted
+	text = {
+		trigger = {
+			OR = {
+				has_idea = GEC_idea_polizeiverein_leader_1
+				has_idea = GEC_idea_polizeiverein_leader_2
+				has_idea = GEC_idea_polizeiverein_member
+			}
+		}
+		localization_key = eoanb_decision_generic_arrest_opposition_leaders_cost_polizeiverein_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_arrest_opposition_leaders_cost_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_arrest_opposition_leaders_cost_tooltip_scripted
+	text = {
+		trigger = {
+			OR = {
+				has_idea = GEC_idea_polizeiverein_leader_1
+				has_idea = GEC_idea_polizeiverein_leader_2
+				has_idea = GEC_idea_polizeiverein_member
+			}
+		}
+		localization_key = eoanb_decision_generic_arrest_opposition_leaders_cost_polizeiverein_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_arrest_opposition_leaders_cost_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_ban_opposition_party_cost_scripted
+	text = {
+		trigger = {
+			OR = {
+				has_idea = GEC_idea_polizeiverein_leader_1
+				has_idea = GEC_idea_polizeiverein_leader_2
+				has_idea = GEC_idea_polizeiverein_member
+			}
+		}
+		localization_key = eoanb_decision_generic_ban_opposition_party_cost_polizeiverein
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_ban_opposition_party_cost_loc
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_ban_opposition_party_cost_blocked_scripted
+	text = {
+		trigger = {
+			OR = {
+				has_idea = GEC_idea_polizeiverein_leader_1
+				has_idea = GEC_idea_polizeiverein_leader_2
+				has_idea = GEC_idea_polizeiverein_member
+			}
+		}
+		localization_key = eoanb_decision_generic_ban_opposition_party_cost_polizeiverein_blocked
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_ban_opposition_party_cost_loc_blocked
+	}
+}
+
+defined_text = {
+	name = eoanb_decision_generic_ban_opposition_party_cost_tooltip_scripted
+	text = {
+		trigger = {
+			OR = {
+				has_idea = GEC_idea_polizeiverein_leader_1
+				has_idea = GEC_idea_polizeiverein_leader_2
+				has_idea = GEC_idea_polizeiverein_member
+			}
+		}
+		localization_key = eoanb_decision_generic_ban_opposition_party_cost_polizeiverein_tooltip
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = eoanb_decision_generic_ban_opposition_party_cost_loc_tooltip
+	}
+}
+
+defined_text = {
+	name = GetItalianTraditionCelebrationName
+	text = {
+		trigger = {
+			TAG = PIE
+		}
+		localization_key = eoanb_lockey_italian_celebrate_traditions_PIE
+	}
+	text = {
+		trigger = {
+			TAG = BAV
+		}
+		localization_key = eoanb_lockey_italian_celebrate_traditions_BAV
+	}
+	text = {
+		trigger = {
+			TAG = SPR
+		}
+		localization_key = eoanb_lockey_italian_celebrate_traditions_SPR
+	}
+	text = {
+		trigger = {
+			TAG = PRS
+		}
+		localization_key = eoanb_lockey_italian_celebrate_traditions_PRS
+	}
+	text = {
+		trigger = {
+			TAG = RUS
+		}
+		localization_key = eoanb_lockey_italian_celebrate_traditions_RUS
+	}
+	text = {
+		trigger = {
+			TAG = SWI
+		}
+		localization_key = eoanb_lockey_italian_celebrate_traditions_SWI
+	}
+	text = {
+		trigger = {
+			TAG = BAD
+		}
+		localization_key = eoanb_lockey_italian_celebrate_traditions_BAD
+	}
+	text = {
+		trigger = {
+			TAG = HOL
+		}
+		localization_key = eoanb_lockey_italian_celebrate_traditions_HOL
+	}
+	text = {
+		trigger = {
+			TAG = TUS
+		}
+		localization_key = eoanb_lockey_italian_celebrate_traditions_TUS
+	}
+	text = {
+		trigger = {
+			TAG = NSC
+		}
+		localization_key = eoanb_lockey_italian_celebrate_traditions_NSC
+	}
+	text = {
+		localization_key = eoanb_lockey_italian_celebrate_traditions_general
+	}
+}
+
+defined_text = {
+	name = GetRUSCaucasianUnrest
+	text = {
+		trigger = {
+			check_variable = {
+				RUS_var_caucasus_unrest > 0.7
+			}
+		}
+		localization_key = "RUS_CAUCASIAN_UNREST_HIGH_LOC"
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				RUS_var_caucasus_unrest < 0.35
+			}
+		}
+		localization_key = "RUS_CAUCASIAN_UNREST_LOW_LOC"
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				RUS_var_caucasus_unrest < 0
+			}
+		}
+		localization_key = "RUS_CAUCASIAN_UNREST_NONE_LOC"
+	}
+	text = {
+		localization_key = "RUS_CAUCASIAN_UNREST_MEDIUM_LOC"
+	}
+}
+
+defined_text = {
+	name = GetRUSCaucasianStrength
+	text = {
+		trigger = {
+			check_variable = {
+				RUS_var_caucasus_strength > 0.7
+			}
+		}
+		localization_key = "RUS_CAUCASIAN_STRENGTH_HIGH_LOC"
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				RUS_var_caucasus_strength < 0.35
+			}
+		}
+		localization_key = "RUS_CAUCASIAN_STRENGTH_LOW_LOC"
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				RUS_var_caucasus_strength < 0
+			}
+		}
+		localization_key = "RUS_CAUCASIAN_STRENGTH_NONE_LOC"
+	}
+	text = {
+		localization_key = "RUS_CAUCASIAN_STRENGTH_MEDIUM_LOC"
+	}
+}
+
+defined_text = {
+	name = GetGreekHeirOttoName
+	text = {
+		trigger = {
+			THIS = {
+				has_country_flag = GRE_flag_luitpold_heir
+			}
+		}
+		localization_key = "eoanb_greek_heir_otto_luitpold"
+	}
+	text = {
+		trigger = {
+			THIS = {
+				has_country_flag = GRE_flag_ludwig_heir
+			}
+		}
+		localization_key = "eoanb_greek_heir_otto_ludwig"
+	}
+	text = {
+		localization_key = "eoanb_greek_heir_otto_none"
+	}
+}
+
+defined_text = {
+	name = GetPowerStatusName
+	text = {
+		trigger = {
+			check_variable = {
+				var = this.score_array_position_var
+				value = 0
+				compare = equals
+			}
+		}
+		localization_key = "Вне списка"
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				var = this.score_array_position_var
+				value = 3
+				compare = less_than_or_equals
+			}
+			has_country_flag = eoanb_is_super_power
+		}
+		localization_key = "Сверхдержава"
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				var = this.score_array_position_var
+				value = 8
+				compare = less_than_or_equals
+			}
+		}
+		localization_key = "Великая Держава"
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				this.score_array_position_var > 8
+			}
+			check_variable = {
+				var = this.score_array_position_var
+				value = 16
+				compare = less_than_or_equals
+			}
+		}
+		localization_key = "Вторичная Держава"
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				this.score_array_position_var > 16
+			}
+			check_variable = {
+				var = this.score_array_position_var
+				value = 40
+				compare = less_than_or_equals
+			}
+		}
+		localization_key = "Минорная Держава"
+	}
+	text = {
+		localization_key = "Незначительная Держава"
+	}
+}
+
+defined_text = {
+	name = GetGovTypeName
+	text = {
+		trigger = {
+			has_idea = absolute_monarchy
+		}
+		localization_key = "Абсолютная Монархия"
+	}
+	text = {
+		trigger = {
+			has_idea = constitutional_monarchy
+		}
+		localization_key = "Конституционная Монархия"
+	}
+	text = {
+		trigger = {
+			has_idea = parliamentary_monarchy
+		}
+		localization_key = "Парламентская Монархия"
+	}
+	text = {
+		trigger = {
+			has_idea = parliamentary_republic
+		}
+		localization_key = "Парламентская Республика"
+	}
+	text = {
+		trigger = {
+			has_idea = semi_presidential_republic
+		}
+		localization_key = "Полупрезидентская Республика"
+	}
+	text = {
+		trigger = {
+			has_idea = presidential_republic
+		}
+		localization_key = "Президентская Республика"
+	}
+	text = {
+		trigger = {
+			has_idea = socialist_republic
+		}
+		localization_key = "Социалистическая Республика"
+	}
+	text = {
+		trigger = {
+			has_idea = socialist_state
+		}
+		localization_key = "Социалистическое Государство"
+	}
+	text = {
+		trigger = {
+			has_idea = revolutionary_government
+		}
+		localization_key = "Революционное Правительство"
+	}
+	text = {
+		trigger = {
+			has_idea = totalitarian_dictatorship
+		}
+		localization_key = "Тоталитарная Диктатура"
+	}
+	text = {
+		trigger = {
+			has_idea = free_city
+		}
+		localization_key = "Свободный Город"
+	}
+	text = {
+		trigger = {
+			has_idea = military_junta
+		}
+		localization_key = "Военная Хунта"
+	}
+	text = {
+		localization_key = "Анархия"
+	}
+}
+
+defined_text = {
+	name = get_icon_name_texture
+	text = {
+		trigger = {
+			check_variable = {
+				show_enemies_button_1 > 0
+			}
+		}
+		localization_key = "GFX_sort_button_202x29_3_frames:2"
+	}
+	text = {
+		localization_key = "GFX_sort_button_202x29_3_frames:1"
+	}
+}
+
+defined_text = {
+	name = GetAUHAustrianMPName
+	text = {
+		trigger = {
+			has_country_flag = AUS_flag_karl_auesperg_aus_mp
+		}
+		localization_key = "Карл Ауэрспергский"
+	}
+}
+
+defined_text = {
+	name = GetAUHungarianPMName
+	text = {
+		trigger = {
+			has_country_flag = AUS_flag_andrassy_hun_pm
+		}
+		localization_key = "Дьюла Андрасси"
+	}
+	text = {
+		trigger = {
+			has_country_flag = AUS_flag_deak_hun_pm
+		}
+		localization_key = "Ференц Деак"
+	}
+}
+
+defined_text = {
+	name = GetAUHungarianPMPortrait
+	text = {
+		trigger = {
+			AUS = {
+				has_country_flag = AUS_flag_andrassy_hun_pm
+			}
+		}
+		localization_key = "GFX_AUH_portrait_Gyula_Andrassy"
+	}
+	text = {
+		trigger = {
+			AUS = {
+				has_country_flag = AUS_flag_deak_hun_pm
+			}
+		}
+		localization_key = "GFX_AUH_portrait_Ferenc_Deak"
+	}
+}
+
+defined_text = {
+	name = GetAUHAustrianMPPortrait
+	text = {
+		trigger = {
+			has_country_flag = AUS_flag_karl_auesperg_aus_mp
+		}
+		localization_key = "GFX_AUH_portrait_Karl_von_Auesperg"
+	}
+}
+
+defined_text = {
+	name = GetAddRivalPPCost
+	text = {
+		trigger = {
+			has_political_power < var:ppcostaddrival1
+		}
+		localization_key = "TOOLTIP_ADD_RIVAL_NO"
+	}
+	text = {
+		localization_key = "TOOLTIP_ADD_RIVAL_YES"
+	}
+}
+
+defined_text = {
+	name = GetAddMostFavouredPPCost
+	text = {
+		trigger = {
+			has_political_power < var:ppcostaddmostfavoured1
+		}
+		localization_key = "TOOLTIP_ADD_RIVAL_NO"
+	}
+	text = {
+		localization_key = "TOOLTIP_ADD_RIVAL_YES"
+	}
+}
+
+defined_text = {
+	name = GetAUHungarianPMPortrait
+	text = {
+		trigger = {
+			AUS = {
+				has_country_flag = AUS_flag_andrassy_hun_pm
+			}
+		}
+		localization_key = "GFX_AUH_portrait_Gyula_Andrassy"
+	}
+	text = {
+		trigger = {
+			AUS = {
+				has_country_flag = AUS_flag_deak_hun_pm
+			}
+		}
+		localization_key = "GFX_AUH_portrait_Ferenc_Deak"
+	}
+}
+
+defined_text = {
+	name = GetAUHAustrianMPPortrait
+	text = {
+		trigger = {
+			has_country_flag = AUS_flag_karl_auesperg_aus_mp
+		}
+		localization_key = "GFX_AUH_portrait_Karl_von_Auesperg"
+	}
+}
+
+defined_text = {
+	name = GetAddRivalRelationsCost
+	text = {
+		trigger = {
+			var:potential_rivals_array^i = {
+				OR = {
+					is_in_faction_with = ROOT
+					has_guaranteed = ROOT
+					gives_military_access_to = ROOT
+					has_military_access_to = ROOT
+					#check_variable = { This.id = Root.id }
+					has_opinion = {
+						target = ROOT
+						value > 5
+					}
+				}
+			}
+		}
+		localization_key = "TOOLTIP_ADD_RIVAL_NO"
+	}
+	text = {
+		localization_key = "TOOLTIP_ADD_RIVAL_YES"
+	}
+}
+
+defined_text = {
+	name = GetAddMostFavouredRelationsCost
+	text = {
+		trigger = {
+			var:potential_most_favoured_array^i = {
+				NOT = {
+					OR = {
+						is_in_faction_with = ROOT
+						has_guaranteed = ROOT
+						gives_military_access_to = ROOT
+						has_military_access_to = ROOT
+						#check_variable = { This.id = Root.id }
+						has_opinion = {
+							target = ROOT
+							value > 5
+						}
+					}
+				}
+			}
+		}
+		localization_key = "TOOLTIP_ADD_RIVAL_NO"
+	}
+	text = {
+		localization_key = "TOOLTIP_ADD_RIVAL_YES"
+	}
+}
+
+defined_text = {
+	name = GetAddRivalTimeoutEffect
+	text = {
+		trigger = {
+			has_country_flag = eoanbdiplomacy_rival_cooldown
+		}
+		localization_key = "TOOLTIP_ADD_RIVAL_COOLDOWN"
+	}
+	text = {
+		localization_key = ""
+	}
+}
+
+defined_text = {
+	name = GetHeadofState
+	text = {
+		trigger = {
+			OR = {
+				has_idea = AUS_Franz_Joseph_I
+				has_idea = AUS_Franz_Joseph_I_old
+			}
+		}
+		localization_key = "Франц Иосиф I"
+	}
+	text = {
+		trigger = {
+			has_idea = BEL_Leopold_I
+		}
+		localization_key = "Леопольд I"
+	}
+	text = {
+		trigger = {
+			has_idea = DEN_Frederick_VII
+		}
+		localization_key = "Фридрих VIII"
+	}
+	text = {
+		trigger = {
+			has_idea = DEN_Christian_IX
+		}
+		localization_key = "Папа Бенедикт XV"
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_idea = ENG_Victoria
+				has_idea = ENG_colonial_Victoria
+			}
+		}
+		localization_key = "Виктория I"
+	}
+	text = {
+		trigger = {
+			has_idea = GRE_Otto_I
+		}
+		localization_key = "Отто I"
+	}
+	text = {
+		trigger = {
+			has_idea = GRE_George_I
+		}
+		localization_key = "Георг I"
+	}
+	text = {
+		trigger = {
+			has_idea = GRE_Alfred_I
+		}
+		localization_key = "Альфред I"
+	}
+	text = {
+		trigger = {
+			has_idea = GRE_Luitpold_I
+		}
+		localization_key = "Леопольд I"
+	}
+	text = {
+		trigger = {
+			has_idea = HOL_William_III
+		}
+		localization_key = "Вильгельм III"
+	}
+	text = {
+		trigger = {
+			has_idea = ITA_hos_Victor_Emmanuel_II
+		}
+		localization_key = "Виктор Эммануил II"
+	}
+	text = {
+		trigger = {
+			has_idea = TUS_hos_Leopold_II
+		}
+		localization_key = "Леопольд II"
+	}
+	text = {
+		trigger = {
+			has_idea = OLD_Peter_II
+		}
+		localization_key = "Пётр II"
+	}
+	text = {
+		trigger = {
+			has_idea = OTO_Abdulmecid
+		}
+		localization_key = "Абдулмеджид I"
+	}
+	text = {
+		trigger = {
+			has_idea = POR_Pedro_V
+		}
+		localization_key = "Педро V"
+	}
+	text = {
+		trigger = {
+			has_idea = POR_Luis
+		}
+		localization_key = "Луи I"
+	}
+	text = {
+		trigger = {
+			has_idea = PRS_Friedrich_Wilhelm_IV
+		}
+		localization_key = "Фридрих Вильгельм IV"
+	}
+	text = {
+		trigger = {
+			has_idea = PRS_Wilhelm_I
+		}
+		localization_key = "Вильгельм I"
+	}
+	text = {
+		trigger = {
+			has_idea = PRS_Friedrich_III
+		}
+		localization_key = "Фридрих III"
+	}
+	text = {
+		trigger = {
+			has_idea = PRS_Wilhelm_II
+		}
+		localization_key = "Вильгельм II"
+	}
+	text = {
+		trigger = {
+			has_idea = RUS_Alexander_II
+		}
+		localization_key = "Александр II"
+	}
+	text = {
+		trigger = {
+			has_idea = SWE_Oscar_I
+		}
+		localization_key = "Оскар I"
+	}
+	text = {
+		trigger = {
+			has_idea = SWE_Charles_XV
+		}
+		localization_key = "Чарльз XV"
+	}
+	text = {
+		trigger = {
+			has_idea = SPR_Isabella_II
+		}
+		localization_key = "Изабелла II"
+	}
+	text = {
+		trigger = {
+			has_idea = BRA_Pedro_II
+		}
+		localization_key = "Педро II"
+	}
+	text = {
+		localization_key = "[PREV.GetLeader]"
+	}
+}
+
+defined_text = {
+	name = GetHoGTitle
+	text = {
+		trigger = {
+			has_idea = absolute_monarchy
+		}
+		localization_key = "Министр внутренних дел"
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_idea = constitutional_monarchy
+				has_idea = parliamentary_monarchy
+			}
+		}
+		localization_key = "Премьер-министр"
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_idea = semi_presidential_republic
+				has_idea = presidential_republic
+			}
+		}
+		localization_key = "Президент"
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_idea = socialist_republic
+				has_idea = socialist_state
+				has_idea = revolutionary_government
+			}
+		}
+		localization_key = "Председатель"
+	}
+	text = {
+		trigger = {
+			has_idea = totalitarian_dictatorship
+		}
+		localization_key = "Лидер"
+	}
+	text = {
+		trigger = {
+			has_idea = military_junta
+		}
+		localization_key = "Генерал"
+	}
+	text = {
+		trigger = {
+			has_idea = anarchy
+		}
+		localization_key = "Гражданин"
+	}
+	text = {
+		trigger = {
+			has_idea = free_city
+		}
+		localization_key = "Лорд-мэр"
+	}
+	text = {
+		localization_key = "Лидер"
+	}
+}
+
+defined_text = {
+	name = GetHoSTitle
+	text = {
+		trigger = {
+			OR = {
+				has_idea = absolute_monarchy
+				has_idea = constitutional_monarchy
+				has_idea = parliamentary_monarchy
+			}
+			OR = {
+				tag = AUS
+				tag = JAP
+				AND = {
+					tag = PRS
+					OR = {
+						has_cosmetic_tag = PRS_GER_bismarck_imperial
+						has_cosmetic_tag = PRS_GER_bismarck_hre
+						has_cosmetic_tag = PRS_GER_bismarck_national
+					}
+				}
+				AND = {
+					tag = USA
+					has_cosmetic_tag = USA_imperial_states_of_america
+				}
+				tag = RUS
+				tag = QNG
+				AND = {
+					tag = FRA
+					has_country_leader = {
+						name = "Наполéон III"
+						ruling_only = yes
+					}
+				}
+			}
+		}
+		localization_key = "Император"
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_idea = absolute_monarchy
+				has_idea = constitutional_monarchy
+				has_idea = parliamentary_monarchy
+			}
+			OR = {
+				has_idea = ENG_Victoria
+				has_idea = ENG_colonial_Victoria
+			}
+		}
+		localization_key = "Королева"
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_idea = absolute_monarchy
+				has_idea = constitutional_monarchy
+				has_idea = parliamentary_monarchy
+			}
+			OR = {
+				tag = PRM
+				tag = MOD
+			}
+		}
+		localization_key = "Герцог"
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_idea = absolute_monarchy
+				has_idea = constitutional_monarchy
+				has_idea = parliamentary_monarchy
+			}
+			OR = {
+				tag = PRM
+				tag = MOD
+			}
+		}
+		localization_key = "Герцог"
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_idea = absolute_monarchy
+				has_idea = constitutional_monarchy
+				has_idea = parliamentary_monarchy
+			}
+		}
+		localization_key = "Король"
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_idea = semi_presidential_republic
+				has_idea = presidential_republic
+			}
+		}
+		localization_key = "Президент"
+	}
+	text = {
+		trigger = {
+			OR = {
+				has_idea = socialist_republic
+				has_idea = socialist_state
+				has_idea = revolutionary_government
+			}
+		}
+		localization_key = "Председатель"
+	}
+	text = {
+		trigger = {
+			has_idea = totalitarian_dictatorship
+		}
+		localization_key = "Лидер"
+	}
+	text = {
+		trigger = {
+			has_idea = military_junta
+		}
+		localization_key = "Генерал"
+	}
+	text = {
+		trigger = {
+			has_idea = anarchy
+		}
+		localization_key = "Гражданин"
+	}
+	text = {
+		trigger = {
+			has_idea = free_city
+		}
+		localization_key = "Лорд-мэр"
+	}
+	text = {
+		localization_key = "Лидер"
+	}
+}
+
+defined_text = {
+	name = GetHoGAttendance
+	text = {
+		trigger = {
+			OR = {
+				has_idea = hos_is_leader
+				has_idea = hos_regency
+			}
+		}
+		localization_key = "в присутствии высокопоставленных государственных чиновников"
+	}
+	text = {
+		localization_key = "в присутствии [GetHoGTitle] [From.GetLeader] и остальных членов королевской семьи и высокопоставленных государственных чиновников"
+	}
+}
+
+defined_text = {
+	name = GetWorldFairSuccess1
+	text = {
+		trigger = {
+			check_variable = {
+				From.world_fair_preparation_var < 35
+			}
+		}
+		localization_key = "которую можно назвать полным провалом, поскольку только несколько тысяч посетителей уже посетили ее"
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				From.world_fair_preparation_var > 34
+			}
+			check_variable = {
+				From.world_fair_preparation_var < 55
+			}
+		}
+		localization_key = "которую можно назвать посредственным успехом, поскольку сто тысяч посетителей уже стекаются к"
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				From.world_fair_preparation_var > 54
+			}
+			check_variable = {
+				From.world_fair_preparation_var < 85
+			}
+		}
+		localization_key = "которую можно назвать большим успехом, так как более миллиона посетителей уже приехали сюда"
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				From.world_fair_preparation_var > 84
+			}
+		}
+		localization_key = "которую можно назвать большим успехом, поскольку миллионы посетителей со всего мира уже съехались на выставку."
+	}
+}
+
+defined_text = {
+	name = GetWorldFairSuccess2
+	text = {
+		trigger = {
+			check_variable = {
+				From.world_fair_preparation_var < 35
+			}
+		}
+		localization_key = "[From.GetName] влаживает очень мало денег и ресурсов в создание этой Всемирной выставки, и нет сомнений, что после завершения она останется в истории как позор."
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				From.world_fair_preparation_var > 34
+			}
+			check_variable = {
+				From.world_fair_preparation_var < 55
+			}
+		}
+		localization_key = "[From.GetName] влаживает посредственное количество денег и ресурсов в организацию этой Всемирной ярмарки, и хотя она не запомнится надолго, она является лишь отражением текущего состояния страны."
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				From.world_fair_preparation_var > 54
+			}
+			check_variable = {
+				From.world_fair_preparation_var < 85
+			}
+		}
+		localization_key = "[From.GetName] влаживает значительное количество денег и ресурсов в организацию этой Всемирной ярмарки, и она, несомненно, запомнится как одна из лучших Всемирных ярмарок на сегодняшний день."
+	}
+	text = {
+		trigger = {
+			check_variable = {
+				From.world_fair_preparation_var > 84
+			}
+		}
+		localization_key = "[From.GetName] хвалит за организацию такой замечательной Всемирной ярмарки, и несомненно, что после ее завершения она войдет в историю как одна из лучших на сегодняшний день."
+	}
+}
+
+defined_text = {
+	name = GetWorldFairExhibition1
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				capital_scope = {
+					is_on_continent = europe
+				}
+				OR = {
+					has_full_control_of_state = 428
+					has_full_control_of_state = 431
+					has_full_control_of_state = 439
+					RAJ = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+				}
+			}
+		}
+		localization_key = "Особый интерес представляет индийская выставка, организованная [?from.world_fair_array^0.GetName]."
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				capital_scope = {
+					is_on_continent = europe
+				}
+				OR = {
+					has_full_control_of_state = 290
+					has_full_control_of_state = 459
+					has_full_control_of_state = 458
+					has_full_control_of_state = 448
+					has_full_control_of_state = 447
+					MOR = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					ALG = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					TUN = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					EGY = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+				}
+			}
+		}
+		localization_key = "Особый интерес представляет североафриканская выставка, организованная [?from.world_fair_array^0.GetName]."
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				capital_scope = {
+					is_on_continent = europe
+				}
+				OR = {
+					has_full_control_of_state = 289
+					has_full_control_of_state = 922
+					has_full_control_of_state = 335
+					has_full_control_of_state = 671
+					has_full_control_of_state = 741
+					has_full_control_of_state = 1019
+					has_full_control_of_state = 523
+					has_full_control_of_state = 921
+					has_full_control_of_state = 998
+					has_full_control_of_state = 919
+					has_full_control_of_state = 721
+					has_full_control_of_state = 529
+					BRM = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					SIA = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					CAM = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					VIN = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					ACE = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					INS = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					BRU = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					SUL = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					# MDN = {
+					# OR = {
+					# is_puppet_of = PREV
+					# is_subject_of = PREV
+					# }
+					# }
+					# SPH = {
+					# OR = {
+					# is_puppet_of = PREV
+					# is_subject_of = PREV
+					# }
+					# }
+				}
+			}
+		}
+		localization_key = "Особый интерес представляет выставка Восточной Азии, организованная [?from.world_fair_array^0.GetName]."
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				capital_scope = {
+					is_on_continent = europe
+				}
+				OR = {
+					all_owned_state = {
+						is_on_continent = africa
+						NOT = {
+							OR = {
+								state = 290
+								state = 461
+								state = 462
+								state = 178
+								state = 1029
+								state = 699
+								state = 459
+								state = 460
+								state = 513
+								state = 665
+								state = 458
+								state = 1012
+								state = 1013
+								state = 1014
+								state = 448
+								state = 449
+								state = 450
+								state = 451
+								state = 663
+								state = 662
+								state = 661
+								state = 273
+								state = 447
+								state = 452
+								state = 446
+								state = 749
+								state = 457
+								state = 456
+								state = 552
+								state = 551
+								state = 752
+								state = 1191
+								state = 514
+								state = 837
+							}
+						}
+						is_owned_and_controlled_by = PREV
+					}
+					AND = {
+						all_country = {
+							any_owned_state = {
+								is_on_continent = africa
+							}
+							NOT = {
+								OR = {
+									tag = MOR
+									tag = ALG
+									tag = TUN
+									tag = LBA
+									tag = KAG
+									tag = SNS
+									tag = EGY
+								}
+							}
+							OR = {
+								is_puppet_of = PREV
+								is_subject_of = PREV
+							}
+						}
+					}
+				}
+			}
+		}
+		localization_key = "Особый интерес представляет африканская выставка, организованная [?from.world_fair_array^0.GetName]"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				tag = AUS
+			}
+		}
+		localization_key = "Особый интерес представляет [?from.world_fair_array^0.GetAdjective] выставка с интересной экспозицией этнографических материалов различных национальностей по всей стране"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				OR = {
+					tag = FIN
+					AND = {
+						tag = RUS
+						FIN = {
+							OR = {
+								is_puppet_of = RUS
+								is_subject_of = RUS
+							}
+						}
+					}
+				}
+			}
+		}
+		localization_key = "Особый интерес представляет [?from.world_fair_array^0.GetAdjective] выставка с интересной экспозицией финских саун, используемых финнами для самоочищения в суровые зимы"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				tag = KOR
+			}
+		}
+		localization_key = "Особый интерес представляет [?from.world_fair_array^0.GetAdjective] экспозиция демонстрирующая строительство традиционного дома Ханок, известного своей прочностью и отличным расположением"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				tag = BEL
+			}
+		}
+		localization_key = "Особый интерес представляет [?from.world_fair_array^0.GetAdjective] павильон  с целым магазином традиционных вафель, где посетители смогут побаловать себя сладким вкусом этого типичного блюда"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				tag = PRS
+				date < 1887.01.01
+			}
+		}
+		localization_key = "Особый интерес представляет [?from.world_fair_array^0.GetAdjective] павильон демонстрирующий промышленные достижения и, в частности, достижения компании Альфреда Круппа, который своими металлическими изделиями обошел всех остальных конкурентов"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				tag = PRS
+				OR = {
+					has_cosmetic_tag = PRS_GER_bismarck_imperial
+					has_cosmetic_tag = PRS_GER_bismarck_hre
+					has_cosmetic_tag = PRS_GER_bismarck_national
+				}
+				date < 1875.01.01
+			}
+		}
+		localization_key = "Особый интерес вызовет [?from.world_fair_array^0.GetAdjective] павильон с его демонстрацией фольклора со всей страны, триумфальным знаком недавнего объединения"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				tag = PIE
+				has_cosmetic_tag = PIE_focus_ITA
+				date < 1870.01.01
+			}
+		}
+		localization_key = "Особый интерес вызовет [?from.world_fair_array^0.GetAdjective] павильон с его демонстрацией фольклора со всей страны, триумфальным знаком недавнего объединения"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^0 = {
+				tag = FRA
+				date > 1862.01.01
+				date < 1910.01.01
+			}
+		}
+		localization_key = "Особый интерес вызовет [?from.world_fair_array^0.GetAdjective] павильон с впечатляющими сооружениями, построенными с помощью знаменитого инженера Гюстава Эйфеля"
+	}
+	text = {
+		localization_key = "Особый интерес вызовет [?from.world_fair_array^0.GetAdjective] павильон в котором будут представлены последние достижения в области промышленности, технологий и искусства"
+	}
+}
+
+defined_text = {
+	name = GetWorldFairExhibition2
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				capital_scope = {
+					is_on_continent = europe
+				}
+				OR = {
+					has_full_control_of_state = 428
+					has_full_control_of_state = 431
+					has_full_control_of_state = 439
+					RAJ = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+				}
+			}
+		}
+		localization_key = "и индийская выставка, организованная [?from.world_fair_array^2.GetName]"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				capital_scope = {
+					is_on_continent = europe
+				}
+				OR = {
+					has_full_control_of_state = 290
+					has_full_control_of_state = 459
+					has_full_control_of_state = 458
+					has_full_control_of_state = 448
+					has_full_control_of_state = 447
+					MOR = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					ALG = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					TUN = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					EGY = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+				}
+			}
+		}
+		localization_key = "и североафриканская выставка, организованная [?from.world_fair_array^2.GetName]"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				capital_scope = {
+					is_on_continent = europe
+				}
+				OR = {
+					has_full_control_of_state = 289
+					has_full_control_of_state = 922
+					has_full_control_of_state = 335
+					has_full_control_of_state = 671
+					has_full_control_of_state = 741
+					has_full_control_of_state = 1019
+					has_full_control_of_state = 523
+					has_full_control_of_state = 921
+					has_full_control_of_state = 998
+					has_full_control_of_state = 919
+					has_full_control_of_state = 721
+					has_full_control_of_state = 529
+					BRM = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					SIA = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					CAM = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					VIN = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					ACE = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					INS = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					BRU = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					SUL = {
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+					# MDN = {
+					# OR = {
+					# is_puppet_of = PREV
+					# is_subject_of = PREV
+					# }
+					# }
+					# SPH = {
+					# OR = {
+					# is_puppet_of = PREV
+					# is_subject_of = PREV
+					# }
+					# }
+				}
+			}
+		}
+		localization_key = "и выставка Восточной Азии, организованная [?from.world_fair_array^2.GetName]."
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				capital_scope = {
+					is_on_continent = europe
+				}
+				OR = {
+					all_owned_state = {
+						is_on_continent = africa
+						NOT = {
+							OR = {
+								state = 290
+								state = 461
+								state = 462
+								state = 178
+								state = 1029
+								state = 699
+								state = 459
+								state = 460
+								state = 513
+								state = 665
+								state = 458
+								state = 1012
+								state = 1013
+								state = 1014
+								state = 448
+								state = 449
+								state = 450
+								state = 451
+								state = 663
+								state = 662
+								state = 661
+								state = 273
+								state = 447
+								state = 452
+								state = 446
+								state = 749
+								state = 457
+								state = 456
+								state = 552
+								state = 551
+								state = 752
+								state = 1191
+								state = 514
+								state = 837
+							}
+						}
+						is_owned_and_controlled_by = PREV
+					}
+					all_country = {
+						any_owned_state = {
+							is_on_continent = africa
+						}
+						NOT = {
+							OR = {
+								tag = MOR
+								tag = ALG
+								tag = TUN
+								tag = LBA
+								tag = KAG
+								tag = SNS
+								tag = EGY
+							}
+						}
+						OR = {
+							is_puppet_of = PREV
+							is_subject_of = PREV
+						}
+					}
+				}
+			}
+		}
+		localization_key = "и африканская выставка, организованная [?from.world_fair_array^2.GetName]."
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				tag = AUS
+			}
+		}
+		localization_key = "и [?from.world_fair_array^2.GetAdjective] выставка с интересной экспозицией этнографических материалов различных национальностей по всей стране"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				OR = {
+					tag = FIN
+					AND = {
+						tag = RUS
+						FIN = {
+							OR = {
+								is_puppet_of = RUS
+								is_subject_of = RUS
+							}
+						}
+					}
+				}
+			}
+		}
+		localization_key = "и [?from.world_fair_array^2.GetAdjective] выставка с интересной экспозицией финских саун, используемых финнами для самоочищения в суровые зимы"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				tag = KOR
+			}
+		}
+		localization_key = "и [?from.world_fair_array^2.GetAdjective] экспозиция демонстрирующая строительство традиционного дома Ханок, известного своей прочностью и отличным расположением"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				tag = BEL
+			}
+		}
+		localization_key = "и [?from.world_fair_array^2.GetAdjective] павильон с целым традиционным магазином вафель, где посетители могут побаловать себя сладким вкусом этого типичного блюда"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				tag = PRS
+				date < 1887.01.01
+			}
+		}
+		localization_key = "и [?from.world_fair_array^2.GetAdjective] павильон демонстрирующий его промышленные достижения и, в частности, достижения компании Альфреда Круппа, который своими металлическими изделиями обошел всех остальных конкурентов"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				tag = PRS
+				OR = {
+					has_cosmetic_tag = PRS_GER_bismarck_imperial
+					has_cosmetic_tag = PRS_GER_bismarck_hre
+					has_cosmetic_tag = PRS_GER_bismarck_national
+				}
+				date < 1875.01.01
+			}
+		}
+		localization_key = "и [?from.world_fair_array^2.GetAdjective] павильон с его демонстрацией фольклора со всей страны, триумфальным знаком недавнего объединения"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				tag = PIE
+				has_cosmetic_tag = PIE_focus_ITA
+				date < 1870.01.01
+			}
+		}
+		localization_key = "и [?from.world_fair_array^2.GetAdjective] павильон с его демонстрацией фольклора со всей страны, триумфальным знаком недавнего объединения"
+	}
+	text = {
+		trigger = {
+			var:From.world_fair_array^2 = {
+				tag = FRA
+				date > 1862.01.01
+				date < 1910.01.01
+			}
+		}
+		localization_key = "и [?from.world_fair_array^2.GetAdjective] павильон с впечатляющими сооружениями, построенными с помощью знаменитого инженера Гюстава Эйфеля."
+	}
+	text = {
+		localization_key = "и [?from.world_fair_array^2.GetAdjective] павильон демонстрирующий последние достижения в области промышленности, технологий и искусства."
+	}
+}
+
+### Italian Scripted Loc
+defined_text = {
+	name = SardiniaPiedmontRussianDiplomacyLoc
+	text = {
+		trigger = {
+			#country_flag for alliance with France
+		}
+		localization_key = "PIE_Russian_Diplomacy_France_TT"
+	}
+	text = {
+		localization_key = "PIE_Russian_Diplomacy_NotFrance_TT"
+	}
+}
+
+defined_text = {
+	name = SardiniaPiedmontRussianDiplomacyAllianceLoc
+	text = {
+		trigger = {
+			has_country_flag = PIE_RUS_Alliance_2IP
+		}
+		localization_key = "PIE_Russian_Alliance_TT"
+	}
+	text = {
+		localization_key = "PIE_Russian_Assistance_TT"
+	}
+}
+
+defined_text = {
+	name = SardiniaPiedmontRussianDiplomacyAllianceEventTitleLoc
+	text = {
+		trigger = {
+			has_country_flag = PIE_RUS_Alliance_2IP
+		}
+		localization_key = "PIE_Russian_Alliance_Title"
+	}
+	text = {
+		localization_key = "PIE_Russian_Assistance_Title"
+	}
+}
+
+defined_text = {
+	name = SardiniaPiedmontRussianD2IPWarBeginsLoc
+	text = {
+		trigger = {
+			PIE = {
+				has_country_flag = PIE_RUS_taking_Lombardy
+			}
+		}
+		localization_key = "PIE_Russian_War_Begins_TT"
+	}
+	text = {
+		localization_key = "PIE_Russian_War_Begins_LVN_TT"
+	}
+}
+
+defined_text = {
+	name = 2IPWorldNewsEventDescriptionLoc
+	text = {
+		trigger = {
+			PIE = {
+				has_country_flag = PIE_RUS_Alliance_2IP
+			}
+		}
+		localization_key = "PIE_Russian_2IP_Description_TT"
+	}
+	text = {
+		trigger = {
+			PIE = {
+				#has_country_flag = whatever French one happens here
+			}
+		}
+		localization_key = "PIE_French_2IP_Description_TT"
+	}
+	text = {
+		localization_key = "PIE_Generic_2IP_Description_TT"
+	}
+}
+
+defined_text = {
+	name = SardiniaPiedmontRussianDFranceDeniedLoc
+	text = {
+		trigger = {
+			PIE = {
+				has_country_flag = PIE_RUS_Alliance_2IP
+			}
+		}
+		localization_key = "PIE_Russian_French_Deny_TT"
+	}
+	text = {
+		localization_key = "PIE_French_Ally_Regular_TT"
+	}
+}
+
+defined_text = {
+	name = PIEPlombieresRoyalMarriage
+	text = {
+		trigger = {
+			PIE = {
+				has_country_flag = PIE_Plombieres_Marriage_Accept
+			}
+		}
+		localization_key = "PIE_FRA_Plombieres_Marriage_Historical"
+	}
+	text = {
+		localization_key = "PIE_FRA_Plombieres_Marriage_Denied"
+	}
+}
+
+defined_text = {
+	name = PIEPlombieresMilitaryComposition
+	text = {
+		trigger = {
+			PIE = {
+				has_country_flag = PIE_Plombieres_War_Leader
+			}
+		}
+		localization_key = "PIE_FRA_Plombieres_Piedmont_War"
+	}
+	text = {
+		localization_key = "PIE_FRA_Plombieres_France_War"
+	}
+}
+
+defined_text = {
+	name = ITADIplomaticEndeavors
+	text = {
+		trigger = {
+			tag = PIE
+			NOT = {
+				has_country_flag = is_literally_italy
+			}
+		}
+		localization_key = "PIE_ITA_Diplomatic_Endeavors"
+	}
+	text = {
+		trigger = {
+			has_country_flag = is_literally_italy
+		}
+		localization_key = "ITA_generic_Diplomatic_Endeavors"
+	}
+	text = {
+		trigger = {
+			NOT = {
+				OR = {
+					tag = PIE
+					has_country_flag = is_literally_italy
+				}
+			}
+		}
+		localization_key = "ITA_generic_Diplomatic_Endeavors_not_PIE"
+	}
+}
+
+defined_text = {
+	name = ITATrentinoProtestEvent
+	text = {
+		trigger = {
+			2 = {
+				is_owned_by = ITA
+			}
+		}
+		localization_key = "ITA_Trentino_Protest_Event_Rome_Controlled"
+	}
+	text = {
+		localization_key = "ITA_Trentino_Protest_Event"
+	}
+}
+
+defined_text = {
+	name = ITARussianRecognition
+	text = {
+		trigger = {
+			ITA = {
+				OR = {
+					has_country_flag = PIE_RUS_Assistance_2IP
+					has_country_flag = PIE_RUS_Alliance_2IP
+				}
+			}
+		}
+		localization_key = "ITA_Russian_Assistance_Recognition"
+	}
+	text = {
+		localization_key = "ITA_Russian_Recognition"
+	}
+}
+
+defined_text = {
+	name = ITARussianRecognitionRUS
+	text = {
+		trigger = {
+			ITA = {
+				OR = {
+					has_country_flag = PIE_RUS_Assistance_2IP
+					has_country_flag = PIE_RUS_Alliance_2IP
+				}
+			}
+		}
+		localization_key = "RUS_Russian_Assistance_Recognition"
+	}
+	text = {
+		localization_key = "RUS_Russian_Recognition"
+	}
+}

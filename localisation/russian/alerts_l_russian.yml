@@ -1,0 +1,202 @@
+﻿l_russian:
+ALERT_RIGHTCLICK: "§GЩёлкните правой кнопкой мыши для увольнения§!"
+ ALERT_RIGHTCLICK_REPORT: "§GЩёлкните правой кнопкой мыши для отмены§! Это также отменит все непрочитанные отчеты этого типа на карте."
+ alert_hostile_troops_instant: "§RВражеский десант§!".
+ alert_hostile_troops_delayed: "На территории гарнизона присутствуют враждебные войска".
+ alert_naval_invasion_instant: "§RМорское Вторжение§!".
+ alert_naval_invasion_delayed: "§YТут вражеские морские вторжения нацелены на эти государства:§!"
+ alert_naval_invasion_delayed_state: "$STATE|H$"
+ alert_dangerous_naval_invasion_instant: "§RОпасное морское вторжение§!"
+ alert_dangerous_naval_invasion_delayed: "§TВ настоящее время вражеские морские вторжения осуществляются в эти государства:§!".
+ alert_enemy_air_superiority_instant: "§RВраг имеет превосходство в воздухе§!"
+ alert_enemy_air_superiority_delayed: "Враг имеет превосходство в воздухе в одном из ваших стратегических регионов.\nБорьба в этом регионе, вероятно, повлечет за собой суровые наказания.\nПодумайте о том, чтобы направить больше самолетов в этот регион."
+ alert_low_supply_instant: "§RНизкое снабжение§!"
+ alert_low_supply_delayed: "У подразделений заканчиваются припасы".
+ alert_very_low_supply_instant: "§RОчень низкое снабжение§!"
+ alert_very_low_supply_delayed: "Подразделениям не хватает припасов".
+ alert_base_low_supply_instant: "§RБазы с низким снабжением§!".
+ alert_base_low_supply_delayed: "Снабжение в этой области недостаточно, и это влияет на военно-морские и военно-воздушные базы. Любые миссии, выполняемые с них, будут менее эффективными".
+ alert_base_very_low_supply_instant: "§RБазы с очень низким уровнем снабжения§!".
+ alert_base_very_low_supply_delayed: "Снабжение в этой области недостаточно, и это влияет на военно-морские и военно-воздушные базы. Любые миссии, выполняемые с них, будут менее эффективными".
+ LOW_SUPPLIES_TIPS: "§GДля улучшения ситуации вы можете сделать одно из следующих:\n - Распределите или переместите свои подразделения, чтобы уменьшить местное потребление.\n - Постройте инфраструктуру более высокого уровня и убедитесь, что нет узких мест от столицы.\nЕсли доставка осуществляется по морю, также:\n - Постройте более высокие уровни морских портов в исходной и конечной провинциях.\n - Убедитесь, что вы построили достаточно конвоев.\n - Убедитесь, что вы сопровождаете конвои морской миссией "Сопровождение конвоя" по маршруту. Эффективность доставки может снизиться, если враги часто топят ваши конвои.§!"
+alert_no_research_instant: "§YДоступен слот для исследований§!"
+ alert_no_research_delayed: "У вас доступно $COUNT|Y$ исследовательских слотов".
+ alert_no_goal_instant: "§HНет активной цели§!"
+ alert_no_goal_delayed: "§TВы можете выбрать цель.§!"
+ alert_deployment_ready_instant: "§HРазвертывание подразделений§!"
+ alert_deployment_ready_delayed: "§TУ вас есть подразделения, готовые к развертыванию.§!"
+ alert_production_no_template_instant: "§HНет шаблона§!"
+ alert_production_no_template_delayed: "§TВы производите оборудование, для которого у вас нет шаблона подразделения.§!"
+ alert_production_no_template_xp: "§RВам нужно больше опыта, прежде чем вы сможете создать шаблон для вашего оборудования.§!"
+ alert_production_no_template_equipments: "Производится оборудование без шаблона:§!"
+ alert_non_payed_license_instant: "§HНет оплаченных лицензий§!"
+ alert_non_payed_license_delayed: "Есть страны, не предоставляющие гражданские заводы для лицензионного производства:\n$LIST$§Прямой клик для отмены§!"
+ alert_decision_new_instant: "§HРешения Доступны§!"
+ alert_decision_new_delayed: "Следующие решения готовы к принятию:\n$LIST$§GЩёлкните правой кнопкой мыши для увольнения§!"
+ alert_decision_new_delayed_more: "...и еще $COUNT|H$".
+ alert_decision_timeout_instant: "§HСобытия или решение Заканчиваются§!"
+ alert_decision_timeout_delayed: "Следующие события и решения скоро будут отложены:\n$LIST$§GЩёлкните правой кнопкой мыши, чтобы отказаться§!"
+ alert_bop_timeout_delayed: "These Balance of Power events or decisions are about to time out:\n$LIST$§GRight-click to dismiss§!" #NT!
+ TIMEOUT_ITEM_LOC: "$NAME|H$ ($DAYS|H0$ §Осталось дней§!)"
+alert_free_civilian_factories_instant: "§HБесплатные гражданские фабрики§!"
+ alert_free_civilian_factories_delayed: "§TУ вас есть свободные гражданские фабрики, которые можно использовать для торговли и строительства зданий.§!"
+ alert_free_military_factories_instant: "§HБесплатные военные заводы§!"
+ alert_free_military_factories_delayed: "§TУ вас есть свободные военные заводы, которые можно использовать для производства военного оборудования.§!"
+ alert_free_naval_dockyards_instant: "§HСвободные верфи§!"
+ alert_free_naval_dockyards_delayed: "§TУ вас есть свободные доки, которые можно использовать для производства кораблей.§!".
+ alert_pick_new_idea_instant: "§HИзменить правительство§!"
+ alert_pick_new_idea_delayed: "§TТы можешь изменить:§!"
+ alert_pick_new_idea_group_type: "$TYPE|H$"
+ alert_pick_new_idea_advisor_delayed: "You can select a:\n$ADVISOR|Y$\n" #NT!
+ alert_available_wargoal_instant: "§HДоступная цель войны§!"
+ alert_enemy_generate_wargoal_instant: "§HЕсть обоснование военных целей против нас или союзников§!"
+ alert_faction_generate_wargoal_instant: "§HЕсть члены фракции, оправдывающие военные цели§!"
+ ALERT_AT_WAR: "Мы находимся в состоянии войны с $OTHERS|H$".
+ ALERT_WARSCORE: "Наше текущее участие в войне: $SCORE|%1H$".
+ ALERT_TRADE_IMPORT_UNFULFILLED_INSTANT: "§HНевыполненные запросы на импорт§!"
+ ALERT_TRADE_IMPORT_UNFULFILLED_DELAYED_HEADER: "§TУ вас есть невыполненные запросы на импорт:§!"
+ ALERT_TRADE_IMPORT_DELAYED_ITEM: "$RESOURCE|H$ из $COUNTRY|H$ ($AVAILABLE|R$/$REQUESTED$)"
+ ALERT_DIVISION_NO_EQUIPMENT_INSTANT: "§HНе хватает производства оборудования§!"
+ ALERT_DIVISION_NO_EQUIPMENT_DELAYED: "§TУ вас есть логистические запросы, требующие оборудования, которое в настоящее время не производится.§!"
+ ALERT_DIVISION_NO_EQUIPMENT_FROM_GARRISON_REINFORCEMENT: "§TТребуется оборудование для подкрепления гарнизона:§!"
+ ALERT_DIVISION_NO_EQUIPMENT_FROM_ARMY_REINFORCEMENT: "§TТребуется оборудование для усиления дивизии:§!"
+ ALERT_DIVISION_NO_EQUIPMENT_FROM_AIR_REINFORCEMENT: "§TТребуется оборудование для воздушного подкрепления:§!"
+ ALERT_DIVISION_NO_EQUIPMENT_DEPLOYMENT: "§TТребуется оборудование для стоящих в очереди дивизий:§!"
+ ALERT_DIVISION_NO_EQUIPMENT: "§T$NAME|H$§!"
+ ALERT_DIVISION_NO_EQUIPMENT_NICHED: "$NAME|H$ $NICHE$"
+ ALERT_AVAILABLE_WARGOAL: "§T$TARGET$: $WARGOAL$ ($DESC$)§!"
+ ALERT_AVAILABLE_WARGOAL_EXPIRE: "§TСрок действия истекает: $DATE|Y$§!"
+ ALERT_ENEMY_GENERATE_WARGOAL: "$COUNTRY|Y$ оправдывает цель войны против §Yнас§!".
+ ALERT_ENEMY_GENERATE_WARGOAL_FACTION_MEMBER: "$COUNTRY|Y$ оправдывает цель войны против $TARGET|Y$".
+ ALERT_FACTION_GENERATE_WARGOAL: "$COUNTRY|Y$ оправдывает цель войны против $TARGET|Y$".
+ alert_volunteer_transfer_instant: "§HДобровольческие силы в передаче§!".
+ alert_volunteer_send_transfer_delayed: "Отправка подразделений $COUNT|H$ в $TARGET|H$.\n (Ожидается прибытие в: $DATE$)\n".
+ alert_volunteer_send_transfer_return_delayed: "Возврат делений $COUNT|H$ в $TARGET|H$.\n (Ожидается прибытие в: $DATE$)\n"
+ alert_volunteer_return_transfer_delayed: "Отправка обратно делений $COUNT|H$ в $TARGET|H$.\n (Ожидается прибытие в: $DATE$)\n"
+ alert_volunteer_recieving_transfer_delayed: "Получение делений $COUNT|H$ от $SENDER|H$.\n (Ожидается прибытие в: $DATE$)\n"
+ ALERT_NAVAL_COMBAT_ATTACKER: "$LOCATION$ $US_COUNT|G$ - $THEM_COUNT|R$ ( $PROGRESS|+0%$ Проигрыш/Победа )"
+ ALERT_NAVAL_COMBAT_DEFENDER: "$LOCATION$ $THEM_COUNT|R$ - $US_COUNT|G$ ( $PROGRESS|+0%$ Проигрыш/Победа )"
+ alert_few_manpower_instant: "§HНизкие людские ресурсы!§!"
+ alert_few_manpower_delayed: "У нас очень низкая численность личного состава. Это может привести к ситуации, когда наши дивизии не смогут больше усиливаться и сражаться."
+ alert_timed_activity_low_equipment_instant: "§HВременной активности не хватает оборудования!§!"
+ alert_timed_activity_low_equipment_delayed_base: "Дипломатическая деятельность скоро будет завершена и имеет менее 50% необходимого оборудования:\n$ACTIVITIES$"
+alert_blocked_national_focus_instant: "§HNational Focus не продвигается!§!"
+ alert_blocked_national_focus_delayed: "§YНациональный фокус§! остановился в развитии из-за невыполненных условий".
+ alert_naval_combat_instant: "§RМорской бой§!".
+ alert_naval_combat_delayed: "Военно-морской бой происходит в этом стратегическом регионе".
+ alert_is_spotting_instant: "§RЗамечены вражеские ВМС§!"
+ alert_is_spotting_delayed: "Вражеские ВМС в настоящее время замечены вашими патрульными силами".
+ alert_faction_possible_invite_instant: "§HВы можете пригласить во фракцию§!".
+ ALERT_FACTION_POSSIBLE_INVITE_COUNTRY: "$COUNTRY|W$"
+ alert_faction_assume_leadership_possible_instant: "§HМы можем взять на себя руководство нашей фракцией§!"
+ alert_faction_assume_leadership_possible_delayed: "Наша страна значительно сильнее текущего лидера фракции $FACTION|Y$ $LEADER|Y$, и мы можем взять на себя лидерство, если захотим".
+ alert_faction_member_near_assuming_leadership_instant: "§HМы находимся под угрозой того, что другая страна возьмет на себя руководство нашей фракцией $FACTION|Y$§!!!"
+ alert_faction_member_near_assuming_leadership_delayed: "Следующие члены фракции также (почти) достаточно сильны, чтобы взять на себя лидерство:"
+ FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP: " $COUNTRY|Y$ ($PROGRESS|0%Y$)"
+ FACTION_MEMBER_ABLE_TO_ASSUME_LEADERSHIP: " $COUNTRY|Y$ (§R100%§!)"
+ DIPLOMACY_REQUEST_HEADER: "$NAME|Y$ запрос от $COUNTRY|Y$"
+DIPLOMACY_REQUEST_CLICKS: "§GЩёлкните, чтобы открыть\nЩёлкните правой кнопкой мыши, чтобы отклонить§!"
+ alert_expensive_ships_low_str_instant: "§HБольшие корабли на §Rнизкой силе§!§!"
+ alert_expensive_ships_low_str_entry: "$FLEET|H$ имеет $NUM|R$ больших кораблей на низкой прочности.\n"
+ alert_air_reserve_unused_instant: "§HДоступны самолеты в резерве§!"
+ alert_air_reserve_unused_delayed: "В нашем воздушном резерве есть неиспользованные самолеты".
+ alert_air_wings_unassigned_instant: "§HВоздушные крылья без назначенной миссии или региона§!".
+ alert_air_wings_unassigned_delayed: "На наших авиабазах есть неиспользуемые воздушные крылья".
+ alert_unassigned_divisions_instant: "§HНеназначенные дивизии§!"
+alert_unassigned_divisions_delayed:2 "У нас есть несколько дивизий, не приписанных ни к одной командной группе.\n\n\n§GЩёлкните, чтобы выбрать следующую неприписанную дивизию\nShift+Щелчок, чтобы выбрать все неприписанные дивизии§!"
+ alert_players_lagging_behind_title: "§HИгроки отстают§!"
+ alert_players_lagging_behind_desc: "\nХост может автоматически снизить скорость игры, пока следующие игроки не догонят:"
+ alert_players_lagging_behind_desc_entry: "\n - $PLAYER|H$ отстает на $HOURS|R$ часов."
+ alert_is_observer_instant: "В данный момент вы наблюдаете за игрой глазами $COUNTRY$".
+ alert_is_observer_delayed_enter: "Нажмите, чтобы войти в режим выбора страны"
+ alert_is_observer_delayed_exit: "Нажмите, чтобы выйти из режима выбора страны"
+ alert_is_observer_delayed_desc: ", Выберите страну для наблюдения, нажав Ctrl или кликнув в режиме выбора страны либо на карте, либо на любом флаге".
+ alert_can_play_observed_instant: "Вы можете взять под контроль $COUNTRY$, нажмите здесь, чтобы сделать это."
+ alert_naval_battle_results_instant: "§HНепрочитанные результаты морского сражения§!"
+ alert_naval_battle_results_delayed_list: "Есть непрочитанные результаты для Морские сражения в:\n$LIST$"
+ alert_naval_battle_results_delayed_click: "§GКликните для центрирования на следующем результате.\nНажмите на иконку £mapicon_naval_battle_result_text в регионе, чтобы прочитать отчет.\n§!"
+ alert_naval_battle_results_entry: "$RESULT$ $NAME$: $A_TAG$ $A_VALUE$ - $D_TAG$ $D_VALUE$"
+ alert_naval_convoy_raiding_results_instant: "§HНепрочитанные результаты боя рейдеров морских конвоев§!"
+ alert_naval_convoy_raiding_results_delayed_list: "Есть непрочитанные результаты для Naval Convoy Raider Battles в:\n$LIST$".
+ alert_naval_convoy_raiding_results_delayed_click: "§GЩёлкните, чтобы сосредоточиться на следующем результате.\nНажмите на иконку £topbar_convoys в регионе, чтобы прочитать отчет.\n§!"
+ alert_naval_convoy_raiding_results_entry: "$RESULT$ $NAME$: $A_TAG$ $A_VALUE$ - $D_TAG$ $D_VALUE$".
+ alert_exiled_units_instant: "§HУ нас есть изгнанные подразделения§!"
+ alert_exiled_unit: "$NAME$"
+ alert_external_influences_instant: "§HВнешнее политическое влияние!§!"
+ alert_external_influences_delayed_list: "$LIST$"
+ alert_external_influences_delayed_entry: "$COUNTRY|H$ - $ACTIONS$"
+ alert_external_influences_stage_coup: "§YУстроить переворот§!"
+ alert_external_influences_boost_party_popularity: "§YПовышение популярности партии§!".
+ alert_lack_of_resources_instant: "§HНедостаточно ресурсов§!"
+ alert_lack_of_resources_delayed: "Требуется: $RESOURCES$.\nОборудование будет производиться со §RСниженной скоростью§! пока на заводах не хватает ресурсов."
+ alert_paused_diplomatic_actions_instant: "§HДипломатические действия не могут привести к прогрессу§!".
+ alert_paused_diplomatic_actions_delayed: "Некоторые из ваших дипломатических действий не могут продвигаться, потому что вам не хватает законодательной власти.\nПодумайте об отмене этих действий, чтобы они не повлияли на ваш прирост законодательной власти.\n\nЗатронутые отношения:\n$COUNTRIES$"
+ alert_resistance_instant: "§HСопротивление оккупации!§!"
+ alert_resistance_delayed: "Высокий уровень сопротивления в:\n$LIST|H$"
+ alert_resistance_delayed_countries: "§HСтраны:§!"
+ alert_resistance_delayed_states: "§HРегионы:§!"
+ alert_outdated_equipment_instant: "§HУстаревшее оборудование в производстве§!"
+ alert_outdated_equipment_delayed: "Мы производим следующее устаревшее оборудование:\n$LIST|H$".
+ ACTIVE_MODIFIER_ALERT_ENTRY_HEADER: "$NAME|H$ активно на:"
+ ACTIVE_MODIFIER_ALERT_ENTRY: "$NAME$"
+ NOT_ACTIVE_MODIFIER_ALERT_ENTRY_HEADER: "$NAME|H$ будет активирован, когда сопротивление достигнет $LIMIT|R.0%%$:"
+ NON_ACTIVE_MODIFIER_ALERT_ENTRY: "$NAME$ ($RESISTANCE|R.0%%$)" #NT!
+ victory_color: "§G(Победа)§!"
+ defeat_color: "§R(Поражение)§!"
+ alert_not_training_divisions_instant: "§HНет дивизий в базовой подготовке§!"
+ alert_not_training_divisions_delayed: "В настоящее время вы не обучаете новые дивизии".
+ PLAY_AS_OBSERVED: "Играть как наблюдаемая страна".
+ PLAY_AS_OBSERVED_DESC: "Вы уверены, что хотите начать играть как $COUNTRY$?".
+ ASK_TO_COOP_TITLE: "Попроситься в кооператив"
+ ASK_TO_COOP_TITLE_DESC: "Вы уверены, что хотите попросить $PLAYER$ о совместной игре в $COUNTRY$?".
+ ALLOW_COOP_REQUEST: "Игрок просит кооп"
+ ALLOW_COOP_REQUEST_DESC: "Игрок $PLAYER$ просит присоединиться к вам в качестве партнера по кооперативу, разрешите?".
+ AND_X_MORE_REPORT: "\nAnd $VAL|Y$ more reports"
+ ALERT_AIR_RESERVES_UNUSED_ENTRY: "$EQUIPMENT|Y$: $AMOUNT|0Y$"
+ alert_port_strike_results_instant: "§HНепрочитанные результаты портового удара§!"
+ alert_port_strike_results_delayed_list: "В:\n$LIST$ есть непрочитанные результаты по портовым забастовкам".
+ alert_port_strike_results_delayed_click: "§GЩёлкните, чтобы сосредоточиться на следующем результате.\nНажмите на иконку £mapicon_port_strike_result_text в регионе, чтобы прочитать отчет.\n§!"
+ alert_port_strike_results_entry: "$RESULT$ $NAME$: $A_TAG$ $A_VALUE$ - $D_TAG$ $D_VALUE$"
+ alert_self_gain_autonomy_instant: "§HМы можем повысить нашу автономию§!"
+ alert_self_lose_autonomy_instant: "§HНаша автономия может быть вскоре понижена§!"
+ alert_subject_lose_autonomy_instant: "§HМы можем понизить автономию субъекта§!"
+ alert_subject_gain_autonomy_instant: "§HНаш субъект может скоро повысить свою автономию§!".
+ alert_border_conflict_instant: "§HПограничные конфликты§!"
+ alert_border_conflict_entry: "    - $ATTACKER$ - $DEFENDER$"
+ alert_border_conflict_delayed: "У нас происходят пограничные конфликты".
+ alert_border_conflict_toggle: "Нажмите, чтобы переключиться между пограничными конфликтами§!".
+ alert_is_at_war_instant: "Мы в состоянии войны!".
+ alert_is_at_war_delayed_list: "В настоящее время мы находимся в состоянии войны с: $COUNTRY_LIST$"
+ alert_is_at_war_delayed_majors: "В настоящее время мы находимся в состоянии войны с $NUM_MAJORS|Y$ основными странами: $COUNTRY_LIST$".
+ alert_ally_pulling_its_expeditionaries_instant: "§HЭкспедиционные силы отозваны§!"
+ alert_ally_pulling_its_expeditionaries_delayed: "Экспедиционные силы из $COUNTRY_LIST|H$ отозваны и скоро вернутся в свои страны".
+ ALERT_RIGHTCLICK_DISMISS_CURRENT_COMBATS: "§GЩёлкните правой кнопкой мыши, чтобы отменить текущие бои§!"
+ ALERT_LEFTCLICK_TOGGLE_COMBATS: "§Нажмите левой кнопкой мыши для переключения между боями§!".
+ ALERT_NAVAL_COMBAT_INFO: "Есть $NUM|H$ новых морских сражений во флотах, которые отмечены как важные".
+ ALERT_NAVAL_COMBAT_INFO_REGION: "В этом регионе произошло $NUM|H$ новых морских сражений."
+ ALERT_PRIORITY: "§HПриоритет оповещения флота:§! $TYPE$"
+ ALERT_PRIORITY_NORMAL: "Нормальный"
+ ALERT_PRIORITY_HIGH: "§GВысокий§!"
+ ALERT_PRIORITY_DETAILS: "Флоты с высоким приоритетом оповещения будут сообщать о своих оповещениях вместе с другими глобальными оповещениями".
+
+ ALERT_RIGHTCLICK_DISMISS_CURRENT_SPOTTERS: "§GЩёлкните правой кнопкой мыши чтобы отменить текущие наблюдения§!"
+ALERT_LEFTCLICK_TOGGLE_SPOTTER: "§GЩёлкните левой кнопкой мыши для переключения между споттерами§!"
+ ALERT_SPOTTER_INFO: "В регионах есть $NUM|H$ новых наблюдений флотов, отмеченных как важные."
+ ALERT_SPOTTER_INFO_REGION: "В этом регионе обнаружено $NUM|H$ новых наблюдений."
+
+ ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP: "§RНи один шифр противника не расшифровывается.§!"
+ ALERT_NO_CRYPTO_IS_BEING_DECRYPTED_TOOLTIP_DELAYED: "§GЩёлкните левой кнопкой мыши§! чтобы открыть окно криптографии."
+ ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP: "Вы успешно расшифровали шифр следующих стран:"
+ ALERT_ENEMY_CRYPTO_IS_BROKEN_TOOLTIP_DELAYED: "§GЩёлкните левой кнопкой мыши§! чтобы открыть окно криптографии."
+ alert_not_enough_garrison_instant: "§HНе хватает людей или оборудования для выполнения наших гарнизонов§!"
+ alert_not_enough_garrison_warning: "§RНекоторые законы об оккупации не будут иметь полного действия, пока их потребности в гарнизонах не будут полностью удовлетворены.§!"
+ alert_not_enough_garrison_delayed: "Нам не хватает $NUM|*H$ людских ресурсов".
+ alert_not_enough_garrison_delayed_equipment: "Нам не хватает следующего оборудования:"
+ ALERT_LOSING_TRAINS: "Теряем поезда из-за авиаударов противника по логистике!".
+ ALERT_OPERATIVE_READY_TO_RECRUIT_INSTANT: "Оперативник может быть завербован".
+ ALERT_OPERATIVE_READY_TO_RECRUIT_DELAYED: "§GClick§! чтобы открыть окно вербовки".
+ alert_doctrine_unlock_instant: "§YДоктрины доступны§!"
+ alert_doctrine_unlock_delayed: "Вы можете разблокировать новую: \n$DOCTRINE$".
+ alert_officer_corps_instant: "§YИзменение офицерского корпуса§!"
+ alert_officer_corps_spirit_delayed: "Военные духи:\nВы можете выбрать:\n$SPIRIT|Y$"
+ alert_officer_corps_advisor_delayed: "Советники:\nВы можете выбрать:\n$ADVISOR|Y$\n"

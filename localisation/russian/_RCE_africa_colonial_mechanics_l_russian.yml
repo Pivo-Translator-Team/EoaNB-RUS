@@ -1,0 +1,236 @@
+﻿l_russian:
+
+ autonomy_afr_colony: "Колония"
+ autonomy_afr_dominion: "Доминион"
+ autonomy_afr_colonial_company: "Колониальная компания"
+ autonomy_afr_protectorate: "Протекторат"
+
+ colonial_militia_infantry: "Колониальное ополчение"
+ dutch_colonial_militia_infantry: "Голландское колониальное ополчение"
+
+ afr_is_colonial_resistor_tooltip: "Имеет историю §YКолониального Сопротивления§!".
+ afr_colonial_neighbor_has_our_land_tooltip: "посягнул на §Y[ROOT.GetAdjective]§! землю".
+
+ afr_has_unsanctioned_raid_against_colonial_neighbor_absolved_tooltip: "§Y[THIS.GetName]§! §Gбольше не будет получать несанкционированные рейды от§! §Y[ROOT.GetAdjective]§! §Gплемён.§!\n"
+ afr_tribal_raid_colonial_neighbor: "[afr_tribal_raid_colonial_neighbor_scripted]"
+ afr_tribal_raid_colonial_neighbor_sanctioned: "Рейд на колониального нарушителя: [FROM.GetAdjective] граница".
+ afr_tribal_raid_colonial_neighbor_unsanctioned: "Несанкционированный рейд: [FROM.GetAdjective] граница".
+ afr_tribal_raid_colonial_neighbor_desc: "[afr_tribal_raid_colonial_neighbor_desc_scripted]".
+ afr_tribal_raid_colonial_neighbor_desc_sanctioned: "Не имеет §RНесанкционированного рейда§!\n\nМы отправим рейдерский отряд к границе [FROM.GetName], в надежде успешно ограбить их запасы и помешать их усилиям по расширению."
+ afr_tribal_raid_colonial_neighbor_desc_unsanctioned: "Не имеет §RНесанкционированного рейда§!\n\nМестное племя в пределах нашей границы может попытаться совершить несанкционированный рейд на [FROM.GetName]. Это связано с тем, что племена в пределах наших границ имеют автономию над своими местными землями, что затрудняет контроль за тем, чтобы диссиденты не нарушали наши дипломатические отношения."
+ afr_tribal_raid_colonial_neighbor_command_power_more_than_99: "£command_power §H100§!".
+ afr_tribal_raid_colonial_neighbor_command_power_more_than_99_blocked: "£command_powe §R100§!".
+ afr_tribal_raid_colonial_neighbor_command_power_more_than_99_tooltip: "Стоит 100£command_power чтобы отправить §YРейдерский Отряд§! к границе §Y[FROM.GetName]§!".
+
+ MOR_tribal_raid_colonial_neighbor_random_intertribe_raid_tooltip: "Мы не позволили местному племени провести §RНесанкционированный Рейд§! на §Y[FROM.GetName]§!".
+ afr_has_unsanctioned_raid_against_colonial_neighbor_effect_tooltip: "Племя в пределах нашей границы планирует и проводит §OНесанкционированный Рейд§! против §Y[THIS.GetName]§!.\n".
+ afr_has_unsanctioned_raid_against_colonial_neighbor_timeout_tooltip: "§RЕсли не предотвратить, может произойти дипломатический инцидент.§!\n"
+
+ afr_tribal_raid.7.t: "Обнаружен [FROM.GetAdjective]  рейдерский отряд!".
+ afr_tribal_raid.7.d: "Мы должны подготовиться к предстоящему набегу на нашу границу с ними!"
+ afr_tribal_raid.7.a: "Мы должны подготовиться к пограничной войне".
+ set_border_war_data_afr_tribal_raid_colonial_neighbor_combat_width_tooltip: "Разведка предсказала, что §YШирина фронта§! для этой §YПограничной войны§! будет §R20§!".
+
+ afr_tribal_raid.1.t: "Пограничный рейд успешен!"
+ afr_tribal_raid.1.d: "Наши воины вернулись с добычей из запасов противника!".
+ afr_tribal_raid.1.a: "Отлично! Принесите это в хранилище!".
+
+ afr_tribal_raid.2.t: "Пограничный рейд провален!"
+ afr_tribal_raid.2.d: "Наши воины возвращаются домой с пустыми руками после неудачного рейда. Пограничная война была не только проиграна, но и понесла большие потери".
+ afr_tribal_raid.2.a: "Это ужасно!"
+
+ afr_tribal_raid.3.t: "Тупик на границе!".
+ afr_tribal_raid.3.d: "То, что началось как набег, превратилось в полномасштабную пограничную войну, которую не может выдержать ни одна из сторон. Агрессоры конфликта решили отступить, так как продолжение пограничной войны стало слишком дорогостоящим."
+ afr_tribal_raid.3.a: "Только временная неудача...".
+
+ afr_tribal_raid.4.t: "Оборона границы успешна!"
+ afr_tribal_raid.4.d: "Рейдовая группа была успешно отбита! Запасы на границе пока в безопасности".
+ afr_tribal_raid.4.a: "Они не смогут так легко разграбить наши запасы!".
+
+ afr_tribal_raid.5.t: "Запасы разграблены на границе!"
+ afr_tribal_raid.5.d: "Пограничная оборона была плохо оборудована для защиты города от вражеских набегов! В результате запасы нашего города были разграблены, а агрессоры сбежали с нашими припасами."
+ afr_tribal_raid.5.a: "Надеюсь, они не успели унести много!".
+
+ afr_tribal_raid.6.t: "Патовая ситуация на границе!"
+ afr_tribal_raid.6.d: "То, что началось как набег, превратилось в полномасштабную пограничную войну, которую не может выдержать ни одна из сторон. Агрессоры конфликта решили отступить, так как продолжение пограничной войны стало слишком дорогостоящим."
+ afr_tribal_raid.6.a: "Похоже, мы можем расслабиться на время...".
+
+
+ afr_rrp_foreign_company_coup: "Партнерство колониальной компании"
+ afr_rrp_company_coup_stage_0: "Заговорщический переворот в [FROM.GetName]"
+ afr_rrp_company_coup_stage_0_desc: "Оказывая влияние на колониальную компанию в [FROM.GetName], можно начать переворот против местного правительства. Конечно, этот процесс требует времени, и за один раз может быть заговорен только один переворот."
+ afr_rrp_company_coup_stage_1: "Дестабилизировать регион"
+ afr_rrp_company_coup_stage_1_desc: ""
+ afr_rrp_company_coup_stage_2: "Финансировать армию компании"
+ afr_rrp_company_coup_stage_2_desc: ""
+ afr_rrp_company_coup_stage_3: "Влияние на местную политику"
+ afr_rrp_company_coup_stage_3_desc: ""
+ afr_rrp_company_coup_stage_4: "Делегитимизация правителя"
+ afr_rrp_company_coup_stage_4_desc: ""
+ afr_rrp_company_coup_stage_5: "Инициировать переворот"
+ afr_rrp_company_coup_stage_5_desc: ""
+ afr_rrp_company_coup_stage_cancel: "Отменить переворот в [FROM.GetName]".
+
+
+ DCI_is_greater_than_10: "§YПагубное Воздействие§! больше, чем §Y10§!"
+ DCI_is_greater_than_12: "§YПагубное Воздействие§! больше, чем §Y12§!".
+ DCI_is_greater_than_15: "§YПагубное Воздействие§! больше, чем §Y15§!".
+
+
+
+ AFR_moderate_political_power_dip_100: "Законодательная Власть: §R-100§!."
+
+ WDD_KBO_TRUCE: "Ваддайско-Борнуйское перемирие"
+ WDD_KBO_TRUCE_desc: "Несколько десятилетий назад эти народы были в состоянии войны и решили временно отложить свои обиды, чтобы восстановиться после истощения войной."
+ WDD_KBO_TRUCE_tooltip: "Не имеет перемирия с [FROM.GetName]".
+
+ WDD_wadai_hegemony: "Региональный гегемон"
+ WDD_target_of_slave_raids: "Опасно сокращающееся население"
+ WDD_target_of_slave_raids_desc: "[ROOT.GetName] стал объектом набегов рабов со стороны соседних племен и различных факторов, которые привели к значительному сокращению населения."
+ GLD_end_of_a_golden_era: "Конец золотой эпохи".
+
+ AFR_has_no_slavery_tooltip: "Не имеет формы §YЮридического рабства§!".
+ AFR_has_slavery_tooltip: "Имеет некоторую форму §YРабства§!"
+ LIB_sell_slaves_for_guns: "Продавать рабов за либерийское оружие".
+ #Opinion Modifiers #NT!
+ BMM_likes_germany: "Благоприятствует Германии"
+#AFR_geledi_liberation_conflicts:0 "Geledi Anti-Colonial Conflicts"
+#AFR_futa_islamic_jihad:0 "Fellow Jihad Movement"
+ AFR_fulani_jihad_conflict: "Конфликты фулани Джихада"
+ AFR_kanem_bornu_waddai_conflicts: "Конфликты Борну-Ваддай"
+ AFR_kanem_bornu_waddai_conflicts_bagirmi: "Конфликты Борну-Ваддай"
+ AFR_kanem_bornu_tributary: "Приток Борну"
+ AFR_sokoto_tributary: "Приток Сокото"
+ AFR_geledi_liberation_conflicts: "Конфликт за освобождение Геледи".
+ AFR_colonial_conflict: "Колониальный конфликт"
+#AFR_french_colony:0 "French Colony"
+#AFR_british_colony:0 "Commonwealth Colony"
+#AFR_netherland_colony:0 "Dutch Colony"
+#AFR_spanish_colony:0 "Spanish Colony"
+#AFR_chinese_colony:0 "Chinese Tributary"
+ AFR_foreign_colony: "Иностранная колония"
+
+ afr_colonial_reforming_kingdom: "Реформирование региональной власти"
+ afr_colonial_reforming_kingdom_1: "Реформирование региональной власти"
+ afr_colonial_reforming_kingdom_2: "Реформирование региональной власти"
+ afr_colonial_reforming_kingdom_3: "Реформирование региональной власти"
+
+ afr_colonial_malaria_scourge: "Бич малярии"
+ afr_colonial_malaria_scourge_desc: "Малярия - одна из самых высоких причин смерти в колониях. Как распространяется малярия, было загадкой в течение десятилетий, но наука разгадает, что ее распространяют комары. Необходимо принять меры, чтобы устранить бич малярии!".
+ afr_colonial_malaria_scourge_1: "Бич малярии"
+ afr_colonial_malaria_scourge_1_desc: "Малярия является одной из самых высоких причин смерти в колониях. Как распространяется малярия, было загадкой в течение десятилетий, но наука разгадает, что ее распространяют комары. Необходимо принять меры, чтобы устранить бич малярии!".
+ afr_colonial_malaria_scourge_2: "Бич малярии"
+ afr_colonial_malaria_scourge_2_desc: "Малярия является одной из самых высоких причин смерти в колониях. Способ распространения малярии был загадкой в течение десятилетий, но наука разгадает, что ее распространяют комары. Необходимо принять меры, чтобы устранить бич малярии!".
+ afr_colonial_malaria_scourge_3: "Бич малярии"
+ afr_colonial_malaria_scourge_3_desc: "Малярия является одной из самых высоких причин смерти в колониях. Способ распространения малярии был загадкой в течение десятилетий, но наука разгадает, что ее распространяют комары. Необходимо принять меры, чтобы устранить бич малярии!".
+
+ #Various Countries #NT!
+ BMM_ibrahim_njoya_becomes_king: "Ибрагим Нджоя стал королем"
+ BMM_becomes_protectorate_of_germany: "Стать протекторатом Германии"
+ FTJ_futa_jallon_jihad: "Фута джаллон джихад".
+ FTT_futa_toro_jihad: "Фута торо джихад"
+ FTT_futa_toro_jihad_holdout: "Фута Торо Джихад"
+ TOU_toucouleur_jihad: "Тукулер Джихад".
+ MSN_massina_jihad: "Массина Джихад"
+ ADM_adamawa_jihad: "Джихад Адамавы"
+ DSS_dosso_jihad: "Джихад Доссо"
+ TRZ_trarza_jihad: "Джихад Трарзы"
+
+ #Colonial Stuff #NT!
+ AF_T_idea_trading_nation_3: "Партнерство с колониальной компанией"
+ AF_T_idea_trading_nation_3_desc: "Эта страна установила партнерство колониальной компании с иностранным государством в обмен на помощь в индустриализации. Колониальная держава, стоящая за партнерством, имеет большое влияние на регион, даже если сама африканская страна не является колонией."
+ AF_T_idea_trading_nation_4: "Колониальная компания"
+ AF_T_idea_trading_nation_4_desc: "Колониальная держава, стоящая за этой колонией, возлагает большие надежды на эту нацию и хочет убедиться, что они выполняют свои квоты в обмен на продление мандата".
+ afr_rrp_colonial_project_active: "Построение колониального проекта\n"
+ AFR_history_of_colonial_resistance: "История колониального сопротивления"
+ AFR_history_of_colonial_resistance_desc: "Эта нация имеет долгую историю сопротивления колониальной оккупации со стороны европейских и неевропейских держав."
+ AFR_history_of_colonial_resistance_1: "История колониального сопротивления"
+ AFR_history_of_colonial_resistance_1_desc: "У этой нации долгая история сопротивления колониальной оккупации".
+
+ AFR_french_protectorate: "[FRA.GetAdjective] Протекторат".
+ AFR_french_protectorate_desc: "Эта нация находится под сильным влиянием [FRA.GetAdjective] Колониального правления, что дает ей определенные преимущества. С другой стороны, протекторат должен соблюдать определенные правила, чтобы сохранить свой мандат на землю."
+ AFR_french_colony_tribute: "[FRA.GetAdjective] Колония".
+ AFR_french_colony_tribute_desc: "Эта нация находится под [FRA.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_french_colony: "[FRA.GetAdjective] Колония".
+ AFR_french_colony_desc: "Эта нация находится под [FRA.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_british_protectorate: "[ENG.GetAdjective] Протекторат".
+ AFR_british_protectorate_desc: "Эта нация находится под сильным влиянием [ENG.GetAdjective] Колониального правления, что дает им определенные преимущества. С другой стороны, протекторат должен соблюдать определенные правила, чтобы сохранить свой мандат на землю."
+ AFR_british_colony_tribute: "[ENG.GetAdjective] Колония".
+ AFR_british_colony_tribute_desc: "Эта нация находится под [ENG.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_british_colony: "[ENG.GetAdjective] Колония".
+ AFR_british_colony_desc: "Эта нация находится под [ENG.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_netherland_protectorate: "[HOL.GetAdjective] Протекторат".
+ AFR_netherland_protectorate_desc: "Эта нация находится под сильным влиянием [HOL.GetAdjective] Колониального правления, что дает им определенные преимущества. С другой стороны, протекторат должен соблюдать определенные правила, чтобы сохранить свой мандат на землю."
+ AFR_netherland_colony_tribute: "[HOL.GetAdjective] Колония".
+ AFR_netherland_colony_tribute_desc: "Эта нация находится под [HOL.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_netherland_colony: "[HOL.GetAdjective] Колония".
+ AFR_netherland_colony_desc: "Эта нация находится под [HOL.GetAdjective] колониальным правлением, что дает им определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_spanish_protectorate: "[SPR.GetAdjective] Протекторат".
+ AFR_spanish_protectorate_desc: "Эта нация находится под сильным влиянием [SPR.GetAdjective] Колониального правления, что дает им определенные преимущества. С другой стороны, протекторат должен соблюдать определенные правила, чтобы сохранить свой мандат на землю."
+ AFR_spanish_colony_tribute: "[SPR.GetAdjective] Колония".
+ AFR_spanish_colony_tribute_desc: "Эта нация находится под [SPR.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_spanish_colony: "[SPR.GetAdjective] Капитанство".
+ AFR_spanish_colony_desc: "Эта нация была назначена генеральным капитанством и считается неотъемлемой частью [SPR.GetAdjective] Империи."
+ AFR_portuguese_protectorate: "[POR.GetAdjective] Протекторат".
+ AFR_portuguese_protectorate_desc: "Эта нация находится под сильным влиянием [POR.GetAdjective] Колониального правления, что дает ей определенные преимущества. С другой стороны, протекторат должен соблюдать определенные правила, чтобы сохранить свой мандат над землей."
+ AFR_portuguese_colony_tribute: "[POR.GetAdjective] Колония".
+ AFR_portuguese_colony_tribute_desc: "Эта нация находится под [POR.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_portuguese_colony: "[POR.GetAdjective] Колония".
+ AFR_portuguese_colony_desc: "Эта нация находится под [POR.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_swedish_protectorate: "[SWE.GetAdjective] Протекторат".
+ AFR_swedish_protectorate_desc: "Эта нация находится под сильным влиянием [SWE.GetAdjective] Колониального правления, что дает им определенные преимущества. С другой стороны, протекторат должен соблюдать определенные правила, чтобы сохранить свой мандат над землей."
+ AFR_swedish_colony_tribute: "[SWE.GetAdjective] Колония".
+ AFR_swedish_colony_tribute_desc: "Эта нация находится под [SWE.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_swedish_colony: "[SWE.GetAdjective] Колония".
+ AFR_swedish_colony_desc: "Эта нация находится под [SWE.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_german_protectorate: "[GER.GetAdjective] Протекторат".
+ AFR_german_protectorate_desc: "Эта нация находится под сильным влиянием [GER.GetAdjective] Колониального правления, что дает ей определенные преимущества. С другой стороны, протекторат должен соблюдать определенные правила, чтобы сохранить свой мандат на землю."
+ AFR_german_colony_tribute: "[GER.GetAdjective] Колония".
+ AFR_german_colony_tribute_desc: "Эта нация находится под властью [GER.GetAdjective] Колонии, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_german_colony: "[GER.GetAdjective] Колония".
+ AFR_german_colony_desc: "Эта нация находится под [GER.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_hamburg_protectorate: "[HAM.GetAdjective] Протекторат".
+ AFR_hamburg_protectorate_desc: "Эта нация находится под сильным влиянием [HAM.GetAdjective] Колониального правления, что дает им определенные преимущества. С другой стороны, протекторат должен соблюдать определенные правила, чтобы сохранить свой мандат над землей."
+ AFR_hamburg_colony_tribute: "[HAM.GetAdjective] Колония".
+ AFR_hamburg_colony_tribute_desc: "Эта нация находится под властью [HAM.GetAdjective] Колонии, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_hamburg_colony: "[HAM.GetAdjective] Колония".
+ AFR_hamburg_colony_desc: "Эта нация находится под [HAM.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_bremen_protectorate: "[BRE.GetAdjective] Протекторат".
+ AFR_bremen_protectorate_desc: "Эта нация находится под сильным влиянием [BRE.GetAdjective] Колониального правления, что дает им определенные преимущества. С другой стороны, протекторат должен соблюдать определенные правила, чтобы сохранить свой мандат над землей."
+ AFR_bremen_colony_tribute: "[BRE.GetAdjective] Колония".
+ AFR_bremen_colony_tribute_desc: "Эта нация находится под [BRE.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_bremen_colony: "[BRE.GetAdjective] Колония".
+ AFR_bremen_colony_desc: "Эта нация находится под [BRE.GetAdjective] колониальным правлением, что дает им определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю."
+ AFR_russian_protectorate: "[RUS.GetAdjective] Протекторат" #NT!
+ AFR_russian_protectorate_desc: "Эта нация находится под сильным влиянием [RUS.GetAdjective] Колониального правления, что дает ей определенные преимущества. С другой стороны, протекторат должен соблюдать определенные правила, чтобы сохранить свой мандат над землей." #NT!
+ AFR_russian_colony_tribute: "[RUS.GetAdjective] Колония" #NT!
+ AFR_russian_colony_tribute_desc: "Эта нация находится под [RUS.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю." #NT!
+ AFR_russian_colony: "[RUS.GetAdjective] Колония" #NT!
+ AFR_russian_colony_desc: "Эта нация находится под [RUS.GetAdjective] колониальным правлением, что дает ей определенные преимущества. С другой стороны, колония должна поддерживать свои квоты, чтобы сохранить свой мандат на землю." #NT!
+
+ AFR_chinese_colony: "[QNG.GetAdjective] Колония".
+
+ INS_indonesia_colonial_expansion_war_exhaustion_idea: "Затраты на колониальную экспансию"
+
+
+ AFR_transatlantic_supplier: "Конец межконтинентальной работорговли"
+ AFR_transatlantic_supplier_desc: "С [ENG.GetAdjective] блокадой Межконтинентальной работорговли наши доходы от рабства были прекращены."
+ AFR_transatlantic_consumer: "Конец межконтинентальной работорговли".
+ AFR_transatlantic_consumer_desc: "С [ENG.GetAdjective] блокадой Межконтинентальной работорговли, наше производство от рабского труда было сокращено."
+ AFR_illegal_transatlantic: "Незаконная межконтинентальная контрабанда рабов"
+ AFR_illegal_transatlantic_desc: "Даже несмотря на действующую [ENG.GetAdjective] блокаду межконтинентальной работорговли, коррупция позволяет частным структурам продолжать работорговлю в небольших масштабах."
+ AFR_interstate_supplier: "Имеет межгосударственную работорговлю"
+
+
+ afr_transatlantic_slave_bank_decisions: "Межконтинентальная работорговля" #NT!
+ afr_transatlantic_slave_band_decisions_desc: "§YПрименение работорговли:§!\n§WНаш доход от рабства был прерван. Мы должны либо изучить новые пути восстановления нашей экономики от чрезмерной зависимости от рабства, либо найти способы обойти этот запрет.§!\n\n§YЗакон против рабства:§!\n§gГосударство [ENG.GetName] В 1793 приняло Закон против рабства, который сделал рабство незаконным. Королевский флот теперь блокировал всю работорговлю с помощью своей Западно-Африканской эскадры.§!\n\n§YЗакон о запрете импорта рабов:§!\n§g[USA.GetName] В 1807 году приняли Закон о запрете импорта рабов, который отменял работорговлю, но межштатная торговля оставалась законной.§!" #NT!
+ AFR_accept_bribes_for_slave_smuggling: "Разрешить коррупцию при контрабанде рабов".
+ AFR_modernize_slavery: "Модернизировать наше рабство"
+ AFR_interstate_slave_trade_consumer: "Импортировать межгосударственных рабов из племен"
+ AFR_interstate_slave_trade_consumer_tooltip: "Одно из следующих условий должно быть истинным:\n Любой сосед: §YИмеет межгосударственную работорговлю§!\n Любая прибрежная страна: имеет §YНезаконную межконтинентальную контрабанду рабов§!\n"
+ AFR_interstate_slave_trade_supplier: "Установить межгосударственную работорговлю"
+ afr_history_of_colonial_resistance_decisions: "Колониальное сопротивление"
+
+ #Colonial Mechanics #NT!
+ afr_total_detrimental_colonial_impact_idea: "Пагубное воздействие: [?total_detrimental_colonial_impact_value]".
+ afr_total_detrimental_colonial_impact_idea_desc: "В мире, который часто определяется силой и властью, часто бывают случаи, когда целые группы населения могут подвергаться маргинализации, дискриминации или откровенному преследованию. Расовое превосходство", "цивилизация народов" и остракизм обездоленных групп часто приносят краткосрочные выгоды, обеспечивая стабильность и процветание региона для власть имущих. Однако, в то время как действия длятся дни, воспоминания остаются на поколения. и §YПагубное Воздействие§! может привести к будущим беспорядкам и другим непредвиденным последствиям на долгие годы".

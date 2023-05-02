@@ -1,0 +1,391 @@
+﻿l_russian:
+ EFFECT_LIST_OTHERS: "$LIST$ и $NUMBER|Y$ другие".
+ EFFECT_LIST_COUNTRY:1 "@$TAG$$COUNTRY|UH$"
+ EFFECT_TRANSFER_STATE: "Становится владельцем $STATE|Y$".
+ EFFECT_TRANSFER_STATE_TO: "Становится владельцем $COUNTRY|Y$".
+ EFFECT_SET_STATE_OWNER: "Становится владельцем $STATE|Y$".
+ EFFECT_SET_STATE_OWNER_TO: "Становится собственностью $COUNTRY|Y$".
+ EFFECT_SET_STATE_CONTROLLER: "Становится владельцем $STATE|Y$".
+ EFFECT_SET_STATE_CONTROLLER_TO: "Становится подконтрольным $COUNTRY|Y$".
+ EFFECT_SET_PROVINCE_CONTROLLER: "Становится владельцем провинции в $STATE|Y$.\n"
+ EFFECT_ADD_STATE_CLAIM: "Получает претензии на $STATE|Y$".
+ EFFECT_REMOVE_STATE_CLAIM: "Теряет претензии на $STATE|Y$".
+ EFFECT_ADD_STATE_CORE: "$STATE|Y$ становится национальной территорией".
+ EFFECT_REMOVE_STATE_CORE: "$STATE|Y$ перестает быть национальной территорией".
+ EFFECT_COUNTRY_EVENT: "Получает событие '$EVENT|Y$'.\n"
+ POLITICS_PARTY_NAME_CHANGE: "Партия $IDEOLOGY|Y$ теперь будет называться '$NAME|Y$'".
+ EFFECT_EVERY_COUNTRY_STARTS: "Каждая страна".
+ EFFECT_ANNEX_COUNTRY:1 "§Y$NAME|U$§! аннексирует §Y$TARGET$§!".
+ EFFECT_ADD_OPINION:1 "Получает $NAME|H$ (Мнение @$TAG$$TARGET|Y$ $TRUST$.)".
+ EFFECT_REVERSE_ADD_OPINION:1 "@$TAG$$TARGET|UY$ получает $NAME|H$ (Мнение о них изменилось $TRUST$.)".
+ EFFECT_REMOVE_OPINION:1 "Теряет $NAME|H$ (Мнение @$TAG$$TARGET|Y$ $TRUST$.)".
+ EFFECT_ADD_TRADE_OPINION: "Торговые отношения с $TARGET|Y$ с ними изменились на $TRUST$".
+ EFFECT_REVERSE_ADD_TRADE_OPINION: "Торговые отношения @$TAG$$TARGET|UY$ с ними изменились на $TRUST$".
+ EFFECT_REMOVE_TRADE_OPINION: "Торговые отношения с $TARGET|Y$ изменились на $TRUST$".
+ EFFECT_ADD_BUILDING_CONSTRUCTION: "Начать строительство $NUMBER|Y$ $BUILDING|Y$".
+ EFFECT_ADD_BUILDING_CONSTRUCTION_INSTANT: "Добавить $NUMBER|Y$ $BUILDING|Y$".
+ EFFECT_ADD_BUILDING_CONSTRUCTION_PROVINCE: "Начать строительство $NUMBER|Y$ $BUILDING|Y$ в провинцию в регионе."
+ EFFECT_ADD_BUILDING_CONSTRUCTION_INSTANT_PROVINCE: "Добавить $NUMBER|Y$ $BUILDING|Y$ в провинцию в регионе".
+ EFFECT_REMOVE_BUILDING: "Удалить $NUMBER|Y$ $BUILDING|Y$ в $LOCATION|Y$".
+ EFFECT_CREATE_FACTION: "Создать альянс: $NAME|Y$".
+ EFFECT_DISMANTLE_FACTION: "Удалить $NAME|Y$ из альянса".
+ EFFECT_ADD_DOCTRINE_COST_REDUCTION: "$USES$$REDUCTION|G%.0$ Снижение затрат для: $LIST|Y$".
+ EFFECT_SET_FACTION_LEADER: "Назначить лидером фракции $NAME|Y$".
+ EFFECT_SET_FACTION_SPYMASTER: "Назначить шпионом фракции $NAME|Y$".
+ EFFECT_ADD_TO_FACTION:1 "$COUNTRY|UY$ присоединяется к фракции."
+ EFFECT_ADD_TO_FACTION_NAME:1 "$COUNTRY|UY$ присоединяется к $FACTION|Y$".
+ EFFECT_REMOVE_FROM_FACTION:1 "$COUNTRY|UY$ покидает фракцию."
+ EFFECT_REMOVE_FROM_FACTION_NAME:1 "$COUNTRY|UY$ покидает $FACTION|Y$."
+ EFFECT_REMOVE_FROM_FACTION_END_PUPPET: "Марионетка $PUPPET|Y$ становится независимой от $MASTER|Y$".
+ EFFECT_GIVE_GUARANTEE: "Предоставить гарантию $COUNTRY|Y$".
+ EFFECT_GIVE_MILITARY_ACCESS: "Предоставить $COUNTRY|Y$ военный доступ".
+ EFFECT_EVERY_STATE_STARTS: "Каждый регион".
+ EFFECT_ADD_VP: "Добавить $VALUE|H$£ очков победы£ к $PROVINCE|H$".
+ EFFECT_SUBTRACT_VP:1 "Удалить $VALUE|H$£victory_points£ из $PROVINCE|H$".
+ EFFECT_SET_VP: "Установить победные очки $PROVINCE|H$ в $VALUE|H$£victory_points£".
+ EFFECT_EVERY_OWNED_STATE_STARTS: "Каждый принадлежащий регион"
+ EFFECT_EVERY_CONTROLLED_STATE_STARTS: "Каждый контролируемый государство"
+ EFFECT_EVERY_CORE_STATE_STARTS: "Каждый основной регион"
+ EFFECT_EVERY_NEIGHBOR_STATE_STARTS: "Каждый регион соседа"
+ EFFECT_EVERY_NEIGHBOR_COUNTRY_STARTS: "Каждое соседнее государство"
+ EFFECT_EVERY_ALLIED_COUNTRY_STARTS: "Каждая союзная страна"
+ EFFECT_EVERY_ENEMY_COUNTRY_STARTS: "Каждая вражеская страна".
+ EFFECT_ADD_NATIONAL_UNITY: "Получить базовое национальное единство: $VAL|+=%$".
+ EFFECT_SET_NATIONAL_UNITY: "Установить базовое национальное единство: $VAL|%$".
+ EFFECT_ADD_STABILITY: "Получить базовую стабильность: $VAL|+=%$".
+ EFFECT_SET_STABILITY: "Установить базовую стабильность: $VAL|H%$".
+ EFFECT_ADD_WAR_SUPPORT: "Получить базовую поддержку войны: $VAL|+=%$".
+ EFFECT_SET_WAR_SUPPORT: "Установить базовую военную поддержку: $VAL|H%$".
+ EFFECT_REMOVE_WARGOAL: "Удалить военную цель $NAME|UY$ на $COUNTRY|Y$".
+ EFFECT_DECLARE_WAR:1 "$NAME|UY$ объявляет войну $COUNTRY|Y$".
+ EFFECT_END_PUPPET:1 "$NAME|UY$ удаляет марионетку из $COUNTRY|Y$".
+ EFFECT_MANPOWER_ADD_COUNTRY: "Людские Ресурсы: $VAL|+=0$".
+ EFFECT_MANPOWER_ADD_STATE: "Людские Ресурсы: $VAL|+=0$".
+ CHANGE_TAG_EFFECT: "Страна меняется на $COUNTRY|Y$".
+ EFFECT_REMOVE_IDEAS_WITH_TRAIT: "Удалить все идеи $TRAIT$ из $COUNTRY$".
+ EFFECT_RELEASE_NATION: "Освободить $COUNTRY|Y$".
+ EFFECT_RELEASE_PUPPET: "Освободить $COUNTRY|Y$ в качестве марионетки".
+ EFFECT_RELEASE_AUTONOMY: "Освободить $COUNTRY|Y$ как $NAME|H$".
+ EFFECT_SET_AUTONOMY: "$TARGET|UY$ становится $AUTONOMY|Y$ из $COUNTRY|Y$".
+ EFFECT_MAKE_PUPPET:3 "$TARGET|UY$ становится марионеткой $COUNTRY|Y$".
+ EFFECT_ADD_AUTONOMY: "Добавляет автономию $COUNTRY|Y$".
+ EFFECT_ADD_CLAIM_BY: "Претензия, полученная @$TAG$$COUNTRY|H$".
+ EFFECT_REMOVE_CLAIM_BY: "Претензия потеряна @$TAG$$COUNTRY|H$".
+ EFFECT_ADD_CORE_OF: "Территория теперь является национальной территорией $COUNTRY|H$".
+ EFFECT_REMOVE_CORE_OF: "Территория теперь больше не является национальной территорией $COUNTRY|H$".
+ EFFECT_CREATE_WARGOAL: "Получает военную цель $WARGOAL|Y$ против $TARGET|Y$".
+ EFFECT_ADD_ARMY_EXPERIENCE: "Опыт армии: $VAL|=+0$".
+ EFFECT_ADD_NAVY_EXPERIENCE: "Опыт ВМФ: $VAL|=+0$".
+ EFFECT_ADD_AIR_EXPERIENCE: "Опыт ВВС: $VAL|=+0$".
+ POLITICS_SET_POLITICAL_POWER: "Устанавливает законодательную власть на $VAL|0Y$".
+ POLITICS_ADD_POLITICAL_POWER: "Законодательная власть: $VAL|=+0$".
+ EFFECT_ADD_NUKE: "Добавить ядерную бомбу: $VAL|=+0$".
+ EFFECT_LAUNCH_NUKE_ON: "Запустить Ядерную бомбу на: $STATE|H$".
+ EFFECT_SET_FUEL: "Устанавливает топливо на $VAL|0Y$".
+ POLITICS_ADD_FUEL: "Топливо: $VAL|=+0$".
+ EFFECT_TECH_BONUS_USES: "§Y$USES$x§! "
+ EFFECT_SOUND_DESC: "Воспроизвести $SOUND_NAME$".
+ EFFECT_SCOPED_SOUND_DESC: "Воспроизвести $SOUND_NAME$ для $COUNTRY|H$".
+ EFFECT_ADD_TECH_BONUS_AHEAD_ONLY:2 "$USES$$AHEAD|G.1$ годы опережающего снижения штрафов для: $LIST|Y$".
+ EFFECT_ADD_TECH_BONUS_BONUS_ONLY: "$USES$$BONUS|%0+$ Бонус за исследования для: $LIST|Y$".
+ EFFECT_ADD_TECH_BONUS:1 "Уменьшает штраф за опережение на $AHEAD|.1G$ лет и дает $BONUS|%0+$ бонус к исследованиям. Действует для следующих $USES|H$ исследований этих технологий: $LIST|H$."
+ EFFECT_ADD_DOCTRINE_COST_REDUCTION: "$USES$$REDUCTION|G%.0$ Снижение затрат для: $LIST|Y$".
+ EFFECT_DEMILITARIZED_ZONE: "Становится демилитаризованной зоной".
+ EFFECT_NOT_DEMILITARIZED_ZONE: "Больше не будет демилитаризованной зоной".
+ EFFECT_ADD_RESEARCH_SLOT: "Получить $COUNT|G$ исследовательский слот".
+ EFFECT_REMOVE_RESEARCH_SLOT: "Потерять $COUNT|R$ слот для исследований".
+ EFFECT_ADD_THREAT: "Напряженность мира увеличена на $THREAT|1R$".
+ EFFECT_REMOVE_THREAT: "Напряженность мира уменьшается на $THREAT|1G$".
+ EFFECT_SET_RESEARCH_SLOTS: "Установить количество исследовательских слотов на $COUNT|H$".
+ EFFECT_SET_FUEL_RATIO: "Установить соотношение топлива на $VAL|%.0H$".
+ EFFECT_BORDER_WAR:1 "начинает пограничную войну"
+ EFFECT_END_BORDER_WAR: "заканчивает пограничную войну"
+ EFFECT_EQUIPMENT_FRACTION: "изменить все снаряжение на $VAL|+0%$".
+ EFFECT_CHANGE_LAW_economy: "Изменить закон экономики на '$NAME|Y$', который дает ($DESC$)".
+ EFFECT_CHANGE_LAW_mobilization_laws: "Изменить закон о мобилизации на '$NAME|Y$', который предоставляет ($DESC$)".
+ EFFECT_CHANGE_LAW_trade_laws: "Изменить закон о торговле на '$NAME|Y$', который дает ($DESC$)".
+ EFFECT_SHOW_IDEA_TOOLTIP: "$NAME|Y$".
+ EFFECT_SHOW_IDEA_TOOLTIP_DETAILED: "$NAME|Y$, который дает ($DESC$)".
+ EFFECT_ADD_IDEA_DETAILED: "Получает '$NAME|Y$', который дает ($DESC$)".
+ EFFECT_ADD_IDEA: "Добавить $NAME$".
+ EFFECT_ADD_IDEA_NATIONAL_SPIRIT_TOOLTIP_DETAILED: "Получает Национальный дух $NAME|Y$, который дает ($DESC$)".
+ EFFECT_REMOVE_IDEA_NATIONAL_SPIRIT: "Удаляет национальный дух $NAME|Y$".
+ EFFECT_REMOVE_IDEA: "Удалить $NAME$".
+ EFFECT_SWAP_IDEAS_REPLACE: "Заменить $REMOVE|Y$ на $ADD|Y$\nЭффективное изменение:".
+ EFFECT_SWAP_IDEAS_REPLACE_AND_SET_DURATION: "Замените $REMOVE|Y$ на $ADD|Y$ и установите продолжительность $DAYS|H$ дней для новой идеи.\nЭффективное изменение:"
+ EFFECT_SWAP_IDEAS_REPLACE_AND_CLEAR_DURATION: "Изменить $REMOVE|Y$ на $ADD|Y$ и удалите его продолжительность.\nЭффективное изменение:"
+ EFFECT_SWAP_IDEAS_REPLACE_AND_ADD_DURATION: "Замените $REMOVE|Y$ на $ADD|Y$ и измените продолжительность идеи на $DAYS_MODIFIED|H$ дней (до $DAYS|H$ дней).\nЭффективное изменение:"
+ EFFECT_SWAP_IDEAS_MODIFY: "Изменить $REMOVE|Y$ на"
+ EFFECT_SWAP_IDEAS_MODIFY_AND_SET_DURATION: "Установить продолжительность $DAYS|H$ дней для $REMOVE|Y$ и изменить ее на"
+ EFFECT_SWAP_IDEAS_MODIFY_AND_REMOVE_DURATION: "Удалить продолжительность $REMOVE|Y$ и изменить ее на"
+ EFFECT_SWAP_IDEAS_MODIFY_AND_ADD_DURATION: "Изменить продолжительность $REMOVE|Y$ на $DAYS_MODIFIED|H$ дней (до $DAYS|H$ дней) и изменить идею на"
+ EFFECT_SWAP_RULER_TRAITS_REPLACE: "$LEADER|Y$: Замените черту $REMOVE|Y$ на $ADD|Y$\nЭффективное изменение:"
+ EFFECT_SWAP_RULER_TRAITS_MODIFY: "$LEADER|Y$: Изменить черту $REMOVE|Y$ на "
+ EFFECT_SWAP_IDEAS_TARGETED_MODIFIERS: "$COUNTRY|UH$:\n$MODIFIER$"
+ EFFECT_SWAP_IDEAS_ADD_TRAIT: "Добавляет: $ADDLIST|Y$"
+ EFFECT_SWAP_IDEAS_REMOVE_TRAIT: "Удаляет: $REMOVELIST|Y$"
+ EFFECT_GIVE_TECHNOLOGY: "Добавить технологию: $NAME|Y$".
+ EFFECT_REMOVE_TECHNOLOGY: "Удалить технологию: $NAME|Y$".
+ EFFECT_SEND_EQUIPMENT_NO_SORT: "Отправить $AMOUNT|Y$ из $EQUIPMENT_NAME|Y$ в $COUNTRY|Y$".
+ EFFECT_SEND_EQUIPMENT_NEW: "Отправить $AMOUNT|Y$ из $EQUIPMENT_NAME|Y$ в $COUNTRY|Y$. Новые идут первыми".
+ EFFECT_SEND_EQUIPMENT_OLD: "Отправить $AMOUNT|Y$ из $EQUIPMENT_NAME|Y$ в $COUNTRY|Y$. Старые отправляются первыми".
+ EFFECT_SEND_EQUIPMENT_FRACTION: "Отправить $FRACTION|Y1%$ всех запасов в $COUNTRY|Y$".
+ EFFECT_ADD_RESOURCE: "Добавить производство $RESOURCE|H$ в $STATE$".
+ EFFECT_REMOVE_RESOURCE: "Удалить производство $RESOURCE|H$ в $STATE$".
+ EFFECT_ADD_TEMPORARY_RESOURCE: "Добавить производство $RESOURCE|H$ в $STATE$ на $DAYS|H$ дней".
+ EFFECT_REMOVE_TEMPORARY_RESOURCE: "Удалить производство $RESOURCE|H$ в $STATE$ на $DAYS|H$ дней".
+ EFFECT_CREATE_IMPORT: "Создать импорт $RESOURCE|H$ для $IMPORTER|H$ из $EXPORTER|H$".
+ EFFECT_CREATE_IMPORT_HAS_DATA: "Создать импорт $RESOURCE|H$ для $IMPORTER|H$ из $EXPORTER|H$ с $DATE|H$".
+ EFFECT_ENACT_RELATION: "Ввести в действие $NAME|H$ с $WHO|H$".
+ EFFECT_CANCEL_RELATION: "Отменить $NAME|H$ с $WHO|H$".
+ EFFECT_SET_RULE: "Установить правило: "
+ EFFECT_SET_CAPITAL: "Перемещает капитал в $STATE|Y$".
+ EFFECT_ADD_ADVISOR_ROLE: "становится $TYPE$ с эффектом:\n$DESC$\n".
+ EFFECT_ADD_ADVISOR_ROLE_APPOINT: "становится $TYPE$ с эффектом:\n$DESC$\n и нанимается напрямую.\n".
+ EFFECT_REMOVE_ADVISOR_ROLE: "прекращает взаимодействие в качестве $TYPE$.\n"
+ EFFECT_SET_CAN_BE_FIRED: "$CHARACTER|H$$SLOT$now can be fired" #NT!
+ EFFECT_SET_CANNOT_BE_FIRED: "$CHARACTER|H$$SLOT$now cannot be fired" #NT!
+ EFFECT_REMOVE_UNIT_LEADER_ROLE: "увольняется с действительной службы как $TYPE$.\n"
+ EFFECT_REMOVE_FM_LEADER: "$NAME|H$ перестает быть фельдмаршалом.\n"
+ EFFECT_REMOVE_CC_LEADER: "$NAME|H$ перестает быть генералом.\n"
+ EFFECT_REMOVE_NAVY_LEADER: "$NAME|H$ перестает быть командующим флотом.\n"
+ EFFECT_CREATE_FM_LEADER: "$NAME|H$ становится фельдмаршалом.\n"
+ EFFECT_CREATE_CC_LEADER: "$NAME|H$ становится генералом.\n"
+ EFFECT_CREATE_NAVY_LEADER: "$NAME|H$ становится командующим флотом.\n"
+ EFFECT_CREATE_OPERATIVE_LEADER: "$NAME|H$ становится оперативником.\n"
+ EFFECT_ASSIGN_ADVISOR:1 "Назначить советника $NAME|H$ с эффектом\n$DESC$\n"
+ EFFECT_DEACTIVATE_ADVISOR: "Удалить советника $NAME|H$, потерявшего эффект\n$DESC$\n"
+ #EFFECT_ADD_ADVISOR_ROLE: "$NAME|H$ becomes a $TYPE$ with the effect:\n$DESC$\n"
+ #EFFECT_ADD_ADVISOR_ROLE_APPOINT: "$NAME|H$ becomes a $TYPE$ with the effect:\n$DESC$\nand is directly hired.\n"
+ #EFFECT_REMOVE_ADVISOR_ROLE: "$NAME|H$ stops being a $TYPE$.\n"
+ #EFFECT_REMOVE_UNIT_LEADER_ROLE: "$NAME|H$ stops being a $TYPE$.\n"
+ EFFECT_RECRUIT_CHARACTER: "Рекрутировать $NAME|H$"
+ EFFECT_RETIRE_CHARACTER: "Уволить $NAME|H$ из $COUNTRY|Y$"
+ EFFECT_ADD_TIMED_IDEA: "Получает '$IDEA|H$', которая дает ($DESC$) на $DAYS|H$ дней.\n"
+ TIMED_IDEA_DATE: "§HБудет удалена $DATE$§!".
+ IDEA_EXPIRED_HEADER: "Срок действия идеи истек"
+ IDEA_EXPIRED_DESC: "Мы больше не получаем эффекты от $IDEA|H$".
+ EFFECT_WHITE_PEACE_WITH: "Мир со страной $COUNTRY|Y$".
+ EFFECT_CONTEXT_COUNTRY: "(@$TAG$$COUNTRY|H$)"
+ EFFECT_CONTEXT_STATE:1 "$COUNTRY|UH$"
+ EFFECT_CONTEXT_LEADER: "$LEADER|H$($FLAG$)"
+ EFFECT_KILL_COUNTRY_LEADER: "$NAME|Y$ умирает."
+ EFFECT_RETIRE_COUNTRY_LEADER: "$NAME|Y$ уходит на пенсию".
+ EFFECT_CREATE_COUNTRY_LEADER: "$NAME|Y$ становится лидером партии $IDEOLOGY|Y$".
+ EFFECT_LOAD_FOCUS_TREE: "Изменяет дерево национального фокуса на $TREE_NAME|Y$".
+ EFFECT_START_CIVIL_WAR: "Сторонники $IDEOLOGY|Y$ начинают гражданскую войну".
+ EFFECT_TRANSFER_UNITS: "Передает процент своих сил $RECIPIENT|Y$".
+ EFFECT_SET_MAJOR_YES:1 "$COUNTRY|U$ получит статус основной страны в мире по умолчанию".
+ EFFECT_SET_MAJOR_NO:1 "$COUNTRY|U$ потеряет основной статус по умолчанию в мире".
+ EFFECT_GO_TO_PROVINCE: "Переместить камеру в $STATE$".
+ EFFECT_GO_TO_STATE: "Переместить камеру в $STATE$".
+ TOUCHED_GAMESTATE_NO_MP: "Вы не можете играть в мультиплеер, если вы ранее вошли в лобби. Это будет исправлено в финальной версии. Пожалуйста, выйдите из игры и сразу перейдите в мультиплеер".
+ EFFECT_SET_POLITICS: "Политика изменится:"
+ EFFECT_SET_POLITICS_RULING_PARTY: "$PARTY|Y$ становится правящей партией."
+ EFFECT_SET_POLITICS_ELECTIONS: "Будут проведены публичные выборы".
+ EFFECT_SET_POLITICS_NO_ELECTIONS: "Общественные выборы не будут проводиться".
+ EFFECT_SET_POLITICS_ELECTION_FREQUENCY: "Выборы будут проходить каждые $MONTHS|H$ лет".
+ EFFECT_SET_POPULARITIES: "Популярность партий будет меняться:"
+ EFFECT_ADD_EXTRA_STATE_SHARED_BUILDING_SLOTS: "Добавить $COUNT|G$ слотов для строительства".
+ EFFECT_REMOVE_EXTRA_STATE_SHARED_BUILDING_SLOTS: "Удалить $COUNT|R$ строительные слоты".
+ EFFECT_ADD_TO_WAR: "Присоединяется к $COUNTRY1|Y$ в их войне против $COUNTRY2|Y$.\n"
+ EFFECT_CREATE_EQUIPMENT_VARIANT: "Создать вариант $PARENT|Y$: $NAME|Y$.\n"
+ EFFECT_ADD_EQUIPMENT_PRODUCTION: "Добавить производство $EQUIPMENT|Y$.\n"
+ EFFECT_ADD_ACE: "$NAME|Y$ '$CALLSIGN|Y$' $SURNAME|Y$ становится летающим тузом.\n"
+ NO_EFFECT: "Ничего не происходит"
+ EFFECT_ADD_COUNTRY_LEADER_TRAIT: "$LEADER|H$ получает: $TRAIT$"
+ EFFECT_REMOVE_COUNTRY_LEADER_TRAIT: "$LEADER|H$ теряет: $TRAIT$"
+ EFFECT_ADD_EQUIPMENT_TO_STOCKPILE_FOREIGN_PRODUCER: "$AMOUNT|Y*$ единиц $PRODUCER$ $EQUIPMENT|Y$ добавляется в национальный запас".
+ EFFECT_REMOVE_EQUIPMENT_FROM_STOCKPILE_FOREIGN_PRODUCER: "$AMOUNT|Y*$ единиц $PRODUCER$ $EQUIPMENT|Y$ удаляется из национального запаса".
+ EFFECT_ADD_EQUIPMENT_TO_STOCKPILE: "$AMOUNT|Y*$ единиц $EQUIPMENT|Y$ добавляется в национальный запас".
+ EFFECT_REMOVE_EQUIPMENT_FROM_STOCKPILE: "$AMOUNT|Y*$ единиц $EQUIPMENT|Y$ удаляется из национального запаса".
+ EFFECT_DAMAGE_BUILDING: "Здание $BUILDING|Y$ получает $AMOUNT|-$ уровней повреждений".
+ EFFECT_ADD_COUNTRY_TO_TECH_SHARING_GROUP: "@$TAG$$COUNTRY|H$ присоединяется к $GROUPNAME|Y$".
+ EFFECT_REMOVE_COUNTRY_FROM_TECH_SHARING_GROUP: "@$TAG$$COUNTRY|H$ покидает $GROUPNAME|Y$".
+ EFFECT_MODIFY_COUNTRY_TECH_SHARING_BONUS: "$BONUS|+%0$ бонус Technology Sharing от $GROUPNAME|Y$".
+ EFFECT_CREATE_UNIT:1 "Создать подразделение $OWNER|H$"
+ EFFECT_CREATE_UNIT_LOCATION: "Создать подразделение $OWNER|H$ в $STATE|H$\n"
+ EFFECT_CREATE_UNIT_WITH_COUNT: "Создать единицу $COUNT|H$ $OWNER|H$"
+ EFFECT_CREATE_UNIT_LOCATION_WITH_COUNT: "Создать $COUNT|H$ $OWNER|H$ единицу в $STATE|H$\n"
+ EFFECT_CREATE_RAILWAY_GUN: "Создать железнодорожное орудие $OWNER|H$".
+ EFFECT_CREATE_RAILWAY_GUN_LOCATION: "Создать железнодорожное орудие $OWNER|H$ в $STATE|H$\n".
+ EFFECT_SET_COSMETIC_TAG:1 "$COUNTRY|UH$ теперь будет называться $COSMETIC_NAME|H$".
+ EFFECT_AUTONOMY_FREE:1 "$COUNTRY|UY$ становится свободным".
+ EFFECT_SET_STATE_CATEGORY:1 "Категория региона изменяется на $CATEGORY|Y$-типа."
+ EFFECT_ADD_STATE_MODIFIER: "Добавить следующее: $MODIFIERS$"
+ EFFECT_SET_STATE_NAME:1 "Меняет имя на $NAME|Y$".
+ EFFECT_RESET_STATE_NAME: "Возвращает первоначальное имя".
+ EFFECT_SET_PROVINCE_NAME: "$OLDNAME|Y$ переименовывается в $NAME|Y$".
+ EFFECT_RESET_PROVINCE_NAME: "$NAME|Y$ получает свое первоначальное имя обратно".
+ EFFECT_CREATE_LICENSE_PRODUCTION: "Создать лицензионное производство $NAME|H$ для $TARGET|H$".
+ EFFECT_ADD_RELATION_MODIFIER: "Получает $NAME|H$ при работе с $TARGET|H$ - ($DESC$)".
+ EFFECT_REMOVE_RELATION_MODIFIER: "Удаляет $NAME|H$ при работе с $TARGET|H$ - $DESC$".
+ EFFECT_SET_BUILDING_CONSTRUCTION: "Установить $BUILDING|Y$ на уровень $NUMBER|Y$".
+ EFFECT_ADD_OFFSITE_BUILDING: "Добавить $NUMBER|Y$ за пределы карты $BUILDING|Y$".
+ EFFECT_ADD_UNIT_LEADER_TRAIT: "Получает $TRAITNAME|Y$\n$TRAITMODIFIER$".
+ EFFECT_ADD_UNIT_LEADER_TRAIT_WITH_DURATION: "Прирост $TRAITNAME|H$ за $NUMDAYS|H$ дней.\n$TRAITMODIFIER$"
+ EFFECT_ADD_UNIT_LEADER_TRAIT_WITH_DURATION: "Прирост $TRAITNAME|H$ за $NUMDAYS|H$ дней.\n$TRAITMODIFIER$"
+ EFFECT_ADD_TRAIT: "$NAME|H$ приобретает $TRAITNAME|Y$\n$TRAITMODIFIER$".
+ EFFECT_REMOVE_TRAIT: "$NAME|H$ теряет $TRAITNAME|Y$\n$TRAITMODIFIER$"
+ EFFECT_REMOVE_UNIT_LEADER_TRAIT: "Теряет $TRAITNAME|Y$\n$TRAITMODIFIER$"
+ EFFECT_REPLACE_UNIT_LEADER_TRAIT: "Заменяет $TRAITNAME|Y$ на $TRAITNAME2|Y$".
+ EFFECT_REPLACE_UNIT_LEADER_TRAIT_RANDOM: "Замените $TRAITNAME|Y$ случайным признаком".
+ EFFECT_TRANSFER_NAVY: "Перевести весь флот в $COUNTRY|H$".
+ EFFECT_DESTROY_SHIP: "Уничтожить $COUNT|H$ $TYPE|H$".
+ EFFECT_SET_LEADER_NATIONALITY: "Присоединяется к $COUNTRYDEF|Y$"
+ EFFECT_ADD_BUFF_TO_UNITS: "Добавляет улучшение подразделениям, контролируемым лидером подразделения".
+ EFFECT_IMPROVE_PLANNING: "Улучшает планирование подразделений, контролируемых командиром подразделения".
+ EFFECT_BUFF_DEFAULT_TOOLTIP: "Улучшения от эффекта".
+ EFFECT_DESTROY_SHIPS: "Уничтожить $COUNT|H$ $TYPE|H$§Hs§!".
+ EFFECT_DESTROY_SHIPS_ALL: "Все".
+ EFFECT_PROMOTE_LEADER: "Получает повышение до §HФельдмаршала§!".
+ EFFECT_DEMOTE_LEADER: "Получает понижение до §HГенерала§!".
+ EFFECT_GAIN_XP: "Получает $VALUE|H$ опыта".
+ EFFECT_RETIRE_UNIT_LEADER: "Выходит на пенсию в качестве $TITLE|H$".
+ EFFECT_ADD_COMMAND_POWER: "Командный ресурс: $VAL|=+1$".
+ EFFECT_EVERY_UNIT_LEADER_STARTS: "Каждый командир подразделения".
+ EFFECT_EVERY_ARMY_LEADER_STARTS: "Каждый командир армии"
+ EFFECT_EVERY_NAVY_LEADER_STARTS: "Каждый командир флота".
+ EFFECT_EVERY_OPERATIVE_STARTS: "Каждый оперативник".
+ EFFECT_ACTIVATES_MISSION: "Активировать миссию: $NAME|H$"
+ EFFECT_REMOVE_MISSION: "Удалить миссию: $NAME|H$"
+ EFFECT_UNLOCK_DECISION_SELECT_HEADER: "Когда решение выбрано:".
+ EFFECT_UNLOCK_DECISION_TIMED_HEADER: "Удаляется через $DAYS|H$ дней."
+ EFFECT_UNLOCK_DECISION_REMOVE_HEADER: "Когда решение удалено:"
+ EFFECT_UNLOCK_DECISION: "Разблокирует решение: $NAME|H$$EFFECT$"
+ EFFECT_UNLOCK_DECISION_CATEGORY: "Разблокирует решения $NAME|H$".
+ EFFECT_MODIFY_BUILDING_RESOURCES: "Изменить выход ресурсов $BUILDING|H$ на: $AMOUNT|+=$£resources_strip|$FRAME$".
+ EFFECT_ADD_MAX_TRAIT: "Добавляет $NUM|G$ пустой назначаемый слот признака".
+ EFFECT_START_BORDER_WAR: "Начинает пограничную войну между $STATE1|H$ и $STATE2|H$".
+ EFFECT_CANCEL_BORDER_WAR: "Отменяет пограничную войну между $STATE1|H$ и $STATE2|H$".
+ EFFECT_UPDATE_BORDER_WAR: "Обновляет пограничную войну между $STATE1|H$ и $STATE2|H$:".
+ EFFECT_FINALIZE_BORDER_WAR: "$STATE1|H$ выигрывает пограничную войну против $STATE2|H$."
+ EFFECT_UPDATE_BORDER_WAR_COMBAT_WIDTH: " Ширина Фронта : $NUM|.0H$"
+ EFFECT_UPDATE_BORDER_WAR_NUM_UNITS: " Максимальное количество единиц : $NUM|.0H$"
+ EFFECT_UPDATE_BORDER_WAR_MODIFIER: " Боевой модификатор : $NUM|H$"
+ EFFECT_UPDATE_BORDER_WAR_CHANGE_STATE: " Победитель получит регион противника : $VAL|H$".
+ EFFECT_DISABLE_TEMPLATE_EDITTING: "Запретить редактирование шаблона $NAME|H$ и обучение или расформирование подразделений, принадлежащих к нему."
+ EFFECT_ENABLE_TEMPLATE_EDITTING: "Включить редактирование шаблона $NAME|H$ и обучение или расформирование подразделений, принадлежащих к нему".
+ EFFECT_DISABLE_ALL_TEMPLATE_EDITING: "Запретить редактирование всех шаблонов этой страны и обучение или расформирование подразделений, принадлежащих к ним".
+ EFFECT_ENABLE_ALL_TEMPLATE_EDITING: "Включить редактирование всех шаблонов этой страны и обучение или расформирование подразделений, принадлежащих к ним".
+ EFFECT_DELETE_UNIT_TEMPLATE_AND_UNITS: "Удалить шаблон $NAME|H$ и удалить все подразделения, созданные на основе этого шаблона."
+ EFFECT_DISBAND_UNIT_TEMPLATE_AND_UNITS: "Удалить шаблон $NAME|H$ и распустить все подразделения, созданные на основе этого шаблона."
+ EFFECT_DELETE_UNITS: "Удалить все подразделения, созданные на основе шаблона $NAME|H$".
+ EFFECT_DISBAND_UNITS: "Расформировать все подразделения, созданные на основе шаблона $NAME|H$".
+ EFFECT_FORCE_ADD_RESISTANCE: "Добавляет сопротивление к $STATE|H$\n".
+ EFFECT_FORCE_ADD_RESISTANCE_CLEAR: "Снимает сопротивление с $STATE|H$\n".
+ EFFECT_ADD_TEMPORARY_BUFF: "Добавляет следующие эффекты армиям на $NUM|H$ дней".
+ EFFECT_RECALL_ATTACHE: "Отозвать атташе из $COUNTRY|H$".
+ EFFECT_RECALL_VOLUNTEERS_FROM: "Призвать все добровольческие силы из $COUNTRY|H$".
+ EFFECT_ACTIVATE_TARGETED_DECISION: "Активировать $NAME|H$"
+ EFFECT_REMOVE_TARGETED_DECISION: "Удалить $NAME|H$".
+ EFFECT_MODIFY_TIMED_IDEA_INCREASE: "Увеличить продолжительность '$IDEA|H$' до $DATE$ (§H+§!$DAYS|H$ дней).\n"
+ EFFECT_MODIFY_TIMED_IDEA_DECREASE: "Уменьшить продолжительность '$IDEA|H$' до $DATE$ (§H-§!$DAYS|H$ дней).\n"
+ EFFECT_ACTIVATE_DECISION:1 "Активировать решение: $NAME|H$"
+ EFFECT_REMOVE_DECISION: "Удалить решение: $NAME|H$"
+ EFFECT_SET_TRUCE: "Заключить перемирие с $COUNTRY|H$ до $DATE|H$".
+ EFFECT_SUPPLY_UNITS: "Поставить армиям достаточно снабжения на $NUM|H.0$ часов".
+ EFFECT_REMOVE_EXILE_TAG: "Больше не считается изгнанным лидером"
+ EFFECT_ADD_LEGITIMACY: "Легитимность: $VAL|=+0$".
+ EFFECT_SET_LEGITIMACY: "Устанавливает легитимность на $VAL|0Y$".
+ EFFECT_BECOME_EXILED_IN: "Становится §HПравительством в Изгнании§! в $HOSTNAMEDEF|H$".
+ CIVIL_WAR_COUNTRY_EFFECT_BEGIN: "Страна-бунтовщик:\n".
+ EFFECT_ADD_PROVINCE_MODIFIER: "Добавить к провинциям: $MODIFIERLIST$"
+ EFFECT_REMOVE_PROVINCE_MODIFIER: "Удалить из провинций: $MODIFIERLIST$"
+ EFFECT_PROVINCE_MODIFIER_ENTRY: "$NAME|H$ $MODIFIERS$"
+ EFFECT_ADD_DYMAMIC_MODIFIER: "Удалить $NAME|H$, который дает:\n$DESC$"
+ EFFECT_ADD_DYMAMIC_MODIFIER_WITH_DAYS: "Добавить $NAME|H$ ($NUM|H$ дней), который дает:\n$DESC$"
+ EFFECT_REMOVE_DYMAMIC_MODIFIER: "Remove $NAME|H$ that granted:\n$DESC$".
+ EFFECT_SET_FACTION_NAME: "$OLDNAME|H$ теперь будет известно как $NEWNAME|H$".
+ EFFECT_LOAD_OOB: "Загрузить файл порядка боя $NAME|H$".
+ EFFECT_SET_OOB: "Зарегистрировать файл Боевого порядка $NAME|H$ для загрузки при запуске игры."
+ EFFECT_SET_KEYED_OOB: "Зарегистрировать файл Боевого порядка $NAME|H$ с ключом $KEY|H$ для загрузки при запуске игры".
+ EFFECT_GIVE_RESOURCE_RIGHTS: "Дать $RECEIVER|H$ права на ресурсы в $STATE|H$".
+ EFFECT_REMOVE_RESOURCE_RIGHTS: "Удалить права на ресурсы в $STATE|H$".
+ EFFECT_END_EXILE: "Восстановить $COUNTRY|H$".
+ EFFECT_INHERIT_TECHNOLOGY: "Получить те же технологии, что и $COUNTRY|H$".
+ EFFECT_CAPTURE_OPERATIVE: "$CAPTURED_BY|H$ захватывает оперативника $OPERATIVE|H$".
+ EFFECT_KILL_OPERATIVE: "Оперативник $OPERATIVE|H$ убит $KILLED_BY|H$".
+ EFFECT_TURN_OPERATIVE: "Оперативник $OPERATIVE|H$ повернут $TURNED_BY|H$".
+ EFFECT_SET_GARRISON_STRENGTH: "Установить силу гарнизона: $VALUE$".
+ EFFECT_ADD_RESISTANCE: "Сопротивление: $VALUE$".
+ EFFECT_ADD_COMPLIANCE: "Подчинение: $VALUE$".
+ EFFECT_SET_RESISTANCE: "Установить сопротивление: $VALUE|H$".
+ EFFECT_SET_COMPLIANCE: "Установить подчинение: $VALUE|H$".
+ EFFECT_INIT_RESISTANCE_BY_COUNTRY: "Инициализировать активность сопротивления по $COUNTRY|H$\n".
+ EFFECT_INIT_RESISTANCE: "Инициализировать активность сопротивления".
+ EFFECT_CANCEL_RESISTANCE: "Отключить действие сопротивления".
+ EFFECT_HARM_OPERATIVE: "$CODENAME|H$ ($NAME|H$) поврежден и недоступен в течение $DAYS|H$ дней".
+ EFFECT_FORCE_OPERATIVE_INTO_HIDING: "$CODENAME|H$ ($NAME|H$) вынужден скрываться в течение $DAYS|H$ дней".
+ EFFECT_ADD_NATIONALITY_TO_OPERATIVE: "$CODENAME|H$ ($NAME|H$) получает гражданство $NATIONALITY$".
+ EFFECT_EVERY_OCCUPIED_COUNTRY_STARTS: "Каждая оккупированная страна"
+ EFFECT_EVERY_COUNTRY_WITH_ORIGINAL_TAG: "Каждая страна с таким же оригинальным тегом, как $COUNTRY|H$"
+ EFFECT_CREATE_INTELLIGENCE_AGENCY: "Создать разведывательное агентство".
+ EFFECT_UPGRADE_INTELLIGENCE_AGENCY: "Применить обновление $UPGRADE|H$ к вашему разведывательному управлению".
+ EFFECT_ADD_INTEL: "$SOURCE|H$ получает интеллект больше, чем $TARGET|H$: $INTEL|.1%%$".
+ EFFECT_ADD_RESISTANCE_TARGET_WITH_FROM_AND_TARGET: "Цель сопротивления: $VALUE$ для $OCCUPIED|H$ при оккупации $OCCUPIER|H$".
+ EFFECT_ADD_RESISTANCE_TARGET_WITH_FROM: "Цель сопротивления: $VALUE$ для $OCCUPIED|H$"
+ EFFECT_ADD_RESISTANCE_TARGET_WITH_TARGET: "Цель сопротивления: $VALUE$ при оккупации $OCCUPIER|H$".
+ EFFECT_ADD_RESISTANCE_TARGET: "Цель сопротивления: $VALUE$".
+ DEFAULT_DYNAMIC_RESISTANCE_TARGET_TOOLTIP: "Scripted Value: $VALUE|-%0$".
+ EFFECT_ADD_DECRYPTION_RATIO: "Расшифровка против $COUNTRY|H$: $RATIO|+%0$"
+ EFFECT_ADD_DECRYPTION: "Расшифровка против $COUNTRY|H$: $AMOUNT|+*$"
+ EFFECT_SET_COLLABORATION: "Установить сотрудничество в $TARGET|H$: $VALUE|+%0$".
+ EFFECT_ADD_COLLABORATION: "Увеличить сотрудничество в $TARGET|H$: $VALUE|+%0$".
+ EFFECT_REMOVE_COLLABORATION: "Уменьшить сотрудничество в $TARGET|H$: $VALUE|-%0$".
+ EFFECT_CREATE_SHIP: "Создать корабль $VARIANT|H$ из $COUNTRY|H$".
+ CUSTOM_EFFECT_CREATE_FAKE_ARMIES: "Создает фальшивых разведчиков, которые могут быть использованы для обмана врагов".
+ CUSTOM_EFFECT_CREATE_FAKE_ARMIES_RESULT: "Создает [?num_to_create|.0H] поддельных разведчиков, которые могут быть использованы против ваших врагов".
+ EFFECT_ADD_CIVIL_WAR_TARGET: "Рассматривать $COUNTRY$ как бунтаря гражданской войны".
+ add_ruling_to_dem_tt: "Добавить всю поддержку §Y[ROOT.GetRulingIdeology]§! к §Yдемократии§!".
+ add_ruling_to_fas_tt: "Добавить всю поддержку §Y[ROOT.GetRulingIdeology]§! к §Yфашизму§!".
+ add_ruling_to_com_tt: "Добавить всю поддержку §Y[ROOT.GetRulingIdeology]§! к §Yкоммунизму§!".
+ add_ruling_to_neu_tt: "Добавить всю поддержку §Y[ROOT.GetRulingIdeology]§! к §Yнейтралитету§!".
+ if_they_accept_tt: "\n§YЭффекты, если они примут:§!".
+ THIS_IS_WIP_TT: "§RTHIS IS WORK IN PROGRESS§!".
+ EFFECT_PROMOTE_CHARACTER:1 "$NAME$ становится лидером страны"
+ EFFECT_BUILD_RAILWAY: "Построить железную дорогу уровня $LEVEL|Y$ от $FROM|Y$ до $TO|Y$".
+ EFFECT_BUILD_RAILWAY_IN_STATE: "Построить железную дорогу уровня $LEVEL|Y$ в $STATE|Y$".
+ EFFECT_EVERY_CHARACTER_STARTS: "Каждый персонаж".
+ EFFECT_RANDOM_CHARACTER_STARTS: "Случайный персонаж".
+ EFFECT_ADD_COUNTRY_LEADER_ROLE: "$NAME|Y$ становится членом партии $IDEOLOGY|Y$".
+ EFFECT_ADD_COUNTRY_LEADER_ROLE_PROMOTE: "$NAME|Y$ становится лидером партии $IDEOLOGY|Y$".
+ EFFECT_REMOVE_COUNTRY_LEADER_ROLE: "$NAME|Y$ покидает партию $IDEOLOGY|Y$".
+ EFFECT_PARTY_LEADER_STARTS: "Лидер партии".
+ EFFECT_EVERY_SUBJECT_COUNTRY_STARTS: "Каждая страна-субъект".
+ if_they_refuse_tt: "\n§YВоздействие, если они отказываются:§!"
+ EFFECT_CHARACTER_LIST_LAND_UNIT_LEADERS: "§YГенералы и Фельдмаршалы§! :"
+ EFFECT_CHARACTER_LIST_ADMIRALS: "§YАдмиралы§! :"
+ EFFECT_CHARACTER_LIST_POLITICAL_ADVISORS: "§YПолитические советники§! :"
+ EFFECT_CHARACTER_LIST_MILITARY_ADVISORS: "§YВерховное военное командование и Шефы§! :"
+ EFFECT_CHARACTER_LIST_THEORISTS: "§YТеоретики§! :"
+ EFFECT_CHARACTER_LIST_SKILL: "Навык"
+ EFFECT_CHARACTER_LIST_IN_SERVICE: "в настоящее время на службе"
+ EFFECT_EVERY_UNIT_STARTS:0 "Каждое подразделение"
+ EFFECT_RANDOM_UNIT_STARTS:0 "Случайный дивизион"
+ RESEED_DIV_COMMANDER_EFFECT:0 "Установка командирского семени на $SEED$ (Дебаг)"
+ EFFECT_UNIT_DESTROY_UNIT:0 "$NAME$ уничтожен"
+ EFFECT_RANDOM_COUNTRY_ARMY_STARTS:0 "Случайное разделение страны"
+ EFFECT_RANDOM_STATE_ARMY_STARTS:0 "Случайное деление государства"
+ EFFECT_EVERY_STATE_ARMY_STARTS:0 "Деление каждого штата"
+ EFFECT_ADD_HISTORY_ENTRY_UNIT_EFFECT:0 "$UNIT$ получает новую запись в истории"
+ TEST_HISTORY_ENTRY_KEY:0 "Украл $SUBJECT$ Муссолини из его кабинета в $PROVINCE$".
+ CHANGE_DIV_TEMPLATE_EFFECT:0 "$DIV$ переключает шаблон на $TEMPLATE|H$".
+ EFFECT_SEND_EMBARGO:0 "Эмбарго накладывается на $COUNTRY|H$"
+ EFFECT_BREAK_EMBARGO:0 "Снимает эмбарго с $COUNTRY|H$"
+EFFECT_ADD_RANDOM_UNIT_TRAIT:0 "Добавляет случайную действующую черту командира подразделения командиру дивизии".
+
+ EFFECT_ADD_POWER_BALANCE:1 "$POWER_BALANCE|Y$ начинается в [root.GetName] со сторон $SIDE1|Y$ и $SIDE2|Y$. Он начинается с $VALUE|%0Y$ и продвигается к $TRENDING_SIDE|Y$".
+ EFFECT_REMOVE_POWER_BALANCE:0 "$POWER_BALANCE|Y$ заканчивается на [root.GetName]".
+ EFFECT_ADD_POWER_BALANCE_SIDE:0 "$SIDE|Y$ добавляется к $POWER_BALANCE|Y$"
+ EFFECT_REMOVE_POWER_BALANCE_SIDE:0 "$SIDE|Y$ удаляется из $POWER_BALANCE|Y$"
+ EFFECT_SET_POWER_BALANCE_VALUE:1 "$POWER_BALANCE|Y$ устанавливается на $VALUE|Y$ на $TRENDING_SIDE|Y$".
+ EFFECT_ADD_POWER_BALANCE_VALUE:1 "$POWER_BALANCE|Y$ перемещает $TREND$$$PERCENT|%1Y$ в сторону $SIDE|Y$".
+ EFFECT_ADD_POWER_BALANCE_MODIFIER:1 "Добавляет модификатор $MODIFIER|H$ к $POWER_BALANCE|Y$ - $DESC$".
+ EFFECT_REMOVE_POWER_BALANCE_MODIFIER:1 "Удаляет модификатор $MODIFIER|H$ из $POWER_BALANCE|Y$ - $DESC$".
+ EFFECT_REMOVE_ALL_POWER_BALANCE_MODIFIERS:0 "Удаляет все модификаторы из $POWER_BALANCE|Y$: $LIST$".
+ EFFECT_REMOVE_ALL_POWER_BALANCE_MODIFIERS_EMPTY:0 "Удаляет все модификаторы из $POWER_BALANCE|Y$".
+
+ ADD_DIVISIONAL_COMMANDER_XP:0 "Получает опыт полевого командира $VAL|H$".
+ EFFECT_ADD_UNITS_TO_DIVISION_TEMPLATE:0 "Добавляет подразделения к шаблону $TEMPLATE_NAME|Y$ в $COUNTRY|Y$".
+ diff_normal_player:0 "Сложность"

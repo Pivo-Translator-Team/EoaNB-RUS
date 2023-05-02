@@ -1,0 +1,47 @@
+﻿l_russian:
+ PERMISSION_CONTESTED: "Спорные"
+ PERMISSION_CONTESTED_DESC: "Из-за войны контролирующих стран: $SIDE1|H$ и $SIDE2|H$"
+ PERMISSION_ENEMY: "Враждебные"
+ PERMISSION_ENEMY_DESC: "Из-за наших сопернических отношений с одной из контролирующих стран: $ENEMY|H$"
+ PERMISSION_ENEMY_UNNAMED_DESC: "Из-за наших сопернических отношений с одной из контролирующих стран"
+ PERMISSION_FRIEND: "Союзные"
+ PERMISSION_FRIEND_DESC: "Благодаря дружеским отношениям с одной из контролирующих стран: $FRIEND|H$"
+ PERMISSION_FRIEND_UNNAMED_DESC: "Благодаря нашим дружеским отношениям с одной из контролирующих стран"
+ PERMISSION_NEUTRAL: "Нейтральные"
+ PERMISSION_NEUTRAL_UNNAMED_DESC: "Благодаря нашим нейтральным отношениям со всеми контролирующими странами."
+ PERMISSION_NOT_ENEMY_DESC: "Требуется для сопернических отношений"
+ PERMISSION_NOT_FRIENDLY_DESC: "Требуется для дружеских отношений"
+ PERMISSION_NOT_NEUTRAL_DESC: "Требуется для нейтральных отношений"
+ PERMISSION_HEADER: "Тип прохода $PERMISSION|H$:"
+ PERMISSION_CURRENT_HEADER: "Тип прохода $PERMISSION|H$ (§HТекущий§!):"
+ PERMISSION_BLOCKED_DUE_TO: "Проход заблокирован по причине: $REASON$"
+ PERMISSION_BLOCKED: "Проход заблокирован.\n"
+ PERMISSION_DESC: " - Армии могут пройти: $ARMY$\n - Корабли могут пройти: $NAVY$\n - Подводные лодки могут пройти: $SUBMARINES$\n - Торговые суда могут пройти: $TRADE$"
+ SUEZ_CANAL: "Суэцкий канал"
+ GIBRALTAR_STRAIT: "Гибралтарский пролив"
+ DANISH_BELTS_STRAIT: "Датские пояса"
+ PANAMA_CANAL: "Панамский канал"
+ KIEL_CANAL: "Кильский канал"
+ BOSPHORUS_STRAIT: "Пролив Босфор"
+ NICARAGUA_CANAL: "Канал Никарагуа"
+ disable_canal_tt: "§RЭтот канал был частично разрушен и должен быть восстановлен, прежде чем по нему снова смогут ходить суда.§!"
+ SUEZ_CANAL_BLOCKED: "Суэцкий канал взорван".
+ PANAMA_CANAL_BLOCKED: "Панамский канал взорван"
+ SUEZ_CANAL_BLOCKED_FOR_COUNTRY: "Суэцкий канал заблокирован для [Root.GetName]"
+ PANAMA_CANAL_BLOCKED_FOR_COUNTRY: "Панамский канал заблокирован из-за [Root.GetName]"
+ KIEL_CANAL_BLOCKED_FOR_COUNTRY: "Кильский канал заблокирован для [Root.GetName]"
+ SUEZ_CANAL_BUILT: "Суэцкий канал построен".
+ PANAMA_CANAL_BUILT: "Панамский канал был построен".
+ KIEL_CANAL_BUILT: "Кильский канал был построен".
+ NICARAGUA_CANAL_BUILT: "Канал Никарагуа был построен".
+ disable_suez_canal_tt: "§YСуэцкий канал§! в настоящее время §RНеиспользуемый§!, потому что он либо еще не построен, либо разрушен".
+ disable_panama_canal_tt: "§YПанамский канал§! в настоящее время §RНеиспользуемый§!, потому что он либо еще не построен, либо разрушен."
+ disable_kiel_canal_tt: "§YКильский канал§! в настоящее время §RНеиспользуемый§!, потому что он либо еще не построен, либо разрушен."
+ disable_nicaragua_canal_tt: "§YНикарагуагский Канал§! в настоящее время §RНеиспользуемый§!, потому что он либо еще не построен, либо разрушен."
+ BOSPHORUS_STRAIT_BLOCKED: "Пролив Босфор заблокирован".
+ BOSPHORUS_STRAIT_BLOCKED_FOR_COUNTRY: "Пролив Босфор заблокирован для [ROOT.GetName]"
+ bosporus_strait_blocked_tt: "§RПролив закрыт для [ROOT.GetName] из-за ухудшения отношений с контролером пролива.§!".
+ DARDANELLES_STRAIT: "Дарданеллы"
+ DARDANELLES_STRAIT_BLOCKED_FOR_COUNTRY: "Дарданеллы заблокированы для [ROOT.GetName]".
+ dardanelles_strait_blocked_tt: "§RПролив закрыт для [ROOT.GetName] из-за ухудшения отношений с контролером пролива.§!".
+ HORMUZ_STRAIT: "Ормузский пролив"

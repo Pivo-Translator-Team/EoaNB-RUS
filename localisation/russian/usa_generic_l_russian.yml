@@ -1,0 +1,105 @@
+﻿l_russian:
+
+ # Spirits # #NT!
+ NA_B_no_scale_railways: "Недостаточная железнодорожная инфраструктура"
+ NA_B_early_scale_railways: "Минимальная железнодорожная инфраструктура"
+ NA_B_small_scale_railways: "Малые железные дороги"
+ NA_B_medium_scale_railways: "Железные дороги среднего масштаба"
+ NA_B_large_scale_railways: "Крупномасштабные железные дороги"
+ NA_B_trans_national_railways: "Транснациональные железные дороги"
+ NA_B_Infrastructure_Push_idea: "Инфраструктурный толчок"
+ NA_B_Production_Effort_idea: "Производственные усилия"
+ NA_B_Doctrine_Of_Maneuver_idea: "Доктрина маневра"
+ NA_B_Doctrine_Of_Force_idea: "Доктрина силы"
+ NA_B_Revised_Draft_idea: "Пересмотренный проект"
+ NA_B_Laissez_Faire_Economy_idea: "Экономика Laissez-Faire"
+ NA_B_Mixed_Economy_idea: "Смешанная экономика"
+ NA_B_Worker_Coops_idea: "Рабочие кооперативы"
+
+
+ #Economic Panic #NT!
+
+ EOANBSYS_economic_crisis_decision_category: "Экономическая паника и помощь"
+ EOANBSYS_economic_crisis_decision_category_desc: "§YВлияние паники:§!\nКаждые 30 дней до нас будет доходить отчет о финансовых событиях во время экономической паники. Эти отчеты будут в основном содержать негативные новости, касающиеся отраслей, наиболее сильно пострадавших от экономического спада.\n\nРешения могут быть приняты, чтобы уменьшить влияние экономической паники, но это часто будет связано с жертвами. Рекомендуется принять меры как можно быстрее, чтобы остановить панику. Если ничего не предпринять, пострадает стабильность и экономика страны".
+ na_b_monthly_economic_panic_countdown: "Экономическая паника!"
+ na_b_economic_panic_addressed: "§YЭкономическая паника§! была устранена".
+ na_b_monthly_economic_panic_countdown_timeout_tooltip: "§RПаника продолжается...§!\n"
+ na_b_economic_panic_has_low_debt: "§YУровень долга§! меньше 20"
+
+ na_b_economic_panic_industry_bankruptcy_protections: "Защита от банкротства в отрасли"
+ na_b_economic_panic_industry_bankruptcy_protections_desc: "Выкупив часть долга, который понесла наша промышленность, мы можем уменьшить последствия паники. Хотя облегчение будет лишь временным, если мы не продолжим спасать отрасли по мере их банкротства".
+ na_b_economic_panic_temporary_tax_relief: "Временное снижение налога на промышленность"
+ na_b_economic_panic_temporary_tax_relief_desc: "Временно снизив налоги для промышленности, мы сможем уменьшить финансовое бремя для компаний".
+ na_b_economic_panic_temporary_tax_relief_tooltip: "Налоги возвращаются к прежней сумме".
+
+ na_b_monthly_economic_panic_report.1.t: "Ежемесячный экономический отчет"
+ na_b_monthly_economic_panic_report.1.d: "[ROOT.GetName] экономика все еще находится в панике после краха, и отрасли продолжают объявлять о банкротстве или приближаются к нему. Поскольку конца панике не видно, сейчас действительно тяжелые времена...".
+ na_b_monthly_economic_panic_report.1.a: "Паника продолжается!"
+
+ na_b_monthly_economic_panic_report.2.t: "Движемся к экономическому восстановлению!"
+ na_b_monthly_economic_panic_report.2.d: "Экономическая паника нанесла значительный ущерб нашей экономике, но мы достигли конца этого неспокойного периода. Теперь мы смотрим вперед и идем к восстановлению!".
+ na_b_monthly_economic_panic_report.2.a: "Замечательно, паника закончилась!".
+
+ USA_1857_panic_railroad_delayed_tooltip: "\n§RRЖелезнодорожное строительство задерживается:§!\n"
+
+ na_b_economic_panic_report_industrial_complex_inactive_tooltip: "§YГражданская фабрика§! будет §Rзакрыта§! временно!".
+ na_b_economic_panic_report_arms_factory_inactive_tooltip: "§YВоенная Фабрика§! будет §Rзакрыта§! временно!".
+ na_b_economic_panic_report_infrastructure_inactive_tooltip: "§YЖелезнодорожная Линия§! будет §Rзакрыта§! временно!".
+ na_b_economic_panic_no_industry_closed_tooltip: "§GЭкономический отчет указывает на отсутствие закрытия промышленности на этот раз!§!"
+
+ na_b_economic_panic_chance_of_industry_closing_reduced_5: "Шанс закрытия отрасли: §G-5%§!"
+ na_b_economic_panic_chance_of_industry_closing_reduced_10: "Шанс закрытия отрасли: §G-10%§!"
+
+ #NA_B_reliance_on_water_transportation_modifier: "Reliance on Rivers"
+ #NA_B_reliance_on_water_transportation_modifier_desc: "This state relies on it's rivers or oceans to transport a bulk of it's goods. Railroads have become an unnecessary endeavour due to water transportation."
+ #NA_B_no_scale_railways_modifier: "No Railways"
+ #NA_B_early_scale_railways_modifier: "Minimal Railways"
+ #NA_B_small_scale_railways_modifier: "Small Scale Railways"
+ #NA_B_medium_scale_railways_modifier: "Medium Scale Railways"
+ #NA_B_large_scale_railways_modifier: "Large Scale Railways"
+
+ # Transcontinental Railway # #NT!
+ NA_B_transcontinental_railways_category: "Трансконтинентальная железная дорога"
+ NA_B_transcontinental_railways_category_desc: "§YТрансконтинентальная железная дорога:§!\n§WСтарые тропы западных территорий давно использовались для путешествия от моря до сияющего моря, но путешествие было долгим и опасным. С начала 1850-х годов железнодорожные компании получали гранты от правительства США, которое финансировало расширение на запад.\n\n\nТолько финансирование не является единственным препятствием, так как первые народы часто сопротивляются строительству железных дорог и саботируют прогресс. Железные дороги не только привели больше поселенцев, но и нарушили популяцию баффло, поскольку поселенцы отстреливали баффло для спорта. Это резко сократило популяцию буффло и сильно повредило кочевому образу жизни первых народов.§!"
+
+ USA_railroad_construction_canceled: "Строительство железной дороги прекращено"
+
+ USA_railroad_independence_to_salt_lake_city: "Независимость - Солт-Лейк-Сити"
+ USA_railroad_independence_to_salt_lake_city_desc: "Инициатива строительства этой железной дороги началась в 1857 году, она соединит Индепенденс, штат Миссури, с Солт-Лейк-Сити, штат Юта."
+ USA_railroad_salt_lake_city_to_sacramento: "Солт-Лейк-Сити - Сакраменто".
+ USA_railroad_salt_lake_city_to_sacramento_desc: "Инициатива строительства этой железной дороги началась в 1858 году, она соединит Сакраменто, Калифорния, с Солт-Лейк-Сити, Юта."
+ USA_railroad_salt_lake_city_to_los_angeles: "Солт-Лейк-Сити - Лос-Анджелес".
+ USA_railroad_salt_lake_city_to_los_angeles_desc: "Инициатива строительства этой железной дороги началась в 1854 году, она соединит Лос-Анджелес, Калифорния, с Солт-Лейк-Сити, Юта."
+ USA_railroad_kansas_city_to_stockton: "Канзас-Сити - Стоктон".
+ USA_railroad_kansas_city_to_stockton_desc: "Эта железная дорога фактически является продуктом строительства и слияния двух железных дорог в одно время. Инициатива этих железных дорог началась в 1850 году, когда один конец планировал соединить Индепенденс, штат Миссури, с Санта-Фе, штат Нью-Мексико, а в результате получилось сообщение от Канзас-Сити, штат Миссури, до Стоктона, штат Калифорния."
+ USA_railroad_san_antonio_to_santa_fe: "Сан-Антонио - Санта-Фе"
+ USA_railroad_san_antonio_to_santa_fe_desc: "Инициатива строительства этой железной дороги началась в 1857 году, она соединит Сан-Антонио, штат Техас, с Санта-Фе, штат Нью-Мексико".
+ USA_railroad_san_antonio_to_san_diego: "Сан-Антонио - Сан-Диего".
+ USA_railroad_san_antonio_to_san_diego_desc: "Инициатива строительства этой железной дороги началась в 1857 году, она соединит Сан-Антонио, штат Техас, с Санта-Фе, штат Нью-Мексико."
+ USA_railroad_butterfield_overland_mail: "Сухопутная почта Баттерфилда".
+ USA_railroad_neosho_to_albuquerque: "Неошо - Альбукерке".
+ USA_railroad_neosho_to_albuquerque_desc: "Инициатива строительства этой железной дороги началась в 1858 году, она соединит Неошо, штат Миссури, с Альбукерке, штат Нью-Мексико".
+ USA_railroad_leavenworth_and_pikes_peak_express: "Ливенворт - Пайкс Пик Экспресс".
+ USA_railroad_leavenworth_and_pikes_peak_express_desc: "Инициатива по превращению в железную дорогу участка экспресса Пайкс Пик, который изначально был тропой для повозок, началась в 1859 году и соединит Неошо, штат Миссури, с Альбукерке, штат Нью-Мексико."
+
+ # Events # #NT!
+ balkanized_usa.13.t: "Результаты законопроекта о субсидировании железных дорог"
+ balkanized_usa.14.t: "Результаты законопроекта о налогообложении"
+ balkanized_usa.15.t: "Результаты законопроекта о субсидировании промышленности"
+
+ balkanized_usa.13.a: "Замечательно! Законопроект прошел конгресс!"
+ balkanized_usa.13.b: "Наложите вето на законопроект! Мы не можем этого допустить!"
+ balkanized_usa.13.c: "Переработайте законопроект, надеюсь, на этот раз он пройдет...".
+ balkanized_usa.13.e: "Пусть законопроект умрет в конгрессе".
+
+ NA_B_industry_subsidization_bill_passed_flag: "Законопроект о субсидировании промышленности принят!"
+ NA_B_funds_secured_tooltip: "Средства обеспечены §YЗаконодательством о налогообложении§! или другим источником".
+
+ # Decisions # #NT!
+ NA_B_Private_Construction: "Субсидии на частное строительство"
+ na_b_subsidize_private_infrastructure: "Субсидировать частную инфраструктуру"
+ na_b_subsidize_private_civilian_industry: "Субсидировать частную гражданскую промышленность"
+ na_b_subsidize_private_military_industry: "Субсидировать частную военную промышленность"
+ na_b_subsidize_private_naval_industry: "Субсидировать частную военно-морскую промышленность"
+ NA_B_Trans_Continental_Railroad_category: "Трансконтинентальная железная дорога"
+ na_b_invest_in_trans_continental_railroad: "Инвестировать в трансконтинентальную железную дорогу"
