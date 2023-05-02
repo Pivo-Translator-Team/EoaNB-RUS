@@ -146,27 +146,27 @@
     liberal_nationalism_desc: "Гражданский национализм, также известный как либеральный национализм, - это форма национализма, выделяемая политическими философами, которые верят в инклюзивную форму национализма, придерживающуюся традиционных либеральных ценностей свободы, терпимости, равенства и прав личности. Гражданская нация - это политическая идентичность, построенная на основе общего гражданства в рамках государства. Таким образом, "гражданская нация" определяется не языком или культурой, а политическими институтами и либеральными принципами, которые ее граждане обязуются соблюдать. Членство в гражданской нации открыто для всех, кто разделяет эти ценности."
 
 # Social Liberalism #NT!
- ideology_social_liberalism: "Social Liberal" #NT!
- ideology_social_liberalism_noun: "Social Liberalism" #NT!
- ideology_social_liberalism_desc: "Social Liberal Government" #NT!
- ideology_social_liberalism_drift: "Daily Social Liberalism Support" #NT!
- ideology_social_liberalism_acceptance: "Acceptance of Social Liberalism" #NT!
+ ideology_social_liberalism: "Социал Либерал" #NT!
+ ideology_social_liberalism_noun: "Социал Либерализм" #NT!
+ ideology_social_liberalism_desc: "Социал Либеральное правительство" #NT!
+ ideology_social_liberalism_drift: "Ежедневная поддержка социал либерализма" #NT!
+ ideology_social_liberalism_acceptance: "Принятие социал либерализма" #NT!
   # Radical Liberalism #NT!
     radical_liberal: "Радикал"
     radical_liberal_noun: "Радикализм"
     radical_liberal_desc: "Радикализм - это политическая философия эпохи Просвещения, которая стремится к институциональной, социальной/экономической и особенно культурной/образовательной реформе, чтобы позволить каждому гражданину реализовать свои либеральные права на практике, часто продвигая секуляризм, республиканизм и радикальную демократию."
-  # Social Liberalism #NT!
-    ideology_sub_social_liberal: "Social Liberal" #NT!
-    ideology_sub_social_liberal_noun: "Social Liberalism" #NT!
-    ideology_sub_social_liberal_desc: "Social Liberalism is a political philosophy and variety of liberalism that endorses a regulated market economy and the expansion of civil and political rights. Under social liberalism, the common good is viewed as harmonious with the freedom of the individual." #NT!
-  # Third Way #NT!
-    ideology_sub_third: "Third Way Outsider" #NT!
-    ideology_sub_third_noun: "Third Way" #NT!
-    ideology_sub_third_desc: "The Third Way is a political philosophy and political position akin to centrism that attempts to reconcile right-wing and left-wing politics by advocating a varying synthesis of center-right and centrist economic platforms with some center-left social policies." #NT!
-  # Parliament #NT!
-    ideology_sub_parlia_repub: "Parliament" #NT!
-    ideology_sub_parlia_repub_noun: "Parliamentarianism" #NT!
-    ideology_sub_parlia_repub_desc: "A parliamentary system is a system of democratic governance of a state where the executive derives its democratic legitimacy from its ability to command the confidence of the legislature, typically a parliament, and is also held accountable to that parliament. In a parliamentary system, the head of state is usually a person distinct from the head of government." #NT!
+  #Социальный_либерализм #НТ!
+    ideology_sub_social_liberal: "Социал либерал" #NT!
+    ideology_sub_social_liberal_noun: "Социальный либерализм" #NT!
+    ideology_sub_social_liberal_desc: "Социальный либерализм - это политическая философия и разновидность либерализма, которая одобряет регулируемую рыночную экономику и расширение гражданских и политических прав. При социальном либерализме общее благо рассматривается как гармоничное со свободой индивидуума." #NT!
+  #третийпуть #NT!
+    ideology_sub_third: "Сторонник третьего пути" #NT!
+    ideology_sub_third_noun: "Третий путь" #NT!
+    ideology_sub_third_desc: "Третий путь - это политическая философия и политическая позиция сродни центризму, которая пытается примирить правую и левую политику, выступая за различный синтез правоцентристских и центристских экономических платформ с некоторыми левоцентристскими социальными политиками." #NT!
+  #Парламент #NT!
+    ideology_sub_parlia_repub: "Парламент" #NT!
+    ideology_sub_parlia_repub_noun: "Парламентаризм" #NT!
+    ideology_sub_parlia_repub_desc: "Парламентская система - это система демократического управления государством, в которой исполнительная власть черпает свою демократическую легитимность из своей способности пользоваться доверием законодательной власти, обычно парламента, а также несет ответственность перед этим парламентом. В парламентской системе главой государства обычно является лицо, отличное от главы правительства." #NT!
 
 # Conservativism #NT!
  traditional_conservatism: "Традиционный консерватор"
@@ -274,7 +274,7 @@
   # Tribal #NT!
     tribe: "Вождь племени"
     tribe_noun: "Племенное управление"
-    tribe_desc: "Tribal governments do not have an extremely strong central authority, rather the governance is organized by local tribal councils. #NT!
+    tribe_desc: "Племенные правительства не имеют чрезвычайно сильной центральной власти, скорее управление организуется местными племенными советами". #NT!
 
 # Chauvinist #NT!
  chauvinist_populism: "Шовинист-Популист"
