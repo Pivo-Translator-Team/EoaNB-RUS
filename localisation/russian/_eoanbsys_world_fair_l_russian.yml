@@ -38,7 +38,7 @@
  eoanbworldfair.2.a: "Да начнется Выставка"
 
  eoanbworldfair.3.t: "Всемирная выставка [GetYear] [From.Capital.GetName]".
- eoanbworldfair.3.d: "Всемирная Выставка [From.Capital.GetName] началась сегодня и будет продолжаться более месяца. Выставка была открыта [From.GetHoSTitle] [From.GetHeadofState] [From.GetHoGAttendance] Несколько наций со всего мира посетили Выставку, [GetWorldFairSuccess1] [From.Capital.GetName] чтобы восхититься чудом современной науки, а также богатствами мира.\n [GetWorldFairSuccess2].\n [GetWorldFairExhibition1] [GetWorldFairExhibition2]."
+ eoanbworldfair.3.d: "Всемирная Выставка в городе [From.Capital.GetName] началась сегодня и будет продолжаться более месяца. Выставка была открыта [From.GetHoSTitle] [From.GetHeadofState] [From.GetHoGAttendance] Несколько наций со всего мира посетили Выставку, [GetWorldFairSuccess1] [From.Capital.GetName] чтобы восхититься чудом современной науки, а также богатствами мира.\n [GetWorldFairSuccess2].\n [GetWorldFairExhibition1] [GetWorldFairExhibition2]."
  eoanbworldfair.3.a: "Очень хорошо"
 
  eoanbworldfair.4.t: "Пересмотр бюджета"
