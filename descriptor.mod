@@ -1,6 +1,4 @@
-version="1.11"
-replace_path="gfx/fonts"
-replace_path="localization"
+version="1.12.*"
 tags={
 	"Translation"
 }
