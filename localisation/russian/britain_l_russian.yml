@@ -1064,10 +1064,10 @@
  eoanb_trait_president_of_the_board_of_trade: "Президент Совета торговли"
  eoanb_trait_foreign_secretary: "Министр иностранных дел"
  ENG_trait_royal_family: "Королевская семья"
- ENG_british_protection: "British Guarantee" #NT!
- ENG_british_protection_desc: "Britain had aligned their interests with the Ottoman Empire in order to hinder Russian expansion. Mutual interest united an unlikely alliance of countries to fight the prospect of Russia benefiting from the Ottomans." #NT!
+ ENG_british_protection: "Британские гарантии"
+ ENG_british_protection_desc: "Великобритания объединила свои интересы с Османской империей чтобы помешать экспансии России. Взаимный интерес объединил маловероятный союз стран для борьбы с перспективой получения Россией выгоды от Османской империи."
 
- ### Decisions #NT!
+ ### Decisions
  ENG_mission_sawmills_lothian: "Лесопильные заводы в Лотиане"
  ENG_mission_coal_mines_northern_england: "Угольные шахты в Северной Англии"
  ENG_mission_coal_mines_the_midlands: "Угольные шахты в Мидлендсе".
@@ -1089,13 +1089,13 @@
  ENG_mission_english_military_industry: "Военная промышленность Англии"
  ENG_decision_regular_exercises_1: "Учения в Канаде"
  ENG_decision_regular_exercises_2: "Учения в Южной Африке"
- ENG_decision_regular_exercises_3: "Упражнения в Австралии"
- ENG_decision_regular_exercises_4: "Упражнения в Индии"
- ENG_decision_regular_exercises_5: "Упражнения в Новой Зеландии"
- eoanb_decision_ENG_defend_OTO: "Defend the Ottomans" #NT!
- ENG_defeat_sepoy_rebellion: "Defeat in India" #NT!
+ ENG_decision_regular_exercises_3: "Учения в Австралии"
+ ENG_decision_regular_exercises_4: "Учения в Индии"
+ ENG_decision_regular_exercises_5: "Учения в Новой Зеландии"
+ eoanb_decision_ENG_defend_OTO: "Оборонять Османов"
+ ENG_defeat_sepoy_rebellion: "Поражение в Индии"
 
- ###Ireland #NT!
+ ###Ireland
  ENG_defeat_1867_ireland_rebellion: "Поражение в Ирландии"
  ENG_decision_category_irish_unrest: "Беспорядки в Ирландии"
  ENG_decision_category_irish_unrest_desc: "У Ирландии была долгая и бурная история отношений с Великобританией, в которой прослеживается недовольство и явные проявления гнева.\n\n\nИрландия была доминионом со времен Тюдоров в 1603 году, но ее восхождение в нашу нацию было пронизано конфликтами и борьбой между ее католическими ирландцами и нашими протестантскими поселенцами из Англии, Уэльса и Шотландии. Многие восстания были подавлены и по сей день, а растущие республиканские настроения среди коренных ирландцев недавно были подогреты крупным движением за независимость, называющим себя "фенианцами". Их призыв к созданию ирландской нации, свободной от Великобритании, оказался очень привлекательным для наших ирландских подданных.\n\nДостижение этой цели путем насилия, однако, оказалось большой головной болью для нашего губернатора. Спорадические и жестокие нападения Братства Фениана стали серьезным ударом по стабильности региона. Что нужно сделать, чтобы подавить эти постоянно растущие требования, мы должны решить сами...\n\n Текущие беспорядки: §R[?Root.ENG_irish_unrest]§!\n\n Текущие фенийские информаторы: [?ENG_IRE_fenian_informants]"

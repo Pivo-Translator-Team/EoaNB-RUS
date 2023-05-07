@@ -456,7 +456,7 @@ WE_FRIENDS_WITH_COUNTRY_AT_WAR: "Мы ведем войну вместе со с
  MR_pact: "Пакт Молотова-Риббентропа"
  refused_MR_pact: "Отказался от пакта Молотова-Риббентропа".
  MR_pact_fascists: "Пакт Молотова-Риббентропа"
- FACTION_NAME_IS_AVALIABLE: "§Название фракции доступно§!".
+ FACTION_NAME_IS_AVALIABLE: "§GНазвание фракции доступно§!".
  FACTION_NAME_IS_EXISTS: "§RФракция уже существует§!"
  FACTION_NAME_IS_EMPTY: "§RНазвание Фракции Пустое§!".
  DAYS_TRANSFER: "$DAYS|H$ Дней"
@@ -639,8 +639,8 @@ WE_FRIENDS_WITH_COUNTRY_AT_WAR: "Мы ведем войну вместе со с
  BORDER_WAR_POWER_ENEMY: "Их военная мощь в этом районе: $VAL|*0H$"
  BORDER_WAR_POWER_RATIO: "Соотношение военной мощи в нашу пользу: $VAL|2%H$"
  BORDER_WAR_ATTRITION: "Потери от пограничного конфликта: $VAL|=-%$".
- BORDER_WAR_HEADER: "§Граничный конфликт§!".
- BORDER_WAR_NOT_OURS: "§Не существует пограничного конфликта в этом штате§!"
+ BORDER_WAR_HEADER: "§HПограничный конфликт§!".
+ BORDER_WAR_NOT_OURS: "§HВ этом регионе пограничный конфликт§!"
  BORDER_WAR_LOSS: "Мы проиграем при коэффициенте $VAL|2%H$ или ниже".
  BORDER_WAR_WIN: "Мы выиграем при коэффициенте $VAL|2%H$ или выше".
  BORDER_WAR_HINT: "Переместите больше дивизий в государства приграничного конфликта, чтобы увеличить коэффициент военной мощи и уменьшить истощение приграничного конфликта".

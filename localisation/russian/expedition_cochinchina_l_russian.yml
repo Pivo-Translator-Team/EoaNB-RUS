@@ -7,18 +7,18 @@
  SPR_cochinchina_expedition_begin_invasion_trigger: "§YИспания§! готова начать экспедицию".
  FRA_cochinchina_expedition_begin_invasion_trigger: "§YФранция§! готова начать экспедицию".
 
- SPR_cochinchina_expedition_state_controlled_trigger: "Находится под контролем участника §Европа§!".
+ SPR_cochinchina_expedition_state_controlled_trigger: "Находится под контролем участника из §YЕвропы§!".
  SPR_cochinchina_expedition_state_not_controlled_trigger: "Не контролируется §Y[VIN.GetName]§!".
 
  FRA_cochinchina_expedition_support_malina_port: "Оказывать помощь в инвестициях в испанский порт".
  FRA_cochinchina_expedition_support_malina_port_desc: ""
  SPR_develop_manila_port_decision_started: "Начал расширять портовую инфраструктуру Манилы".
 FRA_cochinchina_expedition_support_malina_port_tooltip: "\n§Y[FRA.GetName]§! и §Y[SPR.GetName]§! получают §YУлучшение отношений§!, что дает §G+25§! мнения между обеими странами.\n"
- SPR_interest_in_cochinchina_expedition_trigger: "Все еще проявляет интерес к §YCochinchina Expedition§!".
+ SPR_interest_in_cochinchina_expedition_trigger: "Все еще проявляет интерес к §YКочинчинской экспедиции§!".
 
  SPR_cochinchina_expedition_ready_for_invasion: "Готов к Кочинчинской экспедиции".
  SPR_cochinchina_expedition_ready_for_invasion_desc: ""
- SPR_cochinchina_expedition_has_not_began: "Y§Кочинчинская экспедиция§ не началась".
+ SPR_cochinchina_expedition_has_not_began: "§YКочинчинская экспедиция§ не началась".
 
  SPR_cochinchina_expedition_take_port_mission: "Вторжение на Кочинчину".
  SPR_cochinchina_expedition_take_port_mission_desc: "Сай Гон и Да Нанг - крупные портовые города, способные выдержать вторжение и быстро закончить войну. Они - краеугольный камень всей операции, без них европейские силы будут вынуждены отказаться от своих амбиций."

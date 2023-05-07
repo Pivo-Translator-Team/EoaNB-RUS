@@ -450,26 +450,26 @@
  TSH_vic_silk_industry_4: "§YРазблокирует решения по расширению производства шелка в крупных городах.§!"
  TSH_vic_gifted_students: "§YС увеличением количества людской силы для деятельности Кайсейджо, решения по переводу иностранных технических работ теперь разблокированы!§!"
  TSH_vic_kii_shogun: "Сёгун Иэмоти - болезненный кандидат на титул сёгуна, но он имеет значительную поддержку среди основных сторонников бакуфу и Токугава".
- TSH_students_depart_tt: "Студенты из различных школ и академий будут отправлены в мир на год, а затем вернутся с §новыми данными из запада!§!"
+ TSH_students_depart_tt: "Студенты из различных школ и академий будут отправлены во внешний мир на год, а затем вернутся с §Gновыми данными из запада!§!"
  TSH_kii_shogun_tt: "Сёгун Иэмоти - болезненный кандидат на титул сёгуна, но он имеет значительную поддержку среди основных сторонников бакуфу и Токугава."
  tsh_catalogue_naval_assets: "Каталог военно-морских активов завершен!".
 
  TSH_category_ansei_purge: "Чистка Ансэй!".
- TSH_decision_death_of_yokoi_shonan: "Смерть Yokoi Shonan".
+ TSH_decision_death_of_yokoi_shonan: "Смерть Ёкая Сёнана".
  TSH_decision_death_of_shozan: "Смерть Сакумы Шозана".
 
  TSH_succession_struggle_1: "В зависимости от влияния фракции, будут разные сёгуны"
  TSH_succession_struggle_2: "В зависимости от влияния фракции, будут разные сёгуны, будьте осторожны с поспешной популярностью!"
 
- JAP_komei: "Komei"
+ JAP_komei: "Комэй"
  JAP_mutsuhito: "Муцухито"
 
  operative_geisha: "Гейша"
 
 
 
-# VANADIUM STUFF FOR NOW NO TOUCHIE PLEASE #NT!
- # Country/Global Flags #NT!
+# VANADIUM STUFF FOR NOW NO TOUCHIE PLEASE
+ # Country/Global Flags
  TSH_Loyal_Subject_Flag: "предан §Y[TSH.GetLeader]§!"
 
  # Tooltips #NT!
@@ -484,7 +484,7 @@
  TSH_Boshin_War_Toggle_View_Decision: "Переключение просмотра решений о влиянии".
  TSH_Boshin_War_Toggle_View_Decision_tt: "§CПереключает вид§! для §YРешения, принимаемые под влиянием Бошина§!"
 
- # Decisions #NT!
+ # Decisions
  Tokugawa_Shogun_Emperor_Influence_Category: "Возвращение императорской власти"
  Tokugawa_Shogun_Emperor_Influence_Category_desc: "§gЯпония близка к политическому кризису. Впервые за многие столетия авторитет сёгуната ослабевает. Нынешнего сёгуна считают слабым и неумелым, он стареет и не имеет наследника. Тем временем императорский трон, который на протяжении многих поколений занимал ненавязчивую позицию в управлении, возвращается на политическую сцену. Сёгунат продолжает индустриализацию и преклоняет колено перед западными державами, даймё и самараи по всей стране начинают сомневаться, не пора ли вернуть абсолютную власть императору.\n \n \n Две фракции, про-имперская и про-шогунатская, борются за сердце народа. С гражданским конфликтом на горизонте, феодалы должны решить, кто должен возглавить Японию."
  TSH_Suppress_Emperor_Influence_National_Dissent: "Бороться с влиянием императора на всю страну".
@@ -492,11 +492,11 @@
  TSH_Boshin_War_Progress_Mission: "Прогресс в Бошинской войне"
  TSH_Boshin_War_Progress_Mission_tt: "Завершается, когда напряжение в Японии становится достаточно высоким."
 
-########### VAnadium 2.0 #NT!
+########### VAnadium 2.0
 
  TSH_Bakumatsu_Shogunate_Modifier_Shogun_tt: "[?THIS.TSH_Bakumatsu_Debate_Shogun_Influence]"
 
-# Flag Booleans & Scripts #NT!
+# Flag Booleans & Scripts
  TSH_Bakamatsu_Debate_Ongoing: " §Y[TSH.GetName]§! есть §RBakamatsu Debate Crisis§! постоянно"
  TSH_Boshin_War_Ongoing: " §YЯпония§! борется в §RБошинской войне§!"
  TSH_Bakumatsu_Debate_Setup: "Настройка дебатов Бакамацу - GLOBAL:1857"
