@@ -1,8 +1,8 @@
 ﻿l_russian:
 
 
- SPR_cochinchina_expedition_begin_invasion: "Начать Кочинчинскую экспедицию".
- SPR_cochinchina_expedition_begin_invasion_desc: "Как только Кочинчинская экспедиция будет подготовлена, начнется совместное вторжение в Кочинчину тех, кто согласился на это."
+ SPR_cochinchina_expedition_begin_invasion: "Начать Кочинхинскую экспедицию".
+ SPR_cochinchina_expedition_begin_invasion_desc: "Как только Кочинхинская экспедиция будет подготовлена, начнется совместное вторжение в Кочинхину тех, кто согласился на это."
  SPR_cochinchina_expedition_begin_invasion_ready_trigger: "Экспедиция §YКочинчина§ готова к началу".
  SPR_cochinchina_expedition_begin_invasion_trigger: "§YИспания§! готова начать экспедицию".
  FRA_cochinchina_expedition_begin_invasion_trigger: "§YФранция§! готова начать экспедицию".
@@ -16,11 +16,11 @@
 FRA_cochinchina_expedition_support_malina_port_tooltip: "\n§Y[FRA.GetName]§! и §Y[SPR.GetName]§! получают §YУлучшение отношений§!, что дает §G+25§! мнения между обеими странами.\n"
  SPR_interest_in_cochinchina_expedition_trigger: "Все еще проявляет интерес к §YКочинчинской экспедиции§!".
 
- SPR_cochinchina_expedition_ready_for_invasion: "Готов к Кочинчинской экспедиции".
+ SPR_cochinchina_expedition_ready_for_invasion: "Готов к Кочинхинской экспедиции".
  SPR_cochinchina_expedition_ready_for_invasion_desc: ""
  SPR_cochinchina_expedition_has_not_began: "§YКочинчинская экспедиция§ не началась".
 
- SPR_cochinchina_expedition_take_port_mission: "Вторжение на Кочинчину".
+ SPR_cochinchina_expedition_take_port_mission: "Вторжение на Кочинхину".
  SPR_cochinchina_expedition_take_port_mission_desc: "Сай Гон и Да Нанг - крупные портовые города, способные выдержать вторжение и быстро закончить войну. Они - краеугольный камень всей операции, без них европейские силы будут вынуждены отказаться от своих амбиций."
 
 
@@ -31,7 +31,7 @@ FRA_cochinchina_expedition_support_malina_port_tooltip: "\n§Y[FRA.GetName]§! �
 
  cochinchina_expedition.3.t: "Миссионеры убиты в [286.GetName]!".
  cochinchina_expedition.3.d: ""
- cochinchina_expedition.3.a: "Может быть, нам стоит вмешаться в дела Кочинчины?"
+ cochinchina_expedition.3.a: "Может быть, нам стоит вмешаться в дела Кочинхины?"
  cochinchina_expedition.3.b: "Это возмутительно!"
 
  cochinchina_expedition.4.t: "[FROM.GetName] Outraged By Missionary Execution!"
@@ -39,16 +39,16 @@ FRA_cochinchina_expedition_support_malina_port_tooltip: "\n§Y[FRA.GetName]§! �
  cochinchina_expedition.4.a: "Давайте попросим [FROM.GetName] о совместном вмешательстве".
  cochinchina_expedition.4.b: "Мы можем сделать это в одиночку".
 
- cochinchina_expedition.5.t: "[FROM.GetName] Просит совместную экспедицию в Кочинчине!".
+ cochinchina_expedition.5.t: "[FROM.GetName] Просит совместную экспедицию в Кочинхине!".
  cochinchina_expedition.5.d: ""
  cochinchina_expedition.5.a: "Скажи им, что мы с ними".
- cochinchina_expedition.5.b: "Мы не будем вмешиваться в дела Кочинчины".
+ cochinchina_expedition.5.b: "Мы не будем вмешиваться в дела Кочинхины".
 
- cochinchina_expedition.6.t: "[FROM.GetName] Присоединяйтесь к экспедиции в Кочинчину!".
+ cochinchina_expedition.6.t: "[FROM.GetName] Присоединяйтесь к экспедиции в Кочинхину!".
  cochinchina_expedition.6.d: ""
- cochinchina_expedition.6.a: "Вперед в Кочинчину!"
+ cochinchina_expedition.6.a: "Вперед в Кочинхину!"
 
- cochinchina_expedition.7.t: "[FROM.GetName] Отказывается от интервенции в Кочинчину!"
+ cochinchina_expedition.7.t: "[FROM.GetName] Отказывается от интервенции в Кочинхину!"
  cochinchina_expedition.7.d: ""
  cochinchina_expedition.7.a: "Они нам все равно не нужны!"
 
@@ -56,19 +56,19 @@ FRA_cochinchina_expedition_support_malina_port_tooltip: "\n§Y[FRA.GetName]§! �
  cochinchina_expedition.8.d: ""
  cochinchina_expedition.8.a: "Очень признателен!"
 
- cochinchina_expedition.18.t: "Начинаем экспедицию в Кочинчину!"
+ cochinchina_expedition.18.t: "Начинаем экспедицию в Кочинхину!"
  cochinchina_expedition.18.d: ""
  cochinchina_expedition.18.a: "К войне!"
 
- cochinchina_expedition.23.t: "Высадка в Кочинчине провалилась!".
+ cochinchina_expedition.23.t: "Высадка в Кочинхине провалилась!".
  cochinchina_expedition.23.d: ""
  cochinchina_expedition.23.a: "Отозвать экспедицию!"
 
- cochinchina_expedition.24.t: "Высадка на Кочинчине успешна!"
+ cochinchina_expedition.24.t: "Высадка на Кочинхине успешна!"
  cochinchina_expedition.24.d: ""
  cochinchina_expedition.24.a: "Мы добились успеха!"
 
- cochinchina_expedition.364.t: "Успешное завоевание Кочинчина!".
+ cochinchina_expedition.364.t: "Успешное завоевание Кочинхина!".
  cochinchina_expedition.364.d: ""
  cochinchina_expedition.364.a: "Превосходно!"
 
@@ -104,7 +104,7 @@ FRA_cochinchina_expedition_support_malina_port_tooltip: "\n§Y[FRA.GetName]§! �
  cochinchina_expedition.21.d: ""
  cochinchina_expedition.21.a: "Экспедиция окончена".
 
- cochinchina_expedition.3611.t: "Конец экспедиции в Кочинчину!".
+ cochinchina_expedition.3611.t: "Конец экспедиции в Кочинхину!".
  cochinchina_expedition.3611.d: ""
  cochinchina_expedition.3611.a: "Интересно".
  cochinchina_expedition.3611.b: "За новые колонии!"
