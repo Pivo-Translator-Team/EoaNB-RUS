@@ -59,7 +59,7 @@ eoanb_flag_event_gerconfed_7_true: "Первая Вюрцбургская кон
 eoanb_flag_event_gerconfed_8_true: "Вторая Вюрцбургская конференция состоялась".
 eoanb_flag_event_gerconfed_11_true: "Состоялась первая часть Третьей Вюрцбургской конференции."
 eoanb_flag_event_gerconfed_12_true: "Вторая часть Третьей Вюрцбургской конференции состоялась."
-eoanb_tt_event_gerconfed_11_no: "§Нас могут выгнать из Конфедерации, если мы отклоним слишком много приглашений.§!".
+eoanb_tt_event_gerconfed_11_no: "§RНас могут выгнать из Конфедерации, если мы отклоним слишком много приглашений.§!".
 eoanb_flag_event_gerconfed_11_declined: "Приглашение на третью Вюрцбургскую конференцию было отклонено этой страной".
 gerconfed.11.t: "Третья Вюрцбургская конференция - первое заседание".
 gerconfed.11.d: "Члены Германской Конфедерации были приглашены принять участие в очередной конференции в Вюрцбурге - на этот раз должны были обсуждаться части конституции, касающиеся военных дел нескольких стран - но первая часть конференции закончилась гигантской склокой и ничего не было достигнуто... Вторая встреча была назначена через несколько недель."
@@ -389,13 +389,13 @@ GEC_decision_resource_prospecting_iron: "Разведка железа"
 GEC_decision_resource_prospecting_iron_desc: "Если нам удастся найти больше месторождений железа, пригодных для добычи в нашем королевстве, мы сможем стимулировать нашу промышленность и расширить нашу торговлю, что благоприятно скажется на нашем торговом балансе в целом."
 GEC_decision_resource_prospecting_coal: "Разведка угля"
 GEC_decision_resource_prospecting_coal_desc: "Если нам удастся найти больше месторождений угля, пригодных для добычи в нашем королевстве, мы сможем стимулировать нашу промышленность и расширить нашу торговлю, что благоприятно скажется на нашем торговом балансе в целом."
-GEC_decision_resource_prospecting_effect_tt: "Есть §шанс§! обнаружить §новые месторождения ресурсов§! в пределах наших границ".
+GEC_decision_resource_prospecting_effect_tt: "Есть §Yшанс§! обнаружить §Yновые месторождения ресурсов§! в пределах наших границ".
 GEC_decision_subsidize_new_extraction_methods_1: "Субсидировать новые методы добычи".
 GEC_decision_subsidize_new_extraction_methods_1_desc: "Выдавая субсидии на перспективные методы добычи, мы могли бы надеяться увеличить добычу ресурсов внутри страны."
 GEC_decision_subsidize_new_extraction_methods_2: "Субсидировать новейшие методы добычи".
 GEC_decision_subsidize_new_extraction_methods_2_desc: "Новейшие методы добычи являются передовыми. Хотя они вносят некоторую неопределенность, они также обещают большое процветание".
-GEC_decision_weaken_the_guilds: "Weaken the Guilds" #NT!
-GEC_decision_weaken_the_guilds_desc: "The guilds are still very strong in our country, and their rules and obligations hinder economic growth and competition. We need to weaken their grip on trade and craftsmanship in order to realize our potential for industrial development." #NT!
+GEC_decision_weaken_the_guilds: "Ослабить гильдии"
+GEC_decision_weaken_the_guilds_desc: "Гильдии все еще очень сильны в нашей стране, и их правила и обязательства препятствуют экономическому росту и конкуренции. Нам необходимо ослабить их хватку в торговле и ремесленничестве, чтобы реализовать наш потенциал промышленного развития."
 GEC_decision_enact_gewerbefreiheit: "Принять Gewerbefreiheit".
 GEC_decision_enact_gewerbefreiheit_desc: "Свобода предпринимательства предоставит большие возможности людям, желающим и способным ими воспользоваться. Сокрушение господства гильдий должно привести наш процесс индустриализации в ускоренное состояние."
 GEC_decision_establish_gewerbeordnung: "Учредить Gewerbeordnung".
@@ -412,20 +412,20 @@ GEC_pp_more_than_49_navy_experience_more_than_30: "£pol_power §H50§! £navy_e
 GEC_pp_more_than_49_navy_experience_more_than_30_blocked: "£pol_power §R50§! £navy_experience §R30§!".
 GEC_pp_more_than_49_navy_experience_more_than_30_tooltip: "Принятие решения стоит 50£pol_power и 30£navy_experience".
 
-#Trade #NT!
+#Trade
 GEC_decision_category_trade: "Торговые возможности"
 GEC_decision_trade_consulate_bremen: "Торговое представительство в Бремене"
 GEC_decision_trade_consulate_hamburg: "Торговый офис в Гамбурге"
 GEC_decision_purchasing_trade_convoys_non_coastal: "Приобрести торговые конвои".
 GEC_decision_establish_trade_UK: "Установить торговлю с [ENG.GetName]".
 
-#Hansa Cities #NT!
+#Hansa Cities
 GEC_decision_category_hansa_cities: "Ганзейские города".
 GEC_decision_purchasing_trade_convoys: "Закупка торговых конвоев".
-HAM_decision_zoologischer_garten: "Establishment of the Zoological Garden" #NT!
+HAM_decision_zoologischer_garten: "Создание зоологического сада"
 HAM_decision_rescue_shipwrecked_people: "Гамбургское общество спасения людей, потерпевших кораблекрушение".
 
-#Polizeiverein #NT!
+#Polizeiverein
 GEC_decision_category_polizeiverein: "Полицейский союз".
 GEC_decision_category_polizeiverein_desc: "Мы являемся членом "§YСекретного полицейского союза§!", или "§YГехеймерского полицейского союза§!", состоящего из нескольких немецких земель, цель которых - сотрудничество полицейской деятельности для §YСтабильности и сохранения статус-кво§! против §YПодрывных элементов§! Мы должны воспользоваться информацией, предоставленной союзом, чтобы выявить §Yопасных лиц и организации§! в пределах наших границ".
 GEC_decision_censor_press_temporarily: "Временно цензурировать прессу".

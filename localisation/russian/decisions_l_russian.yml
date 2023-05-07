@@ -153,7 +153,7 @@
  eoanb_political_power_100_command_power_50: "£pol_power §H100§! £command_power §H50§!" #NT!
  eoanb_political_power_100_command_power_50_blocked: "£pol_power §R100§! £command_power §R50§!" #NT!
  eoanb_political_power_100_command_power_50_tooltip: "It costs 100£pol_power and 50£command_power to take the decision." #NT!
- eoanb_political_power_20_command_power_50: "£pol_power §H20§! £command_power §Н50§!".
+ eoanb_political_power_20_command_power_50: "£pol_power §H20§! £command_power §H50§!".
  eoanb_political_power_20_command_power_50_blocked: "£pol_power §R20§! £команда_власти §Р50§!".
  eoanb_political_power_20_command_power_50_tooltip: "Принятие решения стоит 20£pol_power и 50£command_power".
  eoanb_political_power_10_command_power_75: "£pol_power §H10§! £command_power §H75§!".
@@ -495,11 +495,11 @@ eoanb_decision_GER_defuse_warinsight_desc: " Продолжающуюся \"Во
  eoanb_decision_sow_RUS_war_QNG_peking_desc: "Мы будем добиваться выполнения наших требований с помощью войны!".
  eoanb_flag_sow_RUS_QNG_peking_war: "Россия и Китай находятся в состоянии войны из-за Пекинского договора".
  eoanb_tt_decision_ENG_taku_assault_sow: "Возле §YТяньсиня§ начнется пограничная война!.\n"
- eoanb_tt_decision_ENG_taku_assault_sow_2: "Пограничная война начнется около §НТяньсиня§!.\n"
- eoanb_tt_decision_ENG_taku_assault_sow_3: "Пограничная война разразится около §НТяньсиня§!.\n"
+ eoanb_tt_decision_ENG_taku_assault_sow_2: "Пограничная война начнется около §HТяньсиня§!.\n"
+ eoanb_tt_decision_ENG_taku_assault_sow_3: "Пограничная война разразится около §HТяньсиня§!.\n"
  eoanb_tt_decision_ENG_taku_assault_beijing: "Пограничная война разразится рядом с §НТяньсинем§!.\n"
- eoanb_tt_decision_ENG_taku_assault_shanghai: "Пограничная война разразится около §НШанхая§!.\n"
- eoanb_decision_sow_ENG_land_at_caofeidian: "Земля в Каофейдиане"
+ eoanb_tt_decision_ENG_taku_assault_shanghai: "Пограничная война разразится около §HШанхая§!.\n"
+ eoanb_decision_sow_ENG_land_at_caofeidian: "Земля в Каофедиане"
  eoanb_decision_sow_ENG_land_at_caofeidian_desc: "Мы подготовимся к штурму фортов Таку возле Тяньцзиня, высадившись в Цаофэйдиан".
  eoanb_decision_sow_ENG_fortify_guangzhou: "Укрепить Гуанчжоу".
  eoanb_decision_sow_ENG_fortify_guangzhou_desc: "Мы захватили город Гуанчжоу, теперь нам нужно укрепить его, чтобы не потерять снова".
@@ -555,7 +555,7 @@ eoanb_decision_GER_defuse_warinsight_desc: " Продолжающуюся \"Во
  eoanb_flag_ENG_taku_shanghai_assault: "Британия сможет атаковать форты Таку после Шанхайской битвы".
  eoanb_decision_sow_QNG_counterattack_coalition: "Контратаковать коалицию".
  eoanb_decision_sow_QNG_counterattack_coalition_desc: "После того, как мы победили западную коалицию в Шанхае, мы должны решить, как нанести ответный удар - потенциально в Шанхае и потенциально в Гонконге."
- eoanb_tt_decision_QNG_counterattack_coalition: "Мы сможем осадить §Гонконг§!".
+ eoanb_tt_decision_QNG_counterattack_coalition: "Мы сможем осадить §YГонконг§!".
  eoanb_flag_sow_QNG_counterattack_hk: "Китай готов к нападению на Гонконг".
  eoanb_decision_sow_QNG_hk_battle_1: "Штурм Гонконга".
  eoanb_decision_sow_QNG_hk_battle_1_desc: "Мы готовы к штурму Гонконга и изгнанию британцев".

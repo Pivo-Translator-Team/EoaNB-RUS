@@ -171,7 +171,7 @@ alert_unassigned_divisions_delayed:2 "У нас есть несколько ди
  alert_ally_pulling_its_expeditionaries_instant: "§HЭкспедиционные силы отозваны§!"
  alert_ally_pulling_its_expeditionaries_delayed: "Экспедиционные силы из $COUNTRY_LIST|H$ отозваны и скоро вернутся в свои страны".
  ALERT_RIGHTCLICK_DISMISS_CURRENT_COMBATS: "§GЩёлкните правой кнопкой мыши, чтобы отменить текущие бои§!"
- ALERT_LEFTCLICK_TOGGLE_COMBATS: "§Нажмите левой кнопкой мыши для переключения между боями§!".
+ ALERT_LEFTCLICK_TOGGLE_COMBATS: "§GЩёлкните левой кнопкой мыши для переключения между боями§!".
  ALERT_NAVAL_COMBAT_INFO: "Есть $NUM|H$ новых морских сражений во флотах, которые отмечены как важные".
  ALERT_NAVAL_COMBAT_INFO_REGION: "В этом регионе произошло $NUM|H$ новых морских сражений."
  ALERT_PRIORITY: "§HПриоритет оповещения флота:§! $TYPE$"
