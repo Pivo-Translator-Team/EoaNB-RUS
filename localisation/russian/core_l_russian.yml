@@ -990,7 +990,7 @@ CARRIER_SHIP_ICON:1 "Эта авиабаза является §HФлотом§!
  MAP_ICON_UNITS: "Подразделения: $VALUE|Y$"
  MAP_ICON_DIVISIONS: "Дивизии: $VALUE|Y$"
  MAP_ICON_NAVIES: "ВМС: $VALUE|Y$"
- MAP_ICON_NAVY_SHIPS:1 "$NAVY|H$ ($COUNTRY|H$): $VALUE|Y$ Корабли ($VALUE2|Y$ Столичные)"
+ MAP_ICON_NAVY_SHIPS:1 "$NAVY|H$ ($COUNTRY|H$): $VALUE|Y$ Корабли ($VALUE2|Y$ Капитальные)"
  MAP_ICON_SHIPS: "Корабли: $VALUE|Y$".
  UNIT_ORG: "Организация: $VALUE|H$"
  UNIT_AVERAGE_ORG:1 "Средняя организация: $VALUE|%0H$"
