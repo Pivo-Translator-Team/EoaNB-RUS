@@ -84,9 +84,9 @@
  EQUIPMENT_MOTORIZED: "Моторизация"
  EQUIPMENT_MECHANIZED: "Механизация"
  EQUIPMENT_INFANTRY: "Пехота"
- EQUIPMENT_CAPITAL_SHIP: "Столичный Корабль"
+ EQUIPMENT_CAPITAL_SHIP: "Капитальный корабль"
  EQUIPMENT_SUBMARINE: "Подводная лодка"
- EQUIPMENT_SCREEN: "Монитор"
+ EQUIPMENT_SCREEN: "Корабль охранения"
  EQUIPMENT_CONVOY: "Торговый конвой"
  EQUIPMENT_AIR_FIGHTER: "Истребитель"
  EQUIPMENT_AIR_CAS: "Ближняя воздушная поддержка"
@@ -4449,14 +4449,14 @@
  foureight_frigate_desc: "Этот фрегат бронирован в некоторых местах, что затрудняет прорыв в критические точки."
  fivesix_frigate: "Фрегат модели 1856 года"
  fivesix_frigate_desc: "Этот фрегат может плыть быстрее и более проворный, чем модель 1848 года."
- sixone_monitor: "Корабль-монитор модели 1861 года"
+ sixone_monitor: "Корабль охранения модели 1861 года"
  sixone_monitor_desc: "Этот корабль довольно маленький и быстрый, но несет тяжелое вооружение".
  sixone_frigate: "Ironclad"
 #sixfive_frigate_desc: "Ironclads are heavily armed, making it hard to breach the hull."
  sixone_coastal: "Канонерская лодка модели 1861 года"
  sixone_coastal_desc: "Канонерские лодки могут самостоятельно действовать на море, но также могут помогать в сухопутных боях путем обстрела берега. Они несут тяжелые орудия".
- sixfive_monitor: "Корабль "Монитор" образца 1865 года"
- sixfive_monitor_desc: "Улучшенная модель корабля-монитора 1861 года, с большей огневой мощью и более прочным корпусом."
+ sixfive_monitor: "Корабль охранения образца 1865 года"
+ sixfive_monitor_desc: "Улучшенная модель корабля охранения 1861 года, с большей огневой мощью и более прочным корпусом."
  sixfive_cruiser: "Крейсер образца 1865 года"
  sixfive_cruiser_desc: "Новый дизайн корабля, быстрый и гибкий, предназначенный для выполнения нескольких различных миссий в бою и вне его."
  sixfive_frigate: "Паровой корвет модели 1865 года"
@@ -4589,7 +4589,7 @@
  ship_engine_gunboat_7_short: "Двигатель канонерской лодки VIII"
  ship_engine_gunboat_7_desc: "Двигатель для канонерской лодки мощностью 2500 л.с. Ранние попытки интегрировать нефтяные двигатели внутреннего сгорания в наши канонерские лодки увенчались успехом, и в результате появился этот двигатель, который, хотя все еще работает на пару, является особенно мощным и надежным."
  EQ_MOD_CAT_ship_engine_gunboat_TITLE: "Двигатели для канонерских лодок"
- EQ_MOD_CAT_ship_engine_monitor_TITLE: "Двигатели корабля-монитора"
+ EQ_MOD_CAT_ship_engine_monitor_TITLE: "Двигатели корабля охранения"
  EQ_MOD_CAT_ship_capital_armor_TITLE: "Броня капитального корабля"
  EQ_MOD_CAT_ship_cannon_battery_TITLE: "Пушечная батарея"
  EQ_MOD_CAT_ship_screen_armor_TITLE: "Экранная броня корабля"
@@ -4638,51 +4638,51 @@
  ship_RBL_battery_1: "Морская пушка RBL"
  ship_RBL_battery_1_short: "7-inch Rifled Breech-Loader"
  ship_RBL_battery_1_desc: "Пушка, стреляющая твердыми снарядами или морскими снарядами второго поколения 7 дюймов в поперечнике, закрученными для устойчивости и точности. Заряжается с казенной части орудия для более быстрой перезарядки. (В ранних моделях вероятность взорваться у вас перед носом была почти такой же, как и у врагов)".
- ship_hull_monitor: "Корабли-мониторы"
+ ship_hull_monitor: "Корабли Охранения"
  ship_hull_monitor_desc: "Небольшие боевые корабли, легко бронированные, но обладающие непропорционально большим количеством вооружения."
- ship_hull_monitor_0: "Прототип корпуса монитора"
- ship_hull_monitor_0_desc: "Прототип корпуса для корабля-монитора, небольшого легкобронированного военного корабля с большим количеством оружия".
- ship_hull_monitor_1: "Корпус монитора 1870 года"
- ship_hull_monitor_1_desc: "Улучшенная версия корпуса нашего старого корабля-монитора".
+ ship_hull_monitor_0: "Прототип корпуса корабля охранения"
+ ship_hull_monitor_0_desc: "Прототип корпуса для корабля охранения, небольшого легкобронированного военного корабля с большим количеством оружия".
+ ship_hull_monitor_1: "Корпус корабля охранения 1870 года"
+ ship_hull_monitor_1_desc: "Улучшенная версия корпуса нашего старого корабля охранения".
  ship_hull_monitor_2: "1880 Monitor Hull"
- ship_hull_monitor_2_desc: "Улучшенная версия корпуса нашего старого корабля-монитора".
+ ship_hull_monitor_2_desc: "Улучшенная версия корпуса нашего старого корабля охранения".
  ship_hull_monitor_3: "1896 Monitor Hull"
- ship_hull_monitor_3_desc: "Улучшенная версия корпуса нашего старого корабля-монитора".
+ ship_hull_monitor_3_desc: "Улучшенная версия корпуса нашего старого корабля охранения".
  ship_hull_monitor_4: "1908 Monitor Hull"
- ship_hull_monitor_4_desc: "Улучшенная версия корпуса нашего старого корабля-монитора".
+ ship_hull_monitor_4_desc: "Улучшенная версия корпуса нашего старого корабля охранения".
  ship_hull_monitor_5: "1914 Monitor Hull"
- ship_hull_monitor_5_desc: "Улучшенная версия корпуса нашего старого корабля-монитора".
+ ship_hull_monitor_5_desc: "Улучшенная версия корпуса нашего старого корабля охранения".
  ship_hull_monitor_6: "1922 Monitor Hull"
- ship_hull_monitor_6_desc: "Улучшенная версия корпуса нашего старого корабля-монитора".
+ ship_hull_monitor_6_desc: "Улучшенная версия корпуса нашего старого корабля охранения".
  ship_hull_monitor_7: "1944 Monitor Hull"
- ship_hull_monitor_7_desc: "Улучшенная версия корпуса нашего старого корабля-монитора".
- ship_hull_monitor_8: "Корпус монитора 1960 года"
- ship_hull_monitor_8_desc: "Улучшенная версия корпуса нашего старого корабля-монитора".
- ship_hull_monitor_9: "Корпус монитора 1980 года"
- ship_hull_monitor_9_desc: "Улучшенная версия корпуса нашего старого корабля-монитора".
- ship_hull_monitor_10: "Корпус монитора 1995 года"
- ship_hull_monitor_10_desc: "Улучшенная версия корпуса нашего старого корабля-монитора".
- ship_engine_monitor: "Двигатель корабля-монитора"
- ship_engine_monitor_desc: "Судовые двигатели, используемые на кораблях-мониторах".
- ship_engine_monitor_0: "Двигатель монитора мощностью 500 л.с."
- ship_engine_monitor_0_short: "Двигатель монитора I"
- ship_engine_monitor_0_desc: "Двигатель монитора мощностью 500 л.с.".
- ship_engine_monitor_1: "Двигатель монитора мощностью 700 л.с."
- ship_engine_monitor_1_short: "Двигатель монитора II"
+ ship_hull_monitor_7_desc: "Улучшенная версия корпуса нашего старого корабля охранения".
+ ship_hull_monitor_8: "Корпус корабля охранения 1960 года"
+ ship_hull_monitor_8_desc: "Улучшенная версия корпуса нашего старого корабля охранения".
+ ship_hull_monitor_9: "Корпус корабля охранения 1980 года"
+ ship_hull_monitor_9_desc: "Улучшенная версия корпуса нашего старого корабля охранения".
+ ship_hull_monitor_10: "Корпус корабля охранения 1995 года"
+ ship_hull_monitor_10_desc: "Улучшенная версия корпуса нашего старого корабля охранения".
+ ship_engine_monitor: "Двигатель корабля охранения"
+ ship_engine_monitor_desc: "Судовые двигатели, используемые на кораблях охранения".
+ ship_engine_monitor_0: "Двигатель корабля охранения мощностью 500 л.с."
+ ship_engine_monitor_0_short: "Двигатель корабля охранения I"
+ ship_engine_monitor_0_desc: "Двигатель корабля охранения мощностью 500 л.с.".
+ ship_engine_monitor_1: "Двигатель корабля охранения мощностью 700 л.с."
+ ship_engine_monitor_1_short: "Двигатель корабля охранения II"
  ship_engine_monitor_1_desc: "A 700 Shp Monitor Engine."
  ship_engine_monitor_2: "850 Shp Monitor Engine"
- ship_engine_monitor_2_short: "Двигатель монитора III"
- ship_engine_monitor_2_desc: "850-сильный двигатель монитора".
+ ship_engine_monitor_2_short: "Двигатель корабля охранения III"
+ ship_engine_monitor_2_desc: "850-сильный двигатель корабля охранения".
  ship_engine_monitor_3: "1,000 Shp Monitor Engine"
- ship_engine_monitor_3_short: "Двигатель монитора IV"
+ ship_engine_monitor_3_short: "Двигатель корабля охранения IV"
  ship_engine_monitor_3_desc: "1,000 Shp Monitor Engine."
  ship_engine_monitor_4: "1,250 Shp Monitor Engine"
- ship_engine_monitor_4_short: "Двигатель монитора V"
+ ship_engine_monitor_4_short: "Двигатель корабля охранения V"
  ship_engine_monitor_4_desc: "A 1,250 Shp Monitor Engine."
  ship_engine_monitor_5: "1,600 Shp Monitor Engine"
- ship_engine_monitor_5_short: "Двигатель монитора VI"
+ ship_engine_monitor_5_short: "Двигатель корабля охранения VI"
  ship_engine_monitor_5_desc: "1,600 Shp Monitor Engine."
- modifier_experience_gain_monitor_training_factor: "Прирост XP за обучение на корабле-мониторе".
+ modifier_experience_gain_monitor_training_factor: "Прирост XP за обучение на корабле охранения".
  modifier_experience_gain_monitor_combat_factor: "Прирост XP в боевых действиях корабля"
  modifier_experience_gain_corvette_training_factor: "Прирост XP для обучения корветов"
  modifier_experience_gain_corvette_combat_factor: "Прирост боевого XP корвета".
@@ -4716,7 +4716,7 @@
  modifier_experience_gain_primitive_sailing_boat_combat_factor: "Примитивный бой с парусной лодкой".
  modifier_experience_gain_carrier_training_factor:1 "Прирост опыта обучения авианосцев"
  ship_hull_corvette: "Корветы"
- ship_hull_corvette_desc: "Небольшой тип военного корабля, функционирующий как небольшая батарея и Монитор для более крупных кораблей."
+ ship_hull_corvette_desc: "Небольшой тип военного корабля, функционирующий как небольшая батарея и корабль охранения для более крупных кораблей."
  ship_hull_corvette_0: "Корпус раннего корвета"
  ship_hull_corvette_0_desc: "Корпус раннего корвета эпохи парусов".
  ship_hull_corvette_1: "Корпус корвета 1857 года"
@@ -5109,7 +5109,7 @@
  ship_engine_submarine_4_short: "Двигатель подводной лодки V"
  ship_engine_submarine_4_desc: "Двигатель подводной лодки мощностью 800 л.с.".
  production_cost_max_ship_hull_submarine: "Максимальная стоимость корпуса подводной лодки"
- production_cost_max_ship_hull_monitor: "Максимальная стоимость монитора"
+ production_cost_max_ship_hull_monitor: "Максимальная стоимость корабля охранения"
  production_cost_max_ship_hull_corvette: "Максимальная стоимость корвета"
  production_cost_max_ship_hull_torpedo_boat: "Максимальная стоимость торпедного катера"
  production_cost_max_ship_hull_destroyer: "Максимальная стоимость разрушителя"
@@ -5369,7 +5369,7 @@
  ship_armor_screen_hardwood_0: "Броня для кораблей-экранопланов из твердого дерева"
  ship_armor_screen_hardwood_0_short: "Укрепления из твердой древесины"
  ship_armor_screen_hardwood_0_desc: "Части корпуса будут усилены твердым деревом, чтобы сделать корабль более прочным".
- ship_armor_screen_harvey: "Монитор брони корабля Харви".
+ ship_armor_screen_harvey: "Броня корабля охранения Харви".
  ship_armor_screen_harvey_desc: "Броня для кораблей-экранов, созданных по методу Харви".
  ship_armor_screen_harvey_0: "Легкая броня Харви"
  ship_armor_screen_harvey_0_short: "Легкая броня Харви I"
