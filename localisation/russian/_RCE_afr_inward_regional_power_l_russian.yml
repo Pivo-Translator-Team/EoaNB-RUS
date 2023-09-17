@@ -1,139 +1,139 @@
 ﻿l_russian:
-
- AFR_darfur_waddai_conflicts: "Соперничество между Драфуром и Ваддаем"
-
- afr_inward_integration_tribe.1.t: "[FROM.GetName] Давит на подчинение!"
- afr_inward_integration_tribe.1.d: "[FROM.GetName] является могущественной региональной державой и намерен консолидировать местные земли. Чтобы избежать кровопролития, [FROM.GetName] официально попросил [ROOT.GetName] присоединиться к их империи. Мы станем их подданными, что гарантирует нам выживание. Остается только один вопрос: стоит ли это потери нашей независимости?".
- afr_inward_integration_tribe.1.a: "Они хорошо договорились, скажите им, что мы будем их подданными".
- afr_inward_integration_tribe.1.b: "Мы будем бороться за независимость, мы ничьи подданные!".
-
- afr_inward_integration_tribe.2.t: "[FROM.GetName] Отказывается от наших требований!".
- afr_inward_integration_tribe.2.d: "[FROM.GetName] отказался от порабощения и, таким образом, отверг мирную интеграцию. Мы можем вести с ними войну и капитулировать перед нашими требованиями, или мы можем отказаться от наших требований, чтобы избежать войны."
- afr_inward_integration_tribe.2.a: "Они капитулируют перед нашими требованиями! Готовьтесь к войне!"
- afr_inward_integration_tribe.2.b: "Мы не можем продолжать войну, отмените наши требования".
-
- afr_inward_integration_tribe.3.t: "[FROM.GetName] отозвал требования о порабощении!".
- afr_inward_integration_tribe.3.d: "[FROM.GetName] отступили от своих первоначальных требований подчинить нас".
- afr_inward_integration_tribe.3.a: "Замечательно!"
-
- afr_inward_integration_tribe.5.t: "[FROM.GetName] Вторжение готово!"
- afr_inward_integration_tribe.5.d: "Армия империи [ROOT.GetAdjective] готова, теперь они ждут, когда [ROOT.GetLeader] даст им команду к вторжению".
- afr_inward_integration_tribe.5.a: "Начать вторжение!"
-
- afr_inward_integration_kingdom.1.t: "[FROM.GetName] Давит на подчинение!".
- afr_inward_integration_kingdom.1.d: "[FROM.GetName] является могущественной региональной державой и намерен консолидировать местные земли. Чтобы избежать кровопролития, [FROM.GetName] официально попросил [ROOT.GetName] присоединиться к их империи. Мы станем их подданными, что гарантирует нам выживание. Остается только один вопрос, стоит ли это потери нашей независимости?".
- afr_inward_integration_kingdom.1.a: "Они хорошо провели переговоры, скажите им, что мы будем их подданными".
- afr_inward_integration_kingdom.1.b: "Мы будем бороться за независимость, мы ничьи подданные!".
-
- afr_inward_integration_kingdom.2.t: "[FROM.GetName] Отказывается от наших требований!"
- afr_inward_integration_kingdom.2.d: "[FROM.GetName] отказался от подчинения и тем самым отверг мирную интеграцию. Мы можем вести с ними войну и капитулировать перед нашими требованиями, или мы можем отказаться от наших требований, чтобы избежать войны."
- afr_inward_integration_kingdom.2.a: "Они капитулируют перед нашими требованиями!".
- afr_inward_integration_kingdom.2.b: "Мы не можем продолжать войну, отмените наши требования".
-
- afr_inward_integration_kingdom.3.t: "[FROM.GetName] отозвал требования о порабощении!".
- afr_inward_integration_kingdom.3.d: "[FROM.GetName] отступили от своих первоначальных требований подчинить нас".
- afr_inward_integration_kingdom.3.a: "Замечательно!"
-
- afr_inward_regional_power_imperial_expansion: "Имперская экспансия"
- afr_inward_regional_power_consolidate_neighboring_tribes: "Консолидировать [FROM.GetName]".
- afr_inward_regional_power_consolidate_neighboring_tribes_desc: "[FROM.GetName] не является малым королевством, что означает, что мы можем консолидировать их в нашу империю."
- afr_inward_regional_power_consolidate_neighboring_small_kingdoms: "Давление [FROM.GetName]".
- afr_inward_regional_power_consolidate_neighboring_small_kingdoms_desc: "[FROM.GetName] - маленькое королевство, война с ними истощит нашу экономику, и дипломатическое подчинение является предпочтительным вариантом."
-
- afr_inward_not_subject_of_western_power: "Не является субъектом §YКолониальной Державы§!".
-
- afr_inward_regional_power_sprawl: "Обратиться к имперскому разрастанию"
- AFR_constructing_dirt_roads_tooltip: "Не создает §YОсновные Дороги§!".
- afr_inward_guarantee_roads_in_conquered_lands_decision: "Установить грунтовые дороги в недавно завоеванных землях".
- AFR_dirt_roads_requirement_tooltip: "Любой регион имеет §Y0 инфраструктуры§!".
-
-
- afr_inward_regional_power_1: "Изоляционистская региональная держава"
-
- afr_focus_more_than_one_state_or_subject: "Одно из следующих условий должно быть истинным:\n Владеет по меньшей мере §Y2§! регионами\n Имеет по меньшей мере §Y1§! регион-субъект".
-
- afr_inward_space_tooltip: "\n"
- afr_inward_protect_our_own_land_space_tooltip: "\n\n"
- afr_inward_protect_our_own_land_tooltip: "\n§RНи один другой народ не поддержит нас, и мы не будем поддерживать других.§!"
-
- afr_inward_prepare_defence: "Подготовить оборону"
- afr_inward_protect_our_own_land_idea: "Защита нашей собственной земли"
- afr_inward_protect_our_own_land_idea_desc: "На фоне схватки за Африку эта нация решила сосредоточить усилия на защите собственной земли в качестве приоритета."
-
- afr_inward_regional_power_adressing_scramble_for_africa: "В условиях схватки за Африку"
- afr_inward_regional_power_adressing_scramble_for_africa_tooltip: "Эта ветвь фокуса разблокируется, когда начинается §YСхватка за Африку§!".
- afr_inward_regional_power_prepare_the_drums_of_war: "Подготовить барабаны войны"
- afr_inward_drums_of_war_tooltip: "Изменить военный бюджет на "§Y5% бюджета§!'\n".
- afr_inward_regional_power_close_our_economy: "Закрыть нашу экономику"
- afr_inward_close_our_economy_tooltip: "Изменить налоговый закон на '§YВысокие налоги§!'\nИзменить торговый закон на '§YЗакрытая экономика§!"
- afr_inward_regional_power_prepare_a_defence: "Подготовить оборону"
- afr_inward_regional_power_recruit_the_able: "Вербовать способных"
- afr_inward_regional_power_self_superiority: "[ROOT.GetName] Превосходство".
- afr_inward_regional_power_rally_for_our_people: "Митинг за [ROOT.GetName]".
- afr_inward_regional_power_join_the_african_inward: "Присоединиться к африканскому внутреннему миру".
- afr_inward_regional_power_protect_our_own_land: "Защитить нашу собственную землю"
- afr_inward_regional_power_conscript_slaves_into_army: "Призывать рабов в армию"
- afr_inward_regional_power_mobilize_slave_economy: "Мобилизовать рабовладельческую экономику"
- afr_inward_regional_power_slave_labor_camps: "Создать лагеря рабов".
-
- afr_inward_regional_power_adressing_empire_sprawl: "Борьба с расползанием нашей империи".
- afr_inward_regional_power_adressing_oral_tradition: "Обращение к устным традициям в образовании"
- afr_inward_regional_power_adressing_oral_tradition_tooltip: "Изменить политику образования на '§YПривилегированное образование§!'\n\n"
- afr_inward_regional_power_introduce_modern_labor_practices: "Внедрять современные методы труда"
- afr_inward_regional_power_addressing_economic_policies: "Обращение к экономической политике"
- afr_inward_regional_power_addressing_economic_policies_tooltip: "Изменить налоговую политику на '§YСтандартные налоги§!'\n\n"
- afr_inward_regional_power_introduction_of_private_property: "Введение частной собственности"
- afr_inward_regional_power_introduction_of_private_property_tooltip: "Изменить закон о собственности на "§YПриобретение земли§!'\n\n"
- afr_inward_regional_power_retain_african_communalism: "Модернизировать племенной коммунализм"
- afr_inward_regional_power_retain_african_communalism_tooltip: "Изменить закон о собственности на "§YАфриканский коммунализм§!'\n\n"
- afr_inward_regional_power_retain_land_estates: "Сохранить земельные владения"
- afr_inward_regional_power_retain_land_estates_tooltip: "Изменить закон о собственности на "§YЗемельные владения§!'\n\n"
- afr_inward_regional_power_early_fabric_industry: "Ранняя текстильная промышленность"
- afr_inward_regional_power_three_crop_rotation: "Трехпольный севооборот"
- afr_inward_regional_power_address_underdeveloped_economies: "Обращаться к слаборазвитым экономикам"
- afr_inward_regional_power_absolute_authority: "Абсолютная власть"
- afr_inward_regional_power_absolute_authority_tooltip: "Правительство будет продолжать работать в режиме §YАбсолютной монархии§!\n\n"
- afr_inward_regional_power_limited_regional_representation: "Ограниченное представительство"
- afr_inward_regional_power_limited_regional_representation_tooltip: "Правительство будет учитывать коммунальные нужды каждого региона.\n\n\nИзменить закон о голосовании на '§YОграниченные выборы§!'\n"
-
- afr_inward_regional_power_address_tribal_military: "Модернизировать военный персонал"
- afr_inward_regional_power_specialized_army_doctrine: "Специализированная армейская доктрина"
- afr_inward_regional_power_special_infantry_corps: "Специальный пехотный корпус"
- afr_inward_regional_power_massive_army_doctrine: "Доктрина массированной армии"
- afr_inward_regional_power_recruitment_drives: "Драйвы вербовки"
- afr_inward_regional_power_stockpile_tribal_weapons: "Запасы оружия племен".
- afr_inward_regional_power_stockpile_tribal_weapons_trigger_tooltip: "Имеет как минимум §Y100 командного ресурса§!".
- afr_inward_regional_power_loyal_soldiers: "Наши верные солдаты"
- afr_inward_regional_power_improve_our_designs: "Изучить военное применение"
- afr_inward_regional_power_introduce_camel_cavalry: "Представить дивизии верблюжьей кавалерии"
- afr_inward_regional_power_introduce_camel_cavalry_tooltip: "Предоставляет 200 §YВерблюдов§!, которые могут быть использованы для §YПустыных рейдеров§!".
- afr_inward_regional_power_camel_cavalry_tactics: "Мастерство верблюжьей кавалерии"
- afr_inward_regional_power_decentralized_command_structure: "Децентрализованная структура командования"
- afr_inward_regional_power_decentralized_command_structure_tooltip: "Не имеет §YЦентрализованного структурного командования§!".
- afr_inward_regional_power_superior_weaponry: "Независимое самодельное оружие".
- afr_inward_regional_power_superior_weaponry_tooltip: "\n§gВоинам разрешается тратить время на эксперименты и испытания новых конструкций оружия во время обучения. Без бюрократии, которая должна утверждать каждую модификацию, солдаты уникально и лично улучшают характеристики своего оружия.§!\n"
- afr_inward_regional_power_centralized_command_structure: "Централизованная структура командования"
- afr_inward_regional_power_centralized_command_structure_tooltip: "Не имеет §YДецентрализованного структурного командования§!"
- afr_inward_regional_power_streamlined_training: "Создать военные учебные лагеря"
- afr_inward_regional_power_streamlined_training_tooltip: "§gВоины круглый год находятся в военных учебных лагерях, что упрощает процесс обучения и развертывания.§!\n"
- afr_inward_regional_power_survival_training: "Региональная подготовка по выживанию"
- afr_inward_regional_power_survival_training_tooltip: "Тип §YОбучения выживанию§! будет зависеть от выбранной вами §YКомандной структуры§!".
- afr_inward_regional_power_early_medicine: "Применение ранней медицины"
- afr_inward_regional_power_advanced_tribal_tactics: "Продвинутая тактика племен"
-
- afr_inward_regional_power_expanding_our_regional_power: "Расширение нашего регионального влияния"
- afr_inward_regional_power_consolidate_tribes: "Консолидировать соседние племена".
- afr_inward_regional_power_consolidate_tribes_tooltip: "Разблокирует новые §YРешения§! связанные с консолидацией §YНеорганизованных§! и §YОрганизованных Племен§! в нашу империю.\n\n".
- afr_generic_inward_skt_expand_slave_markets: "Расширить рынки рабов"
- afr_inward_regional_power_guarantee_roads_in_conquered_lands: "Гарантировать дороги в завоеванных землях".
-afr_inward_regional_power_guarantee_roads_in_conquered_lands_tooltip: "Разблокирует новые §YРешения§!, связанные с §ҮГрунтовыми дорогами§!, чтобы иметь минимум §G1 Инфраструктуры§! в каждом регионе".
- afr_inward_regional_power_export_our_culture_abroad: "Экспортировать нашу культуру за границу"
- afr_inward_regional_power_export_our_culture_abroad_tooltip: "Разблокирует новые §YРешения§! связанные с §Gэмиграцией§! для утверждения нашей культуры и снижения §Gсопротивления§! в завоеванных землях.\n\n§RКонтент не завершён!§!".
- afr_inward_regional_power_consolidate_kingdoms: "Давление на соседние малые королевства"
- afr_inward_regional_power_consolidate_kingdoms_tooltip: "Разблокирует новые §YРешения§! связанные с давлением на §YМалые королевства§! чтобы они стали подданными нашей империи.\n\n"
-
- afr_inward_regional_power_establish_port_town: "Основать портовый город".
-
-
-
-
+  
+ AFR_darfur_waddai_conflicts: "Darfur-Waddai Rivalry" #NT!
+  
+ afr_inward_integration_tribe.1.t: "[FROM.GetName] Pressures Subjugation!" #NT!
+ afr_inward_integration_tribe.1.d: "[FROM.GetName] is a mighty Regional Power, and intends on consolidating the local lands. To avoid any bloodshed, [FROM.GetName] has formally requested [ROOT.GetName] to join their empire. We would be their subject, which will guarantee our survival. Only one question remains, is it worth losing our independence?" #NT!
+ afr_inward_integration_tribe.1.a: "They've negotiated well, tell them we'll be their subject." #NT!
+ afr_inward_integration_tribe.1.b: "We'll fight to stay independent, we are nobody's subject!" #NT!
+  
+ afr_inward_integration_tribe.2.t: "[FROM.GetName] Refuses Our Demands!" #NT!
+ afr_inward_integration_tribe.2.d: "[FROM.GetName] has refused subjugation and thus rejected peaceful integration. We can pursue war with them and capitulate them to our demands, or we can drop our demands to avoid war." #NT!
+ afr_inward_integration_tribe.2.a: "They will capitulate to our demands! Prepare for War!" #NT!
+ afr_inward_integration_tribe.2.b: "We cannot pursue war, revoke our demands." #NT!
+  
+ afr_inward_integration_tribe.3.t: "[FROM.GetName] has Revoked Demands for Subjugation!" #NT!
+ afr_inward_integration_tribe.3.d: "[FROM.GetName] has backed down from their intitial demands to subjegate us." #NT!
+ afr_inward_integration_tribe.3.a: "Wonderful!" #NT!
+  
+ afr_inward_integration_tribe.5.t: "[FROM.GetName] Invasion Prepared!" #NT!
+ afr_inward_integration_tribe.5.d: "The [ROOT.GetAdjective] Empire's army is ready, they now wait for [ROOT.GetLeader] to give them the command to invade." #NT!
+ afr_inward_integration_tribe.5.a: "Commence the invasion!" #NT!
+  
+ afr_inward_integration_kingdom.1.t: "[FROM.GetName] Pressures Subjugation!" #NT!
+ afr_inward_integration_kingdom.1.d: "[FROM.GetName] is a mighty Regional Power, and intends on consolidating the local lands. To avoid any bloodshed, [FROM.GetName] has formally requested [ROOT.GetName] to join their empire. We would be their subject, which will guarantee our survival. Only one question remains, is it worth losing our independence?" #NT!
+ afr_inward_integration_kingdom.1.a: "They've negotiated well, tell them we'll be their subject." #NT!
+ afr_inward_integration_kingdom.1.b: "We'll fight to stay independent, we are nobody's subject!" #NT!
+  
+ afr_inward_integration_kingdom.2.t: "[FROM.GetName] Refuses Our Demands!" #NT!
+ afr_inward_integration_kingdom.2.d: "[FROM.GetName] has refused subjugation and thus rejected peaceful integration. We can pursue war with them and capitulate them to our demands, or we can drop our demands to avoid war." #NT!
+ afr_inward_integration_kingdom.2.a: "They will capitulate to our demands!" #NT!
+ afr_inward_integration_kingdom.2.b: "We cannot pursue war, revoke our demands." #NT!
+  
+ afr_inward_integration_kingdom.3.t: "[FROM.GetName] has Revoked Demands for Subjugation!" #NT!
+ afr_inward_integration_kingdom.3.d: "[FROM.GetName] has backed down from their intitial demands to subjegate us." #NT!
+ afr_inward_integration_kingdom.3.a: "Wonderful!" #NT!
+  
+ afr_inward_regional_power_imperial_expansion: "Imperial Expansion" #NT!
+ afr_inward_regional_power_consolidate_neighboring_tribes: "Consolidate [FROM.GetName]" #NT!
+ afr_inward_regional_power_consolidate_neighboring_tribes_desc: "[FROM.GetName] is not a Small Kingdom, which means we can consolidate them into our Empire." #NT!
+ afr_inward_regional_power_consolidate_neighboring_small_kingdoms: "Pressure [FROM.GetName]" #NT!
+ afr_inward_regional_power_consolidate_neighboring_small_kingdoms_desc: "[FROM.GetName] is a Small Kingdom, a war with them would exhaust our economy and diplomatic Subjugation is the preferred option." #NT!
+  
+ afr_inward_not_subject_of_western_power: "Is not a Subject of a §YColonial Power§!" #NT!
+  
+ afr_inward_regional_power_sprawl: "Address Imperial Sprawl" #NT!
+ AFR_constructing_dirt_roads_tooltip: "Not establishing §YBasic Roads§!" #NT!
+ afr_inward_guarantee_roads_in_conquered_lands_decision: "Establish Dirt Roads in Newly Conquered Lands" #NT!
+ AFR_dirt_roads_requirement_tooltip: "Any owned state has §Y0 Infrastructure§!" #NT!
+  
+  
+ afr_inward_regional_power_1: "Isolationist Regional Power" #NT!
+  
+ afr_focus_more_than_one_state_or_subject: "One of the following must be true:\n      Has ownership of at least §Y2§! states\n      Has at least §Y1§! Subject nation" #NT!
+  
+ afr_inward_space_tooltip: "\n" #NT!
+ afr_inward_protect_our_own_land_space_tooltip: "\n\n" #NT!
+ afr_inward_protect_our_own_land_tooltip: "\n§RNo other nation will support us, and we will not support others.§!" #NT!
+  
+ afr_inward_prepare_defence: "Prepare a Defence" #NT!
+ afr_inward_protect_our_own_land_idea: "Protecting Our Own Land" #NT!
+ afr_inward_protect_our_own_land_idea_desc: "Amidst the Scramble for Africa, this nation has decided to focus efforts on protecting their own land as priority." #NT!
+  
+ afr_inward_regional_power_adressing_scramble_for_africa: "Weathering the Scramble for Africa" #NT!
+ afr_inward_regional_power_adressing_scramble_for_africa_tooltip: "This focus branch is unlocked when the §YScramble for Africa§! starts." #NT!
+ afr_inward_regional_power_prepare_the_drums_of_war: "Prepare the Drums of War" #NT!
+ afr_inward_drums_of_war_tooltip: "Change Military Budget to '§Y5% of the Budget§!'\n" #NT!
+ afr_inward_regional_power_close_our_economy: "Close our Economy" #NT!
+ afr_inward_close_our_economy_tooltip: "Change Tax Law to '§YHigh Taxes§!'\nChange Trade Law to '§YClosed Economy§!'" #NT!
+ afr_inward_regional_power_prepare_a_defence: "Prepare a Defence" #NT!
+ afr_inward_regional_power_recruit_the_able: "Recruit the Able" #NT!
+ afr_inward_regional_power_self_superiority: "[ROOT.GetName] Superiority" #NT!
+ afr_inward_regional_power_rally_for_our_people: "Rally for [ROOT.GetName]" #NT!
+ afr_inward_regional_power_join_the_african_inward: "Join the African inward" #NT!
+ afr_inward_regional_power_protect_our_own_land: "Protect Our Own Land" #NT!
+ afr_inward_regional_power_conscript_slaves_into_army: "Conscript Slaves into the Army" #NT!
+ afr_inward_regional_power_mobilize_slave_economy: "Mobilize a Slave Economy" #NT!
+ afr_inward_regional_power_slave_labor_camps: "Establish Slave Camps" #NT!
+  
+ afr_inward_regional_power_adressing_empire_sprawl: "Addressing our Empire's Sprawl" #NT!
+ afr_inward_regional_power_adressing_oral_tradition: "Addressing Oral Traditions in Education" #NT!
+ afr_inward_regional_power_adressing_oral_tradition_tooltip: "Change Education Policy to '§YPrivileged Education§!'\n\n" #NT!
+ afr_inward_regional_power_introduce_modern_labor_practices: "Introduce Modern Labor Practices" #NT!
+ afr_inward_regional_power_addressing_economic_policies: "Addressing Economic Policies" #NT!
+ afr_inward_regional_power_addressing_economic_policies_tooltip: "Change Tax Policy to '§YStandard Taxes§!'\n\n" #NT!
+ afr_inward_regional_power_introduction_of_private_property: "Introduction of Private Property" #NT!
+ afr_inward_regional_power_introduction_of_private_property_tooltip: "Change Property Law to '§YLand Purchase§!'\n\n" #NT!
+ afr_inward_regional_power_retain_african_communalism: "Modernize Tribal Communalism" #NT!
+ afr_inward_regional_power_retain_african_communalism_tooltip: "Change Property Law to '§YAfrican Communalism§!'\n\n" #NT!
+ afr_inward_regional_power_retain_land_estates: "Keep Land Estates" #NT!
+ afr_inward_regional_power_retain_land_estates_tooltip: "Change Property Law to '§YLand Estates§!'\n\n" #NT!
+ afr_inward_regional_power_early_fabric_industry: "Early Textile Industry" #NT!
+ afr_inward_regional_power_three_crop_rotation: "Three Crop Rotation" #NT!
+ afr_inward_regional_power_address_underdeveloped_economies: "Address Underdeveloped Economies" #NT!
+ afr_inward_regional_power_absolute_authority: "Absolute Authority" #NT!
+ afr_inward_regional_power_absolute_authority_tooltip: "The government will continue to operate with §YAbsolute Monarchy§!.\n\n" #NT!
+ afr_inward_regional_power_limited_regional_representation: "Limited Representation" #NT!
+ afr_inward_regional_power_limited_regional_representation_tooltip: "The government will take into account the communal needs of each region.\n\nChange Voting Law to '§YLimited Elections§!'\n" #NT!
+  
+ afr_inward_regional_power_address_tribal_military: "Modernize Military Staff" #NT!
+ afr_inward_regional_power_specialized_army_doctrine: "Specialized Army Doctrine" #NT!
+ afr_inward_regional_power_special_infantry_corps: "Special Infantry Corps" #NT!
+ afr_inward_regional_power_massive_army_doctrine: "Massive Army Doctrine" #NT!
+ afr_inward_regional_power_recruitment_drives: "Recruitment Drives" #NT!
+ afr_inward_regional_power_stockpile_tribal_weapons: "Stockpile Tribal Weapons" #NT!
+ afr_inward_regional_power_stockpile_tribal_weapons_trigger_tooltip: "Has at least §Y100 Command Power§!" #NT!
+ afr_inward_regional_power_loyal_soldiers: "Our Loyal Soldiers" #NT!
+ afr_inward_regional_power_improve_our_designs: "Explore Military Applications" #NT!
+ afr_inward_regional_power_introduce_camel_cavalry: "Introduce Camel Cavalry Divisions" #NT!
+ afr_inward_regional_power_introduce_camel_cavalry_tooltip: "Provides 200 §YCamels§! that can be used for §YDesert Raider§! divisions." #NT!
+ afr_inward_regional_power_camel_cavalry_tactics: "Camel Cavalry Mastery" #NT!
+ afr_inward_regional_power_decentralized_command_structure: "Decentralized Command Structure" #NT!
+ afr_inward_regional_power_decentralized_command_structure_tooltip: "Does not have a §YCentralized Command Structure§!" #NT!
+ afr_inward_regional_power_superior_weaponry: "Independently Improvised Weapons" #NT!
+ afr_inward_regional_power_superior_weaponry_tooltip: "\n§gWarriors are allowed to take the time to experiment and test new weapon designs during training. With no bureaucracy to required to approve every modification, soldiers have uniquely and personally improved their weapon performance.§!\n" #NT!
+ afr_inward_regional_power_centralized_command_structure: "Centralized Command Structure" #NT!
+ afr_inward_regional_power_centralized_command_structure_tooltip: "Does not have a §YDecentralized Command Structure§!" #NT!
+ afr_inward_regional_power_streamlined_training: "Establish Military Training Camps" #NT!
+ afr_inward_regional_power_streamlined_training_tooltip: "§gWarriors stay year round in Military Training Camps which streamline the process of training and deployment.§!\n" #NT!
+ afr_inward_regional_power_survival_training: "Regional Survival Training" #NT!
+ afr_inward_regional_power_survival_training_tooltip: "The type of §YSurvival Training§! will depend on your §YCommand Structure§! choice." #NT!
+ afr_inward_regional_power_early_medicine: "Applications of Early Medicine" #NT!
+ afr_inward_regional_power_advanced_tribal_tactics: "Advanced Tribal Tactics" #NT!
+  
+ afr_inward_regional_power_expanding_our_regional_power: "Expanding Our Regional Influence" #NT!
+ afr_inward_regional_power_consolidate_tribes: "Consolidate Neighboring Tribes" #NT!
+ afr_inward_regional_power_consolidate_tribes_tooltip: "Unlocks new §YDecisions§! related to consolidating §YUnorganized§! and §YOrganized Tribes§! into our empire.\n\n" #NT!
+ afr_generic_inward_skt_expand_slave_markets: "Expand Slave Markets" #NT!
+ afr_inward_regional_power_guarantee_roads_in_conquered_lands: "Guarantee Roads in Conquered Lands" #NT!
+ afr_inward_regional_power_guarantee_roads_in_conquered_lands_tooltip: "Unlocks new §YDecisions§! related to §YDirt Roads§!, to have a minimum of §G1 Infrastructure§! in each state." #NT!
+ afr_inward_regional_power_export_our_culture_abroad: "Export our Culture Abroad" #NT!
+ afr_inward_regional_power_export_our_culture_abroad_tooltip: "Unlocks new §YDecisions§! related to §Gemigration§! to establish our culture and lower §Gresistance§! in conquered lands.\n\n§RContent not finished!§!" #NT!
+ afr_inward_regional_power_consolidate_kingdoms: "Pressure Neighboring Small Kingdoms" #NT!
+ afr_inward_regional_power_consolidate_kingdoms_tooltip: "Unlocks new §YDecisions§! related to pressuring §YSmall Kingdoms§! to be a subject of our empire.\n\n" #NT!
+  
+ afr_inward_regional_power_establish_port_town: "Establish a Port Town" #NT!
+  
+  
+  
+  

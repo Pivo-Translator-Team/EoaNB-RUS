@@ -12,16 +12,16 @@
  SHIP_UNIT_STATS: "Подробности о корабле"
  RAILWAY_GUN_UNIT_STATS: "Сведения о железнодорожном орудии"
  UNIT_LEADER_SKILL_LAND_DESC: "Более высокое значение навыка, чем у вражеского генерала, дает военачальнику еще одну возможность реализовать тактические контрмеры и победить врага. Навык генерала растет по мере накопления им опыта.\n\n"
- UNIT_LEADER_SKILL_NAVY_DESC:1 "Навык адмирала растет по мере накопления им опыта.\n\n"
+ UNIT_LEADER_SKILL_NAVY_DESC: "Навык адмирала растет по мере накопления им опыта.\n\n"
  UNIT_LEADER_SKILL_OPERATIVE_DESC: "Навык агента растёт по мере накопления им опыта.\n\n"
- UNIT_LEADER_NO_LEADER:1 "§RНет командующего§!"
- UNIT_LEADER_NEW_LEADER:1 "Новый командующий £command_power $VALUE|Y0$"
- UNIT_LEADER_NEW_LEADER_TOOLTIP:2 "Новый командующий обойдется вам в £command_power$VALUE|Y0$\n Чем больше у вас командующих, тем дороже каждый следующий, поэтому старайтесь найти занятия для всех, кто у вас уже есть."
- UNIT_LEADER_NO_GROUP:1 "Армия не создана"
+ UNIT_LEADER_NO_LEADER: "§RНет командующего§!"
+ UNIT_LEADER_NEW_LEADER: "Новый командующий £command_power $VALUE|Y0$"
+ UNIT_LEADER_NEW_LEADER_TOOLTIP: "Новый командующий обойдется вам в £command_power$VALUE|Y0$\n Чем больше у вас командующих, тем дороже каждый следующий, поэтому старайтесь найти занятия для всех, кто у вас уже есть."
+ UNIT_LEADER_NO_GROUP: "Армия не создана"
  UNIT_LEADER_SKILL: "$SKILL|Y$"
  UNIT_LEADER_PROMOTE_POPUP_TITLE: "Повысить лидера"
- UNIT_LEADER_PROMOTE_POPUP_DESC:3 "Вы уверены, что хотите повысить лидера $LEADER$? После повышения $LEADER$ временно §Rпотеряет§! уровень навыка, пока не освоится с новыми обязанностями."
- UNIT_LEADER_PROMOTE_POPUP_DESC_COST:1 "Стоимость повышения этого лидера: $CP|2R$ £command_power."
+ UNIT_LEADER_PROMOTE_POPUP_DESC: "Вы уверены, что хотите повысить лидера $LEADER$? После повышения $LEADER$ временно §Rпотеряет§! уровень навыка, пока не освоится с новыми обязанностями."
+ UNIT_LEADER_PROMOTE_POPUP_DESC_COST: "Стоимость повышения этого лидера: $CP|2R$ £command_power."
  UNIT_LEADER_ASSIGNMENT_COST_HEADER: "Стоимость назначения (£command_power):"
  UNIT_LEADER_ALREADY_AN_ADVISOR: "$NAME|Y$ §Rуже служит советником.§!"
  UNIT_LEADER_TRAIT_REQUIRES: "§RТребуется черта $TRAITNAME|Y$.§!"
@@ -32,7 +32,7 @@
  UNIT_LEADER_ADVISOR_ROLE_THEORIST_DESC: "Роли $ADVISORROLE|Y$ нельзя улучшить, основываясь на навыке."
  UNIT_LEADER_ADVISOR_ROLE_TRAIT_NAME: "$TRAIT|Y$ \n"
  UNIT_LEADER_ADVISOR_ROLE_BTN_TT_HEADER: " §YРоли в офицерском корпусе§! "
- UNIT_LEADER_ADD_ADVISOR_APPLICABLE_ROLES:2 "Персонаж $NAME|Y$ станет доступен в роли советника, которого можно назначить на пост $ROLENAME|Y$ или $PROMOTEDROLENAME|Y$"
+ UNIT_LEADER_ADD_ADVISOR_APPLICABLE_ROLES: "Персонаж $NAME|Y$ станет доступен в роли советника, которого можно назначить на пост $ROLENAME|Y$ или $PROMOTEDROLENAME|Y$"
  UNIT_LEADER_ADD_ADVISOR_NO_ROLES: "$NAME|Y$ — нет доступных ролей."
  UNIT_LEADER_ADD_ADVISOR_HAS_ROLES: "$NAME|Y$ — есть доступные роли ($NUMBER$)."
  UNIT_LEADER_ADD_ADVISOR_ROLE: "Персонаж $NAME|Y$ станет доступен в роли советника ($TYPE|Y$) со следующими чертами: "
@@ -58,7 +58,7 @@
  ATTRITION_LOOSE_EQ_CHANCE: "Вероятность потерь техники:"
  ATTRITION_LOOSE_EQ_ENTRY: "  — $EQ|G$ вероятность = $CH|Y%1$ (надежность = $RE|Y1%$)"
  ATTRITION_TECH_FACTOR: "Из-за технологий: $VALUE|-0%$"
- ATTRITION_TRAINING:1 "Из-за §Hармейских учений§!: $VALUE|-0%$"
+ ATTRITION_TRAINING: "Из-за §Hармейских учений§!: $VALUE|-0%$"
  ATTRITION_SUPPLY: " — Некачественное снабжение: $ATT|-0%$"
  ATTRITION_SINGLE_UNIT: "§RЭта боевая единица несет потери от истощения!\nРазмер потерь: $VALUE|Y0%$§!"
  ATTRITION_SOME_UNITS: "§RБоевые единицы в кол-ве $COUNT|Y$ шт. несут потери от истощения!\nМаксимальный размер потерь: $MAX|Y0%$§!"
@@ -78,7 +78,7 @@
  ACTION_UNIT_STRATEGIC_DISABLED: "$COUNT|H$ — стратегическая передислокация отключена"
  ACTION_UNIT_SUPPORT_BOMBARDMENT: "Обеспечивает поддержку бомбардировками в ближайшем бою"
  ACTION_UNIT_NAVAL_TRANSFER_INTERCEPTED: "$COUNT|H$ — конвой перехвачен"
- ENTRENCHMENT_TT2:3 "Эта боевая единица §Hокопалась§!. Она получает $DIG|0+%$ ед. бонуса к защите в бою из $MAX|0%Y$ возможных."
+ ENTRENCHMENT_TT2: "Эта боевая единица §Hокопалась§!. Она получает $DIG|0+%$ ед. бонуса к защите в бою из $MAX|0%Y$ возможных."
  ENTRENCHMENT_INCREASE_BY_X_REACH_MAX_IN: " Это значение будет увеличиваться на $DELTA|0%Y$ ежедневно. Максимальная укрепленность будет достигнута через $DAYS|Y$ дн."
  ENTRENCHMENT_DESC: "Макс. базовое значение: $BASE_MAX|Y$\n$MAX_MODIFIERS$\n\nБазовый прирост: $BASE_GAIN|Y$\n$GAIN_MODIFIERS$"
  DIG_IN_DIVISION_MOD_DESC: "Состав дивизии: $VALUE|=+$"
@@ -86,7 +86,7 @@
  MERGE_NAVIES_TOO_FEW: "§RВы можете объединять флоты только тогда, когда выбрано более одного флота.§!"
  MERGE_NAVIES_OTHER_NATION: "§RВы можете объединять только свои флоты.§!"
  MERGE_NAVIES_IN_COMBAT: "§RВы не можете объединять флоты, когда один из них находится в бою.§!"
- MERGE_NAVIES_ON_A_MISSION:1 "§RЕсли два и более флотов выполняют задание, их нельзя объединять.§!"
+ MERGE_NAVIES_ON_A_MISSION: "§RЕсли два и более флотов выполняют задание, их нельзя объединять.§!"
  MERGE_NAVIES_NOT_SAME_LOCATION: "§RВсе выделенные флоты должны находиться в одном месте для объединения.§!"
  MERGE_NAVIES_REFITTING: "§RВы не можете объединять флоты, находящиеся на перевооружении.§!"
  RANDOM_AIR_ACCIDENT_CHANCE_HEADER: "Вероятность происшествий при взлете или посадке:"
@@ -129,21 +129,21 @@
  APPLY_TASK_FORCE_COMPOSITION_EXCESS_TO_RESERVE: "Корабли, не вошедшие в состав подкрепления, вернутся в резервный флот."
  TASK_FORCE_COMPOSITION_ANY_ROLE: "Это требование будет выполняться кораблями данного типа, назначенными на любую роль."
  TASK_FORCE_COMPOSITION_ANY_ROLE_CLICK_TO_SELECT: "§GЩелкните мышью§!, чтобы выбрать конкретную роль для этого требования."
- TASK_FORCE_COMPOSITION_ADD_1:0 "§GЩёлкните§! чтобы добавить §Y+1§!".
- TASK_FORCE_COMPOSITION_ADD_5:0 "§GCtrl + Щелчок§! для добавления §Y+5§!"
- TASK_FORCE_COMPOSITION_ADD_10:0 "§GShift + Щелчок§! для добавления §Y+10§!"
- TASK_FORCE_COMPOSITION_SUB_1:0 "§GЩёлкните§! для вычитания §Y1§!"
- TASK_FORCE_COMPOSITION_SUB_5:0 "§GCtrl + Щелчок§! для вычитания §Y5§!"
- TASK_FORCE_COMPOSITION_SUB_10:0 "§GShift + Щелчок§! для вычитания §Y10§!".
+ TASK_FORCE_COMPOSITION_ADD_1: "§GЩелкните§!, чтобы §Yдобавить 1§!"
+ TASK_FORCE_COMPOSITION_ADD_5: "§GCtrl + щелчок§!, чтобы §Yдобавить 5§!"
+ TASK_FORCE_COMPOSITION_ADD_10: "§GShift + щелчок§!, чтобы §Yдобавить 10§!"
+ TASK_FORCE_COMPOSITION_SUB_1: "§GЩелкните§!, чтобы уменьшить на §Y1§!"
+ TASK_FORCE_COMPOSITION_SUB_5: "§GCtrl + щелчок§!, чтобы §Yуменьшить на 5§!"
+ TASK_FORCE_COMPOSITION_SUB_10: "§GCtrl + щелчок§!, чтобы §Yуменьшить на 10§!"
  SHIP_IS_PRIDE_OF_FLEET: "$NAME|H$ становится §Hгордостью ВМФ§!"
  SHIP_IS_PRIDE_OF_FLEET_DESC: "§HГордость ВМФ§! получает различные бонусы, но §Hподдержка войны§! в государстве ослабнет, если это судно потопят."
  NAVY_CONTAINS_PRIDE_OF_FLEET: "В этом флоте находится §Hгордость ВМФ§! §H($NAME$)§!"
  NAVY_CONTAINS_PRIDE_OF_FLEET_WITHOUT_NAME: "В этом флоте находится §Hгордость ВМФ§!"
  FLEET_HAS_FUEL_INEFFICIENT_SHIP_FOR_MISSION: "£mapicon_unit_invalid_orders В этом флоте есть оперативные соединения с неоптимальным расходом топлива"
- TASK_FORCE_HAS_FUEL_INEFFICIENT_SHIP_FOR_MISSION:0 "£mapicon_unit_invalid_orders Следующие классы кораблей не являются топливно-эффективными для миссии $MISSION|H$".
+ TASK_FORCE_HAS_FUEL_INEFFICIENT_SHIP_FOR_MISSION: "£mapicon_unit_invalid_orders Следующие классы кораблей неэффективно расходуют топливо на задании $MISSION|H$"
  SPECIFIC_NAVY_CONTAINS_PRIDE_OF_FLEET: "Во флоте $NAVY_NAME|H$ находится §Hгордость ВМФ§! §H($NAME$)§!"
- DISBAND_PRIDE_OF_THE_FLEET_COST:1 "Расформировав §Hгордость ВМФ§! §H($NAME$)§!, вы потеряете $COST|R$ £pol_power "
-
+ DISBAND_PRIDE_OF_THE_FLEET_COST: "Расформировав §Hгордость ВМФ§! §H($NAME$)§!, вы потеряете $COST|R$ £pol_power "
+  
  SET_SHIP_PRIDE_OF_FLEET: "§HОбъявить§! корабль $NAME|H$ §Hгордостью ВМФ§!"
  REPLACE_SHIP_PRIDE_OF_FLEET: "§RПереназначить§! корабль $NAME|H$ новой §Hгордостью ВМФ§!"
  SET_SHIP_PRIDE_OF_FLEET_DESC: "Вы получите эти бонусы:\n$BONUS$\n\n"
@@ -151,20 +151,20 @@
  SET_SHIP_PRIDE_OF_FLEET_DESC_2_WITH_EXISTING: "Вы потратите $COST|R$ £pol_power на замену текущей §Hгордости ВМФ§! §H($OLD_NAME$)§!."
  UNSET_SHIP_PRIDE_OF_FLEET: "§RОтменить назначение§! корабля $NAME|H$ §Hгордостью ВМФ§!."
  UNSET_SHIP_PRIDE_OF_FLEET_DESC: "Вы §Rлишитесь§! этих бонусов:\n$BONUS$\n\nОтмена назначения обойдется вам в $COST|R$ £pol_power."
-
+  
  PRIDE_OF_THE_FLEET_COUNTRY_BONUS: "\n§HБонус государства:§!\n$BONUS$"
  PRIDE_OF_THE_FLEET_SHIP_BONUS: "\n§HБонус корабля:§!\n$BONUS$"
  PRIDE_OF_THE_FLEET_TEMP_BONUS: "\n§RШтраф за потопление (в течение $NUM$ дн.):§!\n$BONUS$"
-
+  
  SET_SHIP_PRIDE_OF_FLEET_POPUP: "§HВыбрать гордость ВМФ§!"
  SET_SHIP_PRIDE_OF_FLEET_POPUP_DESC: "Вы уверены, что хотите §Hобъявить§! корабль $NAME|H$ §Hгордостью ВМФ§!?\n\nЧтобы переназначить или заменить §Hгордость ВМФ§!, вам придется потратить $COST|R$ £pol_power. Вы получите эти бонусы:\n$BONUS$\n\n"
-
+  
  REPLACE_SHIP_PRIDE_OF_FLEET_POPUP: "§HЗаменить гордость ВМФ§!"
  REPLACE_SHIP_PRIDE_OF_FLEET_POPUP_DESC: "Вы уверены, что хотите §Hобъявить§! корабль $NAME|H$ §Hгордостью ВМФ§! и §Rзаменить§! $OLD_NAME|H$?\n\nВы потратите $COST|R$ £pol_power на замену §Hгордости ВМФ§!. Вы получите эти бонусы:\n$BONUS$\n\n"
-
+  
  UNSET_SHIP_PRIDE_OF_FLEET_POPUP: "§HОтменить назначение гордостью ВМФ§!"
  UNSET_SHIP_PRIDE_OF_FLEET_POPUP_DESC: "Вы уверены, что хотите §Rотменить§! назначение корабля $NAME|H$ §Hгордостью ВМФ§!?\n\nВы потратите $COST|R$ £pol_power на отмену и §Rлишитесь§! этих бонусов:\n$BONUS$"
-
+  
  NOT_ENOUGH_PP_TO_UNASSIGN: "\n\n§RНедостаточно политической власти§!"
  NOT_ENOUGH_PP_TO_DISBAND_POTF: "\n\n§RНедостаточно политической власти, чтобы отменить назначение §!§Hгордостью ВМФ§!"
  SELECT_HOME_BASE: "Указать порт приписки для выбранных флотов"
@@ -188,22 +188,22 @@
  RESERVE_FLEETS_FOR_THIS_THEATER_DESC: "Корабли, выходящие со стапелей и не имеющие конкретной §Yцели для размещения§!, автоматически назначаются в резерв.\nКорабли в резервном флоте автоматически выходят на подкрепление оперативных соединений, у которых включена функция §YАвтоматическое пополнение§! и которым требуется пополнение.\nЕсли же количество кораблей в оперативном соединении больше, чем требуется, то часть кораблей покинет соединение и отправится в ближайший порт, а затем в резерв."
  RESERVE_FLEET_NOT_REINFORCING: "§RНе готов к отправке подкреплений§!"
  RESERVE_FLEET_COMPLETING_MOVE_ORDER: "- §Rперемещается§!"
- RESERVE_FLEET_NEEDS_TO_BE_IN_NAVAL_BASE_TO_REINFORCE: "- §Rдолжен находиться на морской базе§!"
+ RESERVE_FLEET_NEEDS_TO_BE_IN_NAVAL_BASE_TO_REINFORCE: "- §RNeeds to be docked in a naval port§!" #NT!
  TASK_FORCE_ASSIGNED_TO_MISSION: "Задание: $MISSION|H$"
- TASK_FORCE_ACTIVITY_DESC_DETACHED_MOVING_TO_REFIT:1 "£going_to_refit  Войска выделены и движутся для перевооружения на базу $FLAG$ $NAVAL_BASE|H$"
- TASK_FORCE_ACTIVITY_DESC_DETACHED_REINFORCING:1 "£merging  Объединяется с: $TARGET|H$"
- TASK_FORCE_ACTIVITY_DESC_DETACHED_REPAIRING:1 "£going_to_repair  Войска выделены и движутся для ремонта на базу $FLAG$ $NAVAL_BASE|H$"
+ TASK_FORCE_ACTIVITY_DESC_DETACHED_MOVING_TO_REFIT: "£going_to_refit  Войска выделены и движутся для перевооружения на базу $FLAG$ $NAVAL_BASE|H$"
+ TASK_FORCE_ACTIVITY_DESC_DETACHED_REINFORCING: "£merging  Объединяется с: $TARGET|H$"
+ TASK_FORCE_ACTIVITY_DESC_DETACHED_REPAIRING: "£going_to_repair  Войска выделены и движутся для ремонта на базу $FLAG$ $NAVAL_BASE|H$"
  TASK_FORCE_ACTIVITY_DESC_DOCKED: "£mapicon_port_strike_result_text  Находится на стоянке на базе $FLAG$ $NAVAL_BASE|H$"
  TASK_FORCE_ACTIVITY_DESC_HOLDING_POSITION: "Удерживает позицию в регионе $REGION|H$"
  TASK_FORCE_ACTIVITY_DESC_IN_COMBAT: "£in_combat  Сражается в регионе $REGION|H$"
  TASK_FORCE_ACTIVITY_DESC_MOVING_TO_AREA: "£right_arrow  Направляется в регион $REGION|H$"
  TASK_FORCE_ACTIVITY_DESC_MOVING_TO_ASSIGNED_AREA: "£right_arrow  Направляется в назначенный регион $REGION|H$"
  TASK_FORCE_ACTIVITY_DESC_MOVING_TO_ASSIGNED_FLEET_AREA: "£right_arrow  Направляется в назначенный регион флота"
- TASK_FORCE_ACTIVITY_DESC_MOVING_TO_NAVAL_BASE: "£right_arrow  Направляется на базу $FLAG$ $NAVAL_BASE|H$"
+ TASK_FORCE_ACTIVITY_DESC_MOVING_TO_NAVAL_BASE: "£right_arrow  Moving to naval port $FLAG$ $NAVAL_BASE|H$" #NT!
  TASK_FORCE_ACTIVITY_DESC_NO_ASSIGNED_REGION: "£trigger_no  §RНет назначенных регионов§!"
  TASK_FORCE_ACTIVITY_DESC_NO_ACCESSIBLE_REGION: "£trigger_no  §RНет доступных регионов§!"
  TASK_FORCE_ACTIVITY_DESC_PERFORMING_MISSION_IN_FLEET_AREA: "Направляется в назначенный регион флота"
- TASK_FORCE_ACTIVITY_DESC_PERFORMING_MISSION_IN_FLEET_AREA_WITH_EFFICIENCY:1 "Действует в назначенном регионе флота ($VAL$)"
+ TASK_FORCE_ACTIVITY_DESC_PERFORMING_MISSION_IN_FLEET_AREA_WITH_EFFICIENCY: "Действует в назначенном регионе флота ($VAL$)"
  TASK_FORCE_ACTIVITY_DESC_PERFORMING_MISSION_IN_REGION: "Действует в регионе $REGION|H$"
  TASK_FORCE_ACTIVITY_DESC_REFITTING: "Соединение £refitting проходит перевооружение на базе $FLAG$ $NAVAL_BASE|H$"
  TASK_FORCE_ACTIVITY_DESC_REPAIRING: "£repairing  Находится на ремонте на базе $FLAG$ $NAVAL_BASE|H$"
@@ -211,7 +211,7 @@
  TASK_FORCE_ACTIVITY_DESC_SPOTTING_ENEMY_TRANSFER: "£spotting  $PROGRESS|H0$§H%§! Обнаружение $FLAG$ §Hпереброски флота§! в регионе $REGION|H$"
  TASK_FORCE_ACTIVITY_DESC_SPOTTING_ENEMY_CONVOY: "£spotting  $PROGRESS|H0$§H%§! Обнаружение $FLAG$ §Hконвоя§! в регионе $REGION|H$"
  TASK_FORCE_ACTIVITY_DESC_STRIKE_FORCE_INTERCEPTING: "£going_to_combat  Ведет перехват: $TARGET|H$"
- TASK_FORCE_FLEET_INFORMATION_HEADER:1 "§HСведения о флоте§!\nМаксимальная скорость: $SPEED|H$\nМаксимальная дальность действия: $RANGE|H$\nОбнаружение подводных целей: $SUBDETECTION|H$\nОбнаружение надводных целей: $SURFACEDETECTION|H$\n"
+ TASK_FORCE_FLEET_INFORMATION_HEADER: "§HFleet Information§!\nMaximum Speed: $SPEED|H$\nMaximum Range: $RANGE|H$\n" #NT!
  TASK_FORCE_FLEET_INFORMATION_SLOWEST_SHIPS: "\n§HСамые медленные корабли§!\n"
  TASK_FORCE_FLEET_INFORMATION_SHORTEST_RANGES: "\n§HМинимальная дальность действия§!\n"
  TASK_FORCE_FLEET_INFORMATION_DELAYED: "Чтобы узнать больше об отдельных кораблях, выберите оперативное соединение, затем щелкните по значку «Подробности о корабле»."
@@ -237,7 +237,7 @@
  NAVY_DETACHED_PARENT_STATUS: "Наше оперативное соединение, от которого мы отделились."
  NAVY_DETACHED_CHILD_STATUS: "Отделился от нас: $STATUS|H$"
  NAVY_MERGE_CHILD_STATUS: "Они движутся к нам для объединения"
- NAVY_MERGE_PARENT_STATUS:2 "Мы движемся к этому оперативному соединению для объединения"
+ NAVY_MERGE_PARENT_STATUS: "Мы движемся к этому оперативному соединению для объединения"
  NAVY_ACTIVITY_MOVING_TO_REFIT_DESC: "Флот $FLEET|H$ направляется на базу $TARGET|H$ для перевооружения."
  NAVY_ACTIVITY_REFITTING_DESC: "Флот $FLEET|H$ проходит перевооружение на базе $TARGET|H$."
  NAVY_ACTIVITY_REINFORCING_DESC: "Флот $FLEET|H$ направляется к флоту $TARGET|H$, чтобы пополнить его."
@@ -250,8 +250,8 @@
  NAVY_DETACHED_ACTIVITY_STATUS_REINFORCING: "Пополняет: $PARENT|H$."
  NO_ACCESS_TO_TARGET: "Боевая единица не может войти в провинцию."
  NO_RAILWAY_ACCESS_TO_TARGET: "Подразделение не может входить в провинции без железных дорог."
- NO_RAILWAY_ACCESS_TO_TARGET_COOLDOWN:1 "Боевая единица не может войти в провинцию с неперестроенными железными дорогами. Перестройка завершится через $DAYS$ д."
- NO_RAILWAY_ACCESS_STANDING_COOLDOWN:1 "Боевая единица не может передвигаться, т. к. в провинции не перестроены железные дороги. Перестройка завершится через $DAYS$ д."
+ NO_RAILWAY_ACCESS_TO_TARGET_COOLDOWN: "Боевая единица не может войти в провинцию с неперестроенными железными дорогами. Перестройка завершится через $DAYS$ д."
+ NO_RAILWAY_ACCESS_STANDING_COOLDOWN: "Боевая единица не может передвигаться, т. к. в провинции не перестроены железные дороги. Перестройка завершится через $DAYS$ д."
  NO_SAFE_RAILWAY_ACCESS: "Боевая единица не может войти в провинцию с вражескими боевыми единицами."
  NO_ADVANCE_ALLOWED: "Подразделение не может входить во вражескую провинцию."
  NO_RETREAT_ALLOWED: "Нам нельзя отступать сюда."
@@ -260,7 +260,7 @@
  NO_ORG_TO_FIGHT: "Для участия в бою нам нужно как минимум §Y$VAL$§!% ед. организации."
  NO_MOVE_DISEMBARKING: "Невозможно двигаться во время разгрузки."
  NO_MOVE_RETREAT: "Мы не можем приказывать двигаться во время отступления."
- UNIT_STAT_MANPOWER: "§TТекущее количество §Hлюдских ресурсов§! — $VAL|H$ из $MAX|H$§!"
+ UNIT_STAT_MANPOWER: "§TТекущее количество §Hлюдской силы§! — $VAL|H$ из $MAX|H$§!"
  UNIT_LEADER_CAPACITY_SORT: "Вместимость"
  UNIT_LEADER_NAME_SORT: "Имя"
  UNIT_LEADER_SKILL_SORT: "Навык"
@@ -283,7 +283,7 @@
  rocket_artillery: "Поддержка РСЗО"
  rocket_artillery_desc: ""
  rocket_artillery_brigade: "Ракетная артиллерия"
- mot_rocket_artillery_brigade: "Моторизованная ракетная артиллерия"
+ mot_rocket_artillery_brigade: "Буксируемая ракетная артиллерия"
  rocket_artillery_brigade_desc: ""
  anti_tank_brigade: "ПТО"
  mot_anti_tank_brigade: "Моторизированная установка ПТО"
@@ -292,7 +292,7 @@
  mot_anti_air_brigade: "Моторизированная установка ПВО"
  anti_air_brigade_desc: ""
  artillery_brigade: "Артиллерия"
- mot_artillery_brigade: "Моторизованная артиллерия"
+ mot_artillery_brigade: "Моторизированная артиллерия"
  artillery_brigade_desc: ""
  light_tank_destroyer_brigade: "Легкая ПТ-установка"
  light_tank_destroyer_brigade_desc: "Самоходные противотанковые установки представляют собой танки с крупнокалиберными орудиями, закрепленными в корпусе, а не в башне. Легкие ПТ-установки используют шасси легких танков, благодаря чему достаточно мобильны, но несут не слишком мощное вооружение по сравнению с более тяжелыми образцами."
@@ -339,423 +339,423 @@
  paratrooper_desc: "Используя воздушно-десантные войска, мы можем вторгаться в прежде недоступные районы и размещать там ключевые силы, что открывает новые тактические возможности."
  marine: "Морская пехота"
  marine_desc: "Войска, специализирующиеся на морских десантных операциях, становятся все более незаменимыми. Импровизированные тактические приемы и снаряжение уходят в прошлое — наша морская пехота теперь проходит специальную подготовку и оснащена специальными десантными кораблями."
- mountaineers: "Альпинисты"
- mountaineers_desc: "Бой в горных массивах подвергает войска многим опасностям, но иногда их невозможно избежать. Обеспечивая наших солдат специальной подготовкой для таких условий, мы можем минимизировать эти риски."
+ mountaineers: "Горно-стрелковые войска"
+ mountaineers_desc: "Боевые действия в горах сопряжены с высокой опасностью для пехоты, но порой их не избежать. Проведя среди наших солдат специальную подготовку для ведения боя в горах, мы минимизируем риск."
  penal_battalion: "Штрафной батальон"
  penal_battalion_desc: "Идеальное мясо для мясорубки."
- recon_cav: "Кавалерийский разведывательный отряд"
- recon_cav_desc: "Отправка небольших групп для конной разведки перед движением основных сил позволяет нам быстрее собрать разведданные о том, где находится противник и сколько его у нас".
- recon: "Отряд разведки"
- recon_desc: "Отправка небольших групп на разведку вперед перед движением основных сил позволяет нам быстрее собирать разведданные о местонахождении противника и его численности".
- mot_recon: "Моторизованная разведывательная рота"
- mot_recon_desc: "Используя легкие грузовики и мотоциклы, разведывательные роты могут продвигаться дальше вперед и покрывать большую территорию для защиты флангов."
- armored_car_recon: "Легкобронированная разведывательная рота"
- armored_car_recon_desc: "Оснащенная бронированными машинами, разведывательная рота может вести бой с противником и не дать вражеским разведчикам получить ценную информацию".
- light_tank_recon: "Бронированная разведывательная рота"
- light_tank_recon_desc: "Используя легкие танки в роли разведчиков, мы можем вести разведку огнем и лучше понять, с чем мы столкнулись".
- armored_car: "Бронеавтомобиль"
+ recon_cav: "Cavalry Recon Detachment" #NT!
+ recon_cav_desc: "Sending smaller groups to scout ahead on horseback before moving in the main force allows us to gather intelligence faster about where the enemy is and how many we are facing." #NT!
+ recon: "Recon Detachment" #NT!
+ recon_desc: "Отправив небольшой отряд на разведку перед тем как выдвинуть туда основную группу войск, мы получим информацию о количестве и расположении врагов."
+ mot_recon: "Моторизированная разведрота"
+ mot_recon_desc: "Используя лёгкие грузовики и мотоциклы, разведроты могут действовать на большем расстоянии и покрывать больший радиус, защищая фланги."
+ armored_car_recon: "Легкобронированная разведрота"
+ armored_car_recon_desc: "Разведрота, снабжённая бронемашинами, может навязывать бой врагу и не давать вражеским разведчикам собирать ценную информацию."
+ light_tank_recon: "Бронированная разведрота"
+ light_tank_recon_desc: "Используя для разведки лёгкие танки, мы можем проводить разведку боем и лучше оценивать силы противника."
+ armored_car: "Бронемашина"
  armored_car_desc: ""
- engineer: "Саперная рота"
- engineer_desc: "Строительство укреплений и прорыв препятствий делают боевых инженеров жизненно необходимыми в полевых условиях. Придание нашим инженерам универсальной роли позволяет нам использовать их в различных ситуациях, где они будут необходимы."
+ engineer: "Сапёрная рота"
+ engineer_desc: "Инженеры, занимающиеся возведением укреплений и защиты от прорывов, незаменимы на поле боя. Поскольку они универсальны, их можно использовать в самых разных ситуациях."
  field_hospital: "Полевой госпиталь"
- field_hospital_desc: "Оказывает экстренную медицинскую помощь раненым солдатам в полевых условиях".
- logistics_company: "Рота материально-технического обеспечения"
- logistics_company_desc: "Занимается планированием, запросом и распределением ресурсов для дивизии".
+ field_hospital_desc: "Обеспечивает экстренную медицинскую помощь раненым солдатам на поле боя."
+ logistics_company: "Рота обеспечения"
+ logistics_company_desc: "Занимается планированием, заказами и распределением ресурсов для дивизии."
  military_police: "Военная полиция"
- military_police_desc: "Поддерживает порядок и подавляет сопротивление на оккупированных территориях".
- signal_company: "Сигнальная рота"
- signal_company_desc: "Отвечает за местную связь, работающую в дивизии".
- maintenance_company: "Рота технического обслуживания"
- maintenance_company_desc: "Выполняет различные виды технического обслуживания оборудования дивизии для предотвращения выхода из строя".
- amphibious_armor: "Амфибийный танковый батальон"
- amphibious_mechanized: "Батальон амтраков"
- amphibious_armor_desc: "Батальон амфибийных танков".
- amphibious_mechanized_desc: "Подразделение пехоты на амфибийных машинах".
- amphibious_light_armor: "Батальон легких амфибийных танков".
- amphibious_light_armor_desc: "Батальон легких танков, способный вести амфибийные операции".
- amphibious_medium_armor: "Батальон средних амфибийных танков"
- amphibious_medium_armor_desc: "Батальон средних танков, способный к амфибийным операциям".
- amphibious_heavy_armor: "Батальон тяжелых амфибийных танков"
- amphibious_heavy_armor_desc: "Батальон тяжелых танков, способный вести амфибийные операции".
- UNIT_LEADER_TRAITS:1 "Подробности"
- UNIT_LEADER_PROMOTE: "Продвигать".
- UNIT_LEADER_PROMOTE_WITH_COST: "Продвинуть £command_power $CP|2R$".
- UNIT_LEADER_PROMOTE_BLOCKED: "Невозможно продвинуть".
- UNIT_LEADER_PROMOTE_NEED_CP: "Нужно больше КР на $CP|2R$".
- CANNOT_MOVE_WHILE_TRAINING: "Невозможно двигаться во время проведения §Hармейских учений§!".
- UNIT_DEMILITARIZED: "$STATE|H$ - демилитаризованная зона".
- UNIT_IMPASSABLE: "Путь в $STATE|H$ непроходим".
- UNIT_ADJECENCY_RULE_BLOCKED: "Движение заблокировано из-за разрешения $RULE_NAME|H$".
- UNIT_CANT_MOVE_TO_OCCUPIED_NEUTRAL: "§RНельзя двигаться в локацию§! принадлежащую $OWNER|Y$.\nМы должны сначала запросить у них §GMilitary Access§!".
- DEMILITARIZED_ZONE:1 "Демилитаризованная: §RВойскам вход воспрещен§!".
- PLAN_PREPARATION: "Бонус атаки при подготовке плана: $VALUE|0Y%$ (Max: $MAX|0Y%$)".
- PLAN_PREPARATION_FACTOR: "Бонус атаки при подготовке плана, умноженный на: $VALUE|0+%$"
- PLAN_PREPARATION_CHANGE: "Подготовка увеличивается на $VALUE|1Y%$ каждый день."
- PLAN_PREPARATION_DESC: "Подразделения на начальной позиции плана начинают получать бонус к подготовке. Как только они начнут сражаться с планом или отойдут, этот бонус снова начнет уменьшаться."
- SELECT_HALF_DIVISIONS: "§TВыбрать половину текущих дивизий§!".
- HOLD_DIVISIONS: "§TУдержать дивизии§!".
- MOUNT_BUTTON_SINGLE_LOAD_DESC: "Погрузить дивизию на транспортный корабль".
- MOUNT_BUTTON_SINGLE_UNLOAD_DESC: "Выгрузить дивизию с транспортного корабля".
- MOUNT_BUTTON_MULT_LOAD_DESC: "Загрузить все доступные дивизии на транспортные корабли".
- MOUNT_BUTTON_MULT_UNLOAD_DESC: "Выгрузить все доступные дивизии с транспортных кораблей".
- MOUNT_BUTTON_ERROR_DESC: "Загрузить/разгрузить транспортные корабли с подразделениями".
- MAX_ORGANIZATION_TITLE: "§HМаксимальная Организация:§!\n"
- FROM_TEMPLATE: "Шаблон подразделения: $VAL|Y$".
- FROM_TEMPLATE_MOD: "Из шаблона подразделения: $VAL|+=%$"
- FROM_TEMPLATE_MOD2: "Из шаблона подразделения: $VAL|+=$"
- OOS_MOD2: "Из запасов: $VAL|+=%$"
+ military_police_desc: "Поддерживает порядок и подавляет сопротивление на оккупированных территориях."
+ signal_company: "Рота связи"
+ signal_company_desc: "Отвечает за работоспособность локальной связи внутри дивизии."
+ maintenance_company: "Ремонтная рота"
+ maintenance_company_desc: "Выполняет различные виды ремонта, предотвращая поломки техники."
+ amphibious_armor: "Батальон плавающих танков"
+ amphibious_mechanized: "Батальон амфибий"
+ amphibious_armor_desc: "Батальон плавающих танков."
+ amphibious_mechanized_desc: "Подразделение механизированной пехоты в машинах-амфибиях."
+ amphibious_light_armor: "Батальон легких плавающих танков"
+ amphibious_light_armor_desc: "Батальон легких танков, способных перемещаться по воде и по суше."
+ amphibious_medium_armor: "Батальон средних плавающих танков"
+ amphibious_medium_armor_desc: "Батальон средних танков, способных перемещаться по воде и по суше."
+ amphibious_heavy_armor: "Батальон тяжелых плавающих танков"
+ amphibious_heavy_armor_desc: "Батальон тяжелых танков, способных перемещаться по воде и по суше."
+ UNIT_LEADER_TRAITS: "Подробнее"
+ UNIT_LEADER_PROMOTE: "Повысить"
+ UNIT_LEADER_PROMOTE_WITH_COST: "Повысить £command_power $CP|2R$"
+ UNIT_LEADER_PROMOTE_BLOCKED: "Невозможно повысить в звании."
+ UNIT_LEADER_PROMOTE_NEED_CP: "Необходимо еще $CP|2R$ ед. КР."
+ CANNOT_MOVE_WHILE_TRAINING: "Во время §Hармейских учений§! нельзя передвигаться"
+ UNIT_DEMILITARIZED: "$STATE|H$ является демилитаризованной зоной."
+ UNIT_IMPASSABLE: "Путь в регион $STATE|H$ недоступен."
+ UNIT_ADJECENCY_RULE_BLOCKED: "Перемещение невозможно, так как у нас $RULE_NAME|H$ права"
+ UNIT_CANT_MOVE_TO_OCCUPIED_NEUTRAL: "§RНельзя перейти в провинцию§!, принадлежащую государству $OWNER|Y$\nНам необходимо сначала попросить право на §Gпроход войск§!."
+ DEMILITARIZED_ZONE: "Demilitarized: §RTroops may not enter§!" #NT!
+ PLAN_PREPARATION: "Бонус от подготовки плана нападения: $VALUE|0Y%$ (макс.: $MAX|0Y%$)"
+ PLAN_PREPARATION_FACTOR: "Бонус от подготовки плана нападения умножается на $VALUE|0+%$"
+ PLAN_PREPARATION_CHANGE: "Уровень подготовки возрастает на $VALUE|1Y%$ ежедневно."
+ PLAN_PREPARATION_DESC: "Боевые единицы, находящиеся на стартовой позиции, указанной в плане, накапливают бонус к подготовке. Он будет уменьшаться, как только они начнут выполнение плана или отойдут."
+ SELECT_HALF_DIVISIONS: "§TВыбрать половину текущих дивизий§!"
+ HOLD_DIVISIONS: "§TОстановить дивизии.§!"
+ MOUNT_BUTTON_SINGLE_LOAD_DESC: "Погрузить дивизию на транспортный корабль."
+ MOUNT_BUTTON_SINGLE_UNLOAD_DESC: "Выгрузить дивизию с транспортного корабля."
+ MOUNT_BUTTON_MULT_LOAD_DESC: "Погрузить все доступные дивизии на транспортные корабли."
+ MOUNT_BUTTON_MULT_UNLOAD_DESC: "Выгрузить все доступные дивизии с транспортных кораблей."
+ MOUNT_BUTTON_ERROR_DESC: "Загрузить/разгрузить транспортные корабли с боевыми единицами."
+ MAX_ORGANIZATION_TITLE: "§HМакс. организация:§!\n"
+ FROM_TEMPLATE: "Состав дивизии: $VAL|Y$"
+ FROM_TEMPLATE_MOD: "От состава дивизии: $VAL|+=%$"
+ FROM_TEMPLATE_MOD2: "От состава дивизии: $VAL|+=$"
+ OOS_MOD2: "Недостаток снабжения: $VAL|+=%$"
  ORG_REGAIN_INFRA2: "Инфраструктура: $VAL|+=%$"
- PARADROP_MORALE_PENALTY: "Недавний ВДВ: $VAL|+=%$"
- MORALE_TITLE: "§HПочасовое восстановление:§! $VAL|+=$"
+ PARADROP_MORALE_PENALTY: "Недавняя высадка десанта: $VAL|+=%$"
+ MORALE_TITLE: "§HВосстановление в час:§! $VAL|+=$"
  SHIP_MORALE: "Корабль: $VAL|Y$"
  SHIP_MORALE_MOD: "Корабль: $VAL|=%$"
  NAVAL_COMBAT_SHIP_ORGANIZATION: "Организация: $CUR|0Y$/$MAX|0Y$\n"
- NAVAL_COMBAT_SHIP_ORGANIZATION_DESC: "Организация указывает на боеготовность и то, насколько организован корабль. Корабль без организации не может сражаться".
+ NAVAL_COMBAT_SHIP_ORGANIZATION_DESC: "Организация показывает боевую готовность и организованность корабля. Корабль с нулевой организацией неспособен воевать."
  ORG_LOSS_TITLE: "§HБоевые потери:§!"
- ORG_LOSS_AT_LOW_ORG_FACTOR: "Потери организации в бою при уровне ниже $LEVEL|0Y%$ от максимальной организации: $VAL|-=%$".
+ ORG_LOSS_AT_LOW_ORG_FACTOR: "Потеря организации в бою при уровне ниже $LEVEL|0Y%$ от макс. организации: $VAL|-=%$"
  STAT_FROM_TECH: "От технологии: $VAL|+=1%$"
- STAT_FROM_EQUIPMENT: "Из оборудования: $VAL|+=1%$"
- STAT_BASE_VALUE: "База: "
- LOW_MANPOWER_STAT_EFFECT: "§RВ настоящее время у нас только $CUR|Y$ из $MAX|Y$ людей в этом подразделении, что ограничивает все статы до $FACTOR|%Y$ от того, что было бы при наличии всего оборудования.§!"
- TITLE_STATS_FROM_BATTALIONS: "§HНастройка подразделения:§!"
+ STAT_FROM_EQUIPMENT: "От техники: $VAL|+=1%$"
+ STAT_BASE_VALUE: "Базовое значение: "
+ LOW_MANPOWER_STAT_EFFECT: "§RДанная дивизия насчитывает лишь $CUR|Y$ из $MAX|Y$ чел., поэтому все ее параметры ниже, чем могло быть при полном оснащении, на $FACTOR|%Y$.§!"
+ TITLE_STATS_FROM_BATTALIONS: "§HСостав дивизии:§!"
  TITLE_STATS_FROM_OTHER: "§YВнешние факторы:§!"
- UNIT_EXILED: "Это подразделение изгнано. Оно должно вернуться на наши территории".
- FINAL_STAT_AVERAGE: "Усредненная база: "
- FINAL_STAT_TOTAL: "Общая база: "
- FINAL_STAT_MAX: "Наивысшая: "
- FINAL_STAT_MIN: "Самая низкая база: "
- FINAL_STAT_WEIGHTED: "Окончательное средневзвешенное значение ($WEIGHT|%0Y$ наивысшее): "
+ UNIT_EXILED: "Эта боевая единица — в изгнании. Она должна вернуться на нашу территорию."
+ FINAL_STAT_AVERAGE: "Среднее базовое значение: "
+ FINAL_STAT_TOTAL: "Общее базовое значение: "
+ FINAL_STAT_MAX: "Наивысшее: "
+ FINAL_STAT_MIN: "Наименьшее базовое значение: "
+ FINAL_STAT_WEIGHTED: "Итоговое взвешенное среднее ($WEIGHT|%0Y$ — макс.): "
  STAT_SUBUNIT_COUNT: "$VAL$ x "
- UNIT_STATS_STATS_TAB: "Статистика"
+ UNIT_STATS_STATS_TAB: "Параметры"
  UNIT_STATS_TEMPLATE_TAB: "Шаблон"
- COMBAT_UNIT_ICON_WINNING: "§GПобеда в битве ($AMOUNT|H%0$)§!".
- COMBAT_UNIT_ICON_LOSING: "§RПроигрыш битвы ($AMOUNT|H%0$)§!"
+ COMBAT_UNIT_ICON_WINNING: "§GПобеда в битве ($AMOUNT|H%0$)§!"
+ COMBAT_UNIT_ICON_LOSING: "§RПоражение в битве ($AMOUNT|H%0$)§!"
  COMBAT_UNIT_ICON_UNDECIDED: "§TБитва§!"
- COMBAT_UNIT_ICON_DESC: "§T$UNIT|H$ участвует в сражении в $STATE|H$.§!"
+ COMBAT_UNIT_ICON_DESC: "§T$UNIT|H$ участвует в битве в регионе $STATE|H$.§!"
  COMBAT_UNIT_ICON_TERRAIN: "§TМестность: $TERRAIN|H$§!"
- category_light_infantry: "Легкая пехота"
+ category_light_infantry: "Обычная пехота"
  TRANSPORT_WEIGHT_VAL: "$VAL$"
  TRANSPORT_WEIGHT_DESC: "Общий вес дивизий"
- category_all_infantry: "Вся пехота и мот/мех".
+ category_all_infantry: "Вся пехота и мотор./механ."
  category_front_line: "Все фронтовые батальоны"
- category_support_battalions:1 "Роты поддержки"
- category_all_armor: "Танки и варианты брони"
+ category_support_battalions: "Роты обеспечения"
+ category_all_armor: "Варианты бронетехники"
  category_tanks: "Танки"
  category_army: "Армия"
- category_recon: "Разведка"
+ category_recon: "Разведчики"
  category_line_artillery: "Линейная артиллерия"
- category_artillery: "Артиллерия поддержки и линейная артиллерия"
+ category_artillery: "Поддержка и орудия артиллерии"
  category_fighter: "Истребитель"
  category_heavy_fighter: "Тяжелый истребитель"
- category_cas: "Ближняя воздушная поддержка"
+ category_cas: "Штурмовик"
  category_nav_bomber: "Морские бомбардировщики"
  category_tac_bomber: "Тактические бомбардировщики"
  category_strat_bomber: "Стратегические бомбардировщики"
- TRANSPORT_ALREADY_ACTIVE: "Нас уже транспортируют".
- TRANSPORT_NO_NAVAL_BASE: "Невозможно выполнить транспортировку в неморской порт".
- TRANSPORT_NO_FROM_NAVAL_BASE: "Невозможно выполнить перевозку из неморского порта".
- TRANSPORT_NOT_ENOUGH: "Нам нужны конвои на $NEED|Y$, но у нас есть только $FREE|Y$ для перевозки этой дивизии (дивизий)".
- TRANSPORT_ACTIVE_CANT_MOVE: "Невозможно переместить подразделение, пока оно перевозится".
- TRANSPORT_NOT_DURING_COMBAT: "Невозможно перенаправить транспорт, пока конвой находится в бою."
- NO_COUNTER_ATTACK_IN_COMBAT: "§RНельзя контратаковать подразделение, от которого вы уже защищаетесь§!".
- TRANSPORT_NO_ACCESS: "У нас нет туда доступа".
- TRANSPORT_NO_SEA_ROUTE: "§RНет действующего морского пути к этому месту.§!".
- ATTRITION_NAVAL_TRANSFER: "Морской транспорт: $ATT|=-1%0$".
- NAVAL_TRANSPORT_INTERCEPT_WARNING:1 "§RВ настоящее время мы находимся в состоянии войны, и наши транспорты рискуют быть потопленными при перевозке войск. Мы можем убедиться, что корабли на миссии сопровождения находятся в этом районе, чтобы помочь, если это произойдет.§!\n Транспортировка по этому конкретному маршруту имеет $ATTR|%R0$ шанс быть обнаруженной и перехваченной."
- NAVAL_TRANSPORT_MOVE_DESC: "§GЩёлкните правой кнопкой мыши§! на §YОкно ВМФ§! для §Үтранспортировки§! подразделений в этот §Үморской порт§! Для транспортировки потребуются конвои $CONVOYS|Y$".
- NAVAL_TRANSPORT_MOVE_DESC_ICON: "§GЩёлкните правой кнопкой мыши§! чтобы §YПеревезти§! юнитов в этот §Yморской порт§! Для транспортировки потребуются конвои $CONVOYS|Y$".
- NAVAL_TRANSPORT_MOVE_DISALLOWED_DESC: "$UNIT_TYPE_PLURAL|U$ не может использовать морские транспорты."
- NAVAL_INVASION_LACK_TRANSPORT: "Зарезервированные конвои: $VAL|R$/$NEED|Y$".
- NAVAL_INVASION_LACK_PREPARATION:1 "Вторжение все еще готовится $VAL|R0$/$NEED|Y0$ дней."
- NAVAL_INVASION_WE_LACK_PREPARATION: "Мы подготовились на $VAL|Y0$ дней из $NEED|Y0$ необходимых."
- NAVAL_INVASION_THEY_LACK_PREPARATION: "Они подготовились к $VAL|Y0$ дням из $NEED|Y0$ необходимых."
- NAVAL_INVASION_PREPERATION_SPEED: "Скорость подготовки:".
- NAVAL_INVASION_BLOCKED_STRAIT: "§RПо причине блокировки $RULES|H$ между $FIRST|H$ и $SECOND|H$ наши армии не могут вторгнуться.§!"
-NAVAL_INVASION_OVER_CAP:1 "§RПревышен потенциал военно-морского вторжения:§! \nИспользовано во вторжениях $USED|Y$\nОбщий лимит $MAX|Y$\nВыбранные дивизии $SELECTION|R$.\nИсследуйте больше £tech_mod Транспортных технологий, чтобы увеличить ваш потенциал военно-морского вторжения."
- MODIFIER_NAVAL_INVASION_CAPACITY: "Мощность военно-морского вторжения"
- MODIFIER_NAVAL_INVASION_CAPACITY_DESC: "Общее количество дивизий, которые могут быть назначены в приказ о морском вторжении".
- motorized_rocket_brigade: "Моторизованная ракетная артиллерия".
- motorized_rocket_brigade_short: "Мото-ракетная артиллерия".
- motorized_rocket_brigade_desc: "Самоходная реактивная артиллерия позволяет использовать более крупные, многочисленные ракетные установки, которые могут быстро перемещаться и уходить после нанесения удара по целевому району."
- NAVAL_SUPREMACY: "§HМорское превосходство:§! $VALUE|%H$"
+ TRANSPORT_ALREADY_ACTIVE: "Мы уже находимся в пути"
+ TRANSPORT_NO_NAVAL_BASE: "Cannot transport to a non-naval port location" #NT!
+ TRANSPORT_NO_FROM_NAVAL_BASE: "Cannot transport from a non-naval port location" #NT!
+ TRANSPORT_NOT_ENOUGH: "Для переброски этой дивизии необходимы конвои в кол-ве $NEED|Y$, но доступны лишь $FREE|Y$."
+ TRANSPORT_ACTIVE_CANT_MOVE: "Нельзя перемещать боевую единицу во время транспортировки."
+ TRANSPORT_NOT_DURING_COMBAT: "Невозможно перенаправить конвой, находящийся в бою."
+ NO_COUNTER_ATTACK_IN_COMBAT: "§RНевозможно контратаковать боевую единицу, если вы уже обороняетесь против неё§!"
+ TRANSPORT_NO_ACCESS: "У нас здесь нет доступа."
+ TRANSPORT_NO_SEA_ROUTE: "§RНет допустимого морского пути, ведущего в этот район.§!"
+ ATTRITION_NAVAL_TRANSFER: "Транспортировка по морю: $ATT|=-1%0$"
+ NAVAL_TRANSPORT_INTERCEPT_WARNING: "§RМы находимся в состоянии войны, и есть риск, что враг потопит наши транспорты с войсками. Чтобы этого не произошло, кораблям, находящимся в этом районе, необходимо дать задание по сопровождению.§!\nВероятность обнаружения и перехвата транспортов на этом маршруте составляет $ATTR|%R0$."
+ NAVAL_TRANSPORT_MOVE_DESC: "§GRight-click§! on §Ythe naval icon§! to §Ytransport§! the units to this §Ynaval port§!. Transport will require $CONVOYS|Y$ convoys." #NT!
+ NAVAL_TRANSPORT_MOVE_DESC_ICON: "§GRight-click§! to §Ytransport§! the units to this §Ynaval port§!. Transport will require $CONVOYS|Y$ convoys." #NT!
+ NAVAL_TRANSPORT_MOVE_DISALLOWED_DESC: "$UNIT_TYPE_PLURAL|U$ не может использовать морской транспорт."
+ NAVAL_INVASION_LACK_TRANSPORT: "Зарезервированные конвои: $VAL|R$/$NEED|Y$."
+ NAVAL_INVASION_LACK_PREPARATION: "Подготовка к вторжению еще продолжается: $VAL|R0$/$NEED|Y0$ дн."
+ NAVAL_INVASION_WE_LACK_PREPARATION: "Мы потратили на подготовку $VAL|Y0$ дн. из $NEED|Y0$ необходимых."
+ NAVAL_INVASION_THEY_LACK_PREPARATION: "Они потратили на подготовку $VAL|Y0$ дн. из $NEED|Y0$ необходимых."
+ NAVAL_INVASION_PREPERATION_SPEED: "Скорость подготовки:"
+ NAVAL_INVASION_BLOCKED_STRAIT: "§RИз-за того, что $RULES|H$ между провинциями $FIRST|H$ и $SECOND|H$ блокирован, наши войска не могут вторгнуться.§!"
+ NAVAL_INVASION_OVER_CAP: "§RДостигнут предел вместимости морского вторжения:§!\nИспользовано во вторжениях: $USED|Y$\nОбщий предел: $MAX|Y$\nВыбрано дивизий $SELECTION|R$.\nИсследуйте больше £tech_mod транспортных технологий, чтобы повысить вместимость морского вторжения."
+ MODIFIER_NAVAL_INVASION_CAPACITY: "Вместимость морского вторжения"
+ MODIFIER_NAVAL_INVASION_CAPACITY_DESC: "Общее количество дивизий, которые можно прикрепить к приказу о морском вторжении."
+ motorized_rocket_brigade: "Моторизированная ракетная артиллерия"
+ motorized_rocket_brigade_short: "Мотор. ракет. артиллерия"
+ motorized_rocket_brigade_desc: "Реактивная артиллерия позволяет использовать более крупные установки со множеством ракет, которые могут быстро сменить дислокацию после нанесения удара."
+ NAVAL_SUPREMACY: "§HПревосходство на море:§! $VALUE|%H$"
  NAVAL_REGION_ACCESS_LEVEL: "Уровень доступа: $LVL$"
- NAVAL_REGION_ACCESS_ALLOWED: "§GРазрешено§!".
- NAVAL_REGION_ACCESS_AVOID: "§HИзбегайте§!"
+ NAVAL_REGION_ACCESS_ALLOWED: "§GРазрешено§!"
+ NAVAL_REGION_ACCESS_AVOID: "§HИзбегать§!"
  NAVAL_REGION_ACCESS_BLOCKED: "§RЗаблокировано§!"
- NAVAL_REGION_ACCESS_ALLOWED_DESC: "- §HФлот§! и §HТорговые пути§! будут двигаться через этот регион как обычно."
- NAVAL_REGION_ACCESS_AVOID_DESC:1 " - §HФлот§! и §HТорговые пути§! будут пытаться §Hизбегать§! этот регион, если нет другого пути."
- NAVAL_REGION_ACCESS_BLOCKED_DESC: " - §HТорговые маршруты§! §Rникогда не пройдут§! через этот регион.\n - §HФлот§! §Rникогда не пройдет§! через этот регион, если нет другого маршрута."
- CAN_NOT_PARADROP_BATALION: "$AMOUNT|H$ батальонов $BATALION|H$ не могут быть десантированы".
- CAN_PARADROP_TEMPLATE: "Дивизии, использующие этот шаблон §GCAN§! могут быть десантированы".
- CAN_NOT_PARADROP_TEMPLATE: "Дивизии, использующие этот шаблон §RCANNOT§, могут быть десантированы".
- BATALION_CAN_BE_PARCHUTED: "Этот батальон §GCAN§! быть десантирован".
- BATALION_CAN_NOT_BE_PARCHUTED: "Этот батальон §RCANNOT§! десантируется с парашютом".
- ESTIMATED_NAVAL_POWER:1 "Дружественные корабли с приказом вступить в бой: $US|0Y$\n Вражеские корабли с приказом вступить в бой: $THEM|Y$"
- ESTIMATED_NAVAL_POWER_SUPREMACY: " Превосходство друга: $US|0Y$\n Превосходство противника: $THEM|Y$"
- NAV_AIR_SUPERIORITY:1 " Наше превосходство в воздухе увеличивает количество ударов нашего корабля на: $VALUE|%G=$"
- NAV_MINES_EFFECT_ON_US:1 " Наше минное прикрытие увеличивает влияние на количество кораблей на: $VALUE|%G=$"
- NAV_MINES_EFFECT_ON_ENEMY:1 " Вражеское минное прикрытие увеличивает воздействие их кораблей на: $VALUE|%G=$"
- NAV_ENEMY_AIR_SUPERIORITY:1 " Превосходство вражеской авиации увеличивает воздействие на их корабль на: $VALUE|%=R$"
- NAV_SUPREMACY_INTEL:1 "§RМы слишком мало знаем об этом регионе!§!"
- NAV_SUPREMACY_INTEL_SCALED:1 "§RМорское превосходство уменьшено до $RATIO|%.0R$ из-за низкого уровня разведданных противника§!"
- INTEL_EFFICIENCY: " Эффективность интеллекта: $VAL|%+$"
- NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH:1 " - $NAME|Y$ - У нас только $SUP|0%R$ военно-морское превосходство, но требуется $NEEDED|0%Y$"
- NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_TITLE: "\n§RНедостаточное военно-морское превосходство в регионах:§!\n"
- NAVAL_INVASION_WE: "Мы".
- NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL:2 "\n§R$WHO$ не хватает разведданных, чтобы осмелиться послать вторжение через регионы:§!"
- NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL_HINT: "\n§RНазначьте больше флотов или воздушных крыльев на миссии, или покройте вышеуказанные области радаром.§!\n"
- NAVAL_INVASION_CANT_TRANSFER:1 "\nДля осуществления военно-морского вторжения требуется военно-морское превосходство на территориях, лежащих на его пути. Оно достигается:\n - воздушным превосходством\n - кораблями на миссиях".
- CLICK_TO_ASSIGN_COMMANDER: "§GЩёлкните, чтобы назначить командира.§!"
- NAVAL_INVASION_NOT_REACHED_START: "§RНекоторые дивизии, назначенные для этого вторжения, еще не достигли стартовой позиции.§!\n"
-PARADROP_INVASION_CAN_NOT_TRANSFER: "§RДля проведения операции Paradrop мы должны иметь более $RATIO|0%H$ Воздушное превосходство в следующих стратегических регионах: $LIST$§!"
- TEMPLATE_DURING_REORGANIZATION: "Подразделение в настоящее время переходит на новый или обновленный шаблон. В это время они будут использовать статы из старого шаблона, пока у них не будет достаточно оборудования, подходящего для нового.\n"
- SPEED_OUT_OF_SUPPLY: "Недостаточно снабжения: $VALUE|+=%$"
- SPEED_INFRASTRUCTURE_IMPACT: "Инфраструктура: $VALUE|+=%$".
- SPEED_STRATEGIC_REDEPLOYMENT_DESC: "Скорость стратегической передислокации $VAUE|H$ км/ч".
+ NAVAL_REGION_ACCESS_ALLOWED_DESC: " — §HФлоты§! и §Hторговые суда§! будут проходить через этот регион как обычно."
+ NAVAL_REGION_ACCESS_AVOID_DESC: " — §HФлоты§! и §Hторговые суда§! будут §Hизбегать§! этого региона, кроме ситуаций, когда нет иного пути."
+ NAVAL_REGION_ACCESS_BLOCKED_DESC: " — §HТорговые суда§! §Rникогда не будут§! заходить в этот регион.\n- §HФлоты§! §Rникогда не будут§! заходить в этот регион, кроме ситуаций, когда нет иного пути."
+ CAN_NOT_PARADROP_BATALION: "$AMOUNT|H$ из $BATALION|H$ батальонов нельзя сбросить с парашютом"
+ CAN_PARADROP_TEMPLATE: "Дивизии, использующие этот шаблон, §GМОЖНО§! сбрасывать с парашютом."
+ CAN_NOT_PARADROP_TEMPLATE: "Дивизии, использующие этот шаблон, §RНЕЛЬЗЯ§! сбрасывать с парашютом."
+ BATALION_CAN_BE_PARCHUTED: "Этот батальон §GМОЖНО§! сбросить с парашютом."
+ BATALION_CAN_NOT_BE_PARCHUTED: "Этот батальон §RНЕЛЬЗЯ§! сбросить с парашютом."
+ ESTIMATED_NAVAL_POWER: "  Дружественных кораблей с приказом вступить в бой: $US|0Y$\nВражеских кораблей с приказом вступить в бой: $THEM|Y$"
+ ESTIMATED_NAVAL_POWER_SUPREMACY: "  Превосходство союзников: $US|0Y$\n  Вражеское превосходство: $THEM|Y$"
+ NAV_AIR_SUPERIORITY: "  Наше превосходство в воздухе увеличивает эффект от количества наших кораблей на: $VALUE|%G=$"
+ NAV_MINES_EFFECT_ON_US: "  Наша площадь минных полей увеличивает эффект от количества наших кораблей на: $VALUE|%G=$"
+ NAV_MINES_EFFECT_ON_ENEMY: "  Вражеская площадь минных полей увеличивает эффект от количества их кораблей на: $VALUE|%G=$"
+ NAV_ENEMY_AIR_SUPERIORITY: "  Вражеское превосходство в воздухе увеличивает эффект от количества вражеских кораблей на: $VALUE|%=R$"
+ NAV_SUPREMACY_INTEL: "§RНам очень мало известно об этом регионе!§!"
+ NAV_SUPREMACY_INTEL_SCALED: "§RПревосходство на море изменено до $RATIO|%.0R$ из-за низкого уровня разведданных противника§!"
+ INTEL_EFFICIENCY: "  Эффективность разведки: $VAL|%+$"
+ NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH: " — $NAME|Y$: у нас лишь $SUP|0%R$ превосходства на море, а нужно $NEEDED|0%Y$"
+ NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_TITLE: "\n§RНедостаточное превосходство на море в регионах:§!\n"
+ NAVAL_INVASION_WE: "Мы"
+ NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL: "\n§RУ государства $WHO$ недостаточно разведданных, чтобы устроить вторжение через регионы:§!"
+ NAVAL_INVASION_CAN_NOT_TRANSFER_THROUGH_NO_INTEL_HINT: "\n§RНазначьте больше флотов или авиакрыльев, выполняющих задания, или обеспечьте радарное покрытие указанных областей.§!\n"
+ NAVAL_INVASION_CANT_TRANSFER: "\nДля выполнения морского вторжения у нас должно быть достаточное морское превосходство в областях по его маршруту. Его помогают обеспечить:\n — Воздушное превосходство\n — Корабли, выполняющие задания"
+ CLICK_TO_ASSIGN_COMMANDER: "§GЩелкните, чтобы назначить командующего.§!"
+ NAVAL_INVASION_NOT_REACHED_START: "§RНекоторые дивизии, участвующие в этом вторжении, еще не прибыли в стартовую точку.§!\n"
+ PARADROP_INVASION_CAN_NOT_TRANSFER: "§RЧтобы провести десантную операцию, нам необходимо более чем $RATIO|0%H$ превосходства в воздухе в следующих стратегических регионах: $LIST$§!"
+ TEMPLATE_DURING_REORGANIZATION: "Дивизия сейчас переходит на новый или измененный шаблон. Она будет использовать параметры старого шаблона, пока не накопит достаточное количество техники для нового.\n"
+ SPEED_OUT_OF_SUPPLY: "Недостаток снабжения: $VALUE|+=%$"
+ SPEED_INFRASTRUCTURE_IMPACT: "Инфраструктура: $VALUE|+=%$"
+ SPEED_STRATEGIC_REDEPLOYMENT_DESC: "Скорость стратегической передислокации: $VAUE|H$ км/ч"
  SPEED_RETREATING: "Отступление: $VALUE|+=%$"
- GOOD_ARMOR_DEFENSE_DESC: "Если атакующая нас дивизия противника не сможет проникнуть к нам, мы потеряем на $ORG|%0G$ меньше организации и получим на $STR|%0G$ меньше урона.\n"
- GOOD_ARMOR_ATTACK_DESC_STR: "При атаке на дивизию противника, которая не может пробить нашу броню, мы нанесем на $VAL|%0G$ больше урона.\n"
- GOOD_ARMOR_ATTACK_DESC_ORG: "При атаке на дивизию противника, которая не может пробить нашу броню, мы уменьшим их организацию на дополнительные $VAL|%G0$.\n"
- PIERCING_GOOD_DESC: "Дивизия не получит дополнительных бонусов от возможности пробить дивизию противника, но эта дивизия не получит бонусов из-за своей брони."
- OVERRUN_POPUP: "Превышение!".
- PREPERATION_BASE_DAILY_GAIN: "Базовый ежедневный прирост: $VALUE|0%Y$".
- PREPERATION_BASE_MAX: "Базовый максимум: $VALUE|0%Y$".
+ GOOD_ARMOR_DEFENSE_DESC: "If an Enemy Division attacking us is unable to penetrate we will lose $ORG|%0G$ less organization and take $STR|%0G$ less damage.\n" #NT!
+ GOOD_ARMOR_ATTACK_DESC_STR: "If attacking an Enemy Division that cannot penetrate our armor we will do $VAL|%0G$ more damage.\n" #NT!
+ GOOD_ARMOR_ATTACK_DESC_ORG: "If attacking an Enemy Division that cannot penetrate our armor we will reduce their organization by an additional $VAL|%G0$.\n" #NT!
+ PIERCING_GOOD_DESC: "Дивизия не получит дополнительных бонусов из-за возможности пробить броню вражеской дивизии, но и враг не получит бонусов из-за брони."
+ OVERRUN_POPUP: "Захват!"
+ PREPERATION_BASE_DAILY_GAIN: "Ежедневный базовый прирост: $VALUE|0%Y$"
+ PREPERATION_BASE_MAX: "Макс. базовое значение: $VALUE|0%Y$"
  PLAN_PREPERATION_BREAKDOWN: "$MAX_DESC$\n$SPEED_DESC$"
- CLICK_TO_ASSIGN: "Нажмите, чтобы назначить".
- ADD_ATTACK_SKILL: "Добавить навык атаки: $NUM|+$".
- ADD_DEFENSE_SKILL: "Добавить навык защиты: $NUM|+$".
- ADD_LOGISTICS_SKILL: "Добавить навык логистики: $NUM|+$"
- ADD_PLANNING_SKILL: "Добавить навык планирования: $NUM|+$"
- ADD_MANEUVER_SKILL: "Добавить навык маневрирования: $NUM|+$"
+ CLICK_TO_ASSIGN: "Щелкните, чтобы назначить."
+ ADD_ATTACK_SKILL: "Увеличить навык наступления: $NUM|+$"
+ ADD_DEFENSE_SKILL: "Увеличить навык обороны: $NUM|+$"
+ ADD_LOGISTICS_SKILL: "Увеличить навык логистики: $NUM|+$"
+ ADD_PLANNING_SKILL: "Увеличить навык планирования: $NUM|+$"
+ ADD_MANEUVER_SKILL: "Добавить навык маневренности: $NUM|+$"
  ADD_COORDINATION_SKILL: "Добавить навык координации: $NUM|+$"
- ADD_SKILL_LEVEL: "Добавить уровень навыка: $NUM|+$"
- CHOOSE_INSIGNIA: "Выбрать знак отличия"
- CLICK_TO_ASSIGN_TRAITS: "§HЩёлкните§! чтобы назначить новую §HЧерту§! этому §HЛидеру Подразделения§!".
- CLICK_TO_ASSIGN_TRAITS_DETAIL: "$LEADER|H$ имеет $NUM|H$ оставшихся слотов черт для назначения."
- category_special_forces: "Спецназ"
- LEADER_GAIN_TRAIT_LEVEL: "Лидер может назначить новую черту каждые $NUM|.0H$ уровней.\n"
- FM_GAIN_TRAIT_LEVEL: "Фельдмаршалы могут присваивать новую черту при повышении.\n"
- DELETE_ARMY: "§RУдалить Армию§!"
- UNASSIGN_ARMY: "§RРасформирование армии§!"
- DELETE_ARMY_GROUP: "§RУдалить армейскую группу и все назначенные армии§!"
- UNASSIGN_ARMY_GROUP:1 "§GЩёлкните§! для §RРасформировать§! армейскую группу.\n§GShift + Щелчок§! для §RРасформирования§! армейской группы и всех ее армий."
- FROM_ARMY_GROP_LEADER: "Частичные бонусы от $NAME|H$\n"
- FIELD_MARSHAL_BONUS_INFO: "Не-§HФельдмаршал§! бонусы применяются только на $RATIO|%.0H$\n"
- CLICK_TO_HIDE_ARMIES: "Нажмите, чтобы §HСкрыть§! армии, принадлежащие к этой группе.\n"
- CLICK_TO_SHOW_ARMIES: "Нажмите, чтобы §HПоказать§! армии, принадлежащие этой группе.\n"
- TOGGLE_ARMY_GROUP_VIEW_ARMIES_DIVISIONS: "Переключение между просмотром армий или дивизий в этой группе армий."
- DIVISION_VIEW_SELECT_ARMY: "Нажмите, чтобы выбрать армию этой дивизии."
- NEW_FLEET_NAME: "Новый флот".
-
- line_infantry: "Линейная пехота"
- line_infantry_desc: "Войска, вооруженные винтовкой и штыком".
- light_infantry: "Легкая пехота"
- light_infantry_desc: "Легковооруженная и бронированная пехота".
- tribal_infantry: "Племенная пехота"
- category_tribal_infantry: "Племенная пехота"
- armor_train_company: "Бронепоезд поддержки"
- category_armor_train_company: "Бронепоезда"
- UNIT_LEVEL_0: "Зелёненький I"
- UNIT_LEVEL_1: "Зелёненький II"
- UNIT_LEVEL_2: "Зелёненький III"
- UNIT_LEVEL_3: "Зелёненький IV"
- UNIT_LEVEL_4: "Обученный I"
- UNIT_LEVEL_5: "Обученный II"
- UNIT_LEVEL_6: "Обученный III"
- UNIT_LEVEL_7: "Обученный IV"
- UNIT_LEVEL_8: "Обычный I"
- UNIT_LEVEL_9: "Обычный II"
- UNIT_LEVEL_10: "Обычный III"
- UNIT_LEVEL_11: "Обычный IV"
- UNIT_LEVEL_12: "Приправленный I"
- UNIT_LEVEL_13: "Приправленный II"
- UNIT_LEVEL_14: "Приправленный III"
- UNIT_LEVEL_15: "Приправленный IV"
- UNIT_LEVEL_16: "Элита I"
- UNIT_LEVEL_17: "Элита II"
- UNIT_LEVEL_18: "Элита III"
- UNIT_LEVEL_19: "Элита IV"
- UNIT_LEVEL_20: "Легендарный"
- SHIP_LEVEL_0: "Свежий I"
- SHIP_LEVEL_1: "Свежий II"
- SHIP_LEVEL_2: "Свежий III"
- SHIP_LEVEL_3: "Свежий IV"
- SHIP_LEVEL_4: "Обученный I"
- SHIP_LEVEL_5: "Обученный II"
- SHIP_LEVEL_6: "Обученный III"
- SHIP_LEVEL_7: "Обученный IV"
- SHIP_LEVEL_8: "Обычный I"
- SHIP_LEVEL_9: "Обычный II"
- SHIP_LEVEL_10: "Обычный III"
- SHIP_LEVEL_11: "Обычный IV"
- SHIP_LEVEL_12: "Приправленный I"
- SHIP_LEVEL_13: "Приправленный II"
- SHIP_LEVEL_14: "Приправленный III"
- SHIP_LEVEL_15: "Приправленный IV"
- SHIP_LEVEL_16: "Элита I"
- SHIP_LEVEL_17: "Элита II"
- SHIP_LEVEL_18: "Элита III"
- SHIP_LEVEL_19: "Элита IV"
- SHIP_LEVEL_20: "Легендарный"
- AIR_WING_LEVEL_0:1 "Новички"
+ ADD_SKILL_LEVEL: "Увеличить уровень навыка: $NUM|+$"
+ CHOOSE_INSIGNIA: "Выберите знак различия"
+ CLICK_TO_ASSIGN_TRAITS: "§HЩелкните§!, чтобы дать новую §Hчерту§! этому §Hкомандиру боевой единицы§!"
+ CLICK_TO_ASSIGN_TRAITS_DETAIL: "У командира $LEADER|H$ осталось не более $NUM|H$ ячеек для черт."
+ category_special_forces: "Войска специального назначения"
+ LEADER_GAIN_TRAIT_LEVEL: "Количество уровней, за которые лидер может получить новую черту: $NUM|.0H$.\n"
+ FM_GAIN_TRAIT_LEVEL: "Фельдмаршал может получить новую черту при повышении в звании.\n"
+ DELETE_ARMY: "§RУдалить армию§!"
+ UNASSIGN_ARMY: "§RОткрепить армию§!"
+ DELETE_ARMY_GROUP: "§RУдалить группу армий и все приписанные армии§!"
+ UNASSIGN_ARMY_GROUP: "§GЩелкните,§! чтобы §Rрасформировать§! группу армий.\n§GShift + щелчок,§! чтобы §Rрасформировать§! группу армий и все ее армии."
+ FROM_ARMY_GROP_LEADER: "Частичные бонусы от: $NAME|H$\n"
+ FIELD_MARSHAL_BONUS_INFO: "Бонусы, не относящиеся к §Hфельдмаршалу§!, эффективны лишь на $RATIO|%.0H$\n"
+ CLICK_TO_HIDE_ARMIES: "Щелкните, чтобы §Hскрыть§! армии, входящие в эту группу.\n"
+ CLICK_TO_SHOW_ARMIES: "Щелкните, чтобы §Hпоказать§! армии, входящие в эту группу.\n"
+ TOGGLE_ARMY_GROUP_VIEW_ARMIES_DIVISIONS: "Переключиться между просмотром армий или дивизий в этой группе армий."
+ DIVISION_VIEW_SELECT_ARMY: "Click to select this division's army." #NT!
+ NEW_FLEET_NAME: "Новый флот"
+  
+ line_infantry: "Line Infantry" #NT!
+ line_infantry_desc: "Troops armed with edge-cutting rifle and bayonet technology." #NT!
+ light_infantry: "Light Infantry" #NT!
+ light_infantry_desc: "Lightly armed and armored infantry." #NT!
+ tribal_infantry: "Tribal Infantry" #NT!
+ category_tribal_infantry: "Tribal Infantry" #NT!
+ armor_train_company: "Armored Train Support" #NT!
+ category_armor_train_company: "Armored Trains" #NT!
+ UNIT_LEVEL_0: "Green I" #NT!
+ UNIT_LEVEL_1: "Green II" #NT!
+ UNIT_LEVEL_2: "Green III" #NT!
+ UNIT_LEVEL_3: "Green IV" #NT!
+ UNIT_LEVEL_4: "Trained I" #NT!
+ UNIT_LEVEL_5: "Trained II" #NT!
+ UNIT_LEVEL_6: "Trained III" #NT!
+ UNIT_LEVEL_7: "Trained IV" #NT!
+ UNIT_LEVEL_8: "Regular I" #NT!
+ UNIT_LEVEL_9: "Regular II" #NT!
+ UNIT_LEVEL_10: "Regular III" #NT!
+ UNIT_LEVEL_11: "Regular IV" #NT!
+ UNIT_LEVEL_12: "Seasoned I" #NT!
+ UNIT_LEVEL_13: "Seasoned II" #NT!
+ UNIT_LEVEL_14: "Seasoned III" #NT!
+ UNIT_LEVEL_15: "Seasoned IV" #NT!
+ UNIT_LEVEL_16: "Elite I" #NT!
+ UNIT_LEVEL_17: "Elite II" #NT!
+ UNIT_LEVEL_18: "Elite III" #NT!
+ UNIT_LEVEL_19: "Elite IV" #NT!
+ UNIT_LEVEL_20: "Legendary" #NT!
+ SHIP_LEVEL_0: "Fresh I" #NT!
+ SHIP_LEVEL_1: "Fresh II" #NT!
+ SHIP_LEVEL_2: "Fresh III" #NT!
+ SHIP_LEVEL_3: "Fresh IV" #NT!
+ SHIP_LEVEL_4: "Trained I" #NT!
+ SHIP_LEVEL_5: "Trained II" #NT!
+ SHIP_LEVEL_6: "Trained III" #NT!
+ SHIP_LEVEL_7: "Trained IV" #NT!
+ SHIP_LEVEL_8: "Regular I" #NT!
+ SHIP_LEVEL_9: "Regular II" #NT!
+ SHIP_LEVEL_10: "Regular III" #NT!
+ SHIP_LEVEL_11: "Regular IV" #NT!
+ SHIP_LEVEL_12: "Seasoned I" #NT!
+ SHIP_LEVEL_13: "Seasoned II" #NT!
+ SHIP_LEVEL_14: "Seasoned III" #NT!
+ SHIP_LEVEL_15: "Seasoned IV" #NT!
+ SHIP_LEVEL_16: "Elite I" #NT!
+ SHIP_LEVEL_17: "Elite II" #NT!
+ SHIP_LEVEL_18: "Elite III" #NT!
+ SHIP_LEVEL_19: "Elite IV" #NT!
+ SHIP_LEVEL_20: "Legendary" #NT!
+ AIR_WING_LEVEL_0: "Новички"
  AIR_WING_LEVEL_1: "Обученные"
- AIR_WING_LEVEL_2: "Обычный"
- AIR_WING_LEVEL_3: "Приправленный"
+ AIR_WING_LEVEL_2: "Регулярные"
+ AIR_WING_LEVEL_3: "Опытные"
  AIR_WING_LEVEL_4: "Ветераны"
- AIR_WING_LEVEL_5: "Эксперты"
- AIR_WING_LEVEL_6: "Тузы"
- AIR_WING_LEVEL_7: "Великие асы"
- AIR_WING_LEVEL_8: "Небесные бароны"
- AIR_WING_LEVEL_9: "Небесные короли"
- AIR_WING_LEVEL_10: "Легендарный I"
- AIR_WING_LEVEL_11: "Легендарный II"
- AIR_WING_LEVEL_12: "Легендарный III"
- AIR_WING_LEVEL_13: "Легендарный IV"
- AIR_WING_LEVEL_14: "Легендарный V"
- AIR_WING_LEVEL_15: "Легендарный VI"
- AIR_WING_LEVEL_16: "Легендарный VII"
- AIR_WING_LEVEL_17: "Легендарный VIII"
- AIR_WING_LEVEL_18: "Легендарный IX"
- AIR_WING_LEVEL_19: "Легендарный X"
- AIR_WING_LEVEL_20: "Небесные божества"
- category_bicycle_signal_company: "Велосипедные компании"
- category_motorcycle_signal_company: "Мотоциклетные компании"
- bicycle_signal_company: "Компания по поддержке велосипедов"
- bicycle_signal_company_desc: "Рота поддержки, использующая велосипеды для обеспечения мобильности, необходимой для выполнения задач по передаче сообщений и разведке".
- motorcycle_signal_company: "Мотоциклетная рота поддержки"
- motorcycle_signal_company_desc: "Рота поддержки, использующая мотоциклы для обеспечения мобильности, необходимой для выполнения задач по передаче сообщений и разведке".
- bicycle_infantry: "Велосипедный батальон"
- bicycle_infantry_desc: "Пехотный батальон, оснащенный велосипедами для повышения мобильности".
- category_steam_car_support_company: "Паровозные роты"
- steam_car_support_company: "Батальон поддержки паровых машин"
- steam_car_support_company_desc: "Поддержка легкобронированными машинами, способными быстрее передвигаться по местности, с паровым двигателем".
- irregular_infantry: "Иррегуляры"
- irregular_infantry_desc: "Эти нерегулярные пехотные части не очень сильны или эффективны, но могут быть призваны очень быстро."
- great_war_infantry: "Пехота"
- great_war_infantry_desc: "Эта пехота была модернизирована и оснащена новым базовым оборудованием".
- flamethrower_support_company: "Огнеметная поддержка".
- flamethrower_support_company_desc: "Пехота, оснащенная огнеметами".
- sniper_team_support: "Снайперские команды"
- sniper_team_support_desc: "снайперы и наблюдатели для уничтожения пехоты".
- mountaineers: "Альпинисты"
- mountaineers_desc: "Бой в горных массивах подвергает войска многим опасностям, но иногда их невозможно избежать. Обеспечивая наших солдат специальной подготовкой для таких условий, мы можем минимизировать эти риски."
- shock_troops: "Ударные войска"
- shock_troops_desc: "Ударные войска отлично справляются с боями в городах или в другой плотной местности".
- great_war_cavalry: "Кавалерия"
- great_war_cavalry_desc: "Модернизированная кавалерия, готовая к массовому использованию".
- early_marine: "Ранние морпехи"
- early_marine_desc: "Ранняя современная морская пехота, используемая для ведения боевых действий в амфибийных условиях".
- cannon_artillery: "Полевая пушка"
- cannon_artillery_desc: "Артиллерийская бригада, предназначенная для развертывания в поле".
- cannon_artillery_towed: "Буксируемое полевое орудие"
- cannon_artillery_towed_desc: "Буксируемые полевые орудия могут быстрее преодолевать поле боя".
- cannon_artillery_support: "Полевое орудие поддержки"
- cannon_artillery_support_desc: "Небольшая бригада поддержки с полевыми орудиями".
- cannon_artillery_towed_support: "Буксируемое полевое орудие поддержки"
- howitzer_artillery: "Гаубица"
- howitzer_artillery_desc: "Артиллерийская бригада, оснащенная Гаубицами".
- howitzer_artillery_towed: "Буксируемая Гаубица".
- howitzer_artillery_towed_desc: "Буксируемая Гаубица может быстрее преодолевать поле боя."
- howitzer_artillery_support: "Поддержка Гаубицы"
- howitzer_artillery_support_desc: "Небольшая бригада поддержки с Гаубицами".
- howitzer_artillery_towed_support: "Буксируемая Гаубица поддержки".
- siege_artillery: "Осадная артиллерия"
- siege_artillery_desc: "Артиллерийская бригада, оснащенная осадными орудиями".
- siege_artillery_towed: "Буксируемая осадная артиллерия"
- siege_artillery_towed_desc: "Буксируемая осадная артиллерия может быстрее преодолевать поле боя".
- siege_artillery_support: "Поддержка осадной артиллерии"
- siege_artillery_support_desc: "Небольшая бригада поддержки с осадной артиллерией".
- modifier_experience_gain_gunboat_combat_factor: "Прирост опыта за боевые действия на катерах".
- modifier_experience_gain_gunboat_training_factor: "Прирост опыта за обучение на канонерской лодке"
- battle_cruiser: "Боевой крейсер"
- battle_cruiser_desc: "Большой, вооруженный и бронированный военный корабль класса крейсер".
+ AIR_WING_LEVEL_5: "Experts" #NT!
+ AIR_WING_LEVEL_6: "Aces" #NT!
+ AIR_WING_LEVEL_7: "Grand Aces" #NT!
+ AIR_WING_LEVEL_8: "Sky Barons" #NT!
+ AIR_WING_LEVEL_9: "Sky Kings" #NT!
+ AIR_WING_LEVEL_10: "Legendary I" #NT!
+ AIR_WING_LEVEL_11: "Legendary II" #NT!
+ AIR_WING_LEVEL_12: "Legendary III" #NT!
+ AIR_WING_LEVEL_13: "Legendary IV" #NT!
+ AIR_WING_LEVEL_14: "Legendary V" #NT!
+ AIR_WING_LEVEL_15: "Legendary VI" #NT!
+ AIR_WING_LEVEL_16: "Legendary VII" #NT!
+ AIR_WING_LEVEL_17: "Legendary VIII" #NT!
+ AIR_WING_LEVEL_18: "Legendary IX" #NT!
+ AIR_WING_LEVEL_19: "Legendary X" #NT!
+ AIR_WING_LEVEL_20: "Sky Deities" #NT!
+ category_bicycle_signal_company: "Bicycle Companies" #NT!
+ category_motorcycle_signal_company: "Motorcycle Companies" #NT!
+ bicycle_signal_company: "Bicycle Support Company" #NT!
+ bicycle_signal_company_desc: "A support company using bicycles to gain the mobility needed to perfom messaging and reconnaisance tasks." #NT!
+ motorcycle_signal_company: "Motorcycle Support Company" #NT!
+ motorcycle_signal_company_desc: "A support company using motorcycles to gain the mobility needed to perfom messaging and reconnaisance tasks." #NT!
+ bicycle_infantry: "Bicycle Battalion" #NT!
+ bicycle_infantry_desc: "An Infantry Battalion equipped with Bicycles to increase mobility." #NT!
+ category_steam_car_support_company: "Steam Car Companies" #NT!
+ steam_car_support_company: "Steam Car Support Batallion" #NT!
+ steam_car_support_company_desc: "Support with lightly armored cars that are able to move more quickly over terrain, powered by a steam engine." #NT!
+ irregular_infantry: "Irregulars" #NT!
+ irregular_infantry_desc: "These irregular infantry units are not very strong or effective, but can be drafted extremely quickly." #NT!
+ great_war_infantry: "Infantry" #NT!
+ great_war_infantry_desc: "This Infantry has been modernized and equipped with new basic equipment." #NT!
+ flamethrower_support_company: "Flamethrower Support" #NT!
+ flamethrower_support_company_desc: "Infantry equipped with flamethrowers." #NT!
+ sniper_team_support: "Sniper Teams" #NT!
+ sniper_team_support_desc: "Sharpshooters and Spotters to pick off Infantry." #NT!
+ mountaineers: "Горно-стрелковые войска"
+ mountaineers_desc: "Боевые действия в горах сопряжены с высокой опасностью для пехоты, но порой их не избежать. Проведя среди наших солдат специальную подготовку для ведения боя в горах, мы минимизируем риск."
+ shock_troops: "Shock Troops" #NT!
+ shock_troops_desc: "Shock Troops excel at combat in cities or other dense terrain." #NT!
+ great_war_cavalry: "Cavalry" #NT!
+ great_war_cavalry_desc: "Modernized Cavalry, ready for mass use." #NT!
+ early_marine: "Early Marines" #NT!
+ early_marine_desc: "Early Modern Naval Infantry, used for fighting in amphibious environments." #NT!
+ cannon_artillery: "Field Gun" #NT!
+ cannon_artillery_desc: "An artillery brigade designed to be deployed to the field" #NT!
+ cannon_artillery_towed: "Towed Field Gun" #NT!
+ cannon_artillery_towed_desc: "Towed field guns can traverse the battlefield more quickly." #NT!
+ cannon_artillery_support: "Support Field Gun" #NT!
+ cannon_artillery_support_desc: "A small support brigade with field guns." #NT!
+ cannon_artillery_towed_support: "Towed Support Field Gun" #NT!
+ howitzer_artillery: "Howitzer Artillery" #NT!
+ howitzer_artillery_desc: "An artillery brigade equipped with howitzers." #NT!
+ howitzer_artillery_towed: "Towed Howitzer Artillery" #NT!
+ howitzer_artillery_towed_desc: "Towed howitzer artillery can traverse the battlefield more quickly." #NT!
+ howitzer_artillery_support: "Support Howitzer Artillery" #NT!
+ howitzer_artillery_support_desc: "A small support brigade with howitzers." #NT!
+ howitzer_artillery_towed_support: "Towed Support Howitzer Artillery" #NT!
+ siege_artillery: "Siege Artillery" #NT!
+ siege_artillery_desc: "An artillery brigade equipped with siege guns." #NT!
+ siege_artillery_towed: "Towed Siege Artillery" #NT!
+ siege_artillery_towed_desc: "Towed siege artillery can traverse the battlefield more quickly." #NT!
+ siege_artillery_support: "Support Siege Artillery" #NT!
+ siege_artillery_support_desc: "A small support brigade with siege artillery." #NT!
+ modifier_experience_gain_gunboat_combat_factor: "Gunboat Combat XP Gain" #NT!
+ modifier_experience_gain_gunboat_training_factor: "Gunboat Training XP Gain" #NT!
+ battle_cruiser: "Линейный крейсер"
+ battle_cruiser_desc: "A large, armed and armored cruiser-class warship." #NT!
  battleship: "Линкор"
- battleship_desc: "После дредноутов, самый большой класс военно-морских кораблей".
- corvette: "Корвет"
- corvette_desc: "Небольшой военный корабль".
- cruiser: "Крейсер"
- cruiser_desc: "Средний военный корабль".
+ battleship_desc: "Next to dreadnoughts, the largest class of naval warship." #NT!
+ corvette: "Corvette" #NT!
+ corvette_desc: "A small warship." #NT!
+ cruiser: "Cruiser" #NT!
+ cruiser_desc: "A medium-sized warship." #NT!
  destroyer: "Эсминец"
- destroyer_desc: "Небольшой универсальный военный корабль".
- dreadnought: "Дредноут"
- dreadnought_desc: "Гигантские военные корабли".
- frigate: "Фрегат"
- frigate_desc: "Небольшие военные корабли, выполняющие различные задачи".
- gunboat: "Артиллерийская лодка"
- gunboat_desc: "Тяжеловооруженные тихоходные суда".
+ destroyer_desc: "Small, versatile naval vessels." #NT!
+ dreadnought: "Dreadnought" #NT!
+ dreadnought_desc: "Giant warships." #NT!
+ frigate: "Frigate" #NT!
+ frigate_desc: "Small warships performing a variety of tasks." #NT!
+ gunboat: "Gunboat" #NT!
+ gunboat_desc: "Heavily armed, slow-going boats." #NT!
  heavy_cruiser: "Тяжелый крейсер"
- heavy_cruiser_desc: "Крейсер с броней, чаще всего имеющий больше орудий, чем легкие варианты".
- ironclad: "Броненосец"
- ironclad_desc: "Сильно бронированный военный корабль. Иногда они даже несут тараны".
+ heavy_cruiser_desc: "A cruiser with armor, most often also carrying more guns than light variants." #NT!
+ ironclad: "Ironclad" #NT!
+ ironclad_desc: "A heavily armored warship. Sometimes they even carry rams." #NT!
  light_cruiser: "Легкий крейсер"
- light_cruiser_desc: "Легкий военный корабль, классом выше эсминца".
- lineship: "Линейный корабль"
- lineship_desc: "Этот большой класс линкоров доминировал на морях в эпоху парусов".
- monitor: "Корабль охранения"
- monitor_desc: "Корабли охранения - небольшие, но хорошо вооруженные".
+ light_cruiser_desc: "A light warship, one class above a destroyer." #NT!
+ lineship: "Lineship" #NT!
+ lineship_desc: "This large battleship class dominated the seas in the age of sail." #NT!
+ monitor: "Monitor Ship" #NT!
+ monitor_desc: "Monitor ships are small, but heavily armed." #NT!
  submarine: "Подводная лодка"
- submarine_desc: "Эти суда способны уходить под воду и атаковать капитальные корабли торпедами наряду с выполнением других задач".
- torpedo_boat: "Торпедный катер"
- torpedo_boat_desc: "Очень маленькие, быстроходные катера, несущие торпеды и иногда другое вооружение".
- guard_infantry: "Гвардейская пехота"
- guard_infantry_desc: "Гвардейская пехота имеет лучшую защиту, чем обычная пехота, но ее немного сложнее обучить и экипировать. Гвардейская пехота также получает значительные бонусы при обороне городов".
- camel_cavalry: "Верблюжья кавалерия".
- camel_cavalry_desc: "Феодальная кавалерия".
- redcoat_infantry: "Красные кареты"
- redcoat_infantry_desc: "Британских "красных кавалеристов" боятся за их отличную подготовку и высокий уровень организации".
- heavy_cavalry: "Тяжелая кавалерия"
- heavy_cavalry_desc: "Хотя этот вид кавалерии способен нанести большой урон, он плохо действует на неблагоприятной местности и менее мобилен, чем его легкобронированная коллега."
- uhlans: "Лансеры"
- uhlans_desc: "Этот тип кавалерии отлично подходит для атаки на врага и разрушения его организации, но довольно плохо действует в обороне".
- native_mountaineers: "Кавказские Альпинисты".
- native_mountaineers_desc: "Эти храбрые воины будут яростно сопротивляться любым попыткам захватить их родину".
- kustjagare_battalion: "Батальон Кустъягаре".
- kustjagare_battalion_desc: "Шведские элитные морпехи, которых боятся и на море, и на суше".
- cold_war_infantry: "Пехота холодной войны"
- cold_war_infantry_desc: ""
- mot_artillery_brigade: "Моторизованная артиллерия"
- mot_artillery_brigade_desc: ""
- mot_rocket_artillery_brigade: "Моторизованная ракетная артиллерия"
- mot_rocket_artillery_brigade_desc: ""
- armored_car: "Бронеавтомобиль"
+ submarine_desc: "These vessels are capable of going underwater and attacking capital ships with torpedoes next to performing other tasks." #NT!
+ torpedo_boat: "Torpedo Boat" #NT!
+ torpedo_boat_desc: "Very small, fast boats, carrying torpedoes and sometimes other weaponry." #NT!
+ guard_infantry: "Guard Infantry" #NT!
+ guard_infantry_desc: "Guard Infantry has better defensiveness than normal infantry, but is a bit harder to train and equip. Guard Infantry also gets considerable boni when defending cities." #NT!
+ camel_cavalry: "Camel Cavalry" #NT!
+ camel_cavalry_desc: "Cavalry in which camels are used as a mount." #NT!
+ redcoat_infantry: "Redcoats" #NT!
+ redcoat_infantry_desc: "The British Redcoats are feared for their excellent training and high level of organization." #NT!
+ heavy_cavalry: "Heavy Cavalry" #NT!
+ heavy_cavalry_desc: "While this type of cavalry might be able to deliver a great deal of damage, it acts poorly in unfavorable terrain and is less mobile than its lightly armored counterpart." #NT!
+ uhlans: "Lancers" #NT!
+ uhlans_desc: "This type of cavalry is great for charging the enemy and disrupting his organization, but it acts rather poorly on the defence." #NT!
+ native_mountaineers: "Caucasian Mountaineers" #NT!
+ native_mountaineers_desc: "These brave warriors will fiercely resist any attempt to take over their homeland." #NT!
+ kustjagare_battalion: "Kustjägare Battalion" #NT!
+ kustjagare_battalion_desc: "Swedish Elite Marines, feared on both sea and land." #NT!
+ cold_war_infantry: "Cold War Infantry" #NT!
+ cold_war_infantry_desc: "" #NT!
+ mot_artillery_brigade: "Моторизированная артиллерия"
+ mot_artillery_brigade_desc: "" #NT!
+ mot_rocket_artillery_brigade: "Motorized Rocket Artillery" #NT!
+ mot_rocket_artillery_brigade_desc: "" #NT!
+ armored_car: "Бронемашина"
  armored_car_desc: ""
- wired_signal_company: "Телеграфная сигнальная рота"
- feudal_cavalry: "Феодальная кавалерия"
- camel_cavalry_desc: "Феодальная кавалерия".
-CANNOT_CREATE_FLEET_FROM_SELECTED_TASK_FORCES: "§RCНевозможно создать флот из текущего выбора§!".
- NUMBER_OF_ENEMY_SHIPS: "Расчетное количество вражеских кораблей в регионе".
+ wired_signal_company: "Telegraph Signal Company" #NT!
+ feudal_cavalry: "Feudal Cavalry" #NT!
+ camel_cavalry_desc: "Feudal Cavalry." #NT!
+ CANNOT_CREATE_FLEET_FROM_SELECTED_TASK_FORCES: "§RНевозможно создать новый флот из выделенной группы§!"
+ NUMBER_OF_ENEMY_SHIPS: "Примерное количество вражеских кораблей в регионе"
  NUMBER_OF_ALLY_SHIPS: "Количество дружественных кораблей в регионе"
- EFFECT_OF_OUR_AIR_SUPERIORITY_ON_NAVAL_SUPREMACY: "Влияние нашего превосходства в воздухе на наше военно-морское превосходство"
- EFFECT_OF_ENEMY_AIR_SUPERIORITY_ON_NAVAL_SUPREMACY: "Эффект превосходства противника в воздухе на его военно-морское превосходство"
- EFFECT_OF_OUR_MINES_ON_NAVAL_SUPREMACY: "Влияние наших мин на наше военно-морское превосходство"
- EFFECT_OF_ENEMY_MINES_ON_NAVAL_SUPREMACY: "Влияние вражеских мин на их военно-морское превосходство"
- NO_NAVAL_SUPREMACY_INFO: "В регионе нет вражеских или дружественных кораблей".
- damaged_heavy_guns:1 "Турель главной батареи уничтожена"
- damaged_light_guns:1 "Выведена из строя главная батарейная установка"
- damaged_torpedoes: "Выведены из строя торпедные аппараты"
- destroyed_ammo_storage:1 "Журнал поврежден"
- on_fire:1 "Сильный огонь"
- broken_propeller: "Сломан пропеллер"
- rudder_jammed: "Руль заклинило"
- ballast_tanks_inoperable: "Балластные танки неработоспособны"
- damaged_secondaries: "Secondaries Knocked Out"
+ EFFECT_OF_OUR_AIR_SUPERIORITY_ON_NAVAL_SUPREMACY: "Влияние нашего превосходства в воздухе на наше превосходство на море"
+ EFFECT_OF_ENEMY_AIR_SUPERIORITY_ON_NAVAL_SUPREMACY: "Влияние вражеского превосходства в воздухе на их превосходство на море"
+ EFFECT_OF_OUR_MINES_ON_NAVAL_SUPREMACY: "Влияние наших мин на наше превосходство на море"
+ EFFECT_OF_ENEMY_MINES_ON_NAVAL_SUPREMACY: "Влияние вражеских мин на их превосходство на море"
+ NO_NAVAL_SUPREMACY_INFO: "В этом регионе нет ни дружественных, ни вражеских кораблей"
+ damaged_heavy_guns: "Башня главного калибра уничтожена"
+ damaged_light_guns: "Пулеметная установка повреждена"
+ damaged_torpedoes: "Торпедные аппараты повреждены"
+ destroyed_ammo_storage: "Попадание в боезапас"
+ on_fire: "Сильный пожар"
+ broken_propeller: "Поломка винта"
+ rudder_jammed: "Заклинило руль"
+ ballast_tanks_inoperable: "Балластные цистерны выведены из строя"
+ damaged_secondaries: "Вспомогательные орудия повреждены"
  CONFIRM_DISBAND_FLEET_TITLE: "Расформировать флот"
- CONFIRM_DISBAND_FLEET_DESC: "Вы уверены, что хотите расформировать флот $NAME|H$?\n\nВсе оперативные группы будут переведены в резерв."
- division_list_army_column_button_tooltip: "§GЩёлкните§! для сортировки дивизий по §Hармии§!\n§GShift + Щелчок§! для сортировки в обратном порядке."
- division_list_fuel_column_button_tooltip: "§GЩёлкните§! для сортировки по §Hтопливуl§!.\n§GShift + Щелчок§! для сортировки в обратном порядке."
- division_list_name_column_button_tooltip: "§GЩёлкните§! для сортировки по §Hимени§!.\n§GShift + Щелчок§! для сортировки в обратном порядке."
- division_list_status_column_button_tooltip: "§GЩёлкните§! для сортировки по §Hстатусу§!.\n§GShift + Щелчок§! для сортировки в обратном порядке."
- division_list_preparedness_column_button_tooltip: "§GЩёлкните§! для сортировки по §Hготовности§!.\n§GShift + Щелчок§! для сортировки в обратном порядке."
- division_list_experience_column_button_tooltip: "§GЩёлкните§! для сортировки по §Hопыту§!.\n§GShift + Щелчок§! для сортировки в обратном порядке."
- division_list_template_column_button_tooltip: "§GЩёлкните§! для сортировки по §Hшаблону§!.\n§GShift + Щелчок§! для сортировки в обратном порядке."
- division_list_warning_column_button_tooltip: "§GЩёлкните§! для сортировки по §Hпредупреждениям§!.\n§GShift + Щелчок§! для сортировки в обратном порядке."
- division_list_organization_strength_column_button_tooltip: "§GЩёлкните§! для сортировки подразделений по §Gорганизации§!, §Gпрочности§! или §Gпроизведению двух§!.\n§GShift + Щелчок§! для сортировки в обратном порядке."
- DECOMMISSIONED_TEMPLATE_WARNING_TOOLTIP: "§RЭтот шаблон был выведен из эксплуатации!§!".
- DIVISION: "подразделение"
+ CONFIRM_DISBAND_FLEET_DESC: "Вы действительно хотите §YРАСФОРМИРОВАТЬ§! флот $NAME|H$?\n\nВсе оперативные соединения будут отправлены в резерв."
+ division_list_army_column_button_tooltip: "§GЩелкните мышью§!, чтобы сортировать дивизии по §Hармии§!.\n§GShift + щелчок§! — сортировать в обратном порядке."
+ division_list_fuel_column_button_tooltip: "§GЩелкните мышью§!, чтобы сортировать дивизии по §Hгорючему§!.\n§GShift + щелчок§! — сортировать в обратном порядке."
+ division_list_name_column_button_tooltip: "§GЩелкните мышью§!, чтобы сортировать дивизии по §Hназванию§!.\n§GShift + щелчок§! — сортировать в обратном порядке."
+ division_list_status_column_button_tooltip: "§GЩелкните мышью§!, чтобы сортировать дивизии по §Hстатусу§!.\n§GShift + щелчок§! — сортировать в обратном порядке."
+ division_list_preparedness_column_button_tooltip: "§GЩелкните мышью§!, чтобы сортировать дивизии по §Hбоеготовности§!.\n§GShift + щелчок§! — сортировать в обратном порядке."
+ division_list_experience_column_button_tooltip: "§GЩелкните мышью§!, чтобы сортировать дивизии по §Hопыту§!.\n§GShift + щелчок§! — сортировать в обратном порядке."
+ division_list_template_column_button_tooltip: "§GЩелкните мышью§!, чтобы сортировать дивизии по §Hшаблону§!.\n§GShift + щелчок§! — сортировать в обратном порядке."
+ division_list_warning_column_button_tooltip: "§GЩелкните мышью§!, чтобы сортировать дивизии по §Hпредупреждению§!.\n§GShift + щелчок§! — сортировать в обратном порядке."
+ division_list_organization_strength_column_button_tooltip: "§GЩелкните мышью§!, чтобы сортировать дивизии по §Hорганизации§!, §Hбоеспособности§! или §Hпроизведению этих двух показателей§!.\n§GShift + щелчок§! — сортировать в обратном порядке."
+ DECOMMISSIONED_TEMPLATE_WARNING_TOOLTIP: "§RЭтот шаблон выведен из эксплуатации!§!"
+ DIVISION: "дивизия"
  DIVISION_PLURAL: "дивизии"
  RAILWAY_GUN: "железнодорожное орудие"
- RAILWAY_GUN_PLURAL: "железнодорожные орудии"
- ARMY_COMPOSITION_HEADER: "§YКомпозиция§!\n"
- ARMY_COMPOSITION_SPECIAL_HEADER: "\nЭто также получает бонусы, основанные на этом:\n"
- ARMY_COMPOSITION_DELAYED: "Состав контролирует, какие бонусы применяются от советников и командиров. Батальоны, не имеющие снаряжения, получают меньше бонусов, чем полностью экипированные."
-
+ RAILWAY_GUN_PLURAL: "железнодорожные орудия"
+ ARMY_COMPOSITION_HEADER: "§YСостав§!\n"
+ ARMY_COMPOSITION_SPECIAL_HEADER: "\nТакже получает бонусы, основание:\n"
+ ARMY_COMPOSITION_DELAYED: "От состава дивизии зависят применяемые бонусы советников и командиров. Батальоны с недостаточным снаряжением меньше пополняют значение, чем полностью укомплектованные батальоны."
+  

@@ -1,81 +1,81 @@
 ﻿l_russian:
- MAPMODE_FABRICATE_WRONG_COUNTRY: "Страна не является $COUNTRY|Y$"
- MAPMODE_FABRICATE_UNSELECT: "Отменить выбор $STATE|Y$".
- MAPMODE_FABRICATE_HAS_CLAIM: "Уже есть претензии на $STATE|Y$".
- MAPMODE_FABRICATE_IS_CORE: "Уже есть претензии на $STATE|Y$".
- MAPMODE_FABRICATE_IS_FABRICATING: "Уже обосновывает претензии на $STATE|Y$".
- MAPMODE_FABRICATE_SELECT: "Выбрать $STATE|Y$".
- MAPMODE_FACTIONS_NAME: "Фракции"
- MAPMODE_FACTIONS: "§YФракционный§! режим карты ".
- MAPMODE_FACTIONS_DESCRIPTION: "Показывает, какие страны присоединились к каким фракциям."
- MAPMODE_DEFAULT_NAME: "Стандартный".
- MAPMODE_DEFAULT: "§HСтандартный§! режим карты"
- MAPMODE_DEFAULT_DESCRIPTION: "Вид на страну и наземные бои.\nПровинция будет окрашена в соответствии с тем, кто контролирует ее в данный момент.\nПолезно для отслеживания хода войны, создания и выполнения военных планов."
- MAPMODE_STATES_NAME: "Региональный"
- MAPMODE_STATES: "§HРегиональный§! режим карты"
- MAPMODE_STATES_DESCRIPTION: "Карта Регионов и типов регионов".
+ MAPMODE_FABRICATE_WRONG_COUNTRY: "Государство: не $COUNTRY|Y$"
+ MAPMODE_FABRICATE_UNSELECT: "Отменить выбор региона $STATE|Y$"
+ MAPMODE_FABRICATE_HAS_CLAIM: "Уже претендует на регион $STATE|Y$"
+ MAPMODE_FABRICATE_IS_CORE: "Уже претендует на регион $STATE|Y$"
+ MAPMODE_FABRICATE_IS_FABRICATING: "Уже обосновывает претензию на регион $STATE|Y$"
+ MAPMODE_FABRICATE_SELECT: "Выбрать регион $STATE|Y$"
+ MAPMODE_FACTIONS_NAME: "Альянсы"
+ MAPMODE_FACTIONS: "Карта §Yальянсов§!"
+ MAPMODE_FACTIONS_DESCRIPTION: "Указывает, в каких альянсах находятся разные государства."
+ MAPMODE_DEFAULT_NAME: "По умолчанию"
+ MAPMODE_DEFAULT: "Режим карты: §Hстандартный§!"
+ MAPMODE_DEFAULT_DESCRIPTION: "Обзор государств и наземных сражений.\nПровинции окрашены в цвета государств, под контролем которых они находятся.\nЭто позволяет следить за ходом войны, а также создавать и реализовывать военные планы."
+ MAPMODE_STATES_NAME: "Регионы"
+ MAPMODE_STATES: "Режим карты: §Hрегионы§!"
+ MAPMODE_STATES_DESCRIPTION: "Карта регионов и их типов."
  MAPMODE_DIPLOMACY_NAME: "Дипломатия"
- MAPMODE_DIPLOMACY: "§HДипломатичный§! режим карты"
- MAPMODE_DIPLOMACY_DESCRIPTION: "Показывает дипломатические отношения и отношение к выбранной в данный момент стране."
- MAPMODE_SUPPLY_AREAS_NAME: "Районы снабжения".
- MAPMODE_SUPPLY_AREAS: "§HРайонно-Снабдительный§! режим карты"
- MAPMODE_SUPPLY_AREAS_DESCRIPTION: "Показывает районы снабжения и информацию о потоке поставок. Это позволяет выявить проблемные зоны и узкие места."
+ MAPMODE_DIPLOMACY: "Режим карты: §Hдипломатия§!"
+ MAPMODE_DIPLOMACY_DESCRIPTION: "Отображает статус дипломатических отношений и мнение относительно выбранного государства."
+ MAPMODE_SUPPLY_AREAS_NAME: "Районы снабжения"
+ MAPMODE_SUPPLY_AREAS: "Режим карты: §Hзоны снабжения§!"
+ MAPMODE_SUPPLY_AREAS_DESCRIPTION: "Отображает зоны снабжения и сведения о ходе поставок. Позволяет выявлять проблемные зоны и узкие места."
  MAPMODE_SUPPLY_MAP_MODE_NAME: "Снабжение"
- MAPMODE_SUPPLY_MAP_MODE: " §HСнабдительный§! режим карты"
- MAPMODE_SUPPLY_MAP_MODE_DESCRIPTION: "Показывает текущую ситуацию со снабжением. Более яркие зеленоватые области имеют больший доступ к снабжению, а фиолетовые - наименьший. Области, где юниты страдают от плохого снабжения, в настоящее время переходят от §YЖелтого§! к §RКрасному§!".
- MAPMODE_STRATEGIC_NAVY_NAME: "Стратегический флот"
- MAPMODE_STRATEGIC_NAVY: "§HСтратегическо-Флотский§! Режим карты"
- MAPMODE_STRATEGIC_NAVY_DESCRIPTION: "Показывает стратегические области и позволяет увидеть, какие морские операции проводятся вашими флотами. \nРегионы, где вы обладаете военно-морским превосходством, показаны зеленым контуром. \nОбласти, отмеченные  §Rкрасной§! полосой находятся вне зоны действия выбранного в данный момент флота."
- MAPMODE_STRATEGIC_AIR_NAME: "Стратегическая авиация"
- MAPMODE_STRATEGIC_AIR: "§HСтратегическо-Воздушный§! режим карты"
- MAPMODE_STRATEGIC_AIR_DESCRIPTION: "Показывает стратегические области и позволяет видеть, какие воздушные операции выполняют ваши самолеты. \n§GЗеленые области§! имеют дружественное превосходство в воздухе, §RКрасные области§! имеют вражеское превосходство в воздухе. \nАэродромы, на которых базируются ваши самолеты, выделены."
+ MAPMODE_SUPPLY_MAP_MODE: "Режим карты: §Hснабжение§!"
+ MAPMODE_SUPPLY_MAP_MODE_DESCRIPTION: "Показывает текущую ситуацию со снабжением. У районов, отмеченных ярко-зеленым цветом, хороший доступ к снабжению, а у пурпурных — минимальный. Районы, где подразделения страдают от недостатка припасов, выделяются цветами от §Yжелтого§! до §Rкрасного§!."
+ MAPMODE_STRATEGIC_NAVY_NAME: "Морской стратегический"
+ MAPMODE_STRATEGIC_NAVY: "Режим карты: §Hморской стратегический§!"
+ MAPMODE_STRATEGIC_NAVY_DESCRIPTION: "Отображает стратегические районы и морские операции, в которых участвуют ваши флоты. \nРайоны, где вы добились превосходства на море, обведены §Gзеленым§!. \nРайоны, отмеченные §Rкрасными§! полосками, находятся за пределами дальности действия выбранного вами флота."
+ MAPMODE_STRATEGIC_AIR_NAME: "Воздушный стратегический"
+ MAPMODE_STRATEGIC_AIR: "Режим карты: §Hвоздушный стратегический§!"
+ MAPMODE_STRATEGIC_AIR_DESCRIPTION: "Отображает стратегические районы и воздушные операции, в которых участвуют ваши самолеты. \nВ §Gзеленых районах§! — союзное превосходство в воздухе, в §Rкрасных районах§! — вражеское. \nАэродромы, где есть ваши самолеты, выделены на карте."
  MAPMODE_RESOURCES_NAME: "Ресурсы"
- MAPMODE_RESOURCES: "§HРесурсный§! режим карты"
- MAPMODE_RESOURCES_DESCRIPTION: "Показывает производство ресурсов по штатам."
+ MAPMODE_RESOURCES: "Режим карты: §Hресурсы§!"
+ MAPMODE_RESOURCES_DESCRIPTION: "Отображает производство ресурсов в каждом регионе."
  MAPMODE_RESISTANCE_NAME: "Сопротивление"
- MAPMODE_RESISTANCE: "Режим карты §HСопротивлений§! "
- MAPMODE_RESISTANCE_DESCRIPTION: "Показывает местное сопротивление на оккупированных территориях. Показывает проблемные места, где вам следует подумать об изменении политики оккупации."
- MAPMODE_COMPLIANCE_NAME: "Подчинение".
- MAPMODE_COMPLIANCE: "Режим карты §HПодчинений§!"
+ MAPMODE_RESISTANCE: "Режим карты: §Hсопротивление§!"
+ MAPMODE_RESISTANCE_DESCRIPTION: "Отображает местное сопротивление в оккупированных областях. Позволяет выявлять проблемные места, где необходимо изменить оккупационную политику."
+ MAPMODE_COMPLIANCE_NAME: "Подчинение"
+ MAPMODE_COMPLIANCE: "Режим карты: §Hподчинение§!"
  MAPMODE_COMPLIANCE_DESCRIPTION: "Отображает местное подчинение в оккупированных областях."
  MAPMODE_PLAYERS_NAME: "Игроки"
- MAPMODE_PLAYERS: "Режим карты §HИгроков§! ".
- MAPMODE_PLAYERS_DESCRIPTION: "Отображает, какая страна контролируется каким игроком."
+ MAPMODE_PLAYERS: "Карта §Hигроков§!"
+ MAPMODE_PLAYERS_DESCRIPTION: "Показывает, какие страны принадлежат различным игрокам."
  MAPMODE_INFRASTRUCTURE_NAME: "Инфраструктура"
- MAPMODE_INFRASTRUCTURE: "§HИнфраструктурный§! режим карты"
- MAPMODE_INFRASTRUCTURE_DESCRIPTION: "Показывает уровень инфраструктуры в каждом штате."
+ MAPMODE_INFRASTRUCTURE: "Режим карты: §Hинфраструктура§!"
+ MAPMODE_INFRASTRUCTURE_DESCRIPTION: "Показывает уровень инфраструктуры в каждом регионе."
  MAPMODE_MANPOWER_NAME: "Население"
- MAPMODE_MANPOWER: "Режим карты §HНаселения§! "
- MAPMODE_MANPOWER_DESCRIPTION: "Показывает количество населения в каждом штате."
+ MAPMODE_MANPOWER: "Режим карты: §HНаселение§!"
+ MAPMODE_MANPOWER_DESCRIPTION: "Показывает численность населения в каждом регионе."
  MAPMODE_IDEOLOGY_NAME: "Идеология"
- MAPMODE_IDEOLOGY: "§HИдеологичный§! режим карты"
- MAPMODE_IDEOLOGY_DESCRIPTION: "Показывает страны по их идеологии."
- MAPMODE_TERRAIN_NAME: "Рельеф"
- MAPMODE_TERRAIN: "§HРельефный§! режим карты"
- MAPMODE_TERRAIN_DESCRIPTION: "Отображает тип местности в виде упрощенных цветов."
- MAPMODE_OPERATIVES_NAME: "Оперативники".
- MAPMODE_OPERATIVES: "§HОперативный§! режим карты"
- MAPMODE_OPERATIVES_DESCRIPTION: "Показать оперативников, их миссии, текущие операции и распространение сети разведки."
- MAPMODE_CONFIGURE: "Настроить любимые режимы карты".
- MAPMODE_ALL: "Открыть окно со всеми возможными режимами карты".
- CONFIG_MAPMODE_DEFAULT: "Сбросить слоты режима карты в состояние по умолчанию"
- MAPMODE_ALL_ENTRY_DETAILS: "§GЩёлкните§! чтобы выбрать.\n§GШёлкните правой кнопкой мыши§! чтобы выбрать и закрыть."
- MAPMODE_TOOLTIP_INFRASTRUCTURE: "£infrastructure_texticon Infrastructure $INF|Y$"
- MAPMODE_TOOLTIP_MANPOWER: "£population_texticon Population $MP|*Y$"
- MAPMODE_CULTURE_MAP_MODE_NAME: "Культуры"
- MAPMODE_CULTURE_MAP_MODE: "§HКультурный§! режим карты"
- MAPMODE_CULTURE_MAP_MODE_DESCRIPTION: "Показывает этническую разбивку населения штатов".
- MAPMODE_RELIGION_MAP_MODE_NAME: "Религия".
- MAPMODE_RELIGION_MAP_MODE: "§HРелигиозный§! режим карты"
- MAPMODE_RELIGION_MAP_MODE_DESCRIPTION: "Показывает религиозное распределение населения штатов."
- culture_map_mode_tooltip: "[FROM.GetSubcultureMapmodeName]".
- religion_map_mode_tooltip: "[FROM.GetReligionMapmodeName]"
- culture_map_mode_tooltip_delayed: "Распределение культур §Y[FROM.GetName]§!:\n[FROM.GetSubcultureMapmodeMaj] Культура§!  [FROM.GetSubcultureMapmodeName] -- [?FROM.state_culture_array_num^0|1%]".
- religion_map_mode_tooltip_delayed: "Распределение религий §Y[FROM.GetName]§!:\n[FROM.GetReligionMapmodeMaj] Религия§! [FROM.GetReligionMapmodeName] -- [?FROM.state_religion_array_num^0|1%]".
- culture_map_mode_majority: "§YБольшинство"
- culture_map_mode_plurality: "§YПлюрализм"
- MAPMODE_DETRIMENTAL_IMPACT_MAP_MODE_NAME: "Пагубное воздействие"
- MAPMODE_DETRIMENTAL_IMPACT_MAP_MODE: "Режим карты §HПагубных Воздействий§! "
- MAPMODE_DETRIMENTAL_IMPACT_MAP_MODE_DESCRIPTION: "Показывает пагубное воздействие, которому подвергся регион".
- detrimental_impact_map_mode_tooltip: "[?FROM.detrimental_colonial_impact_value]"
- detrimental_impact_map_mode_tooltip_delayed: "Пагубное воздействие, понесенное §Y[FROM.GetName]§!".
+ MAPMODE_IDEOLOGY: "Режим карты: §Hидеология§!"
+ MAPMODE_IDEOLOGY_DESCRIPTION: "Показывает идеологию различных стран."
+ MAPMODE_TERRAIN_NAME: "Местность"
+ MAPMODE_TERRAIN: "Режим карты: §Hместность§!"
+ MAPMODE_TERRAIN_DESCRIPTION: "Показывает тип местности, используя упрощенную заливку."
+ MAPMODE_OPERATIVES_NAME: "Агенты"
+ MAPMODE_OPERATIVES: "Режим карты: §Hагенты§!"
+ MAPMODE_OPERATIVES_DESCRIPTION: "Показывать агентов, их задания, текущие операции и скорость распространения разведывательной сети."
+ MAPMODE_CONFIGURE: "Configure favorite map modes" #NT!
+ MAPMODE_ALL: "Открывает окно со всеми доступными режимами карты."
+ CONFIG_MAPMODE_DEFAULT: "Возвращает ячейки режима карты к первоначальному состоянию"
+ MAPMODE_ALL_ENTRY_DETAILS: "§GЩелкните§!, чтобы выбрать.\n§GПравый щелчок§! — выбрать и закрыть."
+ MAPMODE_TOOLTIP_INFRASTRUCTURE: "£infrastructure_texticon  Инфраструктура $INF|Y$"
+ MAPMODE_TOOLTIP_MANPOWER: "£population_texticon  Население $MP|*Y$"
+ MAPMODE_CULTURE_MAP_MODE_NAME: "Cultures" #NT!
+ MAPMODE_CULTURE_MAP_MODE: "§HCulture§! map mode" #NT!
+ MAPMODE_CULTURE_MAP_MODE_DESCRIPTION: "Shows the ethnic breakdown of state populations." #NT!
+ MAPMODE_RELIGION_MAP_MODE_NAME: "Religion" #NT!
+ MAPMODE_RELIGION_MAP_MODE: "§HReligion§! map mode" #NT!
+ MAPMODE_RELIGION_MAP_MODE_DESCRIPTION: "Shows the religious breakdown of state populations." #NT!
+ culture_map_mode_tooltip: "[FROM.GetSubcultureMapmodeName]" #NT!
+ religion_map_mode_tooltip: "[FROM.GetReligionMapmodeName]" #NT!
+ culture_map_mode_tooltip_delayed: "Culture breakdown of §Y[FROM.GetName]§!:\n[FROM.GetSubcultureMapmodeMaj] Culture§!:  [FROM.GetSubcultureMapmodeName] -- [?FROM.state_culture_array_num^0|1%]" #NT!
+ religion_map_mode_tooltip_delayed: "Religion breakdown of §Y[FROM.GetName]§!:\n[FROM.GetReligionMapmodeMaj] Religion§!: [FROM.GetReligionMapmodeName] -- [?FROM.state_religion_array_num^0|1%]" #NT!
+ culture_map_mode_majority: "§YMajority" #NT!
+ culture_map_mode_plurality: "§YPlurality" #NT!
+ MAPMODE_DETRIMENTAL_IMPACT_MAP_MODE_NAME: "Detrimental Impact" #NT!
+ MAPMODE_DETRIMENTAL_IMPACT_MAP_MODE: "§HDetrimental Impact§! map mode" #NT!
+ MAPMODE_DETRIMENTAL_IMPACT_MAP_MODE_DESCRIPTION: "Shows the detrimental impact a state has suffered from." #NT!
+ detrimental_impact_map_mode_tooltip: "[?FROM.detrimental_colonial_impact_value]" #NT!
+ detrimental_impact_map_mode_tooltip_delayed: "Detrimental Impact suffered by §Y[FROM.GetName]§!" #NT!

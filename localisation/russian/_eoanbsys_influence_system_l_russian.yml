@@ -1,35 +1,35 @@
 ﻿l_russian:
-
- INFLUENCE_TOOLTIP_TOPBAR: "§Y[?GetName] Влияние§!".
- DELAYED_INFLUENCE_TOOLTIP_TOPBAR: "Сколько у нас влияния".
- INFLUENCR_TOOLTIP_TOPBAR: "§YОсновной влиятель§!"
- DELAYED_INFLUENCR_TOOLTIP_TOPBAR: "Показывает главного агента влияния и степень влияния этой страны на нашу нацию."
- TOOLTIP_ADD_5_INFLUENCE_ROOT: "[!add_5_influence_root_button]"
- TOOLTIP_ADD_5_INFLUENCE: "[!add_5_influence_button]".
- ALLIANCE_KEY_TITLE: "Предложить альянс"
- ALLIANCE_KEY_ACTION_DESC: "Попросите заключить военный союз с этой страной".
- alliance_key_desc_send_popup: "Военный союз приведет к тому, что мы будем участвовать в их войнах, а они - в наших".
- alliance_key_desc_receive_popup: "[From.GetNameWithFlag] предлагает альянс".
- TOOLTIP_GET_NAME_FLAG: "§Y[?allies_array^i.GetName]§! является союзником §Y[?This.GetName]§!".
- TOOLTIP_DESC_RELATION_ALLY: "§Y[?This.GetName]§! является союзником других стран".
- ALLIANCE_BREAK_KEY_TITLE: "Разорвать союз"
- ALLIANCE_BREAK_KEY_ACTION_DESC: "Разорвать союз с этой страной"
- ALLIANCE_CALL_ALLY_KEY_TITLE: "Призыв к войне"
- ALLIANCE_CALL_ALLY_KEY_ACTION_DESC: "Призвать эту страну помочь нам в наших войнах".
- TOOLTIP_GET_NAME_FLAG2: "§Y[?Root.enemies^i.GetName]§! является врагом"
- TOOLTIP_GET_NAME_FLAG3: "§Y[?This.rival_country.GetNameDef]§! является соперником"
- TOOLTIP_DELAYED_GETNAME_FLAG3: "Эта страна является соперником §Y[?This.GetNameDef]§! и поэтому эти страны будут недолюбливать друг друга и жестко конкурировать друг с другом. Когда вы воюете с соперником, вы получаете улучшение атаки и защиты в этой войне, а также сможете легче заключать союзы с другими странами, которые соперничают с вашим соперником."
- TOOLTIP_GET_NAME_FLAG4: "§Y[?This.most_favoured_country.GetNameDef]§! является страной наибольшего благоприятствования".
- TOOLTIP_DELAYED_GETNAME_FLAG4: "Эта страна является страной наибольшего благоприятствования для §Y[?This.GetNameDef]§! и поэтому эти страны будут нравиться друг другу и будут сотрудничать друг с другом. На страны наибольшего благоприятствования легче влиять, торговать с ними и совершать дипломатические действия."
- most_favoured_country: "Наиболее благоприятствуемая страна"
- rival_country: "Страна-соперник"
- TOOLTIP_ADD_RIVAL: "Добавить §Y[?potential_rivals_array^i.GetName]§! в качестве соперника\n\n\n [GetAddRivalPPCost] Больше законодательной власти, чем §Y[?ppcostaddrival1]§!\n [GetAddRivalRelationsCost] Имеет негативные отношения\n[GetAddRivalTimeoutEffect]"
- TOOLTIP_ADD_RIVAL_YES: "£trigger_yes"
- TOOLTIP_ADD_RIVAL_NO: "£trigger_no"
- TOOLTIP_ADD_RIVAL_COOLDOWN: "§YВы должны ждать 5 лет, пока не сможете изменить свой сопернический статус§!".
- TOOLTIP_GET_NAME_FLAG_RIVAL_ADD: "Добавить §Y[?potential_rivals_array^i.GetName]§! в качестве соперника\n\n\n"
- TOOLTIP_GET_NAME_FLAG_MOST_FAVOURED_ADD: "Добавить §Y[?potential_most_favoured_array^i.GetName]§! как наиболее предпочитаемую страну\n\n\n"
- TOOLTIP_ADD_MOST_FAVOURED: "Добавить §Y[?potential_most_favoured_array^i.GetName]§! как наиболее благоприятную страну\n\n\n [GetAddMostFavouredPPCost] Больше законодательной власти, чем §Y[?ppcostaddmostfavoured1]§!\n [GetAddMostFavouredRelationsCost] Имеет положительные отношения\n[GetAddRivalTimeoutEffect]".
-
- eoanbdiplomacy_rival_war: "Война с соперником"
- eoanbdiplomacy_rival_war_desc: "Мы находимся в состоянии войны с [?rival_country.GetName] и наши люди более мотивированы и полны энтузиазма, чтобы защищать наши земли и, если необходимо, атаковать земли нашего соперника."
+  
+ INFLUENCE_TOOLTIP_TOPBAR: "§Y[?GetName] Influence§!" #NT!
+ DELAYED_INFLUENCE_TOOLTIP_TOPBAR: "How much influence we have." #NT!
+ INFLUENCR_TOOLTIP_TOPBAR: "§YMain Influencer§!" #NT!
+ DELAYED_INFLUENCR_TOOLTIP_TOPBAR: "Shows the main influencer and how much influence that country has over our nation." #NT!
+ TOOLTIP_ADD_5_INFLUENCE_ROOT: "[!add_5_influence_root_button]" #NT!
+ TOOLTIP_ADD_5_INFLUENCE: "[!add_influence_button]" #NT!
+ ALLIANCE_KEY_TITLE: "Propose Alliance" #NT!
+ ALLIANCE_KEY_ACTION_DESC: "Ask to form a military alliance with this country." #NT!
+ alliance_key_desc_send_popup: "A military alliance will cause us to join their wars and them to join our wars." #NT!
+ alliance_key_desc_receive_popup: "[From.GetNameWithFlag] offers an alliance." #NT!
+ TOOLTIP_GET_NAME_FLAG: "§Y[?allies_array^i.GetName]§! is allied with §Y[?This.GetName]§!" #NT!
+ TOOLTIP_DESC_RELATION_ALLY: "§Y[?This.GetName]§! is allied with other countries." #NT!
+ ALLIANCE_BREAK_KEY_TITLE: "Break alliance" #NT!
+ ALLIANCE_BREAK_KEY_ACTION_DESC: "Break our alliance with this country" #NT!
+ ALLIANCE_CALL_ALLY_KEY_TITLE: "Call to Wars" #NT!
+ ALLIANCE_CALL_ALLY_KEY_ACTION_DESC: "Call this country to help us in our wars" #NT!
+ TOOLTIP_GET_NAME_FLAG2: "§Y[?Root.enemies^i.GetName]§! is an enemy" #NT!
+ TOOLTIP_GET_NAME_FLAG3: "§Y[?This.rival_country.GetNameDef]§! is a rival" #NT!
+ TOOLTIP_DELAYED_GETNAME_FLAG3: "This country is a rival to §Y[?This.GetNameDef]§! and therefore these countries will dislike one another and will compete with one another vehemently. When at war with a rival you get improve attack and defense in that war and you will also be able to ally more easily with other nations that rival your rival." #NT!
+ TOOLTIP_GET_NAME_FLAG4: "§Y[?This.most_favoured_country.GetNameDef]§! is a most favored country" #NT!
+ TOOLTIP_DELAYED_GETNAME_FLAG4: "This country is a most favored country to §Y[?This.GetNameDef]§! and therefore these countries will like one another and will cooperate with one another. Most favored countries are easier to influence, trade with and do diplomatic actions." #NT!
+ most_favoured_country: "Most Favored Country" #NT!
+ rival_country: "Rival Country" #NT!
+ TOOLTIP_ADD_RIVAL: "Add the §Y[?potential_rivals_array^i.GetName]§! as a Rival\n\n [GetAddRivalPPCost]  More Legislative Power than §Y[?ppcostaddrival1]§!\n [GetAddRivalRelationsCost]  Has negative relations\n[GetAddRivalTimeoutEffect]" #NT!
+ TOOLTIP_ADD_RIVAL_YES: "£trigger_yes" #NT!
+ TOOLTIP_ADD_RIVAL_NO: "£trigger_no" #NT!
+ TOOLTIP_ADD_RIVAL_COOLDOWN: "§YYou must wait 5 years until you can change your rival§!" #NT!
+ TOOLTIP_GET_NAME_FLAG_RIVAL_ADD: "Add the §Y[?potential_rivals_array^i.GetName]§! as a Rival\n\n" #NT!
+ TOOLTIP_GET_NAME_FLAG_MOST_FAVOURED_ADD: "Add the §Y[?potential_most_favoured_array^i.GetName]§! as a Most Favored Country\n\n" #NT!
+ TOOLTIP_ADD_MOST_FAVOURED: "Add the §Y[?potential_most_favoured_array^i.GetName]§! as a Most Favored Country\n\n [GetAddMostFavouredPPCost]  More Legislative Power than §Y[?ppcostaddmostfavoured1]§!\n [GetAddMostFavouredRelationsCost]  Has positive relations\n[GetAddRivalTimeoutEffect]" #NT!
+  
+ eoanbdiplomacy_rival_war: "War with a Rival" #NT!
+ eoanbdiplomacy_rival_war_desc: "We are at war with [?rival_country.GetName] and our men are more motivated and enthusiastic to defend our lands and if necessary to attack our rival's lands." #NT!

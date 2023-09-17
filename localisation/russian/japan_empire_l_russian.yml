@@ -1,80 +1,80 @@
 ﻿l_russian:
-# Victorian Characters #NT!
- # Emperors #NT!
- JAP_characters_emperor_komei_desc: ""
- # Advisors #NT!
- # Commanders #NT!
- # Admirals #NT!
-# Industrial Characters #NT!
- # Emperors #NT!
- JAP_character_emperor_meiji_desc: "Принц Муцухито родился 3 ноября 1852 года в маленьком домике на участке своего деда по материнской линии в северной части Гёсё. В наше время в культуре считается, что рождение является источником загрязнения, поэтому императорский принц родился не во дворце. Вместо этого обычно члены императорской семьи рождаются рядом с домом отца беременной женщины. В случае с титулованным принцем Сати, его мать, Накаяма Ёсико, была дочерью исполняющего обязанности главного советника Накаяма Тадаясу и наложницей императора Комеи.\n \n \nПоскольку образ жизни императора был настолько скрыт за закрытыми дверями, его юная личность оспаривается. Иногда его считают здоровым и сильным, немного задиристым, и он был исключительно талантлив в сумо. Другие описывают его как хрупкого и часто болеющего. Но сейчас, в его возрасте, он возмужал и вырос и считается достойным лидером народа.\n \n \nМолодой принц родился в эпоху больших перемен в Японии. Эти перемены драматически символизировались в июле 1853 года, когда коммодор Мэтью Перри и его "черные корабли" вошли в гавань Эдо. Их дым скопился высоко вверху, закрыв горизонт над столицей. Впервые, по крайней мере, за 250 лет, сёгунат предпринял весьма необычный шаг - проконсультировался с императорским двором в связи с кризисом, вызванным прибытием Перри. Разговоры о "неравных договорах", отказе от тарифных полномочий и права судить иностранцев в собственных судах, распространились по всей стране. После готовности сёгунов принять эти договоры император Комей был настолько возмущен, что пригрозил отречься от престола - хотя даже для этого действия потребовалось бы согласие сёгуна".
- JAP_characters_emperor_taisho_desc: ""
- JAP_characters_emperor_horihito_desc: ""
- # Advisors #NT!
- # Commanders #NT!
- # Admirals #NT!
-# Modern Characters #NT!
- # Emperors #NT!
- JAP_characters_emperor_akihito_desc: ""
- JAP_characters_emperor_naruhito_desc: ""
- JAP_characters_emperor_fumihito_desc: ""
- JAP_characters_empress_toshi_desc: ""
- JAP_characters_emperor_hisahito_desc: ""
- # Lord of the Privy (Chief of Military) #NT!
- JAP_character_sanjo_sanetomi_desc: ""
-#  : ""
-#  : ""
-#  : ""
-#  : ""
-#  : ""
-#  : ""
-#  : ""
-
-### FOCUS TREE ### #NT!
-imperial_restoration: "Империалисты митингуют за восстановление империи"
-imperial_restoration_desc: ""
-seek_american_support: "Искать Американской поддержки"
-seek_american_support_desc: ""
-rally_imperalists_desc: ""
-raise_imperial_banner: "Поднять имперское знамя"
-raise_imperial_banner_desc: ""
-seek_anglo_aid: "Искать британскую поддержку"
-seek_anglo_aid_desc: ""
-for_the_emperor: "Заручиться политической поддержкой"
-for_the_emperor_desc: ""
-samurai_spirit_western_weapons: "Японский дух - западные технологии"
-samurai_spirit_western_weapons_desc: ""
-request_volunteers: "Требуются срочные добровольцы"
-request_volunteers_desc: ""
-form_regiments: "Формировать временные полки"
-form_regiments_desc: ""
-samurai_officers: "Назначить самураев офицерами"
-samurai_officers_desc: ""
-organize_high_command: "Организовать наше верховное командование"
-organize_high_command_desc: ""
-down_with_the_shogun: "Падение сёгуна. . ."
-down_with_the_shogun_desc: ""
-imperial_victory: ". . . .Тенно Хейка Банзай!"
-imperial_victory_desc: ""
-
-### IDEAS ### #NT!
-raise_imperial_banner_1: "Поднять Имперское Знамя"
-raise_imperial_banner_1_desc: ""
-raise_imperial_banner_2: "Поднять Имперское Знамя"
-raise_imperial_banner_2_desc: ""
-raise_imperial_banner_3: "Поднять Имперское Знамя"
-raise_imperial_banner_3_desc: ""
-raise_imperial_banner_4: "Поднять Имперское Знамя"
-raise_imperial_banner_4_desc: ""
-raise_imperial_banner_5: "Поднять Имперское Знамя"
-raise_imperial_banner_5_desc: ""
-
-### DECISIONS ### #NT!
-JAP_raid_decisions: "Рейды военного времени"
-JAP_raid_decisions_desc: ""
-JAP_raid_kyoto_warehouse: "Рейд на склад Киото"
-JAP_raid_kyoto_warehouse_desc: "Рейд на склад оружия и униформы в Киото"
-JAP_raid_kokura_warehouse: "Рейд на склад Кокура"
-JAP_raid_kokura_warehouse_desc: "Налет на склад оружия в Кокуре"
-JAP_raid_fuushimi_warehouse: "Напасть на склад Фуушими"
-JAP_raid_fuushimi_warehouse_desc: "Налет на склад униформы в Фуусими"
+ # Victorian Characters 
+  # Emperors 
+ JAP_characters_emperor_komei_desc: "" #NT!
+  # Advisors 
+  # Commanders 
+  # Admirals 
+ # Industrial Characters 
+  # Emperors 
+ JAP_character_emperor_meiji_desc: "Prince Mutsuhito was born on November 3rd, 1852, in a small house on his maternal grandfather's property at the north end of the Gosho. In our time, birth is culturally believed to be a source of pollution, so the imperial prince was not born in the palace. Instead, it is common for members of the Imperial Family to be born near the pregnant woman's father's house. In the case of the titled young Prince Sachi, his mother, Nakayama Yoshiko, was the daughter of acting major counselor Nakayama Tadayasu and a concubine to Emperor Kōmei.\n \nDue to the imperial lifestyle being so obscured behind closed doors, his youthful personality is contested. Sometimes he was seen as healthy and strong, somewhat of a bully, and he was exceptionally talented at sumo. Others describe him as delicate and often ill. But at his age now, he has matured and grown and is considered a proper leader of the people.\n \nThe young prince was born into an era of great change in Japan. This change was symbolized dramatically in July 1853, when Commodore Matthew Perry and his "Black Ships" sailed into the harbor at Edo. Their smog piling high up, covering the horizon over the capital. For the first time in at least 250 years, the shogunate took the highly unusual step of consulting with the Imperial Court due to the crisis brought on by Perry's arrival. The talk of "unequal treaties," giving up tariff authority and the right to try foreigners in their own courts, spread throughout the country. After the shōguns' willingness to accept these treaties, Emperor Kōmei was so incensed that he threatened to abdicate—though even this action would have required the consent of the shōgun." #NT!
+ JAP_characters_emperor_taisho_desc: "" #NT!
+ JAP_characters_emperor_horihito_desc: "" #NT!
+  # Advisors 
+  # Commanders 
+  # Admirals 
+ # Modern Characters 
+  # Emperors 
+ JAP_characters_emperor_akihito_desc: "" #NT!
+ JAP_characters_emperor_naruhito_desc: "" #NT!
+ JAP_characters_emperor_fumihito_desc: "" #NT!
+ JAP_characters_empress_toshi_desc: "" #NT!
+ JAP_characters_emperor_hisahito_desc: "" #NT!
+  # Lord of the Privy (Chief of Military) 
+ JAP_character_sanjo_sanetomi_desc: "" #NT!
+ #  : "" #NT!
+ #  : "" #NT!
+ #  : "" #NT!
+ #  : "" #NT!
+ #  : "" #NT!
+ #  : "" #NT!
+ #  : "" #NT!
+  
+ ### FOCUS TREE ### 
+ imperial_restoration: "The Imperialists Rally for Imperial Restoration" #NT!
+ imperial_restoration_desc: "" #NT!
+ seek_american_support: "Seek out American Support" #NT!
+ seek_american_support_desc: "" #NT!
+ rally_imperalists_desc: "" #NT!
+ raise_imperial_banner: "Raise the Imperial Banner" #NT!
+ raise_imperial_banner_desc: "" #NT!
+ seek_anglo_aid: "Seek out British Support" #NT!
+ seek_anglo_aid_desc: "" #NT!
+ for_the_emperor: "Rally Political Support" #NT!
+ for_the_emperor_desc: "" #NT!
+ samurai_spirit_western_weapons: "Japanese Spirit — Western Technology" #NT!
+ samurai_spirit_western_weapons_desc: "" #NT!
+ request_volunteers: "Request Immediate Volunteers" #NT!
+ request_volunteers_desc: "" #NT!
+ form_regiments: "Form Provisional Regiments" #NT!
+ form_regiments_desc: "" #NT!
+ samurai_officers: "Appoint the Samurai into Officers" #NT!
+ samurai_officers_desc: "" #NT!
+ organize_high_command: "Organize our High Command" #NT!
+ organize_high_command_desc: "" #NT!
+ down_with_the_shogun: "The Fall of the Shogun. . ." #NT!
+ down_with_the_shogun_desc: "" #NT!
+ imperial_victory: ". . .Tenno Heika Banzai!" #NT!
+ imperial_victory_desc: "" #NT!
+  
+ ### IDEAS ### 
+ raise_imperial_banner_1: "Raise the Imperial Banner" #NT!
+ raise_imperial_banner_1_desc: "" #NT!
+ raise_imperial_banner_2: "Raise the Imperial Banner" #NT!
+ raise_imperial_banner_2_desc: "" #NT!
+ raise_imperial_banner_3: "Raise the Imperial Banner" #NT!
+ raise_imperial_banner_3_desc: "" #NT!
+ raise_imperial_banner_4: "Raise the Imperial Banner" #NT!
+ raise_imperial_banner_4_desc: "" #NT!
+ raise_imperial_banner_5: "Raise the Imperial Banner" #NT!
+ raise_imperial_banner_5_desc: "" #NT!
+  
+ ### DECISIONS ### 
+ JAP_raid_decisions: "Wartime Raids" #NT!
+ JAP_raid_decisions_desc: "" #NT!
+ JAP_raid_kyoto_warehouse: "Raid Kyoto Warehouse" #NT!
+ JAP_raid_kyoto_warehouse_desc: "Raid the Arms and Uniform Warehouse of Kyoto" #NT!
+ JAP_raid_kokura_warehouse: "Raid Kokura Warehouse" #NT!
+ JAP_raid_kokura_warehouse_desc: "Raid the Arms Warehouse of Kokura" #NT!
+ JAP_raid_fuushimi_warehouse: "Raid Fuushimi Warehouse" #NT!
+ JAP_raid_fuushimi_warehouse_desc: "Raid the Uniform Warehouse of Fuushimi" #NT!

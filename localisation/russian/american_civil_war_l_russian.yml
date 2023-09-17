@@ -1,619 +1,619 @@
 ﻿l_russian:
-# Debug #NT!
- break_the_usa: "Балканизировать Соединенные Штаты"
-
-# Global Flags #NT!
- ACW_American_Civil_War_Start: " §YАмериканская гражданская война§! начинается"
- ACW_American_Civil_War: " §YАмериканская гражданская война§! продолжается"
- ACW_American_Civil_War_Happened: " §YАмериканская гражданская война§! произошла"
- ACW_American_Civil_War_Avoided: " §YАамериканская гражданская война§! была предотвращена"
- ACW_American_Civil_War_Radical_Coup: "§YФС аболиционисты§! подняли восстание против правительства США"
- ACW_Radical_Win: "§YФС аболиционисты§! победили"
- ACW_Radical_Loss: " §YФС аболиционисты§! проиграли"
- ACW_CSA_Independece: " §YКонфедерация§! обрела независимость"
- ACW_CSA_Lost: " §YКонфедерация§! потеряла независимость"
- ACW_Norton_War: " Нортонская война продолжается"
- ACW_Norton_Win: " §YДжошуа Нортон§! победил, став императором Соединенных Штатов"
- ACW_Norton_Loss: " Восстание §YДжошуа Нортона§ было побеждено"
- ACW_Norton_Imprisoned: " §YДжошуа Нортон§! заключен в тюрьму"
- ACW_Houston_Revolt: " §YСэм Хьюстон§! возмущен против Конфедерации"
- ACW_Great_Collapse: " §CСоединённые Штаты Америки§! §Rраспались§!".
- USA_Slavery_Debate_Ongoing: " §YДебаты о рабстве§! §Rпродолжается§!"
- ACW_American_Civil_War_Happened_tt: " §YАмериканская гражданская война§! произошла"
- ACW_Union_Freeing_Slaves: " §YПрокламация об эмансипации§! произошла"
- ACW_Slavery_Forcefully_Freed_Slaves: "Армия Союза освободила рабов в [THIS.GetName]".
-
-# Mechanical Tooltips #NT!
- ACW_Weapons_Count_Get_tt: "§GДобавить [?acw_weapons_count_change]§! §YЗапасов оружия времен Гражданской войны§!".
- ACW_Weapons_Count_Use_tt: "§RИспользовать 1§! §YЗапас оружия гражданской войны§!".
- ACW_Draft_Count_Get_tt: "§GДобавить [?acw_draft_count_change]§! §YПроект гражданской войны§!".
- ACW_Draft_Count_Use_tt: "§RИспользовать 1§! §YПроект гражданской войныв§!"
- acw_colored_regiments_spawn_tt: "§YВолонтерские полки GUSCT будут организованы по всей стране§!"
- ACW_Union_Generals_Join_tt: "§CСоюз§! получит больше генералов!"
- ACW_CSA_Generals_Join_tt: "§GКонфедерация§! получит больше генералов"
-
-# Slavery Debate Decisions #NT!
- USA_Election_of_1860_Mission: "Президентские выборы 1860 года"
- USA_Election_of_1860_Mission_desc: "Выборы 1860 года многие считают самыми значительными за последнее поколение. Результаты выборов могут оказать большое влияние на стабильность и единство нации."
- USA_Election_of_1864_Mission: "Президентские выборы 1864 года"
- USA_Election_of_1864_Mission_desc: "Американские выборы 1864 года"
- USA_Slavery_Debate_Decision_Category: "Дебаты о рабстве"
-USA_Slavery_Debate_Decision_Category_desc: "§YДискуссия о рабстве:§!\n§gС момента основания §CАмериканской Республики§!, §ҮДискуссия о рабстве§! оставалась самой большой точкой внутреннего напряжения и раздора нации. На Континентальном конгрессе отцы-основатели спорили о том, отменить или разрешить эту практику, а спустя десятилетия вопрос о рабстве все еще вносит раздор между соседями и вражду между братьями.\n\n \n[USA_Slavery_Debate_Decision_Category_scripted_locale]"
- USA_Slavery_Debate_Decision_Category_desc2: "Десятилетия компромиссов и проволочек не дали нашей хрупкой республике распасться, но линии разлома, разделяющие Америку, все еще остаются и становятся шире с каждым днем.\n\nПо мере того, как страна продолжает расти, растет и раскол между двумя сторонами в этих дебатах. Дисбаланс штатов приведет к дрейфу §YФедеральной позиции§, а §YНациональная раздробленность§ будет увеличиваться до тех пор, пока вопрос не будет решен окончательно. §RГражданского конфликта§! можно избежать, сохраняя нейтральную позицию §ҮФедерации§! и низкий уровень §ҮНациональной фрагментации§! В настоящее время союз имеет §С[?USA_Slavery_Debate_StateF_Count] Свободные Штаты§! и §С[?USA_Slavery_Debate_StateS_Count] Рабские Штаты§!§!\n\n§WДисбаланс мощности§!  - [USA_slavery_debate_stated_tt]\n\n§WFederal Stance§!  - [USA_slavery_debate_leaning_tt]\n\n§WНациональная Фрагментация§!  - [USA_slavery_debate_tension_tt]"
- USA_Slavery_Debate_Decision_Category_desc3: "Сейчас напряжение между братьями достигло точки кипения. Гражданская война в Америке открыта. Слава Колумбии!".
- USA_Slavery_Debate_Decision_Category_desc4: "Теперь мы должны залечить раны, нанесенные войной. Начните Реконструкцию!"
- USA_slavery_debate_stated_f_tt: "§Y+[?ROOT.USA_Slavery_Debate_StateFD_Count] Свободные Штаты§!"
- USA_slavery_debate_stated_n_tt: "§GБаланс во власти§!"
- USA_slavery_debate_stated_s_tt: "§Y+[?ROOT.USA_Slavery_Debate_StateSD_Count] Рабские Штаты§!"
- USA_slavery_debate_lean_radleft_tt: "§R+[?ROOT.USA_Slavery_Debate_Leaning1] Про-аболиция§!"
- USA_slavery_debate_lean_left_tt: "§Y+[?ROOT.USA_Slavery_Debate_Leaning1] Про-аболиция§!"
- USA_slavery_debate_lean_neutral_tt: "§GНейтральная позиция§!"
- USA_slavery_debate_lean_right_tt: "§Y+[?ROOT.USA_Slavery_Debate_Leaning] Про-рабская§!"
- USA_slavery_debate_lean_radright_tt: "§R+[?ROOT.USA_Slavery_Debate_Leaning] Про-рабская§!"
- USA_slavery_debate_tension_low_tt: "§G[?ROOT.USA_Slavery_Debate_Tension]% Напряжение§!"
- USA_slavery_debate_tension_medium_tt: "§Y[?ROOT.USA_Slavery_Debate_Tension]% Напряжение§!"
- USA_slavery_debate_tension_high_tt: "§R[?ROOT.USA_Slavery_Debate_Tension]% Напряжение§!"
- USA_Slavery_Debate_Rising_Tensions: "Рост напряженности"
- USA_Slavery_Debate_Rising_Tensions_desc: "Вопрос о рабстве продолжает вызывать все большие разногласия между американцами, чем дольше он остается без внимания."
- USA_Slavery_Debate_Rising_Tensions_tt1: "§YНациональная фрагментация§! достигла §G0§!".
- USA_Slavery_Debate_Rising_Tensions_tt2: " §YНациональная фрагментация§! достигла §R100§!"
- USA_Slavery_Debate_Rising_Tensions_ChangeU_tt: " §YНациональная фрагментация§!§R увеличивается на [?USA_Slavery_Debate_Tension_Change]§!"
- USA_Slavery_Debate_Rising_Tensions_ChangeD_tt: "§YНациональная фрагментация§!§G уменьшается на [?USA_Slavery_Debate_Tension_Change1]§!"
- USA_Slavery_Debate_Rising_Leaning_ChangeS_tt: " §YФедеральная позиция§! §RСдвигается на [?USA_Slavery_Debate_Leaning_Change] в сторону про-рабов§!".
- USA_Slavery_Debate_Rising_Leaning_ChangeF_tt: " §YФедеральная позиция§! §RСдвигается на [?USA_Slavery_Debate_Leaning_Change1] в сторону про-аболиционистов§!".
- USA_Slavery_Debate_StateS_Count_Modify_tt: "[Root.GetNameWithFlag]: §C+1 Рабский Штат§!".
+ # Debug 
+ break_the_usa: "Balkanize the United States" #NT!
+  
+ # Global Flags 
+ ACW_American_Civil_War_Start: " §YAmerican Civil War§! is brewing" #NT!
+ ACW_American_Civil_War: " §YAmerican Civil War§! is ongoing" #NT!
+ ACW_American_Civil_War_Happened: " §YAmerican Civil War§! has occurred" #NT!
+ ACW_American_Civil_War_Avoided: " §YAmerican Civil War§! has been avoided" #NT!
+ ACW_American_Civil_War_Radical_Coup: "§YFS Abolitionists§! have revolted against the US Government" #NT!
+ ACW_Radical_Win: " §YFS Abolitionists§! have won" #NT!
+ ACW_Radical_Loss: " §YFS Abolitionists§! have lost" #NT!
+ ACW_CSA_Independece: " §YThe Confederacy§! has gained independence" #NT!
+ ACW_CSA_Lost: " §YThe Confederacy§! has lost independence" #NT!
+ ACW_Norton_War: " Norton War ongoing" #NT!
+ ACW_Norton_Win: " §YJoshua Norton§! has won seceded in becoming Emperor of the United States" #NT!
+ ACW_Norton_Loss: " §YJoshua Norton§!'s rebellion was vanquished" #NT!
+ ACW_Norton_Imprisoned: " §YJoshua Norton§! is imprisoned" #NT!
+ ACW_Houston_Revolt: " §YSam Houston§! is resentful against the Confederacy" #NT!
+ ACW_Great_Collapse: " §CThe United States§! has §Rcollapsed§!" #NT!
+ USA_Slavery_Debate_Ongoing: " §YSlavery Debate§! §Ris ongoing§!" #NT!
+ ACW_American_Civil_War_Happened_tt: " §YAmerican Civil War§! has occurred" #NT!
+ ACW_Union_Freeing_Slaves: " §YEmancipation Proclamation§! has occurred" #NT!
+ ACW_Slavery_Forcefully_Freed_Slaves: "The Union Army has freed slaves in [THIS.GetName]." #NT!
+  
+ # Mechanical Tooltips 
+ ACW_Weapons_Count_Get_tt: "§GAdd [?acw_weapons_count_change]§! §YCivil War Weapons Stockpile§!" #NT!
+ ACW_Weapons_Count_Use_tt: "§RUse 1§! §YCivil War Weapons Stockpile§!" #NT!
+ ACW_Draft_Count_Get_tt: "§GAdd [?acw_draft_count_change]§! §YCivil War Draft§!" #NT!
+ ACW_Draft_Count_Use_tt: "§RUse 1§! §YCivil War Draft§!" #NT!
+ acw_colored_regiments_spawn_tt: "§GUSCT volunteer regiments will organize around the country§!" #NT!
+ ACW_Union_Generals_Join_tt: "§CThe Union§! will gain more generals" #NT!
+ ACW_CSA_Generals_Join_tt: "§GThe Confederacy§! will gain more generals" #NT!
+  
+ # Slavery Debate Decisions 
+ USA_Election_of_1860_Mission: "Presidential Election of 1860" #NT!
+ USA_Election_of_1860_Mission_desc: "The 1860 Election is considered by many to be the most consequential election in a generation. The results of the election could have big implications on the stability and unity of the nation." #NT!
+ USA_Election_of_1864_Mission: "Presidential Election of 1864" #NT!
+ USA_Election_of_1864_Mission_desc: "American Election of 1864" #NT!
+ USA_Slavery_Debate_Decision_Category: "The Debate on Slavery" #NT!
+ USA_Slavery_Debate_Decision_Category_desc: "§YThe Slavery Debate:§!\n§gEver since the founding of the §CAmerican Republic§!, the §YDebate on Slavery§! has remained the nation's greatest point of internal tension and strife. The Founding Fathers clashed on whether to abolish or allow the practice at the Continental Congress, and decades later, the issue of Slavery still cements divisions between neighbors and feuds among brothers.\n \n[USA_Slavery_Debate_Decision_Category_scripted_locale]" #NT!
+ USA_Slavery_Debate_Decision_Category_desc2: "Decades of compromises and delays have kept our fragile republic from fragmenting, but the fault lines that divide the America still remain and grow wider with each day.\n \nAs the country continues to grow, so can the rift between the two aisles of this debate. An imbalance of states will cause drift in §YFederal Stance§!, while §YNational Fragmentation§! will continue to increase until the issue is resolved for good. §RCivil Conflict§! can be avoided by keeping the §YFederal Stance§! neutral and the §YNational Fragmentation§! low. The union currently has §C[?USA_Slavery_Debate_StateF_Count] Free States§! and §C[?USA_Slavery_Debate_StateS_Count] Slave States§!§!.\n \n§WPower Inbalance§!  —  [USA_slavery_debate_stated_tt]\n \n§WFederal Stance§!  —  [USA_slavery_debate_leaning_tt]\n \n§WNational Fragmentation§!  —  [USA_slavery_debate_tension_tt]" #NT!
+ USA_Slavery_Debate_Decision_Category_desc3: "Now, the tensions amongst brethren have reached their boiling point. The American Civil War is open us. Hail Columbia!" #NT!
+ USA_Slavery_Debate_Decision_Category_desc4: "Now, we must heal the wounds from war. Begin Reconstruction!" #NT!
+ USA_slavery_debate_stated_f_tt: "§Y+[?ROOT.USA_Slavery_Debate_StateFD_Count] Free States§!" #NT!
+ USA_slavery_debate_stated_n_tt: "§GBalance in Power§!" #NT!
+ USA_slavery_debate_stated_s_tt: "§Y+[?ROOT.USA_Slavery_Debate_StateSD_Count] Slave States§!" #NT!
+ USA_slavery_debate_lean_radleft_tt: "§R+[?ROOT.USA_Slavery_Debate_Leaning1] Pro-Abolition§!" #NT!
+ USA_slavery_debate_lean_left_tt: "§Y+[?ROOT.USA_Slavery_Debate_Leaning1] Pro-Abolition§!" #NT!
+ USA_slavery_debate_lean_neutral_tt: "§GNeutral Stance§!" #NT!
+ USA_slavery_debate_lean_right_tt: "§Y+[?ROOT.USA_Slavery_Debate_Leaning] Pro-Slavery§!" #NT!
+ USA_slavery_debate_lean_radright_tt: "§R+[?ROOT.USA_Slavery_Debate_Leaning] Pro-Slavery§!" #NT!
+ USA_slavery_debate_tension_low_tt: "§G[?ROOT.USA_Slavery_Debate_Tension]% Tension§!" #NT!
+ USA_slavery_debate_tension_medium_tt: "§Y[?ROOT.USA_Slavery_Debate_Tension]% Tension§!" #NT!
+ USA_slavery_debate_tension_high_tt: "§R[?ROOT.USA_Slavery_Debate_Tension]% Tension§!" #NT!
+ USA_Slavery_Debate_Rising_Tensions: "Rising Tensions" #NT!
+ USA_Slavery_Debate_Rising_Tensions_desc: "The issue of Slavery continues to cause greater rifts between Americans the longer it goes unaddressed." #NT!
+ USA_Slavery_Debate_Rising_Tensions_tt1: " §YNational Fragmentation§! has reached §G0§!" #NT!
+ USA_Slavery_Debate_Rising_Tensions_tt2: " §YNational Fragmentation§! has reached §R100§!" #NT!
+ USA_Slavery_Debate_Rising_Tensions_ChangeU_tt: " §YNational Fragmentation§!§R increases by [?USA_Slavery_Debate_Tension_Change]§!" #NT!
+ USA_Slavery_Debate_Rising_Tensions_ChangeD_tt: " §YNational Fragmentation§!§G decreases by [?USA_Slavery_Debate_Tension_Change1]§!" #NT!
+ USA_Slavery_Debate_Rising_Leaning_ChangeS_tt: " §YFederal Stance§! §Rdrifts by [?USA_Slavery_Debate_Leaning_Change] towards Pro-Slavery§!" #NT!
+ USA_Slavery_Debate_Rising_Leaning_ChangeF_tt: " §YFederal Stance§! §Rdrifts by [?USA_Slavery_Debate_Leaning_Change1] towards Pro-Abolitionists§!" #NT!
+ USA_Slavery_Debate_StateS_Count_Modify_tt: "[Root.GetNameWithFlag]: §C+1 Slave State§!" #NT!
  USA_Slavery_Debate_StateF_Count_Modify_tt: "[Root.GetNameWithFlag]: §C+1 Free State§!" #NT!
- USA_Slavery_Debate_StateS_Count_Modify2_tt: "[Root.GetNameWithFlag]: §C-1 Рабский Штат§!".
+ USA_Slavery_Debate_StateS_Count_Modify2_tt: "[Root.GetNameWithFlag]: §C-1 Slave State§!" #NT!
  USA_Slavery_Debate_StateF_Count_Modify2_tt: "[Root.GetNameWithFlag]: §C-1 Free State§!" #NT!
- USA_Slavery_Debate_Minnesota_Statehood_Mission: "Государственность Миннесоты"
- USA_Slavery_Debate_Oregon_Statehood_Mission: "Государственность Орегона"
- USA_Slavery_Debate_Kansas_Statehood_Mission: "Государственность Канзаса"
- USA_Slavery_Debate_Moderate_Voice: "Умеренные дискуссии о рабстве"
-
-# Slavery Debate Ideas #NT!
- USA_Slavery_Debate_Tension_Modifier: "Отказ от проблемы рабства"
- USA_Slavery_Debate_Tension_Modifier_desc: "С тех пор как отцы-основатели объявили о своей независимости от Великобритании, Соединенные Штаты засунули проблему рабства под ковер. Вместо того чтобы работать над решением, США либо шли на компромисс со штатами, выступающими за и против рабства, либо просто игнорировали этот вопрос, когда это было возможно. Однако, поскольку этот вопрос передается из поколения в поколение, все знают, что однажды он будет полностью решен. Этот день, однако, не сегодня".
- USA_Spirit_Slavery_Debate_Legacy: "Отказ от проблемы рабства"
- USA_Spirit_Slavery_Debate_Legacy_desc: "С тех пор как отцы-основатели объявили о своей независимости от Великобритании, Соединенные Штаты засунули вопрос о рабстве под ковер. Вместо того чтобы работать над решением, США либо шли на компромисс со штатами, выступающими за и против рабства, либо просто игнорировали этот вопрос, когда это было возможно. Однако, поскольку этот вопрос передается из поколения в поколение, все знают, что однажды он будет полностью решен. Этот день, однако, не сегодня".
-
-# American Civil War Decisions #NT!
- ACW_American_Civil_War_Decisions: "Гражданская война в Америке"
- ACW_American_Civil_War_Decisions_desc: "§YГражданская война в Америке:§!\n§gДебаты о рабстве наконец-то достигли точки кипения. Многие штаты больше не признают федеральную власть и отделяются, чтобы создать свои собственные федерации. Судьба Союза поставлена на карту. Америка разделена.[ACW_American_Civil_War_Decisions_descs]§!\n\nОстатки проектов - §Y[?acw_draft_count_left] Проектов§!\n\n \nОстатки оружия - §Y[?acw_weapons_count_left] Запасов§!"
- ACW_American_Civil_War_Decisions_descs_usa_standard: "\n\n \nЧтобы победить восстание §RКонфедерации§!, мы должны восстановить федеральную власть, подчинив себе §YЮжные штаты§! Слава Колумбии!"
- ACW_American_Civil_War_Decisions_descs_csa_standard: "\n\n \nДля достижения §CКонфедеративной Независимости§! мы должны восстановить наш суверенитет, удерживая наши §YЮжные Штаты§! и отгородившись от союза!".
- eoanb_decision_acw_brewing: "Пивоваренная американская гражданская война"
- eoanb_decision_acw_brewing_tt: "§YНачнется американская гражданская война§!".
- eoanb_decision_acw_confiscate_weapons: "Поэтапно конфисковать наши запасы оружия".
-eoanb_decision_acw_at_war_tt: "Участник §YАмериканской гражданской войны§!".
- eoanb_decision_acw_weapons_exhausted_tt: "Имеет более §Y0 запасов оружия§! Осталось"
- eoanb_decision_acw_force_draft: "Федерализировать Национальную гвардию"
- eoanb_decision_acw_force_draft2: "Принять призыв"
- eoanb_decision_acw_draft_exhausted_tt: "Осталось более §Y0 проектов! Осталось"
- eoanb_decision_acw_csa_surrender_to_usa_union: "Прогресс на пути к победе Союза"
- eoanb_decision_acw_csa_surrender_to_usa_dixie: "Прогресс в направлении поражения Дикси"
- eoanb_decision_acw_csa_surrender_to_usa_tx_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[315.GetName]§! (1)"
- eoanb_decision_acw_csa_surrender_to_usa_la_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[371.GetName]§! (1)"
- eoanb_decision_acw_csa_surrender_to_usa_ar_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[372.GetName]§! (1)"
- eoanb_decision_acw_csa_surrender_to_usa_tn_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[368.GetName]§! (2)"
- eoanb_decision_acw_csa_surrender_to_usa_ms_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[370.GetName]§! (2)"
- eoanb_decision_acw_csa_surrender_to_usa_ab_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[367.GetName]§! (2)"
- eoanb_decision_acw_csa_surrender_to_usa_fl_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[366.GetName]§! (1)"
- eoanb_decision_acw_csa_surrender_to_usa_ga_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[365.GetName]§! (3)"
- eoanb_decision_acw_csa_surrender_to_usa_sc_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[364.GetName]§! (3)"
- eoanb_decision_acw_csa_surrender_to_usa_nc_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[363.GetName]§! (1)"
- eoanb_decision_acw_csa_surrender_to_usa_va_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[364.GetName]§! (2)"
- eoanb_decision_acw_usa_surrender_to_csa_union: "Прогресс на пути к поражению Союза"
- eoanb_decision_acw_usa_surrender_to_csa_dixie: "Прогресс в направлении победы Дикси"
- eoanb_decision_acw_usa_surrender_to_csa_gov_tt: "§C[USA.GetNameWithFlag]§! имеет §Y[USA.GetTraditional_ConservatismParty]§! Президента (5)"
- eoanb_decision_acw_usa_surrender_to_csa_or_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[385.GetName]§! (1)"
- eoanb_decision_acw_usa_surrender_to_csa_wa_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[386.GetName]§! (1)"
- eoanb_decision_acw_usa_surrender_to_csa_nv_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[379.GetName]§! (1)"
- eoanb_decision_acw_usa_surrender_to_csa_mo_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[373.GetName]§! (2)"
- eoanb_decision_acw_usa_surrender_to_csa_il_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[395.GetName]§! (3)"
- eoanb_decision_acw_usa_surrender_to_csa_in_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[396.GetName]§! (2)"
- eoanb_decision_acw_usa_surrender_to_csa_oh_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[261.GetName]§! (3)"
- eoanb_decision_acw_usa_surrender_to_csa_md_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[361.GetName]§! (2)"
- eoanb_decision_acw_usa_surrender_to_csa_pn_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[360.GetName]§! (4)"
- eoanb_decision_acw_usa_surrender_to_csa_dc_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[1091.GetName]§! (3)"
- eoanb_decision_acw_usa_surrender_to_csa_nj_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[359.GetName]§! (2)"
- eoanb_decision_acw_usa_surrender_to_csa_ny_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[358.GetName]§! (2)"
- eoanb_decision_acw_usa_surrender_to_csa_li_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[954.GetName]§! (2)"
- eoanb_decision_acw_usa_surrender_to_csa_mc_tt: "§C[USA.GetNameWithFlag]§! контролирует §Y[393.GetName]§! (1)"
- eoanb_decision_acw_cal_surrender_to_usa: "Прогресс на пути к поражению Нортона"
- eoanb_decision_acw_usa_surrender_to_cal: "Прогресс в направлении победы Нортона"
- eoanb_decision_acw_free_blacks: "Освободить рабов Конфедерации"
- eoanb_decision_acw_reform_west_point1: "Реформировать армию Союза"
- eoanb_decision_acw_reform_west_point1_desc: "Стало очевидно, что используемые нами стратегии и оружие устарели".
- eoanb_decision_acw_reform_west_point2: "Реформировать армию Союза"
- eoanb_decision_acw_reform_west_point2_desc: "Стало очевидно, что используемые нами стратегии и оружие устарели".
-
-
-
-# American Civil War Ideas #NT!
- USA_Spirit_Memories_of_Confederation: "Воспоминания о Конфедерации"
- USA_Spirit_Memories_of_Confederation_desc: "Когда мы свергли британский контроль над нашим народом, наша страна столкнулась с величайшим испытанием, с которым она когда-либо сталкивалась, и чуть не погибла из-за этого. Региональность штатов отделяла их друг от друга, порождая соперничество между ними. Это подрывало молодую республику, поскольку штаты отказывались платить налоги, а армия грозила мятежом. Многие считают чудом, что наша нация пережила такие времена, и произошло это благодаря ликвидации Статей Конфедерации и замене их Конституцией. \nОднако было бы неверным утверждать, что идеалы регионализма угасли. Многие в стране считают себя, во-первых, жителями своего штата, во-вторых, своего региона, а в-третьих, американцами. Некоторые по-прежнему считают нас скорее Альянсом, чем нацией. В конце концов, это не "те" Соединенные Штаты, это "эти" Соединенные Штаты".
- USA_Spirit_West_Point_Napoleonic_Thought1: "Вест-Пойнт - Наполеоновская мысль"
- USA_Spirit_West_Point_Napoleonic_Thought1_desc: "Академия Вест-Пойнт стала самой уважаемой и известной военной академией в Соединенных Штатах. Она дала нам великих людей и лидеров, и несет ответственность за способности, которыми обладают наши лидеры. Однако она укоренилась в мышлении наполеоновской эпохи и передает это выпускникам, которые будут продолжать использовать наполеоновскую тактику. Если только великая катастрофа не укажет нам путь, нас ожидает продолжение этого мышления на протяжении десятилетий".
- USA_Spirit_West_Point_Napoleonic_Thought2: "Наполеоновская мысль Вест-Пойнта"
- USA_Spirit_West_Point_Napoleonic_Thought2_desc: "Гражданская война показала нам бедствие мысли наполеоновской эпохи в наши дни. Причина организации наших войск заключалась в неточном оружии, с которым столкнулся Наполеон, но такого оружия давно уже нет. Многие мужчины проливали кровь на полях сражений, потому что мы позволили им стоять в строю по такой старой и бесполезной традиции. Мы должны исправить это и поощрять новое мышление в академии Вест-Пойнт".
- USA_Spirit_West_Point_Napoleonic_Thought3: "Вест-Пойнт наполеоновская мысль"
- USA_Spirit_West_Point_Napoleonic_Thought3_desc: "Гражданская война показала нам бедствие мысли наполеоновской эпохи в наши дни. Причина организации наших войск заключалась в неточном оружии, с которым столкнулся Наполеон, но такого оружия давно уже нет. Многие мужчины проливали кровь на полях сражений, потому что мы позволили им стоять в строю по такой старой и бесполезной традиции. Мы должны исправить это и поощрять новое мышление в академии Вест-Пойнт".
- USA_Spirit_Anti_Irish: "Антиирландские настроения"
- USA_Spirit_Anti_Irish_desc: "Когда Великий голод пронесся по Ирландии в конце 1840-х годов, многие ирландцы решили бежать из своих домов и найти новую жизнь в нашей стране. Однако это привело к росту ксенофобских элементов, осуждающих ирландцев как пьяниц, варваров и антиамериканцев. Религиозный вопрос между протестантами и ирландскими католиками также привел к дискриминации, и ожидается, что эти антиирландские настроения будут сохраняться в течение десятилетий, если только какое-нибудь важное событие не убедит многих американцев в гуманности ирландцев".
- USA_Spirit_Anti_Irish2: "Антиирландские настроения"
- USA_Spirit_Anti_Irish2_desc: "Когда Великий голод пронесся по Ирландии в конце 1840-х годов, многие ирландцы решили бежать из своих домов и найти новую жизнь в нашей стране. Однако это привело к росту ксенофобских элементов, осуждающих ирландцев как пьяниц, варваров и антиамериканцев. Религиозный вопрос между протестантами и ирландскими католиками также привел к дискриминации, и ожидается, что эти антиирландские настроения будут сохраняться в течение десятилетий, если только какое-нибудь важное событие не убедит многих американцев в гуманности ирландцев."
- USA_Spirit_Anti_Irish_ACW: "Антиирландские настроения"
- USA_Spirit_Anti_Irish_ACW_desc: "Когда Великий голод пронесся по Ирландии в конце 1840-х годов, многие ирландцы решили бежать из своих домов и найти новую жизнь в нашей стране. Однако это привело к росту ксенофобских элементов, осуждающих ирландцев как пьяниц, варваров и антиамериканцев. Религиозный вопрос между протестантами и ирландскими католиками также привел к дискриминации, и ожидается, что эти антиирландские настроения будут сохраняться в течение десятилетий, если только какое-нибудь важное событие не убедит многих американцев в гуманности ирландцев".
- USA_Spirit_Southern_Secession_Crisis: "Кризис сецессии Юга"
- USA_Spirit_Southern_Secession_Crisis_desc: "[Root.GetNameDef] нестабилен, и многие штаты - в особенности те, в которых узаконено рабство - активно рассматривают возможность §Южной сецессии§! в ответ на текущую политику, проводимую на федеральном уровне."
- USA_Spirit_Northern_Secession_Crisis: "[Root.GetNameDef] нестабилен, и многие штаты - в особенности те, в которых легализовано рабство - активно рассматривают возможность §Ysecession§! в ответ на текущую политику, проводимую на федеральном уровне."
- USA_Spirit_Northern_Secession_Crisis: "[Root.GetNameDef] нестабилен, и многие штаты - в особенности те, в которых легализовано рабство - активно рассматривают возможность §Ysecession§! в ответ на текущую политику, проводимую на федеральном уровне."
- USA_Spirit_American_Civil_War: "Гражданская война в Америке"
- USA_Spirit_Civil_War_Initial_Disorganize: "Дезорганизованная армия"
- USA_Spirit_Civil_War_Initial_Disorganize_desc: "Многие полагают, что восстание Конфедерации не продлится долго. Гражданские посещают сражения на пикниках, ожидая увидеть полную победу."
- USA_Spirit_ACW_Martial_Law: "Военное положение гражданской войны"
- USA_Revenue_Act_Of_1861: "Закон о доходах 1861 года"
- USA_Spirit_American_Civil_War_Army_Incompetency1: "Некомпетентность армии Союза"
- USA_Spirit_American_Civil_War_Army_Incompetency2: "Некомпетентность армии Союза"
- USA_Spirit_American_Civil_War_Army_Incompetency3: "Некомпетентность армии Союза"
- USA_Spirit_American_Civil_War_Anaconda_Plan: "План Анаконда"
- USA_Spirit_American_Civil_War_Cons: "Призыв в Гражданской войне"
- USA_Spirit_American_Civil_War_Facto: "Сосредоточение снабжения"
- USA_Spirit_American_Civil_War_Indust_1: "Промышленность гражданской войны"
- USA_Spirit_American_Civil_War_Indust_2: "Индустрия гражданской войны"
- USA_Spirit_Civil_War_Attack1: "Планирование нападения"
- USA_Spirit_Civil_War_Attack2: "Подготовка нападения"
- USA_Spirit_Civil_War_Attack3: "Марш любой ценой"
- USA_Spirit_Civil_War_Defend1: "Планирование обороны"
- USA_Spirit_Civil_War_Defend2: "Подготовка обороны"
- USA_Spirit_Civil_War_Defend3: "Secure Ground".
- USA_Spirit_Civil_War_Sea1: "Планирование блокады"
- USA_Spirit_Civil_War_Sea2: "Нагнетание блокады"
- USA_Spirit_Civil_War_Sea3: "Взятие портов"
- USA_the_march_to_the_sea: "Марш к морю"
- USA_the_march_to_the_sea_desc: "Ура! Ура! Мы принесем юбилей!\nУра! Ура! Флаг, который делает вас свободными!\nИ мы пели припев от Атланты до моря!\nПока мы маршировали по Джорджии!"
-
-
-# Generic Events #NT!
- acw_generic.1.t: "Проблема форта Самтер"
- acw_generic.1.d_usa: "Сегодня мы получили тревожные новости. Конфедераты отправили посланника с требованием уступить им Форт Самтер, один из фортов, оставленных Союзом на Юге. Конгресс, а также солдаты, находящиеся в форте, настаивают на том, чтобы форт не был им сдан. \nЕсли мы отправим дипломатического посланника, чтобы обсудить это с Конфедерацией, то мы технически узаконим их незаконное действие по отделению".
- acw_generic.1.d_csa: "Последние следы Союза уходят от нас, но некоторые из них все еще пиявки. Форт Самтер, укрепление у берегов Чарльстона, Южная Каролина, все еще развевается под флагом янки. Нам крайне необходимо овладеть им. \n\nЕсли мы не потребуем форт, иностранные державы будут воспринимать нас как слабаков. Мы должны стремиться к бомбардировке и захвату форта!".
- acw_generic.1.a: "За Дикси!"
- acw_generic.1.b: "Послать дипломатического посланника".
- acw_generic.1.c: "Интересное развитие событий"
- acw_generic.2.t: "Осада форта Самтер"
- acw_generic.2.d_usa: "Прежде чем наша дипломатическая миссия смогла начать переговоры с силами повстанцев, они начали обстрел форта Самтер.\n\nНи одна из сторон не погибла, но война только началась."
- acw_generic.2.d_csa: "Недавно Союз, похоже, послал свой ответ в виде корабля снабжения в форт. Неприемлемый для командующего офицера, окружающего форт, он приказал осадить крепость. \n\nНи одна из сторон не погибла, но война только началась."
- acw_generic.2.d_other: "Силы повстанцев вчера обстреливали и осаждали американские федеральные войска в гавани Чарльстона, Южная Каролина. Плохо оснащенные федеральные войска сдались сами и сдали форт после долгой ночи пушечного обстрела."
- acw_generic.2.a: "Мы больше не можем позволить себе игнорировать мятежников".
- acw_generic.2.b: "Чарльстон в наших руках!".
- acw_generic.2.c: "Американский эксперимент..."
- acw_generic.5.t: "Южные штаты сопротивляются федеральным силам!"
- acw_generic.5.d: "Независимо от того, симпатизируют ли эти штаты Конфедерации или просто хотят сохранить нейтралитет, есть несколько штатов, которые отказали в доступе нашим солдатам!".
- acw_generic.5.d_northrebels: "Многие штаты сейчас изгоняют федеральные войска за пределы своих границ, ссылаясь на то, что Белл - незаконный главнокомандующий!"
- acw_generic.5.a: "Мы должны решить это быстро..."
- acw_generic.5.b: "Приятно слышать..."
- acw_generic.6.t: "Инцидент на границе Союза и Конфедерации!".
- acw_generic.6.d: "Небольшая стычка между формирующимися ополчениями Союза и Конфедерации произошла в Кентукки! Хотя погибших не было, несколько человек были жестоко ранены во время боя!"
- acw_generic.6.a: "Мы заставим их заплатить!"
- acw_generic.7.d: "Небольшая стычка между формирующимися ополчениями Союза и Конфедерации произошла в Миссури! Хотя погибших не было, несколько человек были жестоко ранены во время боя!".
- acw_generic.8.d: "Небольшая стычка между формирующимися ополчениями Союза и Конфедерации произошла в Кентукки! Хотя погибших не было, несколько человек были жестоко ранены во время боя!".
- acw_generic.9.t: "Гражданская война в Америке".
- acw_generic.9.d: "После долгой осады форта Самтер и нескольких стычек напряжение между двумя сторонами наконец-то спало! В нескольких штатах начались бои.\n\nВ нескольких милях от американской столицы армии Севера и Юга встретились в битве при Булл-Ран. Гражданская война в Америке началась".
- acw_generic.9.d_northrebels: "После перерыва в переговорах между администрацией Брекинриджа и лидерами в Вашингтоне напряжение между двумя сторонами наконец-то спало! Начались боевые действия на территории нескольких штатов.\n\nГражданская война в Америке началась."
- acw_generic.9.a: "Мы должны объединить нацию!"
- acw_generic.9.b: "Мы должны бороться за наше дело!"
- acw_generic.9.c: "Начали".
-#  acw_generic.9.t: "Americans mobilize to the front!"
-#  acw_generic.9.d: "Across the United States, men are running to the front for their state's  cause! Only time will tell how this bloody this war will become!"
-#  acw_generic.9.a: "For Freedom!"
- acw_generic.10.t: "Ли присоединяется к Конфедерации!".
- acw_generic.10.d: "Когда наши посланники предложили Роберту Э. Ли стать командующим армией Соединенных Штатов в ответ на восстание Конфедерации, он с сожалением отказался. Он заявил, что, хотя он и желает, чтобы страна осталась целой, он должен следовать воле своего родного штата Вирджиния, который присоединился к делу Конфедерации. Он, а также несколько других офицеров, покинули Союз и теперь возглавляют армии Конфедерации! Получив еще один удар по нашему руководству, мы, безусловно, ощущаем его последствия...".
- acw_generic.10.a: "Проклятье!"
- acw_generic.10.b: "Добро пожаловать, Ли!"
- acw_generic.11.t: "К Рождеству"
- acw_generic.11.d: "Соединенные Штаты были разделены. На Юге мятежная Конфедерация противостоит их бывшей стране на Севере, Соединенным Штатам. Народ объединяется на нашу сторону, и наши силы мобилизуются против врага. Мы либо прольем кровь и умрем, либо встанем и поднимемся!".
- acw_generic.11.a: "Все закончится к Рождеству!"
- acw_generic.12.t: "Мобилизация людей и оборудования!"
- acw_generic.12.d: "Поскольку Гражданская война в Америке, очевидно, длится дольше, чем все ожидали, экономика сейчас частично мобилизована, оружие и техника отправляются на фронт!".
- acw_generic.12.a: "Отлично!"
- acw_generic.14.t: "Офицеры уходят в Конфедерацию!".
- acw_generic.14.d: "Многочисленные офицеры нашей армии Соединенных Штатов перешли на сторону Конфедерации! Ссылаясь на то, что они должны стоять на стороне своих штатов, мы получили несколько писем об отставке из наших вооруженных сил, только для того, чтобы эти люди вступили в ряды Национальной армии Конфедерации!"
- acw_generic.14.a: "Проклятье!"
- acw_generic.15.t: "Крещение огнем"
- acw_generic.15.d: "По всей стране проходят массовые собрания. Сотни тысяч людей поднимают наш флаг, протестуя против отделения Конфедерации и вновь заявляя о своей поддержке Союза. Несмотря на различия между огромными народами этих Соединенных Штатов... нет, огромными народами "Соединенных Штатов". \n\n Мы больше не простая коалиция, мы - нация. Люди больше не считают себя жителями своего штата или своего региона, теперь они считают себя американцами. Мы все американцы, и мы не можем допустить, чтобы этот маяк света и надежды для остального мира погас. Мы не можем позволить этому мерзкому восстанию уничтожить то, за что мы боролись, проливали кровь и умирали! Мы должны осуществить мечты наших отцов-основателей, мы должны объединить эту нацию и вернуть Соединенным Штатам образ города на холме! \n\nКак Христос умер, чтобы сделать людей святыми, так и мы должны умереть, чтобы сделать людей свободными!"
- acw_generic.15.a: "Сплотиться вокруг флага!"
- acw_generic.16.t: "Бывшие офицеры возвращаются в армию!".
- acw_generic.16.d: "Несколько офицеров Союза недавно вернулись в армию в ответ на восстание в Конфедерации! Двумя из них стали Улисс С. Грант, который ранее был вынужден уйти в отставку за пьянство, и Уильям Т. Шерман, который был суперинтендантом Луизианской учебной семинарии и военной академии. Из 200 выпускников Вест-Пойнта, ранее покинувших армию, 102 присоединились к армии Союза, а остальные разбежались в Дикси."
- acw_generic.16.a: "Ура!"
- acw_generic.17.t: "Наблюдая за Гражданской войной в Америке"
- acw_generic.17.d: "Поскольку Гражданская война в Америке продолжается на Западе, некоторые наши военные советники и офицеры отправились на запад, чтобы наблюдать за происходящими там сражениями. Затем они возьмут на заметку некоторые из этих сражений и будут использовать эти знания, чтобы помочь нашей собственной нации".
- acw_generic.17.a: "Отлично!"
- acw_generic.18.t: "Наблюдатели возвращаются"
- acw_generic.18.d: "Поскольку Гражданская война в Америке подходит к концу, наши наблюдатели, которых мы послали, возвращаются, поскольку больше нет войны, за которой нужно наблюдать".
- acw_generic.18.a: "Хорошо".
- acw_generic.19.t: "Наблюдатели возвращаются"
- acw_generic.19.d: "Поскольку мы больше не являемся нейтралами в американской гражданской войне, посылать наблюдателей сейчас практически бессмысленно, так как мы должны вступить в борьбу".
- acw_generic.19.a: "К войне!"
- acw_generic.20.t: "Дело Трента"
- acw_generic.20.d: "Наши шпионы сообщили, что два дипломата Конфедерации находятся на корабле под названием RMS Trent и намереваются отправиться в Европу, чтобы убедить Великобританию и Францию вступить в войну против нас! Некоторые наши советники настаивают на том, чтобы президент приказал захватить этих дипломатов, чтобы убедиться, что они не получат помощь из Европы, однако такое действие может привести к международному инциденту..."
- acw_generic.20.a: "Захватить дипломатов!".
- acw_generic.20.b: "Просто игнорируйте их..."
- acw_generic.21.t: "Наши дипломаты захвачены!".
- acw_generic.21.d: "Вчера наши дипломаты, которых мы отправили в Великобританию и Францию, были захвачены! По пути в Европу они были перехвачены и взяты в плен войсками Союза! Это тревожно, но это может стать толчком, который втянет Европу в войну!".
- acw_generic.21.a: "Проклятие Союзу!"
- acw_generic.22.t: "Дипломаты Конфедерации захвачены!".
- acw_generic.22.d: "Вчера дипломаты Конфедерации, отправленные в Великобританию и Францию, были захвачены! По пути в Европу они были перехвачены и взяты в плен войсками Союза! Многие в Соединенном Королевстве пришли в ярость от этой акции!".
- acw_generic.22.a: "Требуйте возвращения дипломатов!"
- acw_generic.22.b: "О, ну..."
- acw_generic.23.t: "Британский ответ!"
- acw_generic.23.d: "Британцы прислали делегацию с требованием освободить дипломатов Конфедерации, содержащихся в плену, и позволить им отплыть в Европу. В Конгрессе были большие дебаты, но в итоге наш ответ был...".
- acw_generic.23.d_a: "Британцы провели дебаты внутри своей страны, и кажется, что они, наконец, уступили нам. Они еще не ответили на захват дипломатов Конфедерации. Захват дипломатов, похоже, был успешным".
- acw_generic.23.a: "Это их научит!"
- acw_generic.23.b: "... отказываться!"
- acw_generic.23.c: "... принимать!"
- acw_generic.24.t: "Американский ответ!"
- acw_generic.24.d: "Американцы наконец-то прислали нам ответ. Похоже, что они твердо стоят на своем, а нашу делегацию отправили обратно в Лондон с пустыми руками. Похоже, наши требования остались без ответа...".
- acw_generic.24.d_a: "Американцы провели дебаты внутри своей нации, и кажется, что они, наконец, уступили нам. Они ответили на наши требования и, похоже, согласились на освобождение дипломатов Конфедерации."
- acw_generic.24.a: "Это их научит!"
- acw_generic.24.b: "Телеграфируйте Франции! Скажите им, чтобы готовились к войне!"
- acw_generic.24.c: "Просто... неважно".
- acw_generic.25.t: "Британцы просят нашей помощи против США!".
- acw_generic.25.d: "Несколько недель назад дипломаты Конфедерации, отправленные в Великобританию и Францию, были захвачены! По пути в Европу они были перехвачены и взяты в плен войсками Союза. Эти дипломаты были захвачены с британского корабля, и они возражали американцам, захватившим дипломатов. Американцы отклонили предложение британцев освободить дипломатов, и британцы пришли просить нас о помощи в войне против США!".
- acw_generic.25.a: "Нет, мы бы не хотели..."
- acw_generic.25.b: "Мобилизовать силы!"
- acw_generic.26.t: "Французский ответ"
- acw_generic.26.d: "Французы дали нам свой ответ. Они оказали нам полную поддержку, и с их помощью мы сможем убедить парламент вступить в войну против Соединенных Штатов!"
- acw_generic.26.d_a: "Французы ответили, но не так, как мы ожидали. Похоже, что французы не хотят вступать в войну с Соединенными Штатами. Без их поддержки будет трудно убедить парламент добиваться войны против Соединенных Штатов. Однако это все еще возможно...".
- acw_generic.26.a: "Пора заставить американцев заплатить!".
- acw_generic.26.b: "Мы не можем вступить в войну без Франции...".
- acw_generic.26.c: "Будь они оба прокляты! К ВОЙНЕ!"
-
- # Generic Ideas #NT!
- USA_Spirit_American_Civil_War_Player_Nerf: "Нерф игрока АГВ"
- USA_Spirit_American_Civil_War_Player_Nerf_desc: "Вы ведь игрок? Вот несколько нововведений, чтобы сделать Гражданскую войну.... более веселой!".
-
- # Generic Tooltips #NT!
- 01_ACW_GENERIC_tt: "§YВы провозглашаете свою верность Союзу по этому случаю.§!\n"
- 02_ACW_GENERIC_tt: "§RВы демонстрируете свою поддержку Конфедерации.§!\n"
- 03_ACW_GENERIC_tt: "§CСеверу§! §Gпонравится§! это решение.§!\n"
- 04_ACW_GENERIC_tt: "§CСеверу§! §Rне понравится§! это решение.\n"
- 05_ACW_GENERIC_tt: "§GЮгу§! §Gпонравится§! это решение.\n"
- 06_ACW_GENERIC_tt: "§gЮгу§! §Rне понравится§! это решение.\n"
- 07_ACW_GENERIC_tt: "§RГражданская война в Америке началась.§!\n"
- 08_ACW_GENERIC_tt: "§GДаёт§! §YОполчение Гражданской войны.§!\n"
- 09_ACW_GENERIC_tt: "§RВы станете на один шаг ближе к Гражданской войне.§!\n"
- 10_ACW_GENERIC_tt: "§GДаёт§!:\n 30,000 человек\n 7,500 винтовок\n 10,000 Наполеоновской Униформы\n"
- 11_ACW_GENERIC_tt: "§GДаёт§!:\n 18,000 Человек\n 5,000 Винтовок\n 7,500 Наполеоновской Униформы\n"
- 40_ACW_GENERIC_tt: "Вы даете знать государственным деятелям в Уилинге, что признаете их претензии на власть.§!\n"
- 41_ACW_GENERIC_tt: "§YВы ждете, чтобы увидеть, чем обернется их движение.§!\n"
- 42_ACW_GENERIC_tt: "§Y[Root.GetNameDef] официально одобряет референдум.§!\n"
- 43_ACW_GENERIC_tt: "§YВы осуждаете их власть.§!\n"
- 44_ACW_GENERIC_tt: "§RКанавха проведет 14 дней мобилизации перед вступлением в войну!§!\n"
- 45_ACW_GENERIC_tt: "§RВы присоединитесь к движению за отделение.§!\n"
- 21_ACW_LINCOLN_tt: "Наше правительство приложит §Gхорошие усилия§! к нашему поиску."
- 22_ACW_LINCOLN_tt: "Наше правительство приложит §Gбольшие усилия§! к нашему поиску."
- 23_ACW_LINCOLN_tt: "Наше правительство приложит §Yумеренные усилия§! к нашему поиску".
- 24_ACW_LINCOLN_tt: "Наше правительство приложит §Rмаленькие усилия§! к нашему поиску".
-
- # Generic News #NT!
- acw_generic.124.t: "Конфедеративные Штаты Америки"
- acw_generic.124.d_breckinridge: "[USA.GetNameDef] переживает политические потрясения. Демократически избранный президент [USA.GetLeader] был свергнут в результате переворота, и за последние несколько недель на него было совершено два покушения. Его сторонники на Юге осудили эти события и отсутствие действий Союза.\n\nНыне многие штаты, особенно на Юге, рассматривают возможность отделения."
- acw_generic.124.d_douglas: "[USA.GetNameDef] переживает политические потрясения. После прискорбной смерти президента Стивена Дугласа и отсутствия сплоченной администрации, которая могла бы его заменить, многие штаты начали отделяться. Коалиция южных штатов уже откололась, назвав себя Конфедерацией."
- acw_generic.124.d: "[USA.GetNameDef] переживает политические потрясения. Крах доверия между северными Свободными штатами и южными Невольничьими штатами привел к тому, что многие штаты рассматривают возможность отделения."
- acw_generic.124.a: "Не очень хорошо".
- acw_generic.124.b: "Дикси!"
- acw_generic.124.c: "Тревожно".
- acw_generic.124.e: "Неудавшийся эксперимент демократии".
- acw_generic.125.t: "Битва за форт Самтер".
- acw_generic.125.d: "Напряженность между США и непризнанными Штатами Конфедерации достигла точки кипения". \n\nОколо Чарльстона, Южная Каролина, форт Самтер оставался под контролем Союза даже после того, как Южная Каролина провозгласила независимость. После того, как переговоры ни к чему не привели, войска Конфедерации, окружившие форт, открыли огонь. Хотя во время осады никто не погиб, новый президент Соединенных Штатов объявил эту акцию незаконной, а отделение Конфедерации - незаконным действием. \n\n \nВ настоящее время и Союз, и Конфедерация мобилизуют своих солдат на своих границах."
- acw_generic.125.a: "Война теперь неизбежна".
- acw_generic.125.b: "За Союз!"
- acw_generic.125.c: "За Дикси!"
- acw_generic.126.t: "Гражданская война в [USA.GetNameDef]!".
- acw_generic.126.d: "Напряженность между [USA.GetNameDef] и [CSA.GetNameDef] возросла после того, как небольшая стычка, казавшаяся поначалу незначительной, переросла в кровавую! Десятки тысяч людей сейчас мобилизованы по всей стране, сражаясь за свой штат."
- acw_generic.126.a: "Мы должны наблюдать издалека".
- acw_generic.126.b: "За свободу!"
- acw_generic_news.40.t: "Уилингская конвенция"
- acw_generic_news.40.d: "Авторитет Американского Южного Мятежа в южных штатах ставится под сомнение, поскольку многие законодательные органы теперь демонстрируют все большее несогласие с решением штатов об отделении. Крупнейшие из этих "юнионистских" фракций теперь объявили правительство своего штата нелегитимным, создав собственное правительство штата."
- acw_generic_news.40.a: "Новое развитие событий".
- acw_generic_news.41.t: "Контрсецессия в американской гражданской войне".
- acw_generic_news.41.d: "Штат Канавха отделился от американского содружества Вирджиния!"
-
- # Lincoln Events #NT!
- acw_generic.33.t: "Победная речь Линкольна"
- acw_generic.33.d: "Шокирующее избрание кандидата-аболициониста Авраама Линкольна потрясло основы страны. Хотя Линкольн проводил кампанию за прекращение экспансии рабства, его мнение о конечной судьбе нынешних рабовладельческих государств осталось неясным. Многие в партии Линкольна, республиканцы, призывают к полной отмене рабства, в то время как многие другие в центре опасаются, что любые дальнейшие действия, направленные на вражду с Югом, могут привести к еще большему расколу и беспорядкам.\n\nЧто должно быть темой в речи Линкольна?"
- acw_generic.33.a: "Подчеркнуть, что его администрация стремится к единству".
- acw_generic.33.b: "Апеллировать исключительно к своей базе и коллегам".
- acw_generic.34.t: "Реакция на речь Линкольна".
- acw_generic.34.d: "Хотя некоторые напряженные моменты по всей стране были сняты объединяющей речью Линкольна, две отдельные стороны дебатов о рабстве, южные демократы и радикальные республиканцы, становятся все более расколотыми.\n\n \n Некоторые советники Линкольна говорят, что он должен продолжать преуменьшать свою поддержку аболиционистов, но другие утверждают, что южные демократы никогда не пойдут на поводу у разума, и что Линкольн должен сосредоточиться на своей собственной базе."
- acw_generic.34.a: "Убедиться, что наша партия нас поддерживает".
- acw_generic.35.d: "После речи Линкольна напряженность только возросла, поскольку многие южане беспокоятся о том, что станет с американским рабством".
- acw_generic.35.a: "Прискорбно".
- acw_generic.36.t: "Стивен провозглашает поддержку Линкольну!".
- acw_generic.36.d: "В шаге, который кажется искренним, бывший политический соперник Стивен Дуглас, бывший кандидат от демократов-северян, объявил о своей полной поддержке избранного президента Линкольна.\n\n\n'Америка должна быть едина. Мы должны победить эти разногласия", - сказал Стивен в своей речи. Хотя многие по всей стране видят в Дугласе объединяющую фигуру, напряженность, возникшая после избрания Линкольна, окажется непреодолимой."
- acw_generic.36.a: "Превосходно!"
- acw_generic.37.t: "Инаугурация Авраама Линкольна".
- acw_generic.37.d: "Ранее сегодня новый президент Авраам Линкольн был приведен к присяге в качестве президента Соединенных Штатов. В своей инаугурационной речи он утверждал, что Конституция создала более совершенный союз, чем Статьи Конфедерации, и что отделение Юга должно быть названо незаконным. Он призывает к тому, чтобы Союз был крепким, иначе Американский эксперимент погибнет".
- acw_generic.37.a: "Вдохновляющие слова"
- acw_generic.38.t: "Балтиморский заговор"
- acw_generic.38.d: "Национальное детективное агентство раскрыло заговор с целью убийства избранного президента Авраама Линкольна".
- acw_generic.39.t: "Одна ночь в театре Форда".
+ USA_Slavery_Debate_Minnesota_Statehood_Mission: "Statehood of Minnesota" #NT!
+ USA_Slavery_Debate_Oregon_Statehood_Mission: "Statehood of Oregon" #NT!
+ USA_Slavery_Debate_Kansas_Statehood_Mission: "Statehood of Kansas" #NT!
+ USA_Slavery_Debate_Moderate_Voice: "Moderate Slavery Discussions" #NT!
+  
+ # Slavery Debate Ideas 
+ USA_Slavery_Debate_Tension_Modifier: "Dismissed Slavery Issue" #NT!
+ USA_Slavery_Debate_Tension_Modifier_desc: "Ever since the Founding Fathers declared their Independence from Britain, the United States has shoved the issue of Slavery under the carpet. Instead of working on a solution, the USA either worked towards compromising with Pro and Anti Slavery states or just ignored the issue whenever possible. However, with the issue being handed down from generation to generation, everyone knows that one day the issue will be fully decided upon. That day, however, is not today." #NT!
+ USA_Spirit_Slavery_Debate_Legacy: "Dismissed Slavery Issue" #NT!
+ USA_Spirit_Slavery_Debate_Legacy_desc: "Ever since the Founding Fathers declared their Independence from Britain, the United States has shoved the issue of Slavery under the carpet. Instead of working on a solution, the USA either worked towards compromising with Pro and Anti Slavery states or just ignored the issue whenever possible. However, with the issue being handed down from generation to generation, everyone knows that one day the issue will be fully decided upon. That day, however, is not today." #NT!
+  
+ # American Civil War Decisions 
+ ACW_American_Civil_War_Decisions: "The American Civil War" #NT!
+ ACW_American_Civil_War_Decisions_desc: "§YThe American Civil War:§!\n§gThe Debate over Slavery has finally reached its boiling point. Many states are no longer recognizing Federal Authority and are seceding to form their own federations. The fate of the union is at stake. America is divided.[ACW_American_Civil_War_Decisions_descs]§!\n \nRemaining Drafts  —  §Y[?acw_draft_count_left] Drafts§!\n \nRemaining Weapons  —  §Y[?acw_weapons_count_left] Stockpiles§!" #NT!
+ ACW_American_Civil_War_Decisions_descs_usa_standard: "\n \nTo defeat the §RConfederate Rebellion§!, we must re-establish federal authority by subjugating the §YSouthern States§!. Hail Columbia!" #NT!
+ ACW_American_Civil_War_Decisions_descs_csa_standard: "\n \nTo achieve the §CConfederate Independence§!, we must re-establish our sovereignity by holding our §YSouthern States§! and fending of the union!" #NT!
+ eoanb_decision_acw_brewing: "The Brewing American Civil War" #NT!
+ eoanb_decision_acw_brewing_tt: "§YThe American Civil War§! will begin." #NT!
+ eoanb_decision_acw_confiscate_weapons: "Phase in our Weapon Stockpiles" #NT!
+ eoanb_decision_acw_at_war_tt: " Participant in §Ythe American Civil War§!" #NT!
+ eoanb_decision_acw_weapons_exhausted_tt: " Has more than §Y0 Stockpile§! Remaining" #NT!
+ eoanb_decision_acw_force_draft: "Federalize National Guard" #NT!
+ eoanb_decision_acw_force_draft2: "Enact a Draft" #NT!
+ eoanb_decision_acw_draft_exhausted_tt: " Has more than §Y0 Draft§! Remaining" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_union: "Progress toward a Union Victory" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_dixie: "Progress toward a Dixie Defeat" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_tx_tt: "§C[USA.GetNameWithFlag]§! controls §Y[315.GetName]§! (1)" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_la_tt: "§C[USA.GetNameWithFlag]§! controls §Y[371.GetName]§! (1)" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_ar_tt: "§C[USA.GetNameWithFlag]§! controls §Y[372.GetName]§! (1)" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_tn_tt: "§C[USA.GetNameWithFlag]§! controls §Y[368.GetName]§! (2)" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_ms_tt: "§C[USA.GetNameWithFlag]§! controls §Y[370.GetName]§! (2)" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_ab_tt: "§C[USA.GetNameWithFlag]§! controls §Y[367.GetName]§! (2)" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_fl_tt: "§C[USA.GetNameWithFlag]§! controls §Y[366.GetName]§! (1)" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_ga_tt: "§C[USA.GetNameWithFlag]§! controls §Y[365.GetName]§! (3)" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_sc_tt: "§C[USA.GetNameWithFlag]§! controls §Y[364.GetName]§! (3)" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_nc_tt: "§C[USA.GetNameWithFlag]§! controls §Y[363.GetName]§! (1)" #NT!
+ eoanb_decision_acw_csa_surrender_to_usa_va_tt: "§C[USA.GetNameWithFlag]§! controls §Y[364.GetName]§! (2)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_union: "Progress toward Union Defeat" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_dixie: "Progress toward Dixie Victory" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_gov_tt: "§C[USA.GetNameWithFlag]§! has a §Y[USA.GetTraditional_ConservatismParty]§! President (5)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_or_tt: "§C[USA.GetNameWithFlag]§! controls §Y[385.GetName]§! (1)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_wa_tt: "§C[USA.GetNameWithFlag]§! controls §Y[386.GetName]§! (1)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_nv_tt: "§C[USA.GetNameWithFlag]§! controls §Y[379.GetName]§! (1)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_mo_tt: "§C[USA.GetNameWithFlag]§! controls §Y[373.GetName]§! (2)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_il_tt: "§C[USA.GetNameWithFlag]§! controls §Y[395.GetName]§! (3)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_in_tt: "§C[USA.GetNameWithFlag]§! controls §Y[396.GetName]§! (2)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_oh_tt: "§C[USA.GetNameWithFlag]§! controls §Y[261.GetName]§! (3)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_md_tt: "§C[USA.GetNameWithFlag]§! controls §Y[361.GetName]§! (2)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_pn_tt: "§C[USA.GetNameWithFlag]§! controls §Y[360.GetName]§! (4)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_dc_tt: "§C[USA.GetNameWithFlag]§! controls §Y[1091.GetName]§! (3)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_nj_tt: "§C[USA.GetNameWithFlag]§! controls §Y[359.GetName]§! (2)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_ny_tt: "§C[USA.GetNameWithFlag]§! controls §Y[358.GetName]§! (2)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_li_tt: "§C[USA.GetNameWithFlag]§! controls §Y[954.GetName]§! (2)" #NT!
+ eoanb_decision_acw_usa_surrender_to_csa_mc_tt: "§C[USA.GetNameWithFlag]§! controls §Y[393.GetName]§! (1)" #NT!
+ eoanb_decision_acw_cal_surrender_to_usa: "Progress toward Norton Defeat" #NT!
+ eoanb_decision_acw_usa_surrender_to_cal: "Progress toward Norton Victory" #NT!
+ eoanb_decision_acw_free_blacks: "Free Confederate Slaves" #NT!
+ eoanb_decision_acw_reform_west_point1: "Reform the Union Army" #NT!
+ eoanb_decision_acw_reform_west_point1_desc: "It has become evident that the strategies and weaponry we employ are out-of-date." #NT!
+ eoanb_decision_acw_reform_west_point2: "Reform the Union Army" #NT!
+ eoanb_decision_acw_reform_west_point2_desc: "It has become evident that the strategies and weaponry we employ are out-of-date." #NT!
+  
+  
+  
+ # American Civil War Ideas 
+ USA_Spirit_Memories_of_Confederation: "Memories of the Confederation" #NT!
+ USA_Spirit_Memories_of_Confederation_desc: "When we toppled British control over our people, our country faced its greatest challenge it had yet faced, and nearly died because of it. The regionalism of the states separated them from each other, creating rivalries between themselves. This tore into the young republic, as states refused to pay taxes and the army was threatening to mutiny. Many consider it a miracle that our nation survived such times, and it was because of the disposal of the Articles of Confederation, and its replacement by the Constitution. \n \nHowever, it would be an incorrect statement to say the regionalist ideals died out. Many within the country first consider themselves of their state, secondly of their region, and thirdly as an American. Some still see us as more of an Alliance, rather than a nation. After all, it is not 'the' United States, it is 'these' United States." #NT!
+ USA_Spirit_West_Point_Napoleonic_Thought1: "West Point Napoleonic Thought" #NT!
+ USA_Spirit_West_Point_Napoleonic_Thought1_desc: "West Point Academy has grown to become the most esteemed and well-known military academy in the United States. They have given us great men and leaders, and is responsible for the abilities our leaders possess. However, it is entrenched in Napoleonic Era thought, and passes this on to the graduates who will continue to use Napoleonic tactics. Unless a great catastrophe shows us the way, we are expected to see this thought continue through the decades." #NT!
+ USA_Spirit_West_Point_Napoleonic_Thought2: "West Point Napoleonic Thought" #NT!
+ USA_Spirit_West_Point_Napoleonic_Thought2_desc: "The Civil War has shown us the calamity of Napoleonic Era thought in the modern day. The reason for the organization of our forces was because of the inaccurate weapons that Napoleon faced, but such weapons are long gone. Many men bled on the fields because we allowed them to stand in lines in such an old and useless tradition. We must rectify this, and encourage new thought at West Point Academy." #NT!
+ USA_Spirit_West_Point_Napoleonic_Thought3: "West Point Napoleonic Thought" #NT!
+ USA_Spirit_West_Point_Napoleonic_Thought3_desc: "The Civil War has shown us the calamity of Napoleonic Era thought in the modern day. The reason for the organization of our forces was because of the inaccurate weapons that Napoleon faced, but such weapons are long gone. Many men bled on the fields because we allowed them to stand in lines in such an old and useless tradition. We must rectify this, and encourage new thought at West Point Academy." #NT!
+ USA_Spirit_Anti_Irish: "Anti-Irish Sentiment" #NT!
+ USA_Spirit_Anti_Irish_desc: "As the Great Famine tore through Ireland in the late 1840s, many Irish had decided to flee from their homes and find a new life in our nation. However, this has led to a rise of xenophobic elements condemning the Irish as drunkards, barbaric, and anti-American. The religious issue between the Protestants and the Irish Catholics has also lead to discrimination, and it is expected that this Anti-Irish sentiment will continue strongly for decades unless some major event can convince many Americans of the humanity of the Irish." #NT!
+ USA_Spirit_Anti_Irish2: "Anti-Irish Sentiment" #NT!
+ USA_Spirit_Anti_Irish2_desc: "As the Great Famine tore through Ireland in the late 1840s, many Irish had decided to flee from their homes and find a new life in our nation. However, this has led to a rise of xenophobic elements condemning the Irish as drunkards, barbaric, and anti-American. The religious issue between the Protestants and the Irish Catholics has also lead to discrimination, and it is expected that this Anti-Irish sentiment will continue strongly for decades unless some major event can convince many Americans of the humanity of the Irish." #NT!
+ USA_Spirit_Anti_Irish_ACW: "Anti-Irish Sentiment" #NT!
+ USA_Spirit_Anti_Irish_ACW_desc: "As the Great Famine tore through Ireland in the late 1840s, many Irish had decided to flee from their homes and find a new life in our nation. However, this has led to a rise of xenophobic elements condemning the Irish as drunkards, barbaric, and anti-American. The religious issue between the Protestants and the Irish Catholics has also lead to discrimination, and it is expected that this Anti-Irish sentiment will continue strongly for decades unless some major event can convince many Americans of the humanity of the Irish." #NT!
+ USA_Spirit_Southern_Secession_Crisis: "Southern Secession Crisis" #NT!
+ USA_Spirit_Southern_Secession_Crisis_desc: "[Root.GetNameDef] is unstable and many states — in particular ones that have legalized slavery — are actively considering §Ysecession§! in response to current policies pursued on the federal level." #NT!
+ USA_Spirit_Northern_Secession_Crisis: "Northern Secession Crisis" #NT!
+ USA_Spirit_Northern_Secession_Crisis: "[Root.GetNameDef] is unstable and many states — in particular ones that have legalized slavery — are actively considering §Ysecession§! in response to current policies pursued on the federal level." #NT!
+ USA_Spirit_American_Civil_War: "The American Civil War" #NT!
+ USA_Spirit_Civil_War_Initial_Disorganize: "Disorganized Military" #NT!
+ USA_Spirit_Civil_War_Initial_Disorganize_desc: "Many are under the assumption that the rebellion by the Confederacy is one that will not last long. Civilians attend the battles in picnics, expecting to see full victory." #NT!
+ USA_Spirit_ACW_Martial_Law: "Civil War Martial Law" #NT!
+ USA_Revenue_Act_Of_1861: "Revenue Act of 1861" #NT!
+ USA_Spirit_American_Civil_War_Army_Incompetency1: "Union Army Incompetency" #NT!
+ USA_Spirit_American_Civil_War_Army_Incompetency2: "Union Army Incompetency" #NT!
+ USA_Spirit_American_Civil_War_Army_Incompetency3: "Union Army Incompetency" #NT!
+ USA_Spirit_American_Civil_War_Anaconda_Plan: "The Anaconda Plan" #NT!
+ USA_Spirit_American_Civil_War_Cons: "Civil War Conscription" #NT!
+ USA_Spirit_American_Civil_War_Facto: "Supply Focus" #NT!
+ USA_Spirit_American_Civil_War_Indust_1: "Civil War Industry" #NT!
+ USA_Spirit_American_Civil_War_Indust_2: "Civil War Industry" #NT!
+ USA_Spirit_Civil_War_Attack1: "Planning Assault" #NT!
+ USA_Spirit_Civil_War_Attack2: "Preparing Assault" #NT!
+ USA_Spirit_Civil_War_Attack3: "March at all Costs" #NT!
+ USA_Spirit_Civil_War_Defend1: "Planning Defense" #NT!
+ USA_Spirit_Civil_War_Defend2: "Preparing Defense" #NT!
+ USA_Spirit_Civil_War_Defend3: "Secure Ground" #NT!
+ USA_Spirit_Civil_War_Sea1: "Planning Blockade" #NT!
+ USA_Spirit_Civil_War_Sea2: "Pressing Blockade" #NT!
+ USA_Spirit_Civil_War_Sea3: "Take the Ports" #NT!
+ USA_the_march_to_the_sea: "The March To The Sea" #NT!
+ USA_the_march_to_the_sea_desc: "Hurrah! Hurrah! We bring the jubilee!\nHurrah! Hurrah! The flag that makes you free!\nSo we sang the chorus from Atlanta to the sea!\nWhile we were marching through Georgia!" #NT!
+  
+  
+ # Generic Events 
+ acw_generic.1.t: "The Fort Sumter Issue" #NT!
+ acw_generic.1.d_usa: "We have received alarming news today. The Confederates have sent an envoy demanding that Fort Sumter, one of the forts the Union has left in the South, to be ceded to them. Congress, as well as the soldiers in the fort, are adamant that the fort not be surrendered to them. \n \nIf we send a Diplomatic Envoy to discuss this with the Confederacy, then we are technically legitimizing their illegal action of secession." #NT!
+ acw_generic.1.d_csa: "The last traces of the Union are being swept away from us, but some of it still leeches onto us. Fort Sumter, a fortification off the coast of Charleston, South Carolina, still waves the Yankee flag. It is imperative that we gain control of it. \n \nIf we do not demand the fort, we will be perceived as Weak by foreign powers. We should look to bombard and take the fort!" #NT!
+ acw_generic.1.a: "For Dixie!" #NT!
+ acw_generic.1.b: "Send a Diplomatic Envoy." #NT!
+ acw_generic.1.c: "An Interesting Development" #NT!
+ acw_generic.2.t: "Siege on Fort Sumter" #NT!
+ acw_generic.2.d_usa: "Before our diplomatic mission could start negotiating with the rebel forces, they have begun firing upon Fort Sumter.\n \nNo lives on either side were lost, but the War has only just begun." #NT!
+ acw_generic.2.d_csa: "Recently the Union seems to have sent their reply in the form of a supply ship to the fort. Unacceptable to the commanding officer surrounding the fort, he ordered a siege on the Fortress. \n \nNo lives on either side were lost, but the War has only just begun." #NT!
+ acw_generic.2.d_other: "Rebel forces bombarded and sieged an American Federal force yesterday in Charleston harbor, South Carolina. The ill-equipped federal troops have surrendered themselves and the fort after a long night of cannon fire." #NT!
+ acw_generic.2.a: "We can no longer afford to ignore the rebels." #NT!
+ acw_generic.2.b: "Charleston is in our hands!" #NT!
+ acw_generic.2.c: "The American Experiment..." #NT!
+ acw_generic.5.t: "Southern States resist Federal Forces!" #NT!
+ acw_generic.5.d: "Be it that they states hold sympathies for the Confederacy, or that they simply wish to remain neutral, there are several states that have refused access to our soldiers!" #NT!
+ acw_generic.5.d_northrebels: "Many states are now ejecting federal troops out of their border, citing that Bell is an illegitimate Commander-in-Chief!" #NT!
+ acw_generic.5.a: "We need to solve this quickly..." #NT!
+ acw_generic.5.b: "Great to hear..." #NT!
+ acw_generic.6.t: "Incident on the Union-Confederate Border!" #NT!
+ acw_generic.6.d: "A small skirmish between forming union and confederate militias took in Kentucky! While there were no deaths, several were brutally injured during the fight!" #NT!
+ acw_generic.6.a: "We will make them pay!" #NT!
+ acw_generic.7.d: "A small skirmish between forming union and confederate militias took in Missouri! While there were no deaths, several were brutally injured during the fight!" #NT!
+ acw_generic.8.d: "A small skirmish between forming union and confederate militias took in Kentucky! While there were no deaths, several were brutally injured during the fight!" #NT!
+ acw_generic.9.t: "The American Civil War." #NT!
+ acw_generic.9.d: "After a long siege of Fort Sumter and a handful of skirmishes, the tension between the two sides has finally broke! Fighting has begun across multiple states.\n \nMiles outside the American Capital, the armies of the North and South met at the Battle of Bull Run. The American Civil War has begun." #NT!
+ acw_generic.9.d_northrebels: "After a break in negotiations between the Breckinridge administration and leaders in Washington, the tension between the two sides has finally broke! Fighting has begun across multiple states.\n\nThe American Civil War has begun" #NT!
+ acw_generic.9.a: "We must unite the nation!" #NT!
+ acw_generic.9.b: "We must fight for our cause!" #NT!
+ acw_generic.9.c: "Here we go." #NT!
+ #  acw_generic.9.t: "Americans mobilize to the front!" #NT!
+ #  acw_generic.9.d: "Across the United States, men are running to the front for their state's  cause! Only time will tell how this bloody this war will become!" #NT!
+ #  acw_generic.9.a: "For Freedom!" #NT!
+ acw_generic.10.t: "Lee Joins the Confederacy!" #NT!
+ acw_generic.10.d: "When our messengers offered Robert E. Lee to become the Commander of the United States Army in response to the Confederate uprising, he sadly refused. He stated that although he desired for the country to remain intact, he had to follow the will of his home state of Virginia, who joined the Confederate cause. He, as well as several other officers, have left the Union and are now leading the Confederate Armies! With another blow to our leadership, we are certainly feeling its effects..." #NT!
+ acw_generic.10.a: "Damn!" #NT!
+ acw_generic.10.b: "Welcome, Lee!" #NT!
+ acw_generic.11.t: "Over by Christmas" #NT!
+ acw_generic.11.d: "The United States has been divided. To the South, the rebellious Confederacy stands opposed to their former country in the North, the United States. The people are rallying to our cause, and our forces are mobilizing against the foe. We either bleed and die or we stand and rise!" #NT!
+ acw_generic.11.a: "It will be over by Christmas!" #NT!
+ acw_generic.12.t: "Mobilization of Men & Equipment!" #NT!
+ acw_generic.12.d: "With the American Civil War evidently lasting longer than any expected, the economy is now being partially mobilized, weaponry and equipment being sent to the front!" #NT!
+ acw_generic.12.a: "Great!" #NT!
+ acw_generic.14.t: "Officers Leave for the Confederacy!" #NT!
+ acw_generic.14.d: "Numerous officers of our United States Army have defected to the Confederacy! Citing that they must stand with their states, we have received several letters of resignation from our armed forces, only for such men to join the ranks of the Confederate National Army!" #NT!
+ acw_generic.14.a: "Damn!" #NT!
+ acw_generic.15.t: "Baptism by Fire" #NT!
+ acw_generic.15.d: "Around the country, mass gatherings are sweeping the nation. Hundreds of Thousands fly our flag, protesting the secession of the Confederacy and reaffirming their support for the Union. Despite the differences between the vast peoples of these United States... no, the vast people of 'the' United States. \n \nWe are not just a simple coalition anymore, we are a nation. The people no longer firstly see themselves as of their state or of their region, they now see themselves as Americans. We are all Americans, and we cannot let this beacon of light and hope for the rest of the world be snuffed out. We cannot let this abomination of an uprising destroy what we have fought, bled, and died for! We must realize the dreams of our Founding Fathers, we must unite this nation and return the United States to that of a city upon a hill! \n \nAs Christ died to make men holy, we shall die to make men free!" #NT!
+ acw_generic.15.a: "Rally around the flag!" #NT!
+ acw_generic.16.t: "Former Officers Rejoin the Army!" #NT!
+ acw_generic.16.d: "Several Union officers have recently rejoined the Army in response to the uprising in the Confederacy! Two of the leaders were Ulysses S. Grant, who was previously forced to retire for his drunkenness, and William T. Sherman, who was superintendent at the Louisiana Seminary of Learning & Military Academy. Of the 200 West Point Graduates that previously left the army, 102 joined the Union Army, while the rest scattered to the Dixies." #NT!
+ acw_generic.16.a: "Hoorah!" #NT!
+ acw_generic.17.t: "Observing the American Civil War" #NT!
+ acw_generic.17.d: "As the American Civil War rages on in the West, some of our military advisors and officers have gone west in order to observe the battles that are taking place there. They will then take note of some of these battles and will use this knowledge to help our own nation." #NT!
+ acw_generic.17.a: "Great!" #NT!
+ acw_generic.18.t: "Observers return" #NT!
+ acw_generic.18.d: "As the American Civil War draws to a close, our observers that we had sent over are now coming back, as there is no more war to observe." #NT!
+ acw_generic.18.a: "Alright." #NT!
+ acw_generic.19.t: "Observers return" #NT!
+ acw_generic.19.d: "As we are no longer neutral in the American Civil War, sending observers would be practically pointless now, as we now must join the fight." #NT!
+ acw_generic.19.a: "To war!" #NT!
+ acw_generic.20.t: "The Trent Affair" #NT!
+ acw_generic.20.d: "Our spies have reported that two Confederate Diplomats are on a ship, named the RMS Trent, and are intended on sailing to Europe in order to convince the United Kingdom and France into joining the war against us! Some of our advisors have pushed for the President to order a capture of these Diplomats in order to make sure they do not get aid from Europe, however such an action may lead to an international incident..." #NT!
+ acw_generic.20.a: "Capture the diplomats!" #NT!
+ acw_generic.20.b: "Just ignore them..." #NT!
+ acw_generic.21.t: "Our Diplomats Captured!" #NT!
+ acw_generic.21.d: "Yesterday, our Diplomats that we sent to the United Kingdom and France had been captured! En route to Europe, they were intercepted and captured by Union forces! This is concerning, but it may be the push that will bring Europe into the war!" #NT!
+ acw_generic.21.a: "Curse the Union!" #NT!
+ acw_generic.22.t: "Confederate Diplomats Captured!" #NT!
+ acw_generic.22.d: "Yesterday, Confederate Diplomats that were sent to the United Kingdom and France had been captured! En route to Europe, they were intercepted and captured by Union forces! Many in the United Kingdom have become infuriated by this action!" #NT!
+ acw_generic.22.a: "Demand the Diplomats returned!" #NT!
+ acw_generic.22.b: "Oh, well..." #NT!
+ acw_generic.23.t: "British Response!" #NT!
+ acw_generic.23.d: "The British have sent a delegation, demanding that the Confederate Diplomats kept in captivity are to be released and allowed to sail to Europe. There was a great debate in Congress, but eventually, our reply was..." #NT!
+ acw_generic.23.d_a: "The British have had a debate within their nation, and it seems as though they have finally succumbed to us. They have yet to respond to the capture of the Confederate Diplomats. The capture of the diplomats have seemed to be a success." #NT!
+ acw_generic.23.a: "That will teach them!" #NT!
+ acw_generic.23.b: "... to Refuse!" #NT!
+ acw_generic.23.c: "... to Accept!" #NT!
+ acw_generic.24.t: "American Response!" #NT!
+ acw_generic.24.d: "The Americans have finally sent us a reply. It seems like they have stood firm, with our delegation being sent back to London empty-handed. It seems our demands have fallen on deaf ears..." #NT!
+ acw_generic.24.d_a: "The Americans have had a debate within their nation, and it seems as though they have finally succumbed to us. They have responded to our demands, and have seemed to have accepted the release of the Confederate Diplomats." #NT!
+ acw_generic.24.a: "That will teach them!" #NT!
+ acw_generic.24.b: "Telegram France! Tell them to prepare for War!" #NT!
+ acw_generic.24.c: "Just... nevermind." #NT!
+ acw_generic.25.t: "British Ask For Our Aid Against the USA!" #NT!
+ acw_generic.25.d: "Some weeks ago, Confederate Diplomats that were sent to the United Kingdom and France had been captured! En route to Europe, they were intercepted and captured by Union forces. These diplomats were taken from a British ship, and they have been objecting to the Americans who had captured the Diplomats. The Americans have refused an offer by the British to release the Diplomats, and the British have come to ask us for aid in a war against the USA!" #NT!
+ acw_generic.25.a: "No, we'd rather not..." #NT!
+ acw_generic.25.b: "Mobilise Forces!" #NT!
+ acw_generic.26.t: "French Response" #NT!
+ acw_generic.26.d: "The French has given us their response. They have given us their full support, and with their aid, we can convince Parliament to go to war against the United States!" #NT!
+ acw_generic.26.d_a: "The French have responded, but not in the way we expected. It seems like the French are not willing to go to war with the United States. Without their support, it will be hard to convince Parliament to push for war against the United States. It may still be possible, however..." #NT!
+ acw_generic.26.a: "Time to make the Americans pay!" #NT!
+ acw_generic.26.b: "We can't go to war without France..." #NT!
+ acw_generic.26.c: "Damn them both! TO WAR!" #NT!
+  
+  # Generic Ideas 
+ USA_Spirit_American_Civil_War_Player_Nerf: "ACW Player Nerf" #NT!
+ USA_Spirit_American_Civil_War_Player_Nerf_desc: "You're a player right? Here's a few nerfs to make the Civil War.... more fun!" #NT!
+  
+  # Generic Tooltips 
+ 01_ACW_GENERIC_tt: "§YYou proclaim your loyalty to the Union on this occasion.§!\n" #NT!
+ 02_ACW_GENERIC_tt: "§RYou show your support for the Confederacy.§!\n" #NT!
+ 03_ACW_GENERIC_tt: "The §CNorth§! will §Glike§! this decision.\n" #NT!
+ 04_ACW_GENERIC_tt: "The §CNorth§! will §Rnot like§! this decision.\n" #NT!
+ 05_ACW_GENERIC_tt: "The §gSouth§! will §Glike§! this decision.\n" #NT!
+ 06_ACW_GENERIC_tt: "The §gSouth§! will §Rnot like§! this decision.\n" #NT!
+ 07_ACW_GENERIC_tt: "§RThe American Civil War has started.§!\n" #NT!
+ 08_ACW_GENERIC_tt: "§GGain§!: §YCivil War Militia.§!\n" #NT!
+ 09_ACW_GENERIC_tt: "§RWill will be one move closer to Civil War.§!\n" #NT!
+ 10_ACW_GENERIC_tt: "§GGain§!:\n 30,000 Manpower\n 7,500 Rifles\n 10,000 Napoleonic Uniform\n" #NT!
+ 11_ACW_GENERIC_tt: "§GGain§!:\n 18,000 Manpower\n 5,000 Rifles\n 7,500 Napoleonic Uniform\n" #NT!
+ 40_ACW_GENERIC_tt: "§YYou let the statesmen in Wheeling know you acknowledge their claims of authority.§!\n" #NT!
+ 41_ACW_GENERIC_tt: "§YYou wait to see how their movement pans out.§!\n" #NT!
+ 42_ACW_GENERIC_tt: "§Y[Root.GetNameDef] officially endorses the referendum.§!\n" #NT!
+ 43_ACW_GENERIC_tt: "§YYou denounce their authority.§!\n" #NT!
+ 44_ACW_GENERIC_tt: "§RKanawha will spend 14 days mobilizing before joining the war!§!\n" #NT!
+ 45_ACW_GENERIC_tt: "§RYou will join this secession movement.§!\n" #NT!
+ 21_ACW_LINCOLN_tt: "Our government will put in §GGreat Effort§! into our search." #NT!
+ 22_ACW_LINCOLN_tt: "Our government will put in §GBig Effort§! into our search." #NT!
+ 23_ACW_LINCOLN_tt: "Our government will put in §YModerate Effort§! into our search." #NT!
+ 24_ACW_LINCOLN_tt: "Our government will put in §RLittle Effort§! into our search." #NT!
+  
+  # Generic News 
+ acw_generic.124.t: "The Confederate States of America" #NT!
+ acw_generic.124.d_breckinridge: "[USA.GetNameDef] is in political turmoil. The democratically elected president, [USA.GetLeader] was ousted in a coup and has been threatened with two separate assassination attempts in the last few weeks. His supporters in the South have denounced these events and the lack of Union action.\n\nNow, many states, particularly those in the South are considering secession." #NT!
+ acw_generic.124.d_douglas: "[USA.GetNameDef] is in political turmoil. After the unfortunate death to President Stephen Douglas and the lack of a cohesive administration to replace him, many states are now seceding. Already, the coalition of Southern States have broken off, calling themselves the Confederacy." #NT!
+ acw_generic.124.d: "[USA.GetNameDef] is in political turmoil. A collapse in trust between the northern Free States and the southern Slave States have amounted to many states considering secession." #NT!
+ acw_generic.124.a: "Not good." #NT!
+ acw_generic.124.b: "Dixie!" #NT!
+ acw_generic.124.c: "Worrisome." #NT!
+ acw_generic.124.e: "The failed experiment of democracy." #NT!
+ acw_generic.125.t: "Battle of Fort Sumter" #NT!
+ acw_generic.125.d: "The tensions between the United States and the unrecognized Confederate States has reached a boiling point. \n \nOutside of Charleston, South Carolina, Fort Sumter has remained under Union control even after South Carolina declared independence. After negotiation talks went nowhere, the Confederate Forces that surrounded the Fort opened fire. Although there would be no deaths in the siege, the new President of the United States has declared the action illegal and the secession of the Confederacy to be an illegal action. \n \nBoth Union and Confederacy are now mobilizing their soldiers on their the borders." #NT!
+ acw_generic.125.a: "War is now inevitable." #NT!
+ acw_generic.125.b: "For Union!" #NT!
+ acw_generic.125.c: "For Dixie!" #NT!
+ acw_generic.126.t: "Civil War in [USA.GetNameDef]!" #NT!
+ acw_generic.126.d: "Tensions between [USA.GetNameDef] and [CSA.GetNameDef] broke after what seemed at first to be a small skirmish turned bloody! Tens of thousands are now mobilizing across the country, fighting for their state." #NT!
+ acw_generic.126.a: "We must watch from afar." #NT!
+ acw_generic.126.b: "For freedom!" #NT!
+ acw_generic_news.40.t: "The Wheeling Convention" #NT!
+ acw_generic_news.40.d: "The American Southern Rebellion's authority in the Southern States are coming into question as many legislatures are now showing increasing dissent in the state's decision to secede. The largest of these 'Unionist' factions, have now declared their own state government has illegitimate, setting up their own state government." #NT!
+ acw_generic_news.40.a: "A new development." #NT!
+ acw_generic_news.41.t: "Counter-Secession in American Civil War" #NT!
+ acw_generic_news.41.d: "The State of Kanawha has split off from the American Commonwealth of Virginia!" #NT!
+  
+  # Lincoln Events 
+ acw_generic.33.t: "Lincoln's Victory Speech" #NT!
+ acw_generic.33.d: "The shocking election of Abolitionist Candidate Abraham Lincoln has rocked the foundation of the country. While Lincoln had campaign for ending the expansion of Slavery, his message on the eventual fate of current Slave States is unclear. Many within Lincoln's party, the Republicans, are calling for the full abolition of Slavery, while many others in the center are fearful that any more action to antagonize the South could lead to greater division and unrest.\n \nWhat should be the theme in Lincoln's acceptance speech?" #NT!
+ acw_generic.33.a: "Emphasize his administration's goal for unity." #NT!
+ acw_generic.33.b: "Appeal solely to his base and colleagues." #NT!
+ acw_generic.34.t: "Response to Lincoln's Speech" #NT!
+ acw_generic.34.d: "While some of the tensions across the country were put to ease by Lincoln's unifying speech, the two separate sides of the Slavery Debate, the Southern Democrats and Radical Republicans are becoming ever more divisive.\n \nSome of Lincoln's advisors are saying that he should continue to downplay his abolitionist support, but others argue that Southern Democrats will never see to reason and that Lincoln should focus on his own base instead." #NT!
+ acw_generic.34.a: "Ensure our party supports us." #NT!
+ acw_generic.35.d: "Tensions have only risen since Lincoln's speech as many from the South worry what would become of American Slavery." #NT!
+ acw_generic.35.a: "Unfortunate." #NT!
+ acw_generic.36.t: "Stephen proclaims support for Lincoln!" #NT!
+ acw_generic.36.d: "In a move that feels genuine, former political rival Stephen Douglas, the former North Democrat Nominee, announced his full support for President-Elect Lincoln.\n\n'America must stand united. We must triumph over these divisions' Stephen said in a speech. While many across the country see Douglas as a unifying figure, the tensions that have spawned from Lincoln's election be prove to be insurmountable." #NT!
+ acw_generic.36.a: "Excellent!" #NT!
+ acw_generic.37.t: "Abraham Lincoln Inaugurated" #NT!
+ acw_generic.37.d: "Earlier today, the new President Abraham Lincoln was sworn in as President of the United States. In his inaugural address, he argued that the Constitution created a more perfect union than the Articles of Confederation, and that the secession of the South be called illegal. He calls for the Union to be strong, or else the American Experiment will die." #NT!
+ acw_generic.37.a: "Inspiring Words" #NT!
+ acw_generic.38.t: "The Baltimore Plot" #NT!
+ acw_generic.38.d: "The National Detective Agency unraveled a plot to assassinate President-Elect Abraham Lincoln." #NT!
+ acw_generic.39.t: "One Night in Ford's Theater" #NT!
  acw_generic.39.d: "It was late into the night as the carriage arrived, as the astute President exited with his wife, as well as Major Henry Rathbone and his fiancée Clara Harris, who had accepted an invitation by the Presidential couple to attend the theater with them. After helping Mary out of the carriage, the party entered and settled into their box in the Theater. As they arrived, the play was interrupted by the orchestra who played 'Hail to the Chief' as the 1,700 attendants applauded. \n \nIt was a bright and elaborate play, giving their all to ensure the President would love such a play. The bright lights and beauty of such a performance was astonishing. \n \nAs the intermission came, the party talked with one another within the Box, and refreshed themselves. They did notice that their policeman John Frederick Parker, who was assigned to guarding the president's box, was missing. However, it was assumed that he had simply gone to the tavern for a drink, and be back shortly. \n \nThen, after the intermission, the infamous line played 'Well, I guess I know enough to turn you inside out, old gal; you sockdologizing old man-trap!'. The audience burst into laughter at one of the best lines in the play, including the presidential party, as Rathbone turned to see the President wheezing with laughter. It was a loud and hilarious atmosphere... \n \nLoud enough to drown out the creaking door behind the President." #NT!
- acw_generic.39.a: "Хахаха! Это было уморительно!"
- acw_generic.39.b: "Господин президент! За вами!"
- acw_generic.40.t: "Охота на убийцу Линкольна!".
- acw_generic.40.d: "Убийца Авраама Линкольна, идентифицированный как Джон Уилкс Бут, скрылся с места преступления в разгар паники, вызванной хаосом, которая возникла в последние минуты жизни Линкольна.\n\n Теперь он на свободе. Как мы должны действовать?"
- acw_generic.40.a: "Поиск Уилкса Бута - наш главный приоритет".
- acw_generic.40.b: "Поиск Уилкса Бута является главным приоритетом".
- acw_generic.40.c: "Предупредить правоохранительные органы по всей стране".
- acw_generic.40.e: "Выдвинуть только несколько агентов. Мы должны сосредоточиться на восстановлении страны".
- acw_generic.41.d: "По штатам разнеслась шокирующая новость о том, что Авраам Линкольн, спаситель Союза, умер. Он был застрелен во время спектакля в театре Форда, и теперь нацией управляет его вице-президент Эндрю Джонсон. Теперь он должен решить, как мы должны преследовать и наказать заговорщика Джона Уилкса Бута".
- acw_generic.41.a: "Убейте его!"
- acw_generic.41.b: "Провести суд"
- acw_generic.42.t: "Уилкс Бут сбежал!".
- acw_generic.42.d: "Поступило сообщение, что наши агенты слишком поздно начали преследование убийцы Джона Уилкса Бута. Он сбежал через южную границу".
- acw_generic.42.a: "Взрыв!"
- acw_generic.44.t:0 "Уинфилд Скотт уходит в отставку"
- acw_generic.44.desc:0 "После 53 лет службы в армии США генерал Уинфилд Скотт, известный как "великий старик армии", официально ушел в отставку с поста генерал-командующего армией США. В своем заявлении об отставке он ссылается на множество причин, главной из которых является ухудшение здоровья. Хотя вскользь упоминается и разочарование нежеланием президента прислушиваться к его советам по военным вопросам.\n\nНеобходимо сказать, что отставка Скотта является одновременно ожидаемой и неожиданной для человека, который верно служил на протяжении 53 долгих лет своей жизни. Его служба, несомненно, будет почитаться и уважаться будущими поколениями".
- acw_generic.44.a:0 "Его будет очень не хватать".
- acw_generic.45.t:0 "Джон Э. Вул уходит на пенсию"
- acw_generic.45.desc:0 "Как и недавно вышедший в отставку Уинфилд Скотт, Джон Э. Вул является давним членом армии Соединенных Штатов. Прослужив более 51 года, он провел на службе почти столько же времени, сколько и Скотт, с разницей всего в два года. Несмотря на его успехи в некоторых недавних сражениях, возраст генерала настигает его, и, даже если ему это не нравится, его преклонный возраст скоро станет обузой для армии."
- acw_generic.45.a:0 "Он прослужил достаточно долго. Дайте ему отдохнуть".
-
- # Breckinridge Events #NT!
- acw_generic.80.t: "Победная речь Брекинриджа"
- acw_generic.80.d: "После недавней победы Джона Брекинриджа на выборах 1860 года многие районы Севера крайне недовольны тем, в каком направлении движется страна. Будучи свободными штатами, они все обеспокоены прорабовладельческой риторикой Брекинриджа во время предвыборной кампании, особенно его поддержкой распространения рабства на территории и, возможно, за их пределы. В связи с предстоящей победной речью, некоторые советники предлагают избранному президенту взять более мягкий тон в вопросе расширения рабства, в то время как другие говорят, что раз мы выиграли выборы, нам не нужно искать поддержки у северян".
- acw_generic.80.a: "Занять более мягкий тон"
- acw_generic.80.b: "Они проиграли. Мы победили. Кого волнует, что они думают?"
- acw_generic.81.t: "Дуглас, Белл и Линкольн призывают к единству!".
- acw_generic.81.d: "После беспрецедентного избрания вице-президента Джона К. Брекинриджа многие города на севере были охвачены протестами или откровенными беспорядками. Больше всего пострадали Филадельфия, Бостон и Колумбус. Другие кандидаты в президенты, Дуглас, Белл и Линкольн, призвали к прекращению беспорядков, призывая своих сторонников встать на сторону демократии и союза!".
- acw_generic.81.a: "Слава Колумбии!"
- acw_generic.82.t: "Протесты по всей Новой Англии"
- acw_generic.82.d: "Протесты прокатились по всему крайнему северу на последней неделе после победы на выборах вице-президента Джона К. Брекинриджа. Хотя большинство собраний оставались мирными, более крупные протесты переросли в беспорядки в Уорчестере, штат Массачусетс, и Бангоре, штат Массачусетс, после того, как федеральные силы вступили в бой с силами аболиционистов".
- acw_generic.82.a: "Эти смутьяны!"
- acw_generic.83.t: "14 погибших во время беспорядков в Колумбусе"
-
- # Douglas Events #NT!
- acw_generic.46.t: "Стивен о рабстве"
- acw_generic.46.d: "Хотя сам Стивен Дуглас не является рабовладельцем, его жена им является. В ходе предвыборной кампании Дуглас подвергался резкой критике как за слишком мягкое отношение к рабству, так и за слишком суровое. Он должен прояснить свою позицию".
- acw_generic.46.a: "Мы должны отменить рабство".
- acw_generic.46.b: "Мы должны продолжать искать компромисс".
- acw_generic.46.c: "Это не работа федерального правительства".
- acw_generic.47.t: "Южане на грани"
- acw_generic.47.d: "Южане по всей стране все больше осознают, что они в меньшинстве. Оба северных кандидата в последней кампании, Авраам Линкольн и президент Дуглас, обошли бывшего вице-президента Джона Брекинриджа по количеству голосов."
- acw_generic.47.a: "Мы обеспечим статус-кво".
- acw_generic.47.b: "Таков путь демократии".
- acw_generic.48.t: "Другие кандидаты демонстрируют поддержку"
- acw_generic.48.d: "Другие кандидаты, Джон Белл, Авраам Линкольн и Джон Брекинридж, выступили в поддержку Стивена Дугласа в надежде объединить страну, охваченную напряжением".
- acw_generic.48.d_1: "Другие кандидаты, Джон Белл и Авраам Линкольн, выступили в поддержку Стивена Дугласа в надежде объединить страну, увязшую в напряжении. Но Джон К. Брекинридж, бывший вице-президент, на которого многие равняются на Юге, хранит молчание."
- acw_generic.48.a: "[Root.GetNameDef] будет стоять!".
- acw_generic.49.t: "Инаугурация Стивена Дугласа".
- acw_generic.49.d: "Ранее сегодня новый президент Стивен Дуглас был приведен к присяге в качестве президента Соединенных Штатов. В своей инаугурационной речи он утверждает, что Конституция создала баланс между властью штатов и федеральной властью, и что необходимо решить проблему отделения Юга. Он призывает к тому, чтобы Союз был сильным, иначе американский эксперимент погибнет".
- acw_generic.49.a: "Вдохновляющие слова"
- acw_generic.50.t: "Исполнительный указ: Акт о народном суверенитете"
- acw_generic.50.d: "В первом предложении Стивена А. Дугласа в Конгресс он предложил Акт о народном суверенитете, который позволял западным территориям самим решать, хотят ли они рабства или нет. Несмотря на активные попытки провести его через Конгресс, представители республиканцев и демократов отказались согласовать законопроект. После чего президент Дуглас объявил его действующим посредством исполнительного приказа, что вызвало протесты в Конгрессе и по всей стране."
- acw_generic.50.a: "Принять закон!"
- acw_generic.51.t: "Поездка Дугласа по стране".
- acw_generic.51.d: "В условиях, когда вокруг него сплошная оппозиция, Дуглас решил отправиться в турне по стране. Его цель - распространить свою поддержку и, надеюсь, помочь избежать потенциальной гражданской войны."
- acw_generic.51.a: "Будем надеяться, что это сработает...".
- acw_generic.52.t: "Стивен Дуглас посещает Мэриленд!"
- acw_generic.52.d: "Президент на этой неделе посетил штат Мэриленд!".
- acw_generic.52.a: "Погода была прекрасной".
- acw_generic.53.t: "Стивен Дуглас посетил Пенсильванию!".
- acw_generic.53.d: "Президент на этой неделе посетил штат Пенсильвания!".
- acw_generic.54.t: "Стивен Дуглас посетил Огайо!".
- acw_generic.54.d: "Президент на этой неделе посетил штат Огайо!".
- acw_generic.55.t: "Стивен Дуглас посещает Кентукки!".
- acw_generic.55.d: "Президент на этой неделе посетил штат Кентукки!".
- acw_generic.56.t: "Стивен Дуглас посещает Теннесси!".
- acw_generic.56.d: "Президент на этой неделе посетил штат Теннесси!".
- acw_generic.57.t: "Президент плохо себя чувствует"
- acw_generic.57.d: "По дороге на юг из Нэшвилла президент начал жаловаться на плохое самочувствие. Несмотря на это, он упорно продолжает завершать свое турне, чтобы обеспечить безопасность нации. Должны ли мы попросить его отдохнуть или продолжать следовать графику?".
- acw_generic.57.a: "Найдите президенту врача".
- acw_generic.57.b: "Это просто головная боль".
- acw_generic.58.t: "Дуглас госпитализирован!"
- acw_generic.58.d: "Состояние президента ухудшилось за последние два дня. Поэтому его доставили к лучшим врачам Нэшвилла".
- acw_generic.58.a: "Теперь мы можем только молиться".
- acw_generic.59.t: "Президент мертв!"
- acw_generic.59.d: "Стивен Дуглас мертв! В то время как он пытался продолжить выполнение графика Национальной поездки, его болезнь становилась все хуже и хуже. Вскоре он потерял сознание и был прикован к постели, когда пытался произнести речь перед толпой вблизи Чаттаноги. Вскоре стало ясно, что у него брюшной тиф, но к этому моменту он был слишком ослаблен. Он умер на следующий день после того, как ему поставили диагноз. \n\nЭта смерть вызвала бурную реакцию в Конгрессе, который с течением времени все больше и больше разделялся. Теперь вице-президент Уильям Гершель приведен к присяге, чтобы стать следующим президентом Соединенных Штатов."
- acw_generic.59.d_Hospitalized: "Стивен Дуглас умер! Пролежав несколько дней в больнице в Нэшвилле, президент скончался во сне после того, как накануне утром ему поставили диагноз "тифозная лихорадка". \n\nЭта смерть вызвала бурную реакцию в Конгрессе, который с течением времени все больше и больше разделялся. Теперь вице-президент Уильям Гершель приведен к присяге, чтобы стать следующим президентом Соединенных Штатов."
- acw_generic.59.a: "Ужасно!"
- acw_generic.60.t: "Президент Гершель убит!".
- acw_generic.60.d: "Во время митинга у Белого дома к постаменту подошел человек по имени Бенджамин Тейлор. Он попросил внимания президента, чтобы задать вопрос. Когда президент обратил на него внимание, Тейлор трижды выстрелил из пистолета. Если первый выстрел, к счастью, был пойман пьедесталом, то второй выстрел пробил президенту легкое, а третий попал ему в левое плечо. Его задержали прежде, чем он успел выпустить еще одну пулю, и президенту срочно оказали медицинскую помощь. Гершель умер через несколько часов от полученных ран. \nКогда весть о его смерти дошла до Конгресса, он пришел в ярость. Конгресс еще больше разделился, когда выяснилось, что убийца был радикальным республиканцем и, скорее всего, убил президента из-за его мягкой позиции по отношению к Конфедерации. Представители демократов заявили, что теперь они опасаются за свою жизнь, а некоторые начали принимать заговоры об убийстве. \n\n После смерти двух президентов подряд, нация демонстрирует признаки краха, если только республиканский спикер Палаты представителей Уильям Пеннингтон не сможет каким-то образом восстановить порядок, хотя это маловероятно."
- acw_generic.60.a: "Ужасно!"
- acw_generic.61.t: "Президент Уильям Пеннингтон мертв!".
- acw_generic.61.d: "По злому стечению обстоятельств, бывший спикер Палаты представителей Уильям Пеннингтон умер вскоре после того, как стал президентом Соединенных Штатов. \n\nПосле смерти двух президентов подряд, борьбы с кризисом отделения Конфедерации и опасений за свою личную безопасность, Уильям Пеннингтон становился все более напряженным и напряженным. Кульминация наступила вчера вечером, когда президент принял морфий, чтобы справиться со стрессом, и случайно умер от передозировки. \n\nПосле того, как его обнаружили через час после смерти, члены Белого дома попытались обеспечить безопасность нации, но как только новость наконец-то дошла до народа, по всей стране вспыхнуло возмущение. Правительство не смогло нормально работать после смерти трех различных руководителей в течение нескольких дней друг за другом, и многие начали терять веру в Союз. Радикальные республиканцы, умеренные республиканцы и оставшиеся демократические члены Конгресса обсуждали, как действовать дальше, они согласились продолжить линию преемственности, однако кандидатура временного президента стала предметом споров. Многие республиканцы остались недовольны Джесси Д. Брайтом, который был демократом, и не хотели, чтобы он стал следующим президентом. Вместо этого они предложили Соломона Фута в качестве умеренного республиканского выбора, а радикалы представили Бенджамина Уэйда в качестве потенциального кандидата, расколов залы Конгресса, поскольку они бесконечно спорили о том, как им действовать и кто должен стать следующим президентом. \n\nС учетом неспособности Конгресса работать и протестов, происходящих по всей стране, кажется, что дни Союза могут быть сочтены."
- acw_generic.61.a: "Что происходит?!"
- acw_generic.62.t: "Орегонская декларация"
- acw_generic.62.d: "Мы больше не можем связаться с нашим губернатором на территории Орегон, и мы только что обнаружили, что они объявили себя независимыми! Сославшись на потерю веры в Союз, они отделились от нас!".
- acw_generic.62.a: "Как они посмели?!"
- acw_generic.62.b: "Мы должны присоединиться к ним!"
- acw_generic.63.t: "Возвращение медвежьего флага"
- acw_generic.63.d: "После напряженных дебатов в Конгрессе о судьбе президентства, отделения многочисленных территорий и многочисленных протестов по всей стране, представителям Калифорнии надоело. Их видели вырывающимися из здания Капитолия, но не раньше, чем они объявили Конгрессу о провозглашении Калифорнийской республики. Этот акт отделения еще больше обеспокоил нацию, поскольку представители со всей страны начали беспокоиться, что нация может просуществовать недолго."
- acw_generic.64.t: "Движение за независимость Дезерета"
- acw_generic.64.d: "В связи с растущей потерей веры в федеральное правительство, территория Юта провозгласила свою полную независимость, раз и навсегда!".
- acw_generic.65.t: "Нью-Мексико покидает"
- acw_generic.65.d: "Хрупкой власти, которую наше правительство имеет на диких землях Нью-Мексико, пришел конец. Губернатор Нью-Мексико отдалился от Вашингтона, а вице-губернатор провозгласил новую республику!".
- acw_generic.66.t: "Восход Республики Одинокой Звезды"
- acw_generic.66.d: "Штат Техас, который едва держался за Союз, решил провозгласить независимость! Политический хаос внутри Союза стал поводом для беспокойства, но усиление разногласий в последние месяцы привело к тому, что штат Техас культурно отделился от остального Юга, отчасти благодаря усилиям Сэма Хьюстона. После смерти президента Пеннингтона был созван съезд, на котором в результате очень незначительного голосования была провозглашена Республика Техас, которая не присоединится к Конфедеративным Штатам."
- acw_generic.67.t: "Индейская территория бросает вызов Вашингтону!"
- acw_generic.67.d: "Индейцы отказали федеральным чиновникам во въезде на Территорию! [Root.GetLeader] обсуждал вопрос об отправке войск на территорию, но из-за беспорядков по всей стране Конгресс решил, что есть другие приоритеты."
- acw_generic.68.t: "Цветок Канзаса"
- acw_generic.68.d: "Мы больше не можем связаться с нашим губернатором на территориях Канзас-Небраска, и только что узнали, что они объявили себя независимыми! Сославшись на утрату веры в Союз, они отделились от нас!".
- acw_generic.69.t: "Равнины Дакоты"
- acw_generic.69.d: "Мы больше не можем связаться с нашим губернатором на территории Дакота, и мы только что узнали, что они объявили себя независимыми! Сославшись на потерю веры в Союз, они отделились от нас!".
- acw_generic.70.t: "Конфедерация Великого озера"
- acw_generic.70.d: "С быстрым ростом числа штатов, вышедших из состава Союза, несколько штатов на Среднем Западе стали опасаться распада Союза, что сделает их открытыми для нападения иностранных государств, таких как Великобритания и Канада. Несколько представителей регионов Среднего Запада собрались в Чикаго, штат Иллинойс, где договорились объявить о независимости от Соединенных Штатов. При этом все они присоединятся к Конфедерации Великого озера, которая должна была стать содружеством и обеспечить защиту штатов Среднего Запада."
- acw_generic.71.t: "Сент-Луисская декларация"
- acw_generic.71.d: "Следуя примеру калифорнийских представителей, сенатор Миссури сложил с себя полномочия, заявив, что штат Миссури провозглашает независимость от Соединенных Штатов. Несмотря на свои связи с Югом, он не пошел на присоединение к Конфедеративным Штатам."
- acw_generic.72.t: "Движение за независимость Кентукки"
- acw_generic.72.d: "Следуя примеру сенатора из Миссури, представители Кентукки заявили о своем выходе из Конгресса и объявили о намерении предоставить независимость Содружеству Кентукки. Они также отклонили просьбы Конфедеративных Штатов присоединиться к ним".
- acw_generic.73.t: "Легионы Канавы"
- acw_generic.73.d: "Аппалачский регион Вирджинии осудил правительство своего штата в Ричмонде и призвал к независимости!".
- acw_generic.75.t: "Коммуна Лонг-Айленда"
- acw_generic.75.d: "В напряжении, вызванном почти полным крахом Соединенных Штатов, деревни Лонг-Айленда собрались в Нью-Йорке, где объявили, что за этот крах ответственна Паника 1857 года, и что капитализм потерпел крах. Обеспечив контроль над городом, они объявили о создании Манхэттенской коммуны".
- acw_generic.76.t: "Отказ от Новой Англии"
- acw_generic.76.d: "После отделения подавляющего большинства Соединенных Штатов, представители штатов Новой Англии тайно провели встречу. После чего эти представители объявили Конгрессу, что Соединенные Штаты мертвы и что Новая Англия должна стать новой Независимой нацией."
- acw_generic.77.t: "Граница проходит в одиночку"
- acw_generic.77.d: "По мере того как федеральная власть сокращается, русские поселенцы недавно приобретенной территории Аляски призывают к независимости!"
- acw_generic.78.t: "Конец Соединенных Штатов"
- acw_generic.78.d: "Полный и тотальный крах нации вывел нас из-под контроля. Оставшиеся представители Конгресса инициировали срочные встречи и собрались в Вашингтоне, чтобы обсудить, как действовать дальше. \n\n \nОставшиеся представители, состоящие из радикальных республиканцев, наконец, объявили, что Бенджамин Уэйд - новый президент. Однако, Соединенных Штатов больше нет, и любые попытки заявить об этом смехотворны, если только мы не сможем восстановить контроль. В связи с этим, представители объявили о создании Атлантических Штатов Америки. \n\n Соединенные Штаты, которые когда-то простирались от моря до сияющего моря, угасли и умерли."
- acw_generic.78.a: "За Атлантические Штаты!"
-
-
- # Breckinridge Events #NT!
- acw_generic.80.t: "Победная речь Брекинриджа"
- acw_generic.80.d: "После недавней победы Джона Брекинриджа на выборах 1860 года многие районы Севера крайне недовольны тем, в каком направлении движется страна. Будучи свободными штатами, они все обеспокоены прорабовладельческой риторикой Брекинриджа во время предвыборной кампании, особенно его поддержкой распространения рабства на территории и, возможно, за их пределы. В связи с предстоящей победной речью, некоторые советники предлагают избранному президенту взять более мягкий тон в вопросе расширения рабства, в то время как другие говорят, что раз мы выиграли выборы, нам не нужно искать поддержки у северян".
- acw_generic.80.a: "Занять более мягкий тон"
- acw_generic.80.b: "Они проиграли. Мы победили. Кого волнует, что они думают?"
- acw_generic.81.t: "Дуглас, Белл и Линкольн призывают к единству!".
- acw_generic.81.d: "После беспрецедентного избрания вице-президента Джона К. Брекинриджа многие города на севере были охвачены протестами или откровенными беспорядками. Больше всего пострадали Филадельфия, Бостон и Колумбус. Другие кандидаты в президенты, Дуглас, Белл и Линкольн, призвали к прекращению беспорядков, призывая своих сторонников встать на сторону демократии и союза!".
- acw_generic.81.a: "Слава Колумбии!"
- acw_generic.82.t: "Протесты по всей Новой Англии"
- acw_generic.82.d: "Протесты прокатились по всему крайнему северу на последней неделе после победы на выборах вице-президента Джона К. Брекинриджа. Хотя большинство собраний оставались мирными, более крупные протесты переросли в беспорядки в Уорчестере, штат Массачусетс, и Бангоре, штат Массачусетс, после того, как федеральные силы вступили в бой с силами аболиционистов".
- acw_generic.82.a: "Эти смутьяны!"
- acw_generic.83.t: "14 погибших во время беспорядков в Колумбусе"
- acw_generic.83.d: "14 человек погибли сегодня утром, еще больше получили ранения, когда большая часть центра Колумбуса, штат Огайо, охвачена пламенем. Хотя причина пожара до сих пор неизвестна, многие связывают его с ревностными протестами аболиционистов, которые захватили город и многие другие города на севере."
- acw_generic.83.a: "Мы должны найти виновных и восстановить город".
- acw_generic.84.t: "Выстрелы в Вашингтоне"
- acw_generic.84.d: "Сегодня избранный президент Джон К. Брекинридж произнес свою инаугурационную речь в обычном режиме. Однако, к сожалению, речь была прервана, так как раздалась серия выстрелов из-за попытки недовольного аболициониста убить нового президента. Попытка была крайне неудачной, и президент в безопасности, хотя он и его семья были сильно напуганы".
- acw_generic.84.a: "A close call"
- acw_generic.85.t: "Форты на севере погружаются в темноту"
- acw_generic.85.d: "Странно, но многие из наших фортов, расположенных на севере, перестали выходить на связь с центральным командованием. Кажется, что ничего не происходит, но в Белом доме беспокоятся, что может начаться восстание."
- acw_generic.85.a: "Будем надеяться, что это пустяк".
- acw_generic.86.t: "Союз стоит твердо".
- acw_generic.86.d: "Союз отрицает отделение".
- acw_generic.86.a: "Назад дороги нет...".
- acw_generic.87.t: "Добровольцы за Союз!"
- acw_generic.87.d: "В то время как мы готовимся к войне с предательским Югом, многие граждане добровольно записываются на службу в наши вооруженные силы!".
- acw_generic.87.a: "За дело!"
- acw_generic.88.t: "Восстание в Новой Англии"
- acw_generic.88.d: "Аболиционистский пыл, преследовавший Брекинриджа, достиг переломного момента в Новой Англии сегодня, после известий из Вашингтона о намерениях Джона Белла провести закон о преследовании многих известных радикальных аболиционистов, включая конгрессмена Джона К. Фремонта, в надежде завоевать доверие Юга. \n\n "Существует опасность законного преследования политических соперников, - заявил на брифинге сенатор от штата Мэн Ганнибал Хэмлин. Стало ясно, что правительству в Вашингтоне, независимо от того, к какой партии оно принадлежит, можно доверять установление прав человека. Вторая революция должна произойти.`\n\n \nПовстанцы-аболиционисты смогли закрепиться в Новой Англии, и это будет лишь вопросом времени, когда восстание выйдет из-под нашего контроля, если мы не примем меры немедленно."
- acw_generic.88.a: "Союз должен сохраниться!"
- acw_generic.88.b: "За свободу!"
- acw_generic.89.t: "Протесты в Бостоне"
- acw_generic.89.desc: "В настоящее время город Бостон заполнен людьми, марширующими в знак протеста против избрания Джона К. Брекинриджа. Их главная жалоба - опасение, что президент попытается отменить антирабовладельческие положения в законах северных штатов из-за того, что новый президент решительно поддерживает институт рабства."
- acw_generic.89.a: "Им не о чем беспокоиться"
- acw_generic.90.t: "Бунт в Филадельфии"
- acw_generic.90.desc: "В городе Филадельфия назревает крупномасштабный бунт, так как волнения, вызванные избранием Брекинриджа, достигли точки кипения. Если не удастся быстро найти мирное решение, это может привести к ужасным последствиям."
- acw_generic.90.a: "Пусть город разберется с этим"
- acw_generic.91.t: "Линкольн осуждает политику Брекинриджа в отношении рабства"
- acw_generic.91.desc: "Республиканский кандидат на выборах 1860 года, Авраам Линкольн, опубликовал язвительное обличение политики президента Брекинриджа в отношении рабства. Он подробно писал о зле рабства и о том, что Брекинридж является агентом самого дьявола. Нет нужды говорить, что эта газета стала хитом на Севере".
- acw_generic.91.a: "Бредни ЛО-СЕРА!".
- acw_generic.92.t: "Компромиссная поправка Дугласа".
- acw_generic.92.desc: "Северный демократ Стивен Арнольд Дуглас предложил создать поправку к конституции, согласно которой половина штатов в Союзе должна быть свободной, а половина - открытой для рабства. Когда Дугласа спросили о цели этой поправки, он заявил, что надеется, что поправка сможет обеспечить компромисс между обеими сторонами вопроса о рабстве, чтобы предотвратить полномасштабную гражданскую войну."
- acw_generic.92.a: "Будем надеяться, что это не приведет к ней...".
- acw_generic.93.t: "Утечка исполнительного приказа о расширении рабства!"
- acw_generic.93.desc: "Сэр, газеты сообщают, что, по-видимому, произошла утечка текста исполнительного приказа, который вы пишете. Согласно этой статье, указ объявит все законы против рабства на севере незаконными и, следовательно, недействительными. Это правда, господин президент? Вы ведь не стали бы писать то, что так явно приведет к гражданской войне... верно?".
- acw_generic.93.a: "Что?! Н-нет, конечно, нет!"
- acw_generic.94.t: "Таддеус Стивенс уходит в отставку из Конгресса"
- acw_generic.94.desc: "Шокирующий шаг: представитель Пенсильвании Таддеус Стивенс официально покинул свой пост в Палате представителей. Стивенс известен в Палате представителей как борец за расовое равенство, причем не только по закону, но и во всем. Когда его спросили, почему он решил уйти в отставку, он просто ответил, что разочарован избранием такого человека, как Джон К. Брекинридж, и хочет возглавить усилия по сопротивлению тому, что он называет рабством Севера, из своего дома в Пенсильвании".
- acw_generic.94.a: "Хорошее избавление"
- acw_generic.95.t: "Утечка исполнительного приказа доказала реальность"
- acw_generic.95.desc: "Худшее случилось. Независимое расследование предполагаемого исполнительного приказа, подготовленного президентом. Этот анонимный следователь выяснил, что указ на самом деле существует, и поэтому опубликовал подробности своего отчета для общественности. Гнев на Севере в связи с избранием Брекинриджа уже был опасно высок, но этот отчет может довести ситуацию до критической точки."
- acw_generic.95.a: "Упс..."
- acw_generic.96.t: "Афроамериканцев похищают с большей частотой"
- acw_generic.96.desc: "Недавние отчеты местных полицейских управлений показывают увеличение числа случаев похищения чернокожих людей. Аномальность внезапного всплеска таких случаев позволяет предположить, что охотники за рабами с Юга воодушевились после избрания Брекинриджа и стали чаще похищать свободных цветных людей."
- acw_generic.96.a: "Почему они обвиняют меня в этом?".
- acw_generic.98.t: "Уинфилд Скотт и Джон Э. Вул уходят в отставку".
- acw_generic.98.desc: "Давние генералы Уинфилд Скотт и Джон Э. Вул ушли в отставку с постов генералов армии США. Их отставки, по-видимому, вызваны волнениями в стране и возможной гражданской войной. Вула беспокоило, что ему придется сражаться либо за свой родной штат против Союза, либо за Союз против своего родного штата. Что касается Скотта, то ему не по себе от утечки информации об указе Белого дома. Будучи человеком, который выступает против рабства и сам не владеет рабами, он был сильно обеспокоен мыслью о том, что федеральное правительство может навязать Северу законы, поддерживающие рабство, несмотря на то, что сам Скотт - виргинец."
- acw_generic.99.t: "[acw_breckinridge_21_t]"
- acw_generic.99.desc: "[acw_breckinridge_21_desc]"
- acw_generic.99.a: "[acw_breckinridge_21_a]"
- acw_breckinridge_21_t_acw_ongoing: "Война продолжается..."
- acw_breckinridge_21_desc_acw_ongoing: "Нация охвачена ужасной гражданской войной. Сражения между профессиональными армиями опустошают приграничные регионы штатов, а ополченцы ведут бои внутри границ каждой фракции. Окончится ли война в ближайшее время, неизвестно, но пока нация должна терпеть боль, чтобы достичь хорошего мира."
- acw_breckinridge_21_a_acw_ongoing: "Когда это закончится?"
- acw_breckinridge_21_t_acw_over: "Война окончена!"
- acw_breckinridge_21_desc_acw_over: "Война наконец-то закончилась. Армии повстанцев были быстро разгромлены, а их армии и сторонники были вынуждены отступить, в частности, аболиционисты бежали в близлежащие британские владения. Окончание конфликта снимает огромное бремя с плеч президента [ROOT.GetLeaderName], и нация наконец-то может обрести мир."
- acw_breckinridge_21_a_acw_over: "Пришло время восстанавливать".
-
- # Breckinridge Effects #NT!
- USA_Breckinridge_Reconciliation_1: "Попытка примирения\n"
- USA_Breckinridge_Reconciliation_2: "Попытка примирения\n"
- USA_Breckinridge_Reconciliation_3: "Попытка примирения\n"
-
- # Breckinridge Tooltips #NT!
- 01_ACW_BECKENRIDGE_tt: "§GНекоторые умеренные оценят это!§!\n"
- 02_ACW_BECKENRIDGE_tt: "§RЭто еще больше укрепит разногласия!§!\n"
- 03_ACW_BECKENRIDGE_tt: "§YПолитическая перегруппировка.§! Будем надеяться, что это пойдёт нам на пользу.\n"
- 04_ACW_BECKENRIDGE_tt: "§GМы подчеркиваем нашу поддержку севера!§!\n"
- 05_ACW_BECKENRIDGE_tt: "§RМы должны поддержать истинного преемника, Брекинриджа!§!\n"
- 06_ACW_BECKENRIDGE_tt: "§GЭто может ослабить напряженность.§!\n"
- 07_ACW_BECKENRIDGE_tt: "§RМы заставим Конфедерацию нанести удар первой.§!\n"
-
- # Norton #NT!
- acw_generic.115.t: "Император Соединенных Штатов?"
- acw_generic.115.d: "Сегодня пришли удивительные новости: сообщается, что человек по имени Джошуа Нортон объявил себя "императором этих Соединенных Штатов" и даже "защитником Мексики". Затем в том же пункте этой декларации он постановил, чтобы Конгресс Соединенных Штатов был собран в Музыкальном зале Сан-Франциско, города, в котором он живет. Похоже, что население города согласилось с ним в шутливом настроении, которое, однако, постепенно начинает перерастать в серьезную преданность. \n\n \nОн не имеет тесных связей с военными, поэтому мы можем легко проигнорировать его. Однако такой смелый шаг одного человека, который начинает серьезно восприниматься жителями его родного города, начинает представлять забытую легитимность федерального правительства в это кризисное время."
- acw_generic.115.a: "Вот сумасшедший".
- acw_generic.115.b: "Гарнизон города, присматривайте за ним".
- acw_generic.116.t: "Мятеж в Окленде?".
- acw_generic.116.d: "Наши офицеры начали беспокоиться. Калифорнийская национальная гвардия, которая была размещена в этом районе для запугивания Нортона, подозревает, что его слова подействовали на них. Они начали запрашивать больше полномочий по военному трибуналу, чтобы бороться с возможным мятежом. Но пока это только подозрения, и мы не уверены, правда это или нет".
- acw_generic.116.a: "Все в порядке"
- acw_generic.116.b: "Ввести военное трибунал!"
- acw_generic.117.t: "Нортон арестован"
- acw_generic.117.d: "Негодяй Нортон задержан".
- acw_generic.117.d_mutiny: "Наши федеральные силы задержали Нортона и мятежников!".
- acw_generic.117.a: "Хорошее избавление!"
- acw_generic.118.t: "Мятеж в Калифорнии!"
- acw_generic.118.d: "Подозрения были верны! Калифорнийская национальная гвардия начала отказываться от приказов наших офицеров и начала выполнять приказы Нортона! Теперь, когда у Нортона есть вооруженные силы, он может представлять серьезную угрозу для нас в будущем, если мы ничего не предпримем."
- acw_generic.118.a: "Пришлите армию!"
- acw_generic.118.b: "Все это пройдет".
- acw_generic.119.t: "Влияние Нортона растет"
- acw_generic.119.d: "Поскольку мы не послали силы для противодействия мятежу, наши офицеры и верные национальные гвардейцы были вынуждены покинуть Сан-Франциско. Из-за такого шага слава Нортона выросла по всей Калифорнии, и это вызывает беспокойство, поскольку мы приближаемся к очень противоречивым выборам. Однако, пока не произойдет ничего катастрофического, мы сможем вскоре вернуть контроль над ситуацией."
- acw_generic.119.a: "Беспокойство"
- acw_generic.120.t: "Парад монархистов в Сан-Франциско"
- acw_generic.120.d: "Многие гражданские лица и дефтеры из нашей гарнизонной дивизии следуют за выскочкой Джошуа Нортоном, который утверждает, что он наш император. Уже большая часть порта Сан-Франциско перешла под контроль смутьянов".
- acw_generic.120.a: "В конце концов, все уладится само собой"
- acw_generic.120.b: "Пошлите наши оставшиеся гарнизоны!"
- acw_generic.121.t: "Нортоновская шарада заканчивается"
- acw_generic.121.d: "После нескольких недель псевдозахвата движение вокруг Джошуа Нортона угасло. Ранние сторонники Нортона покидают его, вероятно, после того, как наконец-то встретились с этим человеком."
- acw_generic.121.a: "По крайней мере, все закончилось".
- acw_generic.121.b: "Посадить злодея в тюрьму!"
- acw_generic.122.t: "Калифорнийские ополченцы присоединяются к Нортону".
- acw_generic.122.d: "Силы, которые мы послали разобраться с Нортоном, вместо этого присоединились к нему! Теперь большая часть штата Калифорния подпала под этот мятеж".
- acw_generic.122.a: "Раздавить их!"
- acw_generic.122.b: "Нортон - восхитительный человек. Присоединяйтесь к нему".
- acw_generic.123.t: "Нортон провозглашает себя императором Соединенных Штатов".
- acw_generic.123.d: "Джошуа Нортон объявил себя законным правителем Соединенных Штатов Америки. Уже сейчас бывшая гвардия штата Калифорния марширует по Калифорнии, чтобы расширить власть Нортона."
- acw_generic.123.a: "За праведность!"
- acw_generic.123.b: "Эти негодяи?!"
-
- 05_ACW_NORTON_tt: "В настоящее время Соединенные Штаты находятся в состоянии распада. Все захваченные территории до собственного дезертирства из Вашингтона будут аннексированы."
-
- # Peace Deal Events #NT!
- acw_peace_deal.1.t: "Капитуляция Конфедерации!"
- acw_peace_deal.1.d: "Сегодня утром главнокомандующий войсками Союза Улисс С. Грант столкнулся с главнокомандующим войсками Конфедерации Робертом Э. Ли в Аппоматтокс-Корт-Хаус, где Ли был взят в плен войсками Союза. \nНа условиях, что его и его людей пощадят, Ли официально капитулировал и сложил с себя полномочия главнокомандующего Конфедерации. Этот шаг разрушил Конфедерацию, другие армии сдались, потеряв надежду на существование Конфедерации. Сообщается, что правительство Конфедерации бежало в изгнание, по некоторым данным, на Карибы. \n\n \nПосле того, как Конфедерация разбита и побеждена, [USA.GetNameDef] снова едина."
- acw_peace_deal.1.a: "Слава Колумбии!"
- acw_peace_deal.1.b: "Американцы, похоже, уладили свои дела".
- acw_peace_deal.2.t: "Союз капитулирует!"
- acw_peace_deal.2.d: "Ранее этим утром главнокомандующий Конфедерации Роберт Э. Ли нанес решительное поражение главнокомандующему Союза Джорджу Миду в окрестностях Рединга, штат Пенсильвания. \n\nРезультат этого последнего сражения стал последней каплей для многих, и Союз был вынужден признать независимость Конфедерации."
- acw_peace_deal.2.c: "Хорошо".
- acw_peace_deal.5.t: "Распад Золотого Империума"
- acw_peace_deal.5.d: "Вчера утром пришло известие, что последние наши силы сдались демократической армии. Вскоре после этого поступило сообщение, что император Нортон также сдался американскому ополчению, бесплодно умоляя о прощении своих последователей. Возможно, теперь его дни сочтены".
- acw_peace_deal.5.d_usa: "Вчера утром поступили новости о том, что последние из монархических повстанческих сил в Калифорнии сдали нам оружие. Сообщалось, что Джошуа Нортон сдался сам в отчаянной мольбе об амнистии своих изменнических последователей. Теперь, когда мы захватили этого смутьяна, встает вопрос о том, что с ним делать".
- acw_peace_deal.5.a: "Отправить его на виселицу!"
- acw_peace_deal.5.b: "В тюрьму вместе с ним!"
- acw_peace_deal.5.c: "Отличная попытка"
- acw_peace_deal.5.c_tt: "§RКонец кампании§!"
- acw_peace_deal.6.d: "Вчера утром из [USA.GetNameDef] пришло известие, что последние силы монархических повстанцев под командованием самопровозглашенного императора Джошуа Нортона сдали оружие армии Союза.\n\n Стычки были ожесточенными в изолированных землях американской Калифорнии, и теперь Нортон и его войска предстали перед судом за измену."
- acw_peace_deal.6.a: "Странный он был парень".
- acw_peace_deal.7.t: "Нортон защищает Запад"
- acw_peace_deal.7.d: "После многих лет борьбы силы Золотого Империума обеспечили безопасность западных земель Америки и заключили перемирие. Изначально немногочисленные повстанцы-изгои в Сан-Франциско распространили свою власть далеко, и легитимность Джошуа Нортона больше не подвергается сомнению."
- acw_peace_deal.7.d_acw: "После многолетней борьбы силы Золотого Империума обеспечили безопасность западных окраин Америки и заключили перемирие, поскольку на востоке возникли более серьезные угрозы для сохранения Американского Союза. Изначально небольшие повстанцы-изгои в Сан-Франциско распространили свое влияние далеко, и легитимность Джошуа Нортона больше не подвергается сомнению."
- acw_peace_deal.7.a: "Слава Императору!"
- acw_peace_deal.7.b: "Конец Республике?"
- # Peace Deal Tooltips #NT!
- 01_ACW_PEACEDEAL_tt: "§YВы призываете своих братьев-конфедератов принять поражение!§!\n"
- 02_ACW_PEACEDEAL_tt: "§RВы призываете своих братьев-конфедератов не принимать поражение!§!\n"
- 03_ACW_PEACEDEAL_tt: "§GНачало реадмиссии!§!\n"
- 04_ACW_PEACEDEAL_tt: "§C[USA.GetName]§! должны теперь §Yоккупировать§! §gКонфедерацию§!.\n"
-
- 01_ACW_PEACEDEAL_VAL_tt: "§O[ENG.GetNameDef]§! передает §YНью-Брансуик§! и §YВанкувер-Айленд§! нам!\n"
- 02_ACW_PEACEDEAL_VAL_tt: "§O[FRA.GetNameDef]§! уступает §YСент-Пьер и Микелон§ нам!\n"
- 03_ACW_PEACEDEAL_VAL_tt: "§O[RUS.GetNameDef]§! уступает §YАляску§! нам!\n"
- 04_ACW_PEACEDEAL_VAL_tt: "Мы уступили §YНью-Брансуик§! и §YВанкувер-Айленд§! §O[USA.GetNameDef].§!\n"
- 05_ACW_PEACEDEAL_VAL_tt: "Мы уступили §YСент-Пьер и Микелон§! §О[США.GetNameDef].§!\n"
- 06_ACW_PEACEDEAL_VAL_tt: "Мы уступили §YАляску§! §О[USA.GetNameDef].§!\n"
- 07_ACW_PEACEDEAL_VAL_tt: "Интересное изменение в геополитике Северной Америки.\n"
- 08_ACW_PEACEDEAL_VAL_tt: "Американский эксперимент продолжается.\n"
+ acw_generic.39.a: "Hahaha! That was hilarious!" #NT!
+ acw_generic.39.b: "Mr. President! Behind you!" #NT!
+ acw_generic.40.t: "The Hunt for Lincoln's Killer!" #NT!
+ acw_generic.40.d: "Abraham Lincoln's assassin, identified as John Wilkes Booth fled the scene in the midst of the chaos-induced panic that sprung during Lincoln's final moments.\n\nNow, he is at large. How should we proceed?" #NT!
+ acw_generic.40.a: "The search for Wilkes Booth is our top priority." #NT!
+ acw_generic.40.b: "The search for Wilkes Booth is a major priority." #NT!
+ acw_generic.40.c: "Alert law enforcement across the nation." #NT!
+ acw_generic.40.e: "Put only a few agents out. We need to focus on rebuilding the nation." #NT!
+ acw_generic.41.d: "Shocking news echoed throughout the states, that Abraham Lincoln, the savior of the Union, has died. He was shot while attending a play at Ford's Theater, and now his Vice President Andrew Johnson is now in control of the nation. He must now decide on how we should persecute and punish the conspirator John Wilkes Booth." #NT!
+ acw_generic.41.a: "Kill him!" #NT!
+ acw_generic.41.b: "Hold a Trial" #NT!
+ acw_generic.42.t: "Wilkes Booth Escapes!" #NT!
+ acw_generic.42.d: "It was reported that our agents were too late in their pursuit of Assassin John Wilkes Booth. He has escaped across the Southern Border." #NT!
+ acw_generic.42.a: "Blast!" #NT!
+ acw_generic.44.t: "Winfield Scott Retires" #NT!
+ acw_generic.44.desc: "After 53 long years of service in the United States Army, General Winfield Scott, known as the "Grand Old Man of the Army," has officially resigned from his post as Commanding General of the United States Army. His resignation letter cites multiple reasons, chiefly his failing health. Although, frustration with the unwillingness of the President to heed his advice on military matters was also mentioned briefly.\n\nNeedless to say, Scott's retirement is both expected and unexpected for a man who has served dutifully for 53 long years of his life. His service will surely be honored and respected for generations to come." #NT!
+ acw_generic.44.a: "He will be greatly missed" #NT!
+ acw_generic.45.t: "Retiring John E. Wool" #NT!
+ acw_generic.45.desc: "Like the recently retired Winfield Scott, John E. Wool is a longtime member of the United States Army. Having served for over 51 years, he has spent nearly as much time as Scott in service, only short by two years. Despite his successes in some recent battles, the general's age is catching up to him and, even if he may not like it, his advanced age will soon become a liability for the Army." #NT!
+ acw_generic.45.a: "He has served long enough. Let him rest." #NT!
+  
+  # Breckinridge Events 
+ acw_generic.80.t: "Breckinridge's Victory Speech" #NT!
+ acw_generic.80.d: "The shocking election of Pro-Slavery candidate John Breckinridge has rocked the foundation of the country. While Breckinridge had campaigned on the protection of states' rights to preserve slavery and even hinting at expanding the institution into the territories, his message on the eventual fate of current Free states is unclear. Many within Breckinridge's wing of the Democratic Party, the Southern Democrats, are calling for the newly elected president to sue the Free States' governments on the grounds that they're restricting the rights of their citizens to own slaves, while others are concerned that already high tensions could boil over if such a thing were to happen./n /nWhat should the theme of Breckinridge's speech be?" #NT!
+ acw_generic.80.a: "Focus on unity" #NT!
+ acw_generic.80.b: "Stick to our beliefs" #NT!
+ acw_generic.81.t: "Response To The Speech For Unity" #NT!
+ acw_generic.81.d: "Prominent Republicans and Northern Democrats gave a response to John Breckinridge's speech calling for North-South unity in the United States. While it seems that the speech has had the intended effect of softening Northern opinion of Breckinridge, it would be naive to assume that tensions have calmed." #NT!
+ acw_generic.81.a: "At least it was well-received" #NT!
+ acw_generic.82.t: "Northerners Blast Breckinridge's Speech" #NT!
+ acw_generic.82.d: "Northern politicians and abolitionists have published opinion pieces blasting Breckinridge's speech where he suggested that he might sue Northern states over their laws outlawing slavery. If the tensions in the country weren't already high, this has caused them to reach the boiling point and many are unsure about the future of the nation." #NT!
+ acw_generic.82.a: "If they didn't want this, they should've voted" #NT!
+ acw_generic.83.t: "John Bell Shows Support" #NT!
+  
+  # Douglas Events 
+ acw_generic.46.t: "Stephen on Slavery" #NT!
+ acw_generic.46.d: "While Stephen Douglas himself is not a slaveholder, his wife does. The campaign trail has harshly criticized Douglas for both being too soft on Slavery and too harsh. He should clarify his position." #NT!
+ acw_generic.46.a: "We must abolish slavery." #NT!
+ acw_generic.46.b: "We must continue to find compromise." #NT!
+ acw_generic.46.c: "This is not the job of federal government." #NT!
+ acw_generic.47.t: "Southerners on Edge" #NT!
+ acw_generic.47.d: "Southerners across the country are becoming increasingly aware that they are the minority. Both northern candidates in the last campaign, Abraham Lincoln and the President Douglas, trounced former Vice President John Breckinridge in votes." #NT!
+ acw_generic.47.a: "We will ensure the status quo." #NT!
+ acw_generic.47.b: "So is the way of democracy." #NT!
+ acw_generic.48.t: "Other Candidates Show Support" #NT!
+ acw_generic.48.d: "The other candidates, John Bell, Abraham Lincoln, and John Breckinridge have come out in support of Stephen Douglas in hopes of unifying the country entrenched in tension." #NT!
+ acw_generic.48.d_1: "The other candidates, John Bell and Abraham Lincoln have come out in support of Stephen Douglas in hopes of unifying the country entrenched in tension. But John C. Breckinridge, the former Vice President that many look up to in the South, as remained quiet." #NT!
+ acw_generic.48.a: "[Root.GetNameDef] will stand!" #NT!
+ acw_generic.49.t: "Stephen Douglas Inaugurated" #NT!
+ acw_generic.49.d: "Earlier today, the new President Stephen Douglas was sworn in as President of the United States. In his inaugural address, he argued that the Constitution created a balance between State and Federal power, and that the secession of the South be dealt with. He calls for the Union to be strong, or else the American Experiment will die." #NT!
+ acw_generic.49.a: "Inspiring Words" #NT!
+ acw_generic.50.t: "Executive Order: Popular Sovereignty Act" #NT!
+ acw_generic.50.d: "In Stephen A. Douglas's first proposal to Congress, he proposed the Popular Sovereignty Act, which allowed for the Western Territories to decide for themselves if they would want slavery or not. Despite heavy attempts to get it through, the Republican and Democratic representatives refused to agree to the bill. After which, President Douglas declared it to be in effect through an executive order, which has caused protests in Congress and across the nation." #NT!
+ acw_generic.50.a: "Pass the Act!" #NT!
+ acw_generic.51.t: "Douglas's Tour of the Country" #NT!
+ acw_generic.51.d: "With opposition all around him, Douglas has decided to go on a tour across the Country. His intent in this is to spread his support, and to hopefully help avoid a potential civil war." #NT!
+ acw_generic.51.a: "Let's hope this works..." #NT!
+ acw_generic.52.t: "Stephen Douglas visits Maryland!" #NT!
+ acw_generic.52.d: "The President this week visited the state of Maryland!" #NT!
+ acw_generic.52.a: "The weather was fine." #NT!
+ acw_generic.53.t: "Stephen Douglas visits Pennsylvania!" #NT!
+ acw_generic.53.d: "The President this week visited the state of Pennsylvania!" #NT!
+ acw_generic.54.t: "Stephen Douglas visits Ohio!" #NT!
+ acw_generic.54.d: "The President this week visited the state of Ohio!" #NT!
+ acw_generic.55.t: "Stephen Douglas visits Kentucky!" #NT!
+ acw_generic.55.d: "The President this week visited the state of Kentucky!" #NT!
+ acw_generic.56.t: "Stephen Douglas visits Tennessee!" #NT!
+ acw_generic.56.d: "The President this week visited the state of Tennessee!" #NT!
+ acw_generic.57.t: "The President is Feeling Unwell" #NT!
+ acw_generic.57.d: "On the way south from Nashville, the President began to start complaining about feeling unwell. Despite this, he is still persistent in completing his tour to ensure the safety of the nation. Should we have him take a rest or keep on schedule?" #NT!
+ acw_generic.57.a: "Find the President a doctor." #NT!
+ acw_generic.57.b: "It's just a headache." #NT!
+ acw_generic.58.t: "Douglas Hospitalized!" #NT!
+ acw_generic.58.d: "The President's condition worsened in the last two days. For such, he was brought to Nashville's best doctors." #NT!
+ acw_generic.58.a: "We can now only pray." #NT!
+ acw_generic.59.t: "The President is Dead!" #NT!
+ acw_generic.59.d: "Stephen Douglas is dead! While attempting to continue with the schedule for the National Trip, his illness grew worse and worse. He soon collapsed and was bedridden while attempting to give a speech to a crowd near Chattanoga. It was soon clear that he had typhoid fever, but by this point he had been too weakened. He died the day after he was diagnosed. \n \nThis death has caused an uproar within Congress, which has been more and more divided as time goes on. Now, Vice President William Herschel is sworn in to become the next President of the United States." #NT!
+ acw_generic.59.d_Hospitalized: "Stephen Douglas is dead! After being bedridden for days in a hospital in Nashville, the President passed away in his sleep after being diagnosed with Typhoid Fever the morning previous. \n \nThis death has caused an uproar within Congress, which has been more and more divided as time goes on. Now, Vice President William Herschel is sworn in to become the next President of the United States." #NT!
+ acw_generic.59.a: "Terrible!" #NT!
+ acw_generic.60.t: "President Herschel Assassinated!" #NT!
+ acw_generic.60.d: "During a rally outside of the White House, a man named Benjamin Taylor approached the pedestal. He asked for the President's attention so that he could ask a question. When the President turned his attention to him, Taylor fired his gun three times. While the first was luckily caught by the podium, the second shot pierced the President in his lung, and the third hit him in his left shoulder. He was detained before he could fire another bullet, and the President was rushed to get medical attention. Herschel died hours later due to his wounds. \n \nWhen news of his death reached Congress, it was thrown into a fury. It became even more divided as it was discovered that the Assassin was a Radical Republican, and likely assassinated the President due to his lenient stance toward the Confederacy. The Democratic representatives claimed that they now fear for their lives, and some have begun to adopt Conspiracies about the assassination. \n \nWith the death of two Presidents in a row, the nation is showing signs of collapse, unless the Republican Speaker of the House, William Pennington, can somehow reestablish order, however unlikely." #NT!
+ acw_generic.60.a: "Horrible!" #NT!
+ acw_generic.61.t: "President William Pennington Is Dead!" #NT!
+ acw_generic.61.d: "In a sick twist of fate, it seems as though the former Speaker of the House, William Pennington, had died shortly after becoming President of the United States. \n \nAfter the death of two Presidents in a row, dealing with the Confederate secession crisis, and the fears of his personal safety, William Pennington grew more and more stressed and tense. This culminated last night as the President was taking Morphine to deal with his stress, and accidentally died from an overdose. \n \nAfter being discovered an hour after his death, there were attempts by the members of the White House in an attempt to secure the safety of the nation, but once news finally reached the people, outrage erupted across the nation. The Government has not been able to properly operate with the death of 3 different executives within days of each other, and many have begun to lose faith in the Union. The Radical Republican, Moderate Republican, and remaining Democratic members of Congress debated how to proceed, they agreed to continue the line of succession, however the President Pro Tempore has come under debate. Many Republicans are unsatisfied with Jesse D. Bright, who was a Democrat, and did not want him to become the next President. Instead, they proposed Solomon Foot as the Moderate Republican choice, and the Radicals presenting Benjamin Wade as a potential candidate, splitting the Congressional halls as they endlessly debated how they should proceed and who should become the next President. \n \nWith the inability of Congress to be able to operate, and protests occurring all across the country, it seems as though the Union's days may be numbered." #NT!
+ acw_generic.61.a: "What is going on?!" #NT!
+ acw_generic.62.t: "Declaration of Oregon" #NT!
+ acw_generic.62.d: "We have no longer been able to get in contact with our governor in the Oregon Territory, and we have just discovered that they have declared themselves independent! Citing a loss of faith in the Union, they have seceded from us!" #NT!
+ acw_generic.62.a: "How dare they?!" #NT!
+ acw_generic.62.b: "We must join them!" #NT!
+ acw_generic.63.t: "Return of the Bear Flag" #NT!
+ acw_generic.63.d: "With the intense debate within Congress over the fate of the Presidency, the secession of numerous territories, and the numerous protests across the nation, the Representatives of California have had enough. They were seen storming out of the capitol building earlier, but not before they announced to Congress of the declaration of the Californian Republic. This act of secession further troubled the nation, as Representatives from across the country begin to worry that the nation may not last much longer." #NT!
+ acw_generic.64.t: "Independence Movement of Deseret" #NT!
+ acw_generic.64.d: "With the increasing loss in faith of the federal government, Utah Territory has now proclaimed their full independence, once and for all!" #NT!
+ acw_generic.65.t: "New Mexico Leaves" #NT!
+ acw_generic.65.d: "The flimsy authority that our government has in the wild lands of New Mexico has been met to an end. The governor of New Mexico has distanced himself from Washington, and the Lieutenant Governor has proclaimed a new Republic!" #NT!
+ acw_generic.66.t: "Rise of the Lone Star Republic" #NT!
+ acw_generic.66.d: "The State of Texas, which was barely clinging to the Union, has decided to declare independence! The Political chaos within the Union had become a cause for concern, but increasing divides in recent months has led to the state of Texas being separated culturally with the rest of the South, in part due to Sam Houston's effort. A convention was called after the death of President Pennington, through a very marginal vote the Republic of Texas was declared, and would not join the Confederate States." #NT!
+ acw_generic.67.t: "Indian Territory defies Washington!" #NT!
+ acw_generic.67.d: "The Indians have rejected federal officials from entering the Territory! [Root.GetLeader] has debated sending forces to the territory, but with must unrest across the country, Congress has decided there are other priorities." #NT!
+ acw_generic.68.t: "The Flower of Kansas" #NT!
+ acw_generic.68.d: "We have no longer been able to get in contact with our governor in the Kansas-Nebraska Territories, and we have just discovered that they have declared themselves independent! Citing a loss of faith in the Union, they have seceded from us!" #NT!
+ acw_generic.69.t: "The Plains of Dakota" #NT!
+ acw_generic.69.d: "We have no longer been able to get in contact with our governor in the Dakota Territory, and we have just discovered that they have declared themselves independent! Citing a loss of faith in the Union, they have seceded from us!" #NT!
+ acw_generic.70.t: "The Great Lake Confederation" #NT!
+ acw_generic.70.d: "With the rapid number of states seceding from the Union, several states in the Midwest grew fearful of the collapse of the Union, and in doing so making them open to attacks from foreign nations, such as Britain from Canada. Several Representatives from the Midwest regions had congregated in Chicago, Illinois, where they agreed to declare independence from the United States. In doing so, they would all join the Great Lake Confederacy, which was intended to be a commonwealth and to provide protection for the Midwestern States." #NT!
+ acw_generic.71.t: "The Saint Louis Declaration" #NT!
+ acw_generic.71.d: "Following in the steps of the Californian representatives, the Senator of Missouri resigned from office, declaring that the state of Missouri is declaring independence from the United States. Despite its connections to the South, it has not gone forward with being annexed by the Confederate States." #NT!
+ acw_generic.72.t: "The Kentucky Independence Movement" #NT!
+ acw_generic.72.d: "Following in the steps of the Missouri Senator, the Representatives from Kentucky have declared their resignation from Congress, and have declared the intent of independence for the Commonwealth of Kentucky. They, too, have also refused requests from the Confederate States to join them." #NT!
+ acw_generic.73.t: "Legions of Kanawha" #NT!
+ acw_generic.73.d: "The Appalachian region of Virginia has denounced their state government in Richmond and have called for independence!" #NT!
+ acw_generic.75.t: "Commune of Long Island" #NT!
+ acw_generic.75.d: "With the tension caused by the near total collapse of the United States, the villages in Long Island had met up in New York, where they declared that the Panic of 1857 was responsible for this collapse, and that Capitalism had failed. After securing control of the city, they declared the creation of the Manhattan Commune." #NT!
+ acw_generic.76.t: "The New England Abandonment" #NT!
+ acw_generic.76.d: "Upon the secession of the vast majority of the United States, representatives from the New England states had secretly met. After which, these representatives announced to Congress that the United States was dead and that New England was to become a new Independent nation." #NT!
+ acw_generic.77.t: "The Frontier walks alone" #NT!
+ acw_generic.77.d: "As federal authority dwindles, the Russian settlers of the recently acquired territory of Alaska have called for independence!" #NT!
+ acw_generic.78.t: "The End of the United States" #NT!
+ acw_generic.78.d: "The complete and total collapse of the nation has spun us out of control. The remaining Congressional representatives initiated urgent meetings, and have congregated in Washington D.C. in order to discuss how to proceed. \n \nWith the remaining representatives being made up of Radical Republicans, they have finally declared that Benjamin Wade is the new President. However, the United States is no more, and any attempts to claim as such is laughable, unless we can reestablish control. Because of this, the representatives have declared the creation of the Atlantic States of America. \n \nThe United States, which once spanned from sea to shining sea, has fizzled out, and died." #NT!
+ acw_generic.78.a: "For the Atlantic States!" #NT!
+  
+  
+  # Breckinridge Events 
+ acw_generic.80.t: "Breckinridge's Victory Speech" #NT!
+ acw_generic.80.d: "With John Breckinridge's recent victory in the 1860 election, many parts of the North are extremely sour about the direction the country is heading. Being free states, they're all concerned about Breckinridge's pro-slavery rhetoric from the campaign trail, particularly his support of the expansion of slavery into the territories and possibly beyond. With his victory speech coming up, there are some advisors suggesting that the president-elect take a softer tone on the expansion of slavery while other say that since we won the election, we have no need to seek support from the Northerners." #NT!
+ acw_generic.80.a: "Take a softer tone" #NT!
+ acw_generic.80.b: "They lost. We won. Who cares what they think?" #NT!
+ acw_generic.81.t: "Douglas, Bell and Lincoln call for unity!" #NT!
+ acw_generic.81.d: "With the unprecedented election of Vice President John C. Breckinridge, many cities in the north have been engulfed in protests or outright rioting. Philadelphia, Boston and Columbus and been struck the worse. The other presidential candidates, Douglas, Bell and Lincoln, have all called for the end to the rioting, telling their supporters to stand with Democracy and the union!" #NT!
+ acw_generic.81.a: "Hail Columbia!" #NT!
+ acw_generic.82.t: "Protests across New England" #NT!
+ acw_generic.82.d: "Protests spew out across the far north this last week after Vice President John C. Breckinridge won the election. Though most gatherings remained peaceful, larger protests turned into riots in Worchestor, MA and Bangor, ME after federal forces engaged aboltionist forces" #NT!
+ acw_generic.82.a: "These troublemakers!" #NT!
+ acw_generic.83.t: "14 Dead in Columbus Riots" #NT!
+ acw_generic.83.d: "14 Individuals died, this morning, many more injured as much of downtown Columbus, Ohio went up in flames. While the cause of the fire is still unknown, many are attributing to the zealous abolitionist protests that had captured the city and many more across the north." #NT!
+ acw_generic.83.a: "We must find the perpetrators and rebuild." #NT!
+ acw_generic.84.t: "Gunshots In Washington" #NT!
+ acw_generic.84.d: "Today, President-elect John C. Breckinridge gave his inauguration address as normal. Unfortunately, however, the speech was cut short as a series of gun shots rang out due to a disgruntled abolitionist's attempt to assassinate the new president. The attempt was an abject failure and the President is safe though he and his family were given quite a fright." #NT!
+ acw_generic.84.a: "A close call" #NT!
+ acw_generic.85.t: "Forts In The North Go Dark" #NT!
+ acw_generic.85.d: "Strangely, many of our forts stationed up North have stopped communicating with central command. It doesn't seem like anything is going on but there's worries in the White House that a rebellion might be stirring." #NT!
+ acw_generic.85.a: "Let's hope it's nothing" #NT!
+ acw_generic.86.t: "The Union Stands Firm." #NT!
+ acw_generic.86.d: "Union denies the secession." #NT!
+ acw_generic.86.a: "There is no turning back..." #NT!
+ acw_generic.87.t: "Volunteers for the Union!" #NT!
+ acw_generic.87.d: "As we prepare to go to war with the traitorous South, many eager citizens are volunteering to serve in our armed forces!" #NT!
+ acw_generic.87.a: "For the cause!" #NT!
+ acw_generic.88.t: "Rebellion in New England" #NT!
+ acw_generic.88.d: "The Abolitionist fervor that had chased Breckinridge has reached a turning point in New England today, after news from Washington of John Bell's intentions to past legislation to persecute many well-known radical Abolitionists including congressman John C. Fremont in hopes of gaining the trusts of the South. \n \n'There are dangers to the legal persecution of political rivals,' Maine Senator Hannibal Hamlin stated in a briefing. It has been made clear that a government in Washington, no matter which party, could be trusted to instill the Rights of Men. A second revolution must occur.` \n \nThe Abolitionist rebels have been able to establish a foothold in New England and it will only be a matter of time before the rebellion becomes out of our control, lest we address it immediately." #NT!
+ acw_generic.88.a: "The union must remain!" #NT!
+ acw_generic.88.b: "For liberty!" #NT!
+ acw_generic.89.t: "Protests In Boston" #NT!
+ acw_generic.89.desc: "The city of Boston is currently filled with people marching in protest against the election of John C. Breckinridge. Their main complaint is the worry that the president will try to repeal the anti-slavery provisions in the laws of northern states due to the new president's staunch support of the institution of slavery." #NT!
+ acw_generic.89.a: "They have nothing to worry about" #NT!
+ acw_generic.90.t: "A Riot In Philadelphia" #NT!
+ acw_generic.90.desc: "The city of Philadelphia is now facing a large-scale riot as unrest caused by Breckinridge's election has hit a boiling point. If there's no peaceful resolution made quickly, this could get ugly." #NT!
+ acw_generic.90.a: "Let the city handle it" #NT!
+ acw_generic.91.t: "Lincoln Slams Breckinridge's Slavery Policy" #NT!
+ acw_generic.91.desc: "The Republican candidate for the 1860 election, Abraham Lincoln, released a scathing denouncement of president Breckinridge's policy on slavery. He wrote at length about the evils of slavery and how Breckinridge is an agent of the devil himself. Needless to say, this paper is a smash hit in the North." #NT!
+ acw_generic.91.a: "The ramblings of a LO-SER!" #NT!
+ acw_generic.92.t: "Douglas' Compromise Amendment" #NT!
+ acw_generic.92.desc: "Northern Democrat, Stephen Arnold Douglas has proposed the creation of an amendment to the constitution that would mandate that half of the states in the Union be free, and half be open to slavery. When asked about the purpose of the amendment, Douglas stated that he hopes the amendment would be able to provide a compromise between both sides of the slavery issue in order to prevent a full-on civil war." #NT!
+ acw_generic.92.a: "Let's hope it doesn't amount to one..." #NT!
+ acw_generic.93.t: "Slavery Expansion Executive Order Leaked!" #NT!
+ acw_generic.93.desc: "Sir, the papers are reporting that apparently there's been a leaked copy of the text in an executive order you're writing. According to this article, the executive order would declare all anti-slavery laws in the north to be illegal and therefore void. Is this true, Mr. President? You wouldn't write down something that would so clearly lead to a civil war...right?" #NT!
+ acw_generic.93.a: "What?! N-No of course not!" #NT!
+ acw_generic.94.t: "Thaddeus Stevens Resigns From Congress" #NT!
+ acw_generic.94.desc: "In a shocking move, Pennsylvania representative Thaddeus Stevens has officially resigned from his position in the House of Representatives. Stevens is known in the House for being a champion of racial equality, not just under the law, but in all things. When asked why he decided to resign, he simply responded that he was disappointed in the election of someone like John C. Breckinridge and wishes to lead the effort to resist what he calls the slaverization of the North from his home in Pennsylvania." #NT!
+ acw_generic.94.a: "Good riddance" #NT!
+ acw_generic.95.t: "Leaked Executive Order Proven Real" #NT!
+ acw_generic.95.desc: "The worst has happened. An independent investigation into the suspected executive order drafted by the president. This anonymous investigator has found out that the executive order is in fact real and thus released the details of their report to the public. The anger in the North due to Breckinridge's election was already dangerously high, but this report could bring things to a tipping point." #NT!
+ acw_generic.95.a: "Oops..." #NT!
+ acw_generic.96.t: "African-Americans Being Kidnapped At Higher Rates" #NT!
+ acw_generic.96.desc: "Recent reports from local police departments are showing higher instances of black people being kidnapped. The anormality of the sudden surge of such cases suggests that Southern slave hunters are being emboldened by Breckinridge's election and are kidnapping free people of color at higher rates." #NT!
+ acw_generic.96.a: "Why're they blaming me for this?" #NT!
+ acw_generic.98.t: "Winfield Scott and John E. Wool Retire" #NT!
+ acw_generic.98.desc: "Longtime Generals Winfield Scott and John E. Wool have retired from their positions as generals of the United States Army. Their retirements appear to be motivated by the unrest in the country and possible civil war. For Wool, he's concerned he may be forced to either fight for his home State against the Union or for the Union against his home State. For Scott, he was uncomfortable with the leaked executive order from the White House. Being someone who opposes slavery and owns none himself, he was greatly concerned with the idea that the federal government may impose pro-slavery laws on the North even though Scott himself is a Virginian." #NT!
+ acw_generic.99.t: "[acw_breckinridge_21_t]" #NT!
+ acw_generic.99.desc: "[acw_breckinridge_21_desc]" #NT!
+ acw_generic.99.a: "[acw_breckinridge_21_a]" #NT!
+ acw_breckinridge_21_t_acw_ongoing: "The War Goes On..." #NT!
+ acw_breckinridge_21_desc_acw_ongoing: "The nation has been gripped by a terrible civil war. Battles between the professional armies ravage the bordering regions of the states and militias engage in fights within each factions' borders. Whether or not the war will end soon is unknown but for now, the nation must endure the pain in order to achieve a good peace." #NT!
+ acw_breckinridge_21_a_acw_ongoing: "When will this end?" #NT!
+ acw_breckinridge_21_t_acw_over: "The War Is Over!" #NT!
+ acw_breckinridge_21_desc_acw_over: "The war has finally ended. The rebel armies have been swiftly routed and their armies and supporters have been forced into a retreat, the abolitionists, in particular, fleeing towards nearby British holdings. The end of the conflict lifts a huge burden on President [ROOT.GetLeaderName]'s shoulders and the nation can finally realize peace." #NT!
+ acw_breckinridge_21_a_acw_over: "It's time to rebuild" #NT!
+  
+  # Breckinridge Effects 
+ USA_Breckinridge_Reconciliation_1: "Reconciliation Attempt\n" #NT!
+ USA_Breckinridge_Reconciliation_2: "Reconciliation Attempt\n" #NT!
+ USA_Breckinridge_Reconciliation_3: "Reconciliation Attempt\n" #NT!
+  
+  # Breckinridge Tooltips 
+ 01_ACW_BECKENRIDGE_tt: "§GSome Moderates will appreciate this!§!\n" #NT!
+ 02_ACW_BECKENRIDGE_tt: "§RThis will further entrench divisions!§!\n" #NT!
+ 03_ACW_BECKENRIDGE_tt: "§YA Political Re-Alignment.§! Let us hope it works to our advantage.\n" #NT!
+ 04_ACW_BECKENRIDGE_tt: "§GWe emphasize our support for the north!§!\n" #NT!
+ 05_ACW_BECKENRIDGE_tt: "§RWe must support the true successor, Breckinridge!§!\n" #NT!
+ 06_ACW_BECKENRIDGE_tt: "§GThis could ease tensions.§!\n" #NT!
+ 07_ACW_BECKENRIDGE_tt: "§RWe will force the Confederacy to strike first.§!\n" #NT!
+  
+  # Norton 
+ acw_generic.115.t: "Emperor of the United States?" #NT!
+ acw_generic.115.d: "Surprising news has come today, with reports of a man named Joshua Norton declaring himself 'Emperor of these United States' and even 'the Protector of Mexico'. Afterwards in the same paragraph of this declaration, he decreed that the United States Congress be assembled in Musical Hall of San Francisco, the city he lives in. It appears as though the populace of the city had gone along with him in a joking mindset, but of which is slowly beginning to morph into serious devotion. \n \nHe holds no close ties to the Military, so we can easily choose to ignore him. However, such a bold move by one man that is beginning to be taken seriously by the people of his hometown is beginning to represent the forgotten legitimacy of the Federal Government during this time of crisis." #NT!
+ acw_generic.115.a: "What a lunatic." #NT!
+ acw_generic.115.b: "Garrison the city, keep an eye on him." #NT!
+ acw_generic.116.t: "Mutiny in Oakland?" #NT!
+ acw_generic.116.d: "Our officers have begun to worry. The Californian National Guard, which was stationed in the area to intimidate Norton, are suspectible to being swayed by his words. They have begun to request for more powers in Court Martialing in order to combat this possible mutiny. But still, it is only suspected, and we aren't sure if it is true or not." #NT!
+ acw_generic.116.a: "It's fine" #NT!
+ acw_generic.116.b: "Empower Court Martialing!" #NT!
+ acw_generic.117.t: "Norton Arrested" #NT!
+ acw_generic.117.d: "The scoundrel, Norton has been apprehended." #NT!
+ acw_generic.117.d_mutiny: "Our federal forces have apprehended Norton and the mutineers!" #NT!
+ acw_generic.117.a: "Good riddance!" #NT!
+ acw_generic.118.t: "Mutiny in California!" #NT!
+ acw_generic.118.d: "The suspicions were correct! The Californian National Guard has begun to refuse orders from our officers, and has begun to take orders from Norton! Now that Norton has an armed force, he could pose a serious threat against us in the future unless we do something." #NT!
+ acw_generic.118.a: "Send in the army!" #NT!
+ acw_generic.118.b: "This all will pass away." #NT!
+ acw_generic.119.t: "Norton Grows in Influence" #NT!
+ acw_generic.119.d: "As we have not sent forces to counteract the mutiny, our officers and loyal National Guardsmen were forced to leave San Francisco. Such a move has made Norton grow in fame across the entirety of California, and this has become worrying as we approach a very controversial election. So long as something catastrophic doesn't happen, however, we should be able to soon retake control of the situation." #NT!
+ acw_generic.119.a: "Worrying" #NT!
+ acw_generic.120.t: "Monarchist Parade in San Francisco" #NT!
+ acw_generic.120.d: "Many civilians and defects from our garrison division alike are now following the upstart lunatic Joshua Norton who claims to be our emperor. Already, much of the port of San Francisco has fallen under control of the trouble makers." #NT!
+ acw_generic.120.a: "It'll sort itself eventually" #NT!
+ acw_generic.120.b: "Send in our remaining garrisons!" #NT!
+ acw_generic.121.t: "Norton Charade Ends" #NT!
+ acw_generic.121.d: "After weeks of pseudo-occupation, the movement around Joshua Norton has faded out. Norton's early supporters are leaving him, probably after finally meeting the man." #NT!
+ acw_generic.121.a: "At least its over." #NT!
+ acw_generic.121.b: "Imprison the villain!" #NT!
+ acw_generic.122.t: "California Militias join Norton" #NT!
+ acw_generic.122.d: "The forces we sent to deal with Norton have joined him instead! Now, much of the state of California has fallen to this rouge insurrection." #NT!
+ acw_generic.122.a: "Crush them!" #NT!
+ acw_generic.122.b: "Norton is a delightful man. Join him." #NT!
+ acw_generic.123.t: "Norton declares himself Emperor of the United States" #NT!
+ acw_generic.123.d: "Joshua Norton has declared himself rightful ruler of the United States of America. Already, the former California State Guard march across California to expand Norton's authority." #NT!
+ acw_generic.123.a: "For righteousness!" #NT!
+ acw_generic.123.b: "These scoundrels?!" #NT!
+  
+ 05_ACW_NORTON_tt: "The United States is currently in a state of collapse. All captured territory before its own defection from Washington DC will be annexed." #NT!
+  
+  # Peace Deal Events 
+ acw_peace_deal.1.t: "Confederate Surrender!" #NT!
+ acw_peace_deal.1.d: "Earlier this morning, Union Commanding General Ulysses S. Grant encountered and defeated Confederate Commanding General Robert E. Lee at Appomattox Court House, where Lee was captured by Union forces. \n \nOn terms that he and his men would be spared, Lee officially surrendered and resigned as Confederate Commanding General. This move shattered the Confederacy, with other armies surrendering as they lose hope in the Confederacy. The Confederate government is reported to have fled into exile, with some reports suggesting that they have fled to the Caribbean. \n \nWith the Confederacy broken and defeated, [USA.GetNameDef] is united once more." #NT!
+ acw_peace_deal.1.a: "Hail Columbia!" #NT!
+ acw_peace_deal.1.b: "The Americans seem to have sorted their matter." #NT!
+ acw_peace_deal.2.t: "Union Surrender!" #NT!
+ acw_peace_deal.2.d: "Earlier this morning, Confederate Commanding General Robert E. Lee decisively defeated Union Commanding Officer George Meade in the outskirts of Reading, Pennsylvania. \n \nThe outcome of this latest battle was the last straw for many, and the Union has been forced to concede the Confederacy's independence." #NT!
+ acw_peace_deal.2.c: "Ok." #NT!
+ acw_peace_deal.5.t: "Collapse of the Golden Imperium" #NT!
+ acw_peace_deal.5.d: "Yesterday morning, news arrived that the last of the our forces have surrendered to the democratic army. Soon after, Emperor Norton had also been reported to have surrendered himself to the American Militia fruitlessly pleading forgiveness for his followers. His days may now be numbered." #NT!
+ acw_peace_deal.5.d_usa: "Yesterday morning, news arrived that the last of the monarchist rebel forces in California have surrendered their arms to us. Joshua Norton was reported to have surrendered himself in a desperate plea for amnesty of his treasonous followers. Now that we have captured this troublemaker, there is the matter of what to do with this fellow." #NT!
+ acw_peace_deal.5.a: "Send him to the gallows!" #NT!
+ acw_peace_deal.5.b: "To prison with him!" #NT!
+ acw_peace_deal.5.c: "A great attempt" #NT!
+ acw_peace_deal.5.c_tt: "§REnd of Campaign§!" #NT!
+ acw_peace_deal.6.d: "Yesterday morning, news arrived from [USA.GetNameDef], that the last of their monarchist rebel forces under self-proclaimed emperor Joshua Norton have surrendered their arms to the union army.\n \nThe skirmishes had been fierce in the isolated lands of American California and now Norton and his forces stand trial for treason." #NT!
+ acw_peace_deal.6.a: "Strange fellow, he was." #NT!
+ acw_peace_deal.7.t: "Norton Secures the West" #NT!
+ acw_peace_deal.7.d: "After years of fighting, the forces of the Golden Imperium have secured the western outlands of America and have forced an armistice. The originally small rogue rebels in San Francisco have brought their reach far and the legitimacy of Joshua Norton is no longer at question." #NT!
+ acw_peace_deal.7.d_acw: "After years of fighting, the forces of the Golden Imperium have secured the western outlands of America and have forced an armistice as greater threats to the persistence of the American Union lie in the East. The originally small rogue rebels in San Francisco have brought their reach far and the legitimacy of Joshua Norton is no longer at question." #NT!
+ acw_peace_deal.7.a: "Glory to the Emperor!" #NT!
+ acw_peace_deal.7.b: "An End to the Republic?" #NT!
+  # Peace Deal Tooltips 
+ 01_ACW_PEACEDEAL_tt: "§YYou urge your confederate brethren to accept defeat.§!\n" #NT!
+ 02_ACW_PEACEDEAL_tt: "§RYou urge your confederate brethren to not accept defeat!§!\n" #NT!
+ 03_ACW_PEACEDEAL_tt: "§GBegin readmission!§!\n" #NT!
+ 04_ACW_PEACEDEAL_tt: "The §C[USA.GetName]§! must now §Yoccupy§! the §gConfederacy§!.\n" #NT!
+  
+ 01_ACW_PEACEDEAL_VAL_tt: "§O[ENG.GetNameDef]§! cedes §YNew Brunswick§! and §YVancouver Island§! to us!\n" #NT!
+ 02_ACW_PEACEDEAL_VAL_tt: "§O[FRA.GetNameDef]§! cedes §YSt. Pierre & Miquelon§! to us!\n" #NT!
+ 03_ACW_PEACEDEAL_VAL_tt: "§O[RUS.GetNameDef]§! cedes §YAlaska§! to us!\n" #NT!
+ 04_ACW_PEACEDEAL_VAL_tt: "We have ceded §YNew Brunswick§! and §YVancouver Island§! to §O[USA.GetNameDef].§!\n" #NT!
+ 05_ACW_PEACEDEAL_VAL_tt: "We have ceded §YSt. Pierre & Miquelon§! to §O[USA.GetNameDef].§!\n" #NT!
+ 06_ACW_PEACEDEAL_VAL_tt: "We have ceded §YAlaska§! to §O[USA.GetNameDef].§!\n" #NT!
+ 07_ACW_PEACEDEAL_VAL_tt: "An interesting change in North American Geopolitics.\n" #NT!
+ 08_ACW_PEACEDEAL_VAL_tt: "The American Experiment continues.\n" #NT!

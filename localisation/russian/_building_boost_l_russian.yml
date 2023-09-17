@@ -1,31 +1,31 @@
 ﻿l_russian:
- ###Trigger Tooltips### #NT!
- building_total_bonus_present_any_tooltip: "§Y[ROOT.GetName]:§! Может получать любые бонусы на строительство зданий.\n"
- building_total_bonus_present_civ_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий для §YГражданских Фабрик§!.\n"
- building_total_bonus_present_mil_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий для §YВоенных заводов§!\n".
- building_total_bonus_present_infra_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий для §YИнфраструктуры§!.\n"
- building_total_bonus_present_dock_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий за §YВерфей§!.\n"
- building_total_bonus_present_airb_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий для §YАвиабаз§!.\n"
- building_total_bonus_present_navalb_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YМорских Портов§!.\n"
- building_total_bonus_present_bunker_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YБункеров§!.\n"
- building_total_bonus_present_cbunker_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YПрибрежных Бункеров§!.\n"
- building_total_bonus_present_aa_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий за §YПВО§!.\n"
- building_total_bonus_present_refo_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы к строительству зданий для §ҮСинтетических нефтеперерабатывающих заводов§!.\n"
- building_total_bonus_present_refr_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YСинтетических каучуковых нефтеперерабатывающих заводов§!\n"
- building_total_bonus_present_fueli_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы к строительству зданий для §YПромышленных топливных силосов§!\n"
- building_total_bonus_present_fuelm_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YСовременных Топливных Силосов§!.\n"
- building_total_bonus_present_radar_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YРадарных станций§!\n".
- building_total_bonus_present_rocket_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YРакетных Площадок§!.\n"
- building_total_bonus_present_nuclear_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YЯдерных Реакторов§!.\n"
- building_total_bonus_present_coal_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий для §YУгольных Шахт§!.\n"
- building_total_bonus_present_cotton_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий для §YХлопковых Ферм§!.\n"
- building_total_bonus_present_fabric_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий для §YТканевых ткацких фабрик§!.\n"
- building_total_bonus_present_steel_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий для §YСталелитейных заводов§!\n "#
- building_total_bonus_present_logging_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YЛесозаготовительных лагерей§!.\n"
- building_total_bonus_present_machine_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YЗаводов деталей машин§!.\n"
- building_total_bonus_present_elec_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий для §YЭлектронных фабрик§!.\n"
- building_total_bonus_present_plast_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YПластмассовых заводов§!.\n"
- building_total_bonus_present_ceramic_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YКерамических горелок§!.\n"
- building_total_bonus_present_generator_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий для §YГенераторных заводов§!.\n"
- building_total_bonus_present_farm_tooltip: "§Y[ROOT.GetName]:§! Может получать бонусы на строительство зданий для §YФермы§!.\n"
- building_total_bonus_present_trench_tooltip: "§Y[ROOT.GetName]:§! Может получить бонусы на строительство зданий для §YТраншей§.\n"
+  ###Trigger Tooltips### 
+ building_total_bonus_present_any_tooltip: "§Y[ROOT.GetName]:§! Can receive any building construction bonuses.\n" #NT!
+ building_total_bonus_present_civ_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YCivilian Factories§!.\n" #NT!
+ building_total_bonus_present_mil_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YMilitary Factories§!.\n" #NT!
+ building_total_bonus_present_infra_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YInfrastructure§!.\n" #NT!
+ building_total_bonus_present_dock_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YDockyards§!.\n" #NT!
+ building_total_bonus_present_airb_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YAir Bases§!.\n" #NT!
+ building_total_bonus_present_navalb_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YNaval Ports§!.\n" #NT!
+ building_total_bonus_present_bunker_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YBunkers§!.\n" #NT!
+ building_total_bonus_present_cbunker_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YCoastal Bunkers§!.\n" #NT!
+ building_total_bonus_present_aa_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YAnti Air§!.\n" #NT!
+ building_total_bonus_present_refo_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YSynthetic Oil Refineries§!.\n" #NT!
+ building_total_bonus_present_refr_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YSynthetic Rubber Refineries§!.\n" #NT!
+ building_total_bonus_present_fueli_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YIndustrial Fuel Silos§!.\n" #NT!
+ building_total_bonus_present_fuelm_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YModern Fuel Silos§!.\n" #NT!
+ building_total_bonus_present_radar_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YRadar Stations§!.\n" #NT!
+ building_total_bonus_present_rocket_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YRocket Sites§!.\n" #NT!
+ building_total_bonus_present_nuclear_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YNuclear Reactors§!.\n" #NT!
+ building_total_bonus_present_coal_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YCoal Mines§!.\n" #NT!
+ building_total_bonus_present_cotton_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YCotton Farms§!.\n" #NT!
+ building_total_bonus_present_fabric_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YFabric Weaveries§!.\n" #NT!
+ building_total_bonus_present_steel_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YSteel Mills§!.\n" #NT!
+ building_total_bonus_present_logging_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YLogging Camps§!.\n" #NT!
+ building_total_bonus_present_machine_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YMachine Parts Factories§!.\n" #NT!
+ building_total_bonus_present_elec_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YElectronics Factories§!.\n" #NT!
+ building_total_bonus_present_plast_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YPlastics Refineries§!.\n" #NT!
+ building_total_bonus_present_ceramic_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YCeramic Burners§!.\n" #NT!
+ building_total_bonus_present_generator_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YGenerator Factories§!.\n" #NT!
+ building_total_bonus_present_farm_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YFarms§!.\n" #NT!
+ building_total_bonus_present_trench_tooltip: "§Y[ROOT.GetName]:§! Can receive building construction bonuses for §YTrenches§!.\n" #NT!

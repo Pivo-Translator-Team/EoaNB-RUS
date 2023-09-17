@@ -1,478 +1,478 @@
 ﻿l_russian:
- influential_writer:0 "Влиятельный писатель"
- om_influential_writer:0 "Влиятельный писатель"
- om_war_support: "Поддержка Войны" #NT!
- om_war_support_for_enemy: "Военная поддержка наших врагов" #NT!
- om_military_operation: "Военная Операция" #NT!
- om_military_occupation: "Военная Оккупация" #NT!
- om_rejected_reforms: "Отклоненные Реформы" #NT!
- om_supports_reform_plan: "Поддерживает План Реформ" #NT!
- om_berlin_congress_forced_into_a_corner: "Берлинский Конгресс - Загнан в Угол" #NT!
- om_berlin_congress_honest_broker: "Берлинский Конгресс - Честный Брокер" #NT!
- om_berlin_congress_betrayal: "Берлинский Конгресс - Предательство" #NT!
-SPR_Aureliano_Maestre_de_San_Juan:0 "Аурелиано Маэстре де Сан Хуан"
-SPR_Jose_de_Salamanca:0 "Хосе де Саламанка"
-SPR_Rafael_Perez_del_Alamon:0 "Рафаэль Перес дель Аламо"
-SPR_Leopoldo_O_Donnell:0 "Леопольдо О'Доннелл"
-SPR_Praxedes_Mateo_Sagasta:0 "Пракседес Матео Сагаста"
-SPR_Manuel_Garcia_Barzanallana:0 "Мануэль Гарсия Барсаналлана"
- land_and_liberty:0 "Земля и свобода"
- land_and_liberty_desc:0 "Русская террористическая организация, созданная в 1860-х годах".
- peoples_will:0 "Народная воля"
- peoples_will_desc:0 "Российская террористическая организация, отделившаяся от "Земли и свободы". Она стоит за убийством Александра II".
- black_redestribution:0 "Черный передел"
- black_redestribution_desc:0 "Черный Передел - мирная анархо-социалистическая организация, выбравшая мирный путь реформирования страны."
- MEX_decision_claim_mexican_crown:0 "Претендовать на мексиканскую корону"
- MEX_decision_claim_mexican_crown_tt:0 "Мы будем фактически неотделимы от оригинальной Мексики (меняет наш тег с временного тега гражданской войны на тег Мексики)".
- MEX_idea_pay_debt_french:0 "Выплата наших долгов".
- MEX_idea_unpopular_among_liberals:0 "Непопулярный среди либералов"
- MEX_idea_unpopular_among_conservative:0 "Непопулярный среди консерваторов"
- MEX_idea_aftermath_maximilian_affair:0 "Последствия Максимилиановского дела"
- MEX_idea_second_mexican_empire:0 "Вторая Мексиканская империя"
- ITA_minor_trade_output:0 "Только местные диалекты"
- ITA_minor_Same_Government:0 "Сохраняя стабильность"
- ITA_minor_Fight_with_Savoy:0 "Борьба с Пьемонтом"
- ITA_minor_Call_to_Arms:0 "Призыв к оружию"
- ITA_minor_Government_of_Change:0 "Правительство перемен"
- ITA_minor_Fast_Path_of_War:0 "Быстрый путь войны"
- ITA_minor_One_Italy:0 "Одна Италия"
- ITA_minor_Small_Community1:0 "Маленькая община"
- ITA_minor_Art_Galleries1:0 "Художественные галереи"
- ITA_minor_Strong_Militia1:0 "Сильное ополчение"
- ITA_minor_Repress_Republicans1:0 "Подавление республиканцев"
- ITA_minor_Catholic_Devotion1:0 "Католическая преданность"
- ENG_Victoria:0 "Виктория"
- ENG_colonial_Victoria:0 "Виктория"
- FRA_colonial_Napoleon_III:0 "Наполеон III"
- GRE_Otto_I:0 "Оттон I"
- HOL_William_III:0 "Вильгельм III"
- ITA_hos_Victor_Emmanuel_II:0 "Виктор Эммануил II"
- ITA_hos_Victor_Emmanuel_II_desc:0 "Народ Сардинии объединен за своим любимым королем, что укрепляет единство нации".
-TUS_hos_Leopold_II:0 "Леопольд II".
- OTO_Abdulmecid:0 "Абдулмеджид"
- POR_Pedro_V:0 "Педро V"
- SPR_Isabella_II:0 "Изабелла II"
- BRA_Pedro_II:0 "Педро II"
- ITA_minor_Catholic_Devotion:0 "Приверженец католицизма"
- ITA_minor_Sympathize_Piedmontese1:0 "Сочувствовал пьемонтцам"
- ITA_minor_Stand_Up_Piedmontese:0 "Выступал против пьемонтцев"
- ITA_minor_Ask_Austrian_Volunteers:0 "Попросил добровольцев"
- ITA_minor_Denounced:0 "Денонсирован"
- ITA_minor_Dante_Promoted:0 "Продвижение Данте"
- ITA_minor_Art_Galleries2:0 "Отношения с остальной Европой улучшатся!".
- ITA_minor_Austrian_Volunteers:0 "Австрия пришлет нам добровольцев!"
- ITA_minor_Dante_Promoted1:0 "Продвижение работ Данте значительно улучшит наши отношения с другими итальянцами!".
- ITA_minor_form_italy:0 "Мы образуем Италию!".
- ITA_minor_piedmont_not_threat:0 "Пьемонт больше не представляет угрозы, поэтому мы можем больше сосредоточиться на других вещах".
- hydropower:0 "Гидроэнергетика"
- hydropower_desc:0 "Гидроэлектрическая энергия производится из движущейся воды. Гидроэлектрические плотины используют трубы, которые толкают и вращают лопасти в турбине, чтобы вращать генератор для производства электроэнергии."
- ELEC_DEVICES_TITLE_HYDROPOWER:0 "Гидроэнергетика"
- hydropower_2:0 "Пеншток"
- hydropower_2_desc:0 "Пеншток - это труба внутри плотины гидроэлектростанции, которая толкает воду к турбине."
- hydropower_3:0 "Зерновые фермы с гидроэлектростанциями"
- hydropower_3_desc:0 "Гидроэнергия может использоваться для питания зерновых мельниц и лесозаготовительных лагерей."
- hydropower_4:0 "Гидроэнергетические сталелитейные заводы"
- hydropower_4_desc:0 "Гидроэлектроэнергия может быть использована для ускорения производства сталелитейных заводов."
- hydropower_5:0 "Гидроэнергетические алюминиевые заводы"
- hydropower_5_desc:0 "Гидроэнергия может быть использована для питания наших алюминиевых заводов, что поможет увеличить производство нашего алюминия."
- raaf_success:0 "Рейд успешен"
- raaf_success_desc:0 "Наш рейд на анархистов успешен!".
- raaf_success2:0 "Большой рейд удался"
- raaf_success2_desc:0 "Наш большой рейд на анархистов удался!"
- raaf_failure2:0 "Большой рейд не удался"
- raaf_failure2_desc:0 "Наш большой рейд на анархистов не удался!"
- raaf_success3:0 "Охота на анархистов успешна"
- raaf_success3_desc:0 "Наша охота на анархистов успешна!"
- raaf_failure3:0 "Охота на анархистов не удалась"
- raaf_failure3_desc:0 "Наша охота на анархистов на анархистов не удалась!"
- raaf_failure:0 "Рейд не удался"
- raaf_failure_desc:0 "Наш рейд на анархистов не удался!"
- raa.1.t:0 "Анархистская пропаганда в нашей столице!"
- raa.1.d:0 "У нас есть новости, что в нашей столице есть какое-то анархистское движение. Похоже, что его возглавляет организация "Земля и свобода". Они пытаются убедить людей свергнуть наше правительство и создать анархистскую коммуну."
- raa.1.a:0 "Пришлите полицию!"
- raa.2.t:0 "Анархисты набирают силу"
- raa.2.d:0 "Анархистские организации набирают силу в нашей стране. Мы планируем грандиозную облаву на них. Сам план уже готов, нужно только правильно его исполнить".
- raa.2.a:0 "Арестовать их всех!".
- raa.3.t:0 "Мы начинаем охоту на анархистов!".
- raa.3.d:0 "Анархисты получили слишком много власти в нашей стране. Мы должны остановить их, несмотря ни на что, любой ценой".
- raa.3.a:0 "Поезда в Сибирь готовы к отправке".
-
- italy_minor.1.t:0 "Просьба к добровольцам из Австрии"
- italy_minor.1.d:0 "Мы должны получить добровольцев из Австрии, чтобы защитить себя".
- italy_minor.1.a:0 "Попросить"
- italy_minor.2.t:0 "Добровольцы в Италии"
- italy_minor.2.d:0 "Второстепенное итальянское государство попросило у нас добровольцев, чтобы защитить себя".
- italy_minor.2.a:0 "Посылайте добровольцев!"
- italy_minor.2.b:0 "Пришлите им людей, но не добровольцев".
- italy_minor.2.c:0 "Не посылайте им ничего!"
- italy_minor.3.t:0 "Добровольцы из Австрии"
- italy_minor.3.d:0 "Австрийцы приняли нашу просьбу и прислали добровольцев, чтобы помочь нам".
- italy_minor.3.a:0 "Ура!"
- italy_minor.4.t:0 "людская сила из Австрии"
- italy_minor.4.d:0 "Вместо добровольцев австрийцы прислали рабочую силу. Это не идеально, но, по крайней мере, они все еще помогают нам".
- italy_minor.4.a:0 "По крайней мере, это хоть что-то".
- italy_minor.5.t:0 "Ничего из Австрии"
- italy_minor.5.d:0 "Австрийцы не прислали ничего, чтобы помочь нам в наших усилиях, эти несчастные!"
- italy_minor.5.a:0 "Эти австрийские мерзавцы!"
- italy_minor.6.t:0 "Требуем Романьи и Марки"
- italy_minor.6.d:0 "Пришло время требовать земли у Папского государства, хотя мы не можем требовать Рим и окрестности, мы все еще можем требовать Романьи и Марки".
- italy_minor.6.a:0 "Просите"
- italy_minor.7.t:0 "Требования минора"
- italy_minor.7.d:0 "Один из итальянских миноров, окружающих нас, потребовал, чтобы мы отдали им Романьи и Марки. Что мы будем делать?"
- italy_minor.7.a:0 "Уступить"
- italy_minor.7.b:0 "Отказаться"
- italy_minor.8.t:0 "Папа Римский уступает"
- italy_minor.8.d:0 "Папа решил отдать нам наши законные земли Романьи и Марки!".
- italy_minor.8.a:0 "Ура!"
- italy_minor.9.t:0 "Папа отказывается"
- italy_minor.9.d:0 "Папа решил отказаться от нашего щедрого предложения! Что нам делать с этой проблемой?"
- italy_minor.9.a:0 "Взять его силой!"
- italy_minor.9.b:0 "Отступить"
- italy_minor.10.t:0 "Минор отступает"
- italy_minor.10.d:0 "Минор, который требовал, чтобы мы отдали им наши праведные земли, отступил от своей нелегкой борьбы".
- italy_minor.10.a:0 "Святой день!"
- lnl.1.t:0 "Появились земля и свобода"
- lnl.1.d:0 "Похоже, что группа социалистов создала свою собственную организацию под названием "Земля и свобода". Учитывая, что эта организация просоциалистическая, нам нужно что-то быстро предпринять, иначе ситуация может выйти из-под контроля."
- lnl.1.a:0 "Я так не думаю".
- lnl.1.b:0 "Мы должны остановить их!".
- asat.1.t:0 "Первое покушение!"
- asat.1.d:0 "Сегодня, 4 апреля 1866 года, жизнь Александра II была в опасности. Крестьянин Каразаков пытался убить нашего императора, используя в качестве оружия револьвер. Похоже, что этот террорист - член организации "Земля и Свобода"".
- asat.1.a:0 "Это было близко!"
- asat.2.t:0 "Вторая попытка покушения!"
- asat.2.d:0 "Сегодня, 25 мая 1867 года, жизнь Александра II снова была в опасности. В тот раз польско-эмигрант Антон Березовский пытался застрелить нашего императора во время его поездки в Париж. Пуля попала в лошадь. Император спасся".
- asat.2.a:0 "Не стоит ли нам что-то сделать с этими террористами?".
- asat.3.t:0 "Третье покушение!"
- asat.3.d:0 "Сегодня, 2 апреля 1879 года, жизнь Александра II оказалась под угрозой в третий раз. На этот раз А.К. Соловьев сделал 5 выстрелов из своего револьвера прямо в нашего императора. Все они промахнулись, император остался невредим".
- asat.3.a:0 "Вот это было РЕАЛЬНО близко".
- asat.4.t:0 "Четвертое покушение!"
- asat.4.d:0 "Сегодня, 19 ноября 1879 года, жизнь Александра II снова оказалась под угрозой. На этот раз террористы попытались взорвать императорский поезд под Москвой. Им это не удалось, так как они взорвали не тот поезд. Император снова в безопасности, но за ним ведется охота".
- asat.4.a:0 "Мы должны найти этих ублюдков!".
- asat.5.t:0 "Пятое покушение!"
- asat.5.d:0 "Сегодня, 5 февраля 1880 года, на втором этаже Зимнего дворца произошел взрыв, который угрожал жизни императора в другом времени. Погибло 11 человек, но император в безопасности".
- asat.5.a:0 "Какого черта делает наша полиция?!".
- asat.6.t:0 "Шестое и седьмое покушения! Российский император мертв!"
- asat.6.d:0 "Этот день, 1 марта 1881 года, станет трауром для всей нашей страны. Сегодня наш император погиб в результате страшного взрыва, устроенного террористами на набережной Екатерининского канала. Александр III принял правление страной".
- asat.6.a:0 "Покойся с миром, Александр II!".
- lnl.2.t:0 "Земля и Свобода разбиты!".
- lnl.2.d:0 "Террористической организации, которая долгое время беспокоила нас, больше не существует! Теперь есть 2 независимые - "Народная воля" и "Черный передел"".
- lnl.2.a:0 "У меня плохое предчувствие..."
- zion:0 "Сион"
- zion_desc:0 "Пусть это будет то, где мы живем, или то, чем мы станем".
- federalappointments:0 "Федеральные назначения"
- federalappointments_desc:0 "Многие федеральные назначенцы уходят, недовольные нашей политикой и, очевидно, напуганные нашей практикой. Сомнительно, что из их диких слухов и чрезмерного беспокойства что-то получится".
- endofthereformation:0 "Конец реформации"
- endofthereformation_desc:0 "Мормонская реформация, как ее называли, стала важным эпизодом возвращения в Церковь СПД. Сотни (если не тысячи) были повторно крещены, и оживленная атмосфера общины быстро распространилась по всей территории Юта."
- undefined:0 ""
- undefined_desc:0 ""
- alfredcumming:0 "Альфред Камминг"
- alfredcumming_desc:0 "Бригам Янг недавно узнал о назначении некоего Альфреда Камминга, бывшего мэра Огасты, штат Джорджия, на место губернатора Территории Юта. Это неожиданно, но, скорее всего, с этим можно легко справиться".
- theutahexpedition:0 "Экспедиция Юта"
- theutahexpedition_desc:0 "Армия США скоро прибудет в Юту с неясными целями. Слухи о повторном назначении Камминга губернатором продолжают распространяться."
- evacuationorders:0 "Приказы об эвакуации"
- evacuationorders_desc:0 "Бригам Янг приказал эвакуировать мормонов всех мастей - от пионеров в Калифорнии до миссионеров в Европе".
- returnofthenavuoo:0 "Возвращение Навуо"
- returnofthenavuoo_desc:0 "Легионы Навуо, которые в последний раз использовались для защиты мормонских поселений во время напряженного периода в Иллинойсе всего за десять лет до этого, были вновь активизированы. Они будут использоваться для защиты бассейна Большого Соленого озера и близлежащих поселений."
- nativereconciliation:0 "Примирение коренных народов"
- nativereconciliation_desc:0 "Бригам Янг решил встретиться с местными племенами Юты, в первую очередь с юте, чтобы закрепить рабочий договор по мере приближения армии."
- defenseofutah:0 "Оборона Юты"
- defenseofutah_desc:0 "Поскольку все жители территории Юта мобилизуются, чтобы подготовиться к предстоящему вторжению, необходимо построить укрепления в стратегических точках доступа к бассейну Соленого озера."
- martiallaw:0 "Военное положение"
- martiallaw_desc:0 "Военное положение было объявлено на всей территории Юта. Наше время сопротивления быстро приближается".
- fight:0 "Бой"
- fight_desc:0 "После принятия решения о наших окончательных действиях против армии США, все свелось к тому, чтобы стоять и сражаться, или отступить и сжечь наши дома по пути".
- flight:0 "Полет"
- flight_desc:0 "При принятии решения о наших окончательных действиях против армии США, все свелось к тому, чтобы стоять и сражаться, или отступать и сжигать наши дома по пути."
- north:0 "Север"
- north_desc:0 "Для основной массы нашего народа крайне важно выбрать, куда мы пойдем - в долину Биттеррут на севере или в Белые горы на юге".
- south:0 "Юг"
- south_desc:0 ""
-
- Greecefocus.4.t:0 "День независимости!"
- Greecefocus.4.d:0 "Эйфория и экстаз охватили сегодня всю Грецию, поскольку сегодня отмечается День независимости нашей страны от Османской империи в 1821 году. Хотя некоторые считают, что революция официально началась не 25 марта, большинство признает сегодняшний день окончанием турецкой оккупации. Сегодня был день, когда епископ Германос благословил наш флаг и поднял его прямо у ворот Агия Лавра, знаменитого монастыря в Ахайе".
- Greecefocus.4.a:0 "Да!".
- Greecefocus.3.t:0 "Тур короля Георга по Пелопоннесу"
- Greecefocus.3.d:0 "Наш молодой король, Георг I Эллинский, отправился в тур по Пелопоннесу, одному из наших самых исторических регионов и месту зарождения нашей революции. Начав в Коринфе, король Георг посетит многие исторические города, включая Аргос, Триполи, Спарту и Каламату. По окончании поездки короля сопроводят на Ионические острова, где состоится запланированная церемония передачи островов от Британской империи к Греции".
- Greecefocus.3.a:0 "Сладкий"
- Greecefocus.1.t:0 "Переворот 1862 года"
- Greecefocus.1.d:0 "В 1862 году в Греции произошел переворот, в результате которого был свергнут совершенно непопулярный король Оттон I".
- Greecefocus.1.a:0 "Хорошо.... Наверное?"
- Greecefocus.2.t:0 "Королевский брак!"
- Greecefocus.2.d:0 "В 1867 году Георг I женился на русской царевне."
- Greecefocus.2.a:0 "Мои соболезнования"
- GRE_Regency:0 "Междуцарствие"
- GRE_George_I:0 "Георг I"
- Gre_Agriculture:0 "Сосредоточение в греческом сельском хозяйстве"
- GRE_increase_agri_output:0 "Повышение производительности фабрик"
- GRE_Populationboom:0 "Греческий демографический бум"
- GRE_Agri_revolution:0 "Сельскохозяйственная революция"
- GRE_Greek_Army:0 "Греческая армия"
- GRE_grandarmy:0 "Великая армия"
- GRE_megaliidea:0 "Мегалийская идея"
- GRE_megaliidea_desc:0 "Идея Мегали" была ирредентистской концепцией греческого национализма, которая выражала цель создания греческого государства, которое охватывало бы все исторически этнические области, населенные греками."
- GRE_searchforking:0 "Поиск нового короля"
- GRE_searchforking_desc:0 "Нам нужно искать нового короля, такого, которого действительно хочет народ!".
- GRE_kingofhellenes:0 "Король Эллинов"
- GRE_kingofhellenes_desc:0 "Наш король коронует себя как король эллинов"
- GRE_tourpeloponnese:0 "Тур по Пелопоннесу"
- GRE_tourpeloponnese_desc:0 "Его Величество совершит тур по Пелопоннесу, чтобы показать, что он является царем народа"
- GRE_updating40yearbuilding:0 "Обновление 40-летнего здания"
- GRE_updating40yearbuilding_desc:0 "Чтобы показать свое отличие от старого короля, наш правитель решил обновить здание парламента"
- GRE_fireunpopularadvisors:0 "Уволить непопулярных советников"
- GRE_fireunpopularadvisors_desc: "Королю не нужен советник, которого не хочет народ!" #NT!
- GRE_adoptnewconstitution:0 "Принять новую конституцию"
- GRE_adoptnewconstitution_desc:0 "Наш король принял этот титул, пообещав новую Конституцию, и поэтому он должен ее получить"
- GRE_dividegovernment:0 "Разделить правительство"
- GRE_dividegovernment_desc:0 "Наш король планирует разделить правительство, чтобы укрепить собственное положение как в государстве, так и среди населения"
- GRE_overthrowourking:0 "Свергнуть короля"
- GRE_overthrowourking_desc:0 "Чего вы ожидаете?"
- GRE_internalbreakdown:0 "Внутренний разрыв"
- GRE_internalbreakdown_desc:0 "Популярность нашего короля находится на рекордно низком уровне, его правление на грани срыва".
- GRE_dimitriosvoulgarisresigns:0 "Димитриос Вулгарис уходит в отставку"
- GRE_dimitriosvoulgarisresigns_desc:0 "В 1857 году Димитриос Вулгарис оставил свой пост"
- GRE_puppetgovernment:0 "Установить марионеточное правительство"
- GRE_puppetgovernment_desc:0 "Национальное собрание не смогло сформировать новое правительство после отставки Димитриоса Вулгариса, поэтому король Оттон I воспользовался этим, чтобы установить марионеточное правительство"
- GRE_securingpower:0 "Обеспечение власти"
- GRE_securingpower_desc:0 "Хотя король теперь имеет марионетку в качестве премьер-министра, это еще не означает, что его господство надежно."
- GRE_protectorofallgreeks:0 "Защитник всех греков"
- GRE_protectorofallgreeks_desc:0 "Наша нация позаботится о защите каждого грека в каждой стране".
- GRE_fastreplacement:0 "Быстрая замена"
- GRE_fastreplacement_desc:0 "Нам нужно заменить наше старое оборудование и экономику на более современные, если мы хотим конкурировать с другими державами."
- GRE_cottonfarms:0 "Построить хлопковые фермы"
- GRE_cottonfarms_desc:0 "Наша униформа зависит от производства хлопка, поэтому нам нужно наладить собственное производство".
- GRE_heavyindustry:0 "Тяжелая промышленность"
- GRE_heavyindustry_desc:0 "Очевидно, что нам нужно создать тяжелую промышленность, если мы хотим оставаться актуальными".
- GRE_agriculturalindustry:0 "Фокус на греческом сельском хозяйстве"
- GRE_agriculturalindustry_Desc:0 "Нам не нужны все эти новые вещи, если мы можем просто сохранить нашу сельскохозяйственную промышленность, которая никогда не предавала нас."
- GRE_economy:0 "Фокус на греческой экономике"
- GRE_economy_desc:0 "Нам нужно сосредоточиться на нашей экономике"
- GRE_increaseagriculturaloutput:0 "Увеличить наше сельскохозяйственное производство"
- GRE_increaseagriculturaloutput_desc:0 "Мы должны увеличить наше сельскохозяйственное производство, если мы хотим поддержать будущее население на этой небольшой территории."
- GRE_armsindustry:0 "Создать оружейную промышленность"
- GRE_armsindustry_desc:0 "Нам нужно развивать оружейную промышленность, чтобы поддерживать большую армию".
- GRE_modernstate:0 "Современное государство"
- GRE_modernstate_desc:0 "Давайте превратим Грецию в современное государство"
- GRE_populationboom:0 "Греческий демографический бум"
- GRE_populationboom_desc:0 "Благодаря увеличению сельскохозяйственного производства в Греции наблюдается демографический бум".
- GRE_logging:0 "Лесозаготовки"
- GRE_logging_desc:0 "Лесная промышленность всегда была надежной отраслью, поэтому давайте увеличим наше финансирование в ней".
- GRE_agriculturalrevolution:0 "Сельскохозяйственная революция"
- GRE_agriculturalrevolution_desc:0 "Кому нужна промышленная революция, если можно провести сельскохозяйственную?".
- GRE_wineexportofeurope:0 "Экспорт вина в Европе"
- GRE_wineexportofeurope_desc:0 "Вино? Какое вино? *Hicc*"
- GRE_industrialize:0 "Индустриализация нашей страны"
- GRE_industrialize_desc:0 "Мы должны индустриализировать нашу страну, как другие великие державы!".
- GRE_anewconstantinople:0 " Новый Константинополь"
- GRE_anewconstantinople_desc:0 "Нам нужно вернуть славу этого потерянного города"
- GRE_newnames:0 "Новые имена для наших провинций"
- GRE_newnames_desc:0 "Старые турецкие названия не подходят нашей славной нации".
- GRE_armyreform:0 "Реформировать армию"
- GRE_armyreform_desc:0 "Провал Крымской войны ясно показывает, что нам необходимо реформировать нашу армию".
- GRE_learningnewways:0 "Изучение новых путей"
- GRE_learningnewways_desc:0 "Нам нужно обратиться за советом к более успешным странам".
- GRE_agreekarmy:0 " Греческая армия"
- GRE_agreekarmy_Desc:0 " Нам необходимо создать национальную греческую армию, способную защитить нашу нацию. "#.
- GRE_looktothebritish:0 "Обратиться к британцам"
- GRE_looktothebritish_desc:0 "Давайте обратимся к британцам"
- GRE_militaryindustrialcomplex:0 "Военно-промышленный комплекс"
- GRE_militaryindustrialcomplex_desc:0 "Создание военно-промышленного комплекса - очевидный путь вперед".
- GRE_prussianstylearmy:0 "Армия в прусском стиле"
- GRE_prussianstylearmy_desc:0 "Давайте сделаем нашу армию такой же эффективной, как прусская".
- GRE_looktothefrench:0 "Смотреть на французов"
- GRE_looktothefrench_desc:0 "Давайте обратимся к фр... ах, подождите Что?"
- GRE_looktotherussian:0 "Посмотрим на русских"
- GRE_looktotherussian_desc: "Давайте смотреть на наших православных братьев как на пример" #NT!
- GRE_dosomethingabouttheliteracy:0 "Лучше уровень грамотности"
- GRE_dosomethingabouttheliteracy_desc:0 "Трудно управлять населением при демократии, если оно неграмотно, так давайте изменим это".
- GRE_Restoretrustinthearmy:0 "Восстановить доверие к нашей армии"
- GRE_Restoretrustinthearmy_desc:0 "После Крымской войны наша армия была разрушена, мы должны это исправить!".
- GRE_Crimeanwar:0 "Провал Крымской войны"
- AUS_flag_won_sww:0 "Австрия победила в Семинедельной войне".
- TRIGGER_OVERLORD:0 "Оверлорд".
- KOR_helveticdream:0 "Гельветическая мечта"
- KOR_innaguratetriannual:0 "Инаугурация трехгодичных выборов"
- KOR_neuchatelaffair:0 "Невшательское дело"
- KOR_letthemsupport:0 "Пусть поддерживают, кого хотят"
- KOR_stoptheirfanatism:0 "Остановить их немецкий фанатизм"
- BRA_custom_effect_naval_production_tt:0 "Наше военно-морское производство будет улучшено!"
- BRA_custom_effect_uruguayan_war_tt:0 "Это начнет Уругвайскую войну, мы будем поддерживать Колорадос!".
- BRA_custom_effect_pride_tt:0 "Это улучшит мораль и силу нашего флота".
- PRU_custom_effect_pride_tt:0 "Мы восстанем в славе и оправимся от гражданской войны!".
- PRU_custom_effect_docks_tt:0 "Начнется блокада эквадорских портов".
- PRU_custom_effect_americanist_tt:0 "Наши собратья-американцы будут воспринимать нас как дружественную страну".
- eoanb_decision_reopen_textile_mill:0 "Вновь открыть текстильный комбинат"
- eoanb_decision_reopen_textile_mill_desk:0 "Мы должны снова открыть текстильную фабрику".
- eoanb_decision_reopen_steel_mill:0 "Снова открыть сталелитейный завод"
- eoanb_decision_reopen_steel_mill_desk:0 "Мы должны снова открыть сталелитейный завод".
- eoanb_decision_reopen_machine_parts_factory:0 "Снова открыть завод по производству деталей для машин"
- eoanb_decision_reopen_machine_parts_factory_desk:0 "Мы должны снова открыть завод деталей машин".
- eoanb_trigger_has_4_cotton:0 "Имеет излишки по крайней мере 4 §YХлопка§!".
- eoanb_trigger_has_2_iron: "Имеет избыток не менее 2 §YЖелеза§!" #NT!
- eoanb_trigger_has_4_coal: "Имеет избыток не менее 4 §YУгля§!" #NT!
- eoanb_trigger_has_2_coal:0 "Имеет избыток не менее 2 §YУгля§!".
- eoanb_trigger_has_3_steel:0 "Имеет избыток не менее 3 §YСтали§!"
- closed_textile_mill_reopens:0 "§YТекстильная фабрика§! Открыта вновь"
- closed_steel_mill_reopens:0 "§YСталелитейный завод§! Открыт снова"
- closed_machine_parts_factory_reopens:0 "§YMachine Parts Factory§! Открывается снова"
- production_constructions:0 "Производственные здания"
- POLITICS_PEDRO_II_DESC:0 "Дом Педро II пришел к власти, когда ему было всего 14 лет, в то время как империя разрушалась из-за политической борьбы и восстаний, которые происходили в период Регентства, но, к удивлению всех в стране, он сумел использовать свои политические знания, чтобы стабилизировать страну и вернуть ей былую славу. Император финансировал базовое образование, университеты, и в целом он модернизировал Бразилию, но у него есть большие амбиции, и император планирует привести страну к промышленной мощи европейцев."
- POLITICS_SINIMBU_DESC:0 "Либеральный и реформистский лидер. Решения, которые будет принимать страна, будет определять парламент, но лично Синимбу хочет, чтобы император оставался фигурантом, а не обладателем всей полноты власти."
- POLITICS_KARL_NESSELRODE_DESC:0 "Бывший дипломат и государственный секретарь, Карл Нессельроде сейчас является одиннадцатым канцлером Российской империи."
-#PAP_Med_Trade:0 "Increased Mediterranean Trade"
- PAP_Med_Trade_desc:0 "Средиземное море издавна использовалось для торговли между странами. Мы должны улучшить нашу способность использовать его также".
- PAP_Anti_Piedmont_Alliance:0 "Антипьемонтская коалиция".
- PAP_Anti_Piedmont_Alliance_desc:0 "Мы являемся членом Антипьемонтской коалиции".
-#PAP_Take_Italy_Force:0 "Объединить Италию силой!"
-#PAP_Take_Italy_Force_desc:0 "Пьемонт был прав, мы должны объединить Италию под нашей властью!".
- PAP_Med_Trade:0 "Средиземноморские купцы"
- PAR_custom_effect_paraguay:0 "Солано Лопес примет контроль над Парагваем как законный наследник своего отца".
- PAR_custom_effect_paraguay2:0 "Солано начнет процесс милитаризации".
- PAR_custom_effect_paraguay3:0 "Резервы будут направлены на усиление нашей армии".
- PAR_custom_effect_paraguay4:0 "Мы развернем нашу армию, чтобы обеспечить выполнение наших требований!".
- PAR_custom_effect_paraguay5:0 "К войне!".
- eng_european_collaboration:0 "Европейское сотрудничество"
- eng_rival_diplomats:0 "Дипломаты в соперничающей стране"
- eng_diplomats:0 "Дипломаты в нашей стране"
- eng_british_neutrality:0 "Нейтралитет Великобритании"
- eng_support_confederates_usa:0 "Поддержка конфедератов"
- eng_support_confederates_csa:0 "Поддержка конфедератов"
- eng_condemn_slave_trade_usa:0 "Британия порицает рабство"
- eng_english_boats:0 "Британские лодки"
- eng_condemn_slave_trade:0 "Осуждаем работорговлю"
- eng_slave_trade_usa:0 "Британия поддерживает рабство"
- eng_contested_central_asia:0 "Спор за Центральную Азию"
- eng_peace_central_asia:0 "Мир над Центральной Азией"
- eoanb_decision_ENG_cede_ION:0 "Уступка Ионических островов Греции"
- eoanb_decision_ENG_cede_ION_desc:0 "Ионические острова, цепь островов от Эпира на севере до Пелопоннеса на юге, были нашим протекторатом с Венского конгресса в 1815 году. Ионические острова были нашей процветающей территорией, но их стратегическая ценность невелика, поскольку мы уже контролируем Средиземноморье, а их уступка повысит популярность нового короля Греции, приблизив ее к нам."
- OFS_TRV_Truce:0 "§Мы заключим мир с Южно-Африканской Республикой.§!".
- PIE_2IW_Victory:0 "Победа Сардинского королевства во 2-й Итальянской войне за независимость"
- improved_relations_light:0 "Слегка улучшенные отношения"
- improved_relations_light_desc:0 "У нас слегка улучшенные отношения с этой страной".
- improved_relations:0 "Улучшенные отношения"
- improved_relations_desc:0 "У нас улучшились отношения с этой страной".
- improved_relations_strong:0 "Сильно улучшенные отношения"
- improved_relations_strong_desc:0 "Мы значительно улучшили отношения с этой страной".
- NAVAL_DESIGN_LABEL:0 "Конструктор"
- TASK_FORCE_COMPOSITION_ADD_1:0 "§GЩёлкните§! чтобы добавить §Y+1§!".
- TASK_FORCE_COMPOSITION_ADD_5:0 "§GCtrl + Щелчок§! для добавления §Y+5§!"
- TASK_FORCE_COMPOSITION_ADD_10:0 "§GShift + Щелчок§! для добавления §Y+10§!"
- TASK_FORCE_COMPOSITION_SUB_1:0 "§GЩёлкните§! для вычитания §Y1§!"
- TASK_FORCE_COMPOSITION_SUB_5:0 "§GCtrl + Щелчок§! для вычитания §Y5§!"
- TASK_FORCE_COMPOSITION_SUB_10:0 "§GShift + Щелчок§! для вычитания §Y10§!".
- TASK_FORCE_HAS_FUEL_INEFFICIENT_SHIP_FOR_MISSION:0 "£mapicon_unit_invalid_orders Следующие классы кораблей не являются топливно-эффективными для миссии $MISSION|H$".
- internal_politics_tooltip:0 "§YВнутренняя политика§!\nНазначайте выборы, управляйте политическими партиями и изменяйте законы."
- internal_politics_tooltip_delayed:0 ""
- budget_tooltip: "§RВ стадии разработки§!"
- budget_tooltip_delayed: ""
- nmissile_tooltip:0 "§YКомандование ракетно-ядерных войск§!\nОпределите цели вашего ядерного уничтожения."
- nmissile_tooltip_delayed:0 ""
- spacec_tooltip:0 "§YКосмическая программа§!\nИсследуйте Солнечную систему.\n§R//В стадии разработки//§!"
- spacec_tooltip_delayed:0 ""
- strata_tooltip:0 "§YНаселение и экономика§!\nУправление всеми аспектами вашей гражданской экономики.\n§R//В стадии разработки//§!"
- NO_UNIQUE_GOV:0 "§YНет уникальной механики§!"
- USA_CONGRESS_BUTTON_TOOLTIP:0 "§YКонгресс§!"
- USA_CONGRESS_BUTTON_TOOLTIP_DELAYED:0 "§RВ стадии разработки!"
-UNIQUE_GOVERNMENT_MECHANIC_DESC:0 "Это ваша уникальная правительственная механика"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_1:0 "[Root.GetSeatParty_1]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_2:0 "[Root.GetSeatParty_2]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_3:0 "[Root.GetSeatParty_3]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_4:0 "[Root.GetSeatParty_4]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_5:0 "[Root.GetSeatParty_5]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_6:0 "[Root.GetSeatParty_6]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_7:0 "[Root.GetSeatParty_7]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_8:0 "[Root.GetSeatParty_8]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_9:0 "[Root.GetSeatParty_9]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_10:0 "[Root.GetSeatParty_10]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_11:0 "[Root.GetSeatParty_11]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_12:0 "[Root.GetSeatParty_12]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_13:0 "[Root.GetSeatParty_13]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_14:0 "[Root.GetSeatParty_14]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_15:0 "[Root.GetSeatParty_15]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_16:0 "[Root.GetSeatParty_16]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_17:0 "[Root.GetSeatParty_17]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_18:0 "[Root.GetSeatParty_18]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_19:0 "[Root.GetSeatParty_19]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_20:0 "[Root.GetSeatParty_20]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_21:0 "[Root.GetSeatParty_21]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_22:0 "[Root.GetSeatParty_22]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_23:0 "[Root.GetSeatParty_23]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_24:0 "[Root.GetSeatParty_24]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_25:0 "[Root.GetSeatParty_25]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_26:0 "[Root.GetSeatParty_26]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_27:0 "[Root.GetSeatParty_27]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_28:0 "[Root.GetSeatParty_28]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_29:0 "[Root.GetSeatParty_29]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_30:0 "[Root.GetSeatParty_30]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_31:0 "[Root.GetSeatParty_31]"
- EOANB_PARLIAMENT_SEAT_PARTY_INFO_32:0 "[Root.GetSeatParty_32]"
- parliament_name_12:0 "Конгси"
- government_system_loc_15:0 "Конгсийская Федерация"
- GET_CURRENT_MISSILE_TARGETED_NATION_2:0 "2"
- GET_CURRENT_MISSILE_TARGETED_NATION_1:0 "1"
- NMC_TARGET_COUNTRY:0 "Мы выбрали эту страну для атаки нашим §Rядерным арсеналом§!".
- eoanb_found_nuclear_missile_command:0 "Найдено командование ядерной ракеты"
- eoanb_found_nuclear_missile_command_desc:0 "Теперь у нас есть возможность нанести удар по любой точке мира нашим ядерным оружием, давайте найдем команду, которая будет контролировать, куда и когда мы нанесем удар".
- NMC_MISSILE_AMOUNT:0 "Это количество ракет, способных нести §YICBM§!, которые у нас есть на хранении".
- NMC_WARHEAD_AMOUNT:0 "Это количество ядерных боеголовок §высокой мощности§! у нас на хранении".
- NMC_BUILD_MISSILE:0 "Создать §RWMD§! из §YICBM§! и §YЯдерную боеголовку§!".
- law_pre_industrial_army_chinese:0 "Китайская традиционная армия"
- law_pre_industrial_army_chinese_desk:0 "Эта армия сделана по стандартам Китайской доиндустриальной армии".
- POP_displayed:0 "[Root.GetTotalPopulation]"
- POP_tooltip:0 "§YНаселение§!\nОбщая численность населения:§Y [Root.GetTotalPopulation]§!"
- #POP_tooltip_d layed:0 ""
- Tribal_Army_Raised:0 "Племенная армия была поднята"
- branch_propaganda:0 "Отдел пропаганды"
- branch_command:0 "Командование и управление"
- branch_communications:0 "Связь"
- upgrade_form_department_prop:0 "Отдел формы"
- upgrade_rnd_deparment:0 "Отдел исследований и разработок формы"
- upgrade_agency_funding:0 "Финансирование агентства"
- black_site_defense:0 "Защита от кражи технологий"
- upgrade_propaganda_schooling:0 "Пропагандистское обучение"
- upgrade_central_comms:0 "Центральный узел связи"
- upgrade_blacksites:0 "Блэксайты"
- upgrade_decryption_boost_vic:0 "Прослушка"
- upgrade_dead_drop_training:0 "Тренировка "Мертвая капля""
- modifier_army_sub_unit_camel_cavalry_attack_factor:0 "Атака верблюжьей кавалерии"
- modifier_army_sub_unit_camel_cavalry_defence_factor:0 "Защита верблюжьей кавалерии"
- modifier_army_sub_unit_camel_cavalry_speed_factor:0 "Скорость верблюжьей кавалерии"
- MACHINE_ASYMETRIC_DOCTRINE_LABEL:0 "Асимметричная война"
- MACHINE_GRAND_BATTLE_DOCTRINE_LABEL:0 "Большая битва"
- MACHINE_FIRST_BATTLE_DOCTRINE_LABEL:0 "Первый в битве"
- MACHINE_COLONIAL_FORCE_DOCTRINE_LABEL:0 "Колониальные войска"
- COLONIAL_FORCES_DOCTRINE:0 "Колониальные силы"
- tactic_creaping_barrage:0 "Creaping Barrage"
- naval_equipment:0 "Военно-морское снаряжение"
- historical_option:0 "§CИсторический вариант§!"
- work_in_progress: "§CВ разработке§!" #NT!
- unfinished_content_tt:0 "§RНезавершённый контент§!"
- eoanb_incompent_commander:0 "Некомпетентный командир"
- eoanb_tt_infantry_weapons:0 "[Root.GETFLINTLOCKREQS]"
- flintlock_hard_no:0 "\n§YТребуется§! \n £trigger_no Идет индустриализация \n £trigger_no §YПрогресс индустриализации§! больше §Y40§!".
- flintlock_no:0 "\n§YТребуется§! \n £trigger_yes Индустриализируется \n £trigger_no §YПрогресс индустриализации§! больше §Y40§!"
- flintlock_yes:0 "\n§YТребуется§1: \n £trigger_yes Требования удовлетворяются"
- eoanb_tech_add_industrialisation:0 "Прогресс индустриализации: §G+5%§!"
- DCI_STATE_TOOLTIP:0 "Текущее состояние §YПагубного воздействия§!"
- DCI_STATE_TOOLTIP_DELAYED:0 ""
- DCI_value_state:0 "[This.GetDciRisk]"
- DCI_state_value_red:0 "§R[?detrimental_colonial_impact_value]§!"
- DCI_state_value_yellow:0 "§Y[?detrimental_colonial_impact_value]§!"
- DCI_state_value_normal:0 "[?detrimental_colonial_impact_value]"
- QNG_is_CHI_debug:0 "[QNG.GetFlag] §Y[QNG.GetName]§! владеет §YКитайским Мандатом§!"
- stab_backup_loc:0 "[?ROOT.stability|%0]"
- sp_backup_loc:0 "[?ROOT.has_war_support|%0]"
- SCORE_TOOLTIP_1:0 "§Y[GetPowerStatusName]§! от §Y[ROOT.GetNameDef]§!".
- EOANB_cant_call_neutral_vassal:0 "Объявил нейтралитет"
- generals_aging_generic.1.t:0 "[Root.GetName] хочет уйти в отставку"
- generals_aging_generic.1.a:0 "Пусть уходят"
- generals_aging_generic.1.b:0 "Потянуть за некоторые ниточки, чтобы удержать их"
- generals_aging_generic.2.t:0 "[This.GetName] ушёл на пенсию"
- generals_aging_generic.2.d:0 "Прослужив [Root.GetHerHis] стране долгие годы, [From.GetName] наконец принял решение уйти в отставку на постоянной основе. Будь то из-за ухудшения здоровья, семейных проблем или просто желания уйти из армии. Это решение окончательное, и его не переубедить".
- generals_aging_generic.2.a:0 "Будем надеяться, что отставка [From.GetHerHis] будет удачной".
- embassy_accepted: "Посольство принято"
- BRA_boundary_treaty: "Пограничный Договор" #NT!
- BRA_friendship_treaty: "Договор о Дружбе" #NT!
- BRA_trade_treaty: "Торговый Договор" #NT!
- BRA_navigation_treaty: "Навигационный Договор" #NT!
- BRA_trade_and_navigation_treaty: "Договор о торговле и навигации" #NT!
- BRA_accepts_ENG_currency: "Бразилия принимает британскую валюту" #NT!
- URG_accepts_BRA_investments: "Бразильские частные инвестиции в Уругвае" #NT!
+ influential_writer: "Influential Writer" #NT!
+ om_influential_writer: "Influential Writer" #NT!
+ om_war_support: "War Support" #NT!
+ om_war_support_for_enemy: "War Support for our Enemies" #NT!
+ om_military_operation: "Military Operation" #NT!
+ om_military_occupation: "Military Occupation" #NT!
+ om_rejected_reforms: "Rejected Reforms" #NT!
+ om_supports_reform_plan: "Supports Reform Plan" #NT!
+ om_berlin_congress_forced_into_a_corner: "Berlin Congress - Forced into a Corner" #NT!
+ om_berlin_congress_honest_broker: "Berlin Congress - An Honest Broker" #NT!
+ om_berlin_congress_betrayal: "Berlin Congress - Betrayal" #NT!
+ SPR_Aureliano_Maestre_de_San_Juan: "Aureliano Maestre de San Juan" #NT!
+ SPR_Jose_de_Salamanca: "Jose de Salamanca" #NT!
+ SPR_Rafael_Perez_del_Alamon: "Rafael Pérez del Álamo" #NT!
+ SPR_Leopoldo_O_Donnell: "Leopoldo O'Donnell" #NT!
+ SPR_Praxedes_Mateo_Sagasta: "Práxedes Mateo Sagasta" #NT!
+ SPR_Manuel_Garcia_Barzanallana: "Manuel García Barzanallana" #NT!
+ land_and_liberty: "Land and Liberty (Zemlya i Volya)" #NT!
+ land_and_liberty_desc: "Russian terrorist organisation which was created in 1860s." #NT!
+ peoples_will: "People's Will (Narodnaya Volya)" #NT!
+ peoples_will_desc: "Russian terrorist organisation which broke up from Land and Liberty. It stands behind the Alexander II's assassination." #NT!
+ black_redestribution: "Black Redestribution (Cherniy Peredel)" #NT!
+ black_redestribution_desc: "Black Redestribution is peaceful anarcho-socialist organisation which picked the peaceful way of reforming the country." #NT!
+ MEX_decision_claim_mexican_crown: "Claim the Mexican Crown" #NT!
+ MEX_decision_claim_mexican_crown_tt: "We will effectively be indistiguishable from the original Mexico (changes our tag from the civil-war temporary tag to Mexico's tag)." #NT!
+ MEX_idea_pay_debt_french: "Payments of our Debts" #NT!
+ MEX_idea_unpopular_among_liberals: "Unpopular among Liberals" #NT!
+ MEX_idea_unpopular_among_conservative: "Unpopular among Conservatives" #NT!
+ MEX_idea_aftermath_maximilian_affair: "Aftermath of the Maxilimian Affair" #NT!
+ MEX_idea_second_mexican_empire: "The Second Mexican Empire" #NT!
+ ITA_minor_trade_output: "Only Local Dialects" #NT!
+ ITA_minor_Same_Government: "Keeping Stability" #NT!
+ ITA_minor_Fight_with_Savoy: "Fighting with Piedmont" #NT!
+ ITA_minor_Call_to_Arms: "Call to Arms" #NT!
+ ITA_minor_Government_of_Change: "Government of Change" #NT!
+ ITA_minor_Fast_Path_of_War: "The Fast Path of War" #NT!
+ ITA_minor_One_Italy: "One Italy" #NT!
+ ITA_minor_Small_Community1: "Small Community" #NT!
+ ITA_minor_Art_Galleries1: "Art Galleries" #NT!
+ ITA_minor_Strong_Militia1: "Strong Militia" #NT!
+ ITA_minor_Repress_Republicans1: "Repressing the Republicans" #NT!
+ ITA_minor_Catholic_Devotion1: "Catholic Devotion" #NT!
+ ENG_Victoria: "Victoria" #NT!
+ ENG_colonial_Victoria: "Victoria" #NT!
+ FRA_colonial_Napoleon_III: "Napoléon III" #NT!
+ GRE_Otto_I: "Otto I" #NT!
+ HOL_William_III: "William III" #NT!
+ ITA_hos_Victor_Emmanuel_II: "Victor Emmanuel II" #NT!
+ ITA_hos_Victor_Emmanuel_II_desc: "The people of Sardinia are united behind their beloved king, which strengthens the unity of the nation." #NT!
+ TUS_hos_Leopold_II: "Leopold II" #NT!
+ OTO_Abdulmecid: "Abdulmecid" #NT!
+ POR_Pedro_V: "Pedro V" #NT!
+ SPR_Isabella_II: "Isabella II" #NT!
+ BRA_Pedro_II: "Pedro II" #NT!
+ ITA_minor_Catholic_Devotion: "Devoted to Catholicism" #NT!
+ ITA_minor_Sympathize_Piedmontese1: "Sympathized with the Piedmontese" #NT!
+ ITA_minor_Stand_Up_Piedmontese: "Stood up to the Piedmontese" #NT!
+ ITA_minor_Ask_Austrian_Volunteers: "Asked for Volunteers" #NT!
+ ITA_minor_Denounced: "Denounced" #NT!
+ ITA_minor_Dante_Promoted: "Promoting Dante" #NT!
+ ITA_minor_Art_Galleries2: "Relations with the rest of Europe will improve!" #NT!
+ ITA_minor_Austrian_Volunteers: "Austria will send us volunteers!" #NT!
+ ITA_minor_Dante_Promoted1: "Promoting Dante's work will improve our relations with other Italians substantially!" #NT!
+ ITA_minor_form_italy: "We will form Italy!" #NT!
+ ITA_minor_piedmont_not_threat: "Piedmont is no longer a threat, so we can focus more on other things." #NT!
+ hydropower: "Hydropower" #NT!
+ hydropower_desc: "Hydroelectric power is produced from moving water. Hydroelectric dams use pipes that push and turn blades in a turbine to spin a generator to produce electricity." #NT!
+ ELEC_DEVICES_TITLE_HYDROPOWER: "Hydropower" #NT!
+ hydropower_2: "Penstock" #NT!
+ hydropower_2_desc: "The penstock is a pipe inside of a hydroelectric dam that pushes water against a turbine." #NT!
+ hydropower_3: "Hydropowered Grain Farms" #NT!
+ hydropower_3_desc: "Hydropower can be used to power grain mills and logging camps." #NT!
+ hydropower_4: "Hydropowered Steel Mills" #NT!
+ hydropower_4_desc: "Hydroelectric power can be used to speed the production of steel mills." #NT!
+ hydropower_5: "Hydropowered Aluminum Mills" #NT!
+ hydropower_5_desc: "Hydropower can be used to power our aluminum mills which can help increase the production of our Aluminum." #NT!
+ raaf_success: "Raid successful" #NT!
+ raaf_success_desc: "Our raid on anarchists is successful!" #NT!
+ raaf_success2: "Big raid successful" #NT!
+ raaf_success2_desc: "Our big raid on anarchists is successful!" #NT!
+ raaf_failure2: "Big raid unsuccessful" #NT!
+ raaf_failure2_desc: "Our big raid on anarchists is unsuccessful!" #NT!
+ raaf_success3: "Hunt on anarchists successful" #NT!
+ raaf_success3_desc: "Our hunt on anarchists on anarchists is successful!" #NT!
+ raaf_failure3: "Hunt on anarchists unsuccessful" #NT!
+ raaf_failure3_desc: "Our hunt on anarchists on anarchists is unsuccessful!" #NT!
+ raaf_failure: "Raid unsuccessful" #NT!
+ raaf_failure_desc: "Our raid on anarchists is unsuccessful!" #NT!
+ raa.1.t: "Anarchist propaganda in our capital!" #NT!
+ raa.1.d: "We have the news that there are some anarchist movement in our capital. Seems that it is lead by Land and Libery organisation. They are trying to convince people to overthrow our rulership and establish the anarchist commune." #NT!
+ raa.1.a: "Send the police!" #NT!
+ raa.2.t: "Anarchists gaining power" #NT!
+ raa.2.d: "Anarchist organisations are gaining power in our country. We are planning a huge raid on them. The plan itself is ready, we just need to execute it properly." #NT!
+ raa.2.a: "Arrest them all!" #NT!
+ raa.3.t: "We are starting hunting down the anarchists!" #NT!
+ raa.3.d: "Anarchists gained too much power in our country. We must stop them no matter what, at any cost." #NT!
+ raa.3.a: "Trains to Siberia are ready to go." #NT!
+  
+ italy_minor.1.t: "Ask for Volunteers from Austria" #NT!
+ italy_minor.1.d: "We must get volunteers from Austria in order to protect ourselves." #NT!
+ italy_minor.1.a: "Ask" #NT!
+ italy_minor.2.t: "Volunteers in Italy" #NT!
+ italy_minor.2.d: "A minor Italian state has asked for volunteers from us in order to protect themselves." #NT!
+ italy_minor.2.a: "Send the volunteers!" #NT!
+ italy_minor.2.b: "Send them men, but no volunteers." #NT!
+ italy_minor.2.c: "Send them nothing!" #NT!
+ italy_minor.3.t: "Volunteers from Austria" #NT!
+ italy_minor.3.d: "The Austrians have accepted our request, and have sent volunteers to help us." #NT!
+ italy_minor.3.a: "Hurrah!" #NT!
+ italy_minor.4.t: "Manpower from Austria" #NT!
+ italy_minor.4.d: "Instead of sending volunteers, the Austrians have sent manpower. This isn't perfect, but at least they're still helping us." #NT!
+ italy_minor.4.a: "At least it's something." #NT!
+ italy_minor.5.t: "Nothing from Austria" #NT!
+ italy_minor.5.d: "The Austrians have sent nothing to aid us in our effort, those wretches!" #NT!
+ italy_minor.5.a: "Those Austrian scum!" #NT!
+ italy_minor.6.t: "Demand Romagna and Marches" #NT!
+ italy_minor.6.d: "Time has come to demand land from the Papal State, although we can't demand Rome and the surrounding areas, we can still demand Romagna and Marches." #NT!
+ italy_minor.6.a: "Ask" #NT!
+ italy_minor.7.t: "The Minor's Demands" #NT!
+ italy_minor.7.d: "One of the Italian minors surrounding us have demanded that we give them Romagna and Marches. What will we do?" #NT!
+ italy_minor.7.a: "Concede" #NT!
+ italy_minor.7.b: "Refuse" #NT!
+ italy_minor.8.t: "The Pope Concedes" #NT!
+ italy_minor.8.d: "The Pope has decided to give us our rightful lands of Romagna and Marches!" #NT!
+ italy_minor.8.a: "Hurrah!" #NT!
+ italy_minor.9.t: "The Pope Refuses" #NT!
+ italy_minor.9.d: "The Pope has decided to refuse our generous offer! What shall we do about this problem?" #NT!
+ italy_minor.9.a: "Take it by force!" #NT!
+ italy_minor.9.b: "Back Down" #NT!
+ italy_minor.10.t: "The Minor Backs Down" #NT!
+ italy_minor.10.d: "The minor that demanded that we give them our righteous lands has backed down from their uphill battle." #NT!
+ italy_minor.10.a: "A holy day!" #NT!
+ lnl.1.t: "Land and Liberty appeared" #NT!
+ lnl.1.d: "Seems that group of socialists created their own organisation called "Land and Liberty". Considering that this organisation is pro-socialist we need to do something quick or the situation may get out of the control." #NT!
+ lnl.1.a: "I don't think so." #NT!
+ lnl.1.b: "We need to stop them!" #NT!
+ asat.1.t: "First assassination attempt!" #NT!
+ asat.1.d: "Today, on April 4 1866, Alexander II's life was in danger. Peasant Karazakov tried to kill our Emperor using the revolver as his weapon. Seems that this terrorist is a member of "Land and Liberty" organisation." #NT!
+ asat.1.a: "That was close!" #NT!
+ asat.2.t: "Second assassination attempt!" #NT!
+ asat.2.d: "Today, on May 25 1867, Alexander II's life was in danger again. That time polish immigrant Anton Berezovsky tried to shot our Emperor during his trip to Paris. Bullet got into the horse. Emperor is safe." #NT!
+ asat.2.a: "Shouldn't we doing something about these terrorists?" #NT!
+ asat.3.t: "Third assassination attempt!" #NT!
+ asat.3.d: "Today, on April 2 1879, Alexander II's life was threatened in third time. This time A.K. Solovyov made 5 shots from his revolver right into our Emperor. All of them missed, Emperor is safe." #NT!
+ asat.3.a: "Now THAT was REALLY close." #NT!
+ asat.4.t: "Fourth assassination attempt!" #NT!
+ asat.4.d: "Today, on November 19 1879, Alexander II's life again was threatened. This time terrorists tried to explode the Emperor's train near Moscow. They failed, because they exploded the wrong train. Emperor is safe again, but he is being hunted." #NT!
+ asat.4.a: "We must found these bastards!" #NT!
+ asat.5.t: "Fifth assassination attempt!" #NT!
+ asat.5.d: "Today, on February 5 1880, there was an explosion on the first floor of the Winter Palace, which threatened Emperor's life in another time. 11 people died, but Emperor is safe." #NT!
+ asat.5.a: "What the hell our police is doing?!" #NT!
+ asat.6.t: "Sixth and seventh assassination attempts! Russian Emperor is dead!" #NT!
+ asat.6.d: "This day, March 1 1881, will be a mourning for our entire country. Today our emperor died in a horrific explosion made by terrorists on the seafront of the Ekaterininsky Canal. Alexander III took the rulership over the country." #NT!
+ asat.6.a: "Rest In Peace, Alexander II!" #NT!
+ lnl.2.t: "Land and Liberty broken up!" #NT!
+ lnl.2.d: "Terrorist organisation which disturbed us for a long time is no longer existent! Now there are 2 independent ones - People's Will and Black Redestribution." #NT!
+ lnl.2.a: "I have a bad feeling about this..." #NT!
+ zion: "Zion" #NT!
+ zion_desc: "May it be where we live, or what we will become." #NT!
+ federalappointments: "Federal Appointments" #NT!
+ federalappointments_desc: "Many federal appointees have been leaving displeased with our policies and apparently frightful of our practices. It's doubtful anything will come of their wild rumors and overzealous worries." #NT!
+ endofthereformation: "End of the Reformation" #NT!
+ endofthereformation_desc: "The Mormon Reformation, as it was termed, acted as a significant episode of recommitment to the LDS Church. Hundreds (if not thousands) were re-baptized and a reinvigorated communal atmosphere quickly sprouted forth across the Utah Territory." #NT!
+ undefined: "" #NT!
+ undefined_desc: "" #NT!
+ alfredcumming: "Alfred Cumming" #NT!
+ alfredcumming_desc: "Brigham Young has heard of recent at the appointment of a certain Alfred Cumming, former mayor of Augusta, Georgia to replace him as governor of the Utah Territory. This is unexpected yet can more than likely be easily dealt with." #NT!
+ theutahexpedition: "The Utah Expedition" #NT!
+ theutahexpedition_desc: "The US Army is soon to arrive in Utah for purposes unclear. Rumors of Cumming's renewed appointment at governor continue to spread." #NT!
+ evacuationorders: "Evacuation Orders" #NT!
+ evacuationorders_desc: "Brigham Young has ordered the evacuation of Mormons all the way from pioneers in California to missionaries in Europe." #NT!
+ returnofthenavuoo: "Return of the Navuoo" #NT!
+ returnofthenavuoo_desc: "The Navuoo Legions, last utilized to defend Mormon settlements during the tense period in Illinois barely a decade prior have been reactivated. They will be utilized in the protection of the Great Salt Lake Basin and surrounding settlements." #NT!
+ nativereconciliation: "Native Reconciliation" #NT!
+ nativereconciliation_desc: "Brigham Young has decided to meet with local Utah tribes, most notably the Ute, to solidify a working compact as the Army nears." #NT!
+ defenseofutah: "Defense of Utah" #NT!
+ defenseofutah_desc: "With all those in the Utah Territory mobilizing to ready themselves for the incoming invasion, fortifications must be constructed at strategic access points to the Salt Lake Basin." #NT!
+ martiallaw: "Martial Law" #NT!
+ martiallaw_desc: "Martial Law has been declared throughout the Utah Territory. Our time of resistance is fast approaching." #NT!
+ fight: "Fight" #NT!
+ fight_desc: "Upon deciding our ultimate action against the US Army, it has boiled down to standing and fighting, or retreating and burning our homes along the way." #NT!
+ flight: "Flight" #NT!
+ flight_desc: "Upon deciding our ultimate action against the US Army, it has boiled down to standing and fighting, or retreating and burning our homes along the way." #NT!
+ north: "North" #NT!
+ north_desc: "For the main body of our people, it is imperative we choose which way we go, whether it be to the Bitterroot Valley in the North or the White Mountains to the South." #NT!
+ south: "South" #NT!
+ south_desc: "" #NT!
+  
+ Greecefocus.4.t: "Independence Day!" #NT!
+ Greecefocus.4.d: "Euphoria and ecstasy have swept through Greece today as today marks our country’s Independence Day from the Ottoman Empire in 1821. Although some believe the revolution did not officially commence on the 25th of March, most recognise today as the end of Turkish occupation. Today was the day Bishop Germanos blessed our flag and raised it just outside the gates of Agia Lavra, a famous monastery in Achaea." #NT!
+ Greecefocus.4.a: "Yes!" #NT!
+ Greecefocus.3.t: "King George’s Tour of the Peloponnese" #NT!
+ Greecefocus.3.d: "Our young king, George I of the Hellenes, has embarked on a tour of the Peloponnese, one of our most historical regions and the birthplace of our revolution. Beginning in Corinth, King George will tour through many historic towns including Argos, Tripoli, Sparta and Kalamata. Upon his tour, the king will be escorted to the Ionian Islands where the planned ceremonial transfer of the islands from the British Empire to Greece will occur." #NT!
+ Greecefocus.3.a: "Sweet" #NT!
+ Greecefocus.1.t: "The Coup of 1862" #NT!
+ Greecefocus.1.d: "In 1862 there was an Coup in Greece in which the quite unpopular King Otto I was overthrown." #NT!
+ Greecefocus.1.a: "Great.... I guess?" #NT!
+ Greecefocus.2.t: "Royal Marriage!" #NT!
+ Greecefocus.2.d: "In 1867 George I married a Russian Royal." #NT!
+ Greecefocus.2.a: "My condolences" #NT!
+ GRE_Regency: "Interregnum" #NT!
+ GRE_George_I: "George I" #NT!
+ Gre_Agriculture: "Focus in the Greek Agriculture" #NT!
+ GRE_increase_agri_output: "Higher Factory Output" #NT!
+ GRE_Populationboom: "Greek Population Boom" #NT!
+ GRE_Agri_revolution: "Agricultural Revolution" #NT!
+ GRE_Greek_Army: "A Greek Army" #NT!
+ GRE_grandarmy: "A Grand Army" #NT!
+ GRE_megaliidea: "The Megali Idea" #NT!
+ GRE_megaliidea_desc: "The Megali Idea was an irredentist concept of Greek nationalism that expressed the goal of establishing a Greek state that would encompass all historically ethnic Greek-inhabited areas." #NT!
+ GRE_searchforking: "Search for a new King" #NT!
+ GRE_searchforking_desc: "We need to search for a new King, one that the People actually want!" #NT!
+ GRE_kingofhellenes: "King of Hellenes" #NT!
+ GRE_kingofhellenes_desc: "Our King will crown himself as King of Hellenes" #NT!
+ GRE_tourpeloponnese: "A Tour in Peloponnese" #NT!
+ GRE_tourpeloponnese_desc: "His Majesty will tour Pelopnnese to show that he is an King of the People" #NT!
+ GRE_updating40yearbuilding: "Update the 40 Year old Building" #NT!
+ GRE_updating40yearbuilding_desc: "To show his difference between the Old King,Our Ruler decided to upgrade the Building of Parliament" #NT!
+ GRE_fireunpopularadvisors: "Fire the Unpopular Advisors" #NT!
+ GRE_fireunpopularadvisors_desc: "The King doesn`t need an Advisor that the People don`t want!" #NT!
+ GRE_adoptnewconstitution: "Adopt a new Constitution" #NT!
+ GRE_adoptnewconstitution_desc: "Our King accepted this Title with the promise of a new Consitution and so he shall have it" #NT!
+ GRE_dividegovernment: "Divide the Government" #NT!
+ GRE_dividegovernment_desc: "Our King plans to divide the Government, to strengthen his own position both in the state and in the population" #NT!
+ GRE_overthrowourking: "Overthrow the King" #NT!
+ GRE_overthrowourking_desc: "What do you expect?" #NT!
+ GRE_internalbreakdown: "Internal Breakdown" #NT!
+ GRE_internalbreakdown_desc: "The Popularity of our King is at an all time low, his rule is on the verge of breakdown." #NT!
+ GRE_dimitriosvoulgarisresigns: "Dimitrios Voulgaris resignation" #NT!
+ GRE_dimitriosvoulgarisresigns_desc: "In 1857 Dimitrios Voulgaris resigned his position" #NT!
+ GRE_puppetgovernment: "Install puppet Government" #NT!
+ GRE_puppetgovernment_desc: "The National Assembly failed to form a new Government after the Resignation of Dimitrios Voulgaris,so King Otto I used this to install a Puppet Government" #NT!
+ GRE_securingpower: "Securing Power" #NT!
+ GRE_securingpower_desc: "Although the King now has an Puppet as Prime Minister, this still doesn`t mean that his dominance his secure." #NT!
+ GRE_protectorofallgreeks: "Protector of all Greeks" #NT!
+ GRE_protectorofallgreeks_desc: "Our Nation will make sure to protect every Greek in every Country" #NT!
+ GRE_fastreplacement: "Fast Replacement" #NT!
+ GRE_fastreplacement_desc: "We need to replace our Old equipment and Economy with more Modern ones,if we wish to compete with the other powers." #NT!
+ GRE_cottonfarms: "Build Cotton Farms" #NT!
+ GRE_cottonfarms_desc: "Our Uniforms are dependent of the Production of Cotton,so we need to establish our own Production" #NT!
+ GRE_heavyindustry: "Heavy Industry" #NT!
+ GRE_heavyindustry_desc: "It`s clear, that we need to establish an Heavy Industry if we wish to remain relevant." #NT!
+ GRE_agriculturalindustry: "Focus on the Greek Agriculture" #NT!
+ GRE_agriculturalindustry_Desc: "We don`t need all this new stuff, if we can just keep our Agricultural Industry , which never betrayed us." #NT!
+ GRE_economy: "Focus on the Greek Economy" #NT!
+ GRE_economy_desc: "We need to Focus on our Economy" #NT!
+ GRE_increaseagriculturaloutput: "Increase our Agricultural Output" #NT!
+ GRE_increaseagriculturaloutput_desc: "We need to Increase our Agricultural Output, if we wish to support future Populations in this small Area." #NT!
+ GRE_armsindustry: "Build up an Arms Industry" #NT!
+ GRE_armsindustry_desc: " We need to build up our Arms Industry to support a Bigger Military" #NT!
+ GRE_modernstate: "A Modern State" #NT!
+ GRE_modernstate_desc: "Let`s make Greece into an Modern State" #NT!
+ GRE_populationboom: "A Greek Population Boom" #NT!
+ GRE_populationboom_desc: "Thanks to our Increase in Agricultural Output, there is an Population Boom" #NT!
+ GRE_logging: "Logging" #NT!
+ GRE_logging_desc: "The Wood Industry was always a reliable Industry, so lets increase our Funding there." #NT!
+ GRE_agriculturalrevolution: "An Agricultural Revolution" #NT!
+ GRE_agriculturalrevolution_desc: "Who need`s an Industrial Revolution if you can have an Agricultural one?" #NT!
+ GRE_wineexportofeurope: "Wine Export of Europe" #NT!
+ GRE_wineexportofeurope_desc: "Wine? What Wine? *Hicc*" #NT!
+ GRE_industrialize: "Industrialize our Country" #NT!
+ GRE_industrialize_desc: "We need to Industrialize our Nation like the other Great Powers!" #NT!
+ GRE_anewconstantinople: " A New Constantinople" #NT!
+ GRE_anewconstantinople_desc: "We need to regain the Glory of this Lost City" #NT!
+ GRE_newnames: "New Names for our Provinces" #NT!
+ GRE_newnames_desc: "The old Turkish names don`t fit into our Nation as Glorious as ours." #NT!
+ GRE_armyreform: "Reform the Army" #NT!
+ GRE_armyreform_desc: "The Failure of the Crimean War clearly shows, that we need to Reform our Army." #NT!
+ GRE_learningnewways: "Learning new Ways" #NT!
+ GRE_learningnewways_desc: "We need to look to the more Successful Nations for Guidance" #NT!
+ GRE_agreekarmy: " An Greek Army" #NT!
+ GRE_agreekarmy_Desc: " We need to Establish an National Greek Army, that is capable of defending our Nation." #NT!
+ GRE_looktothebritish: "Look to the British" #NT!
+ GRE_looktothebritish_desc: "Let`s look to the British" #NT!
+ GRE_militaryindustrialcomplex: "Military Industrial Complex" #NT!
+ GRE_militaryindustrialcomplex_desc: "Establishing an Military-Industrial Complex is clearly the way forward." #NT!
+ GRE_prussianstylearmy: "An Prussian Style Army" #NT!
+ GRE_prussianstylearmy_desc: "Let`s make our Army as efficient as the Prussian one" #NT!
+ GRE_looktothefrench: "Look to the French" #NT!
+ GRE_looktothefrench_desc: "Let`s look to the Fre... ah wait What?" #NT!
+ GRE_looktotherussian: "Look to the Russians" #NT!
+ GRE_looktotherussian_desc: "Let`s look to our Orthodox Brothers as an Example" #NT!
+ GRE_dosomethingabouttheliteracy: "Better the Literacy Rates" #NT!
+ GRE_dosomethingabouttheliteracy_desc: "It`s hard to rule an Populace in an Democracy if they aren`t Literate,so let`s change that." #NT!
+ GRE_Restoretrustinthearmy: "Restore the trust in our Army" #NT!
+ GRE_Restoretrustinthearmy_desc: "After the Crimean War our Army was devastated, we should fix that!" #NT!
+ GRE_Crimeanwar: "Failure of the Crimean War" #NT!
+ AUS_flag_won_sww: "Austria has won the Seven Weeks War." #NT!
+ TRIGGER_OVERLORD: "Метрополия"
+ KOR_helveticdream: "Helvetic Dream" #NT!
+ KOR_innaguratetriannual: "Inaugurate Triannual Elections" #NT!
+ KOR_neuchatelaffair: "The Neuchatel Affair" #NT!
+ KOR_letthemsupport: "Let Them Support Who They Wish" #NT!
+ KOR_stoptheirfanatism: "Stop Their German Fanatism" #NT!
+ BRA_custom_effect_naval_production_tt: "Our naval production will be improved!" #NT!
+ BRA_custom_effect_uruguayan_war_tt: "This will start the Uruguayan War, we will be supporting the Colorados!" #NT!
+ BRA_custom_effect_pride_tt: "This will improve the morale and strengh of our fleet." #NT!
+ PRU_custom_effect_pride_tt: "We will rise in glory and recover from the civil war!" #NT!
+ PRU_custom_effect_docks_tt: "A blockade of Ecuadorian ports will begin." #NT!
+ PRU_custom_effect_americanist_tt: "We will be seen as a friendly country by our fellow american nations." #NT!
+ eoanb_decision_reopen_textile_mill: "Reopen a Textile Mill" #NT!
+ eoanb_decision_reopen_textile_mill_desk: "We must reopen a textile mill." #NT!
+ eoanb_decision_reopen_steel_mill: "Reopen a Steel Mill" #NT!
+ eoanb_decision_reopen_steel_mill_desk: "We must reopen a steel mill." #NT!
+ eoanb_decision_reopen_machine_parts_factory: "Reopen a Machine Parts Factory" #NT!
+ eoanb_decision_reopen_machine_parts_factory_desk: "We must reopen a machine parts factory." #NT!
+ eoanb_trigger_has_4_cotton: "Has a surplus of at least 4 §YCotton§!" #NT!
+ eoanb_trigger_has_2_iron: "Has a surplus of at least 2 §YIron§!" #NT!
+ eoanb_trigger_has_4_coal: "Has a surplus of at least 4 §YCoal§!" #NT!
+ eoanb_trigger_has_2_coal: "Has a surplus of at least 2 §YCoal§!" #NT!
+ eoanb_trigger_has_3_steel: "Has a surplus of at least 3 §YSteel§!" #NT!
+ closed_textile_mill_reopens: "§YTextile Mill§!: Reopens" #NT!
+ closed_steel_mill_reopens: "§YSteel Mill§!: Reopens" #NT!
+ closed_machine_parts_factory_reopens: "§YMachine Parts Factory§!: Reopens" #NT!
+ production_constructions: "Production Buildings" #NT!
+ POLITICS_PEDRO_II_DESC: "Dom Pedro II took power when he was only 14 and while the empire was collapsing because of the political struggles and rebellions that happened during the Regency period, but to the surprise of everyone in the nation, he managed to use his political knowledge to stabilize the nation and bring it to its former glory. The emperor funded basic education, universities, and overall he modernized Brazil, but he has greater ambitions, and the Emperor plans to bring the country to the industrial power of the Europeans." #NT!
+ POLITICS_SINIMBU_DESC: "A liberal and reformist leader. The decisions that the country will take will be decided by the parliament, but personally, Sinimbu wants to keep the emperor as a figurehead, rather than the one with all the power." #NT!
+ POLITICS_KARL_NESSELRODE_DESC: "Former diplomat and state secretary, Karl Nesselrode now is the eleventh chancellor of the Russian Empire." #NT!
+ #PAP_Med_Trade: "Increased Mediterranean Trade" #NT!
+ PAP_Med_Trade_desc: "The Mediterranean sea had long been used for trade between nations. We should improve our ability to use it aswell." #NT!
+ PAP_Anti_Piedmont_Alliance: "Anti-Piedmontese Coalition" #NT!
+ PAP_Anti_Piedmont_Alliance_desc: "We are a member of the Anti-Piedmontese Coalition" #NT!
+ #PAP_Take_Italy_Force: "Unite Italy by Force!" #NT!
+ #PAP_Take_Italy_Force_desc: "Piedmont was right, we must unify Italy under our rule!" #NT!
+ PAP_Med_Trade: "Mediterranean Merchants" #NT!
+ PAR_custom_effect_paraguay: "Solano López will assume control of Paraguay as his father's rightful heir." #NT!
+ PAR_custom_effect_paraguay2: "Solano will begin a process of militarization." #NT!
+ PAR_custom_effect_paraguay3: "The reserves will be deployed to reinforce our army." #NT!
+ PAR_custom_effect_paraguay4: "We will deploy our army to enforce our claims!" #NT!
+ PAR_custom_effect_paraguay5: "To war!" #NT!
+ eng_european_collaboration: "European Collaboration" #NT!
+ eng_rival_diplomats: "Diplomats in a Rival Country" #NT!
+ eng_diplomats: "Diplomats in our Country" #NT!
+ eng_british_neutrality: "British Neutrality" #NT!
+ eng_support_confederates_usa: "Support of the Confederates" #NT!
+ eng_support_confederates_csa: "Support of the Confederates" #NT!
+ eng_condemn_slave_trade_usa: "British condamnation of Slavery" #NT!
+ eng_english_boats: "British Boats" #NT!
+ eng_condemn_slave_trade: "Condemn the Slave Trade" #NT!
+ eng_slave_trade_usa: "British support of Slavery" #NT!
+ eng_contested_central_asia: "Contest over Central Asia" #NT!
+ eng_peace_central_asia: "Peace over Central Asia" #NT!
+ eoanb_decision_ENG_cede_ION: "Cede the Ionian Islands to Greece" #NT!
+ eoanb_decision_ENG_cede_ION_desc: "The Ionian Islands, an island chain from Epirus to the North to the Peloponnese to the South has been our protectorate since the Congress of Vienna in 1815. The Ionian Islands have been a prosperous territory of ours, but their strategic value is low since we already have control over the Mediterranean and ceding them would boost the popularity of the new King of Greece, bringing Greece closer to us." #NT!
+ OFS_TRV_Truce: "§YWe will make peace with the South African Republic.§!" #NT!
+ PIE_2IW_Victory: "Victory of Kingdom of Sardinia in 2nd Italian War of Independence" #NT!
+ improved_relations_light: "Lightly Improved Relations" #NT!
+ improved_relations_light_desc: "We have mildly improved relations with this country." #NT!
+ improved_relations: "Improved Relations" #NT!
+ improved_relations_desc: "We have improved relations with this country." #NT!
+ improved_relations_strong: "Strongly Improved Relations" #NT!
+ improved_relations_strong_desc: "We have greatly improved relations with this country." #NT!
+ NAVAL_DESIGN_LABEL: "Проект"
+ TASK_FORCE_COMPOSITION_ADD_1: "§GЩелкните§!, чтобы §Yдобавить 1§!"
+ TASK_FORCE_COMPOSITION_ADD_5: "§GCtrl + щелчок§!, чтобы §Yдобавить 5§!"
+ TASK_FORCE_COMPOSITION_ADD_10: "§GShift + щелчок§!, чтобы §Yдобавить 10§!"
+ TASK_FORCE_COMPOSITION_SUB_1: "§GЩелкните§!, чтобы уменьшить на §Y1§!"
+ TASK_FORCE_COMPOSITION_SUB_5: "§GCtrl + щелчок§!, чтобы §Yуменьшить на 5§!"
+ TASK_FORCE_COMPOSITION_SUB_10: "§GCtrl + щелчок§!, чтобы §Yуменьшить на 10§!"
+ TASK_FORCE_HAS_FUEL_INEFFICIENT_SHIP_FOR_MISSION: "£mapicon_unit_invalid_orders Следующие классы кораблей неэффективно расходуют топливо на задании $MISSION|H$"
+ internal_politics_tooltip: "§YInternal Politics§!\nCall elections, manage political parties and change laws." #NT!
+ internal_politics_tooltip_delayed: "" #NT!
+ budget_tooltip: "§RUnder Development§!" #NT!
+ budget_tooltip_delayed: "" #NT!
+ nmissile_tooltip: "§YNuclear Missile Command§!\nDetermine the targets of your nuclear destruction." #NT!
+ nmissile_tooltip_delayed: "" #NT!
+ spacec_tooltip: "§YSpace Program§!\nExplore the solar system.\n§R//Under Development//§!" #NT!
+ spacec_tooltip_delayed: "" #NT!
+ strata_tooltip: "§YPopulation and Economy§!\nManage all aspects of your civilian economy.\n§R//Under Development//§!" #NT!
+ NO_UNIQUE_GOV: "§YNo Unique Mechanic§!" #NT!
+ USA_CONGRESS_BUTTON_TOOLTIP: "§YCongress§!" #NT!
+ USA_CONGRESS_BUTTON_TOOLTIP_DELAYED: "§RUnder Development!" #NT!
+ UNIQUE_GOVERNMENT_MECHANIC_DESC: "This is your Unique Government Mechanic" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_1: "[Root.GetSeatParty_1]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_2: "[Root.GetSeatParty_2]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_3: "[Root.GetSeatParty_3]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_4: "[Root.GetSeatParty_4]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_5: "[Root.GetSeatParty_5]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_6: "[Root.GetSeatParty_6]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_7: "[Root.GetSeatParty_7]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_8: "[Root.GetSeatParty_8]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_9: "[Root.GetSeatParty_9]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_10: "[Root.GetSeatParty_10]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_11: "[Root.GetSeatParty_11]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_12: "[Root.GetSeatParty_12]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_13: "[Root.GetSeatParty_13]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_14: "[Root.GetSeatParty_14]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_15: "[Root.GetSeatParty_15]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_16: "[Root.GetSeatParty_16]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_17: "[Root.GetSeatParty_17]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_18: "[Root.GetSeatParty_18]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_19: "[Root.GetSeatParty_19]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_20: "[Root.GetSeatParty_20]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_21: "[Root.GetSeatParty_21]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_22: "[Root.GetSeatParty_22]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_23: "[Root.GetSeatParty_23]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_24: "[Root.GetSeatParty_24]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_25: "[Root.GetSeatParty_25]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_26: "[Root.GetSeatParty_26]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_27: "[Root.GetSeatParty_27]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_28: "[Root.GetSeatParty_28]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_29: "[Root.GetSeatParty_29]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_30: "[Root.GetSeatParty_30]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_31: "[Root.GetSeatParty_31]" #NT!
+ EOANB_PARLIAMENT_SEAT_PARTY_INFO_32: "[Root.GetSeatParty_32]" #NT!
+ parliament_name_12: "Kongsi" #NT!
+ government_system_loc_15: "Kongsi Federation" #NT!
+ GET_CURRENT_MISSILE_TARGETED_NATION_2: "2" #NT!
+ GET_CURRENT_MISSILE_TARGETED_NATION_1: "1" #NT!
+ NMC_TARGET_COUNTRY: "We have targeted this country to attack with our §Rnuclear arsenal§!." #NT!
+ eoanb_found_nuclear_missile_command: "Found Nuclear Missile Command" #NT!
+ eoanb_found_nuclear_missile_command_desc: "We now have the ability to strike anywhere in the world with our nuclear weapons, let us found a command to control where and when we would strike." #NT!
+ NMC_MISSILE_AMOUNT: "This is the amount of §YICBM§! capable missiles we have in storage." #NT!
+ NMC_WARHEAD_AMOUNT: "This is the amount of §YHigh Yield Nuclear Warheads§! we have in storage." #NT!
+ NMC_BUILD_MISSILE: "Create a §RWMD§! from a §YICBM§! and a §YNuclear Warhead§!" #NT!
+ law_pre_industrial_army_chinese: "Chinese Traditional Army" #NT!
+ law_pre_industrial_army_chinese_desk: "This army is made by standards of Chinese Pre-Industrial Army." #NT!
+ POP_displayed: "[Root.GetTotalPopulation]" #NT!
+ POP_tooltip: "§YPopulation§!\nTotal population:§Y [Root.GetTotalPopulation]§!" #NT!
+ #POP_tooltip_d layed: "" #NT!
+ Tribal_Army_Raised: "Tribal army has been raised" #NT!
+ branch_propaganda: "Propaganda Department" #NT!
+ branch_command: "Command & Management" #NT!
+ branch_communications: "Communications" #NT!
+ upgrade_form_department_prop: "Form Department" #NT!
+ upgrade_rnd_deparment: "Form R&D Department" #NT!
+ upgrade_agency_funding: "Agency Funding" #NT!
+ black_site_defense: "Tech Stealing Defense" #NT!
+ upgrade_propaganda_schooling: "Propaganda Schooling" #NT!
+ upgrade_central_comms: "Central Comms Hub" #NT!
+ upgrade_blacksites: "Blacksites" #NT!
+ upgrade_decryption_boost_vic: "Wire-Tapping" #NT!
+ upgrade_dead_drop_training: "Dead drop training" #NT!
+ modifier_army_sub_unit_camel_cavalry_attack_factor: "Camel Cavalry Attack" #NT!
+ modifier_army_sub_unit_camel_cavalry_defence_factor: "Camel Cavalry Defense" #NT!
+ modifier_army_sub_unit_camel_cavalry_speed_factor: "Camel Cavalry Speed" #NT!
+ MACHINE_ASYMETRIC_DOCTRINE_LABEL: "Asymmetric Warfare" #NT!
+ MACHINE_GRAND_BATTLE_DOCTRINE_LABEL: "Grand Battle" #NT!
+ MACHINE_FIRST_BATTLE_DOCTRINE_LABEL: "First to Battle" #NT!
+ MACHINE_COLONIAL_FORCE_DOCTRINE_LABEL: "Colonial Forces" #NT!
+ COLONIAL_FORCES_DOCTRINE: "Colonial Forces" #NT!
+ tactic_creaping_barrage: "Creaping Barrage" #NT!
+ naval_equipment: "Naval Equipment" #NT!
+ historical_option: "§CHistorical Option§!" #NT!
+ work_in_progress: "§CWork In Progress§!" #NT!
+ unfinished_content_tt: "§RUnfinished Content§!" #NT!
+ eoanb_incompent_commander: "Incompetent Commander" #NT!
+ eoanb_tt_infantry_weapons: "[Root.GETFLINTLOCKREQS]" #NT!
+ flintlock_hard_no: "\n§YRequires§!: \n   £trigger_no Is industrialising \n   £trigger_no §YIndustrialisation Progress§! is greater than §Y40§!" #NT!
+ flintlock_no: "\n§YRequires§!: \n   £trigger_yes Is industrialising \n   £trigger_no §YIndustrialisation Progress§! is greater than §Y40§!" #NT!
+ flintlock_yes: "\n§YRequires§1: \n   £trigger_yes Requirements Meet" #NT!
+ eoanb_tech_add_industrialisation: "Industrisation Progress: §G+5%§!" #NT!
+ DCI_STATE_TOOLTIP: "Current State §YDetrimental Impact§!" #NT!
+ DCI_STATE_TOOLTIP_DELAYED: "" #NT!
+ DCI_value_state: "[This.GetDciRisk]" #NT!
+ DCI_state_value_red: "§R[?detrimental_colonial_impact_value]§!" #NT!
+ DCI_state_value_yellow: "§Y[?detrimental_colonial_impact_value]§!" #NT!
+ DCI_state_value_normal: "[?detrimental_colonial_impact_value]" #NT!
+ QNG_is_CHI_debug: "[QNG.GetFlag] §Y[QNG.GetName]§! holds the §YChinese Mandate§!" #NT!
+ stab_backup_loc: "[?ROOT.stability|%0]" #NT!
+ sp_backup_loc: "[?ROOT.has_war_support|%0]" #NT!
+ SCORE_TOOLTIP_1: "The §Y[GetPowerStatusName]§! of §Y[ROOT.GetNameDef]§!" #NT!
+ EOANB_cant_call_neutral_vassal: "Has declared neutrality" #NT!
+ generals_aging_generic.1.t: "[Root.GetName] wants to Retire" #NT!
+ generals_aging_generic.1.a: "Let them go" #NT!
+ generals_aging_generic.1.b: "Pull some strings to keep them" #NT!
+ generals_aging_generic.2.t: "[This.GetName] has Retired" #NT!
+ generals_aging_generic.2.d: "After serving [Root.GetHerHis] country well for years,[From.GetName] has finally made the decision to retire Permantally. Whether this is due to failing health, family issues or simply wishing to be out of the military. this decision is final and they won't be convinced out of it." #NT!
+ generals_aging_generic.2.a: "Lets hope [From.GetHerHis] retirement is good" #NT!
+ embassy_accepted: "Embassy Accepted" #NT!
+ BRA_boundary_treaty: "Boundary Treaty" #NT!
+ BRA_friendship_treaty: "Friendship Treaty" #NT!
+ BRA_trade_treaty: "Trade Treaty" #NT!
+ BRA_navigation_treaty: "Navigation Treaty" #NT!
+ BRA_trade_and_navigation_treaty: "Trade and Navigation Treaty" #NT!
+ BRA_accepts_ENG_currency: "Brazil accepts British currency" #NT!
+ URG_accepts_BRA_investments: "Brazilian private investment in Uruguay" #NT!

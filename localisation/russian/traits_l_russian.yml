@@ -1,795 +1,795 @@
 ﻿l_russian:
- cc_leader: "Генерал"
+ cc_leader: "Генерал армии"
  fm_leader: "Фельдмаршал"
  navy_leader: "Адмирал"
- communist_revolutionary: "Коммунистический революционер"
- communist_revolutionary_desc: "Сторонник международной революции, надеющийся помочь стране, а в конечном итоге и всему миру, перейти к коммунистическому обществу".
- democratic_reformer: "Демократический реформатор"
- democratic_reformer_desc: "Твердо верящий в право народа на самоуправление, этот политик считает расширение его прав и возможностей первоочередной задачей и стремится к тому, чтобы страной управляли по его мандату."
+ communist_revolutionary: "Коммунист-революционер"
+ communist_revolutionary_desc: "A supporter of the international revolution hoping to aid the country's, and eventually the world's, transition to a communist society." #NT!
+ democratic_reformer: "Демократ-реформатор"
+ democratic_reformer_desc: "A firm believer in the people's right to rule themselves, this politician sees empowering them as the first priority and aims for the country to be ruled with their mandate." #NT!
  fascist_demagogue: "Фашист-демагог"
- fascist_demagogue_desc: "Движимый стремлением объединить народ под властью сильного государства, этот политик делает упор на националистическую и милитаристскую риторику."
- staunch_monarchist: "Стойкий монархист"
- staunch_monarchist_desc: "Этот политик считает, что наследственный правитель служит мощным символом, объединяющим страну".
- ideological_crusader: "Идеологический крестоносец"
- popular_figurehead: "Популярный фигурант"
- silent_workhorse: "Молчаливая рабочая лошадь"
- compassionate_gentleman: "Сострадательный джентльмен"
- prince_of_terror: "Принц ужаса"
- backroom_backstabber: "Закулисный контрабандист"
- smooth_talking_charmer: "Гладкоречивый шарманщик"
- fortification_engineer: "Инженер-фортификатор"
- war_industrialist: "Военный промышленник"
- captain_of_industry: "Капитан промышленности"
- armaments_organizer: "Организатор вооружений"
- quartermaster_general: "Генеральный квартирмейстер"
- rocket_scientist: "Ракетный ученый"
- nuclear_scientist: "Ядерный ученый"
+ fascist_demagogue_desc: "Driven by a will to unite the people under a strong state, this politician emphasizes nationalist and militarist rhetoric." #NT!
+ staunch_monarchist: "Ярый монархист"
+ staunch_monarchist_desc: "This politician believes that a hereditary ruler serves as a powerful icon to unite the country." #NT!
+ ideological_crusader: "Идейный борец"
+ popular_figurehead: "Любимец народа"
+ silent_workhorse: "Рабочая лошадка"
+ compassionate_gentleman: "Благожелательный джентльмен"
+ prince_of_terror: "Кровавый палач"
+ backroom_backstabber: "Тайный манипулятор"
+ smooth_talking_charmer: "Обаятельный льстец"
+ fortification_engineer: "Строитель укреплений"
+ war_industrialist: "Военный магнат"
+ captain_of_industry: "Капитан индустрии"
+ armaments_organizer: "Министр военпрома"
+ quartermaster_general: "Генерал-квартирмейстер"
+ rocket_scientist: "Ракетостроитель"
+ nuclear_scientist: "Ученый-ядерщик"
  blitzkrieg_theorist: "Теоретик блицкрига"
  military_theorist: "Военный теоретик"
  air_warfare_theorist: "Теоретик воздушной войны"
- socio_economic_theorist: "Социально-экономический теоретик"
+ socio_economic_theorist: "Socio-Economic Theorist" #NT!
  dive_bomber: "Пикирующий бомбардировщик"
- victory_through_airpower: "Победа через воздушную мощь"
- close_air_support_proponent: "Сторонник ближней воздушной поддержки"
+ victory_through_airpower: "Победа путем господства в воздухе"
+ close_air_support_proponent: "Сторонник авиационной поддержки"
  assault_avaition: "Штурмовая авиация"
- naval_theorist: "Военно-морской теоретик"
- naval_aviation_pioneer: "Пионер морской авиации"
- grand_fleet_proponent: "Представитель большого флота"
+ naval_theorist: "Теоретик морского флота"
+ naval_aviation_pioneer: "Первопроходец морской авиации"
+ grand_fleet_proponent: "Сторонник крупных флотов"
  submarine_specialist: "Специалист по подводным лодкам"
- #tank_manufacturer: "Tank Designer"
+ #tank_manufacturer: "Tank Designer" #NT!
  technocrat: "Технократ"
- artillery_manufacturer: "Артиллерийский конструктор"
- infantry_equipment_manufacturer: "Конструктор пехотного оборудования"
- support_equipment_manufacturer: "Конструктор вспомогательного оборудования"
- motorized_equipment_manufacturer: "Конструктор моторизованного оборудования"
- #naval_manufacturer: "Ship Designer"
- #industrial_concern: "Industrial Concern"
- electronics_concern: "Концерн электроники"
- electronics_developer: "Разработчик электроники"
- resource_extraction_concern: "Концерн по добыче ресурсов"
- eoanb_generic_transport_concern: "Транспортный концерн"
- army_chief_defensive_1:1 "Армейская Оборона\n(Специалист)"
- army_chief_defensive_2:2 "Армейская Оборона\n(Эксперт)"
- army_chief_defensive_3:1 "Армейская Оборона\n(Гений)"
- army_chief_offensive_1:1 "Армейское Наступление\n(Специалист)"
- army_chief_offensive_2:1 "Армейское Наступление\n(Эксперт)"
- army_chief_offensive_3:1 "Армейское Наступление\n(Гений)"
- army_chief_drill_1:1 "Армейские учения\n(Специалист)"
- army_chief_drill_2:1 "Армейские учения\n(Эксперт)"
- army_chief_drill_3:1 "Армейские учения\n(Гений)"
- army_chief_reform_1:1 "Армейский реформатор\n(Специалист)"
- army_chief_reform_2:1 "Армейский реформатор\n(Эксперт)"
- army_chief_reform_3:1 "Армейский реформатор\n(Гений)"
- army_chief_organizational_1:1 "Армейская организация\n(Специалист)"
- army_chief_organizational_2:1 "Армейская организация\n(Эксперт)"
- army_chief_organizational_3:1 "Армейская организация\n(Гений)"
- army_chief_morale_1:1 "Моральный дух армии\n(Специалист)"
- army_chief_morale_2:1 "Моральный дух армии\n(Эксперт)"
- army_chief_morale_3:1 "Моральный дух армии\n(Гений)"
- army_chief_maneuver_1:1 "Армейские маневры\n(Специалист)"
- army_chief_maneuver_2:1 "Армейские маневры\n(Эксперт)"
- army_chief_maneuver_3:1 "Армейские маневры\n(Гений)"
- army_chief_planning_1:1 "Планирование\n(Специалист)"
- army_chief_planning_2:1 "Планирование\n(Эксперт)"
- army_chief_planning_3:1 "Планирование\n(Гений)"
- army_chief_old_guard: "Старая Гвардия"
- army_entrenchment_1:1 "Укрепление\n(Специалист)"
- army_entrenchment_2:1 "Укрепление\n(Эксперт)"
- army_entrenchment_3:1 "Укрепление\n(Гений)"
- army_armored_1:1 "Броня\n(Специалист)"
- army_armored_2:1 "Броня\n(Эксперт)"
- army_armored_3:1 "Броня\n(Гений)"
- army_artillery_1:1 "Артиллерия\n(Специалист)"
- army_artillery_2:1 "Артиллерия\n(Эксперт)"
- army_artillery_3:1 "Артиллерия\n(Гений)"
- army_infantry_1:1 "Пехота\n(Специалист)"
- army_infantry_2:1 "Пехота\n(Эксперт)"
- army_infantry_3:1 "Пехота\n(Гений)"
- army_commando_1:1 "Коммандос\n(Специалист)"
- army_commando_2:1 "Коммандос\n(Эксперт)"
- army_commando_3:1 "Коммандос\n(Гений)"
- army_cavalry_1:1 "Кавалерия\n(Специалист)"
- army_cavalry_2:1 "Кавалерия\n(Эксперт)"
- army_cavalry_3:1 "Кавалерия\n(Гений)"
- army_regrouping_1:1 "Перегруппировка армии\n(Специалист)"
- army_regrouping_2:1 "Перегруппировка армии\n(Эксперт)"
- army_regrouping_3:1 "Перегруппировка армии\n(Гений)"
- army_concealment_1:1 "Сокрытие\n(Специалист)"
- army_concealment_2:1 "Сокрытие\n(Эксперт)"
- army_concealment_3:1 "Сокрытие\n(Гений)"
- army_logistics_1:1 "Армейская логистика\n(Специалист)"
- army_logistics_2:1 "Армейская логистика\n(Эксперт)"
- army_logistics_3:1 "Армейская логистика\n(Гений)"
- air_chief_reform_1:1 "Воздушный реформатор\n(Специалист)"
- air_chief_reform_2:1 "Воздушный реформатор\n(Эксперт)"
- air_chief_reform_3:1 "Воздушный реформатор\n(Гений)"
- air_chief_safety_1:1 "Безопасность на воздушном транспорте\n(Специалист)"
- air_chief_safety_2:1 "Безопасность на воздушном транспорте\n(Эксперт)"
- air_chief_safety_3:1 "Безопасность на воздушном транспорте\n(Гений)"
- air_chief_night_operations_1:1 "Ночные операции\n(Специалист)"
- air_chief_night_operations_2:1 "Ночные операции\n(Эксперт)"
- air_chief_night_operations_3:1 "Ночные операции\n(Гений)"
- air_chief_ground_support_1:1 "Наземная поддержка\n(Специалист)"
- air_chief_ground_support_2:1 "Наземная поддержка\n(Эксперт)"
- air_chief_ground_support_3:1 "Наземная поддержка\n(Гений)"
- air_chief_all_weather_1:1 "Всепогодный вылет\n(Специалист)"
- air_chief_all_weather_2:1 "Всепогодный вылет\n(Эксперт)"
- air_chief_all_weather_3:1 "Всепогодный вылет\n(Гений)"
- air_chief_old_guard: "Старая Гвардия"
- air_air_combat_training_1:1 "Воздушная боевая подготовка\n(Специалист)"
- air_air_combat_training_2:1 "Воздушная боевая подготовка\n(Эксперт)"
- air_air_combat_training_3:1 "Воздушная боевая подготовка\n(Гений)"
- air_naval_strike_1:1 "Морской удар\n(Специалист)"
- air_naval_strike_2:1 "Морской удар\n(Эксперт)"
- air_naval_strike_3:1 "Морской удар\n(Гений)"
- air_bomber_interception_1:1 "Перехват бомбардировщика\n(Специалист)"
- air_bomber_interception_2:1 "Перехват бомбардировщика\n(Эксперт)"
- air_bomber_interception_3:1 "Перехват бомбардировщика\n(Гений)"
- air_air_superiority_1:1 "Воздушное превосходство\n(Специалист)"
- air_air_superiority_2:1 "Воздушное превосходство\n(Эксперт)"
- air_air_superiority_3:1 "Воздушное превосходство\n(Гений)"
- air_close_air_support_1:1 "Ближняя воздушная поддержка\n(Специалист)"
- air_close_air_support_2:1 "Ближняя воздушная поддержка\n(Эксперт)"
- air_close_air_support_3:1 "Ближняя воздушная поддержка\n(Гений)"
- air_strategic_bombing_1:1 "Стратегическая бомбардировка\n(Специалист)"
- air_strategic_bombing_2:1 "Стратегическая бомбардировка\n(Эксперт)"
- air_strategic_bombing_3:1 "Стратегическая бомбардировка\n(Гений)"
- air_tactical_bombing_1:1 "Тактическая бомбардировка\n(Специалист)"
- air_tactical_bombing_2:1 "Тактическая бомбардировка\n(Эксперт)"
- air_tactical_bombing_3:1 "Тактическая бомбардировка\n(Гений)"
- air_airborne_1:1 "Воздушный десант\n(Специалист)"
- air_airborne_2:1 "Воздушный десант\n(Эксперт)"
- air_airborne_3:1 "Воздушный десант\n(Гений)"
- air_pilot_training_1: "Подготовка пилотов\n(Специалист)"
- air_pilot_training_2: "Подготовка пилотов\n(Эксперт)"
- air_pilot_training_3: "Подготовка пилотов\n(Гений)"
- navy_chief_naval_aviation_1:1 "Военно-морская авиация\n(Специалист)"
- navy_chief_naval_aviation_2:1 "Военно-морская авиация\n(Эксперт)"
- navy_chief_naval_aviation_3:1 "Военно-морская авиация\n(Гений)"
- navy_chief_decisive_battle_1:1 "Решающая битва\n(Специалист)"
- navy_chief_decisive_battle_2:1 "Решающая битва\n(Эксперт)"
- navy_chief_decisive_battle_3:1 "Решающая битва\n(Гений)"
- navy_chief_commerce_raiding_1:1 "Коммерческий захват\n(Специалист)"
- navy_chief_commerce_raiding_2:1 "Коммерческий захват\n(Эксперт)"
- navy_chief_commerce_raiding_3:1 "Коммерческий захват\n(Гений)"
- navy_chief_reform_1:1 "Реформатор флота\n(Специалист)"
- navy_chief_reform_2:1 "Реформатор флота\n(Эксперт)"
- navy_chief_reform_3:1 "Реформатор флота\n(Гений)"
- navy_chief_maneuver_1:1 "Военно-морские маневры\n(Специалист)"
- navy_chief_maneuver_2:1 "Военно-морские маневры\n(Эксперт)"
- navy_chief_maneuver_3:1 "Военно-морские маневры\n(Гений)"
- navy_chief_old_guard: "Старая Гвардия"
- navy_anti_submarine_1:1 "Противолодочная тактика\n(Специалист)"
- navy_anti_submarine_2:1 "Противолодочная тактика\n(Эксперт)"
- navy_anti_submarine_3:1 "Противолодочная тактика\n(Гений)"
- navy_naval_air_defense_1:1 "Военно-морская противовоздушная оборона\n(Специалист)"
- navy_naval_air_defense_2:1 "Военно-морская противовоздушная оборона\n(Эксперт)"
- navy_naval_air_defense_3:1 "Военно-морская противовоздушная оборона\n(Гений)"
- navy_fleet_logistics_1:1 "Логистика флота\n(Специалист)"
- navy_fleet_logistics_2:1 "Логистика флота\n(Эксперт)"
- navy_fleet_logistics_3:1 "Логистика флота\n(Гений)"
- navy_amphibious_assault_1:1 "Амфибийная атака\n(Специалист)"
- navy_amphibious_assault_2:1 "Амфибийная атака\n(Эксперт)"
- navy_amphibious_assault_3:1 "Амфибийная атака\n(Гений)"
- navy_submarine_1:1 "Подводные лодки\n(Специалист)"
- navy_submarine_2:1 "Подводные лодки\n(Эксперт)"
- navy_submarine_3:1 "Подводные лодки\n(Гений)"
- navy_destroyer_1:1 "Эсминцы\n(Специалист)"
- navy_destroyer_2:1 "Эсминцы\n(Эксперт)"
- navy_destroyer_3:1 "Эсминцы\n(Гений)"
- navy_cruiser_1:1 "Крейсеры\n(Специалист)"
- navy_cruiser_2:1 "Крейсеры\n(Эксперт)"
- navy_cruiser_3:1 "Крейсеры\n(Гений)"
- navy_battleship_1:1 "Линкоры\n(Специалист)"
- navy_battleship_2:1 "Линкоры\n(Эксперт)"
- navy_battleship_3:1 "Линкоры\n(Гений)"
- navy_capital_ship_1:1 "Капитальные корабли\n(Специалист)"
- navy_capital_ship_2:1 "Капитальные корабли\n(Эксперт)"
- navy_capital_ship_3:1 "Капитальные корабли\n(Гений)"
- navy_screen_1:1 "Охранение\n(Специалист)"
- navy_screen_2:1 "Охранение\n(Эксперт)"
- navy_screen_3:1 "Охранение\n(Гений)"
- navy_carrier_1:1 "Авианосцы\n(Специалист)"
- navy_carrier_2:1 "Авианосцы\n(Эксперт)"
- navy_carrier_3:1 "Авианосцы\n(Гений)"
+ artillery_manufacturer: "Конструктор артиллерии"
+ infantry_equipment_manufacturer: "Конструктор пехотного снаряжения"
+ support_equipment_manufacturer: "Конструктор снаряжения отрядов обеспечения"
+ motorized_equipment_manufacturer: "Конструктор автотранспорта"
+ #naval_manufacturer: "Ship Designer" #NT!
+ #industrial_concern: "Industrial Concern" #NT!
+ electronics_concern: "Электронный концерн"
+ electronics_developer: "Производитель электроники"
+ resource_extraction_concern: "Resource Extraction Concern" #NT!
+ eoanb_generic_transport_concern: "Transport Concern" #NT!
+ army_chief_defensive_1: "Оборона\n(мастер)"
+ army_chief_defensive_2: "Оборона\n(специалист)"
+ army_chief_defensive_3: "Оборона\n(эксперт)"
+ army_chief_offensive_1: "Наступление\n(мастер)"
+ army_chief_offensive_2: "Наступление\n(специалист)"
+ army_chief_offensive_3: "Наступление\n(эксперт)"
+ army_chief_drill_1: "Воинская подготовка\n(мастер)"
+ army_chief_drill_2: "Воинская подготовка\n(специалист)"
+ army_chief_drill_3: "Воинская подготовка\n(эксперт)"
+ army_chief_reform_1: "Армейские реформы\n(мастер)"
+ army_chief_reform_2: "Армейские реформы\n(специалист)"
+ army_chief_reform_3: "Армейские реформы\n(эксперт)"
+ army_chief_organizational_1: "Организация\n(мастер)"
+ army_chief_organizational_2: "Организация\n(специалист)"
+ army_chief_organizational_3: "Организация\n(эксперт)"
+ army_chief_morale_1: "Боевой дух\n(мастер)"
+ army_chief_morale_2: "Боевой дух\n(специалист)"
+ army_chief_morale_3: "Боевой дух\n(эксперт)"
+ army_chief_maneuver_1: "Армейские маневры\n(мастер)"
+ army_chief_maneuver_2: "Армейские маневры\n(специалист)"
+ army_chief_maneuver_3: "Армейские маневры\n(эксперт)"
+ army_chief_planning_1: "Planning\n(Specialist)" #NT!
+ army_chief_planning_2: "Planning\n(Expert)" #NT!
+ army_chief_planning_3: "Planning\n(Genius)" #NT!
+ army_chief_old_guard: "Старая гвардия"
+ army_entrenchment_1: "Укрепления\n(мастер)"
+ army_entrenchment_2: "Укрепления\n(специалист)"
+ army_entrenchment_3: "Укрепления\n(эксперт)"
+ army_armored_1: "Бронетехника\n(мастер)"
+ army_armored_2: "Бронетехника\n(специалист)"
+ army_armored_3: "Бронетехника\n(эксперт)"
+ army_artillery_1: "Артиллерия\n(мастер)"
+ army_artillery_2: "Артиллерия\n(специалист)"
+ army_artillery_3: "Артиллерия\n(эксперт)"
+ army_infantry_1: "Пехота\n(мастер)"
+ army_infantry_2: "Пехота\n(специалист)"
+ army_infantry_3: "Пехота\n(эксперт)"
+ army_commando_1: "Диверсионные войска\n(мастер)"
+ army_commando_2: "Диверсионные войска\n(специалист)"
+ army_commando_3: "Диверсионные войска\n(эксперт)"
+ army_cavalry_1: "Кавалерия\n(мастер)"
+ army_cavalry_2: "Кавалерия\n(специалист)"
+ army_cavalry_3: "Кавалерия\n(эксперт)"
+ army_regrouping_1: "Перегруппировка армии\n(мастер)"
+ army_regrouping_2: "Перегруппировка армии\n(специалист)"
+ army_regrouping_3: "Перегруппировка армии\n(эксперт)"
+ army_concealment_1: "Маскировка\n(мастер)"
+ army_concealment_2: "Маскировка\n(специалист)"
+ army_concealment_3: "Маскировка\n(эксперт)"
+ army_logistics_1: "Армейская логистика\n(мастер)"
+ army_logistics_2: "Армейская логистика\n(специалист)"
+ army_logistics_3: "Армейская логистика\n(эксперт)"
+ air_chief_reform_1: "Реформы ВВС\n(мастер)"
+ air_chief_reform_2: "Реформы ВВС\n(специалист)"
+ air_chief_reform_3: "Реформы ВВС\n(эксперт)"
+ air_chief_safety_1: "Воздушная безопасность\n(мастер)"
+ air_chief_safety_2: "Воздушная безопасность\n(специалист)"
+ air_chief_safety_3: "Воздушная безопасность\n(эксперт)"
+ air_chief_night_operations_1: "Ночные операции\n(мастер)"
+ air_chief_night_operations_2: "Ночные операции\n(специалист)"
+ air_chief_night_operations_3: "Ночные операции\n(эксперт)"
+ air_chief_ground_support_1: "Наземная поддержка\n(мастер)"
+ air_chief_ground_support_2: "Наземная поддержка\n(специалист)"
+ air_chief_ground_support_3: "Наземная поддержка\n(эксперт)"
+ air_chief_all_weather_1: "Всепогодные операции\n(мастер)"
+ air_chief_all_weather_2: "Всепогодные операции\n(специалист)"
+ air_chief_all_weather_3: "Всепогодные операции\n(эксперт)"
+ air_chief_old_guard: "Старая гвардия"
+ air_air_combat_training_1: "Подготовка летчиков-истребителей\n(мастер)"
+ air_air_combat_training_2: "Подготовка летчиков-истребителей\n(специалист)"
+ air_air_combat_training_3: "Подготовка летчиков-истребителей\n(эксперт)"
+ air_naval_strike_1: "Морские атаки\n(мастер)"
+ air_naval_strike_2: "Морские атаки\n(специалист)"
+ air_naval_strike_3: "Морские атаки\n(эксперт)"
+ air_bomber_interception_1: "Перехват бомбардировщиков\n(мастер)"
+ air_bomber_interception_2: "Перехват бомбардировщиков\n(специалист)"
+ air_bomber_interception_3: "Перехват бомбардировщиков\n(эксперт)"
+ air_air_superiority_1: "Превосходство в воздухе\n(мастер)"
+ air_air_superiority_2: "Превосходство в воздухе\n(специалист)"
+ air_air_superiority_3: "Превосходство в воздухе\n(эксперт)"
+ air_close_air_support_1: "Штурмовики\n(мастер)"
+ air_close_air_support_2: "Штурмовики\n(специалист)"
+ air_close_air_support_3: "Штурмовики\n(эксперт)"
+ air_strategic_bombing_1: "Стратегические бомбардировки\n(мастер)"
+ air_strategic_bombing_2: "Стратегические бомбардировки\n(специалист)"
+ air_strategic_bombing_3: "Стратегические бомбардировки\n(эксперт)"
+ air_tactical_bombing_1: "Тактические бомбардировки\n(мастер)"
+ air_tactical_bombing_2: "Тактические бомбардировки\n(специалист)"
+ air_tactical_bombing_3: "Тактические бомбардировки\n(эксперт)"
+ air_airborne_1: "Десантные войска\n(мастер)"
+ air_airborne_2: "Десантные войска\n(специалист)"
+ air_airborne_3: "Десантные войска\n(эксперт)"
+ air_pilot_training_1: "Подготовка летчиков\n(специалист)"
+ air_pilot_training_2: "Подготовка летчиков\n(эксперт)"
+ air_pilot_training_3: "Подготовка летчиков\n(гений)"
+ navy_chief_naval_aviation_1: "Морская авиация\n(мастер)"
+ navy_chief_naval_aviation_2: "Морская авиация\n(специалист)"
+ navy_chief_naval_aviation_3: "Морская авиация\n(эксперт)"
+ navy_chief_decisive_battle_1: "Решающие сражения\n(мастер)"
+ navy_chief_decisive_battle_2: "Решающие сражения\n(специалист)"
+ navy_chief_decisive_battle_3: "Решающие сражения\n(эксперт)"
+ navy_chief_commerce_raiding_1: "Атаки на конвои\n(мастер)"
+ navy_chief_commerce_raiding_2: "Атаки на конвои\n(специалист)"
+ navy_chief_commerce_raiding_3: "Атаки на конвои\n(эксперт)"
+ navy_chief_reform_1: "Реформы ВМФ\n(мастер)"
+ navy_chief_reform_2: "Реформы ВМФ\n(специалист)"
+ navy_chief_reform_3: "Реформы ВМФ\n(эксперт)"
+ navy_chief_maneuver_1: "Морские маневры\n(мастер)"
+ navy_chief_maneuver_2: "Морские маневры\n(специалист)"
+ navy_chief_maneuver_3: "Морские маневры\n(эксперт)"
+ navy_chief_old_guard: "Старая гвардия"
+ navy_anti_submarine_1: "Борьба с подводными лодками\n(мастер)"
+ navy_anti_submarine_2: "Борьба с подводными лодками\n(специалист)"
+ navy_anti_submarine_3: "Борьба с подводными лодками\n(эксперт)"
+ navy_naval_air_defense_1: "Корабельные средства ПВО\n(мастер)"
+ navy_naval_air_defense_2: "Корабельные средства ПВО\n(специалист)"
+ navy_naval_air_defense_3: "Корабельные средства ПВО\n(эксперт)"
+ navy_fleet_logistics_1: "Логистика флота\n(мастер)"
+ navy_fleet_logistics_2: "Логистика флота\n(специалист)"
+ navy_fleet_logistics_3: "Логистика флота\n(эксперт)"
+ navy_amphibious_assault_1: "Морской десант\n(мастер)"
+ navy_amphibious_assault_2: "Морской десант\n(специалист)"
+ navy_amphibious_assault_3: "Морской десант\n(эксперт)"
+ navy_submarine_1: "Подводные лодки\n(мастер)"
+ navy_submarine_2: "Подводные лодки\n(специалист)"
+ navy_submarine_3: "Подводные лодки\n(эксперт)"
+ navy_destroyer_1: "Эсминцы\n(мастер)"
+ navy_destroyer_2: "Эсминцы\n(специалист)"
+ navy_destroyer_3: "Эсминцы\n(эксперт)"
+ navy_cruiser_1: "Крейсеры\n(мастер)"
+ navy_cruiser_2: "Крейсеры\n(специалист)"
+ navy_cruiser_3: "Крейсеры\n(эксперт)"
+ navy_battleship_1: "Линкоры\n(мастер)"
+ navy_battleship_2: "Линкоры\n(специалист)"
+ navy_battleship_3: "Линкоры\n(эксперт)"
+ navy_capital_ship_1: "Крупные корабли\n(мастер)"
+ navy_capital_ship_2: "Крупные корабли\n(специалист)"
+ navy_capital_ship_3: "Крупные корабли\n(эксперт)"
+ navy_screen_1: "Охранение\n(мастер)"
+ navy_screen_2: "Охранение\n(специалист)"
+ navy_screen_3: "Охранение\n(эксперт)"
+ navy_carrier_1: "Авианосцы\n(мастер)"
+ navy_carrier_2: "Авианосцы\n(специалист)"
+ navy_carrier_3: "Авианосцы\n(эксперт)"
  seawolf: "Морской волк"
- seawolf_desc: "Морской волк особенно искусен в рейдерстве конвоев".
+ seawolf_desc: "The Sea Wolf is particularly skilled in Convoy Raiding" #NT!
  superior_tactician: "Превосходный тактик"
- superior_tactician_desc: "Мастер позиционирования флота".
- financial_expert: "Финансовый эксперт"
- old_guard: "Старая Гвардия".
- old_guard_desc: "Хотя он и не самый блестящий офицер, но вряд ли доставит неприятности".
- old_guard_navy: "Старая Гвардия"
- old_guard_navy_desc: "Хотя это не самый блестящий офицер, он вряд ли доставит неприятности".
- trickster: "Трикстер"
- trickster_desc: "Неожиданные поступки в бою могут дать вам большое преимущество".
- logistics_wizard: "Волшебник логистики".
- logistics_wizard_desc: "Припасы никогда не опаздывают и никогда не опаздывают рано, они прибывают точно в срок".
- defensive_doctrine: "Оборонительная доктрина"
- defensive_doctrine_desc: "Особенно искусен в оборонительных боях".
- offensive_doctrine: "Наступательная доктрина"
- offensive_doctrine_desc: "Больше других настроен на нападение".
- winter_specialist: "Зимний специалист"
- winter_specialist_desc: "Обладает интуитивным пониманием трудностей ведения боя в холодных условиях".
+ superior_tactician_desc: "A master of Fleet Positioning." #NT!
+ financial_expert: "Эксперт по финансам"
+ old_guard: "Старая гвардия"
+ old_guard_desc: "While not the most brilliant officer, he is unlikely to cause trouble." #NT!
+ old_guard_navy: "Старая гвардия"
+ old_guard_navy_desc: "While not the most brilliant officer, he is unlikely to cause trouble." #NT!
+ trickster: "Хитрый лис"
+ trickster_desc: "Doing the unexpected in combat can give you a large advantage." #NT!
+ logistics_wizard: "Мастер снабжения"
+ logistics_wizard_desc: "Supplies are never late, nor ever early, they arrive precisely when I mean them to" #NT!
+ defensive_doctrine: "Мастер обороны"
+ defensive_doctrine_desc: "Especially skilled in fighting on the Defensive." #NT!
+ offensive_doctrine: "Мастер наступления"
+ offensive_doctrine_desc: "More Offensive-minded than most." #NT!
+ winter_specialist: "Мастер зимней войны"
+ winter_specialist_desc: "Possesses an intuitive understanding of the difficulties of fighting in Cold conditions." #NT!
  trait_engineer: "Инженер"
- trait_engineer_desc: "Владеет искусством переправы через реки и строительства полевых укреплений".
- fortress_buster: "Разрушитель крепостей"
- fortress_buster_desc: "Штурм форта не страшен для этого офицера".
- panzer_leader: "Лидер панцеров"
- panzer_leader_desc: "Естественно, с танками и механизированными войсками".
- commando: "Коммандос"
- commando_desc: "Опытен в амфибийных операциях, воздушных атаках и холодных погодных условиях - коммандос - человек многих талантов".
- fast_planner: "Быстрый планировщик"
- fast_planner_desc: "Знает все короткие пути при подготовке к бою - эффективность - это главное!"
- thorough_planner: "Тщательный планировщик"
- thorough_planner_desc: "Мастер стратегического планирования. С учетом времени, хорошо продуманный план будет самым сильным".
- organisational_leader: "Организация превыше всего"
- organisational_leader_desc: "Знает все уловки, чтобы быстрее всех получить подкрепление".
- inspirational_leader: "Харизматичный"
- inspirational_leader_desc: "Прирожденный лидер. Люди будут бороться со своими худшими страхами, когда их поддерживает сильный лидер".
- desert_fox: "Лиса пустыни"
- desert_fox_desc: "Совершенно как дома, когда сражается в пустыне".
- swamp_fox: "Болотная лиса"
- swamp_fox_desc: "Несмотря на некоторую сырость, болотная лиса знает толк в болотах и топях".
- trait_mountaineer: "Альпинист"
- trait_mountaineer_desc: "Отличный альпинист и искусен в горной войне".
- hill_fighter: "Истребитель холмов"
- hill_fighter_desc: "Отлично сражается на холмистой местности".
+ trait_engineer_desc: "Adept in the arts of crossing rivers and constructing field fortifications." #NT!
+ fortress_buster: "Мастер штурма"
+ fortress_buster_desc: "Assaulting a Fort holds no terror for this officer." #NT!
+ panzer_leader: "Мастер танковой войны"
+ panzer_leader_desc: "A natural with Tanks and Mechanized forces." #NT!
+ commando: "Коммандо"
+ commando_desc: "Skilled in Amphibious operations, Air Assaults, and Cold weather conditions - the Commando is a man of many talents." #NT!
+ fast_planner: "Быстрый стратег"
+ fast_planner_desc: "Knows all the shortcuts when preparing for battle - Efficiency is key!" #NT!
+ thorough_planner: "Аккуратный стратег"
+ thorough_planner_desc: "A strategic master mind. Given time, the well-laid plan will be the strongest." #NT!
+ organisational_leader: "Организация — превыше всего"
+ organisational_leader_desc: "Knows every trick to get reinforcements faster than anyone." #NT!
+ inspirational_leader: "Яркий полководец"
+ inspirational_leader_desc: "A natural leader. Men will face their worst fears when backed by a powerful leader." #NT!
+ desert_fox: "Лис пустыни"
+ desert_fox_desc: "Entirely at home when fighting in a Desert." #NT!
+ swamp_fox: "Болотный лис"
+ swamp_fox_desc: "While somewhat soggy, the Swamp Fox knows his way around Swamps and Marshes." #NT!
+ trait_mountaineer: "Горный стрелок"
+ trait_mountaineer_desc: "An excellent climber and skilled at Mountain warfare." #NT!
+ hill_fighter: "Мастер боя в холмах"
+ hill_fighter_desc: "Excels at fighting in Hilly terrain." #NT!
  jungle_rat: "Крыса джунглей"
- jungle_rat_desc: "Не боится грызунов необычных размеров и умеет воевать в джунглях".
+ jungle_rat_desc: "Undeterred by rodents of unusual size, and skilled in Jungle warfare." #NT!
  ranger: "Рейнджер"
- ranger_desc: "Рейнджеры ведут за собой, особенно когда речь идет о сражениях в лесах или джунглях".
- urban_assault_specialist: "Специалист по городским штурмам".
- urban_assault_specialist_desc: "Эксперт по ведению боя в чужом доме и наведению хаоса на чужих улицах".
- blockade_runner: "Бегущий по блокаде".
- blockade_runner_desc: "Способный быстро выходить из морского боя".
+ ranger_desc: "Rangers lead the way, especially when it involves fighting in Forest or Jungle areas." #NT!
+ urban_assault_specialist: "Мастер городского боя"
+ urban_assault_specialist_desc: "An expert in Fighting In Someone's House and Causing Havoc In People's Streets." #NT!
+ blockade_runner: "Мастер прорыва блокады"
+ blockade_runner_desc: "Able to rapidly Disengage from Naval Combat." #NT!
  spotter: "Наблюдатель"
- spotter_desc: "Наблюдатель уделяет особое внимание наблюдению за вражескими флотами".
+ spotter_desc: "The Spotter pays special attention to keeping an eye out for enemy fleets." #NT!
  fly_swatter: "Мухобойка"
- fly_swatter_desc: "Понимая опасность, которую представляют самолеты даже для наших самых мощных кораблей, Fly Swatter быстро избавляется от всего, что летает".
- ironside: "Айронсайд"
- ironside_desc: "Решительно защищает наши родные воды с помощью самых мощных кораблей, на которые способен наш флот".
- air_controller: "Воздушный контролер"
- air_controller_desc: "Эксперт в зарождающейся области морской авиации, воздушный контролер - естественный выбор для командования авианосцами".
- naval_invader: "Захватчик"
- naval_invader_desc: "Эксперт в проведении морских вторжений. Идеальный парень для подготовки вторжения на вражеский берег и его проведения".
- bearer_of_artillery: "Носитель артиллерии".
- bearer_of_artillery_desc: "Никогда не роняйте ящики!".
+ fly_swatter_desc: "Realizing the danger posed to even our most powerful ships by airplanes, the Fly Swatter swiftly disposes of anything that flies." #NT!
+ ironside: "Железняк"
+ ironside_desc: "Determined to defend our home waters with the most powerful ships our navy can muster." #NT!
+ air_controller: "Авиадиспетчер"
+ air_controller_desc: "An expert in the nascent field of naval aviation, the Air Controller is a natural choice to command carriers." #NT!
+ naval_invader: "Интервент"
+ naval_invader_desc: "An expert in performing naval invasions. The perfect guy for preparing an invasion of a hostile beach and carrying it out." #NT!
+ bearer_of_artillery: "Артиллерийская обслуга"
+ bearer_of_artillery_desc: "Never drop a crate!" #NT!
  dictator: "Диктатор"
- CAS_manufacturer: "Конструктор CAS"
- light_aircraft_manufacturer: "Конструктор легких самолетов"
- medium_aircraft_manufacturer: "Конструктор средних самолетов"
- heavy_aircraft_manufacturer: "Конструктор тяжелых самолетов"
- naval_aircraft_manufacturer: "Конструктор военно-морских самолетов"
- fast_tank_manufacturer: "Конструктор мобильных танков"
- medium_tank_manufacturer: "Конструктор танков"
+ CAS_manufacturer: "Конструктор штурмовиков"
+ light_aircraft_manufacturer: "Конструктор легкой авиации"
+ medium_aircraft_manufacturer: "Конструктор средней авиации"
+ heavy_aircraft_manufacturer: "Конструктор тяжелой авиации"
+ naval_aircraft_manufacturer: "Конструктор палубной авиации"
+ fast_tank_manufacturer: "Конструктор быстрых танков"
+ medium_tank_manufacturer: "Tank Designer" #NT!
  heavy_tank_manufacturer: "Конструктор тяжелых танков"
- pacific_fleet_naval_manufacturer: "Конструктор Тихоокеанского флота"
- atlantic_fleet_naval_manufacturer: "Конструктор Атлантического флота"
- raiding_fleet_naval_manufacturer: "Конструктор рейдерского флота"
- convoy_escort_naval_manufacturer: "Конструктор эскортного флота"
- coastal_defence_naval_manufacturer: "Конструктор флота береговой обороны"
- refinery_concern: "Нефтеперерабатывающий концерн"
- political_dancer: "Мастер маневрирования"
- political_dancer_desc: "Знает движения, когда дело касается политического маневрирования на танцевальном коврике Европы".
- mobile_warfare_expert: "Эксперт по мобильной войне"
- superior_firepower_expert: "Эксперт по огневой мощи".
- grand_battle_plan_expert: "Эксперт по грандиозным планам сражений"
- mass_assault_expert: "Эксперт по массовым нападениям"
- warrior_code: "Код воина"
+ pacific_fleet_naval_manufacturer: "Конструктор кораблей Тихоокеанского флота"
+ atlantic_fleet_naval_manufacturer: "Конструктор кораблей Атлантического флота"
+ raiding_fleet_naval_manufacturer: "Конструктор рейдерских кораблей"
+ convoy_escort_naval_manufacturer: "Конструктор кораблей сопровождения"
+ coastal_defence_naval_manufacturer: "Конструктор кораблей береговой защиты"
+ refinery_concern: "Refining concern" #NT!
+ political_dancer: "Искусный интриган"
+ political_dancer_desc: "Knows the moves when it comes to political maneuvering on the dance mat of Europe." #NT!
+ mobile_warfare_expert: "Эксперт по маневренной войне"
+ superior_firepower_expert: "Эксперт по огневой мощи"
+ grand_battle_plan_expert: "Эксперт по крупномасштабному планированию"
+ mass_assault_expert: "Эксперт по массированному штурму"
+ warrior_code: "Кодекс воинской чести"
  dislikes_germany: "Не любит Германию"
- staunch_constitutionalist: "Стойкий конституционалист"
- cornered_fox: "Загнанный в угол лис"
- stout_defender: "Стойкий защитник"
- warmonger: "Воинственный"
- permanent_revolutionary: "Перманентный революционер"
- triumphant_revolutionary: "Триумфальный революционер"
+ staunch_constitutionalist: "Ярый конституционалист"
+ cornered_fox: "Загнанный лис"
+ stout_defender: "Ярый защитник"
+ warmonger: "Милитарист"
+ permanent_revolutionary: "Вечный революционер"
+ triumphant_revolutionary: "Победоносный революционер"
  inexperienced_imperialist: "Неопытный империалист"
- spirit_of_genghis: "Дух Чингиза"
+ spirit_of_genghis: "Дух Чингисхана"
  stalins_puppet: "Марионетка Сталина"
- stalins_puppet_desc: "Такой же верный и патриотичный, он никогда не предаст Интернационал, положение рабочего или свою родину. Именно в таком порядке".
- exiled: "Изгнанный"
- exiled_desc: "Под угрозой преследования они провели большую часть последних лет политических потрясений за границей."
- indomitable_perseverance:1 "Неукротимое упорство"
+ stalins_puppet_desc: "As loyal as he is patriotic, he will never betray the International, the plight of the worker, or his home country. In that order." #NT!
+ exiled: "Сосланный"
+ exiled_desc: "Under threat of persecution they have spent much of the recent years of political turmoil abroad." #NT!
+ indomitable_perseverance: "Несгибаемое упорство"
  anti_communist: "Антикоммунист"
- fascist_sympathies: "Фашистские симпатии"
+ fascist_sympathies: "Симпатизирует фашизму"
  hedonist: "Гедонист"
- camarilla_leader: "Лидер Клики"
+ camarilla_leader: "Лидер привластной группировки"
  propaganda_expert: "Мастер пропаганды"
- appeaser: "Скромный угодник"
+ appeaser: "Скромный миротворец"
  organizer: "Организатор"
- organizer_desc:1 "Умеет планировать и организовывать передвижение больших армий".
- first_lady: "Первая леди Республики"
- dealbroker: "Брокер по сделкам"
- dealbroker_desc: "Люди не любят смотреть, как делают сосиски и законы. Этот человек знает, почему".
- panzer_expert: "Эксперт по панцерам"
- panzer_expert_desc:1 "Опыт и подготовка делают этого лидера экспертом в управлении танками".
- combined_arms_expert: "Эксперт по комбинированным вооружениям"
- combined_arms_expert_short: "Комб. Эксперт по вооружениям"
- combined_arms_expert_desc:1 "Способен объединить сильные стороны как брони, так и пехоты".
- cavalry_leader: "Кавалерия Лидер"
- cavalry_leader_desc:1 "Умеет использовать мобильные силы для достижения победы".
- cavalry_expert: "Кавалерия Эксперт"
- cavalry_expert_desc:1 "Эксперт в использовании скорости и мобильности в бою".
- infantry_leader: "Пехота-лидер"
- infantry_leader_desc:1 "Специалист по руководству пехотой в бою".
- infantry_expert: "Пехота-эксперт"
- infantry_expert_desc:1 "Настоящий эксперт в руководстве пехотой".
- artillery_leader: "Артиллерия Лидер"
- artillery_leader_desc: "Искусен в управлении артиллерией в бою".
- artillery_expert: "Артиллерия Эксперт "
- artillery_expert_desc: "Настоящий эксперт в управлении артиллерией".
- unyielding_defender: "Непоколебимый защитник"
- unyielding_defender_desc:1 "Отступление - не вариант".
+ organizer_desc: "Able to plan and organize the movement of large armies." #NT!
+ first_lady: "Первая леди республики"
+ dealbroker: "Посредник"
+ dealbroker_desc: "People don't like to see how sausages and laws get made. This man knows why." #NT!
+ panzer_expert: "Эксперт по танкам"
+ panzer_expert_desc: "Experience and training makes this leader an expert at commanding tanks." #NT!
+ combined_arms_expert: "Эксперт по общевойсковым операциям"
+ combined_arms_expert_short: "Эксперт по общевойсковым операциям"
+ combined_arms_expert_desc: "Able to combine the strengths of both armor and infantry." #NT!
+ cavalry_leader: "Командующий кавалерией"
+ cavalry_leader_desc: "Skilled at using mobile forces to achieve victory." #NT!
+ cavalry_expert: "Эксперт по кавалерии"
+ cavalry_expert_desc: "An expert at using speed and mobility in battle." #NT!
+ infantry_leader: "Командующий пехотой"
+ infantry_leader_desc: "Skilled at leading infantry in combat." #NT!
+ infantry_expert: "Эксперт по пехоте"
+ infantry_expert_desc: "A true expert in leading infantry." #NT!
+ artillery_leader: "Artillery Leader" #NT!
+ artillery_leader_desc: "Skilled at commanding artillery in combat" #NT!
+ artillery_expert: "Artillery Expert" #NT!
+ artillery_expert_desc: "A true expert in directing artillery." #NT!
+ unyielding_defender: "Несокрушимый защитник"
+ unyielding_defender_desc: "Retreat is not an option." #NT!
  aggressive_assaulter: "Агрессивный нападающий"
  aggressive_assaulter_short: "Агрессивный нападающий"
- aggressive_assaulter_desc:1 "Лучшая защита - сильное нападение".
- scavenger: "Падальщик"
- scavenger_desc:1 "Чаще всего занимаются разбором и ремонтом захваченного снаряжения для использования своими войсками".
- ambusher: "Засада"
- ambusher_desc:1 "Умеет обманом заманивать вражеские войска в засады".
- invader_ii: "Амфибия"
- invader_ii_desc:1 "Морские вторжения могут потребовать длительных боев до прибытия пополнения".
- naval_liason: "Военный моряк"
- naval_liason_desc:1 "Хорошие отношения с флотом обеспечат более обильную огневую поддержку со стороны флота".
+ aggressive_assaulter_desc: "The best defence is a strong offence." #NT!
+ scavenger: "Сборщик"
+ scavenger_desc: "More likely to scavenge and repair captured equipment for use by their own troops." #NT!
+ ambusher: "Мастер засад"
+ ambusher_desc: "Expertly able to trick enemy forces into ambushes." #NT!
+ invader_ii: "Морской десант"
+ invader_ii_desc: "Naval invasions may need to fight for a long time before resupply can arrive." #NT!
+ naval_liason: "Naval Liason" #NT!
+ naval_liason_desc: "A good relationship with the navy will ensure that naval fire support will be more plentiful." #NT!
  expert_improviser: "Эксперт по импровизации"
- expert_improviser_short: "Импровизация. Эксперт"
- expert_improviser_desc:1 "Эксперт в решении проблем любыми доступными средствами".
- guerilla_fighter: "Партизанский боец"
- guerilla_fighter_desc:1 "Опытный партизан - эксперт в использовании естественной местности и препятствий в своих интересах".
- winter_expert: "Зимний эксперт"
- winter_expert_desc:1 "Тяжело заработанный опыт научил этого лидера сражаться в суровых зимних условиях".
- skilled_staffer: "Квалифицированный сотрудник"
- skilled_staffer_desc:1 "Окруженный лучшими сотрудниками, этот лидер способен организовать и управлять большим количеством подразделений."
- adaptable: "Адаптируемый"
- adaptable_desc:1 "Естественное понимание того, как сражаться на разных местностях и адаптироваться к различным условиям".
+ expert_improviser_short: "Эксперт по импровизации"
+ expert_improviser_desc: "An expert in solving problems with whatever means are available." #NT!
+ guerilla_fighter: "Опытный партизан"
+ guerilla_fighter_desc: "The skilled guerilla fighter is an expert at using natural terrain and obstacles to their advantage." #NT!
+ winter_expert: "Эксперт по зиме"
+ winter_expert_desc: "Hard earned experience has taught this leader how to fight in harsh winter conditions." #NT!
+ skilled_staffer: "Умелый штабист"
+ skilled_staffer_desc: "Surrounded by some of the best staff, this leader is able to organize and manage a larger number of units." #NT!
+ adaptable: "Приспособленец"
+ adaptable_desc: "A natural understanding of how to fight in various terrains and adapt to different environments." #NT!
  terrain_traits: "Черты местности"
  traits: "Черты"
- basic_traits:1 "Заработанные черты"
+ basic_traits: "Приобретенные черты"
  field_marshal_traits: "Черты фельдмаршала"
- assignable_traits:1 "Общие черты"
- background: "Фон"
- LEADER_DETAILS_TITLE: "Сведения о лидере"
- OPEN_LEADER_DETAILS: "Показать подробности о лидере".
+ assignable_traits: "Черты генерала"
+ background: "Биография"
+ LEADER_DETAILS_TITLE: "Описание лидера"
+ OPEN_LEADER_DETAILS: "Показать описание лидера."
  anti_democrat: "Антидемократ"
- great_war_hero: "Великий военный герой"
- popular_figurehead2: "Популярный фигурант"
+ great_war_hero: "Герой Великой войны"
+ popular_figurehead2: "Любимец народа"
  imperial_connections: "Имперские связи"
- kaiserin_of_the_people: "Кайзерин народа"
+ kaiserin_of_the_people: "Кайзер из народа"
  victoria_iii: "Виктория III"
  incognito: "Инкогнито"
- nationalist_symbol:1 "Символ национализма"
+ nationalist_symbol: "Символ национализма"
  generallissimo: "Генералиссимус"
- aversion_to_offense: "Отвращение к оскорблениям"
- aversion_to_offense_desc: "Этот генерал крайне осторожен и старается избегать наступательных столкновений, насколько это возможно"
- expert_administrator: "Администратор-эксперт"
- expert_administrator_desc: "Этот генерал - прекрасный администратор, обладающий бесценными знаниями в организации и обучении армий"
- war_of_1812_veteran: "Ветеран войны 1812 года"
- war_of_1812_veteran_desc: "Этот генерал служит в армии со времен войны 1812 года".
- napoleonic_tactician: "Наполеоновский тактик"
- napoleonic_tactician_desc: "Этот генерал использует устаревшую военную тактику времен Наполеоновских войн".
- quick_marcher: "Быстрый марширующий"
- ENABLES_ABILITY: "Включает способность: $NAME|H$"
+ aversion_to_offense: "Aversion To Offense" #NT!
+ aversion_to_offense_desc: "This general is extremely cautious and tries to avoide offensive engagements as much as possible" #NT!
+ expert_administrator: "Expert Administrator" #NT!
+ expert_administrator_desc: "This general is a fine administrator with invaluable knowledge in organizing and training armies" #NT!
+ war_of_1812_veteran: "War Of 1812 Veteran" #NT!
+ war_of_1812_veteran_desc: "This general has been serving in the army as since the War of 1812" #NT!
+ napoleonic_tactician: "Napoleonic Tactician" #NT!
+ napoleonic_tactician_desc: "This general utilizes outdated military tactics from the days of the Napoleonic Wars" #NT!
+ quick_marcher: "Quick Marcher" #NT!
+ ENABLES_ABILITY: "Открывает доступ к способности: $NAME|H$"
  ABILITY_DESC: "$NAME|H$: $DETAILS$"
- TRAIT_NOT_ASSIGNABLE:1 "Заработанные черты могут быть разблокированы только при получении опыта или в результате событий.\n"
- TRAIT_ASSIGNABLE_TO_UNIT_MARSHALS: "Черты фельдмаршала могут быть присвоены только фельдмаршалам.\n"
- ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS: "Генерал уже имеет максимальное количество назначаемых черт.\n"
- TRAIT_NOT_ALLOWED: "Черта не разрешена.\n"
- TRAIT_NO_PREREQUISITES: "Не все условия выполнены.\n"
- MUTUALLY_EXCLUSIVE_TRAIT_ALREADY_ASSIGNED: "Взаимоисключающая черта уже назначена.\n"
- TRAIT_NEED_ALL_PARENTS: "Все родительские черты должны быть разблокированы, чтобы можно было назначить эту черту.\n"
- TRAIT_NEED_SOME_PARENTS: "Вам нужно разблокировать по крайней мере $NUM$ родительских черт, чтобы иметь возможность назначить эту черту.\n"
+ TRAIT_NOT_ASSIGNABLE: "Доступ к приобретенным чертам открывается с получением опыта или событиями.\n"
+ TRAIT_ASSIGNABLE_TO_UNIT_MARSHALS: "Черты фельдмаршала можно назначить только для фельдмаршалов.\n"
+ ALREADY_HAS_MAX_ALLOWED_ASSIGNABLE_TRAITS: "У генерала выбрано максимальное число доступных черт.\n"
+ TRAIT_NOT_ALLOWED: "Эта черта недопустима.\n"
+ TRAIT_NO_PREREQUISITES: "Не выполнены все условия.\n"
+ MUTUALLY_EXCLUSIVE_TRAIT_ALREADY_ASSIGNED: "Уже выбрана другая из взаимоисключающих черт.\n"
+ TRAIT_NEED_ALL_PARENTS: "Чтобы выбрать эту черту, нужен доступ ко всем предыдущим чертам.\n"
+ TRAIT_NEED_SOME_PARENTS: "Чтобы выбрать эту черту, нужен доступ к предыдущим чертам ($NUM$).\n"
  SKILL_ATTACK: "§HАтака§!"
  SKILL_DEFENSE: "§HОборона§!"
  SKILL_PLANNING: "§HПланирование§!"
  SKILL_LOGISTICS: "§HЛогистика§!"
- SKILL_ATTACK_DESC: "§LНавык атаки повышает атакующие показатели отрядов, которыми командует генерал.§!"
- SKILL_DEFENSE_DESC: "§LНавык обороны повышает защитные показатели отрядов, которыми командует генерал.§!"
- SKILL_PLANNING_DESC: "§LНавык планирования скорости отрядов, которыми руководит генерал.§!"
- SKILL_LOGISTICS_DESC: "§LНавык логистики снижает расход припасов у подразделений, которыми руководит генерал.§!"
+ SKILL_ATTACK_DESC: "§LНавык наступления увеличивает эффективность в атаке частей под командованием генерала.§!"
+ SKILL_DEFENSE_DESC: "§LПознания этого генерала в обороне повышают эффективность в обороне всех частей под его командованием.§!"
+ SKILL_PLANNING_DESC: "§LПознания этого генерала в планировании увеличивают скорость частей под его командованием.§!"
+ SKILL_LOGISTICS_DESC: "§LПознания этого генерала в логистике снижают расход припасов в частях под его командованием.§!"
  SKILL_NAVY_LEADER_ATTACK: "§HАтака§!"
- SKILL_NAVY_LEADER_ATTACK_DESC: "§LНавык Атаки повышает атакующие показатели кораблей, которыми командует адмирал.§!"
- SKILL_NAVY_LEADER_DEFENSE: "§HОборон§!"
- SKILL_NAVY_LEADER_DEFENSE_DESC: "§LНавык Обороны увеличивает защитные показатели кораблей, которыми руководит адмирал.§!"
- SKILL_NAVY_LEADER_MANEUVERING: "§HМаневрирование§!"
- SKILL_NAVY_LEADER_MANEUVERING_DESC: "§LНавык маневрирования повышает боевые возможности кораблей, которыми руководит адмирал.§!"
+ SKILL_NAVY_LEADER_ATTACK_DESC: "§LНавык наступления увеличивает эффективность в атаке кораблей под командованием адмирала.§!"
+ SKILL_NAVY_LEADER_DEFENSE: "§HОборона§!"
+ SKILL_NAVY_LEADER_DEFENSE_DESC: "§LНавык обороны увеличивает эффективность в обороне кораблей под командованием адмирала.§!"
+ SKILL_NAVY_LEADER_MANEUVERING: "§HМаневренность§!"
+ SKILL_NAVY_LEADER_MANEUVERING_DESC: "§LНавык маневренности увеличивает боевую эффективность кораблей под командованием адмирала.§!"
  SKILL_NAVY_LEADER_COORDINATION: "§HКоординация§!"
- SKILL_NAVY_LEADER_COORDINATION_DESC: "§LНавык координации увеличивает дальность и эффективность миссий кораблей, которыми руководит адмирал. Также он позволяет адмиралу управлять большим флотом.§!"
- SKILL_NAVY_LEADER_LEVEL_NEXT_AMOUNT: "Вашему адмиралу требуется $VALUE|H$ опыта для перехода на следующий уровень."
- SKILL_NAVY_LEADER_LEVEL_DETAILS: "После повышения уровня адмирал получает 3 случайных очка характеристик. Тип черт, которыми обладает адмирал, увеличивает шансы получить очко в соответствующих статах."
- SKILL_LEVEL_MAX: "Лидер уже достиг максимального уровня".
- SKILL_LEVEL_NEXT_AMOUNT: "Вашему генералу требуется $VALUE|H$ опыта, чтобы перейти на следующий уровень".
- SKILL_LEVEL_CURRENT_PROGRESS: "Текущий прогресс: $VALUE|H%0$".
- SKILL_LEVEL_DETAILS: "После повышения уровня генерал получает 3 случайных очка характеристик. Тип черт, которыми обладает генерал, увеличивает шансы получить очко в соответствующих статах."
- PICK_TRAIT: "Выберите черту".
- BASIC_TRAITS_DESC:1 "Заработанные черты - это черты, которые не могут быть назначены вручную, но могут быть получены путем получения опыта в соответствующих областях или в результате событий."
- ASSIGNABLE_TRAITS_DESC:1 "Общие черты - это черты, которые могут быть назначены генералу вручную."
- FIELD_MARSHAL_TRAITS_DESC: "Черты фельдмаршала могут быть назначены только фельдмаршалам. Фельдмаршалы также могут использовать обычные черты, но их эффект будет снижен при командовании более чем одной армией."
- TERRAIN_TRAITS_DESC: "Черты местности дают бонусы генералам, которые сражаются на определенной местности. Они могут быть назначены вручную или получены через опыт, как заработанные черты."
- BOOST_MANEUVERING_FACTOR: "Больше шансов получить навык §HManeuvering§! при повышении уровня".
- BOOST_COORDINATION_FACTOR: "Больше шансов получить навык §HCoordination§! при повышении уровня".
- trait_bonus_maneuvering: "Маневрирование: $VAL|+=0$"
+ SKILL_NAVY_LEADER_COORDINATION_DESC: "§LНавык координации увеличивает дальность и эффективность заданий кораблей под командованием адмирала. Он также позволяет адмиралу командовать более крупными флотами.§!"
+ SKILL_NAVY_LEADER_LEVEL_NEXT_AMOUNT: "Вашему адмиралу требуется $VALUE|H$ опыта до следующего уровня."
+ SKILL_NAVY_LEADER_LEVEL_DETAILS: "С каждым новым уровнем адмирал получает 3 очка случайных параметров. Выбранные черты повышают вероятность повышения связанных параметров."
+ SKILL_LEVEL_MAX: "Военачальник уже максимального уровня."
+ SKILL_LEVEL_NEXT_AMOUNT: "Вашему генералу требуется $VALUE|H$ опыта до следующего уровня."
+ SKILL_LEVEL_CURRENT_PROGRESS: "Текущий прогресс: $VALUE|H%0$"
+ SKILL_LEVEL_DETAILS: "С каждым новым уровнем генерал получает три очка случайных параметров. Выбранные черты повышают вероятность повышения связанных параметров."
+ PICK_TRAIT: "Выбор черты"
+ BASIC_TRAITS_DESC: "Приобретенные черты нельзя выбрать вручную. Они открываются при наборе опыта в соответствующих областях или благодаря событиям."
+ ASSIGNABLE_TRAITS_DESC: "Основные черты — черты, которые можно назначить генералу самостоятельно."
+ FIELD_MARSHAL_TRAITS_DESC: "Черты фельдмаршалов можно назначать только фельдмаршалам. Фельдмаршалы могут при этом выбирать и обычные черты, но их эффект будет значительно меньше, если под командованием больше одной армии."
+ TERRAIN_TRAITS_DESC: "Черты местности дают генералам бонусы в зависимости от особенностей ландшафта. Их можно выбрать вручную или получить с опытом."
+ BOOST_MANEUVERING_FACTOR: "Вероятнее всего получение навыка §HМаневренность§! при повышении уровня"
+ BOOST_COORDINATION_FACTOR: "Вероятнее всего получение навыка §HКоординация§! при повышении уровня"
+ trait_bonus_maneuvering: "Маневренность: $VAL|+=0$"
  trait_bonus_coordination: "Координация: $VAL|+=0$"
- SEAWOLF_TRIGGER_TT: "Более 80% подводных лодок в составе флота"
- FLEET_PROTECTOR_TRIGGER_TT: "Более 50% экранирующих судов во флоте".
- SUPERIOR_TACTICIAN_TRIGGER_TT: "Иметь преимущество в бою".
- SPOTTER_TRIGGER_TT: "Наблюдение за врагом".
- FLY_SWATTER_TRIGGER_TT: "Борьба с воздушными единицами противника"
- IRONSIDE_TRIGGER_TT: "Командовать или сражаться с капитальными кораблями".
- BLOCKADE_RUNNER_TRIGGER_TT: "Храброе отступление перед лицом подавляющей силы".
- CONFIRMTRAITASSIGNMENT: "Присвоить черту генералу"
- CONFIRMTRAITASSIGNMENT_DESC: "Вы уверены, что хотите присвоить $TRAIT|H$ генералу $LEADER|H$?".
- CONFIRMTRAITASSIGNMENT_DESC_REMAINING: "После назначения этой черты у вас будет $NUM|H$ больше доступных слотов черт для назначения этому генералу".
- CONFIRMTRAITASSIGNMENT_DESC_REMAINING_NONE: "После назначения этой черты у вас останется §Rno§! доступных слотов черт для этого генерала".
- JAP_samurai_lineage: "Родословная самураев".
- JAP_samurai_lineage_desc: "Этот человек происходит из гордого рода самураев и остается верен старым традициям и преданности."
- JAP_communist_sympathizer: "Сочувствующий коммунистам"
- JAP_communist_sympathizer_desc: "Сторонник коммунистического дела".
- PRS_prussian_general: "Прусский генерал"
- PRS_prussian_general_desc: "".
- PRS_pour_le_merite: "За заслуги"
- PRS_pour_le_merite_desc: ""
- PRS_iron_cross: "Железный крест"
- PRS_iron_cross_desc: ""
- BOOST_ATTACK_FACTOR:4 "Больше шансов получить навык §HАтаки§! при повышении уровня"
- BOOST_DEFENCE_FACTOR:4 "Больше шансов получить навык §HОбороны§! при повышении уровня".
- BOOST_LOGISTICS_FACTOR:4 "Больше шансов получить навык §HЛогистики§! при повышении уровня"
- BOOST_PLANNING_FACTOR:4 "Больше шансов получить навык §HПланирования§! при повышении уровня"
- INCREASED_BLITZ_AND_ENCIRCLEMENT_CHANCE: "Повышенный шанс выполнения тактик §HБлица§! и §HОкружения§!"
- INCREASED_COUNTERATTACK_CHANCE: "Increased chance of executing §HCounterattack§! tactics" #NT!
- INCREASED_ASSAULT_AND_SHOCK_CHANCE: "Увеличен шанс выполнения тактик §HШтурма§! и §HШока§!".
- skirmisher: "Скирмишер"
- skirmisher_desc: "Умеет использовать зондирующие атаки, чтобы проверить силы противника и измотать его".
+ SEAWOLF_TRIGGER_TT: "Более 80% подводных лодок во флоте"
+ FLEET_PROTECTOR_TRIGGER_TT: "Более 50% кораблей охранения во флоте"
+ SUPERIOR_TACTICIAN_TRIGGER_TT: "Обладает преимуществом в бою"
+ SPOTTER_TRIGGER_TT: "Обнаруживает врага"
+ FLY_SWATTER_TRIGGER_TT: "Сражается с вражескими авиачастями"
+ IRONSIDE_TRIGGER_TT: "Командует или сражается с крупными кораблями"
+ BLOCKADE_RUNNER_TRIGGER_TT: "Храбро отступает при виде превосходящих сил противника"
+ CONFIRMTRAITASSIGNMENT: "Assign Trait to General" #NT!
+ CONFIRMTRAITASSIGNMENT_DESC: "Вы действительно хотите назначить черту «$TRAIT|H$» генералу $LEADER|H$?"
+ CONFIRMTRAITASSIGNMENT_DESC_REMAINING: "After assigning this trait, you will have $NUM|H$ more avaliable trait slots to assign for this general." #NT!
+ CONFIRMTRAITASSIGNMENT_DESC_REMAINING_NONE: "After assigning this trait, you will have §Rno§! avaliable trait slots to assign for this general." #NT!
+ JAP_samurai_lineage: "Традиции самураев"
+ JAP_samurai_lineage_desc: "This man hails from proud lineage of Samurai and remains true to the old traditions and loyalties." #NT!
+ JAP_communist_sympathizer: "Сторонник коммунизма"
+ JAP_communist_sympathizer_desc: "Supporter of the communist cause." #NT!
+ PRS_prussian_general: "Prussian General" #NT!
+ PRS_prussian_general_desc: "" #NT!
+ PRS_pour_le_merite: "Pour le Merite" #NT!
+ PRS_pour_le_merite_desc: "" #NT!
+ PRS_iron_cross: "Iron Cross" #NT!
+ PRS_iron_cross_desc: "" #NT!
+ BOOST_ATTACK_FACTOR: "Вероятнее всего получение навыка §HАтака§! при повышении уровня"
+ BOOST_DEFENCE_FACTOR: "Вероятнее всего получение навыка §HОборона§! при повышении уровня"
+ BOOST_LOGISTICS_FACTOR: "Вероятнее всего получение навыка §HЛогистика§! при повышении уровня"
+ BOOST_PLANNING_FACTOR: "Вероятнее всего получение навыка §HПланирование§! при повышении уровня"
+ INCREASED_BLITZ_AND_ENCIRCLEMENT_CHANCE: "Повышенный шанс тактик §Hблицкриг§! и §Hокружение§!"
+ INCREASED_COUNTERATTACK_CHANCE: "Повышенный шанс тактики §Hконтратака§!"
+ INCREASED_ASSAULT_AND_SHOCK_CHANCE: "Повышенный шанс тактик §Hштурм§! и §Hнатиск§!"
+ skirmisher: "Мастер стычек"
+ skirmisher_desc: "Skilled at using probing attacks to test the enemy's strength and to wear them down." #NT!
  camouflage_expert: "Эксперт по камуфляжу"
- camouflage_expert_desc: "Правильное использование камуфляжа может значительно снизить угрозу воздушных ударов противника".
- needs_at_least_one_terrain: "Как минимум 1 черта местности".
- TRAIT_PREREQUISITES: "§HНеобходимо§!\n"
- expert_delegator: "Делегатор-эксперт"
- expert_delegator_desc:1 "Искусство делегирования позволяет этому лидеру эффективно командовать несколькими армиями."
- trait_bonus_all: "Все статистики: $VAL|+=0$"
+ camouflage_expert_desc: "The proper use of camouflage can significantly reduce the threat of enemy air strikes." #NT!
+ needs_at_least_one_terrain: "Как минимум 1 черта местности"
+ TRAIT_PREREQUISITES: "§HТребования§!\n"
+ expert_delegator: "Эксперт по делегированию"
+ expert_delegator_desc: "The art of delegation allows this leader to efficiently command several armies." #NT!
+ trait_bonus_all: "Все параметры: $VAL|+=0$"
  trait_bonus_attack: "Атака: $VAL|+=0$"
- trait_bonus_defense: "Оборона: $VAL|+=0$"
+ trait_bonus_defense: "Защита: $VAL|+=0$"
  trait_bonus_planning: "Планирование: $VAL|+=0$"
  trait_bonus_logistics: "Логистика: $VAL|+=0$"
- sick: "Больной"
- sick_desc:1 "Прикован к кровати из-за тяжелой болезни".
- wounded: "Ранен"
- wounded_desc:1 "Тяжелая рана потребует некоторого времени для восстановления".
- disgruntled: "Недовольный"
- disgruntled_desc:1 "Этот человек недоволен и не скрывает этого".
- demoted: "Пониженный"
- demoted_desc:1 "Понижение в должности никого не сделает счастливым, и этот лидер - не исключение".
- substance_abuser: "Злоупотребляющий психоактивными веществами"
- substance_abuser_desc:1 "Зависимость может быть плохой вещью, но она действительно под контролем. Правда."
- substance_addict: "Зависимый от психоактивных веществ"
- substance_addict_desc:1 "Зависимость этого человека явно влияет на его суждения, и не в лучшую сторону".
+ sick: "Болезнь"
+ sick_desc: "Confined to a bed due to severe sickness." #NT!
+ wounded: "Ранение"
+ wounded_desc: "A bad wound will take some time to recover from." #NT!
+ disgruntled: "Недовольство"
+ disgruntled_desc: "This man is not happy and makes no secret of it." #NT!
+ demoted: "Понижение в звании"
+ demoted_desc: "Being demoted won't make anyone happy and this leader is no exception." #NT!
+ substance_abuser: "Злоупотребление наркотиками"
+ substance_abuser_desc: "Addiction can be a bad thing, but it's really under control. Really." #NT!
+ substance_addict: "Пристрастие к наркотикам"
+ substance_addict_desc: "This man's addiction is clearly affecting his judgement, and not in a good way." #NT!
  brilliant_strategist: "Блестящий стратег"
- brilliant_strategist_desc:1 "Прирожденный стратег, способный адаптироваться к динамике поля боя".
+ brilliant_strategist_desc: "A natural born strategist that is able to adapt to the dynamics of the battlefield." #NT!
  inflexible_strategist: "Негибкий стратег"
- inflexible_strategist_desc:1 "Опытный, но упрямый. Достаточно хороший план может пережить контакт с врагом".
- politically_connected: "Связанный с политикой"
- politically_connected_desc:1 "§LЭтот лидер имеет политические связи, которые сгладили путь его карьеры. Возможно, слишком быстро.§!"
+ inflexible_strategist_desc: "Skilled but stubborn. A good enough plan can survive contact with the enemy." #NT!
+ politically_connected: "Политические связи"
+ politically_connected_desc: "§LИспользуя свои политические связи, этот лидер быстро сделал карьеру. Пожалуй, даже чересчур быстро.§!"
  war_hero: "Герой войны"
- war_hero_desc: "Прославился как герой благодаря своим действиям на войне."
- career_officer: "Карьерный офицер"
- career_officer_desc: "Посвятил себя жизни в качестве офицера, с соответствующими амбициями".
- trait_cautious: "Осторожный".
- trait_cautious_desc: "Не торопится и тщательно планирует".
- trait_reckless: "Безрассудный"
- trait_reckless_desc: "Хороший офицер должен вести за собой с фронта".
- media_personality: "Медийная личность"
- media_personality_desc: "Этот генерал будет из кожи вон лезть, чтобы пообщаться со СМИ, и всегда будет стараться быть в центре внимания".
- harsh_leader: "Суровый лидер"
- harsh_leader_desc: "Дисциплина необходима для руководства армией, но некоторые лидеры заходят слишком далеко".
+ war_hero_desc: "Hailed as a hero from their actions in war." #NT!
+ career_officer: "Кадровый офицер"
+ career_officer_desc: "Dedicated to the life as an officer, with ambitions to match." #NT!
+ trait_cautious: "Осторожный стратег"
+ trait_cautious_desc: "Takes their time and plans carefully." #NT!
+ trait_reckless: "Авантюрист"
+ trait_reckless_desc: "A good officer needs to lead from the front." #NT!
+ media_personality: "Медийная знаменитость"
+ media_personality_desc: "This general will go out of his way to talk to the media and will always try to be in the limelight." #NT!
+ harsh_leader: "Строгий лидер"
+ harsh_leader_desc: "Discipline is necessary to lead an army, but some leaders take it a bit too far." #NT!
  infantry_officer: "Пехотный офицер"
- infantry_officer_desc:1 "Обучен как пехотный офицер".
+ infantry_officer_desc: "Trained as an infantry officer." #NT!
  cavalry_officer: "Кавалерийский офицер"
- cavalry_officer_desc:1 "Обучен как офицер кавалерии".
- artillery_officer: "Артиллерийский офицер"
- artillery_officer_desc: "Обучен как офицер артиллерии".
- armor_officer: "Броневой офицера"
- armor_officer_desc:1 "Обучен как офицер бронетехники".
- UNIT_LEADER_ASSIGN_TRAIT_COST_TOOLTIP: "Назначение этой черты обойдется в $VAL|R$ £command_power".
- UNIT_LEADER_TRAIT_XP: "§HОпыт:§! $CUR|.0$/$MAX|.0$".
- UNIT_LEADER_TRAIT_GAIN_XP_WHEN: "§YОпыт, полученный во время:§!".
- hidden_sympathies: "Скрытые симпатии"
- hidden_sympathies_desc: "Этот генерал высказывал нелояльные мнения в частных сферах и, скорее всего, поддержит мятежи, начатые подрывными элементами."
- is_using_battle_plans: "Использует планы сражений"
- cavalary_ratio_over_40:1 "Кавалерия, соотношение моторизованных и механизированных частей > §H40%§!"
- infantry_ratio_over_80: "Пехота имеет соотношение > §H80%§!".
- has_flanked: "Обходит противника с фланга или обходит его с фланга".
+ cavalry_officer_desc: "Trained as a cavalry offier." #NT!
+ artillery_officer: "Artillery Officer" #NT!
+ artillery_officer_desc: "Trained as an artillery officer" #NT!
+ armor_officer: "Бронетанковый офицер"
+ armor_officer_desc: "Trained as an armor officer." #NT!
+ UNIT_LEADER_ASSIGN_TRAIT_COST_TOOLTIP: "Стоимость назначения этой черты: $VAL|R$ £command_power."
+ UNIT_LEADER_TRAIT_XP: "§HОпыт: §! $CUR|.0$/$MAX|.0$"
+ UNIT_LEADER_TRAIT_GAIN_XP_WHEN: "§HОпыт, полученный при:§!"
+ hidden_sympathies: "Тайная поддержка"
+ hidden_sympathies_desc: "This general has voiced some disloyal opinions in private spheres, and will most likely lend his support to insurrections started by subversive elements." #NT!
+ is_using_battle_plans: "Использует планы операций"
+ cavalary_ratio_over_40: "Соотношение кавалерии, моторизированной и механизированной пехоты > §H40%§!"
+ infantry_ratio_over_80: "Соотношение пехоты > §H80%§!"
+ has_flanked: "Заходит противнику во фланг или атакован с фланга"
  fighting_with_at_least_23_units: "Controlling at least §H24§! armies" #NT!
- TRAIT_OPEN_WIKI: "Нажмите, чтобы прочитать больше в интернете"
- trait_xp_factor: "$NAME|H$ фактор опыта: $VAL|H%.0$"
- recently_promoted: "Недавно повышен"
- recently_promoted_desc:1 "Приспосабливаюсь к обязанностям нового ранга".
- TRAIT_WILL_EXPIRE: "Срок действия черты истечет через $DAYS|H$ дней".
- expert_improviser_movement_bonus_on_land: "Бонус передвижения по земле: §G+10%§!"
+ TRAIT_OPEN_WIKI: "Щелкните, чтобы прочитать подробности в интернете"
+ trait_xp_factor: "Фактор опыта ($NAME|H$): $VAL|H%.0$"
+ recently_promoted: "Недавнее повышение в звании"
+ recently_promoted_desc: "Adjusting to the responsibilities of the new rank." #NT!
+ TRAIT_WILL_EXPIRE: "Черта перестанет действовать через $DAYS|H$ дн."
+ expert_improviser_movement_bonus_on_land: "Movement Bonus On Land: §G+10%§!" #NT!
  ASSIGNABLE_ADMIRAL_TRAITS: "Черты адмирала"
- ASSIGNABLE_ADMIRAL_TRAITS_DESC:1 "Черты адмирала - это черты, которые могут быть вручную присвоены адмиралу".
- inshore_fighter: "Морской истребитель"
- inshore_fighter_desc: "§LЭтот офицер - эксперт в сражениях вблизи берега, он понимает, как прятаться за островами и во фьордах, чтобы обрушить на врага дождь разрушений.§!"
- green_water_expert: "Эксперт по зеленой воде"
- green_water_expert_desc: "§LСражение на мелководье имеет свои сложности. Этот офицер справился с ними.§!"
- blue_water_expert: "Эксперт по синей воде"
- blue_water_expert_desc: "§LЭтот офицер - эксперт по ведению боя в открытом море.§!"
- arctic_water_expert: "Эксперт по холодной воде"
- arctic_water_expert_desc: "§LЭтот офицер провел много времени в арктических водах и научился избегать большинства айсбергов.§!"
+ ASSIGNABLE_ADMIRAL_TRAITS_DESC: "Черты адмирала можно выбрать и назначить адмиралу самостоятельно."
+ inshore_fighter: "Эксперт по сражениям в прибрежной зоне"
+ inshore_fighter_desc: "§LЭтот офицер знает толк в сражениях около побережья. Прячась за островами и фьордами, он наносит сокрушительные удары по противнику.§!"
+ green_water_expert: "Эксперт по мелководью"
+ green_water_expert_desc: "§LСражения на мелководье даются непросто. Этот офицер освоил их в совершенстве.§!"
+ blue_water_expert: "Эксперт по открытым водам"
+ blue_water_expert_desc: "§LЭтот офицер хорошо умеет сражаться в открытых водах.§!"
+ arctic_water_expert: "Эксперт по арктическим водам"
+ arctic_water_expert_desc: "§LЭтот офицер провел много времени в арктических водах и научился избегать столкновений с большинством видов айсбергов.§!"
  fleet_protector: "Защитник флота"
- fleet_protector_desc: "§LЭксперт по удержанию малых кораблей от больших.§!"
- silent_hunter: "Тихий охотник"
- silent_hunter_desc: "Мастер скрытности, этот офицер подводной лодки научился уходить от преследователей.§!"
- lancer: "Лансер"
- lancer_desc: "§LЭтот офицер знает торпеды, как никто другой, и умеет извлекать из них максимальную пользу.§!"
- destroyer_leader: "Лидер разрушителей"
- destroyer_leader_desc: "§LБалансируя между смелостью и осторожностью, этот офицер стал идеальным командиром для легких сил.§!"
- lone_wolf: "Одинокий волк"
- lone_wolf_desc: "§LХотя организация большого флота - сложная задача, но и использование малых сил для достижения максимального потенциала.§!"
- concealment_expert: "Сокрытие эксперта"
- concealment_expert_desc: "§LЭтот офицер прошел обязательный для правительства курс обучения тому, как не быть замеченным.§!"
- mine_sweeper: "Чистильщик мин"
- mine_sweeper_desc: "§LКаждый корабль может быть тральщиком один раз. Чтобы заставить его зачистить несколько мин, требуется мастерство.§!"
- mine_layer: "Миноукладчик"
- mine_layer_desc: "§LДля того, чтобы сбрасывать с корабля, на котором вы находитесь, мины, предназначенные для потопления кораблей, требуется определенная психическая стойкость. У этого офицера ее предостаточно.§!"
- cruiser_captain: "Капитан крейсера".
- cruiser_captain_desc: "§LЭтот офицер показал большое мастерство в управлении крейсерами.§!"
- big_guns_expert: "Эксперт по большим пушкам"
- big_guns_expert_desc: "§LЭтот офицер любит большие пушки и не способен лгать.§!"
- ground_pounder: "Артиллерийский Фаршеровщик"
- ground_pounder_desc: "§LСтрельба по неподвижной цели на суше из морской артиллерии - это почти неспортивно. Почти.§!"
+ fleet_protector_desc: "§LЭффективно не подпускает малые корабли к крупным.§!"
+ silent_hunter: "Бесшумный охотник"
+ silent_hunter_desc: "§LЭтот офицер-подводник знает толк в скрытности и умеет незаметно уходить от преследователей.§!"
+ lancer: "Копейщик"
+ lancer_desc: "§LЭтот офицер знает торпеды как никто другой и применяет их с максимальной эффективностью.§!"
+ destroyer_leader: "Предводитель эсминцев"
+ destroyer_leader_desc: "§LЭтот офицер, умело сочетающий решимость и осторожность, стал идеальным командующим группы быстроходных кораблей.§!"
+ lone_wolf: "Волк-одиночка"
+ lone_wolf_desc: "§LКомандовать большим флотом трудно, но и раскрыть весь потенциал небольшой боевой группы – тоже задача не из простых.§!"
+ concealment_expert: "Эксперт по маскировке"
+ concealment_expert_desc: "§LЭтот офицер прошел обязательный курс подготовки для тех, кто не хочет попадаться врагу на глаза.§!"
+ mine_sweeper: "Тральщик"
+ mine_sweeper_desc: "§LЛюбой корабль может поработать тральщиком хотя бы один раз, но только умелые способны обезвредить несколько мин.§!"
+ mine_layer: "Минный заградитель"
+ mine_layer_desc: "§LТолько храбрец сможет сбрасывать мощные мины, способные потопить корабль, со своего судна. Этому офицеру не занимать храбрости.§!"
+ cruiser_captain: "Капитан крейсера"
+ cruiser_captain_desc: "§LЭтот офицер умело командует крейсерами.§!"
+ big_guns_expert: "Специалист по большим орудиям"
+ big_guns_expert_desc: "§LЭтот офицер обожает большие пушки.§!"
+ ground_pounder: "Артиллерист-садист"
+ ground_pounder_desc: "§LСтрельба по неподвижной цели с использованием морской артиллерии – почти что неспортивное поведение. Почти.§!"
  safety_first: "Безопасность превыше всего"
- safety_first_desc: "§LТеперь с нашими чертовыми кораблями все в порядке. Ни сегодня, ни завтра, ни когда-либо!§!"
- flight_deck_manager: "Менеджер летной палубы"
- flight_deck_manager_desc: "§LЗапуск самолета с палубы корабля довольно прост. Проблема заключается в одновременном запуске двух десятков других. §!"
+ safety_first_desc: "§LС нашими кораблями ничего не случится. Ни сегодня, ни завтра, ни в этой жизни!§!"
+ flight_deck_manager: "Диспетчер летной палубы"
+ flight_deck_manager_desc: "§LЗапустить самолет с палубы корабля легко. Запустить одновременно еще пару дюжин – задача для специалиста.§!"
  smoke_screen_expert: "Специалист по дымовым завесам"
- smoke_screen_expert_desc: "§LПри правильном использовании курение может фактически спасти жизнь.§!"
+ smoke_screen_expert_desc: "§LКурение убивает, а вот дым иногда спасает.§!"
  torpedo_expert: "Эксперт по торпедам"
- torpedo_expert_desc: "§LПопадание в корабль, движущийся со скоростью 25 узлов с относительным углом 72 градуса на расстоянии 8 километров, на самом деле является простой математикой.§!"
- loading_drill_master: "Мастер погрузочного бурения"
- loading_drill_master_desc: "§L"Стреляй в них снова, они еще не мертвы!"§!"
- hunter_killer: "Охотник-убийца"
- hunter_killer_desc: "§LВ смертельной игре в кошки-мышки, этот офицер, несомненно, кошка.§!"
+ torpedo_expert_desc: "§LЧтобы поразить корабль, движущийся со скоростью 25 узлов под относительным углом 72 градуса на расстоянии 8 км, нужно просто решить легкую задачку по математике.§!"
+ loading_drill_master: "Инструктор по загрузке торпед"
+ loading_drill_master_desc: "§L«Стреляйте снова, они еще не сдохли!»§!"
+ hunter_killer: "Охотник за подлодками"
+ hunter_killer_desc: "§LВ смертельной игре в «кошки-мышки» этот офицер определенно кошка.§!"
  marksman: "Меткий стрелок"
- marksman_desc: "§L"Положите следующий залп в полуметре от кормы, прямо в их магазин."§!"
- crisis_magician: "Кризисный маг"
- crisis_magician_desc: "§L "Конденсаторные трубки сломаны, капитан. Ремонт займет не менее 6 недель. Но я могу сделать это за 3 часа."§!"
- fighter_director: "Директор истребителя"
- fighter_director_desc: "§LЭтот офицер обеспечивает дружественное - или хотя бы нейтральное - небо.§!"
- torpedo_bomber: "Торпедный бомбардировщик"
- torpedo_bomber_desc: "§LБомбы делают отверстия, которые пропускают воздух. Торпеды делают отверстия, пропускающие воду. Угадайте, что топит корабль быстрее?§!".
- search_pattern_expert: "Эксперт по поиску шаблонов"
- search_pattern_expert_desc: "§LИнформация - это боеприпасы!§!"
- gentlemanly: "Джентльменский"
- gentlemanly_desc: "§LЭтот офицер внушает чувство уважения как подчиненным, так и врагам.§!"
- gunnery_expert: "Эксперт по артиллерии"
- gunnery_expert_desc: "§LЭтот офицер изучил тонкое искусство баллистики.§!"
- cuts_corners: "Срезает углы"
- cuts_corners_desc: "§LЧто самое худшее, что может случиться? §!"
- chief_engineer: "Главный инженер"
- chief_engineer_desc: "§LЭтот офицер знает, как на самом деле работает корабль.§!"
- bold: "Смелый"
- bold_desc: "§LРазница между смелой атакой и глупой атакой в том, что смелая атака успешна.§!"
- navy_career_officer: "Карьерный офицер"
- navy_career_officer_desc: "§LПосвященный жизни офицера, с соответствующими амбициями.§!"
- battleship_adherent: "Адепт линкора"
- battleship_adherent_desc: "§LВоенно-воздушная мощь никогда не станет реальной альтернативой большим пушкам.§!"
- aviation_enthusiast: "Энтузиаст авиации"
- aviation_enthusiast_desc: "§LВоенно-воздушная мощь является превосходной альтернативой большим пушкам.§!"
- caustic_personality: "Едкая личность"
- caustic_personality_desc: "§LЭтот офицер немного более соленый, чем большинство людей.§!"
- craven: "Крейвен"
- craven_desc: "§L"Вступайте в бой с врагом менее тесно. Намного менее тесно."§!"
- naval_lineage: "Морская родословная"
- naval_lineage_desc: "§LПостроить корабль можно за 3 года. Чтобы создать традицию, нужно 300 лет.§!"
+ marksman_desc: "§L«Целься следующим залпом на полметра от кормы прямо в их боезапас».§!"
+ crisis_magician: "Кризисный волшебник"
+ crisis_magician_desc: "§L«Трубы конденсатора повреждены, капитан. На ремонт уйдет как минимум 6 недель, но я справлюсь за 3 часа».§!"
+ fighter_director: "Главный по истребителям"
+ fighter_director_desc: "§LЭтот офицер обеспечит дружелюбное (или хотя бы нейтральное) небо.§!"
+ torpedo_bomber: "Торпедоносец"
+ torpedo_bomber_desc: "§LБомбы делают дырки, через которые попадает воздух. Торпеды делают дырки, через которые попадает вода. Угадайте, от чего корабль потонет быстрее?§!"
+ search_pattern_expert: "Эксперт по методам поиска"
+ search_pattern_expert_desc: "§LИнформация – тоже оружие!§!"
+ gentlemanly: "Джентльмен"
+ gentlemanly_desc: "§LЭтого офицера уважают и подчиненные, и враги.§!"
+ gunnery_expert: "Эксперт по артиллерийской стрельбе"
+ gunnery_expert_desc: "§LЭтот офицер в совершенстве освоил все тонкости баллистики.§!"
+ cuts_corners: "Любитель сэкономить"
+ cuts_corners_desc: "§L«Ведь хуже от этого не будет?»§!"
+ chief_engineer: "Старший механик"
+ chief_engineer_desc: "§LЭтот офицер отлично знает, как устроен корабль.§!"
+ bold: "Смельчак"
+ bold_desc: "§LСмелая атака отличается от необдуманной тем, что всегда приводит к успеху.§!"
+ navy_career_officer: "Кадровый офицер"
+ navy_career_officer_desc: "§LВсецело посвятил себя карьере офицера. Очень амбициозен.§!"
+ battleship_adherent: "Приверженец линкоров"
+ battleship_adherent_desc: "§LМорская авиация никогда не вытеснит полностью крупнокалиберные орудия.§!"
+ aviation_enthusiast: "Любитель авиации"
+ aviation_enthusiast_desc: "§LМорская авиация призвана заменить крупнокалиберные орудия.§!"
+ caustic_personality: "Язвительный человек"
+ caustic_personality_desc: "§LЭтот офицер раздражается чаще других.§!"
+ craven: "Трус"
+ craven_desc: "§L«Отойдите подальше и лишь затем атакуйте. Еще дальше».§!"
+ naval_lineage: "Флотские традиции"
+ naval_lineage_desc: "§LЧтобы построить корабль, нужно 3 года. Чтобы сформировались традиции, нужно 300 лет.§!"
  navy_media_personality: "Медийная личность"
- navy_media_personality_desc: "§LЭтот адмирал умеет дать нужную цитату нужному человеку.§!"
- trait_vice_president: "Вице-президент"
- trait_secretary_of_state: "Государственный секретарь"
- trait_secretary_of_the_treasury: "Секретарь казначейства"
- trait_secretary_of_war: "военный секретарь"
- trait_secretary_of_war_corrupt: "Военный министр"
- trait_secretary_of_the_navy: "Министр военно-морского флота"
- trait_attorney_general: "Генеральный прокурор"
- trait_secretary_of_the_interior: "Министр внутренних дел"
- trait_secretary_of_agriculture: "Министр сельского хозяйства"
- trait_secretary_of_commerce: "Министр торговли"
- trait_secretary_of_labor: "Министр труда"
- trait_secretary_of_health_and_human_services: "Министр здравоохранения и социальных служб"
- trait_secretary_of_housing_and_urban_development: "Министр жилищного строительства и городского развития"
- trait_secretary_of_transportation: "Министр транспорта"
- trait_secretary_of_energy: "Министр энергетики"
- trait_secretary_of_veterans_affairs: "Министр по делам ветеранов"
- trait_secretary_of_homeland_security: "Министр внутренней безопасности"
- trait_chief_of_staff: "Начальник штаба"
- trait_chief_justice: "Главный судья"
-
- #NSB MISSING LOC #NT!
-
+ navy_media_personality_desc: "§LЭтот адмирал умеет выдать правильную цитату нужному репортеру.§!"
+ trait_vice_president: "Vice President" #NT!
+ trait_secretary_of_state: "Secretary of State" #NT!
+ trait_secretary_of_the_treasury: "Secretary of the Treasury" #NT!
+ trait_secretary_of_war: "Secretary of War" #NT!
+ trait_secretary_of_war_corrupt: "Secretary of War" #NT!
+ trait_secretary_of_the_navy: "Secretary of the Navy" #NT!
+ trait_attorney_general: "Attorney General" #NT!
+ trait_secretary_of_the_interior: "Secretary of the Interior" #NT!
+ trait_secretary_of_agriculture: "Secretary of Agriculture" #NT!
+ trait_secretary_of_commerce: "Secretary of Commerce" #NT!
+ trait_secretary_of_labor: "Secretary of Labor" #NT!
+ trait_secretary_of_health_and_human_services: "Secretary of Health and Human Services" #NT!
+ trait_secretary_of_housing_and_urban_development: "Secretary of Housing and Urban Development" #NT!
+ trait_secretary_of_transportation: "Secretary of Transportation" #NT!
+ trait_secretary_of_energy: "Secretary of Energy" #NT!
+ trait_secretary_of_veterans_affairs: "Secretary of Veterans' Affairs" #NT!
+ trait_secretary_of_homeland_security: "Secretary of Homeland Security" #NT!
+ trait_chief_of_staff: "Chief of Staff" #NT!
+ trait_chief_justice: "Chief Justice" #NT!
+  
+  #NSB MISSING LOC 
+  
  regular_trait_tab_title: "Черты"
- advisor_trait_tab_title: "Роли офицерского корпуса"
+ advisor_trait_tab_title: "Роли в офицерском корпусе"
  advisor_slot_title: "$NAME$"
  advisor_trait_specialist: "(Специалист)"
  advisor_trait_expert: "(Эксперт)"
  advisor_trait_genius: "(Гений)"
  officer_corps: "Офицерский корпус"
  pick_advisor_role: "Доступная роль советника"
- TRAIT_NOT_ACTIVE_WHEN_COMMANDING_AN_ARMY: "§RЧерта не активна при ручном командовании.§!".
+ TRAIT_NOT_ACTIVE_WHEN_COMMANDING_AN_ARMY: "§RЧерта не действует, когда лидер командует армией§!"
  TRAIT_TITLE: "§Y$TRAITNAME$§!"
- TRAIT_UNLOCKED_BY: "Разблокирован: §Y$TRAITNAME$§!\n\n"
- TRAIT_UNLOCKED_BY_MIN_RANK: "Чтобы стать советником, требуется уровень мастерства не ниже §Y$RANK$§!".
- TRAIT_UNLOCKS_ADVISOR_ROLE: "Разблокирует роль §Y$ADVISORSLOT$§! §Y$ADVISORNAME$§!\n".
- TRAIT_MODIFIER_FOR_ADVISOR_RANK: "При навыке §Y$RANK$§!:\n\n$TEXT$".
- POLITICS_TEMP_DESC: ""
- SPIRIT_ADD_IDEA: "§GЩёлкните чтобы добавить $GROUP|H$§!"
- modifier_tactic_elastic_defense_preferred_weight_factor:1 "Дополнительный Шанс тактики §YЭластичная оборона§! , если она является предпочтительной тактикой"
- modifier_tactic_overwhelming_fire_preferred_weight_factor:1 "Дополнительный Шанс тактики §YНепреодолимый огонь§!, если она является предпочтительной тактикой"
- modifier_tactic_seize_bridge_preferred_weight_factor:1 "Дополнительный Шанс тактики §YЗахват моста§!, если она является предпочтительной тактикой".
- modifier_tactic_infantry_charge_preferred_weight_factor:1 "Дополнительный Шанс тактики §YШтурм с проникновением§!, если она является предпочтительной тактикой"
- modifier_tactic_delay_preferred_weight_factor:1 "Дополнительный Шанс тактики §YЗадержка§!, если она является предпочтительной тактикой".
- modifier_tactic_human_wave_tactics_preferred_weight_factor:1 "Дополнительный Шанс тактики §YМассовый заряд§! Шанс тактики, если она является предпочтительной тактикой"
- modifier_tactic_unexpected_thrust_preferred_weight_factor:1 "Дополнительный Шанс тактики §YНеожиданный удар§! Шанс тактики, если она является предпочтительной тактикой"
- modifier_tactic_barrage_preferred_weight_factor:1 "Дополнительный Шанс тактики §YПодавляющее заграждение§!, если она является предпочтительной тактикой"
- modifier_tactic_planned_attack_preferred_weight_factor:1 "Дополнительный Шанс тактики §YХорошо спланированное нападение§!, если она является предпочтительной тактикой"
- modifier_tactic_relentless_assault_preferred_weight_factor:1 "Дополнительный Шанс тактики §YБеспощадное нападение§!, если она является предпочтительной тактикой"
- ALREADY_HAS_ADVISOR_WITH_TRAIT: "Уже есть назначенный советник с этим признаком".
- POL_investments_monarchist: "Монархистские инвестиции".
- CHANGE_ADVISOR:1 "\nВы можете заменить этого советника, щёлкнув здесь и выбрав замену."
-
- #EoaNB Advisor Traits #NT!
-
- anarchist: "Анархист-фанатик"
+ TRAIT_UNLOCKED_BY: "Открывается с помощью: §Y$TRAITNAME$§!\n\n"
+ TRAIT_UNLOCKED_BY_MIN_RANK: "Чтобы стать советником, нужен уровень навыка не ниже §Y$RANK$§!."
+ TRAIT_UNLOCKS_ADVISOR_ROLE: "Открывает роль §Y$ADVISORSLOT$§!: §Y$ADVISORNAME$§!\n"
+ TRAIT_MODIFIER_FOR_ADVISOR_RANK: "При навыке §Y$RANK$§!:\n\n$TEXT$"
+ POLITICS_TEMP_DESC: "" #NT!
+ SPIRIT_ADD_IDEA: "§GЩелкните, и добавится $GROUP|H$§!"
+ modifier_tactic_elastic_defense_preferred_weight_factor: "Дополнительный шанс тактики §Y«Гибкая оборона»§!, если эта тактика — предпочитаемая"
+ modifier_tactic_overwhelming_fire_preferred_weight_factor: "Дополнительный шанс тактики §Y«Огонь на подавление»§!, если эта тактика — предпочитаемая"
+ modifier_tactic_seize_bridge_preferred_weight_factor: "Дополнительный шанс тактики §Y«Захватить мост»§!, если эта тактика — предпочитаемая"
+ modifier_tactic_infantry_charge_preferred_weight_factor: "Дополнительный шанс тактики §Y«Проникающий штурм»§!, если эта тактика — предпочитаемая"
+ modifier_tactic_delay_preferred_weight_factor: "Дополнительный шанс тактики §Y«Сдерживание»§!, если эта тактика — предпочитаемая"
+ modifier_tactic_human_wave_tactics_preferred_weight_factor: "Дополнительный шанс тактики §Y«Массированная атака»§!, если эта тактика — предпочитаемая"
+ modifier_tactic_unexpected_thrust_preferred_weight_factor: "Дополнительный шанс тактики §Y«Неожиданный удар»§!, если эта тактика — предпочитаемая"
+ modifier_tactic_barrage_preferred_weight_factor: "Дополнительный шанс тактики §Y«Подавляющий огневой вал»§!, если эта тактика — предпочитаемая"
+ modifier_tactic_planned_attack_preferred_weight_factor: "Дополнительный шанс тактики §Y«Хорошо спланированная атака»§!, если эта тактика — предпочитаемая"
+ modifier_tactic_relentless_assault_preferred_weight_factor: "Дополнительный шанс тактики §Y«Непрерывная атака»§!, если эта тактика — предпочитаемая"
+ ALREADY_HAS_ADVISOR_WITH_TRAIT: "Уже есть назначенный советник с этой чертой."
+ POL_investments_monarchist: "Инвестиции монархистов"
+ CHANGE_ADVISOR: "\nЭтого советника можно заменить, щелкнув здесь и выбрав замену."
+  
+  #EoaNB Advisor Traits 
+  
+ anarchist: "Anarchist Fanatic" #NT!
  radical_socialist: "Radical Socialist" #NT!
- social_egalitarian: "Идеалист-эгалитарист"
- centrist: "Либеральный политик"
+ social_egalitarian: "Idealist Egalitarian" #NT!
+ centrist: "Conservative Liberalist" #NT!
  social_liberalist: "Social Liberalist" #NT!
- traditional_conservative: "Стойкий консерватор"
- radical_democrat: "Авторитарный демократ"
- autocrat: "Реакционный автократ"
- chauvinist_populist: "Националистический демагог"
- fundamentalist: "Религиозный фанатик"
- political_independent: "Политически независимый"
-
+ traditional_conservative: "Staunch Conservative" #NT!
+ radical_democrat: "Authoritarian Democrat" #NT!
+ autocrat: "Reactionary Autocrat" #NT!
+ chauvinist_populist: "Nationalistic Demagogue" #NT!
+ fundamentalist: "Religious Zealot" #NT!
+ political_independent: "Politically Independent" #NT!
+  
  ideology_radical_socialism_alignment: "(Radical Socialist)" #NT!
- social_egalitarianism_alignment: "(Социал-эгалитар)"
- centrism_alignment: "(Либерал)"
+ social_egalitarianism_alignment: "(Social Egalitarian)" #NT!
+ centrism_alignment: "(Conservative Liberal)" #NT!
  ideology_social_liberalism_alignment: "(Social Liberal)" #NT!
- traditional_conservatism_alignment: "(Консерватор)"
- radical_democracy_alignment: "(Радикальный демократ)"
- autocracy_alignment: "(Автократ)"
- chauvinist_populism_alignment: "(Шовинист-популист)"
- anarchism_alignment: "(Анархист)"
- fundamentalism_alignment: "(Фундаменталист)"
- neutral_party: "(Нейтрал)"
- ideological_promoter: "(Идеологический сторонник)"
-
- oil_magnate: "Нефтяной магнат"
- clever_buisnessman: "Умный бизнесмен"
- libertarian_economist: "Либертарианский экономист"
- railroad_tycoon: "Железнодорожный магнат"
- influencial_writer: "Влиятельный писатель"
- innovative_engineer: "Инженер-новатор"
- ingenious_scientist: "Гениальный ученый"
- efficient_administrator: "Эффективный администратор"
- industrial_promoter: "Промышленный промоутер"
- great_urbanizer: "Великий урбанизатор"
- controversial_figure: "Противоречивая фигура"
- determined_expansionist: "Решительный экспансионист"
- war_veteran: "Ветеран войны"
- friend_of_capitalism: "Друг капитализма"
- working_class_figurehead: "Фигурант рабочего класса"
- geologist: "Геолог"
- rural_innovator: "Сельский инноватор"
- explorer: "Скиталец"
- counter_reformist: "Контрреформатор"
- suffragist: "Суфражист"
- chemist: "Химик"
- textile_merchant: "Торговец текстилем"
- eoanb_successful_merchant: "Успешный торговец"
- eoanb_trait_partisant_killer: "Убийца партизан"
- eoanb_trait_finance_minister: "Министр финансов"
- eoanb_trait_nation_in_arms: "Нация в оружии"
- eoanb_arms_dealer: "Торговец оружием"
- eoanb_famed_inventor: "Известный изобретатель"
- eoanb_famed_inventor_desc: "Этот человек всемирно известен своими изобретениями и технологическими достижениями".
- eoanb_philanthropist: "Филантроп".
- eoanb_philanthropist_desc: "Этот человек, будучи очень богатым, любит способствовать благополучию других людей, щедро жертвуя деньги на благотворительность и добрые дела".
- eoanb_militarist: "Милитарист"
- eoanb_militarist_desc: "Этот человек желает укрепить силу и влияние вооруженных сил своей страны".
+ traditional_conservatism_alignment: "(Trad. Conservative)" #NT!
+ radical_democracy_alignment: "(Radical Democrat)" #NT!
+ autocracy_alignment: "(Autrocrat)" #NT!
+ chauvinist_populism_alignment: "(Chauvinist Populist)" #NT!
+ anarchism_alignment: "(Anarchist)" #NT!
+ fundamentalism_alignment: "(Fundamentalist)" #NT!
+ neutral_party: "(Neutral)" #NT!
+ ideological_promoter: "(Ideological Promoter)" #NT!
+  
+ oil_magnate: "Oil Magnate" #NT!
+ clever_buisnessman: "Clever Businessman" #NT!
+ libertarian_economist: "Libertarian Economist" #NT!
+ railroad_tycoon: "Railroad Tycoon" #NT!
+ influencial_writer: "Influencial Writer" #NT!
+ innovative_engineer: "Innovative Engineer" #NT!
+ ingenious_scientist: "Ingenious Scientist" #NT!
+ efficient_administrator: "Efficient Administrator" #NT!
+ industrial_promoter: "Industrial Promoter" #NT!
+ great_urbanizer: "Great Urbanizer" #NT!
+ controversial_figure: "Controversial Figure" #NT!
+ determined_expansionist: "Determined Expansionist" #NT!
+ war_veteran: "War Veteran" #NT!
+ friend_of_capitalism: "Friend of Capitalism" #NT!
+ working_class_figurehead: "Working Class Figurehead" #NT!
+ geologist: "Geologist" #NT!
+ rural_innovator: "Rural Innovator" #NT!
+ explorer: "Globetrotter" #NT!
+ counter_reformist: "Counter Reformist" #NT!
+ suffragist: "Suffragist" #NT!
+ chemist: "Chemist" #NT!
+ textile_merchant: "Textile Merchant" #NT!
+ eoanb_successful_merchant: "Successful Merchant" #NT!
+ eoanb_trait_partisant_killer: "Partisant Killer" #NT!
+ eoanb_trait_finance_minister: "Finance Minister" #NT!
+ eoanb_trait_nation_in_arms: "Nation in Arms" #NT!
+ eoanb_arms_dealer: "Arms Dealer" #NT!
+ eoanb_famed_inventor: "Famed Inventor" #NT!
+ eoanb_famed_inventor_desc: "This person is world-renowned for their inventions and technological advancements." #NT!
+ eoanb_philanthropist: "Philanthropist" #NT!
+ eoanb_philanthropist_desc: "This person, while very wealthy, enjoys promoting the welfare of others through generous donations of money to charities and good causes." #NT!
+ eoanb_militarist: "Militarist" #NT!
+ eoanb_militarist_desc: "This person wishes to strengthen the power and influence of the military of their country." #NT!
  eoanb_academic: "Academic" #NT!
  eoanb_academic_desc: "This person has an academic background and highly values the potential that scientific discovery and academic debate have for the advancement of humanity." #NT!
- eoanb_bonapartist: "Бонапартист"
- eoanb_bonapartist_desc: "Этот человек стремится установить правительство, управляемое императором-милитаристом, который работает на народ".
-
-# EoaNB espionage traits #NT!
-
- operative_geisha: "Гейша"
- operative_commando: "Коммандос"
+ eoanb_bonapartist: "Bonapartist" #NT!
+ eoanb_bonapartist_desc: "This person seeks to install a government ruled by a militarist emperor who works for the people." #NT!
+  
+ # EoaNB espionage traits 
+  
+ operative_geisha: "Geisha" #NT!
+ operative_commando: "Коммандо"
  operative_seducer: "Соблазнитель"
- operative_infiltrator: "Лазутчик"
- operative_master_interrogator: "Мастер допроса"
- operative_tough: "Лингвист"
- operative_safe_cracker: "Безопасный взломщик"
- operative_well_groomed: "Ухоженный"
- operative_natural_orator: "Природный оратор"
- operative_escape_artist: "Артист побега"
- operative_demolition_expert: "Эксперт по сносу зданий"
+ operative_infiltrator: "Мастер внедрения"
+ operative_master_interrogator: "Мастер допросов"
+ operative_tough: "Linguist" #NT!
+ operative_safe_cracker: "Взломщик сейфов"
+ operative_well_groomed: "Модник"
+ operative_natural_orator: "Прирождённый оратор"
+ operative_escape_artist: "Мастер побега"
+ operative_demolition_expert: "Эксперт-подрывник"
  operative_linguist: "Лингвист"
-
- #EoaNB Monarch Traits #NT!
-
- hos_trait_partially_paralyzed: "Частично парализованный"
- hos_trait_colonial_monarch: "Колониальный монарх"
- hos_trait_unifying_figure: "Объединяющая фигура"
- hawk: "Политический ястреб"
-
- #HOL General traits #NT!
- HOL_borrowed_general: "Генерал из тропиков"
- HOL_willems_orde: "Военный орден Вильгельма"
- HOL_orde_nederlandse_leeuw: "Орден голландского льва"
+  
+  #EoaNB Monarch Traits 
+  
+ hos_trait_partially_paralyzed: "Partially Paralyzed" #NT!
+ hos_trait_colonial_monarch: "Colonial Monarch" #NT!
+ hos_trait_unifying_figure: "Unifying Figure" #NT!
+ hawk: "Political Hawk" #NT!
+  
+  #HOL General traits 
+ HOL_borrowed_general: "Generaal uit de Tropen" #NT!
+ HOL_willems_orde: "Militaire Willems-Orde" #NT!
+ HOL_orde_nederlandse_leeuw: "Orde van de Nederlandse Leeuw" #NT!
  HOL_orde_oranje_nassau: "Orde van Oranje-Nassau" #NT!
-
- #Italian leader traits #NT!
- ITA_trait_Iron_Baron: "Железный барон"
- ITA_trait_Iron_Baron_desc: "Его личная жизнь и общественная карьера отличались предельной честностью и жестким аскетизмом, благодаря чему он получил имя "Железный барон". Наряду с этим Рикасоли также создал рецепт вина Кьянти, которое производит семейная фирма".
- ITA_trait_Popular_Leader: "Популярный лидер"
- ITA_trait_Popular_Leader_desc: "Несмотря на радикализм, наблюдавшийся в общественном мнении, направленном против самодержавных правителей Италии, Леопольд II долгое время считался популярным лидером. Сам либеральный реформатор, Леопольд II позволил создать новую конституцию, прежде чем австрийцы заставили его отменить ее и вернуться к полному самодержавному правлению."
-ITA_trait_Progressive_reformer: "Прогрессивный реформатор"
-ITA_trait_Progressive_reformer_desc: "В правительстве прогрессивный реформатор проводит популярные изменения в стране."
-
- #Russian Leader traits #NT!
- RUS_trait_Staunch_Authoritarian: "Стойкий Авторитарист"
- RUS_trait_Iron_Fist: "Железный кулак"
-
- #Swedish advisors traits #NT!
- SWE_trait_leijonhufvud: "Шведский эксперт по артиллерии"
- SWE_trait_raab: "Офицер прусского стиля"
-
- eoanb_liberal_tendencies: "Либеральные наклонности"
- eoanb_conservative_tendencies: "Консервативные наклонности"
- eoanb_french_general: "Французский генерал"
- eoanb_mexican_general: "Мексиканский генерал"
-
- cabinet_crisis: "Дисфункциональный кабинет"
+  
+  #Italian leader traits 
+ ITA_trait_Iron_Baron: "Iron Baron" #NT!
+ ITA_trait_Iron_Baron_desc: "His private life and public career were marked by the utmost integrity, and by a rigid austerity which earned him the name of the Iron Baron. Along with this Ricasoli also created the recipe for Chianti Wine which is produced by a family named firm." #NT!
+ ITA_trait_Popular_Leader: "Popular Leader" #NT!
+ ITA_trait_Popular_Leader_desc: "Despite radicalism seeing a turn in public opinion against the autocratic rulers in Italy, Leopold II has long been regarded as a popular leader. A liberal reformer himself, Leopold II allowed the creation of a new constitution before being forced by the Austrians to remove it and return to full autocratic rule." #NT!
+ ITA_trait_Progressive_reformer: "Progressive Reformer" #NT!
+ ITA_trait_Progressive_reformer_desc: "In the government, a progressive reformer brings about popular changes to the nation." #NT!
+  
+  #Russian Leader traits 
+ RUS_trait_Staunch_Authoritarian: "Staunch Authoritarian" #NT!
+ RUS_trait_Iron_Fist: "Iron Fist" #NT!
+  
+  #Swedish advisors traits 
+ SWE_trait_leijonhufvud: "Swedish artillery expert" #NT!
+ SWE_trait_raab: "Prussian style officer" #NT!
+  
+ eoanb_liberal_tendencies: "Liberal Tendencies" #NT!
+ eoanb_conservative_tendencies: "Conservative Tendencies" #NT!
+ eoanb_french_general: "French General" #NT!
+ eoanb_mexican_general: "Mexican General" #NT!
+  
+ cabinet_crisis: "Dysfunctional Cabinet" #NT!
  unpopular_monarch: "Непопулярный монарх"
- socialite_connections: "Связи светской львицы"
+ socialite_connections: "Светские связи"
  inexperienced_monarch: "Неопытный монарх"
- headstrong: "Головастик"
- heels_nipper: "Подкаблучник"
- snuggler: "Любитель обнимашек"
- face_licker: "Лицеблюд"
- stammer: "Заикала"
- humble: "Смиренный"
- british_bulldog: "Бульдог"
- conservative_grandee: "Консервативный гранд"
- famous_vaiator: "Знаменитый авиатор"
- butcher: "Мясник"
- butcher_desc: ""
-
- eoanb_trait_ruler_infertile: "Бесплоден\n §W- Шанс на наследство:§! §R-85.00%§!"
- eoanb_trait_ruler_sickly: "Больной"
- eoanb_trait_ruler_autocract_2: "Автократический правитель"
- trait_house_yamato: "Дом Ямато"
- trait_restored_emperor: "Восстановленный император"
- trait_hitosubashi_party: "Лоялист Хитосубаси"
- trait_hitosubashi_party_desc: ""
- trait_kii_party: "Лоялист Кии"
- trait_kii_party_desc: ""
- trait_bakumatsu_party: "Лоялист Бакумацу"
- trait_bakumatsu_party_desc: ""
- trait_sonno_joi_party: "Лоялист Сонно Джой"
- trait_sonno_joi_party_desc: ""
- trait_chao_oun_kham: "Лаосский националист"
- trait_chao_oun_kham_desc: ""
- age_aged: "Старый"
- age_aged_desc: ""
- age_experienced: "Опытный"
- age_experienced_desc: ""
- age_established: "Установленный"
- age_established_desc: ""
- age_young: "Молодой"
- age_baby_faced: "С детским лицом"
- age_old: "Старый"
- army_chief_entrenchment_1: "Укрепление специалист"
- army_chief_entrenchment_2: "Укрепление эксперт"
- army_chief_entrenchment_3: "Укрепление гений"
- innovative_tactician: "Инновационный тактик"
+ headstrong: "Своенравность"
+ heels_nipper: "Heels-Nipper" #NT!
+ snuggler: "Приживала"
+ face_licker: "Face-Licker" #NT!
+ stammer: "Заика"
+ humble: "Скромный"
+ british_bulldog: "Bulldog" #NT!
+ conservative_grandee: "Крупный чиновник-консерватор"
+ famous_vaiator: "Famous Aviator" #NT!
+ butcher: "Butcher" #NT!
+ butcher_desc: "" #NT!
+  
+ eoanb_trait_ruler_infertile: "Infertile\n  §W- Heir Chance:§! §R-85.00%§!" #NT!
+ eoanb_trait_ruler_sickly: "Sickly" #NT!
+ eoanb_trait_ruler_autocract_2: "Autocratic Ruler" #NT!
+ trait_house_yamato: "House Yamato" #NT!
+ trait_restored_emperor: "Restored Emperor" #NT!
+ trait_hitosubashi_party: "Hitosubashi Loyalist" #NT!
+ trait_hitosubashi_party_desc: "" #NT!
+ trait_kii_party: "Kii Loyalist" #NT!
+ trait_kii_party_desc: "" #NT!
+ trait_bakumatsu_party: "Bakumatsu Loyalist" #NT!
+ trait_bakumatsu_party_desc: "" #NT!
+ trait_sonno_joi_party: "Sonno Joi Loyalist" #NT!
+ trait_sonno_joi_party_desc: "" #NT!
+ trait_chao_oun_kham: "Laotian Nationalist" #NT!
+ trait_chao_oun_kham_desc: "" #NT!
+ age_aged: "Aged" #NT!
+ age_aged_desc: "" #NT!
+ age_experienced: "Experienced" #NT!
+ age_experienced_desc: "" #NT!
+ age_established: "Established" #NT!
+ age_established_desc: "" #NT!
+ age_young: "Young" #NT!
+ age_baby_faced: "Baby Faced" #NT!
+ age_old: "Old" #NT!
+ army_chief_entrenchment_1: "Специалист по укреплениям"
+ army_chief_entrenchment_2: "Эксперт по укреплениям"
+ army_chief_entrenchment_3: "Гений укреплений"
+ innovative_tactician: "Innovative Tactician" #NT!

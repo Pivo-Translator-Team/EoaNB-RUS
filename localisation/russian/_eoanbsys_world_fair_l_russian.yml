@@ -1,73 +1,73 @@
 ﻿l_russian:
-
- eoanb_category_world_fairs: "Ярмарки и Выставки"
- eoanb_category_world_fairs_desc: ""
-
- eoanb_world_fair_held_flag: "В этом году была проведена §YВсемирная Выставка§!"
-
- eoanb_decision_hold_world_fair: "Провести Всемирную Выставку"
- eoanb_decision_hold_world_fair_desc: ""
- eoanb_tt_hold_world_fair: "Провести §YВсемирную Выставку§! в городе §Y[Root.Capital.GetName]§! - Это будет стоить значительного количества §GЗаконодательной власти§! и §GДенег§! но вознаградит нас §GМеждународным признанием§! и §GПрестижем§!".
- eoanb_tt_hold_world_fair_preparations: "Мы начнем подготовку к §YВсемирной выставке§!".
- eoanb_decision_hold_world_fair_counter: "§YГотовимся к Всемирной выставке§!".
- eoanb_decision_hold_world_fair_counter_desc: ""
- eoanb_decision_hold_world_fair_review_budget: "Пересмотреть бюджет"
- eoanb_decision_hold_world_fair_review_budget_desc: ""
- eoanb_decision_hold_world_fair_invite_attendees: "Пригласить участников".
- eoanb_decision_hold_world_fair_invite_attendees_desc: ""
- eoanb_decision_hold_world_fair_main_buildings: "Обзор основных зданий"
- eoanb_decision_hold_world_fair_main_buildings_desc: ""
- eoanb_tt_hold_world_fair_review_budget: "Пересмотреть бюджет - чем больше бюджет, тем больше шансов на успех".
- eoanb_tt_hold_world_fair_invite_attendees: "Пригласить участников - чем больше великих и второстепенных держав примут участие, тем больше шансов на успех".
- eoanb_tt_hold_world_fair_main_buildings: "Просмотреть главные здания - чем они великолепнее, тем больше шансов на успех".
- eoanb_tt_hold_world_fair_start: "§YВсемирная Выставка§! начнется!".
- eoanb_tt_world_fair_preparation_done: "Подготовка завершена"
- eoanb_decision_hold_world_fair_cost_tt: "[eoanb_decision_hold_world_fair_cost_tt_scripted]"
- eoanb_decision_hold_world_fair_cost_tt_blocked: "[eoanb_decision_hold_world_fair_cost_tt_scripted_blocked]"
- eoanb_decision_hold_world_fair_cost_great: "£pol_power §Y200§!"
- eoanb_decision_hold_world_fair_cost_other: "£pol_power §Y300§!"
- eoanb_decision_hold_world_fair_cost_great_blocked: "£pol_power §R200§!"
- eoanb_decision_hold_world_fair_cost_other_blocked: "£pol_power §R300§1"
-
- eoanbworldfair.1.t: "Начать подготовку к Всемирной выставке"
- eoanbworldfair.1.d: "Необходимые документы заполнены, и теперь принимающий город готов взять на себя задачу по подготовке к предстоящей Всемирной выставке. В течение следующих пяти месяцев мы должны принять необходимые решения для того, чтобы Всемирная выставка прошла как можно успешнее".
- eoanbworldfair.1.a: "Очень хорошо"
-
- eoanbworldfair.2.t: "Подготовка завершена"
- eoanbworldfair.2.d: "Этапы планирования, проектирования и строительства Всемирной выставки и мест ее проведения завершены, и настало время открыть Всемирную выставку широкому миру".
- eoanbworldfair.2.a: "Да начнется Выставка"
-
- eoanbworldfair.3.t: "Всемирная выставка [GetYear] [From.Capital.GetName]".
- eoanbworldfair.3.d: "Всемирная Выставка в городе [From.Capital.GetName] началась сегодня и будет продолжаться более месяца. Выставка была открыта [From.GetHoSTitle] [From.GetHeadofState] [From.GetHoGAttendance] Несколько наций со всего мира посетили Выставку, [GetWorldFairSuccess1] [From.Capital.GetName] чтобы восхититься чудом современной науки, а также богатствами мира.\n [GetWorldFairSuccess2].\n [GetWorldFairExhibition1] [GetWorldFairExhibition2]."
- eoanbworldfair.3.a: "Очень хорошо"
-
- eoanbworldfair.4.t: "Пересмотр бюджета"
- eoanbworldfair.4.d: "Для того чтобы успешно провести Всемирная Выставка, мы должны определить соответствующий бюджет. Чем выше бюджет, тем большее впечатление мы произведем на иностранных гостей и повысим престиж нашей страны, но мы должны быть уверены, что не разорим себя, потратив больше, чем можем, и, возможно, влезем в долги."
- eoanbworldfair.4.a: "Не жалеть расходов"
- eoanbworldfair.4.b: "Средний бюджет"
- eoanbworldfair.4.c: "Экономим, что можем"
-
- eoanbworldfair.5.t: "[From.GetName] приглашает нас на Всемирная Выставка"
- eoanbworldfair.5.d: "Организация [From.GetName] пригласила нас на Всемирная выставка, которую она проводит в [From.Capital.GetName]. Мы можем принять решение присоединиться и участвовать в этом замечательном мероприятии, где мы также сможем улучшить свое положение среди наций мира, или мы можем не присоединяться и вместо этого сосредоточиться на более насущных делах."
- eoanbworldfair.5.a: "Естественно, мы присоединимся"
- eoanbworldfair.5.b: "А отчет по фондовому рынку?"
-
- eoanbworldfair.6.t: "Проектирование основных зданий"
- eoanbworldfair.6.d: "Важной частью нашей Всемирная Выставка является проектирование основных зданий в адекватной манере. Мы всегда можем сделать упор на стиль и нанять лучших архитекторов, чтобы произвести впечатление на посетителей, или, наоборот, мы можем сосредоточиться на использовании новейших технологий и строительных материалов, чтобы поразить мир своими промышленными достижениями. И наконец, если у нас много денег и ресурсов, мы можем сделать места проведения выставки как можно более роскошными, хотя эстетическая и технологическая ценность этого может быть сомнительной".
- eoanbworldfair.6.a: "Поручить работу лучшему архитектору"
- eoanbworldfair.6.b: "Использовать новейшие материалы и технологии"
- eoanbworldfair.6.c: "Сделать их настолько большими и роскошными, насколько это возможно"
-
- eoanbworldfair.7.t: "Всемирная выставка завершена"
- eoanbworldfair.7.d1: "После целого месяца работы Всемирная выставка завершена. Теперь начинается процесс перепрофилирования выставочных площадок. Выставка прошла с триумфальным успехом, не имеющим аналогов в истории, и это, безусловно, укрепит наш международный авторитет и доверие к нам. Такая великолепная Выставка, как эта, еще долго не повторится".
- eoanbworldfair.7.d2: "После целого месяца работы Всемирная Выставка завершилась. Теперь начинается процесс перепрофилирования выставочных площадок. Выставка прошла успешно, безусловно, одна из лучших на сегодняшний день, и это укрепит наш международный авторитет и доверие к нам. Надеюсь, что в будущем мы сможем провести Выставку снова и превзойти даже нынешний успех".
- eoanbworldfair.7.d3: "После целого месяца работы Всемирная Выставка завершилась. Теперь начинается процесс перепрофилирования выставочных площадок. Выставка имела довольно посредственный успех, ничего необычного или исключительного, и мы можем только надеяться, что это укрепит наш международный авторитет и доверие к нам. Надеюсь, в будущем мы сможем провести Выставку еще раз и сделать ее еще лучше".
- eoanbworldfair.7.d4: "После целого месяца работы Всемирная Выставка завершилась. Теперь начинается процесс перепрофилирования выставочных площадок. Выставка была позорно провалена, на ней были представлены самые худшие выставки, которые только можно себе представить, и потребуется чудо, чтобы избежать международного позора. Надеюсь, в будущем нам будет предоставлена возможность провести Выставку снова и компенсировать этот провал".
- eoanbworldfair.7.a: "Отлично"
- eoanbworldfair.7.b: "Очень хорошо"
- eoanbworldfair.7.c: "В следующий раз мы сделаем лучше"
- eoanbworldfair.7.d: "Быстрее, прячьтесь!"
-
- eoanbworldfair.8.t: "Всемирная выставка отменена"
- eoanbworldfair.8.d: "Из-за того, что мы не смогли вовремя подготовиться к Всемирной выставке, она была отменена, и мы подверглись международному унижению из-за этого. Теперь мы должны расплатиться с кредиторами и покрыть ущерб".
- eoanbworldfair.8.a: "Всегда есть следующий раз"
+  
+ eoanb_category_world_fairs: "Fairs & Exhibitions" #NT!
+ eoanb_category_world_fairs_desc: "" #NT!
+  
+ eoanb_world_fair_held_flag: "The §YWorld Fair§! has been held this year" #NT!
+  
+ eoanb_decision_hold_world_fair: "Hold a World Fair" #NT!
+ eoanb_decision_hold_world_fair_desc: "" #NT!
+ eoanb_tt_hold_world_fair: "Hold a §YWorld Fair§! in §Y[Root.Capital.GetName]§! - this will cost a significant amount of §RLegislative Power§! and §RMoney§! but will reward us with §Ginternational recognition§! and §Gprestige§!" #NT!
+ eoanb_tt_hold_world_fair_preparations: "We will begin the preparations for the §YWorld Fair§!" #NT!
+ eoanb_decision_hold_world_fair_counter: "§YPrepare for the World Fair§!" #NT!
+ eoanb_decision_hold_world_fair_counter_desc: "" #NT!
+ eoanb_decision_hold_world_fair_review_budget: "Review the budget" #NT!
+ eoanb_decision_hold_world_fair_review_budget_desc: "" #NT!
+ eoanb_decision_hold_world_fair_invite_attendees: "Invite the Participants" #NT!
+ eoanb_decision_hold_world_fair_invite_attendees_desc: "" #NT!
+ eoanb_decision_hold_world_fair_main_buildings: "Review the Main Buildings" #NT!
+ eoanb_decision_hold_world_fair_main_buildings_desc: "" #NT!
+ eoanb_tt_hold_world_fair_review_budget: "Review the budget - the bigger the budget the bigger the success chances" #NT!
+ eoanb_tt_hold_world_fair_invite_attendees: "Invite the Participants - the more Great and Secondary powers attend the bigger the success chances" #NT!
+ eoanb_tt_hold_world_fair_main_buildings: "Review the Main Buildings - the more splendid they are the bigger the success chances" #NT!
+ eoanb_tt_hold_world_fair_start: "The §YWorld Fair§! will begin!" #NT!
+ eoanb_tt_world_fair_preparation_done: "The preparations are complete" #NT!
+ eoanb_decision_hold_world_fair_cost_tt: "[eoanb_decision_hold_world_fair_cost_tt_scripted]" #NT!
+ eoanb_decision_hold_world_fair_cost_tt_blocked: "[eoanb_decision_hold_world_fair_cost_tt_scripted_blocked]" #NT!
+ eoanb_decision_hold_world_fair_cost_great: "£pol_power §Y200§!" #NT!
+ eoanb_decision_hold_world_fair_cost_other: "£pol_power §Y300§!" #NT!
+ eoanb_decision_hold_world_fair_cost_great_blocked: "£pol_power §R200§!" #NT!
+ eoanb_decision_hold_world_fair_cost_other_blocked: "£pol_power §R300§1" #NT!
+  
+ eoanbworldfair.1.t: "Begin the World Fair preparations" #NT!
+ eoanbworldfair.1.d: "The necessary paperwork has been filled out and the host city is now ready to take on the task to prepare for the upcoming World Fair. For the next five months we must take the necessary decisions in order to make the World Fair as successful as possible." #NT!
+ eoanbworldfair.1.a: "Very Nice" #NT!
+  
+ eoanbworldfair.2.t: "The Preparations are Complete" #NT!
+ eoanbworldfair.2.d: "The planning, designing and construction phases of the World Fair and its venues are now over and the time has come to inaugurate the World Fair to the wider world." #NT!
+ eoanbworldfair.2.a: "Let the Fair begin" #NT!
+  
+ eoanbworldfair.3.t: "The [GetYear] [From.Capital.GetName] World Fair" #NT!
+ eoanbworldfair.3.d: "The [From.Capital.GetName] World Fair has started today and will be ongoing for over a month. The Fair was inaugurated by [From.GetHoSTitle] [From.GetHeadofState][From.GetHoGAttendance] Several nations from around the world attended the fair, [GetWorldFairSuccess1] [From.Capital.GetName] to marvel at the wonder of modern science as well as to the riches of the world.\n     [GetWorldFairSuccess2].\n     [GetWorldFairExhibition1] [GetWorldFairExhibition2]" #NT!
+ eoanbworldfair.3.a: "Very nice" #NT!
+  
+ eoanbworldfair.4.t: "Review the Budget" #NT!
+ eoanbworldfair.4.d: "In order to successfully host the World Fair we must decide on an appropriate budget. The higher the budget the more we will impress foreign visitors and improve the prestige of our country, but we should make sure not to ruin ourselves with spending more than we can and possibly getting into debt." #NT!
+ eoanbworldfair.4.a: "Spare No Expenses" #NT!
+ eoanbworldfair.4.b: "Medium Budget" #NT!
+ eoanbworldfair.4.c: "Save what we can" #NT!
+  
+ eoanbworldfair.5.t: "[From.GetName] invites us to the World Fair" #NT!
+ eoanbworldfair.5.d: "The [From.GetName] has invited us to the World Fair it is hosting in [From.Capital.GetName]. We can decide to join and participate in this wonderful event, where we can also improve our standing among the world's nations, or we can not join and instead focus on more pressing matters." #NT!
+ eoanbworldfair.5.a: "Naturally we will join" #NT!
+ eoanbworldfair.5.b: "And the stock market report?" #NT!
+  
+ eoanbworldfair.6.t: "Designing the Main Buildings" #NT!
+ eoanbworldfair.6.d: "An important part of our World Fair is designing the main buildings in an adequate fashion. We can always chose to focus on style and hire the top architects in order to impress the visitors, or alternatively we can focus on using the newest technology and construction materials to impress the world with our industrial achievements. Lastly, if we have a lot of money and resources we can opt to make the venues as lavish as possible, though the aesthetic and technological values of this may be questionable." #NT!
+ eoanbworldfair.6.a: "Commission a top architect" #NT!
+ eoanbworldfair.6.b: "Use the latest materials and technology" #NT!
+ eoanbworldfair.6.c: "Make them as big and luxurious as possible" #NT!
+  
+ eoanbworldfair.7.t: "The World Fair Concluded" #NT!
+ eoanbworldfair.7.d1: "After a whole month running, the World Fair has been concluded. Now begins the process of repurposing the exhibition venues. The fair was a triumphant success, unlike any ever seen, and this will most definitely reinforce our international standing and our credibility. It will not be before a long time that a fair as splendid as this happens ever again." #NT!
+ eoanbworldfair.7.d2: "After a whole month running, the World Fair has been concluded. Now begins the process of repurposing the exhibition venues. The fair was a success, certainly one of the better ones seen so far, and this will reinforce our international standing and our credibility. Hopefully in the future we will be able to host the fair again and surpass even the present success." #NT!
+ eoanbworldfair.7.d3: "After a whole month running, the World Fair has been concluded. Now begins the process of repurposing the exhibition venues. The fair was a rather mediocre success, not anything out of the ordinary nor anything exceptional, and we can but hope that this will reinforce our international standing and our credibility. Hopefully in the future we will be able to host the fair again and then make a better one." #NT!
+ eoanbworldfair.7.d4: "After a whole month running, the World Fair has been concluded. Now begins the process of repurposing the exhibition venues. The fair was a disgraceful failure, full with the worst exhibitions imaginable, and it would take a miracle to avoid international disgrace. Hopefully in the future we will be given the opportunity to host the fair again and make up for this failure." #NT!
+ eoanbworldfair.7.a: "Excellent" #NT!
+ eoanbworldfair.7.b: "Very Nice" #NT!
+ eoanbworldfair.7.c: "Next time we will do better" #NT!
+ eoanbworldfair.7.d: "Quickly, hide!" #NT!
+  
+ eoanbworldfair.8.t: "The World Fair Cancelled" #NT!
+ eoanbworldfair.8.d: "Due to our inability to properly prepare in time the World Fair has been cancelled and we have suffered an international humiliation due to this. Now we have to repay our creditors and cover up the damage." #NT!
+ eoanbworldfair.8.a: "There is always next time" #NT!

@@ -1,157 +1,157 @@
 ﻿l_russian:
-# Ideas #NT!
- EOANBSYS_spirit_pandemics: "[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]"
- EOANBSYS_spirit_pandemics_desc: "[EOANBSYS_pandemics_desc_scripted]".
- EOANBSYS_spirit_pandemics_quarantine_soft: "Мягкий [EOANBSYS_pandemics_name_scripted] Карантин".
- EOANBSYS_spirit_pandemics_quarantine_soft_desc: "[ROOT.GetName] вводит мягкий карантин".
- EOANBSYS_spirit_pandemics_quarantine_medium: "Средний [EOANBSYS_pandemics_name_scripted] Карантин".
- EOANBSYS_spirit_pandemics_quarantine_medium_desc: "[ROOT.GetName] вводит средний карантин".
- EOANBSYS_spirit_pandemics_quarantine_strong: "Сильный [EOANBSYS_pandemics_name_scripted] Карантин".
- EOANBSYS_spirit_pandemics_quarantine_strong_desc: "[ROOT.GetName] вводит сильный карантин".
-
-# Decisions #NT!
- EOANBSYS_pandemics_decision_category: "§L[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]§! (Иммунизация: [EOANBSYS_pandemics_progress_scripted][?EOANBSYS_pandemics_progress_var|%1]§!").
- EOANBSYS_pandemics_decision_category_desc: "\n§RВспышка§! :  §H[EOANBSYS_pandemics_name_scripted]§!\n§SТип§! : [EOANBSYS_pandemics_type_scripted] [EOANBSYS_pandemics_level_scripted]\n§SСправка§! : [EOANBSYS_pandemics_desc_scripted]\n \n§SВспышки§! происходят, когда болезнь быстро заражает определенную популяцию, вызывая гражданские беспорядки, общественные беспорядки и часто смерть.\n \n§CИммунизация§! отслеживает прогресс вашей страны в прекращении §Y[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]§! и будет продолжать увеличиваться естественным образом §SДвухнедельно§! до тех пор, пока вспышка не будет ликвидирована. Выполнение задач, событий и других действий, связанных со вспышкой, может увеличить или уменьшить Иммунизацию вашего населения.\n"
- EOANBSYS_pandemics_progress_counter: "§R[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted] Волна§!"
- EOANBSYS_decisions_pandemics_country_quarantine: "Изменить законы о карантине"
- EOANBSYS_decisions_pandemics_country_quarantine_desc: "Кваринтинг может спасти жизни [ROOT.GetAdjective] от этой §R[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]§!!! Однако могут возникнуть другие ущербы для гражданской жизни и экономики."
-
-# Effects #NT!
- EOANBSYS_pandemics_enable_spread_tt: "§C Всемирное игровое правило§! §Включить распространение эпидемии§!".
- EOANBSYS_pandemics_disable_spread_tt: "§C Всемирное игровое правило§! §RОтключить распространение эпидемии§!".
- EOANBSYS_pandemics_wave_tt: "Государство §RПотеряло население§!"
-
-# Triggers #NT!
- has_pandemic_tt: " находится в пандемии"
- has_pandemic_bacterial_tt: " находится в бактериальной пандемии"
- has_pandemic_viral_tt: " находится в вирусной пандемии"
- has_pandemic_parasytic_tt: " находится в паразитарной пандемии"
- has_national_crisis_tt: "Имеет национальный кризис"
- has_national_crisis_progress_under_90_tt: "§YПрогресс национального кризиса§! менее 90%"
- has_national_crisis_progress_under_80_tt: "§YПрогресс национального кризиса§! менее 80%"
- has_national_crisis_progress_under_70_tt: "§YПрогресс национального кризиса§! менее 70%"
- has_national_crisis_progress_under_50_tt: "§YПрогресс национального кризиса§! менее 50%"
-
-# Flags #NT!
- EOANBSYS_pandemics_global_flag: " Существует всемирная пандемия"
- EOANBSYS_pandemic_global_recent_flag: " Недавно была всемирная пандемия".
- EOANBSYS_pandemics_malaria_flag: " [ROOT.GetName] в настоящее время является эпидемией малярии".
- EOANBSYS_pandemics_cholera_flag: " [ROOT.GetName] в настоящее время является эпидемией холеры"
- EOANBSYS_pandemics_bubonic_flag: "[ROOT.GetName] в настоящее время является бубонной эпидемией"
- EOANBSYS_pandemics_spanish_flu_flag: "[ROOT.GetName] в настоящее время является [?UCT.EOANBSYS_pandemics_spanish_flu_spark.GetAdjective] эпидемией гриппа"
- EOANBSYS_pandemics_influenza_flag: " [ROOT.GetName] в настоящее время является эпидемией гриппа"
- EOANBSYS_pandemics_typhus_flag: " [ROOT.GetName] в настоящее время является эпидемией тифа"
- EOANBSYS_pandemics_ebola_flag: " [ROOT.GetName] в настоящее время является эпидемией Эболы"
- EOANBSYS_pandemics_corona_flag: " [ROOT.GetName] в настоящее время является эпидемией коронавируса"
-
- EOANBSYS_decisions_pandemics_country_quarantine_recent_flag: " недавно скорректировала свой закон о карантине".
-
-# Scripted Locale #NT!
- EOANBSYS_pandemics_level_pandemic: "Пандемия"
- EOANBSYS_pandemics_level_epidemic: "Эпидемия"
- EOANBSYS_pandemics_default_name: "Грипп"
- EOANBSYS_pandemics_malaria_name: "Малярия"
- EOANBSYS_pandemics_cholera_name: "Холера"
- EOANBSYS_pandemics_bubonic_name: "Бубоннка"
- EOANBSYS_pandemics_spanish_flu_name: "[?UCT.EOANBSYS_pandemics_spanish_flu_spark.GetAdjective] Грипп"
- EOANBSYS_pandemics_typhus_name: "Тиф"
- EOANBSYS_pandemics_ebola_name: "Эбола"
- EOANBSYS_pandemics_corona_name: "Коронавирус"
-
- EOANBSYS_pandemics_default_desc: "Вставьте здесь описание гриппа".
- EOANBSYS_pandemics_malaria_desc: "Вставьте описание малярии здесь"
- EOANBSYS_pandemics_cholera_desc: "Холера - это инфекционное бактериальное заболевание, которое распространяется через воду и продукты питания, загрязненные фекалиями инфицированного человека. Общие симптомы включают обезвоживание, рвоту, диарею и мышечные судороги."
- EOANBSYS_pandemics_bubonic_desc: "Вставьте здесь описание бубонной болезни".
- EOANBSYS_pandemics_spanish_flu_desc: "Вставьте [?UCT.EOANBSYS_pandemics_spanish_flu_spark.GetAdjective] описание гриппа здесь"
- EOANBSYS_pandemics_typhus_desc: "Вставьте описание тифа здесь"
- EOANBSYS_pandemics_ebola_desc: "Вставить описание Эболы здесь"
- EOANBSYS_pandemics_corona_desc: "Вставить описание коронавируса здесь"
-
- EOANBSYS_pandemics_type_viral: "Вирус"
- EOANBSYS_pandemics_type_bacterial: "Бактериальный"
- EOANBSYS_pandemics_type_parasytic: "Паразитарный"
-
- eoanbsys_pandemics_global_name_scripted_none: "Нет текущего"
-
- EOANBSYS_pandemics_progress_scripted_really_high: "§G"
- EOANBSYS_pandemics_progress_scripted_high: "§Y"
- EOANBSYS_pandemics_progress_scripted_med: "§O"
- EOANBSYS_pandemics_progress_scripted_low: "§S"
- EOANBSYS_pandemics_progress_scripted_really_low: "§R"
-
-# Progress Tooltips #NT!
- EOANBSYS_pandemics_progress_add_half_tt: "Увеличить прогресс в §b[EOANBSYS_pandemics_name_scripted] Иммунизации§! на §G0.5%§!"
- EOANBSYS_pandemics_progress_add_one_tt: "Увеличить прогресс в §b[EOANBSYS_pandemics_name_scripted] Иммунизации§! на §G1%§!"
- EOANBSYS_pandemics_progress_add_two_tt: "Увеличить прогресс в §b[EOANBSYS_pandemics_name_scripted] Иммунизации§! на §G2%§!"
- EOANBSYS_pandemics_progress_add_five_tt: "Увеличить прогресс в §b[EOANBSYS_pandemics_name_scripted] Иммунизации§! на §G5%§!"
- EOANBSYS_pandemics_progress_add_ten_tt: "Увеличить прогресс в §b[EOANBSYS_pandemics_name_scripted] Иммунизации§! на §G10%§!"
- EOANBSYS_pandemics_progress_add_twenty_tt: "Увеличить прогресс в §b[EOANBSYS_pandemics_name_scripted] Иммунизации§! на §G20%§!"
- EOANBSYS_pandemics_progress_minus_half_tt: "Уменьшить прогресс в §b[EOANBSYS_pandemics_name_scripted] Иммунизации§! на §R0.5%§!"
- EOANBSYS_pandemics_progress_minus_one_tt: "Уменьшить прогресс в §b[EOANBSYS_pandemics_name_scripted] Иммунизации§! на §R1%§!"
- EOANBSYS_pandemics_progress_minus_two_tt: "Уменьшить прогресс в §b[EOANBSYS_pandemics_name_scripted] Иммунизации§! на §R2%§!"
- EOANBSYS_pandemics_progress_minus_five_tt: "Уменьшить прогресс в §b[EOANBSYS_pandemics_name_scripted] Иммунизации§! на §R5%§!"
-
-# Modifier Tooltips #NT!
- EOANBSYS_pandemic_disease_transmission_add_ten_percent_tt: "Передача заболевания: §R+10%§!"
- EOANBSYS_pandemic_disease_transmission_add_five_percent_tt: "Передача заболевания: §R+5%§!"
- EOANBSYS_pandemic_disease_transmission_minus_one_percent_tt: "Передача заболевания: §G-1%§!"
- EOANBSYS_pandemic_disease_transmission_minus_two_percent_tt: "Передача заболевания: §G-2%§!"
- EOANBSYS_pandemic_disease_transmission_minus_three_percent_tt: "Передача заболевания: §G-3%§!"
- EOANBSYS_pandemic_disease_transmission_minus_five_percent_tt: "Передача заболевания: §G-5%§!"
- EOANBSYS_pandemic_disease_transmission_minus_ten_percent_tt: "Передача заболевания: §G-10%§!"
- EOANBSYS_pandemic_disease_transmission_minus_twenty_percent_tt: "Передача заболевания: §G-20%§!"
- EOANBSYS_pandemic_disease_transmission_minus_thirty_percent_tt: "Передача заболевания: §G-30%§!"
- EOANBSYS_pandemic_disease_transmission_minus_fourty_percent_tt: "Передача заболевания: §G-40%§!"
-
- EOANBSYS_pandemic_disease_infectivity_minus_one_percent_tt: "Инфекционность заболевания: §G-1%§!"
- EOANBSYS_pandemic_disease_infectivity_minus_two_percent_tt: "Инфекционность заболевания: §G-2%§!"
- EOANBSYS_pandemic_disease_infectivity_minus_three_percent_tt: "Инфекционность заболевания: §G-3%§!"
- EOANBSYS_pandemic_disease_infectivity_minus_five_percent_tt: "Инфекционность заболевания: §G-5%§!"
- EOANBSYS_pandemic_disease_infectivity_minus_ten_percent_tt: "Инфекционность заболевания: §G-10%§!"
- EOANBSYS_pandemic_disease_infectivity_minus_twenty_percent_tt: "Инфекционность заболевания: §G-20%§!"
- EOANBSYS_pandemic_disease_infectivity_minus_thirty_percent_tt: "Инфекционность заболевания: §G-30%§!"
- EOANBSYS_pandemic_disease_infectivity_minus_fourty_percent_tt: "Инфекционность заболевания: §G-40%§!"
-
- EOANBSYS_pandemic_disease_infectivity_bacterial_minus_one_percent_tt: "Бактериальная инфекционность: §G-1%§!"
- EOANBSYS_pandemic_disease_infectivity_bacterial_minus_two_percent_tt: "Бактериальная инфекционность: §G-2%§!"
- EOANBSYS_pandemic_disease_infectivity_bacterial_minus_three_percent_tt: "Бактериальная инфекционность: §G-3%§!"
- EOANBSYS_pandemic_disease_infectivity_bacterial_minus_five_percent_tt: "Бактериальная инфекционность: §G-5%§!"
- EOANBSYS_pandemic_disease_infectivity_bacterial_minus_ten_percent_tt: "Бактериальная инфекционность: §G-10%§!"
- EOANBSYS_pandemic_disease_infectivity_bacterial_minus_twenty_percent_tt: "Бактериальная инфекционность: §G-20%§!"
- EOANBSYS_pandemic_disease_infectivity_bacterial_minus_thirty_percent_tt: "Бактериальная инфекционность: §G-30%§!"
- EOANBSYS_pandemic_disease_infectivity_bacterial_minus_fourty_percent_tt: "Бактериальная инфекционность: §G-40%§!"
-
- EOANBSYS_pandemic_disease_infectivity_viral_minus_one_percent_tt: "Вирусная инфекционность: §G-1%§!"
- EOANBSYS_pandemic_disease_infectivity_viral_minus_two_percent_tt: "Вирусная инфекционность: §G-2%§!"
- EOANBSYS_pandemic_disease_infectivity_viral_minus_three_percent_tt: "Вирусная инфекционность: §G-3%§!"
- EOANBSYS_pandemic_disease_infectivity_viral_minus_five_percent_tt: "Вирусная инфекционность: §G-5%§!"
- EOANBSYS_pandemic_disease_infectivity_viral_minus_ten_percent_tt: "Вирусная инфекционность: §G-10%§!"
- EOANBSYS_pandemic_disease_infectivity_viral_minus_twenty_percent_tt: "Вирусная инфекционность: §G-20%§!"
- EOANBSYS_pandemic_disease_infectivity_viral_minus_thirty_percent_tt: "Вирусная инфекционность: §G-30%§!"
- EOANBSYS_pandemic_disease_infectivity_viral_minus_fourty_percent_tt: "Вирусная инфекционность: §G-40%§!"
-
- EOANBSYS_pandemic_disease_infectivity_parasytic_minus_one_percent_tt: "Паразитарная инфекционность: §G-1%§!"
- EOANBSYS_pandemic_disease_infectivity_parasytic_minus_two_percent_tt: "Паразитарная инфекционность: §G-2%§!"
- EOANBSYS_pandemic_disease_infectivity_parasytic_minus_three_percent_tt: "Паразитарная инфекционность: §G-3%§!"
- EOANBSYS_pandemic_disease_infectivity_parasytic_minus_five_percent_tt: "Паразитарная инфекционность: §G-5%§!"
- EOANBSYS_pandemic_disease_infectivity_parasytic_minus_ten_percent_tt: "Паразитарная инфекционность: §G-10%§!"
- EOANBSYS_pandemic_disease_infectivity_parasytic_minus_twenty_percent_tt: "Паразитарная инфекционность: §G-20%§!"
- EOANBSYS_pandemic_disease_infectivity_parasytic_minus_thirty_percent_tt: "Паразитарная инфекционность: §G-30%§!"
- EOANBSYS_pandemic_disease_infectivity_parasytic_minus_fourty_percent_tt: "Паразитарная инфекционность: §G-40%§!"
-
- # Events #NT!
- eoanbsys_pandemics.1.t: "Вспышка [eoanbsys_pandemics_global_name_scripted]".
- eoanbsys_pandemics.1.d: "Последние новости от государства [FROM.GetNameDef] сообщили, что вспышка [eoanbsys_pandemics_global_name_scripted] показала признаки быстрой передачи! Хотя чума пока сдерживается в [FROM.GetName], наши врачи не уверены в будущем."
- eoanbsys_pandemics.1.a: "Молитесь, чтобы она не добралась до наших берегов".
- eoanbsys_pandemics.2.t: "Конец пандемии"
- eoanbsys_pandemics.2.d: "Наконец-то мир надежно защитился от пандемии! Хотя многие страны еще не полностью нормализовали ситуацию, большинство из них находятся на пути к восстановлению!"
- eoanbsys_pandemics.2.a: "К светлому будущему!"
- eoanbsys_pandemics.2.b: "Продолжать усилия!"
-
- eoanbsys_pandemics.120.t: "Карантинные процедуры"
- eoanbsys_pandemics.120.d: "Карантин - это ограничение на передвижение людей, животных и товаров с целью предотвращения распространения болезни или вредителя.\n \n Введение карантина может помочь в уменьшении последствий, вызванных последней вспышкой, но также принесет волнения, экономические и социальные проблемы вашему населению."
- eoanbsys_pandemics.120.a: "Без карантина"
- eoanbsys_pandemics.120.b: "Мягкие карантины"
- eoanbsys_pandemics.120.c: "Средние карантины"
- eoanbsys_pandemics.120.e: "Сильные карантины"
- eoanbsys_pandemics.120.f: "Неважно!"
+ # Ideas 
+ EOANBSYS_spirit_pandemics: "[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]" #NT!
+ EOANBSYS_spirit_pandemics_desc: "[EOANBSYS_pandemics_desc_scripted]" #NT!
+ EOANBSYS_spirit_pandemics_quarantine_soft: "Soft [EOANBSYS_pandemics_name_scripted] Quarantine" #NT!
+ EOANBSYS_spirit_pandemics_quarantine_soft_desc: "[ROOT.GetName] has instigated a soft quarantine." #NT!
+ EOANBSYS_spirit_pandemics_quarantine_medium: "Medium [EOANBSYS_pandemics_name_scripted] Quarantine" #NT!
+ EOANBSYS_spirit_pandemics_quarantine_medium_desc: "[ROOT.GetName] has instigated a medium quarantine." #NT!
+ EOANBSYS_spirit_pandemics_quarantine_strong: "Strong [EOANBSYS_pandemics_name_scripted] Quarantine" #NT!
+ EOANBSYS_spirit_pandemics_quarantine_strong_desc: "[ROOT.GetName] has instigated a strong quarantine." #NT!
+  
+ # Decisions 
+ EOANBSYS_pandemics_decision_category: "§L[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]§! (Immunitization: [EOANBSYS_pandemics_progress_scripted][?EOANBSYS_pandemics_progress_var|%1]§!)" #NT!
+ EOANBSYS_pandemics_decision_category_desc: "\n§ROutbreak§! :  §H[EOANBSYS_pandemics_name_scripted]§!\n§SType§! :  [EOANBSYS_pandemics_type_scripted] [EOANBSYS_pandemics_level_scripted]\n§SBackground§! :  [EOANBSYS_pandemics_desc_scripted]\n \n§SOutbreaks§! occur when a disease rapidly infect a given population, causing civil disruption, societal disorder and often times death.\n \n§CImmunitization§! tracks your nation's progress to ending the §Y[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]§! and will continue to increase naturally §SBi-Weekly§! until the outbreak has been resolved. Completing objectives, events and other actions related to the outbreak may increase or decrease your population's Immunization.\n" #NT!
+ EOANBSYS_pandemics_progress_counter: "§R[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted] Wave§!" #NT!
+ EOANBSYS_decisions_pandemics_country_quarantine: "Change Quarantine Laws" #NT!
+ EOANBSYS_decisions_pandemics_country_quarantine_desc: "Quarantine may save [ROOT.GetAdjective] lives from this §R[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]§!! However, other detriments to the civilian life and the economy may will occur." #NT!
+  
+ # Effects 
+ EOANBSYS_pandemics_enable_spread_tt: "§C World Gamerule§!: §REnable Epidemic Spread§!" #NT!
+ EOANBSYS_pandemics_disable_spread_tt: "§C World Gamerule§!: §RDisable Epidemic Spread§!" #NT!
+ EOANBSYS_pandemics_wave_tt: "State §Rloses population§!" #NT!
+  
+ # Triggers 
+ has_pandemic_tt: " is in a Pandemic" #NT!
+ has_pandemic_bacterial_tt: " is in a Bacterial Pandemic" #NT!
+ has_pandemic_viral_tt: " is in a Viral Pandemic" #NT!
+ has_pandemic_parasytic_tt: " is in a Parasytic Pandemic" #NT!
+ has_national_crisis_tt: "Has National Crisis" #NT!
+ has_national_crisis_progress_under_90_tt: "§YNational Crisis Progress§! less than 90%" #NT!
+ has_national_crisis_progress_under_80_tt: "§YNational Crisis Progress§! less than 80%" #NT!
+ has_national_crisis_progress_under_70_tt: "§YNational Crisis Progress§! less than 70%" #NT!
+ has_national_crisis_progress_under_50_tt: "§YNational Crisis Progress§! less than 50%" #NT!
+  
+ # Flags 
+ EOANBSYS_pandemics_global_flag: " There is a Worldwide Pandemic" #NT!
+ EOANBSYS_pandemic_global_recent_flag: " There has been a recent Worldwide Pandemic" #NT!
+ EOANBSYS_pandemics_malaria_flag: " [ROOT.GetName] is currently a Malaria Epidemic" #NT!
+ EOANBSYS_pandemics_cholera_flag: " [ROOT.GetName] is currently a Cholera Epidemic" #NT!
+ EOANBSYS_pandemics_bubonic_flag: "[ROOT.GetName] is currently a Bubonic Epidemic" #NT!
+ EOANBSYS_pandemics_spanish_flu_flag: " [ROOT.GetName] is currently a [?UCT.EOANBSYS_pandemics_spanish_flu_spark.GetAdjective] Flu Epidemic" #NT!
+ EOANBSYS_pandemics_influenza_flag: " [ROOT.GetName] is currently an Influenza Epidemic" #NT!
+ EOANBSYS_pandemics_typhus_flag: " [ROOT.GetName] is currently a Typhus Epidemic" #NT!
+ EOANBSYS_pandemics_ebola_flag: " [ROOT.GetName] is currently an Ebola Epidemic" #NT!
+ EOANBSYS_pandemics_corona_flag: " [ROOT.GetName] is currently a Coronavirus Epidemic" #NT!
+  
+ EOANBSYS_decisions_pandemics_country_quarantine_recent_flag: " has recently adjusted its quarantine law." #NT!
+  
+ # Scripted Locale 
+ EOANBSYS_pandemics_level_pandemic: "Pandemic" #NT!
+ EOANBSYS_pandemics_level_epidemic: "Epidemic" #NT!
+ EOANBSYS_pandemics_default_name: "Influenza" #NT!
+ EOANBSYS_pandemics_malaria_name: "Malaria" #NT!
+ EOANBSYS_pandemics_cholera_name: "Cholera" #NT!
+ EOANBSYS_pandemics_bubonic_name: "Bubonic" #NT!
+ EOANBSYS_pandemics_spanish_flu_name: "[?UCT.EOANBSYS_pandemics_spanish_flu_spark.GetAdjective] Flu" #NT!
+ EOANBSYS_pandemics_typhus_name: "Typhus" #NT!
+ EOANBSYS_pandemics_ebola_name: "Ebola" #NT!
+ EOANBSYS_pandemics_corona_name: "Coronavirus" #NT!
+  
+ EOANBSYS_pandemics_default_desc: "Insert Influenza Description Here" #NT!
+ EOANBSYS_pandemics_malaria_desc: "Insert Malaria Description Here" #NT!
+ EOANBSYS_pandemics_cholera_desc: "Cholera is an infectious bacteria disease that is spread by water and foods contaminated with infected human feces. Common symptoms include dehydration, vomiting, diarrhea and muscle cramps." #NT!
+ EOANBSYS_pandemics_bubonic_desc: "Insert Bubonic Description Here" #NT!
+ EOANBSYS_pandemics_spanish_flu_desc: "Insert [?UCT.EOANBSYS_pandemics_spanish_flu_spark.GetAdjective] Flu Description Here" #NT!
+ EOANBSYS_pandemics_typhus_desc: "Insert Typhus Description Here" #NT!
+ EOANBSYS_pandemics_ebola_desc: "Insert Ebola Description Here" #NT!
+ EOANBSYS_pandemics_corona_desc: "Insert Coronavirus Description Here" #NT!
+  
+ EOANBSYS_pandemics_type_viral: "Viral" #NT!
+ EOANBSYS_pandemics_type_bacterial: "Bacterial" #NT!
+ EOANBSYS_pandemics_type_parasytic: "Parasytic" #NT!
+  
+ eoanbsys_pandemics_global_name_scripted_none: "No Current" #NT!
+  
+ EOANBSYS_pandemics_progress_scripted_really_high: "§G" #NT!
+ EOANBSYS_pandemics_progress_scripted_high: "§Y" #NT!
+ EOANBSYS_pandemics_progress_scripted_med: "§O" #NT!
+ EOANBSYS_pandemics_progress_scripted_low: "§S" #NT!
+ EOANBSYS_pandemics_progress_scripted_really_low: "§R" #NT!
+  
+ # Progress Tooltips 
+ EOANBSYS_pandemics_progress_add_half_tt: "Increase Progress to §b[EOANBSYS_pandemics_name_scripted] Immunization§! by §G0.5%§!" #NT!
+ EOANBSYS_pandemics_progress_add_one_tt: "Increase Progress to §b[EOANBSYS_pandemics_name_scripted] Immunization§! by §G1%§!" #NT!
+ EOANBSYS_pandemics_progress_add_two_tt: "Increase Progress to §b[EOANBSYS_pandemics_name_scripted] Immunization§! by §G2%§!" #NT!
+ EOANBSYS_pandemics_progress_add_five_tt: "Increase Progress to §b[EOANBSYS_pandemics_name_scripted] Immunization§! by §G5%§!" #NT!
+ EOANBSYS_pandemics_progress_add_ten_tt: "Increase Progress to §b[EOANBSYS_pandemics_name_scripted] Immunization§! by §G10%§!" #NT!
+ EOANBSYS_pandemics_progress_add_twenty_tt: "Increase Progress to §b[EOANBSYS_pandemics_name_scripted] Immunization§! by §G20%§!" #NT!
+ EOANBSYS_pandemics_progress_minus_half_tt: "Decrease Progress to §b[EOANBSYS_pandemics_name_scripted] Immunization§! by §R0.5%§!" #NT!
+ EOANBSYS_pandemics_progress_minus_one_tt: "Decrease Progress to §b[EOANBSYS_pandemics_name_scripted] Immunization§! by §R1%§!" #NT!
+ EOANBSYS_pandemics_progress_minus_two_tt: "Decrease Progress to §b[EOANBSYS_pandemics_name_scripted] Immunization§! by §R2%§!" #NT!
+ EOANBSYS_pandemics_progress_minus_five_tt: "Decrease Progress to §b[EOANBSYS_pandemics_name_scripted] Immunization§! by §R5%§!" #NT!
+  
+ # Modifier Tooltips 
+ EOANBSYS_pandemic_disease_transmission_add_ten_percent_tt: "Disease Transmission: §R+10%§!" #NT!
+ EOANBSYS_pandemic_disease_transmission_add_five_percent_tt: "Disease Transmission: §R+5%§!" #NT!
+ EOANBSYS_pandemic_disease_transmission_minus_one_percent_tt: "Disease Transmission: §G-1%§!" #NT!
+ EOANBSYS_pandemic_disease_transmission_minus_two_percent_tt: "Disease Transmission: §G-2%§!" #NT!
+ EOANBSYS_pandemic_disease_transmission_minus_three_percent_tt: "Disease Transmission: §G-3%§!" #NT!
+ EOANBSYS_pandemic_disease_transmission_minus_five_percent_tt: "Disease Transmission: §G-5%§!" #NT!
+ EOANBSYS_pandemic_disease_transmission_minus_ten_percent_tt: "Disease Transmission: §G-10%§!" #NT!
+ EOANBSYS_pandemic_disease_transmission_minus_twenty_percent_tt: "Disease Transmission: §G-20%§!" #NT!
+ EOANBSYS_pandemic_disease_transmission_minus_thirty_percent_tt: "Disease Transmission: §G-30%§!" #NT!
+ EOANBSYS_pandemic_disease_transmission_minus_fourty_percent_tt: "Disease Transmission: §G-40%§!" #NT!
+  
+ EOANBSYS_pandemic_disease_infectivity_minus_one_percent_tt: "Disease Infectivity: §G-1%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_minus_two_percent_tt: "Disease Infectivity: §G-2%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_minus_three_percent_tt: "Disease Infectivity: §G-3%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_minus_five_percent_tt: "Disease Infectivity: §G-5%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_minus_ten_percent_tt: "Disease Infectivity: §G-10%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_minus_twenty_percent_tt: "Disease Infectivity: §G-20%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_minus_thirty_percent_tt: "Disease Infectivity: §G-30%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_minus_fourty_percent_tt: "Disease Infectivity: §G-40%§!" #NT!
+  
+ EOANBSYS_pandemic_disease_infectivity_bacterial_minus_one_percent_tt: "Bacterial Infectivity: §G-1%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_bacterial_minus_two_percent_tt: "Bacterial Infectivity: §G-2%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_bacterial_minus_three_percent_tt: "Bacterial Infectivity: §G-3%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_bacterial_minus_five_percent_tt: "Bacterial Infectivity: §G-5%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_bacterial_minus_ten_percent_tt: "Bacterial Infectivity: §G-10%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_bacterial_minus_twenty_percent_tt: "Bacterial Infectivity: §G-20%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_bacterial_minus_thirty_percent_tt: "Bacterial Infectivity: §G-30%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_bacterial_minus_fourty_percent_tt: "Bacterial Infectivity: §G-40%§!" #NT!
+  
+ EOANBSYS_pandemic_disease_infectivity_viral_minus_one_percent_tt: "Viral Infectivity: §G-1%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_viral_minus_two_percent_tt: "Viral Infectivity: §G-2%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_viral_minus_three_percent_tt: "Viral Infectivity: §G-3%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_viral_minus_five_percent_tt: "Viral Infectivity: §G-5%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_viral_minus_ten_percent_tt: "Viral Infectivity: §G-10%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_viral_minus_twenty_percent_tt: "Viral Infectivity: §G-20%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_viral_minus_thirty_percent_tt: "Viral Infectivity: §G-30%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_viral_minus_fourty_percent_tt: "Viral Infectivity: §G-40%§!" #NT!
+  
+ EOANBSYS_pandemic_disease_infectivity_parasytic_minus_one_percent_tt: "Parasytic Infectivity: §G-1%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_parasytic_minus_two_percent_tt: "Parasytic Infectivity: §G-2%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_parasytic_minus_three_percent_tt: "Parasytic Infectivity: §G-3%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_parasytic_minus_five_percent_tt: "Parasytic Infectivity: §G-5%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_parasytic_minus_ten_percent_tt: "Parasytic Infectivity: §G-10%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_parasytic_minus_twenty_percent_tt: "Parasytic Infectivity: §G-20%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_parasytic_minus_thirty_percent_tt: "Parasytic Infectivity: §G-30%§!" #NT!
+ EOANBSYS_pandemic_disease_infectivity_parasytic_minus_fourty_percent_tt: "Parasytic Infectivity: §G-40%§!" #NT!
+  
+  # Events 
+ eoanbsys_pandemics.1.t: "Outbreak of [eoanbsys_pandemics_global_name_scripted]" #NT!
+ eoanbsys_pandemics.1.d: "Latest news from [FROM.GetNameDef] have reported that an outbreak of [eoanbsys_pandemics_global_name_scripted] has shown signs of quick transmission! While the plague remains constrained in [FROM.GetName] for now, our doctors remain unsure of the future." #NT!
+ eoanbsys_pandemics.1.a: "Pray it does not make to our shores." #NT!
+ eoanbsys_pandemics.2.t: "End of the Pandemic" #NT!
+ eoanbsys_pandemics.2.d: "After long last, the world has finally secured fended off the pandemic! While many countries have yet completely normalized, most are on the track for recovery!" #NT!
+ eoanbsys_pandemics.2.a: "To a brighter future!" #NT!
+ eoanbsys_pandemics.2.b: "Continue with the efforts!" #NT!
+  
+ eoanbsys_pandemics.120.t: "Quarantine Procedures" #NT!
+ eoanbsys_pandemics.120.d: "A quarantine is a restriction on the movement of people, animals and goods that intends to prevent the spread of disease or pest.\n \n Instituting a quarantine may aid in the reduction of effects caused by the latest outbreak, but will bring unrest, economic and societal strife to your populace as well." #NT!
+ eoanbsys_pandemics.120.a: "No Quarantine" #NT!
+ eoanbsys_pandemics.120.b: "Soft Quarantines" #NT!
+ eoanbsys_pandemics.120.c: "Medium Quarantines" #NT!
+ eoanbsys_pandemics.120.e: "Strong Quarantines" #NT!
+ eoanbsys_pandemics.120.f: "Nevermind!" #NT!

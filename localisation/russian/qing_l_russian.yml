@@ -1,952 +1,952 @@
 ﻿l_russian:
-
-###Starting National Spirits #NT!
- QNG_idea_banner_armies:0 "Баннерная система"
-QNG_outdated_army:0 "Устаревшая армия"
-QNG_outdated_army1: "Outdated Army" #NT!
-QNG_outdated_army1a: "Outdated Army" #NT!
-QNG_outdated_army1b: "Outdated Army" #NT!
-QNG_outdated_army2a: "Outdated Army" #NT!
-QNG_outdated_army2b: "Outdated Army" #NT!
-QNG_outdated_army1c: "Outdated Army" #NT!
-QNG_outdated_army2c: "Outdated Army" #NT!
-QNG_idea_opium_crissis: "Opium Crisis" #NT!
-QNG_idea_opium_crissis_desc: "Following the defeat of the First Opium War, Opium Markets have been flowing in with tons of Opium being fed to the chinese population, as the nation's treasury was flown out to these opium markets as such." #NT!
-QNG_idea_han_nationalism: "Rising Han Chinese Nationalism" #NT!
-QNG_idea_han_nationalism_desc: "The nation faces itself with increase of Han Chinese Nationalism, leading to an increase of Han Chinese revolts or even rebellions, with the Empire in a state of near collapse." #NT!
-QNG_idea_devastation_first_opium_war: "Devastation of the First Opium War" #NT!
-QNG_idea_devastation_first_opium_war_desc: "A Scar of Humiliation from the First Opium War, the Qing suffered huge humiliation and was hit with the reality that their empire was heavily backwards compared to the west.Special Measures will be taken to help Qing become the supreme Empire in the worldor at least confront the barbarians." #NT!
-
-	######################################################################################## #NT!
-	######################################################################################## #NT!
-	##################################### IDEAS ############################################ #NT!
-	######################################################################################## #NT!
-	######################################################################################## #NT!
-
- QNG_foochow_arsenal:0 "Арсенал Фучоу"
- QNG_foochow_arsenal_2:0 "Арсенал Фучоу"
- QNG_foochow_arsenal_3:0 "Арсенал Фучоу"
+  
+ ###Starting National Spirits 
+ QNG_idea_banner_armies: "Banner System" #NT!
+ QNG_outdated_army: "Outdated Army" #NT!
+ QNG_outdated_army1: "Outdated Army" #NT!
+ QNG_outdated_army1a: "Outdated Army" #NT!
+ QNG_outdated_army1b: "Outdated Army" #NT!
+ QNG_outdated_army2a: "Outdated Army" #NT!
+ QNG_outdated_army2b: "Outdated Army" #NT!
+ QNG_outdated_army1c: "Outdated Army" #NT!
+ QNG_outdated_army2c: "Outdated Army" #NT!
+ QNG_idea_opium_crissis: "Opium Crisis" #NT!
+ QNG_idea_opium_crissis_desc: "Following the defeat of the First Opium War, Opium Markets have been flowing in with tons of Opium being fed to the chinese population, as the nation's treasury was flown out to these opium markets as such." #NT!
+ QNG_idea_han_nationalism: "Rising Han Chinese Nationalism" #NT!
+ QNG_idea_han_nationalism_desc: "The nation faces itself with increase of Han Chinese Nationalism, leading to an increase of Han Chinese revolts or even rebellions, with the Empire in a state of near collapse." #NT!
+ QNG_idea_devastation_first_opium_war: "Devastation of the First Opium War" #NT!
+ QNG_idea_devastation_first_opium_war_desc: "A Scar of Humiliation from the First Opium War, the Qing suffered huge humiliation and was hit with the reality that their empire was heavily backwards compared to the west.Special Measures will be taken to help Qing become the supreme Empire in the worldor at least confront the barbarians." #NT!
+  
+ 	######################################################################################## 
+ 	######################################################################################## 
+ 	##################################### IDEAS ############################################ 
+ 	######################################################################################## 
+ 	######################################################################################## 
+  
+ QNG_foochow_arsenal: "Foochow Arsenal" #NT!
+ QNG_foochow_arsenal_2: "Foochow Arsenal" #NT!
+ QNG_foochow_arsenal_3: "Foochow Arsenal" #NT!
  QNG_jiangnan_arsenal: "Jiangnan Arsenal" #NT!
  QNG_jiangnan_arsenal_2: "Jiangnan Arsenal" #NT!
- QNG_bright_young_sailors:0 "Яркие молодые моряки"
- QNG_patrolling_the_eastern_seas:0 "Патрулирование восточных морей"
- QNG_civilian_industry_improvements:0 "Фокус гражданской промышленности"
- QNG_civilian_industry_improvements2:0 "Фокус гражданской промышленности"
- QNG_civilian_industry_improvements3:0 "Фокус гражданской промышленности"
- QNG_civilian_industry_improvements4:0 "Фокус гражданской промышленности"
+ QNG_bright_young_sailors: "Bright Young Sailors" #NT!
+ QNG_patrolling_the_eastern_seas: "Patrolling the Eastern Seas" #NT!
+ QNG_civilian_industry_improvements: "Civilian Industry Focus" #NT!
+ QNG_civilian_industry_improvements2: "Civilian Industry Focus" #NT!
+ QNG_civilian_industry_improvements3: "Civilian Industry Focus" #NT!
+ QNG_civilian_industry_improvements4: "Civilian Industry Focus" #NT!
  QNG_restore_national_facilities: "Restore National Facilities" #NT!
- SIC_multi_ethnic_army:0 "Много-этническая армия"
- SIC_multi_ethnic_army_desc:0 "Крестьяне Гуйчжоу поднялись и начали протестовать против новых цен на зерно. Они родом из разных областей, принося уникальные стили борьбы и позволяя нам помочь победить Цин!"
-
+ SIC_multi_ethnic_army: "Multi-Ethnic Army" #NT!
+ SIC_multi_ethnic_army_desc: "The peasants of Guizhou have risen up and have begun protesting the new grain prices. They come from all sorts of areas, bringing unique fighting styles to the table and allowing us to help vanquish the Qing!" #NT!
+  
  fuzhou_shipyard: "Foochow Arsenal" #NT!
  chinese_engineer_and_mining_company: "Chinese Engineering and Mining Company" #NT!
-
-	######################################################################################## #NT!
-	######################################################################################## #NT!
-	##################################### EVENTS ########################################### #NT!
-	######################################################################################## #NT!
-	######################################################################################## #NT!
-
- qing.1.t:0 "Инцидент с Муданом"
- qing.1.d:0 "Японцы высадились на Тайване в экспедиции в отместку за убийство матросов Рюкюаня аборигенами-пайванями Южного Тайваня. Их поразительный успех потряс нас и открыл миру наше слабое положение над Тайванем".
- qing.1.a:0 "Черт эти японцы!"
- qing.2.t:0 "Торговля железными кольями"
- qing.2.d:0 "Мы решили купить железную одежду у иностранных держав, чтобы укрепить наши военно-морские силы. Однако такая торговля будет дорогостоящей и вряд ли будет принята, поэтому мы должны выбирать нашего торгового партнера мудро. С кем мы будем торговать? "
- qing.2.a:0 "США!"
- qing.2.b:0 "Пруссия!"
- qing.2.c:0 "Франция!"
- qing.2.h:0 "Великобритания!"
- qing.3.t:0 "Официальный флаг"
- qing.3.d:0 "Ваше Величество, в последнее время нам стало известно, что отсутствие надлежащего официального флага для нашего народа затрудняет наши встречи с иностранцами. Уже несколько лет назад китайский корабль "Везенерс" под названием \"HMS Arrow\", был вынужден нести британский флаг из-за того, что у нас не было никакого флага. Это привело к тому, что мы захватили корабль, но из-за того, что он шел под британским флагом, мы дали англичанам повод напасть на нас. Во избежание такого недопонимания в будущем мы должны принять национальный флаг по западным замыслам. Было предложено, чтобы наш новый флаг был треугольным, чтобы избежать путаницы с прямоугольными флагами Eigth Banners. На флаге будут представлены традиционные символы Вашего Величества, Пятикогтевого дракона и Пылающей жемчужины ".
- qing.3.a:0 "Какой прекрасный флаг"
- qing.3:0 "Изменяет §YКитайский§! флад."
- qing.4.t:0 "Резиденция Ли Тенг-Фана"
- qing.4.d:0 "Мы получили информацию о большой и красивой новой усадьбе, которая завершила свое строительство в округе Даси города Таоюань, Тайвань. Ли Тэн-Фань, владелец резиденции, - торговец фучжуньезе хакка родом из Чжанчжоу, который из-за своего процветающего бизнеса по торговле рисовым зерном под названием Цзиньсин был тем самым рекомендован местным тайваньским правительством императору Сяньфэну. Соответственно, Ли начал строительство своей резиденции в 1860 году по императорскому благословению, и теперь закончил свою работу в этом году. \n\nРезиденция построена в традиционном стиле хакка, состоит из двух основных комнат и четырёх боковых зданий, охраняемых полукруглым бассейном и побеленной стеной из грязевого кирпича. Несомненно, что эта резиденция скоро станет жемчужиной города Таоюань на долгие годы вперед."
- qing.4.a:0 "Какая чудесная усадьба!"
- qing.5.t:0 "Идея самоукрепления"
- qing.5.d:0 "Среди бюрократии циркулирует идея, идея движения за самосовершенствование. Серия реформ по индустриализации, чтобы в первую очередь улучшить армию и противостоять угрозе со стороны Великобритании"
- qing.5.a:0 "Давайте примем эту идею"
- qing.6.t:0 "Смерть Сяньфэна"
- qing.6.d:0 "Сегодня утром Великий император Китая Сяньфэн умер от осложнений, вызванных оспой. Новому императору, Тайнфэну, всего 6 лет, и к власти пришел совет регентства, назначенный Сяньфэном перед его смертью. Однако на заднем плане императорские ячейки, похоже, набирают силу."
- qing.6.a:0 "Большая потеря для Китая"
- qing.7.t:0 "Синьюйский переворот"
- qing.7.d:0 "В серии удивительных событий принц Гонг, влиятельный член императорской семьи, поддержал переворот вдовствующей Императоры, чтобы увеличить власть от Совета регентов. Во главе с императором Цыси, императорский двор теперь под ее руководством. Члены совета Сушанов теперь ждут своих судеб в подземельях."
- qing.7.a:0 "Слава вдовствующим императрицам"
- qing.8.t:0 "Встреча с Гуонгом"
- qing.8.d:0 "Частное послание было передано принцу Гонгу, когда он пробирается из палат совета в свою комнату. Послание умоляет его низложить нелегитимный совет и поддержать императрицу Цыси и императрицу Циан. В качестве регента принц Гонг теперь должен выбирать между партией Сушанов, с одной стороны, и императорской семьей, с другой"
- qing.8.a:0 "Сторона с Цыси"
- qing.8.b:0 "Встать на сторону Совета"
- qing.9.t:0 "Сушан обнаружил попытку переворота"
- qing.10.t:0 "Основание армии нового образца"
- qing.11.t:0 "Основание местных армий"
- qing.11.a:0 "Совершенный"
- qing.13.t:0 "Смерть Тунчжи"
- qing.13.d:0 "Процарствовав всего несколько лет, молодой император Тунчжи умер. Умерев от оспы, он не оставил сыновей, которые могли бы ему наследовать. Теперь императорский двор должен искать нового императора, достойного трона".
- qing.13.a:0 "Ок"
- qing.13.b:0 "Еще один молодой император умирает?"
- qing.16.t:0 "Вспышка северного голода"
- qing.17.t:0 "Основание Общества Больших Мечей"
- qing.18.t:0 "Результаты лечения"
- qing.18.d:0 "Лечение стабилизировало состояние Регента, и они, кажется, выздоравливают"
- qing.22.t:0 "Павильон пурпурного света"
- qing.23.t:0 "Судьба Цыси"
- qing.24.t:0 "Судьба Сиань"
- qing.25.t:0 "Конец регентства"
- qing.26.t:0 "Конец регентства"
- qing_reb.1.t:0 "Восстание армии Белого Хао"
- qing_reb.2.t:0 "Восстание Шуньтянь"
- qing_reb.3.t:0 "Восстание Тяньшунь"
- qing_reb.4.t:0 "2-е Тяньшуньское восстание"
- qing_reb.5.t:0 "3-е Тяньшуньское восстание"
- qing_reb.6.t:0 "Потеря Нанкина"
- qing_reb.6.d:0 "Войска Цин вошли в нашу столицу и изгнали нас, наш великий лидер Хун Сицюань погиб во время осады, и теперь его сын Хун Таинфу возглавляет страну. Ребенок, который еще слишком мал, чтобы править, и теперь будет находиться под регентством".
- qing_reb.6.a:0 "Мы можем только надеяться, что сможем вернуть наши земли".
- qing_reb.7.t:0 "Восстание Пугунхуэй"
- qing_reb.8.t:0 "Восстание Бай Линга"
- qing_reb.9.t:0 "Восстание Ма"
- qing_reb.10.t:0 "Восстание Ма в Нинся"
- qing_reb.11.t:0 "Восстание Ма"
- qing_reb.12.t:0 "Восстание Ма в Цзюцюане"
- qing_reb.13.t:0 "Восстание Гэлаохуэй"
- qing_reb.14.t:0 "Восстание Хуэй"
- qing_reb.15.t:0 "Восстание дунган"
- qing_reb.16.t:0 "Восстание Ма Чжэньлуна"
- qing_reb.17.t:0 "Мы разбиты вдребезги"
- qing_reb.17.d:0 "Мятежники захватили столицу, вынудив нас бежать на север, а один даже зашел так далеко, что объявил себя лжеимператором. Теперь группы этих непокорных толп объявляют себя независимыми от нашего законного правления."
- qing_reb.17.a:0 "Мы вернемся и вновь займем наш законный трон".
- qing_reb.18.t:0 "Мин объявляет нас вассалом"
- qing_reb.18.d:0 "Один из наших союзников по восстанию объявил себя новой империей Мин и прислал посланника, объявляющего нас под их властью. Как мы ответим?"
- qing_reb.18.a:0 "Мы всегда были верны Мин".
- qing_reb.18.b:0 "Возмутительно"
- qing_reb.19.t:0 "Крах империи Цин"
- qing_reb.19.d:0 "Ранее сегодня силы повстанцев захватили Пекин и вынудили правительство Цин отправиться в изгнание на север. Тибетцы и монголы также воспользовались шансом и провозгласили независимость. Новый император, [new_QNG_emperor.GetLeader] завладели мандатом и стремятся закрепить свое господство в других регионах Китая, покоряя тех, кто отказывается подчиниться новой империи."
- qing_reb.19.d_a:0 "Империя наша, маньчжуры Цин были изгнаны туда, где им место, и большая часть империи наша. Однако все еще есть те, кто бросает вызов нашему правлению над Китаем, и они должны быть поставлены на колени."
- qing_reb.19.a:0 "Наше время пришло".
- qing_reb.19.b:0 "Проклятие лжеимператору".
- qing_reb.19.c:0 "Один Китай похож на другой"
- qing_reb.20.t:0 "Разбирательство с Ши Дакаем"
- qing_reb.20.d:0 "Ши Дакай - один из наших величайших полководцев, но Небесный Царь Хун Сюцюань стал относиться к нему с подозрением. Небесный король приказал "
- qing_reb.22.t:0 "[From.GetName] Требует дань"
- qing_reb.22.d:0 ""
- qing_reb.22.a:0 "Согласен"
- qing_reb.22.b:0 "Отказаться"
- qing_reb.25.t:0 "[From.GetName] предлагает порт для нашей поддержки"
- qing_reb.25.d:0 "Благодаря недавно полученному порту Шанхай прибыл посланник из мятежного государства [From.GetName]. Они предлагают нам торговый порт в Шанхае и выгодные торговые сделки за нашу поддержку в их войне. как мы должны ответить".
- qing_reb.25.a:0 "Отправить"
- qing_reb.25.b:0 "Мы предпочитаем Цин"
- qing_reb.26.t: "[From.GetName] принимает предложение"
- qing_reb.27.t: "[From.GetName] отклоняет предложение"
- qing_reb.29.t: "Ударный Шанхай"
- qing_reb.33.t: "Захвачен тайник с оборудованием"
- qing_reb.33.d: "Наши силы захватили тайник с оборудованием противника, вооружившись находящимся в нем оборудованием".
- qing_reb.33.a: "Отлично"
- qing_reb.34.t: "[From.GetName] запрашивает распознавание"
- qing_reb.35.t: "Превращение мечты в реальность"
- qing_reb.36.t: "[From.GetName] посылает делегацию"
- qing_reb.37.t: "Объединение Тразоксианы"
- qing_reb.38.t: "Стиль имперского воспитания"
- qing_reb.38.a: "Назначить лояльных воспитателей"
- qing_reb.38.b: "Продолжать следовать конфуцианским идеалам"
- qing_reb.38.c: "Нанимать современных учителей"
- qing_reb.40.t: "Разрушить Китай"
- qing_reb.40.a: "Разбить Китай"
- qing_reb.40.b: "Пока оставить все как есть"
- qing_reb.41.t: "[From.GetName] отказывается от союза"
- qing_reb.42.t: "[From.GetName] соглашается на союз"
- qing_reb.45.t: "[From.GetName] требует независимости"
- qing_reb.46.t: "Багуахуи предлагает договор"
- qing_reb.46.a: "Принять"
- qing_reb.46.b: "Отклонить"
- qing_reb.47.t: "Гаошань принимает"
- qing_reb.48.t: "Гаошань отказывается"
- qing_reb.49.t: "Объединение Тайваня"
-
+  
+ 	######################################################################################## 
+ 	######################################################################################## 
+ 	##################################### EVENTS ########################################### 
+ 	######################################################################################## 
+ 	######################################################################################## 
+  
+ qing.1.t: "The Mudan Incident" #NT!
+ qing.1.d: "The Japanese have landed in Taiwan, in an expedition in retaliation for the murder of Ryukyuan sailors by the Paiwan aborigines of South Taiwan. Their astounding success shocked us, and has revealed to the world our weak hold over Taiwan." #NT!
+ qing.1.a: "Damn those Japanese!" #NT!
+ qing.2.t: "A Trade of Ironclads" #NT!
+ qing.2.d: "We have decided to buy ironclads from foreign powers in order to bolster our naval strength. However, a trade like this will be costly and unlikely to be accepted, so we must choose our trade partner wisely. With whom shall we trade?" #NT!
+ qing.2.a: "The USA!" #NT!
+ qing.2.b: "Prussia!" #NT!
+ qing.2.c: "France!" #NT!
+ qing.2.h: "Great Britain!" #NT!
+ qing.3.t: "An Official Flag" #NT!
+ qing.3.d: "Your Majesty, it has lately come to our attention that a lack of a proper official flag for our nation has made our encounters with foreigners difficult. Already a few years ago, a Chinese ship the Weseners called \"HMS Arrow\", was forced to fly the British flag due to us not having any flag. This led to us capturing the ship, but due to it flying the British flag, we gave the British an excuse to attack us. In order to avoid such a misunderstanding in the future we should adopt a national flag according to Western designs. It has been proposed that our new flag will be triangular in order to avoid any confusion with the Eigth Banners rectangular flags. The flag will feature the traditional symbols of Your Majesty, the Five-clawed Dragon and the Flaming Pearl." #NT!
+ qing.3.a: "What a lovely flag" #NT!
+ qing.3: "Changes the §YChinese§! flag." #NT!
+ qing.4.t: "The Residence of Lee Teng-Fan" #NT!
+ qing.4.d: "We have received word of a large and beautiful new estate that has completed its construction in the Daxi District of Taoyuan, Taiwan. Lee Teng-Fan, the residence's owner, is a Fuzhounese Hakka merchant originally from Zhangzhou who, due to his prosperous rice grain trading business called Jinxing, was thereby recommended by the local Taiwanese government to Emperor Xianfeng. Accordingly, Lee began construction of his residence in 1860 under Imperial blessing, and has now finished his work this year. \n\nThe residence has been built in the traditional Hakka style, consisting of two main rooms and four side buildings, guarded by a semi-circular pool and a whitewashed wall of mud brick. It is certain that this residence will soon become the jewel of Taoyuan city for many years to come." #NT!
+ qing.4.a: "What a marvelous estate!" #NT!
+ qing.5.t: "The Self Strengthening Idea" #NT!
+ qing.5.d: "An idea has been circulating amongst the bureacracy, a idea of a Self Strengthening Movement. A series of reforms on industrialistions to primarily improve the army in order to counter the threat of the UK" #NT!
+ qing.5.a: "Let us adopt this idea" #NT!
+ qing.6.t: "The Death of Xianfeng" #NT!
+ qing.6.d: "This morning the Great Emperor of China, Xianfeng, died from complications as a consequence of smallpox. The new emperor, Tainfeng, is only 6 years old, and a rengency council assigned by Xianfeng before his death is put in power. However, the Emperor's windows seem to be gaining power in the background." #NT!
+ qing.6.a: "A great loss for China" #NT!
+ qing.7.t: "The Xinyou Coup" #NT!
+ qing.7.d: "In a Surprising Series of events, Prince Gong, a influencial member of the imperial family has backed a Coup by the Dowager Emperesess to size power from the Council of regents. Spearheaded by Emperess Cixi, the imperial court is now under her sway. the Members of Sushans council now await their fates in the Dungeons." #NT!
+ qing.7.a: "Glory to the Dowager Empresses" #NT!
+ qing.8.t: "A meeting with Gong" #NT!
+ qing.8.d: "A private message has been passed to Prince Gong as he makes his way from the council chambers to his room. The message pleds with him to depose the illegitimate council and support Empress Cixi and Empress Ci'an in the joint roles as regent Prince Gong now has to choose between Sushans party on one hand, and the imperial Family on the other" #NT!
+ qing.8.a: "Side with Cixi" #NT!
+ qing.8.b: "Side with the Council" #NT!
+ qing.9.t: "Sushan Discovers a Coup attempt" #NT!
+ qing.10.t: "Founding a New Standard Army" #NT!
+ qing.11.t: "Founding Local Armies" #NT!
+ qing.11.a: "Perfect" #NT!
+ qing.13.t: "Death of Tongzhi" #NT!
+ qing.13.d: "After ruling for only a few years, the young Tongzhi Emperor is dead. Dying after suffering from Smallpox he left no sons to succed him. The imperial court must now scramble to find a new emperor worthy of the throne." #NT!
+ qing.13.a: "ok" #NT!
+ qing.13.b: "Another Young Emperor Dies?" #NT!
+ qing.16.t: "Outbreak of the Northern Famine" #NT!
+ qing.17.t: "Founding of the Big Swords Society" #NT!
+ qing.18.t: "Results of the Treatment" #NT!
+ qing.18.d: "The treatment has stabilised the Regent and they seem to be recovering" #NT!
+ qing.22.t: "Pavilion of Purple Light" #NT!
+ qing.23.t: "The Fate of Cixi" #NT!
+ qing.24.t: "The Fate of Ci'an" #NT!
+ qing.25.t: "End of the Regency" #NT!
+ qing.26.t: "End of the Regency" #NT!
+ qing_reb.1.t: "White Hao Army Revolts" #NT!
+ qing_reb.2.t: "Shuntian Revolt" #NT!
+ qing_reb.3.t: "Tianshun Revolt" #NT!
+ qing_reb.4.t: "2nd Tianshun revolt" #NT!
+ qing_reb.5.t: "3rd Tianshun Revolt" #NT!
+ qing_reb.6.t: "Loss of Nanjing" #NT!
+ qing_reb.6.d: "The Troops of Qing have marched into our capital and have driven us out, Our great leader Hong Xiquan, has died during the seige and now his son Hong Tainfu is in charge. A child who is far to young to rule and will now be under a regency" #NT!
+ qing_reb.6.a: "We can only hope we can regain our land" #NT!
+ qing_reb.7.t: "Pugunhui Revolt" #NT!
+ qing_reb.8.t: "Bai Linga Revolt" #NT!
+ qing_reb.9.t: "Ma Revolt" #NT!
+ qing_reb.10.t: "Ma Revolt in Ningxia" #NT!
+ qing_reb.11.t: "Ma Revolt" #NT!
+ qing_reb.12.t: "Ma Revolt in Jiuquan" #NT!
+ qing_reb.13.t: "Gelaohui revolt" #NT!
+ qing_reb.14.t: "Hui revolt" #NT!
+ qing_reb.15.t: "Dungan revolt" #NT!
+ qing_reb.16.t: "Ma Zhenlong revolt" #NT!
+ qing_reb.17.t: "We are Shattered" #NT!
+ qing_reb.17.d: "The Rebels have taken the capital forcing us to flee to the north, with one even going so far has declaring themselves a false emperor. Now, groups of these unruly mobs are declaring themselves independent from our rightful rule." #NT!
+ qing_reb.17.a: "We will return and retake our rightful throne" #NT!
+ qing_reb.18.t: "Ming Declares us a Vassal" #NT!
+ qing_reb.18.d: "One of our rebellion allies has declared themselves the new Ming Empire, and has sent a envoy declaring us under their rule. How do we respond?" #NT!
+ qing_reb.18.a: "We have always been loyal to the Ming" #NT!
+ qing_reb.18.b: "Outrageous" #NT!
+ qing_reb.19.t: "Collapse of the Qing Empire" #NT!
+ qing_reb.19.d: "Earlier today, rebel forces seized Bejing and forced the Qing Government into exile in the north. The Tibetians and Mongolians have taken also taken a chance and declared independence. The new Emperor, [new_QNG_emperor.GetLeader] has claimed the mandate for themselves and looks to cement their rule among the other regions of China, subduing those who refuse to kowtow to the new empire." #NT!
+ qing_reb.19.d_a: "The Empire is ours, the Manchu Qing have been driven back to where they belong and the majority of the empire is ours. However there are still those who defy our rule over China and they must be brought to their knees." #NT!
+ qing_reb.19.a: "Our time is now" #NT!
+ qing_reb.19.b: "Curse the False Emperor" #NT!
+ qing_reb.19.c: "One China is like Another" #NT!
+ qing_reb.20.t: "Dealing with Shi Dakai" #NT!
+ qing_reb.20.d: "Shi Dakai is one of our greatest commanders, but the Heavenly King, Hong Xiuquan has increasing grown suspious of him. The Heavenly King has ordered " #NT!
+ qing_reb.22.t: "[From.GetName] Demands Tribute" #NT!
+ qing_reb.22.d: "" #NT!
+ qing_reb.22.a: "Agree" #NT!
+ qing_reb.22.b: "Refuse" #NT!
+ qing_reb.25.t: "[From.GetName] offers a port for our support" #NT!
+ qing_reb.25.d: "Thanks to the newly obtained port of shanghai, an Envoy from the rebellious state of [From.GetName] has arrived. They are offering us a trade port in shanghai and favorable trade deals for our support in their war. how should we respond" #NT!
+ qing_reb.25.a: "Send it" #NT!
+ qing_reb.25.b: "We prefer Qing" #NT!
+ qing_reb.26.t: "[From.GetName] accepts the offer" #NT!
+ qing_reb.27.t: "[From.GetName] rejects the offer" #NT!
+ qing_reb.29.t: "Striking Shanghai" #NT!
+ qing_reb.33.t: "Equipment Cache Captured" #NT!
+ qing_reb.33.d: "Our Forces have captured a Enemy Equipment Cache, Arming themselves with the Equipment inside." #NT!
+ qing_reb.33.a: "Great" #NT!
+ qing_reb.34.t: "[From.GetName] requests Recognition" #NT!
+ qing_reb.35.t: "Making Dreams a Reality" #NT!
+ qing_reb.36.t: "[From.GetName] sends a Delegation" #NT!
+ qing_reb.37.t: "Unification of Trasoxiana" #NT!
+ qing_reb.38.t: "A Style of Imperial Education" #NT!
+ qing_reb.38.a: "Appoint Loyal Educators" #NT!
+ qing_reb.38.b: "Continue with Confucian ideals" #NT!
+ qing_reb.38.c: "Employ modern Teachers" #NT!
+ qing_reb.40.t: "Breaking China" #NT!
+ qing_reb.40.a: "Shatter China" #NT!
+ qing_reb.40.b: "Leave it be for now" #NT!
+ qing_reb.41.t: "[From.GetName] refuses the union" #NT!
+ qing_reb.42.t: "[From.GetName] agrees to the union" #NT!
+ qing_reb.45.t: "[From.GetName] Demands Independence" #NT!
+ qing_reb.46.t: "Baguahui offers a treaty" #NT!
+ qing_reb.46.a: "Accept" #NT!
+ qing_reb.46.b: "Decline" #NT!
+ qing_reb.47.t: "Gaoshan Accepts" #NT!
+ qing_reb.48.t: "Gaoshan Declines" #NT!
+ qing_reb.49.t: "Unifaction of Taiwan" #NT!
+  
  qing.501.t: "Creation of the Chinese Engineering and Mining Company" #NT!
  qing.501.a: "Accept" #NT!
  qing.502.t: "Foundation of the Kaiping Mines" #NT!
  qing.502.a: "Accept" #NT!
-
- QNG_rebel_uprising:0 "Восстание повстанцев".
- QNG_rebel_uprising_lost:0 "Дух повстанцев потерпел неудачу"
- QNG_idea_nian_cavalry:0 "Нианская кавалерия"
-
-	######################################################################################## #NT!
-	######################################################################################## #NT!
-	#################################### TOOLTIP ########################################### #NT!
-	######################################################################################## #NT!
-	######################################################################################## #NT!
-
-QNG_Form_Nanyang_Fleet_tooltip:0 "§YНаньянский флот будет сформирован в Шанхае§!"
-QNG_Form_Beiyang_Fleet_tooltip:0 "§YБэйянский флот будет сформирован в Вэйхайвэе§!"
-QNG_Nanyang_Fleet_Expansion_tooltip:0 "§YФлот Наньяна будет расширен за счет судов с верфи Цзяннань§!"
-QNG_Gunboat_Trade_tooltip:0 "§YБэйянский и Наньянский флоты будут обмениваться канонерскими лодками§!"
-QNG_Industry_tooltip:0 "§YМы начнем рассматривать нашу отрасль§!"
-QNG_PTH_yunnan_peace:0 "Победа Пантая"
-EOANB_cant_call_autonomus_navies:0 "Является флотом автономии"
-
-QNG_focus_construct_the_fuzhou_navy_shipyard_tt: "§Y[ROOT.GetNameWithFlag]§! unlocks company partnership §YFoochow Arsenal§!" #NT!
-QNG_focus_chinese_engineer_and_mining_company_tt: "§Y[ROOT.GetNameWithFlag]§! unlocks company partnership §YChinese Engineering and Mining Company§!" #NT!
-
-QNG_Tongzhi_emperor_name:0 "Император Тунчжи"
-QNG_Guangxu_Emperor_name:0 "Император Гуансюй"
-QNG_insulting_audience:0 "Оскорбительная аудитория"
-
-	######################################################################################## #NT!
-	######################################################################################## #NT!
-	#################################### FOCUSES ########################################### #NT!
-	######################################################################################## #NT!
-	######################################################################################## #NT!
-
-QNG_focus_xianfeng_unlucky_reign:0 "Xianfeng's Unlucky Reign" #NT!
-QNG_focus_internal_threat_crisis:0 "Internal Threat Crisis" #NT!
-QNG_focus_reorganise_the_banner_armies:0 "Reorganize the Banner Armies" #NT!
-QNG_focus_reform_the_xiang_armies:0 "Reform the Xiang Armies" #NT!
-QNG_focus_reorganize_the_xiang_armies:0 "Reorganize the Xiang Armies" #NT!
-QNG_focus_traditional_xiang_armies:0 "Traditional Xiang Armies" #NT!
-QNG_focus_stick_to_traditions:0 "Stick to Tradition" #NT!
-QNG_focus_decisive_qing_battles:0 "Decisive Qing Battles" #NT!
-QNG_focus_pacify_the_bandit_rebels:0 "Pacify the Bandit Rebels" #NT!
-QNG_focus_council_takeover:0 "Council Takeover" #NT!
-QNG_focus_prepare_for_the_opium_war:0 "Prepare for the Opium Wars" #NT!
-QNG_focus_prepare_taku_fort_cannons:0 "Fortify Tianjin" #NT!
-QNG_focus_fortify_canton:0 "Fortify Canton" #NT!
-QNG_focus_use_local_provincial_armies:0 "Use Imperial Armies" #NT!
-QNG_focus_victory_of_the_second_opium_war:0 "Victory of the Second Opium War" #NT!
-QNG_focus_an_end_to_qing_crisis:0 "An End to Qing Crisis" #NT!
-QNG_focus_xianfengs_decade_of_reigning:0 "Xianfeng's Decade of Reigning" #NT!
-QNG_focus_defeat_of_the_second_opium_war:0 "Defeat of the Second Opium War" #NT!
-QNG_focus_break_the_treaty_of_tientsin:0 "Break the Treaty of Tientsin" #NT!
-QNG_focus_defeat_from_the_west_again:0 "Defeat from the West again..." #NT!
-QNG_focus_honor_the_treaty_of_tientsin:0 "Honor the Treaty of Tientsin" #NT!
-
-QNG_focus_self_strenthening_movement:0 "Self Strengthening Movement" #NT!
-QNG_focus_advocate_western_army_reforms:0 "Advocate Western Army Reforms" #NT!
-QNG_focus_cave_in_to_the_west:0 "Cave in to the West" #NT!
-QNG_focus_chonghou_training_guideline:0 "Chonghou Training Guidelines" #NT!
-QNG_focus_reshuffle_the_armies:0 "Reshuffle the Armies" #NT!
-QNG_focus_purchase_foreign_weapons:0 "Purchase Foreign Weapons" #NT!
-QNG_focus_disband_the_xiang_armies:0 "Disband the Xiang Armies" #NT!
-QNG_focus_yong_ying_system:0 "Yong Ying System" #NT!
-QNG_focus_form_the_huai_army:0 "Form the Huai Army" #NT!
-QNG_focus_reduce_green_standard_forces:0 "Reduce Green Standard Forces" #NT!
-QNG_focus_train_the_shenji_ying:0 "Train the Shenji Ying" #NT!
-QNG_focus_merge_li_armies:0 "Merge Li's Armies" #NT!
-QNG_focus_expand_foreign_arms_purchase:0 "Expand Foreign Arms Purchase" #NT!
-QNG_focus_regular_importation_of_western_guns:0 "Regular Importation of Western Guns" #NT!
-QNG_focus_regular_importation_of_artillery:0 "Regular Importation of Artillery" #NT!
-QNG_focus_invite_western_Advisors:0 "Invite Western Advisors" #NT!
-QNG_focus_expand_military_advisors:0 "Expand Military Advisors" #NT!
-QNG_focus_education_mission_to_the_us:0 "Education Mission to the US" #NT!
-QNG_focus_tianjin_military_academy:0 "Tianjin Military Academy" #NT!
-QNG_focus_efficient_western_training:0 "Efficient Western Training" #NT!
-QNG_focus_zongli_yamen:0 "Zongli Yamen" #NT!
-QNG_focus_tongwen_guan:0 "Tongwen Guan" #NT!
-QNG_focus_send_young_scholars_overseas:0 "Send Young Scholars Overseas" #NT!
-QNG_focus_imperial_maritime_cstuoms_service:0 "Imperial Maritime Customs Service" #NT!
-QNG_focus_china_merchants_steam_navigation_company:0 "China Merchants Steam Navigation Company" #NT!
-QNG_focus_expand_the_imperial_examination:0 "Expand the Imperial Examination" #NT!
-QNG_focus_imperial_chinese_telegraph_administration:0 "Imperial Chinese Telegraph Administration" #NT!
-QNG_focus_construct_the_wuhan_university:0 "Construct the Wuhan University" #NT!
-QNG_focus_build_the_naval_fleet:0 "Build the Naval Fleet" #NT!
-QNG_focus_acquire_steamships:0 "Acquire Steamships" #NT!
-QNG_focus_strengthen_the_fujian_fleet:0 "Strengthen the Fuijan Fleet" #NT!
-QNG_focus_tianjin_naval_academy:0 "Tianjin Naval Academy" #NT!
-QNG_focus_form_the_guangdong_fleet:0 "Form the Guandong Fleet" #NT!
-QNG_focus_send_admirals_overseas_for_study:0 "Send Admirals Overseas for Study" #NT!
-QNG_focus_form_the_nanyang_fleet:0 "Form the Nanyang Fleet" #NT!
-QNG_focus_expand_the_nanyang_fleet:0 "Expand the Nanyang Fleet" #NT!
-QNG_focus_form_the_beiyang_fleet:0 "Form the Beiyang Fleet" #NT!
-QNG_focus_expand_the_beiyang_fleet:0 "Expand the Beiyand Fleet" #NT!
-QNG_focus_the_imperial_navy:0 "The Imperial Navy" #NT!
-QNG_focus_restore_national_facilities:0 "Restore National Facilities" #NT!
-QNG_focus_rural_tax_reduction:0 "Rural Tax Reduction" #NT!
-QNG_focus_abolish_tax_on_agarian_products:0 "Abolish Tax on Agrarian Products" #NT!
-QNG_focus_import_western_machinery:0 "Import Western Machinery" #NT!
-QNG_focus_restore_irrigation_networks:0 "Restore Irrigation Networks" #NT!
-QNG_focus_prepare_for_industralisation:0 "Prepare for Industrialisation" #NT!
-QNG_focus_construct_the_fuzhou_navy_shipyard:0 "Construct the Fuzhou Naval Shipyard" #NT!
-QNG_focus_jiangnan_dockyard:0 "Jiangnan Dockyard" #NT!
-QNG_focus_expansion_of_the_jiangnan_dockyard:0 "Expansion of the Jiangnan Dockyard" #NT!
-QNG_focus_expansion_of_the_fuzhou_navy_shipyard:0 "Expansion of the Fuzhou Naval Shipyard" #NT!
-QNG_focus_beiyang_navy_shipyard:0 "Beiyand Naval Shipyard" #NT!
-QNG_focus_finish_expansion_of_fuzhou_navy_shipyard:0 "Finish Expansion of Fuzhou Naval Shipyard" #NT!
-QNG_focus_anqing_arsenal:0 "Anqing Arsenal" #NT!
-QNG_focus_jiangnan_arsenal:0 "Jiangnan Arsenal" #NT!
-QNG_focus_shanghai_arsenal:0 "Shanghai Arsenal" #NT!
-QNG_focus_tianjin_arsenal:0 "Tianjin Arsenal" #NT!
-QNG_focus_build_the_jingling_arsenal:0 "Build the Jingling Arsenal" #NT!
-QNG_focus_hanyang_arsenal:0 "Hanyang Arsenal" #NT!
-QNG_focus_ningbo_arsenal:0 "Ningbo Arsenal" #NT!
-QNG_focus_lanzhou_factory:0 "Lanzhou Factory" #NT!
-QNG_focus_expand_the_jiangnan_arsenal:0 "Expand the Jiangnan Arsenal" #NT!
-QNG_focus_anqing_machine_factory:0 "Anqing Machine Factory" #NT!
-QNG_focus_jingling_machine_factory:0 "Jingling Machine Factory" #NT!
-QNG_focus_xi_an_machine_factory:0 "Xi'an Machine Factory" #NT!
-QNG_focus_beiyang_machine_factory:0 "Beiyang Machine Factory" #NT!
-QNG_focus_lanzhou_fabric_Factory:0 "Lanzhou Fabric Factory" #NT!
-QNG_focus_hubei_fabric_factory:0 "Hubei Fabric Factory" #NT!
-QNG_focus_chinese_engineer_and_mining_company:0 "Chinese Engineer and Mining Company" #NT!
-QNG_focus_kaiping_mines:0 "Kaiping Mines" #NT!
-QNG_focus_keelung_coal_mine:0 "Keelung Coal Mine" #NT!
-QNG_focus_hubei_textile_company:0 "Hubei Textile Company" #NT!
-QNG_focus_shanghai_cotton_mill:0 "Shanghai Cotton Mill" #NT!
-QNG_focus_guizhou_ironworks:0 "Guizhou Ironworks" #NT!
-QNG_focus_mo_ho_gold_mining_company:0 "Mo Ho Gold Mining Company" #NT!
-QNG_focus_hanyang_ironworks:0 "Hanyang Ironworks" #NT!
-QNG_focus_ta_yeh_ironmines:0 "Ta Yeh Ironmines" #NT!
-QNG_focus_ping_hsiang_coal_mines:0 "Ping Hsiang Coal Mines" #NT!
-
-
-QNG_gxu_issue_of_famine:0 "Проблема голода"
-QNG_gxu_rasing_relief_funds:0 "Увеличение фондов помощи"
-QNG_gxu_gaining_foreign_aid:0 "Получение иностранной помощи"
-QNG_gxu_deploy_relief_shanxi:0 "Развертывание помощи в Шаньси"
-QNG_gxu_increase_relief_shanxi:0 "Увеличить помощь Шаньси"
-QNG_gxu_complete_relief_shanxi:0 "Завершить оказание помощи Шаньси"
-QNG_gxu_deploy_relief_zhili:0 "Развернуть помощь в Чжили"
-QNG_gxu_increase_relief_zhili:0 "Увеличить помощь Чжили"
-QNG_gxu_complete_relief_zhili:0 "Завершить помощь Чжили"
-QNG_gxu_deploy_relief_henan:0 "Развернуть помощь в Хэнань"
-QNG_gxu_increase_relief_henan:0 "Увеличить помощь Хэнани".
-QNG_gxu_complete_relief_henan:0 "Завершить помощь Хэнани".
-QNG_gxu_deploy_relief_shandong:0 "Развернуть помощь в Шаньдун"
-QNG_gxu_increase_relief_shandong:0 "Увеличить помощь Шаньдуну"
-QNG_gxu_complete_relief_shandong:0 "Завершить помощь Шаньдуну"
-QNG_gxu_deploy_relief_jiangsu:0 "Развернуть помощь в Цзянсу"
-QNG_gxu_increase_relief_jiangsu:0 "Увеличить помощь Цзянсу"
-QNG_gxu_complete_relief_jiangsu:0 "Завершить помощь Цзянсу"
-QNG_gxu_mitigating_effects:0 "Смягчение последствий"
-QNG_gxu_self_strengthing_movement:0 "Движение самоукрепления"
-QNG_gxu_begin_wuxu_reforms:0 "Начать реформы Уксу"
-QNG_gxu_end_of_rengency:0 "Конец регентства"
-QNG_gxu_power_in_our_hands:0 "Сила в наших руках"
-QNG_gxu_guizhou_ironworks:0 "Железные заводы Гуйчжоу"
-QNG_gxu_hubei_textiles:0 "Текстиль Хубэй"
-QNG_gxu_hanyang_ironworks:0 "Железные заводы Ханьяна"
-QNG_gxu_ta-yeh_iron:0 "Железные рудники Та-Йех"
-QNG_gxu_ping-hsiang_coal_mines:0 "Угольные шахты Пинг-Хсианг"
-QNG_gxu_subsidize_private_industry:0 "Субсидировать частную промышленность"
-QNG_gxu_preparing_a_education:0 "Подготовка к образованию"
-QNG_gxu_expanding_navy:0 "Расширение нашего флота"
-QNG_gxu_beijang_navy:0 "Финансирование флота Бейджан"
-QNG_gxu_overseas_training:0 "Обучение за рубежом"
-QNG_gxu_study_ENG_navy:0 "Изучение британского флота"
-QNG_gxu_study_FRA_navy:0 "Изучать французский флот"
-QNG_gxu_tianjin_naval_academy:0 "Основать Тяньцзиньскую военно-морскую академию"
-QNG_gxu_establish_naval_board:0 "Учредить военно-морской совет"
-QNG_dealing_mudan_incident:0 "Устранение последствий инцидента в Мудане"
-QNG_preparing_end_regency:0 "Подготовка к завершению регентства"
-QNG_preparing_end_regency_desc:0 "Император Тончжи наконец готов править от своего имени, пришло время закончить это регентство."
-QNG_corruption_to_advantage:0 "Использование коррупции в наших интересах"
-QNG_council_fortify_position:0 "Укрепление позиции Совета"
-QNG_reorganizing_bureaucracy:0 "Реорганизация бюрократии"
-QNG_strengthing_sushans_party:0 "Укрепление партии Сушан"
-QNG_building_on_sushans_plan:0 "Строительство по плану Сушанса"
-QNG_a_plot_reveled:0 "Участок возрожден"
-QNG_council_fortify_country:0 "Укрепление страны"
-QNG_purging_empresses_support:0 "Очищение поддержки императриц"
-QNG_fate_of_cixi:0 "Судьба Цыси"
-QNG_fate_of_cian:0 "Судьба Цианя"
-QNG_purging_empresses_support:0 "Очищение поддержки императриц"
-QNG_request_for_audience:0 "Просьба об аудиенции"
-QNG_pavilion_purple_light:0 "Павильон пурпурного света"
-QNG_splendor_of_the_emperor:0 "Великолепие императора"
-QNG_putting_westerners_in_place:0 "Ставить западных людей на место"
-QNG_Self_Strengthening_Movement:0 "Самоукрепляющееся движение"
-QNG_Self_Strengthening_Movement_desc:0 "С британской и французской армиями, грабящими и сжигающими Старый Летний дворец, и приближающимися повстанцами Тайпин, мы были вынуждены признать кризис, нам нужно вестернизироваться."
-QNG_The_Imperial_Navy:0 "Императорский флот"
-QNG_The_Imperial_Navy_desc:0 "Мы должны возродить пути Великого Минга! Мы должны возродить Императорский флот! Мы должны господствовать на морях! Мы должны создать Наньянский и Бэйянский флоты! Мы должны укрепить флот!"
-QNG_The_Foochow_Arsenal:0 "Арсенал Фучоу"
-QNG_The_Foochow_Arsenal_desc:0 "Чтобы хватило для большего флота, мы должны нанять иностранных архитекторов, чтобы помочь построить более западную верфь, а количество рабочих увеличится примерно до двух тысяч для строительства такого большого объекта."
-QNG_Foochow_Shipbuilding_Institution:0 "Судостроительный институт Фучоу"
-QNG_Foochow_Shipbuilding_Institution_desc:0 "Наряду с Арсеналом и верфями, также создается школа морской инженерии и навигации, все это будет сделано в течение пяти лет".
-QNG_Mawei_Shipyard:0 "Верфь Мавэй"
-QNG_Mawei_Shipyard_desc:0 "Рядом с верфью Фучоу будет построена верфь Мавэй, но она будет меньшего размера и с меньшим количеством рабочих, так как предназначена быть портом для небольших судов и торговли."
-QNG_Hire_Foreign_Teachers:0 "Нанять иностранных учителей".
-QNG_Hire_Foreign_Teachers_desc:0 "Чтобы обеспечить нашу школу морской техники и навигационную школу преподавателями, мы собираемся нанять группу из ста иностранных преподавателей, из разных групп, в основном из Франции и Великобритании."
-QNG_Bright_Young_Sailors:0 "Яркие молодые моряки"
-QNG_Bright_Young_Sailors_desc:0 "С иностранными учителями, обучающими наших моряков, они были улучшены в десять раз, с реформированной тактикой и мастерством, теперь они могут самостоятельно противостоять иностранному мастерству."
-QNG_Build_Wooden_Gunboats:0 "Построить деревянные артиллерийские корабли".
-QNG_Build_Wooden_Gunboats_desc:0 "С реформированием моряков и созданием верфей, мы теперь можем начать производство деревянных артиллерийских лодок, являющихся основным производством верфей, так как они находятся в лесной зоне."
-QNG_Form_the_Fujian_Fleet:0 "Сформировать Фуцзяньский флот".
-QNG_Form_the_Fujian_Fleet_desc:0 "Построив достаточно деревянных канонерских лодок, мы можем теперь формализовать Фуцзяньский флот; второй по слабости из четырех, он будет иметь штаб-квартиру и гарнизон в городе Фуцзянь."
-QNG_Buy_Foreign_Steamers:0 "Купить иностранные пароходы"
-QNG_Buy_Foreign_Steamers_desc:0 "Хотя мы и не любим запад, но для развития нашего флота мы должны купить ранние пароходы у Британии. Семь британских пароходов будут куплены, и две британские канонерские лодки также будут приобретены."
-QNG_The_Guangdong_Fleet:0 "Гуандунский флот"
-QNG_The_Guangdong_Fleet_desc:0 "После недавнего приобретения пароходов у британцев, мы теперь можем официально оформить создание Гуандунского флота в Шаньтоу и со штаб-квартирой в городе Гуанчжоу".
-QNG_German_Torpedo_Boats:0 "Немецкие торпедные катера"
-QNG_The_Japanese_in_Taiwan:0 "Японцы на Тайване"
-QNG_Form_the_Beiyang_Fleet:0 "Формирование флота Бэйян"
-QNG_Form_the_Beiyang_Fleet_desc:0 "Теперь, после приобретения канонерских лодок и других кораблей, мы можем создать северный флот с гарнизоном и штаб-квартирой в городе Вэйхайвэй, он состоит из множества стальных канонерских лодок и других небольших кораблей."
-QNG_Form_the_Nanyang_Fleet:0 "Сформировать Наньянский флот".
-QNG_Form_the_Nanyang_Fleet_desc:0 "После недавнего приобретения новых и более современных канонерских лодок и других кораблей, мы теперь можем официально оформить создание флота Наньян в Шанхае, а также разместить штаб-квартиру в Шанхае."
-QNG_Boats_from_Jiangnan:0 "Лодки из Цзяннаня"
-QNG_Boats_from_Jiangnan_desc:0 "После формализации Наньянского флота, многие корабли были взяты с верфей Цзяннаня. Четыре деревянные канонерские лодки и один деревянный паровой фрегат были добавлены к флоту."
-QNG_Foreign_Ironclads:0 "Иностранные броненосцы"
-QNG_Foreign_Ironclads_desc:0 "Чтобы усилить мощь флота Бэйяна, мы решили купить броненосцы у иностранных держав. Однако, наш выбор довольно дорогостоящий, и маловероятно, что мы согласимся, мы должны мудро выбрать нашего торгового партнера."
-QNG_A_Trade_of_Gunboats:0 "Торговля канонерскими лодками"
-QNG_A_Trade_of_Gunboats_desc:0 "Поскольку Ли Хунчжан был впечатлен четырьмя стальными канонерскими лодками Rendel во флоте Наньян, он отдаст их флоту Бэйян, а вместо этого отдаст флоту Наньян 4 старых железных канонерских лодки Rendel."
-QNG_Patrolling_the_Eastern_Seas:0 "Патрулирование восточных морей"
-QNG_Patrolling_the_Eastern_Seas_desc:0 "С нашими основными и модернизированными флотами, построенными с земли, мы теперь можем успешно патрулировать Восточно-Китайское море, противостоя угрозам от тех, кто осмелится бросить вызов нашему флоту."
-QNG_A_Modern_Army:0 "Современная армия"
-QNG_A_Modern_Army_desc:0 "Чтобы не отстать от Запада, мы должны стремиться реформировать армию, поскольку ее оснащение, навыки и тактика отстают. Мы должны искать способы привести ее в соответствие с требованиями западных держав".
-QNG_An_Industry_to_Support_the_Army:0 "Промышленность для поддержки армии"
-QNG_An_Industry_to_Support_the_Army_desc:0 "С планами по реформированию армии и целями по модернизации промышленности, мы можем использовать нашу промышленность для увеличения военного производства, строя заводы, изготавливая униформу, а также артиллерию, поезда снабжения и другие предметы."
-QNG_The_Anqing_Arsenal:0 "Анкинский арсенал"
-QNG_The_Anqing_Arsenal_desc:0 "После отвоевания Анкина у повстанцев, командующий Цзэн Гофань приказал создать в городе множество зернохранилищ, мельниц и заводов по производству боеприпасов для своей армии, мы можем использовать это и для других армий."
-QNG_Our_First_Steam_Engine:0 "Наш первый паровой двигатель".
-QNG_Our_First_Steam_Engine_desc:0 "Соорудив заводы и получив чертежи для их изготовления, мы теперь можем построить наш первый паровой двигатель, вдохновленный западными образцами, мы теперь можем производить их для различных задач."
-QNG_The_Anqing_Machine_Factory:0 "Машинная фабрика Анкина"
-QNG_The_Anqing_Machine_Factory_desc:0 "Построив фабрики, мы сможем иметь некоторые из этих построенных частей для поездов, пушек и других различных вещей, а также сможем использовать западные разработки для собственного использования на наших фабриках."
-QNG_Buy_Western_Manufacturing_Machines:0 "Купить западные производственные машины"
-QNG_Buy_Western_Manufacturing_Machines_desc:0 "Наряду с нашими собственными фабриками, мы можем покупать западные производственные машины, это связано с тем, что западные машины лучше наших, и это поможет нам делать лучшие собственные."
-QNG_Jin_Ling_Arsenal:0 "Цзиньлинский арсенал"
-QNG_Jin_Ling_Arsenal_desc:0 "Чтобы помочь дальнейшей индустриализации армии, нам было приказано построить арсенал в городе Цзиньлин, он будет действовать как место хранения оружия, а также будет местом строительства оружия и других военных предметов."
-QNG_Jin_Ling_Machine_Factory:0 "Машинная фабрика Цзиньлин"
-QNG_Jin_Ling_Machine_Factory_desc:0 "Наряду с арсеналом, у нас есть заказы на строительство нескольких машинных заводов в городе Цзиньлин, они помогут в производстве деталей для строительства и более мелких вещей, таких как детали для поездов и оружия."
-#QNG_Jiangnan_Arsenal:0 "Jiangnan Arsenal" #NT!
-#QNG_Jiangnan_Arsenal_desc:0 "In order to forward modernization and industrialization, this arsenal shall help with the manufacture of arms and the study of western literature and western languages, along with western studies." #NT!
-#QNG_Jiangnan_Arsenal_Naval_Factory:0 "Jiangnan Arsenal Naval Factory" #NT!
-#QNG_Jiangnan_Arsenal_Naval_Factory_desc:0 "With the Jiangnan Arsenal so close to the ocean, near the city of Shanghai, we can turn a section of the arsenal into a naval factory, this can help with our naval fleets in the area, and will help defend our coasts for the foreseeable future." #NT!
-QNG_Expand_the_Jiangnan_Arsenal:0 "Расширить Цзяннаньский арсенал".
-QNG_Expand_the_Jiangnan_Arsenal_desc:0 "Поскольку вокруг много ресурсов и других фабрик, мы можем использовать некоторые из них для расширения арсенала Цзяннани, это поможет увеличить военное и промышленное производство в регионе, а также поможет производить предметы, которые не производятся на других фабриках."
-QNG_Beiyang_Machine_Factory:0 "Бэйянская машинная фабрика"
-QNG_Beiyang_Machine_Factory_desc:0 "Поскольку город Пекин является столицей, мы должны индустриализировать его, чтобы другие города не опережали столицу, поэтому мы собираемся построить еще один машинный завод в городе."
-QNG_Beiyang_Machine_Factory_Dockyards:0 "Доки Бэйянской машинной фабрики".
-QNG_Beiyang_Machine_Factory_Dockyards_desc:0 "Поскольку Пекин теперь индустриализирован, а наш самый большой флот находится неподалеку, мы можем превратить побережье в новые доки, это поможет с ремонтом и созданием новых кораблей для флота Бэйяна."
-QNG_Steel_Factories:0 "Сталелитейные заводы"
-QNG_Steel_Factories_desc:0 "Поскольку территория теперь индустриализирована, мы можем выделить несколько заводов для производства стали. Сталь может использоваться в кораблях, деталях, поездах и других различных вещах, и мы также можем использовать ее для торговли."
-QNG_Lanzhou_Factory:0 "Фабрика Ланьчжоу"
-QNG_Lanzhou_Factory_desc:0 "С фабрикой тканей в городе Ланьчжоу, мы можем также милитаризировать регион, создав фабрику с единственной целью - производить артиллерию и другие пушки."
-QNG_Xian_Machine_Factory:0 "Сианьская машинная фабрика"
-QNG_Xian_Machine_Factory_desc:0 "Наряду с другими различными машинными заводами и арсеналами, мы должны построить еще один в городе Сиань, как и другие машинные заводы, этот поможет производить те же предметы, что и другие, и может включать больше."
-QNG_Chonghou_Training_Guideline:0 "Руководство по обучению чонхоу".
-QNG_Chonghou_Training_Guideline_desc:0 "Чтобы наши армии продолжали модернизироваться, мы должны ввести строгие правила обучения для наших войск и офицеров, чтобы наши войска были лучшими, какими они могут быть."
-QNG_Men_for_the_Army:0 "Мужчины для армии"
-QNG_Men_for_the_Army_desc:0 "С более строгими руководящими принципами обучения, теперь мы можем призывать новых солдат, чтобы они следовали этим новым руководящим принципам, заполняя наши ряды лучше обученными солдатами, а не необученными."
-QNG_Employ_Western_Training_Officers:0 "Нанять западных офицеров для обучения".
-QNG_Employ_Western_Training_Officers_desc:0 "Поскольку на Западе есть лучшие офицеры, мы можем нанять их в большом количестве, чтобы помочь обучить наши войска, они также могут обучать наших местных офицеров, чтобы затем обучать их войска, чтобы люди были лучше обучены."
-QNG_Equipment_from_the_West:0 "Оборудование с Запада"
-QNG_Equipment_from_the_West_desc:0 "Для проведения многих реформ, мы должны также снабжать нашу новую армию. Вместо того чтобы производить собственные, мы можем купить у британцев и французов лучшие западные пушки и другие припасы, необходимые для армии."
-QNG_More_Guns:0 "Больше пушек".
-QNG_More_Guns_desc:0 "Наряду с большим количеством артиллерии, мы также можем купить больше французских пушек для снабжения нашей армии, причем эти пушки лучше, чем наше нынешнее "стандартное" оружие, и должны работать лучше, чем они."
-QNG_More_Artillery:0 "Больше артиллерии"
-QNG_More_Artillery_desc:0 "Наряду с большим количеством пушек, мы можем купить больше французских артиллерийских орудий, чтобы пополнить нашу армию, хотя нам нужно будет обучить наши войска пользоваться ими, это поможет нам осаждать места и выигрывать битвы."
-QNG_Employ_Translators:0 "Нанять переводчиков"
-QNG_Employ_Translators_desc:0 "Из-за того, что западные офицеры не могут говорить на тех же языках, что и мы, мы можем использовать переводчиков, чтобы помочь общаться между нами и западными офицерами, и нашими войсками и западными офицерами."
-QNG_Train_Local_Officers:0 "Обучить местных офицеров"
-QNG_Train_Local_Officers_desc:0 "С новым руководством по обучению, мы можем обучить некоторых из наших местных офицеров, чтобы они затем обучили свои войска новому руководству, что позволит ему распространяться быстрее, позволяя большему количеству людей быть лучше обученными."
-QNG_Form_the_Huai_Army:0 "Сформировать армию Хуай".
-QNG_Form_the_Huai_Army_desc:0 "Чтобы изгнать повстанцев тайпинов, мы можем сформировать армию на реке Хуай, она будет помогать местному сопротивлению и любым сражениям, происходящим в регионе, против тайпинов и любых других повстанцев."
-QNG_Buy_Guns:0 "Купить оружие"
-QNG_Buy_Guns_desc:0 "Для снабжения армии Хуай мы можем купить иностранное оружие и оборудование, эти иностранные пушки будут лучше, чем у большинства наших местных армий, и лучше, чем у повстанцев тайпинов."
-QNG_Expanding_the_Army:0 "Расширение армии"
-QNG_Expanding_the_Army_desc:0 "С первоначальными силами в пятнадцать тысяч, мы можем набрать еще десять тысяч в армию, это поможет укрепить ее силы, и позволит нам использовать наше новое оружие, купленное за рубежом."
-QNG_Extensive_Conscription:0 "Расширенная воинская повинность"
-QNG_Extensive_Conscription_desc:0 "Чтобы пополнить ряды нашей армии, мы можем ввести строгую воинскую повинность для нашего населения, это увеличит количество мужчин в нашей армии, и позволит нам создать больше армий с новыми людьми."
-QNG_Studying_Wars:0 "Изучение войн"
-QNG_Our_Industry:0 "Наша промышленность"
-QNG_Our_Industry_desc:0 "Чтобы не отстать от запада, мы должны усилить индустриализацию, это может включать торговлю с западом, сосредоточиться на областях, где у нас много ресурсов, а также расширить их до военного производства."
-QNG_Civilian_Industry:0 "Гражданская промышленность"
-QNG_Civilian_Industry_desc:0 "Наряду с инфраструктурой и общей индустриализацией, мы также должны развивать гражданскую промышленность, это поможет обеспечить население товарами и товарами для торговли."
-QNG_China_Merchants_Steam_Navigation_Company:0 "Китайская купеческая пароходная компания"
-QNG_China_Merchants_Steam_Navigation_Company_desc:0 "Чтобы привлечь международную торговлю, необходимо создать судоходную компанию, которая будет помогать перевозить китайские товары в регионы вокруг, а также ей будут предоставляться государственные кредиты, чтобы предотвратить появление конкурирующих торговых компаний."
-QNG_Chinese_Engineering_and_Mining_Company:0 "Китайская инженерная и горнодобывающая компания"
-QNG_Chinese_Engineering_and_Mining_Company_desc:0 "С возможностью перемещать торговлю и торговать с иностранными державами, нам теперь нужны товары для торговли, поэтому мы должны основать инженерную и горнодобывающую компанию, это поможет в добыче угля, для питания пароходов, и для торговли."
-QNG_Trading_with_the_West:0 "Торговля с Западом"
-QNG_Trading_with_the_West_desc:0 "Имея возможность перевозить товары, и фактически имея эти товары, мы теперь можем начать торговлю с иностранными державами, через порты, расположенные по всей Азии, и с этим, это поможет индустриализации с большим количеством денег."
-QNG_Lanzhou_Fabric_Factory:0 "Ланьчжоуская фабрика тканей"
-QNG_Lanzhou_Fabric_Factory_desc:0 "Поскольку в окрестностях Ланьчжоу много ткани, мы должны использовать ее, превратив часть города в текстильную фабрику, используя ткань в регионе для производства таких предметов, как одежда, униформа и паруса."
-QNG_Hubei_Fabric_Factory:0 "Тканевая фабрика Хубэй"
-QNG_Hubei_Fabric_Factory_desc:0 "Наряду с Ланьчжоу, область вокруг Хубэя также содержит много ткани, как и Ланьчжоу, мы должны использовать ее, превращая область, которая раньше была меньше, в большую фабрику ткани, чтобы выполнять те же обязанности, что и фабрика в Ланьчжоу, только лучше."
-QNG_Expanding_Local_Industry:0 "Расширение местной промышленности"
-QNG_Expanding_Local_Industry_desc:0 "После расширения местной промышленности в различных регионах, мы теперь должны провести общее расширение промышленности по всему Китаю, что поможет в будущей индустриализации и промышленных проектах."
-QNG_Infrastructure_Plans:0 "Планы инфраструктуры"
-QNG_Infrastructure_Plans_desc:0 "С началом индустриализации в некоторых частях империи, мы также должны развивать инфраструктуру, которая включает в себя различные дороги, фермы, дома и здания, а также центры снабжения, чтобы помочь поддерживать армию."
-QNG_Suzhou_Shanghai_Railroad_Proposal:0 "Предложение по железной дороге Сучжоу-Шанхай"
-QNG_Hankou_to_Shanghai_Proposal:0 "Предложение по железной дороге Ханькоу - Шанхай"
-QNG_Plans_Approved:0 "Планы утверждены"
-QNG_Fixing_and_Ugrading_our_Railroads:0 "Исправление и модернизация наших железных дорог"
-QNG_Shanghai_to_Wuhao_Proposal:0 "Предложение от Шанхая до Ухао"
-QNG_Plans_Rejected:0 "Планы отклонены"
-QNG_Set_up_Zongli_Yamen:0 "Установить Цзунли Ямэнь"
-QNG_Set_up_Zongli_Yamen_desc:0 "После недавней Пекинской конвенции мы должны создать Цзунли Ямэнь, или "Офис общего управления делами различных стран" или "офис премьер-министра."
-QNG_Chinese_Maritime_Custom_Service:0 "Китайская морская таможенная служба"
-QNG_Chinese_Maritime_Custom_Service_desc:0 "В связи с неспособностью имперских морских сборщиков налогов собирать торговый налог из-за восстания тайпинов, мы должны создать эту службу для сбора налога, наряду с этим, она также поможет с картографией и другими морскими пошлинами."
-QNG_Naval_Defence_Department:0 "Департамент военно-морской обороны"
-QNG_Naval_Defence_Department_desc:0 "Наряду с возрождением Императорского флота, мы также должны создать департамент морской обороны, чтобы помочь в управлении обороной наших вод, вместо того, чтобы этим занималось центральное правительство."
-QNG_Build_Tongwen_Guan:0 "Построить Тунвэнь Гуань".
-QNG_Build_Tongwen_Guan_desc:0 "После создания Цзунли Ямэн мы должны основать школу для обучения западным языкам, а также информировать людей о западной науке в области химии, астрономии и математики."
-QNG_British_Department:0 "Британский департамент".
-QNG_French_Department:0 "Французский департамент"
-QNG_Russian_Department:0 "Российский департамент"
-QNG_US_Department:0 "Американский департамент"
-
-QNG_ever_victorius_army: "Армия Эвер Викториус сформирована"
-TAI_shi_dakai_removed:0 "Ши Дакай отстранен"
-TAI_shi_dakai_stays:0 "Ши Дакай поддерживается"
-QNG_idea_TAI_tianjing_incident:0 "Последствия Тяньцзинского инцидента"
-QNG_idea_TAI_shi_dakai:0 "Лидерство Ши Дакая"
-QNG_idea_TAI_shi_dakai_2:0 "Лидерство Ши Дакая"
-
-
-tai_vic_tianjing_incident: "Восстановление после инцидента в Тяньцзине"
-tai_vic_tianjing_incident_desc:0 ""
-tai_dealing_with_shi_dakai:0 "Разбирательство с Ши Дакаем"
-tai_march_of_shi:0 "Марш Ши Дакая"
-tai_strike_shanghai:0 "Удар по Шанхаю"
-tai_leader_of_armies:0 "Предводитель армий"
-tai_prepare_march_to_shanghai:0 "Подготовить поход на Шанхай"
-tai_trade_with_the_west:0 "Торговля с Западом"
-tai_FRA_promises:0 "Обещания французам"
-tai_ENG_promises:0 "Обещания британцам"
-tai_dealing_with_the_consequences:0 "Разбираться с последствиями"
-tai_fighting_the_xiang_army:0 "Борьба с армией Сян"
-tai_counter_victorius_army:0 "Противодействие армии Викториуса"
-tai_army_expansion:0 "Расширение армии"
-tai_army_expansion_desc:0 ""
-
-CHI_idea_new_mandate:0 "Минимальный мандат"
-CHI_idea_new_mandate_2:0 "Низкий мандат"
-CHI_idea_new_mandate_3:0 "Уменьшенный мандат"
-CHI_idea_new_mandate_4:0 "Новый мандат"
-CHI_idea_new_mandate_d1:0 "Начальный божественный мандат"
-CHI_idea_new_mandate_d2:0 "Истинный Божественный мандат"
-
-
-tai_defend_nanjing:0 "Защитить Нанкин"
-QNG_idea_TAI_shi_dakai_3:0 "Военная академия Ши"
-
-CHI_rse_claiming_the_mandate:0 "Претендуя на мандат"
-CHI_rse_TAI_heavenly_empire:0 "Небесная империя"
-CHI_rse_expanding_mandate_over_china:0 "Расширение мандата на Китай"
-CHI_rse_TAI_son_shandi:0 "Сын Шанди"
-CHI_rse_dealing_bureaucracy:0 "Справиться с бюрократией"
-CHI_rse_dealing_with_galaohui:0 "Разбирательство с Галаохуи"
-CHI_rse_dealing_with_tianshun:0 "Взаимоотношения с Тяньшунем"
-CHI_rse_dealing_with_shuntian:0 "Работа с Шуньтянем"
-CHI_rse_dealing_with_western_warlords:0 "Сделки с западными военачальниками"
-CHI_rse_dealing_with_northern_warlords:0 "Сделки с северными военачальниками"
-CHI_rse_dealing_with_the_rump_state:0 "Сделки с государством-бараном"
-CHI_rse_crush_miao:0 "Раздавить [SIC.GetName]"
-CHI_rse_crush_dungan:0 "Раздавить [SIK.GetName]"
-CHI_rse_crush_ma:0 "Раздавить [XSM.GetName]"
-CHI_rse_crush_hui:0 "Раздавить [ZHI.GetName]"
-CHI_rse_crushing_bai_linga:0 "Раздавить [FEG.GetName]"
-CHI_rse_crushing_ma_zhenlong:0 "Раздавить [MAN.GetName]"
-CHI_rse_taking_nian:0 "Взятие [NIE.GetName]"
-CHI_rse_get_mongolia:0 "Захват Монголии"
-CHI_rse_subdue_monks:0 "Покорение монахов"
-CHI_rse_tibetian_question:0 "Тибетский вопрос"
-CHI_rse_MNG_rebuilding_ming:0 "Перестройка Мин"
-CHI_rse_MNG_historical_revision:0 "Исторический пересмотр"
-CHI_rse_MNG_restore_true_emperor:0 "Восстановление истинного императора"
-CHI_rse_mandate_whole:0 "Мандат целиком"
-CHI_rse_military_bureau:0 "Военное бюро"
-CHI_rse_new_standard_army:0 "Армия нового образца"
-CHI_rse_imperial_navy:0 "Имперский флот"
-CHI_rse_proper_government:0 "Правильное правительство"
-CHI_rse_military_buildup:0 "Военное строительство"
-CHI_rse_commissioning_dockyards:0 "Ввод в эксплуатацию доков"
-CHI_rse_an_imperial_education:0 "Имперское образование"
-CHI_rse_internal_affairs:0 "Внутренние дела"
-CHI_rse_foreign_affairs:0 "Иностранные дела"
-CHI_rse_TAI_heavenly_army:0 "Небесная армия"
-CHI_rse_TAI_western_doctrines:0 "Западные доктрины"
-CHI_rse_TAI_obtain_arms_makers:0 "Получить Производители оружия"
-CHI_rse_TAI_shi_dakais_reforms:0 "Реформы Ши Дакаи"
-CHI_rse_TAI_a_military_school_of_our_own:0 "Собственная военная школа"
-CHI_rse_TAI_traditional_doctrines:0 "Традиционные доктрины"
-CHI_rse_TAI_raising_banners:0 "Поднимать знамена"
-CHI_rse_TAI_army_reformation:0 "Реформация армии"
-CHI_is_in_china_tooltip:0 "Страна - Китай"
-CHI_rse_TAI_form_national_bank:0 "Создать национальный банк"
-CHI_rse_TAI_invite_west_advisors:0 "Пригласить западных советников"
-CHI_rse_TAI_copy_west_military:0 "Копировать западные вооруженные силы"
-CHI_rse_TAI_introduce_rail:0 "Ввести железную дорогу"
-CHI_rse_TAI_steamships:0 "Получить планы пароходов"
-CHI_rse_TAI_expand_princes:0 "Расширить князей"
-CHI_rse_TAI_continue_reforms:0 "Продолжить реформы"
-CHI_rse_TAI_rapid_reforms:0 "Быстрые реформы"
-CHI_rse_TAI_slow_reforms:0 "Медленные реформы"
-CHI_rse_branches_government:0 "Ветви власти"
-CHI_rse_arming_the_force:0 "Вооружение сил"
-CHI_rse_constructing_ships:0 "Строительство кораблей"
-CHI_rse_expanding_education:0 "Расширение образования"
-CHI_rse_selecting_education:0 "Выбор стиля образования"
-CHI_rse_preparing_against_warlords:0 "Подготовка к борьбе с военачальниками"
-CHI_rse_idea_of_factories:0 "Идея фабрик"
-CHI_rse_confront_rivials:0 "Противостояние нашим соперникам"
-CHI_rse_selecting_educators:0 "Выбор педагогов"
-CHI_rse_TAI_western_inspired:0 "Реформы, вдохновленные Западом"
-CHI_rse_TAI_parlement_question:0 "Вопрос о парламенте"
-CHI_rse_TAI_lets_not_discard_everything:0 "Давайте не будем отбрасывать все"
-CHI_rse_TAI_a_bureacracy_for_gov:0 "Бюрократия для нашего правительства"
-CHI_rse_TAI_patent_issuing:0 "Выдача патентов"
-CHI_rse_establish_tributaries:0 "Создание притоков"
-CHI_rse_establish_tributary_siam:0 "Создать приток в Сиаме"
-CHI_rse_establish_tributary_langfang:0 "Создать приток в Лангфанге"
-CHI_rse_establish_tributary_viet:0 "Создать приток во Вьетнаме"
-CHI_rse_establish_tributary_ryukyu:0 "Создать приток в Рюкю"
-CHI_rse_establish_tributary_korea:0 "Создать приток в Корее"
-CHI_rse_confucian_style:0 "Конфуцианский стиль"
-CHI_rse_strengthing_government:0 "Укрепление правительства"
-CHI_rse_appointing_ministers:0 "Назначение министров"
-CHI_rse_planning_for_future:0 "Планирование будущего"
-CHI_rse_investing_in_modernity:0 "Инвестиции в современность"
-CHI_rse_importing_ideas:0 "Импортирование идей"
-CHI_rse_obtaining_funding:0 "Получение финансирования"
-CHI_rse_expanding_ports:0 "Расширение наших портов"
-CHI_rse_MNG_marquis_ext_grace_no_more:0 "Маркиз расширенной милости больше нет"
-CHI_rse_MNG_throne_ours:0 "Трон - наш"
-CHI_rse_MNG_new_ming:0 "Новый Мин"
-CHI_rse_MNG_throne_restored:0 "Трон Мин восстановлен"
-CHI_rse_MNG_continue_restoration:0 "Продолжение реставрации"
-CHI_rse_MNG_begin_remove_qing_systems:0 "Начать удаление цинских систем"
-CHI_rse_an_official_army:0 "Создание официальной армии"
-CHI_rse_army_for_the_state:0 "Официальная армия"
-CHI_rse_oaths_to_emps:0 "Требовать присяги императору"
-
-eoanb_decision_CHI_unite_china_force:0 "Взять [From.GetName] силой"
-eoanb_decision_CHI_unite_china_diplo:0 "Интегрировать [From.GetName]"
-CHI_is_rival:0 "Является соперником"
-CHI_idea_military_bureau:0 "Военное бюро"
-
-CHI_idea_insufficient_army:0 "Недостаточная армия"
-CHI_idea_insufficient_army_2:0 "Недостаточная армия"
-CHI_idea_settling_internal_affairs:0 "Урегулирование внутренних дел"
-CHI_idea_settling_foreign_affairs:0 "Урегулирование иностранных дел"
-
-CHI_develop_military_industry_successor:0 "Развитие военной промышленности"
-CHI_develop_naval_industry_successor:0 "Развитие военно-морской промышленности"
-
-QNG_army_funding:0 "Устаревшая армия"
-QNG_army_funding_2:0 "Совершенствование армии"
-QNG_army_funding_3:0 "Улучшение армии"
-QNG_army_funding_4:0 "Улучшение армии"
-QNG_army_funding_5:0 "Улучшенная армия"
-QNG_army_funding_6:0 "Новый армейский код"
-QNG_army_funding_7:0 "Новый армейский код"
-QNG_army_funding_balance:0 "Баланс средств армии"
-tt_QNG_increased_funding_loc:0 "Изменить §YБаланс средств армии§! by\nФабрики потребительских товаров: §R+2.5%§!\nПрирост законодательной власти: §G+4%§!"
-tt_QNG_decreased_funding_loc:0 "Изменить §YОстаток средств армии§! by\nПрирост законодательной власти: §R-4%§!"
-QNG_dealing_with_our_issues:0 "Решение наших проблем"
-QNG_dealing_with_our_issues_desc:0 "Более десяти лет Божественная империя скрипит под тяжестью своих вопросов, как изнутри, так и без. Юг Китая охвачен восстанием, от реставраторов Мин до этических движений за независимость. Однако самой большой угрозой является так называемый "Небесный король" Хун Сицюань, утаившийся в Нанкине и пытающийся проникнуть к варварам. Самим мореходным варварам, Великобритании, выскочившим, сумевшим унизить Поднебесную, коварным французам, поддержавшим их, и русским севернее, занятым составлением договоров даже сейчас, чтобы взять наглости у наших границ. Мы должны сосредоточиться на этих вопросах сейчас, прежде чем империя не сможет больше..."
-QNG_ending_the_threats:0 "Покончить с угрозами"
-QNG_ending_the_threats_desc:0 "Пришло время нанести последний удар по этим непокорным массам, осмелившимся бросить вызов нашему правлению"
-eoanb_decision_QNG_receive_tribute_d:0 "Получить дань от [From.GetName]"
-eoanb_decision_QNG_invest_tributary:0 "Инвестировать в [From.GetName]"
-QNG_unlock_tributary_decisions:0 "Разблокируйте §YРешения§! для получения §YДань§! из твоих притоков"
-QNG_xianjing_transition_tree:0 "В настоящее время не занимается  §YСмертью императора§!"
-QNG_rengency_council_tongzhi:0 "Регентский совет"
-QNG_rengency_council_tongzhi_shattered:0 "Разбитый совет регентства"
-QNG_rengency_council_tongzhi_shattered_2:0 "Разбитый совет регентства"
-QNG_rengency_council_tongzhi_shattered_3:0 "Разбитый совет регентства"
-QNG_rengency_council_tongzhi_shattered_4:0 "Разбитый совет регентства"
-QNG_rengency_council_tongzhi_shattered_5:0 "Разбитый совет регентства"
-QNG_rengency_council_tongzhi_shattered_6:0 "Разбитый совет регентства"
-QNG_rengency_council_tongzhi_shattered_7:0 "Разбитый совет регентства"
-QNG_sushans_party:0 "Сушанская партия"
-QNG_sushans_party_2:0 "Сушанская партия"
-QNG_sushans_party_3:0 "Партия Сушан"
-QNG_sushans_party_remnants:0 "Остатки партии сушан"
-QNG_sushans_party_remnants_2:0 "Остатки партии сушан"
-QNG_sushans_party_remnants_3:0 "Остатки партии сушан"
-QNG_sushans_party_remnants_4:0 "Остатки партии Сушан"
-QNG_rasing_funds:0 "Привлечение средств"
-QNG_rasing_funds_desc:0 ""
-QNG_tax_opium:0 "Взимать налоги на опиум"
-QNG_tax_west:0 "Взимать налоги с Запада"
-QNG_tax_businesses:0 "Облагать налогами предприятия"
-QNG_tax_goods:0 "Повысить налоги на товары"
-QNG_tax_medical:0 "Повысить налоги на медицинские товары"
-QNG_reforming_army:0 "Реформирование армии"
-QNG_art_of_war:0 "Искусство войны"
-QNG_obtain_west_personel:0 "Получить западный персонал"
-QNG_increase_wage:0 "Увеличить зарплату армии"
-QNG_invest_support_staff:0 "Инвестировать в наш вспомогательный персонал"
-QNG_new_army_code:0 "Новый код армии"
-QNG_army_to_fight_barbarians:0 "Армия для борьбы с варварами"
-QNG_those_outside:0 "Те, кто снаружи"
-QNG_manage_tributaries:0 "Управление притоками"
-QNG_VIN_investments:0 "Инвестиции в [VIN.GetName]"
-QNG_KOR_investments:0 "Инвестиции в [KOR.GetName]"
-QNG_european_issues:0 "Европейский вопрос"
-QNG_dealing_with_ENG:0 "Сделки с британцами"
-QNG_manage_influence:0 "Управление европейским влиянием"
-QNG_fighting_the_opium_war:0 "Борьба с опиумной войной"
-QNG_death_of_xianfeng:0 "Смерть Сяньфэна"
-QNG_honor_the_emperor:0 "Честь императора"
-QNG_founding_council:0 "Основание Совета"
-QNG_xinyou_coup:0 "Переворот Синью"
-QNG_countering_the_coup:0 "Противодействие перевороту"
-QNG_aftermath_xinyou_coup:0 "Последствия переворота Синью"
-QNG_fortify_position:0 "Укрепление нашей позиции"
-QNG_execute_opposition:0 "Казнить оппозицию"
-QNG_reorg_daunhua_bodyguards:0 "Реорганизовать телохранителей Даунхуа"
-QNG_reorg_ministry_personnel:0 "Реорганизовать министерство кадров"
-QNG_reorg_ministry_war:0 "Реорганизовать военное министерство"
-QNG_remnants_sushan_party:0 "Работа с остатками Сушанской партии"
-QNG_reorg_ministry_revenue:0 "Реорганизовать Министерство доходов"
-QNG_reorg_ministry_rites:0 "Реорганизация министерства обрядов"
-QNG_reappoint_grand_secretariat:0 "Переназначить Великий Секретариат"
-QNG_reorg_grand_council:0 "Реорганизовать Великий Совет"
-QNG_tongzhi_restoration:0 "Восстановление Тунчжи"
-QNG_politics_behind_curtain:0 "Политика из-за занавеса"
-
-
-QNG_xianfeng_illness:0 "Болезнь Сяньфэн"
-PAW_accepted:0 "Гаошань принял объединение"
-CHI_rsw_TAW_unifaction_of_taiwan:0 "Провозглашение Формозской республики"
-QNG_yong_ying:0 "Йонг-Инг"
-
-QNG_dealing_with_xiang_army:0 "Разбирательство с армией Сян"
-QNG_dealing_with_xiang_army_desc:0 "Армия Сян, армия ополчения, сформированная в регионе Хунань Цзэн Гофаном, была армией для борьбы с повстанцами Тайпин, но теперь, когда повстанцы Тайпин решительно подавлены, мы больше не нуждаемся в этой армии."
-QNG_new_standard_army:0 "Армия нового стандарта"
-QNG_new_standard_army_desc:0 "Поскольку местные армии ополчения теперь больше не нужны, а новое иностранное оружие закупается и производится на наших заводах, мы можем преобразовать некоторые из них в новые стандартные армии, вместо дезорганизованного ополчения."
-QNG_using_yong_ying:0 "Использование Йонг Йинг"
-QNG_using_yong_ying_desc:0 "Из-за многочисленных восстаний мы можем использовать ополчение Йонг Йинг, также известное как храбрецы, эти местные ополченцы помогут усилить наши силы против повстанцев, сражающихся против нас на юге и в других местах."
-QNG_delegated_command:0 "Делегированное командование".
-QNG_focus_inf:0 "Сосредоточение на пехоте".
-QNG_local_armies:0 "Местные армии"
-QNG_local_armies_desc:0 "Чтобы помочь изгнать армии повстанцев, используя местных ополченцев, мы можем использовать их для формирования более крупных армий из местных ополченцев, чтобы помочь лучше бороться с возросшей силой повстанцев и других сил."
-QNG_keeping_green_army:0 "Сохранение зеленой армии".
-QNG_professional_reforms_ga:0 "Профессиональная зеленая армия"
-QNG_professional_reforms:0 "Профессиональные реформы"
-QNG_traditional_ga:0 "Традиционная Зеленая Армия"
-QNG_emperors_illness:0 "Болезнь императоров"
-
-QNG_idea_professional_attempts: "Профессиональные попытки"
-
-
-
-
-
-CHI_rse_MNG_secure_southern_front: "Обеспечить безопасность Южного фронта"
-
-QNG_vic_local_army_supress_revolts: "Местные армии теперь будут подавлять восстания в будущем"
-
-QNG_idea_professional_attempts_2: "Профессиональные попытки"
-QNG_idea_professional_attempts_3:0 "Профессиональные попытки"
-QNG_consolidating_power:0 "Консолидация власти"
-
-eoanb_decision_QNG_buy_arms_black_market: "Приобрести оружие на черном рынке"
-tai_ideas_of_hong_rengan:0 "Идеи Хун Ренгана"
-tai_ways_of_the_west:0 "Пути Запада"
-
-  ######################################################################################## #NT!
-    ################################# A BOILING POT ######################################## #NT!
-  ######################################################################################## #NT!
- QNG_new_gengzi_policies:0 "Новая политика Гэнцзы"
- QNG_focus_on_military:0 "Сосредоточиться на военных"
- QNG_abolish_traditional_test:0 "Отменить традиционные боевые испытания"
- QNG_establish_hanyang_arsenal:0 "Создать Ханьянский арсенал"
- QNG_establish_shanghai_arsenal:0 "Создать Шанхайский арсенал"
- QNG_establish_guangzhou_arsenal:0 "Создать арсенал Гуанчжоу"
- QNG_reorg_beiyang_army:0 "Реорганизовать армию Бэйян"
- QNG_revive_the_navy:0 "Возродить флот"
- QNG_send_naval_officer_to_japan:0 "Отправить морских офицеров в Японию"
- QNG_build_jianying_naval_school:0 "Построить военно-морскую школу Цзяньин"
- QNG_build_mawei_shipyard:0 "Построить верфь Мавэй"
- QNG_establish_naval_guard_town:0 "Создать города морской охраны"
- QNG_send_minister_abroad:0 "Отправить министров за границу"
- QNG_studying_report:0 "Изучать отчеты"
- QNG_prepare_constitutionism:0 "Подготовиться к конституционализму"
- QNG_prepare_constitutional_outline:0 "Подготовить конституционные документы"
- QNG_issue_principles_of_constitution:0 "Издать принципы конституции"
- QNG_arrange_provincial_assembly_elections:0 "Организовать выборы в провинциальное собрание"
- QNG_focus_on_administration:0 "Сосредоточиться на администрации"
- QNG_examine_imperial_exam:0 "Изучить императорский экзамен"
- QNG_westernize_schools:0 "Вестернизация школ"
- QNG_provincial_military_academy:0 "Провинциальная военная академия"
- QNG_organized_police_force:0 "Организовать полицейские силы"
- QNG_establish_regional_force:0 "Создать региональные силы"
- QNG_establish_local_districts:0 "Создать местные округа"
- QNG_open_model_prisons:0 "Открыть типовые тюрьмы"
- QNG_focus_on_economy:0 "Сосредоточиться на экономике"
- QNG_expand_Tax_system:0 "Расширить налоговую систему"
- QNG_increase_fiscal_regulation:0 "Усилить фискальное регулирование"
- QNG_greater_fiscal_control:0 "Усилить фискальный контроль"
- QNG_railway_construction:0 "Строительство железных дорог"
- QNG_encourage_foreign_investment:0 "Поощрение иностранных инвестиций"
- QNG_expand_investments:0 "Расширять инвестиции"
- QNG_a_new_era:0 "Новая эра"
- QNG_open_zizheng_institute:0 "Открыть институт ЗиЧжэн"
- QNG_establish_tsing_hua_uni:0 "Создать Университет Цин Хуа"
- QNG_provincial_advisory_council:0 "Провинциальный консультативный совет"
- QNG_constitutional_outline:0 "Набросок конституции"
- QNG_civil_right_and_obligation:0 "Гражданские права и обязанности"
- QNG_essential_of_parliment:0 "Сущности Парламента"
- QNG_election_law_essentials:0  "Основные избирательные законы"
- QNG_continuing_fiscal_reform:0 "Продолжение фискальных реформ"
- QNG_first_national_budget:0 "Первый национальный бюджет"
- QNG_unification_of_currency_weights:0 "Унификация валютных курсов"
-
-	######################################################################################## #NT!
-	######################################################################################## #NT!
-	#################################### ADVISOR ########################################### #NT!
-	######################################################################################## #NT!
-	######################################################################################## #NT!
-
- QNG_Advisor_Weng_Tonghe:0 "Вэн Тонгэ"
- QNG_Advisor_Weng_Tonghe_desc:0 "Ученый и императорский наставник"
- QNG_Advisor_Prince_Gong:0 "Принц Гонг"
- QNG_Advisor_Prince_Gong_desc:0 ""
- QNG_Advisor_Yixuan:0 "Иксуань"
- QNG_Advisor_Yixuan_desc:0 ""
- TAI_1857_Leader_desc:0 "Родившийся в бедной семье в 1814 году в провинции Гуандун, будущий Тяньван Небесного королевства Тайпин Хун Сюцюань был наделен высоким интеллектом. Однако, несмотря на то, что Хун несколько раз сдавал государственные экзамены, он так и не смог получить высшее образование. После периода эмоциональных потрясений Хун обратился к христианству, став самопровозглашенным христианином".
-
- ###Advisors Traits #NT!
+  
+ QNG_rebel_uprising: "Rebel Uprising" #NT!
+ QNG_rebel_uprising_lost: "Rebel Spirit Failing" #NT!
+ QNG_idea_nian_cavalry: "Nian Cavalry" #NT!
+  
+ 	######################################################################################## 
+ 	######################################################################################## 
+ 	#################################### TOOLTIP ########################################### 
+ 	######################################################################################## 
+ 	######################################################################################## 
+  
+ QNG_Form_Nanyang_Fleet_tooltip: "§YThe Nanyang fleet will be formed in Shanghai§!" #NT!
+ QNG_Form_Beiyang_Fleet_tooltip: "§YThe Beiyang fleet will be formed in Weihaiwei§!" #NT!
+ QNG_Nanyang_Fleet_Expansion_tooltip: "§YThe Nanyang fleet will be expanded with boats from the Jiangnan Dockyard§!" #NT!
+ QNG_Gunboat_Trade_tooltip: "§YThe Beiyang and Nanyang fleets will trade gunboats§!" #NT!
+ QNG_Industry_tooltip: "§YWe will begin looking over our Industry§!" #NT!
+ QNG_PTH_yunnan_peace: "Panthay Victory" #NT!
+ EOANB_cant_call_autonomus_navies: "Is a Autonomus Navy" #NT!
+  
+ QNG_focus_construct_the_fuzhou_navy_shipyard_tt: "§Y[ROOT.GetNameWithFlag]§! unlocks company partnership §YFoochow Arsenal§!" #NT!
+ QNG_focus_chinese_engineer_and_mining_company_tt: "§Y[ROOT.GetNameWithFlag]§! unlocks company partnership §YChinese Engineering and Mining Company§!" #NT!
+  
+ QNG_Tongzhi_emperor_name: "Emperor Tongzhi" #NT!
+ QNG_Guangxu_Emperor_name: "Emperor Guangxu" #NT!
+ QNG_insulting_audience: "Insulting Audience" #NT!
+  
+ 	######################################################################################## 
+ 	######################################################################################## 
+ 	#################################### FOCUSES ########################################### 
+ 	######################################################################################## 
+ 	######################################################################################## 
+  
+ QNG_focus_xianfeng_unlucky_reign: "Xianfeng's Unlucky Reign" #NT!
+ QNG_focus_internal_threat_crisis: "Internal Threat Crisis" #NT!
+ QNG_focus_reorganise_the_banner_armies: "Reorganize the Banner Armies" #NT!
+ QNG_focus_reform_the_xiang_armies: "Reform the Xiang Armies" #NT!
+ QNG_focus_reorganize_the_xiang_armies: "Reorganize the Xiang Armies" #NT!
+ QNG_focus_traditional_xiang_armies: "Traditional Xiang Armies" #NT!
+ QNG_focus_stick_to_traditions: "Stick to Tradition" #NT!
+ QNG_focus_decisive_qing_battles: "Decisive Qing Battles" #NT!
+ QNG_focus_pacify_the_bandit_rebels: "Pacify the Bandit Rebels" #NT!
+ QNG_focus_council_takeover: "Council Takeover" #NT!
+ QNG_focus_prepare_for_the_opium_war: "Prepare for the Opium Wars" #NT!
+ QNG_focus_prepare_taku_fort_cannons: "Fortify Tianjin" #NT!
+ QNG_focus_fortify_canton: "Fortify Canton" #NT!
+ QNG_focus_use_local_provincial_armies: "Use Imperial Armies" #NT!
+ QNG_focus_victory_of_the_second_opium_war: "Victory of the Second Opium War" #NT!
+ QNG_focus_an_end_to_qing_crisis: "An End to Qing Crisis" #NT!
+ QNG_focus_xianfengs_decade_of_reigning: "Xianfeng's Decade of Reigning" #NT!
+ QNG_focus_defeat_of_the_second_opium_war: "Defeat of the Second Opium War" #NT!
+ QNG_focus_break_the_treaty_of_tientsin: "Break the Treaty of Tientsin" #NT!
+ QNG_focus_defeat_from_the_west_again: "Defeat from the West again..." #NT!
+ QNG_focus_honor_the_treaty_of_tientsin: "Honor the Treaty of Tientsin" #NT!
+  
+ QNG_focus_self_strenthening_movement: "Self Strengthening Movement" #NT!
+ QNG_focus_advocate_western_army_reforms: "Advocate Western Army Reforms" #NT!
+ QNG_focus_cave_in_to_the_west: "Cave in to the West" #NT!
+ QNG_focus_chonghou_training_guideline: "Chonghou Training Guidelines" #NT!
+ QNG_focus_reshuffle_the_armies: "Reshuffle the Armies" #NT!
+ QNG_focus_purchase_foreign_weapons: "Purchase Foreign Weapons" #NT!
+ QNG_focus_disband_the_xiang_armies: "Disband the Xiang Armies" #NT!
+ QNG_focus_yong_ying_system: "Yong Ying System" #NT!
+ QNG_focus_form_the_huai_army: "Form the Huai Army" #NT!
+ QNG_focus_reduce_green_standard_forces: "Reduce Green Standard Forces" #NT!
+ QNG_focus_train_the_shenji_ying: "Train the Shenji Ying" #NT!
+ QNG_focus_merge_li_armies: "Merge Li's Armies" #NT!
+ QNG_focus_expand_foreign_arms_purchase: "Expand Foreign Arms Purchase" #NT!
+ QNG_focus_regular_importation_of_western_guns: "Regular Importation of Western Guns" #NT!
+ QNG_focus_regular_importation_of_artillery: "Regular Importation of Artillery" #NT!
+ QNG_focus_invite_western_Advisors: "Invite Western Advisors" #NT!
+ QNG_focus_expand_military_advisors: "Expand Military Advisors" #NT!
+ QNG_focus_education_mission_to_the_us: "Education Mission to the US" #NT!
+ QNG_focus_tianjin_military_academy: "Tianjin Military Academy" #NT!
+ QNG_focus_efficient_western_training: "Efficient Western Training" #NT!
+ QNG_focus_zongli_yamen: "Zongli Yamen" #NT!
+ QNG_focus_tongwen_guan: "Tongwen Guan" #NT!
+ QNG_focus_send_young_scholars_overseas: "Send Young Scholars Overseas" #NT!
+ QNG_focus_imperial_maritime_cstuoms_service: "Imperial Maritime Customs Service" #NT!
+ QNG_focus_china_merchants_steam_navigation_company: "China Merchants Steam Navigation Company" #NT!
+ QNG_focus_expand_the_imperial_examination: "Expand the Imperial Examination" #NT!
+ QNG_focus_imperial_chinese_telegraph_administration: "Imperial Chinese Telegraph Administration" #NT!
+ QNG_focus_construct_the_wuhan_university: "Construct the Wuhan University" #NT!
+ QNG_focus_build_the_naval_fleet: "Build the Naval Fleet" #NT!
+ QNG_focus_acquire_steamships: "Acquire Steamships" #NT!
+ QNG_focus_strengthen_the_fujian_fleet: "Strengthen the Fuijan Fleet" #NT!
+ QNG_focus_tianjin_naval_academy: "Tianjin Naval Academy" #NT!
+ QNG_focus_form_the_guangdong_fleet: "Form the Guandong Fleet" #NT!
+ QNG_focus_send_admirals_overseas_for_study: "Send Admirals Overseas for Study" #NT!
+ QNG_focus_form_the_nanyang_fleet: "Form the Nanyang Fleet" #NT!
+ QNG_focus_expand_the_nanyang_fleet: "Expand the Nanyang Fleet" #NT!
+ QNG_focus_form_the_beiyang_fleet: "Form the Beiyang Fleet" #NT!
+ QNG_focus_expand_the_beiyang_fleet: "Expand the Beiyand Fleet" #NT!
+ QNG_focus_the_imperial_navy: "The Imperial Navy" #NT!
+ QNG_focus_restore_national_facilities: "Restore National Facilities" #NT!
+ QNG_focus_rural_tax_reduction: "Rural Tax Reduction" #NT!
+ QNG_focus_abolish_tax_on_agarian_products: "Abolish Tax on Agrarian Products" #NT!
+ QNG_focus_import_western_machinery: "Import Western Machinery" #NT!
+ QNG_focus_restore_irrigation_networks: "Restore Irrigation Networks" #NT!
+ QNG_focus_prepare_for_industralisation: "Prepare for Industrialisation" #NT!
+ QNG_focus_construct_the_fuzhou_navy_shipyard: "Construct the Fuzhou Naval Shipyard" #NT!
+ QNG_focus_jiangnan_dockyard: "Jiangnan Dockyard" #NT!
+ QNG_focus_expansion_of_the_jiangnan_dockyard: "Expansion of the Jiangnan Dockyard" #NT!
+ QNG_focus_expansion_of_the_fuzhou_navy_shipyard: "Expansion of the Fuzhou Naval Shipyard" #NT!
+ QNG_focus_beiyang_navy_shipyard: "Beiyand Naval Shipyard" #NT!
+ QNG_focus_finish_expansion_of_fuzhou_navy_shipyard: "Finish Expansion of Fuzhou Naval Shipyard" #NT!
+ QNG_focus_anqing_arsenal: "Anqing Arsenal" #NT!
+ QNG_focus_jiangnan_arsenal: "Jiangnan Arsenal" #NT!
+ QNG_focus_shanghai_arsenal: "Shanghai Arsenal" #NT!
+ QNG_focus_tianjin_arsenal: "Tianjin Arsenal" #NT!
+ QNG_focus_build_the_jingling_arsenal: "Build the Jingling Arsenal" #NT!
+ QNG_focus_hanyang_arsenal: "Hanyang Arsenal" #NT!
+ QNG_focus_ningbo_arsenal: "Ningbo Arsenal" #NT!
+ QNG_focus_lanzhou_factory: "Lanzhou Factory" #NT!
+ QNG_focus_expand_the_jiangnan_arsenal: "Expand the Jiangnan Arsenal" #NT!
+ QNG_focus_anqing_machine_factory: "Anqing Machine Factory" #NT!
+ QNG_focus_jingling_machine_factory: "Jingling Machine Factory" #NT!
+ QNG_focus_xi_an_machine_factory: "Xi'an Machine Factory" #NT!
+ QNG_focus_beiyang_machine_factory: "Beiyang Machine Factory" #NT!
+ QNG_focus_lanzhou_fabric_Factory: "Lanzhou Fabric Factory" #NT!
+ QNG_focus_hubei_fabric_factory: "Hubei Fabric Factory" #NT!
+ QNG_focus_chinese_engineer_and_mining_company: "Chinese Engineer and Mining Company" #NT!
+ QNG_focus_kaiping_mines: "Kaiping Mines" #NT!
+ QNG_focus_keelung_coal_mine: "Keelung Coal Mine" #NT!
+ QNG_focus_hubei_textile_company: "Hubei Textile Company" #NT!
+ QNG_focus_shanghai_cotton_mill: "Shanghai Cotton Mill" #NT!
+ QNG_focus_guizhou_ironworks: "Guizhou Ironworks" #NT!
+ QNG_focus_mo_ho_gold_mining_company: "Mo Ho Gold Mining Company" #NT!
+ QNG_focus_hanyang_ironworks: "Hanyang Ironworks" #NT!
+ QNG_focus_ta_yeh_ironmines: "Ta Yeh Ironmines" #NT!
+ QNG_focus_ping_hsiang_coal_mines: "Ping Hsiang Coal Mines" #NT!
+  
+  
+ QNG_gxu_issue_of_famine: "Issue of the Famine" #NT!
+ QNG_gxu_rasing_relief_funds: "Rasing Relief Funds" #NT!
+ QNG_gxu_gaining_foreign_aid: "Gaining Foreign Aid" #NT!
+ QNG_gxu_deploy_relief_shanxi: "Deploy Relief to Shanxi" #NT!
+ QNG_gxu_increase_relief_shanxi: "Increase the Relief to Shanxi" #NT!
+ QNG_gxu_complete_relief_shanxi: "Complete the Relief to Shanxi" #NT!
+ QNG_gxu_deploy_relief_zhili: "Deploy Relief to Zhili" #NT!
+ QNG_gxu_increase_relief_zhili: "Increase the Relief to Zhili" #NT!
+ QNG_gxu_complete_relief_zhili: "Complete the Relief to Zhili" #NT!
+ QNG_gxu_deploy_relief_henan: "Deploy Relief to Henan" #NT!
+ QNG_gxu_increase_relief_henan: "Increase the Relief to Henan" #NT!
+ QNG_gxu_complete_relief_henan: "Complete the Relief to Henan" #NT!
+ QNG_gxu_deploy_relief_shandong: "Deploy Relief to Shandong" #NT!
+ QNG_gxu_increase_relief_shandong: "Increase the Relief to Shandong" #NT!
+ QNG_gxu_complete_relief_shandong: "Complete the Relief to Shandong" #NT!
+ QNG_gxu_deploy_relief_jiangsu: "Deploy Relief to Jiangsu" #NT!
+ QNG_gxu_increase_relief_jiangsu: "Increase the Relief to Jiangsu" #NT!
+ QNG_gxu_complete_relief_jiangsu: "Complete the Relief to Jiangsu" #NT!
+ QNG_gxu_mitigating_effects: "Mitigating the Effects" #NT!
+ QNG_gxu_self_strengthing_movement: "Self Strengthing Movement" #NT!
+ QNG_gxu_begin_wuxu_reforms: "Begin Wuxu Reforms" #NT!
+ QNG_gxu_end_of_rengency: "End of the Rengency" #NT!
+ QNG_gxu_power_in_our_hands: "The Power is in our Hands" #NT!
+ QNG_gxu_guizhou_ironworks: "Guizhou Ironworks" #NT!
+ QNG_gxu_hubei_textiles: "Hubei Textiles" #NT!
+ QNG_gxu_hanyang_ironworks: "Hanyang Ironworks" #NT!
+ QNG_gxu_ta-yeh_iron: "Ta-Yeh Ironmines" #NT!
+ QNG_gxu_ping-hsiang_coal_mines: "Ping-Hsiang Coal Mines" #NT!
+ QNG_gxu_subsidize_private_industry: "Subsidize Private Industry" #NT!
+ QNG_gxu_preparing_a_education: "Preparing a Education" #NT!
+ QNG_gxu_expanding_navy: "Expanding our Navy" #NT!
+ QNG_gxu_beijang_navy: "Funding the Beijang Navy" #NT!
+ QNG_gxu_overseas_training: "Overseas Training" #NT!
+ QNG_gxu_study_ENG_navy: "Study the British Navy" #NT!
+ QNG_gxu_study_FRA_navy: "Study the French Navy" #NT!
+ QNG_gxu_tianjin_naval_academy: "Found the Tianjin Naval Academy" #NT!
+ QNG_gxu_establish_naval_board: "Establish a Naval Board" #NT!
+ QNG_dealing_mudan_incident: "Dealing with the Mudan Incident" #NT!
+ QNG_preparing_end_regency: "Preparing to End the Regency" #NT!
+ QNG_preparing_end_regency_desc: "The Tongzhi Emperor is finally ready to rule in his own name, it is time to end this rengency." #NT!
+ QNG_corruption_to_advantage: "Using Corruption to our Advantage" #NT!
+ QNG_council_fortify_position: "Fortify the Position of the Council" #NT!
+ QNG_reorganizing_bureaucracy: "Reorganizing the Bureaucracy" #NT!
+ QNG_strengthing_sushans_party: "Strengthing Sushans Party" #NT!
+ QNG_building_on_sushans_plan: "Building on Sushans Plan" #NT!
+ QNG_a_plot_reveled: "A Plot Reveled" #NT!
+ QNG_council_fortify_country: "Fortify the Country" #NT!
+ QNG_purging_empresses_support: "Purging the Empresses Support" #NT!
+ QNG_fate_of_cixi: "Fate of Cixi" #NT!
+ QNG_fate_of_cian: "Fate of Ci'an" #NT!
+ QNG_purging_empresses_support: "Purging the Empresses Support" #NT!
+ QNG_request_for_audience: "A Request for Audience" #NT!
+ QNG_pavilion_purple_light: "Pavilion of Purple Light" #NT!
+ QNG_splendor_of_the_emperor: "Splendor of the Emperor" #NT!
+ QNG_putting_westerners_in_place: "Putting Westerners in their Place" #NT!
+ QNG_Self_Strengthening_Movement: "Self Strengthening Movement" #NT!
+ QNG_Self_Strengthening_Movement_desc: "With the British and French armies looting and burning down the Old Summer Palace, and the approaching Taiping rebels, we have been forced to acknowledge the crisis, we need to Westernize." #NT!
+ QNG_The_Imperial_Navy: "The Imperial Navy" #NT!
+ QNG_The_Imperial_Navy_desc: "We must revive the ways of the Great Ming! We must revive the Imperial Navy! We must Dominate the Seas! We must establish the Nanyang and Beiyang Fleets! We must strengthen the navy!" #NT!
+ QNG_The_Foochow_Arsenal: "The Foochow Arsenal" #NT!
+ QNG_The_Foochow_Arsenal_desc: "To suffice for a bigger Fleet, we must hire foreign architects to help build a more western shipyard, with the number of laborers rising to around Two Thousand to construct such a big facility." #NT!
+ QNG_Foochow_Shipbuilding_Institution: "Foochow Shipbuilding Institution" #NT!
+ QNG_Foochow_Shipbuilding_Institution_desc: "Alongside the Arsenal and Shipyards, a marine engineering and navigation school is also set up, all to be done within a period of Five years" #NT!
+ QNG_Mawei_Shipyard: "Mawei Shipyard" #NT!
+ QNG_Mawei_Shipyard_desc: "Nearby the Foochow shipyard, the Mawei Shipyards will also be constructed, with it being of less size, and less workers, as intended to be a port for smaller ships, and trading." #NT!
+ QNG_Hire_Foreign_Teachers: "Hire Foreign Teachers" #NT!
+ QNG_Hire_Foreign_Teachers_desc: "To supply our school of marine engineering and navigation school with teachers, we are going to hire a group of One Hundred foreign teachers, from different groups, mostly French and British."" #NT!
+ QNG_Bright_Young_Sailors: "Bright Young Sailors" #NT!
+ QNG_Bright_Young_Sailors_desc: "With foreign teachers teaching our sailors, they have been improved Tenfold, with reformed tactics and skill, now being able to hold out on their own against foreign skill." #NT!
+ QNG_Build_Wooden_Gunboats: "Build Wooden Gunboats" #NT!
+ QNG_Build_Wooden_Gunboats_desc: "With sailors reformed and shipyards made, we are now able to begin production on Wooden Gunboats, being the main production of the shipyards, due to it being in an area of forests." #NT!
+ QNG_Form_the_Fujian_Fleet: "Form the Fujian Fleet" #NT!
+ QNG_Form_the_Fujian_Fleet_desc: "With enough wooden gunboats constructed, we are able to now formalize the Fujian Fleet; the second weakest of the Four, it is to be headquartered and garrisoned in the city of Fujian." #NT!
+ QNG_Buy_Foreign_Steamers: "Buy Foreign Steamers" #NT!
+ QNG_Buy_Foreign_Steamers_desc: "Although we do dislike the west, but to forward the development of our navy we must buy early steamships from Britain. Seven British steamers shall be bought, and two British gunboats shall also be acquired." #NT!
+ QNG_The_Guangdong_Fleet: "The Guangdong Fleet" #NT!
+ QNG_The_Guangdong_Fleet_desc: "After recently acquiring steamships from the British, we are now able to formalize the creation of the Guangdong Fleet in Shantou and to be headquartered in the city of Guangzhou" #NT!
+ QNG_German_Torpedo_Boats: "German Torpedo Boats" #NT!
+ QNG_The_Japanese_in_Taiwan: "The Japanese in Taiwan" #NT!
+ QNG_Form_the_Beiyang_Fleet: "Form the Beiyang Fleet" #NT!
+ QNG_Form_the_Beiyang_Fleet_desc: "Now, after acquiring gunboats and other ships, we can create a northern Fleet garrisoned and headquartered in the city of Weihaiwei, it is composed of multiple steel gunboats, and other smaller ships." #NT!
+ QNG_Form_the_Nanyang_Fleet: "Form the Nanyang Fleet" #NT!
+ QNG_Form_the_Nanyang_Fleet_desc: "After recently acquiring newer and more modern gunboats and other ships, we are now able to formalize the creation of the Nanyang Fleet in Shanghai, and also to be headquartered in Shanghai." #NT!
+ QNG_Boats_from_Jiangnan: "Boats from Jiangnan" #NT!
+ QNG_Boats_from_Jiangnan_desc: "After the formalization of the Nanyang Fleet, many ships are taken from the Jiangnan Dockyards with Four wooden gunboats and one wooden steam frigate being added to the Fleet." #NT!
+ QNG_Foreign_Ironclads: "Foreign Ironclads" #NT!
+ QNG_Foreign_Ironclads_desc: "To bolster the strength of the Beiyang Fleet, we have decided to buy Ironclads from foreign powers. However, our choices are rather costly, and unlikely to agree, we must choose wisely on our trading partner." #NT!
+ QNG_A_Trade_of_Gunboats: "A Trade of Gunboats" #NT!
+ QNG_A_Trade_of_Gunboats_desc: "With Li Hongzhang impressed by Four Steel Rendel gunboats in the Nanyang Fleet, he would give them to the Beiyang Fleet, and instead, giving the Nanyang Fleet 4 older Iron Rendel gunboats." #NT!
+ QNG_Patrolling_the_Eastern_Seas: "Patrolling the Eastern Seas" #NT!
+ QNG_Patrolling_the_Eastern_Seas_desc: "With our main and modernized fleets built up from the ground, we are now able to successfully patrol the East China Sea, facing threats from whoever dares to challenge our navy." #NT!
+ QNG_A_Modern_Army: "A Modern Army" #NT!
+ QNG_A_Modern_Army_desc: "In order to keep up with the West, we must seek out reforming the army, with its equipment, skill, and tactics falling behind. We must seek out methods of bringing it up to date alongside western powers." #NT!
+ QNG_An_Industry_to_Support_the_Army: "An Industry to Support the Army" #NT!
+ QNG_An_Industry_to_Support_the_Army_desc: "With plans to reform the army and goals to modernize the industry, we can use our industry to increase military output, building factories, making uniforms, and also making artillery, supply trains, and other items." #NT!
+ QNG_The_Anqing_Arsenal: "The Anqing Arsenal" #NT!
+ QNG_The_Anqing_Arsenal_desc: "After the recapture of Anqing from those rebels, Commander Zeng Guofan has ordered for multiple granaries, mills, and munition factories to be established in the city for his army, we can use this for other armies as well." #NT!
+ QNG_Our_First_Steam_Engine: "Our First Steam Engine" #NT!
+ QNG_Our_First_Steam_Engine_desc: "With factories made and the blueprints to make them, we can now construct our very first steam engine, inspired off western designs, we are now able to produce these for various tasks." #NT!
+ QNG_The_Anqing_Machine_Factory: "The Anqing Machine Factory" #NT!
+ QNG_The_Anqing_Machine_Factory_desc: "With factories constructed, we can have some of these constructed parts for trains, guns, and other various things, and will also allow us to use designs from the west for our own use in our factories." #NT!
+ QNG_Buy_Western_Manufacturing_Machines: "Buy Western Manufacturing Machines" #NT!
+ QNG_Buy_Western_Manufacturing_Machines_desc: "Alongside our own machine factories, we can also buy western manufacturing machines, this is due to the fact that western machines are better than ours, and this will help us make better ones of our own." #NT!
+ QNG_Jin_Ling_Arsenal: "Jinling Arsenal" #NT!
+ QNG_Jin_Ling_Arsenal_desc: "To help further the industrialization of the army, we have been ordered to construct an arsenal in the city of Jinling, this will act as a storage point for weapons and will also be a construction place for weapons and other military items." #NT!
+ QNG_Jin_Ling_Machine_Factory: "Jinling Machine Factory" #NT!
+ QNG_Jin_Ling_Machine_Factory_desc: "Alongside the arsenal, we also have orders to construct multiple machine factories inside the city of Jinling, these will help with making machine parts for construction, and smaller things, like parts for trains and weapons." #NT!
+ #QNG_Jiangnan_Arsenal: "Jiangnan Arsenal" #NT!
+ #QNG_Jiangnan_Arsenal_desc: "In order to forward modernization and industrialization, this arsenal shall help with the manufacture of arms and the study of western literature and western languages, along with western studies." #NT!
+ #QNG_Jiangnan_Arsenal_Naval_Factory: "Jiangnan Arsenal Naval Factory" #NT!
+ #QNG_Jiangnan_Arsenal_Naval_Factory_desc: "With the Jiangnan Arsenal so close to the ocean, near the city of Shanghai, we can turn a section of the arsenal into a naval factory, this can help with our naval fleets in the area, and will help defend our coasts for the foreseeable future." #NT!
+ QNG_Expand_the_Jiangnan_Arsenal: "Expand the Jiangnan Arsenal" #NT!
+ QNG_Expand_the_Jiangnan_Arsenal_desc: "With many resources and other factories around, we can use some of these to expand the Jiangnan arsenal, this will help increase military and industrial output in the region, and will also help make items not made in other factories." #NT!
+ QNG_Beiyang_Machine_Factory: "Beiyang Machine Factory" #NT!
+ QNG_Beiyang_Machine_Factory_desc: "With the city of Beijing being the capital city, we must industrialize it, so as to not have other cities outpacing the capital, this is why we are going to construct another machine factory in the city." #NT!
+ QNG_Beiyang_Machine_Factory_Dockyards: "Beiyang Machine Factory Dockyards" #NT!
+ QNG_Beiyang_Machine_Factory_Dockyards_desc: "With Beijing now being industrialized, and our biggest fleet nearby, we can turn the coasts into new dockyards, this can help with repairs, and making new ships for the Beiyang Fleet." #NT!
+ QNG_Steel_Factories: "Steel Factories" #NT!
+ QNG_Steel_Factories_desc: "With the area now industrialized, we can now dedicate some factories to making steel. Steel can be used in ships, parts, trains, and other various things, and we can also use it to trade." #NT!
+ QNG_Lanzhou_Factory: "Lanzhou Factory" #NT!
+ QNG_Lanzhou_Factory_desc: "With a fabric factory in the city of Lanzhou also being there, we are able to also militarize the region, establishing a factory for a sole purpose, this one, to produce artillery, and other canons." #NT!
+ QNG_Xian_Machine_Factory: "Xian Machine Factory" #NT!
+ QNG_Xian_Machine_Factory_desc: "Alongside other various machine factories and arsenals, we must construct another in the city of Xian, like other machine factories, this will help make the same items as the others, and may include more." #NT!
+ QNG_Chonghou_Training_Guideline: "Chonghou Training Guideline" #NT!
+ QNG_Chonghou_Training_Guideline_desc: "In order for our armies to continue modernizing, we must enforce a strict training guideline for our troops, and officers to follow in order to have our troops be the best they can be." #NT!
+ QNG_Men_for_the_Army: "Men for the Army" #NT!
+ QNG_Men_for_the_Army_desc: "With more strict training guidelines now enforced, we can now conscript new soldiers to follow these new guidelines, filling our lines with better trained soldiers, instead of untrained ones." #NT!
+ QNG_Employ_Western_Training_Officers: "Employ Western Training Officers" #NT!
+ QNG_Employ_Western_Training_Officers_desc: "With the west having better training officers, we can employ a good amount of those to help train our troops, they can also train our local officers to then train their troops, for people to be better trained." #NT!
+ QNG_Equipment_from_the_West: "Equipment from the West" #NT!
+ QNG_Equipment_from_the_West_desc: "In order with many reforms, we must also supply our new army. Instead of producing our own, we can buy the better western guns, and other supplies needed for an army from the British and French." #NT!
+ QNG_More_Guns: "More Guns" #NT!
+ QNG_More_Guns_desc: "Alongside more artillery, we can also buy more french guns to supply our army, with these guns being better than our current “standard” weapons and should perform better than them." #NT!
+ QNG_More_Artillery: "More Artillery" #NT!
+ QNG_More_Artillery_desc: "Alongside more guns, we can buy more french artillery cannons to add to our army, although we will need to train our troops to use it, this will help us siege down places, and win battles." #NT!
+ QNG_Employ_Translators: "Employ Translators" #NT!
+ QNG_Employ_Translators_desc: "Due to the western training officers not being able to speak the same languages as us, we are able to use translators to help communicate between us and the western officers, and our troops and the western officers." #NT!
+ QNG_Train_Local_Officers: "Train Local Officers" #NT!
+ QNG_Train_Local_Officers_desc: "With new training guidelines, we can train some of our local officers to then train their troops the new guidelines, allowing for it to spread faster, allowing for more people to be better trained." #NT!
+ QNG_Form_the_Huai_Army: "Form the Huai Army" #NT!
+ QNG_Form_the_Huai_Army_desc: "In order to drive out the taiping rebels, we can form an army on the Huai River, they will help with local resistance, and any battles that occur in the region, against the taiping, and any other rebels." #NT!
+ QNG_Buy_Guns: "Buy Guns" #NT!
+ QNG_Buy_Guns_desc: "In order to supply the Huai Army, we can buy foreign weapons and equipment, these foreign guns are going to be better than most of our local armies have, and better ones than the taiping rebels have." #NT!
+ QNG_Expanding_the_Army: "Expanding the Army" #NT!
+ QNG_Expanding_the_Army_desc: "With an initial force of Fifteen Thousand, we can recruit another group of Ten Thousand into the army, this will help bolster its forces, and will let us utilize our new foreign bought weapons." #NT!
+ QNG_Extensive_Conscription: "Extensive Conscription" #NT!
+ QNG_Extensive_Conscription_desc: "In order to replenish the lines of our army, we can enforce strict conscription into our population, this will increase the amount of men in our army, and will allow us to create more armies with the new men." #NT!
+ QNG_Studying_Wars: "Studying Wars" #NT!
+ QNG_Our_Industry: "Our Industry" #NT!
+ QNG_Our_Industry_desc: "To keep up with the west, we must enforce more industrialization, this may include trading with the west, focusing on areas we have plentiful resources on, and also expanding it to military production." #NT!
+ QNG_Civilian_Industry: "Civilian Industry" #NT!
+ QNG_Civilian_Industry_desc: "Alongside infrastructure and general industrialization, we must also include development of the civilian industry, this is to help provide goods for the people, and goods for trade."" #NT!
+ QNG_China_Merchants_Steam_Navigation_Company: "China Merchants Steam Navigation Company" #NT!
+ QNG_China_Merchants_Steam_Navigation_Company_desc: "In order to attract international trade, a shipping company must be established to help transport Chinese goods to regions around the area, and also will be given government loans, to prevent rival trading companies." #NT!
+ QNG_Chinese_Engineering_and_Mining_Company: "Chinese Engineering and Mining Company" #NT!
+ QNG_Chinese_Engineering_and_Mining_Company_desc: "With the ability to move trade and trade with foreign powers, we now need the goods to trade, so we must establish the engineering and mining company, this will help with mining coal, for powering steamships, and to trade." #NT!
+ QNG_Trading_with_the_West: "Trading with the West" #NT!
+ QNG_Trading_with_the_West_desc: "With the ability to transport goods, and actually having said goods, we can now initiate trade with foreign powers, through ports located across Asia, and with this, this will help industrialize with more money." #NT!
+ QNG_Lanzhou_Fabric_Factory: "Lanzhou Fabric Factory" #NT!
+ QNG_Lanzhou_Fabric_Factory_desc: "With the area around Lanzhou containing lots of fabric, we must exploit it, turning parts of the city into a fabric textile plant, using the fabric in the region to make items such as clothes, uniforms, and sails."" #NT!
+ QNG_Hubei_Fabric_Factory: "Hubei Fabric Factory" #NT!
+ QNG_Hubei_Fabric_Factory_desc: "Alongside Lanzhou, the area around Hubei also contains lots of fabric, just like Lanzhou, we must exploit it, turning the area, which before was smaller, into a larger fabric factory to fill the same duties as the Lanzhou factory, just better."" #NT!
+ QNG_Expanding_Local_Industry: "Expanding Local Industry" #NT!
+ QNG_Expanding_Local_Industry_desc: "With local industry expansion in various regions done, we now must do a general expansion of industry across all of China, which will help with future industrialization and industrial projects."" #NT!
+ QNG_Infrastructure_Plans: "Infrastructure Plans" #NT!
+ QNG_Infrastructure_Plans_desc: "With industrialization beginning in parts of the empire, we must also develop infrastructure, this includes a variety of roads, farms, houses and buildings, and also supply hubs, to help keep the army maintained."" #NT!
+ QNG_Suzhou_Shanghai_Railroad_Proposal: "Suzhou Shanghai Railroad Proposal" #NT!
+ QNG_Hankou_to_Shanghai_Proposal: "Hankou to Shanghai Proposal" #NT!
+ QNG_Plans_Approved: "Plans Approved" #NT!
+ QNG_Fixing_and_Ugrading_our_Railroads: "Fixing and Upgrading Our Railroads" #NT!
+ QNG_Shanghai_to_Wuhao_Proposal: "Shanghai to Wuhao Proposal" #NT!
+ QNG_Plans_Rejected: "Plans Rejected" #NT!
+ QNG_Set_up_Zongli_Yamen: "Set Up Zongli Yamen" #NT!
+ QNG_Set_up_Zongli_Yamen_desc: "With the recent Convention of Peking happening, we must establish the Zongli Yamen, or the “Office for the General Management of Affairs Concerning the Various Countries” or the prime minister's office." #NT!
+ QNG_Chinese_Maritime_Custom_Service: "Chinese Maritime Custom Service" #NT!
+ QNG_Chinese_Maritime_Custom_Service_desc: "With the inability of Imperial maritime tax collectors to collect trade tax due to the Taiping Rebellion, we must establish this to collect the tax, alongside, it will also help with mapping, and other sea duties." #NT!
+ QNG_Naval_Defence_Department: "Naval Defense Department" #NT!
+ QNG_Naval_Defence_Department_desc: "Along with the revival of the Imperial Fleet, we must also establish the naval defense department to help with managing the defense of our waters, instead of having the central government do that." #NT!
+ QNG_Build_Tongwen_Guan: "Build Tongwen Guan" #NT!
+ QNG_Build_Tongwen_Guan_desc: "With the Zongli Yamen established, we must establish a school for teaching western languages, alongside informing people of western science in the fields of chemistry, astronomy, and mathematics." #NT!
+ QNG_British_Department: "British Department" #NT!
+ QNG_French_Department: "French Department" #NT!
+ QNG_Russian_Department: "Russian Department" #NT!
+ QNG_US_Department: "American Department" #NT!
+  
+ QNG_ever_victorius_army: "Ever Victorius Army Formed" #NT!
+ TAI_shi_dakai_removed: "Shi Dakai Sidelined" #NT!
+ TAI_shi_dakai_stays: "Shi Dakai Supported" #NT!
+ QNG_idea_TAI_tianjing_incident: "Effects of the Tianjing Incident" #NT!
+ QNG_idea_TAI_shi_dakai: "Shi Dakai's Leadership" #NT!
+ QNG_idea_TAI_shi_dakai_2: "Shi Dakai's Leadership" #NT!
+  
+  
+ tai_vic_tianjing_incident: "Recovering from the Tianjing Incident" #NT!
+ tai_vic_tianjing_incident_desc: "" #NT!
+ tai_dealing_with_shi_dakai: "Dealing with Shi Dakai" #NT!
+ tai_march_of_shi: "Shi Dakai's March" #NT!
+ tai_strike_shanghai: "Strike Shanghai" #NT!
+ tai_leader_of_armies: "Leader of Armies" #NT!
+ tai_prepare_march_to_shanghai: "Prepare the March to Shanghai" #NT!
+ tai_trade_with_the_west: "Trade with the West" #NT!
+ tai_FRA_promises: "Promises to the French" #NT!
+ tai_ENG_promises: "Promises to the British" #NT!
+ tai_dealing_with_the_consequences: "Dealing with the Consequences" #NT!
+ tai_fighting_the_xiang_army: "Fighting the Xiang Army" #NT!
+ tai_counter_victorius_army: "Counter the Victorius Army" #NT!
+ tai_army_expansion: "Army Expansion" #NT!
+ tai_army_expansion_desc: "" #NT!
+  
+ CHI_idea_new_mandate: "Minimal Mandate" #NT!
+ CHI_idea_new_mandate_2: "Low Mandate" #NT!
+ CHI_idea_new_mandate_3: "Reduced Mandate" #NT!
+ CHI_idea_new_mandate_4: "New Mandate" #NT!
+ CHI_idea_new_mandate_d1: "Beginning Divine Mandate" #NT!
+ CHI_idea_new_mandate_d2: "True Divine Mandate" #NT!
+  
+  
+ tai_defend_nanjing: "Defend Nanjing" #NT!
+ QNG_idea_TAI_shi_dakai_3: "Shi Military Academy" #NT!
+  
+ CHI_rse_claiming_the_mandate: "Claiming the Mandate" #NT!
+ CHI_rse_TAI_heavenly_empire: "The Heavenly Empire" #NT!
+ CHI_rse_expanding_mandate_over_china: "Expanding the Mandate over China" #NT!
+ CHI_rse_TAI_son_shandi: "Son of the Shandi" #NT!
+ CHI_rse_dealing_bureaucracy: "Dealing with Bureaucracy" #NT!
+ CHI_rse_dealing_with_galaohui: "Dealing with Galaohui" #NT!
+ CHI_rse_dealing_with_tianshun: "Dealing with Tianshun" #NT!
+ CHI_rse_dealing_with_shuntian: "Dealing with Shuntian" #NT!
+ CHI_rse_dealing_with_western_warlords: "Dealing with the Western Warlords" #NT!
+ CHI_rse_dealing_with_northern_warlords: "Dealing with the Northern Warlords" #NT!
+ CHI_rse_dealing_with_the_rump_state: "Dealing with the Rump State" #NT!
+ CHI_rse_crush_miao: "Crushing the [SIC.GetName]" #NT!
+ CHI_rse_crush_dungan: "Crushing the [SIK.GetName]" #NT!
+ CHI_rse_crush_ma: "Crushing the [XSM.GetName]" #NT!
+ CHI_rse_crush_hui: "Crushing the [ZHI.GetName]" #NT!
+ CHI_rse_crushing_bai_linga: "Crushing the [FEG.GetName]" #NT!
+ CHI_rse_crushing_ma_zhenlong: "Crushing the [MAN.GetName]" #NT!
+ CHI_rse_taking_nian: "Taking the [NIE.GetName]" #NT!
+ CHI_rse_get_mongolia: "Taking Mongolia" #NT!
+ CHI_rse_subdue_monks: "Subdue the Monks" #NT!
+ CHI_rse_tibetian_question: "The Tibetian Question" #NT!
+ CHI_rse_MNG_rebuilding_ming: "Rebuilding Ming" #NT!
+ CHI_rse_MNG_historical_revision: "Historical Revision" #NT!
+ CHI_rse_MNG_restore_true_emperor: "Restore the True Emperor" #NT!
+ CHI_rse_mandate_whole: "A Mandate Whole" #NT!
+ CHI_rse_military_bureau: "Military Bureau" #NT!
+ CHI_rse_new_standard_army: "A New Standard Army" #NT!
+ CHI_rse_imperial_navy: "An Imperial Navy" #NT!
+ CHI_rse_proper_government: "Proper Government" #NT!
+ CHI_rse_military_buildup: "Military Buildup" #NT!
+ CHI_rse_commissioning_dockyards: "Commissioning Dockyards" #NT!
+ CHI_rse_an_imperial_education: "An Imperial Education" #NT!
+ CHI_rse_internal_affairs: "Internal Affairs" #NT!
+ CHI_rse_foreign_affairs: "Foreign Affairs" #NT!
+ CHI_rse_TAI_heavenly_army: "The Heavenly Army" #NT!
+ CHI_rse_TAI_western_doctrines: "Western Doctrines" #NT!
+ CHI_rse_TAI_obtain_arms_makers: "Obtain Arms Makers" #NT!
+ CHI_rse_TAI_shi_dakais_reforms: "Shi Dakais Reforms" #NT!
+ CHI_rse_TAI_a_military_school_of_our_own: "A Military School of our Own" #NT!
+ CHI_rse_TAI_traditional_doctrines: "Traditional Doctrines" #NT!
+ CHI_rse_TAI_raising_banners: "Raising Banners" #NT!
+ CHI_rse_TAI_army_reformation: "Army Reformation" #NT!
+ CHI_is_in_china_tooltip: "Country is Chinese" #NT!
+ CHI_rse_TAI_form_national_bank: "Form a National Bank" #NT!
+ CHI_rse_TAI_invite_west_advisors: "Invite Western Advisors" #NT!
+ CHI_rse_TAI_copy_west_military: "Copy Western Militaries" #NT!
+ CHI_rse_TAI_introduce_rail: "Introduce Rail" #NT!
+ CHI_rse_TAI_steamships: "Obtain Plans for Steamships" #NT!
+ CHI_rse_TAI_expand_princes: "Expand Princes" #NT!
+ CHI_rse_TAI_continue_reforms: "Continue Reforms" #NT!
+ CHI_rse_TAI_rapid_reforms: "Rapid Reforms" #NT!
+ CHI_rse_TAI_slow_reforms: "Slow Reforms" #NT!
+ CHI_rse_branches_government: "Branches of Government" #NT!
+ CHI_rse_arming_the_force: "Arming the Force" #NT!
+ CHI_rse_constructing_ships: "Constructing Ships" #NT!
+ CHI_rse_expanding_education: "Expanding Education" #NT!
+ CHI_rse_selecting_education: "Selecting a Style of Education" #NT!
+ CHI_rse_preparing_against_warlords: "Preparing Against the Warlords" #NT!
+ CHI_rse_idea_of_factories: "The Idea of Factories" #NT!
+ CHI_rse_confront_rivials: "Confront Our Rivals" #NT!
+ CHI_rse_selecting_educators: "Selecting Educators" #NT!
+ CHI_rse_TAI_western_inspired: "Western Inspired Reforms" #NT!
+ CHI_rse_TAI_parlement_question: "A Question of a Parliament" #NT!
+ CHI_rse_TAI_lets_not_discard_everything: "Lets Not Discard Everything" #NT!
+ CHI_rse_TAI_a_bureacracy_for_gov: "A Bureaucracy for our Government" #NT!
+ CHI_rse_TAI_patent_issuing: "Patent Issuing" #NT!
+ CHI_rse_establish_tributaries: "Establishing Tributaries" #NT!
+ CHI_rse_establish_tributary_siam: "Establish a Tributary in Siam" #NT!
+ CHI_rse_establish_tributary_langfang: "Establish a Tributary in Langfang" #NT!
+ CHI_rse_establish_tributary_viet: "Establish a Tributary in Vietnam" #NT!
+ CHI_rse_establish_tributary_ryukyu: "Establish a Tributary in Ryukyu" #NT!
+ CHI_rse_establish_tributary_korea: "Establish a Tributary in Korea" #NT!
+ CHI_rse_confucian_style: "Confucian Style" #NT!
+ CHI_rse_strengthing_government: "Strengthening the Government" #NT!
+ CHI_rse_appointing_ministers: "Appointing Ministers" #NT!
+ CHI_rse_planning_for_future: "Planning for the Future" #NT!
+ CHI_rse_investing_in_modernity: "Investing in Modernity" #NT!
+ CHI_rse_importing_ideas: "Importing Ideas" #NT!
+ CHI_rse_obtaining_funding: "Obtaining Funding" #NT!
+ CHI_rse_expanding_ports: "Expanding our Ports" #NT!
+ CHI_rse_MNG_marquis_ext_grace_no_more: "The Marquis of Extended Grace no More" #NT!
+ CHI_rse_MNG_throne_ours: "The Throne is Ours" #NT!
+ CHI_rse_MNG_new_ming: "A New Ming" #NT!
+ CHI_rse_MNG_throne_restored: "The Throne of the Ming Restored" #NT!
+ CHI_rse_MNG_continue_restoration: "Continue the Restoration" #NT!
+ CHI_rse_MNG_begin_remove_qing_systems: "Begin the Removal of Qing Systems" #NT!
+ CHI_rse_an_official_army: "Building a Official Army" #NT!
+ CHI_rse_army_for_the_state: "The Official Army" #NT!
+ CHI_rse_oaths_to_emps: "Demand Oaths to the Emperor" #NT!
+  
+ eoanb_decision_CHI_unite_china_force: "Take [From.GetName] by force" #NT!
+ eoanb_decision_CHI_unite_china_diplo: "Integrate [From.GetName]" #NT!
+ CHI_is_rival: "Is a Rival" #NT!
+ CHI_idea_military_bureau: "Military Bureau" #NT!
+  
+ CHI_idea_insufficient_army: "Insufficient Army" #NT!
+ CHI_idea_insufficient_army_2: "Insufficient Army" #NT!
+ CHI_idea_settling_internal_affairs: "Settling Internal Affairs" #NT!
+ CHI_idea_settling_foreign_affairs: "Settling Foreign Affairs" #NT!
+  
+ CHI_develop_military_industry_successor: "Developing Military Industry" #NT!
+ CHI_develop_naval_industry_successor: "Developing Naval Industry" #NT!
+  
+ QNG_army_funding: "Outdated Army" #NT!
+ QNG_army_funding_2: "Improving Army" #NT!
+ QNG_army_funding_3: "Improving Army" #NT!
+ QNG_army_funding_4: "Improved Army" #NT!
+ QNG_army_funding_5: "Improved Army" #NT!
+ QNG_army_funding_6: "New Army Code" #NT!
+ QNG_army_funding_7: "New Army Code" #NT!
+ QNG_army_funding_balance: "Army Funds Balance" #NT!
+ tt_QNG_increased_funding_loc: "Modify §YArmy Funds Balance§! by\nConsumer Goods Factories: §R+2.5%§!\nLegislative Power Gain: §G+4%§!" #NT!
+ tt_QNG_decreased_funding_loc: "Modify §YArmy Funds Balance§! by\nLegislative Power Gain: §R-4%§!" #NT!
+ QNG_dealing_with_our_issues: "Dealing with our Issues" #NT!
+ QNG_dealing_with_our_issues_desc: "For more than a decade the Divine Empire creaks under the weight of its issues, from both within and without. The south of China is wracked with rebellion, from Ming restorers to ethinic independence movements. However, the greastest threat is the so called 'Heavenly King' Hong Xiquan, holed up in Nanjing and taking inpiration from the barbarians. To the seafaring barbarians themselves, the UK, the upstarts who managed to humiliate the Middle Kingdom, the insidious French who backed them and the Russians to the north, busy drafting treaties even now to take nibbles at our borders. We must focus on these issues now, before the empire can take no more..." #NT!
+ QNG_ending_the_threats: "Ending the Threats" #NT!
+ QNG_ending_the_threats_desc: "It is time to bring the final blow to these unruly masses who dare to challenge our rule" #NT!
+ eoanb_decision_QNG_receive_tribute_d: "Receive tribute from [From.GetName]" #NT!
+ eoanb_decision_QNG_invest_tributary: "Investing in [From.GetName]" #NT!
+ QNG_unlock_tributary_decisions: "Unlock §YDecisions§! to take §YTribute§! from your tributaries" #NT!
+ QNG_xianjing_transition_tree: "Not currently dealing with the §YDeath of the Emperor§!" #NT!
+ QNG_rengency_council_tongzhi: "Regency Council" #NT!
+ QNG_rengency_council_tongzhi_shattered: "Shattered Regency Council" #NT!
+ QNG_rengency_council_tongzhi_shattered_2: "Shattered Regency Council" #NT!
+ QNG_rengency_council_tongzhi_shattered_3: "Shattered Regency Council" #NT!
+ QNG_rengency_council_tongzhi_shattered_4: "Shattered Regency Council" #NT!
+ QNG_rengency_council_tongzhi_shattered_5: "Shattered Regency Council" #NT!
+ QNG_rengency_council_tongzhi_shattered_6: "Shattered Regency Council" #NT!
+ QNG_rengency_council_tongzhi_shattered_7: "Shattered Regency Council" #NT!
+ QNG_sushans_party: "Sushans Party" #NT!
+ QNG_sushans_party_2: "Sushans Party" #NT!
+ QNG_sushans_party_3: "Sushans Party" #NT!
+ QNG_sushans_party_remnants: "Remnants of Sushans Party" #NT!
+ QNG_sushans_party_remnants_2: "Remnants of Sushans Party" #NT!
+ QNG_sushans_party_remnants_3: "Remnants of Sushans Party" #NT!
+ QNG_sushans_party_remnants_4: "Remnants of Sushans Party" #NT!
+ QNG_rasing_funds: "Raising Funds" #NT!
+ QNG_rasing_funds_desc: "" #NT!
+ QNG_tax_opium: "Levy Taxes on Opium" #NT!
+ QNG_tax_west: "Levy Taxes on the West" #NT!
+ QNG_tax_businesses: "Tax Businesses" #NT!
+ QNG_tax_goods: "Increase Taxes on Goods" #NT!
+ QNG_tax_medical: "Increase Taxes on Medical Goods" #NT!
+ QNG_reforming_army: "Reforming the Army" #NT!
+ QNG_art_of_war: "Art of War" #NT!
+ QNG_obtain_west_personel: "Obtain Western Personel" #NT!
+ QNG_increase_wage: "Increase Army Wages" #NT!
+ QNG_invest_support_staff: "Invest in our Support Staff" #NT!
+ QNG_new_army_code: "New Army Code" #NT!
+ QNG_army_to_fight_barbarians: "An Army to Fight the Barbarians" #NT!
+ QNG_those_outside: "Those Outside" #NT!
+ QNG_manage_tributaries: "Manage the Tributaries" #NT!
+ QNG_VIN_investments: "Investment in [VIN.GetName]" #NT!
+ QNG_KOR_investments: "Investment in [KOR.GetName]" #NT!
+ QNG_european_issues: "The European Issue" #NT!
+ QNG_dealing_with_ENG: "Dealing with the British" #NT!
+ QNG_manage_influence: "Manage European Influence" #NT!
+ QNG_fighting_the_opium_war: "Fighting the Opium War" #NT!
+ QNG_death_of_xianfeng: "The Death of Xianfeng" #NT!
+ QNG_honor_the_emperor: "Honor the Emperor" #NT!
+ QNG_founding_council: "Founding the Council" #NT!
+ QNG_xinyou_coup: "The Xinyou Coup" #NT!
+ QNG_countering_the_coup: "Countering the Coup" #NT!
+ QNG_aftermath_xinyou_coup: "Aftermath of the Xinyou Coup" #NT!
+ QNG_fortify_position: "Fortify our Position" #NT!
+ QNG_execute_opposition: "Execute the Opposition" #NT!
+ QNG_reorg_daunhua_bodyguards: "Reorganise the Daunhua Bodyguards" #NT!
+ QNG_reorg_ministry_personnel: "Reorganise the Ministry of Personnel" #NT!
+ QNG_reorg_ministry_war: "Reorganise the Ministry of War" #NT!
+ QNG_remnants_sushan_party: "Dealing with the Remnants of Sushans Party" #NT!
+ QNG_reorg_ministry_revenue: "Reorganise the Ministry of Revenue" #NT!
+ QNG_reorg_ministry_rites: "Reorganise the Ministry of Rites" #NT!
+ QNG_reappoint_grand_secretariat: "Reappoint Grand Secretariat" #NT!
+ QNG_reorg_grand_council: "Reorganise the Grand Council" #NT!
+ QNG_tongzhi_restoration: "Tongzhi Restoration" #NT!
+ QNG_politics_behind_curtain: "Politics from Behind the Curtain" #NT!
+  
+  
+ QNG_xianfeng_illness: "Xianfeng Illness" #NT!
+ PAW_accepted: "Gaoshan Accepted Unifaction" #NT!
+ CHI_rsw_TAW_unifaction_of_taiwan: "Declare the Formosan Republic" #NT!
+ QNG_yong_ying: "The Yong Ying" #NT!
+  
+ QNG_dealing_with_xiang_army: "Dealing with the Xiang Army" #NT!
+ QNG_dealing_with_xiang_army_desc: "The Xiang Army, a militia army formed in the Hunan region, by Zeng Guofan, was an army to deal with Taiping rebels, and with the Taiping rebels now firmly crushed, we are no longer in need of this army." #NT!
+ QNG_new_standard_army: "New Standard Army" #NT!
+ QNG_new_standard_army_desc: "With local militia armies now no longer in need, and with new foreign weaponry bought and produced in our factories, we can convert some of them into new standard armies, instead of disorganized militia." #NT!
+ QNG_using_yong_ying: "Using the Yong Ying" #NT!
+ QNG_using_yong_ying_desc: "Due to many rebellions, we can utilize the Yong Ying militia, also known as braves, these local militia will help bolster our forces against the rebels fighting against us in the south, and other locations." #NT!
+ QNG_delegated_command: "Delegated Command" #NT!
+ QNG_focus_inf: "Focusing on Infantry" #NT!
+ QNG_local_armies: "Local Armies" #NT!
+ QNG_local_armies_desc: "To help drive out the rebel armies, using local militia, we can use them to form larger armies of local militia, to help better combat the increased strength of the rebels, and other forces." #NT!
+ QNG_keeping_green_army: "Keeping the Green Army" #NT!
+ QNG_professional_reforms_ga: "Professional Green Army" #NT!
+ QNG_professional_reforms: "Professional Reforms" #NT!
+ QNG_traditional_ga: "Traditional Green Army" #NT!
+ QNG_emperors_illness: "The Emperors Illness" #NT!
+  
+ QNG_idea_professional_attempts: "Professional Attempts" #NT!
+  
+  
+  
+  
+  
+ CHI_rse_MNG_secure_southern_front: "Secure Southern Front" #NT!
+  
+ QNG_vic_local_army_supress_revolts: "Local Armies will now Suppress revolts in the future" #NT!
+  
+ QNG_idea_professional_attempts_2: "Professional Attempts" #NT!
+ QNG_idea_professional_attempts_3: "Professional Attempts" #NT!
+ QNG_consolidating_power: "Consolidating Power" #NT!
+  
+ eoanb_decision_QNG_buy_arms_black_market: "Purchase Black market arms" #NT!
+ tai_ideas_of_hong_rengan: "Ideas of Hong Rengan" #NT!
+ tai_ways_of_the_west: "Ways of the West" #NT!
+  
+   ######################################################################################## 
+     ################################# A BOILING POT ######################################## 
+   ######################################################################################## 
+ QNG_new_gengzi_policies: "New Gengzi Policies" #NT!
+ QNG_focus_on_military: "Focus On The Military" #NT!
+ QNG_abolish_traditional_test: "Abolish Traditional Martial Tests" #NT!
+ QNG_establish_hanyang_arsenal: "Establish The Hanyang Arsenal" #NT!
+ QNG_establish_shanghai_arsenal: "Establish The Shanghai Arsenal" #NT!
+ QNG_establish_guangzhou_arsenal: "Establish The Guangzhou Arsenal" #NT!
+ QNG_reorg_beiyang_army: "Reorganise The Beiyang Army" #NT!
+ QNG_revive_the_navy: "Revive The Navy" #NT!
+ QNG_send_naval_officer_to_japan: "Send Naval Officers To Japan" #NT!
+ QNG_build_jianying_naval_school: "Build The Jianying Naval School" #NT!
+ QNG_build_mawei_shipyard: "Build The Mawei Shipyard" #NT!
+ QNG_establish_naval_guard_town: "Establish Naval Guard Towns" #NT!
+ QNG_send_minister_abroad: "Send Ministers Abroad" #NT!
+ QNG_studying_report: "Study The Reports" #NT!
+ QNG_prepare_constitutionism: "Prepare For Constitutionism" #NT!
+ QNG_prepare_constitutional_outline: "Prepare Constitutional Outliens" #NT!
+ QNG_issue_principles_of_constitution: "Issue Constitution Principles" #NT!
+ QNG_arrange_provincial_assembly_elections: "Arrange Elections For Provincial Assembly" #NT!
+ QNG_focus_on_administration: "Focus On Administration" #NT!
+ QNG_examine_imperial_exam: " Examine The Imperial Exam" #NT!
+ QNG_westernize_schools: "Westernize The Schools" #NT!
+ QNG_provincial_military_academy: "Provincial Military Academy" #NT!
+ QNG_organized_police_force: "Organize The Police Force" #NT!
+ QNG_establish_regional_force: "Establish Regional Forces" #NT!
+ QNG_establish_local_districts: "Establish Local Districits" #NT!
+ QNG_open_model_prisons: "Open Model Prisons" #NT!
+ QNG_focus_on_economy: "Focus On The Economy" #NT!
+ QNG_expand_Tax_system: "Expand The Tax System" #NT!
+ QNG_increase_fiscal_regulation: "Increase Fiscal Regulation" #NT!
+ QNG_greater_fiscal_control: "Greater Fiscal Control" #NT!
+ QNG_railway_construction: "Railway Constructon" #NT!
+ QNG_encourage_foreign_investment: "Encourage Foreign Investment" #NT!
+ QNG_expand_investments: "Expand The Investments" #NT!
+ QNG_a_new_era: "A New Era" #NT!
+ QNG_open_zizheng_institute: "Open The ZiZheng Institute" #NT!
+ QNG_establish_tsing_hua_uni: "Establish The Tsing Hua University" #NT!
+ QNG_provincial_advisory_council: "Provincial Advisory Council" #NT!
+ QNG_constitutional_outline: "Constitutional Outline" #NT!
+ QNG_civil_right_and_obligation: "Civil Rights And Obligations" #NT!
+ QNG_essential_of_parliment: "Essentials Of Parliment" #NT!
+ QNG_election_law_essentials: "Essential Election Laws" #NT!
+ QNG_continuing_fiscal_reform: "Continue The Fiscam Reforms" #NT!
+ QNG_first_national_budget: "The First National Budget" #NT!
+ QNG_unification_of_currency_weights: "Unification Of Currency Weights" #NT!
+  
+ 	######################################################################################## 
+ 	######################################################################################## 
+ 	#################################### ADVISOR ########################################### 
+ 	######################################################################################## 
+ 	######################################################################################## 
+  
+ QNG_Advisor_Weng_Tonghe: "Weng Tonghe" #NT!
+ QNG_Advisor_Weng_Tonghe_desc: "Scholar and Imperial Tutor" #NT!
+ QNG_Advisor_Prince_Gong: "Prince Gong" #NT!
+ QNG_Advisor_Prince_Gong_desc: "" #NT!
+ QNG_Advisor_Yixuan: "Yixuan" #NT!
+ QNG_Advisor_Yixuan_desc: "" #NT!
+ TAI_1857_Leader_desc: "Born into a poor family in 1814 in Guangdong province, the future Tianwang of the Taiping Heavenly Kingdom Hong Xiuquan was touted to be high in intelligence. However as Hong took the government examinations several times he was unable to obtain a degree. After a period of emotional turmoil Hong turned to Christianity becoming a self-declared Christian." #NT!
+  
+  ###Advisors Traits 
  QNG_trait_Zuo_Zongtang: "Agriculture Expert" #NT!
  QNG_trait_Yixuan_Prince_Chun: "Modest Official" #NT!
  QNG_trait_Duan: "Hardline Conservative" #NT!
  QNG_trait_Sushun: "Consulter of the Emperor" #NT!
  QNG_trait_Li_Hongzhang: "Enthusiast Reformer" #NT!
  QNG_trait_Keying: "Experienced Diplomat" #NT!
-
-CHI_rsw_rebels_to_state:0 "От повстанцев к государству"
-CHI_rsw_removing_manchu_influence:0 "Устранение маньчжурского влияния"
-CHI_rsw_kowtow:0 "Поклониться"
-CHI_rsw_improving_eco:0 "Улучшение нашей экономики"
-CHI_rse_the_weapons_of_war:0 "Оружие войны"
-CHI_rse_traditional_arms:0 "Традиционное оружие"
-CHI_rse_modernixed_arms:0 "Модернизированное оружие"
-CHI_1872_reuniting_china:0 "Воссоединение Китая"
-CHI_rse_prepare_against_ming:0 "Готовиться против Мин"
-CHI_rse_relegate_the_past:0 "Отодвинуть их в прошлое"
-CHI_rse_end_restorers:0 "Покончить с реставраторами".
-CHI_rse_bring_the_final_blow:0 "Bring the Final Blow" #NT!
-CHI_rse_crushing_yanling:0 "Сокрушить Янлинга"
-QNG_quality_over_quanty_ga:0 "Качество превыше кванти"
-QNG_creating_modern_force_ga:0 "Создание современной силы"
-QNG_sushans_party_reorganised:0 "Сушанская партия"
-QNG_burecratic_issues:0 "Burecratic Issues"
-QNG_burecratic_issues_2:0 "Бурекратические вопросы"
-QNG_empresses_support:0 "Сторонники враждебных императриц"
-QNG_empresses_support_2:0 "Сторонники враждебных императриц"
-QNG_empresses_support_3:0 "Недовольные сторонники императриц"
-QNG_empresses_support_4:0 "Успокоенные сторонники императриц"
-
-
-terrible_famine:0 "Ужасный голод"
-worsening_famine:0 "Ухудшающийся голод"
-bad_famine:0 "Плохой голод"
-light_famine:0 "Легкий голод"
-
-QNG_mac_northern_famine:0 "§RСеверный голод§!"
-QNG_mac_northern_famine_2:0 "§RСеверный голод§!"
-QNG_mac_northern_famine_3:0 "§RСеверный голод§!"
-QNG_mac_northern_famine_4:0 "§RСеверный голод§!"
-QNG_mac_northern_famine_5:0 "Восстановление после северного голода"
-QNG_gxu_prestige_of_qing:0 "Престиж Цин"
-
-xinghai_reb.1.t:0 "Основано литературное общество Фурэн"
-xinghai_reb.2.t:0 "Основано Синьчжунхуэй"
-xinghai_reb.3.t:0 "Восстание в Гуанчжоу"
-xinghai_reb.4.t:0 "Заговор мятежников сорван в Хунани"
-xinghai_reb.5.t:0 "Восстание в Хуэйчжоу"
-xinghai_reb.6.t:0 "Восстание в Хуэйчжоу рассеяно"
-xinghai_reb.7.t:0 "Небесное царство Великого Мингшуна"
-xinghai_reb.8.t:0 "Восстание Пин-лю-ли"
-xinghai_reb.9.t:0 "Покушение на Восточную железную дорогу Чжэнъянмэнь"
-xinghai_reb.10.t:0 "Восстание в Хуангане"
-xinghai_reb.11.t:0 "Восстание Хуэйчжоу Цинюху"
-xinghai_reb.12.t:0 "Восстание в Аньцине"
-xinghai_reb.13.t:0 "Циньчжоуское восстание"
-xinghai_reb.14.t:0 "Циньчжоуское восстание рассеялось"
-xinghai_reb.15.t:0 "Восстание Чжэньнаньгуань"
-xinghai_reb.16.t:0 "Цинь-ляньское восстание"
-xinghai_reb.17.t:0 "Восстание Цинь-лянь заканчивается"
-xinghai_reb.19.t:0 "Восстание Хэкоу"
-xinghai_reb.20.t:0 "Восстание Мапаоин"
-xinghai_reb.21.t:0 "Восстание новой армии Гэнсю"
-xinghai_reb.22.t:0 "Восстание кургана Желтого Цветка"
-xinghai_reb.23.t:0 "Восстание Вучана"
-xinghai_reb.23.d:0 "До нас только что дошли новости о восстании в городе Вучан! Вчера вечером в 7:00 вечера в городе взорвалась бомба, и революционеры начали внезапную осаду города и захватили его к следующему дню! Эти революционеры прислали нам сообщение, объявив себя Военным правительством Хубэя Китайской Республики. Это "Временное правительство" возглавил губернатор Ли Юаньхун, и многие наши офицеры были убиты во время нападения!".
-xinghai_reb.23.a:0 "Пришлите войска, мы должны разобраться с этим немедленно!".
-xinghai_reb.24.t:0 "Восстановление Чанши"
-xinghai_reb.24.d:0 "Хунаньские тонгменгуи провозгласили в Хунцзяне Хунаньское военное правительство Китайской Республики! Они захватили город и убили местного императорского генерала! Их силы, возглавляемые Цзяо Дафэном и Чэнь Цзуосинем, склонили наши новые армейские ряды присоединиться к их делу в качестве нашей оппозиции! Ситуация оборачивается против нас, и наши шансы на победу уменьшаются".
-xinghai_reb.24.a:0 "Подождите, Военное правительство "чего"?"
-xinghai_reb.25.t:0 "Восстание Шэньси"
-xinghai_reb.25.d:0 "Сейчас шэньсийские Тонгменхуй, возглавляемые Цзин Динчэн и Цянь Дин, а также Цзин Вуму и другими, включая Гелаохуэй, сумели захватить город Сиань после 2 дней борьбы! Они провозгласили "Военное правительство Циньлун Фуханя", однако их сообщество разделилось в поддержке благодаря мусульманским общинам. Чжан Фэнхуэй, член общества Юаньричжи, был избран новым губернатором. Поступают сообщения о том, что в городе было уничтожено около 20 000 маньчжуров. \nВ довершение всего, генерал Вэньруй покончил жизнь самоубийством, бросившись в колодец в Сиане, поэтому мы больше не можем просить его об услугах. \nВ живых остались только богатые маньчжуры и маньчжурские женщины, маньчжурских девушек богатые ханьцы берут в рабство, а бедные ханьцы берут маньчжурских женщин в жены. Молодые маньчжурские девушки также были захвачены мусульманскими общинами, чтобы стать мусульманками!".
-xinghai_reb.26.t:0 "Восстание в Цзюцзяне"
-xinghai_reb.26.d:0 "Лин Сень, Цзян Цюнь, Цай Хуэй и другие члены Тунмэньхуэй в провинции Цзянси затеяли восстание частей Новой армии! Они вытеснили наши войска из провинции и провозгласили "Военное правительство Цзюцзян" независимым государством!".
-xinghai_reb.27.t:0 "Восстание в Тайюане"
-xinghai_reb.27.d:0 "Янь Сишань из Новой армии возглавил восстание в Тайюане, столице провинции Шаньси, вместе с Яо Ицзе, Хуан Гуоляном, Вэнь Шоуцюанем, Ли Чэнлинем, Чжан Шучжи и Цяо Си.\nПовстанцы в Тайюане обстреляли улицы, где жили люди Знамени, и убили всех маньчжуров. Им удалось убить цинского губернатора Шаньси Лу Чжунци. Недавно они объявили о создании "военного правительства Шаньси" с Янь Сишанем в качестве военного губернатора".
-xinghai_reb.28.t:0 "Двойное девятое восстание в Куньмине"
-xinghai_reb.28.d:0 "Ли Гэньюань из Тунмэньхуэй в Юньнани объединился с Цай Е, Ло Пэйцзинем, Тан Цзяо и другими офицерами Новой армии, чтобы начать "Восстание двойного девятого". Они захватили Куньмин и создали "Военное правительство Юньнани", избрав Цай Е военным губернатором".
-xinghai_reb.29.t:0 "Восстановление Наньчана"
-xinghai_reb.29.d:0 "Наньчанское отделение Тунмэньхуэй возглавило отряды Новой армии в успешном восстании! Они создали "Военное правительство Цзянси". Ли Лицзюнь был избран военным губернатором. Ли объявил Цзянси независимой и начал экспедицию против цинского чиновника Юань Шикая".
-xinghai_reb.30.t:0 "Шанхайское вооруженное восстание"
-xinghai_reb.30.d:0 "Шанхайские тонгменгуи, гуанфухуи и купцы во главе с Чэнь Цимэй, Ли Пинсу, Чжан Чэнгоу, Ли Инши, Ли Сихэ и Сун Цзяорен подняли вооруженное восстание в Шанхае при поддержке местных полицейских! Они создали "Шанхайское военное правительство" и избрали Чэнь Цимэя военным губернатором".
-xinghai_reb.31.t:0 "Восстание в Гуйчжоу"
-xinghai_reb.31.d:0 "Чжан Байлинь из революционной партии в Гуйчжоу возглавил восстание вместе с частями Новой армии и студентами военной академии. Они немедленно захватили Гуйян и создали "Военное правительство Великой Хань Гуйчжоу", избрав Ян Цзиньчэна и Чжао Дэцюаня начальником и вице-губернатором соответственно."
-xinghai_reb.32.t:0 "Чжэцзянское восстание"
-xinghai_reb.32.d:0 "Революционеры в Чжэцзяне вместе с отрядами Новой армии в Ханчжоу начали восстание. Чжу Руй, У Сиюй, Лу Гунван и другие члены Новой армии захватили мастерскую военных припасов. Другие отряды, возглавляемые Чан Кайши и Инь Чжирэй, захватили большинство правительственных учреждений. Ханчжоу перешел под контроль революционеров, и конституционалист Тан Шоуцян был избран военным губернатором."
-xinghai_reb.33.t:0 "Аньхойское восстание"
-xinghai_reb.33.d:0 "В этот день члены аньхойской Тунмэньхуэй также начали восстание и осадили столицу провинции. Конституционалисты убедили Чжу Цзябао, цинского губернатора Аньхой, объявить о независимости."
-xinghai_reb.34.t:0 "Восстание в Гуанси"
-xinghai_reb.35.t:0 "Фуцзянь провозглашает независимость"
-xinghai_reb.36.t:0 "Гуандун провозглашает независимость"
-xinghai_reb.37.t:0 "Шаньдун провозглашает независимость"
-xinghai_reb.38.t:0 "Восстание в Нинся"
-xinghai_reb.39.t:0 "Сычуань провозглашает независимость"
-xinghai_reb.40.t:0 "Нанкинское восстание"
-xinghai_reb.41.t:0 "Монголия провозглашает независимость"
-xinghai_reb.42.t:0 "Результаты конференции Север-Юг"
-xinghai_reb.43.t:0 "Результаты конференции Север-Юг"
-xinghai_reb.44.t:0 "Флаг нации"
-xinghai_reb.44.d:0 "Китай объединен под нашим правительством в Бэйяне, но есть разногласия по поводу того, какой флаг мы должны использовать. Военные из Вучана хотят девятизвездочный флаг, Лу Хаодон выступает за голубое небо с белым солнцем, а Хуан Синь предлагает флаг с "колодезной" системой сельского хозяйства. В настоящее время лидирует флаг "Пять наций под одним флагом", любимый бэйянским флотом. Другие незначительные голоса предлагают придерживаться флага "Железной крови", который был поднят при провозглашении республики..."
-xinghai_reb.44.a:0 "Пять рас под единым союзом"
-xinghai_reb.44.a.h:0 "§CЭто исторический вариант§!"
-xinghai_reb.44.b:0 "Девять звезд"
-xinghai_reb.44.c:0 "Синее небо, белое солнце"
-xinghai_reb.44.e:0 "Железная кровь"
-xinghai_reb.44.f:0 "Колодезное поле(хэштег)"
-xinghai_reb.45.t:0 "Тайваньское восстание"
-xinghai_reb.46.t:0 "Республика Урянхай провозглашает независимость"
-xinghai_reb.47.t:0 "Тибет провозглашает полную независимость"
-
-QNG_gxu_death_of_tongzhi_emperor:0 "Смерть императора Тунчжи"
-QNG_gxu_treating_illness:0 "Лечение болезни регента"
-
-QNG_autonomus_navy:0 "Автономный флот"
-QNG_autonomus_navy_desc:0 "Флоты Цинги подобны провинциям, предпринимая независимые действия и конкурируя друг с другом за благосклонность императора. из-за этого этот флот может решить не участвовать в войне".
-QNG_Form_Guangdong_Fleet_tooltip:0 "§YГуандунский флот будет сформирован в Шаньтоу§!".
-QNG_Form_Fujian_Fleet_tooltip:0 "§YФуцзянский флот будет сформирован в Фучжоу§!".
-
-CHI_idea_of_factories:0 "Строительство фабрик"
-MNG_idea_chosen_men:0 "Избранник Мин"
-MNG_idea_chosen_men_2:0 "Избранники Минга"
-CHI_white_lotus:0 "Секта Белого Лотоса"
-CHI_white_lotus_2:0 "Секта Белого Лотоса"
-CHI_white_lotus_3:0 "Секта Белого Лотоса"
-CHI_rebel_administration:0 "Администрация повстанцев"
-CHI_rebel_administration_2:0 "Администрация повстанцев"
-CHI_rebel_administration_3:0 "Администрация повстанцев"
-CHI_rebel_administration_4:0 "Администрация после восстания"
-
-
-CHI_idea_infratructure_development:0 "Развитие инфраструктуры"
-QNG_jiangnan_arsenal_mission:0 "Строительство Цзяннаньского арсенала"
-QNG_jiangnan_arsenal_naval_mission:0 "Строительство Цзяннаньского военно-морского арсенала"
-QNG_jiangnan_arsenal_2_mission:0 "Расширение Цзяннаньского арсенала"
-QNG_jin_ling_arsenal_mission:0 "Строительство арсенала Цзиньлин"
-QNG_beiyang_machine_factory_mission:0 "Строительство Бэйянского машиностроительного завода"
-QNG_beiyang_machine_factory_dockyard_mission:0 "Строительство верфей Бэйяна"
-QNG_fuzhou_navy_shipyard: "Construction of the Foochow Arsenal" #NT!
-QNG_fuzhou_navy_shipyard_expansion: "Expansion of the Foochow Arsenal" #NT!
-QNG_construction_anqing_arsenal: "Construction of the Anqing Arsenal" #NT!
-QNG_construction_shanghai_arsenal: "Construction of The Shanghai Arsenal" #NT!
-QNG_decision_lanzhou_arsenal: "Construction of The Lanzhou Arsenal" #NT!
-QNG_decision_lanzhou_fabric_factory: "Construction of The Lanzhou Fabric Factory" #NT!
-QNG_decision_hubei_fabric_factory: "Construction of The Hubei Fabric Factory" #NT!
-QNG_decision_guizhou_ironworks: "Construction of The Guizhou Ironworks" #NT!
-QNG_decision_hanyang_ironworks: "Construction of The Hanyang Ironworks" #NT!
-QNG_decision_ping_hsiang_coal_mines: "Foundation of The Ping Hsiang Coal Mines" #NT!
-QNG_decision_keelung_coal_mine: "Foundation of The Keelung Coal Mines" #NT!
-QNG_decision_foreign_weapon_manuals: "Study Western Weapon Designs" #NT!
-QNG_decision_foreign_weapon_manuals_desc: "Our scholars studying western weapon designs will give them greater insight on foreign equipment design." #NT!
-CHI_idea_tongwen_guan:0 "Тунвэнь Гуань"
-eoanb_decision_QNG_retake_dali:0 "Отвоевать Дали"
-CHI_industrialization_category:0 "Движение самоукрепления"
+  
+ CHI_rsw_rebels_to_state: "From Rebels to State" #NT!
+ CHI_rsw_removing_manchu_influence: "Removing Manchu Influence" #NT!
+ CHI_rsw_kowtow: "Kowtow" #NT!
+ CHI_rsw_improving_eco: "Improving our Economy" #NT!
+ CHI_rse_the_weapons_of_war: "The Weapons of War" #NT!
+ CHI_rse_traditional_arms: "Traditional Arms" #NT!
+ CHI_rse_modernixed_arms: "Modernised Arms" #NT!
+ CHI_1872_reuniting_china: "Reunifaction of china" #NT!
+ CHI_rse_prepare_against_ming: "Prepare Against Ming" #NT!
+ CHI_rse_relegate_the_past: "Relegate them to the past" #NT!
+ CHI_rse_end_restorers: "End the Restorers" #NT!
+ CHI_rse_bring_the_final_blow: "Bring the Final Blow" #NT!
+ CHI_rse_crushing_yanling: "Crushing Yanling" #NT!
+ QNG_quality_over_quanty_ga: "Quality over Quanty" #NT!
+ QNG_creating_modern_force_ga: "Creating a Modern Force" #NT!
+ QNG_sushans_party_reorganised: "Sushans Party" #NT!
+ QNG_burecratic_issues: "Burecratic Issues" #NT!
+ QNG_burecratic_issues_2: "Burecratic Issues" #NT!
+ QNG_empresses_support: "Hostile Empresses Supporters" #NT!
+ QNG_empresses_support_2: "Hostile Empresses Supporters" #NT!
+ QNG_empresses_support_3: "Disgruntled Empresses Supporters" #NT!
+ QNG_empresses_support_4: "Calmed Empresses Supporters" #NT!
+  
+  
+ terrible_famine: "Terrible Famine" #NT!
+ worsening_famine: "Worsening Famine" #NT!
+ bad_famine: "Bad Famine" #NT!
+ light_famine: "Light Famine" #NT!
+  
+ QNG_mac_northern_famine: "§RNorthern Famine§!" #NT!
+ QNG_mac_northern_famine_2: "§RNorthern Famine§!" #NT!
+ QNG_mac_northern_famine_3: "§RNorthern Famine§!" #NT!
+ QNG_mac_northern_famine_4: "§RNorthern Famine§!" #NT!
+ QNG_mac_northern_famine_5: "Recovering from the Northern Famine" #NT!
+ QNG_gxu_prestige_of_qing: "Prestige of the Qing" #NT!
+  
+ xinghai_reb.1.t: "Furen Literary Society founded" #NT!
+ xinghai_reb.2.t: "Xingzhonghui founded" #NT!
+ xinghai_reb.3.t: "Guangzhou Uprising" #NT!
+ xinghai_reb.4.t: "Rebellion Plot foiled in Hunan" #NT!
+ xinghai_reb.5.t: "Huizhou Uprising" #NT!
+ xinghai_reb.6.t: "Huizhou Uprising Disperses" #NT!
+ xinghai_reb.7.t: "The Heavenly Kingdom of the Great Mingshun" #NT!
+ xinghai_reb.8.t: "Ping-liu-li Uprising" #NT!
+ xinghai_reb.9.t: "Zhengyangmen East Railway assassination attempt" #NT!
+ xinghai_reb.10.t: "Huanggang Uprising" #NT!
+ xinghai_reb.11.t: "Huizhou Qinühu Uprising" #NT!
+ xinghai_reb.12.t: "Anqing Uprising" #NT!
+ xinghai_reb.13.t: "Qinzhou Uprising" #NT!
+ xinghai_reb.14.t: "Qinzhou Uprising disperses" #NT!
+ xinghai_reb.15.t: "Zhennanguan Uprising" #NT!
+ xinghai_reb.16.t: "Qin-lian Uprising" #NT!
+ xinghai_reb.17.t: "Qin-lian Uprising ends" #NT!
+ xinghai_reb.19.t: "Hekou uprising" #NT!
+ xinghai_reb.20.t: "Mapaoying uprising" #NT!
+ xinghai_reb.21.t: "Gengxu New Army Uprising" #NT!
+ xinghai_reb.22.t: "Yellow Flower Mound Revolt" #NT!
+ xinghai_reb.23.t: "Wuchang Uprising" #NT!
+ xinghai_reb.23.d: "News has just reached us of a revolt in the city of Wuchang! Last night at 7:00PM, a bomb went off in the city and revolutionaries launched a surprise siege of the city and captured it by the next day! These revolutionaries have sent us a message, declaring themselves the Military Government of Hubei of Republic of China. This 'Temporary government' is led by Governor Li Yuanhong and many of our officers have been killed in the attack!" #NT!
+ xinghai_reb.23.a: "Send in the troops, we must deal with this immediately!" #NT!
+ xinghai_reb.24.t: "Changsha Restoration" #NT!
+ xinghai_reb.24.d: "The Hunan Tongmenghui have declared the Hunan Military Government of the Republic of China in Hongjiang! They have captured the city and killed the local Imperial General! Their forces, led by Jiao Dafeng and Chen Zuoxin, have swayed our new army ranks into joining their cause as our opposition! The situation is turning on us, and our chances of victory are slimming." #NT!
+ xinghai_reb.24.a: "Wait, Military Government of the ‘what’?" #NT!
+ xinghai_reb.25.t: "Shaanxi Uprising" #NT!
+ xinghai_reb.25.d: "Now Shaanxi’s Tongmenghui, led by Jing Dingcheng and Qian Ding as well as Jing Wumu and others including Gelaohui, have managed to capture the city of Xi’an after 2 days of struggle! They have declared the  'Qinlong Fuhan Military Government', however their community is divided in support thanks to the Muslim communities there. Zhang Fenghui, a member of the Yuanrizhi Society has been elected as their new governor. Reports are coming in of around 20,000 manchus being slaughtered in the city. \nTo top things off, General Wenrui has committed scuicide by throwing himself down a well in Xi’an, meaning we can no longer implore his services. \nOnly Wealthy Manchu men and Manchu women have survived, with Manchu girls being taken by wealthy Han Chinese as slave labour, and poor Han Chinese men seizing Manchu women to be their wives. Young Manchu girls have also been taken by Muslim communities to become Muslims!" #NT!
+ xinghai_reb.26.t: "Jiujiang Uprising" #NT!
+ xinghai_reb.26.d: "Lin Sen, Jiang Qun, Cai Hui and other members of the Tongmenghui in the province of Jiangxi have plotted a revolt of New Army units! They have routed our troops out of the province and have declared the 'Jiujiang Military Government' as an independent nation!" #NT!
+ xinghai_reb.27.t: "Taiyuan Uprising" #NT!
+ xinghai_reb.27.d: "Yan Xishan of the New Army led an uprising in Taiyuan, the capital city of the province of Shanxi, along with Yao Yijie, Huang Guoliang, Wen Shouquan, Li Chenglin , Zhang Shuzhi and Qiao Xi.\nThe rebels in Taiyuan have bombarded the streets where Banner people resided and have killed all the Manchu. They managed to kill the Qing Governor of Shanxi, Lu Zhongqi. They have recently announced the establishment of the 'Shanxi Military Government' with Yan Xishan as the military governor." #NT!
+ xinghai_reb.28.t: "Kunming Double Ninth Uprising" #NT!
+ xinghai_reb.28.d: "Li Genyuan of the Tongmenghui in Yunnan has joined with Cai E, Luo Peijin,Tang Jiyao, and other officers of the New Army to launch the ‘Double Ninth Uprising’. They have captured Kunming and have established the 'Yunnan Military Government', electing Cai E as the military governor." #NT!
+ xinghai_reb.29.t: "Nanchang Restoration" #NT!
+ xinghai_reb.29.d: "The Nanchang branch of the Tongmenghui has led New Army units in a successful uprising! They established the 'Jiangxi Military Government'. Li Liejun has been elected as the military governor. Li has declared Jiangxi as independent and launched an expedition against the Qing official Yuan Shikai" #NT!
+ xinghai_reb.30.t: "Shanghai Armed Uprising" #NT!
+ xinghai_reb.30.d: "Shanghai's Tongmenghui, Guangfuhui and merchants led by Chen Qimei, Li Pingsu, Zhang Chengyou, Li Yingshi, Li Xiehe and Song Jiaoren have led an armed revolt in Shanghai, supported by local Police Officers! They have established the 'Shanghai Military Government' and elected Chen Qimei as the military governor." #NT!
+ xinghai_reb.31.t: "Guizhou Uprising" #NT!
+ xinghai_reb.31.d: "Zhang Bailin of the revolutionary party in Guizhou led an uprising along with New Army units and students from the military academy. They have immediately captured Giuyang and established the 'Great Han Guizhou Military Government', electing Yang Jincheng and Zhao Dequan as the chief and vice governor respectively." #NT!
+ xinghai_reb.32.t: "Zhejiang Uprising" #NT!
+ xinghai_reb.32.d: "Revolutionaries in Zhejiang, along with New Army units in Hangzhou have launched an uprising. Zhu Rui, Wu Siyu, Lu Gongwang and others of the New Army have captured the military supplies workshop. Other units, led by Chiang Kai-shek and Yin Zhirei, captured most of the government offices. Hangzhou has fallen under the control of the revolutionaries, and the constitutionalist Tang Shouqian was elected as the military governor." #NT!
+ xinghai_reb.33.t: "Anhui Uprising" #NT!
+ xinghai_reb.33.d: "Members of Anhui's Tongmenghui also launched an uprising on that day and laid siege to the provincial capital. The constitutionalists persuaded Zhu Jiabao, the Qing Governor of Anhui, to announce independence." #NT!
+ xinghai_reb.34.t: "Guangxi Uprising" #NT!
+ xinghai_reb.35.t: "Fujian Declares Independence" #NT!
+ xinghai_reb.36.t: "Guangdong Declares Independence" #NT!
+ xinghai_reb.37.t: "Shandong Declares Independence" #NT!
+ xinghai_reb.38.t: "Ningxia Uprising" #NT!
+ xinghai_reb.39.t: "Sichuan Declares Independence" #NT!
+ xinghai_reb.40.t: "Nanking Uprising" #NT!
+ xinghai_reb.41.t: "Mongolia Declares Independence" #NT!
+ xinghai_reb.42.t: "Results of the North-South Conference" #NT!
+ xinghai_reb.43.t: "Results of the North-South Conference" #NT!
+ xinghai_reb.44.t: "The Nations Flag" #NT!
+ xinghai_reb.44.d: "China is united under our Beiyang government, but there is indision on what flag we should use. The Military of Wuchan desire the nine star flag, Lu Haodon advocates for his blue sky with white sun and Huang Xing proposes a flag bearing the "well-field" system of village agriculture. the current lead is the Five nations under one Union flag, a favourite of the beiyang fleet. other minor voices propose sticking with the Iron blood flag that was raised when the republic was declared..." #NT!
+ xinghai_reb.44.a: "Five Races Under One Union" #NT!
+ xinghai_reb.44.a.h: "§CThis is the Historical Option§!" #NT!
+ xinghai_reb.44.b: "Nine Star" #NT!
+ xinghai_reb.44.c: "Blue Sky, White Sun" #NT!
+ xinghai_reb.44.e: "Iron Blood" #NT!
+ xinghai_reb.44.f: "Well-field(hashtag)" #NT!
+ xinghai_reb.45.t: "Taiwan Uprising" #NT!
+ xinghai_reb.46.t: "Uryankhay Republic declares independance" #NT!
+ xinghai_reb.47.t: "Tibet declares full independace" #NT!
+  
+ QNG_gxu_death_of_tongzhi_emperor: "Death of the Tongzhi Emperor" #NT!
+ QNG_gxu_treating_illness: "Treating the Regents Illness" #NT!
+  
+ QNG_autonomus_navy: "Autonomus Navy" #NT!
+ QNG_autonomus_navy_desc: "Qings navys are similar to provinces, taking independant actions and competing with each other for the emperors favor. due to this, this navy may decide to not partisipate in a war" #NT!
+ QNG_Form_Guangdong_Fleet_tooltip: "§YThe Guangdong fleet will be formed in Shantou§!" #NT!
+ QNG_Form_Fujian_Fleet_tooltip: "§YThe Fujian fleet will be formed in Fuzhou§!" #NT!
+  
+ CHI_idea_of_factories: "Building Factories" #NT!
+ MNG_idea_chosen_men: "The Chosen of Ming" #NT!
+ MNG_idea_chosen_men_2: "The Chosen of Ming" #NT!
+ CHI_white_lotus: "White Lotus Sect" #NT!
+ CHI_white_lotus_2: "White Lotus Sect" #NT!
+ CHI_white_lotus_3: "White Lotus Sect" #NT!
+ CHI_rebel_administration: "Rebel Administration" #NT!
+ CHI_rebel_administration_2: "Rebel Administration" #NT!
+ CHI_rebel_administration_3: "Rebel Administration" #NT!
+ CHI_rebel_administration_4: "Post-Rebel Administration" #NT!
+  
+  
+ CHI_idea_infratructure_development: "Infratructure Development" #NT!
+ QNG_jiangnan_arsenal_mission: "Construction of the Jiangnan Arsenal" #NT!
+ QNG_jiangnan_arsenal_naval_mission: "Construction of the Jiangnan Naval Arsenal" #NT!
+ QNG_jiangnan_arsenal_2_mission: "Expansion of the Jiangnan Arsenal" #NT!
+ QNG_jin_ling_arsenal_mission: "Construction of the Jinling Arsenal" #NT!
+ QNG_beiyang_machine_factory_mission: "Construction of the Beiyang Machine Factory" #NT!
+ QNG_beiyang_machine_factory_dockyard_mission: "Construction of the Beiyang Dockyards" #NT!
+ QNG_fuzhou_navy_shipyard: "Construction of the Foochow Arsenal" #NT!
+ QNG_fuzhou_navy_shipyard_expansion: "Expansion of the Foochow Arsenal" #NT!
+ QNG_construction_anqing_arsenal: "Construction of the Anqing Arsenal" #NT!
+ QNG_construction_shanghai_arsenal: "Construction of The Shanghai Arsenal" #NT!
+ QNG_decision_lanzhou_arsenal: "Construction of The Lanzhou Arsenal" #NT!
+ QNG_decision_lanzhou_fabric_factory: "Construction of The Lanzhou Fabric Factory" #NT!
+ QNG_decision_hubei_fabric_factory: "Construction of The Hubei Fabric Factory" #NT!
+ QNG_decision_guizhou_ironworks: "Construction of The Guizhou Ironworks" #NT!
+ QNG_decision_hanyang_ironworks: "Construction of The Hanyang Ironworks" #NT!
+ QNG_decision_ping_hsiang_coal_mines: "Foundation of The Ping Hsiang Coal Mines" #NT!
+ QNG_decision_keelung_coal_mine: "Foundation of The Keelung Coal Mines" #NT!
+ QNG_decision_foreign_weapon_manuals: "Study Western Weapon Designs" #NT!
+ QNG_decision_foreign_weapon_manuals_desc: "Our scholars studying western weapon designs will give them greater insight on foreign equipment design." #NT!
+ CHI_idea_tongwen_guan: "Tongwen Guan" #NT!
+ eoanb_decision_QNG_retake_dali: "Retake Dali" #NT!
+ CHI_industrialization_category: "Self Strengthing Movement" #NT!

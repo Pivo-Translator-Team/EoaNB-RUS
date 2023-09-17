@@ -1,522 +1,522 @@
 ﻿l_russian:
-
- #Decisions #NT!
- OTO_suppress_independence_movements_in_the_balkans: "Подавление движений за независимость на Балканах."
- OTO_suppress_independence_movements_in_the_balkans_desc: "В последние годы наблюдается рост национализма среди меньшинств на Балканах. Если мы не отреагируем сейчас и не подавим их в ближайшее время, может быть слишком поздно, и мы можем потерять там наши территории."
- OTO_reign_in_montenegro: "Править в [MNT.GetName]"
- OTO_reign_in_montenegro_desc: "[MNT.GetName] формально является нашим вассалом, однако теперь они решили напасть на нас в глупой попытке узурпировать наше законное правление на их землях. Пришло время напомнить им о последствиях, которые может иметь такое решение в этом жестоком мире."
- OTO_montenegro_independence_war: "[MNT.GetAdjective] Война за Независимость"
- OTO_montenegro_independence_war_desc: "Мы должны завершить нашу войну с христианской [MNT.GetName] иначе крупные европейские державы могут вмешаться и заставить нас принять мир на их условиях."
-
- #Focus Tree #NT!
- OTO_vic_land_code_1858: "Земельный кодекс 1858 года"
- OTO_vic_land_code_1858_desc: "Мы должны классифицировать различные типы землевладения, чтобы мы могли точно регистрировать и, следовательно, наилучшим образом использовать различные типы земельных владений по всей империи."
- OTO_vic_increase_spending: "Увеличить расходы"
- OTO_vic_increase_spending_desc: "Мы должны эффективно использовать финансы, полученные от наших кредитов, и инвестировать в более сильную экономику в долгосрочной перспективе, даже если это дорого нам обойдется сейчас."
- OTO_vic_save_money: "Экономить деньги"
- OTO_vic_save_money_desc: "Отложите деньги в казну, чтобы погасить наши огромные международные долги. Это может быть больно, но это единственный способ избежать банкротства."
- OTO_vic_defund_charities: "Лишение финансирования благотворительных организаций"
- OTO_vic_defund_charities_desc: "Казна теряет много денег, финансируя исламские благотворительные организации. Давайте оставим это частным инвесторам и сохраним как можно больше доходов для себя."
- OTO_vic_army_cutbacks: "Сокращения в армии"
- OTO_vic_army_cutbacks_desc: "После унизительных поражений мы больше не должны легкомысленно тратить деньги на армию. Лучше всего потратить время на восстановление экономики, а об армии подумать позже."
- OTO_vic_first_crimean_war_debt_payoff: "Выплата долга за первую Крымскую войну"
- OTO_vic_first_crimean_war_debt_payoff_desc: "Используйте деньги, которые мы сэкономили, чтобы сделать наш первый взнос в погашение нашего долга за Крымскую войну."
- OTO_vic_auction_state_assets: "Аукцион государственных активов"
- OTO_vic_auction_state_assets_desc: "Продавайте собственность султана и местных органов власти тому, кто предложит самую высокую цену, будь то региональная знать или иностранные частные инвесторы. Мы можем заработать много денег, продавая таким образом сокровища и небольшие участки земли."
- OTO_vic_final_crimean_war_debt_payment: "Окончательная выплата долга за Крымскую войну"
- OTO_vic_final_crimean_war_debt_payment_desc: "Соберите средства, чтобы погасить последний долг за Крымскую войну. После этого раунда платежей мы, наконец, освободимся от долгов."
- OTO_vic_close_down_embassies: "Закрывать посольства"
- OTO_vic_close_down_embassies_desc: "Наши дипломатические расходы огромны. Хотя они поддерживают наше международное присутствие, они не жизненно важны для продолжения нашей империи."
- OTO_vic_governmental_infrastructure: "Правительственная инфраструктура"
- OTO_vic_governmental_infrastructure_desc: ""
- OTO_vic_justice_reforms: "Судебные Реформы"
- OTO_vic_justice_reforms_desc: "Наша система уголовного правосудия слишком коррумпирована и наполнена бюрократической волокитой. Реформирование системы решит эту проблему."
- OTO_vic_crimean_debt_question: "Вопрос Крымского долга"
- OTO_vic_crimean_debt_question_desc: ""
- OTO_vic_deal_with_bankruptcy: "Разобраться с банкротством"
- OTO_vic_deal_with_bankruptcy_desc: "Мы были вынуждены объявить о банкротстве; нам необходимо выделить ресурсы, чтобы помочь смягчить это."
- OTO_vic_profits_of_the_cotton_trade: "Прибыль от торговли хлопком"
- OTO_vic_profits_of_the_cotton_trade_desc: ""
- OTO_vic_raise_taxes: "Повысить налоги"
- OTO_vic_raise_taxes_desc: "Мы должны увеличить налоги, чтобы оплатить наши расходы и выплату долгов."
- OTO_vic_first_payment: "Первый платеж по долгу"
- OTO_vic_first_payment_desc: ""
- OTO_vic_stimulate_the_ottoman_economy: "Стимулировать экономику Османской империи"
- OTO_vic_stimulate_the_ottoman_economy_desc: "Выделение заемных денег на развитие нашего промышленного центра гарантирует, что мы не столкнемся с подобной ситуацией в будущем."
- OTO_vic_invest_in_ottoman_businesses: "Инвестировать в Османский бизнес"
- OTO_vic_invest_in_ottoman_businesses_desc: "Субсидирование малого бизнеса приведет к внутреннему экономическому росту и придаст импульс нашей экономике."
- OTO_vic_the_question_of_religious_freedoms: "Вопрос о религиозных свободах"
- OTO_vic_the_question_of_religious_freedoms_desc: "Пришло время решить, как мы должны относиться к другим религиям в нашей империи."
- OTO_vic_Force_convert_the_churches: "Силой обращать церкви"
- OTO_vic_Force_convert_the_churches_desc: "Мы должны вместе с другими церквями в пределах империи проповедовать исламские ценности."
- OTO_vic_religious_repair: "Религиозное востановление"
- OTO_vic_religious_repair_desc: "Мы должны восстановить наши отношения с различными церквями."
- OTO_vic_schooling_reforms: "Реформы образования"
- OTO_vic_schooling_reforms_desc: "Модернизация нашей системы образования поможет нам догнать остальную Европу."
- OTO_vic_power_control: "Власть и контроль"
- OTO_vic_power_control_desc: ""
- OTO_vic_empower_sultan: "Наделите силой султана"
- OTO_vic_empower_sultan_desc: ""
- OTO_vic_closed_schooling: "Ограниченое образование"
- OTO_vic_closed_schooling_desc: "Ограничение числа учащихся, которые могут ходить в школу, снизит некоторую нагрузку на нашу экономику, в то же время позволяя нам предоставлять образование определенным людям."
- OTO_vic_open_schooling: "Открытое образование"
- OTO_vic_open_schooling_desc: "Открытие системы образования для всех, хотя и потребует больше средств, позволит каждому стать лучше и поможет экономике в долгосрочной перспективе."
- OTO_vic_military_reforms: "Военные реформы"
- OTO_vic_military_reforms_desc: ""
- OTO_vic_enforce_corporal_punishment: "Применять телесные наказания"
- OTO_vic_enforce_corporal_punishment_desc: "Применение телесных наказаний снизит вероятность совершения людьми преступлений."
- OTO_vic_abolish_corporal_punishment: "Отменить телесные наказания"
- OTO_vic_abolish_corporal_punishment_desc: "Нынешняя система телесных наказаний слишком жестока; мы должны отменить ее, чтобы заручиться поддержкой народа."
- OTO_vic_police_force: "Полиция"
- OTO_vic_police_force_desc: ""
- OTO_vic_increased_reforms: "Активизация реформ"
- OTO_vic_increased_reforms_desc: ""
- OTO_vic_the_pay_of_the_grand_vizier: "Жалованье Великого Визиря"
- OTO_vic_the_pay_of_the_grand_vizier_desc: ""
- OTO_vic_1869_nationality_law: "Закон о гражданстве 1869 года"
- OTO_vic_1869_nationality_law_desc: "Дайте гражданство людям внутри нашей страны, независимо от религии или этнической принадлежности."
- OTO_vic_decriminalize_homosexuality: "Декриминализировать гомосексуальность"
- OTO_vic_decriminalize_homosexuality_desc: ""
- OTO_vic_edict_of_public_education: "Указ о Государственном Образовании"
- OTO_vic_edict_of_public_education_desc: ""
- OTO_vic_open_the_imperial_school: "Открыть Императорскую школу"
- OTO_vic_open_the_imperial_school_desc: ""
- OTO_vic_ideals_of_the_tanzimatcilar: "Идеалы Танзимата"
- OTO_vic_ideals_of_the_tanzimatcilar_desc: ""
- OTO_vic_future_of_the_empire: "Будущее Империи"
- OTO_vic_future_of_the_empire_desc: ""
- OTO_vic_traditional_ideals: "Традиционные Идеалы"
- OTO_vic_traditional_ideals_desc: ""
- OTO_vic_Grand_Vizier_Power: "Дайте Великому Визирю больше власти"
- OTO_vic_Grand_Vizier_Power_desc: ""
- OTO_vic_begin_to_Undo_the_Tanzimat: "Начать отмену Танзимата"
- OTO_vic_begin_to_Undo_the_Tanzimat_desc: "Реформы Танзимата сделали султана намного слабее. Пришло время отменить их, восстановить абсолютную власть и вернуть власть визирям."
- OTO_vic_The_Sultans_Viziers: "Визирь Султана"
- OTO_vic_The_Sultans_Viziers_desc: ""
- OTO_vic_Empire_Trade: "Имперская торговля"
- OTO_vic_Empire_Trade_desc: ""
- OTO_vic_Mediterranean_Market: "Средиземноморский рынок"
- OTO_vic_Mediterranean_Market_desc: ""
- OTO_vic_reverse_islahat: "Обратный Ислахат"
- OTO_vic_reverse_islahat_desc: ""
- OTO_vic_forced_islamic_conversion: "Исламское превосходство"
- OTO_vic_forced_islamic_conversion_desc: ""
- OTO_vic_Islamic_State: "Исламское государство"
- OTO_vic_Islamic_State_desc: ""
- OTO_vic_ottomanism: "Османство"
- OTO_vic_ottomanism_desc: ""
- OTO_vic_military_revisionism: "Военный ревизионизм"
- OTO_vic_military_revisionism_desc: ""
- OTO_vic_reimplement_devshirme: "Восстановление Девширме"
- OTO_vic_reimplement_devshirme_desc: "Обеспечьте людям Книги их безопасность в государстве, восстановив Девширме - избранную группу немусульманских подданных, получивших образование по исламской системе и обязанных пожизненно служить государству."
- OTO_vic_imperial_power: "Имперская власть"
- OTO_vic_imperial_power_desc: ""
- OTO_vic_military_expansion: "Военная экспансия"
- OTO_vic_military_expansion_desc: ""
- OTO_vic_Show_of_Force: "Демонстрация силы"
- OTO_vic_Show_of_Force_desc: ""
- OTO_vic_Holding_Struggle: "Удерживающая борьба"
- OTO_vic_Holding_Struggle_desc: ""
- OTO_vic_imperial_Holdings: "Имперские владения"
- OTO_vic_imperial_Holdings_desc: ""
- OTO_vic_Internal_Reforms: "Внутренние реформы"
- OTO_vic_Internal_Reforms_desc: ""
- OTO_vic_military_agenda: "Военный план"
- OTO_vic_military_agenda_desc: "Завершив наши планы военной экспансии и реформ, мы теперь можем составить военную программу для выполнения нашими армиями, это включает в себя оснащение нашей армии более модернизированным оружием и техникой, а также дальнейшее реформирование наших военных доктрин.."
- OTO_vic_german_doctrines: "Немецкие доктрины"
- OTO_vic_german_doctrines_desc: "Прусские военные доктрины в основном предполагают использование новой модернизированной тактики вместо старой традиционной тактики, наряду с хорошим использованием артиллерии, а также использованием других средств, кроме пехоты."
- OTO_vic_french_doctrines: "Французские доктрины"
- OTO_vic_french_doctrines_desc: "У французской армии много традиционных доктрин, и в то же время у каждого генерала есть своя собственная доктрина, которую они используют, вместо единой унифицированной доктрины, это позволит нам менять ее, если когда-либо потребуется, чтобы соответствовать условиям боя."
- OTO_vic_german_influence: "Немецкое влияние"
- OTO_vic_german_influence_desc: "Учитывая сильное прусское влияние на наши доктрины, мы также можем применить прусское влияние к нашему оружию, снаряжению, униформе и другим вещам, которые у нас есть, наряду с принятием военного командования в прусском стиле."
- OTO_vic_french_influence: "Французское влияние"
- OTO_vic_french_influence_desc: "Мы можем использовать французские дизайны для нашего оружия, нашей униформы и нашего снаряжения для использования на поле боя, а также использовать военное командование в более французском стиле."
- OTO_vic_new_ottoman_army: "Новая Османская армия"
- OTO_vic_new_ottoman_army_desc: "Теперь, когда наша программа военной реформы выполнена, у нас есть совершенно новая и реформированная армия, заимствующая доктрины и влияние иностранных держав и добавляющая к ним свои методы, и, наконец, у нас есть ориентированая на запад армия."
- OTO_vic_buying_arms: "Купить оружие"
- OTO_vic_buying_arms_desc: "Чтобы выполнить один из шагов военной повестки дня, мы можем закупать иностранное вооружение и технику у США, британцев и пруссаков, что в дальнейшем позволит нам производить нашу собственную современную технику."
- OTO_vic_USA_guns: "Купить Американское оружие"
- OTO_vic_USA_guns_desc: "Теперь, когда американцы вышли из своей кровавой гражданской войны и у них осталось много-много оружия и снаряжения, они готовы продавать их по разумно низкой цене по сравнению с британским оружием."
- OTO_vic_ENG_guns: "Купить Британское оружие"
- OTO_vic_ENG_guns_desc: "Поскольку у Британской империи осталось много оружия от завоевания дальних земель, они готовы продавать это оружие по разумно более низкой цене по сравнению с американским оружием."
- OTO_vic_PRS_artillery: "Купить прусскую артиллерию"
- OTO_vic_PRS_artillery_desc: "Королевство Пруссия располагает одними из самых реформированных и модернизированных артиллерийских систем в мире, они готовы продать нам часть этой новой артиллерии, чтобы мы могли изготовить ее самостоятельно."
- OTO_vic_economic_reforms: "Экономические реформы"
- OTO_vic_economic_reforms_desc: "Теперь, когда наш первый набор экономических и политических реформ завершен, мы можем продолжить экономические реформы, чтобы помочь модернизации и гарантировать, что мы снова не попадем в очередной долговой кризис, мы можем достичь этого путем реорганизации нашей экономической структуры, а также регулирования и мониторинга доходов."
- OTO_vic_attempt_debt_crackdown: "Попытка расправиться с долгами"
- OTO_vic_attempt_debt_crackdown_desc: "Чтобы продвигать модернизацию, мы должны сейчас бороться с нашими долговыми проблемами, это включает в себя улучшение управления долгом и различные другие методы."
- OTO_vic_debt_management: "Управление долгом"
- OTO_vic_debt_management_desc: "Один из способов справиться с долгом - это иметь более совершенные методы управления долгом. Мы можем сделать это, погасив наши долги или сэкономив деньги, увеличив торговлю с европейскими державами и различными другими вещами."
- OTO_vic_reformation_of_the_national_bank: "Османский Национальный Банк"
- OTO_vic_reformation_of_the_national_bank_desc: "Наличие единого национального банка может помочь нам получить достаточно средств для финансирования заводов, железных дорог и общих строительных проектов по всей стране, это также может привести к улучшению экономических структур в будущем."
- OTO_vic_form_oto_stock_exchange: "Османская фондовая биржа"
- OTO_vic_form_oto_stock_exchange_desc: "Теперь, когда создан единый национальный банк, мы можем также создать Османскую фондовую биржу, это позволит европейским инвесторам стремиться к более высокой доходности на обширных османских рынках."
- OTO_vic_begin_modernization_efforts: "Начать усилия по модернизации"
- OTO_vic_begin_modernization_efforts_desc: "Завершив серию промышленных реформ, мы можем начать модернизацию нашей страны, мы также должны предпринять другие шаги, чтобы помочь ускорить процесс модернизации."
- OTO_vic_complete_moderization: "Полная модернизация"
- OTO_vic_complete_moderization_desc: "Завершив шаги по модернизации, мы теперь можем объявить себя модернизированной нацией, поскольку наши усилия окупились. Это поможет нам в нашем будущем."
- OTO_vic_ottoman_railways: "Османские Железные Дороги"
- OTO_vic_ottoman_railways_desc: "Наряду с балканскими железными дорогами мы теперь можем также строить различные железные дороги через Анатолию, поскольку железные дороги жизненно важны для экономики, мы можем использовать их для содействия модернизации."
- OTO_vic_balkan_mines: "Балканские Железные Дороги"
- OTO_vic_balkan_mines_desc: "Чтобы транспортировать сырьевые ресурсы в наших балканских владениях, мы можем построить железные дороги, также мы можем соединить их с нашими анатолийскими, объединив железные дороги"
- OTO_vic_mines_in_anatolia: "Шахты в Анатолии"
- OTO_vic_mines_in_anatolia_desc: "По всей Анатолии есть много районов, богатых ресурсами, мы можем начать добычу в таких районах как Трабзон, где есть залежи железа и угля, и Мерсин, где есть только залежи железа."
- OTO_vic_mines_in_lebanon: "Шахты в Ливане"
- OTO_vic_mines_in_lebanon_desc: "В Ливане есть много месторождений угля, мы можем построить много шахт в регионе, мы можем использовать этот уголь на заводах по производству оружия."
- OTO_vic_ottoman_influence: "Османское влияние"
- OTO_vic_ottoman_influence_desc: ""
- OTO_vic_influence_in_the_balkans: "Влияние на Балканах"
- OTO_vic_influence_in_the_balkans_desc: ""
- OTO_vic_our_balkan_holdings: "Наши Балканские владения"
- OTO_vic_our_balkan_holdings_desc: ""
- OTO_vic_influence_in_africa: "Влияние в Африке"
- OTO_vic_influence_in_africa_desc: ""
- OTO_vic_the_sons_of_muhammad_ali: "Сыновья Мухаммеда Али"
- OTO_vic_the_sons_of_muhammad_ali_desc: ""
- OTO_vic_influence_in_arabia: "Влияние в Аравии"
- OTO_vic_influence_in_arabia_desc: ""
- OTO_mac_great_eastern_crisis: "Великий Восточный Кризис"
- OTO_mac_great_eastern_crisis_desc: ""
- ### always attempt to do stuff from top to bottom, left to right### #NT!
-
- #Events #NT!
- OTO_vassal_tribute.1.t: ""
- OTO_vassal_tribute.1.d: ""
- OTO_vassal_tribute.2.t: "Дань"
- OTO_vassal_tribute.2.descEyalet: "Хотя наша автономия от [OTO.GetName] гарантирована другими великими державами, мы все еще формально являемся частью их империи. Таким образом, империя требует, чтобы мы платили их \"дань\". Однако они ослаблены, поэтому, возможно, ничего не смогут сделать, если мы откажемся."
- OTO_vassal_tribute.2.descEyaletEnforced: "Предыдущее правительство отказалось платить [OTO.GetAdjective] /"дань/". Однако они не были способны нанести ответный удар при дальнейшем вторжении, и теперь у нас нет возможности отказаться от их требований."
- OTO_vassal_tribute.2.descKhedive: "Пока мы находимся на пути к независимости от [OTO.GetAdjective] мы все еще формально являемся частью их империи, и они требуют, чтобы мы платили им  \"дань\". Однако, учитывая их ослабленное состояние, вполне вероятно, что они не смогут заставить нас, если мы откажемся"
- OTO_vassal_tribute.2.a: "Может быть они и ослаблены, но они все еще великая держава, и мы не сможем победить их"
- OTO_vassal_tribute.2.b: "Если мы хотим продолжить наш путь, лучше не раскачивать лодку"
- OTO_vassal_tribute.2.c: "У нас нет выбора, кроме как платить"
- OTO_vassal_tribute.2.d: "Нет никаких причин давать им какие-либо деньги"
- OTO_vassal_tribute.3.t: "Получение налогов от автономных провинций"
- OTO_vassal_tribute.3.descEyalet: "Автономная провинция [FROM.GetName] платит свои налоги."
- OTO_vassal_tribute.3.descKhedive: "Хедив из [FROM.GetName] платит свои налоги."
- OTO_vassal_tribute.3.a: "Давайте найдем этому хорошее применение"
- OTO_vassal_tribute.3.b: "Давайте найдем этому хорошее применение"
- OTO_vassal_tribute.3.c: "Давайте найдем этому хорошее применение"
- OTO_vassal_tribute.4.t: "Отказ от уплаты налогов"
- OTO_vassal_tribute.4.descEyalet: "Наша автономная провинция [FROM.GetName] считает нас слабыми и отказывается платить налоги. Должны ли мы послать войска, чтобы заставить их заплатить?"
- OTO_vassal_tribute.4.descKhedive: "Несмотря на предыдущие соглашения между [FROM.GetName], [ROOT].GetName] и другими крупными державами о том, чтобы он оставался в нашей империи еще некоторое время, [FROM.GetName] отказывается выполнять свои обязанности перед нами. Мы должны рассмотреть возможность отправки войск, напомнив им, что часть не так сильна, как целое [ROOT.GetName] и заставить их вернуться под наше правление."
- OTO_vassal_tribute.4.a: "Напомните им об их месте как части империи"
- OTO_vassal_tribute.4.b: "Сейчас у вас есть шанс исправить неудачу прошлого"
- OTO_vassal_tribute.4.c: "Мы не можем рисковать вмешательством других великих держав"
- OTO_vassal_tribute.5.t: ""
- OTO_vassal_tribute.5.d: ""
- OTO_vassal_tribute.6.t: "Победа"
- OTO_vassal_tribute.6.d: "Несмотря на все жертвы [FROM.GetAdjective] армии, она не могла сравниться с нашими [Root.GetAdjective] войсками. Они в нашей власти. Пришло время закрепить их статус одной из наших провинций и потребовать репараций от населения."
- OTO_vassal_tribute.6.a: "Мы позаботимся о том, чтобы они не повторили эту глупость"
- OTO_Succession.1.t: "Смерть [Root.GetLeader]"
- OTO_Succession.1.d: "Сегодня, 25 июня 1861 года, наш любимый султан [Root.GetLeader] умер от туберкулеза. Несмотря на его короткую жизнь - всего 38 лет, его навсегда запомнят за его достижения. Наиболее заметными среди них являются реформы Танзимата. Еще неизвестно, сможет ли его сводный брат Султан Абдулазиз выйти из тени [Root.GetLeader]."
- OTO_Succession.1.a: "Султан мертв. Да здравствует султан"
- OTO_battleofgrahovac.1.t: "[MNT.GetAdjective] Сопротивление"
- OTO_battleofgrahovac.1.desc: "Несмотря на наши многочисленные попытки удержать черногорцев под нашим контролем, они по-прежнему постоянно восстают против нас. Ведущий военачальник Хусейн-паша попросил у султана разрешения расправиться с мятежными славянами."
- OTO_battleofgrahovac.1.a: "Разрешение предоставлено"
- OTO_battleofgrahovac.1.b: "Оставь их в покое. У нас недостаточно сил."
- OTO_battleofgrahovac.2.t: "[FROM.GetName] готовит вторжение"
- OTO_battleofgrahovac.2.desc: "Наши братья, все еще живущие под властью [OTO.GetAdjective] угнетателей, предупредили нас о готовящемся вторжении чтобы снова поработить нас."
- OTO_battleofgrahovac.2.a: "К оружию. Мы никогда не подчинимся"
- OTO_battleofgrahovac.3.t: "Битва при Граховаце"
- OTO_battleofgrahovac.3.descOTO: "Войдя в [MNT.GetName], мы столкнулись с силами сопротивления в деревне Граховац. После пары дней ожесточенных боев в деревне их командиры, Джуро Кусовац и Лука Йовович, предприняли глупую атаку на наши войска, где и были убиты. Неудивительно, что их смерть подорвала боевой дух их войск. Мы оттеснили [MNT.GetAdjective] обратно в деревню, до того как наша тяжелая артиллерия разнесла их в клочья. Все, кто выжил, были убиты. Затем наша армия двинулась на Цетинье, чтобы установить про-Османских министров и потребовать чтобы Принц Данилло прекратил свои помыслы."
- OTO_battleofgrahovac.3.descMNT: "После того, как [OTO.GetAdjective] вошли в [MNT.GetName], мы столкнулись с их армией в деревне Граховац. Спутя пару дней ожесточенных боев в деревне и вокруг нее два наших командира, Джуро Кусовац и Лука Йовович, доблестно атаковали их но были убиты. Неудивительно, что их смерть подорвала боевой дух наших войск. Нас отбросили назад в Граховац, до того как [OTO.GetName] обстреляли нас из пушек. Затем они вошли в город и перебили наши оставшиеся силы.  [OTO.GetAdjective] войска достигли Цетинье, назначили про-Османских министров и прегрозили Принцу Данилло ограничением нашей автономии."
- OTO_battleofgrahovac.3.a: "Пусть это послужит уроком для других наших вассалов..."
- OTO_battleofgrahovac.3.b: "Мы потерпели неудачу, но мы никогда не перестанем сопротивляться [OTO.GetName]"
- OTO_battleofgrahovac.4.t: "Битва при Граховаце"
- OTO_battleofgrahovac.4.descOTO: "Войдя в [MNT.GetName], мы столкнулись с силами сопротивления в деревне Граховац. Однако им неоднократно удавалось заставить нас отступить. После пары дней ожесточенных боев в деревне и вокруг нее два их командира предприняли самоубийственную атаку на нас. Несмотря на то, что мы отбили их злополучную атаку и убили командиров, это каким-то образом сплотило [MNT.GetAdjective]. Они смогли забрать нашу артиллерию и вынудить нас покинуть страну. Великие державы вмешались и официально определили [MNT.GetAdjective]-[OTO.GetAdjective] границу, -факто признав независимость нашего законного вассала. Теперь Черногорцы, Сербы и другие наши славянские вассалы используют эту историю против нашего якобы “тиранического” правления."
- OTO_battleofgrahovac.4.descMNT: "После того, как [OTO.GetAdjective] вошли в [MNT.GetName], мы столкнулись с их армией в деревне Граховац. Вначале мы были довольно успешны, несколько раз отбрасывая противника назад. После пары дней ожесточенных боев в деревне и вокруг нее два наших командира возглавили легендарную атаку против них. Они были убиты в процессе, но это помогло поднять моральный дух наших войск, мы сплотились вокруг клича “Отомстим за наших командиров!” Мы захватили их артиллерию и вытеснили их. Великие державы вмешались и официально определили [MNT.GetAdjective]-[OTO.GetAdjective] границу, де-факто признавая нашу законную независимость. Теперь Черногорцы, Сербы и другие славяне используют историю этой битвы против тирании османского правления."
- OTO_battleofgrahovac.4.a: "Когда-нибудь мы отомстим!"
- OTO_battleofgrahovac.4.b: "Да здравствует [MNT.GetName]!"
- OTO_battleofgrahovac.5.t: "Битва при Граховаце"
- OTO_battleofgrahovac.5.desc: "Больше не существует независимой [MNT.GetAdjective] армии. Так и закончилась битва."
- OTO_battleofgrahovac.5.a: "Не то, на что мы надеялись"
- OTO_battleofgrahovac.6.t: "[MNT.GetAdjective] Движение за Независимость "
- OTO_battleofgrahovac.6.desc: "Уже существующее [MNT.GetAdjective] Движение за Независимость продолжало бесконтрольно расти. Теперь они свергли наше правительство и провозгласили независимую [MNT.GetName]. Мы могли бы что-то с этим сделать, но поддержка полномасштабной войны невелика, что, возможно, приведет к еще большему количеству восстаний на Балканах."
- OTO_battleofgrahovac.6.a: "Мы позволили Черногории существовать слишком долго! К оружию!"
- OTO_battleofgrahovac.6.b: "Мы не можем рисковать еще большей нестабильностью из-за глупой маленькой страны"
- OTO_events.5.t: "Наша обстановка ухудшаются"
- OTO_events.5.d: "Мы были вынуждены взять еще один кредит из-за растущих расходов правительства, и у нас нет фиксированной даты выплаты по нему или по какой-либо из наших задолженностей."
- OTO_events.5.a: "Упала ещё одна костяшка домино..."
+  
+  #Decisions 
+ OTO_suppress_independence_movements_in_the_balkans: "Suppress independence movements in the Balkans." #NT!
+ OTO_suppress_independence_movements_in_the_balkans_desc: "The last years have seen a rising nationalism among the minorities in the Balkans. If we don't react now and suppress them soon it may be too late and we may lose our territories there." #NT!
+ OTO_reign_in_montenegro: "Reign in [MNT.GetName]" #NT!
+ OTO_reign_in_montenegro_desc: "[MNT.GetName] is formally our vassal however now they decided to attack us in foolish attempt to usurp our rightful rule over their lands. It is time to remind them of the consequences such a decision can have in this cruel world." #NT!
+ OTO_montenegro_independence_war: "[MNT.GetAdjective] Independence War" #NT!
+ OTO_montenegro_independence_war_desc: "We have to conclude our war with the christian [MNT.GetName] or the big european powers might step in and force us to accept a peace on their terms." #NT!
+  
+  #Focus Tree 
+ OTO_vic_land_code_1858: "Land Code of 1858" #NT!
+ OTO_vic_land_code_1858_desc: "We should codify the different types of land ownership so that we can accurately record, and therefore best make use of, the different types of land holdings across the empire." #NT!
+ OTO_vic_increase_spending: "Increase Spending" #NT!
+ OTO_vic_increase_spending_desc: "We should put the finances from our loans to good use and invest in a stronger economy in the long-term, even if it costs us now." #NT!
+ OTO_vic_save_money: "Save Money" #NT!
+ OTO_vic_save_money_desc: "Put away money in the treasury to pay back our enormous international debts. It may hurt, but this is the only way to avoid bankruptcy." #NT!
+ OTO_vic_defund_charities: "Defund Charitable Organisations" #NT!
+ OTO_vic_defund_charities_desc: "The treasury loses a lot of money by funding Islamic charitable organisations. Let us leave this to the private investors, and keep as much revenue to ourselves as possible." #NT!
+ OTO_vic_army_cutbacks: "Army Cutbacks" #NT!
+ OTO_vic_army_cutbacks_desc: "After humiliating defeats, we should not waste any more money frivolously on the army. It is best to take time to rebuild the economy and think about the army later." #NT!
+ OTO_vic_first_crimean_war_debt_payoff: "First Crimean War Debt Payoff" #NT!
+ OTO_vic_first_crimean_war_debt_payoff_desc: "Use the money we have saved to make our first installment in paying back our Crimean War debt." #NT!
+ OTO_vic_auction_state_assets: "Auction State Assets" #NT!
+ OTO_vic_auction_state_assets_desc: "Sell off property of the Sultan and local governments to the highest bidder, whether they be regional nobles or foreign private investors. We can reap a lot of money by selling treasures and small parcels of land in this way." #NT!
+ OTO_vic_final_crimean_war_debt_payment: "Final Crimean War Debt Payment" #NT!
+ OTO_vic_final_crimean_war_debt_payment_desc: "Gather the funds to pay off the last of the Crimean war debt. After this round of payments, we will finally be debt free." #NT!
+ OTO_vic_close_down_embassies: "Close Down Embassies" #NT!
+ OTO_vic_close_down_embassies_desc: "Our diplomatic expenses are enormous. Though they support our international presence, they are not vital to the continuation of our Empire." #NT!
+ OTO_vic_governmental_infrastructure: "Governmental Infrastructure" #NT!
+ OTO_vic_governmental_infrastructure_desc: "" #NT!
+ OTO_vic_justice_reforms: "Justice Reforms" #NT!
+ OTO_vic_justice_reforms_desc: "Our criminal justice system is far too corrupt and filled with bureaucratic red tape. Reforming the system will solve this." #NT!
+ OTO_vic_crimean_debt_question: "Crimean Debt Question" #NT!
+ OTO_vic_crimean_debt_question_desc: "" #NT!
+ OTO_vic_deal_with_bankruptcy: "Deal with Bankruptcy" #NT!
+ OTO_vic_deal_with_bankruptcy_desc: "We have been forced to declare bankruptcy; we need to commit resources to help mitigate this." #NT!
+ OTO_vic_profits_of_the_cotton_trade: "Profits of the Cotton Trade" #NT!
+ OTO_vic_profits_of_the_cotton_trade_desc: "" #NT!
+ OTO_vic_raise_taxes: "Raise Taxes" #NT!
+ OTO_vic_raise_taxes_desc: "We must increase taxes to pay for our spending and debt payment." #NT!
+ OTO_vic_first_payment: "First Debt Payment" #NT!
+ OTO_vic_first_payment_desc: "" #NT!
+ OTO_vic_stimulate_the_ottoman_economy: "Stimulate the Ottoman Economy" #NT!
+ OTO_vic_stimulate_the_ottoman_economy_desc: "Allocating loaned money into building up our industrial heartland will ensure that we will not be faced with a similar situation in the future." #NT!
+ OTO_vic_invest_in_ottoman_businesses: "Invest in Ottoman Businesses" #NT!
+ OTO_vic_invest_in_ottoman_businesses_desc: "Subsidizing small businesses will lead to domestic economic growth and will boost our economy." #NT!
+ OTO_vic_the_question_of_religious_freedoms: "The Question of Religious Freedoms" #NT!
+ OTO_vic_the_question_of_religious_freedoms_desc: "It is time to decide how we are to treat the other religions within our empire." #NT!
+ OTO_vic_Force_convert_the_churches: "Force Convert the Churches" #NT!
+ OTO_vic_Force_convert_the_churches_desc: "We should the other churches within the empire to preach Islamic values." #NT!
+ OTO_vic_religious_repair: "Religious Repair" #NT!
+ OTO_vic_religious_repair_desc: "We should repair our relations with the various churches that worship differently in our empire." #NT!
+ OTO_vic_schooling_reforms: "Schooling Reforms" #NT!
+ OTO_vic_schooling_reforms_desc: "Modernizing our education system will help us catch up to the rest of Europe." #NT!
+ OTO_vic_power_control: "Power and Control" #NT!
+ OTO_vic_power_control_desc: "" #NT!
+ OTO_vic_empower_sultan: "Empower the Sultan" #NT!
+ OTO_vic_empower_sultan_desc: "" #NT!
+ OTO_vic_closed_schooling: "Closed Schooling" #NT!
+ OTO_vic_closed_schooling_desc: "Limiting the number of students who can go to school will reduce some strain on our economy, while still enabling us to provide education to certain people." #NT!
+ OTO_vic_open_schooling: "Open Schooling" #NT!
+ OTO_vic_open_schooling_desc: "Opening up the education system for everyone will, while requiring more funds, allow everyone to better themselves and help the economy in the long term." #NT!
+ OTO_vic_military_reforms: "Military Reforms" #NT!
+ OTO_vic_military_reforms_desc: "" #NT!
+ OTO_vic_enforce_corporal_punishment: "Enforce Corporal Punishment" #NT!
+ OTO_vic_enforce_corporal_punishment_desc: "Enforcing corporal punishment will ensure that people are less likely to commit crimes." #NT!
+ OTO_vic_abolish_corporal_punishment: "Abolish Corporal Punishment" #NT!
+ OTO_vic_abolish_corporal_punishment_desc: "The current system of corporal punishment is much too cruel; we must abolish it to gain the support of the people." #NT!
+ OTO_vic_police_force: "Police Force" #NT!
+ OTO_vic_police_force_desc: "" #NT!
+ OTO_vic_increased_reforms: "Increased Reforms" #NT!
+ OTO_vic_increased_reforms_desc: "" #NT!
+ OTO_vic_the_pay_of_the_grand_vizier: "The Pay of the Grand Vizier" #NT!
+ OTO_vic_the_pay_of_the_grand_vizier_desc: "" #NT!
+ OTO_vic_1869_nationality_law: "The Nationality Law of 1869" #NT!
+ OTO_vic_1869_nationality_law_desc: "Give citizenship to people within our nation regardless of religion or ethnicity." #NT!
+ OTO_vic_decriminalize_homosexuality: "Decriminalize Homosexuality" #NT!
+ OTO_vic_decriminalize_homosexuality_desc: "" #NT!
+ OTO_vic_edict_of_public_education: "Edict of Public Education" #NT!
+ OTO_vic_edict_of_public_education_desc: "" #NT!
+ OTO_vic_open_the_imperial_school: "Open the Imperial School" #NT!
+ OTO_vic_open_the_imperial_school_desc: "" #NT!
+ OTO_vic_ideals_of_the_tanzimatcilar: "Ideals of the Tanzimatcilar" #NT!
+ OTO_vic_ideals_of_the_tanzimatcilar_desc: "" #NT!
+ OTO_vic_future_of_the_empire: "Future of the Empire" #NT!
+ OTO_vic_future_of_the_empire_desc: "" #NT!
+ OTO_vic_traditional_ideals: "Traditional Ideals" #NT!
+ OTO_vic_traditional_ideals_desc: "" #NT!
+ OTO_vic_Grand_Vizier_Power: "Give the Grand Vizier More Power" #NT!
+ OTO_vic_Grand_Vizier_Power_desc: "" #NT!
+ OTO_vic_begin_to_Undo_the_Tanzimat: "Begin to Undo the Tanzimat" #NT!
+ OTO_vic_begin_to_Undo_the_Tanzimat_desc: "The Tanzimat reforms made the Sultan much weaker. it is time to undo it and restore absolute power and restore power to the Viziers." #NT!
+ OTO_vic_The_Sultans_Viziers: "The Sultan's Viziers" #NT!
+ OTO_vic_The_Sultans_Viziers_desc: "" #NT!
+ OTO_vic_Empire_Trade: "Empire Trade" #NT!
+ OTO_vic_Empire_Trade_desc: "" #NT!
+ OTO_vic_Mediterranean_Market: "Mediterranean Market" #NT!
+ OTO_vic_Mediterranean_Market_desc: "" #NT!
+ OTO_vic_reverse_islahat: "Reverse Islahat" #NT!
+ OTO_vic_reverse_islahat_desc: "" #NT!
+ OTO_vic_forced_islamic_conversion: "Islamic Supremacy" #NT!
+ OTO_vic_forced_islamic_conversion_desc: "" #NT!
+ OTO_vic_Islamic_State: "Islamic State" #NT!
+ OTO_vic_Islamic_State_desc: "" #NT!
+ OTO_vic_ottomanism: "Ottomanism" #NT!
+ OTO_vic_ottomanism_desc: "" #NT!
+ OTO_vic_military_revisionism: "Military Revisionism" #NT!
+ OTO_vic_military_revisionism_desc: "" #NT!
+ OTO_vic_reimplement_devshirme: "Reinstitution of the Devshirme" #NT!
+ OTO_vic_reimplement_devshirme_desc: "Assure the People of the Book their security under the state by reinstuting the Devshirme -- An select group of non-Muslim subjects educated through the Islamic system and bound for life in service to the state." #NT!
+ OTO_vic_imperial_power: "Imperial Power" #NT!
+ OTO_vic_imperial_power_desc: "" #NT!
+ OTO_vic_military_expansion: "Military Expansion" #NT!
+ OTO_vic_military_expansion_desc: "" #NT!
+ OTO_vic_Show_of_Force: "Show of Force" #NT!
+ OTO_vic_Show_of_Force_desc: "" #NT!
+ OTO_vic_Holding_Struggle: "Holding Struggle" #NT!
+ OTO_vic_Holding_Struggle_desc: "" #NT!
+ OTO_vic_imperial_Holdings: "Imperial Holdings" #NT!
+ OTO_vic_imperial_Holdings_desc: "" #NT!
+ OTO_vic_Internal_Reforms: "Internal Reforms" #NT!
+ OTO_vic_Internal_Reforms_desc: "" #NT!
+ OTO_vic_military_agenda: "Military Agenda" #NT!
+ OTO_vic_military_agenda_desc: "With our military expansion and reform plans done, we can now make a military agenda for our armies to fulfill, this includes filling our army with more modernized weapons and equipment, and reforming our military doctrines even further." #NT!
+ OTO_vic_german_doctrines: "German Doctrines" #NT!
+ OTO_vic_german_doctrines_desc: "Prussian military doctrines mostly involve using newer modernized tactics instead of older traditional tactics, along with a good use of artillery and also utilizing things other than just infantry." #NT!
+ OTO_vic_french_doctrines: "French Doctrines" #NT!
+ OTO_vic_french_doctrines_desc: "The French army has many traditional doctrines, and at the same time, each general has their own doctrine that they use, instead of a single unified doctrine, this allows us to switch it up if ever needed to match the conditions of battle." #NT!
+ OTO_vic_german_influence: "German Influence" #NT!
+ OTO_vic_german_influence_desc: "With heavy Prussian influence to our doctrines, we can also apply Prussian influence to our weapons, equipment, uniforms, and other things that we have, along with taking a Prussian style military command." #NT!
+ OTO_vic_french_influence: "French Influence" #NT!
+ OTO_vic_french_influence_desc: "We can use french influenced designs for our weapons, our uniforms, and our equipment to use on the battlefield, along with using a more french styled military command." #NT!
+ OTO_vic_new_ottoman_army: "New Ottoman Army" #NT!
+ OTO_vic_new_ottoman_army_desc: "With our Military Reform Agenda now fulfilled, we now have a brand new and reformed army, taking doctrines and influence from foreign powers, and adding our ways to it, finally having a westernized army." #NT!
+ OTO_vic_buying_arms: "Buy Arms" #NT!
+ OTO_vic_buying_arms_desc: "In order to fulfill one of the steps of the military agenda, we can buy foreign weaponry and equipment from the USA, The British, and the Prussians, this will help further allow us to produce our own modern equipment." #NT!
+ OTO_vic_USA_guns: "Buy American Weapons" #NT!
+ OTO_vic_USA_guns_desc: "With the Americans now out of their bloody civil war, and with many, many, leftover weapons and equipment, they are willing to sell these at a reasonably low price compared to the British arms." #NT!
+ OTO_vic_ENG_guns: "Buy British Weapons" #NT!
+ OTO_vic_ENG_guns_desc: "With the British Empire having many leftover weapons from conquering far lands, they are willing to sell these weapons at a reasonably lower price compared to the American Weapons." #NT!
+ OTO_vic_PRS_artillery: "Buy Prussian Artillery" #NT!
+ OTO_vic_PRS_artillery_desc: "The Kingdom of Prussia has some of the most reformed and modernized artillery systems in the world, they are willing to sell us some of this new artillery for us to make on our own." #NT!
+ OTO_vic_economic_reforms: "Economic Reforms" #NT!
+ OTO_vic_economic_reforms_desc: "Now with our first set of economic and political reforms now finished, we can continue the economic reforms to help modernize and to ensure we don't fall into another debt crisis again, we can accomplish this by rearranging our economic structure, as well as regulating and monitoring revenue." #NT!
+ OTO_vic_attempt_debt_crackdown: "Attempt to Crack Down on Debt" #NT!
+ OTO_vic_attempt_debt_crackdown_desc: "In order to forward modernization, we must now crack down on our debt problems, this involves having better debt management, paying off our debt, and various other methods." #NT!
+ OTO_vic_debt_management: "Debt Management" #NT!
+ OTO_vic_debt_management_desc: "One way to crack down on debt is to have better methods of debt management. We can do this by paying off our debts, or saving money, increasing trade with European powers, and various other things." #NT!
+ OTO_vic_reformation_of_the_national_bank: "Ottoman National Bank" #NT!
+ OTO_vic_reformation_of_the_national_bank_desc: "Having a unified national bank can help us gain enough funds to fund factories, railways, and general construction projects across the nation, this can also lead to better economic structures in the future." #NT!
+ OTO_vic_form_oto_stock_exchange: "Ottoman Stock Exchange" #NT!
+ OTO_vic_form_oto_stock_exchange_desc: "With a unified national bank now established, we can now also establish the Ottoman Stock Exchange, this will allow european investors to seek higher returns in the vast ottoman markets." #NT!
+ OTO_vic_begin_modernization_efforts: "Begin Modernization Efforts" #NT!
+ OTO_vic_begin_modernization_efforts_desc: "With a series of industrial reforms now completed, we can start to modernize our nation, we do also have to do other steps to help bolster the modernization process, but this will lay down the foundations for it." #NT!
+ OTO_vic_complete_moderization: "Complete Modernization" #NT!
+ OTO_vic_complete_moderization_desc: "After completing the steps to modernization, we can now declare ourselves a modernized nation now that our efforts have paid off. This will help for years to come in our future." #NT!
+ OTO_vic_ottoman_railways: "Ottoman Railways" #NT!
+ OTO_vic_ottoman_railways_desc: "Alongside Balkan railways, we can now also construct various railways across Anatolia, we can also connect these up to the Balkan lines, as railways are vital to the economy, we can use these to help modernize." #NT!
+ OTO_vic_balkan_mines: "Balkan Railways" #NT!
+ OTO_vic_balkan_mines_desc: "In order to transport raw resources in our balkan holdings, we can construct various railways, eventually, we can construct these railways to connect with our anatolian ones, unifying the railways" #NT!
+ OTO_vic_mines_in_anatolia: "Mines in Anatolia" #NT!
+ OTO_vic_mines_in_anatolia_desc: "Across Anatolia there are many resource rich areas, we can mine some of these areas, such as Trabzon, having raw iron and coal depots, and Mersin, having just raw iron depots." #NT!
+ OTO_vic_mines_in_lebanon: "Mines in Lebanon" #NT!
+ OTO_vic_mines_in_lebanon_desc: "Lebanon, having many coal deposits, we can exploit this by constructing many mines in the region, acquiring a part of this coal, we can use this in various things such as factories for making weapons." #NT!
+ OTO_vic_ottoman_influence: "Ottoman Influence" #NT!
+ OTO_vic_ottoman_influence_desc: "" #NT!
+ OTO_vic_influence_in_the_balkans: "Influence in the Balkans" #NT!
+ OTO_vic_influence_in_the_balkans_desc: "" #NT!
+ OTO_vic_our_balkan_holdings: "Our Balkan Holdings" #NT!
+ OTO_vic_our_balkan_holdings_desc: "" #NT!
+ OTO_vic_influence_in_africa: "Influence in Africa" #NT!
+ OTO_vic_influence_in_africa_desc: "" #NT!
+ OTO_vic_the_sons_of_muhammad_ali: "The Sons of Muhammad Ali" #NT!
+ OTO_vic_the_sons_of_muhammad_ali_desc: "" #NT!
+ OTO_vic_influence_in_arabia: "Influence In Arabia" #NT!
+ OTO_vic_influence_in_arabia_desc: "" #NT!
+ OTO_mac_great_eastern_crisis: "Great Eastern Crisis" #NT!
+ OTO_mac_great_eastern_crisis_desc: "" #NT!
+  ### always attempt to do stuff from top to bottom, left to right### 
+  
+  #Events 
+ OTO_vassal_tribute.1.t: "" #NT!
+ OTO_vassal_tribute.1.d: "" #NT!
+ OTO_vassal_tribute.2.t: "Tribute" #NT!
+ OTO_vassal_tribute.2.descEyalet: "Although our autonomy from the [OTO.GetName] is guaranteed by other great powers we are still formally part of their empire. As such the empire demands we pay their \"taxes\". However they are weakened so they might not be able to do anything if we refuse." #NT!
+ OTO_vassal_tribute.2.descEyaletEnforced: "The previous government refused to pay the [OTO.GetAdjective] /"taxes/". However they weren't able to strike back the following invasion and now we have no way to refuse their demands." #NT!
+ OTO_vassal_tribute.2.descKhedive: "While we are on the road to independence from the [OTO.GetAdjective] suppressor we are still formally a part of their empire and they demand we pay them \"taxes\". Considering their weakened state however it is not unlikely they won't be able to force us should we refuse" #NT!
+ OTO_vassal_tribute.2.a: "They might be weakened but they are still a great power and we can't beat them" #NT!
+ OTO_vassal_tribute.2.b: "If we want to continue our path it's better not to rock the boat" #NT!
+ OTO_vassal_tribute.2.c: "We have no choice but to pay" #NT!
+ OTO_vassal_tribute.2.d: "There's no reason to give them any money" #NT!
+ OTO_vassal_tribute.3.t: "Receiving taxes from autonomous provinces" #NT!
+ OTO_vassal_tribute.3.descEyalet: "The autonomous province of [FROM.GetName] is paying its taxes." #NT!
+ OTO_vassal_tribute.3.descKhedive: "The Khedive of [FROM.GetName] is paying its taxes." #NT!
+ OTO_vassal_tribute.3.a: "Let's put it to good use" #NT!
+ OTO_vassal_tribute.3.b: "Let's put it to good use" #NT!
+ OTO_vassal_tribute.3.c: "Let's put it to good use" #NT!
+ OTO_vassal_tribute.4.t: "Refusal to pay taxes" #NT!
+ OTO_vassal_tribute.4.descEyalet: "Our autonomous province of [FROM.GetName] believes us weak and refused to pay taxes. Should we send troops to force them to pay?" #NT!
+ OTO_vassal_tribute.4.descKhedive: "Despite previous agreements between [FROM.GetName], [ROOT].GetName] and the other big powers for it to remain in our empire some more time, [FROM.GetName] refuses to uphold its duties to us. We should consider sending troops reminding them that a part isn't as strong as the whole [ROOT.GetName] and force them to come back under our rule." #NT!
+ OTO_vassal_tribute.4.a: "Remind them of their place as part of the empire" #NT!
+ OTO_vassal_tribute.4.b: "Now is our chance to remedy the failure of the past" #NT!
+ OTO_vassal_tribute.4.c: "We can't risk an intervention of the other great powers" #NT!
+ OTO_vassal_tribute.5.t: "" #NT!
+ OTO_vassal_tribute.5.d: "" #NT!
+ OTO_vassal_tribute.6.t: "Victory" #NT!
+ OTO_vassal_tribute.6.d: "Despite every sacrifice of the [FROM.GetAdjective] army, it was no match for our [Root.GetAdjective] troops. They are at our mercy. It's time to enforce their status as one of our provinces and demand reparations from the population." #NT!
+ OTO_vassal_tribute.6.a: "We will make sure they won't repeat this foolishness" #NT!
+ OTO_Succession.1.t: "Death of [Root.GetLeader]" #NT!
+ OTO_Succession.1.d: "Today,  25 June 1861, our beloved Sultan [Root.GetLeader] died of tuberculosis. Despite his short life of only 38 years he will be remembered forever for his achievements. Most notably among them are the Tanzimat reforms. It remains to be seen if his half-brother Sultan Abdülaziz can step out of [Root.GetLeader]'s enormous shodow." #NT!
+ OTO_Succession.1.a: "The Sultan is dead. Long live the Sultan" #NT!
+ OTO_battleofgrahovac.1.t: "[MNT.GetAdjective] Resistance" #NT!
+ OTO_battleofgrahovac.1.desc: "Despite our numerous attempts to keep the Montenegrins under our control, they still continually work against us. Leading commander Hussein Pasha has asked the Sultan for permission to deal with the rebellious Slavs." #NT!
+ OTO_battleofgrahovac.1.a: "Permission granted" #NT!
+ OTO_battleofgrahovac.1.b: "Leave them alone. We don’t have enough strength." #NT!
+ OTO_battleofgrahovac.2.t: "[FROM.GetName] prepares Invasion" #NT!
+ OTO_battleofgrahovac.2.desc: "Our brothers still living under [OTO.GetAdjective] oppressors managed to warn us that an invasion is on the way to enslave us once again." #NT!
+ OTO_battleofgrahovac.2.a: "To arms. We'll never submit" #NT!
+ OTO_battleofgrahovac.3.t: "Battle of Grahovac" #NT!
+ OTO_battleofgrahovac.3.descOTO: "After entering [MNT.GetName], we faced the resistance force at the village of Grahovac. After a couple days of fierce fighting in and around the village, two of their commanders, Đuro Kusovac and Luka Jovović, led a foolish charge against our troops, but were cut down in the process. Unsurprisingly, their deaths crushed the enemies' morale. We pushed the [MNT.GetAdjective] back into the village before our heavy artillery pounded them to shreds. All that remained were slaughtered. Our army then marched on Cetinje, before installing pro-Ottoman ministers and demanding that Prince Danillo stop his ill-fated schemes." #NT!
+ OTO_battleofgrahovac.3.descMNT: "After the [OTO.GetAdjective] entered [MNT.GetName], we faced their army at the village of Grahovac. After a couple days of fierce fighting in and around the village, two of our commanders, Đuro Kusovac and Luka Jovović, led a valiant charge against them, but were cut down in the process. Unsurprisingly, their deaths crushed our troops' morale. We were pushed back into Grahovac before being bombarded by the [OTO.GetName] cannons. They then entered the city and slaughtered our remaining forces. The [OTO.GetAdjective] troops reached Cetinje, installing pro-Ottoman ministers and threatening Prince Danillo with restricting our autonomy heavily." #NT!
+ OTO_battleofgrahovac.3.a: "Let this be a lesson for our other Vassals..." #NT!
+ OTO_battleofgrahovac.3.b: "We have failed, but we'll never stop resisting the oppressors of the [OTO.GetName]" #NT!
+ OTO_battleofgrahovac.4.t: "Battle of Grahovac" #NT!
+ OTO_battleofgrahovac.4.descOTO: "After entering [MNT.GetName], we faced the resistance force at the village of Grahovac. However, they were able to force us back on multiple occasions. After a couple days of fierce fighting in and around the village, two of their commanders led a suicidal charge against us. Despite the fact that we beat back their ill-fated assault and killed the commanders, this somehow became a rallying point for the [MNT.GetAdjective]. They were able to take our artillery and force us out of the country. The Great Powers have stepped in, and officially decided the [MNT.GetAdjective]-[OTO.GetAdjective] border, de facto recognizing our rightful vassal’s independence. Now, Montenegrins, Serbs, and other Slavic subjects of ours are using the story of the battle as a rallying story against our supposedly “tyrannical” rule." #NT!
+ OTO_battleofgrahovac.4.descMNT: "After the [OTO.GetAdjective] entered [MNT.GetName], we faced their army at the village of Grahovac. We were quite successful at the start, forcing the enemy back on multiple occasions. After a couple of days of fierce fighting in and around the village, two of our commanders led a legendary charge against them. They were slain in the process, but this worked to boost the morale of our troops, as we rallied around the cry “Avenge our Commanders!” We captured their artillery, and forced them out. The Great Powers have stepped in, and officially decided the [MNT.GetAdjective]-[OTO.GetAdjective] border, de facto recognizing our rightful independence. Now, Montenegrins, Serbs, and other Slavs are using the story of the battle as a rallying story against the tyranny of Ottoman rule." #NT!
+ OTO_battleofgrahovac.4.a: "We’ll get our revenge someday!" #NT!
+ OTO_battleofgrahovac.4.b: "Long live [MNT.GetName]!" #NT!
+ OTO_battleofgrahovac.5.t: "Battle of Grahovac" #NT!
+ OTO_battleofgrahovac.5.desc: "There no longer is an independent [MNT.GetAdjective] army. Thus the the battle ended." #NT!
+ OTO_battleofgrahovac.5.a: "Not what we hoped for" #NT!
+ OTO_battleofgrahovac.6.t: "[MNT.GetAdjective] Independence Movement " #NT!
+ OTO_battleofgrahovac.6.desc: "The already existing [MNT.GetAdjective] Independence Movement has continued to grow unchecked. Now, they have thrown off our rule, and have proclaimed an independent [MNT.GetName]. We could do something about it, but support is low for a full-scale war, which could possibly result in even more revolts in the Balkans." #NT!
+ OTO_battleofgrahovac.6.a: "We’ve let Montenegro exist for far too long! To arms!" #NT!
+ OTO_battleofgrahovac.6.b: "We can’t risk more instability for a silly little country" #NT!
+ OTO_events.5.t: "Our Circumstances Worsen" #NT!
+ OTO_events.5.d: "We have been obliged to take out another loan due to the government's rising spending, and have no fixed date of payment to it or to any of our arrears." #NT!
+ OTO_events.5.a: "Another Domino Stacked..." #NT!
  eastern_crisis_albanians_revolting_flag: "[ALB.GetFlag] The §YAlbanians§! are revolting against our rule." #NT!
- EDC_OTO_unlocks_brcc_influtration_decisions: "Разблокирует §YБТЦРК Решения о проникновении§!£decision_icon_small"
- OTO_events.7.t: "Болгарская церковь требует отделения от Греков"
- OTO_events.7.d: ""
- OTO_events.7.a: "Поддерживайте это"
- OTO_events.8.t: "Болгарская церковь отделилась"
- OTO_events.8.d: "Болгарская церковь была отделена от нашей собственной. Вселенский патриарх Анфим VI возглавил собор в Константинополе, объявив Болгарский экзархат раскольническим и отлучив от церкви всех его последователей. Каков наш взгляд на это?"
- OTO_events.8.a: "Следуйте за церковью"
- OTO_events.8.b: "Не обращайте на них внимания, мы должны сражаться с турками, а не друг с другом"
- OTO_events.9.t: "Османы передают Македонию Болгарскому Экзархату"
- OTO_split_BUL_GRE: "Это снизит вероятность того, что §YБолгария §! и §YГреция§! будут работать вместе"
- BUL_exarchate_formed: "Экзархат объявлен"
- OTO_events.11.t: "Неурожай в Боснии"
- OTO_BRCC_founded: "§YБТЦРК§! был основан"
- OTO_WEAKEN_BOS_REB: "Активность §YБоснийских§! повстанцев будет сокращена"
- OTO_WEAKEN_BUL_REB: "Активность §YБолгарских§! повстанцев будет сокращена"
- OTO_has_debt: "Должен оплатить §Yдолг§!"
- OTO_debt_administration: "Управление государственным долгом"
- OTO_berlin_congress: "Берлинский Конгресс начался"
- OTO_treaty_of_san_stefano: "Подписание Сан-Стефанского договора"
- OTO_treaty_of_san_stefano_desc: "После нашего поражения в Русско-Турецкой войне русские вынудили нас подписать Сан-Стефанский договор. По которому мы должны уступит большую часть наших земель на Балканах новой Болгарии. Условия этого договора должны быть введены в действие в ближайшее время однако Великие державы похоже проявили интерес и могут вмешаться."
- OTO_russio_turkish_war.15.t: "Результаты Сан-Стефанского договора"
- OTO_events.15.t: "Проект Конституции"
- OTO_events.15.d: ""
- OTO_events.15.a: "Обнародовать его"
- OTO_events.15.b: "Давайте придержим это до более подходящего времени"
- OTO_events.29.t: "Османская конституция"
- OTO_events.29.d: "Мы получили удивительную новость о том, что Османская империя провозгласила конституцию. Правительство долгое время подвергалос давлению от сторонников Танзимата, а также его великих держав-должников. [OTO.GetLeader] уступил и приказал разработать конституцию, которая официально стала частью османского законодательства всего несколько часов назад. По всей Османской империи прошли массовые торжества, поскольку ее граждане, особенно на нестабильных Балканах, отмечают этот масштабный шаг к современности. Но сработает ли этот эксперимент Западного правительства в Мусульманской Империи? "
- OTO_events.29.a: "Откуда это взялось?"
- OTO_mac_draft_constitution: "Проект Конституции"
- OTO_1_contitution_era: "1-я Конституционная Эра"
- OTO_parlement_prorogued: "Парламент Распущен"
- OTO_mac_first_constitution: "Первая Конституция"
- OTO_mac_convene_general_assembly: "Созвать Генеральную Ассамблею"
- OTO_events.30.t: "Генеральная Ассамблея"
- OTO_mac_debt_management: "Управление долгом"
- OTO_mac_increase_taxes: "Увеличить налоги"
- OTO_mac_grain_crisis_infra_repair: "Ремонт инфраструктуры"
- OTO_mac_reduce_grain_crisis: "Уменьшает последствия §RЗернового Кризиса§!"
- OTO_mac_BUL_banned_wheat: "Это может вызвать §Rбеспорядки§! в §YБолгарии§!"
- OTO_mac_BOS_increased_tax: "Это может вызвать §Rбеспорядки§! в §YБоснии§!"
- OTO_great_eastern_crisis: "Начался §RВеликий Восточный Кризис§!"
- OTO_berlin_congress_complete: "§YБерлинский Конгресс§! завершился"
- OTO_events.6.t: "Зерновой кризис"
- OTO_events.6.d: "По всей Империи неурожай. Фермы в долине реки Дунай произвели гораздо меньше зерна, чем обычно, сильная засуха поразила плодородные равнины Анатолии, и вдобавок ко всему, стаи саранчи опустошили Кипр. Наша великая нация сейчас на краю обрыва, нам нужно работать, чтобы исправить это."
- OTO_events.6.a: "Занять еще больше денег"
- OTO_mac_drought_management: "Борьба с засухой"
- OTO_mac_drought_management_desc: ""
- OTO_mac_crack_down_locusts: "Расправьтесь с саранчой"
- OTO_mac_crack_down_locusts_desc: ""
- OTO_mac_ban_BUL_wheat_exports: "Запретить Болгарии экспортировать пшеницу"
- OTO_mac_ban_BUL_wheat_exports_desc: ""
- OTO_mac_begin_infra_rebuiling: "Начать восстановление инфраструктуры"
- OTO_mac_begin_infra_rebuiling_desc: ""
- OTO_mac_fund_import_food: "Финансировать импорт продовольствия"
- OTO_mac_fund_import_food_desc: ""
- OTO_mac_end_grain_crisis: "Решить Зерновой Кризис"
- OTO_mac_end_grain_crisis_desc: ""
- OTO_mac_defense_balkans: "Оборона Балкан"
- OTO_mac_defense_balkans_desc: ""
- prizren_league_exists: "§YПризренская лига§!: Существует"
- prizren_league_not_exists: "§YПризренская лига§!: Была поставлена на колени"
- OTO_mac_influtration_BRCC: "Раздуть БТЦРК"
- OTO_mac_influtration_BRCC_desc: ""
- OTO_mac_manage_ALB: "Управлять Албанией"
- OTO_mac_manage_ALB_desc: ""
- OTO_mac_enforce_ALB_millet: "Навязать пшено в Албании"
- OTO_mac_enforce_ALB_millet_desc: ""
- OTO_mac_deal_popular_army: "Иметь дело с Народной Армией"
- OTO_mac_deal_popular_army_desc: ""
- OTO_mac_support_ALB_efforts: "Поддерживать стремление Албании"
- OTO_mac_support_ALB_efforts_desc: ""
- OTO_mac_integrate_popular_army: "Интегрировать Народную армию"
- OTO_mac_integrate_popular_army_desc: ""
- OTO_mac_end_prizren_league: "Конец Призренской лиги"
- OTO_mac_end_prizren_league_desc: ""
- OTO_mac_manage_BUL: "Контролировать Болгарию"
- OTO_mac_manage_BUL_desc: ""
- OTO_mac_manage_BOS: "Контролировать Боснию"
- OTO_mac_manage_BOS_desc: ""
- OTO_mac_manage_SER: "Контролировать Сербию"
- OTO_mac_manage_SER_desc: ""
- OTO_mac_manage_MON: "Контролировать Черногорию"
- OTO_mac_manage_MON_desc: ""
- OTO_mac_BUL_garrisons: "Болгарские гарнизоны"
- OTO_mac_BUL_garrisons_desc: ""
- OTO_mac_BOS_garrisons: "Боснийские гарнизоны"
- OTO_mac_BOS_garrisons_desc: ""
- OTO_mac_SER_forts: "Укрепить Сербскую границу"
- OTO_mac_SER_forts_desc: ""
- OTO_mac_MON_forts: "Укрепить [MNT.GetNameAdj] границу"
- OTO_mac_MON_forts_desc: ""
- OTO_mac_GRE_forts: "Укрепить Греческую границу"
- OTO_mac_GRE_forts_desc: ""
- OTO_mac_support_BUL_church: "Поддержите Болгарскую Церковь"
- OTO_mac_support_BUL_church_desc: "Возникающий раскол между Греческой и Болгарской православными церквами открывает для нас уникальную возможность. Если мы поддержим молодую Болгарскую Церковь, мы могли бы вбить клин между наглым Греческим государством и Болгарскими недовольными"
- #OTO_mac_manage_MON: "Management Montenegro"
- #OTO_mac_manage_MON_desc: ""
- OTO_mac_deal_with_long_depression: "Справиться с длительной депрессией"
- OTO_mac_deal_with_long_depression_desc: ""
- OTO_mac_expand_borrowing: "Расширять Займы"
- OTO_mac_expand_borrowing_desc: ""
- OTO_mac_double_tax_collection: "Взимание двойного налога"
- OTO_mac_double_tax_collection_desc: ""
- OTO_mac_invest_eco: "Инвестируйте в экономику"
- OTO_mac_invest_eco_desc: ""
- OTO_mac_fix_wheat_prices: "Зафиксируйте цены на пшеницу"
- OTO_mac_fix_wheat_prices_desc: ""
- OTO_mac_mitigate_great_depression_effects: "Смягчить последствия Великой Депрессии"
- OTO_mac_mitigate_great_depression_effects_desc: ""
- OTO_mac_grain_crisis: "§RЗерновой Кризис§!"
- OTO_mac_grain_crisis2: "§RЗерновой Кризис§!"
- OTO_mac_grain_crisis3: "§RЗерновой Кризис§!"
- OTO_mac_grain_crisis4: "§RЗерновой Кризис§!"
- OTO_mac_grain_crisis5: "§RЗерновой Кризис§!"
- OTO_mac_grain_crisis_remains: "Восстановление после Зернового Кризиса"
- OTO_vic_turkish_language: "Продвижение Турецкого языка"
- OTO_vic_universal_printing: "Разрешена универсальная печать"
- OTO_vic_industrial_reforms: "Промышленные реформы"
-OTO_vic_industrial_reforms_desc:0 "Чтобы начать усилия по модернизации, мы можем начать серию промышленных реформ, которые помогут ускорить строительство. Это поможет нам строить заводы, железные дороги и другие промышленные здания."
- OTO_events.3.t: "Вопрос о выплатах Великого Визиря"
- OTO_vic_learn_from_the_FRA_army: "Учитесь у армии [FRA.GetName]"
-OTO_vic_learn_from_the_FRA_army_desc:0 "Французская армия, обладающая одной из самых модернизированных армий в мире, мы можем использовать это и учиться у французской армии, перенимая французское влияние и используя французские доктрины для нашей армии."
- OTO_vic_learn_from_the_PRS_army: "Учитесь у армии [PRS.GetName]"
-OTO_vic_learn_from_the_PRS_army_desc:0 "Прусская армия, обладающая одной из лучших армий в Европе, мы можем использовать это в своих интересах, используя доктрины, основанные на прусском влиянии, и имея форму, оружие и снаряжение, созданные под влиянием Пруссии."
- OTO_1858_land_code: "Земельный кодекс 1858 года"
- OTO_vic_start_of_the_tanzimat_reforms: "Продолжить реформы Танзимата"
- OTO_vic_modernization_effort: "Усилия по Модернизации"
- OTO_tanzimat_reform_start: "Реформы Танзимата"
- OTO_license_foreign_arms: "Лицензирование иностранного оружия"
- OTO_religious_segregation: "Встать на сторону религиозного Сегрегациониста"
- OTO_religious_intergration: "Встать на сторону религиозного Интеграциониста"
- OTO_events.1.t: "Вопрос о религиозных свободах"
- OTO_events.1.d: "Религия была предметом горячих споров, причем султаны и их советники занимали главенствующее положение. С начала девятнадцатого века по всей нашей огромной империи вспыхнули волнения за свободу вероисповедания, особенно на Балканах, где христианское большинство стремится к большему признанию своих верований. Как Халиф Исламского мира, вопрос религии чрезвычайно важен, поэтому эта тема должна быть рассмотрена как можно скорее."
- OTO_events.1.a: "Суннитский ислам - единственная религия"
- OTO_events.1.b: "Интегрироваться в Католичество"
-#OTO_tanzimat_reform_1:0 "Tanzimat Reform"
-#OTO_tanzimat_reform_2:0 "Tanzimat Reform"
- OTO_tanzimat_reform_3: "Реформа Танзимата"
- OTO_tanzimat_reform_4: "Реформа Танзимата"
- OTO_events.2.t: "Вопрос о Крымском Долге"
- OTO_crimean_war_debt_spend_1: "Долг за Крымскую войну"
- OTO_crimean_war_debt_save_1: "Долг за Крымскую войну"
- OTO_crimean_war_debt_spend_2: "Долг за Крымскую войну"
- OTO_crimean_war_debt_spend_3: "Долг за Крымскую войну"
- OTO_crimean_war_debt_save_2: "Долг за Крымскую войну"
- OTO_closed_embassies: "Закрытые посольств"
- OTO_auctioned_state_assets: "Выставленные на аукцион государственные активы"
- OTO_mac_consentrate_russia: "Сосредоточьтесь на [RUS.GetName]"
- OTO_mac_consentrate_serbs: "Сосредоточьтесь на Сербах"
- OTO_mac_consentrate_bulgar: "Сосредоточьтесь на Болгарах"
- OTO_mac_fighting_russians: "Борьба с Русскими"
- OTO_mac_serbian_front: "Сербский фронт"
- OTO_mac_fighting_bulgars: "Борьба с Болгарами"
- OTO_mac_repulse_russians: "Дать отпор Русским"
- OTO_mac_deal_GRE: "Иметь дело с Греками"
- OTO_russio_turkish_war.16.t: "Сан-Стефанский договор вступает в силу"
- OTO_russio_turkish_war.16.d: "Победа Османской империи"
- OTO_russio_turkish_war.16.a: "Мы должны дать им то, чего они хотят"
- OTO_russio_turkish_war.14.t: "Берлинский конгресс"
- OTO_russio_turkish_war.13.t: "Итоги Берлинского конгресса"
- OTO_russio_turkish_war.12.t: "Берлинский конгресс начинается"
- OTO_russio_turkish_war.11.t: "Османы подписывают Сан-Стефанский мирный договор"
- OTO_russio_turkish_war.10.t: "Сан-Стефанский договор"
- OTO_russio_turkish_war.9.t: "Поражение в Русско-Турецкой Войне"
- OTO_russio_turkish_war.8.t: "Победа в Русско-Турецкой Войне"
- OTO_russio_turkish_war.7.t: "Русско-Турецкой Войне"
- OTO_russio_turkish_war.7.d: ""
- OTO_russio_turkish_war.7.a: "Балканы снова в огне"
- OTO_russio_turkish_war.6.t: "Русские предлагают независимость за нашу помощь"
- OTO_russio_turkish_war.5.t: "Русские предлагают независимость за нашу помощь"
- OTO_russio_turkish_war.4.t: "Русские вторгаются!"
- OTO_russio_turkish_war.3.t: "Австрия соглашается на это предложение"
- OTO_russio_turkish_war.2.t: "Предложение от России"
- OTO_russio_turkish_war.1.t: "Слабость Османской империи"
- OTO_russio_turkish_war.1.d: ""
- OTO_russio_turkish_war.1.a: "Получить гарантию нейтралитета от [AUS.GetName]"
- OTO_russio_turkish_war.1.b: "Начать вторжение"
- OTO_russio_turkish_war.1.c: "Отбросить эту идею"
- OTO_events.3.a: "Повысить ему заработную плату"
- OTO_events.3.b: "Оставь его в покое"
- OTO_events.3.c: "Уменьшите его заработную плату"
- OTO_events.13.t: "Основание Болгарского Революционного Центрального Комитета"
- OTO_events.25.t: "Константинопольская конференция"
- OTO_events.27.t: "Результаты Константинопольской конференции"
- OTO_cretan_war: "Критская война"
- OTO_events.31.t: "Османы поддерживают наше дело"
- OTO_events.2.a: "Сэкономьте наши деньги"
- OTO_events.2.b: "Проводим наш выход"
-
- OTO_END_OF_NEW_BEG_DESC: "На протяжении веков Османская империя находилась на перекрестке великих континентов Азии, Европы и Африки, являясь маяком исламской веры, и ее султан Абдулмеджид I продемонстрировал, что возлагает на империю большие надежды. Недавняя Крымская война и Египетское восстание нанесли значительный ущерб османскому правлению, и многие из оккупированных земель начали сопротивляться мусульманскому правлению. Хотя не все в стране было темным и мрачным, предыдущая приверженность султана Махмуда II реформам Танзимата была продолжена и направлялась Абдулмеджидом I в попытке лучше "османизировать" нацию. Многообещающее, но хрупкое будущее можно увидеть впереди для больного человека Европы, карточного домика, сосредоточенного в эпицентре грозы."
- OTO_events.26.t: "Посетить конференцию в Константинополе"
- OTO_events.26.d: "После ужасов Болгарского восстания и Сербского вторжения Османская империя была вынуждена созвать международную конференцию из-за иностранного давления. Как одна из великих держав, мы можем усилить давление на Османов, посетив конференцию. Наши усилия могли бы помочь потушить пламя на балканской пороховой бочке до того, как произойдет катастрофа."
- OTO_events.26.a: "Мы будем присутствовать"
- OTO_events.26.b: "Мы не будем присутствовать"
- OTO_events.34.t: "Основание газеты "Tercüman-i Ahval""
- OTO_events.34.d: "В Константинополе была основана первая крупная газета "Tercüman-i Ahval". Она становится популярна среди растущего среднего класса благодаря статьям Ахмеда Вефик-Паши, Зии-Паши и Рефик-Бея. Газета часто обсуждает причины отсталости османского общества и то, что происходит в стране."
- OTO_events.34.a: "Им лучше знать свое место"
- OTO_events.35.t: "Основание газеты "Tasvir-i Efkâr""
- OTO_events.35.d: "Ибрагим Шинаси основал еще одну газету, основное внимание в которой уделяется бедственному положению османского образования."
- OTO_events.35.a: "Мы делаем все возможное"
+ EDC_OTO_unlocks_brcc_influtration_decisions: "Unlocks §YBRCC Infiltration§!£decision_icon_small decisions" #NT!
+ OTO_events.7.t: "The Bulgarian church requests separation from the Greeks" #NT!
+ OTO_events.7.d: "" #NT!
+ OTO_events.7.a: "Support it" #NT!
+ OTO_events.8.t: "The Bulgarian church has separated" #NT!
+ OTO_events.8.d: "The Bulgarian Church has been split from our own. The Ecumenical Patriarch: Anthimus VI,has lead a council in Constantinople declaring the Bulgarian Exarchate Schismatic, and excommunicating all its followers. what is our our outlook on this?" #NT!
+ OTO_events.8.a: "Follow the church" #NT!
+ OTO_events.8.b: "Ignore them, we must fight the Turk, not each other" #NT!
+ OTO_events.9.t: "Ottomans grant Macedonia to the Bulgarian Exarchate" #NT!
+ OTO_split_BUL_GRE: "This will reduce the likelihood of §YBulgaria§! and §YGreece§! working together" #NT!
+ BUL_exarchate_formed: "Exarchate declared" #NT!
+ OTO_events.11.t: "Bosnian Crop Failure" #NT!
+ OTO_BRCC_founded: "§YBRCC§! has been Founded" #NT!
+ OTO_WEAKEN_BOS_REB: "§YBosnian§! rebel activities will be reduced" #NT!
+ OTO_WEAKEN_BUL_REB: "§YBulgarian§! rebel activities will be reduced" #NT!
+ OTO_has_debt: "Has a §Ydebt§! to pay" #NT!
+ OTO_debt_administration: "Public Debt Administration" #NT!
+ OTO_berlin_congress: "The Berlin Congress has begun" #NT!
+ OTO_treaty_of_san_stefano: "Signing the treaty of San Stefano" #NT!
+ OTO_treaty_of_san_stefano_desc: "After our loss in the Russo-Turkish war, the Russians have forced us to Sign the treaty of San Stefano. Which will Cede must of our land in the Balkans to a new Bulgaria. The terms of this treaty must be enacted soon however the Great Powers seem to have taken a interest and may intercede." #NT!
+ OTO_russio_turkish_war.15.t: "Results of the treaty of San Stefano" #NT!
+ OTO_events.15.t: "The Draft of a Constitution" #NT!
+ OTO_events.15.d: "" #NT!
+ OTO_events.15.a: "Promulgate it" #NT!
+ OTO_events.15.b: "Let us hold on to it for a more opportune time" #NT!
+ OTO_events.29.t: "The Ottoman Constitution" #NT!
+ OTO_events.29.d: "We have received surprising news that the Ottoman Empire has adopted a constitution. Long being pressured by the proponents of the Tanzimat as well as its great power debtors, [OTO.GetLeader] caved and ordered a constitution be drafted which officially became a part of Ottoman law just a few hours ago. It remains to be seen, however, how sincere the Sultan's attempts for a constitutional government really are and what this will mean for the minorities in the empire." #NT!
+ OTO_events.29.a: "This certainly comes as a surprise." #NT!
+ OTO_mac_draft_constitution: "Draft Constitution" #NT!
+ OTO_1_contitution_era: "1st Constitutional Era" #NT!
+ OTO_parlement_prorogued: "Parliament Prorogued" #NT!
+ OTO_mac_first_constitution: "The First Constitution" #NT!
+ OTO_mac_convene_general_assembly: "Convene General Assembly" #NT!
+ OTO_events.30.t: "The General Assembly" #NT!
+ OTO_mac_debt_management: "Debt Management" #NT!
+ OTO_mac_increase_taxes: "Increase Taxes" #NT!
+ OTO_mac_grain_crisis_infra_repair: "Infrastructure Repair" #NT!
+ OTO_mac_reduce_grain_crisis: "Reduces the effect of the §RGrain Crisis§!" #NT!
+ OTO_mac_BUL_banned_wheat: "This may cause §Runrest§! in §YBulgaria§!" #NT!
+ OTO_mac_BOS_increased_tax: "This may cause §Runrest§! in §YBosnia§!" #NT!
+ OTO_great_eastern_crisis: "The §RGreat Eastern Crisis§! has started" #NT!
+ OTO_berlin_congress_complete: "The §YBerlin Congress§! has finished" #NT!
+ OTO_events.6.t: "The Grain Crisis" #NT!
+ OTO_events.6.d: "Across the Empire crops are failing. The farms in the river valleys of the Danube have produced much less grain than normal, a Great drought has hit the fertile plains of anatolia and on top of this, Locust swarms have devestated Cyprus. Our great nation is now in the grips of starvation unless we work to fix this." #NT!
+ OTO_events.6.a: "Borrow even more money" #NT!
+ OTO_mac_drought_management: "Drought Management" #NT!
+ OTO_mac_drought_management_desc: "" #NT!
+ OTO_mac_crack_down_locusts: "Crack Down on Locusts" #NT!
+ OTO_mac_crack_down_locusts_desc: "" #NT!
+ OTO_mac_ban_BUL_wheat_exports: "Ban Bulgaria from Exporting Wheat" #NT!
+ OTO_mac_ban_BUL_wheat_exports_desc: "" #NT!
+ OTO_mac_begin_infra_rebuiling: "Begin Infrastructure Rebuilding" #NT!
+ OTO_mac_begin_infra_rebuiling_desc: "" #NT!
+ OTO_mac_fund_import_food: "Fund the Importing of Food" #NT!
+ OTO_mac_fund_import_food_desc: "" #NT!
+ OTO_mac_end_grain_crisis: "Resolve the Grain Crisis" #NT!
+ OTO_mac_end_grain_crisis_desc: "" #NT!
+ OTO_mac_defense_balkans: "the Defense of the Balkans" #NT!
+ OTO_mac_defense_balkans_desc: "" #NT!
+ prizren_league_exists: "§YThe League of Prizren§! exists." #NT!
+ prizren_league_not_exists: "§YThe League of Prizren§! has been dealt with." #NT!
+ OTO_mac_influtration_BRCC: "Infiltrate BRCC" #NT!
+ OTO_mac_influtration_BRCC_desc: "" #NT!
+ OTO_mac_manage_ALB: "Manage Albania" #NT!
+ OTO_mac_manage_ALB_desc: "" #NT!
+ OTO_mac_enforce_ALB_millet: "Enforce the Millet in Albania" #NT!
+ OTO_mac_enforce_ALB_millet_desc: "" #NT!
+ OTO_mac_deal_popular_army: "Deal with the Popular Army" #NT!
+ OTO_mac_deal_popular_army_desc: "" #NT!
+ OTO_mac_support_ALB_efforts: "Support Albanian Efforts" #NT!
+ OTO_mac_support_ALB_efforts_desc: "" #NT!
+ OTO_mac_integrate_popular_army: "Integrate Popular Army" #NT!
+ OTO_mac_integrate_popular_army_desc: "" #NT!
+ OTO_mac_end_prizren_league: "End the Prizren League" #NT!
+ OTO_mac_end_prizren_league_desc: "" #NT!
+ OTO_mac_manage_BUL: "Manage Bulgaria" #NT!
+ OTO_mac_manage_BUL_desc: "" #NT!
+ OTO_mac_manage_BOS: "Manage Bosnia" #NT!
+ OTO_mac_manage_BOS_desc: "" #NT!
+ OTO_mac_manage_SER: "Manage Serbia" #NT!
+ OTO_mac_manage_SER_desc: "" #NT!
+ OTO_mac_manage_MON: "Manage Montenegro" #NT!
+ OTO_mac_manage_MON_desc: "" #NT!
+ OTO_mac_BUL_garrisons: "Bulgarian Garrisons" #NT!
+ OTO_mac_BUL_garrisons_desc: "" #NT!
+ OTO_mac_BOS_garrisons: "Bosnian Garrisons" #NT!
+ OTO_mac_BOS_garrisons_desc: "" #NT!
+ OTO_mac_SER_forts: "Fortify the Serbian Border" #NT!
+ OTO_mac_SER_forts_desc: "" #NT!
+ OTO_mac_MON_forts: "Fortify the [MNT.GetNameAdj] Border" #NT!
+ OTO_mac_MON_forts_desc: "" #NT!
+ OTO_mac_GRE_forts: "Fortify the Greek Border" #NT!
+ OTO_mac_GRE_forts_desc: "" #NT!
+ OTO_mac_support_BUL_church: "Support the Bulgarian Church" #NT!
+ OTO_mac_support_BUL_church_desc: "The emerging Schism between the Greek and Bulgarian orthodox churches yields a unique opportunity for us. If we support the fledging Bulgarian church we could drive a wedge between the impudent Greek state and the Bulgarian discontents" #NT!
+ #OTO_mac_manage_MON: "Management Montenegro" #NT!
+ #OTO_mac_manage_MON_desc: "" #NT!
+ OTO_mac_deal_with_long_depression: "Deal with the Long Depression" #NT!
+ OTO_mac_deal_with_long_depression_desc: "" #NT!
+ OTO_mac_expand_borrowing: "Expand Borrowing" #NT!
+ OTO_mac_expand_borrowing_desc: "" #NT!
+ OTO_mac_double_tax_collection: "Double Tax Collection" #NT!
+ OTO_mac_double_tax_collection_desc: "" #NT!
+ OTO_mac_invest_eco: "Invest in the Economy" #NT!
+ OTO_mac_invest_eco_desc: "" #NT!
+ OTO_mac_fix_wheat_prices: "Fix the Wheat Prices" #NT!
+ OTO_mac_fix_wheat_prices_desc: "" #NT!
+ OTO_mac_mitigate_great_depression_effects: "Mitigate the Effects of the Great Depression" #NT!
+ OTO_mac_mitigate_great_depression_effects_desc: "" #NT!
+ OTO_mac_grain_crisis: "§RGrain Crisis§!" #NT!
+ OTO_mac_grain_crisis2: "§RGrain Crisis§!" #NT!
+ OTO_mac_grain_crisis3: "§RGrain Crisis§!" #NT!
+ OTO_mac_grain_crisis4: "§RGrain Crisis§!" #NT!
+ OTO_mac_grain_crisis5: "§RGrain Crisis§!" #NT!
+ OTO_mac_grain_crisis_remains: "Recovering from the Grain Crisis" #NT!
+ OTO_vic_turkish_language: "Turkish Language Promoted" #NT!
+ OTO_vic_universal_printing: "Universal Printing Allowed" #NT!
+ OTO_vic_industrial_reforms: "Industrial Reforms" #NT!
+ OTO_vic_industrial_reforms_desc: "In order to begin modernization efforts, we can begin a series of industrial reforms to help advance construction speeds. This will help us construct factories, railways, and other industrial buildings." #NT!
+ OTO_events.3.t: "Questions about the Grand Vizers Pay" #NT!
+ OTO_vic_learn_from_the_FRA_army: "Learn from the Army of the [FRA.GetName]" #NT!
+ OTO_vic_learn_from_the_FRA_army_desc: "The French army, having one of the most modernized armies in the world, we can use this and learn from the French army, taking on French influence and using French doctrines for our army." #NT!
+ OTO_vic_learn_from_the_PRS_army: "Learn from the Army of the [PRS.GetName]" #NT!
+ OTO_vic_learn_from_the_PRS_army_desc: "The Prussian army, having one of the best armies in Europe, we can use this to our advantage, using Prussian influenced doctrines, and having Prussian influenced uniforms, weapons, and equipment." #NT!
+ OTO_1858_land_code: "1858 Land Code" #NT!
+ OTO_vic_start_of_the_tanzimat_reforms: "Continue the Tanzimat Reforms" #NT!
+ OTO_vic_modernization_effort: "Modernization Effort" #NT!
+ OTO_tanzimat_reform_start: "Tanzimat Reform" #NT!
+ OTO_license_foreign_arms: "Licensing Foreign Arms" #NT!
+ OTO_religious_segregation: "Sided with Religious Segregationist" #NT!
+ OTO_religious_intergration: "Sided with Religious Integrationist" #NT!
+ OTO_events.1.t: "The Question of Religious Freedoms" #NT!
+ OTO_events.1.d: "Religion has been a hotly debated and contentious matter, with the Sultans and their counselors taking primacy. Since the beginning of the nineteenth century, religious freedom riots have erupted across our vast empire, particularly in the Balkans, where the Christian majority seeks greater recognition of their beliefs. As the Caliph of the Islamic World, the issue of religion is extremely important, thus the topic must be addressed as soon as possible." #NT!
+ OTO_events.1.a: "Sunni Islam is the only religion" #NT!
+ OTO_events.1.b: "Integrate in the Catholics" #NT!
+ #OTO_tanzimat_reform_1: "Tanzimat Reform" #NT!
+ #OTO_tanzimat_reform_2: "Tanzimat Reform" #NT!
+ OTO_tanzimat_reform_3: "Tanzimat Reform" #NT!
+ OTO_tanzimat_reform_4: "Tanzimat Reform" #NT!
+ OTO_events.2.t: "The Question of the Crimean Debt" #NT!
+ OTO_crimean_war_debt_spend_1: "Crimean War Debt" #NT!
+ OTO_crimean_war_debt_save_1: "Crimean War Debt" #NT!
+ OTO_crimean_war_debt_spend_2: "Crimean War Debt" #NT!
+ OTO_crimean_war_debt_spend_3: "Crimean War Debt" #NT!
+ OTO_crimean_war_debt_save_2: "Crimean War Debt" #NT!
+ OTO_closed_embassies: "Closed Embassies" #NT!
+ OTO_auctioned_state_assets: "Auctioned State Assets" #NT!
+ OTO_mac_consentrate_russia: "Concentrate on the [RUS.GetName]" #NT!
+ OTO_mac_consentrate_serbs: "Concentrate on the Serbians" #NT!
+ OTO_mac_consentrate_bulgar: "Concentrate on the Bulgarians" #NT!
+ OTO_mac_fighting_russians: "Fighting the Russians" #NT!
+ OTO_mac_serbian_front: "The Serbian Front" #NT!
+ OTO_mac_fighting_bulgars: "Fighting the Bulgarians" #NT!
+ OTO_mac_repulse_russians: "Repulse the Russians" #NT!
+ OTO_mac_deal_GRE: "Dealing with the Greeks" #NT!
+ OTO_russio_turkish_war.16.t: "The Treaty of San Stefano comes into effect" #NT!
+ OTO_russio_turkish_war.16.d: "Ottoman victory" #NT!
+ OTO_russio_turkish_war.16.a: "We must give them what they want" #NT!
+ OTO_russio_turkish_war.14.t: "Berlin Congress" #NT!
+ OTO_russio_turkish_war.13.t: "The results of the Berlin Congress" #NT!
+ OTO_russio_turkish_war.12.t: "Berlin Congress begins" #NT!
+ OTO_russio_turkish_war.11.t: "The Ottomans sign the Treaty of San Stefano" #NT!
+ OTO_russio_turkish_war.10.t: "The Treaty of San Stefano" #NT!
+ OTO_russio_turkish_war.9.t: "Defeat in the Russo-Turkish war" #NT!
+ OTO_russio_turkish_war.8.t: "Victory in the Russo-Turkish war" #NT!
+ OTO_russio_turkish_war.7.t: "Russo-Turkish War" #NT!
+ OTO_russio_turkish_war.7.d: "" #NT!
+ OTO_russio_turkish_war.7.a: "The Balkans are on fire once again" #NT!
+ OTO_russio_turkish_war.6.t: "The Russians offer independence for our aid" #NT!
+ OTO_russio_turkish_war.5.t: "The Russians offer independence for our aid" #NT!
+ OTO_russio_turkish_war.4.t: "The Russians Invade!" #NT!
+ OTO_russio_turkish_war.3.t: "Austria agrees to the offer" #NT!
+ OTO_russio_turkish_war.2.t: "A Russian Offer" #NT!
+ OTO_russio_turkish_war.1.t: "A Ottoman Weakness" #NT!
+ OTO_russio_turkish_war.1.d: "" #NT!
+ OTO_russio_turkish_war.1.a: "Get a guarantee of neutrality from [AUS.GetName]" #NT!
+ OTO_russio_turkish_war.1.b: "Start the invasion" #NT!
+ OTO_russio_turkish_war.1.c: "Drop the idea" #NT!
+ OTO_events.3.a: "Raise his wages" #NT!
+ OTO_events.3.b: "Leave them alone" #NT!
+ OTO_events.3.c: "Reduce his wages" #NT!
+ OTO_events.13.t: "Founding of the Bulgarian Revolutionary Central Committee" #NT!
+ OTO_events.25.t: "Constantinople Conference" #NT!
+ OTO_events.27.t: "Constantinople Conference Results" #NT!
+ OTO_cretan_war: "Cretan War" #NT!
+ OTO_events.31.t: "Ottomans back our Cause" #NT!
+ OTO_events.2.a: "Save our money" #NT!
+ OTO_events.2.b: "Spend our way out" #NT!
+  
+ OTO_END_OF_NEW_BEG_DESC: "For centuries, the Ottoman Empire lay at the crossroads between the great continents of Asia, Europe, and Africa, as a beacon of Islamic faith, and it’s Sultan, Abdulmecid I, has shown to have great expectations for the Empire. The recent Crimean War and Egyptian Revolt has caused considerable tribulation to the Ottoman rule, with many of its occupied lands beginning to resist Muslim rule. Though not everything has been dark and gloomy in the nation, Sultan Mahmud's II previous devotion to the Tanzimat Reforms has been continued and guided by Abdulmecid I in an attempt to better 'Ottomanize' the nation. A promising, yet delicate future can be seen ahead for the Sick Man of Europe, the house of cards centered in the eye of a thunderstorm." #NT!
+ OTO_events.26.t: "Attend a Constantinople Conference" #NT!
+ OTO_events.26.d: "After the horrors of the Bulgarian revolt and the Serbian invasion, the Ottoman Empire has been forced to call an international conference due to foreign pressure. As one of the Great Powers, we can increase pressure on the Ottomans by attending. Our efforts could help smother the flame on the Balkan powder keg before disaster can take place." #NT!
+ OTO_events.26.a: "We will attend" #NT!
+ OTO_events.26.b: "We will not attend" #NT!
+ OTO_events.34.t: "Founding of the Tercüman-i Ahval Newspaper" #NT!
+ OTO_events.34.d: "The first Major newpaper, Tercüman-i Ahval, has been founded in Constantinople. Becoming popular amongst the rising middle class due to the articles of Ahmed Vefik Pasha, Ziya Pasha and Refik Bey. The newspaper often discussess reasons for the backwardness of Ottoman society and what is going on in the country." #NT!
+ OTO_events.34.a: "They better know their place" #NT!
+ OTO_events.35.t: "Founding of the Tasvir-i Efkâr Newspaper" #NT!
+ OTO_events.35.d: "Another Newspaper has been started by İbrahim Şinasî, with a primary focus on the plight of Ottoman education." #NT!
+ OTO_events.35.a: "We are doing out best" #NT!
  OTO_events.40.t: "The 1858 Sofia Earthquake" #NT!
  OTO_events.40.d: "In addition to Sofia, the earthquake was also felt in distant towns such as Plovdiv and Yanina. Buildings were affected in Ihtiman and Rila Monastery, and the flow of mineral springs changed in Dolna Banya. In Sofia, the earthquake caused significant damage, with 70-80% of buildings severely affected. The poorer inhabitants of the city are in a difficult situation, having to rebuild their houses unforeseen in the run-up to winter. Some have been helped by donations, such as that made by Ivan Denkoğlu.In the case of the larger public buildings, the damage was more severe, with some partially or completely destroyed. The minarets of 19 of the city's 24 mosques were demolished, and only 2 of the 7 churches remain usable. Among the destroyed buildings is the Siyavush Mosque, which was abandoned after the earthquake. According to eyewitness accounts, the roof of the minaret of the Bash Cheshme Mosque, toppled over and stuck its spire into the minaret's spire. One of the arches of the newly built St Nedelya Cathedral also fell. The earthquake kills 4 people, including two children at the Siyavush Mosque and one of the construction workers at St. Nedelya. In some places around Sofia cracks opened in the ground, according to Filaretov the crack between Boyana and Dragalevtsi is over 20 cm wide and about 1.5 km long. West of the city a new hot geyser appears, which gradually weakens to the still existing spring in Ovcha Kupel. The flow rate of the mineral springs in the town decreases for a few days and then recovers" #NT!
  OTO_events.40.a: "We must offer help!" #NT!
-
- #Ideas #NT!
- OTO_crimean_war_debt: "Долг за Крымскую войну"
- tatar_migrant_crisis: "Татарский Миграционный кризис"
- OTO_tanzimat_reform: "Реформа Танзимата"
- OTO_tanzimat_reform_1: "Реформа Танзимата"
- OTO_tanzimat_reform_2: "Реформа Танзимата"
- OTO_tanzimat_reform_refuted: "Реформа Танзимата отвергнута"
- OTO_tanzimat_reform_refuted_2: "Реформа Танзимата отвергнута"
- OTO_tanzimat_reform_refuted_3: "Реформа Танзимата отвергнута"
- OTO_sick_man: "Больной человек Европы"
- OTO_sick_man_desc: "[Root.GetName] долгое время называли Больным человеком Европы, и теперь начинают проявляться последствия этого"
- OTO_sick_man_2: "Больной человек Европы"
- OTO_sick_man_2_desc: "[Root.GetName] долгое время называли Больным человеком Европы, и теперь начинают проявляться последствия этого"
- OTO_sick_man_3: "Больной человек Европы"
- OTO_sick_man_3_desc: "[Root.GetName] долгое время называли Больным человеком Европы, и теперь начинают проявляться последствия этого"
- OTO_sick_man_4: "Больной человек Европы"
- OTO_sick_man_4_desc: "[Root.GetName] отстает от других держав Европы, поскольку болезнь распространяется внутри них, и многие сомневаются, что какая-либо администрация может спасти их сейчас."
- OTO_sick_man_5: "Больной человек Европы"
- OTO_sick_man_5_desc: "[Root.GetName] отстает от других держав Европы, поскольку болезнь распространяется внутри них, и многие сомневаются, что какая-либо администрация может спасти их сейчас."
- OTO_sick_man_6: "Больной человек Европы"
- OTO_sick_man_6_desc: "[Root.GetName] отстает от других европейских держав по мере того, как болезнь распространяется внутри них. Многие влиятельные люди готовятся к краху, и букмекеры принимают ставки на то, как далеко этот крах."
- OTO_vic_devshrime: "Девшриме"
- OTO_vic_ottoman_trade: "Имперская торговля"
- OTO_vic_ottoman_mediterranean: "Османское Средиземноморье"
- OTO_vic_prussian_tatics: "Прусская тактика"
- OTO_vic_prussian_tatics_2: "Прусская тактика"
- OTO_vic_french_tatics: "Французская тактика"
- OTO_vic_french_tatics_2: "Французская тактика"
- OTO_vic_imperial_school: "Императорская школа"
- OTO_mac_fixed_wheat_prices: "Фиксированные цены на пшеницу"
- #OTO_mac_war_focus_russia: "Fight the Russians!"
- OTO_mac_war_focus_serb: "Сражайтесь с Сербами!"
- OTO_mac_war_focus_bulgar: "Сражайтесь с Болгарами!"
- OTO_mac_war_focus_russia: "Изгнать Русских!"
- OTO_mac_keep_the_russians_out: "Не подпускайте Русских"
- OTO_mac_increased_tax_burden: "Увеличенная налоговая нагрузка"
- OTO_ERU_tamrash_republic: "Автономная Республика Тамраш"
- OTO_ERU_tamrash_republic_desc: "Вместо этого оставаясь под прямым Османским контролем Республика Тамраш, в которой доминировали помаки, объявила себя самоуправляющимся административным регионом вскоре после создания Восточной Румелии. Любые попытки администрации Восточной Румелии усмирить эту помакскую колючку до сих пор были безуспешными."
+  
+  #Ideas 
+ OTO_crimean_war_debt: "Crimean War Debt" #NT!
+ tatar_migrant_crisis: "Tatar Migrant Crisis" #NT!
+ OTO_tanzimat_reform: "Tanzimat Reform" #NT!
+ OTO_tanzimat_reform_1: "Tanzimat Reform" #NT!
+ OTO_tanzimat_reform_2: "Tanzimat Reform" #NT!
+ OTO_tanzimat_reform_refuted: "Tanzimat Reform Refuted" #NT!
+ OTO_tanzimat_reform_refuted_2: "Tanzimat Reform Refuted" #NT!
+ OTO_tanzimat_reform_refuted_3: "Tanzimat Reform Refuted" #NT!
+ OTO_sick_man: "Sick Man of Europe" #NT!
+ OTO_sick_man_desc: "The [Root.GetName] has long been called the Sick Man of Europe, and the effects of this now begin to appear" #NT!
+ OTO_sick_man_2: "Sick Man of Europe" #NT!
+ OTO_sick_man_2_desc: "The [Root.GetName] has long been called the Sick Man of Europe, and the effects of this now begin to appear" #NT!
+ OTO_sick_man_3: "Sick Man of Europe" #NT!
+ OTO_sick_man_3_desc: "The [Root.GetName] has long been called the Sick Man of Europe, and the effects of this now begin to appear" #NT!
+ OTO_sick_man_4: "Sick Man of Europe" #NT!
+ OTO_sick_man_4_desc: "The [Root.GetName] is falling behind the other powers of Europe as the sickness spreads within them, many doubt that any administration could save them now." #NT!
+ OTO_sick_man_5: "Sick Man of Europe" #NT!
+ OTO_sick_man_5_desc: "The [Root.GetName] is falling behind the other powers of Europe as the sickness spreads within them, many doubt that any administration could save them now." #NT!
+ OTO_sick_man_6: "Sick Man of Europe" #NT!
+ OTO_sick_man_6_desc: "The [Root.GetName] is falling behind the other powers of Europe as the sickness spreads within them. Many powerful men prepare for the collapse and bookies are taking bets on how far away the collapse is." #NT!
+ OTO_vic_devshrime: "Devshrime" #NT!
+ OTO_vic_ottoman_trade: "Imperial Trade" #NT!
+ OTO_vic_ottoman_mediterranean: "Ottoman Mediterranean" #NT!
+ OTO_vic_prussian_tatics: "Prussian Tactics" #NT!
+ OTO_vic_prussian_tatics_2: "Prussian Tactics" #NT!
+ OTO_vic_french_tatics: "French Tactics" #NT!
+ OTO_vic_french_tatics_2: "French Tactics" #NT!
+ OTO_vic_imperial_school: "Imperial School" #NT!
+ OTO_mac_fixed_wheat_prices: "Fixed Wheat Prices" #NT!
+ #OTO_mac_war_focus_russia: "Fight the Russians!" #NT!
+ OTO_mac_war_focus_serb: "Fight the Serbians!" #NT!
+ OTO_mac_war_focus_bulgar: "Fight the Bulgarians!" #NT!
+ OTO_mac_war_focus_russia: "Drive out the Russians!" #NT!
+ OTO_mac_keep_the_russians_out: "Keep the Russians Out" #NT!
+ OTO_mac_increased_tax_burden: "Increased Tax Burden" #NT!
+ OTO_ERU_tamrash_republic: "Autonomous Tamrash Republic" #NT!
+ OTO_ERU_tamrash_republic_desc: "The Pomak dominated Tamrash Republic declared itself a self governing administrative region not long after the establishment of Eastern Rumelia. Instead remaining under direct ottoman control. Any attempts by the Eastern Rumelia administration to subdue this Pomak thorn have been unsuccessful so far." #NT!
  ALB_idea_albanian_fervor: "Albanian Fervor" #NT!
-
+  
  OTO_sicker_man_of_europe: "Our situation worsens..." #NT!
- OTO_heal_sick_man: "We can no longer be considered the 'Sick Man of Europe'. #NT!
-
- #Opinion Modifiers #NT!
+  OTO_heal_sick_man: "We can no longer be considered the 'Sick Man of Europe'. 
+  
+  #Opinion Modifiers 
  OTO_rail_partnership: "Rail Partnership" #NT!
  OTO_young_ottomans_and_france: "The Young Ottomans and France" #NT!
  OTO_restricted_churches_opinion_malus: "Restricted Churches" #NT!
  OTO_anglo_ottoman_convention_om: "Anglo-Ottoman Convention" #NT!
  GRE_OTO_teaching_greek: "Teaching Greek" #NT!
- supported_BUL_exarchate: "Поддерживал Еретическую Церковь"
-
-#################### #NT!
-### Crete Revolt ### #NT!
-#################### #NT!
- OTO_events.36.t: "Движение Маврогениса"
- OTO_events.36.d: "§OTODO: ADD_DESC§!"
- OTO_events.36.a: "Вызывающий беспокойство."
-
- OTO_events.37.t: "Греческое восстание"
- OTO_events.37.d: "§OTODO: ADD_DESC§!"
- OTO_events.37.a: "Мы не так это планировали!"
-
- OTO_events.38.t: "Мятежники остановлены"
- OTO_events.38.d: "§OTODO: ADD_DESC§!"
- OTO_events.38.a: "Мы сдерживали это... пока что."
-
- OTO_events.39.t: "Дипломат вернулся"
- OTO_events.39.d: "Несмотря на все усилия наших дипломатов успокоить греков на Крите, ситуация ухудшилась. Наши усилия по их сдерживанию продолжаются."
- OTO_events.39.a: "Это не хорошо."
-
-OTO_category_crete_revolt: "Критское восстание"
-OTO_idea_cretan_revolt: "Последствия Критского восстания"
-OTO_send_pologeorgakis: "Отправка Пологеоргакиса на переговоры со Сфакийцами"
-OTO_dispatch_Ali_Pasumacis_Djakymis_Hionias: "Отправка Али Пасумациса и Джакимиса Хиониаса для посредничества с греками"
-OTO_ensure_Greek_arms_rights: "Обеспечить право греков на ношение оружия"
-OTO_recall_Veli_Eddin_Pasha: "Вспомните Вели Эддин-Пашу"
-OTO_provide_greek_rights: "Предоставить больше автономии Грекам на Крите"
-dynmod_OTO_crete_revolt: "Восстание на Крите"
+ supported_BUL_exarchate: "Supported Heretical Church" #NT!
+  
+ #################### 
+ ### Crete Revolt ### 
+ #################### 
+ OTO_events.36.t: "The Mavrogenis Movement" #NT!
+ OTO_events.36.d: "§OTODO: ADD_DESC§!" #NT!
+ OTO_events.36.a: "Worrisome." #NT!
+  
+ OTO_events.37.t: "The Greek Revolt" #NT!
+ OTO_events.37.d: "§OTODO: ADD_DESC§!" #NT!
+ OTO_events.37.a: "That's not how we planned it!" #NT!
+  
+ OTO_events.38.t: "Rebels are stopped" #NT!
+ OTO_events.38.d: "§OTODO: ADD_DESC§!" #NT!
+ OTO_events.38.a: "We contained things...for now." #NT!
+  
+ OTO_events.39.t: "Diplomat has returned" #NT!
+ OTO_events.39.d: "Despite our diplomats best efforts to appease the Greeks in Crete, the situation has gotten worse. Our efforts to contain them continue." #NT!
+ OTO_events.39.a: "That's not good." #NT!
+  
+ OTO_category_crete_revolt: "The Cretan Revolt of [GetYear]" #NT!
+ OTO_idea_cretan_revolt: "The Cretan Revolt Aftermath" #NT!
+ OTO_send_pologeorgakis: "Sending Pologeorgakis to negotiate with the Sfakians" #NT!
+ OTO_dispatch_Ali_Pasumacis_Djakymis_Hionias: "Dispatching Ali Pasumacis and Djakymis Hionias to mediate with the Greeks" #NT!
+ OTO_ensure_Greek_arms_rights: "Ensure the right of Greeks to bear arms" #NT!
+ OTO_recall_Veli_Eddin_Pasha: "Recall Veli Eddin Pasha" #NT!
+ OTO_provide_greek_rights: "Cede more autonomy to the Greeks in Crete" #NT!
+ dynmod_OTO_crete_revolt: "Crete Revolt" #NT!

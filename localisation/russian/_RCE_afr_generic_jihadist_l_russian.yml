@@ -1,96 +1,96 @@
 ﻿l_russian:
-
- afr_generic_jihadist_1:0 "Джихадистская революция"
-#AFR_religion_not_sunni_tooltip:0 "Государственная религия не является §суннитским исламом§!"
-
- afr_call_to_jihad_idea:0 "[ROOT.GetAdjective] Джихад"
- afr_has_not_called_jihad_trigger:0 "Уже установлен призыв к §YДжихаду§!".
-
- afr_generic_jihadist_jihad_way_not_thiers:0 "Начало джихадистской революции"
- afr_generic_jihadist_our_way_not_thiers:0 "Наш путь - не путь Аллаха"
- afr_generic_jihadist_govermental_westernisation:0 "Правительственная вестернизация"
- afr_generic_jihadist_the_values_of_islamic_traditions:0 "Ценности традиций Аллаха"
- afr_generic_jihadist_quranic_military_values:0 "Коранические военные ценности"
- afr_generic_jihadist_the_values_of_our_traditions:0 "Нет больше шариата"
- afr_generic_jihadist_our_military_values:0 "Возвращение к нашим ценностям"
- afr_generic_jihadist_fast_armys:0 "Децентрализованная структура командования"
- afr_generic_jihadist_improving_the_weapons_of_war:0 "Совершенствование оружия войны"
- afr_generic_jihadist_improving_the_weapons_of_war_tooltip:0 "\n§gСолдаты часто будут самостоятельно внедрять инновации в свое оружие без бюрократических ограничений.§!\n"
- afr_generic_jihadist_flexible_attack:0 "Плоская иерархия командования"
- afr_generic_jihadist_flexible_attack_tooltip:0 "\n§gЭта командная структура является §!§YПлоской Иерархией§!§g, то есть каждый солдат может отдавать приказы и командовать.§!\n"
- afr_generic_jihadist_vast_armys:0 "Централизованная структура командования"
- afr_generic_jihadist_military_deligation:0 "Организованная командная структура"
- afr_generic_jihadist_military_deligation_tooltip:0 "\n§gЭта структура командования представляет собой §!§YПирамидальную Иерархию§!§g которая обеспечивает последовательность в армии.§!\n"
- afr_generic_jihadist_tatical_thinking:0 "Тактическое мышление"
- afr_generic_jihadist_many_tribes_one_banner:0 "Мобилизуйте наши мечети"
- afr_generic_jihadist_many_tribes_one_banner_tooltip:0 "\n§gС организованным военным командованием мы можем мобилизовать каждую мечеть для вербовки солдат.§!\n"
- afr_generic_jihadist_keeping_disipline:0 "Кампании по вербовке"
- afr_generic_jihadist_focusing_a_force:0 "Тотальная мобилизация"
- afr_generic_jihadist_unity_brings_stablity:0 "Стремиться на пути Аллаха"
- afr_generic_jihadist_establish_the_viziers:0 "Джихад языка"
- afr_generic_jihadist_establish_the_viziers_tooltip:0 "\nИзменяет религиозную политику на '§YТеократическое государство§!'\n"
- afr_generic_jihadist_quranic_constitution:0 "Джихад руки"
- afr_generic_jihadist_quranic_constitution_tooltip:0 "Заменяет §YНет Конституции§! на §YОграниченная конституция§!\n\n §gМы напишем конституцию, основанную на шариате, как повелел Аллах.§!".
- afr_generic_jihadist_the_lands_of_our_fathers:0 "Модель Сокото Рибат"
- afr_generic_jihadist_the_lands_of_our_sons:0 "Шариатская мораль для торговцев"
- afr_generic_jihadist_protecting_our_people:0 "Восстановление исламских рибатов"
- afr_generic_jihadist_inspired_by_the_west:0 "Замена шариата западными идеями"
- afr_generic_jihadist_attempt_to_westernise:0 "Попытка вестернизации"
- afr_generic_jihadist_superior_weaponry:0 "Самодельное оружие"
- afr_generic_jihadist_disiplined_and_quick:0 "Партизанская тактика"
- afr_generic_jihadist_our_military_might:0 "Джихад против колониальных держав"
- afr_generic_jihadist_founding_traditions:0 "Джихад сердца"
- afr_generic_jihadist_encouraged_birthrate_tooltip:0 "\n§YЗакон шариата§! поощряет особые права для детей и браки по договоренности родителей, это вызовет "§YСтимулирование роста населения§!" для нашей нации.\n\n§YЗакон шариата§! также устанавливает правила прав собственности для каждого мусульманина и немусульманина, что меняет закон о собственности на "§YЗемельные владения§!"".
- afr_generic_jihadist_where_we_stand:0 "Джихад меча"
- afr_generic_jihadist_keepers_of_the_old_ways:0 "Хранители старых путей"
- afr_generic_jihadist_expand_to_survive:0 "Завершить джихадистскую революцию"
- afr_generic_jihadist_expand_to_survive_custom_trigger:0 "§YАфриканский халифат§! существует\n"
- afr_generic_jihadist_expand_to_survive_tooltip:0 "\nМы присоединимся к §YАфриканскому Халифату§! и §Gначнем Джихад для Африки!§!\n"
- afr_generic_jihadist_establish_our_jihad:0 "Наш призыв к джихаду"
- afr_generic_jihadist_establish_our_jihad_tooltip:0 "§GНаши исламские реформы завершены, и мы готовы призвать §!§YДжихад§!§G к защите нашего дома!§!\n\n"
- afr_generic_jihadist_loyal_soldiers:0 "Каждый десятый житель племени"
-
- afr_generic_jihadist_skt_branch:0 "Джихад Сокото!"
- afr_generic_jihadist_skt_spread_islam:0 "Распространять ислам силой"
- afr_generic_jihadist_skt_spread_islam_tooltip:0 "Разблокирует решения, связанные с §YХалифатскими Рейдами§!.\n\n"
- afr_generic_jihadist_skt_pressure_borgu:0 "Давить на королевство Боргу"
- afr_generic_jihadist_skt_invade_infidels:0 "Вторжение неверных"
- afr_generic_jihadist_skt_invade_infidels_tooltip:0 "Получает §Y Завоевание (Фокус)§!  против §YНеисламских соседей§!.\n\n"
- afr_generic_jihadist_skt_kanem_bornu_campaign:0 " Кампания Канем-Борну"
- afr_generic_jihadist_skt_invade_bagirmi_alone:0 "Наше вторжение в Багирми"
- afr_generic_jihadist_skt_joint_invasion_bagirmi:0 "Совместное вторжение в Багирми"
- afr_generic_jihadist_skt_joint_invasion_bagirmi_1_tooltip:0 "\n\n§GПосле принятия, обе нации согласятся с тем, что указано в договорах:§!\n -§Y[SKT.GetName]§! получит §Y[1219.GetName]§!\n -§Y[ADM. GetName]§! получит §Y[1340.GetName]§!\n -§Y[WDD.GetName]§! получит §Y[1339.GetName]§!\n -§Y[BAG.GetName]§! получит §Y[860.GetName]§! и будет буферным государством, подчиненным §Y[WDD.GetName]§!\n"
- afr_generic_jihadist_skt_joint_invasion_bagirmi_2_tooltip:0 "\n\n§GПосле принятия, оба государства согласятся с тем, что указано в договорах:§!\n -§Y[SKT.GetName]§! получит §Y[1219.GetName]§!\n -§Y[SKT. GetName]§! получит §Y[1340.GetName]§!\n -§Y[WDD.GetName]§! получит §Y[1339.GetName]§!\n -§Y[BAG.GetName]§! получит §Y[860.GetName]§! и будет буферным государством, подчиненным §Y[WDD.GetName]§!\n"
- afr_generic_jihadist_skt_a_united_african_jihad:0 "Объединенный африканский джихад"
- afr_generic_jihadist_skt_a_united_african_jihad_scramble_for_africa_tooltip:0 "§YСхватка за Африку§! началась"
- afr_generic_jihadist_skt_our_own_african_jihad:0 "Наш собственный африканский джихад"
- afr_generic_jihadist_skt_islamic_liberation:0 "Исламское освобождение"
- afr_generic_jihadist_skt_islamic_liberation_trigger_tooltip:0 "§Y[ROOT.GetName]§! является §YИндустриальным Обществом§!"
- afr_generic_jihadist_skt_islamic_liberation_tooltip:0 "\nУгнетенные мусульмане по всей Африке поднимутся на джихад за §YАфриканский халифат§!.\n"
- afr_generic_jihadist_skt_oromo_insurrection:0 "Восстание мусульман Оромо"
- afr_generic_jihadist_skt_oromo_insurrection_tooltip:0 "Самая любимая страна §Y[ORO.GetName] переходит к §Y[SKT.GetName]§!\n\nМы пошлем помощь угнетенным мусульманам на §Y[ORO.GetAdjective]§ территориях и §Gпланировать восстание§!.\n"
- afr_generic_jihadist_skt_jihad_in_ethiopia:0 "Джихад в [ETH.GetName]!"
-afr_generic_jihadist_skt_jihad_in_ethiopia_tooltip:0 " §GМусульманское меньшинство в §Y[ETH.GetName]§! должно поднять Джихад!§!\n"
- afr_generic_jihadist_skt_jihad_in_oromo:0 "Джихад в [ORO.GetName]!"
- afr_generic_jihadist_skt_jihad_in_oromo_tooltip:0 "\n§GМусульманское меньшинство в §Y[ORO.GetName]§! должно поднять Джихад§!\n"
- afr_generic_jihadist_skt_algerian_insurrection:0 "Алжирское мусульманское восстание"
- afr_generic_jihadist_skt_algerian_insurrection_tooltip:0 "Самая любимая страна §Y[BAB.GetName] переходит к §Y[SKT.GetName]§!\n\nМы пошлем помощь угнетенным мусульманам на территориях §Y[BAB.GetAdjective]§! и §Gпланировать восстание§!.\n"
- afr_generic_jihadist_skt_jihad_in_french_algeria:0 "Джихад в Алжире!"
- afr_generic_jihadist_skt_jihad_in_french_algeria_tooltip:0 "\n§GМусульманское меньшинство в §Y[ALG.GetName]§! должно поднять Джихад!§!\n"
- afr_generic_jihadist_skt_unite_the_fulani_calpiphates:0 "Объединить халифаты Фулани"
- afr_generic_jihadist_skt_conquer_the_fulani_calpiphates:0 "Завоевать халифаты Фулани"
- afr_generic_jihadist_skt_pressure_massani:0 "Давить на племена Массани"
-
- afr_generic_jihadist_import_foreign_engineer:0 "Военно-промышленное предприятие"
- afr_generic_jihadist_import_foreign_engineer_tooltip:0 "§GНовое §!§YЭкономическое решение§!§G доступно для выбора!§!"
-
- afr_generic_jihadist_ftt_branch:0 "Фута Торо Джихад!".
-afr_generic_jihadist_ftj_branch:0 "Фута Джаллон Джихад!"
-afr_generic_jihadist_tou_branch:0 "Джихад Тукулер!"
-afr_generic_jihadist_msn_branch:0 "Массина Джихад!".
- Mahdist_State_jihad_prelude:0 "Рождение Махдистского джихада!"
- Mahdist_State_jihad:0 "Махдистский джихад!"
- afr_generic_jihadist_tou_spread_islam_by_force:0 "Распространять ислам силой"
- afr_generic_jihadist_tou_invade_infidels:0 "Вторжение неверных"
- afr_generic_jihadist_tou_invade_infidels_tooltip:0 "Получает §YЗавоевание (Фокус)§!  против §YНеисламских соседей§!".
- afr_generic_jihadist_tou_pressure_msn:0 "Давление Массины".
+  
+ afr_generic_jihadist_1: "Jihadist Revolution" #NT!
+ #AFR_religion_not_sunni_tooltip: "State Religion is not §YSunni Islam§!" #NT!
+  
+ afr_call_to_jihad_idea: "[ROOT.GetName] Jihad" #NT!
+ afr_has_not_called_jihad_trigger: "Has already established the call to §YJihad§!" #NT!
+  
+ afr_generic_jihadist_jihad_way_not_thiers: "Beginning the Jihadist Revolution" #NT!
+ afr_generic_jihadist_our_way_not_thiers: "Our Way Not Allah's" #NT!
+ afr_generic_jihadist_govermental_westernisation: "Governmental Westernisation" #NT!
+ afr_generic_jihadist_the_values_of_islamic_traditions: "The Values of Allah's Traditions" #NT!
+ afr_generic_jihadist_quranic_military_values: "Quranic Military Values" #NT!
+ afr_generic_jihadist_the_values_of_our_traditions: "No More Sharia" #NT!
+ afr_generic_jihadist_our_military_values: "Return to Our Values" #NT!
+ afr_generic_jihadist_fast_armys: "Decentralized Command Structure" #NT!
+ afr_generic_jihadist_improving_the_weapons_of_war: "Improving Weapons of War" #NT!
+ afr_generic_jihadist_improving_the_weapons_of_war_tooltip: "\n§gSoldiers will often independently pursue innovations to their weapons with no bureaucratic restrictions.§!\n" #NT!
+ afr_generic_jihadist_flexible_attack: "Flat Command Hierarchy" #NT!
+ afr_generic_jihadist_flexible_attack_tooltip: "\n§gThis command structure is a §!§YFlat Hierarchy§!§g, meaning every soldier can give orders and command.§!\n" #NT!
+ afr_generic_jihadist_vast_armys: "Centralized Command Structure" #NT!
+ afr_generic_jihadist_military_deligation: "Organized Command Structure" #NT!
+ afr_generic_jihadist_military_deligation_tooltip: "\n§gThis command structure is a §!§YPyramid Hierarchy§!§g which provides consistency in the military.§!\n" #NT!
+ afr_generic_jihadist_tatical_thinking: "Tactical Thinking" #NT!
+ afr_generic_jihadist_many_tribes_one_banner: "Mobilize Our Mosques" #NT!
+ afr_generic_jihadist_many_tribes_one_banner_tooltip: "\n§gWith an organized military command, we can mobalize every Mosque to recruit soldiers.§!\n" #NT!
+ afr_generic_jihadist_keeping_disipline: "Recruitment Campaigns" #NT!
+ afr_generic_jihadist_focusing_a_force: "Total Mobilization" #NT!
+ afr_generic_jihadist_unity_brings_stablity: "Strive in the Way of Allah" #NT!
+ afr_generic_jihadist_establish_the_viziers: "Jihad of the Tongue" #NT!
+ afr_generic_jihadist_establish_the_viziers_tooltip: "\nChange Religious Policy to '§YTheocratic State§!'\n" #NT!
+ afr_generic_jihadist_quranic_constitution: "Jihad of the Hand" #NT!
+ afr_generic_jihadist_quranic_constitution_tooltip: "Replaces §YNo Constitution§! with §YLimited Constitution§!\n\n §gWe shall write a constitution based on Sharia, as commanded by Allah.§!" #NT!
+ afr_generic_jihadist_the_lands_of_our_fathers: "The Sokoto Ribat Model" #NT!
+ afr_generic_jihadist_the_lands_of_our_sons: "Sharia Morals for Merchants" #NT!
+ afr_generic_jihadist_protecting_our_people: "Restore Islamic Ribats" #NT!
+ afr_generic_jihadist_inspired_by_the_west: "Replacing Sharia with Western Ideas" #NT!
+ afr_generic_jihadist_attempt_to_westernise: "Attempt to Westernise" #NT!
+ afr_generic_jihadist_superior_weaponry: "Independently Improvised Weapons" #NT!
+ afr_generic_jihadist_disiplined_and_quick: "Guerrilla Tactics" #NT!
+ afr_generic_jihadist_our_military_might: "Jihad Against the Colonial Powers" #NT!
+ afr_generic_jihadist_founding_traditions: "Jihad of the Heart" #NT!
+ afr_generic_jihadist_encouraged_birthrate_tooltip: "\n§YSharia Law§! promotes specific rights for children and arranged marriages by parents, this will cause an '§YEncouraged Population Growth§!' for our nation.\n\n§YSharia Law§! also lays out rules for property rights for every muslim and non muslim, which changes the Property Law to '§YLand Estates§!'." #NT!
+ afr_generic_jihadist_where_we_stand: "Jihad of the Sword" #NT!
+ afr_generic_jihadist_keepers_of_the_old_ways: "Keepers of The Old Ways" #NT!
+ afr_generic_jihadist_expand_to_survive: "Complete the Jihadist Revolution" #NT!
+ afr_generic_jihadist_expand_to_survive_custom_trigger: "An §YAfrican Caliphate§! exists\n" #NT!
+ afr_generic_jihadist_expand_to_survive_tooltip: "\nWe will join the §YAfrican Caliphate§! and §Gbegin a Jihad for Africa!§!\n" #NT!
+ afr_generic_jihadist_establish_our_jihad: "Our Call to Jihad" #NT!
+ afr_generic_jihadist_establish_our_jihad_tooltip: "§GOur Islamic reforms are finished and we are ready to call §!§YJihad§!§G to protect our home!§!\n\n" #NT!
+ afr_generic_jihadist_loyal_soldiers: "Every Tenth Tribesman" #NT!
+  
+ afr_generic_jihadist_skt_branch: "Sokoto Jihad!" #NT!
+ afr_generic_jihadist_skt_spread_islam: "Spread Islam by Force" #NT!
+ afr_generic_jihadist_skt_spread_islam_tooltip: "Unlocks decisions related to §YCaliphate Raids§!.\n\n" #NT!
+ afr_generic_jihadist_skt_pressure_borgu: "Pressure the Borgu Kingdom" #NT!
+ afr_generic_jihadist_skt_invade_infidels: "Invade Infidels" #NT!
+ afr_generic_jihadist_skt_invade_infidels_tooltip: "Gains §YConquer (Focus)§! war goal against §YNon-Islamic Neighbors§!.\n\n" #NT!
+ afr_generic_jihadist_skt_kanem_bornu_campaign: " Kanem-Bornu Campaign" #NT!
+ afr_generic_jihadist_skt_invade_bagirmi_alone: "Our Invasion of Bagirmi" #NT!
+ afr_generic_jihadist_skt_joint_invasion_bagirmi: "Joint Invasion of Bagirmi" #NT!
+ afr_generic_jihadist_skt_joint_invasion_bagirmi_1_tooltip: "\n\n§GUpon accepting, both nations will agree with what the treaties outline:§!\n   -§Y[SKT.GetName]§! will gain §Y[1219.GetName]§!\n   -§Y[ADM.GetName]§! will gain §Y[1340.GetName]§!\n   -§Y[WDD.GetName]§! will gain §Y[1339.GetName]§!\n   -§Y[BAG.GetName]§! will gain §Y[860.GetName]§! and will be a buffer state subjugated by §Y[WDD.GetName]§!\n" #NT!
+ afr_generic_jihadist_skt_joint_invasion_bagirmi_2_tooltip: "\n\n§GUpon accepting, both nations will agree with what the treaties outline:§!\n   -§Y[SKT.GetName]§! will gain §Y[1219.GetName]§!\n   -§Y[SKT.GetName]§! will gain §Y[1340.GetName]§!\n   -§Y[WDD.GetName]§! will gain §Y[1339.GetName]§!\n   -§Y[BAG.GetName]§! will gain §Y[860.GetName]§! and will be a buffer state subjugated by §Y[WDD.GetName]§!\n" #NT!
+ afr_generic_jihadist_skt_a_united_african_jihad: "A United African Jihad" #NT!
+ afr_generic_jihadist_skt_a_united_african_jihad_scramble_for_africa_tooltip: "The §YScramble for Africa§! has begun" #NT!
+ afr_generic_jihadist_skt_our_own_african_jihad: "Our Own African Jihad" #NT!
+ afr_generic_jihadist_skt_islamic_liberation: "Islamic Liberation" #NT!
+ afr_generic_jihadist_skt_islamic_liberation_trigger_tooltip: "§Y[ROOT.GetName]§! is an §YIndustrializing Society§!" #NT!
+ afr_generic_jihadist_skt_islamic_liberation_tooltip: "\nOppressed muslims all over africa shall rise in jihad for the §YAfrican Caliphate§!.\n" #NT!
+ afr_generic_jihadist_skt_oromo_insurrection: "Oromo Muslim Insurrection" #NT!
+ afr_generic_jihadist_skt_oromo_insurrection_tooltip: "§Y[ORO.GetName]'s§! most favoured country switches to §Y[SKT.GetName]§!\n\nWe will send aid to the oppressed muslims in the §Y[ORO.GetAdjective]§! territories and §Gplan an insurrection§!.\n" #NT!
+ afr_generic_jihadist_skt_jihad_in_ethiopia: "Jihad in [ETH.GetName]!" #NT!
+ afr_generic_jihadist_skt_jihad_in_ethiopia_tooltip: "\n§GThe muslim minority in §Y[ETH.GetName]§! shall rise in Jihad!§!\n" #NT!
+ afr_generic_jihadist_skt_jihad_in_oromo: "Jihad in [ORO.GetName]!" #NT!
+ afr_generic_jihadist_skt_jihad_in_oromo_tooltip: "\n§GThe muslim minority in §Y[ORO.GetName]§! shall rise in Jihad!§!\n" #NT!
+ afr_generic_jihadist_skt_algerian_insurrection: "Algerian Muslim Insurrection" #NT!
+ afr_generic_jihadist_skt_algerian_insurrection_tooltip: "§Y[BAB.GetName]'s§! most favoured country switches to §Y[SKT.GetName]§!\n\nWe will send aid to the oppressed muslims in the §Y[BAB.GetAdjective]§! territories and §Gplan an insurrection§!.\n" #NT!
+ afr_generic_jihadist_skt_jihad_in_french_algeria: "Jihad in Algeria!" #NT!
+ afr_generic_jihadist_skt_jihad_in_french_algeria_tooltip: "\n§GThe muslim minority in §Y[ALG.GetName]§! shall rise in Jihad!§!\n" #NT!
+ afr_generic_jihadist_skt_unite_the_fulani_calpiphates: "Unite the Fulani Caliphates" #NT!
+ afr_generic_jihadist_skt_conquer_the_fulani_calpiphates: "Conquer the Fulani Caliphates" #NT!
+ afr_generic_jihadist_skt_pressure_massani: "Pressure the Massani Tribes" #NT!
+  
+ afr_generic_jihadist_import_foreign_engineer: "Military Industrial Endeavor" #NT!
+ afr_generic_jihadist_import_foreign_engineer_tooltip: "§GA new §!§YEconomic Decision§!§G is available to be selected!§!" #NT!
+  
+ afr_generic_jihadist_ftt_branch: "Futa Toro Jihad!" #NT!
+ afr_generic_jihadist_ftj_branch: "Futa Jallon Jihad!" #NT!
+ afr_generic_jihadist_tou_branch: "Toucouleur Jihad!" #NT!
+ afr_generic_jihadist_msn_branch: "Massina Jihad!" #NT!
+ Mahdist_State_jihad_prelude: "Birth of the Mahdist Jihad!" #NT!
+ Mahdist_State_jihad: "Mahdist Jihad!" #NT!
+ afr_generic_jihadist_tou_spread_islam_by_force: "Spread Islam By Force" #NT!
+ afr_generic_jihadist_tou_invade_infidels: "Invade Infidels" #NT!
+ afr_generic_jihadist_tou_invade_infidels_tooltip: "Gains §YConquer (Focus)§! war goal against §YNon-Islamic Neighbors§!." #NT!
+ afr_generic_jihadist_tou_pressure_msn: "Pressure Massina" #NT!

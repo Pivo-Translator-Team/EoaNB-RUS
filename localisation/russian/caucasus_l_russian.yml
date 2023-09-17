@@ -1,91 +1,91 @@
 ﻿l_russian:
-
-
-	# IDEAS #NT!
-	CAU_fighters: "Кавказский газават"
-	CAU_fighters_desc: "Газва (множественное число газават) - это битва или рейд против немусульман; народы Кавказа объединились под исламом, чтобы противостоять российскому вторжению - они делают это посредством нерегулярной войны, которая особенно эффективна в горной местности Черкесии и Дагестана".
-	CAU_muridism: "Мюридизм"
-	CAU_muridism_desc: "Мюридизм был военно-политической идеологией северокавказцев с 1820-х по 1860-е годы. Его целью было объединение всех кавказских мусульман (таким образом, устраняя раскол, вызванный различными школами ислама, существовавшими на Кавказе) в священной войне за свободу против русских захватчиков. Мюридизм был глубоко укоренен в исламской вере и использовался для построения современного, эффективного, единого и централизованного государства. В игре он представлен национальными идеями и законами".
-	CAU_fierce_resistance: "Яростное сопротивление"
-	CAU_fierce_resistance_weak: "Яростное сопротивление"
-  CAU_nomadic_artillery: "Стрелять и стрелять"
-  CAU_nomadic_artillery_desc: "Для царских войск нововведения Талхига были совершенно неожиданными. Артиллерия Талхига была практически неуловима: сделав несколько выстрелов из орудий по царским войскам, он быстро переезжал на конной повозке в другое место, откуда снова наносил урон русским. Так повторялось периодически. Драгуны и казаки, спешившие на звук выстрелов, не заставали на месте артиллерию. Русские назвали эту тактику горцев "кочевой артиллерией"".
-  CAU_supply_node_nerf: "Опора на местную поддержку"
-
-	# DECISIONS #NT!
-	CIR_Unite_Tribes: "Объединить черкесские племена"
-	CIR_Seek_Help_UK: "Обратиться за поддержкой к Великобритании"
-	CIR_Seek_Help_OTO: "Обратиться за поддержкой к Османской империи"
-	CIR_Surrender_To_RUS: "Сдаться России"
-  CIR_nomadic_artillery_tactics: "Восстание отряда Талхига"
-
-	# PARTY NAMES #NT!
-	CIR_1860_REP: "Черкесский меджлис"
-
-	# TOOLTIPS #NT!
-	CIR_vic_Surrender_To_Russia_tt: "§YWe shall surrender our fight in exchange for autonomy§!" #NT!
-
-	# EVENTS #NT!
-	circassia.1.t: "Черкесы взывают о помощи"
-	circassia.1.d: "Русские воюют на Кавказе уже несколько десятилетий. Однако сегодня к нам обратился посланник \"Независимой Республики Черкесия\" с просьбой о любой поддержке. Хотя в народе есть поддержка в оказании помощи черкесскому народу, должны ли мы действительно подрывать наши отношения с русскими?"
-	circassia.1.a: "У нас нет причин оказывать им какую-либо поддержку".
-	circassia.1.b: "Мы организуем поставку оружия и припасов".
-
-	circassia.2.t: "Британцы отказываются нас поддерживать"
-	circassia.2.d: ""
-	circassia.2.a: "Попробовать стоило"
-
-	circassia.3.t: "Британцы согласились поддержать нас"
-	circassia.3.d: ""
-	circassia.3.a: "Отлично!"
-
-	circassia.4.t: "Черкесы взывают о помощи"
-	circassia.4.d: "Русские воюют на Кавказе уже несколько десятилетий. Однако сегодня к нам обратился посланник \"Независимой Республики Черкесия\" с просьбой о какой-либо поддержке. Хотя в народе есть поддержка в оказании помощи черкесскому народу, должны ли мы действительно подрывать наши отношения с русскими?"
-	circassia.4.a: "Мы сформируем специальный комитет по черкесским делам".
-	circassia.4.b: "Мы организуем поставку оружия и предметов снабжения"
-
-	circassia.5.t: "Османы поддерживают нас политически"
-	circassia.5.d: ""
-	circassia.5.a: "Хорошо"
-
-	circassia.6.t: "Османы посылают припасы"
-	circassia.6.d: ""
-	circassia.6.a: "Отлично!"
-
-	circassia.7.t: "Черкесы предлагают сдаться"
-	circassia.7.d: "Правительство Меджлиса предложило вести мирные переговоры и выразило готовность принять российское подданство. Мы получили следующее письмо от Керандико Берзега:\n\n\n\n\n\n\n\n "Эти земли принадлежат нам. \n\n\nНаше намерение - править страной строго по справедливости, не причиняя никому несправедливости.\n\n\nНарод с добрыми намерениями, как у нас, должен был вдохновить такую могущественную страну, как ваша.\n\n\nМы делаем все возможное, чтобы справедливо управлять нашей страной, мы хотим справедливо относиться к нашим соотечественникам и уважать жизнь и имущество иностранцев, которые приезжают к нам. \n\n\nКакова задача такого могущественного государства, как ваша страна, претендующего на честь, уничтожать народ?\n\n\nБудьте справедливы к нам и не уничтожайте наше имущество и наши мечети, это позор для могущественного государства лишать человека жизни без необходимости. Вы вводите в заблуждение весь мир, распространяя слухи, что мы дикий народ, но мы такие же люди, как и вы.\n\n\nНе стремитесь пролить нашу кровь, дайте нам жить здесь.\n\n\n". "
-	circassia.7.a: "Мы полностью отвергаем! Нам нужны черкесские земли, но черкесы нам не нужны!"
-	circassia.7.b: "Эта война длится уже слишком долго - давайте закончим ее сейчас".
-
-	circassia.8.t: "Русские отвергают наше предложение"
-	circassia.8.d: "Русский царь заявил, что Черкесия не только будет безоговорочно присоединена к России, но черкесы уйдут, и если черкесский народ не согласится насильственно переселиться в Турцию, русские генералы не видели проблемы в том, чтобы убить всех черкесов."
-	circassia.8.a: "Тогда мы будем бороться до конца!".
-
-	circassia.9.t: "Установлен мир!"
-	circassia.9.d: "Русский царь согласился на мир, и мы станем автономной частью России".
-	circassia.9.a: "Отлично!"
-
-	circassia.10.t: "Польские легионеры прибывают в Черкесию".
-	circassia.10.d: ""
-	circassia.10.a: "Отлично!"
-
-	imamate.1.t: "Банда Ахушана Абакара-Хияджи совершает набеги на наши села"
-	imamate.1.d: "Одно из наших сел на севере Дагестана - Охли, где располагался укрепленный гарнизон, подверглось нападению отряда Имамата. Поздним вечером они подверглись внезапному нападению, в ходе которого воин, известный как Губдалан Таймас, со своими двумя товарищами сумел уничтожить сигнальный маяк форта, что позволило отряду беспрепятственно вступить в бой и уничтожить наших солдат, находящихся там."
-	imamate.1.a: "Проклятье"
-
-	imamate.2.t: "Губдалан Таймас убит"
-	imamate.2.d: "Губдалан Таймас, свирепый дагестанский воин, был убит сегодня у горы Гуниб. После того, как он был вынужден отступить со своим отрядом в близлежащее село, началась кровавая драка, когда он и его отряд напали на русских солдат со штыками и саблями - всего погибло 100 русских солдат, но каждый дагестанский воин был сражен в бою."
-	imamate.2.a: "Одной проблемой меньше"
-
-	imamate.3.t: "Религиозное учение Кунта-хаджи Кишиева"
-	imamate.3.d: "Кунта-хаджи, чеченский мусульманский мистик, недавно вернулся в Чечню из хаджа (ежегодного паломничества в Мекку). Он является сторонником пацифизма и пассивного сопротивления, который приобрел большое влияние в регионе, раздираемом войной в течение последних 50 лет. Он сумел добиться приверженности 5000 мюридов (новичков, стремящихся к духовному просвещению под руководством духовного наставника) - вопрос в том, должны ли мы это терпеть".
-	imamate.3.a: "Оставьте его в покое"
-	imamate.3.b: "Арестуйте его!"
-
-	imamate.4.t: "Восстание кинжала"
-	imamate.4.d: "После того как мы заключили Кишиева в тюрьму, группа из 3000 мюридов, вооруженных только церемониальными кинжалами, попыталась освободить своего учителя. Восставшие были разогнаны регулярными войсками генерала Туманова, 160 восставших были убиты".
-	imamate.4.a: "Ха..."
-
-	circassianews.1.t: "Черкесский комитет помощи"
-	circassianews.1.d: "Комитет черкесской помощи был недавно сформирован в Великобритании в ответ на исход черкесского населения, совершенный Российской империей. Вдохновленный предыдущими сборами, такими как тот, который был сделан миссис Хорнби, женой британского консульского судьи в Стамбуле, чтобы доставить еду и одежду беженцам, он начал сбор пожертвований от британской общественности. Для распределения собранных средств среди беженцев в Стамбуле он привлек доктора Миллингена, который стал офицером по карантину в Трабзоне. Доктор Миллинген регулярно отправлял свежие новости в прессу на родине в надежде, что его рассказы о страданиях беженцев привлекут больше поддержки. Взносы отправлялись сразу же после их поступления, "поскольку каждый фунт, отправленный сразу, может спасти жизнь"".
-	circassianews.1.a: "Интересно..."
+  
+  
+ 	# IDEAS 
+ CAU_fighters: "Caucasian Ghazawat" #NT!
+ CAU_fighters_desc: "A Ghazwa (plural Ghazawat) is a battle or raid against non-Muslims; The people of Caucasus have rallied under Islam to resist the Russian Invasion - they do so through irregular warfare, which is especially effective in the mountainous terrain of Circassia and Dagestan" #NT!
+ CAU_muridism: "Muridism" #NT!
+ CAU_muridism_desc: "Muridism was the political-military ideology of the Northern Caucasians from the 1820’s through 1860’s. It aimed to unite all Caucasian Muslims (thus removing the split caused by the various schools of Islam that existed in Caucasus) in a holy war for freedom against the Russian invaders. Muridism was deeply grounded in the Islamic faith and was used to construct a modern, efficient, united and centralized state. It is represented in-game with national ideas and laws." #NT!
+ CAU_fierce_resistance: "Fierce Resistance" #NT!
+ CAU_fierce_resistance_weak: "Fierce Resistance" #NT!
+ CAU_nomadic_artillery: "Shoot-and-scoot" #NT!
+ CAU_nomadic_artillery_desc: "For the Tsarist troops, Talhig's innovations were completely unexpected. Talhig's artillery was practically elusive: having given several shots from guns at the tsarist troops, he quickly moved on a horse-drawn carriage to another place, from where he again inflicted damage on the Russians. This was repeated periodically. Dragoons and Cossacks who rushed to the sound of shots did not find artillery on the spot. The Russians called this tactic of the mountaineers "nomadic artillery"." #NT!
+ CAU_supply_node_nerf: "Reliance On Local Support" #NT!
+  
+ 	# DECISIONS 
+ CIR_Unite_Tribes: "Unite The Circassian Tribes" #NT!
+ CIR_Seek_Help_UK: "Seek British Support" #NT!
+ CIR_Seek_Help_OTO: "Seek Ottoman Support" #NT!
+ CIR_Surrender_To_RUS: "Surrender To Russia" #NT!
+ CIR_nomadic_artillery_tactics: "Rise of Talhig's Warband" #NT!
+  
+ 	# PARTY NAMES 
+ CIR_1860_REP: "Circassian Majlis" #NT!
+  
+ 	# TOOLTIPS 
+ CIR_vic_Surrender_To_Russia_tt: "§YWe shall surrender our fight in exchange for autonomy§!" #NT!
+  
+ 	# EVENTS 
+ circassia.1.t: "Circassians Plead For Help" #NT!
+ circassia.1.d: "Russians have been fighting in the Caucasus for a few decades now. Today, however, an envoy of the \"Independent Republic of Circassia\" has approached us asking us for support of any kind. While there is support within the populace to give assistance to the Circassian nation, should we really undermine our relations with the Russians?" #NT!
+ circassia.1.a: "We have no reasons to support them in any way" #NT!
+ circassia.1.b: "We'll organize a shipment of weaponry & supplies" #NT!
+  
+ circassia.2.t: "The British Refuse To Support Us" #NT!
+ circassia.2.d: "" #NT!
+ circassia.2.a: "It was worth a try" #NT!
+  
+ circassia.3.t: "The British Agree To Support Us" #NT!
+ circassia.3.d: "" #NT!
+ circassia.3.a: "Great!" #NT!
+  
+ circassia.4.t: "Circassians Plead For Help" #NT!
+ circassia.4.d: "Russians have been fighting in the Caucasus for a few decades now. Today, however, an envoy of the \"Independent Republic of Circassia\" has approached us asking us for support of any kind. While there is support within the populace to give assistance to the Circassian nation, should we really undermine our relations with the Russians?" #NT!
+ circassia.4.a: "We shall form a special committee on Circassian affairs" #NT!
+ circassia.4.b: "We'll organize a shipment of weaponry & supplies" #NT!
+  
+ circassia.5.t: "The Ottomans Support Us Politically" #NT!
+ circassia.5.d: "" #NT!
+ circassia.5.a: "Good" #NT!
+  
+ circassia.6.t: "The Ottomans Send Supplies" #NT!
+ circassia.6.d: "" #NT!
+ circassia.6.a: "Great!" #NT!
+  
+ circassia.7.t: "Circassians Offer To Surrender" #NT!
+ circassia.7.d: "The Majlis Government has offered to negotiate peace and expressed readiness to accept Russian citizenship. We have received the following letter from Qerandiqo Berzeg:\n\n\n \"These lands belong to us. \n\nOur intention is to rule our country with strict justice, without inflicting injustice on anyone.\n\nA people with good intentions like us should have inspired such a powerful country like yours.\n\nWe do our best to manage our country fairly, we want to treat our compatriots fairly and respect the life and property of foreigners who come to us.\n\nWhat is the task of such a powerful nation such as your country, claiming to be honorable: to destroy a people?\n\nBe fair to us and do not destroy our property and our mosques, it is shameful for a powerful state to take a person's life unnecessarily.\n\nYou are misleading the whole world by spreading rumors that we are a savage people; yet we are human beings just like you are.\n\nDo not seek to spill our blood, let us live here.\" " #NT!
+ circassia.7.a: "We completely reject! We need the Circassian lands, but we have no need of the Circassians!" #NT!
+ circassia.7.b: "This war has been going on for far too long - let us end it now" #NT!
+  
+ circassia.8.t: "Russians Reject Our Offer" #NT!
+ circassia.8.d: "The Russian Tsar declared that Circassia will not only be annexed to Russia unconditionally, but the Circassians will leave, and if the Circassian people do not accept forcefully migrating to Turkey, the Russian generals saw no problem in killing all Circassians." #NT!
+ circassia.8.a: "We'll fight to the end then!" #NT!
+  
+ circassia.9.t: "Peace Established!" #NT!
+ circassia.9.d: "The Russian Tsar agreed to peace and we shall become a autonomous part of Russia." #NT!
+ circassia.9.a: "Great!" #NT!
+  
+ circassia.10.t: "Polish Legionaries Arrive In Circassia" #NT!
+ circassia.10.d: "" #NT!
+ circassia.10.a: "Great!" #NT!
+  
+ imamate.1.t: "Ahushan Abakar-Khiyaji's Band Raids Our Villages" #NT!
+ imamate.1.d: "One of our villages in northern Dagestan - Okhli - housing a fortified garrison was attacked by the Imamate's warband. In the late evening they suffered a surprise attack, in which a warrior known as Gubdalan Taimas with his two comrades managed to destroy the fort's signal beacon, allowing the warband to freely engage and destroy our soldiers stationed there." #NT!
+ imamate.1.a: "Damn it" #NT!
+  
+ imamate.2.t: "Gubdalan Taimas Is Killed" #NT!
+ imamate.2.d: "Gubdalan Taimas, a fierce Dagestani warrior was killed today near the mountain Gunib. After he was forced to retreat with his band to the nearby village a bloody melee broke out when he and his troops charged the Russian soldiers with Bayonets and Sabres - in total 100 Russian soldiers perished, however every Dagestani warrior was struck down in the battle." #NT!
+ imamate.2.a: "One problem less" #NT!
+  
+ imamate.3.t: "Kunta-haji Kishiev's Religious Teachings" #NT!
+ imamate.3.d: "Kunta-haji, a Chechen Muslim mystic, has recently returned to Chechnya from his Hajj (a yearly pilgrimage to Mecca). He is a proponent of pacifism and passive resistance, who has gained much influence in the region that was torn by war in the last 50 years. He has managed to gain the following of 5000 Murids (a novice committed to spiritual enlightenment under a spiritual guide) - the question is whether we should tolerate this." #NT!
+ imamate.3.a: "Leave him be" #NT!
+ imamate.3.b: "Arrest him!" #NT!
+  
+ imamate.4.t: "The Dagger Uprising" #NT!
+ imamate.4.d: "After we had imprisoned Kishiev, a group of 3000 Murids armed only with ceremonial daggers tried to free their teacher. The rebels were dispersed by the regular troops of General Tumanov and 160 rebels were killed." #NT!
+ imamate.4.a: "Huh..." #NT!
+  
+ circassianews.1.t: "The Circassian Aid Committee" #NT!
+ circassianews.1.d: "The Circassian Aid Committee was recently formed in the United Kingdom in response to the exodus of the Circassian population perpetrated by the Russian Empire. Inspired by earlier collections, such as one that had been made by Mrs. Hornby, wife of the British Consular Judge in Istanbul, to bring food and clothing to the refugees, it has begun collecting donations from the British public. It has enlisted the services of Dr. Millingen, who would become the Quarantine Officer at Trabzon, to distribute the collected funds appropriately among the refugees in Istanbul. Dr. Millingen has been sending regular updates to the Press back home in the hope that more support would be attracted by his accounts of the refugees’ suffering. Contributions were sent over as soon as they came in, “since every pound sent at once may save a life”." #NT!
+ circassianews.1.a: "Interesting..." #NT!

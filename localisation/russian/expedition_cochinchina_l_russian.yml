@@ -1,115 +1,115 @@
 ﻿l_russian:
-
-
- SPR_cochinchina_expedition_begin_invasion: "Начать Кочинхинскую экспедицию".
- SPR_cochinchina_expedition_begin_invasion_desc: "Как только Кочинхинская экспедиция будет подготовлена, начнется совместное вторжение в Кочинхину тех, кто согласился на это."
- SPR_cochinchina_expedition_begin_invasion_ready_trigger: "Экспедиция §YКочинхина§ готова к началу".
- SPR_cochinchina_expedition_begin_invasion_trigger: "§YИспания§! готова начать экспедицию".
- FRA_cochinchina_expedition_begin_invasion_trigger: "§YФранция§! готова начать экспедицию".
-
- SPR_cochinchina_expedition_state_controlled_trigger: "Находится под контролем участника из §YЕвропы§!".
- SPR_cochinchina_expedition_state_not_controlled_trigger: "Не контролируется §Y[VIN.GetName]§!".
-
- FRA_cochinchina_expedition_support_malina_port: "Оказывать помощь в инвестициях в испанский порт".
- FRA_cochinchina_expedition_support_malina_port_desc: ""
- SPR_develop_manila_port_decision_started: "Начал расширять портовую инфраструктуру Манилы".
-FRA_cochinchina_expedition_support_malina_port_tooltip: "\n§Y[FRA.GetName]§! и §Y[SPR.GetName]§! получают §YУлучшение отношений§!, что дает §G+25§! мнения между обеими странами.\n"
- SPR_interest_in_cochinchina_expedition_trigger: "Все еще проявляет интерес к §YКочинхинской экспедиции§!".
-
- SPR_cochinchina_expedition_ready_for_invasion: "Готов к Кочинхинской экспедиции".
- SPR_cochinchina_expedition_ready_for_invasion_desc: ""
- SPR_cochinchina_expedition_has_not_began: "§YКочинхинская экспедиция§ не началась".
-
- SPR_cochinchina_expedition_take_port_mission: "Вторжение на Кочинхину".
- SPR_cochinchina_expedition_take_port_mission_desc: "Сай Гон и Да Нанг - крупные портовые города, способные выдержать вторжение и быстро закончить войну. Они - краеугольный камень всей операции, без них европейские силы будут вынуждены отказаться от своих амбиций."
-
-
- cochinchina_expedition.2.t: "Рост влияния католиков в [286.GetName]!".
- cochinchina_expedition.2.d: ""
- cochinchina_expedition.2.a: "Разогнать и казнить миссионеров!"
- cochinchina_expedition.2.b: "Оставьте их в покое".
-
- cochinchina_expedition.3.t: "Миссионеры убиты в [286.GetName]!".
- cochinchina_expedition.3.d: ""
- cochinchina_expedition.3.a: "Может быть, нам стоит вмешаться в дела Кочинхины?"
- cochinchina_expedition.3.b: "Это возмутительно!"
-
- cochinchina_expedition.4.t: "[FROM.GetName] Outraged By Missionary Execution!"
- cochinchina_expedition.4.d: ""
- cochinchina_expedition.4.a: "Давайте попросим [FROM.GetName] о совместном вмешательстве".
- cochinchina_expedition.4.b: "Мы можем сделать это в одиночку".
-
- cochinchina_expedition.5.t: "[FROM.GetName] Просит совместную экспедицию в Кочинхине!".
- cochinchina_expedition.5.d: ""
- cochinchina_expedition.5.a: "Скажи им, что мы с ними".
- cochinchina_expedition.5.b: "Мы не будем вмешиваться в дела Кочинхины".
-
- cochinchina_expedition.6.t: "[FROM.GetName] Присоединяйтесь к экспедиции в Кочинхину!".
- cochinchina_expedition.6.d: ""
- cochinchina_expedition.6.a: "Вперед в Кочинхину!"
-
- cochinchina_expedition.7.t: "[FROM.GetName] Отказывается от интервенции в Кочинхину!"
- cochinchina_expedition.7.d: ""
- cochinchina_expedition.7.a: "Они нам все равно не нужны!"
-
- cochinchina_expedition.8.t: "[FROM.GetName] Финансирует расширение порта Манилы!"
- cochinchina_expedition.8.d: ""
- cochinchina_expedition.8.a: "Очень признателен!"
-
- cochinchina_expedition.18.t: "Начинаем экспедицию в Кочинхину!"
- cochinchina_expedition.18.d: ""
- cochinchina_expedition.18.a: "К войне!"
-
- cochinchina_expedition.23.t: "Высадка в Кочинхине провалилась!".
- cochinchina_expedition.23.d: ""
- cochinchina_expedition.23.a: "Отозвать экспедицию!"
-
- cochinchina_expedition.24.t: "Высадка на Кочинхине успешна!"
- cochinchina_expedition.24.d: ""
- cochinchina_expedition.24.a: "Мы добились успеха!"
-
- cochinchina_expedition.364.t: "Успешное завоевание Кочинхина!".
- cochinchina_expedition.364.d: ""
- cochinchina_expedition.364.a: "Превосходно!"
-
- cochinchina_expedition.365.t: "Ультиматум для [VIN.GetName]".
- cochinchina_expedition.365.d: ""
- cochinchina_expedition.365.a: "Не допускать Испанию к мирным переговорам".
- cochinchina_expedition.365.b: "Пригласить Испанию на мирные переговоры".
- cochinchina_expedition.365.c: "Пусть начнутся мирные переговоры".
-
- cochinchina_expedition.3655.t: "Франция оставляет Испанию вне переговоров!".
- cochinchina_expedition.3655.d: ""
- cochinchina_expedition.3655.a: "Море Мальдита! Эти французы предали нас!"
- cochinchina_expedition.3655.b: "Они не смогли бы сделать это без нас! Нажимайте на кнопку!"
-
- cochinchina_expedition.3656.t: "Испания требует присутствия!"
- cochinchina_expedition.3656.d: ""
- cochinchina_expedition.3656.a: "Мы не хотим сеять отношения дальше..."
- cochinchina_expedition.3656.b: "Что они могут с этим поделать? Мы сильнее".
-
- cochinchina_expedition.3657.t: "Франция приглашает Испанию на переговоры!"
- cochinchina_expedition.3657.d: ""
- cochinchina_expedition.3657.a: "Как и договаривались!"
-
- cochinchina_expedition.3658.t: "Франция удваивает усилия!"
- cochinchina_expedition.3658.d: ""
- cochinchina_expedition.3658.a: "Мы никогда не забудем это предательство!"
-
- cochinchina_expedition.366.t: "Сдаться и прекратить экспедицию?"
- cochinchina_expedition.366.d: ""
- cochinchina_expedition.366.a: "У нас нет другого выбора..."
-
- cochinchina_expedition.21.t: "[VIT.GetName] Принимает требования!"
- cochinchina_expedition.21.d: ""
- cochinchina_expedition.21.a: "Экспедиция окончена".
-
- cochinchina_expedition.3611.t: "Конец экспедиции в Кочинхину!".
- cochinchina_expedition.3611.d: ""
- cochinchina_expedition.3611.a: "Интересно".
- cochinchina_expedition.3611.b: "За новые колонии!"
- cochinchina_expedition.3611.c: "Это ужасно!"
-
-
-
-
+  
+  
+ SPR_cochinchina_expedition_begin_invasion: "Begin the Cochinchina Expedition" #NT!
+ SPR_cochinchina_expedition_begin_invasion_desc: "Once the Cochinchina Expedition is prepared, a joint invasion of Cochinchina will begin by those that agreed to it." #NT!
+ SPR_cochinchina_expedition_begin_invasion_ready_trigger: "The §YCochinchina Expedition§! is ready to start" #NT!
+ SPR_cochinchina_expedition_begin_invasion_trigger: "§YSpain§! is ready to start the expedition" #NT!
+ FRA_cochinchina_expedition_begin_invasion_trigger: "§YFrance§! is ready to start the expedition" #NT!
+  
+ SPR_cochinchina_expedition_state_controlled_trigger: "Is controlled by a §YEuropean§! participant" #NT!
+ SPR_cochinchina_expedition_state_not_controlled_trigger: "Is not controlled by §Y[VIN.GetName]§!" #NT!
+  
+ FRA_cochinchina_expedition_support_malina_port: "Assist Spanish Port Investment" #NT!
+ FRA_cochinchina_expedition_support_malina_port_desc: "" #NT!
+ SPR_develop_manila_port_decision_started: "Has started expanding Manila's port infrastructure" #NT!
+ FRA_cochinchina_expedition_support_malina_port_tooltip: "\nThe §Y[FRA.GetName]§! and the §Y[SPR.GetName]§! gain §YImproved Relations§!, which grants a change of §G+25§! Opinion between both nations.\n" #NT!
+ SPR_interest_in_cochinchina_expedition_trigger: "Still has interest in the §YCochinchina Expedition§!" #NT!
+  
+ SPR_cochinchina_expedition_ready_for_invasion: "Ready for Cochinchina Expedition" #NT!
+ SPR_cochinchina_expedition_ready_for_invasion_desc: "" #NT!
+ SPR_cochinchina_expedition_has_not_began: "§YCochinchina Expedition§! has not started" #NT!
+  
+ SPR_cochinchina_expedition_take_port_mission: "Invasion on Cochinchina" #NT!
+ SPR_cochinchina_expedition_take_port_mission_desc: "Sai Gon and Da Nang are major port cities that can sustain an invasion and swiftly end the war. They are the keystones to the entire operation, without it the European forces will be forced to abandon their ambitions." #NT!
+  
+  
+ cochinchina_expedition.2.t: "Rising Catholic Influence in [286.GetName]!" #NT!
+ cochinchina_expedition.2.d: "" #NT!
+ cochinchina_expedition.2.a: "Crack down and execute the missionaries!" #NT!
+ cochinchina_expedition.2.b: "Let them be." #NT!
+  
+ cochinchina_expedition.3.t: "Missionaries Killed in [286.GetName]!" #NT!
+ cochinchina_expedition.3.d: "" #NT!
+ cochinchina_expedition.3.a: "Maybe we should intervene in Cochinchina?" #NT!
+ cochinchina_expedition.3.b: "This is an outrage!" #NT!
+  
+ cochinchina_expedition.4.t: "[FROM.GetName] Outraged By Missionary Execution!" #NT!
+ cochinchina_expedition.4.d: "" #NT!
+ cochinchina_expedition.4.a: "Let's ask [FROM.GetName] for a joint intervention." #NT!
+ cochinchina_expedition.4.b: "We can do this alone." #NT!
+  
+ cochinchina_expedition.5.t: "[FROM.GetName] Requests Joint Expedition in Cochinchina!" #NT!
+ cochinchina_expedition.5.d: "" #NT!
+ cochinchina_expedition.5.a: "Tell them we're with them." #NT!
+ cochinchina_expedition.5.b: "We will not intervene in Cochinchina." #NT!
+  
+ cochinchina_expedition.6.t: "[FROM.GetName] Joins the Cochinchina Expedition!" #NT!
+ cochinchina_expedition.6.d: "" #NT!
+ cochinchina_expedition.6.a: "Onwards to Cochinchina!" #NT!
+  
+ cochinchina_expedition.7.t: "[FROM.GetName] Declines the Cochinchina Intervention!" #NT!
+ cochinchina_expedition.7.d: "" #NT!
+ cochinchina_expedition.7.a: "We didn't need them anyway!" #NT!
+  
+ cochinchina_expedition.8.t: "[FROM.GetName] Funds Manila's Port Expansion!" #NT!
+ cochinchina_expedition.8.d: "" #NT!
+ cochinchina_expedition.8.a: "Much appreciated!" #NT!
+  
+ cochinchina_expedition.18.t: "Begin the Cochinchina Expedition!" #NT!
+ cochinchina_expedition.18.d: "" #NT!
+ cochinchina_expedition.18.a: "To War!" #NT!
+  
+ cochinchina_expedition.23.t: "Cochinchina Landing Fails!" #NT!
+ cochinchina_expedition.23.d: "" #NT!
+ cochinchina_expedition.23.a: "Call off the expedition!" #NT!
+  
+ cochinchina_expedition.24.t: "Cochinchina Landing Success!" #NT!
+ cochinchina_expedition.24.d: "" #NT!
+ cochinchina_expedition.24.a: "We have succeeded!" #NT!
+  
+ cochinchina_expedition.364.t: "Successful Conquest of Cochinchina!" #NT!
+ cochinchina_expedition.364.d: "" #NT!
+ cochinchina_expedition.364.a: "Excellent!" #NT!
+  
+ cochinchina_expedition.365.t: "The Ultimatum to [VIN.GetName]" #NT!
+ cochinchina_expedition.365.d: "" #NT!
+ cochinchina_expedition.365.a: "Leave Spain out of the peace negotiations." #NT!
+ cochinchina_expedition.365.b: "Invite Spain to the peace negotiations." #NT!
+ cochinchina_expedition.365.c: "May the peace negotiations commence." #NT!
+  
+ cochinchina_expedition.3655.t: "France Leaves Spain Out of Negotiations!" #NT!
+ cochinchina_expedition.3655.d: "" #NT!
+ cochinchina_expedition.3655.a: "Maldita Sea! Those French have betrayed us!" #NT!
+ cochinchina_expedition.3655.b: "They couldn't do this without us! Press the issue!" #NT!
+  
+ cochinchina_expedition.3656.t: "Spain Demands Attendance!" #NT!
+ cochinchina_expedition.3656.d: "" #NT!
+ cochinchina_expedition.3656.a: "We don't want to sower the relations further..." #NT!
+ cochinchina_expedition.3656.b: "What can they do about it? We're stronger." #NT!
+  
+ cochinchina_expedition.3657.t: "France Invites Spain to the Negotiations!" #NT!
+ cochinchina_expedition.3657.d: "" #NT!
+ cochinchina_expedition.3657.a: "Just as agreed!" #NT!
+  
+ cochinchina_expedition.3658.t: "France Doubles Down!" #NT!
+ cochinchina_expedition.3658.d: "" #NT!
+ cochinchina_expedition.3658.a: "We will never forget this betrayal!" #NT!
+  
+ cochinchina_expedition.366.t: "Surrender and End the Expedition?" #NT!
+ cochinchina_expedition.366.d: "" #NT!
+ cochinchina_expedition.366.a: "We have no other choice..." #NT!
+  
+ cochinchina_expedition.21.t: "[VIT.GetName] Accepts Demands!" #NT!
+ cochinchina_expedition.21.d: "" #NT!
+ cochinchina_expedition.21.a: "The expedition is over." #NT!
+  
+ cochinchina_expedition.3611.t: "End of the Cochinchina Expedition!" #NT!
+ cochinchina_expedition.3611.d: "" #NT!
+ cochinchina_expedition.3611.a: "Interesting." #NT!
+ cochinchina_expedition.3611.b: "To the new colonies!" #NT!
+ cochinchina_expedition.3611.c: "This is terrible!" #NT!
+  
+  
+  
+  

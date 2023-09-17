@@ -1,23 +1,23 @@
 ﻿l_russian:
- EOANBDIPLO_DESIGNATE_RIVAL_ACTION_ACTION_DESC: "Наше правительство опорочит имя этого правительства и объявит его врагом нашей великой нации".
- EOANBDIPLO_DESIGNATE_RIVAL_ACTION_TITLE: "Сделать Соперником".
- eoanb_diplo_designate_rival_recent: "§YИмеет конкурентов в последние два года§!".
- eoanbdiplo_has_rivaled_us_tt: "Соперничал с нами"
- eoanbdiplo_rival_action_target_sent: "§Y[Root.GetAdjective]§! Правительство объявит §Y[THIS.GetNameDef]§! неполноценным и врагом §Y[Root.GetAdjective]§! нации!\n \nВы не можете назначить нового соперника еще два года."
- eoanbdiplo_rival_action_target_recieved: "Вероломное правительство §B[FROM.GetNameDef]§! объявило нас своим соперником!".
- EOANBDIPLO_REMOVE_RIVAL_ACTION_ACTION_DESC: "Устранить соперника".
- EOANBDIPLO_REMOVE_RIVAL_ACTION_TITLE: "Убрать Соперника"
- eoanbdiplo_clear_rival_action_target_sent: "§Y[Root.GetAdjective]§! правительство постановит, что правительство §B[THIS.GetNameDef]§! больше не соперничает!".
- eoanbdiplo_clear_rival_action_target_recieved: "Правительство §B[FROM.GetNameDef]§! отменило свое соперничество с нами!".
- EOANBDIPLO_TRIBAL_BORDER_RAID_ACTION_ACTION_DESC: "Инициировать рейд племени".
- EOANBDIPLO_TRIBAL_BORDER_RAID_ACTION_TITLE: "Инициировать набег".
- eoanbdiplo_tribal_border_raid_action_target_sent: "Объявлен рейд на §B[THIS.GetAdjective]§! деревню ".
- eoanbdiplo_tribal_border_raid_action_target_recieved: "§В[FROM.GetNameDef]§! объявил набег на нашу деревню!".
- EOANBDIPLO_RAID_COLONIAL_NEIGHBOR_ACTION_ACTION_DESC: "[afr_tribal_raid_colonial_neighbor_desc_scripted]".
- EOANBDIPLO_RAID_COLONIAL_NEIGHBOR_ACTION_TITLE: "Налет на колониального захватчика".
- EOANBDIPLO_AFR_EMPIRE_POLITICS_LOWER_SUBJECT_LEVEL_ACTION_DESC: "Мы объявим нашему субъекту, что он больше не достоин своего нынешнего статуса автономии".
- EOANBDIPLO_AFR_EMPIRE_POLITICS_LOWER_SUBJECT_LEVEL_TITLE: "Уменьшить автономию субъекта".
- EOANBDIPLO_AFR_EMPIRE_POLITICS_RAISE_SUBJECT_LEVEL_ACTION_DESC: "Мы потребуем, чтобы наш повелитель признал нашу значимость и предоставил нам более автономный статус".
- EOANBDIPLO_AFR_EMPIRE_POLITICS_RAISE_SUBJECT_LEVEL_TITLE: "Требуем большей автономии".
-
- eoanbsys_inherit_technology_tt: "§B[THIS.GetNameWithFlag] наследует технологии от §B[PREV.GetNameWithFlag]§!".
+ EOANBDIPLO_DESIGNATE_RIVAL_ACTION_ACTION_DESC: "Our government will defame the name of this government and declare them as an enemy of our great nation." #NT!
+ EOANBDIPLO_DESIGNATE_RIVAL_ACTION_TITLE: "Designate Rival" #NT!
+ eoanb_diplo_designate_rival_recent: "§YHas Designated Rival in Last Two Years§!" #NT!
+ eoanbdiplo_has_rivaled_us_tt: " Has Rivaled Us" #NT!
+ eoanbdiplo_rival_action_target_sent: "The §Y[Root.GetAdjective]§! government will declare §Y[THIS.GetNameDef]§! inferior and the enemy of the §Y[Root.GetAdjective]§! nation!\n \nYou may not designate a new rival for another two years." #NT!
+ eoanbdiplo_rival_action_target_recieved: "The treacherous government of §B[FROM.GetNameDef]§! has announced us as their rival!" #NT!
+ EOANBDIPLO_REMOVE_RIVAL_ACTION_ACTION_DESC: "Undesignate Rival" #NT!
+ EOANBDIPLO_REMOVE_RIVAL_ACTION_TITLE: "Undesignate Rival" #NT!
+ eoanbdiplo_clear_rival_action_target_sent: "The §Y[Root.GetAdjective]§! will decree that the government of §B[THIS.GetNameDef]§! is no longer rivaled!" #NT!
+ eoanbdiplo_clear_rival_action_target_recieved: "The government of §B[FROM.GetNameDef]§! has rescinded their rivaling of us!" #NT!
+ EOANBDIPLO_TRIBAL_BORDER_RAID_ACTION_ACTION_DESC: "Initiate a Tribal Raid" #NT!
+ EOANBDIPLO_TRIBAL_BORDER_RAID_ACTION_TITLE: "Initiate Raid" #NT!
+ eoanbdiplo_tribal_border_raid_action_target_sent: "Declared a raid on a §B[THIS.GetAdjective]§! village!" #NT!
+ eoanbdiplo_tribal_border_raid_action_target_recieved: "The §B[FROM.GetNameDef]§! has declared a raid on our village!" #NT!
+ EOANBDIPLO_RAID_COLONIAL_NEIGHBOR_ACTION_ACTION_DESC: "[afr_tribal_raid_colonial_neighbor_desc_scripted]" #NT!
+ EOANBDIPLO_RAID_COLONIAL_NEIGHBOR_ACTION_TITLE: "Raid Colonial Encroacher" #NT!
+ EOANBDIPLO_AFR_EMPIRE_POLITICS_LOWER_SUBJECT_LEVEL_ACTION_DESC: "We will announce to our subject that they are no longer worthy of their current autonomy status." #NT!
+ EOANBDIPLO_AFR_EMPIRE_POLITICS_LOWER_SUBJECT_LEVEL_TITLE: "Reduce Subject Autonomy" #NT!
+ EOANBDIPLO_AFR_EMPIRE_POLITICS_RAISE_SUBJECT_LEVEL_ACTION_DESC: "We will demand our overlord recognizes our worth and provide us with a more autonomous status." #NT!
+ EOANBDIPLO_AFR_EMPIRE_POLITICS_RAISE_SUBJECT_LEVEL_TITLE: "Demand Higher Autonomy" #NT!
+  
+ eoanbsys_inherit_technology_tt: "§B[THIS.GetNameWithFlag] inherits technology from §B[PREV.GetNameWithFlag]§!" #NT!

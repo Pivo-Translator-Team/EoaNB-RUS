@@ -1,15 +1,15 @@
 ﻿l_russian:
-# Nation Checks #NT!
-
-# Demographic Checks #NT!
-
-# Region Checks #NT!
- is_in_north_america: "Находится в §YСеверной Америки§!".
- is_in_canada: "Находится в §YКанаде§!".
- is_in_canadian_west: "Находится в §YЗападной Канаде§!".
- is_in_canadian_east: "Находится в §YВосточной Канаде§!".
- is_in_canadian_maritime: "Находится в §YМорской Канаде§!".
- is_in_united_states: "Находится в §YГлавной Америке§!".
- is_in_american_west: "Находится в §YЗападной Америке§!".
- is_in_american_northwest: "Находится на §YАмериканском Тихоокеанском Северо-Западе§!".
- is_in_american_sierra: "Находится в §YАмериканской Сьерре§!"
+ # Nation Checks 
+  
+ # Demographic Checks 
+  
+ # Region Checks 
+ is_in_north_america: "Is in §YNorth America§!" #NT!
+ is_in_canada: "Is in §YCanada§!" #NT!
+ is_in_canadian_west: "Is in §YWestern Canada§!" #NT!
+ is_in_canadian_east: "Is in §YEastern Canada§!" #NT!
+ is_in_canadian_maritime: "Is in §YMaritime Canada§!" #NT!
+ is_in_united_states: "Is in §YMainland America§!" #NT!
+ is_in_american_west: "Is in §YWestern America§!" #NT!
+ is_in_american_northwest: "Is in §YAmerican Pacific Northwest§!" #NT!
+ is_in_american_sierra: "Is in §YAmerican Sierra§!" #NT!

@@ -1,15 +1,15 @@
 ﻿l_russian:
- ###TOOLTIPS### #NT!
- CUSTOM_ALERTS_TOOLTIP_PROXY: "[CUSTOM_ALERTS_TOOLTIP]"
- CUSTOM_ALERTS_TOOLTIP_DELAYED_PROXY: "[CUSTOM_ALERTS_TOOLTIP_DELAYED]\n§GЩёлкните Правой Кнопкой Мыши, чтобы уволить на один месяц§!\n§GAlt-Правая кнопка мыши, чтобы уволить на один год§!"
-
- CUSTOM_ALERTS_MHC_POWERFUL_ADVISOR: "§YВластный советник(и) в высшем военном командовании§!".
- CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_POWERFUL_ADVISOR: "Один или несколько советников вашего Верховного военного командования очень могущественны. Если их властью не управлять осторожно, это может привести к проблемам."
- CUSTOM_ALERTS_MHC_POWERFUL_ORG: "§YВластная организация(и) в высшем военном командовании§!".
- CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_POWERFUL_ORG: "Одна или несколько организаций вашего Верховного военного командования очень могущественны. Если их властью не управлять осторожно, это может привести к серьезным проблемам."
- CUSTOM_ALERTS_MHC_UNFIT: "§YНеподходящий лидер(ы) в высшем военном командовании§!".
- CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_UNFIT: "Один или несколько организационных лидеров вашего высшего военного командования не соответствуют занимаемой должности. Если его не заменить более компетентным человеком, это может привести к потере баланса сил."
- CUSTOM_ALERTS_MHC_ACTIVE_NO_WAR: "§YАктивный советник(и) в военном верховном командовании в мире§!".
- CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_ACTIVE_NO_WAR: "Один или несколько советников вашего Верховного военного командования в настоящее время активны, несмотря на отсутствие войны. Это может привести к непреднамеренному усилению власти".
- CUSTOM_ALERTS_MHC_INACTIVE_WAR: "§YНеактивный(ые) советник(и) верховного военного командования в состоянии войны§!".
- CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_INACTIVE_WAR: "Ни один советник вашего Верховного военного командования в настоящее время не активен, несмотря на то, что идет война. Модификаторы, предоставляемые советниками, применяются только при их активации."
+  ###TOOLTIPS### 
+ CUSTOM_ALERTS_TOOLTIP_PROXY: "[CUSTOM_ALERTS_TOOLTIP]" #NT!
+ CUSTOM_ALERTS_TOOLTIP_DELAYED_PROXY: "[CUSTOM_ALERTS_TOOLTIP_DELAYED]\n§GRight-click to dismiss for one month§!\n§GAlt-right-click to dismiss for one year§!" #NT!
+  
+ CUSTOM_ALERTS_MHC_POWERFUL_ADVISOR: "§YPowerful Advisor(s) in Military High Command§!" #NT!
+ CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_POWERFUL_ADVISOR: "One or more of the advisors of your Military High Command are very powerful. If their power is not managed carefully, this could lead to problems." #NT!
+ CUSTOM_ALERTS_MHC_POWERFUL_ORG: "§YPowerful Organisation(s) in Military High Command§!" #NT!
+ CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_POWERFUL_ORG: "One or more of the organisations of your Military High Command are very powerful. If their power is not managed carefully, this could lead to major problems." #NT!
+ CUSTOM_ALERTS_MHC_UNFIT: "§YUnfit Leader(s) in Military High Command§!" #NT!
+ CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_UNFIT: "One or more of the organisational leaders of your Military High Command are not fit for the position. If not replaced by a more competent individual, this could lead to loss of the balance of power." #NT!
+ CUSTOM_ALERTS_MHC_ACTIVE_NO_WAR: "§YActive Advisor(s) in Military High Command in Peace§!" #NT!
+ CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_ACTIVE_NO_WAR: "One or more of your advisors of your Military High Command are currently active, despite there being no war. This could lead to unintentional power gain." #NT!
+ CUSTOM_ALERTS_MHC_INACTIVE_WAR: "§YInactive Advisor(s) in Military High Command in War§!" #NT!
+ CUSTOM_ALERTS_TOOLTIP_DELAYED_MHC_INACTIVE_WAR: "No advisors of your Military High Command are currently active, despite a war raging on. The modifiers the advisors provide are only applied when activated." #NT!

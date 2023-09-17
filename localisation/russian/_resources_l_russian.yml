@@ -1,53 +1,53 @@
 ﻿l_russian:
-  PRODUCTION_MATERIALS_GRAIN: "Зерно"
-  PRODUCTION_MATERIALS_COAL: "Уголь"
-  PRODUCTION_MATERIALS_WOOD: "Древесина"
-  PRODUCTION_MATERIALS_FABRIC: "Ткань"
-  PRODUCTION_MATERIALS_MACHINE_PARTS: "Детали машин"
-  PRODUCTION_MATERIALS_COTTON: "Хлопок"
-  PRODUCTION_MATERIALS_IRON: "Сырое железо"
-  PRODUCTION_MATERIALS_PLASTICS: "Пластмассы"
-  PRODUCTION_MATERIALS_TITANIUM: "Титан"
-  PRODUCTION_MATERIALS_SILICATES: "Силикат"
-  PRODUCTION_MATERIALS_CERAMICS: "Керамика"
-  PRODUCTION_MATERIALS_RARE_EARTH_METALS: "Редкоземельные металлы"
-  PRODUCTION_MATERIALS_ELETRONICS: "Электроника"
-  PRODUCTION_MATERIALS_PORTABLE_POWER: "Портативный источник энергии"
-  coal_desc: "Уголь используется для заправки современных машин, таких как поезда и корабли, а также является ключевым ингредиентом для создания §YСтали§! и §YДеталей машин§!".
-  wood_desc: "Дерево - очень универсальный материал, используемый в строительстве винтовок, кораблей и вообще всех других вещей, которые только можно себе представить."
-  fabric_desc: "Ткань в основном нужна для униформы, но также может использоваться и в других сферах производства."
-  machine_parts_desc: "Детали машин - это продвинутый тип ресурсов, используемых в технологически сложном оборудовании."
-  grain_desc: "Зерно используется людьми в качестве пищи".
-  iron_desc: "Сырое железо, или чугун, - это нерафинированное железо, которое требует рафинирования для создания §YСтали§!".
-  cotton_desc: "Хлопок и другие волокна являются предпосылкой для тканей, преимущественно используемых для одежды."
-  plastics_desc: "Пластмассы используются как легкий водонепроницаемый материал, но только в конце 20-го века пластик стал использоваться в большом количестве областей, включая применение в электронике и военном деле."
-  titanium_desc: "Титан - это очень толстый и легкий металл, который преимущественно использовался для бронирования самолетов в §YАтомную эру§! и позже."
-  silicates_desc: "Силикат - это общий термин для многих минералов, содержащих кремний, которые используются в производстве §YКерамики§! и §YЭлектроники§!".
-  rare_earth_metals_desc: "Редкоземельные металлы - это общий термин для многих редких материалов, необходимых для производства передовой электроники, машин и генерации энергии, а также для других целей."
-  eletronics_desc: "Электроника - это схемы, провода и другие материалы, необходимые для производства электронного оборудования, такого как компьютеры, телефоны и бытовая техника".
-  portable_power_desc: "Портативные источники энергии - это то, что заставляет электричество работать, это генераторы и батареи, от которых работают ваши передовые боевые машины".
-  ceramics_desc: "Керамика в основном используется в продвинутой броне и обеспечивает большую защиту в сочетании с другими типами брони."
-  RESOURCE_TYPE_RAW: "Сырьевые ресурсы"
-  RESOURCE_TYPE_REFINED: "Рафинированные ресурсы"
-  RESOURCE_TYPE_MANUFACTURED: "Произведенные ресурсы"
-  resource_production.1.t: "Недостаточно угля или железа для производства стали"
-  resource_production.1.d: "Ранее сегодня на одном из наших сталелитейных заводов закончилось сырье, необходимое для производства стали, и он был закрыт из-за этого".
-  resource_production.1.a: "Мы должны получить больше угля и железа".
-  resource_production.2.t: "Не хватает стали или угля для производства деталей машин"
-  resource_production.2.d: "Ранее сегодня на одном из наших заводов по производству деталей машин закончилось различное сырье, необходимое для производства деталей машин, и из-за этого он был закрыт".
-  resource_production.2.a: "Мы должны получить больше стали и угля".
-  resource_production.3.t: "Недостаточно хлопка для производства тканей"
-  resource_production.3.d: "Ранее сегодня на одной из наших ткацких мануфактур закончилось сырье, необходимое для производства ткани, и она была закрыта из-за этого".
-  resource_production.3.a: "Мы должны получить больше хлопка"
-  resource_production.4.t: "Недостаточно пластмасс, силикатов и редкоземельных металлов для производства электроники"
-  resource_production.4.d: "Ранее сегодня на одном из наших заводов по производству электроники закончилось различное сырье, необходимое для производства электроники, и из-за этого он был закрыт".
-  resource_production.4.a: "Мы должны получить больше пластмасс, силикатов и редкоземельных металлов".
-  resource_production.5.t: "Не хватает силикатов для производства керамики"
-  resource_production.5.d: "Ранее сегодня в одной из наших керамических печей закончилось различное сырье, необходимое для производства керамики, и она была закрыта из-за этого".
-  resource_production.5.a: "Мы должны получить больше силикатов"
-#resource_production.6.t:0 "Не хватает нефти для производства пластмасс"
-#resource_production.6.d:0 "Earlier today, one of our Plastics Refineries ran out of the various raw materials required to produce Plastics, and as such have closed down" #NT!
-#resource_production.6.a:0 "Мы должны получить больше нефти"
-  resource_production.6.t: "Не хватает редкоземельных металлов для производства генераторов"
-  resource_production.6.d: "Ранее сегодня на одном из наших заводов по производству генераторов закончилось различное сырье, необходимое для производства генераторов, и поэтому он был закрыт"
-  resource_production.6.a: "Мы должны получить больше редкоземельных металлов"
+ PRODUCTION_MATERIALS_GRAIN: "Grain" #NT!
+ PRODUCTION_MATERIALS_COAL: "Coal" #NT!
+ PRODUCTION_MATERIALS_WOOD: "Wood" #NT!
+ PRODUCTION_MATERIALS_FABRIC: "Fabric" #NT!
+ PRODUCTION_MATERIALS_MACHINE_PARTS: "Machine Parts" #NT!
+ PRODUCTION_MATERIALS_COTTON: "Cotton" #NT!
+ PRODUCTION_MATERIALS_IRON: "Raw Iron" #NT!
+ PRODUCTION_MATERIALS_PLASTICS: "Plastics" #NT!
+ PRODUCTION_MATERIALS_TITANIUM: "Titanium" #NT!
+ PRODUCTION_MATERIALS_SILICATES: "Silicates" #NT!
+ PRODUCTION_MATERIALS_CERAMICS: "Ceramics" #NT!
+ PRODUCTION_MATERIALS_RARE_EARTH_METALS: "Rare Earth Metals" #NT!
+ PRODUCTION_MATERIALS_ELETRONICS: "Electronics" #NT!
+ PRODUCTION_MATERIALS_PORTABLE_POWER: "Portable Power Source" #NT!
+ coal_desc: "Coal is used for fueling advanced machinery like trains and ships, as well as being a key ingredient in creating §YSteel§! and §YMachine Parts§!." #NT!
+ wood_desc: "Wood is a very versatile material used in the construction of rifles, ships, and generally most other things you can imagine." #NT!
+ fabric_desc: "Fabric is primarily needed for uniforms, but also can be used in other production venues." #NT!
+ machine_parts_desc: "Machine parts are an advanced type of resource used in technologically complicated equipment." #NT!
+ grain_desc: "Grain is used by people as food." #NT!
+ iron_desc: "Raw Iron, or Pig Iron, is iron that has been unrefined. this requres refining in order to create §YSteel§!." #NT!
+ cotton_desc: "Cotton, and other fibers are a prerequisite of fabrics predomantly used for clothing." #NT!
+ plastics_desc: "Plastics are used as a light-weight waterproof material, but it was not until the later half of the 20th century that plastic was used in a large amount of areas, including application in electronics and the military." #NT!
+ titanium_desc: "Titanium is a very thick and light-weight metal predomantly used to armor aircraft in the §YAtomic Era§! and later." #NT!
+ silicates_desc: "Silicates is a catch-all term for many minerals the contain silicon, which are used in the production of §YCeramics§! and §YElectronics§!." #NT!
+ rare_earth_metals_desc: "Rare Earth Metals is a catch-all term for the many rare materials required for the production of Advanced Electronics, Machinery and Power Generation, among other uses." #NT!
+ eletronics_desc: "Electronics are the circuits, wires, and other materials required to make electronic equipment like Computers, Phones and Appliances." #NT!
+ portable_power_desc: "Portable Power Sources are what makes electrics go, these are the generators and batteries that run your Advanced Combat Machines." #NT!
+ ceramics_desc: "Ceramics are primarily used in advanced armors and provide a large amount of protection when combined with other advanced armor types." #NT!
+ RESOURCE_TYPE_RAW: "Raw Resources" #NT!
+ RESOURCE_TYPE_REFINED: "Refined Resources" #NT!
+ RESOURCE_TYPE_MANUFACTURED: "Manufactured Resources" #NT!
+ resource_production.1.t: "Not enough Coal or Iron for Steel manufactoring" #NT!
+ resource_production.1.d: "Earlier today, one of our Steel Mills ran out of the various raw materials required to produce Steel and have closed down because of it." #NT!
+ resource_production.1.a: "We must obtain more Coal and Iron" #NT!
+ resource_production.2.t: "Not enough Steel or Coal for Machine Part manufactoring" #NT!
+ resource_production.2.d: "Earlier today, one of our Machine Part Manufactories ran out of the various raw materials required to produce Machine Parts and have closed down because of it." #NT!
+ resource_production.2.a: "We must obtain more Steel and Coal" #NT!
+ resource_production.3.t: "Not enough Cotton for Fabric manufactoring" #NT!
+ resource_production.3.d: "Earlier today, one of our Fabric Manufactories ran out of the various raw materials required to produce Fabric and have closed down because of it." #NT!
+ resource_production.3.a: "We must obtain more Cotton" #NT!
+ resource_production.4.t: "Not enough Plastics, Silicates or Rare Earth Metals for Electronics manufactoring" #NT!
+ resource_production.4.d: "Earlier today, one of our Electronics Manufactories ran out of the various raw materials required to produce Electronics and have closed down because of it." #NT!
+ resource_production.4.a: "We must obtain more Plastics, Silicates and Rare Earth Metals" #NT!
+ resource_production.5.t: "Not enough Silicates for Ceramic manufactoring" #NT!
+ resource_production.5.d: "Earlier today, one of our Ceramic Burners ran out of the various raw materials required to produce Ceramics and have closed down because of it." #NT!
+ resource_production.5.a: "We must obtain more Silicates" #NT!
+ #resource_production.6.t: "Not enough Oil for Plastics manufactoring" #NT!
+ #resource_production.6.d: "Earlier today, one of our Plastics Refineries ran out of the various raw materials required to produce Plastics, and as such have closed down" #NT!
+ #resource_production.6.a: "We must obtain more Oil" #NT!
+ resource_production.6.t: "Not enough Rare Earth Metals for Generator manufactoring" #NT!
+ resource_production.6.d: "Earlier today, one of our Generator Manufactories ran out of the various raw materials required to produce Generators, and as such have closed down" #NT!
+ resource_production.6.a: "We must obtain more Rare Earth Metals" #NT!

@@ -1,268 +1,268 @@
 ﻿l_russian:
-
- afr_colony_generic_1: "Колониальное Дерево Фокусов"
-
- afr_colony_generic_regional_victorian_era_tooltip: "Вступил в §YВикторианскую эпоху§!"
- AFR_GENERIC_COLONIAL_ENTER_TOOLTIP: "\n\n"
-
- AFR_futa_islamic_jihad: "Общий исламский джихад"
- AFR_futa_islamic_jihad_desc: "Фута-Джаллон, Фута-Торо и Тукулер - три из четырех государств фулани-джихада, которые имеют общие интересы по сопротивлению французскому колониальному правлению."
-
- AFR_colonial_native_reservations: "Резервации племен"
- AFR_colonial_native_reservations_desc: "Это колониальное правительство решило создать резервацию для местных племен. Этот акт смягчил напряженность между двумя культурами, но уменьшил вербовку и доступ к ресурсам."
-
- afr_colony_event_generic_1_a: "Мы будем проводить политику усиленной §Yцентрализации§!, наши колониальные интересы приоритетны!\n".
- afr_colony_event_generic_1_b: "Мы будем проводить политику усиленной §Yдецентрализации§!, предоставляя туземцам частичную автономию.\n"
-
- afr_colony_generic_colonial_investments_decisions: "Региональные инвестиции"
- afr_colony_generic_regional_investment: "Региональные инвестиции"
- afr_colony_generic_regional_industry: "Инвестиции в региональную промышленность"
- afr_colony_generic_regional_industry_desc: ""
- afr_colony_generic_regional_industry_decision: "Инвестиции в региональную промышленность"
- afr_colony_generic_regional_industry_decision_desc: ""
- afr_colony_generic_regional_industry_decision_flag: "Инвестировал в §YРегиональную отрасль§!".
-afr_colony_generic_regional_industry_tooltip: "\nОткрывает новые §YИндустриальные решения§!.\n"
- afr_colony_generic_regional_industry_completed: "Современные промышленные центры"
- afr_colony_generic_regional_industry_completed_desc: ""
- afr_colony_generic_regional_resources: "Инвестировать в добычу ресурсов"
- afr_colony_generic_regional_resources_desc: ""
- afr_colony_generic_regional_resources_decision: "Инвестирование в добычу ресурсов"
- afr_colony_generic_regional_resources_decision_desc: ""
- afr_colony_generic_regional_resources_decision_flag: "Вложил средства в §YРесурсодобычу§!".
- afr_colony_generic_regional_resources_tooltip: "\nОткрывает новые §YРешения по добыче ресурсов§!.\n"
- afr_colony_generic_regional_resources_completed: "Модернизированное извлечение материалов"
- afr_colony_generic_regional_resources_completed_desc: ""
- afr_colony_generic_regional_infrastructure: "Инвестировать в региональную инфраструктуру"
- afr_colony_generic_regional_infrastructure_desc: ""
- afr_colony_generic_regional_infrastructure_decision: "Инвестирование в региональную инфраструктуру"
- afr_colony_generic_regional_infrastructure_decision_desc: ""
- afr_colony_generic_regional_infrastructure_decision_flag: "Инвестировал в §YРегиональную инфраструктуру§!".
-afr_colony_generic_regional_infrastructure_tooltip: "\nОткрывает новые §YИнфраструктурные решения§!.\n"
- afr_colony_generic_regional_infrastructure_completed: "Современные города"
- afr_colony_generic_regional_infrastructure_completed_desc: ""
- afr_colony_generic_regional_victorian_era: "Вступить в Викторианскую эпоху"
- afr_colony_generic_regional_victorian_era_desc: ""
- afr_colony_construct_fabric_industry: "Построить тканевую промышленность".
- afr_colony_has_fabric_industry: "Построена §YФабричная Индустрия§!".
- afr_colony_establish_logging_industry: "Создал лесозаготовительную промышленность".
- afr_colony_has_logging_industry: "Создана §YДеревообрабатывающая промышленность§!".
- afr_colony_construct_civ_factory: "Создать гражданскую промышленность"
- afr_colony_has_civilian_industry: "Создана §YГражданская промышленность§!".
- afr_colony_construct_mil_factory: "Создать военную промышленность"
- afr_colony_has_military_industry: "Создала §YВоенную промышленность§!".
- afr_colony_construction_in_progress: "Имеет §YСтроительство в процессе§!".
- afr_colony_generic_regional_industrializing: "Индустриализирующееся общество".
- afr_colony_generic_clear_development_decision: "Проект регионального развития: Разрешение на развитие"
- afr_colony_generic_clear_development_decision_desc: "Путем §RУдаления свободного слота§! из предыдущего Проекта регионального развития, в этом регионе может быть разработан §GНовый проект§!".
-
- afr_colony_generic_french_approval: "Колониальные амбиции Фаидербе"
- afr_colony_generic_french_senegal_trarza_core: "Интегрировать Химаму"
- afr_colony_generic_french_senegal_trarza_core_tooltip: "Не сопротивляется нашей оккупации §Y[866.GetName]§!".
- afr_colony_generic_french_senegal_prepare_war: "Тактика французской пехоты"
- afr_colony_generic_french_senegal_war: "Война Фута Торо"
-
- afr_colony_generic_french_algeria_approval: "Французское завоевание Алжира".
- afr_colony_generic_french_algeria_prepare_war: "Тактика французской пехоты"
- afr_colony_generic_french_algeria_war: "Вторжение в Бени-Аббас"
- afr_colony_generic_french_algeria_war_french_no_help: "\nФранция решила не преследовать §Yколониальные амбиции§! §RМы не получим гарантии французской помощи во вторжении!§!\n".
- afr_colony_generic_french_algeria_war_french_help: "\nФранция в настоящее время преследует §Yколониальные амбиции§! §Gнам будет гарантирована французская помощь во вторжении!§!\n".
-
-
- french_senegal_colony_development.1: "Французская помощь в развитии [272.GetName]!".
- french_senegal_colony_development.1.t: "Французская помощь в развитии [272.GetName]!".
- french_senegal_colony_development.1.d: "Наши колониальные хозяева, [FRA.GetName], решили помочь нашему колониальному развитию!".
- french_senegal_colony_development.1.a: "Это позволит нам опередить график на несколько лет!".
- french_senegal_colony_development_1_tooltip: "Завершена миссия §YРегиональная промышленность§!\nЗавершена миссия §YДобыча ресурсов§!\nЗавершена миссия §YРегиональная инфраструктура§!"
- french_senegal_colony_development.2: "[FRA.GetName] основывает форт в [272.GetName]!"
- french_senegal_colony_development.2.t: "[FRA.GetName] основывает форт в [272.GetName]!".
- french_senegal_colony_development.2.d: "Наши колониальные хозяева, [FRA.GetName], решили помочь нашему колониальному развитию! На этот раз путем создания форта на реке Сенегал, которая, как известно, оспаривается [TRZ.GetName]."
- french_senegal_colony_development.2.a: "Это поможет защитить наши колониальные владения!".
- french_senegal_colony_development_2_tooltip: "Добавить §Y1 Земельного Укрепления§!".
- french_senegal_colony_development.3: "Французская помощь с колониальной инфраструктурой!".
- french_senegal_colony_development.3.t: "Французская помощь с колониальной инфраструктурой!"
- french_senegal_colony_development.3.d: "Наши колониальные хозяева, [FRA.GetName], решили помочь нашему колониальному развитию с помощью новых технологий и строительства новой инфраструктуры!".
- french_senegal_colony_development.3.a: "Это позволит нам лучше контролировать территории".
- french_senegal_colony_development_3_tooltip: "Добавить §Y1 Инфраструктуры§!".
- french_senegal_colony_development.4: "Французская помощь колониальным докам!".
- french_senegal_colony_development.4.t: "Французская помощь с колониальными доками!".
- french_senegal_colony_development.4.d: "Наши колониальные хозяева, [FRA.GetName], решили помочь нашему колониальному развитию новыми военно-морскими доками и портами".
- french_senegal_colony_development.4.a: "Теперь мы можем управлять флотом!"
-french_senegal_colony_development_4_tooltip: "\n Добавить §Y1 Морской Порт§!\n Добавить §Y1 Морскую Верфь§!"
- french_senegal_colonial_navy.1: "Создать колониальный флот!".
- french_senegal_colonial_navy.1.t: "Создать колониальный флот!".
- french_senegal_colonial_navy.1.d: "[FRA.GetName] решил перевести Огюста Боссе, недавно получившего звание капитана Западно-Африканского флота.\n\nОгюст Боссе поступил в военно-морской колледж Ангулема в 1826 году, после чего принял участие в Алжирской экспедиции. Затем он служил в Средиземноморской эскадре с 1835 по 1836 год, после чего в 1836 году был произведен в лейтенанты. В звании лейтенанта он участвовал в операциях, связанных с аргентинским конфликтом. В 1847 году Огюст Боссе получил звание капитана фрегата, а в следующем году был назначен адъютантом морского министра.\n\n Несколько лет спустя, в 1853 году, он получил звание капитана, занимая должность начальника штаба Говонора в Сенегале. Он принимал участие в операциях в Балтийском море и был свидетелем бомбардировки Бомарсунда. До перевода в Сенегал Огюст Боссе принимал участие в Крымской войне."
- french_senegal_colonial_navy.1.a: "Это выдающееся зрелище! Мы должны приветствовать нового капитана!"
- start_french_senegal_colony_development.1: "Французские инвестиции в Сенегал!"
- start_french_senegal_colony_development.1.t: "Французские инвестиции в Сенегал!"
- start_french_senegal_colony_development.1.d: ""
- start_french_senegal_colony_development.1.a: "Это отличное использование средств!"
- start_french_senegal_colony_development.1.b: "Нас нельзя беспокоить".
-
-
- start_usa_liberia_investment_development.1.t: "Конгресс голосует за либерийские инвестиции!"
- start_usa_liberia_investment_development.1.d: "Конгресс проголосовал за выделение огромных средств для инфраструктуры, добычи ресурсов и местной промышленности [FROM.Capital.GetName]. Эти инвестиции пройдут долгий путь в превращении [FROM.GetName] в яркий пример Африки."
- start_usa_liberia_investment_development.1.e: "Конгресс проголосовал за выделение средств на инфраструктуру [FROM.Capital.GetName] и методы добычи ресурсов. Эти инвестиции позволят предоставить [FROM.GetName] инфраструктуру, необходимую для добычи ресурсов в регионе."
- start_usa_liberia_investment_development.1.f: "Конгресс проголосовал за предоставление ограниченных средств для инвестиций в инфраструктуру [FROM.Capital.GetName]. Без дополнительных средств для дальнейшего развития чего-либо в [FROM.GetName]".
- start_usa_liberia_investment_development.1.a: "Демократия - это, конечно, здорово!"
- start_usa_liberia_investment_development.1.b: "Демократия - это здорово!"
- start_usa_liberia_investment_development.1.c: "Ну, так работает демократия. Кто-то выигрывает, кто-то проигрывает".
- usa_liberia_investment_development.1.t: "Помощь Соединенных Штатов в развитии [Root.Capital.GetName]!".
- usa_liberia_investment_development.1.d: "Конгресс Соединенных Штатов проголосовал за выделение огромных средств на развитие инфраструктуры, добычи ресурсов и местной промышленности [ROOT.Capital.GetName]. Эти инвестиции будут способствовать превращению [ROOT.GetName] в яркий пример Африки".
- usa_liberia_investment_development.1.e: "Конгресс США проголосовал за выделение средств на развитие инфраструктуры [ROOT.Capital.GetName] и методов добычи ресурсов. Эти инвестиции позволят создать для [ROOT.GetName] инфраструктуру, необходимую для добычи ресурсов в регионе."
- usa_liberia_investment_development.1.f: "Конгресс США проголосовал за предоставление ограниченных средств для инвестиций в инфраструктуру [ROOT.Capital.GetName]. Без дополнительных средств для дальнейшего развития чего-либо в пределах [ROOT.GetName]".
- usa_liberia_investment_development.1.a: "[ROOT.GetName] станет жемчужиной Африки!".
- usa_liberia_investment_development.1.b: "Это позволит нам опередить график на годы!".
- usa_liberia_investment_development.1.c: "Любые инвестиции, даже небольшие, очень ценятся!".
- usa_liberia_investment_development_1_tooltip: "Завершает миссию §YРегиональная промышленность§!\nЗавершает миссию §YДобыча ресурсов§!\nЗавершает миссию §YРегиональная инфраструктура§!".
- usa_liberia_investment_development_2_tooltip: "Завершает миссию §YРесурсодобыча§!\nЗавершает миссию §YРегиональная инфраструктура§!".
- usa_liberia_investment_development_3_tooltip: "Завершает миссию §YРегиональная инфраструктура§!"
-
-
- afr_colony_generic_focus_social_reforms: "Социальные реформы"
- afr_colony_generic_focus_social_reforms_desc: ""
- afr_colony_generic_focus_reform_health_pamphlets: "Распространять брошюры о здоровье"
- afr_colony_generic_focus_reform_health_pamphlets_desc: "Были распространены брошюры, чтобы проинструктировать людей о том, как предотвратить появление комаров. Устранение любой открытой воды, сетки и другие решения для предотвращения появления комаров."
- afr_colony_generic_focus_reform_health_pamphlets_tooltip: "Организует §Yгосударственный орган§!, который разблокирует решения, связанные с малярией, и улучшает §Gгигиену населения§!".
- afr_reform_distributed_health_pamphlets: "Создал §YГигиенические памфлеты§!".
- afr_colony_generic_focus_reform_regional_hospitals: "Построил региональные больницы".
- afr_colony_generic_focus_reform_regional_hospitals_desc: "Строительство региональных больниц позволит больным лучше перенести малярийную болезнь".
-afr_colony_generic_focus_reform_regional_hospitals_tooltip: "\nПостроить §YРегиональные больницы§!, которые могут позаботиться о больных малярией и §GУлучшить рост населения§!.\n"
- afr_colony_generic_focus_reform_regional_hospitals_flag: "Построил §YРегиональные больницы§!".
- afr_colony_generic_focus_reform_mosquito_brigades: "Москитные бригады".
- afr_colony_generic_focus_reform_mosquito_brigades_desc: "Москитные бригады будут распылять пестициды, чтобы устранить угрозу комаров и снизить заболеваемость малярией".
-afr_colony_generic_focus_reform_mosquito_brigades_tooltip: "Введение §YМоскитных бригад§! устранит комаров и значительно §GУлучшит рост населения§!\n".
- afr_colony_generic_focus_reform_distribute_vaccines: "Покончить с бедствием малярии"
- afr_colony_generic_focus_reform_distribute_vaccines_desc: "Благодаря распространению вакцин от малярии, наше население больше не страдает от роста!"
- afr_colony_generic_focus_reform_distribute_vaccines_tooltip: "\nС распространением вакцин от малярии, наше §Gнаселение§! больше не страдает от роста!"
- LIB_colony_generic_focus_reform_distribute_vaccines_trigger: "Распределили вакцину от §Yмалярии§!".
- afr_colony_generic_focus_reform_regional_schools: "Расширить региональные школы".
- afr_colony_generic_focus_reform_regional_schools_desc: ""
-afr_colony_generic_focus_reform_regional_schools_tooltip: "Строя §YШколы§! в родных регионах, мы можем расширить §GОбразование§! и увеличить скорость §ԌИсследования§!.\n"
- afr_colony_generic_focus_reform_regional_military: "Расширить региональные вооруженные силы"
- afr_colony_generic_focus_reform_regional_military_desc: ""
-afr_colony_generic_focus_reform_regional_military_tooltip: "Строительство §YВербовочных Станций§! в родных регионах улучшит §ҮВербовку Населения§!.\n"
- afr_colony_generic_focus_reform_regional_policies: "Расширять региональные крепости"
- afr_colony_generic_focus_reform_regional_policies_desc: ""
- afr_colony_generic_focus_reform_regional_policies_tooltip: "Строительство §YВоенных Фортов§! в родных регионах улучшит наше §GИсполнение закона§!.\n"
- afr_colony_generic_focus_complete_reform: "Полная региональная реформа"
- afr_colony_generic_focus_complete_reform_desc: ""
- afr_colony_generic_focus_complete_reform_tooltip: "Мы больше не являемся §YРеформирующей Региональной Державой§!.\n"
- afr_colony_generic_focus_strengthen_government: "Продлить колониальный мандат".
- afr_colony_generic_focus_strengthen_government_desc: "Сотрудничая с нашей колониальной властью, мы можем продлить наш мандат над колонией".
- afr_colony_generic_focus_increase_export_quota: "Принятие меркантилизма"
- afr_colony_generic_focus_increase_export_quota_desc: "Меркантилизм - это экономическая политика, которую наша колониальная держава требует от нашего правительства".
- afr_colony_generic_focus_pay_tribute: "Платить дань нашему колониальному хозяину".
- afr_colony_generic_focus_pay_tribute_desc: "Мы должны отдать дань, чтобы получить продление нашего мандата".
- afr_colony_generic_focus_defend_ideology: "Защищать нашу идеологию".
- afr_colony_generic_focus_defend_ideology_desc: "Наша идеология должна быть защищена".
- afr_colony_generic_focus_decide_future_gov: "Колониальная повестка 1850-х годов".
- afr_colony_generic_focus_decide_future_gov_desc: "Мы должны строить планы на будущее нашей администрации".
- afr_colony_generic_focus_gov_centralized: "Централизация".
- afr_colony_generic_focus_gov_centralized_desc: "Централизация, несомненно, пойдет нам на пользу".
- afr_colony_generic_focus_centralized_administration: "Центральная администрация"
- afr_colony_generic_focus_centralized_administration_desc: "Мы реформируем нашу администрацию, чтобы она была более централизованной".
- afr_colony_generic_focus_centralized_economic_management: "Управление колониальной экономикой".
- afr_colony_generic_focus_centralized_economic_management_desc: "Управление колониальной экономикой должно происходить более структурировано, по образцу нашего Повелителя".
- afr_colony_generic_focus_encroach_tribal_lands: "Захватывать земли племен для промышленного пространства".
- afr_colony_generic_focus_encroach_tribal_lands_desc: "Мы должны захватывать земли племен, чтобы освободить место для нашей промышленности".
- afr_colony_generic_focus_centralized_army: "Колониальная структурированная армия и тактика".
- afr_colony_generic_focus_centralized_army_desc: "Колониальная армия будет создана по образцу нашего Повелителя".
- afr_colony_generic_focus_centralized_army_tooltip: "\n§gМы допустим только племенных воинов в наши низшие военные ряды.§!\n"
- afr_colony_generic_focus_high_command_reform: "Колониальная командная структура"
- afr_colony_generic_focus_high_command_reform_desc: "Командование колониальной армии будет укомплектовано исключительно европейским персоналом."
- afr_colony_generic_focus_high_command_reform_tooltip: "\nНаш §YОверлорд§! прислал нам §YКолониального Генерала§! для помощи в нашей реформированной командной структуре.\n".
- afr_colony_generic_focus_stabilized_centralization: "Стабилизированная централизация"
- afr_colony_generic_focus_stabilized_centralization_desc: "Мы стабилизировали и централизовали нашу страну."
- afr_colony_generic_focus_gov_decentralized: "Децентрализация".
- afr_colony_generic_focus_gov_decentralized_desc: "Децентрализация, несомненно, пойдет нам на пользу".
- afr_colony_generic_focus_decentralized_autonomy: "Региональная автономия"
- afr_colony_generic_focus_decentralized_autonomy_desc: "Мы предоставим региональную автономию городам и провинциям".
- afr_colony_generic_focus_laissez_faire_markets: "Laissez Faire Рынки".
- afr_colony_generic_focus_laissez_faire_markets_desc: ""
- afr_colony_generic_focus_laissez_faire_markets_tooltip: "\n§R85% наших ресурсов пойдет на рынок!§!\n"
- afr_colony_generic_focus_native_reservations: "Выделить резервации коренных жителей"
- afr_colony_generic_focus_native_reservations_desc: "Мы пришли к соглашению о резервациях туземцев с туземными племенами, чтобы сохранить мир."
- afr_colony_generic_focus_native_reservations_tooltip: "\n§gМы пришли к соглашению о выделении земли под резервацию, где племена могут жить мирно. Они существуют вне колониального государства, но являются равноправными гражданами общества.§!\n"
-afr_colony_generic_focus_native_reservations_tooltip_trigger_1: "§YПагубное Воздействие§! меньше или равно §Ү10§!".
- afr_colony_generic_focus_native_reservations_tooltip_trigger_2: "Не имеет никакого типа §YСлавянства§!\n".
- afr_colony_generic_focus_spread_military: "Включает некоторые племенные тактики".
- afr_colony_generic_focus_spread_military_desc: "Нашим военным нужно больше автономии в их операциях!"
- afr_colony_generic_focus_spread_military_tooltip: "\n§gМы откроем наши ряды в равной степени для племенных воинов, которые готовы сражаться вместе с нами.§!\n"
- afr_colony_generic_focus_native_integrated_command: "Родное интегрированное командование"
- afr_colony_generic_focus_native_integrated_command_desc: "Наши военные ряды открыты и для туземцев."
-afr_colony_generic_focus_native_integrated_command_tooltip: "Племя принимает наши интегрированные звания, и посылает своего величайшего §YПлеменного Военачальника§! стать §ҮГенералом§! в нашей армии.\n".
- afr_colony_generic_focus_decentralized_government: "Децентрализованное правительство"
- afr_colony_generic_focus_decentralized_government_desc: "Мы преуспели в продвижении реформ децентрализации."
- afr_colony_generic_focus_limited_constitution: "Принять конституцию".
- afr_colony_generic_focus_limited_constitution_desc: "Мы примем конституцию".
- afr_colony_generic_focus_ban_slavery: "Запретить рабство".
- afr_colony_generic_focus_keep_slavery: "Сохранить рабство".
-
- afr_colony_generic_focus_decide_future_gov_1860: "Колониальная повестка 1860 года"
- afr_colony_generic_focus_1860_gov_port_town: "Выделенный портовый город"
- afr_colony_generic_focus_1860_gov_naval_base: "Запросить инвестиции в военно-морской порт"
- afr_colony_generic_focus_1860_gov_colonial_navy: "Создать колониальный флот".
- afr_colony_generic_focus_1860_gov_colonial_navy_admiral: "Принять на службу адмирала нашего нового флота".
- afr_port_town: "Основал §YПортовый Город§!".
- afr_does_not_have_port_town: "Не основал §YПортовый Город§!".
-afr_colony_generic_focus_1860_gov_naval_base_tooltip: "Построит §YМорскую Верфь§! в вашем §ҮПортовом Городе§!".
-
-
- afr_colony_generic_focus_decide_future_gov_1870: "Колониальная повестка дня 1870 года"
-
- afr_colony_generic_american_civil_war: "Гражданская война в Америке"
- afr_colony_generic_aid_the_usa: "Помощь США"
- afr_colony_generic_support_the_north: "Поддерживать Север"
- afr_colony_generic_covert_weapons_deal: "Тайная оружейная сделка"
- afr_colony_generic_strict_neutrality: "Строгий нейтралитет"
- afr_colony_generic_equal_trade: "Равные торговые сделки"
- afr_colony_generic_take_in_refugees: "Принимать беженцев"
- afr_colony_generic_recognize_csa: "Признать КША"
- afr_colony_generic_support_the_south: "Поддерживать Юг"
- afr_colony_generic_covert_slave_trade: "Скрытая работорговля"
-
- afr_colony_generic_ignore_treaty: "Игнорировать англо-голландский договор".
- afr_colony_generic_while_brunei_is_alone: "Пока Бруней один".
- afr_colony_generic_we_can_claim_them: "Мы можем претендовать на них!"
- afr_colony_generic_while_sarawak_is_independent: "Пока Саравак независим;"
- afr_colony_generic_we_can_strike_them: "Мы можем нанести им удар!".
- afr_colony_generic_as_the_british_ignore_aceh: "Пока британцы игнорируют Ачех".
- afr_colony_generic_we_can_secure_the_west: "Мы можем обеспечить безопасность Запада!"
- afr_colony_generic_respect_treaty: "Уважать англо-голландский договор".
- afr_colony_generic_incorporate_sambas: "Инкорпорировать султанат Самбас".
- afr_colony_generic_incorporate_bulungan: "Инкорпорировать султанат Булунган".
- afr_colony_generic_while_qing_is_weak: "Пока империя Цин слаба;"
- afr_colony_generic_we_strike_lanfang: "Мы нанесем удар по республике Ланфанг!".
- afr_colony_generic_secure_the_east: "Защитить Восток!"
- afr_colony_generic_secure_the_south: "Обеспечить безопасность Юга!"
- INS_indonesia_colonial_expansion_war_exhaustion_trigger: "Не затронуты §YРасходы на расширение колонии§!".
- INS_not_in_colonial_expansion_war_trigger: "Не имеет §YКолониальной Войны§!".
-
- ins_indonesia_wars_category: "Индонезийские конфликты"
- INS_ACE_indonesia_colonial_expansion_war: "[INS.GetName] Вторжение в [918.GetName]"
-
- afr_colony_generic_conquer_mdn: "Завоевать [MDN.GetName]!".
- afr_colony_generic_integrate_mdn: "Интегрировать [MDN.GetAdjective] землю".
-
- afr_colony_generic_trick_the_brits: "Обмануть британцев".
- afr_colony_generic_respect_british_treaty: "Уважать британский договор"
- afr_colony_generic_ashanti_manpower: "Разделение "черных голландцев""
- afr_colony_generic_ashanti_destabilize_the_region: "Дестабилизировать регион"
-
-
-
- afr_scourge_of_malaria_category: "Бич малярии"
-afr_scourge_of_malaria_category_desc: "§YБорьба с малярией§!:\nБич малярии §Rнегативно§! повлиял на §Yрост населения§! С помощью научных исследований, реформ, действий и медицинских прорывов чума малярии может быть побеждена.\n\n§YТеории малярии§!:\n§gПрисущий политике здравоохранения в конце девятнадцатого и начале двадцатого века локализм позволял по-разному реагировать на современные научные исследования малярии. Некоторые чиновники здравоохранения того времени сначала отвергли новую комариную теорию передачи малярии, в то время как другие приняли ее как основу для вмешательства.§!"
- afr_procter_and_gamble_chemical_plant_flag: "§YProcter and Gamble§! был основан в §YЛиберии§!".
- afr_chemistry_research_lab_flag: "§YProcter and Gamble§! согласилась помочь нашим §YБиологическим Исследованиям§!".
- afr_copy_procter_and_gamble_laboratory: "Финансировать исследования "Procter and Gamble"!
- afr_research_microbiology: "Исследовать область микробиологии"
- afr_mandatory_vaccines_everyone: "Распространять вакцины: каждому гражданину"
- afr_mandatory_vaccines_colonists: "Распространять вакцины: Только колонистам"
- afr_mandatory_vaccines_everyone_desc: "Вакцины будут распространяться среди всех, независимо от статуса. Коренное население получит большую пользу от этой гуманитарной акции. Хотя это будет более дорогостоящая альтернатива, мы можем наконец заявить, что с бедствием малярии покончено!".
- afr_mandatory_vaccines_colonists_desc: "Вакцины от малярии будут распространены, и рост нашего населения больше не будет сдерживаться малярией. Мы наконец-то сможем заявить, что с бедствием малярии покончено!".
- afr_colony_distribute_vaccines_tooltip: "Устраняет бич малярии\n".
-
-
-
-
+  
+ afr_colony_generic_1: "Colonial Focus Tree" #NT!
+  
+ afr_colony_generic_regional_victorian_era_tooltip: "Entered the §YVictorian Era§!" #NT!
+ AFR_GENERIC_COLONIAL_ENTER_TOOLTIP: "\n\n" #NT!
+  
+ AFR_futa_islamic_jihad: "Shared Islamic Jihad" #NT!
+ AFR_futa_islamic_jihad_desc: "Futa Jallon, Futa Toro, and Toucouleur are three of four Fulani jihad states that have common interests to resist french colonial rule." #NT!
+  
+ AFR_colonial_native_reservations: "Tribal Reservations" #NT!
+ AFR_colonial_native_reservations_desc: "This Colonial Government has decided to establish a reservation for the native tribes. This act has softened the tension between the two cultures, but has reduced recruitment and access to resources." #NT!
+  
+ afr_colony_event_generic_1_a: "We will pursue a policy of increased §Ycentralization§!, our colonial interests are priority!\n" #NT!
+ afr_colony_event_generic_1_b: "We will pursue a policy of increased §Ydecentralization§!, giving partial autonomy to the natives.\n" #NT!
+  
+ afr_colony_generic_colonial_investments_decisions: "Regional Investments" #NT!
+ afr_colony_generic_regional_investment: "Regional Investments" #NT!
+ afr_colony_generic_regional_industry: "Invest in Regional Industry" #NT!
+ afr_colony_generic_regional_industry_desc: "" #NT!
+ afr_colony_generic_regional_industry_decision: "Investing in Regional Industry" #NT!
+ afr_colony_generic_regional_industry_decision_desc: "" #NT!
+ afr_colony_generic_regional_industry_decision_flag: "Has invested in §YRegional Industry§!" #NT!
+ afr_colony_generic_regional_industry_tooltip: "\nUnlocks new §YIndustry Decisions§!.\n" #NT!
+ afr_colony_generic_regional_industry_completed: "Modern Industrial Centers" #NT!
+ afr_colony_generic_regional_industry_completed_desc: "" #NT!
+ afr_colony_generic_regional_resources: "Invest in Resource Extraction" #NT!
+ afr_colony_generic_regional_resources_desc: "" #NT!
+ afr_colony_generic_regional_resources_decision: "Investing in Resource Extraction" #NT!
+ afr_colony_generic_regional_resources_decision_desc: "" #NT!
+ afr_colony_generic_regional_resources_decision_flag: "Has invested in §YResource Extraction§!" #NT!
+ afr_colony_generic_regional_resources_tooltip: "\nUnlocks new §YResource Extraction Decisions§!.\n" #NT!
+ afr_colony_generic_regional_resources_completed: "Modernized Material Extraction" #NT!
+ afr_colony_generic_regional_resources_completed_desc: "" #NT!
+ afr_colony_generic_regional_infrastructure: "Invest in Regional Infrastructure" #NT!
+ afr_colony_generic_regional_infrastructure_desc: "" #NT!
+ afr_colony_generic_regional_infrastructure_decision: "Investing in Regional Infrastructure" #NT!
+ afr_colony_generic_regional_infrastructure_decision_desc: "" #NT!
+ afr_colony_generic_regional_infrastructure_decision_flag: "Has invested in §YRegional Infrastructure§!" #NT!
+ afr_colony_generic_regional_infrastructure_tooltip: "\nUnlocks new §YInfrastructure Decisions§!.\n" #NT!
+ afr_colony_generic_regional_infrastructure_completed: "Modern Cities" #NT!
+ afr_colony_generic_regional_infrastructure_completed_desc: "" #NT!
+ afr_colony_generic_regional_victorian_era: "Enter The Victorian Era" #NT!
+ afr_colony_generic_regional_victorian_era_desc: "" #NT!
+ afr_colony_construct_fabric_industry: "Construct Fabric Industry" #NT!
+ afr_colony_has_fabric_industry: "Has constructed a §YFabric Industry§!" #NT!
+ afr_colony_establish_logging_industry: "Establish Logging Industry" #NT!
+ afr_colony_has_logging_industry: "Has established a §YLogging Industry§!" #NT!
+ afr_colony_construct_civ_factory: "Establish Civilian Industry" #NT!
+ afr_colony_has_civilian_industry: "Has established a §YCivilian Industry§!" #NT!
+ afr_colony_construct_mil_factory: "Establish Military Industry" #NT!
+ afr_colony_has_military_industry: "Has established a §YMilitary Industry§!" #NT!
+ afr_colony_construction_in_progress: "Has §YConstruction in Progress§!" #NT!
+ afr_colony_generic_regional_industrializing: "An Industrializing Society" #NT!
+ afr_colony_generic_clear_development_decision: "Regional Development Project: Development Clearance" #NT!
+ afr_colony_generic_clear_development_decision_desc: "By §Rremoving a free slot§! from a previous Regional Development Project, a §Gnew project§! can be developed in that state." #NT!
+  
+ afr_colony_generic_french_approval: "Faidherbe's Colonial Ambitions" #NT!
+ afr_colony_generic_french_senegal_trarza_core: "Integrate Chemama" #NT!
+ afr_colony_generic_french_senegal_trarza_core_tooltip: "Is not resisting our occupation of §Y[866.GetName]§!." #NT!
+ afr_colony_generic_french_senegal_prepare_war: "French Infantry Tactics" #NT!
+ afr_colony_generic_french_senegal_war: "Futa Toro War" #NT!
+  
+ afr_colony_generic_french_algeria_approval: "French Conquest of Algeria" #NT!
+ afr_colony_generic_french_algeria_prepare_war: "French Infantry Tactics" #NT!
+ afr_colony_generic_french_algeria_war: "The Invasion of Beni Abbas" #NT!
+ afr_colony_generic_french_algeria_war_french_no_help: "\nFrance has chosen not to pursue §YColonial Ambitions§!. §RWe will not be guaranteed French assistance in the invasion!§!\n" #NT!
+ afr_colony_generic_french_algeria_war_french_help: "\nFrance is currently pursuing §YColonial Ambitions§!. §GWe will be guaranteed French assistance in the invasion!§!\n" #NT!
+  
+  
+ french_senegal_colony_development.1: "French Assistance With [272.GetName] Development!" #NT!
+ french_senegal_colony_development.1.t: "French Assistance With [272.GetName] Development!" #NT!
+ french_senegal_colony_development.1.d: "Our colonial masters, the [FRA.GetName] have decided to assist our colonial development!" #NT!
+ french_senegal_colony_development.1.a: "This will put us years ahead of schedule!" #NT!
+ french_senegal_colony_development_1_tooltip: "Completes mission §YRegional Industry§!\nCompletes mission §YResource Extraction§!\nCompletes mission §YRegional Infrastructure§!" #NT!
+ french_senegal_colony_development.2: "[FRA.GetName] Establishes a Fort in [272.GetName]!" #NT!
+ french_senegal_colony_development.2.t: "[FRA.GetName] Establishes a Fort in [272.GetName]!" #NT!
+ french_senegal_colony_development.2.d: "Our colonial masters, the [FRA.GetName] have decided to assist our colonial development! This time by establishing a fort on the Senegal River, which has notoriously been contested by the [TRZ.GetName]." #NT!
+ french_senegal_colony_development.2.a: "This will help defend our colonial hold!" #NT!
+ french_senegal_colony_development_2_tooltip: "Add §Y1 Land Fortification§!" #NT!
+ french_senegal_colony_development.3: "French Assistance With Colonial Infrastructure!" #NT!
+ french_senegal_colony_development.3.t: "French Assistance With Colonial Infrastructure!" #NT!
+ french_senegal_colony_development.3.d: "Our colonial masters, the [FRA.GetName] have decided to assist our colonial development with new technology and construction of new infastructure!" #NT!
+ french_senegal_colony_development.3.a: "This will allow us to have better control over the territories." #NT!
+ french_senegal_colony_development_3_tooltip: "Add §Y1 Infrastructure§!" #NT!
+ french_senegal_colony_development.4: "French Assistance With a Colonial Docks!" #NT!
+ french_senegal_colony_development.4.t: "French Assistance With a Colonial Docks!" #NT!
+ french_senegal_colony_development.4.d: "Our colonial masters, the [FRA.GetName] have decided to assist our colonial development with new naval dockyards and ports." #NT!
+ french_senegal_colony_development.4.a: "We can now manage a fleet!" #NT!
+ french_senegal_colony_development_4_tooltip: "\n   Add §Y1 Naval Port§!\n   Add §Y1 Naval Dockyard§!" #NT!
+ french_senegal_colonial_navy.1: "Establish The Colonial Fleet!" #NT!
+ french_senegal_colonial_navy.1.t: "Establish The Colonial Fleet!" #NT!
+ french_senegal_colonial_navy.1.d: "The [FRA.GetName] has decided to transfer Auguste Bosse, a newly promoted Captain of the West African Fleet.\n\nAuguste Bosse first entered the Naval College of Angouleme in 1826, afterwards he took part in the Algiers expedition. He then served in the Mediterranean squadron from 1835 to 1836 prior to being promoted to Lieutenant in 1836. As Lieutenant he participated in operations related to the Argentine conflict. In 1847 Auguste Bosse was promoted to frigate captain, he was then appointed aide-de-camp to the Minister of Marine the following year.\n\n Several years later in 1853 he was promoted to captain while holding the position of Chief of Staff for the Govonor in Senegal. He took part in operations in the Baltic Sea and witnessed the bombing of Bomarsund. Before the transfer to Senegal, Auguste Bosse took part in the Crimean War." #NT!
+ french_senegal_colonial_navy.1.a: "This is outstanding! We must welcome the new Captain!" #NT!
+ start_french_senegal_colony_development.1: "French Investment in Senegal!" #NT!
+ start_french_senegal_colony_development.1.t: "French Investment in Senegal!" #NT!
+ start_french_senegal_colony_development.1.d: "" #NT!
+ start_french_senegal_colony_development.1.a: "This is a great use of funds!" #NT!
+ start_french_senegal_colony_development.1.b: "We cannot be bothered." #NT!
+  
+  
+ start_usa_liberia_investment_development.1.t: "Congress Votes on Liberian Investments!" #NT!
+ start_usa_liberia_investment_development.1.d: "Congress has voted to provide massive funds for [FROM.Capital.GetName]'s infrastructure, resource extraction, and local industry. The investments will go a long way in transforming [FROM.GetName] into the shining example of Africa." #NT!
+ start_usa_liberia_investment_development.1.e: "Congress has voted to provide funds for [FROM.Capital.GetName]'s infrastructure and resource extraction methods. The investments will go a long way in giving [FROM.GetName] the infrastructure necessary to extract resources from the region." #NT!
+ start_usa_liberia_investment_development.1.f: "Congress has voted to provide limited funds for investment for [FROM.Capital.GetName]'s infrastructure. With no additional funds to develop anything further within [FROM.GetName]." #NT!
+ start_usa_liberia_investment_development.1.a: "Democracy sure is great!" #NT!
+ start_usa_liberia_investment_development.1.b: "Democracy sure is great!" #NT!
+ start_usa_liberia_investment_development.1.c: "Well, that's how democracy works. You win some, you lose some." #NT!
+ usa_liberia_investment_development.1.t: "United States Assistance With [Root.Capital.GetName] Development!" #NT!
+ usa_liberia_investment_development.1.d: "The United State's Congress has voted to provide massive funds for [ROOT.Capital.GetName]'s infrastructure, resource extraction, and local industry. The investments will go a long way in transforming [ROOT.GetName] into the shining example of Africa." #NT!
+ usa_liberia_investment_development.1.e: "The United State's Congress has voted to provide funds for [ROOT.Capital.GetName]'s infrastructure and resource extraction methods. The investments will go a long way in giving [ROOT.GetName] the infrastructure necessary to extract resources from the region." #NT!
+ usa_liberia_investment_development.1.f: "The United State's Congress has voted to provide limited funds for investment for [ROOT.Capital.GetName]'s infrastructure. With no additional funds to develop anything further within [ROOT.GetName]." #NT!
+ usa_liberia_investment_development.1.a: "[ROOT.GetName] will be the Gem of Africa!" #NT!
+ usa_liberia_investment_development.1.b: "This will put us years ahead of schedule!" #NT!
+ usa_liberia_investment_development.1.c: "Any investment, even small, is greatly appreciated!" #NT!
+ usa_liberia_investment_development_1_tooltip: "Completes mission §YRegional Industry§!\nCompletes mission §YResource Extraction§!\nCompletes mission §YRegional Infrastructure§!" #NT!
+ usa_liberia_investment_development_2_tooltip: "Completes mission §YResource Extraction§!\nCompletes mission §YRegional Infrastructure§!" #NT!
+ usa_liberia_investment_development_3_tooltip: "Completes mission §YRegional Infrastructure§!" #NT!
+  
+  
+ afr_colony_generic_focus_social_reforms: "Social Reforms" #NT!
+ afr_colony_generic_focus_social_reforms_desc: "" #NT!
+ afr_colony_generic_focus_reform_health_pamphlets: "Distribute Health Pamphlets" #NT!
+ afr_colony_generic_focus_reform_health_pamphlets_desc: "Pamphlets have been distributed to instruct people on how to prevent mosquitoes from birthing. Removing any open water, nets, and other solutions to prevent mosquitoes." #NT!
+ afr_colony_generic_focus_reform_health_pamphlets_tooltip: "Organizes a §YGovernment Body§! that unlocks decisions related to Malaria and improves the public's §GHygiene§!." #NT!
+ afr_reform_distributed_health_pamphlets: "Has built §YHealth Pamphlets§!" #NT!
+ afr_colony_generic_focus_reform_regional_hospitals: "Build Regional Hospitals" #NT!
+ afr_colony_generic_focus_reform_regional_hospitals_desc: "Building regional clinics will allow those who are sick to better survive a Malaria sickness." #NT!
+ afr_colony_generic_focus_reform_regional_hospitals_tooltip: "\nBuilds §YRegional Hospitals§!, which can take care of those with Malaria and §Gimprove population growth§!.\n" #NT!
+ afr_colony_generic_focus_reform_regional_hospitals_flag: "Has built §YRegional Hospitals§!" #NT!
+ afr_colony_generic_focus_reform_mosquito_brigades: "Mosquito Brigades" #NT!
+ afr_colony_generic_focus_reform_mosquito_brigades_desc: "Mosquito Brigades will spray pesticides to remove the mosquito threat and reduce Malaria." #NT!
+ afr_colony_generic_focus_reform_mosquito_brigades_tooltip: "The introduction of §YMosquito Brigades§! will remove the mosquitoes and greatly §Gimprove population growth§!.\n" #NT!
+ afr_colony_generic_focus_reform_distribute_vaccines: "Ending the Scourge of Malaria" #NT!
+ afr_colony_generic_focus_reform_distribute_vaccines_desc: "With vaccines for Malaria distributed, our population is no longer suffering in growth!" #NT!
+ afr_colony_generic_focus_reform_distribute_vaccines_tooltip: "\nWith vaccines for Malaria distributed, our §Gpopulation§! is no longer suffering in growth!" #NT!
+ LIB_colony_generic_focus_reform_distribute_vaccines_trigger: "Distributed the vaccine for §YMalaria§!" #NT!
+ afr_colony_generic_focus_reform_regional_schools: "Expand Regional Schools" #NT!
+ afr_colony_generic_focus_reform_regional_schools_desc: "" #NT!
+ afr_colony_generic_focus_reform_regional_schools_tooltip: "Building §YSchools§! in native regions we can expand §GEducation§! and increase our §GResearch Speed§!.\n" #NT!
+ afr_colony_generic_focus_reform_regional_military: "Expand Regional Military" #NT!
+ afr_colony_generic_focus_reform_regional_military_desc: "" #NT!
+ afr_colony_generic_focus_reform_regional_military_tooltip: "Building §YRecruitment Stations§! in native regions will improve §GPopulation Recruitment§!.\n" #NT!
+ afr_colony_generic_focus_reform_regional_policies: "Expand Regional Forts" #NT!
+ afr_colony_generic_focus_reform_regional_policies_desc: "" #NT!
+ afr_colony_generic_focus_reform_regional_policies_tooltip: "Building §YMilitary Forts§! in native regions will improved our §GEnforcement of Law§!.\n" #NT!
+ afr_colony_generic_focus_complete_reform: "Complete Regional Reforms" #NT!
+ afr_colony_generic_focus_complete_reform_desc: "" #NT!
+ afr_colony_generic_focus_complete_reform_tooltip: "We are no longer a §YReforming Regional Power§!.\n" #NT!
+ afr_colony_generic_focus_strengthen_government: "Extend the Colonial Mandate" #NT!
+ afr_colony_generic_focus_strengthen_government_desc: "By cooperating with our Colonial Power, we can extend our mandate over the colony." #NT!
+ afr_colony_generic_focus_increase_export_quota: "Adopting Mercantilism" #NT!
+ afr_colony_generic_focus_increase_export_quota_desc: "Mercantalism is the economic policy our Colonial Power requires our government to have." #NT!
+ afr_colony_generic_focus_pay_tribute: "Pay Tributes to Our Colonial Master" #NT!
+ afr_colony_generic_focus_pay_tribute_desc: "We must give extra to receive an extension on our Mandate." #NT!
+ afr_colony_generic_focus_defend_ideology: "Defend our Ideology" #NT!
+ afr_colony_generic_focus_defend_ideology_desc: "Our ideology must be defended." #NT!
+ afr_colony_generic_focus_decide_future_gov: "1850's Colonial Agenda" #NT!
+ afr_colony_generic_focus_decide_future_gov_desc: "We need to make plans for the future of our administration." #NT!
+ afr_colony_generic_focus_gov_centralized: "Centralization" #NT!
+ afr_colony_generic_focus_gov_centralized_desc: "Centralization will surely benefit us." #NT!
+ afr_colony_generic_focus_centralized_administration: "Central Administration" #NT!
+ afr_colony_generic_focus_centralized_administration_desc: "We will reform our administration to be more centralized." #NT!
+ afr_colony_generic_focus_centralized_economic_management: "Colonial Economic Management" #NT!
+ afr_colony_generic_focus_centralized_economic_management_desc: "Colonial Economic Management must happen in a more structured way, modeled after our Overlord." #NT!
+ afr_colony_generic_focus_encroach_tribal_lands: "Encroach Tribal Lands for Industry Space" #NT!
+ afr_colony_generic_focus_encroach_tribal_lands_desc: "We must encroach upon tribal lands to clear space for our industries." #NT!
+ afr_colony_generic_focus_centralized_army: "Colonial Structured Army and Tactics" #NT!
+ afr_colony_generic_focus_centralized_army_desc: "A Colonial Army will be modeled after our Overlord." #NT!
+ afr_colony_generic_focus_centralized_army_tooltip: "\n§gWe shall only allow tribal warriors into our lowest ranks in the military.§!\n" #NT!
+ afr_colony_generic_focus_high_command_reform: "Colonial Command Structure" #NT!
+ afr_colony_generic_focus_high_command_reform_desc: "A Colonial Army Command will be staffed by exclusively european personnel." #NT!
+ afr_colony_generic_focus_high_command_reform_tooltip: "\nOur §YOverlord§! has sent us a §YColonial General§! to assist in our reformed command structure.\n" #NT!
+ afr_colony_generic_focus_stabilized_centralization: "Stabilized Centralization" #NT!
+ afr_colony_generic_focus_stabilized_centralization_desc: "We have stabilized and centralized our country." #NT!
+ afr_colony_generic_focus_gov_decentralized: "Decentralization" #NT!
+ afr_colony_generic_focus_gov_decentralized_desc: "Decentralization will surely benefit us." #NT!
+ afr_colony_generic_focus_decentralized_autonomy: "Regional Autonomy" #NT!
+ afr_colony_generic_focus_decentralized_autonomy_desc: "We will grant regional autonomy to towns and provinces." #NT!
+ afr_colony_generic_focus_laissez_faire_markets: "Laissez Faire Markets" #NT!
+ afr_colony_generic_focus_laissez_faire_markets_desc: "" #NT!
+ afr_colony_generic_focus_laissez_faire_markets_tooltip: "\n§R85% of our resources will go to market!§!\n" #NT!
+ afr_colony_generic_focus_native_reservations: "Designate Native Reservations" #NT!
+ afr_colony_generic_focus_native_reservations_desc: "We have come to an agreement of native reservations with the native tribes to keep the peace." #NT!
+ afr_colony_generic_focus_native_reservations_tooltip: "\n§gWe have come to an agreement to set aside land for a reservation where the tribes can live peacefully on. They exist outside of the Colonial State, but are equally citizens in the society.§!\n" #NT!
+ afr_colony_generic_focus_native_reservations_tooltip_trigger_1: "§YDetrimental Impact§! is less than or equal to §Y10§!" #NT!
+ afr_colony_generic_focus_native_reservations_tooltip_trigger_2: "Does not have any type of §YSlavery§!\n" #NT!
+ afr_colony_generic_focus_spread_military: "Incorporate Some Tribal Tactics" #NT!
+ afr_colony_generic_focus_spread_military_desc: "Our military needs more autonomy in their operations!" #NT!
+ afr_colony_generic_focus_spread_military_tooltip: "\n§gWe shall open our ranks equally to the tribal warriors that are willing to fight alongside us.§!\n" #NT!
+ afr_colony_generic_focus_native_integrated_command: "Native Integrated Command" #NT!
+ afr_colony_generic_focus_native_integrated_command_desc: "Our military ranks are open to natives as well." #NT!
+ afr_colony_generic_focus_native_integrated_command_tooltip: "The tribe accepts our integrated ranks, and sends their greatest §YTribal Warlord§! to be a §YGeneral§! in our army.\n" #NT!
+ afr_colony_generic_focus_decentralized_government: "Decentralized Government" #NT!
+ afr_colony_generic_focus_decentralized_government_desc: "We have succeeded in pushing decentralization reforms." #NT!
+ afr_colony_generic_focus_limited_constitution: "Adopt a Constitution" #NT!
+ afr_colony_generic_focus_limited_constitution_desc: "We will adopt a constitution." #NT!
+ afr_colony_generic_focus_ban_slavery: "Ban Slavery" #NT!
+ afr_colony_generic_focus_keep_slavery: "Keep Slavery" #NT!
+  
+ afr_colony_generic_focus_decide_future_gov_1860: "1860's Colonial Agenda" #NT!
+ afr_colony_generic_focus_1860_gov_port_town: "A Dedicated Port Town" #NT!
+ afr_colony_generic_focus_1860_gov_naval_base: "Request a Naval Port Investment" #NT!
+ afr_colony_generic_focus_1860_gov_colonial_navy: "Establish the Colonial Fleet" #NT!
+ afr_colony_generic_focus_1860_gov_colonial_navy_admiral: "Enlist our New Navy's Admiral" #NT!
+ afr_port_town: "Has established a §YPort Town§!" #NT!
+ afr_does_not_have_port_town: "Has not established a §YPort Town§!" #NT!
+ afr_colony_generic_focus_1860_gov_naval_base_tooltip: "Will construct a §YNaval Dockyard§! in your §YPort Town§!." #NT!
+  
+  
+ afr_colony_generic_focus_decide_future_gov_1870: "1870's Colonial Agenda" #NT!
+  
+ afr_colony_generic_american_civil_war: "American Civil War" #NT!
+ afr_colony_generic_aid_the_usa: "Aid the USA" #NT!
+ afr_colony_generic_support_the_north: "Support the North" #NT!
+ afr_colony_generic_covert_weapons_deal: "Covert Weapons Deal" #NT!
+ afr_colony_generic_strict_neutrality: "Strict Neutrality" #NT!
+ afr_colony_generic_equal_trade: "Equal Trade Deals" #NT!
+ afr_colony_generic_take_in_refugees: "Take in Refugees" #NT!
+ afr_colony_generic_recognize_csa: "Recognize the CSA" #NT!
+ afr_colony_generic_support_the_south: "Support the South" #NT!
+ afr_colony_generic_covert_slave_trade: "Covert Slave Trade" #NT!
+  
+ afr_colony_generic_ignore_treaty: "Ignore the Anglo-Dutch Treaty" #NT!
+ afr_colony_generic_while_brunei_is_alone: "While Brunei is Alone;" #NT!
+ afr_colony_generic_we_can_claim_them: "We Can Claim Them!" #NT!
+ afr_colony_generic_while_sarawak_is_independent: "While Sarawak is Independent;" #NT!
+ afr_colony_generic_we_can_strike_them: "We Can Strike Them!" #NT!
+ afr_colony_generic_as_the_british_ignore_aceh: "As the British Ignores Aceh;" #NT!
+ afr_colony_generic_we_can_secure_the_west: "We Can Secure the West!" #NT!
+ afr_colony_generic_respect_treaty: "Respect the Anglo-Dutch Treaty" #NT!
+ afr_colony_generic_incorporate_sambas: "Incorporate the Sultanate of Sambas" #NT!
+ afr_colony_generic_incorporate_bulungan: "Incorporate the Sultanate of Bulungan" #NT!
+ afr_colony_generic_while_qing_is_weak: "While the Qing Empire is Weak;" #NT!
+ afr_colony_generic_we_strike_lanfang: "We Will Strike the Lanfang Republic!" #NT!
+ afr_colony_generic_secure_the_east: "Secure the East!" #NT!
+ afr_colony_generic_secure_the_south: "Secure the South!" #NT!
+ INS_indonesia_colonial_expansion_war_exhaustion_trigger: "Not affected by §YColonial Expansion Costs§!" #NT!
+ INS_not_in_colonial_expansion_war_trigger: "Does not have a §YColonial War§!" #NT!
+  
+ ins_indonesia_wars_category: "Indonesian Conflicts" #NT!
+ INS_ACE_indonesia_colonial_expansion_war: "[INS.GetName] Invasion of [918.GetName]" #NT!
+  
+ afr_colony_generic_conquer_mdn: "Conquer the [MDN.GetName]!" #NT!
+ afr_colony_generic_integrate_mdn: "Integrate [MDN.GetAdjective] Land" #NT!
+  
+ afr_colony_generic_trick_the_brits: "Trick the Brits" #NT!
+ afr_colony_generic_respect_british_treaty: "Respect the British Treaty" #NT!
+ afr_colony_generic_ashanti_manpower: "The 'Black Dutchmen' Divisions" #NT!
+ afr_colony_generic_ashanti_destabilize_the_region: "Destabilize the Region" #NT!
+  
+  
+  
+ afr_scourge_of_malaria_category: "Scourge of Malaria" #NT!
+ afr_scourge_of_malaria_category_desc: "§YBattling Malaria§!:\nThe Scourge of Malaria has §Rnegatively§! impacted §Ypopulation growth§!. Through scientific research, reforms, actions, and medical breakthroughs the plague of Malaria can be overcome.\n\n§YThe Theories of Malaria§!:\n§gThe inherent localism of health policy in the late nineteenth and early twentieth century allowed for a variety of responses to contemporary scientific research on malaria. Some public health officials of the time initially rejected the new mosquito theory for the transmission of malaria, while others embraced it as a basis for intervention.§!" #NT!
+ afr_procter_and_gamble_chemical_plant_flag: "§YProcter and Gamble§! has been establish in §YLiberia§!" #NT!
+ afr_chemistry_research_lab_flag: "§YProcter and Gamble§! agreed to assist our §YBiology Research§!" #NT!
+ afr_copy_procter_and_gamble_laboratory: "Fund Procter and Gamble Research" #NT!
+ afr_research_microbiology: "Research the field of Microbiology" #NT!
+ afr_mandatory_vaccines_everyone: "Distribute Vaccines: Every Citizen" #NT!
+ afr_mandatory_vaccines_colonists: "Distribute Vaccines: Colonists Only" #NT!
+ afr_mandatory_vaccines_everyone_desc: "The vaccines will be distributed to everyone regardless of status. The indigenous population will greatly benefit from this humanitarian effort. While this will be a more expensive alternative, we can finally declare that the Scourge of Malaria is over!" #NT!
+ afr_mandatory_vaccines_colonists_desc: "The vaccines for Malaria will be distributed and our population growth will no longer be hindered by malaria. We can finally declare that the Scourge of Malaria is over!" #NT!
+ afr_colony_distribute_vaccines_tooltip: "Removes the Scourge of Malaria\n" #NT!
+  
+  
+  
+  

@@ -1,233 +1,233 @@
 ﻿l_russian:
  infrastructure: "Инфраструктура"
  infrastructure_plural: "Инфраструктура"
- infrastructure_desc: "Это здание обеспечивает государству улучшение инфраструктуры. Оно увеличивает мощность снабжения в стратегических регионах и повышает скорость движения ваших подразделений."
- #infrastructure_inactive: "Инфраструктура §R(Закрыто)§!"
- #infrastructure_inactive_plural: "Инфраструктура §R(Закрыто)§!"
- #infrastructure_inactive_desc: "Это здание представляет инфраструктуру, пришедшую в негодность или бездействующую из-за экономического спада. Оно не дает никаких бонусов и должно быть преобразовано в функционирующую инфраструктуру как можно скорее."
- arms_factory: "Военный завод"
- arms_factory_plural: ""Военные заводы"
- arms_factory_desc: "Это здание обеспечивает государство промышленностью для производства новой военной техники. При необходимости может быть переоборудовано под гражданскую промышленность."
- #arms_factory_inactive: "Военная промышленность §R(Закрыто)§!"
- #arms_factory_inactive_plural: "Военная промышленность §R(Закрыто)§!"
- #arms_factory_inactive_desc: "Это здание представляет военные заводы, выведенные из строя или неактивные из-за экономического спада. Оно должно быть преобразовано в действующий военный завод как можно скорее."
- dockyard: "Военно-морская верфь"
- dockyard_plural: "Военно-морские верфи"
- dockyard_desc: "Это здание обеспечивает государство промышленностью для строительства новых кораблей."
- industrial_complex: "Гражданская фабрика"
- industrial_complex_plural: "Гражданские фабрики"
- industrial_complex_desc: "Это здание предоставляет государству промышленность для производства гражданских товаров или строительства новых зданий. При необходимости может быть переоборудовано под военную промышленность."
- #industrial_complex_inactive: "Гражданская промышленность §R(Закрыто)§!"
- #industrial_complex_inactive_plural: "Гражданская промышленность §R(Закрыто)§!"
- #industrial_complex_inactive_desc: "Это здание представляет гражданские заводы, выведенные из строя или бездействующие из-за экономического спада. Оно должно быть преобразовано в действующую гражданскую фабрику как можно скорее."
+ infrastructure_desc: "This building provides the state with improvement of infrastructure. It increases your supply power in strategic regions and increases your divisions' speed." #NT!
+ #infrastructure_inactive: "Infrastructure §R(Closed)§!" #NT!
+ #infrastructure_inactive_plural: "Infrastructure §R(Closed)§!" #NT!
+ #infrastructure_inactive_desc: "This building represents infrastructure rendered inoperable or inactive by economic downturn. It provides no bonuses and should be converted to functioning infrastructure as soon as possible." #NT!
+ arms_factory: "Military Industry" #NT!
+ arms_factory_plural: "Military Industries" #NT!
+ arms_factory_desc: "Это сооружение снабжает регион новой военной техникой. При необходимости его можно превратить в завод по выпуску мирной продукции."
+ #arms_factory_inactive: "Military Industry §R(Closed)§!" #NT!
+ #arms_factory_inactive_plural: "Military Industries §R(Closed)§!" #NT!
+ #arms_factory_inactive_desc: "This building represents Military Factories rendered inoperable or Inactive due to economic downturn. It should be converted to a functioning Military Factory as soon as possible." #NT!
+ dockyard: "Верфь"
+ dockyard_plural: "Верфи"
+ dockyard_desc: "Это сооружение снабжает регион новыми кораблями."
+ industrial_complex: "Civilian Industry" #NT!
+ industrial_complex_plural: "Civilian Industries" #NT!
+ industrial_complex_desc: "Это сооружение снабжает регион товарами народного потребления и позволяет строить новые сооружения. При необходимости его можно превратить в завод по выпуску военной продукции."
+ #industrial_complex_inactive: "Civilian Industry §R(Closed)§!" #NT!
+ #industrial_complex_inactive_plural: "Civilian Industries §R(Closed)§!" #NT!
+ #industrial_complex_inactive_desc: "This building represents Civilian Factories rendered inoperable or inactive due to economic downturn. It should be converted to a functioning Civilian Factory as soon as possible." #NT!
  air_base: "Авиабаза"
  air_base_plural: "Авиабазы"
- air_base_desc: "Это здание предоставляет государству дислокацию для ваших воздушных сил".
- naval_base: "Военно-морской порт"
- naval_base_plural: "Военно-морские порты"
- naval_base_desc:1 "Расширяет радиус действия вашего флота и предоставляет услуги по его ремонту. Позволяет поставлять и экспортировать ресурсы за границу. Более высокие уровни увеличивают пропускную способность".
- bunker: "Наземное укрепление"
- bunker_plural: "Наземные укрепления"
- bunker_desc: "Это здание наносит атакующему в бою штраф в размере $VALUE|+%0$ за каждый уровень форта. Атака с нескольких направлений уменьшает эффект фортов."
- coastal_bunker: "Береговое укрепление"
- coastal_bunker_plural: "Прибрежные укрепления"
- coastal_bunker_desc: "Это здание наносит атакующему штраф в размере $VALUE|+%0$ за каждый уровень форта в бою при морском вторжении".
+ air_base_desc: "Это сооружение позволяет размещать в регионе ваши военно-воздушные силы."
+ naval_base: "Naval Port" #NT!
+ naval_base_plural: "Naval Ports" #NT!
+ naval_base_desc: "Расширяет дальность действия вашего флота и позволяет ремонтировать его. Дает возможность выполнять поставки и экспортировать ресурсы по морю. Более высокий уровень увеличивает пропускную способность для поставок."
+ bunker: "Land Fortification" #NT!
+ bunker_plural: "Land Fortifications" #NT!
+ bunker_desc: "Это сооружение накладывает штраф на атакующую сторону в сухопутном бою — $VALUE|+%0$ за каждый уровень укрепления. Атаки с разных направлений снижают эффект укреплений."
+ coastal_bunker: "Coastal Fortification" #NT!
+ coastal_bunker_plural: "Coastal Fortifications" #NT!
+ coastal_bunker_desc: "Это сооружение накладывает штраф на атакующую сторону в морском бою — $VALUE|+%0$ за каждый уровень укрепления."
  anti_air_building: "ПВО"
  anti_air_building_plural: "ПВО"
- anti_air_building_desc: "Это здание обеспечивает государству защиту от вражеских бомбардировщиков и возможность вести огонь по атакующим самолетам".
- synthetic_refinery: "Синтетический нефтеперерабатывающий завод"
- synthetic_refinery_plural: "Синтетические нефтеперерабатывающие заводы"
- synthetic_refinery_desc: "Обеспечивает регион, в котором он построен, §Y4 Нефти§! и §Y2 Резины§!".
- synthetic_refinery_oil: "Нефтеперерабатывающий завод"
- synthetic_refinery_oil_plural: "Нефтеперерабатывающие заводы"
- synthetic_refinery_oil_desc: "то здание обеспечивает регион, в котором оно построено, с помощью §YНефти§!. Количество ресурсов зависит от вашей технологии."
- synthetic_refinery_rubber: "Резиновый завод"
- synthetic_refinery_rubber_plural: "Резиновые заводы"
- synthetic_refinery_rubber_desc: "Это здание обеспечивает регион, в котором оно построено, с помощью §YРезины§!. Количество ресурсов зависит от вашей технологии."
+ anti_air_building_desc: "Это сооружение обеспечивает региону защиту от вражеских бомбардировщиков и ведет огонь по самолетам противника."
+ synthetic_refinery: "Нефтеперерабатывающий завод"
+ synthetic_refinery_plural: "Нефтеперерабатывающие заводы"
+ synthetic_refinery_desc: "Provides the state it is built in with §Y4 Oil§! and §Y2 Rubber§!." #NT!
+ synthetic_refinery_oil: "Oil Refinery" #NT!
+ synthetic_refinery_oil_plural: "Oil Refineries" #NT!
+ synthetic_refinery_oil_desc: "This Building provides the state it is built in with §YOil§!. The amount of resources depends on your technology." #NT!
+ synthetic_refinery_rubber: "Rubber Refinery" #NT!
+ synthetic_refinery_rubber_plural: "Rubber Refineries" #NT!
+ synthetic_refinery_rubber_desc: "This Building provides the state it is built in with §YRubber§!. The amount of resources depends on your technology." #NT!
  radar_station: "Радарная станция"
  radar_station_plural: "Радарные станции"
- radar_station_desc:2 "Радар позволяет вам получать сведения о вражеских войсках в соседних государствах.\nБолее высокий уровень радара в государстве увеличивает эффективную дальность действия радара.\nРадар также обеспечивает государству лучшее обнаружение вражеских воздушных сил, что дает вашим самолетам больше шансов поразить их.\nВ дополнение к этому радары увеличивают обнаружение вражеских флотов на море."
+ radar_station_desc: "Radar allows you to gain intel on enemy troops in nearby states.\nA higher radar level in a state increases the effective range of the radar.\nRadar also provides the state with better detection of enemy air forces, giving your planes a better chance to engage them.\nIn addition the radars are increasing detection of enemy fleets at sea." #NT!
  rocket_site: "Ракетная площадка"
  rocket_site_plural: "Ракетные площадки"
- rocket_site_desc: "Это здание предоставляет государству место для размещения производимых ракет."
+ rocket_site_desc: "Это сооружение позволяет размещать в регионе произведенные вами ракеты."
  nuclear_reactor: "Ядерный реактор"
  nuclear_reactor_plural: "Ядерные реакторы"
- nuclear_reactor_desc: "Это здание предоставляет государству производство обогащенного урана для использования в ядерном оружии".
- BUILDING_BOMBED: "$BUILDING$ разбомблено!".
- BUILDING_SABOTAGED: "$BUILDING$ саботировано!".
- BUILDING_REPAIRED: "$BUILDING$ отремонтировано!".
- BUILDING_DAMAGE_REASON_COLLATERAL: "$BUILDING$ получило сопутствующий ущерб!"
- NUKE_DROPPED: "Сброшена ядерная бомба!"
+ nuclear_reactor_desc: "Это сооружение производит в регионе обогащенный уран для использования в атомном оружии."
+ BUILDING_BOMBED: "Сооружение $BUILDING$ подвергнуто бомбардировке!"
+ BUILDING_SABOTAGED: "Сооружение $BUILDING$ стало объектом диверсии!"
+ BUILDING_REPAIRED: "Сооружение $BUILDING$ восстановлено!"
+ BUILDING_DAMAGE_REASON_COLLATERAL: "Сооружение $BUILDING$ понесло сопутствующие потери!"
+ NUKE_DROPPED: "Сброшена атомная бомба!"
  BUILDING_DAMAGED: "Поврежденные уровни: $DAMAGED|-$/$CURRENT|H$"
  CAPACITY: "$VAL$/$MAX$"
  CAPACITY_PLUS: "$VAL$+$PLUS$/$MAX$"
- AIR_BASE_LEVEL: "$NAME|H$: $VAL|Y$"
- AIR_BASE_LEVEL_UNKNOWN: "$NAME|H$"
- ROCKET_SITE_CAPACITY: "Емкость: $VAL$/$MAX$"
- NAVAL_BASE_LEVEL_UNKNOWN: "§YМорской порт§!"
- NAVAL_BASE_LEVEL: "§YМорской порт§!: $VAL|Y$"
- NAVAL_BASE_SUPPLY_LIMIT: "Предел пропускной способности снабжения: $VAL|Y$".
- NAVAL_BASE_CAPACITY: "Вместимость: $USED|1G$/$TOTOTAL|0G$"
- NAVAL_BASE_CAPACITY_OVER: "Емкость: $USED|1R$/$TOTAL|0R$"
- NAVAL_BASE_CAPACITY_PENALTY: "Штраф за мощность ремонта: $PENALTY|%0R$"
- BUILDING_LEVEL:1 "§TУровень: $LEVEL|H$§!"
- BUILDING_CURRENT_MAX_LEVEL_CAPPED: "Текущий максимальный уровень здания ограничен:"
- BUILDING_CURRENT_MAX_LEVEL_NONCAPPED: "Текущий максимальный уровень здания не ограничен".
- BUILDING_CURRENT_MAX_LEVEL_CAPPED_MANPOWER: "Население региона: $MANPOWER|*Y$".
- BUILDING_CURRENT_MAX_LEVEL_CAPPED_POP_PER_LEVEL: "Население на уровень здания: $POPLEVEL|*Y$".
+ AIR_BASE_LEVEL: "$NAME|H$: $VAL|Y$" #NT!
+ AIR_BASE_LEVEL_UNKNOWN: "$NAME|H$" #NT!
+ ROCKET_SITE_CAPACITY: "Вместимость: $VAL$/$MAX$"
+ NAVAL_BASE_LEVEL_UNKNOWN: "§YNaval Port§!" #NT!
+ NAVAL_BASE_LEVEL: "§YNaval Port§!: $VAL|Y$" #NT!
+ NAVAL_BASE_SUPPLY_LIMIT: "Пропускаемость припасов: $VAL|Y$"
+ NAVAL_BASE_CAPACITY: "Вместимость: $USED|1G$/$TOTAL|0G$"
+ NAVAL_BASE_CAPACITY_OVER: "Вместимость: $USED|1R$/$TOTAL|0R$"
+ NAVAL_BASE_CAPACITY_PENALTY: "Штраф к скорости ремонта от вместимости: $PENALTY|%0R$"
+ BUILDING_LEVEL: "§TLevel: $LEVEL|H$§!" #NT!
+ BUILDING_CURRENT_MAX_LEVEL_CAPPED: "Текущий максимально возможный уровень сооружения:"
+ BUILDING_CURRENT_MAX_LEVEL_NONCAPPED: "Текущий максимально возможный уровень сооружения не ограничен."
+ BUILDING_CURRENT_MAX_LEVEL_CAPPED_MANPOWER: "Население региона: $MANPOWER|*Y$"
+ BUILDING_CURRENT_MAX_LEVEL_CAPPED_POP_PER_LEVEL: "Количество жителей на уровень сооружения: $POPLEVEL|*Y$"
  BUILDING_CURRENT_MAX_LEVEL_CAPPED_BUILDING_MAX_FACTOR: "Максимальный коэффициент региона: $MAXFACTOR|%0Y$"
- BUILDING_CURRENT_MAX_LEVEL_CAPPED_MIN_MAXLEVEL: "Минимальный максимальный уровень из-за численности населения: $MAXLEVEL|Y$".
- BUILDING_SLOT_REMOVE_BUILDING_LEVEL: "Удалить здание".
- BUILDING_SLOT_REMOVE_CONSTRUCTION_LEVEL: "Удалить уровень строительства здания".
- BUILDING_SLOT_REMOVE_CONVERSION_LEVEL: "Вернуть преобразование здания".
- BUILDING_SLOT_REMOVE_COOLDOWN: "В военное время можно удалять здания только раз в $DAYS|Y$ дней. Следующее удаление может быть произведено в $DATE|Y$".
- CLICK_TO_CONVERT:1 "§GЩёлкните§! для конвертации в $BUILDING|Y$".
- INSERT_CONVERSION: "§GCtrl+Щелчок§! чтобы преобразовать и поместить в начало очереди."
- INSERT_CONSTRUCTION: "§GCtrl+Щелчок§! чтобы построить и поместить в начало очереди."
- BUILDING_CURRENT_MAX_LEVEL: "Максимальный уровень для $BUILDING|Y$: $MAXLEVEL|Y$".
- BUILDING_CURRENT_MAX_LEVEL_SHARED_SLOTS: "Максимальный уровень для $BUILDING|Y$ в регионе: $MAXLEVEL|Y$".
- BUILDING_LEVEL_HEALTH: "Уровень здоровья: $VALUE|%2Y$"
- AIR_DEFENSE_IN_STATE: "\n§HОбщее снижение урона от бомбардировок:§! $TOT|%G$\nПВО: $AA|-%$\n"
- RADAR_ONMAP_TOOLTIP: "§HРадарная Станция§! уровень: $LVL|G$/$TOT|H$\nBelongs to: $WHO|H$"
- RADAR_ONMAP_DAMAGED_TOOLTIP: "§HРадарная станция§! уровень: $LVL|R$/$TOT|H$\nПринадлежит: $WHO|H$"
- RADAR_ONMAP_TOOLTIP_COVERAGE: "\n§HОхват регионов:§!".
- RADAR_ONMAP_TOOLTIP_COVERAGE_ENTRY: "\n $PERC|%$ в $REGION$"
- RADAR_ONMAP_TOOLTIP_SUPPRESS: "\nУдерживайте §GCtrl§! для того  чтобы §Rубрать§! эту подсказку."
- fuel_silo_industrial: "Промышленное топливное хранилище"
- fuel_silo_industrial_plural: "Промышленные топливные хранилища"
- fuel_silo_industrial_desc: "Это здание предоставляет вашей нации больше места для хранения запасов §HТоплива§!".
- fuel_silo_modern: "Современный топливный бункер"
- fuel_silo_modern_plural: "Современные топливные бункеры"
- fuel_silo_modern_desc: "Это здание предоставляет вашей нации еще больше места для хранения запасов §HТоплива§!".
- coal_mine: "Угольная шахта"
- coal_mine_plural: "Угольные шахты"
- coal_mine_desc: "Промышленная шахта для добычи угля. Предоставляет региону, в котором она построена, §Y4 Угля§!".
- cotton_farm: "Хлопковая ферма"
- cotton_farm_plural: "Хлопковые фермы"
- cotton_farm_desc: "Фермы, производящие хлопок, который используется, например, для производства армейской формы. Обеспечивает регион, в котором она построена, §Y6 Хлопка§!".
- steel_mill: "Сталелитейный завод"
- steel_mill_plural: "Сталелитейные заводы"
- steel_mill_desc: "Промышленный завод по производству стали.\nПроизводит: \n§G+10 стали§!\nПотребляет: \n§R-2 Железа§!\n§R-4 Угля§!"
- logging_camp: "Лагерь лесозаготовителей"
- logging_camp_plural: "Лесозаготовительные лагеря"
- logging_camp_desc: "Крупномасштабные лесозаготовительные лагеря для производства древесины для нашей страны. Обеспечивает государство, в котором он построен, §Y6 Древесины§!".
- machine_parts_factory: "Завод деталей машин"
- machine_parts_factory_plural: "Заводы по производству деталей машин"
- machine_parts_factory_desc: "Завод, производящий современные части машин. \nПроизводит: \n§G+8 Деталей Машин§!\nПотребляет: \n§R-3 Стали§!\n§R-2 Угля§!"
- farm: "Ферма"
- farm_plural: "Фермы"
- farm_desc: "Ферма обеспечивает вашу нацию еженедельной рабочей силой, снабжая население и освобождая рабочих, особенно тех, кто работает в сельском хозяйстве для пропитания."
- fabric_weavery: "Текстильная фабрика"
- fabric_weavery_plural: "Текстильные фабрики"
- fabric_weavery_desc: "Текстильные фабрики, где хлопок превращается в ткань для использования в производстве\nПроизводит: \n§G+8 Тканей§!\nПотребляет: \n§R-4 Хлопка§!"
- electronics_factory: "Фабрика электроники"
- electronics_factory_plural: "Фабрики электроники"
- electronics_factory_desc: "Фабрика электроники - это место, где производится электроника \nПотребляет: \n§G+15 Электроники§!\nПотребляет: \n§R-4 Пластмассы§!\n§R-4 Силиката§!\n§R-1 Редкоземельный Металл§!"
- plastics_refinery: "Пластмассо перерабатывающий завод"
- plastics_refinery_plural: "Пластмассо перерабатывающие заводы"
- plastics_refinery_desc: "Пластмассо перерабатывающий завод преобразует нефть в пластик \nПроизводит: \n§G+12 Пластмасс§!\nПотребляет: \n§R-3 Нефти§!"
- ceramic_buners: "Керамическая горелка"
- ceramic_buners_plural: "Керамические горелки"
- ceramic_buners_desc: "Керамическая горелка нагревает силикат в различные типы керамики. \nПроизводит: \n§G+5 керамики§!\nПотребляет: \n§R-3 Силиката§!\n§R-1 Угля§!"
- generator_factory: "Генераторная мануфактура"
- generator_factory_plural: "Генераторные мануфактуры"
- generator_factory_desc: "Генераторная мануфактура создает портативные источники энергии \nПроизводит: \n§G+4 Портативных Источников Энергии§!\nПотребляет: \n§R-2 Редкоземельных Металла§!"
- steel_mill_inactive: "Сталелитейный завод §R(закрыт)§!"
- steel_mill_inactive_plural: "Сталелитейные заводы §R(закрыты)§!"
- steel_mill_inactive_desc: "У этого сталелитейного завода закончились ресурсы, и он был закрыт!"
- machine_parts_factory_inactive: "Завод деталей машин §R(Закрыт)§!"
- machine_parts_factory_inactive_plural: "Заводы деталей машин §R(Закрыты)§!"
- machine_parts_factory_inactive_desc: "§RЭтот завод по производству деталей машин исчерпал ресурсы и был закрыт§!"
- fabric_weavery_inactive: "Текстильная фабрика §R(закрыта)§!".
- fabric_weavery_inactive_plural: "Текстильные фабрики §R(закрыты)§!"
- fabric_weavery_inactive_desc: "§RЭта текстильная фабрика исчерпала ресурсы и была закрыта§!"
- #electronics_factory_inactive: "Мануфактура электроники §R(закрыта)§!"
- #electronics_factory_inactive_plural: "Мануфактуры электроники §R(закрыты)§!"
- #electronics_factory_inactive_desc: "§RЭта фабрика электроники исчерпала ресурсы и была закрыта§!"
- #ceramic_buners_inactive: "Керамическая горелка §R(закрыта)§!"
- #ceramic_buners_inactive_plural: "Керамические горелки §R(закрыты)§!"
- #ceramic_buners_inactive_desc: "§RЭта керамическая горелка исчерпала ресурсы и была закрыта§!"
- #generator_factory_inactive: "Генераторная мануфактура §R(закрыта)§!"
- #generator_factory_inactive_plural: "Генераторные мануфактуры §R(закрыты)§!"
- #generator_factory_inactive_desc: "§RЭта генераторная мануфактура исчерпала ресурсы и была закрыта§!"
- modifier_production_speed_electronics_factory: "§YЭлектронная фабрика§!- Скорость строительства".
- modifier_production_speed_electronics_factory_desc: "Изменяет скорость строительства фабрики электроники."
- modifier_production_speed_electronics_factory_factor: "§YЭлектронная фабрика§!- Скорость строительства".
- modifier_production_speed_electronics_factory_factor_desc: "Изменяет скорость строительства фабрики электроники."
- modifier_production_speed_plastics_refinery: "§YПластмассо перерабатывающий завод§!- Скорость строительства"
- modifier_production_speed_plastics_refinery_desc: "Изменяет скорость строительства пластмассо перерабатывающего завода".
- modifier_production_speed_plastics_refinery_factor: "§YПластмассо перерабатывающий завод§!- Скорость строительства".
- modifier_production_speed_plastics_refinery_factor_desc: "Изменяет скорость строительства пластмассо перерабатывающего завода".
- modifier_production_speed_ceramic_buners: "§YКерамическая горелка§!- Скорость строительства".
- modifier_production_speed_ceramic_buners_desc: "Изменяет скорость строительства керамической горелки".
- modifier_production_speed_ceramic_buners_factor: "§YКерамическая горелка§!- Скорость строительства".
- modifier_production_speed_ceramic_buners_factor_desc: "Изменяет скорость строительства керамической горелки".
- modifier_production_speed_generator_factory: "Скорость строительства §YГенераторной мануфактуры§!".
- modifier_production_speed_generator_factory_desc: "Изменяет скорость строительства мануфактуры генераторов."
- modifier_production_speed_generator_factory_factor: "Скорость строительства §YГенераторной мануфактуры§!".
- modifier_production_speed_generator_factory_factor_desc: "Изменяет скорость строительства мануфактуры генераторов".
- modifier_production_speed_coal_mine: "§YУгольная шахта§!- Скорость строительства".
- modifier_production_speed_coal_mine_desc: "Изменяет скорость строительства угольной шахты."
-#modifier_production_speed_coal_mine_factor: "§YУгольная шахта§!- Скорость строительства"
-#modifier_production_speed_coal_mine_factor_desc: "Изменяет скорость строительства угольной шахты."
- modifier_production_speed_cotton_farm: "§YХлопковая ферма§!- Скорость строительства".
- modifier_production_speed_cotton_farm_desc: "Изменяет скорость строительства Хлопковой фермы."
-#modifier_production_speed_cotton_farm_factor: "§YХлопковая ферма§!- Скорость строительства"
-#modifier_production_speed_cotton_farm_factor_desc: "Изменяет скорость строительства Хлопковой фермы".
- modifier_production_speed_steel_mill: "§YСталелитейный завод§!- Скорость строительства".
- modifier_production_speed_steel_mill_desc: "Изменяет скорость строительства сталелитейного завода."
-#modifier_production_speed_steel_mill_factor: "§YСталелитейный завод§!- Скорость строительства"
-#modifier_production_speed_steel_mill_factor_desc: "Изменяет скорость строительства сталелитейного завода."
- modifier_production_speed_logging_camp: "§YЛагерь лесорубов§!- Скорость строительства".
- modifier_production_speed_logging_camp_desc: "Изменяет скорость строительства лагеря лесорубов."
-#modifier_production_speed_logging_camp_factor: "§YЛагерь лесорубов§!- Скорость строительства"
-#modifier_production_speed_logging_camp_factor_desc: "Изменяет скорость строительства лагеря лесорубов".
- modifier_production_speed_machine_parts_factory: "§YЗавод деталей машин§!- Скорость строительства".
- modifier_production_speed_machine_parts_factory_desc: "Изменяет скорость строительства завода деталей машин."
-#modifier_production_speed_machine_parts_factory_factor: "§YЗавод деталей машин§!- Скорость строительства"
-#modifier_production_speed_machine_parts_factory_factor_desc: "Изменяет скорость строительства завода деталей машин."
- modifier_production_speed_farm: "§YФерма§!- Скорость строительства ".
- modifier_production_speed_farm_desc: "Изменяет скорость строительства фермы."
-#modifier_production_speed_farm_factor: "§YФерма§!- Скорость строительства"
-#modifier_production_speed_farm_factor_desc: "Изменяет скорость строительства фермы".
- modifier_production_speed_synthetic_refinery_oil: "§YНефтеперерабатывающий завод§!- Скорость строительства".
- modifier_production_speed_synthetic_refinery_oil_desc: "Изменяет скорость строительства нефтеперерабатывающего завода".
- modifier_production_speed_synthetic_refinery_oil_factor: "§YНефтеперерабатывающий завод§!- Скорость строительства ".
- modifier_production_speed_synthetic_refinery_oil_factor_desc: "Изменяет скорость строительства нефтеперерабатывающего завода".
- modifier_production_speed_synthetic_refinery_rubber: "§YЗавод по переработке каучука§!- Скорость строительства"
- modifier_production_speed_synthetic_refinery_rubber_desc: "Изменяет скорость строительства завода по переработке каучука."
- modifier_production_speed_synthetic_refinery_rubber_factor: "Скорость строительства §YЗавод по переработке каучука§!".
- modifier_production_speed_synthetic_refinery_rubber_factor_desc: "Изменяет скорость строительства завода по переработке каучука".
- modifier_production_speed_fuel_silo_industrial: "Скорость строительства §YПромышленное топливное хранилище§!".
- modifier_production_speed_fuel_silo_industrial_desc: "Изменяет скорость строительства промышленного топливного хранилища."
- modifier_production_speed_fuel_silo_industrial_factor: "§YПромышленное топливное хранилище§!- Скорость строительства".
- modifier_production_speed_fuel_silo_industrial_factor_desc: "Изменяет скорость строительства промышленного топливного хранилища."
- modifier_production_speed_fuel_silo_modern: "§YСовременное топливное хранилище§!- Скорость строительства"
- modifier_production_speed_fuel_silo_modern_desc: "Изменяет скорость строительства современного топливного хранилища."
- modifier_production_speed_fuel_silo_modern_factor: "§YСовременное топливное хранилище§!- Скорость строительства".
- modifier_production_speed_fuel_silo_modern_factor_desc: "Изменяет скорость строительства современного топливного хранилища".
- modifier_production_speed_rail_way_factor: "Скорость строительства §YЖелезной дороги§!"
- modifier_production_speed_rail_way_factor_desc: "Изменяет скорость строительства железной дороги".
- primitive_arms_factory: "Примитивный оружейный завод"
- primitive_arms_factory_desc: "Эти заводы производят военное оборудование, используя примитивные технологии. Это наименее эффективный тип заводов".
- primitive_arms_factory_plural: "Примитивные оружейные заводы".
- modifier_production_speed_primitive_arms_factory: "§YПримитивный оружейный завод§!- Скорость строительства"
- modifier_production_speed_primitive_arms_factory_desc: "Изменяет скорость строительства примитивного оружейного завода."
- modifier_production_speed_primitive_arms_factory_factor: "§YПримитивный оружейный завод§!- Скорость строительства ".
- modifier_production_speed_primitive_arms_factory_factor_desc: "Изменяет скорость строительства примитивного оружейного завода".
- pre_industrial_arms_factory: "Доиндустриальный оружейный завод".
- pre_industrial_arms_factory_desc: "Эти заводы производят военное оборудование, используя технологию, более продвинутую, чем та, что присутствует на примитивных заводах, хотя большая часть технологии все еще принадлежит к периоду до промышленной революции. Они более эффективны, чем примитивные заводы".
- pre_industrial_arms_factory_plural: "Доиндустриальные оружейные заводы".
- modifier_production_speed_pre_industrial_arms_factory: "Y§Доиндустриальный оружейный завод§!- Скорость строительства"
-modifier_production_speed_pre_industrial_arms_factory_desc: "Изменяет скорость строительства доиндустриального оружейного завода."
- modifier_production_speed_pre_industrial_arms_factory_factor: "§YДоиндустриальный оружейный завод§!- Скорость строительства ".
- modifier_production_speed_pre_industrial_arms_factory_factor_desc: "Изменяет скорость строительства доиндустриального оружейного завода."
- trench: "Траншея"
- trench_desc: "Траншеи используются для повышения обороноспособности пехоты в провинции".
- trench_plural: "Траншеи"
- modifier_production_speed_trench: "§YТраншея§!- Скорость строительства"
- modifier_production_speed_trench_desc: "Изменяет скорость строительства траншеи".
- modifier_production_speed_trench_factor: "§YТраншея§!- Скорость строительства".
- modifier_production_speed_trench_factor_desc: "Изменяет скорость строительства траншеи".
- synthetic_refinery_amount: ""
- synthetic_refinery_resource: ""
+ BUILDING_CURRENT_MAX_LEVEL_CAPPED_MIN_MAXLEVEL: "Мин./макс. уровень из-за населенности: $MAXLEVEL|Y$"
+ BUILDING_SLOT_REMOVE_BUILDING_LEVEL: "Удалить сооружение."
+ BUILDING_SLOT_REMOVE_CONSTRUCTION_LEVEL: "Удалить строящийся уровень сооружения."
+ BUILDING_SLOT_REMOVE_CONVERSION_LEVEL: "Отменить конверсию сооружения."
+ BUILDING_SLOT_REMOVE_COOLDOWN: "В военное время здания можно удалять лишь через каждые $DAYS|Y$ дн. Следующее удаление будет доступно $DATE|Y$."
+ CLICK_TO_CONVERT: "§GЩелкните§!, чтобы конвертировать в: $BUILDING|Y$"
+ INSERT_CONVERSION: "§GCtrl+Click§! to convert and place at the beginning of the queue." #NT!
+ INSERT_CONSTRUCTION: "§GCtrl+Click§! to build and place at the beginning of the queue." #NT!
+ BUILDING_CURRENT_MAX_LEVEL: "Максимальный уровень сооружения $BUILDING|Y$: $MAXLEVEL|Y$"
+ BUILDING_CURRENT_MAX_LEVEL_SHARED_SLOTS: "$BUILDING|Y$: максимум в регионе $MAXLEVEL|Y$"
+ BUILDING_LEVEL_HEALTH: "Прочность уровня: $VALUE|%2Y$"
+ AIR_DEFENSE_IN_STATE: "\n§HTotal bombing damage reduction:§! $TOT|%G$\nAnti-Air: $AA|-%$\n" #NT!
+ RADAR_ONMAP_TOOLTIP: "§HРадарная станция§! уровень: $LVL|G$/$TOT|H$\nВладелец: $WHO|H$"
+ RADAR_ONMAP_DAMAGED_TOOLTIP: "§HРадарная станция§! уровень: $LVL|R$/$TOT|H$\nВладелец: $WHO|H$"
+ RADAR_ONMAP_TOOLTIP_COVERAGE: "\n§HПокрытие в этом регионе: §!"
+ RADAR_ONMAP_TOOLTIP_COVERAGE_ENTRY: "\n  $PERC|%$ в регионе $REGION$"
+ RADAR_ONMAP_TOOLTIP_SUPPRESS: "\nУдерживайте §GCtrl§!, чтобы §Rпропустить§! эту подсказку."
+ fuel_silo_industrial: "Industrial Fuel Silo" #NT!
+ fuel_silo_industrial_plural: "Industrial Fuel Silos" #NT!
+ fuel_silo_industrial_desc: "This building provides your nation with more room for stockpiling §HFuel§!." #NT!
+ fuel_silo_modern: "Modern Fuel Silo" #NT!
+ fuel_silo_modern_plural: "Modern Fuel Silos" #NT!
+ fuel_silo_modern_desc: "This building provides your nation with even more room for stockpiling §HFuel§!." #NT!
+ coal_mine: "Coal Mine" #NT!
+ coal_mine_plural: "Coal Mines" #NT!
+ coal_mine_desc: "An industrial mining site for the extraction of coal. Provides the state it is built in with §Y4 Coal§!." #NT!
+ cotton_farm: "Cotton Farm" #NT!
+ cotton_farm_plural: "Cotton Farms" #NT!
+ cotton_farm_desc: "Farms producing cotton which is used, for example, in producing army uniforms. Provides the state it is built in with §Y6 Cotton§!." #NT!
+ steel_mill: "Steel Mill" #NT!
+ steel_mill_plural: "Steel Mills" #NT!
+ steel_mill_desc: "An industrial plant producing steel.\nProduces: \n§G+10 Steel§!\nConsumes: \n§R-2 Iron§!\n§R-4 Coal§!" #NT!
+ logging_camp: "Logging Camp" #NT!
+ logging_camp_plural: "Logging Camps" #NT!
+ logging_camp_desc: "Large-Scale logging camps to produce wood for our nation. Provides the state it is built in with §Y6 Wood§!." #NT!
+ machine_parts_factory: "Machine Parts Factory" #NT!
+ machine_parts_factory_plural: "Machine Parts Factories" #NT!
+ machine_parts_factory_desc: "A Factory producing advanced pieces of machinery. \nProduces: \n§G+8 Machine Parts§!\nConsumes: \n§R-3 Steel§!\n§R-2 Coal§!" #NT!
+ farm: "Farm" #NT!
+ farm_plural: "Farms" #NT!
+ farm_desc: "A farm provides your nation with weekly manpower by supplying the populace and freeing up workers, especially those working in sustenance agriculture." #NT!
+ fabric_weavery: "Textile Mill" #NT!
+ fabric_weavery_plural: "Textile Mills" #NT!
+ fabric_weavery_desc: "Textile Mills where cotton is turned into fabric for use in production\nProduces: \n§G+8 Fabric§!\nConsumes: \n§R-4 Cotton§!" #NT!
+ electronics_factory: "Electronics Manufactory" #NT!
+ electronics_factory_plural: "Electronics Manufactories" #NT!
+ electronics_factory_desc: "Electronics Manufactories is where electronics are produced \nProduces: \n§G+15 Electronics§!\nConsumes: \n§R-4 Plastics§!\n§R-4 Silicates§!\n§R-1 Rare Earth Metals§!" #NT!
+ plastics_refinery: "Plastics Refinery" #NT!
+ plastics_refinery_plural: "Plastics Refineries" #NT!
+ plastics_refinery_desc: "Plastics Refineries converts Oil into Plastic \nProduces: \n§G+12 Plastics§!\nConsumes: \n§R-3 Oil§!" #NT!
+ ceramic_buners: "Ceramic Burner" #NT!
+ ceramic_buners_plural: "Ceramic Burners" #NT!
+ ceramic_buners_desc: "Ceramic Burners heats Silicates into different types of Ceramics \nProduces: \n§G+5 Ceramics§!\nConsumes: \n§R-3 Silicates§!\n§R-1 Coal§!" #NT!
+ generator_factory: "Generator Manufactory" #NT!
+ generator_factory_plural: "Generator Manufactories" #NT!
+ generator_factory_desc: "Generator Manufactories create Portable Power Sources \nProduces: \n§G+4 Portable Power Sources§!\nConsumes: \n§R-2 Rare Earth Metals§!" #NT!
+ steel_mill_inactive: "Steel Mill §R(Closed)§!" #NT!
+ steel_mill_inactive_plural: "Steel Mills §R(Closed)§!" #NT!
+ steel_mill_inactive_desc: "§RThis Steel Mill has run out of resources and has been closed§!" #NT!
+ machine_parts_factory_inactive: "Machine Parts Factory §R(Closed)§!" #NT!
+ machine_parts_factory_inactive_plural: "Machine Parts Factories §R(Closed)§!" #NT!
+ machine_parts_factory_inactive_desc: "§RThis Machine Parts Factory has run out of resources and has been closed§!" #NT!
+ fabric_weavery_inactive: "Textile Mill §R(Closed)§!" #NT!
+ fabric_weavery_inactive_plural: "Textile Mills §R(Closed)§!" #NT!
+ fabric_weavery_inactive_desc: "§RThis Textile Mill has run out of resources and has been closed§!" #NT!
+ #electronics_factory_inactive: "Electronics Manufactory §R(Closed)§!" #NT!
+ #electronics_factory_inactive_plural: "Electronics Manufactories §R(Closed)§!" #NT!
+ #electronics_factory_inactive_desc: "§RThis Electronics Manufactory has run out of resources and has been closed§!" #NT!
+ #ceramic_buners_inactive: "§R(Closed)§! Ceramic Burner " #NT!
+ #ceramic_buners_inactive_plural: "§R(Closed)§! Ceramic Burners " #NT!
+ #ceramic_buners_inactive_desc: "§RThis Ceramic Burner has run out of resources and has been closed§!" #NT!
+ #generator_factory_inactive: "Generator Manufactory §R(Closed)§!" #NT!
+ #generator_factory_inactive_plural: "Generator Manufactories §R(Closed)§!" #NT!
+ #generator_factory_inactive_desc: "§RThis Generator Manufactory has run out of resources and has been closed§!" #NT!
+ modifier_production_speed_electronics_factory: "§YElectronics Factory§! construction speed" #NT!
+ modifier_production_speed_electronics_factory_desc: "Modifies the speed of Electronics Factory construction." #NT!
+ modifier_production_speed_electronics_factory_factor: "§YElectronics Factory§! construction speed" #NT!
+ modifier_production_speed_electronics_factory_factor_desc: "Modifies the speed of Electronics Factory construction." #NT!
+ modifier_production_speed_plastics_refinery: "§YPlastics Refinery§! construction speed" #NT!
+ modifier_production_speed_plastics_refinery_desc: "Modifies the speed of Plastics Refinery construction." #NT!
+ modifier_production_speed_plastics_refinery_factor: "§YPlastics Refinery§! construction speed" #NT!
+ modifier_production_speed_plastics_refinery_factor_desc: "Modifies the speed of Plastics Refinery construction." #NT!
+ modifier_production_speed_ceramic_buners: "§YCeramic Burner§! construction speed" #NT!
+ modifier_production_speed_ceramic_buners_desc: "Modifies the speed of Ceramic Burner construction." #NT!
+ modifier_production_speed_ceramic_buners_factor: "§YCeramic Burner§! construction speed" #NT!
+ modifier_production_speed_ceramic_buners_factor_desc: "Modifies the speed of Ceramic Burner construction." #NT!
+ modifier_production_speed_generator_factory: "§YGenerator Manufactory§! construction speed" #NT!
+ modifier_production_speed_generator_factory_desc: "Modifies the speed of Generator Manufactory construction." #NT!
+ modifier_production_speed_generator_factory_factor: "§YGenerator Manufactory§! construction speed" #NT!
+ modifier_production_speed_generator_factory_factor_desc: "Modifies the speed of Generator Manufactory construction." #NT!
+ modifier_production_speed_coal_mine: "§YCoal Mine§! construction speed" #NT!
+ modifier_production_speed_coal_mine_desc: "Modifies the speed of Coal Mine construction." #NT!
+ #modifier_production_speed_coal_mine_factor: "§YCoal Mine§! construction speed" #NT!
+ #modifier_production_speed_coal_mine_factor_desc: "Modifies the speed of Coal Mine construction." #NT!
+ modifier_production_speed_cotton_farm: "§YCotton Farm§! construction speed" #NT!
+ modifier_production_speed_cotton_farm_desc: "Modifies the speed of Cotton Farm construction." #NT!
+ #modifier_production_speed_cotton_farm_factor: "§YCotton Farm§! construction speed" #NT!
+ #modifier_production_speed_cotton_farm_factor_desc: "Modifies the speed of Cotton Farm construction." #NT!
+ modifier_production_speed_steel_mill: "§YSteel Mill§! construction speed" #NT!
+ modifier_production_speed_steel_mill_desc: "Modifies the speed of Steel Mill construction." #NT!
+ #modifier_production_speed_steel_mill_factor: "§YSteel Mill§! construction speed" #NT!
+ #modifier_production_speed_steel_mill_factor_desc: "Modifies the speed of Steel Mill construction." #NT!
+ modifier_production_speed_logging_camp: "§YLogging Camp§! construction speed" #NT!
+ modifier_production_speed_logging_camp_desc: "Modifies the speed of Logging Camp construction." #NT!
+ #modifier_production_speed_logging_camp_factor: "§YLogging Camp§! construction speed" #NT!
+ #modifier_production_speed_logging_camp_factor_desc: "Modifies the speed of Logging Camp construction." #NT!
+ modifier_production_speed_machine_parts_factory: "§YMachine Parts Factory§! construction speed" #NT!
+ modifier_production_speed_machine_parts_factory_desc: "Modifies the speed of Machine Parts Factory construction." #NT!
+ #modifier_production_speed_machine_parts_factory_factor: "§YMachine Parts Factory§! construction speed" #NT!
+ #modifier_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of Machine Parts Factory construction." #NT!
+ modifier_production_speed_farm: "§YFarm§! construction speed" #NT!
+ modifier_production_speed_farm_desc: "Modifies the speed of Farm construction." #NT!
+ #modifier_production_speed_farm_factor: "§YFarm§! construction speed" #NT!
+ #modifier_production_speed_farm_factor_desc: "Modifies the speed of Farm construction." #NT!
+ modifier_production_speed_synthetic_refinery_oil: "§YOil Refinery§! construction speed" #NT!
+ modifier_production_speed_synthetic_refinery_oil_desc: "Modifies the speed of Oil Refinery construction." #NT!
+ modifier_production_speed_synthetic_refinery_oil_factor: "§YOil Refinery§! construction speed" #NT!
+ modifier_production_speed_synthetic_refinery_oil_factor_desc: "Modifies the speed of Oil Refinery construction." #NT!
+ modifier_production_speed_synthetic_refinery_rubber: "§YRubber Refinery§! construction speed" #NT!
+ modifier_production_speed_synthetic_refinery_rubber_desc: "Modifies the speed of Rubber Refinery construction." #NT!
+ modifier_production_speed_synthetic_refinery_rubber_factor: "§YRubber Refinery§! construction speed" #NT!
+ modifier_production_speed_synthetic_refinery_rubber_factor_desc: "Modifies the speed of Rubber Refinery construction." #NT!
+ modifier_production_speed_fuel_silo_industrial: "§YIndustrial Fuel Silo§! construction speed" #NT!
+ modifier_production_speed_fuel_silo_industrial_desc: "Modifies the speed of Industrial Fuel Silo construction." #NT!
+ modifier_production_speed_fuel_silo_industrial_factor: "§YIndustrial Fuel Silo§! construction speed" #NT!
+ modifier_production_speed_fuel_silo_industrial_factor_desc: "Modifies the speed of Industrial Fuel Silo construction." #NT!
+ modifier_production_speed_fuel_silo_modern: "§YModern Fuel Silo§! construction speed" #NT!
+ modifier_production_speed_fuel_silo_modern_desc: "Modifies the speed of Modern Fuel Silo construction." #NT!
+ modifier_production_speed_fuel_silo_modern_factor: "§YModern Fuel Silo§! construction speed" #NT!
+ modifier_production_speed_fuel_silo_modern_factor_desc: "Modifies the speed of Modern Fuel Silo construction." #NT!
+ modifier_production_speed_rail_way_factor: "Скорость строительства §Yжелезных дорог§!"
+ modifier_production_speed_rail_way_factor_desc: "Изменяет скорость строительства железных дорог."
+ primitive_arms_factory: "Primitive Arms Factory" #NT!
+ primitive_arms_factory_desc: "These Factories produce Military Equipment using primitive technology. They are the least effective type of factory." #NT!
+ primitive_arms_factory_plural: "Primitive Arms Factories" #NT!
+ modifier_production_speed_primitive_arms_factory: "§YPrimitive Arms Factory§! construction speed" #NT!
+ modifier_production_speed_primitive_arms_factory_desc: "Modifies the speed of Primitive Arms Factory construction." #NT!
+ modifier_production_speed_primitive_arms_factory_factor: "§YPrimitive Arms Factory§! construction speed" #NT!
+ modifier_production_speed_primitive_arms_factory_factor_desc: "Modifies the speed of Primitive Arms Factory construction." #NT!
+ pre_industrial_arms_factory: "Pre-Industrial Arms Factory" #NT!
+ pre_industrial_arms_factory_desc: "These Factories produce Military Equipment using technology more advanced than the one present in primitive factories, albeit most of its technology still coming from before the Industrial Revolution. They are more efficient than primitive factories." #NT!
+ pre_industrial_arms_factory_plural: "Pre-Industrial Arms Factories" #NT!
+ modifier_production_speed_pre_industrial_arms_factory: "§YPre-Industrial Arms Factory§! construction speed" #NT!
+ modifier_production_speed_pre_industrial_arms_factory_desc: "Modifies the speed of Pre-Industrial Arms Factory construction." #NT!
+ modifier_production_speed_pre_industrial_arms_factory_factor: "§YPre-Industrial Arms Factory§! construction speed" #NT!
+ modifier_production_speed_pre_industrial_arms_factory_factor_desc: "Modifies the speed of Pre-Industrial Arms Factory construction." #NT!
+ trench: "Trench" #NT!
+ trench_desc: "Trenches are used to increase infantry defensiveness in a province." #NT!
+ trench_plural: "Trenches" #NT!
+ modifier_production_speed_trench: "§YTrench§! construction speed" #NT!
+ modifier_production_speed_trench_desc: "Modifies the speed of Trench construction." #NT!
+ modifier_production_speed_trench_factor: "§YTrench§! construction speed" #NT!
+ modifier_production_speed_trench_factor_desc: "Modifies the speed of Trench construction." #NT!
+ synthetic_refinery_amount: "$VALUE|Y0=$"
+ synthetic_refinery_resource: "£resources_strip|$FRAME$"

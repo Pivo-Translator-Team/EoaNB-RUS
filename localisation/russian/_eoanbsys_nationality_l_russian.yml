@@ -1,1152 +1,1152 @@
 ﻿l_russian:
-  EOANB_CULTURE_INFO: "Основная культура этого региона - §Y[This.GetNationality]§!".
-
-  var_nationality_0: "Нет культуры"
-
-  var_nationality_1: "Прусская"
-  var_nationality_2: "Бавария"
-  var_nationality_3: "Австрийская"
-  var_nationality_4: "Саксонская"
-  var_nationality_5: "Рейнская"
- var_nationality_6: "Вестфальская"
-  var_nationality_7: "Эльзасская"
-  var_nationality_8: "Швейцарская"
-
-  var_nationality_10: "Голландская"
-  var_nationality_11: "Фламандская"
-  var_nationality_12: "Валлонская"
-  var_nationality_13: "Люксембургская"
-
-  var_nationality_20: "Шведская"
-  var_nationality_21: "Датская"
-  var_nationality_22: "Норвежская"
-  var_nationality_23: "Исландская"
-  var_nationality_24: "Финская"
-  var_nationality_25: "Саамская"
-
-  var_nationality_30: "Британская"
-  var_nationality_31: "Ирландская"
-  var_nationality_32: "Шотландская"
-  var_nationality_33: "Валлийская"
-
-  var_nationality_40: "Корсиканская"
-  var_nationality_41: "Североитальянская"
-  var_nationality_42: "Южноитальянская"
-  var_nationality_43: "Мальтийская"
-  var_nationality_44: "Папская"
-
-  var_nationality_50: "Басксийская"
-  var_nationality_51: "Испанская"
-  var_nationality_52: "Каталонская"
-  var_nationality_53: "Португальская"
-  var_nationality_54: "Галисийская"
-
-  var_nationality_60: "Французская"
-  var_nationality_61: "Бретонская"
-  var_nationality_62: "Окситанская"
-  var_nationality_63: "Пикардская"
-  var_nationality_64: "Арпитанская"
-
-  var_nationality_70: "Хорватская"
-  var_nationality_71: "Сербская"
-  var_nationality_72: "Болгарская"
-  var_nationality_73: "Словенская"
-  var_nationality_74: "Боснийская"
-  var_nationality_75: "Черногорская"
-  var_nationality_76: "Македонская"
-
-  var_nationality_80: "Албанская"
-
-  var_nationality_90: "Румынская"
-
-  var_nationality_100: "Венгерская"
-
-  var_nationality_110: "Польская"
-
-  var_nationality_120: "Чешская"
-  var_nationality_121: "Словацкая"
-
-  var_nationality_130: "Русская"
-  var_nationality_131: "Белорусская"
-  var_nationality_132: "Украинская"
-  var_nationality_133: "Угорская"
-
-  var_nationality_140: "Литовская"
-  var_nationality_141: "Латышская"
-  var_nationality_142: "Эстонская"
-
-  var_nationality_150: "Греческая"
-
-  var_nationality_160: "Турецкая"
-  var_nationality_161: "Азербайджанская"
-  var_nationality_162: "Курдская"
-
-  var_nationality_170: "Дагестанская"
-  var_nationality_171: "Чеченская"
-  var_nationality_172: "Черкесская"
-  var_nationality_173: "Грузинская"
-  var_nationality_174: "Армянинская"
-
-  var_nationality_180: "Алжирская"
-  var_nationality_181: "Тунисская"
-  var_nationality_182: "Ливийская"
-  var_nationality_183: "Мисрийская"
- var_nationality_184: " Машрикская"
-  var_nationality_185: "Сирийская"
-  var_nationality_186: "Бедуинская"
-  var_nationality_187: "Берберская"
-  var_nationality_188: "Маврийская"
-  var_nationality_189: "Суданская"
-
-  var_nationality_group_0: "Нет культурной группы"
-  var_nationality_group_1: "Французская"
-  var_nationality_group_2: "Кельтская"
-  var_nationality_group_3: "Германская"
-
-  var_nationality_dissent_level_0: "§GСдержанная§!"
-  var_nationality_dissent_level_1: "§CРазрушительная§!"
-  var_nationality_dissent_level_2: "Беспокойная"
-  var_nationality_dissent_level_3: "§YАгитированная§!"
-  var_nationality_dissent_level_4: "§RВраждебная§!"
-
-
-
-
-
-
-
-  nationality.1.t: "Сложение германских культур"
-  nationality.1.d: "Становление германских культур"
-  nationality.1.a: "Endlich, etwas Kultur !"
-
-  nationality.2.t: "Становление скандинавских культур"
-  nationality.2.d: "Становление скандинавских культур"
-  nationality.2.a: "Slutligen, en del kultur !"
-
-  nationality.3.t: "Сложение британских культур"
-  nationality.3.d: "Сложение британских культур"
-  nationality.3.a: "Наконец-то, немного культуры!"
-
-  nationality.4.t: "Набор итальянских культур"
-  nationality.4.d: "Становление итальянских культур"
-  nationality.4.a: "Finalmente, una cultura !"
-
-  nationality.5.t: "Становление иберийских культур"
-  nationality.5.d: "Становление иберийских культур"
-  nationality.5.a: "Finalmente, algo de cultura !"
-
-  nationality.6.t: "Становление французских культур"
-  nationality.6.d: "Становление французской культуры"
-  nationality.6.a: "Enfin, de la culture!"
-
-  nationality.7.t: "Становление южнославянских культур"
-  nationality.7.d: "Становление южнославянских культур"
-  nationality.7.a: "Konačno, neka kultura !"
-
-  nationality.8.t: "Становление общеалбанских культур"
-  nationality.8.d: "Становление общеалбанских культур"
-  nationality.8.a: "Së fundi, një kulturë!"
-
-  nationality.9.t: "Становление общерумынских культур"
-  nationality.9.d: "Становление панрумынских культур"
-  nationality.9.a: "În cele din urmă, o cultură!"
-
-  nationality.10.t: "Становление венгерских культур"
-  nationality.10.d: "Становление венгерских культур"
-  nationality.10.a: "Végül, valamilyen kultúra!"
-
-  nationality.11.t: "Сложение польских культур"
-  nationality.11.d: "Становление польских культур"
-  nationality.11.a: "Wreszcie, trochę kultury!"
-
-  nationality.12.t: "Становление чехо-словацкой культуры"
-  nationality.12.d: "Становление чехо-словацких культур"
-  nationality.12.a: "Konečně, nějaká kultura!"
-
-  nationality.13.t: "Становление восточнославянских культур"
-  nationality.13.d: "Становление восточнославянских культур"
-  nationality.13.a: "Наконец-то, немного кул'тури!"
-
-  nationality.14.t: "Становление балтийских культур"
-  nationality.14.d: "Сложение балтийских культур"
-  nationality.14.a: "Galiausiai, tam tikra kultūra!"
-
-  nationality.15.t: "Становление эллинских культур"
-  nationality.15.d: "Становление эллинских культур"
-  nationality.15.a: "Télos, kápoia koultoúra!"
-
-  nationality.16.t: "Становление турко-семитских культур"
-  nationality.16.d: "Становление турко-семитских культур"
-  nationality.16.a: "Sonunda, bazı kültür !"
-
-  nationality.17.t: "Становление кавказских культур"
-  nationality.17.d: "Сложение кавказских культур"
-  nationality.17.a: "Da bolos, zogierti k'ult'ura!"
-
-  nationality.18.t: "Становление арабских культур"
-  nationality.18.d: "Сложение арабских культур"
-  nationality.18.a: "'Akhiraan , bed althaqafa" !"
-
-  nationality.19.t: "Становление бенилюкских культур"
-  nationality.19.d: "Сложение культур Бенилюкса"
-  nationality.19.a: "Eindelijk, wat cultuur !"
-
-  nationality.41.t: ""
-  nationality.41.d: "§Y[From.From.GetName]§! ассимилируется в нашу культуру !"
-  nationality.41.a: ""
-
-
-
-
- census_decision_category: "Перепись по регионам"
- census_decision_category_desc: "Мы можем провести перепись населения по штатам, чтобы увидеть, какая национальность преобладает, а какая нет. В настоящее время в нашей стране преобладает национальность §Y[Root.GetNationality] из [Root.GetNationalityGroup] культурной группы.§!".
- census_started: "Программа переписи населения началась"
- culture_census_start: "Начать национальную перепись"
- culture_census_end: "Завершить национальную перепись населения"
- culture_census_1: "Перепись населения в [1.GetName]"
- culture_census_2: "Перепись населения в [2.GetName]"
- culture_census_3: "Перепись населения в [3.GetName]"
- culture_census_4: "Перепись населения в [4.GetName]"
- culture_census_5: "Перепись населения в [5.GetName]"
- culture_census_6: "Перепись населения в [6.GetName]"
- culture_census_7: "Перепись населения в [7.GetName]"
- culture_census_8: "Перепись населения в [8.GetName]"
- culture_census_9: "Перепись населения в [9.GetName]"
- culture_census_10: "Перепись населения в [10.GetName]"
- culture_census_11: "Перепись населения в [11.GetName]"
- culture_census_12: "Перепись населения в [12.GetName]"
- culture_census_13: "Перепись населения в [13.GetName]"
- culture_census_14: "Перепись населения в [14.GetName]"
- culture_census_15: "Перепись населения в [15.GetName]"
- culture_census_16: "Перепись населения в [16.GetName]"
- culture_census_17: "Перепись населения в [17.GetName]"
- culture_census_18: "Перепись населения в [18.GetName]"
- culture_census_19: "Перепись населения в [19.GetName]"
- culture_census_20: "Перепись населения в [20.GetName]"
- culture_census_21: "Перепись населения в [21.GetName]"
- culture_census_22: "Перепись населения в [22.GetName]"
- culture_census_23: "Перепись населения в [23.GetName]"
- culture_census_24: "Перепись населения в [24.GetName]"
- culture_census_25: "Перепись населения в [25.GetName]"
- culture_census_26: "Перепись населения в [26.GetName]"
- culture_census_27: "Перепись населения в [27.GetName]"
- culture_census_28: "Перепись населения в [28.GetName]"
- culture_census_29: "Перепись населения в [29.GetName]"
- culture_census_30: "Перепись населения в [30.GetName]"
- culture_census_31: "Перепись населения в [31.GetName]"
- culture_census_32: "Перепись населения в [32.GetName]"
- culture_census_33: "Перепись населения в [33.GetName]"
- culture_census_34: "Перепись населения в [34.GetName]"
- culture_census_35: "Перепись населения в [35.GetName]"
- culture_census_36: "Перепись населения в [36.GetName]"
- culture_census_37: "Перепись населения в [37.GetName]"
- culture_census_38: "Перепись населения в [38.GetName]"
- culture_census_39: "Перепись населения в [39.GetName]"
- culture_census_40: "Перепись населения в [40.GetName]"
- culture_census_41: "Перепись населения в [41.GetName]"
- culture_census_42: "Перепись населения в [42.GetName]"
- culture_census_43: "Перепись населения в [43.GetName]"
- culture_census_44: "Перепись населения в [44.GetName]"
- culture_census_45: "Перепись населения в [45.GetName]"
- culture_census_46: "Перепись населения в [46.GetName]"
- culture_census_47: "Перепись населения в [47.GetName]"
- culture_census_48: "Перепись населения в [48.GetName]"
- culture_census_49: "Перепись населения в [49.GetName]"
- culture_census_50: "Перепись населения в [50.GetName]"
- culture_census_51: "Перепись населения в [51.GetName]"
- culture_census_52: "Перепись населения в [52.GetName]"
- culture_census_53: "Перепись населения в [53.GetName]"
- culture_census_54: "Перепись населения в [54.GetName]"
- culture_census_55: "Перепись населения в [55.GetName]"
- culture_census_56: "Перепись населения в [56.GetName]"
- culture_census_57: "Перепись населения в [57.GetName]"
- culture_census_58: "Перепись населения в [58.GetName]"
- culture_census_59: "Перепись населения в [59.GetName]"
- culture_census_60: "Перепись населения в [60.GetName]"
- culture_census_61: "Перепись населения в [61.GetName]"
- culture_census_62: "Перепись населения в [62.GetName]"
- culture_census_63: "Перепись населения в [63.GetName]"
- culture_census_64: "Перепись населения в [64.GetName]"
- culture_census_65: "Перепись населения в [65.GetName]"
- culture_census_66: "Перепись населения в [66.GetName]"
- culture_census_67: "Перепись населения в [67.GetName]"
- culture_census_68: "Перепись населения в [68.GetName]"
- culture_census_69: "Перепись населения в [69.GetName]"
- culture_census_70: "Перепись населения в [70.GetName]"
- culture_census_71: "Перепись населения в [71.GetName]"
- culture_census_72: "Перепись населения в [72.GetName]"
- culture_census_73: "Перепись населения в [73.GetName]"
- culture_census_74: "Перепись населения в [74.GetName]"
- culture_census_75: "Перепись населения в [75.GetName]"
- culture_census_76: "Перепись населения в [76.GetName]"
- culture_census_77: "Перепись населения в [77.GetName]"
- culture_census_78: "Перепись населения в [78.GetName]"
- culture_census_79: "Перепись населения в [79.GetName]"
- culture_census_80: "Перепись населения в [80.GetName]"
- culture_census_81: "Перепись населения в [81.GetName]"
- culture_census_82: "Перепись населения в [82.GetName]"
- culture_census_83: "Перепись населения в [83.GetName]"
- culture_census_84: "Перепись населения в [84.GetName]"
- culture_census_85: "Перепись населения в [85.GetName]"
- culture_census_86: "Перепись населения в [86.GetName]"
- culture_census_87: "Перепись населения в [87.GetName]"
- culture_census_88: "Перепись населения в [88.GetName]"
- culture_census_89: "Перепись населения в [89.GetName]"
- culture_census_90: "Перепись населения в [90.GetName]"
- culture_census_91: "Перепись населения в [91.GetName]"
- culture_census_92: "Перепись населения в [92.GetName]"
- culture_census_93: "Перепись населения в [93.GetName]"
- culture_census_94: "Перепись населения в [94.GetName]"
- culture_census_95: "Перепись населения в [95.GetName]"
- culture_census_96: "Перепись населения в [96.GetName]"
- culture_census_97: "Перепись населения в [97.GetName]"
- culture_census_98: "Перепись населения в [98.GetName]"
- culture_census_99: "Перепись населения в [99.GetName]"
- culture_census_100: "Перепись населения в [100.GetName]"
- culture_census_101: "Перепись населения в [101.GetName]"
- culture_census_102: "Перепись населения в [102.GetName]"
- culture_census_103: "Перепись населения в [103.GetName]"
- culture_census_104: "Перепись населения в [104.GetName]"
- culture_census_105: "Перепись населения в [105.GetName]"
- culture_census_106: "Перепись населения в [106.GetName]"
- culture_census_107: "Перепись населения в [107.GetName]"
- culture_census_108: "Перепись населения в [108.GetName]"
- culture_census_109: "Перепись населения в [109.GetName]"
- culture_census_110: "Перепись населения в [110.GetName]"
- culture_census_111: "Перепись населения в [111.GetName]"
- culture_census_112: "Перепись населения в [112.GetName]"
- culture_census_113: "Перепись населения в [113.GetName]"
- culture_census_114: "Перепись населения в [114.GetName]"
- culture_census_115: "Перепись населения в [115.GetName]"
- culture_census_116: "Перепись населения в [116.GetName]"
- culture_census_117: "Перепись населения в [117.GetName]"
- culture_census_118: "Перепись населения в [118.GetName]"
- culture_census_119: "Перепись населения в [119.GetName]"
- culture_census_120: "Перепись населения в [120.GetName]"
- culture_census_121: "Перепись населения в [121.GetName]"
- culture_census_122: "Перепись населения в [122.GetName]"
- culture_census_123: "Перепись населения в [123.GetName]"
- culture_census_124: "Перепись населения в [124.GetName]"
- culture_census_125: "Перепись населения в [125.GetName]"
- culture_census_126: "Перепись населения в [126.GetName]"
- culture_census_127: "Перепись населения в [127.GetName]"
- culture_census_128: "Перепись населения в [128.GetName]"
- culture_census_129: "Перепись населения в [129.GetName]"
- culture_census_130: "Перепись населения в [130.GetName]"
- culture_census_131: "Перепись населения в [131.GetName]"
- culture_census_132: "Перепись населения в [132.GetName]"
- culture_census_133: "Перепись населения в [133.GetName]"
- culture_census_134: "Перепись населения в [134.GetName]"
- culture_census_135: "Перепись населения в [135.GetName]"
- culture_census_136: "Перепись населения в [136.GetName]"
- culture_census_137: "Перепись населения в [137.GetName]"
- culture_census_138: "Перепись населения в [138.GetName]"
- culture_census_139: "Перепись населения в [139.GetName]"
- culture_census_140: "Перепись населения в [140.GetName]"
- culture_census_141: "Перепись населения в [141.GetName]"
- culture_census_142: "Перепись населения в [142.GetName]"
- culture_census_143: "Перепись населения в [143.GetName]"
- culture_census_144: "Перепись населения в [144.GetName]"
- culture_census_145: "Перепись населения в [145.GetName]"
- culture_census_146: "Перепись населения в [146.GetName]"
- culture_census_147: "Перепись населения в [147.GetName]"
- culture_census_148: "Перепись населения в [148.GetName]"
- culture_census_149: "Перепись населения в [149.GetName]"
- culture_census_150: "Перепись населения в [150.GetName]"
- culture_census_151: "Перепись населения в [151.GetName]"
- culture_census_152: "Перепись населения в [152.GetName]"
- culture_census_153: "Перепись населения в [153.GetName]"
- culture_census_154: "Перепись населения в [154.GetName]"
- culture_census_155: "Перепись населения в [155.GetName]"
- culture_census_156: "Перепись населения в [156.GetName]"
- culture_census_157: "Перепись населения в [157.GetName]"
- culture_census_158: "Перепись населения в [158.GetName]"
- culture_census_159: "Перепись населения в [159.GetName]"
- culture_census_160: "Перепись населения в [160.GetName]"
- culture_census_161: "Перепись населения в [161.GetName]"
- culture_census_162: "Перепись населения в [162.GetName]"
- culture_census_163: "Перепись населения в [163.GetName]"
- culture_census_164: "Перепись населения в [164.GetName]"
- culture_census_165: "Перепись населения в [165.GetName]"
- culture_census_166: "Перепись населения в [166.GetName]"
- culture_census_167: "Перепись населения в [167.GetName]"
- culture_census_168: "Перепись населения в [168.GetName]"
- culture_census_169: "Перепись населения в [169.GetName]"
- culture_census_170: "Перепись населения в [170.GetName]"
- culture_census_171: "Перепись населения в [171.GetName]"
- culture_census_172: "Перепись населения в [172.GetName]"
- culture_census_173: "Перепись населения в [173.GetName]"
- culture_census_174: "Перепись населения в [174.GetName]"
- culture_census_175: "Перепись населения в [175.GetName]"
- culture_census_176: "Перепись населения в [176.GetName]"
- culture_census_177: "Перепись населения в [177.GetName]"
- culture_census_178: "Перепись населения в [178.GetName]"
- culture_census_179: "Перепись населения в [179.GetName]"
- culture_census_180: "Перепись населения в [180.GetName]"
- culture_census_181: "Перепись населения в [181.GetName]"
- culture_census_182: "Перепись населения в [182.GetName]"
- culture_census_183: "Перепись населения в [183.GetName]"
- culture_census_184: "Перепись населения в [184.GetName]"
- culture_census_185: "Перепись населения в [185.GetName]"
- culture_census_186: "Перепись населения в [186.GetName]"
- culture_census_187: "Перепись населения в [187.GetName]"
- culture_census_188: "Перепись населения в [188.GetName]"
- culture_census_189: "Перепись населения в [189.GetName]"
- culture_census_190: "Перепись населения в [190.GetName]"
- culture_census_191: "Перепись населения в [191.GetName]"
- culture_census_192: "Перепись населения в [192.GetName]"
- culture_census_193: "Перепись населения в [193.GetName]"
- culture_census_194: "Перепись населения в [194.GetName]"
- culture_census_195: "Перепись населения в [195.GetName]"
- culture_census_196: "Перепись населения в [196.GetName]"
- culture_census_197: "Перепись населения в [197.GetName]"
- culture_census_198: "Перепись населения в [198.GetName]"
- culture_census_199: "Перепись населения в [199.GetName]"
- culture_census_200: "Перепись населения в [200.GetName]"
- culture_census_201: "Перепись населения в [201.GetName]"
- culture_census_202: "Перепись населения в [202.GetName]"
- culture_census_203: "Перепись населения в [203.GetName]"
- culture_census_204: "Перепись населения в [204.GetName]"
- culture_census_205: "Перепись населения в [205.GetName]"
- culture_census_206: "Перепись населения в [206.GetName]"
- culture_census_207: "Перепись населения в [207.GetName]"
- culture_census_208: "Перепись населения в [208.GetName]"
- culture_census_209: "Перепись населения в [209.GetName]"
- culture_census_210: "Перепись населения в [210.GetName]"
- culture_census_211: "Перепись населения в [211.GetName]"
- culture_census_212: "Перепись населения в [212.GetName]"
- culture_census_213: "Перепись населения в [213.GetName]"
- culture_census_214: "Перепись населения в [214.GetName]"
- culture_census_215: "Перепись населения в [215.GetName]"
- culture_census_216: "Перепись населения в [216.GetName]"
- culture_census_217: "Перепись населения в [217.GetName]"
- culture_census_218: "Перепись населения в [218.GetName]"
- culture_census_219: "Перепись населения в [219.GetName]"
- culture_census_220: "Перепись населения в [220.GetName]"
- culture_census_221: "Перепись населения в [221.GetName]"
- culture_census_222: "Перепись населения в [222.GetName]"
- culture_census_223: "Перепись населения в [223.GetName]"
- culture_census_224: "Перепись населения в [224.GetName]"
- culture_census_225: "Перепись населения в [225.GetName]"
- culture_census_226: "Перепись населения в [226.GetName]"
- culture_census_227: "Перепись населения в [227.GetName]"
- culture_census_228: "Перепись населения в [228.GetName]"
- culture_census_229: "Перепись населения в [229.GetName]"
- culture_census_230: "Перепись населения в [230.GetName]"
- culture_census_231: "Перепись населения в [231.GetName]"
- culture_census_232: "Перепись населения в [232.GetName]"
- culture_census_233: "Перепись населения в [233.GetName]"
- culture_census_234: "Перепись населения в [234.GetName]"
- culture_census_235: "Перепись населения в [235.GetName]"
- culture_census_236: "Перепись населения в [236.GetName]"
- culture_census_237: "Перепись населения в [237.GetName]"
- culture_census_238: "Перепись населения в [238.GetName]"
- culture_census_239: "Перепись населения в [239.GetName]"
- culture_census_240: "Перепись населения в [240.GetName]"
- culture_census_241: "Перепись населения в [241.GetName]"
- culture_census_242: "Перепись населения в [242.GetName]"
- culture_census_243: "Перепись населения в [243.GetName]"
- culture_census_244: "Перепись населения в [244.GetName]"
- culture_census_245: "Перепись населения в [245.GetName]"
- culture_census_246: "Перепись населения в [246.GetName]"
- culture_census_247: "Перепись населения в [247.GetName]"
- culture_census_248: "Перепись населения в [248.GetName]"
- culture_census_249: "Перепись населения в [249.GetName]"
- culture_census_250: "Перепись населения в [250.GetName]"
- culture_census_251: "Перепись населения в [251.GetName]"
- culture_census_252: "Перепись населения в [252.GetName]"
- culture_census_253: "Перепись населения в [253.GetName]"
- culture_census_254: "Перепись населения в [254.GetName]"
- culture_census_255: "Перепись населения в [255.GetName]"
- culture_census_256: "Перепись населения в [256.GetName]"
- culture_census_257: "Перепись населения в [257.GetName]"
- culture_census_258: "Перепись населения в [258.GetName]"
- culture_census_259: "Перепись населения в [259.GetName]"
- culture_census_260: "Перепись населения в [260.GetName]"
- culture_census_261: "Перепись населения в [261.GetName]"
- culture_census_262: "Перепись населения в [262.GetName]"
- culture_census_263: "Перепись населения в [263.GetName]"
- culture_census_264: "Перепись населения в [264.GetName]"
- culture_census_265: "Перепись населения в [265.GetName]"
- culture_census_266: "Перепись населения в [266.GetName]"
- culture_census_267: "Перепись населения в [267.GetName]"
- culture_census_268: "Перепись населения в [268.GetName]"
- culture_census_269: "Перепись населения в [269.GetName]"
- culture_census_270: "Перепись населения в [270.GetName]"
- culture_census_271: "Перепись населения в [271.GetName]"
- culture_census_272: "Перепись населения в [272.GetName]"
- culture_census_273: "Перепись населения в [273.GetName]"
- culture_census_274: "Перепись населения в [274.GetName]"
- culture_census_275: "Перепись населения в [275.GetName]"
- culture_census_276: "Перепись населения в [276.GetName]"
- culture_census_277: "Перепись населения в [277.GetName]"
- culture_census_278: "Перепись населения в [278.GetName]"
- culture_census_279: "Перепись населения в [279.GetName]"
- culture_census_280: "Перепись населения в [280.GetName]"
- culture_census_281: "Перепись населения в [281.GetName]"
- culture_census_282: "Перепись населения в [282.GetName]"
- culture_census_283: "Перепись населения в [283.GetName]"
- culture_census_284: "Перепись населения в [284.GetName]"
- culture_census_285: "Перепись населения в [285.GetName]"
- culture_census_286: "Перепись населения в [286.GetName]"
- culture_census_287: "Перепись населения в [287.GetName]"
- culture_census_288: "Перепись населения в [288.GetName]"
- culture_census_289: "Перепись населения в [289.GetName]"
- culture_census_290: "Перепись населения в [290.GetName]"
- culture_census_291: "Перепись населения в [291.GetName]"
- culture_census_292: "Перепись населения в [292.GetName]"
- culture_census_293: "Перепись населения в [293.GetName]"
- culture_census_294: "Перепись населения в [294.GetName]"
- culture_census_295: "Перепись населения в [295.GetName]"
- culture_census_296: "Перепись населения в [296.GetName]"
- culture_census_297: "Перепись населения в [297.GetName]"
- culture_census_298: "Перепись населения в [298.GetName]"
- culture_census_299: "Перепись населения в [299.GetName]"
- culture_census_300: "Перепись населения в [300.GetName]"
- culture_census_301: "Перепись населения в [301.GetName]"
- culture_census_302: "Перепись населения в [302.GetName]"
- culture_census_303: "Перепись населения в [303.GetName]"
- culture_census_304: "Перепись населения в [304.GetName]"
- culture_census_305: "Перепись населения в [305.GetName]"
- culture_census_306: "Перепись населения в [306.GetName]"
- culture_census_307: "Перепись населения в [307.GetName]"
- culture_census_308: "Перепись населения в [308.GetName]"
- culture_census_309: "Перепись населения в [309.GetName]"
- culture_census_310: "Перепись населения в [310.GetName]"
- culture_census_311: "Перепись населения в [311.GetName]"
- culture_census_312: "Перепись населения в [312.GetName]"
- culture_census_313: "Перепись населения в [313.GetName]"
- culture_census_314: "Перепись населения в [314.GetName]"
- culture_census_315: "Перепись населения в [315.GetName]"
- culture_census_316: "Перепись населения в [316.GetName]"
- culture_census_317: "Перепись населения в [317.GetName]"
- culture_census_318: "Перепись населения в [318.GetName]"
- culture_census_319: "Перепись населения в [319.GetName]"
- culture_census_320: "Перепись населения в [320.GetName]"
- culture_census_321: "Перепись населения в [321.GetName]"
- culture_census_322: "Перепись населения в [322.GetName]"
- culture_census_323: "Перепись населения в [323.GetName]"
- culture_census_324: "Перепись населения в [324.GetName]"
- culture_census_325: "Перепись населения в [325.GetName]"
- culture_census_326: "Перепись населения в [326.GetName]"
- culture_census_327: "Перепись населения в [327.GetName]"
- culture_census_328: "Перепись населения в [328.GetName]"
- culture_census_329: "Перепись населения в [329.GetName]"
- culture_census_330: "Перепись населения в [330.GetName]"
- culture_census_331: "Перепись населения в [331.GetName]"
- culture_census_332: "Перепись населения в [332.GetName]"
- culture_census_333: "Перепись населения в [333.GetName]"
- culture_census_334: "Перепись населения в [334.GetName]"
- culture_census_335: "Перепись населения в [335.GetName]"
- culture_census_336: "Перепись населения в [336.GetName]"
- culture_census_337: "Перепись населения в [337.GetName]"
- culture_census_338: "Перепись населения в [338.GetName]"
- culture_census_339: "Перепись населения в [339.GetName]"
- culture_census_340: "Перепись населения в [340.GetName]"
- culture_census_341: "Перепись населения в [341.GetName]"
- culture_census_342: "Перепись населения в [342.GetName]"
- culture_census_343: "Перепись населения в [343.GetName]"
- culture_census_344: "Перепись населения в [344.GetName]"
- culture_census_345: "Перепись населения в [345.GetName]"
- culture_census_346: "Перепись населения в [346.GetName]"
- culture_census_347: "Перепись населения в [347.GetName]"
- culture_census_348: "Перепись населения в [348.GetName]"
- culture_census_349: "Перепись населения в [349.GetName]"
- culture_census_350: "Перепись населения в [350.GetName]"
- culture_census_351: "Перепись населения в [351.GetName]"
- culture_census_352: "Перепись населения в [352.GetName]"
- culture_census_353: "Перепись населения в [353.GetName]"
- culture_census_354: "Перепись населения в [354.GetName]"
- culture_census_355: "Перепись населения в [355.GetName]"
- culture_census_356: "Перепись населения в [356.GetName]"
- culture_census_357: "Перепись населения в [357.GetName]"
- culture_census_358: "Перепись населения в [358.GetName]"
- culture_census_359: "Перепись населения в [359.GetName]"
- culture_census_360: "Перепись населения в [360.GetName]"
- culture_census_361: "Перепись населения в [361.GetName]"
- culture_census_362: "Перепись населения в [362.GetName]"
- culture_census_363: "Перепись населения в [363.GetName]"
- culture_census_364: "Перепись населения в [364.GetName]"
- culture_census_365: "Перепись населения в [365.GetName]"
- culture_census_366: "Перепись населения в [366.GetName]"
- culture_census_367: "Перепись населения в [367.GetName]"
- culture_census_368: "Перепись населения в [368.GetName]"
- culture_census_369: "Перепись населения в [369.GetName]"
- culture_census_370: "Перепись населения в [370.GetName]"
- culture_census_371: "Перепись населения в [371.GetName]"
- culture_census_372: "Перепись населения в [372.GetName]"
- culture_census_373: "Перепись населения в [373.GetName]"
- culture_census_374: "Перепись населения в [374.GetName]"
- culture_census_375: "Перепись населения в [375.GetName]"
- culture_census_376: "Перепись населения в [376.GetName]"
- culture_census_377: "Перепись населения в [377.GetName]"
- culture_census_378: "Перепись населения в [378.GetName]"
- culture_census_379: "Перепись населения в [379.GetName]"
- culture_census_380: "Перепись населения в [380.GetName]"
- culture_census_381: "Перепись населения в [381.GetName]"
- culture_census_382: "Перепись населения в [382.GetName]"
- culture_census_383: "Перепись населения в [383.GetName]"
- culture_census_384: "Перепись населения в [384.GetName]"
- culture_census_385: "Перепись населения в [385.GetName]"
- culture_census_386: "Перепись населения в [386.GetName]"
- culture_census_387: "Перепись населения в [387.GetName]"
- culture_census_388: "Перепись населения в [388.GetName]"
- culture_census_389: "Перепись населения в [389.GetName]"
- culture_census_390: "Перепись населения в [390.GetName]"
- culture_census_391: "Перепись населения в [391.GetName]"
- culture_census_392: "Перепись населения в [392.GetName]"
- culture_census_393: "Перепись населения в [393.GetName]"
- culture_census_394: "Перепись населения в [394.GetName]"
- culture_census_395: "Перепись населения в [395.GetName]"
- culture_census_396: "Перепись населения в [396.GetName]"
- culture_census_397: "Перепись населения в [397.GetName]"
- culture_census_398: "Перепись населения в [398.GetName]"
- culture_census_399: "Перепись населения в [399.GetName]"
- culture_census_400: "Перепись населения в [400.GetName]"
- culture_census_401: "Перепись населения в [401.GetName]"
- culture_census_402: "Перепись населения в [402.GetName]"
- culture_census_403: "Перепись населения в [403.GetName]"
- culture_census_404: "Перепись населения в [404.GetName]"
- culture_census_405: "Перепись населения в [405.GetName]"
- culture_census_406: "Перепись населения в [406.GetName]"
- culture_census_407: "Перепись населения в [407.GetName]"
- culture_census_408: "Перепись населения в [408.GetName]"
- culture_census_409: "Перепись населения в [409.GetName]"
- culture_census_410: "Перепись населения в [410.GetName]"
- culture_census_411: "Перепись населения в [411.GetName]"
- culture_census_412: "Перепись населения в [412.GetName]"
- culture_census_413: "Перепись населения в [413.GetName]"
- culture_census_414: "Перепись населения в [414.GetName]"
- culture_census_415: "Перепись населения в [415.GetName]"
- culture_census_416: "Перепись населения в [416.GetName]"
- culture_census_417: "Перепись населения в [417.GetName]"
- culture_census_418: "Перепись населения в [418.GetName]"
- culture_census_419: "Перепись населения в [419.GetName]"
- culture_census_420: "Перепись населения в [420.GetName]"
- culture_census_421: "Перепись населения в [421.GetName]"
- culture_census_422: "Перепись населения в [422.GetName]"
- culture_census_423: "Перепись населения в [423.GetName]"
- culture_census_424: "Перепись населения в [424.GetName]"
- culture_census_425: "Перепись населения в [425.GetName]"
- culture_census_426: "Перепись населения в [426.GetName]"
- culture_census_427: "Перепись населения в [427.GetName]"
- culture_census_428: "Перепись населения в [428.GetName]"
- culture_census_429: "Перепись населения в [429.GetName]"
- culture_census_430: "Перепись населения в [430.GetName]"
- culture_census_431: "Перепись населения в [431.GetName]"
- culture_census_432: "Перепись населения в [432.GetName]"
- culture_census_433: "Перепись населения в [433.GetName]"
- culture_census_434: "Перепись населения в [434.GetName]"
- culture_census_435: "Перепись населения в [435.GetName]"
- culture_census_436: "Перепись населения в [436.GetName]"
- culture_census_437: "Перепись населения в [437.GetName]"
- culture_census_438: "Перепись населения в [438.GetName]"
- culture_census_439: "Перепись населения в [439.GetName]"
- culture_census_440: "Перепись населения в [440.GetName]"
- culture_census_441: "Перепись населения в [441.GetName]"
- culture_census_442: "Перепись населения в [442.GetName]"
- culture_census_443: "Перепись населения в [443.GetName]"
- culture_census_444: "Перепись населения в [444.GetName]"
- culture_census_445: "Перепись населения в [445.GetName]"
- culture_census_446: "Перепись населения в [446.GetName]"
- culture_census_447: "Перепись населения в [447.GetName]"
- culture_census_448: "Перепись населения в [448.GetName]"
- culture_census_449: "Перепись населения в [449.GetName]"
- culture_census_450: "Перепись населения в [450.GetName]"
- culture_census_451: "Перепись населения в [451.GetName]"
- culture_census_452: "Перепись населения в [452.GetName]"
- culture_census_453: "Перепись населения в [453.GetName]"
- culture_census_454: "Перепись населения в [454.GetName]"
- culture_census_455: "Перепись населения в [455.GetName]"
- culture_census_456: "Перепись населения в [456.GetName]"
- culture_census_457: "Перепись населения в [457.GetName]"
- culture_census_458: "Перепись населения в [458.GetName]"
- culture_census_459: "Перепись населения в [459.GetName]"
- culture_census_460: "Перепись населения в [460.GetName]"
- culture_census_461: "Перепись населения в [461.GetName]"
- culture_census_462: "Перепись населения в [462.GetName]"
- culture_census_463: "Перепись населения в [463.GetName]"
- culture_census_464: "Перепись населения в [464.GetName]"
- culture_census_465: "Перепись населения в [465.GetName]"
- culture_census_466: "Перепись населения в [466.GetName]"
- culture_census_467: "Перепись населения в [467.GetName]"
- culture_census_468: "Перепись населения в [468.GetName]"
- culture_census_469: "Перепись населения в [469.GetName]"
- culture_census_470: "Перепись населения в [470.GetName]"
- culture_census_471: "Перепись населения в [471.GetName]"
- culture_census_472: "Перепись населения в [472.GetName]"
- culture_census_473: "Перепись населения в [473.GetName]"
- culture_census_474: "Перепись населения в [474.GetName]"
- culture_census_475: "Перепись населения в [475.GetName]"
- culture_census_476: "Перепись населения в [476.GetName]"
- culture_census_477: "Перепись населения в [477.GetName]"
- culture_census_478: "Перепись населения в [478.GetName]"
- culture_census_479: "Перепись населения в [479.GetName]"
- culture_census_480: "Перепись населения в [480.GetName]"
- culture_census_481: "Перепись населения в [481.GetName]"
- culture_census_482: "Перепись населения в [482.GetName]"
- culture_census_483: "Перепись населения в [483.GetName]"
- culture_census_484: "Перепись населения в [484.GetName]"
- culture_census_485: "Перепись населения в [485.GetName]"
- culture_census_486: "Перепись населения в [486.GetName]"
- culture_census_487: "Перепись населения в [487.GetName]"
- culture_census_488: "Перепись населения в [488.GetName]"
- culture_census_489: "Перепись населения в [489.GetName]"
- culture_census_490: "Перепись населения в [490.GetName]"
- culture_census_491: "Перепись населения в [491.GetName]"
- culture_census_492: "Перепись населения в [492.GetName]"
- culture_census_493: "Перепись населения в [493.GetName]"
- culture_census_494: "Перепись населения в [494.GetName]"
- culture_census_495: "Перепись населения в [495.GetName]"
- culture_census_496: "Перепись населения в [496.GetName]"
- culture_census_497: "Перепись населения в [497.GetName]"
- culture_census_498: "Перепись населения в [498.GetName]"
- culture_census_499: "Перепись населения в [499.GetName]"
- culture_census_500: "Перепись населения в [500.GetName]"
- culture_census_501: "Перепись населения в [501.GetName]"
- culture_census_502: "Перепись населения в [502.GetName]"
- culture_census_503: "Перепись населения в [503.GetName]"
- culture_census_504: "Перепись населения в [504.GetName]"
- culture_census_505: "Перепись населения в [505.GetName]"
- culture_census_506: "Перепись населения в [506.GetName]"
- culture_census_507: "Перепись населения в [507.GetName]"
- culture_census_508: "Перепись населения в [508.GetName]"
- culture_census_509: "Перепись населения в [509.GetName]"
- culture_census_510: "Перепись населения в [510.GetName]"
- culture_census_511: "Перепись населения в [511.GetName]"
- culture_census_512: "Перепись населения в [512.GetName]"
- culture_census_513: "Перепись населения в [513.GetName]"
- culture_census_514: "Перепись населения в [514.GetName]"
- culture_census_515: "Перепись населения в [515.GetName]"
- culture_census_516: "Перепись населения в [516.GetName]"
- culture_census_517: "Перепись населения в [517.GetName]"
- culture_census_518: "Перепись населения в [518.GetName]"
- culture_census_519: "Перепись населения в [519.GetName]"
- culture_census_520: "Перепись населения в [520.GetName]"
- culture_census_521: "Перепись населения в [521.GetName]"
- culture_census_522: "Перепись населения в [522.GetName]"
- culture_census_523: "Перепись населения в [523.GetName]"
- culture_census_524: "Перепись населения в [524.GetName]"
- culture_census_525: "Перепись населения в [525.GetName]"
- culture_census_526: "Перепись населения в [526.GetName]"
- culture_census_527: "Перепись населения в [527.GetName]"
- culture_census_528: "Перепись населения в [528.GetName]"
- culture_census_529: "Перепись населения в [529.GetName]"
- culture_census_530: "Перепись населения в [530.GetName]"
- culture_census_531: "Перепись населения в [531.GetName]"
- culture_census_532: "Перепись населения в [532.GetName]"
- culture_census_533: "Перепись населения в [533.GetName]"
- culture_census_534: "Перепись населения в [534.GetName]"
- culture_census_535: "Перепись населения в [535.GetName]"
- culture_census_536: "Перепись населения в [536.GetName]"
- culture_census_537: "Перепись населения в [537.GetName]"
- culture_census_538: "Перепись населения в [538.GetName]"
- culture_census_539: "Перепись населения в [539.GetName]"
- culture_census_540: "Перепись населения в [540.GetName]"
- culture_census_541: "Перепись населения в [541.GetName]"
- culture_census_542: "Перепись населения в [542.GetName]"
- culture_census_543: "Перепись населения в [543.GetName]"
- culture_census_544: "Перепись населения в [544.GetName]"
- culture_census_545: "Перепись населения в [545.GetName]"
- culture_census_546: "Перепись населения в [546.GetName]"
- culture_census_547: "Перепись населения в [547.GetName]"
- culture_census_548: "Перепись населения в [548.GetName]"
- culture_census_549: "Перепись населения в [549.GetName]"
- culture_census_550: "Перепись населения в [550.GetName]"
- culture_census_551: "Перепись населения в [551.GetName]"
- culture_census_552: "Перепись населения в [552.GetName]"
- culture_census_553: "Перепись населения в [553.GetName]"
- culture_census_554: "Перепись населения в [554.GetName]"
- culture_census_555: "Перепись населения в [555.GetName]"
- culture_census_556: "Перепись населения в [556.GetName]"
- culture_census_557: "Перепись населения в [557.GetName]"
- culture_census_558: "Перепись населения в [558.GetName]"
- culture_census_559: "Перепись населения в [559.GetName]"
- culture_census_560: "Перепись населения в [560.GetName]"
- culture_census_561: "Перепись населения в [561.GetName]"
- culture_census_562: "Перепись населения в [562.GetName]"
- culture_census_563: "Перепись населения в [563.GetName]"
- culture_census_564: "Перепись населения в [564.GetName]"
- culture_census_565: "Перепись населения в [565.GetName]"
- culture_census_566: "Перепись населения в [566.GetName]"
- culture_census_567: "Перепись населения в [567.GetName]"
- culture_census_568: "Перепись населения в [568.GetName]"
- culture_census_569: "Перепись населения в [569.GetName]"
- culture_census_570: "Перепись населения в [570.GetName]"
- culture_census_571: "Перепись населения в [571.GetName]"
- culture_census_572: "Перепись населения в [572.GetName]"
- culture_census_573: "Перепись населения в [573.GetName]"
- culture_census_574: "Перепись населения в [574.GetName]"
- culture_census_575: "Перепись населения в [575.GetName]"
- culture_census_576: "Перепись населения в [576.GetName]"
- culture_census_577: "Перепись населения в [577.GetName]"
- culture_census_578: "Перепись населения в [578.GetName]"
- culture_census_579: "Перепись населения в [579.GetName]"
- culture_census_580: "Перепись населения в [580.GetName]"
- culture_census_581: "Перепись населения в [581.GetName]"
- culture_census_582: "Перепись населения в [582.GetName]"
- culture_census_583: "Перепись населения в [583.GetName]"
- culture_census_584: "Перепись населения в [584.GetName]"
- culture_census_585: "Перепись населения в [585.GetName]"
- culture_census_586: "Перепись населения в [586.GetName]"
- culture_census_587: "Перепись населения в [587.GetName]"
- culture_census_588: "Перепись населения в [588.GetName]"
- culture_census_589: "Перепись населения в [589.GetName]"
- culture_census_590: "Перепись населения в [590.GetName]"
- culture_census_591: "Перепись населения в [591.GetName]"
- culture_census_592: "Перепись населения в [592.GetName]"
- culture_census_593: "Перепись населения в [593.GetName]"
- culture_census_594: "Перепись населения в [594.GetName]"
- culture_census_595: "Перепись населения в [595.GetName]"
- culture_census_596: "Перепись населения в [596.GetName]"
- culture_census_597: "Перепись населения в [597.GetName]"
- culture_census_598: "Перепись населения в [598.GetName]"
- culture_census_599: "Перепись населения в [599.GetName]"
- culture_census_600: "Перепись населения в [600.GetName]"
- culture_census_601: "Перепись населения в [601.GetName]"
- culture_census_602: "Перепись населения в [602.GetName]"
- culture_census_603: "Перепись населения в [603.GetName]"
- culture_census_604: "Перепись населения в [604.GetName]"
- culture_census_605: "Перепись населения в [605.GetName]"
- culture_census_606: "Перепись населения в [606.GetName]"
- culture_census_607: "Перепись населения в [607.GetName]"
- culture_census_608: "Перепись населения в [608.GetName]"
- culture_census_609: "Перепись населения в [609.GetName]"
- culture_census_610: "Перепись населения в [610.GetName]"
- culture_census_611: "Перепись населения в [611.GetName]"
- culture_census_612: "Перепись населения в [612.GetName]"
- culture_census_613: "Перепись населения в [613.GetName]"
- culture_census_614: "Перепись населения в [614.GetName]"
- culture_census_615: "Перепись населения в [615.GetName]"
- culture_census_616: "Перепись населения в [616.GetName]"
- culture_census_617: "Перепись населения в [617.GetName]"
- culture_census_618: "Перепись населения в [618.GetName]"
- culture_census_619: "Перепись населения в [619.GetName]"
- culture_census_620: "Перепись населения в [620.GetName]"
- culture_census_621: "Перепись населения в [621.GetName]"
- culture_census_622: "Перепись населения в [622.GetName]"
- culture_census_623: "Перепись населения в [623.GetName]"
- culture_census_624: "Перепись населения в [624.GetName]"
- culture_census_625: "Перепись населения в [625.GetName]"
- culture_census_626: "Перепись населения в [626.GetName]"
- culture_census_627: "Перепись населения в [627.GetName]"
- culture_census_628: "Перепись населения в [628.GetName]"
- culture_census_629: "Перепись населения в [629.GetName]"
- culture_census_630: "Перепись населения в [630.GetName]"
- culture_census_631: "Перепись населения в [631.GetName]"
- culture_census_632: "Перепись населения в [632.GetName]"
- culture_census_633: "Перепись населения в [633.GetName]"
- culture_census_634: "Перепись населения в [634.GetName]"
- culture_census_635: "Перепись населения в [635.GetName]"
- culture_census_636: "Перепись населения в [636.GetName]"
- culture_census_637: "Перепись населения в [637.GetName]"
- culture_census_638: "Перепись населения в [638.GetName]"
- culture_census_639: "Перепись населения в [639.GetName]"
- culture_census_640: "Перепись населения в [640.GetName]"
- culture_census_641: "Перепись населения в [641.GetName]"
- culture_census_642: "Перепись населения в [642.GetName]"
- culture_census_643: "Перепись населения в [643.GetName]"
- culture_census_644: "Перепись населения в [644.GetName]"
- culture_census_645: "Перепись населения в [645.GetName]"
- culture_census_646: "Перепись населения в [646.GetName]"
- culture_census_647: "Перепись населения в [647.GetName]"
- culture_census_648: "Перепись населения в [648.GetName]"
- culture_census_649: "Перепись населения в [649.GetName]"
- culture_census_650: "Перепись населения в [650.GetName]"
- culture_census_651: "Перепись населения в [651.GetName]"
- culture_census_652: "Перепись населения в [652.GetName]"
- culture_census_653: "Перепись населения в [653.GetName]"
- culture_census_654: "Перепись населения в [654.GetName]"
- culture_census_655: "Перепись населения в [655.GetName]"
- culture_census_656: "Перепись населения в [656.GetName]"
- culture_census_657: "Перепись населения в [657.GetName]"
- culture_census_658: "Перепись населения в [658.GetName]"
- culture_census_659: "Перепись населения в [659.GetName]"
- culture_census_660: "Перепись населения в [660.GetName]"
- culture_census_661: "Перепись населения в [661.GetName]"
- culture_census_662: "Перепись населения в [662.GetName]"
- culture_census_663: "Перепись населения в [663.GetName]"
- culture_census_664: "Перепись населения в [664.GetName]"
- culture_census_665: "Перепись населения в [665.GetName]"
- culture_census_666: "Перепись населения в [666.GetName]"
- culture_census_667: "Перепись населения в [667.GetName]"
- culture_census_668: "Перепись населения в [668.GetName]"
- culture_census_669: "Перепись населения в [669.GetName]"
- culture_census_670: "Перепись населения в [670.GetName]"
- culture_census_671: "Перепись населения в [671.GetName]"
- culture_census_672: "Перепись населения в [672.GetName]"
- culture_census_673: "Перепись населения в [673.GetName]"
- culture_census_674: "Перепись населения в [674.GetName]"
- culture_census_675: "Перепись населения в [675.GetName]"
- culture_census_676: "Перепись населения в [676.GetName]"
- culture_census_677: "Перепись населения в [677.GetName]"
- culture_census_678: "Перепись населения в [678.GetName]"
- culture_census_679: "Перепись населения в [679.GetName]"
- culture_census_680: "Перепись населения в [680.GetName]"
- culture_census_681: "Перепись населения в [681.GetName]"
- culture_census_682: "Перепись населения в [682.GetName]"
- culture_census_683: "Перепись населения в [683.GetName]"
- culture_census_684: "Перепись населения в [684.GetName]"
- culture_census_685: "Перепись населения в [685.GetName]"
- culture_census_686: "Перепись населения в [686.GetName]"
- culture_census_687: "Перепись населения в [687.GetName]"
- culture_census_688: "Перепись населения в [688.GetName]"
- culture_census_689: "Перепись населения в [689.GetName]"
- culture_census_690: "Перепись населения в [690.GetName]"
- culture_census_691: "Перепись населения в [691.GetName]"
- culture_census_692: "Перепись населения в [692.GetName]"
- culture_census_693: "Перепись населения в [693.GetName]"
- culture_census_694: "Перепись населения в [694.GetName]"
- culture_census_695: "Перепись населения в [695.GetName]"
- culture_census_696: "Перепись населения в [696.GetName]"
- culture_census_697: "Перепись населения в [697.GetName]"
- culture_census_698: "Перепись населения в [698.GetName]"
- culture_census_699: "Перепись населения в [699.GetName]"
- culture_census_700: "Перепись населения в [700.GetName]"
- culture_census_701: "Перепись населения в [701.GetName]"
- culture_census_702: "Перепись населения в [702.GetName]"
- culture_census_703: "Перепись населения в [703.GetName]"
- culture_census_704: "Перепись населения в [704.GetName]"
- culture_census_705: "Перепись населения в [705.GetName]"
- culture_census_706: "Перепись населения в [706.GetName]"
- culture_census_707: "Перепись населения в [707.GetName]"
- culture_census_708: "Перепись населения в [708.GetName]"
- culture_census_709: "Перепись населения в [709.GetName]"
- culture_census_710: "Перепись населения в [710.GetName]"
- culture_census_711: "Перепись населения в [711.GetName]"
- culture_census_712: "Перепись населения в [712.GetName]"
- culture_census_713: "Перепись населения в [713.GetName]"
- culture_census_714: "Перепись населения в [714.GetName]"
- culture_census_715: "Перепись населения в [715.GetName]"
- culture_census_716: "Перепись населения в [716.GetName]"
- culture_census_717: "Перепись населения в [717.GetName]"
- culture_census_718: "Перепись населения в [718.GetName]"
- culture_census_719: "Перепись населения в [719.GetName]"
- culture_census_720: "Перепись населения в [720.GetName]"
- culture_census_721: "Перепись населения в [721.GetName]"
- culture_census_722: "Перепись населения в [722.GetName]"
- culture_census_723: "Перепись населения в [723.GetName]"
- culture_census_724: "Перепись населения в [724.GetName]"
- culture_census_725: "Перепись населения в [725.GetName]"
- culture_census_726: "Перепись населения в [726.GetName]"
- culture_census_727: "Перепись населения в [727.GetName]"
- culture_census_728: "Перепись населения в [728.GetName]"
- culture_census_729: "Перепись населения в [729.GetName]"
- culture_census_730: "Перепись населения в [730.GetName]"
- culture_census_731: "Перепись населения в [731.GetName]"
- culture_census_732: "Перепись населения в [732.GetName]"
- culture_census_733: "Перепись населения в [733.GetName]"
- culture_census_734: "Перепись населения в [734.GetName]"
- culture_census_735: "Перепись населения в [735.GetName]"
- culture_census_736: "Перепись населения в [736.GetName]"
- culture_census_737: "Перепись населения в [737.GetName]"
- culture_census_738: "Перепись населения в [738.GetName]"
- culture_census_739: "Перепись населения в [739.GetName]"
- culture_census_740: "Перепись населения в [740.GetName]"
- culture_census_741: "Перепись населения в [741.GetName]"
- culture_census_742: "Перепись населения в [742.GetName]"
- culture_census_743: "Перепись населения в [743.GetName]"
- culture_census_744: "Перепись населения в [744.GetName]"
- culture_census_745: "Перепись населения в [745.GetName]"
- culture_census_746: "Перепись населения в [746.GetName]"
- culture_census_747: "Перепись населения в [747.GetName]"
- culture_census_748: "Перепись населения в [748.GetName]"
- culture_census_749: "Перепись населения в [749.GetName]"
- culture_census_750: "Перепись населения в [750.GetName]"
- culture_census_751: "Перепись населения в [751.GetName]"
- culture_census_752: "Перепись населения в [752.GetName]"
- culture_census_753: "Перепись населения в [753.GetName]"
- culture_census_754: "Перепись населения в [754.GetName]"
- culture_census_755: "Перепись населения в [755.GetName]"
- culture_census_756: "Перепись населения в [756.GetName]"
- culture_census_757: "Перепись населения в [757.GetName]"
- culture_census_758: "Перепись населения в [758.GetName]"
- culture_census_759: "Перепись населения в [759.GetName]"
- culture_census_760: "Перепись населения в [760.GetName]"
- culture_census_761: "Перепись населения в [761.GetName]"
- culture_census_762: "Перепись населения в [762.GetName]"
- culture_census_763: "Перепись населения в [763.GetName]"
- culture_census_764: "Перепись населения в [764.GetName]"
- culture_census_765: "Перепись населения в [765.GetName]"
- culture_census_766: "Перепись населения в [766.GetName]"
- culture_census_767: "Перепись населения в [767.GetName]"
- culture_census_768: "Перепись населения в [768.GetName]"
- culture_census_769: "Перепись населения в [769.GetName]"
- culture_census_770: "Перепись населения в [770.GetName]"
- culture_census_771: "Перепись населения в [771.GetName]"
- culture_census_772: "Перепись населения в [772.GetName]"
- culture_census_773: "Перепись населения в [773.GetName]"
- culture_census_774: "Перепись населения в [774.GetName]"
- culture_census_775: "Перепись населения в [775.GetName]"
- culture_census_776: "Перепись населения в [776.GetName]"
- culture_census_777: "Перепись населения в [777.GetName]"
- culture_census_778: "Перепись населения в [778.GetName]"
- culture_census_779: "Перепись населения в [779.GetName]"
- culture_census_780: "Перепись населения в [780.GetName]"
- culture_census_781: "Перепись населения в [781.GetName]"
- culture_census_782: "Перепись населения в [782.GetName]"
- culture_census_783: "Перепись населения в [783.GetName]"
- culture_census_784: "Перепись населения в [784.GetName]"
- culture_census_785: "Перепись населения в [785.GetName]"
- culture_census_786: "Перепись населения в [786.GetName]"
- culture_census_787: "Перепись населения в [787.GetName]"
- culture_census_788: "Перепись населения в [788.GetName]"
- culture_census_789: "Перепись населения в [789.GetName]"
- culture_census_790: "Перепись населения в [790.GetName]"
- culture_census_791: "Перепись населения в [791.GetName]"
- culture_census_792: "Перепись населения в [792.GetName]"
- culture_census_793: "Перепись населения в [793.GetName]"
- culture_census_794: "Перепись населения в [794.GetName]"
- culture_census_795: "Перепись населения в [795.GetName]"
- culture_census_796: "Перепись населения в [796.GetName]"
- culture_census_797: "Перепись населения в [797.GetName]"
- culture_census_798: "Перепись населения в [798.GetName]"
- culture_census_799: "Перепись населения в [799.GetName]"
- culture_census_800: "Перепись населения в [800.GetName]"
- culture_census_801: "Перепись населения в [801.GetName]"
- culture_census_802: "Перепись населения в [802.GetName]"
- culture_census_803: "Перепись населения в [803.GetName]"
- culture_census_804: "Перепись населения в [804.GetName]"
- culture_census_805: "Перепись населения в [805.GetName]"
- culture_census_806: "Перепись населения в [806.GetName]"
- culture_census_807: "Перепись населения в [807.GetName]"
- culture_census_808: "Перепись населения в [808.GetName]"
- culture_census_809: "Перепись населения в [809.GetName]"
- culture_census_810: "Перепись населения в [810.GetName]"
- culture_census_811: "Перепись населения в [811.GetName]"
- culture_census_812: "Перепись населения в [812.GetName]"
- culture_census_813: "Перепись населения в [813.GetName]"
- culture_census_814: "Перепись населения в [814.GetName]"
- culture_census_815: "Перепись населения в [815.GetName]"
- culture_census_816: "Перепись населения в [816.GetName]"
- culture_census_817: "Перепись населения в [817.GetName]"
- culture_census_818: "Перепись населения в [818.GetName]"
- culture_census_819: "Перепись населения в [819.GetName]"
- culture_census_820: "Перепись населения в [820.GetName]"
- culture_census_821: "Перепись населения в [821.GetName]"
- culture_census_822: "Перепись населения в [822.GetName]"
- culture_census_823: "Перепись населения в [823.GetName]"
- culture_census_824: "Перепись населения в [824.GetName]"
- culture_census_825: "Перепись населения в [825.GetName]"
- culture_census_826: "Перепись населения в [826.GetName]"
- culture_census_827: "Перепись населения в [827.GetName]"
- culture_census_828: "Перепись населения в [828.GetName]"
- culture_census_829: "Перепись населения в [829.GetName]"
- culture_census_830: "Перепись населения в [830.GetName]"
- culture_census_831: "Перепись населения в [831.GetName]"
- culture_census_832: "Перепись населения в [832.GetName]"
- culture_census_833: "Перепись населения в [833.GetName]"
- culture_census_834: "Перепись населения в [834.GetName]"
- culture_census_835: "Перепись населения в [835.GetName]"
- culture_census_836: "Перепись населения в [836.GetName]"
- culture_census_837: "Перепись населения в [837.GetName]"
- culture_census_838: "Перепись населения в [838.GetName]"
- culture_census_839: "Перепись населения в [839.GetName]"
- culture_census_840: "Перепись населения в [840.GetName]"
- culture_census_841: "Перепись населения в [841.GetName]"
- culture_census_842: "Перепись населения в [842.GetName]"
- culture_census_843: "Перепись населения в [843.GetName]"
- culture_census_844: "Перепись населения в [844.GetName]"
- culture_census_845: "Перепись населения в [845.GetName]"
- culture_census_846: "Перепись населения в [846.GetName]"
- culture_census_847: "Перепись населения в [847.GetName]"
- culture_census_848: "Перепись населения в [848.GetName]"
- culture_census_849: "Перепись населения в [849.GetName]"
- culture_census_850: "Перепись населения в [850.GetName]"
- culture_census_851: "Перепись населения в [851.GetName]"
- culture_census_852: "Перепись населения в [852.GetName]"
- culture_census_853: "Перепись населения в [853.GetName]"
- culture_census_854: "Перепись населения в [854.GetName]"
- culture_census_855: "Перепись населения в [855.GetName]"
- culture_census_856: "Перепись населения в [856.GetName]"
- culture_census_857: "Перепись населения в [857.GetName]"
- culture_census_858: "Перепись населения в [858.GetName]"
- culture_census_859: "Перепись населения в [859.GetName]"
- culture_census_860: "Перепись населения в [860.GetName]"
- culture_census_861: "Перепись населения в [861.GetName]"
- culture_census_862: "Перепись населения в [862.GetName]"
- culture_census_863: "Перепись населения в [863.GetName]"
- culture_census_864: "Перепись населения в [864.GetName]"
- culture_census_865: "Перепись населения в [865.GetName]"
- culture_census_866: "Перепись населения в [866.GetName]"
- culture_census_867: "Перепись населения в [867.GetName]"
- culture_census_868: "Перепись населения в [868.GetName]"
- culture_census_869: "Перепись населения в [869.GetName]"
- culture_census_870: "Перепись населения в [870.GetName]"
- culture_census_871: "Перепись населения в [871.GetName]"
- culture_census_872: "Перепись населения в [872.GetName]"
- culture_census_873: "Перепись населения в [873.GetName]"
- culture_census_874: "Перепись населения в [874.GetName]"
- culture_census_875: "Перепись населения в [875.GetName]"
- culture_census_876: "Перепись населения в [876.GetName]"
- culture_census_877: "Перепись населения в [877.GetName]"
- culture_census_878: "Перепись населения в [878.GetName]"
- culture_census_879: "Перепись населения в [879.GetName]"
- culture_census_880: "Перепись населения в [880.GetName]"
- culture_census_881: "Перепись населения в [881.GetName]"
- culture_census_882: "Перепись населения в [882.GetName]"
- culture_census_883: "Перепись населения в [883.GetName]"
- culture_census_884: "Перепись населения в [884.GetName]"
- culture_census_885: "Перепись населения в [885.GetName]"
- culture_census_886: "Перепись населения в [886.GetName]"
- culture_census_887: "Перепись населения в [887.GetName]"
- culture_census_888: "Перепись населения в [888.GetName]"
- culture_census_889: "Перепись населения в [889.GetName]"
- culture_census_890: "Перепись населения в [890.GetName]"
- culture_census_891: "Перепись населения в [891.GetName]"
- culture_census_892: "Перепись населения в [892.GetName]"
- culture_census_893: "Перепись населения в [893.GetName]"
- culture_census_894: "Перепись населения в [894.GetName]"
- culture_census_895: "Перепись населения в [895.GetName]"
- culture_census_896: "Перепись населения в [896.GetName]"
- culture_census_897: "Перепись населения в [897.GetName]"
- culture_census_898: "Перепись населения в [898.GetName]"
- culture_census_899: "Перепись населения в [899.GetName]"
- culture_census_900: "Перепись населения в [900.GetName]"
- culture_census_901: "Перепись населения в [901.GetName]"
- culture_census_902: "Перепись населения в [902.GetName]"
- culture_census_903: "Перепись населения в [903.GetName]"
- culture_census_904: "Перепись населения в [904.GetName]"
- culture_census_905: "Перепись населения в [905.GetName]"
- culture_census_906: "Перепись населения в [906.GetName]"
- culture_census_907: "Перепись населения в [907.GetName]"
- culture_census_908: "Перепись населения в [908.GetName]"
- culture_census_909: "Перепись населения в [909.GetName]"
- culture_census_910: "Перепись населения в [910.GetName]"
- culture_census_911: "Перепись населения в [911.GetName]"
- culture_census_912: "Перепись населения в [912.GetName]"
- culture_census_913: "Перепись населения в [913.GetName]"
- culture_census_914: "Перепись населения в [914.GetName]"
- culture_census_915: "Перепись населения в [915.GetName]"
- culture_census_916: "Перепись населения в [916.GetName]"
- culture_census_917: "Перепись населения в [917.GetName]"
- culture_census_918: "Перепись населения в [918.GetName]"
- culture_census_919: "Перепись населения в [919.GetName]"
- culture_census_920: "Перепись населения в [920.GetName]"
- culture_census_921: "Перепись населения в [921.GetName]"
- culture_census_922: "Перепись населения в [922.GetName]"
- culture_census_923: "Перепись населения в [923.GetName]"
- culture_census_924: "Перепись населения в [924.GetName]"
- culture_census_925: "Перепись населения в [925.GetName]"
- culture_census_926: "Перепись населения в [926.GetName]"
- culture_census_927: "Перепись населения в [927.GetName]"
- culture_census_928: "Перепись населения в [928.GetName]"
- culture_census_929: "Перепись населения в [929.GetName]"
- culture_census_930: "Перепись населения в [930.GetName]"
- culture_census_931: "Перепись населения в [931.GetName]"
- culture_census_932: "Перепись населения в [932.GetName]"
- culture_census_933: "Перепись населения в [933.GetName]"
- culture_census_934: "Перепись населения в [934.GetName]"
- culture_census_935: "Перепись населения в [935.GetName]"
- culture_census_936: "Перепись населения в [936.GetName]"
- culture_census_937: "Перепись населения в [937.GetName]"
- culture_census_938: "Перепись населения в [938.GetName]"
- culture_census_939: "Перепись населения в [939.GetName]"
- culture_census_940: "Перепись населения в [940.GetName]"
- culture_census_941: "Перепись населения в [941.GetName]"
- culture_census_942: "Перепись населения в [942.GetName]"
- culture_census_943: "Перепись населения в [943.GetName]"
- culture_census_944: "Перепись населения в [944.GetName]"
- culture_census_945: "Перепись населения в [945.GetName]"
- culture_census_946: "Перепись населения в [946.GetName]"
- culture_census_947: "Перепись населения в [947.GetName]"
+ EOANB_CULTURE_INFO: "The majority culture of this state is §Y[This.GetNationality]§!" #NT!
+  
+ var_nationality_0: "No Culture" #NT!
+  
+ var_nationality_1: "Prussian" #NT!
+ var_nationality_2: "Bavarian" #NT!
+ var_nationality_3: "Austrian" #NT!
+ var_nationality_4: "Saxon" #NT!
+ var_nationality_5: "Rhenish" #NT!
+ var_nationality_6: "Westphalian" #NT!
+ var_nationality_7: "Alsacian" #NT!
+ var_nationality_8: "Swiss" #NT!
+  
+ var_nationality_10: "Dutch" #NT!
+ var_nationality_11: "Flemish" #NT!
+ var_nationality_12: "Wallonian" #NT!
+ var_nationality_13: "Luxemburgish" #NT!
+  
+ var_nationality_20: "Swedish" #NT!
+ var_nationality_21: "Danish" #NT!
+ var_nationality_22: "Norwegian" #NT!
+ var_nationality_23: "Icelandic" #NT!
+ var_nationality_24: "Finnish" #NT!
+ var_nationality_25: "Sami" #NT!
+  
+ var_nationality_30: "British" #NT!
+ var_nationality_31: "Irish" #NT!
+ var_nationality_32: "Scottish" #NT!
+ var_nationality_33: "Welsh" #NT!
+  
+ var_nationality_40: "Corsican" #NT!
+ var_nationality_41: "North Italian" #NT!
+ var_nationality_42: "South Italian" #NT!
+ var_nationality_43: "Maltese" #NT!
+ var_nationality_44: "Papal" #NT!
+  
+ var_nationality_50: "Basque" #NT!
+ var_nationality_51: "Spanish" #NT!
+ var_nationality_52: "Catalan" #NT!
+ var_nationality_53: "Portugese" #NT!
+ var_nationality_54: "Galician" #NT!
+  
+ var_nationality_60: "French" #NT!
+ var_nationality_61: "Breton" #NT!
+ var_nationality_62: "Occitan" #NT!
+ var_nationality_63: "Picard" #NT!
+ var_nationality_64: "Arpitan" #NT!
+  
+ var_nationality_70: "Croatian" #NT!
+ var_nationality_71: "Serbian" #NT!
+ var_nationality_72: "Bulgarian" #NT!
+ var_nationality_73: "Slovene" #NT!
+ var_nationality_74: "Bosniak" #NT!
+ var_nationality_75: "Montenegrin" #NT!
+ var_nationality_76: "Macedonian" #NT!
+  
+ var_nationality_80: "Tosk" #NT!
+  
+ var_nationality_90: "Romanian" #NT!
+  
+ var_nationality_100: "Hungarian" #NT!
+  
+ var_nationality_110: "Polish" #NT!
+  
+ var_nationality_120: "Czech" #NT!
+ var_nationality_121: "Slovak" #NT!
+  
+ var_nationality_130: "Russian" #NT!
+ var_nationality_131: "Byelorussian" #NT!
+ var_nationality_132: "Ukrainian" #NT!
+ var_nationality_133: "Ugrian" #NT!
+  
+ var_nationality_140: "Lithuanian" #NT!
+ var_nationality_141: "Latvian" #NT!
+ var_nationality_142: "Estonian" #NT!
+  
+ var_nationality_150: "Greek" #NT!
+  
+ var_nationality_160: "Turkish" #NT!
+ var_nationality_161: "Azerbaijani" #NT!
+ var_nationality_162: "Kurdish" #NT!
+  
+ var_nationality_170: "Dagestani" #NT!
+ var_nationality_171: "Chechen" #NT!
+ var_nationality_172: "Circassian" #NT!
+ var_nationality_173: "Georgian" #NT!
+ var_nationality_174: "Armenian" #NT!
+  
+ var_nationality_180: "Algerian" #NT!
+ var_nationality_181: "Tunisian" #NT!
+ var_nationality_182: "Libyan" #NT!
+ var_nationality_183: "Misri" #NT!
+ var_nationality_184: "Mashriqi" #NT!
+ var_nationality_185: "Syrian" #NT!
+ var_nationality_186: "Bedouin" #NT!
+ var_nationality_187: "Berber" #NT!
+ var_nationality_188: "Moors" #NT!
+ var_nationality_189: "Sudanese" #NT!
+  
+ var_nationality_group_0: "No Culture Group" #NT!
+ var_nationality_group_1: "French" #NT!
+ var_nationality_group_2: "Celtic" #NT!
+ var_nationality_group_3: "German" #NT!
+  
+ var_nationality_dissent_level_0: "§GContent§!" #NT!
+ var_nationality_dissent_level_1: "§CDisruptive§!" #NT!
+ var_nationality_dissent_level_2: "Restless" #NT!
+ var_nationality_dissent_level_3: "§YAgitated§!" #NT!
+ var_nationality_dissent_level_4: "§RHostile§!" #NT!
+  
+  
+  
+  
+  
+  
+  
+ nationality.1.t: "Setting of Germanic cultures" #NT!
+ nationality.1.d: "Setting of Germanic cultures" #NT!
+ nationality.1.a: "Endlich, etwas Kultur !" #NT!
+  
+ nationality.2.t: "Setting of Scandinavian cultures" #NT!
+ nationality.2.d: "Setting of Scandinavian cultures" #NT!
+ nationality.2.a: "Slutligen, en del kultur !" #NT!
+  
+ nationality.3.t: "Setting of British cultures" #NT!
+ nationality.3.d: "Setting of British cultures" #NT!
+ nationality.3.a: "Finally, some culture !" #NT!
+  
+ nationality.4.t: "Setting of Italian cultures" #NT!
+ nationality.4.d: "Setting of Italian cultures" #NT!
+ nationality.4.a: "Finalmente, una cultura !" #NT!
+  
+ nationality.5.t: "Setting of Iberian cultures" #NT!
+ nationality.5.d: "Setting of Iberian cultures" #NT!
+ nationality.5.a: "Finalmente, algo de cultura !" #NT!
+  
+ nationality.6.t: "Setting of French cultures" #NT!
+ nationality.6.d: "Setting of French cultures" #NT!
+ nationality.6.a: "Enfin, de la culture !" #NT!
+  
+ nationality.7.t: "Setting of South Slavic cultures" #NT!
+ nationality.7.d: "Setting of South Slavic cultures" #NT!
+ nationality.7.a: "Konačno, neka kultura !" #NT!
+  
+ nationality.8.t: "Setting of Pan-Albanian cultures" #NT!
+ nationality.8.d: "Setting of Pan-Albanian cultures" #NT!
+ nationality.8.a: "Së fundi, një kulturë !" #NT!
+  
+ nationality.9.t: "Setting of Pan-Romanian cultures" #NT!
+ nationality.9.d: "Setting of Pan-Romanian cultures" #NT!
+ nationality.9.a: "În cele din urmă, o cultură !" #NT!
+  
+ nationality.10.t: "Setting of Hungarian cultures" #NT!
+ nationality.10.d: "Setting of Hungarian cultures" #NT!
+ nationality.10.a: "Végül, valamilyen kultúra !" #NT!
+  
+ nationality.11.t: "Setting of Polish cultures" #NT!
+ nationality.11.d: "Setting of Polish cultures" #NT!
+ nationality.11.a: "Wreszcie, trochę kultury !" #NT!
+  
+ nationality.12.t: "Setting of Czecho-Slovak cultures" #NT!
+ nationality.12.d: "Setting of Czecho-Slovak cultures" #NT!
+ nationality.12.a: "Konečně, nějaká kultura !" #NT!
+  
+ nationality.13.t: "Setting of East Slavic cultures" #NT!
+ nationality.13.d: "Setting of East Slavic cultures" #NT!
+ nationality.13.a: "Nakonets-to, nemnogo kul'turi !" #NT!
+  
+ nationality.14.t: "Setting of Baltic cultures" #NT!
+ nationality.14.d: "Setting of Baltic cultures" #NT!
+ nationality.14.a: "Galiausiai, tam tikra kultūra !" #NT!
+  
+ nationality.15.t: "Setting of Hellenic cultures" #NT!
+ nationality.15.d: "Setting of Hellenic cultures" #NT!
+ nationality.15.a: "Télos, kápoia koultoúra !" #NT!
+  
+ nationality.16.t: "Setting of Turko-Semitic cultures" #NT!
+ nationality.16.d: "Setting of Turko-Semitic cultures" #NT!
+ nationality.16.a: "Sonunda, bazı kültür !" #NT!
+  
+ nationality.17.t: "Setting of Caucasian cultures" #NT!
+ nationality.17.d: "Setting of Caucasian cultures" #NT!
+ nationality.17.a: "Da bolos, zogierti k’ult’ura!" #NT!
+  
+ nationality.18.t: "Setting of Arab cultures" #NT!
+ nationality.18.d: "Setting of Arab cultures" #NT!
+ nationality.18.a: "'Akhiraan , bed althaqafa' !" #NT!
+  
+ nationality.19.t: "Setting of Beneluxian cultures" #NT!
+ nationality.19.d: "Setting of Beneluxian cultures" #NT!
+ nationality.19.a: "Eindelijk, wat cultuur !" #NT!
+  
+ nationality.41.t: "" #NT!
+ nationality.41.d: "§Y[From.From.GetName]§! as assimilated into our culture !" #NT!
+ nationality.41.a: "" #NT!
+  
+  
+  
+  
+ census_decision_category: "State Census" #NT!
+ census_decision_category_desc: "We can issue census by state to see which nationality is prevalent and which isn't. The current dominant nationality of our country is §Y[Root.GetNationality] of the [Root.GetNationalityGroup] culture group.§!" #NT!
+ census_started: "The census program has started" #NT!
+ culture_census_start: "Start the national census" #NT!
+ culture_census_end: "End the national census" #NT!
+ culture_census_1: "Census of [1.GetName]" #NT!
+ culture_census_2: "Census of [2.GetName]" #NT!
+ culture_census_3: "Census of [3.GetName]" #NT!
+ culture_census_4: "Census of [4.GetName]" #NT!
+ culture_census_5: "Census of [5.GetName]" #NT!
+ culture_census_6: "Census of [6.GetName]" #NT!
+ culture_census_7: "Census of [7.GetName]" #NT!
+ culture_census_8: "Census of [8.GetName]" #NT!
+ culture_census_9: "Census of [9.GetName]" #NT!
+ culture_census_10: "Census of [10.GetName]" #NT!
+ culture_census_11: "Census of [11.GetName]" #NT!
+ culture_census_12: "Census of [12.GetName]" #NT!
+ culture_census_13: "Census of [13.GetName]" #NT!
+ culture_census_14: "Census of [14.GetName]" #NT!
+ culture_census_15: "Census of [15.GetName]" #NT!
+ culture_census_16: "Census of [16.GetName]" #NT!
+ culture_census_17: "Census of [17.GetName]" #NT!
+ culture_census_18: "Census of [18.GetName]" #NT!
+ culture_census_19: "Census of [19.GetName]" #NT!
+ culture_census_20: "Census of [20.GetName]" #NT!
+ culture_census_21: "Census of [21.GetName]" #NT!
+ culture_census_22: "Census of [22.GetName]" #NT!
+ culture_census_23: "Census of [23.GetName]" #NT!
+ culture_census_24: "Census of [24.GetName]" #NT!
+ culture_census_25: "Census of [25.GetName]" #NT!
+ culture_census_26: "Census of [26.GetName]" #NT!
+ culture_census_27: "Census of [27.GetName]" #NT!
+ culture_census_28: "Census of [28.GetName]" #NT!
+ culture_census_29: "Census of [29.GetName]" #NT!
+ culture_census_30: "Census of [30.GetName]" #NT!
+ culture_census_31: "Census of [31.GetName]" #NT!
+ culture_census_32: "Census of [32.GetName]" #NT!
+ culture_census_33: "Census of [33.GetName]" #NT!
+ culture_census_34: "Census of [34.GetName]" #NT!
+ culture_census_35: "Census of [35.GetName]" #NT!
+ culture_census_36: "Census of [36.GetName]" #NT!
+ culture_census_37: "Census of [37.GetName]" #NT!
+ culture_census_38: "Census of [38.GetName]" #NT!
+ culture_census_39: "Census of [39.GetName]" #NT!
+ culture_census_40: "Census of [40.GetName]" #NT!
+ culture_census_41: "Census of [41.GetName]" #NT!
+ culture_census_42: "Census of [42.GetName]" #NT!
+ culture_census_43: "Census of [43.GetName]" #NT!
+ culture_census_44: "Census of [44.GetName]" #NT!
+ culture_census_45: "Census of [45.GetName]" #NT!
+ culture_census_46: "Census of [46.GetName]" #NT!
+ culture_census_47: "Census of [47.GetName]" #NT!
+ culture_census_48: "Census of [48.GetName]" #NT!
+ culture_census_49: "Census of [49.GetName]" #NT!
+ culture_census_50: "Census of [50.GetName]" #NT!
+ culture_census_51: "Census of [51.GetName]" #NT!
+ culture_census_52: "Census of [52.GetName]" #NT!
+ culture_census_53: "Census of [53.GetName]" #NT!
+ culture_census_54: "Census of [54.GetName]" #NT!
+ culture_census_55: "Census of [55.GetName]" #NT!
+ culture_census_56: "Census of [56.GetName]" #NT!
+ culture_census_57: "Census of [57.GetName]" #NT!
+ culture_census_58: "Census of [58.GetName]" #NT!
+ culture_census_59: "Census of [59.GetName]" #NT!
+ culture_census_60: "Census of [60.GetName]" #NT!
+ culture_census_61: "Census of [61.GetName]" #NT!
+ culture_census_62: "Census of [62.GetName]" #NT!
+ culture_census_63: "Census of [63.GetName]" #NT!
+ culture_census_64: "Census of [64.GetName]" #NT!
+ culture_census_65: "Census of [65.GetName]" #NT!
+ culture_census_66: "Census of [66.GetName]" #NT!
+ culture_census_67: "Census of [67.GetName]" #NT!
+ culture_census_68: "Census of [68.GetName]" #NT!
+ culture_census_69: "Census of [69.GetName]" #NT!
+ culture_census_70: "Census of [70.GetName]" #NT!
+ culture_census_71: "Census of [71.GetName]" #NT!
+ culture_census_72: "Census of [72.GetName]" #NT!
+ culture_census_73: "Census of [73.GetName]" #NT!
+ culture_census_74: "Census of [74.GetName]" #NT!
+ culture_census_75: "Census of [75.GetName]" #NT!
+ culture_census_76: "Census of [76.GetName]" #NT!
+ culture_census_77: "Census of [77.GetName]" #NT!
+ culture_census_78: "Census of [78.GetName]" #NT!
+ culture_census_79: "Census of [79.GetName]" #NT!
+ culture_census_80: "Census of [80.GetName]" #NT!
+ culture_census_81: "Census of [81.GetName]" #NT!
+ culture_census_82: "Census of [82.GetName]" #NT!
+ culture_census_83: "Census of [83.GetName]" #NT!
+ culture_census_84: "Census of [84.GetName]" #NT!
+ culture_census_85: "Census of [85.GetName]" #NT!
+ culture_census_86: "Census of [86.GetName]" #NT!
+ culture_census_87: "Census of [87.GetName]" #NT!
+ culture_census_88: "Census of [88.GetName]" #NT!
+ culture_census_89: "Census of [89.GetName]" #NT!
+ culture_census_90: "Census of [90.GetName]" #NT!
+ culture_census_91: "Census of [91.GetName]" #NT!
+ culture_census_92: "Census of [92.GetName]" #NT!
+ culture_census_93: "Census of [93.GetName]" #NT!
+ culture_census_94: "Census of [94.GetName]" #NT!
+ culture_census_95: "Census of [95.GetName]" #NT!
+ culture_census_96: "Census of [96.GetName]" #NT!
+ culture_census_97: "Census of [97.GetName]" #NT!
+ culture_census_98: "Census of [98.GetName]" #NT!
+ culture_census_99: "Census of [99.GetName]" #NT!
+ culture_census_100: "Census of [100.GetName]" #NT!
+ culture_census_101: "Census of [101.GetName]" #NT!
+ culture_census_102: "Census of [102.GetName]" #NT!
+ culture_census_103: "Census of [103.GetName]" #NT!
+ culture_census_104: "Census of [104.GetName]" #NT!
+ culture_census_105: "Census of [105.GetName]" #NT!
+ culture_census_106: "Census of [106.GetName]" #NT!
+ culture_census_107: "Census of [107.GetName]" #NT!
+ culture_census_108: "Census of [108.GetName]" #NT!
+ culture_census_109: "Census of [109.GetName]" #NT!
+ culture_census_110: "Census of [110.GetName]" #NT!
+ culture_census_111: "Census of [111.GetName]" #NT!
+ culture_census_112: "Census of [112.GetName]" #NT!
+ culture_census_113: "Census of [113.GetName]" #NT!
+ culture_census_114: "Census of [114.GetName]" #NT!
+ culture_census_115: "Census of [115.GetName]" #NT!
+ culture_census_116: "Census of [116.GetName]" #NT!
+ culture_census_117: "Census of [117.GetName]" #NT!
+ culture_census_118: "Census of [118.GetName]" #NT!
+ culture_census_119: "Census of [119.GetName]" #NT!
+ culture_census_120: "Census of [120.GetName]" #NT!
+ culture_census_121: "Census of [121.GetName]" #NT!
+ culture_census_122: "Census of [122.GetName]" #NT!
+ culture_census_123: "Census of [123.GetName]" #NT!
+ culture_census_124: "Census of [124.GetName]" #NT!
+ culture_census_125: "Census of [125.GetName]" #NT!
+ culture_census_126: "Census of [126.GetName]" #NT!
+ culture_census_127: "Census of [127.GetName]" #NT!
+ culture_census_128: "Census of [128.GetName]" #NT!
+ culture_census_129: "Census of [129.GetName]" #NT!
+ culture_census_130: "Census of [130.GetName]" #NT!
+ culture_census_131: "Census of [131.GetName]" #NT!
+ culture_census_132: "Census of [132.GetName]" #NT!
+ culture_census_133: "Census of [133.GetName]" #NT!
+ culture_census_134: "Census of [134.GetName]" #NT!
+ culture_census_135: "Census of [135.GetName]" #NT!
+ culture_census_136: "Census of [136.GetName]" #NT!
+ culture_census_137: "Census of [137.GetName]" #NT!
+ culture_census_138: "Census of [138.GetName]" #NT!
+ culture_census_139: "Census of [139.GetName]" #NT!
+ culture_census_140: "Census of [140.GetName]" #NT!
+ culture_census_141: "Census of [141.GetName]" #NT!
+ culture_census_142: "Census of [142.GetName]" #NT!
+ culture_census_143: "Census of [143.GetName]" #NT!
+ culture_census_144: "Census of [144.GetName]" #NT!
+ culture_census_145: "Census of [145.GetName]" #NT!
+ culture_census_146: "Census of [146.GetName]" #NT!
+ culture_census_147: "Census of [147.GetName]" #NT!
+ culture_census_148: "Census of [148.GetName]" #NT!
+ culture_census_149: "Census of [149.GetName]" #NT!
+ culture_census_150: "Census of [150.GetName]" #NT!
+ culture_census_151: "Census of [151.GetName]" #NT!
+ culture_census_152: "Census of [152.GetName]" #NT!
+ culture_census_153: "Census of [153.GetName]" #NT!
+ culture_census_154: "Census of [154.GetName]" #NT!
+ culture_census_155: "Census of [155.GetName]" #NT!
+ culture_census_156: "Census of [156.GetName]" #NT!
+ culture_census_157: "Census of [157.GetName]" #NT!
+ culture_census_158: "Census of [158.GetName]" #NT!
+ culture_census_159: "Census of [159.GetName]" #NT!
+ culture_census_160: "Census of [160.GetName]" #NT!
+ culture_census_161: "Census of [161.GetName]" #NT!
+ culture_census_162: "Census of [162.GetName]" #NT!
+ culture_census_163: "Census of [163.GetName]" #NT!
+ culture_census_164: "Census of [164.GetName]" #NT!
+ culture_census_165: "Census of [165.GetName]" #NT!
+ culture_census_166: "Census of [166.GetName]" #NT!
+ culture_census_167: "Census of [167.GetName]" #NT!
+ culture_census_168: "Census of [168.GetName]" #NT!
+ culture_census_169: "Census of [169.GetName]" #NT!
+ culture_census_170: "Census of [170.GetName]" #NT!
+ culture_census_171: "Census of [171.GetName]" #NT!
+ culture_census_172: "Census of [172.GetName]" #NT!
+ culture_census_173: "Census of [173.GetName]" #NT!
+ culture_census_174: "Census of [174.GetName]" #NT!
+ culture_census_175: "Census of [175.GetName]" #NT!
+ culture_census_176: "Census of [176.GetName]" #NT!
+ culture_census_177: "Census of [177.GetName]" #NT!
+ culture_census_178: "Census of [178.GetName]" #NT!
+ culture_census_179: "Census of [179.GetName]" #NT!
+ culture_census_180: "Census of [180.GetName]" #NT!
+ culture_census_181: "Census of [181.GetName]" #NT!
+ culture_census_182: "Census of [182.GetName]" #NT!
+ culture_census_183: "Census of [183.GetName]" #NT!
+ culture_census_184: "Census of [184.GetName]" #NT!
+ culture_census_185: "Census of [185.GetName]" #NT!
+ culture_census_186: "Census of [186.GetName]" #NT!
+ culture_census_187: "Census of [187.GetName]" #NT!
+ culture_census_188: "Census of [188.GetName]" #NT!
+ culture_census_189: "Census of [189.GetName]" #NT!
+ culture_census_190: "Census of [190.GetName]" #NT!
+ culture_census_191: "Census of [191.GetName]" #NT!
+ culture_census_192: "Census of [192.GetName]" #NT!
+ culture_census_193: "Census of [193.GetName]" #NT!
+ culture_census_194: "Census of [194.GetName]" #NT!
+ culture_census_195: "Census of [195.GetName]" #NT!
+ culture_census_196: "Census of [196.GetName]" #NT!
+ culture_census_197: "Census of [197.GetName]" #NT!
+ culture_census_198: "Census of [198.GetName]" #NT!
+ culture_census_199: "Census of [199.GetName]" #NT!
+ culture_census_200: "Census of [200.GetName]" #NT!
+ culture_census_201: "Census of [201.GetName]" #NT!
+ culture_census_202: "Census of [202.GetName]" #NT!
+ culture_census_203: "Census of [203.GetName]" #NT!
+ culture_census_204: "Census of [204.GetName]" #NT!
+ culture_census_205: "Census of [205.GetName]" #NT!
+ culture_census_206: "Census of [206.GetName]" #NT!
+ culture_census_207: "Census of [207.GetName]" #NT!
+ culture_census_208: "Census of [208.GetName]" #NT!
+ culture_census_209: "Census of [209.GetName]" #NT!
+ culture_census_210: "Census of [210.GetName]" #NT!
+ culture_census_211: "Census of [211.GetName]" #NT!
+ culture_census_212: "Census of [212.GetName]" #NT!
+ culture_census_213: "Census of [213.GetName]" #NT!
+ culture_census_214: "Census of [214.GetName]" #NT!
+ culture_census_215: "Census of [215.GetName]" #NT!
+ culture_census_216: "Census of [216.GetName]" #NT!
+ culture_census_217: "Census of [217.GetName]" #NT!
+ culture_census_218: "Census of [218.GetName]" #NT!
+ culture_census_219: "Census of [219.GetName]" #NT!
+ culture_census_220: "Census of [220.GetName]" #NT!
+ culture_census_221: "Census of [221.GetName]" #NT!
+ culture_census_222: "Census of [222.GetName]" #NT!
+ culture_census_223: "Census of [223.GetName]" #NT!
+ culture_census_224: "Census of [224.GetName]" #NT!
+ culture_census_225: "Census of [225.GetName]" #NT!
+ culture_census_226: "Census of [226.GetName]" #NT!
+ culture_census_227: "Census of [227.GetName]" #NT!
+ culture_census_228: "Census of [228.GetName]" #NT!
+ culture_census_229: "Census of [229.GetName]" #NT!
+ culture_census_230: "Census of [230.GetName]" #NT!
+ culture_census_231: "Census of [231.GetName]" #NT!
+ culture_census_232: "Census of [232.GetName]" #NT!
+ culture_census_233: "Census of [233.GetName]" #NT!
+ culture_census_234: "Census of [234.GetName]" #NT!
+ culture_census_235: "Census of [235.GetName]" #NT!
+ culture_census_236: "Census of [236.GetName]" #NT!
+ culture_census_237: "Census of [237.GetName]" #NT!
+ culture_census_238: "Census of [238.GetName]" #NT!
+ culture_census_239: "Census of [239.GetName]" #NT!
+ culture_census_240: "Census of [240.GetName]" #NT!
+ culture_census_241: "Census of [241.GetName]" #NT!
+ culture_census_242: "Census of [242.GetName]" #NT!
+ culture_census_243: "Census of [243.GetName]" #NT!
+ culture_census_244: "Census of [244.GetName]" #NT!
+ culture_census_245: "Census of [245.GetName]" #NT!
+ culture_census_246: "Census of [246.GetName]" #NT!
+ culture_census_247: "Census of [247.GetName]" #NT!
+ culture_census_248: "Census of [248.GetName]" #NT!
+ culture_census_249: "Census of [249.GetName]" #NT!
+ culture_census_250: "Census of [250.GetName]" #NT!
+ culture_census_251: "Census of [251.GetName]" #NT!
+ culture_census_252: "Census of [252.GetName]" #NT!
+ culture_census_253: "Census of [253.GetName]" #NT!
+ culture_census_254: "Census of [254.GetName]" #NT!
+ culture_census_255: "Census of [255.GetName]" #NT!
+ culture_census_256: "Census of [256.GetName]" #NT!
+ culture_census_257: "Census of [257.GetName]" #NT!
+ culture_census_258: "Census of [258.GetName]" #NT!
+ culture_census_259: "Census of [259.GetName]" #NT!
+ culture_census_260: "Census of [260.GetName]" #NT!
+ culture_census_261: "Census of [261.GetName]" #NT!
+ culture_census_262: "Census of [262.GetName]" #NT!
+ culture_census_263: "Census of [263.GetName]" #NT!
+ culture_census_264: "Census of [264.GetName]" #NT!
+ culture_census_265: "Census of [265.GetName]" #NT!
+ culture_census_266: "Census of [266.GetName]" #NT!
+ culture_census_267: "Census of [267.GetName]" #NT!
+ culture_census_268: "Census of [268.GetName]" #NT!
+ culture_census_269: "Census of [269.GetName]" #NT!
+ culture_census_270: "Census of [270.GetName]" #NT!
+ culture_census_271: "Census of [271.GetName]" #NT!
+ culture_census_272: "Census of [272.GetName]" #NT!
+ culture_census_273: "Census of [273.GetName]" #NT!
+ culture_census_274: "Census of [274.GetName]" #NT!
+ culture_census_275: "Census of [275.GetName]" #NT!
+ culture_census_276: "Census of [276.GetName]" #NT!
+ culture_census_277: "Census of [277.GetName]" #NT!
+ culture_census_278: "Census of [278.GetName]" #NT!
+ culture_census_279: "Census of [279.GetName]" #NT!
+ culture_census_280: "Census of [280.GetName]" #NT!
+ culture_census_281: "Census of [281.GetName]" #NT!
+ culture_census_282: "Census of [282.GetName]" #NT!
+ culture_census_283: "Census of [283.GetName]" #NT!
+ culture_census_284: "Census of [284.GetName]" #NT!
+ culture_census_285: "Census of [285.GetName]" #NT!
+ culture_census_286: "Census of [286.GetName]" #NT!
+ culture_census_287: "Census of [287.GetName]" #NT!
+ culture_census_288: "Census of [288.GetName]" #NT!
+ culture_census_289: "Census of [289.GetName]" #NT!
+ culture_census_290: "Census of [290.GetName]" #NT!
+ culture_census_291: "Census of [291.GetName]" #NT!
+ culture_census_292: "Census of [292.GetName]" #NT!
+ culture_census_293: "Census of [293.GetName]" #NT!
+ culture_census_294: "Census of [294.GetName]" #NT!
+ culture_census_295: "Census of [295.GetName]" #NT!
+ culture_census_296: "Census of [296.GetName]" #NT!
+ culture_census_297: "Census of [297.GetName]" #NT!
+ culture_census_298: "Census of [298.GetName]" #NT!
+ culture_census_299: "Census of [299.GetName]" #NT!
+ culture_census_300: "Census of [300.GetName]" #NT!
+ culture_census_301: "Census of [301.GetName]" #NT!
+ culture_census_302: "Census of [302.GetName]" #NT!
+ culture_census_303: "Census of [303.GetName]" #NT!
+ culture_census_304: "Census of [304.GetName]" #NT!
+ culture_census_305: "Census of [305.GetName]" #NT!
+ culture_census_306: "Census of [306.GetName]" #NT!
+ culture_census_307: "Census of [307.GetName]" #NT!
+ culture_census_308: "Census of [308.GetName]" #NT!
+ culture_census_309: "Census of [309.GetName]" #NT!
+ culture_census_310: "Census of [310.GetName]" #NT!
+ culture_census_311: "Census of [311.GetName]" #NT!
+ culture_census_312: "Census of [312.GetName]" #NT!
+ culture_census_313: "Census of [313.GetName]" #NT!
+ culture_census_314: "Census of [314.GetName]" #NT!
+ culture_census_315: "Census of [315.GetName]" #NT!
+ culture_census_316: "Census of [316.GetName]" #NT!
+ culture_census_317: "Census of [317.GetName]" #NT!
+ culture_census_318: "Census of [318.GetName]" #NT!
+ culture_census_319: "Census of [319.GetName]" #NT!
+ culture_census_320: "Census of [320.GetName]" #NT!
+ culture_census_321: "Census of [321.GetName]" #NT!
+ culture_census_322: "Census of [322.GetName]" #NT!
+ culture_census_323: "Census of [323.GetName]" #NT!
+ culture_census_324: "Census of [324.GetName]" #NT!
+ culture_census_325: "Census of [325.GetName]" #NT!
+ culture_census_326: "Census of [326.GetName]" #NT!
+ culture_census_327: "Census of [327.GetName]" #NT!
+ culture_census_328: "Census of [328.GetName]" #NT!
+ culture_census_329: "Census of [329.GetName]" #NT!
+ culture_census_330: "Census of [330.GetName]" #NT!
+ culture_census_331: "Census of [331.GetName]" #NT!
+ culture_census_332: "Census of [332.GetName]" #NT!
+ culture_census_333: "Census of [333.GetName]" #NT!
+ culture_census_334: "Census of [334.GetName]" #NT!
+ culture_census_335: "Census of [335.GetName]" #NT!
+ culture_census_336: "Census of [336.GetName]" #NT!
+ culture_census_337: "Census of [337.GetName]" #NT!
+ culture_census_338: "Census of [338.GetName]" #NT!
+ culture_census_339: "Census of [339.GetName]" #NT!
+ culture_census_340: "Census of [340.GetName]" #NT!
+ culture_census_341: "Census of [341.GetName]" #NT!
+ culture_census_342: "Census of [342.GetName]" #NT!
+ culture_census_343: "Census of [343.GetName]" #NT!
+ culture_census_344: "Census of [344.GetName]" #NT!
+ culture_census_345: "Census of [345.GetName]" #NT!
+ culture_census_346: "Census of [346.GetName]" #NT!
+ culture_census_347: "Census of [347.GetName]" #NT!
+ culture_census_348: "Census of [348.GetName]" #NT!
+ culture_census_349: "Census of [349.GetName]" #NT!
+ culture_census_350: "Census of [350.GetName]" #NT!
+ culture_census_351: "Census of [351.GetName]" #NT!
+ culture_census_352: "Census of [352.GetName]" #NT!
+ culture_census_353: "Census of [353.GetName]" #NT!
+ culture_census_354: "Census of [354.GetName]" #NT!
+ culture_census_355: "Census of [355.GetName]" #NT!
+ culture_census_356: "Census of [356.GetName]" #NT!
+ culture_census_357: "Census of [357.GetName]" #NT!
+ culture_census_358: "Census of [358.GetName]" #NT!
+ culture_census_359: "Census of [359.GetName]" #NT!
+ culture_census_360: "Census of [360.GetName]" #NT!
+ culture_census_361: "Census of [361.GetName]" #NT!
+ culture_census_362: "Census of [362.GetName]" #NT!
+ culture_census_363: "Census of [363.GetName]" #NT!
+ culture_census_364: "Census of [364.GetName]" #NT!
+ culture_census_365: "Census of [365.GetName]" #NT!
+ culture_census_366: "Census of [366.GetName]" #NT!
+ culture_census_367: "Census of [367.GetName]" #NT!
+ culture_census_368: "Census of [368.GetName]" #NT!
+ culture_census_369: "Census of [369.GetName]" #NT!
+ culture_census_370: "Census of [370.GetName]" #NT!
+ culture_census_371: "Census of [371.GetName]" #NT!
+ culture_census_372: "Census of [372.GetName]" #NT!
+ culture_census_373: "Census of [373.GetName]" #NT!
+ culture_census_374: "Census of [374.GetName]" #NT!
+ culture_census_375: "Census of [375.GetName]" #NT!
+ culture_census_376: "Census of [376.GetName]" #NT!
+ culture_census_377: "Census of [377.GetName]" #NT!
+ culture_census_378: "Census of [378.GetName]" #NT!
+ culture_census_379: "Census of [379.GetName]" #NT!
+ culture_census_380: "Census of [380.GetName]" #NT!
+ culture_census_381: "Census of [381.GetName]" #NT!
+ culture_census_382: "Census of [382.GetName]" #NT!
+ culture_census_383: "Census of [383.GetName]" #NT!
+ culture_census_384: "Census of [384.GetName]" #NT!
+ culture_census_385: "Census of [385.GetName]" #NT!
+ culture_census_386: "Census of [386.GetName]" #NT!
+ culture_census_387: "Census of [387.GetName]" #NT!
+ culture_census_388: "Census of [388.GetName]" #NT!
+ culture_census_389: "Census of [389.GetName]" #NT!
+ culture_census_390: "Census of [390.GetName]" #NT!
+ culture_census_391: "Census of [391.GetName]" #NT!
+ culture_census_392: "Census of [392.GetName]" #NT!
+ culture_census_393: "Census of [393.GetName]" #NT!
+ culture_census_394: "Census of [394.GetName]" #NT!
+ culture_census_395: "Census of [395.GetName]" #NT!
+ culture_census_396: "Census of [396.GetName]" #NT!
+ culture_census_397: "Census of [397.GetName]" #NT!
+ culture_census_398: "Census of [398.GetName]" #NT!
+ culture_census_399: "Census of [399.GetName]" #NT!
+ culture_census_400: "Census of [400.GetName]" #NT!
+ culture_census_401: "Census of [401.GetName]" #NT!
+ culture_census_402: "Census of [402.GetName]" #NT!
+ culture_census_403: "Census of [403.GetName]" #NT!
+ culture_census_404: "Census of [404.GetName]" #NT!
+ culture_census_405: "Census of [405.GetName]" #NT!
+ culture_census_406: "Census of [406.GetName]" #NT!
+ culture_census_407: "Census of [407.GetName]" #NT!
+ culture_census_408: "Census of [408.GetName]" #NT!
+ culture_census_409: "Census of [409.GetName]" #NT!
+ culture_census_410: "Census of [410.GetName]" #NT!
+ culture_census_411: "Census of [411.GetName]" #NT!
+ culture_census_412: "Census of [412.GetName]" #NT!
+ culture_census_413: "Census of [413.GetName]" #NT!
+ culture_census_414: "Census of [414.GetName]" #NT!
+ culture_census_415: "Census of [415.GetName]" #NT!
+ culture_census_416: "Census of [416.GetName]" #NT!
+ culture_census_417: "Census of [417.GetName]" #NT!
+ culture_census_418: "Census of [418.GetName]" #NT!
+ culture_census_419: "Census of [419.GetName]" #NT!
+ culture_census_420: "Census of [420.GetName]" #NT!
+ culture_census_421: "Census of [421.GetName]" #NT!
+ culture_census_422: "Census of [422.GetName]" #NT!
+ culture_census_423: "Census of [423.GetName]" #NT!
+ culture_census_424: "Census of [424.GetName]" #NT!
+ culture_census_425: "Census of [425.GetName]" #NT!
+ culture_census_426: "Census of [426.GetName]" #NT!
+ culture_census_427: "Census of [427.GetName]" #NT!
+ culture_census_428: "Census of [428.GetName]" #NT!
+ culture_census_429: "Census of [429.GetName]" #NT!
+ culture_census_430: "Census of [430.GetName]" #NT!
+ culture_census_431: "Census of [431.GetName]" #NT!
+ culture_census_432: "Census of [432.GetName]" #NT!
+ culture_census_433: "Census of [433.GetName]" #NT!
+ culture_census_434: "Census of [434.GetName]" #NT!
+ culture_census_435: "Census of [435.GetName]" #NT!
+ culture_census_436: "Census of [436.GetName]" #NT!
+ culture_census_437: "Census of [437.GetName]" #NT!
+ culture_census_438: "Census of [438.GetName]" #NT!
+ culture_census_439: "Census of [439.GetName]" #NT!
+ culture_census_440: "Census of [440.GetName]" #NT!
+ culture_census_441: "Census of [441.GetName]" #NT!
+ culture_census_442: "Census of [442.GetName]" #NT!
+ culture_census_443: "Census of [443.GetName]" #NT!
+ culture_census_444: "Census of [444.GetName]" #NT!
+ culture_census_445: "Census of [445.GetName]" #NT!
+ culture_census_446: "Census of [446.GetName]" #NT!
+ culture_census_447: "Census of [447.GetName]" #NT!
+ culture_census_448: "Census of [448.GetName]" #NT!
+ culture_census_449: "Census of [449.GetName]" #NT!
+ culture_census_450: "Census of [450.GetName]" #NT!
+ culture_census_451: "Census of [451.GetName]" #NT!
+ culture_census_452: "Census of [452.GetName]" #NT!
+ culture_census_453: "Census of [453.GetName]" #NT!
+ culture_census_454: "Census of [454.GetName]" #NT!
+ culture_census_455: "Census of [455.GetName]" #NT!
+ culture_census_456: "Census of [456.GetName]" #NT!
+ culture_census_457: "Census of [457.GetName]" #NT!
+ culture_census_458: "Census of [458.GetName]" #NT!
+ culture_census_459: "Census of [459.GetName]" #NT!
+ culture_census_460: "Census of [460.GetName]" #NT!
+ culture_census_461: "Census of [461.GetName]" #NT!
+ culture_census_462: "Census of [462.GetName]" #NT!
+ culture_census_463: "Census of [463.GetName]" #NT!
+ culture_census_464: "Census of [464.GetName]" #NT!
+ culture_census_465: "Census of [465.GetName]" #NT!
+ culture_census_466: "Census of [466.GetName]" #NT!
+ culture_census_467: "Census of [467.GetName]" #NT!
+ culture_census_468: "Census of [468.GetName]" #NT!
+ culture_census_469: "Census of [469.GetName]" #NT!
+ culture_census_470: "Census of [470.GetName]" #NT!
+ culture_census_471: "Census of [471.GetName]" #NT!
+ culture_census_472: "Census of [472.GetName]" #NT!
+ culture_census_473: "Census of [473.GetName]" #NT!
+ culture_census_474: "Census of [474.GetName]" #NT!
+ culture_census_475: "Census of [475.GetName]" #NT!
+ culture_census_476: "Census of [476.GetName]" #NT!
+ culture_census_477: "Census of [477.GetName]" #NT!
+ culture_census_478: "Census of [478.GetName]" #NT!
+ culture_census_479: "Census of [479.GetName]" #NT!
+ culture_census_480: "Census of [480.GetName]" #NT!
+ culture_census_481: "Census of [481.GetName]" #NT!
+ culture_census_482: "Census of [482.GetName]" #NT!
+ culture_census_483: "Census of [483.GetName]" #NT!
+ culture_census_484: "Census of [484.GetName]" #NT!
+ culture_census_485: "Census of [485.GetName]" #NT!
+ culture_census_486: "Census of [486.GetName]" #NT!
+ culture_census_487: "Census of [487.GetName]" #NT!
+ culture_census_488: "Census of [488.GetName]" #NT!
+ culture_census_489: "Census of [489.GetName]" #NT!
+ culture_census_490: "Census of [490.GetName]" #NT!
+ culture_census_491: "Census of [491.GetName]" #NT!
+ culture_census_492: "Census of [492.GetName]" #NT!
+ culture_census_493: "Census of [493.GetName]" #NT!
+ culture_census_494: "Census of [494.GetName]" #NT!
+ culture_census_495: "Census of [495.GetName]" #NT!
+ culture_census_496: "Census of [496.GetName]" #NT!
+ culture_census_497: "Census of [497.GetName]" #NT!
+ culture_census_498: "Census of [498.GetName]" #NT!
+ culture_census_499: "Census of [499.GetName]" #NT!
+ culture_census_500: "Census of [500.GetName]" #NT!
+ culture_census_501: "Census of [501.GetName]" #NT!
+ culture_census_502: "Census of [502.GetName]" #NT!
+ culture_census_503: "Census of [503.GetName]" #NT!
+ culture_census_504: "Census of [504.GetName]" #NT!
+ culture_census_505: "Census of [505.GetName]" #NT!
+ culture_census_506: "Census of [506.GetName]" #NT!
+ culture_census_507: "Census of [507.GetName]" #NT!
+ culture_census_508: "Census of [508.GetName]" #NT!
+ culture_census_509: "Census of [509.GetName]" #NT!
+ culture_census_510: "Census of [510.GetName]" #NT!
+ culture_census_511: "Census of [511.GetName]" #NT!
+ culture_census_512: "Census of [512.GetName]" #NT!
+ culture_census_513: "Census of [513.GetName]" #NT!
+ culture_census_514: "Census of [514.GetName]" #NT!
+ culture_census_515: "Census of [515.GetName]" #NT!
+ culture_census_516: "Census of [516.GetName]" #NT!
+ culture_census_517: "Census of [517.GetName]" #NT!
+ culture_census_518: "Census of [518.GetName]" #NT!
+ culture_census_519: "Census of [519.GetName]" #NT!
+ culture_census_520: "Census of [520.GetName]" #NT!
+ culture_census_521: "Census of [521.GetName]" #NT!
+ culture_census_522: "Census of [522.GetName]" #NT!
+ culture_census_523: "Census of [523.GetName]" #NT!
+ culture_census_524: "Census of [524.GetName]" #NT!
+ culture_census_525: "Census of [525.GetName]" #NT!
+ culture_census_526: "Census of [526.GetName]" #NT!
+ culture_census_527: "Census of [527.GetName]" #NT!
+ culture_census_528: "Census of [528.GetName]" #NT!
+ culture_census_529: "Census of [529.GetName]" #NT!
+ culture_census_530: "Census of [530.GetName]" #NT!
+ culture_census_531: "Census of [531.GetName]" #NT!
+ culture_census_532: "Census of [532.GetName]" #NT!
+ culture_census_533: "Census of [533.GetName]" #NT!
+ culture_census_534: "Census of [534.GetName]" #NT!
+ culture_census_535: "Census of [535.GetName]" #NT!
+ culture_census_536: "Census of [536.GetName]" #NT!
+ culture_census_537: "Census of [537.GetName]" #NT!
+ culture_census_538: "Census of [538.GetName]" #NT!
+ culture_census_539: "Census of [539.GetName]" #NT!
+ culture_census_540: "Census of [540.GetName]" #NT!
+ culture_census_541: "Census of [541.GetName]" #NT!
+ culture_census_542: "Census of [542.GetName]" #NT!
+ culture_census_543: "Census of [543.GetName]" #NT!
+ culture_census_544: "Census of [544.GetName]" #NT!
+ culture_census_545: "Census of [545.GetName]" #NT!
+ culture_census_546: "Census of [546.GetName]" #NT!
+ culture_census_547: "Census of [547.GetName]" #NT!
+ culture_census_548: "Census of [548.GetName]" #NT!
+ culture_census_549: "Census of [549.GetName]" #NT!
+ culture_census_550: "Census of [550.GetName]" #NT!
+ culture_census_551: "Census of [551.GetName]" #NT!
+ culture_census_552: "Census of [552.GetName]" #NT!
+ culture_census_553: "Census of [553.GetName]" #NT!
+ culture_census_554: "Census of [554.GetName]" #NT!
+ culture_census_555: "Census of [555.GetName]" #NT!
+ culture_census_556: "Census of [556.GetName]" #NT!
+ culture_census_557: "Census of [557.GetName]" #NT!
+ culture_census_558: "Census of [558.GetName]" #NT!
+ culture_census_559: "Census of [559.GetName]" #NT!
+ culture_census_560: "Census of [560.GetName]" #NT!
+ culture_census_561: "Census of [561.GetName]" #NT!
+ culture_census_562: "Census of [562.GetName]" #NT!
+ culture_census_563: "Census of [563.GetName]" #NT!
+ culture_census_564: "Census of [564.GetName]" #NT!
+ culture_census_565: "Census of [565.GetName]" #NT!
+ culture_census_566: "Census of [566.GetName]" #NT!
+ culture_census_567: "Census of [567.GetName]" #NT!
+ culture_census_568: "Census of [568.GetName]" #NT!
+ culture_census_569: "Census of [569.GetName]" #NT!
+ culture_census_570: "Census of [570.GetName]" #NT!
+ culture_census_571: "Census of [571.GetName]" #NT!
+ culture_census_572: "Census of [572.GetName]" #NT!
+ culture_census_573: "Census of [573.GetName]" #NT!
+ culture_census_574: "Census of [574.GetName]" #NT!
+ culture_census_575: "Census of [575.GetName]" #NT!
+ culture_census_576: "Census of [576.GetName]" #NT!
+ culture_census_577: "Census of [577.GetName]" #NT!
+ culture_census_578: "Census of [578.GetName]" #NT!
+ culture_census_579: "Census of [579.GetName]" #NT!
+ culture_census_580: "Census of [580.GetName]" #NT!
+ culture_census_581: "Census of [581.GetName]" #NT!
+ culture_census_582: "Census of [582.GetName]" #NT!
+ culture_census_583: "Census of [583.GetName]" #NT!
+ culture_census_584: "Census of [584.GetName]" #NT!
+ culture_census_585: "Census of [585.GetName]" #NT!
+ culture_census_586: "Census of [586.GetName]" #NT!
+ culture_census_587: "Census of [587.GetName]" #NT!
+ culture_census_588: "Census of [588.GetName]" #NT!
+ culture_census_589: "Census of [589.GetName]" #NT!
+ culture_census_590: "Census of [590.GetName]" #NT!
+ culture_census_591: "Census of [591.GetName]" #NT!
+ culture_census_592: "Census of [592.GetName]" #NT!
+ culture_census_593: "Census of [593.GetName]" #NT!
+ culture_census_594: "Census of [594.GetName]" #NT!
+ culture_census_595: "Census of [595.GetName]" #NT!
+ culture_census_596: "Census of [596.GetName]" #NT!
+ culture_census_597: "Census of [597.GetName]" #NT!
+ culture_census_598: "Census of [598.GetName]" #NT!
+ culture_census_599: "Census of [599.GetName]" #NT!
+ culture_census_600: "Census of [600.GetName]" #NT!
+ culture_census_601: "Census of [601.GetName]" #NT!
+ culture_census_602: "Census of [602.GetName]" #NT!
+ culture_census_603: "Census of [603.GetName]" #NT!
+ culture_census_604: "Census of [604.GetName]" #NT!
+ culture_census_605: "Census of [605.GetName]" #NT!
+ culture_census_606: "Census of [606.GetName]" #NT!
+ culture_census_607: "Census of [607.GetName]" #NT!
+ culture_census_608: "Census of [608.GetName]" #NT!
+ culture_census_609: "Census of [609.GetName]" #NT!
+ culture_census_610: "Census of [610.GetName]" #NT!
+ culture_census_611: "Census of [611.GetName]" #NT!
+ culture_census_612: "Census of [612.GetName]" #NT!
+ culture_census_613: "Census of [613.GetName]" #NT!
+ culture_census_614: "Census of [614.GetName]" #NT!
+ culture_census_615: "Census of [615.GetName]" #NT!
+ culture_census_616: "Census of [616.GetName]" #NT!
+ culture_census_617: "Census of [617.GetName]" #NT!
+ culture_census_618: "Census of [618.GetName]" #NT!
+ culture_census_619: "Census of [619.GetName]" #NT!
+ culture_census_620: "Census of [620.GetName]" #NT!
+ culture_census_621: "Census of [621.GetName]" #NT!
+ culture_census_622: "Census of [622.GetName]" #NT!
+ culture_census_623: "Census of [623.GetName]" #NT!
+ culture_census_624: "Census of [624.GetName]" #NT!
+ culture_census_625: "Census of [625.GetName]" #NT!
+ culture_census_626: "Census of [626.GetName]" #NT!
+ culture_census_627: "Census of [627.GetName]" #NT!
+ culture_census_628: "Census of [628.GetName]" #NT!
+ culture_census_629: "Census of [629.GetName]" #NT!
+ culture_census_630: "Census of [630.GetName]" #NT!
+ culture_census_631: "Census of [631.GetName]" #NT!
+ culture_census_632: "Census of [632.GetName]" #NT!
+ culture_census_633: "Census of [633.GetName]" #NT!
+ culture_census_634: "Census of [634.GetName]" #NT!
+ culture_census_635: "Census of [635.GetName]" #NT!
+ culture_census_636: "Census of [636.GetName]" #NT!
+ culture_census_637: "Census of [637.GetName]" #NT!
+ culture_census_638: "Census of [638.GetName]" #NT!
+ culture_census_639: "Census of [639.GetName]" #NT!
+ culture_census_640: "Census of [640.GetName]" #NT!
+ culture_census_641: "Census of [641.GetName]" #NT!
+ culture_census_642: "Census of [642.GetName]" #NT!
+ culture_census_643: "Census of [643.GetName]" #NT!
+ culture_census_644: "Census of [644.GetName]" #NT!
+ culture_census_645: "Census of [645.GetName]" #NT!
+ culture_census_646: "Census of [646.GetName]" #NT!
+ culture_census_647: "Census of [647.GetName]" #NT!
+ culture_census_648: "Census of [648.GetName]" #NT!
+ culture_census_649: "Census of [649.GetName]" #NT!
+ culture_census_650: "Census of [650.GetName]" #NT!
+ culture_census_651: "Census of [651.GetName]" #NT!
+ culture_census_652: "Census of [652.GetName]" #NT!
+ culture_census_653: "Census of [653.GetName]" #NT!
+ culture_census_654: "Census of [654.GetName]" #NT!
+ culture_census_655: "Census of [655.GetName]" #NT!
+ culture_census_656: "Census of [656.GetName]" #NT!
+ culture_census_657: "Census of [657.GetName]" #NT!
+ culture_census_658: "Census of [658.GetName]" #NT!
+ culture_census_659: "Census of [659.GetName]" #NT!
+ culture_census_660: "Census of [660.GetName]" #NT!
+ culture_census_661: "Census of [661.GetName]" #NT!
+ culture_census_662: "Census of [662.GetName]" #NT!
+ culture_census_663: "Census of [663.GetName]" #NT!
+ culture_census_664: "Census of [664.GetName]" #NT!
+ culture_census_665: "Census of [665.GetName]" #NT!
+ culture_census_666: "Census of [666.GetName]" #NT!
+ culture_census_667: "Census of [667.GetName]" #NT!
+ culture_census_668: "Census of [668.GetName]" #NT!
+ culture_census_669: "Census of [669.GetName]" #NT!
+ culture_census_670: "Census of [670.GetName]" #NT!
+ culture_census_671: "Census of [671.GetName]" #NT!
+ culture_census_672: "Census of [672.GetName]" #NT!
+ culture_census_673: "Census of [673.GetName]" #NT!
+ culture_census_674: "Census of [674.GetName]" #NT!
+ culture_census_675: "Census of [675.GetName]" #NT!
+ culture_census_676: "Census of [676.GetName]" #NT!
+ culture_census_677: "Census of [677.GetName]" #NT!
+ culture_census_678: "Census of [678.GetName]" #NT!
+ culture_census_679: "Census of [679.GetName]" #NT!
+ culture_census_680: "Census of [680.GetName]" #NT!
+ culture_census_681: "Census of [681.GetName]" #NT!
+ culture_census_682: "Census of [682.GetName]" #NT!
+ culture_census_683: "Census of [683.GetName]" #NT!
+ culture_census_684: "Census of [684.GetName]" #NT!
+ culture_census_685: "Census of [685.GetName]" #NT!
+ culture_census_686: "Census of [686.GetName]" #NT!
+ culture_census_687: "Census of [687.GetName]" #NT!
+ culture_census_688: "Census of [688.GetName]" #NT!
+ culture_census_689: "Census of [689.GetName]" #NT!
+ culture_census_690: "Census of [690.GetName]" #NT!
+ culture_census_691: "Census of [691.GetName]" #NT!
+ culture_census_692: "Census of [692.GetName]" #NT!
+ culture_census_693: "Census of [693.GetName]" #NT!
+ culture_census_694: "Census of [694.GetName]" #NT!
+ culture_census_695: "Census of [695.GetName]" #NT!
+ culture_census_696: "Census of [696.GetName]" #NT!
+ culture_census_697: "Census of [697.GetName]" #NT!
+ culture_census_698: "Census of [698.GetName]" #NT!
+ culture_census_699: "Census of [699.GetName]" #NT!
+ culture_census_700: "Census of [700.GetName]" #NT!
+ culture_census_701: "Census of [701.GetName]" #NT!
+ culture_census_702: "Census of [702.GetName]" #NT!
+ culture_census_703: "Census of [703.GetName]" #NT!
+ culture_census_704: "Census of [704.GetName]" #NT!
+ culture_census_705: "Census of [705.GetName]" #NT!
+ culture_census_706: "Census of [706.GetName]" #NT!
+ culture_census_707: "Census of [707.GetName]" #NT!
+ culture_census_708: "Census of [708.GetName]" #NT!
+ culture_census_709: "Census of [709.GetName]" #NT!
+ culture_census_710: "Census of [710.GetName]" #NT!
+ culture_census_711: "Census of [711.GetName]" #NT!
+ culture_census_712: "Census of [712.GetName]" #NT!
+ culture_census_713: "Census of [713.GetName]" #NT!
+ culture_census_714: "Census of [714.GetName]" #NT!
+ culture_census_715: "Census of [715.GetName]" #NT!
+ culture_census_716: "Census of [716.GetName]" #NT!
+ culture_census_717: "Census of [717.GetName]" #NT!
+ culture_census_718: "Census of [718.GetName]" #NT!
+ culture_census_719: "Census of [719.GetName]" #NT!
+ culture_census_720: "Census of [720.GetName]" #NT!
+ culture_census_721: "Census of [721.GetName]" #NT!
+ culture_census_722: "Census of [722.GetName]" #NT!
+ culture_census_723: "Census of [723.GetName]" #NT!
+ culture_census_724: "Census of [724.GetName]" #NT!
+ culture_census_725: "Census of [725.GetName]" #NT!
+ culture_census_726: "Census of [726.GetName]" #NT!
+ culture_census_727: "Census of [727.GetName]" #NT!
+ culture_census_728: "Census of [728.GetName]" #NT!
+ culture_census_729: "Census of [729.GetName]" #NT!
+ culture_census_730: "Census of [730.GetName]" #NT!
+ culture_census_731: "Census of [731.GetName]" #NT!
+ culture_census_732: "Census of [732.GetName]" #NT!
+ culture_census_733: "Census of [733.GetName]" #NT!
+ culture_census_734: "Census of [734.GetName]" #NT!
+ culture_census_735: "Census of [735.GetName]" #NT!
+ culture_census_736: "Census of [736.GetName]" #NT!
+ culture_census_737: "Census of [737.GetName]" #NT!
+ culture_census_738: "Census of [738.GetName]" #NT!
+ culture_census_739: "Census of [739.GetName]" #NT!
+ culture_census_740: "Census of [740.GetName]" #NT!
+ culture_census_741: "Census of [741.GetName]" #NT!
+ culture_census_742: "Census of [742.GetName]" #NT!
+ culture_census_743: "Census of [743.GetName]" #NT!
+ culture_census_744: "Census of [744.GetName]" #NT!
+ culture_census_745: "Census of [745.GetName]" #NT!
+ culture_census_746: "Census of [746.GetName]" #NT!
+ culture_census_747: "Census of [747.GetName]" #NT!
+ culture_census_748: "Census of [748.GetName]" #NT!
+ culture_census_749: "Census of [749.GetName]" #NT!
+ culture_census_750: "Census of [750.GetName]" #NT!
+ culture_census_751: "Census of [751.GetName]" #NT!
+ culture_census_752: "Census of [752.GetName]" #NT!
+ culture_census_753: "Census of [753.GetName]" #NT!
+ culture_census_754: "Census of [754.GetName]" #NT!
+ culture_census_755: "Census of [755.GetName]" #NT!
+ culture_census_756: "Census of [756.GetName]" #NT!
+ culture_census_757: "Census of [757.GetName]" #NT!
+ culture_census_758: "Census of [758.GetName]" #NT!
+ culture_census_759: "Census of [759.GetName]" #NT!
+ culture_census_760: "Census of [760.GetName]" #NT!
+ culture_census_761: "Census of [761.GetName]" #NT!
+ culture_census_762: "Census of [762.GetName]" #NT!
+ culture_census_763: "Census of [763.GetName]" #NT!
+ culture_census_764: "Census of [764.GetName]" #NT!
+ culture_census_765: "Census of [765.GetName]" #NT!
+ culture_census_766: "Census of [766.GetName]" #NT!
+ culture_census_767: "Census of [767.GetName]" #NT!
+ culture_census_768: "Census of [768.GetName]" #NT!
+ culture_census_769: "Census of [769.GetName]" #NT!
+ culture_census_770: "Census of [770.GetName]" #NT!
+ culture_census_771: "Census of [771.GetName]" #NT!
+ culture_census_772: "Census of [772.GetName]" #NT!
+ culture_census_773: "Census of [773.GetName]" #NT!
+ culture_census_774: "Census of [774.GetName]" #NT!
+ culture_census_775: "Census of [775.GetName]" #NT!
+ culture_census_776: "Census of [776.GetName]" #NT!
+ culture_census_777: "Census of [777.GetName]" #NT!
+ culture_census_778: "Census of [778.GetName]" #NT!
+ culture_census_779: "Census of [779.GetName]" #NT!
+ culture_census_780: "Census of [780.GetName]" #NT!
+ culture_census_781: "Census of [781.GetName]" #NT!
+ culture_census_782: "Census of [782.GetName]" #NT!
+ culture_census_783: "Census of [783.GetName]" #NT!
+ culture_census_784: "Census of [784.GetName]" #NT!
+ culture_census_785: "Census of [785.GetName]" #NT!
+ culture_census_786: "Census of [786.GetName]" #NT!
+ culture_census_787: "Census of [787.GetName]" #NT!
+ culture_census_788: "Census of [788.GetName]" #NT!
+ culture_census_789: "Census of [789.GetName]" #NT!
+ culture_census_790: "Census of [790.GetName]" #NT!
+ culture_census_791: "Census of [791.GetName]" #NT!
+ culture_census_792: "Census of [792.GetName]" #NT!
+ culture_census_793: "Census of [793.GetName]" #NT!
+ culture_census_794: "Census of [794.GetName]" #NT!
+ culture_census_795: "Census of [795.GetName]" #NT!
+ culture_census_796: "Census of [796.GetName]" #NT!
+ culture_census_797: "Census of [797.GetName]" #NT!
+ culture_census_798: "Census of [798.GetName]" #NT!
+ culture_census_799: "Census of [799.GetName]" #NT!
+ culture_census_800: "Census of [800.GetName]" #NT!
+ culture_census_801: "Census of [801.GetName]" #NT!
+ culture_census_802: "Census of [802.GetName]" #NT!
+ culture_census_803: "Census of [803.GetName]" #NT!
+ culture_census_804: "Census of [804.GetName]" #NT!
+ culture_census_805: "Census of [805.GetName]" #NT!
+ culture_census_806: "Census of [806.GetName]" #NT!
+ culture_census_807: "Census of [807.GetName]" #NT!
+ culture_census_808: "Census of [808.GetName]" #NT!
+ culture_census_809: "Census of [809.GetName]" #NT!
+ culture_census_810: "Census of [810.GetName]" #NT!
+ culture_census_811: "Census of [811.GetName]" #NT!
+ culture_census_812: "Census of [812.GetName]" #NT!
+ culture_census_813: "Census of [813.GetName]" #NT!
+ culture_census_814: "Census of [814.GetName]" #NT!
+ culture_census_815: "Census of [815.GetName]" #NT!
+ culture_census_816: "Census of [816.GetName]" #NT!
+ culture_census_817: "Census of [817.GetName]" #NT!
+ culture_census_818: "Census of [818.GetName]" #NT!
+ culture_census_819: "Census of [819.GetName]" #NT!
+ culture_census_820: "Census of [820.GetName]" #NT!
+ culture_census_821: "Census of [821.GetName]" #NT!
+ culture_census_822: "Census of [822.GetName]" #NT!
+ culture_census_823: "Census of [823.GetName]" #NT!
+ culture_census_824: "Census of [824.GetName]" #NT!
+ culture_census_825: "Census of [825.GetName]" #NT!
+ culture_census_826: "Census of [826.GetName]" #NT!
+ culture_census_827: "Census of [827.GetName]" #NT!
+ culture_census_828: "Census of [828.GetName]" #NT!
+ culture_census_829: "Census of [829.GetName]" #NT!
+ culture_census_830: "Census of [830.GetName]" #NT!
+ culture_census_831: "Census of [831.GetName]" #NT!
+ culture_census_832: "Census of [832.GetName]" #NT!
+ culture_census_833: "Census of [833.GetName]" #NT!
+ culture_census_834: "Census of [834.GetName]" #NT!
+ culture_census_835: "Census of [835.GetName]" #NT!
+ culture_census_836: "Census of [836.GetName]" #NT!
+ culture_census_837: "Census of [837.GetName]" #NT!
+ culture_census_838: "Census of [838.GetName]" #NT!
+ culture_census_839: "Census of [839.GetName]" #NT!
+ culture_census_840: "Census of [840.GetName]" #NT!
+ culture_census_841: "Census of [841.GetName]" #NT!
+ culture_census_842: "Census of [842.GetName]" #NT!
+ culture_census_843: "Census of [843.GetName]" #NT!
+ culture_census_844: "Census of [844.GetName]" #NT!
+ culture_census_845: "Census of [845.GetName]" #NT!
+ culture_census_846: "Census of [846.GetName]" #NT!
+ culture_census_847: "Census of [847.GetName]" #NT!
+ culture_census_848: "Census of [848.GetName]" #NT!
+ culture_census_849: "Census of [849.GetName]" #NT!
+ culture_census_850: "Census of [850.GetName]" #NT!
+ culture_census_851: "Census of [851.GetName]" #NT!
+ culture_census_852: "Census of [852.GetName]" #NT!
+ culture_census_853: "Census of [853.GetName]" #NT!
+ culture_census_854: "Census of [854.GetName]" #NT!
+ culture_census_855: "Census of [855.GetName]" #NT!
+ culture_census_856: "Census of [856.GetName]" #NT!
+ culture_census_857: "Census of [857.GetName]" #NT!
+ culture_census_858: "Census of [858.GetName]" #NT!
+ culture_census_859: "Census of [859.GetName]" #NT!
+ culture_census_860: "Census of [860.GetName]" #NT!
+ culture_census_861: "Census of [861.GetName]" #NT!
+ culture_census_862: "Census of [862.GetName]" #NT!
+ culture_census_863: "Census of [863.GetName]" #NT!
+ culture_census_864: "Census of [864.GetName]" #NT!
+ culture_census_865: "Census of [865.GetName]" #NT!
+ culture_census_866: "Census of [866.GetName]" #NT!
+ culture_census_867: "Census of [867.GetName]" #NT!
+ culture_census_868: "Census of [868.GetName]" #NT!
+ culture_census_869: "Census of [869.GetName]" #NT!
+ culture_census_870: "Census of [870.GetName]" #NT!
+ culture_census_871: "Census of [871.GetName]" #NT!
+ culture_census_872: "Census of [872.GetName]" #NT!
+ culture_census_873: "Census of [873.GetName]" #NT!
+ culture_census_874: "Census of [874.GetName]" #NT!
+ culture_census_875: "Census of [875.GetName]" #NT!
+ culture_census_876: "Census of [876.GetName]" #NT!
+ culture_census_877: "Census of [877.GetName]" #NT!
+ culture_census_878: "Census of [878.GetName]" #NT!
+ culture_census_879: "Census of [879.GetName]" #NT!
+ culture_census_880: "Census of [880.GetName]" #NT!
+ culture_census_881: "Census of [881.GetName]" #NT!
+ culture_census_882: "Census of [882.GetName]" #NT!
+ culture_census_883: "Census of [883.GetName]" #NT!
+ culture_census_884: "Census of [884.GetName]" #NT!
+ culture_census_885: "Census of [885.GetName]" #NT!
+ culture_census_886: "Census of [886.GetName]" #NT!
+ culture_census_887: "Census of [887.GetName]" #NT!
+ culture_census_888: "Census of [888.GetName]" #NT!
+ culture_census_889: "Census of [889.GetName]" #NT!
+ culture_census_890: "Census of [890.GetName]" #NT!
+ culture_census_891: "Census of [891.GetName]" #NT!
+ culture_census_892: "Census of [892.GetName]" #NT!
+ culture_census_893: "Census of [893.GetName]" #NT!
+ culture_census_894: "Census of [894.GetName]" #NT!
+ culture_census_895: "Census of [895.GetName]" #NT!
+ culture_census_896: "Census of [896.GetName]" #NT!
+ culture_census_897: "Census of [897.GetName]" #NT!
+ culture_census_898: "Census of [898.GetName]" #NT!
+ culture_census_899: "Census of [899.GetName]" #NT!
+ culture_census_900: "Census of [900.GetName]" #NT!
+ culture_census_901: "Census of [901.GetName]" #NT!
+ culture_census_902: "Census of [902.GetName]" #NT!
+ culture_census_903: "Census of [903.GetName]" #NT!
+ culture_census_904: "Census of [904.GetName]" #NT!
+ culture_census_905: "Census of [905.GetName]" #NT!
+ culture_census_906: "Census of [906.GetName]" #NT!
+ culture_census_907: "Census of [907.GetName]" #NT!
+ culture_census_908: "Census of [908.GetName]" #NT!
+ culture_census_909: "Census of [909.GetName]" #NT!
+ culture_census_910: "Census of [910.GetName]" #NT!
+ culture_census_911: "Census of [911.GetName]" #NT!
+ culture_census_912: "Census of [912.GetName]" #NT!
+ culture_census_913: "Census of [913.GetName]" #NT!
+ culture_census_914: "Census of [914.GetName]" #NT!
+ culture_census_915: "Census of [915.GetName]" #NT!
+ culture_census_916: "Census of [916.GetName]" #NT!
+ culture_census_917: "Census of [917.GetName]" #NT!
+ culture_census_918: "Census of [918.GetName]" #NT!
+ culture_census_919: "Census of [919.GetName]" #NT!
+ culture_census_920: "Census of [920.GetName]" #NT!
+ culture_census_921: "Census of [921.GetName]" #NT!
+ culture_census_922: "Census of [922.GetName]" #NT!
+ culture_census_923: "Census of [923.GetName]" #NT!
+ culture_census_924: "Census of [924.GetName]" #NT!
+ culture_census_925: "Census of [925.GetName]" #NT!
+ culture_census_926: "Census of [926.GetName]" #NT!
+ culture_census_927: "Census of [927.GetName]" #NT!
+ culture_census_928: "Census of [928.GetName]" #NT!
+ culture_census_929: "Census of [929.GetName]" #NT!
+ culture_census_930: "Census of [930.GetName]" #NT!
+ culture_census_931: "Census of [931.GetName]" #NT!
+ culture_census_932: "Census of [932.GetName]" #NT!
+ culture_census_933: "Census of [933.GetName]" #NT!
+ culture_census_934: "Census of [934.GetName]" #NT!
+ culture_census_935: "Census of [935.GetName]" #NT!
+ culture_census_936: "Census of [936.GetName]" #NT!
+ culture_census_937: "Census of [937.GetName]" #NT!
+ culture_census_938: "Census of [938.GetName]" #NT!
+ culture_census_939: "Census of [939.GetName]" #NT!
+ culture_census_940: "Census of [940.GetName]" #NT!
+ culture_census_941: "Census of [941.GetName]" #NT!
+ culture_census_942: "Census of [942.GetName]" #NT!
+ culture_census_943: "Census of [943.GetName]" #NT!
+ culture_census_944: "Census of [944.GetName]" #NT!
+ culture_census_945: "Census of [945.GetName]" #NT!
+ culture_census_946: "Census of [946.GetName]" #NT!
+ culture_census_947: "Census of [947.GetName]" #NT!
