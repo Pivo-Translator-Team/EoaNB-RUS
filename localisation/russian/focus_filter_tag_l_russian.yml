@@ -1,28 +1,28 @@
 ﻿l_russian:
  ######## 
- FOCUS_FILTER_HISTORICAL: "Historical" #NT!
- FOCUS_FILTER_MILITARY: "Military" #NT!
- FOCUS_FILTER_NAVY: "Navy" #NT!
- FOCUS_FILTER_ANARCHISM: "Anarchism" #NT!
- FOCUS_FILTER_AUTOCRACY: "Autocracy" #NT!
- FOCUS_FILTER_CENTRISM: "Conservative Liberalism" #NT!
- FOCUS_FILTER_CHAUVINIST: "Chauvinism" #NT!
- FOCUS_FILTER_FUNDAMENTALISM: "Fundamentalism" #NT!
- FOCUS_FILTER_PERIPHERAL: "Peripheral" #NT!
- FOCUS_FILTER_SOCIAL_EGAL: "Social Egalitarianism" #NT!
- FOCUS_FILTER_SOCIAL_LIBERALISM: "Social Liberalism" #NT!
- FOCUS_FILTER_TRAD_CONSERV: "Traditional Conservatism" #NT!
- FOCUS_FILTER_COMMUNISM: "Vanguard Communism" #NT!
- FOCUS_FILTER_ALTHISTORY: "Alternate History" #NT!
- FOCUS_FILTER_DIPLOMACY: "Diplomacy" #NT!
+ FOCUS_FILTER_HISTORICAL: "Historical" 
+ FOCUS_FILTER_MILITARY: "Military" 
+ FOCUS_FILTER_NAVY: "Navy" 
+ FOCUS_FILTER_ANARCHISM: "Anarchism" 
+ FOCUS_FILTER_AUTOCRACY: "Autocracy" 
+ FOCUS_FILTER_CENTRISM: "Conservative Liberalism" 
+ FOCUS_FILTER_CHAUVINIST: "Chauvinism" 
+ FOCUS_FILTER_FUNDAMENTALISM: "Fundamentalism" 
+ FOCUS_FILTER_PERIPHERAL: "Peripheral" 
+ FOCUS_FILTER_SOCIAL_EGAL: "Social Egalitarianism" 
+ FOCUS_FILTER_SOCIAL_LIBERALISM: "Social Liberalism" 
+ FOCUS_FILTER_TRAD_CONSERV: "Traditional Conservatism" 
+ FOCUS_FILTER_COMMUNISM: "Vanguard Communism" 
+ FOCUS_FILTER_ALTHISTORY: "Alternate History" 
+ FOCUS_FILTER_DIPLOMACY: "Diplomacy" 
  ######## 
- FOCUS_FILTER_POLITICAL: "Politics" #NT!
+ FOCUS_FILTER_POLITICAL: "Politics" 
  FOCUS_FILTER_RESEARCH: "Исследования"
  FOCUS_FILTER_INDUSTRY: "Промышленность"
  FOCUS_FILTER_STABILITY: "Стабильность"
  FOCUS_FILTER_WAR_SUPPORT: "Поддержка войны"
  FOCUS_FILTER_MANPOWER: "Людские ресурсы"
- FOCUS_FILTER_ECONOMY: "Economy" #NT!
+ FOCUS_FILTER_ECONOMY: "Economy" 
  FOCUS_FILTER_FRA_POLITICAL_VIOLENCE: "Политическое насилие"
  FOCUS_FILTER_FRA_OCCUPATION_COST: "Затраты на оккупацию"
  FOCUS_FILTER_ANNEXATION: "Территориальная экспансия"
@@ -38,4 +38,4 @@
  FOCUS_FILTER_TUR_KURDISTAN: "Курдистан"
  FOCUS_FILTER_TUR_KEMALISM: "Кемализм"
  FOCUS_FILTER_TUR_TRADITIONALISM: "Традиционализм"
- FOCUS_FILTER_VEN_CAUDILLOS: "Caudillos" #NT!
+ FOCUS_FILTER_VEN_CAUDILLOS: "Caudillos" 

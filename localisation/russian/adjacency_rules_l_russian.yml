@@ -23,21 +23,21 @@
  PANAMA_CANAL: "Панамский канал"
  KIEL_CANAL: "Канал кайзера Вильгельма"
  BOSPHORUS_STRAIT: "Босфорский пролив"
- NICARAGUA_CANAL: "Nicaragua Canal" #NT!
+ NICARAGUA_CANAL: "Nicaragua Canal" 
  disable_canal_tt: "§RКанал частично уничтожен. Для возобновления судоходства его необходимо отремонтировать.§!"
  SUEZ_CANAL_BLOCKED: "Взорван Суэцкий канал"
  PANAMA_CANAL_BLOCKED: "Взорван Панамский канал"
  SUEZ_CANAL_BLOCKED_FOR_COUNTRY: "Государство [Root.GetName] отрезано от Суэцкого канала"
  PANAMA_CANAL_BLOCKED_FOR_COUNTRY: "Государство [Root.GetName] отрезано от Панамского канала"
- KIEL_CANAL_BLOCKED_FOR_COUNTRY: "Kiel Canal Blocked for [Root.GetName]" #NT!
- SUEZ_CANAL_BUILT: "The Suez Canal has been built." #NT!
- PANAMA_CANAL_BUILT: "The Panama Canal has been built." #NT!
- KIEL_CANAL_BUILT: "The Kiel Canal has been built." #NT!
- NICARAGUA_CANAL_BUILT: "The Nicaragua Canal has been built." #NT!
- disable_suez_canal_tt: "The §YSuez Canal§! is currently §Runuseable§!, because it is either not built yet or destroyed." #NT!
- disable_panama_canal_tt: "The §YPanama Canal§! is currently §Runuseable§!, because it is either not built yet or destroyed." #NT!
- disable_kiel_canal_tt: "The §YKiel Canal§! is currently §Runuseable§!, because it is either not built yet or destroyed." #NT!
- disable_nicaragua_canal_tt: "The §YNicaragua Canal§! is currently §Runuseable§!, because it is either not built yet or destroyed." #NT!
+ KIEL_CANAL_BLOCKED_FOR_COUNTRY: "Kiel Canal Blocked for [Root.GetName]" 
+ SUEZ_CANAL_BUILT: "The Suez Canal has been built." 
+ PANAMA_CANAL_BUILT: "The Panama Canal has been built." 
+ KIEL_CANAL_BUILT: "The Kiel Canal has been built." 
+ NICARAGUA_CANAL_BUILT: "The Nicaragua Canal has been built." 
+ disable_suez_canal_tt: "The §YSuez Canal§! is currently §Runuseable§!, because it is either not built yet or destroyed." 
+ disable_panama_canal_tt: "The §YPanama Canal§! is currently §Runuseable§!, because it is either not built yet or destroyed." 
+ disable_kiel_canal_tt: "The §YKiel Canal§! is currently §Runuseable§!, because it is either not built yet or destroyed." 
+ disable_nicaragua_canal_tt: "The §YNicaragua Canal§! is currently §Runuseable§!, because it is either not built yet or destroyed." 
  BOSPHORUS_STRAIT_BLOCKED: "Босфорский пролив заблокирован"
  BOSPHORUS_STRAIT_BLOCKED_FOR_COUNTRY: "Государство [ROOT.GetName] отрезано от Босфорского пролива"
  bosporus_strait_blocked_tt: "§RПролив закрыт для государства [ROOT.GetName] в связи с ухудшением отношений со страной, контролирующей пролив.§!"

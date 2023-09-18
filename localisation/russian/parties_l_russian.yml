@@ -1,271 +1,271 @@
 ﻿l_russian:
   
  # USA Generic Parties 
- USA_centrism_party: "Liberals" #NT!
- USA_centrism_party_long: "Liberals" #NT!
- USA_traditional_conservatism_party: "Conservatives" #NT!
- USA_traditional_conservatism_party_long: "Conservatives" #NT!
- USA_social_egalitarianism_party: "Progressives" #NT!
- USA_social_egalitarianism_party_long: "Progressives" #NT!
- USA_ideology_radical_socialism_party: "Socialists" #NT!
- USA_ideology_radical_socialism_party_long: "Socialists" #NT!
- USA_ideology_social_liberalism_party: "Liberals" #NT!
- USA_ideology_social_liberalism_party_long: "Liberals" #NT!
- USA_chauvinist_populism_party: "Chauvinists" #NT!
- USA_chauvinist_populism_party_long: "Chauvinists" #NT!
- USA_autocracy_party: "Monarchists" #NT!
- USA_autocracy_party_long: "Monarchists" #NT!
- USA_fundamentalism_party: "Fundamentalists" #NT!
- USA_fundamentalism_party_long: "Fundamentalists" #NT!
- USA_radical_democracy_party: "Reactionaries" #NT!
- USA_radical_democracy_party_long: "Reactionaries" #NT!
- USA_anarchism_party: "Anarchists" #NT!
- USA_anarchism_party_long: "Anarchists" #NT!
+ USA_centrism_party: "Liberals" 
+ USA_centrism_party_long: "Liberals" 
+ USA_traditional_conservatism_party: "Conservatives" 
+ USA_traditional_conservatism_party_long: "Conservatives" 
+ USA_social_egalitarianism_party: "Progressives" 
+ USA_social_egalitarianism_party_long: "Progressives" 
+ USA_ideology_radical_socialism_party: "Socialists" 
+ USA_ideology_radical_socialism_party_long: "Socialists" 
+ USA_ideology_social_liberalism_party: "Liberals" 
+ USA_ideology_social_liberalism_party_long: "Liberals" 
+ USA_chauvinist_populism_party: "Chauvinists" 
+ USA_chauvinist_populism_party_long: "Chauvinists" 
+ USA_autocracy_party: "Monarchists" 
+ USA_autocracy_party_long: "Monarchists" 
+ USA_fundamentalism_party: "Fundamentalists" 
+ USA_fundamentalism_party_long: "Fundamentalists" 
+ USA_radical_democracy_party: "Reactionaries" 
+ USA_radical_democracy_party_long: "Reactionaries" 
+ USA_anarchism_party: "Anarchists" 
+ USA_anarchism_party_long: "Anarchists" 
  # USA Parties 1857 - 1865 
- USA_republican_party: "Republicans (Moderates)" #NT!
- USA_republican_party_long: "The Republican Party" #NT!
- USA_radical_republican_party: "Republicans (Radical)" #NT!
- USA_radical_republican_party_long: "The Republican Party" #NT!
- USA_democrat_party: "Democrats" #NT!
- USA_democrat_party_long: "Democratic Party" #NT!
- USA_northern_democrat_party: "Democrats" #NT!
- USA_northern_democrat_party_long: "The Democratic Party" #NT!
- USA_southern_democrat_party: "Democrats (Southern)" #NT!
- USA_southern_democrat_party_long: "The Democratic Party" #NT!
- USA_know_nothing_party: "Know Nothings" #NT!
- USA_know_nothing_party_long: "The American Party" #NT!
- USA_constitutional_union_party: "Constitutional Unionists" #NT!
- USA_constitutional_union_party_long: "Constitutional Union Party" #NT!
- USA_national_union_party: "National Unionists" #NT!
- USA_national_union_party_long: "National Union Party" #NT!
+ USA_republican_party: "Republicans (Moderates)" 
+ USA_republican_party_long: "The Republican Party" 
+ USA_radical_republican_party: "Republicans (Radical)" 
+ USA_radical_republican_party_long: "The Republican Party" 
+ USA_democrat_party: "Democrats" 
+ USA_democrat_party_long: "Democratic Party" 
+ USA_northern_democrat_party: "Democrats" 
+ USA_northern_democrat_party_long: "The Democratic Party" 
+ USA_southern_democrat_party: "Democrats (Southern)" 
+ USA_southern_democrat_party_long: "The Democratic Party" 
+ USA_know_nothing_party: "Know Nothings" 
+ USA_know_nothing_party_long: "The American Party" 
+ USA_constitutional_union_party: "Constitutional Unionists" 
+ USA_constitutional_union_party_long: "Constitutional Union Party" 
+ USA_national_union_party: "National Unionists" 
+ USA_national_union_party_long: "National Union Party" 
   # USA Parties 1865 - 1880 
- USA_stalwart_republican_party: "Stalwart Republicans" #NT!
- USA_stalwart_republican_party_long: "Republican Party" #NT!
- USA_half_breed_party: "Half-Breed Republicans" #NT!
- USA_half_breed_party_long: "Republican Party" #NT!
- USA_dixiecrat_party: "Dixiecrats" #NT!
- USA_dixiecrat_party_long: "Dixiecrat Party" #NT!
- USA_war_democrats: "War Democrats" #NT!
- USA_war_democrats_long: "Democratic Party" #NT!
- USA_prohibitionist_party: "Prohibitionists" #NT!
- USA_prohibitionist_party_long: "National Prohibition Party" #NT!
- USA_greenback_party_long: "Greenback Party" #NT!
- USA_greenback_party: "Greenbacks" #NT!
+ USA_stalwart_republican_party: "Stalwart Republicans" 
+ USA_stalwart_republican_party_long: "Republican Party" 
+ USA_half_breed_party: "Half-Breed Republicans" 
+ USA_half_breed_party_long: "Republican Party" 
+ USA_dixiecrat_party: "Dixiecrats" 
+ USA_dixiecrat_party_long: "Dixiecrat Party" 
+ USA_war_democrats: "War Democrats" 
+ USA_war_democrats_long: "Democratic Party" 
+ USA_prohibitionist_party: "Prohibitionists" 
+ USA_prohibitionist_party_long: "National Prohibition Party" 
+ USA_greenback_party_long: "Greenback Party" 
+ USA_greenback_party: "Greenbacks" 
   # USA Parties 1880 -2050 
- USA_bull_moose_party: "Progressives" #NT!
- USA_bull_moose_party_long: "Progressive 'Bull Moose' Party" #NT!
- USA_progressive_democrat_long: "Democratic Party (Progressives)" #NT!
- USA_progressive_democrat: "Progressive Democrats" #NT!
- USA_radical_socialist_party_long: "Socialist Labor Party of America" #NT!
- USA_radical_socialist_party: "Radical Socialists" #NT!
- USA_liberal_republican_party_long: "Liberal Republican Party" #NT!
- USA_liberal_republican_party: "Liberal Republicans" #NT!
- USA_mugwumps_long: "Republican Party" #NT!
- USA_mugwumps: "Mugwump Republicans" #NT!
- USA_farmer_labor_long: "Farmer-Labor Party" #NT!
- USA_farmer_labor: "Farmer-Labors" #NT!
- USA_communist_party_long: "Communist Party of America" #NT!
- USA_communist_party: "Communists" #NT!
- USA_america_first_party_long: "America First Party" #NT!
- USA_america_first_party: "AFP Supporters" #NT!
- USA_populist_party_long: "Populist 'People's' Party" #NT!
- USA_populist_party: "Populists" #NT!
- USA_bourbon_democrats_party_long: "Democratic Party (Bourbons)" #NT!
- USA_bourbon_democrats_party: "Bourbon Democrats" #NT!
+ USA_bull_moose_party: "Progressives" 
+ USA_bull_moose_party_long: "Progressive 'Bull Moose' Party" 
+ USA_progressive_democrat_long: "Democratic Party (Progressives)" 
+ USA_progressive_democrat: "Progressive Democrats" 
+ USA_radical_socialist_party_long: "Socialist Labor Party of America" 
+ USA_radical_socialist_party: "Radical Socialists" 
+ USA_liberal_republican_party_long: "Liberal Republican Party" 
+ USA_liberal_republican_party: "Liberal Republicans" 
+ USA_mugwumps_long: "Republican Party" 
+ USA_mugwumps: "Mugwump Republicans" 
+ USA_farmer_labor_long: "Farmer-Labor Party" 
+ USA_farmer_labor: "Farmer-Labors" 
+ USA_communist_party_long: "Communist Party of America" 
+ USA_communist_party: "Communists" 
+ USA_america_first_party_long: "America First Party" 
+ USA_america_first_party: "AFP Supporters" 
+ USA_populist_party_long: "Populist 'People's' Party" 
+ USA_populist_party: "Populists" 
+ USA_bourbon_democrats_party_long: "Democratic Party (Bourbons)" 
+ USA_bourbon_democrats_party: "Bourbon Democrats" 
   
- NEG_social_egalitarianism_party_long: "Radical Republican Party" #NT!
- NEG_social_egalitarianism_party: "Radical Republicans" #NT!
- NEG_centrism_party_long: "Republican Party" #NT!
- NEG_centrism_party: "Republicans" #NT!
- NEG_stalwarts_party_long: "Stalwart Republican Party" #NT!
- NEG_stalwarts_party: "Stalwarts" #NT!
- NEG_traditional_conservatism_party_long: "Democrat Party" #NT!
- NEG_traditional_conservatism_party: "Democrats" #NT!
- NEG_chauvinist_populism_party_long: "Democratic National Party" #NT!
- NEG_chauvinist_populism_party: "Democratic Nationals" #NT!
- NEG_whig_party_long: "Reformed Whig Party" #NT!
- NEG_whig_party: "Free Whigs" #NT!
- NEG_radical_democracy_party_long: "Free America Front" #NT!
- NEG_radical_democracy_party: "FAFs" #NT!
- NEG_populist_party_long: "New Englander Populist Party" #NT!
- NEG_populist_party: "Populists" #NT!
- NEG_ideology_radical_socialism_party_long: "Bulwark Socialist Party" #NT!
- NEG_ideology_radical_socialism_party: "Socialist" #NT!
- NEG_progressive_party_long: "Progressive Party" #NT!
- NEG_progressive_party: "Progressivists" #NT!
+ NEG_social_egalitarianism_party_long: "Radical Republican Party" 
+ NEG_social_egalitarianism_party: "Radical Republicans" 
+ NEG_centrism_party_long: "Republican Party" 
+ NEG_centrism_party: "Republicans" 
+ NEG_stalwarts_party_long: "Stalwart Republican Party" 
+ NEG_stalwarts_party: "Stalwarts" 
+ NEG_traditional_conservatism_party_long: "Democrat Party" 
+ NEG_traditional_conservatism_party: "Democrats" 
+ NEG_chauvinist_populism_party_long: "Democratic National Party" 
+ NEG_chauvinist_populism_party: "Democratic Nationals" 
+ NEG_whig_party_long: "Reformed Whig Party" 
+ NEG_whig_party: "Free Whigs" 
+ NEG_radical_democracy_party_long: "Free America Front" 
+ NEG_radical_democracy_party: "FAFs" 
+ NEG_populist_party_long: "New Englander Populist Party" 
+ NEG_populist_party: "Populists" 
+ NEG_ideology_radical_socialism_party_long: "Bulwark Socialist Party" 
+ NEG_ideology_radical_socialism_party: "Socialist" 
+ NEG_progressive_party_long: "Progressive Party" 
+ NEG_progressive_party: "Progressivists" 
   
- ASA_centrism_party_long: "Stalwart Republican Caucus" #NT!
- ASA_centrism_party: "Stalwart Republicans" #NT!
- ASA_traditional_conservatism_party_long: "Democratic Party" #NT!
- ASA_traditional_conservatism_party: "Democrats" #NT!
- ASA_social_egalitarianism_party_long: "Radical Republican Caucus" #NT!
- ASA_social_egalitarianism_party: "Radical Republicans" #NT!
- ASA_ideology_radical_socialism_party_long: "Owenist Commune Party" #NT!
- ASA_ideology_radical_socialism_party: "Owenists" #NT!
- ASA_ideology_social_liberalism_party_long: "Proletariat First Party" #NT!
- ASA_ideology_social_liberalism_party: "Marxists" #NT!
- ASA_chauvinist_populism_party_long: "Pan-America League" #NT!
- ASA_chauvinist_populism_party: "Pan-Americanists" #NT!
- ASA_populist_party_long: "Populist Party" #NT!
- ASA_populist_party: "Populists" #NT!
- ASA_autocracy_party_long: "McClellan Personality Cult" #NT!
- ASA_autocracy_party: "McClellanites" #NT!
- ASA_progressive_party_long: "Progressive Party" #NT!
- ASA_progressive_party: "Progressives" #NT!
- ASA_fundamentalism_party_long: "American Peace Society" #NT!
- ASA_fundamentalism_party: "Christian Pacifists" #NT!
- ASA_radical_democracy_party_long: "American Unification Party" #NT!
- ASA_radical_democracy_party: "Military Lobbyists" #NT!
- ASA_corporatism_party_long: "The Gilded League" #NT!
- ASA_corporatism_party: "Corporate Lobbyists" #NT!
- ASA_anarchism_party_long: "Individualist Sovereign Party" #NT!
- ASA_anarchism_party: "Mutualists" #NT!
+ ASA_centrism_party_long: "Stalwart Republican Caucus" 
+ ASA_centrism_party: "Stalwart Republicans" 
+ ASA_traditional_conservatism_party_long: "Democratic Party" 
+ ASA_traditional_conservatism_party: "Democrats" 
+ ASA_social_egalitarianism_party_long: "Radical Republican Caucus" 
+ ASA_social_egalitarianism_party: "Radical Republicans" 
+ ASA_ideology_radical_socialism_party_long: "Owenist Commune Party" 
+ ASA_ideology_radical_socialism_party: "Owenists" 
+ ASA_ideology_social_liberalism_party_long: "Proletariat First Party" 
+ ASA_ideology_social_liberalism_party: "Marxists" 
+ ASA_chauvinist_populism_party_long: "Pan-America League" 
+ ASA_chauvinist_populism_party: "Pan-Americanists" 
+ ASA_populist_party_long: "Populist Party" 
+ ASA_populist_party: "Populists" 
+ ASA_autocracy_party_long: "McClellan Personality Cult" 
+ ASA_autocracy_party: "McClellanites" 
+ ASA_progressive_party_long: "Progressive Party" 
+ ASA_progressive_party: "Progressives" 
+ ASA_fundamentalism_party_long: "American Peace Society" 
+ ASA_fundamentalism_party: "Christian Pacifists" 
+ ASA_radical_democracy_party_long: "American Unification Party" 
+ ASA_radical_democracy_party: "Military Lobbyists" 
+ ASA_corporatism_party_long: "The Gilded League" 
+ ASA_corporatism_party: "Corporate Lobbyists" 
+ ASA_anarchism_party_long: "Individualist Sovereign Party" 
+ ASA_anarchism_party: "Mutualists" 
   
- LIB_centrism_party_long: "Republican Party" #NT!
- LIB_centrism_party: "Republicans" #NT!
- LIB_traditional_conservatism_party_long: "True Whig Party" #NT!
- LIB_traditional_conservatism_party: "Whigs" #NT!
- LIB_social_egalitarianism_party_long: "Radical Republican Party" #NT!
- LIB_social_egalitarianism_party: "Radical Republicans" #NT!
- LIB_ideology_radical_socialism_party_long: "Owenist Commune Party" #NT!
- LIB_ideology_radical_socialism_party: "Owenists" #NT!
- LIB_ideology_social_liberalism_party_long: "Proletariat First Party" #NT!
- LIB_ideology_social_liberalism_party: "Marxists" #NT!
- LIB_chauvinist_populism_party_long: "American Colonization Party" #NT!
- LIB_chauvinist_populism_party: "ACS Lobbyists" #NT!
- LIB_autocracy_party_long: "Liberian Imperial Party" #NT!
- LIB_autocracy_party: "Imperialist" #NT!
- LIB_fundamentalism_party_long: "Temperance Union Party" #NT!
- LIB_fundamentalism_party: "Temperance Advocates" #NT!
- LIB_radical_democracy_party_long: "The Gilded League" #NT!
- LIB_radical_democracy_party: "Corporative Lobbyists" #NT!
- LIB_anarchism_party_long: "Individualist Sovereign Party" #NT!
- LIB_anarchism_party: "Mutualists" #NT!
+ LIB_centrism_party_long: "Republican Party" 
+ LIB_centrism_party: "Republicans" 
+ LIB_traditional_conservatism_party_long: "True Whig Party" 
+ LIB_traditional_conservatism_party: "Whigs" 
+ LIB_social_egalitarianism_party_long: "Radical Republican Party" 
+ LIB_social_egalitarianism_party: "Radical Republicans" 
+ LIB_ideology_radical_socialism_party_long: "Owenist Commune Party" 
+ LIB_ideology_radical_socialism_party: "Owenists" 
+ LIB_ideology_social_liberalism_party_long: "Proletariat First Party" 
+ LIB_ideology_social_liberalism_party: "Marxists" 
+ LIB_chauvinist_populism_party_long: "American Colonization Party" 
+ LIB_chauvinist_populism_party: "ACS Lobbyists" 
+ LIB_autocracy_party_long: "Liberian Imperial Party" 
+ LIB_autocracy_party: "Imperialist" 
+ LIB_fundamentalism_party_long: "Temperance Union Party" 
+ LIB_fundamentalism_party: "Temperance Advocates" 
+ LIB_radical_democracy_party_long: "The Gilded League" 
+ LIB_radical_democracy_party: "Corporative Lobbyists" 
+ LIB_anarchism_party_long: "Individualist Sovereign Party" 
+ LIB_anarchism_party: "Mutualists" 
   
- WVG_centrism_party_long: "Republican Party" #NT!
- WVG_centrism_party: "Republicans" #NT!
- WVG_radical_democracy_party_long: "Reformed Virginia Coalition" #NT!
- WVG_radical_democracy_party: "Reformed Virginia Coalition" #NT!
- WVG_traditional_conservatism_party: "Democrats" #NT!
- WVG_traditional_conservatism_party_long: "Democratic Party" #NT!
+ WVG_centrism_party_long: "Republican Party" 
+ WVG_centrism_party: "Republicans" 
+ WVG_radical_democracy_party_long: "Reformed Virginia Coalition" 
+ WVG_radical_democracy_party: "Reformed Virginia Coalition" 
+ WVG_traditional_conservatism_party: "Democrats" 
+ WVG_traditional_conservatism_party_long: "Democratic Party" 
   
- USAROD_military_party: "Reconstruction Government" #NT!
- USAROD_Military_party_long: "United States Army Occupational Administration" #NT!
+ USAROD_military_party: "Reconstruction Government" 
+ USAROD_Military_party_long: "United States Army Occupational Administration" 
   
- MHC_social_egalitarianism_party_long: "Radical Republican Party" #NT!
- MHC_social_egalitarianism_party: "Radical Republicans" #NT!
- MHC_anarchism_party_long: "Individualist Sovereign Party" #NT!
- MHC_anarchism_party: "Mutualists" #NT!
- MHC_ideology_radical_socialism_party_long: "Owenist Commune Party" #NT!
- MHC_ideology_radical_socialism_party: "Owenists" #NT!
- MHC_ideology_social_liberalism_party_long: "Proletariat First Party" #NT!
- MHC_ideology_social_liberalism_party: "Marxists" #NT!
- MHC_centrism_party_long: "Republican Party" #NT!
- MHC_centrism_party: "Republicans" #NT!
- MHC_traditional_conservatism_party_long: "Free Market Party" #NT!
- MHC_traditional_conservatism_party: "Free Marketeers" #NT!
- MHC_chauvinist_populism_party_long: "The Gilded League" #NT!
- MHC_chauvinist_populism_party: "Corporative Lobbyists" #NT!
- MHC_autocracy_party_long: "Yorker Empire Party" #NT!
- MHC_autocracy_party: "Imperial Yorkers" #NT!
- MHC_fundamentalism_party_long: "American Peace Society" #NT!
- MHC_fundamentalism_party: "Christian Pacifists" #NT!
+ MHC_social_egalitarianism_party_long: "Radical Republican Party" 
+ MHC_social_egalitarianism_party: "Radical Republicans" 
+ MHC_anarchism_party_long: "Individualist Sovereign Party" 
+ MHC_anarchism_party: "Mutualists" 
+ MHC_ideology_radical_socialism_party_long: "Owenist Commune Party" 
+ MHC_ideology_radical_socialism_party: "Owenists" 
+ MHC_ideology_social_liberalism_party_long: "Proletariat First Party" 
+ MHC_ideology_social_liberalism_party: "Marxists" 
+ MHC_centrism_party_long: "Republican Party" 
+ MHC_centrism_party: "Republicans" 
+ MHC_traditional_conservatism_party_long: "Free Market Party" 
+ MHC_traditional_conservatism_party: "Free Marketeers" 
+ MHC_chauvinist_populism_party_long: "The Gilded League" 
+ MHC_chauvinist_populism_party: "Corporative Lobbyists" 
+ MHC_autocracy_party_long: "Yorker Empire Party" 
+ MHC_autocracy_party: "Imperial Yorkers" 
+ MHC_fundamentalism_party_long: "American Peace Society" 
+ MHC_fundamentalism_party: "Christian Pacifists" 
   
- UTA_social_egalitarianism_party_long: "Liberal Party of Utah (Radicals)" #NT!
- UTA_social_egalitarianism_party: "Radical Liberals" #NT!
- UTA_centrism_party_long: "Liberal Party of Utah" #NT!
- UTA_centrism_party: "Moderate Liberals" #NT!
- UTA_traditional_conservatism_party_long: "People's Party of Utah (Moderates)" #NT!
- UTA_traditional_conservatism_party: "Moderate Mormons" #NT!
- UTA_fundamentalism_party_long: "People's Party of Utah (Conservatives)" #NT!
- UTA_fundamentalism_party: "Conservative Utahns" #NT!
+ UTA_social_egalitarianism_party_long: "Liberal Party of Utah (Radicals)" 
+ UTA_social_egalitarianism_party: "Radical Liberals" 
+ UTA_centrism_party_long: "Liberal Party of Utah" 
+ UTA_centrism_party: "Moderate Liberals" 
+ UTA_traditional_conservatism_party_long: "People's Party of Utah (Moderates)" 
+ UTA_traditional_conservatism_party: "Moderate Mormons" 
+ UTA_fundamentalism_party_long: "People's Party of Utah (Conservatives)" 
+ UTA_fundamentalism_party: "Conservative Utahns" 
   
- CAL_ideology_social_liberalism_party_long: "Socialist Party of California (Radicals)" #NT!
- CAL_ideology_social_liberalism_party: "Radical Socialists" #NT!
- CAL_ideology_radical_socialism_party_long: "Socialist Party of California (Moderates)" #NT!
- CAL_ideology_radical_socialism_party: "Socialists" #NT!
- CAL_social_egalitarianism_party_long: "California Progressive Party" #NT!
- CAL_social_egalitarianism_party: "Progressives" #NT!
- CAL_centrism_party_long: "Republican Party of California" #NT!
- CAL_centrism_party: "California Republicans" #NT!
- CAL_traditional_conservatism_party_long: "Democratic Party of California" #NT!
- CAL_traditional_conservatism_party: "California Democrats" #NT!
- CAL_radical_democracy_party_long: "Military Government of California" #NT!
- CAL_radical_democracy_party: "Military Junta" #NT!
- CAL_autocracy_party_long: "House of Norton" #NT!
- CAL_autocracy_party: "Norton Loyalists" #NT!
- CAL_chauvinist_populism_party_long: "Fascist Party of California" #NT!
- CAL_chauvinist_populism_party: "Fascists" #NT!
+ CAL_ideology_social_liberalism_party_long: "Socialist Party of California (Radicals)" 
+ CAL_ideology_social_liberalism_party: "Radical Socialists" 
+ CAL_ideology_radical_socialism_party_long: "Socialist Party of California (Moderates)" 
+ CAL_ideology_radical_socialism_party: "Socialists" 
+ CAL_social_egalitarianism_party_long: "California Progressive Party" 
+ CAL_social_egalitarianism_party: "Progressives" 
+ CAL_centrism_party_long: "Republican Party of California" 
+ CAL_centrism_party: "California Republicans" 
+ CAL_traditional_conservatism_party_long: "Democratic Party of California" 
+ CAL_traditional_conservatism_party: "California Democrats" 
+ CAL_radical_democracy_party_long: "Military Government of California" 
+ CAL_radical_democracy_party: "Military Junta" 
+ CAL_autocracy_party_long: "House of Norton" 
+ CAL_autocracy_party: "Norton Loyalists" 
+ CAL_chauvinist_populism_party_long: "Fascist Party of California" 
+ CAL_chauvinist_populism_party: "Fascists" 
   
- ORE_ideology_social_liberalism_party_long: "Socialist Party of Oregon (Radicals)" #NT!
- ORE_ideology_social_liberalism_party: "Radical Socialists" #NT!
- ORE_ideology_radical_socialism_long: "Socialist Party of Oregon (Moderates)" #NT!
- ORE_ideology_radical_socialism: "Socialists" #NT!
- ORE_social_egalitarianism_party_long: "Progressive Party of Oregon" #NT!
- ORE_social_egalitarianism_party: "Progressives" #NT!
- ORE_centrism_party_long: "Liberal Party of Oregon" #NT!
- ORE_centrism_party: "Liberals" #NT!
- ORE_traditional_conservatism_party_long: "Conservative Party of Oregon" #NT!
- ORE_traditional_conservatism_party: "Conservatives" #NT!
- ORE_radical_democracy_party: "Unconditional Union Party" #NT!
- ORE_radical_democracy_party: "Unionists" #NT!
- ORE_autocracy_party_long: "House of Cascadia" #NT!
- ORE_autocracy_party: "Cascadian Imperialists" #NT!
- ORE_chauvinist_populism_party_long: "Cascadian Nationalist Party" #NT!
- ORE_chauvinist_populism_party_long: "Cascadian Nationalists" #NT!
+ ORE_ideology_social_liberalism_party_long: "Socialist Party of Oregon (Radicals)" 
+ ORE_ideology_social_liberalism_party: "Radical Socialists" 
+ ORE_ideology_radical_socialism_long: "Socialist Party of Oregon (Moderates)" 
+ ORE_ideology_radical_socialism: "Socialists" 
+ ORE_social_egalitarianism_party_long: "Progressive Party of Oregon" 
+ ORE_social_egalitarianism_party: "Progressives" 
+ ORE_centrism_party_long: "Liberal Party of Oregon" 
+ ORE_centrism_party: "Liberals" 
+ ORE_traditional_conservatism_party_long: "Conservative Party of Oregon" 
+ ORE_traditional_conservatism_party: "Conservatives" 
+ ORE_radical_democracy_party: "Unconditional Union Party" 
+ ORE_radical_democracy_party: "Unionists" 
+ ORE_autocracy_party_long: "House of Cascadia" 
+ ORE_autocracy_party: "Cascadian Imperialists" 
+ ORE_chauvinist_populism_party_long: "Cascadian Nationalist Party" 
+ ORE_chauvinist_populism_party_long: "Cascadian Nationalists" 
   
- TEX_ideology_social_liberalism_party_long: "Radical Socialist Party of Texas" #NT!
- TEX_ideology_social_liberalism_party: "Radical Socialists" #NT!
- TEX_ideology_radical_socialism_party_long: "Socialist Party of Texas" #NT!
- TEX_ideology_radical_socialism_party: "Socialists" #NT!
- TEX_social_egalitarianism_party_long: "Radical Party of Texas" #NT!
- TEX_social_egalitarianism_party: "Radicals" #NT!
- TEX_centrism_party_long: "Republican Party of Texas" #NT!
- TEX_centrism_party: "Texan Republicans" #NT!
- TEX_traditional_conservatism_party_long: "Democratic Party of Texas" #NT!
- TEX_traditional_conservatism_party: "Texan Democrats" #NT!
- TEX_radical_democracy_party_long: "Unconditional Union Party" #NT!
- TEX_radical_democracy_party: "Unionists" #NT!
- TEX_autocracy_party_long: "House of Bourbon" #NT!
- TEX_autocracy_party: "Spanish Loyalists" #NT!
- TEX_chauvinist_populism_party_long: "All-Texan Nationalist Party" #NT!
- TEX_chauvinist_populism_party: "Texan Nationalists" #NT!
+ TEX_ideology_social_liberalism_party_long: "Radical Socialist Party of Texas" 
+ TEX_ideology_social_liberalism_party: "Radical Socialists" 
+ TEX_ideology_radical_socialism_party_long: "Socialist Party of Texas" 
+ TEX_ideology_radical_socialism_party: "Socialists" 
+ TEX_social_egalitarianism_party_long: "Radical Party of Texas" 
+ TEX_social_egalitarianism_party: "Radicals" 
+ TEX_centrism_party_long: "Republican Party of Texas" 
+ TEX_centrism_party: "Texan Republicans" 
+ TEX_traditional_conservatism_party_long: "Democratic Party of Texas" 
+ TEX_traditional_conservatism_party: "Texan Democrats" 
+ TEX_radical_democracy_party_long: "Unconditional Union Party" 
+ TEX_radical_democracy_party: "Unionists" 
+ TEX_autocracy_party_long: "House of Bourbon" 
+ TEX_autocracy_party: "Spanish Loyalists" 
+ TEX_chauvinist_populism_party_long: "All-Texan Nationalist Party" 
+ TEX_chauvinist_populism_party: "Texan Nationalists" 
   
- ASH_autocracy_party: "House of Oyoko" #NT!
+ ASH_autocracy_party: "House of Oyoko" 
   
- ARO_autocracy_party: "Eze Aro Faction" #NT!
- ARO_radical_democracy_party: "Okpankpo Faction" #NT!
- ARO_fundamentalism_party: "Ibini Ukpabi Faction" #NT!
+ ARO_autocracy_party: "Eze Aro Faction" 
+ ARO_radical_democracy_party: "Okpankpo Faction" 
+ ARO_fundamentalism_party: "Ibini Ukpabi Faction" 
   
- KOY_autocracy_party: "Bai's Faction" #NT!
+ KOY_autocracy_party: "Bai's Faction" 
   
- SOT_autocracy_party: "House of Bamokoteli" #NT!
+ SOT_autocracy_party: "House of Bamokoteli" 
   
  #Napoleonian France 
   
- FRA_ideology_social_liberalism_party: "Marxistes" #NT!
- FRA_ideology_radical_socialism_party: "Socialistes" #NT!
- FRA_social_egalitarianism_party: "Républicains" #NT!
- FRA_centrism_party: "Modérés" #NT!
- FRA_traditional_conservatism_party: "Tiers Parti" #NT!
- FRA_radical_democracy_party: "Monarchistes" #NT!
- FRA_autocracy_party: "Bonapartistes" #NT!
- FRA_chauvinist_populism_party: "Militaristes" #NT!
- FRA_anarchism_party: "Anarchistes" #NT!
- FRA_fundamentalism_party: "Eglise Catholique de France" #NT!
+ FRA_ideology_social_liberalism_party: "Marxistes" 
+ FRA_ideology_radical_socialism_party: "Socialistes" 
+ FRA_social_egalitarianism_party: "Républicains" 
+ FRA_centrism_party: "Modérés" 
+ FRA_traditional_conservatism_party: "Tiers Parti" 
+ FRA_radical_democracy_party: "Monarchistes" 
+ FRA_autocracy_party: "Bonapartistes" 
+ FRA_chauvinist_populism_party: "Militaristes" 
+ FRA_anarchism_party: "Anarchistes" 
+ FRA_fundamentalism_party: "Eglise Catholique de France" 
   
  #IIIe Republic France - Franco-Prussian War 
- FRA_iii_ideology_radical_socialism_party: "Blanquistes" #NT!
- FRA_iii_social_egalitarianism_party: "Libéraux" #NT!
- FRA_iii_centrism_party: "Républicains Modérés" #NT!
- FRA_iii_ideology_social_liberalism_party: "Républicains Progressistes" #NT!
- FRA_iii_traditional_conservatism_party: "Défense Nationale" #NT!
- FRA_iii_radical_democracy_party: "Monarchistes" #NT!
- FRA_iii_chauvinist_populism_party: "Militaristes" #NT!
+ FRA_iii_ideology_radical_socialism_party: "Blanquistes" 
+ FRA_iii_social_egalitarianism_party: "Libéraux" 
+ FRA_iii_centrism_party: "Républicains Modérés" 
+ FRA_iii_ideology_social_liberalism_party: "Républicains Progressistes" 
+ FRA_iii_traditional_conservatism_party: "Défense Nationale" 
+ FRA_iii_radical_democracy_party: "Monarchistes" 
+ FRA_iii_chauvinist_populism_party: "Militaristes" 
   
  #IIIe Republic France - 1871 Election 
- FRA_iii_1871_traditional_conservatism_party: "Monarchistes" #NT!
- FRA_iii_1871_radical_democracy_party: "Union Républicaine" #NT!
+ FRA_iii_1871_traditional_conservatism_party: "Monarchistes" 
+ FRA_iii_1871_radical_democracy_party: "Union Républicaine" 
   
   
   
@@ -276,837 +276,837 @@
   
   
   
- BWR_ideology_social_liberalism_party: "Marxist Workers Party" #NT!
- BWR_ideology_radical_socialism_party: "United Trade Councils" #NT!
- BWR_social_egalitarianism_party: "Socialist Democratic Party of Britain" #NT!
- BWR_centrism_party: "Liberal Republican Party" #NT!
- BWR_traditional_conservatism_party: "Old Republicans" #NT!
- BWR_radical_democracy_party: "Free Revolutionary Council" #NT!
- BWR_autocracy_party: "Monarchist Opposition" #NT!
- BWR_chauvinist_populism_party: "Radical National Party of Britain" #NT!
- BWR_anarchism_party: "League of Free Communities" #NT!
- BWR_fundamentalism_party: "Theocratic Opposition" #NT!
+ BWR_ideology_social_liberalism_party: "Marxist Workers Party" 
+ BWR_ideology_radical_socialism_party: "United Trade Councils" 
+ BWR_social_egalitarianism_party: "Socialist Democratic Party of Britain" 
+ BWR_centrism_party: "Liberal Republican Party" 
+ BWR_traditional_conservatism_party: "Old Republicans" 
+ BWR_radical_democracy_party: "Free Revolutionary Council" 
+ BWR_autocracy_party: "Monarchist Opposition" 
+ BWR_chauvinist_populism_party: "Radical National Party of Britain" 
+ BWR_anarchism_party: "League of Free Communities" 
+ BWR_fundamentalism_party: "Theocratic Opposition" 
   
- RUS_autocracy_party: "Dom Romanovyh" #NT!
- RUS_fundamentalism_party: "Chernye Sotny" #NT!
- RUS_ideology_social_liberalism_party: "RSDRP (B)" #NT!
- RUS_centrism_party: "KDP" #NT!
- RUS_centrism_party_long: "Konstitutsionno-Demokraticheskaya Partiya" #NT!
- RUS_traditional_conservatism_party: "Soyuz 17 Oktyabrya" #NT!
- RUS_social_egalitarianism_party: "Partiya Sotsialistov-Revolutsionerov" #NT!
- RUS_ideology_radical_socialism_party: "RSDRP (M)" #NT!
- RUS_radical_democracy_party: "Partiya Sozialistov-Revolutianerov" #NT!
- #RUS_chauvinist_populism_party: "Various Circles" #NT!
- RUS_anarchism_party: "Chyornoe Znamya" #NT!
+ RUS_autocracy_party: "Dom Romanovyh" 
+ RUS_fundamentalism_party: "Chernye Sotny" 
+ RUS_ideology_social_liberalism_party: "RSDRP (B)" 
+ RUS_centrism_party: "KDP" 
+ RUS_centrism_party_long: "Konstitutsionno-Demokraticheskaya Partiya" 
+ RUS_traditional_conservatism_party: "Soyuz 17 Oktyabrya" 
+ RUS_social_egalitarianism_party: "Partiya Sotsialistov-Revolutsionerov" 
+ RUS_ideology_radical_socialism_party: "RSDRP (M)" 
+ RUS_radical_democracy_party: "Partiya Sozialistov-Revolutianerov" 
+ #RUS_chauvinist_populism_party: "Various Circles" 
+ RUS_anarchism_party: "Chyornoe Znamya" 
   
   
- ZUL_autocracy_party: "King's Faction" #NT!
- ZUL_anarchism_party: "iNkatha Yezwe" #NT!
- ZUL_chauvinist_populism_party: "UWK" #NT!
- ZUL_chauvinist_populism_party_long: "Umphakathi Wokuvikelwa Kazwelonke" #NT!
- ZUL_fundamentalism_party: "Sangoma Faction" #NT!
- ZUL_social_egalitarianism_party: "IYOK" #NT!
- ZUL_social_egalitarianism_party_long: "iNkululeko yoKuzihlanganisa" #NT!
- ZUL_ideology_radical_socialism_party: "MK" #NT!
- ZUL_ideology_radical_socialism_party_long: "umKhonto weUhlanga" #NT!
- ZUL_ideology_social_liberalism_party: "UK" #NT!
- ZUL_ideology_social_liberalism_party_long: "Ukusebenzisana kwaBantu" #NT!
- ZUL_centrism_party: "IYYEq" #NT!
- ZUL_centrism_party_long: "Inhlangano yenTando yenIngi eqHubekayo" #NT!
- ZUL_traditional_conservatism_party: "Imifino" #NT!
- ZUL_radical_democracy_party: "Umkhandlu Omkhulu" #NT!
+ ZUL_autocracy_party: "King's Faction" 
+ ZUL_anarchism_party: "iNkatha Yezwe" 
+ ZUL_chauvinist_populism_party: "UWK" 
+ ZUL_chauvinist_populism_party_long: "Umphakathi Wokuvikelwa Kazwelonke" 
+ ZUL_fundamentalism_party: "Sangoma Faction" 
+ ZUL_social_egalitarianism_party: "IYOK" 
+ ZUL_social_egalitarianism_party_long: "iNkululeko yoKuzihlanganisa" 
+ ZUL_ideology_radical_socialism_party: "MK" 
+ ZUL_ideology_radical_socialism_party_long: "umKhonto weUhlanga" 
+ ZUL_ideology_social_liberalism_party: "UK" 
+ ZUL_ideology_social_liberalism_party_long: "Ukusebenzisana kwaBantu" 
+ ZUL_centrism_party: "IYYEq" 
+ ZUL_centrism_party_long: "Inhlangano yenTando yenIngi eqHubekayo" 
+ ZUL_traditional_conservatism_party: "Imifino" 
+ ZUL_radical_democracy_party: "Umkhandlu Omkhulu" 
   
- NKO_autocracy_party: "Omugabe's Faction" #NT!
+ NKO_autocracy_party: "Omugabe's Faction" 
   
- TYO_autocracy_party: "King's Faction" #NT!
+ TYO_autocracy_party: "King's Faction" 
   
- SER_centrism_party: "Liberals" #NT!
- SER_traditional_conservatism_party: "Defenders of the Constitution" #NT!
- SER_autocracy_party: "Autocracy" #NT!
+ SER_centrism_party: "Liberals" 
+ SER_traditional_conservatism_party: "Defenders of the Constitution" 
+ SER_autocracy_party: "Autocracy" 
   
- PRS_ideology_radical_socialism_party: "Revolutionäre Arbeiterbewegung" #NT!
- PRS_social_egalitarianism_party: "Reformistische Arbeiterbewegung" #NT!
- PRS_centrism_party: "Altliberale" #NT!
- PRS_ideology_social_liberalism_party: "Fortschrittler" #NT!
- PRS_traditional_conservatism_party: "Konservative Partei" #NT!
- PRS_radical_democracy_party: "Preußisches Herrenhaus" #NT!
- PRS_autocracy_party: "Haus Hohenzollern" #NT!
- PRS_chauvinist_populism_party: "Antisemitische Bewegung" #NT!
- PRS_anarchism_party: "Anarchistische Arbeiterbewegung" #NT!
- PRS_fundamentalism_party: "Katholische Fraktion" #NT!
+ PRS_ideology_radical_socialism_party: "Revolutionäre Arbeiterbewegung" 
+ PRS_social_egalitarianism_party: "Reformistische Arbeiterbewegung" 
+ PRS_centrism_party: "Altliberale" 
+ PRS_ideology_social_liberalism_party: "Fortschrittler" 
+ PRS_traditional_conservatism_party: "Konservative Partei" 
+ PRS_radical_democracy_party: "Preußisches Herrenhaus" 
+ PRS_autocracy_party: "Haus Hohenzollern" 
+ PRS_chauvinist_populism_party: "Antisemitische Bewegung" 
+ PRS_anarchism_party: "Anarchistische Arbeiterbewegung" 
+ PRS_fundamentalism_party: "Katholische Fraktion" 
   
- PRS_centrism_party_vincke: "Fraktion Vincke" #NT!
- PRS_ideology_social_liberalism_progressive_party: "DFP" #NT!
- PRS_ideology_social_liberalism_progressive_party_long: "Deutsche Fortschrittspartei" #NT!
- #PRS_centrism_republic_party: "FDNV" #NT!
- #PRS_centrism_republic_party_long: "Freier Deutscher Nationalverein" #NT!
- PRS_centrism_national_liberal_party: "NLP" #NT!
- PRS_centrism_national_liberal_party_long: "Nationalliberale Partei" #NT!
- PRS_adav_party_long: "Allgemeiner Deutscher Arbeiterverein" #NT!
- PRS_adav_party: "ADAV" #NT!
- PRS_vdav_party_long: "Vereinstag Deutscher Arbeitervereine" #NT!
- PRS_vdav_party: "VDAV" #NT!
- PRS_sdap_party_long: "Sozialdemokratische Arbeiterpartei" #NT!
- PRS_sdap_party: "SDAP" #NT!
- PRS_sap_party_long: "Sozialistische Arbeiterpartei Deutschlands" #NT!
- PRS_sap_party: "SAP" #NT!
- PRS_spd_party_long: "Sozialdemokratische Partei Deutschlands" #NT!
- PRS_spd_party: "SPD" #NT!
- PRS_fundamentalism_NGC_party_long: "Fraktion des Zentrums" #NT!
- PRS_fundamentalism_NGC_party: "Zentrum" #NT!
- PRS_zentrum_party_long: "Zentrumspartei" #NT!
- PRS_zentrum_party: "Zentrum" #NT!
+ PRS_centrism_party_vincke: "Fraktion Vincke" 
+ PRS_ideology_social_liberalism_progressive_party: "DFP" 
+ PRS_ideology_social_liberalism_progressive_party_long: "Deutsche Fortschrittspartei" 
+ #PRS_centrism_republic_party: "FDNV" 
+ #PRS_centrism_republic_party_long: "Freier Deutscher Nationalverein" 
+ PRS_centrism_national_liberal_party: "NLP" 
+ PRS_centrism_national_liberal_party_long: "Nationalliberale Partei" 
+ PRS_adav_party_long: "Allgemeiner Deutscher Arbeiterverein" 
+ PRS_adav_party: "ADAV" 
+ PRS_vdav_party_long: "Vereinstag Deutscher Arbeitervereine" 
+ PRS_vdav_party: "VDAV" 
+ PRS_sdap_party_long: "Sozialdemokratische Arbeiterpartei" 
+ PRS_sdap_party: "SDAP" 
+ PRS_sap_party_long: "Sozialistische Arbeiterpartei Deutschlands" 
+ PRS_sap_party: "SAP" 
+ PRS_spd_party_long: "Sozialdemokratische Partei Deutschlands" 
+ PRS_spd_party: "SPD" 
+ PRS_fundamentalism_NGC_party_long: "Fraktion des Zentrums" 
+ PRS_fundamentalism_NGC_party: "Zentrum" 
+ PRS_zentrum_party_long: "Zentrumspartei" 
+ PRS_zentrum_party: "Zentrum" 
   
- DEN_ideology_social_liberalism_party: "Bondevennernes Selskab" #NT!
- DEN_ideology_radical_socialism_party: "Den Radikale Socialistiske Arbejderbevægelse" #NT!
- DEN_social_egalitarianism_party: "Den Socialistiske Arbejderbevægelse" #NT!
- DEN_centrism_party: "De Nationalliberale" #NT!
- DEN_traditional_conservatism_party: "Højre" #NT!
- DEN_radical_democracy_party: "Landstinget" #NT!
- DEN_autocracy_party: "Huset Oldenborg" #NT!
- DEN_chauvinist_populism_party: "Chauvinistisk Bevægelse" #NT!
- DEN_anarchism_party: "Anarkistisk Bevægelse" #NT!
- DEN_fundamentalism_party: "Den Danske Folkekirke" #NT!
+ DEN_ideology_social_liberalism_party: "Bondevennernes Selskab" 
+ DEN_ideology_radical_socialism_party: "Den Radikale Socialistiske Arbejderbevægelse" 
+ DEN_social_egalitarianism_party: "Den Socialistiske Arbejderbevægelse" 
+ DEN_centrism_party: "De Nationalliberale" 
+ DEN_traditional_conservatism_party: "Højre" 
+ DEN_radical_democracy_party: "Landstinget" 
+ DEN_autocracy_party: "Huset Oldenborg" 
+ DEN_chauvinist_populism_party: "Chauvinistisk Bevægelse" 
+ DEN_anarchism_party: "Anarkistisk Bevægelse" 
+ DEN_fundamentalism_party: "Den Danske Folkekirke" 
   
   # Sweden 
- SWE_ideology_social_liberalism_party: "Sveriges Kommunistiska Parti" #NT!
- SWE_ideology_radical_socialism_party: "Vänsterpartiet" #NT!
- SWE_social_egalitarianism_party: "Sveriges socialdemokratiska arbetareparti" #NT!
- SWE_centrism_party: "Ministriella Partiet" #NT!
- SWE_radical_democracy_party: "Sveriges riksdag" #NT!
- SWE_traditional_conservatism_party: "Lantmannapartiet" #NT!
- SWE_autocracy_party: "House of Bernadotte" #NT!
- SWE_chauvinist_populism_party: "Svenska nationalsocialistiska partiet" #NT!
- SWE_anarchism_party: "Nysvenska Rörelsen" #NT!
- SWE_fundamentalism_party: "Svenska kyrkan" #NT!
+ SWE_ideology_social_liberalism_party: "Sveriges Kommunistiska Parti" 
+ SWE_ideology_radical_socialism_party: "Vänsterpartiet" 
+ SWE_social_egalitarianism_party: "Sveriges socialdemokratiska arbetareparti" 
+ SWE_centrism_party: "Ministriella Partiet" 
+ SWE_radical_democracy_party: "Sveriges riksdag" 
+ SWE_traditional_conservatism_party: "Lantmannapartiet" 
+ SWE_autocracy_party: "House of Bernadotte" 
+ SWE_chauvinist_populism_party: "Svenska nationalsocialistiska partiet" 
+ SWE_anarchism_party: "Nysvenska Rörelsen" 
+ SWE_fundamentalism_party: "Svenska kyrkan" 
   
   # Norway 
- NOR_ideology_social_liberalism_party: "Unorganized" #NT!
- NOR_social_egalitarianism_party: "Unorganized" #NT!
- NOR_ideology_radical_socialism_party: "Unorganized" #NT!
- NOR_fundamentalism_party: "Unorganized" #NT!
- NOR_chauvinist_populism_party: "Unorganized" #NT!
- NOR_radical_democracy_party: "Unorganized" #NT!
- NOR_anarchism_party: "Unorganized" #NT!
- NOR_autocracy_party: "House of Bernadotte" #NT!
- NOR_centrism_party: "Bønder" #NT!
- NOR_traditional_conservatism_party: "Embedsmenn" #NT!
- NOR_venstre_party: "Venstre" #NT!
- NOR_hoyre_party: "Høire" #NT!
- NOR_dfna_egal_party: "DfnA - M" #NT!
- NOR_dfna_radical_socialism_party: "Dfna - R" #NT!
- NOR_dfna_egal_party_long: "Det forenede norske Arbeiderparti - Moderate Wing" #NT!
- NOR_dfna_radical_socialism_party_long: "Det forenede norske Arbeiderparti - Radical Wing" #NT!
+ NOR_ideology_social_liberalism_party: "Unorganized" 
+ NOR_social_egalitarianism_party: "Unorganized" 
+ NOR_ideology_radical_socialism_party: "Unorganized" 
+ NOR_fundamentalism_party: "Unorganized" 
+ NOR_chauvinist_populism_party: "Unorganized" 
+ NOR_radical_democracy_party: "Unorganized" 
+ NOR_anarchism_party: "Unorganized" 
+ NOR_autocracy_party: "House of Bernadotte" 
+ NOR_centrism_party: "Bønder" 
+ NOR_traditional_conservatism_party: "Embedsmenn" 
+ NOR_venstre_party: "Venstre" 
+ NOR_hoyre_party: "Høire" 
+ NOR_dfna_egal_party: "DfnA - M" 
+ NOR_dfna_radical_socialism_party: "Dfna - R" 
+ NOR_dfna_egal_party_long: "Det forenede norske Arbeiderparti - Moderate Wing" 
+ NOR_dfna_radical_socialism_party_long: "Det forenede norske Arbeiderparti - Radical Wing" 
   
- SPR_ideology_social_liberalism_party: "Partido Marxista" #NT!
- SPR_ideology_radical_socialism_party: "Partido Socialista Obrero" #NT!
- SPR_social_egalitarianism_party: "Partido Progresista" #NT!
- SPR_centrism_party: "Unión Liberal" #NT!
- SPR_radical_democracy_party: "Partido Democratico" #NT!
- SPR_traditional_conservatism_party: "Moderados" #NT!
- SPR_autocracy_party: "House of Bourbon" #NT!
- SPR_chauvinist_populism_party: "Partido Radical" #NT!
- SPR_anarchism_party: "Confederacion Nacional del Trabajo" #NT!
- SPR_fundamentalism_party: "Iglesia Española Episcopal" #NT!
+ SPR_ideology_social_liberalism_party: "Partido Marxista" 
+ SPR_ideology_radical_socialism_party: "Partido Socialista Obrero" 
+ SPR_social_egalitarianism_party: "Partido Progresista" 
+ SPR_centrism_party: "Unión Liberal" 
+ SPR_radical_democracy_party: "Partido Democratico" 
+ SPR_traditional_conservatism_party: "Moderados" 
+ SPR_autocracy_party: "House of Bourbon" 
+ SPR_chauvinist_populism_party: "Partido Radical" 
+ SPR_anarchism_party: "Confederacion Nacional del Trabajo" 
+ SPR_fundamentalism_party: "Iglesia Española Episcopal" 
   
- GAL_autocracy_party: "House of Bourbon" #NT!
- GAL_centrism_party: "Uniòn Liberal" #NT!
- GAL_social_egalitarianism_party: "Partido Progressista" #NT!
- GAL_anarchism_party: "Anarquistas de Galicia" #NT!
+ GAL_autocracy_party: "House of Bourbon" 
+ GAL_centrism_party: "Uniòn Liberal" 
+ GAL_social_egalitarianism_party: "Partido Progressista" 
+ GAL_anarchism_party: "Anarquistas de Galicia" 
   
- BAS_centrism_party: "Uniòn Liberal" #NT!
- BAS_social_egalitarianism_party: "Partido Progressista" #NT!
- BAS_anarchism_party: "Movimento de Libertação Nacional Basco" #NT!
+ BAS_centrism_party: "Uniòn Liberal" 
+ BAS_social_egalitarianism_party: "Partido Progressista" 
+ BAS_anarchism_party: "Movimento de Libertação Nacional Basco" 
   
- CAT_centrism_party: "Uniòn Liberal" #NT!
- CAT_social_egalitarianism_party: "Partido Progressista" #NT!
- CAT_anarchism_party: "Anarquistes catalans" #NT!
+ CAT_centrism_party: "Uniòn Liberal" 
+ CAT_social_egalitarianism_party: "Partido Progressista" 
+ CAT_anarchism_party: "Anarquistes catalans" 
   
- POR_ideology_social_liberalism_party: "Comuna De Lisboa" #NT!
- POR_ideology_radical_socialism_party: "Partido Socialista Portugues" #NT!
- POR_social_egalitarianism_party: "Regenerados" #NT!
- POR_centrism_party: "Reformistas" #NT!
- POR_radical_democracy_party: "Oligarquia Portuges" #NT!
- POR_traditional_conservatism_party: "Historicos" #NT!
- POR_autocracy_party: "Miguelistas" #NT!
- POR_chauvinist_populism_party: "Comissão Imperial" #NT!
- POR_anarchism_party: "Avilistas" #NT!
- POR_fundamentalism_party: "Conferencia Episcopal Portugesa" #NT!
+ POR_ideology_social_liberalism_party: "Comuna De Lisboa" 
+ POR_ideology_radical_socialism_party: "Partido Socialista Portugues" 
+ POR_social_egalitarianism_party: "Regenerados" 
+ POR_centrism_party: "Reformistas" 
+ POR_radical_democracy_party: "Oligarquia Portuges" 
+ POR_traditional_conservatism_party: "Historicos" 
+ POR_autocracy_party: "Miguelistas" 
+ POR_chauvinist_populism_party: "Comissão Imperial" 
+ POR_anarchism_party: "Avilistas" 
+ POR_fundamentalism_party: "Conferencia Episcopal Portugesa" 
   
- PIE_ideology_radical_socialism_party: "L'Estrema" #NT!
- PIE_social_egalitarianism_party: "Partito d'Azione" #NT!
- PIE_centrism_party: "Destra Storica" #NT!
- PIE_autocracy_party: "Casa Savoia" #NT!
- PIE_anarchism_party: "Estrema Radicale" #NT!
- PIE_fundamentalism_party: "Chiesa Cattolica Romana" #NT!
- PIE_radical_democracy_party: "Regia Armata Sarda" #NT!
- PIE_traditional_conservatism_party: "Cattolici Conservatori" #NT!
- PIE_ideology_social_liberalism_party: "Sinistra Storica" #NT!
+ PIE_ideology_radical_socialism_party: "L'Estrema" 
+ PIE_social_egalitarianism_party: "Partito d'Azione" 
+ PIE_centrism_party: "Destra Storica" 
+ PIE_autocracy_party: "Casa Savoia" 
+ PIE_anarchism_party: "Estrema Radicale" 
+ PIE_fundamentalism_party: "Chiesa Cattolica Romana" 
+ PIE_radical_democracy_party: "Regia Armata Sarda" 
+ PIE_traditional_conservatism_party: "Cattolici Conservatori" 
+ PIE_ideology_social_liberalism_party: "Sinistra Storica" 
   
- PIE_habsburg_autocracy_party: "Haus von Habsburg" #NT!
+ PIE_habsburg_autocracy_party: "Haus von Habsburg" 
   
- TUS_social_egalitarianism_party: "Sinistra Italiana" #NT!
- TUS_traditional_conservatism_party: "Destra Toscana" #NT!
- TUS_autocracy_party: "Casata Degli Asburgo" #NT!
+ TUS_social_egalitarianism_party: "Sinistra Italiana" 
+ TUS_traditional_conservatism_party: "Destra Toscana" 
+ TUS_autocracy_party: "Casata Degli Asburgo" 
   
- SAR_centrism_party: "Historical-Left" #NT!
- SAR_traditional_conservatism_party: "Historical-Right" #NT!
- SAR_social_egalitarianism: "Anti-Monarchists" #NT!
- SAR_ideology_radical_socialism_party: "Sardinian Socialist Party" #NT!
- SAR_ideology_social_liberalism: "Communist Party" #NT!
- SAR_autocracy_party: "House of Savoy" #NT!
- SAR_radical_democracy: "Reactionary Party" #NT!
- SAR_anarchism: "Anarchists" #NT!
- SAR_chauvinist_populism: "Piedmontese Party" #NT!
- SAR_fundamentalism: "Neo-Guelphist Party" #NT!
+ SAR_centrism_party: "Historical-Left" 
+ SAR_traditional_conservatism_party: "Historical-Right" 
+ SAR_social_egalitarianism: "Anti-Monarchists" 
+ SAR_ideology_radical_socialism_party: "Sardinian Socialist Party" 
+ SAR_ideology_social_liberalism: "Communist Party" 
+ SAR_autocracy_party: "House of Savoy" 
+ SAR_radical_democracy: "Reactionary Party" 
+ SAR_anarchism: "Anarchists" 
+ SAR_chauvinist_populism: "Piedmontese Party" 
+ SAR_fundamentalism: "Neo-Guelphist Party" 
   
- MOD_autocracy_party: "House of Habsburg" #NT!
- MOD_centrism_party: "Destra Storica" #NT!
- MOD_social_egalitarianism_party: "Sinistra Storica" #NT!
- MOD_anarchism_party: "Anarchisti di Modena" #NT!
- MOD_fundamentalism_party: "Chiesa Cattolica Romana" #NT!
+ MOD_autocracy_party: "House of Habsburg" 
+ MOD_centrism_party: "Destra Storica" 
+ MOD_social_egalitarianism_party: "Sinistra Storica" 
+ MOD_anarchism_party: "Anarchisti di Modena" 
+ MOD_fundamentalism_party: "Chiesa Cattolica Romana" 
   
- PRM_autocracy_party: "House Bourbon" #NT!
- PRM_centrism_party: "Destra Storica" #NT!
- PRM_social_egalitarianism_party: "Sinistra Storica" #NT!
- PRM_anarchism_party: "Anarchisti di Parma" #NT!
- PRM_fundamentalism_party: "Chiesa Cattolica Romana" #NT!
+ PRM_autocracy_party: "House Bourbon" 
+ PRM_centrism_party: "Destra Storica" 
+ PRM_social_egalitarianism_party: "Sinistra Storica" 
+ PRM_anarchism_party: "Anarchisti di Parma" 
+ PRM_fundamentalism_party: "Chiesa Cattolica Romana" 
   
- #TUS_autocracy_party: "House of Habsburg" #NT!
- TUS_centrism_party: "Destra Storica" #NT!
- #TUS_social_egalitarianism_party: "Sinistra Storica" #NT!
- TUS_anarchism_party: "Anarchisti Toscani" #NT!
- TUS_fundamentalism_party: "Chiesa Cattolica Romana" #NT!
+ #TUS_autocracy_party: "House of Habsburg" 
+ TUS_centrism_party: "Destra Storica" 
+ #TUS_social_egalitarianism_party: "Sinistra Storica" 
+ TUS_anarchism_party: "Anarchisti Toscani" 
+ TUS_fundamentalism_party: "Chiesa Cattolica Romana" 
   
- LVN_autocracy_party: "House of Habsburg" #NT!
- LVN_radical_democracy_party: "Serenissimi" #NT!
- LVN_anarchism_party: "Anarchisti Lombardo-Veneti" #NT!
- LVN_fundamentalism_party: "Chiesa Cattolica Romana" #NT!
+ LVN_autocracy_party: "House of Habsburg" 
+ LVN_radical_democracy_party: "Serenissimi" 
+ LVN_anarchism_party: "Anarchisti Lombardo-Veneti" 
+ LVN_fundamentalism_party: "Chiesa Cattolica Romana" 
   
- NSC_autocracy_party: "House of Bourbon" #NT!
- NSC_centrism_party: "Destra Storica" #NT!
- NSC_social_egalitarianism_party: "Sinistra Storica" #NT!
- NSC_anarchism_party: "Anarchisti del Mezzogiorno" #NT!
- NSC_fundamentalism_party: "Chiesa Cattolica Romana" #NT!
+ NSC_autocracy_party: "House of Bourbon" 
+ NSC_centrism_party: "Destra Storica" 
+ NSC_social_egalitarianism_party: "Sinistra Storica" 
+ NSC_anarchism_party: "Anarchisti del Mezzogiorno" 
+ NSC_fundamentalism_party: "Chiesa Cattolica Romana" 
   
- PAP_fundamentalism_party: "Ecclesia Catholica Romana" #NT!
- PAP_radical_democracy_party: "Roman Triumvirate" #NT!
- PAP_anarchism_party: "Anarchisti Contro il Clero" #NT!
+ PAP_fundamentalism_party: "Ecclesia Catholica Romana" 
+ PAP_radical_democracy_party: "Roman Triumvirate" 
+ PAP_anarchism_party: "Anarchisti Contro il Clero" 
   
- BEL_ideology_social_liberalism_party: "Syndicalist Proudhonistes" #NT!
- BEL_ideology_radical_socialism_party: "Parti Communiste de Belgique" #NT!
- BEL_social_egalitarianism_party: "Parti Ouvrier Belge" #NT!
- BEL_radical_democracy_party: "Belgian Parliament" #NT!
- BEL_centrism_party: "Parti Liberal" #NT!
- BEL_traditional_conservatism_party: "Catholics" #NT!
- BEL_autocracy_party: "House of Saxe-Coburg and Gotha" #NT!
- BEL_chauvinist_populism_party: "Belgian Populists" #NT!
- BEL_anarchism_party: "Rex" #NT!
- BEL_fundamentalism_party: "Catholics" #NT!
+ BEL_ideology_social_liberalism_party: "Syndicalist Proudhonistes" 
+ BEL_ideology_radical_socialism_party: "Parti Communiste de Belgique" 
+ BEL_social_egalitarianism_party: "Parti Ouvrier Belge" 
+ BEL_radical_democracy_party: "Belgian Parliament" 
+ BEL_centrism_party: "Parti Liberal" 
+ BEL_traditional_conservatism_party: "Catholics" 
+ BEL_autocracy_party: "House of Saxe-Coburg and Gotha" 
+ BEL_chauvinist_populism_party: "Belgian Populists" 
+ BEL_anarchism_party: "Rex" 
+ BEL_fundamentalism_party: "Catholics" 
   
- SWI_ideology_social_liberalism_party: "Communist Party" #NT!
- SWI_ideology_radical_socialism_party: "Labour Party" #NT!
- SWI_social_egalitarianism_party: "Social Democratic Party" #NT!
- SWI_centrism_party: "Free Democratic Party" #NT!
- SWI_traditional_conservatism_party: "Catholic-Conservative Party" #NT!
- SWI_radical_democracy_party: "Swiss Parliament" #NT!
- SWI_autocracy_party: "House von Erlach" #NT!
- SWI_chauvinist_populism_party: "Farmer's & Craftsmen's Party" #NT!
- SWI_anarchism_party: "Schweizerischer Vaterländischer Verband" #NT!
- SWI_fundamentalism_party: "Bistum Basel" #NT!
+ SWI_ideology_social_liberalism_party: "Communist Party" 
+ SWI_ideology_radical_socialism_party: "Labour Party" 
+ SWI_social_egalitarianism_party: "Social Democratic Party" 
+ SWI_centrism_party: "Free Democratic Party" 
+ SWI_traditional_conservatism_party: "Catholic-Conservative Party" 
+ SWI_radical_democracy_party: "Swiss Parliament" 
+ SWI_autocracy_party: "House von Erlach" 
+ SWI_chauvinist_populism_party: "Farmer's & Craftsmen's Party" 
+ SWI_anarchism_party: "Schweizerischer Vaterländischer Verband" 
+ SWI_fundamentalism_party: "Bistum Basel" 
   
- ENG_ideology_social_liberalism_party: "Marxist Party" #NT!
- ENG_ideology_radical_socialism_party: "Socialist Party of Great Britain" #NT!
- ENG_social_egalitarianism_party: "Labour Party" #NT!
- ENG_centrism_party: "Liberals" #NT!
- ENG_radical_democracy_party: "British Military Junta" #NT!
- ENG_traditional_conservatism_party: "Conservatism and Unionist Party" #NT!
- ENG_autocracy_party: "House of Saxe-Coburg and Gotha" #NT!
- ENG_chauvinist_populism_party: "New-Roundheads" #NT!
- ENG_anarchism_party: "Anarchist Party" #NT!
- ENG_fundamentalism_party: "Church of England" #NT!
+ ENG_ideology_social_liberalism_party: "Marxist Party" 
+ ENG_ideology_radical_socialism_party: "Socialist Party of Great Britain" 
+ ENG_social_egalitarianism_party: "Labour Party" 
+ ENG_centrism_party: "Liberals" 
+ ENG_radical_democracy_party: "British Military Junta" 
+ ENG_traditional_conservatism_party: "Conservatism and Unionist Party" 
+ ENG_autocracy_party: "House of Saxe-Coburg and Gotha" 
+ ENG_chauvinist_populism_party: "New-Roundheads" 
+ ENG_anarchism_party: "Anarchist Party" 
+ ENG_fundamentalism_party: "Church of England" 
   
- CSA_ideology_social_liberalism_party: "CPCSA" #NT!
- CSA_ideology_social_liberalism_party_long: "Communist Party CSA" #NT!
- CSA_ideology_radical_socialism_party: "Socialist Party" #NT!
- CSA_ideology_radical_socialism_party_long: "Socialist Party of Dixie" #NT!
- CSA_social_egalitarianism_party: "Radical Unionists" #NT!
- CSA_social_egalitarianism_party_long: "Republican Party" #NT!
- CSA_centrism_party: "Unionists" #NT!
- CSA_centrism_party_long: "Republican Party" #NT!
- CSA_whig_party: "New Whigs" #NT!
- CSA_whig_party_long: "Whig Party" #NT!
- CSA_radical_democracy_party: "Radical Democrats" #NT!
- CSA_radical_democracy_party_long: "Democratic Party" #NT!
- CSA_traditional_conservatism_party: "Moderate Democrats" #NT!
- CSA_traditional_conservatism_party_long: "Democratic Party" #NT!
- CSA_dixiecrat_party: "Dixiecrats" #NT!
- CSA_dixiecrat_party_long: "Dixiecrat Party" #NT!
- CSA_autocracy_party: "Radical Aristocrats" #NT!
- CSA_autocracy_party_long: "King Cotton Party" #NT!
- CSA_chauvinist_populism_party: "Southern Nationalists" #NT!
- CSA_chauvinist_populism_party_long: "Knights of the Golden Circle" #NT!
- CSA_anarchism_party: "Anarchists" #NT!
- CSA_anarchism_party_long: "Anarchist Party" #NT!
- CSA_fundamentalism_party: "Evangelical Democrats" #NT!
- CSA_fundamentalism_party_long: "Democratic Party" #NT!
+ CSA_ideology_social_liberalism_party: "CPCSA" 
+ CSA_ideology_social_liberalism_party_long: "Communist Party CSA" 
+ CSA_ideology_radical_socialism_party: "Socialist Party" 
+ CSA_ideology_radical_socialism_party_long: "Socialist Party of Dixie" 
+ CSA_social_egalitarianism_party: "Radical Unionists" 
+ CSA_social_egalitarianism_party_long: "Republican Party" 
+ CSA_centrism_party: "Unionists" 
+ CSA_centrism_party_long: "Republican Party" 
+ CSA_whig_party: "New Whigs" 
+ CSA_whig_party_long: "Whig Party" 
+ CSA_radical_democracy_party: "Radical Democrats" 
+ CSA_radical_democracy_party_long: "Democratic Party" 
+ CSA_traditional_conservatism_party: "Moderate Democrats" 
+ CSA_traditional_conservatism_party_long: "Democratic Party" 
+ CSA_dixiecrat_party: "Dixiecrats" 
+ CSA_dixiecrat_party_long: "Dixiecrat Party" 
+ CSA_autocracy_party: "Radical Aristocrats" 
+ CSA_autocracy_party_long: "King Cotton Party" 
+ CSA_chauvinist_populism_party: "Southern Nationalists" 
+ CSA_chauvinist_populism_party_long: "Knights of the Golden Circle" 
+ CSA_anarchism_party: "Anarchists" 
+ CSA_anarchism_party_long: "Anarchist Party" 
+ CSA_fundamentalism_party: "Evangelical Democrats" 
+ CSA_fundamentalism_party_long: "Democratic Party" 
   
- CSA_state_ideology_social_liberalism_party: "CPCSA" #NT!
- CSA_state_ideology_social_liberalism_party_long: "Communist Party CSA" #NT!
- CSA_state_ideology_radical_socialism_party: "Socialist Party" #NT!
- CSA_state_ideology_radical_socialism_party_long: "Socialist Party of Dixie" #NT!
- CSA_state_social_egalitarianism_party: "Radical Unionists" #NT!
- CSA_state_social_egalitarianism_party_long: "Republican Party" #NT!
- CSA_state_centrism_party: "Unionists" #NT!
- CSA_state_centrism_party_long: "Republican Party" #NT!
- CSA_state_whig_party: "New Whigs" #NT!
- CSA_state_whig_party_long: "Whig Party" #NT!
- CSA_state_radical_democracy_party: "Radical Democrats" #NT!
- CSA_state_radical_democracy_party_long: "Democratic Party" #NT!
- CSA_state_traditional_conservatism_party: "Moderate Democrats" #NT!
- CSA_state_traditional_conservatism_party_long: "Democratic Party" #NT!
- CSA_state_dixiecrat_party: "Dixiecrats" #NT!
- CSA_state_dixiecrat_party_long: "Dixiecrat Party" #NT!
- CSA_state_autocracy_party: "Radical Aristocrats" #NT!
- CSA_state_autocracy_party_long: "King Cotton Party" #NT!
- CSA_state_chauvinist_populism_party: "Southern Nationalists" #NT!
- CSA_state_chauvinist_populism_party_long: "Knights of the Golden Circle" #NT!
- CSA_state_anarchism_party: "Anarchists" #NT!
- CSA_state_anarchism_party_long: "Anarchist Party" #NT!
- CSA_state_fundamentalism_party: "Evangelical Democrats" #NT!
- CSA_state_fundamentalism_party_long: "Democratic Party" #NT!
+ CSA_state_ideology_social_liberalism_party: "CPCSA" 
+ CSA_state_ideology_social_liberalism_party_long: "Communist Party CSA" 
+ CSA_state_ideology_radical_socialism_party: "Socialist Party" 
+ CSA_state_ideology_radical_socialism_party_long: "Socialist Party of Dixie" 
+ CSA_state_social_egalitarianism_party: "Radical Unionists" 
+ CSA_state_social_egalitarianism_party_long: "Republican Party" 
+ CSA_state_centrism_party: "Unionists" 
+ CSA_state_centrism_party_long: "Republican Party" 
+ CSA_state_whig_party: "New Whigs" 
+ CSA_state_whig_party_long: "Whig Party" 
+ CSA_state_radical_democracy_party: "Radical Democrats" 
+ CSA_state_radical_democracy_party_long: "Democratic Party" 
+ CSA_state_traditional_conservatism_party: "Moderate Democrats" 
+ CSA_state_traditional_conservatism_party_long: "Democratic Party" 
+ CSA_state_dixiecrat_party: "Dixiecrats" 
+ CSA_state_dixiecrat_party_long: "Dixiecrat Party" 
+ CSA_state_autocracy_party: "Radical Aristocrats" 
+ CSA_state_autocracy_party_long: "King Cotton Party" 
+ CSA_state_chauvinist_populism_party: "Southern Nationalists" 
+ CSA_state_chauvinist_populism_party_long: "Knights of the Golden Circle" 
+ CSA_state_anarchism_party: "Anarchists" 
+ CSA_state_anarchism_party_long: "Anarchist Party" 
+ CSA_state_fundamentalism_party: "Evangelical Democrats" 
+ CSA_state_fundamentalism_party_long: "Democratic Party" 
   
- GENAMER_trade_company_1: "Hudson Bay Company" #NT!
- GENAMER_trade_company_1_long: "Hudson Bay Trading Company" #NT!
+ GENAMER_trade_company_1: "Hudson Bay Company" 
+ GENAMER_trade_company_1_long: "Hudson Bay Trading Company" 
   
- CAN_ideology_social_liberalism_party: "Communist Party of Canada" #NT!
- CAN_ideology_radical_socialism_party: "Parti Rouge" #NT!
- CAN_social_egalitarianism_party: "Reform Party" #NT!
- CAN_centrism_party: "Clear Grits" #NT!
- CAN_radical_democracy_party: "Anti-Confederates" #NT!
- CAN_traditional_conservatism_party: "Parti Bleu" #NT!
- CAN_autocracy_party: "British Crown" #NT!
- CAN_chauvinist_populism_party: "" #NT!
- CAN_anarchism_party: "" #NT!
- CAN_fundamentalism_party: "Archdiocese of Ottawa" #NT!
+ CAN_ideology_social_liberalism_party: "Communist Party of Canada" 
+ CAN_ideology_radical_socialism_party: "Parti Rouge" 
+ CAN_social_egalitarianism_party: "Reform Party" 
+ CAN_centrism_party: "Clear Grits" 
+ CAN_radical_democracy_party: "Anti-Confederates" 
+ CAN_traditional_conservatism_party: "Parti Bleu" 
+ CAN_autocracy_party: "British Crown" 
+ CAN_chauvinist_populism_party: "" 
+ CAN_anarchism_party: "" 
+ CAN_fundamentalism_party: "Archdiocese of Ottawa" 
   
- BRK_ideology_social_liberalism_party: "" #NT!
- BRK_ideology_radical_socialism_party: "" #NT!
- BRK_social_egalitarianism_party: "" #NT!
- BRK_centrism_party: "Liberal Branch of the Confederation Party" #NT!
- BRK_radical_democracy_party: "Anti-Confederates" #NT!
- BRK_traditional_conservatism_party: "Conservative Branch of the Confederation Party" #NT!
- BRK_autocracy_party: "British Crown" #NT!
- BRK_chauvinist_populism_party: "" #NT!
- BRK_anarchism_party: "" #NT!
- BRK_fundamentalism_party: "Diocese of Bathurst" #NT!
+ BRK_ideology_social_liberalism_party: "" 
+ BRK_ideology_radical_socialism_party: "" 
+ BRK_social_egalitarianism_party: "" 
+ BRK_centrism_party: "Liberal Branch of the Confederation Party" 
+ BRK_radical_democracy_party: "Anti-Confederates" 
+ BRK_traditional_conservatism_party: "Conservative Branch of the Confederation Party" 
+ BRK_autocracy_party: "British Crown" 
+ BRK_chauvinist_populism_party: "" 
+ BRK_anarchism_party: "" 
+ BRK_fundamentalism_party: "Diocese of Bathurst" 
   
- NVS_ideology_social_liberalism_party: "" #NT!
- NVS_ideology_radical_socialism_party: "" #NT!
- NVS_social_egalitarianism_party: "" #NT!
- NVS_centrism_party: "Liberal Branch of the Confederation Party" #NT!
- NVS_radical_democracy_party: "Anti-Confederates" #NT!
- NVS_traditional_conservatism_party: "Conservative Branch of the Confederation Party" #NT!
- NVS_autocracy_party: "British Crown" #NT!
- NVS_chauvinist_populism_party: "" #NT!
- NVS_anarchism_party: "" #NT!
- NVS_fundamentalism_party: "Diocese of Bathurst" #NT!
+ NVS_ideology_social_liberalism_party: "" 
+ NVS_ideology_radical_socialism_party: "" 
+ NVS_social_egalitarianism_party: "" 
+ NVS_centrism_party: "Liberal Branch of the Confederation Party" 
+ NVS_radical_democracy_party: "Anti-Confederates" 
+ NVS_traditional_conservatism_party: "Conservative Branch of the Confederation Party" 
+ NVS_autocracy_party: "British Crown" 
+ NVS_chauvinist_populism_party: "" 
+ NVS_anarchism_party: "" 
+ NVS_fundamentalism_party: "Diocese of Bathurst" 
   
- NFL_ideology_social_liberalism_party: "" #NT!
- NFL_ideology_radical_socialism_party: "" #NT!
- NFL_social_egalitarianism_party: "" #NT!
- NFL_centrism_party: "Liberal Anti-Confederates" #NT!
- NFL_radical_democracy_party: "" #NT!
- NFL_traditional_conservatism_party: "" #NT!
- NFL_autocracy_party: "British Crown" #NT!
- NFL_chauvinist_populism_party: "" #NT!
- NFL_anarchism_party: "" #NT!
- NFL_fundamentalism_party: "" #NT!
+ NFL_ideology_social_liberalism_party: "" 
+ NFL_ideology_radical_socialism_party: "" 
+ NFL_social_egalitarianism_party: "" 
+ NFL_centrism_party: "Liberal Anti-Confederates" 
+ NFL_radical_democracy_party: "" 
+ NFL_traditional_conservatism_party: "" 
+ NFL_autocracy_party: "British Crown" 
+ NFL_chauvinist_populism_party: "" 
+ NFL_anarchism_party: "" 
+ NFL_fundamentalism_party: "" 
   
- OFS_ideology_social_liberalism_party: "Vanguard Branch of the Volksraad" #NT!
- OFS_ideology_radical_socialism_party: "Socialist Branch of the Volksraad" #NT!
- OFS_social_egalitarianism_party: "" #NT!
- OFS_centrism_party: "Liberal Branch of the Volksraad" #NT!
- OFS_radical_democracy_party: "" #NT!
- OFS_traditional_conservatism_party: "Conservative Branch of the Volksraad" #NT!
- OFS_autocracy_party: "Royalist Branch of the Volksraad" #NT!
- OFS_chauvinist_populism_party: "" #NT!
- OFS_anarchism_party: "" #NT!
- OFS_fundamentalism_party: "" #NT!
+ OFS_ideology_social_liberalism_party: "Vanguard Branch of the Volksraad" 
+ OFS_ideology_radical_socialism_party: "Socialist Branch of the Volksraad" 
+ OFS_social_egalitarianism_party: "" 
+ OFS_centrism_party: "Liberal Branch of the Volksraad" 
+ OFS_radical_democracy_party: "" 
+ OFS_traditional_conservatism_party: "Conservative Branch of the Volksraad" 
+ OFS_autocracy_party: "Royalist Branch of the Volksraad" 
+ OFS_chauvinist_populism_party: "" 
+ OFS_anarchism_party: "" 
+ OFS_fundamentalism_party: "" 
   
- TRV_ideology_social_liberalism_party: "" #NT!
- TRV_ideology_radical_socialism_party: "" #NT!
- TRV_social_egalitarianism_party: "" #NT!
- TRV_centrism_party: "Liberal Branch of the Volksraad" #NT!
- TRV_radical_democracy_party: "Voortrekkers" #NT!
- TRV_traditional_conservatism_party: "Conservative Branch of the Volksraad" #NT!
- TRV_autocracy_party: "" #NT!
- TRV_chauvinist_populism_party: "" #NT!
- TRV_anarchism_party: "" #NT!
- TRV_fundamentalism_party: "" #NT!
+ TRV_ideology_social_liberalism_party: "" 
+ TRV_ideology_radical_socialism_party: "" 
+ TRV_social_egalitarianism_party: "" 
+ TRV_centrism_party: "Liberal Branch of the Volksraad" 
+ TRV_radical_democracy_party: "Voortrekkers" 
+ TRV_traditional_conservatism_party: "Conservative Branch of the Volksraad" 
+ TRV_autocracy_party: "" 
+ TRV_chauvinist_populism_party: "" 
+ TRV_anarchism_party: "" 
+ TRV_fundamentalism_party: "" 
   
- GRE_ideology_radical_socialism_party: "Radical Socialist Party" #NT!
- GRE_social_egalitarianism_party: "Socialist Party" #NT!
- GRE_centrism_party: "English Party" #NT!
- GRE_radical_democracy_party: "Russian Party" #NT!
- GRE_autocracy_party: "House of Wittelsbach" #NT!
- GRE_traditional_conservatism_party: "French Party" #NT!
- GRE_anarchism_party: "Hellenic Anarchist" #NT!
- GRE_chauvinist_populism_party: "Hellenic Nationalist Party" #NT!
+ GRE_ideology_radical_socialism_party: "Radical Socialist Party" 
+ GRE_social_egalitarianism_party: "Socialist Party" 
+ GRE_centrism_party: "English Party" 
+ GRE_radical_democracy_party: "Russian Party" 
+ GRE_autocracy_party: "House of Wittelsbach" 
+ GRE_traditional_conservatism_party: "French Party" 
+ GRE_anarchism_party: "Hellenic Anarchist" 
+ GRE_chauvinist_populism_party: "Hellenic Nationalist Party" 
   
- BRA_autocracy_party: "House of Braganza" #NT!
- BRA_radical_democracy_party: "Conservadores (Regressistas)" #NT!
- BRA_radical_democracy_party_long: "Partido Conservador" #NT!
- BRA_traditional_conservatism_party: "Conservadores (Moderados)" #NT!
- BRA_traditional_conservatism_party_long: "Partido Conservador" #NT!
- BRA_centrism_party: "Liberais (Moderados)" #NT!
- BRA_centrism_party_long: "Partido Liberal" #NT!
- BRA_ideology_social_liberalism_party: "Liberais (Radicais)" #NT!
- BRA_ideology_social_liberalism_party_long: "Partido Liberal" #NT!
- BRA_anarchism_party: "Anarquistas Brasileiros" #NT!
- BRA_fundamentalism_party: "Igreja Católica Apostólica Brasileira" #NT!
- BRA_social_egalitarianism_party: "Progressistas" #NT!
- BRA_social_egalitarianism_party_long: "Liga Progressista" #NT!
+ BRA_autocracy_party: "House of Braganza" 
+ BRA_radical_democracy_party: "Conservadores (Regressistas)" 
+ BRA_radical_democracy_party_long: "Partido Conservador" 
+ BRA_traditional_conservatism_party: "Conservadores (Moderados)" 
+ BRA_traditional_conservatism_party_long: "Partido Conservador" 
+ BRA_centrism_party: "Liberais (Moderados)" 
+ BRA_centrism_party_long: "Partido Liberal" 
+ BRA_ideology_social_liberalism_party: "Liberais (Radicais)" 
+ BRA_ideology_social_liberalism_party_long: "Partido Liberal" 
+ BRA_anarchism_party: "Anarquistas Brasileiros" 
+ BRA_fundamentalism_party: "Igreja Católica Apostólica Brasileira" 
+ BRA_social_egalitarianism_party: "Progressistas" 
+ BRA_social_egalitarianism_party_long: "Liga Progressista" 
   
- URG_traditional_conservatism_party: "Partido Nacional" #NT!
- URG_centrism_party: "Partido Colorado" #NT!
- URG_anarchism_party: "Anarquistas Platences" #NT!
- URG_fundamentalism_party: "Conferencia Episcopal de Uruguay" #NT!
+ URG_traditional_conservatism_party: "Partido Nacional" 
+ URG_centrism_party: "Partido Colorado" 
+ URG_anarchism_party: "Anarquistas Platences" 
+ URG_fundamentalism_party: "Conferencia Episcopal de Uruguay" 
   
   # Japan 
- TSH_tokugawa_shogunate_absolute_party: "Bakufu Tokugawa" #NT!
- TSH_tokugawa_shogunate_absolute_party_long: "Bakufu Tokugawa Faction" #NT!
- TSH_tokugawa_shogunate_hito_party: "Bakufu Hitosubashi" #NT!
- TSH_tokugawa_shogunate_hito_party_long: "Bakufu Hitosubashi Faction" #NT!
- TSH_tokugawa_shogunate_kii_party: "Bakufu Kii" #NT!
- TSH_tokugawa_shogunate_kii_party_long: "Bakufu Kii Faction" #NT!
- TSH_westerning_party: "Tokugawa Bakumatsu" #NT!
- TSH_westerning_party_long: "Tokugawa Shogunate of Nippon" #NT!
- TSH_imperial_house_party: "Sonno Joi Party" #NT!
- TSH_imperial_house_party_long: "Imperial House of Nippon" #NT!
- TSH_freedom_party: "Jiyū Minken Undō" #NT!
- TSH_freedom_party_long: "Freedom and People's Rights Party (Jiyū Minken Undō)" #NT!
- TSH_fundamentalism_party: "Buddhist Fundamentals" #NT!
- TSH_fundamentalism_party: "Buddhist Fundamentalist Party" #NT!
- TSH_social_egalitarianism_party: "Liberal Party" #NT!
- TSH_social_egaliterianism_party_long: "Liberal Party of Nippon" #NT!
- TSH_centrism_party: "Taiseikai" #NT!
- TSH_centrism_party_long: "Taiseikai" #NT!
- TSH_anarchism_party: "Anakizumu" #NT!
- TSH_anarchism_party_long: "Anakizumu" #NT!
- TSH_shinto_party: "Shinto Fundamentalists" #NT!
- JAP_autocracy_party: "Japanese Oligarchs" #NT!
- JAP_autocracy_party_long: "The Yamato Imperial Dynasty" #NT!
- JAP_centrism_party: "Jiyū Minken Undō" #NT!
- JAP_centrism_party_long: "Freedom and People's Rights Party (Jiyū Minken Undō)" #NT!
- #  JAP_autocracy_party: "Tokugawa Bakufu" #NT!
- #  JAP_fundamentalism_party: "Shogun Council" #NT!
- #  JAP_social_egalitarianism_party: "Liberal Party" #NT!
- #  JAP_centrism_party: "Taiseikai" #NT!
- #  JAP_anarchism_party: "Anakizumu" #NT!
+ TSH_tokugawa_shogunate_absolute_party: "Bakufu Tokugawa" 
+ TSH_tokugawa_shogunate_absolute_party_long: "Bakufu Tokugawa Faction" 
+ TSH_tokugawa_shogunate_hito_party: "Bakufu Hitosubashi" 
+ TSH_tokugawa_shogunate_hito_party_long: "Bakufu Hitosubashi Faction" 
+ TSH_tokugawa_shogunate_kii_party: "Bakufu Kii" 
+ TSH_tokugawa_shogunate_kii_party_long: "Bakufu Kii Faction" 
+ TSH_westerning_party: "Tokugawa Bakumatsu" 
+ TSH_westerning_party_long: "Tokugawa Shogunate of Nippon" 
+ TSH_imperial_house_party: "Sonno Joi Party" 
+ TSH_imperial_house_party_long: "Imperial House of Nippon" 
+ TSH_freedom_party: "Jiyū Minken Undō" 
+ TSH_freedom_party_long: "Freedom and People's Rights Party (Jiyū Minken Undō)" 
+ TSH_fundamentalism_party: "Buddhist Fundamentals" 
+ TSH_fundamentalism_party: "Buddhist Fundamentalist Party" 
+ TSH_social_egalitarianism_party: "Liberal Party" 
+ TSH_social_egaliterianism_party_long: "Liberal Party of Nippon" 
+ TSH_centrism_party: "Taiseikai" 
+ TSH_centrism_party_long: "Taiseikai" 
+ TSH_anarchism_party: "Anakizumu" 
+ TSH_anarchism_party_long: "Anakizumu" 
+ TSH_shinto_party: "Shinto Fundamentalists" 
+ JAP_autocracy_party: "Japanese Oligarchs" 
+ JAP_autocracy_party_long: "The Yamato Imperial Dynasty" 
+ JAP_centrism_party: "Jiyū Minken Undō" 
+ JAP_centrism_party_long: "Freedom and People's Rights Party (Jiyū Minken Undō)" 
+ #  JAP_autocracy_party: "Tokugawa Bakufu" 
+ #  JAP_fundamentalism_party: "Shogun Council" 
+ #  JAP_social_egalitarianism_party: "Liberal Party" 
+ #  JAP_centrism_party: "Taiseikai" 
+ #  JAP_anarchism_party: "Anakizumu" 
   
- TSH_han_domain_choshu_party: "Mōri Clan" #NT!
- TSH_han_domain_choshu_party_long: "Mōri Clan of Hagi Chōshū" #NT!
- TSH_han_domain_date_party: "Sendai Clan" #NT!
- TSH_han_domain_date_party_long: "Sendai Clan of Mutsu Sendai" #NT!
- TSH_han_domain_mito_party: "Mito Branch Clan" #NT!
- TSH_han_domain_mito_party_long: "Mito Branch Clan of the Tokugawa" #NT!
- TSH_han_domain_saga_party: "Nabeshima Clan" #NT!
- TSH_han_domain_saga_party_long: "Nabeshima Clan of Hizen Shōni" #NT!
- TSH_han_domain_satsuma_party: "Shimazu Clan" #NT!
- TSH_han_domain_satsuma_party_long: "Shimazu Clan of Kagoshima Minamoto" #NT!
- TSH_han_domain_shonai_party: "Sakai Clan" #NT!
- TSH_han_domain_shonai_party_long: "Sakai Clan of Tsuruoka Minamoto" #NT!
- TSH_han_domain_tosa_party: "Yamauchi Clan" #NT!
- TSH_han_domain_tosa_party_long: "Yamauchi Clan of Tosa Hokke" #NT!
- TSH_han_domain_tsu_party: "Tōdō Clan" #NT!
- TSH_han_domain_tsu_party_long: "Tōdō Clan of Tsu" #NT!
+ TSH_han_domain_choshu_party: "Mōri Clan" 
+ TSH_han_domain_choshu_party_long: "Mōri Clan of Hagi Chōshū" 
+ TSH_han_domain_date_party: "Sendai Clan" 
+ TSH_han_domain_date_party_long: "Sendai Clan of Mutsu Sendai" 
+ TSH_han_domain_mito_party: "Mito Branch Clan" 
+ TSH_han_domain_mito_party_long: "Mito Branch Clan of the Tokugawa" 
+ TSH_han_domain_saga_party: "Nabeshima Clan" 
+ TSH_han_domain_saga_party_long: "Nabeshima Clan of Hizen Shōni" 
+ TSH_han_domain_satsuma_party: "Shimazu Clan" 
+ TSH_han_domain_satsuma_party_long: "Shimazu Clan of Kagoshima Minamoto" 
+ TSH_han_domain_shonai_party: "Sakai Clan" 
+ TSH_han_domain_shonai_party_long: "Sakai Clan of Tsuruoka Minamoto" 
+ TSH_han_domain_tosa_party: "Yamauchi Clan" 
+ TSH_han_domain_tosa_party_long: "Yamauchi Clan of Tosa Hokke" 
+ TSH_han_domain_tsu_party: "Tōdō Clan" 
+ TSH_han_domain_tsu_party_long: "Tōdō Clan of Tsu" 
   
- COL_centrism_party: "Partido Liberal" #NT!
- COL_chauvinist_populism_party: "Military Junta" #NT!
- COL_anarchism_party: "Anarquistas Colombianos" #NT!
- COL_fundamentalism_party: "Iglesia Episcopal en Colombia" #NT!
+ COL_centrism_party: "Partido Liberal" 
+ COL_chauvinist_populism_party: "Military Junta" 
+ COL_anarchism_party: "Anarquistas Colombianos" 
+ COL_fundamentalism_party: "Iglesia Episcopal en Colombia" 
   
- MEX_centrism_party: "Partido Liberal" #NT!
- MEX_traditional_conservatism_party: "Partido Conservador" #NT!
- MEX_radical_democracy_party: "Military Junta" #NT!
- MEX_autocracy_party: "House of Habsburg" #NT!
- MEX_anarchism_party: "Anarquistas Mexicanos" #NT!
- MEX_fundamentalism_party: "Conferencia del Episcopado Mexicano" #NT!
+ MEX_centrism_party: "Partido Liberal" 
+ MEX_traditional_conservatism_party: "Partido Conservador" 
+ MEX_radical_democracy_party: "Military Junta" 
+ MEX_autocracy_party: "House of Habsburg" 
+ MEX_anarchism_party: "Anarquistas Mexicanos" 
+ MEX_fundamentalism_party: "Conferencia del Episcopado Mexicano" 
   
- MEC_fundamentalism_party: "Conferencia del Episcopado Mexicano" #NT!
- MEC_autocracy_party: "House of Habsburg" #NT!
- MEC_traditional_conservatism_party: "Partido Conservador" #NT!
- MEC_radical_democracy_party: "Military Government" #NT!
+ MEC_fundamentalism_party: "Conferencia del Episcopado Mexicano" 
+ MEC_autocracy_party: "House of Habsburg" 
+ MEC_traditional_conservatism_party: "Partido Conservador" 
+ MEC_radical_democracy_party: "Military Government" 
   
- CHL_centrism_party: "Partido Liberal" #NT!
- CHL_radical_democracy_party: "Military Junta" #NT!
- CHL_anarchism_party: "Anarquistas Chilenos" #NT!
- CHL_fundamentalism_party: "Conferencia Episcopal de Chile" #NT!
+ CHL_centrism_party: "Partido Liberal" 
+ CHL_radical_democracy_party: "Military Junta" 
+ CHL_anarchism_party: "Anarquistas Chilenos" 
+ CHL_fundamentalism_party: "Conferencia Episcopal de Chile" 
   
- ARG_social_egalitarianism_party: "Partido Egalitario" #NT!
- ARG_traditional_conservatism_party: "Partido Federal" #NT!
- ARG_centrism_party: "Partido Unitario" #NT!
- ARG_chauvinist_populism_party: "Miltary Junta" #NT!
- ARG_anarchism_party: "Anarquistas Platences" #NT!
- ARG_fundamentalism_party: "Conferencia Episcopal Argentina" #NT!
+ ARG_social_egalitarianism_party: "Partido Egalitario" 
+ ARG_traditional_conservatism_party: "Partido Federal" 
+ ARG_centrism_party: "Partido Unitario" 
+ ARG_chauvinist_populism_party: "Miltary Junta" 
+ ARG_anarchism_party: "Anarquistas Platences" 
+ ARG_fundamentalism_party: "Conferencia Episcopal Argentina" 
   
- BUE_social_egalitarianism_party: "Partido Egalitario" #NT!
- BUE_traditional_conservatism_party: "Partido Federal" #NT!
- BUE_centrism_party: "Partido Unitario" #NT!
- BUE_chauvinist_populism_party: "Miltary Junta" #NT!
- BUE_anarchism_party: "Anarquistas Platences" #NT!
- BUE_fundamentalism_party: "Conferencia Episcopal Argentina" #NT!
+ BUE_social_egalitarianism_party: "Partido Egalitario" 
+ BUE_traditional_conservatism_party: "Partido Federal" 
+ BUE_centrism_party: "Partido Unitario" 
+ BUE_chauvinist_populism_party: "Miltary Junta" 
+ BUE_anarchism_party: "Anarquistas Platences" 
+ BUE_fundamentalism_party: "Conferencia Episcopal Argentina" 
   
- BOV_social_egalitarianism_party: "Partido Democratico" #NT!
- BOV_centrism_party: "Partido Liberal" #NT!
- BOV_chauvinist_populism_party: "Miltary Junta" #NT!
- BOV_anarchism_party: "Anarquistas Bolivianos" #NT!
- BOV_fundamentalism_party: "Conferencia Episcopal Boliviana" #NT!
+ BOV_social_egalitarianism_party: "Partido Democratico" 
+ BOV_centrism_party: "Partido Liberal" 
+ BOV_chauvinist_populism_party: "Miltary Junta" 
+ BOV_anarchism_party: "Anarquistas Bolivianos" 
+ BOV_fundamentalism_party: "Conferencia Episcopal Boliviana" 
   
- COS_social_egalitarianism_party: "Partido Progressista" #NT!
- COS_centrism_party: "Partido Costitucional" #NT!
- COS_chauvinist_populism_party: "Miltary Junta" #NT!
- COS_anarchism_party: "Anarquistas Centro Americanos" #NT!
- COS_fundamentalism_party: "Conferencia Episcopal de Costa Rica" #NT!
+ COS_social_egalitarianism_party: "Partido Progressista" 
+ COS_centrism_party: "Partido Costitucional" 
+ COS_chauvinist_populism_party: "Miltary Junta" 
+ COS_anarchism_party: "Anarquistas Centro Americanos" 
+ COS_fundamentalism_party: "Conferencia Episcopal de Costa Rica" 
   
- AUS_autocracy_party: "Klerikalabsolutisten" #NT!
- AUS_autocracy_party_1: "Haus von Habsburg" #NT!
- AUS_centrism_party: "Deutschliberale Partei" #NT!
- AUS_ideology_social_liberalism_party: "Verfassungspartei" #NT!
- AUS_radical_democracy_party: "Reichsrat" #NT!
- AUS_traditional_conservatism_party: "Föderalistische Partei" #NT!
- AUS_social_egalitarianism_party: "Gemäßigte Arbeiterbewegung" #NT!
- AUS_ideology_radical_socialism_party: "Radikale Arbeiterbewegung" #NT!
- AUS_anarchism_party: "Anarchisten" #NT!
- AUS_chauvinist_populism_party: "Kirchenzeitungspartei" #NT!
- AUS_fundamentalism_party: "Kathol. Gesellenverein" #NT!
+ AUS_autocracy_party: "Klerikalabsolutisten" 
+ AUS_autocracy_party_1: "Haus von Habsburg" 
+ AUS_centrism_party: "Deutschliberale Partei" 
+ AUS_ideology_social_liberalism_party: "Verfassungspartei" 
+ AUS_radical_democracy_party: "Reichsrat" 
+ AUS_traditional_conservatism_party: "Föderalistische Partei" 
+ AUS_social_egalitarianism_party: "Gemäßigte Arbeiterbewegung" 
+ AUS_ideology_radical_socialism_party: "Radikale Arbeiterbewegung" 
+ AUS_anarchism_party: "Anarchisten" 
+ AUS_chauvinist_populism_party: "Kirchenzeitungspartei" 
+ AUS_fundamentalism_party: "Kathol. Gesellenverein" 
   
- HAI_autocracy_party: "House of Haiti" #NT!
- HAI_social_egalitarianism_party: "Parti Libéral" #NT!
- HAI_centrism_party: "Parti National" #NT!
- HAI_anarchism_party: "Anarchistes haitiens" #NT!
- HAI_fundamentalism_party: "Eglise épiscopale d'Haiti" #NT!
+ HAI_autocracy_party: "House of Haiti" 
+ HAI_social_egalitarianism_party: "Parti Libéral" 
+ HAI_centrism_party: "Parti National" 
+ HAI_anarchism_party: "Anarchistes haitiens" 
+ HAI_fundamentalism_party: "Eglise épiscopale d'Haiti" 
   
- VEN_autocracy_party: "La Corona Venezolana" #NT!
- VEN_traditional_conservatism_party: "Partido Conservador" #NT!
- VEN_social_egalitarianism_party: "Partido Igualitario" #NT!
- VEN_centrism_party: "Partido Liberal" #NT!
- VEN_chauvinist_populism_party: "Unidad Nacional Venezolana" #NT!
- VEN_anarchism_party: "Asociación Venezolana Anarquista" #NT!
- VEN_fundamentalism_party: "Iglesia Episcopal de Venezuela" #NT!
- VEN_ideology_radical_socialism_party: "Liga Constitucional de la Clase Obrera" #NT!
- VEN_ideology_social_liberalism_party: "Partido Revolucionario Comunista" #NT!
- VEN_radical_democracy_party: "Partido Democrático Unido" #NT!
+ VEN_autocracy_party: "La Corona Venezolana" 
+ VEN_traditional_conservatism_party: "Partido Conservador" 
+ VEN_social_egalitarianism_party: "Partido Igualitario" 
+ VEN_centrism_party: "Partido Liberal" 
+ VEN_chauvinist_populism_party: "Unidad Nacional Venezolana" 
+ VEN_anarchism_party: "Asociación Venezolana Anarquista" 
+ VEN_fundamentalism_party: "Iglesia Episcopal de Venezuela" 
+ VEN_ideology_radical_socialism_party: "Liga Constitucional de la Clase Obrera" 
+ VEN_ideology_social_liberalism_party: "Partido Revolucionario Comunista" 
+ VEN_radical_democracy_party: "Partido Democrático Unido" 
   
- ECU_social_egalitarianism_party: "Republican Union Party" #NT!
- ECU_centrism_party: "Partido Liberal" #NT!
- ECU_chauvinist_populism_party: "Provissional Goverment" #NT!
- ECU_anarchism_party: "Anarquistas Ecuatorianos" #NT!
- ECU_fundamentalism_party: "Iglesia Episcopal de Equador" #NT!
+ ECU_social_egalitarianism_party: "Republican Union Party" 
+ ECU_centrism_party: "Partido Liberal" 
+ ECU_chauvinist_populism_party: "Provissional Goverment" 
+ ECU_anarchism_party: "Anarquistas Ecuatorianos" 
+ ECU_fundamentalism_party: "Iglesia Episcopal de Equador" 
   
- HON_social_egalitarianism_party: "Partido Liberal" #NT!
- HON_centrism_party: "La Democracia" #NT!
- HON_chauvinist_populism_party: "Miltary Junta" #NT!
- HON_anarchism_party: "Anarquistas Centro Americanos" #NT!
- HON_fundamentalism_party: "Iglesia Episcopal Hondureña" #NT!
+ HON_social_egalitarianism_party: "Partido Liberal" 
+ HON_centrism_party: "La Democracia" 
+ HON_chauvinist_populism_party: "Miltary Junta" 
+ HON_anarchism_party: "Anarquistas Centro Americanos" 
+ HON_fundamentalism_party: "Iglesia Episcopal Hondureña" 
   
- ELS_social_egalitarianism_party: "Partido Egalitario" #NT!
- ELS_centrism_party: "Partido Liberal" #NT!
- ELS_chauvinist_populism_party: "Miltary Junta" #NT!
- ELS_anarchism_party: "Anarquistas Centro Americanos" #NT!
- ELS_fundamentalism_party: "Conferencia Episcopal de El Salvador" #NT!
+ ELS_social_egalitarianism_party: "Partido Egalitario" 
+ ELS_centrism_party: "Partido Liberal" 
+ ELS_chauvinist_populism_party: "Miltary Junta" 
+ ELS_anarchism_party: "Anarquistas Centro Americanos" 
+ ELS_fundamentalism_party: "Conferencia Episcopal de El Salvador" 
   
- GUA_social_egalitarianism_party: "Partido Egalitario" #NT!
- GUA_centrism_party: "Partido Liberal" #NT!
- GUA_chauvinist_populism_party: "Miltary Junta" #NT!
- GUA_anarchism_party: "Anarquistas Centro Americanos" #NT!
- GUA_fundamentalism_party: "Conferencia Episcopal de Guatemala" #NT!
+ GUA_social_egalitarianism_party: "Partido Egalitario" 
+ GUA_centrism_party: "Partido Liberal" 
+ GUA_chauvinist_populism_party: "Miltary Junta" 
+ GUA_anarchism_party: "Anarquistas Centro Americanos" 
+ GUA_fundamentalism_party: "Conferencia Episcopal de Guatemala" 
   
- PRU_social_egalitarianism_party: "Partido Civilsta" #NT!
- PRU_centrism_party: "Partido Costitutional" #NT!
- PRU_chauvinist_populism_party: "Miltary Junta" #NT!
- PRU_anarchism_party: "Anarquistas de los Andes" #NT!
- PRU_fundamentalism_party: "Conferencia Episcopal de Peru" #NT!
+ PRU_social_egalitarianism_party: "Partido Civilsta" 
+ PRU_centrism_party: "Partido Costitutional" 
+ PRU_chauvinist_populism_party: "Miltary Junta" 
+ PRU_anarchism_party: "Anarquistas de los Andes" 
+ PRU_fundamentalism_party: "Conferencia Episcopal de Peru" 
   
- HAW_autocracy_party: "House of Kamehameha" #NT!
- HAW_chauvinist_populism_party: "Hawaiian League" #NT!
- HAW_anarchism_party: "Polynesian Anarchist" #NT!
+ HAW_autocracy_party: "House of Kamehameha" 
+ HAW_chauvinist_populism_party: "Hawaiian League" 
+ HAW_anarchism_party: "Polynesian Anarchist" 
   
- OTO_autocracy_party: "House of Osman" #NT!
- OTO_chauvinist_populism_party: "Committee of Ottoman Union" #NT!
- OTO_fundamentalism_party: "Seriat Government" #NT!
- OTO_centrism_party: "Young Ottomans" #NT!
- OTO_traditional_conservatism_party: "The Sublime Porte" #NT!
+ OTO_autocracy_party: "House of Osman" 
+ OTO_chauvinist_populism_party: "Committee of Ottoman Union" 
+ OTO_fundamentalism_party: "Seriat Government" 
+ OTO_centrism_party: "Young Ottomans" 
+ OTO_traditional_conservatism_party: "The Sublime Porte" 
   
- KOR_autocracy_party: "House of Lee" #NT!
+ KOR_autocracy_party: "House of Lee" 
   
- #MOL_autocracy_party: "House of Sturdza" #NT!
+ #MOL_autocracy_party: "House of Sturdza" 
   
- LUX_autocracy_party: "House of Nassau-Weilburg" #NT!
+ LUX_autocracy_party: "House of Nassau-Weilburg" 
   
- HOL_autocracy_party: "House of Oranje-Nassau" #NT!
- HOL_social_egalitarianism_party: "Liberalen" #NT!
- HOL_centrism_party: "Thorbeckianen" #NT!
- HOL_traditional_conservatism_party: "Anti-Revolutionairen" #NT!
- HOL_fundamentalism_party: "Nederlandsche Hervormde Kerk" #NT!
- HOL_anarchism_party: "Anarchisten" #NT!
- HOL_chauvinist_populism_party: "Chauvinisten" #NT!
- HOL_ideology_social_liberalism_party: "Revolutionaire Voorhoede" #NT!
- HOL_ideology_radical_socialism_party: "Collectieve Socialisten" #NT!
- HOL_radical_democracy_party: "Radicaal Democraten" #NT!
- HOL_traditional_conservatism_party_ARP: "ARP" #NT!
- HOL_traditional_conservatism_party_ARP_long: "Anti-Revolutionaire Partij" #NT!
- HOL_ideology_social_liberalism_party_SDB_long: "Sociaal-Democratische Bond" #NT!
- HOL_ideology_social_liberalism_party_SDB: "SDB" #NT!
- HOL_ideology_radical_socialism_SDV_long: "Sociaal-Democratische Vereeniging" #NT!
- HOL_ideology_radical_socialism_SDV: "SDV" #NT!
+ HOL_autocracy_party: "House of Oranje-Nassau" 
+ HOL_social_egalitarianism_party: "Liberalen" 
+ HOL_centrism_party: "Thorbeckianen" 
+ HOL_traditional_conservatism_party: "Anti-Revolutionairen" 
+ HOL_fundamentalism_party: "Nederlandsche Hervormde Kerk" 
+ HOL_anarchism_party: "Anarchisten" 
+ HOL_chauvinist_populism_party: "Chauvinisten" 
+ HOL_ideology_social_liberalism_party: "Revolutionaire Voorhoede" 
+ HOL_ideology_radical_socialism_party: "Collectieve Socialisten" 
+ HOL_radical_democracy_party: "Radicaal Democraten" 
+ HOL_traditional_conservatism_party_ARP: "ARP" 
+ HOL_traditional_conservatism_party_ARP_long: "Anti-Revolutionaire Partij" 
+ HOL_ideology_social_liberalism_party_SDB_long: "Sociaal-Democratische Bond" 
+ HOL_ideology_social_liberalism_party_SDB: "SDB" 
+ HOL_ideology_radical_socialism_SDV_long: "Sociaal-Democratische Vereeniging" 
+ HOL_ideology_radical_socialism_SDV: "SDV" 
   
- PER_autocracy_party: "House of Qajar" #NT!
+ PER_autocracy_party: "House of Qajar" 
   
- OMA_autocracy_party: "House of Al Said" #NT!
+ OMA_autocracy_party: "House of Al Said" 
   
- ETH_autocracy_party: "House of Solomon" #NT!
+ ETH_autocracy_party: "House of Solomon" 
   
- AFG_autocracy_party: "House of Barakzai" #NT!
+ AFG_autocracy_party: "House of Barakzai" 
   
- QNG_autocracy_party: "House of Qing" #NT!
+ QNG_autocracy_party: "House of Qing" 
   
- SIA_social_egalitarianism_party: "SD" #NT!
- SIA_centrism_party: "DA" #NT!
- SIA_traditional_conservatism_party: "TC" #NT!
- SIA_autocracy_party: "House of Chakri" #NT!
+ SIA_social_egalitarianism_party: "SD" 
+ SIA_centrism_party: "DA" 
+ SIA_traditional_conservatism_party: "TC" 
+ SIA_autocracy_party: "House of Chakri" 
   
- MRN_autocracy_party: "House of Hova" #NT!
+ MRN_autocracy_party: "House of Hova" 
   
- VIN_autocracy_party: "House of Nguyen" #NT!
+ VIN_autocracy_party: "House of Nguyen" 
   
- JAI_fundamentalism_party: "Elementalists" #NT!
- JAI_fundamentalism_party_long: "Jarai Masters of the Elements" #NT!
- JAI_water_tribe: "Water Tribe" #NT!
- JAI_water_tribe_long: "Masters of Water" #NT!
- JAI_fire_tribe: "Fire Tribe" #NT!
- JAI_fire_tribe_long: "Masters of Fire" #NT!
- JAI_earth_tribe: "Earth Tribe" #NT!
- JAI_earth_tribe_long: "Masters of Earth" #NT!
- JAI_wind_tribe: "Wind Tribe" #NT!
- JAI_wind_tribe_long: "Masters of Wind" #NT!
+ JAI_fundamentalism_party: "Elementalists" 
+ JAI_fundamentalism_party_long: "Jarai Masters of the Elements" 
+ JAI_water_tribe: "Water Tribe" 
+ JAI_water_tribe_long: "Masters of Water" 
+ JAI_fire_tribe: "Fire Tribe" 
+ JAI_fire_tribe_long: "Masters of Fire" 
+ JAI_earth_tribe: "Earth Tribe" 
+ JAI_earth_tribe_long: "Masters of Earth" 
+ JAI_wind_tribe: "Wind Tribe" 
+ JAI_wind_tribe_long: "Masters of Wind" 
   
- ACE_autocracy_party: "House of Aceh" #NT!
+ ACE_autocracy_party: "House of Aceh" 
   
- NEP_autocracy_party: "House of Shah" #NT!
+ NEP_autocracy_party: "House of Shah" 
   
- BHU_autocracy_party: "House of Palden" #NT!
+ BHU_autocracy_party: "House of Palden" 
   
- BRM_autocracy_party: "House of Konbaung" #NT!
+ BRM_autocracy_party: "House of Konbaung" 
   
- MOR_autocracy_party: "House of Alaouite" #NT!
+ MOR_autocracy_party: "House of Alaouite" 
   
- EGY_autocracy_party: "House of Muhammad Ali" #NT!
+ EGY_autocracy_party: "House of Muhammad Ali" 
   
- #ROM_autocracy_party: "House of Cuza" #NT!
+ #ROM_autocracy_party: "House of Cuza" 
   
- LBA_autocracy_party: "House of Osman" #NT!
+ LBA_autocracy_party: "House of Osman" 
   
- TAI_fundamentalist_party: "God Worshipping Society" #NT!
- TAI_autocracy_party: "House of Hong" #NT!
+ TAI_fundamentalist_party: "God Worshipping Society" 
+ TAI_autocracy_party: "House of Hong" 
   
- MNT_autocracy_party: "House of Petrovic-Njegos" #NT!
+ MNT_autocracy_party: "House of Petrovic-Njegos" 
   
   #Finland 
- FIN_autocracy_party: "Suomen Senaatti" #NT!
- FIN_ideology_social_liberalism_party: "Wrightiläinen työväenliike" #NT!
- FIN_social_egalitarianism_party: "Unorganized" #NT!
- FIN_ideology_radical_socialism_party: "Unorganized" #NT!
- FIN_fundamentalism_party: "Unorganized" #NT!
- FIN_chauvinist_populism_party: "Unorganized" #NT!
- FIN_radical_democracy_party: "Unorganized" #NT!
- FIN_anarchism_party: "Unorganized" #NT!
- FIN_centrism_party: "Unorganized" #NT!
- FIN_traditional_conservatism_party: "Unorganized" #NT!
- FIN_1862_Finnish_Party: "Suomalainen puolue (SP)" #NT!
+ FIN_autocracy_party: "Suomen Senaatti" 
+ FIN_ideology_social_liberalism_party: "Wrightiläinen työväenliike" 
+ FIN_social_egalitarianism_party: "Unorganized" 
+ FIN_ideology_radical_socialism_party: "Unorganized" 
+ FIN_fundamentalism_party: "Unorganized" 
+ FIN_chauvinist_populism_party: "Unorganized" 
+ FIN_radical_democracy_party: "Unorganized" 
+ FIN_anarchism_party: "Unorganized" 
+ FIN_centrism_party: "Unorganized" 
+ FIN_traditional_conservatism_party: "Unorganized" 
+ FIN_1862_Finnish_Party: "Suomalainen puolue (SP)" 
   
- KHI_autocracy_party: "House of Qungrat" #NT!
+ KHI_autocracy_party: "House of Qungrat" 
   
- BAD_autocracy_party: "Haus von Baden" #NT!
- BAD_centrism_party: "Liberale Fraktion" #NT!
- BAD_ideology_social_liberalism_party: "Linksliberale Fraktion" #NT!
- BAD_traditional_conservatism_party: "Konservative Fraktion" #NT!
- BAD_fundamentalism_party: "Ultramontane Fraktion" #NT!
+ BAD_autocracy_party: "Haus von Baden" 
+ BAD_centrism_party: "Liberale Fraktion" 
+ BAD_ideology_social_liberalism_party: "Linksliberale Fraktion" 
+ BAD_traditional_conservatism_party: "Konservative Fraktion" 
+ BAD_fundamentalism_party: "Ultramontane Fraktion" 
   
- BAV_social_egalitarianism_party: "Gemäßigte Arbeiterbewegung" #NT!
- BAV_traditional_conservatism_party: "Bayerische Patriotenpartei" #NT!
- BAV_radical_democracy_party: "Kammer der Landsräte" #NT!
- BAV_autocracy_party: "Haus von Wittelsbach" #NT!
- BAV_fundamentalism_party: "Klerikale Fraktion" #NT!
- BAV_centrism_party: "Liberale Fraktion" #NT!
- BAV_chauvinist_populism_party: "Deutscher Reformverein" #NT!
- BAV_anarchism_party: "Anarchisten" #NT!
- BAV_ideology_radical_socialism_party: "Radikale Arbeiterbewegung" #NT!
- BAV_ideology_social_liberalism_party: "Linksliberale Fraktion" #NT!
+ BAV_social_egalitarianism_party: "Gemäßigte Arbeiterbewegung" 
+ BAV_traditional_conservatism_party: "Bayerische Patriotenpartei" 
+ BAV_radical_democracy_party: "Kammer der Landsräte" 
+ BAV_autocracy_party: "Haus von Wittelsbach" 
+ BAV_fundamentalism_party: "Klerikale Fraktion" 
+ BAV_centrism_party: "Liberale Fraktion" 
+ BAV_chauvinist_populism_party: "Deutscher Reformverein" 
+ BAV_anarchism_party: "Anarchisten" 
+ BAV_ideology_radical_socialism_party: "Radikale Arbeiterbewegung" 
+ BAV_ideology_social_liberalism_party: "Linksliberale Fraktion" 
   
- WUR_autocracy_party: "Haus von Württemberg" #NT!
- WUR_centrism_party: "Liberale Fraktion" #NT!
- WUR_fundamentalism_party: "Christlich-Konservative Fraktion" #NT!
- WUR_radical_democracy_party: "Radikale Fraktion" #NT!
- WUR_traditional_conservatism_party: "Konservative Fraktion" #NT!
- WUR_chauvinist_populism_party: "Deutscher Reformverein" #NT!
- WUR_anarchism_party: "Anarchisten" #NT!
- WUR_ideology_radical_socialism_party: "Radikale Arbeiterbewegung" #NT!
- WUR_social_egalitarianism_party: "Gemäßigte Arbeiterbewegung" #NT!
- WUR_ideology_social_liberalism_party: "Linksliberale Fraktion" #NT!
+ WUR_autocracy_party: "Haus von Württemberg" 
+ WUR_centrism_party: "Liberale Fraktion" 
+ WUR_fundamentalism_party: "Christlich-Konservative Fraktion" 
+ WUR_radical_democracy_party: "Radikale Fraktion" 
+ WUR_traditional_conservatism_party: "Konservative Fraktion" 
+ WUR_chauvinist_populism_party: "Deutscher Reformverein" 
+ WUR_anarchism_party: "Anarchisten" 
+ WUR_ideology_radical_socialism_party: "Radikale Arbeiterbewegung" 
+ WUR_social_egalitarianism_party: "Gemäßigte Arbeiterbewegung" 
+ WUR_ideology_social_liberalism_party: "Linksliberale Fraktion" 
   
- OLD_autocracy_party: "Haus von Oldenburg" #NT!
- OLD_centrism_party: "Liberale Fraktion" #NT!
- OLD_ideology_social_liberalism_party: "Linksliberale Fraktion" #NT!
- OLD_traditional_conservatism_party: "Konservative Fraktion" #NT!
+ OLD_autocracy_party: "Haus von Oldenburg" 
+ OLD_centrism_party: "Liberale Fraktion" 
+ OLD_ideology_social_liberalism_party: "Linksliberale Fraktion" 
+ OLD_traditional_conservatism_party: "Konservative Fraktion" 
   
- SCH_autocracy_party: "Haus von Oldenburg" #NT!
- SCH_autocracy_party_augustenburg: "Haus von Augustenburg" #NT!
- SCH_autocracy_party_provisional: "Provisional Government" #NT!
- SCH_autocracy_party_prussia: "Haus von Hohenzollern" #NT!
- SCH_centrism_party: "Nationalliberale Bewegung" #NT!
- SCH_traditional_conservatism_party: "Konservative Bewegung" #NT!
+ SCH_autocracy_party: "Haus von Oldenburg" 
+ SCH_autocracy_party_augustenburg: "Haus von Augustenburg" 
+ SCH_autocracy_party_provisional: "Provisional Government" 
+ SCH_autocracy_party_prussia: "Haus von Hohenzollern" 
+ SCH_centrism_party: "Nationalliberale Bewegung" 
+ SCH_traditional_conservatism_party: "Konservative Bewegung" 
   
- HLS_autocracy_party: "Haus von Oldenburg" #NT!
- HLS_autocracy_party_augustenburg: "Haus von Augustenburg" #NT!
- HLS_autocracy_party_provisional: "Provisional Government" #NT!
- HLS_autocracy_party_austria: "Haus von Habsburg" #NT!
- HLS_centrism_party: "Nationalliberale Bewegung" #NT!
- HLS_traditional_conservatism_party: "Konservative Bewegung" #NT!
+ HLS_autocracy_party: "Haus von Oldenburg" 
+ HLS_autocracy_party_augustenburg: "Haus von Augustenburg" 
+ HLS_autocracy_party_provisional: "Provisional Government" 
+ HLS_autocracy_party_austria: "Haus von Habsburg" 
+ HLS_centrism_party: "Nationalliberale Bewegung" 
+ HLS_traditional_conservatism_party: "Konservative Bewegung" 
   
- HAN_autocracy_party: "Haus von Hannover" #NT!
- HAN_centrism_party: "Liberale Fraktion" #NT!
- HAN_ideology_social_liberalism_party: "Linksliberale Fraktion" #NT!
- HAN_traditional_conservatism_party: "Konservative Fraktion" #NT!
+ HAN_autocracy_party: "Haus von Hannover" 
+ HAN_centrism_party: "Liberale Fraktion" 
+ HAN_ideology_social_liberalism_party: "Linksliberale Fraktion" 
+ HAN_traditional_conservatism_party: "Konservative Fraktion" 
   
- HES_autocracy_party: "Haus von Hessen-Kassel" #NT!
- HES_centrism_party: "Nationalliberale Bewegung" #NT!
- HES_traditional_conservatism_party: "Konservative Bewegung" #NT!
- HES_radical_democracy_party: "Fraktion der Grundbesitzer" #NT!
+ HES_autocracy_party: "Haus von Hessen-Kassel" 
+ HES_centrism_party: "Nationalliberale Bewegung" 
+ HES_traditional_conservatism_party: "Konservative Bewegung" 
+ HES_radical_democracy_party: "Fraktion der Grundbesitzer" 
   
- HSD_autocracy_party: "Haus von Hessen-Darmstadt" #NT!
- HSD_centrism_party: "Liberale Fraktion" #NT!
- HSD_ideology_social_liberalism_party: "Linksliberale Fraktion" #NT!
- HSD_traditional_conservatism_party: "Konservative Fraktion" #NT!
- HSD_fundamentalism_party: "Zentrumsfraktion" #NT!
+ HSD_autocracy_party: "Haus von Hessen-Darmstadt" 
+ HSD_centrism_party: "Liberale Fraktion" 
+ HSD_ideology_social_liberalism_party: "Linksliberale Fraktion" 
+ HSD_traditional_conservatism_party: "Konservative Fraktion" 
+ HSD_fundamentalism_party: "Zentrumsfraktion" 
   
- MCK_autocracy_party: "Haus von Mecklenburg" #NT!
- MCK_centrism_party: "Nationalliberale Bewegung" #NT!
- MCK_traditional_conservatism_party: "Konservative Bewegung" #NT!
- MCK_radical_democracy_party: "Fraktion der Grundbesitzer" #NT!
+ MCK_autocracy_party: "Haus von Mecklenburg" 
+ MCK_centrism_party: "Nationalliberale Bewegung" 
+ MCK_traditional_conservatism_party: "Konservative Bewegung" 
+ MCK_radical_democracy_party: "Fraktion der Grundbesitzer" 
   
- NAS_autocracy_party: "Haus von Nassau" #NT!
- NAS_centrism_party: "Liberale Fraktion" #NT!
- NAS_ideology_social_liberalism_party: "Linksliberale Fraktion" #NT!
- NAS_traditional_conservatism_party: "Konservative Fraktion" #NT!
- NAS_fundamentalism_party: "Katholische Fraktion" #NT!
+ NAS_autocracy_party: "Haus von Nassau" 
+ NAS_centrism_party: "Liberale Fraktion" 
+ NAS_ideology_social_liberalism_party: "Linksliberale Fraktion" 
+ NAS_traditional_conservatism_party: "Konservative Fraktion" 
+ NAS_fundamentalism_party: "Katholische Fraktion" 
   
- SAX_ideology_social_liberalism_party: "Linksliberale Fraktion" #NT!
- SAX_ideology_radical_socialism_party: "Revolutionäre Arbeiterbewegung" #NT!
- SAX_social_egalitarianism_party: "Arbeiterbewegung" #NT!
- SAX_centrism_party: "Liberale Fraktion" #NT!
- SAX_traditional_conservatism_party: "Konservative Fraktion" #NT!
- SAX_radical_democracy_party: "Sächsischer Landtag" #NT!
- SAX_autocracy_party: "Haus von Wettin" #NT!
- SAX_fundamentalism_party: "Evangelische Kirche Sachsens" #NT!
- SAX_chauvinist_populism_party: "Antisemitische Bewegung" #NT!
- SAX_anarchism_party: "Anarchistische Bewegung" #NT!
+ SAX_ideology_social_liberalism_party: "Linksliberale Fraktion" 
+ SAX_ideology_radical_socialism_party: "Revolutionäre Arbeiterbewegung" 
+ SAX_social_egalitarianism_party: "Arbeiterbewegung" 
+ SAX_centrism_party: "Liberale Fraktion" 
+ SAX_traditional_conservatism_party: "Konservative Fraktion" 
+ SAX_radical_democracy_party: "Sächsischer Landtag" 
+ SAX_autocracy_party: "Haus von Wettin" 
+ SAX_fundamentalism_party: "Evangelische Kirche Sachsens" 
+ SAX_chauvinist_populism_party: "Antisemitische Bewegung" 
+ SAX_anarchism_party: "Anarchistische Bewegung" 
   
- THU_autocracy_party: "Haus von Sachsen-Weimar-Eisenach" #NT!
- THU_centrism_party: "Liberale Fraktion" #NT!
- THU_ideology_social_liberalism_party: "Linksliberale Fraktion" #NT!
- THU_traditional_conservatism_party: "Konservative Fraktion" #NT!
+ THU_autocracy_party: "Haus von Sachsen-Weimar-Eisenach" 
+ THU_centrism_party: "Liberale Fraktion" 
+ THU_ideology_social_liberalism_party: "Linksliberale Fraktion" 
+ THU_traditional_conservatism_party: "Konservative Fraktion" 
   
- BRE_centrism_party: "Fraktion der Kaufleute" #NT!
- BRE_ideology_social_liberalism_party: "Fraktion der Handwerker" #NT!
- BRE_traditional_conservatism_party: "Fraktion der Gelehrten" #NT!
+ BRE_centrism_party: "Fraktion der Kaufleute" 
+ BRE_ideology_social_liberalism_party: "Fraktion der Handwerker" 
+ BRE_traditional_conservatism_party: "Fraktion der Gelehrten" 
   
- FRK_centrism_party: "Liberale Fraktion" #NT!
- FRK_ideology_social_liberalism_party: "Fraktion der Handwerker" #NT!
- FRK_traditional_conservatism_party: "Konservative Fraktion" #NT!
+ FRK_centrism_party: "Liberale Fraktion" 
+ FRK_ideology_social_liberalism_party: "Fraktion der Handwerker" 
+ FRK_traditional_conservatism_party: "Konservative Fraktion" 
   
- HAM_centrism_party: "Fraktion der Rechten - Kaufleute" #NT!
- HAM_ideology_social_liberalism_party: "Fraktion der Handwerker" #NT!
- HAM_traditional_conservatism_party: "Fraktion der Rechten - Notabeln" #NT!
- HAM_social_egalitarianism_party: "Fraktion der Linken" #NT!
+ HAM_centrism_party: "Fraktion der Rechten - Kaufleute" 
+ HAM_ideology_social_liberalism_party: "Fraktion der Handwerker" 
+ HAM_traditional_conservatism_party: "Fraktion der Rechten - Notabeln" 
+ HAM_social_egalitarianism_party: "Fraktion der Linken" 
   
- LCK_centrism_party: "Fraktion der Kaufleute" #NT!
- LCK_ideology_social_liberalism_party: "Fraktion der Handwerker" #NT!
- LCK_traditional_conservatism_party: "Fraktion der Gelehrten" #NT!
- LCK_radical_democracy_party: "Fraktion der Grundbesitzer" #NT!
+ LCK_centrism_party: "Fraktion der Kaufleute" 
+ LCK_ideology_social_liberalism_party: "Fraktion der Handwerker" 
+ LCK_traditional_conservatism_party: "Fraktion der Gelehrten" 
+ LCK_radical_democracy_party: "Fraktion der Grundbesitzer" 
   
- GEC_ideology_social_liberalism_party_long: "Deutsche Volkspartei" #NT!
- GEC_ideology_social_liberalism_party: "DVP" #NT!
+ GEC_ideology_social_liberalism_party_long: "Deutsche Volkspartei" 
+ GEC_ideology_social_liberalism_party: "DVP" 
   
- SKT_autocracy_party: "House of Dan Fodio" #NT!
+ SKT_autocracy_party: "House of Dan Fodio" 
   
- ROM_ideology_social_liberalism_party: "Comuna Românească" #NT!
- ROM_ideology_radical_socialism_party: "PSR" #NT!
- ROM_social_egalitarianism_party: "PSD" #NT!
- ROM_centrism_party: "PN" #NT!
- ROM_traditional_conservatism_party: "PC" #NT!
- ROM_radical_democracy_party: "PLR" #NT!
- ROM_autocracy_party: "Căimăcămie" #NT!
- ROM_chauvinist_populism_party: "PND" #NT!
- ROM_anarchism_party: "Anarhistii" #NT!
- ROM_fundamentalism_party: "Partidul Tării" #NT!
+ ROM_ideology_social_liberalism_party: "Comuna Românească" 
+ ROM_ideology_radical_socialism_party: "PSR" 
+ ROM_social_egalitarianism_party: "PSD" 
+ ROM_centrism_party: "PN" 
+ ROM_traditional_conservatism_party: "PC" 
+ ROM_radical_democracy_party: "PLR" 
+ ROM_autocracy_party: "Căimăcămie" 
+ ROM_chauvinist_populism_party: "PND" 
+ ROM_anarchism_party: "Anarhistii" 
+ ROM_fundamentalism_party: "Partidul Tării" 
   
- ROM_ideology_social_liberalism_party_long: "Comuna Românească" #NT!
- ROM_ideology_radical_socialism_party_long: "Partidul Socialist Radical" #NT!
- ROM_social_egalitarianism_party_long: "Partidul Social Democrat" #NT!
- ROM_centrism_party_long: "Partida Naţională" #NT!
- ROM_traditional_conservatism_party_long: "Partidul Conservator" #NT!
- ROM_radical_democracy_party_long: "Partida Liberală Radicală" #NT!
- ROM_autocracy_party_long: "Căimăcămie" #NT!
- ROM_chauvinist_populism_party_long: "Partidul Nationalist Democrat" #NT!
- ROM_anarchism_party_long: "Anarhistii" #NT!
- ROM_fundamentalism_party_long: "Partidul Tării" #NT!
+ ROM_ideology_social_liberalism_party_long: "Comuna Românească" 
+ ROM_ideology_radical_socialism_party_long: "Partidul Socialist Radical" 
+ ROM_social_egalitarianism_party_long: "Partidul Social Democrat" 
+ ROM_centrism_party_long: "Partida Naţională" 
+ ROM_traditional_conservatism_party_long: "Partidul Conservator" 
+ ROM_radical_democracy_party_long: "Partida Liberală Radicală" 
+ ROM_autocracy_party_long: "Căimăcămie" 
+ ROM_chauvinist_populism_party_long: "Partidul Nationalist Democrat" 
+ ROM_anarchism_party_long: "Anarhistii" 
+ ROM_fundamentalism_party_long: "Partidul Tării" 
   
- MOL_ideology_social_liberalism_party: "Comuna Românească" #NT!
- MOL_ideology_radical_socialism_party: "PSR" #NT!
- MOL_social_egalitarianism_party: "PSD" #NT!
- MOL_centrism_party: "PN" #NT!
- MOL_traditional_conservatism_party: "PC" #NT!
- MOL_radical_democracy_party: "PLR" #NT!
- MOL_autocracy_party: "Căimăcămie" #NT!
- MOL_chauvinist_populism_party: "PND" #NT!
- MOL_anarchism_party: "Anarhistii" #NT!
- MOL_fundamentalism_party: "Partidul Tării" #NT!
+ MOL_ideology_social_liberalism_party: "Comuna Românească" 
+ MOL_ideology_radical_socialism_party: "PSR" 
+ MOL_social_egalitarianism_party: "PSD" 
+ MOL_centrism_party: "PN" 
+ MOL_traditional_conservatism_party: "PC" 
+ MOL_radical_democracy_party: "PLR" 
+ MOL_autocracy_party: "Căimăcămie" 
+ MOL_chauvinist_populism_party: "PND" 
+ MOL_anarchism_party: "Anarhistii" 
+ MOL_fundamentalism_party: "Partidul Tării" 
   
- MOL_ideology_social_liberalism_party_long: "Comuna Românească" #NT!
- MOL_ideology_radical_socialism_party_long: "Partidul Socialist Radical" #NT!
- MOL_social_egalitarianism_party_long: "Partidul Social Democrat" #NT!
- MOL_centrism_party_long: "Partida Naţională" #NT!
- MOL_traditional_conservatism_party_long: "Partidul Conservator" #NT!
- MOL_radical_democracy_party_long: "Partida Liberală Radicală" #NT!
- MOL_autocracy_party_long: "Căimăcămie" #NT!
- MOL_chauvinist_populism_party_long: "Partidul Nationalist Democrat" #NT!
- MOL_anarchism_party_long: "Anarhistii" #NT!
- MOL_fundamentalism_party_long: "Partidul Tării" #NT!
+ MOL_ideology_social_liberalism_party_long: "Comuna Românească" 
+ MOL_ideology_radical_socialism_party_long: "Partidul Socialist Radical" 
+ MOL_social_egalitarianism_party_long: "Partidul Social Democrat" 
+ MOL_centrism_party_long: "Partida Naţională" 
+ MOL_traditional_conservatism_party_long: "Partidul Conservator" 
+ MOL_radical_democracy_party_long: "Partida Liberală Radicală" 
+ MOL_autocracy_party_long: "Căimăcămie" 
+ MOL_chauvinist_populism_party_long: "Partidul Nationalist Democrat" 
+ MOL_anarchism_party_long: "Anarhistii" 
+ MOL_fundamentalism_party_long: "Partidul Tării" 
   
- LEB_centrism_party_long: "An-Nahdiyyuun" #NT!
- LEB_centrism_party: "Nahdists" #NT!
- LEB_ideology_radical_socialism_party_long: "Al-Harakat Al-Fellahiat Al-Jumhuriyya" #NT!
- LEB_ideology_radical_socialism_party: "Fellahinist movement" #NT!
- LEB_radical_democracy_party_long: "Al-Aitalaf Al-Maruuni" #NT!
- LEB_radical_democracy_party: "Maronite Coalition" #NT!
- LEB_autocracy_party: "Shihabids" #NT!
- LEB_autocracy_party_long: "Al-Shihabiyuun" #NT!
-  
-  
+ LEB_centrism_party_long: "An-Nahdiyyuun" 
+ LEB_centrism_party: "Nahdists" 
+ LEB_ideology_radical_socialism_party_long: "Al-Harakat Al-Fellahiat Al-Jumhuriyya" 
+ LEB_ideology_radical_socialism_party: "Fellahinist movement" 
+ LEB_radical_democracy_party_long: "Al-Aitalaf Al-Maruuni" 
+ LEB_radical_democracy_party: "Maronite Coalition" 
+ LEB_autocracy_party: "Shihabids" 
+ LEB_autocracy_party_long: "Al-Shihabiyuun" 
   
   
- FTJ_fundamentalism_party: "Alfaya" #NT!
- FTJ_autocracy_party: "Soriya" #NT!
   
- SRW_autocracy_party: "White Rajahs" #NT!
   
- GLM_traditional_conservatism_party: "Stronnictwo Konserwatywne" #NT!
- GLM_centrism_party: "Towarzystwo Narodowo-Demokratyczne" #NT!
+ FTJ_fundamentalism_party: "Alfaya" 
+ FTJ_autocracy_party: "Soriya" 
   
- BTS_BTS_Party: "BTS" #NT!
- BTS_BTS_Party_Long: "BTS" #NT!
+ SRW_autocracy_party: "White Rajahs" 
   
- JAI_Fire_Nation_Party: "Fire Party" #NT!
- JAI_Fire_Nation_Party_Long: "The Fire Party" #NT!
+ GLM_traditional_conservatism_party: "Stronnictwo Konserwatywne" 
+ GLM_centrism_party: "Towarzystwo Narodowo-Demokratyczne" 
+  
+ BTS_BTS_Party: "BTS" 
+ BTS_BTS_Party_Long: "BTS" 
+  
+ JAI_Fire_Nation_Party: "Fire Party" 
+ JAI_Fire_Nation_Party_Long: "The Fire Party" 

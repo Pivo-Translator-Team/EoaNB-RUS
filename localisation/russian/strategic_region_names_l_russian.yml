@@ -10,10 +10,10 @@
  STRATEGICREGION_9: "Верхнее Балтийское море"
  STRATEGICREGION_10: "Южная Швеция"
  STRATEGICREGION_11: "Южная Норвегия"
- STRATEGICREGION_12: "Outer Finland" #NT!
+ STRATEGICREGION_12: "Outer Finland" 
  STRATEGICREGION_13: "Финляндия"
  STRATEGICREGION_14: "Дальневосточный регион"
- STRATEGICREGION_15: "Formosa" #NT!
+ STRATEGICREGION_15: "Formosa" 
  STRATEGICREGION_16: "Северное море"
  STRATEGICREGION_17: "Эфиопское нагорье"
  STRATEGICREGION_18: "Ла-Манш"
@@ -29,17 +29,17 @@
  STRATEGICREGION_28: "Ближний Восток"
  STRATEGICREGION_29: "Центральное Средиземноморье"
  STRATEGICREGION_30: "Черное море"
- STRATEGICREGION_31: "Southern India" #NT!
+ STRATEGICREGION_31: "Southern India" 
  STRATEGICREGION_32: "Юго-Восток Тихого океана"
  STRATEGICREGION_33: "Аляска"
  STRATEGICREGION_34: "Центральная Америка"
- STRATEGICREGION_35: "Platine Plateau" #NT!
+ STRATEGICREGION_35: "Platine Plateau" 
  STRATEGICREGION_36: "Гренландия"
  STRATEGICREGION_37: "Прибалтика"
  STRATEGICREGION_38: "Западная Польша"
  STRATEGICREGION_39: "Восточная Польша"
  STRATEGICREGION_40: "Заволжье"
- STRATEGICREGION_41: "Iberia" #NT!
+ STRATEGICREGION_41: "Iberia" 
  STRATEGICREGION_42: "Бискайский залив"
  STRATEGICREGION_43: "Западные подходы"
  STRATEGICREGION_44: "Датский пролив"
@@ -49,7 +49,7 @@
  STRATEGICREGION_48: "Побережье Африки"
  STRATEGICREGION_49: "Северо-Атлантический хребет"
  STRATEGICREGION_50: "Море Лабрадор"
- STRATEGICREGION_51: "Mid-Atlantic gap" #NT!
+ STRATEGICREGION_51: "Mid-Atlantic gap" 
  STRATEGICREGION_52: "Мексиканский залив"
  STRATEGICREGION_53: "Карибское море"
  STRATEGICREGION_54: "Восточное побережье США"
@@ -58,21 +58,21 @@
  STRATEGICREGION_57: "Саргассово море"
  STRATEGICREGION_58: "Центрально-Атлантический хребет"
  STRATEGICREGION_59: "Равнина Демерара"
- STRATEGICREGION_60: "West Indian" #NT!
- STRATEGICREGION_61: "Cape Verde Plain" #NT!
+ STRATEGICREGION_60: "West Indian" 
+ STRATEGICREGION_61: "Cape Verde Plain" 
  STRATEGICREGION_62: "Гвинейский залив"
  STRATEGICREGION_63: "Побережье Аргентины"
  STRATEGICREGION_64: "Море Южной Георгии"
  STRATEGICREGION_65: "Капский полуостров"
  STRATEGICREGION_66: "Южная часть Центральной Атлантики"
  STRATEGICREGION_67: "Африканско-Антарктический хребет"
- STRATEGICREGION_68: "Western Mediterranean" #NT!
- STRATEGICREGION_69: "Eastern Mediterranean" #NT!
+ STRATEGICREGION_68: "Western Mediterranean" 
+ STRATEGICREGION_69: "Eastern Mediterranean" 
  STRATEGICREGION_70: "Каспийское море"
- STRATEGICREGION_71: "East Indian" #NT!
+ STRATEGICREGION_71: "East Indian" 
  STRATEGICREGION_72: "Малаккский пролив"
- STRATEGICREGION_73: "Gulf of Siam" #NT!
- STRATEGICREGION_74: "Southeastern Indian" #NT!
+ STRATEGICREGION_73: "Gulf of Siam" 
+ STRATEGICREGION_74: "Southeastern Indian" 
  STRATEGICREGION_75: "Южно-Китайское море"
  STRATEGICREGION_76: "Восточно-Китайское море"
  STRATEGICREGION_77: "Жёлтое море"
@@ -83,7 +83,7 @@
  STRATEGICREGION_82: "Карпентария"
  STRATEGICREGION_83: "Соломоново море"
  STRATEGICREGION_84: "Море Бисмарка"
- STRATEGICREGION_85: "Southwestern Indian" #NT!
+ STRATEGICREGION_85: "Southwestern Indian" 
  STRATEGICREGION_86: "Тасманово море"
  STRATEGICREGION_87: "Охотское море"
  STRATEGICREGION_88: "Берингово море"
@@ -106,7 +106,7 @@
  STRATEGICREGION_105: "Гавайский хребет"
  STRATEGICREGION_106: "Побережье Мексики"
  STRATEGICREGION_107: "Запад зоны Панамского канала"
- STRATEGICREGION_108: "Chilean coast" #NT!
+ STRATEGICREGION_108: "Chilean coast" 
  STRATEGICREGION_109: "Побережье Перу"
  STRATEGICREGION_110: "Восточно-Тихоокеанское поднятие"
  STRATEGICREGION_111: "Северо-Центральная часть Тихого океана"
@@ -114,46 +114,46 @@
  STRATEGICREGION_113: "Южно-Центральная часть Тихого океана"
  STRATEGICREGION_114: "Север Тихого океана"
  STRATEGICREGION_115: "Северо-Восток Тихого океана"
- STRATEGICREGION_116: "Iran" #NT!
+ STRATEGICREGION_116: "Iran" 
  STRATEGICREGION_117: "Восточное побережье"
- STRATEGICREGION_118: "West Coast" #NT!
+ STRATEGICREGION_118: "West Coast" 
  STRATEGICREGION_119: "Юго-Запад США"
  STRATEGICREGION_120: "Центральный район США"
  STRATEGICREGION_121: "Восточная Канада"
- STRATEGICREGION_122: "Western Canada" #NT!
+ STRATEGICREGION_122: "Western Canada" 
  STRATEGICREGION_123: "Трансвулканический пояс"
  STRATEGICREGION_124: "Северная часть Южной Америки"
  STRATEGICREGION_125: "Бразилия"
- STRATEGICREGION_126: "North Africa" #NT!
+ STRATEGICREGION_126: "North Africa" 
  STRATEGICREGION_127: "Пустыня Сахара"
  STRATEGICREGION_128: "Египет"
  STRATEGICREGION_129: "Малая Азия"
  STRATEGICREGION_130: "Украина"
  STRATEGICREGION_131: "Беларусь"
- STRATEGICREGION_132: "Northern Front" #NT!
+ STRATEGICREGION_132: "Northern Front" 
  STRATEGICREGION_133: "Центральная Россия"
  STRATEGICREGION_134: "Кавказский регион"
  STRATEGICREGION_135: "Кубань"
- STRATEGICREGION_136: "Great Steppe" #NT!
+ STRATEGICREGION_136: "Great Steppe" 
  STRATEGICREGION_137: "Западная степь"
  STRATEGICREGION_138: "Уральский регион"
  STRATEGICREGION_139: "Южная Африка"
- STRATEGICREGION_140: "Upper Niger" #NT!
- STRATEGICREGION_141: "Lower Ganges" #NT!
- STRATEGICREGION_142: "South East Asia" #NT!
+ STRATEGICREGION_140: "Upper Niger" 
+ STRATEGICREGION_141: "Lower Ganges" 
+ STRATEGICREGION_142: "South East Asia" 
  STRATEGICREGION_143: "Северный Китай"
  STRATEGICREGION_144: "Западный Китай"
- STRATEGICREGION_145: "Central Asia" #NT!
- STRATEGICREGION_146: "Tibetean Plateau" #NT!
+ STRATEGICREGION_145: "Central Asia" 
+ STRATEGICREGION_146: "Tibetean Plateau" 
  STRATEGICREGION_147: "Северная Сибирь"
  STRATEGICREGION_148: "Российский Дальний Восток"
  STRATEGICREGION_149: "Восточная Сибирь"
- STRATEGICREGION_150: "Arctic Russia" #NT!
+ STRATEGICREGION_150: "Arctic Russia" 
  STRATEGICREGION_151: "Западная Сибирь"
- STRATEGICREGION_152: "Central Steppe" #NT!
- STRATEGICREGION_153: "Upper Ganges" #NT!
- STRATEGICREGION_154: "Japan" #NT!
- STRATEGICREGION_155: "Manchuria" #NT!
+ STRATEGICREGION_152: "Central Steppe" 
+ STRATEGICREGION_153: "Upper Ganges" 
+ STRATEGICREGION_154: "Japan" 
+ STRATEGICREGION_155: "Manchuria" 
  STRATEGICREGION_156: "Южная Австралия"
  STRATEGICREGION_157: "Новая Зеландия"
  STRATEGICREGION_158: "Зондские острова"
@@ -162,7 +162,7 @@
  STRATEGICREGION_161: "Исландия"
  STRATEGICREGION_162: "Афганистан"
  STRATEGICREGION_163: "Амасонас"
- STRATEGICREGION_164: "Central China" #NT!
+ STRATEGICREGION_164: "Central China" 
  STRATEGICREGION_165: "Южный Китай"
  STRATEGICREGION_166: "Гудзонов залив"
  STRATEGICREGION_167: "Новая Гвинея"
@@ -180,25 +180,25 @@
  STRATEGICREGION_179: "Французская Полинезия"
  STRATEGICREGION_180: "Микронезийский пролив"
  STRATEGICREGION_181: "Мадагаскар"
- STRATEGICREGION_182: "North West Africa" #NT!
+ STRATEGICREGION_182: "North West Africa" 
  STRATEGICREGION_183: "Центральная Африка"
- STRATEGICREGION_184: "Kalahari Desert" #NT!
- STRATEGICREGION_185: "Mozambique" #NT!
+ STRATEGICREGION_184: "Kalahari Desert" 
+ STRATEGICREGION_185: "Mozambique" 
  STRATEGICREGION_186: "Корея"
  STRATEGICREGION_187: "Суматра"
  STRATEGICREGION_188: "Малайя"
  STRATEGICREGION_189: "Бирма"
- STRATEGICREGION_190: "Thar Desert" #NT!
+ STRATEGICREGION_190: "Thar Desert" 
  STRATEGICREGION_191: "Северная Норвегия"
  STRATEGICREGION_192: "Северная Швеция"
  STRATEGICREGION_193: "Северная Австралия"
  STRATEGICREGION_194: "Восточная Австралия"
- STRATEGICREGION_195: "Western Australia" #NT!
- STRATEGICREGION_196: "Arabia" #NT!
+ STRATEGICREGION_195: "Western Australia" 
+ STRATEGICREGION_196: "Arabia" 
  STRATEGICREGION_197: "Новая Англия"
- STRATEGICREGION_198: "Midwest" #NT!
- STRATEGICREGION_199: "Rocky Mountains" #NT!
- STRATEGICREGION_200: "Yunnan Highlands" #NT!
+ STRATEGICREGION_198: "Midwest" 
+ STRATEGICREGION_199: "Rocky Mountains" 
+ STRATEGICREGION_200: "Yunnan Highlands" 
  STRATEGICREGION_201: "Северные Анды"
  STRATEGICREGION_202: "Эгейское море"
  STRATEGICREGION_203: "Персидский залив"
@@ -206,17 +206,17 @@
  STRATEGICREGION_205: "Полуостров Юкатан"
  STRATEGICREGION_206: "Нижнее Балтийское море"
  STRATEGICREGION_207: "Датские проливы"
- STRATEGICREGION_208: "Guinea Coast" #NT!
- STRATEGICREGION_209: "Ivory Coast" #NT!
- STRATEGICREGION_210: "Senegal Coast" #NT!
- STRATEGICREGION_211: "Lower Niger" #NT!
- STRATEGICREGION_212: "Tschad Basin" #NT!
- STRATEGICREGION_213: "Equatorial Coast" #NT!
- STRATEGICREGION_214: "Congo Basin" #NT!
- STRATEGICREGION_215: "Sudan" #NT!
- STRATEGICREGION_216: "Katanga Plateau" #NT!
- STRATEGICREGION_217: "East Africa" #NT!
- STRATEGICREGION_218: "Rift Valley" #NT!
- STRATEGICREGION_219: "The Horn" #NT!
- STRATEGICREGION_220: "Deccan Plateau" #NT!
- STRATEGICREGION_221: "Siam" #NT!
+ STRATEGICREGION_208: "Guinea Coast" 
+ STRATEGICREGION_209: "Ivory Coast" 
+ STRATEGICREGION_210: "Senegal Coast" 
+ STRATEGICREGION_211: "Lower Niger" 
+ STRATEGICREGION_212: "Tschad Basin" 
+ STRATEGICREGION_213: "Equatorial Coast" 
+ STRATEGICREGION_214: "Congo Basin" 
+ STRATEGICREGION_215: "Sudan" 
+ STRATEGICREGION_216: "Katanga Plateau" 
+ STRATEGICREGION_217: "East Africa" 
+ STRATEGICREGION_218: "Rift Valley" 
+ STRATEGICREGION_219: "The Horn" 
+ STRATEGICREGION_220: "Deccan Plateau" 
+ STRATEGICREGION_221: "Siam" 

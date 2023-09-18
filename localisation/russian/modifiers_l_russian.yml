@@ -22,9 +22,9 @@
  MODIFIER_NAVAL_STRIKE: "Морская атака"
  VISIBLE_MODIFIERS_END: "Конец видимых коэффициентов"
  MODIFIER_CARRIER_TRAFFIC: "Перемещение авианосцев"
- MODIFIER_POLITICAL_POWER_GAIN: "Daily Legislative Power Gain" #NT!
- MODIFIER_POLITICAL_POWER_COST: "Daily Legislative Power Cost" #NT!
- MODIFIER_POLITICAL_POWER_FACTOR: "Legislative Power Gain" #NT!
+ MODIFIER_POLITICAL_POWER_GAIN: "Daily Legislative Power Gain" 
+ MODIFIER_POLITICAL_POWER_COST: "Daily Legislative Power Cost" 
+ MODIFIER_POLITICAL_POWER_FACTOR: "Legislative Power Gain" 
  MODIFIER_CARRIER_NIGHT_TRAFFIC: "Ночное перемещение авианосцев"
  MODIFIER_NAVAL_HIT_CHANCE: "Вероятность успеха морской атаки"
  MODIFIER_NAVAL_SPEED: "Скорость флота"
@@ -144,7 +144,7 @@
  naval_mines_research: "Темпы исследований морских мин"
  radar_tech_research: "Темпы исследований радаров"
  infantry_weapons_research: "Темпы исследований оружия и снаряжения"
- rifle_equipment_techs_research: "Rifle Equipment Research Speed" #NT!
+ rifle_equipment_techs_research: "Rifle Equipment Research Speed" 
  motorized_equipment_research: "Темпы исследований моторизированной техники"
  naval_equipment_research: "Темпы исследований кораблей"
  ship_modules_tech_research: "Темпы исследований корабельных модулей"
@@ -209,10 +209,10 @@
  MODIFIER_AIR_MORALE_FACTOR: "Скорость восстановления авиации"
  MODIFIER_NAVAL_MORALE: "Скорость восстановления флота"
  MODIFIER_NAVAL_MORALE_FACTOR: "Скорость восстановления флота"
- #modifier_production_speed_fuel_silo_factor: "§YFuel Silo§! construction speed" #NT!
- #modifier_production_speed_fuel_silo_factor_desc: "Modifies the speed of Fuel Silo construction." #NT!
- #MODIFIER_CARRIER_FIGHTER_SORTIE_EFFICIENCY_FACTOR: "Fighters sortie efficiency" #NT!
- #MODIFIER_CARRIER_FIGHTER_SORTIE_EFFICIENCY_FACTOR_DESC: "The additional percents to the speed when refueling and rearming fighter planes on the carrier during the battle." #NT!
+ #modifier_production_speed_fuel_silo_factor: "§YFuel Silo§! construction speed" 
+ #modifier_production_speed_fuel_silo_factor_desc: "Modifies the speed of Fuel Silo construction." 
+ #MODIFIER_CARRIER_FIGHTER_SORTIE_EFFICIENCY_FACTOR: "Fighters sortie efficiency" 
+ #MODIFIER_CARRIER_FIGHTER_SORTIE_EFFICIENCY_FACTOR_DESC: "The additional percents to the speed when refueling and rearming fighter planes on the carrier during the battle." 
  MODIFIER_STRATEGIC_BOMBER_ATTACK: "Бомбардировщики: атака"
  MODIFIER_INTERCEPTION_ATTACK: "Перехватчики: атака"
  MODIFIER_AIR_SUPERIORITY_ATTACK: "Истребители: атака"
@@ -321,9 +321,9 @@
  MODIFIER_NAVY_ANTI_AIR_ATTACK_DESC: "Эффективность флота против вражеской авиации."
  MODIFIER_NAVY_ANTI_AIR_ATTACK_FACTOR_DESC: "Эффективность флота против вражеской авиации."
  MODIFIER_NAVY_MAX_RANGE: "Радиус действия флота"
- MODIFIER_NAVY_MAX_RANGE_DESC: "Increases the maximum naval range that our fleets can operate from any nearest naval port we have access to." #NT!
+ MODIFIER_NAVY_MAX_RANGE_DESC: "Increases the maximum naval range that our fleets can operate from any nearest naval port we have access to." 
  MODIFIER_NAVY_MAX_RANGE_FACTOR: "Коэффициент радиуса действия флота"
- MODIFIER_NAVY_MAX_RANGE_FACTOR_DESC: "Increases the maximum naval range that our fleets can operate from any nearest naval port we have access to." #NT!
+ MODIFIER_NAVY_MAX_RANGE_FACTOR_DESC: "Increases the maximum naval range that our fleets can operate from any nearest naval port we have access to." 
  MODIFIER_OPINION_GAIN_MONTHLY: "Улучшает мнение"
  MODIFIER_OPINION_GAIN_MONTHLY_FACTOR: "Улучшает мнение"
  MODIFIER_OPINION_GAIN_MONTHLY_FACTOR_DESC: "Улучшает отношения с другими государствами при использовании действия §HУлучшить отношения§!."
@@ -335,37 +335,37 @@
  MODIFIER_LINE_CHANGE_PRODUCTION_EFFICIENCY_FACTOR_DESC: "Изменение потерь эффективности производства при переводе линии на выпуск другой продукции."
  MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR: "Скорость строительства"
  MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR_DESC: "Изменяет скорость строительства всех сооружений."
- modifier_production_speed_infrastructure_factor: "§YInfrastructure§! Construction Speed" #NT!
+ modifier_production_speed_infrastructure_factor: "§YInfrastructure§! Construction Speed" 
  modifier_production_speed_infrastructure_factor_desc: "Изменяет скорость строительства инфраструктуры."
- modifier_production_speed_arms_factory_factor: "§YMilitary Factory§! Construction Speed" #NT!
+ modifier_production_speed_arms_factory_factor: "§YMilitary Factory§! Construction Speed" 
  modifier_production_speed_arms_factory_factor_desc: "Изменяет скорость строительства военных заводов."
- modifier_production_speed_industrial_complex_factor: "§YCivilian Factory§! Construction Speed" #NT!
+ modifier_production_speed_industrial_complex_factor: "§YCivilian Factory§! Construction Speed" 
  modifier_production_speed_industrial_complex_factor_desc: "Изменяет скорость строительства фабрик."
- modifier_production_speed_air_base_factor: "§YAir Base§! Construction Speed" #NT!
+ modifier_production_speed_air_base_factor: "§YAir Base§! Construction Speed" 
  modifier_production_speed_air_base_factor_desc: "Изменяет скорость строительства авиабаз."
- modifier_production_speed_naval_base_factor: "§YNaval Port§! Construction Speed" #NT!
- modifier_production_speed_naval_base_factor_desc: "Modifies the speed of Naval Port construction." #NT!
- modifier_production_speed_bunker_factor: "§YLand Fort§! Construction Speed" #NT!
+ modifier_production_speed_naval_base_factor: "§YNaval Port§! Construction Speed" 
+ modifier_production_speed_naval_base_factor_desc: "Modifies the speed of Naval Port construction." 
+ modifier_production_speed_bunker_factor: "§YLand Fort§! Construction Speed" 
  modifier_production_speed_bunker_factor_desc: "Изменяет скорость строительства бункеров."
- modifier_production_speed_coastal_bunker_factor: "§YCoastal Fort§! Construction Speed" #NT!
+ modifier_production_speed_coastal_bunker_factor: "§YCoastal Fort§! Construction Speed" 
  modifier_production_speed_coastal_bunker_factor_desc: "Изменяет скорость строительства береговых бункеров."
- modifier_production_speed_dockyard_factor: "§YDockyard§! Construction Speed" #NT!
+ modifier_production_speed_dockyard_factor: "§YDockyard§! Construction Speed" 
  modifier_production_speed_dockyard_factor_desc: "Изменяет скорость строительства верфей."
- modifier_production_speed_anti_air_building_factor: "§YAnti Air§! Construction Speed" #NT!
+ modifier_production_speed_anti_air_building_factor: "§YAnti Air§! Construction Speed" 
  modifier_production_speed_anti_air_building_factor_desc: "Меняет скорость строительства батарей ПВО."
- modifier_production_speed_synthetic_refinery_factor: "§YRefinery§! Construction Speed" #NT!
+ modifier_production_speed_synthetic_refinery_factor: "§YRefinery§! Construction Speed" 
  modifier_production_speed_synthetic_refinery_factor_desc: "Изменяет скорость строительства нефтеперерабатывающих заводов."
- modifier_production_speed_radar_station_factor: "§YRadar Station§! Construction Speed" #NT!
+ modifier_production_speed_radar_station_factor: "§YRadar Station§! Construction Speed" 
  modifier_production_speed_radar_station_factor_desc: "Изменяет скорость строительства радарных станций."
- modifier_production_speed_rocket_site_factor: "§YRocket Site§! Construction Speed" #NT!
+ modifier_production_speed_rocket_site_factor: "§YRocket Site§! Construction Speed" 
  modifier_production_speed_rocket_site_factor_desc: "Изменяет скорость строительства ракетных площадок."
- modifier_production_speed_nuclear_reactor_factor: "§YNuclear Reactor§! Construction Speed" #NT!
- modifier_production_speed_nuclear_reactor_factor_desc: "Modifies the speed of Nuclear Reactor Construction Speed" #NT!
- modifier_production_speed_fuel_silo_factor: "§YFuel Silo§! Construction Speed" #NT!
+ modifier_production_speed_nuclear_reactor_factor: "§YNuclear Reactor§! Construction Speed" 
+ modifier_production_speed_nuclear_reactor_factor_desc: "Modifies the speed of Nuclear Reactor Construction Speed" 
+ modifier_production_speed_fuel_silo_factor: "§YFuel Silo§! Construction Speed" 
  modifier_production_speed_fuel_silo_factor_desc: "Изменяет скорость строительства топливного хранилища."
- modifier_production_speed_rail_way_factor: "§YRailway§! Construction Speed" #NT!
+ modifier_production_speed_rail_way_factor: "§YRailway§! Construction Speed" 
  modifier_production_speed_rail_way_factor_desc: "Изменяет скорость строительства железных дорог."
- modifier_production_speed_supply_node_factor: "§YSupply Hub§! Construction Speed" #NT!
+ modifier_production_speed_supply_node_factor: "§YSupply Hub§! Construction Speed" 
  modifier_production_speed_supply_node_factor_desc: "Изменяет скорость строительства узлов снабжения."
  MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY: "£prod_eff_cap  Макс. эффективность производства"
  MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_DESC: "Максимальная эффективность производства, которой можно добиться, массово выпуская товары на одной линии."
@@ -373,7 +373,7 @@
  MODIFIER_PRODUCTION_FACTORY_START_EFFICIENCY_FACTOR_DESC: "Эффективность производства при запуске новой производственной линии."
  MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR: "£prod_eff_cap  Макс. эффективность производства"
  MODIFIER_PRODUCTION_FACTORY_MAX_EFFICIENCY_FACTOR_DESC: "£prod_eff_cap  Максимальная эффективность производства определяет максимальное значение вашей £prod_eff  эффективности производства. Ее можно увеличить путем изучения новых £tech_mod технологий."
- MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR: "£prod_eff Production Efficiency Growth" #NT!
+ MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR: "£prod_eff Production Efficiency Growth" 
  MODIFIER_PRODUCTION_FACTORY_EFFICIENCY_GAIN_FACTOR_DESC: "Определяет прирост эффективности при массовом выпуске товаров на одной и той же линии."
  MODIFIER_AMPHIBIOUS_INVASION: "Скорость десантной высадки"
  MODIFIER_AMPHIBIOUS_INVASION_DESC: "Насколько быстро боевые единицы перемещаются по берегу при высадке с моря."
@@ -442,20 +442,20 @@
  neutrality_acceptance: "Принятие нейтральной дипломатии"
  MODIFIER_RESEARCH_SPEED_FACTOR: "Темпы исследований"
  MODIFIER_RESEARCH_SPEED_FACTOR_DESC: "Сокращает время на изучение новой технологии."
- #MODIFIER_NAVAL_INVASION_PENALTY: "Invasion Penalty" #NT!
- #MODIFIER_NAVAL_INVASION_PENALTY_DESC: "Increases the naval invasion penalties, reducing the combat efficiency." #NT!
- #MODIFIER_LICENSE_INFANTRY_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "License production speed from technology difference for Infantry Equipment" #NT!
- #MODIFIER_LICENSE_ARTILLERY_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "License production speed from technology difference for Artillery Equipment" #NT!
- #MODIFIER_LICENSE_LIGHT_TANK_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "License production speed from technology difference for Light Tank Equipment" #NT!
- #MODIFIER_LICENSE_ANTI_TANK_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "License production speed from technology difference for Anti-Tank Equipment" #NT!
- #MODIFIER_LICENSE_INFANTRY_EQ_PRODUCTION_SPEED_FACTOR: "License production speed for Infantry Equipment" #NT!
- #MODIFIER_LICENSE_ARTILLERY_EQ_PRODUCTION_SPEED_FACTOR: "License production speed for Artillery Equipment" #NT!
- #MODIFIER_LICENSE_LIGHT_TANK_EQ_PRODUCTION_SPEED_FACTOR: "License production speed for Light Tank Equipment" #NT!
- #MODIFIER_LICENSE_ANTI_TANK_EQ_PRODUCTION_SPEED_FACTOR: "License production speed for Anti-Tank Equipment" #NT!
- #MODIFIER_LICENSE_INFANTRY_EQ_COST_FACTOR: "License purchase cost for Infantry Equipment" #NT!
- #MODIFIER_LICENSE_ARTILLERY_EQ_COST_FACTOR: "License purchase cost for Artillery Equipment" #NT!
- #MODIFIER_LICENSE_LIGHT_TANK_EQ_COST_FACTOR: "License purchase cost for Light Tank Equipment" #NT!
- #MODIFIER_LICENSE_ANTI_TANK_EQ_COST_FACTOR: "License purchase cost for Anti-Tank Equipment" #NT!
+ #MODIFIER_NAVAL_INVASION_PENALTY: "Invasion Penalty" 
+ #MODIFIER_NAVAL_INVASION_PENALTY_DESC: "Increases the naval invasion penalties, reducing the combat efficiency." 
+ #MODIFIER_LICENSE_INFANTRY_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "License production speed from technology difference for Infantry Equipment" 
+ #MODIFIER_LICENSE_ARTILLERY_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "License production speed from technology difference for Artillery Equipment" 
+ #MODIFIER_LICENSE_LIGHT_TANK_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "License production speed from technology difference for Light Tank Equipment" 
+ #MODIFIER_LICENSE_ANTI_TANK_EQ_TECH_DIFFERENCE_SPEED_FACTOR: "License production speed from technology difference for Anti-Tank Equipment" 
+ #MODIFIER_LICENSE_INFANTRY_EQ_PRODUCTION_SPEED_FACTOR: "License production speed for Infantry Equipment" 
+ #MODIFIER_LICENSE_ARTILLERY_EQ_PRODUCTION_SPEED_FACTOR: "License production speed for Artillery Equipment" 
+ #MODIFIER_LICENSE_LIGHT_TANK_EQ_PRODUCTION_SPEED_FACTOR: "License production speed for Light Tank Equipment" 
+ #MODIFIER_LICENSE_ANTI_TANK_EQ_PRODUCTION_SPEED_FACTOR: "License production speed for Anti-Tank Equipment" 
+ #MODIFIER_LICENSE_INFANTRY_EQ_COST_FACTOR: "License purchase cost for Infantry Equipment" 
+ #MODIFIER_LICENSE_ARTILLERY_EQ_COST_FACTOR: "License purchase cost for Artillery Equipment" 
+ #MODIFIER_LICENSE_LIGHT_TANK_EQ_COST_FACTOR: "License purchase cost for Light Tank Equipment" 
+ #MODIFIER_LICENSE_ANTI_TANK_EQ_COST_FACTOR: "License purchase cost for Anti-Tank Equipment" 
  MODIFIER_ROCKET_ATTACK_FACTOR: "Урон от ракет"
  MODIFIER_ENCRYPTION: "Шифрование"
  MODIFIER_ENCRYPTION_DESC: "Шифрование скрывает информацию о дереве фокуса и боевых единицах на карте от других стран. Если шифрование больше, чем вражеское дешифрование, противник не получит боевой бонус."
@@ -463,9 +463,9 @@
  MODIFIER_DECRYPTION: "Дешифрование"
  MODIFIER_DECRYPTION_DESC: "Дешифрование показывает информацию о деревьях фокуса и воинских частях на карте других стран. Если дешифрование больше, чем вражеское шифрование, вы получите боевой бонус."
  MODIFIER_DECRYPTION_FACTOR: "Дешифрование"
- MODIFIER_INDUSTRIAL_CAPACITY_FACTOR: "§YFactory§! Output" #NT!
+ MODIFIER_INDUSTRIAL_CAPACITY_FACTOR: "§YFactory§! Output" 
  MODIFIER_INDUSTRIAL_CAPACITY_FACTOR_DESC: "Увеличивает количество работы, выполняемой на каждой фабрике в час."
- MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR: "§YDockyard§! Output" #NT!
+ MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR: "§YDockyard§! Output" 
  MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR_DESC: "Увеличивает объем работы, выполняемой на каждой верфи в час."
  MODIFIER_INDUSTRY_AIR_DAMAGE_FACTOR: "Уязвимость фабрик для бомбардировок"
  MODIFIER_INDUSTRY_AIR_DAMAGE_FACTOR_DESC: "Благодаря рассредоточенности фабрики получают меньший урон от вражеских бомбардировок."
@@ -480,9 +480,9 @@
  MODIFIER_CONSCRIPTION_FACTOR_DESC: "Изменяет количество людских ресурсов, доступных вам в регионах."
  MODIFIER_CONSCRIPTION_TOTAL_FACTOR: "Фактор военнообязанного населения"
  MODIFIER_CONSCRIPTION_TOTAL_FACTOR_DESC: "Изменяет прирост ваших людских ресурсов за счет регионов."
- MODIFIER_TRADE_OPINION_FACTOR: "Trade Deal Opinion Factor" #NT!
+ MODIFIER_TRADE_OPINION_FACTOR: "Trade Deal Opinion Factor" 
  MODIFIER_TRADE_OPINION_FACTOR_DESC: "Какое влияние оказывает мнение при заключении торговых сделок."
- MODIFIER_FACTION_TRADE_OPINION_FACTOR: "Faction Trade Deal Opinion Factor" #NT!
+ MODIFIER_FACTION_TRADE_OPINION_FACTOR: "Faction Trade Deal Opinion Factor" 
  MODIFIER_FACTION_TRADE_OPINION_FACTOR_DESC: "Какое влияние оказывает мнение при заключении торговых сделок между членами альянса."
  MODIFIER_GROUND_ATTACK: "Авиаштурмовая атака"
  MODIFIER_GROUND_ATTACK_FACTOR: "Коэффициент авиаштурмовой атаки"
@@ -582,7 +582,7 @@
  MODIFIER_AI_FOCUS_MILITARY_ADVANCEMENTS_FACTOR_DESC: "Насколько сильный акцент государство делает на изучении продвинутых военных технологий."
  MODIFIER_AI_FOCUS_MILITARY_EQUIPMENT_FACTOR: "Модификатор ИИ: акцент на военной технике"
  MODIFIER_AI_FOCUS_MILITARY_EQUIPMENT_FACTOR_DESC: "Насколько сильный акцент государство делает на разработке базовой военной техники."
- MODIFIER_AI_DESIRED_DIVISIONS_FACTOR: "Factor on how many divisions the country aims to produce." #NT!
+ MODIFIER_AI_DESIRED_DIVISIONS_FACTOR: "Factor on how many divisions the country aims to produce." 
  MODIFIER_AI_FOCUS_PEACEFUL_FACTOR: "Модификатор ИИ: Акцент на мир"
  MODIFIER_AI_FOCUS_PEACEFUL_FACTOR_DESC: "Насколько сильный акцент государство делает на мирные научные исследования и политику."
  MODIFIER_AI_FOCUS_NAVAL_FACTOR: "Модификатор ИИ: Акцент на ВМФ"
@@ -637,7 +637,7 @@
  MODIFIER_NAVAL_INVASION_PENALTY_DESC: "Увеличивает штрафы за морское вторжение, ухудшая боевую эффективность."
  MODIFIER_OCCUPATION_COST: "Затраты на оккупацию"
  MODIFIER_OCCUPATION_COST_DESC: "Повышает затраты на поддержание оккупации другого государства."
- MODIFIER_ENEMY_PORT_SUPERIORITY_LIMIT: "Port strike enemy superiority limit:" #NT!
+ MODIFIER_ENEMY_PORT_SUPERIORITY_LIMIT: "Port strike enemy superiority limit:" 
  MODIFIER_MINIMUM_TRAINING_LEVEL: "Минимальный уровень обучения"
  MODIFIER_MINIMUM_TRAINING_LEVEL_DESC: "Снижает минимальный уровень обучения, необходимый для размещения боевой единицы."
  MODIFIER_AUTONOMY_MANPOWER_SHARE: "Требование к людским ресурсам субъекта"
@@ -705,7 +705,7 @@
  MODIFIER_GLOBAL_NON_CORE_MANPOWER: "Людские ресурсы не национальной провинции"
  MODIFIER_MOBILIZATION_SPEED: "Скорость мобилизации"
  MODIFIER_IMPROVE_RELATIONS_MAINTAIN_COST_FACTOR: "Затраты на улучшение отношений"
- MODIFIER_LICENSE_PURCHASE_COST: "License puchase cost" #NT!
+ MODIFIER_LICENSE_PURCHASE_COST: "License puchase cost" 
  MODIFIER_LICENSE_AIR_PURCHASE_COST: "Затраты на лицензирование выпуска авиации"
  MODIFIER_LICENSE_INFANTRY_PURCHASE_COST: "Затраты на лицензирование выпуска пехотного снаряжения"
  MODIFIER_LICENSE_ARMOR_PURCHASE_COST: "Затраты на лицензирование выпуска бронетехники"
@@ -731,103 +731,103 @@
  mobilization_laws_cost_factor: "Затраты на законы о призыве"
  trade_laws_cost_factor: "Затраты на законы, регулирующие торговлю"
  economy_cost_factor: "Затраты на законы об экономике"
- #political_advisor_cost_factor: "Political Advisor Cost" #NT!
- #tank_manufacturer_cost_factor: "Tank Manufacturer Cost" #NT!
- #naval_manufacturer_cost_factor: "Naval Manufacturer Cost" #NT!
- #aircraft_manufacturer_cost_factor: "Aircraft Manufacturer Cost" #NT!
- #materiel_manufacturer_cost_factor: "Materiel Manufacturer Cost" #NT!
- #industrial_concern_cost_factor: "Industrial Concern Cost" #NT!
- #theorist_cost_factor: "Theorist Cost" #NT!
- #army_chief_cost_factor: "Army Chief  Cost" #NT!
- #navy_chief_cost_factor: "Navy Chief  Cost" #NT!
- #air_chief_cost_factor: "Air Chief Cost" #NT!
- #high_command_cost_factor: "High Command Cost" #NT!
- #MODIFIER_AI_LICENSE_ACCEPTANCE: "Acceptance when requesting to buy license" #NT!
- #MODIFIER_GUARANTEE_COST: "Guarantee Cost" #NT!
- #MODIFIER_AUTONOMY_GAIN_GLOBAL_FACTOR: "All autonomy gain" #NT!
- #MODIFIER_LICENSE_SUBJECT_MASTER_PURCHASE_COST: "License cost between subject and master" #NT!
- #stability_good_modifier: "Stability" #NT!
- #stability_bad_modifier: "Stability" #NT!
- #war_support_modifier: "War Support" #NT!
- #war_support_good_modifier: "War Support" #NT!
- #war_support_bad_modifier: "War Support" #NT!
- #MODIFIER_STABILITY_FACTOR: "Stability" #NT!
- #MODIFIER_STABILITY_WEEKLY: "Weekly Stability" #NT!
- #MODIFIER_STABILITY_WEEKLY_FACTOR: "Weekly Stability Gain" #NT!
- #MODIFIER_STABILITY_POPULARITY_FACTOR: "Party Popularity Stability Modifier" #NT!
- #MODIFIER_STABILITY_WAR_FACTOR: "War Penalty Stability Modifier" #NT!
- #MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR: "Offensive War Penalty Stability Modifier" #NT!
- #MODIFIER_STABILITY_DEFENSIVE_WAR_FACTOR: "Defensive War Penalty Stability Modifier" #NT!
- #MODIFIER_SURRENDER_LIMIT: "Surrender Limit" #NT!
- #MODIFIER_FORCED_SURRENDER_LIMIT: "Surrender Limit" #NT!
+ #political_advisor_cost_factor: "Political Advisor Cost" 
+ #tank_manufacturer_cost_factor: "Tank Manufacturer Cost" 
+ #naval_manufacturer_cost_factor: "Naval Manufacturer Cost" 
+ #aircraft_manufacturer_cost_factor: "Aircraft Manufacturer Cost" 
+ #materiel_manufacturer_cost_factor: "Materiel Manufacturer Cost" 
+ #industrial_concern_cost_factor: "Industrial Concern Cost" 
+ #theorist_cost_factor: "Theorist Cost" 
+ #army_chief_cost_factor: "Army Chief  Cost" 
+ #navy_chief_cost_factor: "Navy Chief  Cost" 
+ #air_chief_cost_factor: "Air Chief Cost" 
+ #high_command_cost_factor: "High Command Cost" 
+ #MODIFIER_AI_LICENSE_ACCEPTANCE: "Acceptance when requesting to buy license" 
+ #MODIFIER_GUARANTEE_COST: "Guarantee Cost" 
+ #MODIFIER_AUTONOMY_GAIN_GLOBAL_FACTOR: "All autonomy gain" 
+ #MODIFIER_LICENSE_SUBJECT_MASTER_PURCHASE_COST: "License cost between subject and master" 
+ #stability_good_modifier: "Stability" 
+ #stability_bad_modifier: "Stability" 
+ #war_support_modifier: "War Support" 
+ #war_support_good_modifier: "War Support" 
+ #war_support_bad_modifier: "War Support" 
+ #MODIFIER_STABILITY_FACTOR: "Stability" 
+ #MODIFIER_STABILITY_WEEKLY: "Weekly Stability" 
+ #MODIFIER_STABILITY_WEEKLY_FACTOR: "Weekly Stability Gain" 
+ #MODIFIER_STABILITY_POPULARITY_FACTOR: "Party Popularity Stability Modifier" 
+ #MODIFIER_STABILITY_WAR_FACTOR: "War Penalty Stability Modifier" 
+ #MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR: "Offensive War Penalty Stability Modifier" 
+ #MODIFIER_STABILITY_DEFENSIVE_WAR_FACTOR: "Defensive War Penalty Stability Modifier" 
+ #MODIFIER_SURRENDER_LIMIT: "Surrender Limit" 
+ #MODIFIER_FORCED_SURRENDER_LIMIT: "Surrender Limit" 
  MODIFIER_MAX_SURRENDER_LIMIT_OFFSET: "Минимальный лимит капитуляции"
- #MODIFIER_WAR_SUPPORT_FACTOR: "War Support" #NT!
- #MODIFIER_WAR_SUPPORT_WEEKLY: "Weekly War Support" #NT!
- #MODIFIER_WAR_SUPPORT_WEEKLY_FACTOR: "Weekly War Support Gain" #NT!
- #MODIFIER_EQUIPMENT_CAPTURE: "Equipment Capture Ratio Gain" #NT!
- #MODIFIER_COMMAND_POWER_GAIN: "Daily Command Power Gain" #NT!
- #MODIFIER_MAX_COMMAND_POWER: "Maximum Command Power Increase" #NT!
- #MODIFIER_COMMAND_POWER_GAIN_MULT: "Daily Command Power Gain Multiplier" #NT!
- #MODIFIER_MAX_COMMAND_POWER_MULT: "Maximum Command Power Increase Multiplier" #NT!
+ #MODIFIER_WAR_SUPPORT_FACTOR: "War Support" 
+ #MODIFIER_WAR_SUPPORT_WEEKLY: "Weekly War Support" 
+ #MODIFIER_WAR_SUPPORT_WEEKLY_FACTOR: "Weekly War Support Gain" 
+ #MODIFIER_EQUIPMENT_CAPTURE: "Equipment Capture Ratio Gain" 
+ #MODIFIER_COMMAND_POWER_GAIN: "Daily Command Power Gain" 
+ #MODIFIER_MAX_COMMAND_POWER: "Maximum Command Power Increase" 
+ #MODIFIER_COMMAND_POWER_GAIN_MULT: "Daily Command Power Gain Multiplier" 
+ #MODIFIER_MAX_COMMAND_POWER_MULT: "Maximum Command Power Increase Multiplier" 
  MODIFIER_COMMAND_ABILITIES_COST_FACTOR: "Стоимость способностей командира"
- #MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY: " Attack bonus against country" #NT!
- #MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES: "Attack on their core territory" #NT!
- #MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: "Defense bonus against country" #NT!
- #MODIFIER_CIVILIAN_FACTORY_USE: "Civilian Factory Use" #NT!
- #MODIFIER_ARMY_LEADER_MAX_ARMY_SIZE: "General Max Army Size" #NT!
- #MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_SIZE: "Field Marshal Max Army Size" #NT!
- #MODIFIER_ARMY_LEADER_MAX_ARMY_GROUP_SIZE: "General Max Army Group Size" #NT!
- #MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_GROUP_SIZE: "Field Marshal Max Army Group Size" #NT!
- #MODIFIER_TERRAIN_PENALTY_REDUCTION: "Terrain Penalty Reduction" #NT!
- #MODIFIER_EQUIPMENT_CAPTURE_FACTOR: "Equipment Capture Ratio Modifier" #NT!
- #MODIFIER_PARATROOPER_EXTRA_SUPPLY_GRACE: "Extra Paratrooper Supply Grace" #NT!
- #MODIFIER_MARINE_EXTRA_SUPPLY_GRACE: "Extra Marine Supply Grace" #NT!
- #MODIFIER_CAS_DAMAGE_REDUCTION: "Damage Reduction Against CAS" #NT!
- #MODIFIER_AIR_SUPERIORITY_BONUS_IN_COMBAT: "Air Superiority Bonus in Combat" #NT!
- #MODIFIER_SHORE_BOMBARDMENT: "Shore Bombardment Bonus" #NT!
- #MODIFIER_RECON_FACTOR_WHILE_ENTRENCHED: "Recon Bonus While Entrenched" #NT!
- #MODIFIER_CANNOT_USE_ABILITIES: "Cannot Use Combat Abilities" #NT!
- #MODIFIER_UNIT_LEADER_SKILL_BONUS_FACTOR: "Leader Skill Bonuses" #NT!
- #MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR: "Promotion Cost" #NT!
- #MODIFIER_SICKNESS_CHANCE: "Chance to Get Sick" #NT!
- #MODIFIER_RIVER_CROSSING_PENALTY_FACTOR: "River Crossing Speed Penalty" #NT!
- #MODIFIER_DONT_LOSE_DIGIN_ON_ATTACK_MOVE: "No Entrenchment Lose On Attack" #NT!
- #MODIFIER_SPECIAL_FORCES_CAP: "Special Forces Capacity Multiplier" #NT!
- #MODIFIER_SPECIAL_FORCES_MIN: "Special Forces Minimum Capacity" #NT!
- #MODIFIER_UNIT_SIZE_FACTOR_FOR_PARADROP: "Paratrooper per Plane" #NT!
- #MODIFIER_PARADROP_ORGANIZATION_FACTOR: "Paratrooper Organization Factor" #NT!
- #MODIFIER_PARATROOPER_DEFENSE: "Paratrooper Anti Air Defense" #NT!
- #MODIFIER_FORTIFICATION_COLLATERAL_CHANCE: "Fort Combat Damage Chance" #NT!
- #MODIFIER_FORTIFICATION_COLLATERAL_DAMAGE: "Fort Damage from Combat" #NT!
- #MODIFIER_CIC_TO_TARGET_FACTOR: "Civilian industry to target country" #NT!
- #MODIFIER_CIC_TO_TARGET_FACTOR_DESC: "How many §YCivilian§! factories are controlled by target country" #NT!
- #MODIFIER_MIC_TO_TARGET_FACTOR: "Military industry to target country" #NT!
- #MODIFIER_MIC_TO_TARGET_FACTOR_DESC: "How many §YMilitary§! factories are controlled by target country" #NT!
- #MODIFIER_TRADE_TO_TARGET_FACTOR: "Extra trade to overlord" #NT!
- #MODIFIER_TRADE_TO_TARGET_FACTOR_DESC: "Extra produced recourses available for trade to target country" #NT!
- #MODIFIER_TRADE_COST_TO_TARGET_FACTOR: "Target country trade cost" #NT!
- #MODIFIER_TRADE_COST_TO_TARGET_FACTOR_DESC: "Resources per factory in trade between countries" #NT!
- #MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE: "Special Forces Supply Grace" #NT!
- #MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE_DESC: "Extra hours that our Special Forces divisions can last without supplies." #NT!
- #MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR: "Special Forces Out of Supply" #NT!
- #MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC: "Reduces the penalty that our Special Forces divisions take when they run out of supplies." #NT!
- #MODIFIER_REASSIGNMENT_DURATION_FACTOR: "Army reassignment duration" #NT!
- #MODIFIER_REASSIGNMENT_DURATION_FACTOR_DESC: "Increases the en route duration for the general" #NT!
- #MODIFIER_WOUNDED_CHANCE_FACTOR: "Chance to get wounded in combat" #NT!
- #MODIFIER_WOUNDED_CHANCE_FACTOR_DESC: "How likely your general is to become wounded after losing a combat." #NT!
- #MODIFIER_NAVAL_INVASION_PREPARATION_SPEED: "Invasion Preparation Speed" #NT!
- #MODIFIER_NAVAL_INVASION_PREPARATION_SPEED_DESC: "Naval invasion plan speed factor" #NT!
- #MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR: "Static Anti Air damage factor" #NT!
- #MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR: "Static Anti Air hit chance factor" #NT!
+ #MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY: " Attack bonus against country" 
+ #MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES: "Attack on their core territory" 
+ #MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: "Defense bonus against country" 
+ #MODIFIER_CIVILIAN_FACTORY_USE: "Civilian Factory Use" 
+ #MODIFIER_ARMY_LEADER_MAX_ARMY_SIZE: "General Max Army Size" 
+ #MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_SIZE: "Field Marshal Max Army Size" 
+ #MODIFIER_ARMY_LEADER_MAX_ARMY_GROUP_SIZE: "General Max Army Group Size" 
+ #MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_GROUP_SIZE: "Field Marshal Max Army Group Size" 
+ #MODIFIER_TERRAIN_PENALTY_REDUCTION: "Terrain Penalty Reduction" 
+ #MODIFIER_EQUIPMENT_CAPTURE_FACTOR: "Equipment Capture Ratio Modifier" 
+ #MODIFIER_PARATROOPER_EXTRA_SUPPLY_GRACE: "Extra Paratrooper Supply Grace" 
+ #MODIFIER_MARINE_EXTRA_SUPPLY_GRACE: "Extra Marine Supply Grace" 
+ #MODIFIER_CAS_DAMAGE_REDUCTION: "Damage Reduction Against CAS" 
+ #MODIFIER_AIR_SUPERIORITY_BONUS_IN_COMBAT: "Air Superiority Bonus in Combat" 
+ #MODIFIER_SHORE_BOMBARDMENT: "Shore Bombardment Bonus" 
+ #MODIFIER_RECON_FACTOR_WHILE_ENTRENCHED: "Recon Bonus While Entrenched" 
+ #MODIFIER_CANNOT_USE_ABILITIES: "Cannot Use Combat Abilities" 
+ #MODIFIER_UNIT_LEADER_SKILL_BONUS_FACTOR: "Leader Skill Bonuses" 
+ #MODIFIER_UNIT_LEADER_PROMOTE_COST_FACTOR: "Promotion Cost" 
+ #MODIFIER_SICKNESS_CHANCE: "Chance to Get Sick" 
+ #MODIFIER_RIVER_CROSSING_PENALTY_FACTOR: "River Crossing Speed Penalty" 
+ #MODIFIER_DONT_LOSE_DIGIN_ON_ATTACK_MOVE: "No Entrenchment Lose On Attack" 
+ #MODIFIER_SPECIAL_FORCES_CAP: "Special Forces Capacity Multiplier" 
+ #MODIFIER_SPECIAL_FORCES_MIN: "Special Forces Minimum Capacity" 
+ #MODIFIER_UNIT_SIZE_FACTOR_FOR_PARADROP: "Paratrooper per Plane" 
+ #MODIFIER_PARADROP_ORGANIZATION_FACTOR: "Paratrooper Organization Factor" 
+ #MODIFIER_PARATROOPER_DEFENSE: "Paratrooper Anti Air Defense" 
+ #MODIFIER_FORTIFICATION_COLLATERAL_CHANCE: "Fort Combat Damage Chance" 
+ #MODIFIER_FORTIFICATION_COLLATERAL_DAMAGE: "Fort Damage from Combat" 
+ #MODIFIER_CIC_TO_TARGET_FACTOR: "Civilian industry to target country" 
+ #MODIFIER_CIC_TO_TARGET_FACTOR_DESC: "How many §YCivilian§! factories are controlled by target country" 
+ #MODIFIER_MIC_TO_TARGET_FACTOR: "Military industry to target country" 
+ #MODIFIER_MIC_TO_TARGET_FACTOR_DESC: "How many §YMilitary§! factories are controlled by target country" 
+ #MODIFIER_TRADE_TO_TARGET_FACTOR: "Extra trade to overlord" 
+ #MODIFIER_TRADE_TO_TARGET_FACTOR_DESC: "Extra produced recourses available for trade to target country" 
+ #MODIFIER_TRADE_COST_TO_TARGET_FACTOR: "Target country trade cost" 
+ #MODIFIER_TRADE_COST_TO_TARGET_FACTOR_DESC: "Resources per factory in trade between countries" 
+ #MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE: "Special Forces Supply Grace" 
+ #MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE_DESC: "Extra hours that our Special Forces divisions can last without supplies." 
+ #MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR: "Special Forces Out of Supply" 
+ #MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC: "Reduces the penalty that our Special Forces divisions take when they run out of supplies." 
+ #MODIFIER_REASSIGNMENT_DURATION_FACTOR: "Army reassignment duration" 
+ #MODIFIER_REASSIGNMENT_DURATION_FACTOR_DESC: "Increases the en route duration for the general" 
+ #MODIFIER_WOUNDED_CHANCE_FACTOR: "Chance to get wounded in combat" 
+ #MODIFIER_WOUNDED_CHANCE_FACTOR_DESC: "How likely your general is to become wounded after losing a combat." 
+ #MODIFIER_NAVAL_INVASION_PREPARATION_SPEED: "Invasion Preparation Speed" 
+ #MODIFIER_NAVAL_INVASION_PREPARATION_SPEED_DESC: "Naval invasion plan speed factor" 
+ #MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR: "Static Anti Air damage factor" 
+ #MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR: "Static Anti Air hit chance factor" 
  MODIFIER_NAVAL_CRITICAL_RECEIVE_CHANCE_FACTOR: "Вероятность получить критическое попадание"
  MODIFIER_NAVAL_CRITICAL_RECEIVE_CHANCE_FACTOR_DESC: "Уменьшает вероятность получить критическое попадание в морском сражении"
  MODIFIER_NAVAL_CRITICAL_SCORE_CHANCE_FACTOR: "Вероятность нанести критический урон"
  MODIFIER_NAVAL_CRITICAL_SCORE_CHANCE_FACTOR_DESC: "Влияет на вероятность нанести критический урон в морском сражении."
  MODIFIER_NAVAL_CRITICAL_EFFECT_FACTOR: "Действие критических повреждений"
  MODIFIER_NAVAL_CRITICAL_EFFECT_FACTOR_DESC: "Влияет на общий эффект от критических повреждений, полученных нашими кораблями."
- MODIFIER_NAVAL_DAMAGE_FACTOR: "Naval Damage" #NT!
+ MODIFIER_NAVAL_DAMAGE_FACTOR: "Naval Damage" 
  MODIFIER_NAVAL_DAMAGE_FACTOR_DESC: "Влияет на урон, который наносят наши корабли."
- MODIFIER_NAVAL_DEFENSE_FACTOR: "Naval Defense" #NT!
+ MODIFIER_NAVAL_DEFENSE_FACTOR: "Naval Defense" 
  MODIFIER_NAVAL_DEFENSE_FACTOR_DESC: "Влияет на урон, полученный нашими кораблями."
  MODIFIER_NAVAL_ENEMY_RETREAT_CHANCE: "Шансы отступления противника"
  MODIFIER_NAVAL_ENEMY_RETREAT_CHANCE_DESC: "Влияет на вероятность того, что противник решит выйти из боя и отступить."
@@ -906,12 +906,12 @@
  modifier_production_cost_max_ship_hull_carrier: "Макс. стоимость авианосцев"
  MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR: "Скорость перевооружения корабля"
  MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR_DESC: "Скорость, с которой выполняется перевооружение корабля"
- MODIFIER_INDUSTRIAL_NAVAL_EQUIPMENT_REFIT_SPEED_FACTOR: "$MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR$" #NT!
- MODIFIER_INDUSTRIAL_NAVAL_EQUIPMENT_REFIT_SPEED_FACTOR_DESC: "$MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR_DESC$" #NT!
+ MODIFIER_INDUSTRIAL_NAVAL_EQUIPMENT_REFIT_SPEED_FACTOR: "$MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR$" 
+ MODIFIER_INDUSTRIAL_NAVAL_EQUIPMENT_REFIT_SPEED_FACTOR_DESC: "$MODIFIER_INDUSTRIAL_REFIT_SPEED_FACTOR_DESC$" 
  MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR: "Стоимость перевооружения корабля"
  MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR_DESC: "Затраты ПП при перевооружении корабля"
- MODIFIER_INDUSTRIAL_NAVAL_EQUIPMENT_REFIT_IC_COST_FACTOR: "$MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR$" #NT!
- MODIFIER_INDUSTRIAL_NAVAL_EQUIPMENT_REFIT_IC_COST_FACTOR_DESC: "$MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR_DESC$" #NT!
+ MODIFIER_INDUSTRIAL_NAVAL_EQUIPMENT_REFIT_IC_COST_FACTOR: "$MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR$" 
+ MODIFIER_INDUSTRIAL_NAVAL_EQUIPMENT_REFIT_IC_COST_FACTOR_DESC: "$MODIFIER_INDUSTRIAL_REFIT_IC_COST_FACTOR_DESC$" 
  MODIFIER_EQUIPMENT_UPGRADE_XP_COST: "Стоимость оборудования в опыте"
  MODIFIER_EQUIPMENT_UPGRADE_XP_COST_DESC: "Расход опыта при переоснащении"
  MODIFIER_NAVAL_EQUIPMENT_UPGRADE_XP_COST: "Стоимость переоснащения флота в опыте"
@@ -940,14 +940,14 @@
  modifier_experience_gain_submarine_training_factor: "Получаемый опыт за подготовку подводной лодки"
  modifier_experience_gain_submarine_combat_factor: "Получаемый боевой опыт подводной лодки"
  political_advisor_cost_factor: "Затраты на политического советника"
- tank_manufacturer_cost_factor: "Tank Manufacturer Cost" #NT!
- naval_manufacturer_cost_factor: "Naval Manufacturer Cost" #NT!
- aircraft_manufacturer_cost_factor: "Aircraft Manufacturer Cost" #NT!
- materiel_manufacturer_cost_factor: "Materiel Manufacturer Cost" #NT!
+ tank_manufacturer_cost_factor: "Tank Manufacturer Cost" 
+ naval_manufacturer_cost_factor: "Naval Manufacturer Cost" 
+ aircraft_manufacturer_cost_factor: "Aircraft Manufacturer Cost" 
+ materiel_manufacturer_cost_factor: "Materiel Manufacturer Cost" 
  industrial_concern_cost_factor: "Затраты на промышленный концерн"
  theorist_cost_factor: "Затраты на теоретика"
- army_chief_cost_factor: "Army Chief  Cost" #NT!
- navy_chief_cost_factor: "Navy Chief  Cost" #NT!
+ army_chief_cost_factor: "Army Chief  Cost" 
+ navy_chief_cost_factor: "Navy Chief  Cost" 
  air_chief_cost_factor: "Затраты на командующего авиацией"
  high_command_cost_factor: "Затраты на верховное командование"
  MODIFIER_AI_LICENSE_ACCEPTANCE: "Одобрение запроса на покупку лицензии"
@@ -976,9 +976,9 @@
  MODIFIER_MAX_COMMAND_POWER: "Изменение максимума командного ресурса"
  MODIFIER_COMMAND_POWER_GAIN_MULT: "Коэффициент прироста командного ресурса в день"
  MODIFIER_MAX_COMMAND_POWER_MULT: "Максимальный коэффициент прироста командного ресурса"
- MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY: "Attack bonus against country" #NT!
+ MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY: "Attack bonus against country" 
  MODIFIER_ATTACK_BONUS_AGAINST_A_COUNTRY_ON_ITS_CORES: "Атака на национальной территории"
- MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: "Defense bonus against country" #NT!
+ MODIFIER_DEFENSE_BONUS_AGAINST_A_COUNTRY: "Defense bonus against country" 
  MODIFIER_CIVILIAN_FACTORY_USE: "Использование фабрик"
  MODIFIER_ARMY_LEADER_MAX_ARMY_SIZE: "Максимальный размер армии генерала"
  MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_SIZE: "Максимальный размер армии фельдмаршала"
@@ -1015,8 +1015,8 @@
  MODIFIER_TRADE_COST_TO_TARGET_FACTOR_DESC: "Количество ресурсов в пересчете на завод, которыми обмениваются страны"
  MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE: "Отсрочка перед пополнением припасов войск специального назначения"
  MODIFIER_SPECIAL_FORCES_NO_SUPPLY_GRACE_DESC: "Сколько часов наши войска специального назначения могут продержаться без снабжения."
- MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR: "Special Forces Out of Supply" #NT!
- MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC: "Reduces the penalty that our Special Forces divisions take when they run out of supplies." #NT!
+ MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR: "Special Forces Out of Supply" 
+ MODIFIER_SPECIAL_FORCES_OUT_OF_SUPPLY_FACTOR_DESC: "Reduces the penalty that our Special Forces divisions take when they run out of supplies." 
  MODIFIER_REASSIGNMENT_DURATION_FACTOR: "Длительность перевода в другую армию"
  MODIFIER_REASSIGNMENT_DURATION_FACTOR_DESC: "Увеличивает время, проводимое генералом в пути"
  MODIFIER_WOUNDED_CHANCE_FACTOR: "Шанс получить ранение в бою"
@@ -1025,24 +1025,24 @@
  MODIFIER_NAVAL_INVASION_PREPARATION_SPEED_DESC: "Фактор скорости при подготовке высадки с моря"
  MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR: "Статический коэффициент урона ПВО"
  MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR: "Статический коэффициент вероятности попадания ПВО"
- modifier_production_speed_coal_mine_factor: "§YCoal Mine§! Construction Speed" #NT!
- modifier_production_speed_coal_mine_factor_desc: "Modifies the speed of Coal Mine construction speed" #NT!
- modifier_production_speed_cotton_farm_factor: "§YCotton Farm§! Construction Speed" #NT!
- modifier_production_speed_cotton_farm_factor_desc: "Modifies the speed of Cotton Farm construction speed" #NT!
- modifier_production_speed_steel_mill_factor: "§YSteel Mill§! Construction Speed" #NT!
- modifier_production_speed_steel_mill_factor_desc: "Modifies the speed of Steel Mill construction speed" #NT!
- modifier_production_speed_logging_camp_factor: "§YLogging Camp§! Construction Speed" #NT!
- modifier_production_speed_logging_camp_factor_desc: "Modifies the speed of Logging Camp construction speed" #NT!
- modifier_production_speed_machine_parts_factory_factor: "§YMachine Parts Factory§! Construction Speed" #NT!
- modifier_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of Machine Parts Factory construction speed" #NT!
- modifier_production_speed_farm_factor: "§YFarm§! Construction Speed" #NT!
- modifier_production_speed_farm_factor_desc: "Modifies the speed of Farm construction speed" #NT!
- modifier_production_speed_fabric_weavery_factor: "§YFabric Weavery§! Construction Speed" #NT!
- modifier_production_speed_fabric_weavery_factor_desc: "Modifies the speed of Fabric Weavery construction speed" #NT!
- STAT_COMMON_ACCLIMATIZATION_WET_GAIN: "Wet acclimatization gain factor" #NT!
- STAT_COMMON_ACCLIMATIZATION_WET_GAIN_DESC: "The speed unit acclimatizes in a wet climate." #NT!
- STAT_COMMON_ACCLIMATIZATION_WET_GAIN_VALUE: "$VALUE|H1%$" #NT!
- STAT_COMMON_ACCLIMATIZATION_WET_GAIN_DIFF: " $VALUE|=+1%$" MODIFIER_ARMOR: " $VALUE|=+1%$" MODIFIER_ARMOR:0 "Armor" #NT!
+ modifier_production_speed_coal_mine_factor: "§YCoal Mine§! Construction Speed" 
+ modifier_production_speed_coal_mine_factor_desc: "Modifies the speed of Coal Mine construction speed" 
+ modifier_production_speed_cotton_farm_factor: "§YCotton Farm§! Construction Speed" 
+ modifier_production_speed_cotton_farm_factor_desc: "Modifies the speed of Cotton Farm construction speed" 
+ modifier_production_speed_steel_mill_factor: "§YSteel Mill§! Construction Speed" 
+ modifier_production_speed_steel_mill_factor_desc: "Modifies the speed of Steel Mill construction speed" 
+ modifier_production_speed_logging_camp_factor: "§YLogging Camp§! Construction Speed" 
+ modifier_production_speed_logging_camp_factor_desc: "Modifies the speed of Logging Camp construction speed" 
+ modifier_production_speed_machine_parts_factory_factor: "§YMachine Parts Factory§! Construction Speed" 
+ modifier_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of Machine Parts Factory construction speed" 
+ modifier_production_speed_farm_factor: "§YFarm§! Construction Speed" 
+ modifier_production_speed_farm_factor_desc: "Modifies the speed of Farm construction speed" 
+ modifier_production_speed_fabric_weavery_factor: "§YFabric Weavery§! Construction Speed" 
+ modifier_production_speed_fabric_weavery_factor_desc: "Modifies the speed of Fabric Weavery construction speed" 
+ STAT_COMMON_ACCLIMATIZATION_WET_GAIN: "Wet acclimatization gain factor" 
+ STAT_COMMON_ACCLIMATIZATION_WET_GAIN_DESC: "The speed unit acclimatizes in a wet climate." 
+ STAT_COMMON_ACCLIMATIZATION_WET_GAIN_VALUE: "$VALUE|H1%$" 
+ STAT_COMMON_ACCLIMATIZATION_WET_GAIN_DIFF: " $VALUE|=+1%$" MODIFIER_ARMOR: " $VALUE|=+1%$" MODIFIER_ARMOR:0 "Armor" 
  MODIFIER_BREAKTHROUGH: "Прорыв"
  carrier_experience_bonus_max: "От опыта авианосца"
  carrier_experience_malus_min: "От опыта авианосца"
@@ -1117,7 +1117,7 @@
  resource_sabotage_decrease_tooltip_UNCHANGED: "  Шанс подрыва добычи ресурсов: §G-25%§! (§H+0%§!)\n Длительность подрыва добычи ресурсов: §G-25%§! (§H+0%§!)"
  factory_sabotage_decrease_tooltip_UNCHANGED: "  Шанс саботажа на гражданской фабрике: §G-25%§! (§H+0%§!)\n Шанс саботажа на военном заводе: §G-25%§! (§H+0%§!)"
   
- modifier_repair_speed_infrastructure_factor: "Civilian Factory Repair Speed" #NT!
+ modifier_repair_speed_infrastructure_factor: "Civilian Factory Repair Speed" 
  modifier_repair_speed_industrial_complex_factor: "Скорость восстановления гражданских фабрик"
  modifier_repair_speed_arms_factory_factor: "Скорость восстановления военных заводов"
  MODIFIER_CIVILIAN_INTEL_FACTOR: "Гражданские разведданные"
@@ -1147,8 +1147,8 @@
  MODIFIER_CRYPTO_STRENGTH: "£crypto_defense£ Уровень криптологии"
  MODIFIER_CRYPTO_DEPARTMENT_ENABLED: "Открыть доступ к департаменту криптологии"
  MODIFIER_INTEL_NETWORK_GAIN: "Усиление разведсети"
- state_production_speed_industrial_complex_factor: "Local Civilian Industry Construction Speed" #NT!
- state_production_speed_infrastructure_factor: "Local Infrastructure Construction Speed" #NT!
+ state_production_speed_industrial_complex_factor: "Local Civilian Industry Construction Speed" 
+ state_production_speed_infrastructure_factor: "Local Infrastructure Construction Speed" 
  MODIFIER_INTEL_NETWORK_GAIN_FACTOR: "Усиление разведсети"
  MODIFIER_ENEMY_INTEL_NETWORK_GAIN_FACTOR_OVER_OCCUPIED_TAG: "Усиление вражеской разведсети"
  MODIFIER_OWN_OPERATIVE_DETECTION_CHANCE: "Изменение вероятности обнаружения нашего агента"
@@ -1167,49 +1167,49 @@
  MODIFIER_ENEMY_OPERATIVE_INTEL_EXTRACTION_RATE: "Скорость сбора разведданных вражеским агентом"
  MODIFIER_STATE_RESOURCES_FACTOR: "Местные доступные ресурсы"
  MODIFIER_STATE_PRODUCTION_SPEED_BUILDINGS_FACTOR: "Местная скорость строительства"
- modifier_state_production_speed_bunker_factor: "§Y$bunker$§! Construction Speed" #NT!
+ modifier_state_production_speed_bunker_factor: "§Y$bunker$§! Construction Speed" 
  modifier_state_production_speed_bunker_factor_desc: "Изменяет скорость строительства бункеров в этом регионе."
- modifier_state_production_speed_coastal_bunker_factor: "§Y$coastal_bunker$§! Construction Speed" #NT!
+ modifier_state_production_speed_coastal_bunker_factor: "§Y$coastal_bunker$§! Construction Speed" 
  modifier_state_production_speed_coastal_bunker_factor_desc: "Изменяет скорость строительства береговых укреплений в этом регионе."
- modifier_state_production_speed_industrial_complex_factor: "§Y$industrial_complex$§! Construction Speed" #NT!
+ modifier_state_production_speed_industrial_complex_factor: "§Y$industrial_complex$§! Construction Speed" 
  modifier_state_production_speed_industrial_complex_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$industrial_complex$§!."
- modifier_state_production_speed_supply_node_factor: "§Y$supply_node$§! Construction Speed" #NT!
+ modifier_state_production_speed_supply_node_factor: "§Y$supply_node$§! Construction Speed" 
  modifier_state_production_speed_supply_node_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$supply_node$§!."
- modifier_state_production_speed_rail_way_factor: "§Y$rail_way$§! Construction Speed" #NT!
+ modifier_state_production_speed_rail_way_factor: "§Y$rail_way$§! Construction Speed" 
  modifier_state_production_speed_rail_way_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$rail_way$§!."
- modifier_state_production_speed_infrastructure_factor: "§Y$infrastructure$§! Construction Speed" #NT!
- modifier_state_production_speed_infrastructure_factor_desc: "Modifies the speed of §Y$infrastructure$§! construction in this state." #NT!
- modifier_state_production_speed_arms_factory_factor: "§Y$arms_factory$§! Construction Speed" #NT!
+ modifier_state_production_speed_infrastructure_factor: "§Y$infrastructure$§! Construction Speed" 
+ modifier_state_production_speed_infrastructure_factor_desc: "Modifies the speed of §Y$infrastructure$§! construction in this state." 
+ modifier_state_production_speed_arms_factory_factor: "§Y$arms_factory$§! Construction Speed" 
  modifier_state_production_speed_arms_factory_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$arms_factory$§!."
- modifier_state_production_speed_coal_mine_factor: "§Y$coal_mine$§! Construction Speed" #NT!
- modifier_state_production_speed_coal_mine_factor_desc: "Modifies the speed of §Y$coal_mine$§! construction in this state." #NT!
- modifier_state_production_speed_cotton_farm_factor: "§Y$cotton_farm$§! Construction Speed" #NT!
- modifier_state_production_speed_cotton_farm_factor_desc: "Modifies the speed of §Y$cotton_farm$§! construction in this state." #NT!
- modifier_state_production_speed_fabric_weavery_factor: "§Y$fabric_weavery$§! Construction Speed" #NT!
- modifier_state_production_speed_fabric_weavery_factor_desc: "Modifies the speed of §Y$fabric_weavery$§! construction in this state." #NT!
- modifier_state_production_speed_steel_mill_factor: "§Y$steel_mill$§! Construction Speed" #NT!
- modifier_state_production_speed_steel_mill_factor_desc: "Modifies the speed of §Y$steel_mill$§! construction in this state." #NT!
- modifier_state_production_speed_logging_camp_factor: "§Y$logging_camp$§! Construction Speed" #NT!
- modifier_state_production_speed_logging_camp_factor_desc: "Modifies the speed of §Y$logging_camp$§! construction in this state." #NT!
- modifier_state_production_speed_machine_parts_factory_factor: "§Y$machine_parts_factory$§! Construction Speed" #NT!
- modifier_state_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of §Y$machine_parts_factory$§! construction in this state." #NT!
- modifier_state_production_speed_air_base_factor: "§Y$air_base$§! Construction Speed" #NT!
+ modifier_state_production_speed_coal_mine_factor: "§Y$coal_mine$§! Construction Speed" 
+ modifier_state_production_speed_coal_mine_factor_desc: "Modifies the speed of §Y$coal_mine$§! construction in this state." 
+ modifier_state_production_speed_cotton_farm_factor: "§Y$cotton_farm$§! Construction Speed" 
+ modifier_state_production_speed_cotton_farm_factor_desc: "Modifies the speed of §Y$cotton_farm$§! construction in this state." 
+ modifier_state_production_speed_fabric_weavery_factor: "§Y$fabric_weavery$§! Construction Speed" 
+ modifier_state_production_speed_fabric_weavery_factor_desc: "Modifies the speed of §Y$fabric_weavery$§! construction in this state." 
+ modifier_state_production_speed_steel_mill_factor: "§Y$steel_mill$§! Construction Speed" 
+ modifier_state_production_speed_steel_mill_factor_desc: "Modifies the speed of §Y$steel_mill$§! construction in this state." 
+ modifier_state_production_speed_logging_camp_factor: "§Y$logging_camp$§! Construction Speed" 
+ modifier_state_production_speed_logging_camp_factor_desc: "Modifies the speed of §Y$logging_camp$§! construction in this state." 
+ modifier_state_production_speed_machine_parts_factory_factor: "§Y$machine_parts_factory$§! Construction Speed" 
+ modifier_state_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of §Y$machine_parts_factory$§! construction in this state." 
+ modifier_state_production_speed_air_base_factor: "§Y$air_base$§! Construction Speed" 
  modifier_state_production_speed_air_base_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$air_base$§!."
- modifier_state_production_speed_naval_base_factor: "§Y$naval_base$§! Construction Speed" #NT!
+ modifier_state_production_speed_naval_base_factor: "§Y$naval_base$§! Construction Speed" 
  modifier_state_production_speed_naval_base_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$naval_base$§!."
- modifier_state_production_speed_dockyard_factor: "§Y$dockyard$§! Construction Speed" #NT!
+ modifier_state_production_speed_dockyard_factor: "§Y$dockyard$§! Construction Speed" 
  modifier_state_production_speed_dockyard_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$dockyard$§!."
- modifier_state_production_speed_anti_air_building_factor: "§Y$anti_air_building$§! Construction Speed" #NT!
+ modifier_state_production_speed_anti_air_building_factor: "§Y$anti_air_building$§! Construction Speed" 
  modifier_state_production_speed_anti_air_building_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$anti_air_building$§!."
- modifier_state_production_speed_synthetic_refinery_factor: "§Y$synthetic_refinery$§! Construction Speed" #NT!
+ modifier_state_production_speed_synthetic_refinery_factor: "§Y$synthetic_refinery$§! Construction Speed" 
  modifier_state_production_speed_synthetic_refinery_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$synthetic_refinery$§!."
- modifier_state_production_speed_fuel_silo_factor: "§Y$fuel_silo$§! Construction Speed" #NT!
+ modifier_state_production_speed_fuel_silo_factor: "§Y$fuel_silo$§! Construction Speed" 
  modifier_state_production_speed_fuel_silo_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$fuel_silo$§!."
- modifier_state_production_speed_radar_station_factor: "§Y$radar_station$§! Construction Speed" #NT!
+ modifier_state_production_speed_radar_station_factor: "§Y$radar_station$§! Construction Speed" 
  modifier_state_production_speed_radar_station_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$radar_station$§!."
- modifier_state_production_speed_rocket_site_factor: "§Y$rocket_site$§! Construction Speed" #NT!
+ modifier_state_production_speed_rocket_site_factor: "§Y$rocket_site$§! Construction Speed" 
  modifier_state_production_speed_rocket_site_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$rocket_site$§!."
- modifier_state_production_speed_nuclear_reactor_factor: "§Y$nuclear_reactor$§! Construction Speed" #NT!
+ modifier_state_production_speed_nuclear_reactor_factor: "§Y$nuclear_reactor$§! Construction Speed" 
  modifier_state_production_speed_nuclear_reactor_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$nuclear_reactor$§!."
  intel_network_state_level_bonus: "£operative_mission_icons_small|1£Разведывательная сеть"
  intel_network_state_level_penalty: "£operative_mission_icons_small|1£Вражеская разведывательная сеть"
@@ -1716,7 +1716,7 @@
  cat_fleet_in_being_cost_factor: "Стоимость доктрины воздействия флотом"
  cat_trade_interdiction_cost_factor: "Стоимость доктрины заграждения морских путей"
  cat_base_strike_cost_factor: "Стоимость доктрины ударов по базам"
- modifier_army_sub_unit_light_cavalry_attack_factor: "Light Cavalry Attack" #NT!
+ modifier_army_sub_unit_light_cavalry_attack_factor: "Light Cavalry Attack" 
  modifier_army_sub_unit_cavalry_speed_factor: "Скорость кавалерии"
  MODIFIER_CHOOSE_PREFERRED_TACTIC_COST: "Стоимость выбора предпочитаемой тактики"
  MODIFIER_RAILWAY_GUN_BOMBARDMENT_FACTOR: "Бомбардировка с моря"
@@ -1726,10 +1726,10 @@
  MODIFIER_NAVAL_INVASION_PLANNING_SPEED_DESC: "Увеличивает скорость, с которой накапливается бонус планирования дивизии во время морского вторжения."
  NAVAL_INVASION_PLANNING_BONUS_MALUS: "Базовый штраф к морскому вторжению: $VALUE|R0$§R%§!"
  MODIFIER_TERRAIN_TRAIT_XP_GAIN_FACTOR: "Прирост опыта от черты «Черты местности»"
- modifier_experience_gain_motorized_combat_factor: "Motorised experience gain from combat" #NT!
- modifier_experience_gain_mechanized_combat_factor: "Mechanised experience gain from combat" #NT!
- modifier_experience_gain_infantry_combat_factor: "Infantry experience gain from combat" #NT!
- modifier_experience_gain_artillery_combat_factor: "Artillery experience gain from combat" #NT!
+ modifier_experience_gain_motorized_combat_factor: "Motorised experience gain from combat" 
+ modifier_experience_gain_mechanized_combat_factor: "Mechanised experience gain from combat" 
+ modifier_experience_gain_infantry_combat_factor: "Infantry experience gain from combat" 
+ modifier_experience_gain_artillery_combat_factor: "Artillery experience gain from combat" 
  MODIFIER_SUPPLY_PENALTY_ON_CORE: "Боевые штрафы к снабжению на национальной территории"
  supply_combat_penalties_on_core_factor: "Боевые штрафы к снабжению на национальной территории"
  coordination_bonus: "Координация"
@@ -1756,7 +1756,7 @@
  MODIFIER_GRANT_MEDAL_COST_FACTOR: "Стоимость награждения"
  MODIFIER_FIELD_OFFICER_PROMOTION_PENALTY: "Штраф дивизии полевого офицера"
  MODIFIER_FEMALE_DIVISIONAL_COMMANDER_CHANCE: "Шанс на женщину — командира дивизии"
- eoanb_dynmod_city_development: "Rapid City Development" #NT!
- mass_immigration: "Mass Immigration" #NT!
- mass_emigration: "Mass Emigration" #NT!
- local_uprising: "Local Uprising" #NT!
+ eoanb_dynmod_city_development: "Rapid City Development" 
+ mass_immigration: "Mass Immigration" 
+ mass_emigration: "Mass Emigration" 
+ local_uprising: "Local Uprising" 

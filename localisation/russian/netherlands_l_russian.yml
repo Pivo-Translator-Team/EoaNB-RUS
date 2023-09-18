@@ -1,151 +1,151 @@
 ﻿l_russian:
   ###Decision & Missions 
- HOL_decision_category_land_reclaimation: "Polders and canals" #NT!
- HOL_decision_land_reclamation_amsterdam: "Land Reclamation at Amsterdam" #NT!
- HOL_decision_canals_noord_zuid_holland: "Dig canals in Noord- and Zuid-Holland" #NT!
- HOL_decision_canals_limburg_brabant_zeeuw: "Dig canals in Brabant, Limburg and Zeeuws-Vlaanderen" #NT!
- HOL_decision_canals_overijssel_ommelanden_friesland: "Dig canals in Overijssel, Ommelanden and Friesland" #NT!
- HOL_decision_canals_nieuwe_waterweg: "Dig the 'Nieuwe Waterweg'" #NT!
- HOL_decision_canals_amsterdam_rijnkanaal: "Dig the 'Amsterdam-Rijnkanaal'" #NT!
- HOL_decision_canals_noordzee_kanaal: "Dig the 'Noordzee Kanaal'" #NT!
- HOL_decision_category_KNIL_general_exchange: "Borrow Generals from the KNIL" #NT!
- HOL_decision_take_KNIL_general: "Borrow a KNIL General from our East-Indies" #NT!
+ HOL_decision_category_land_reclaimation: "Polders and canals" 
+ HOL_decision_land_reclamation_amsterdam: "Land Reclamation at Amsterdam" 
+ HOL_decision_canals_noord_zuid_holland: "Dig canals in Noord- and Zuid-Holland" 
+ HOL_decision_canals_limburg_brabant_zeeuw: "Dig canals in Brabant, Limburg and Zeeuws-Vlaanderen" 
+ HOL_decision_canals_overijssel_ommelanden_friesland: "Dig canals in Overijssel, Ommelanden and Friesland" 
+ HOL_decision_canals_nieuwe_waterweg: "Dig the 'Nieuwe Waterweg'" 
+ HOL_decision_canals_amsterdam_rijnkanaal: "Dig the 'Amsterdam-Rijnkanaal'" 
+ HOL_decision_canals_noordzee_kanaal: "Dig the 'Noordzee Kanaal'" 
+ HOL_decision_category_KNIL_general_exchange: "Borrow Generals from the KNIL" 
+ HOL_decision_take_KNIL_general: "Borrow a KNIL General from our East-Indies" 
   
   ###Ideas 
- HOL_the_indonesian_trade: "The Indonesian Trade" #NT!
- HOL_the_turbulent_king: "The Turbulent King" #NT!
- HOL_the_dutch_emigration: "The Dutch Emigration" #NT!
- HOL_reforms_wilhelm_frederick: "Reforms of Wilhelm Frederick I" #NT!
- HOL_idea_luxembourg_compensation: "Luxembourg Compensation" #NT!
+ HOL_the_indonesian_trade: "The Indonesian Trade" 
+ HOL_the_turbulent_king: "The Turbulent King" 
+ HOL_the_dutch_emigration: "The Dutch Emigration" 
+ HOL_reforms_wilhelm_frederick: "Reforms of Wilhelm Frederick I" 
+ HOL_idea_luxembourg_compensation: "Luxembourg Compensation" 
   
- tt_idea_HOL_war_minister_1857: "Must've §Ychosen§! §Ga new budget for the Military§! and to §Ykeep or replace§! Minister Forstner" #NT!
+ tt_idea_HOL_war_minister_1857: "Must've §Ychosen§! §Ga new budget for the Military§! and to §Ykeep or replace§! Minister Forstner" 
   
   #OPINION MODIFIERS 
- HOL_dutch_trading_spirit: "Dutch Trading Spirit" #NT!
- HOL_political_tension: "Political Tension" #NT!
+ HOL_dutch_trading_spirit: "Dutch Trading Spirit" 
+ HOL_political_tension: "Political Tension" 
   
   #POLITICAL AND OTHER ADVISORS 
- HOL_abraham_jacobus_frederik_egter_van_wissekerke: "A.J.F.E. van Wissekerke" #NT!
- HOL_advisor_johannes_willem_bergansius_advisor: "Johannes Willem Bergansius" #NT!
+ HOL_abraham_jacobus_frederik_egter_van_wissekerke: "A.J.F.E. van Wissekerke" 
+ HOL_advisor_johannes_willem_bergansius_advisor: "Johannes Willem Bergansius" 
   
   #COMPANIES 
- eoanb_HOL_naval_Fijenoord: "Fijenoord" #NT!
- eoanb_HOL_Philips: "Philips & Co" #NT!
- eoanb_HOL_Shell: "N.V. Koninklijke Nederlandse Petroleum Maatschappij" #NT!
- eoanb_HOL_staats_spoorwegen: "Maatschappij tot Exploitatie van Staatsspoorwegen" #NT!
+ eoanb_HOL_naval_Fijenoord: "Fijenoord" 
+ eoanb_HOL_Philips: "Philips & Co" 
+ eoanb_HOL_Shell: "N.V. Koninklijke Nederlandse Petroleum Maatschappij" 
+ eoanb_HOL_staats_spoorwegen: "Maatschappij tot Exploitatie van Staatsspoorwegen" 
   
- HOL_Industrialise: "Industrialisatie Politiek" #NT!
- HOL_Private_railways: "Private railways" #NT!
- HOL_national_railway: "National Railways" #NT!
- HOL_compromise: "A Compromise" #NT!
- HOL_develop_east: "Develop the East" #NT!
- HOL_Incentive: "Incentive to Industrialize" #NT!
- HOL_rise_of_steamtrain: "Rise of the Steam Train" #NT!
- HOL_other_transport: "Other means of Transportation" #NT!
- HOL_dig_canals: "Dig out Canals" #NT!
- HOL_trading_spirit: "Dutch Trading Spirit" #NT!
- HOL_port_rotterdam: "The Port of Rotterdam..." #NT!
- HOL_gateway_europe: "...Gateway to Europe" #NT!
- HOL_landscape: "Make the Landscape ready" #NT!
- HOL_railway_debate: "The Railway Debate" #NT!
- HOL_hofleveranciers_bedrijven: "Hofleveranciers and Koninklijke bedrijven" #NT!
- HOL_royal_funding: "Royal Funding for Dutch Companies" #NT!
- HOL_state_funding: "State Funding for Dutch Companies" #NT!
- HOL_develop_amsterdam: "Develop Amsterdam" #NT!
- HOL_textile: "Modernize our Textile industry" #NT!
- HOL_bridge_divided: "Bridge over the divided Nation" #NT!
- HOL_unite_nation: "Unite the nation by Train and Tram" #NT!
- HOL_staats_spoorwegen: "Maatschappij tot Exploitatie van Staatsspoorwegen" #NT!
- HOL_spoor_mijnen: "Spoorwegbedrijf van de Staatsmijnen" #NT!
- HOL_search_coal: "Search for Coal deposits in Limburg" #NT!
- HOL_industrial_backlog: "Our Industrial Backlog" #NT!
- HOL_design_dutch: "Design it Dutch" #NT!
- HOL_shell: "Koninklijke Nederlandse Petroleum Maatschappij" #NT!
- HOL_shell_batavia: "K.N.M.E.P." #NT!
- HOL_philips: "Philips & Co" #NT!
- HOL_limburg_mines: "Limburgse Staatsmijnen" #NT!
- HOL_metal_winning: "Metal winning" #NT!
- HOL_more_funding: "Additional Funding" #NT!
- HOL_allow_private: "Allow private Companies" #NT!
- HOL_national_mines: "National Mines" #NT!
- HOL_fund_oranje: "Fund Oranje-Nassaumijnen" #NT!
- HOL_fund_Lauramines: "Fund Laura en Vereeniging mijnen" #NT!
- HOL_buy_oranje: "Buy out Oranje-Nassaumijnen" #NT!
- HOL_buy_Lauramines: "Buy out Laura en Vereeniging mijnen" #NT!
- HOL_expand_ijzerenrijn: "Expand the IJzeren Rijn" #NT!
- HOL_vanderbrugghen: "Kabinet van der Brugghen" #NT!
- HOL_cabinet_falls: "Cabinet falls" #NT!
- HOL_cabinet_survives: "Cabinet survives" #NT!
- HOL_elections_1860: "The elections of 1860" #NT!
- HOL_early_elections: "Early elections" #NT!
- HOL_election_campaigns: "Election campaigns" #NT!
- HOL_onderwijswet_1857: "the Onderwijswet of 1857" #NT!
- HOL_ministry_marine: "Ministry of Marine" #NT!
- HOL_ministry_war_budget: "the Ministry of War budget" #NT!
- HOL_replace_forstner: "Replace Forstner" #NT!
- HOL_keep_forstner: "Keep Forstner" #NT!
- HOL_make_do: "Make do with a restrictive budget" #NT!
- HOL_bigger_budget: "A bigger budget" #NT!
- HOL_war_cabinet_concessions: "Make Concessions" #NT!
- HOL_ministry_justice: "Ministry of Justice" #NT!
- HOL_ministry_internal: "Ministry of Internal affairs" #NT!
- HOL_ministry_financial: "Ministry of Financial affairs" #NT!
- HOL_ministry_colonies: "Ministry of colonies" #NT!
- HOL_ministry_religious: "the Religious Ministries" #NT!
- HOL_ministry_foreign: "Ministry of Foreign affairs" #NT!
- HOL_catholic_ministry: "Ministry of Catholic affairs" #NT!
- HOL_protestant_ministry: "Ministry of Reformed and Other Worship Services" #NT!
- HOL_push_onderwijswet_1857: "Push the Onderwijswet" #NT!
- HOL_listen_prinsterer: "Listen to Groen van Prinsterer" #NT!
- HOL_ideological_school: "Ideological Schools" #NT!
- HOL_onderwijswet_new_path: "A whole new path" #NT!
- HOL_catholic_state_schools: "Catholic state schools" #NT!
- HOL_neutral_public_schools: "Neutral Public Schools" #NT!
- HOL_benelux_politics: "Our Influence in the low countries" #NT!
- newfocus_68: "newfocus_68" #NT!
- HOL_belgian_debate: "Our politics towards Belgium" #NT!
- HOL_luxembourg_influence: "The Grand Duchy of Luxembourg and the Dutch Princes" #NT!
- HOL_belgian_aggressive: "Aggressive Stance" #NT!
- HOL_belgian_befriend: "Befriend" #NT!
- HOL_belgian_ignore: "Ignore" #NT!
- HOL_buildup_lux_influence: "Build Influence with Luxembourg" #NT!
- HOL_build_influence_germany: "Build Influence with Prussia" #NT!
- HOL_influence_PRS_LUX_cultural: "Expand Cultural ties" #NT!
- HOL_influence_political: "Expand Political ties" #NT!
- HOL_influence_isolate: "Isolate Belgium" #NT!
- HOL_befriend_mogendheden: "Befriend the European 'Mogendheden'" #NT!
- HOL_influence_economic: "Expand economic ties" #NT!
- HOL_handels_scheepvaart_verdrag: "Het Handels- en Scheepvaartverdrag" #NT!
- HOL_belgium_reconcilation: "Reconcilation" #NT!
- HOL_influence_minor_german: "Build Influence with Minor German States" #NT!
- HOL_forts_noord_brabant: "Forts around the Southern Netherlands" #NT!
- HOL_talks_england: "Talks with the United Kingdom" #NT!
- HOL_influence_south_america: "Our Influence in South America" #NT!
- HOL_belgium_calm: "Calm the political landscape" #NT!
- HOL_belgium_international_recognition: "Look for international acceptation" #NT!
- HOL_belgium_prepare_southern_netherlands: "Prepare the Southern Provinces" #NT!
- HOL_belgium_prepare_forts: "Prepare Southern Fortifications" #NT!
- HOL_belgium_southern_industries: "Prepare Southern Industries" #NT!
- HOL_belgium_guns_prussia: "Aid from Prussia?" #NT!
- HOL_belgium_use_charm: "Use our political charm" #NT!
- HOL_belgium_peaceful_reunification: "Peaceful Reunification" #NT!
- HOL_belgium_aggressive_reunification: "Aggressive Reunification" #NT!
- HOL_belgium_offer_reconcilation: "Offer reconcilation" #NT!
- HOL_belgium_offer_staatsschulden: "Offer to pay the 'Staatsschulden' from the Revolution" #NT!
- HOL_belgium_offer_trade: "Offer the Handels- en Scheepsvaartverdrag" #NT!
- HOL_belgium_problems_france: "Work out the problems with France" #NT!
- HOL_belgium_show_reforms: "Show the reforms to the Belgians" #NT!
- HOL_belgium_offer_zeeuws_vlaanderen_limburg: "Offer Zeeuws-Vlaanderen and Limburg" #NT!
- HOL_belgium_confederation: "Offer a Confederation" #NT!
- HOL_belgium_central_state: "Offer a Centralized Constitutional State" #NT!
- HOL_belgium_anarchist: "Offer an Anarchist union of States" #NT!
- HOL_belgium_question_two_kings: "The Question of the Two Kings" #NT!
- HOL_belgium_one_king: "One King!" #NT!
- HOL_belgium_two_king: "Two kings!" #NT!
+ HOL_Industrialise: "Industrialisatie Politiek" 
+ HOL_Private_railways: "Private railways" 
+ HOL_national_railway: "National Railways" 
+ HOL_compromise: "A Compromise" 
+ HOL_develop_east: "Develop the East" 
+ HOL_Incentive: "Incentive to Industrialize" 
+ HOL_rise_of_steamtrain: "Rise of the Steam Train" 
+ HOL_other_transport: "Other means of Transportation" 
+ HOL_dig_canals: "Dig out Canals" 
+ HOL_trading_spirit: "Dutch Trading Spirit" 
+ HOL_port_rotterdam: "The Port of Rotterdam..." 
+ HOL_gateway_europe: "...Gateway to Europe" 
+ HOL_landscape: "Make the Landscape ready" 
+ HOL_railway_debate: "The Railway Debate" 
+ HOL_hofleveranciers_bedrijven: "Hofleveranciers and Koninklijke bedrijven" 
+ HOL_royal_funding: "Royal Funding for Dutch Companies" 
+ HOL_state_funding: "State Funding for Dutch Companies" 
+ HOL_develop_amsterdam: "Develop Amsterdam" 
+ HOL_textile: "Modernize our Textile industry" 
+ HOL_bridge_divided: "Bridge over the divided Nation" 
+ HOL_unite_nation: "Unite the nation by Train and Tram" 
+ HOL_staats_spoorwegen: "Maatschappij tot Exploitatie van Staatsspoorwegen" 
+ HOL_spoor_mijnen: "Spoorwegbedrijf van de Staatsmijnen" 
+ HOL_search_coal: "Search for Coal deposits in Limburg" 
+ HOL_industrial_backlog: "Our Industrial Backlog" 
+ HOL_design_dutch: "Design it Dutch" 
+ HOL_shell: "Koninklijke Nederlandse Petroleum Maatschappij" 
+ HOL_shell_batavia: "K.N.M.E.P." 
+ HOL_philips: "Philips & Co" 
+ HOL_limburg_mines: "Limburgse Staatsmijnen" 
+ HOL_metal_winning: "Metal winning" 
+ HOL_more_funding: "Additional Funding" 
+ HOL_allow_private: "Allow private Companies" 
+ HOL_national_mines: "National Mines" 
+ HOL_fund_oranje: "Fund Oranje-Nassaumijnen" 
+ HOL_fund_Lauramines: "Fund Laura en Vereeniging mijnen" 
+ HOL_buy_oranje: "Buy out Oranje-Nassaumijnen" 
+ HOL_buy_Lauramines: "Buy out Laura en Vereeniging mijnen" 
+ HOL_expand_ijzerenrijn: "Expand the IJzeren Rijn" 
+ HOL_vanderbrugghen: "Kabinet van der Brugghen" 
+ HOL_cabinet_falls: "Cabinet falls" 
+ HOL_cabinet_survives: "Cabinet survives" 
+ HOL_elections_1860: "The elections of 1860" 
+ HOL_early_elections: "Early elections" 
+ HOL_election_campaigns: "Election campaigns" 
+ HOL_onderwijswet_1857: "the Onderwijswet of 1857" 
+ HOL_ministry_marine: "Ministry of Marine" 
+ HOL_ministry_war_budget: "the Ministry of War budget" 
+ HOL_replace_forstner: "Replace Forstner" 
+ HOL_keep_forstner: "Keep Forstner" 
+ HOL_make_do: "Make do with a restrictive budget" 
+ HOL_bigger_budget: "A bigger budget" 
+ HOL_war_cabinet_concessions: "Make Concessions" 
+ HOL_ministry_justice: "Ministry of Justice" 
+ HOL_ministry_internal: "Ministry of Internal affairs" 
+ HOL_ministry_financial: "Ministry of Financial affairs" 
+ HOL_ministry_colonies: "Ministry of colonies" 
+ HOL_ministry_religious: "the Religious Ministries" 
+ HOL_ministry_foreign: "Ministry of Foreign affairs" 
+ HOL_catholic_ministry: "Ministry of Catholic affairs" 
+ HOL_protestant_ministry: "Ministry of Reformed and Other Worship Services" 
+ HOL_push_onderwijswet_1857: "Push the Onderwijswet" 
+ HOL_listen_prinsterer: "Listen to Groen van Prinsterer" 
+ HOL_ideological_school: "Ideological Schools" 
+ HOL_onderwijswet_new_path: "A whole new path" 
+ HOL_catholic_state_schools: "Catholic state schools" 
+ HOL_neutral_public_schools: "Neutral Public Schools" 
+ HOL_benelux_politics: "Our Influence in the low countries" 
+ newfocus_68: "newfocus_68" 
+ HOL_belgian_debate: "Our politics towards Belgium" 
+ HOL_luxembourg_influence: "The Grand Duchy of Luxembourg and the Dutch Princes" 
+ HOL_belgian_aggressive: "Aggressive Stance" 
+ HOL_belgian_befriend: "Befriend" 
+ HOL_belgian_ignore: "Ignore" 
+ HOL_buildup_lux_influence: "Build Influence with Luxembourg" 
+ HOL_build_influence_germany: "Build Influence with Prussia" 
+ HOL_influence_PRS_LUX_cultural: "Expand Cultural ties" 
+ HOL_influence_political: "Expand Political ties" 
+ HOL_influence_isolate: "Isolate Belgium" 
+ HOL_befriend_mogendheden: "Befriend the European 'Mogendheden'" 
+ HOL_influence_economic: "Expand economic ties" 
+ HOL_handels_scheepvaart_verdrag: "Het Handels- en Scheepvaartverdrag" 
+ HOL_belgium_reconcilation: "Reconcilation" 
+ HOL_influence_minor_german: "Build Influence with Minor German States" 
+ HOL_forts_noord_brabant: "Forts around the Southern Netherlands" 
+ HOL_talks_england: "Talks with the United Kingdom" 
+ HOL_influence_south_america: "Our Influence in South America" 
+ HOL_belgium_calm: "Calm the political landscape" 
+ HOL_belgium_international_recognition: "Look for international acceptation" 
+ HOL_belgium_prepare_southern_netherlands: "Prepare the Southern Provinces" 
+ HOL_belgium_prepare_forts: "Prepare Southern Fortifications" 
+ HOL_belgium_southern_industries: "Prepare Southern Industries" 
+ HOL_belgium_guns_prussia: "Aid from Prussia?" 
+ HOL_belgium_use_charm: "Use our political charm" 
+ HOL_belgium_peaceful_reunification: "Peaceful Reunification" 
+ HOL_belgium_aggressive_reunification: "Aggressive Reunification" 
+ HOL_belgium_offer_reconcilation: "Offer reconcilation" 
+ HOL_belgium_offer_staatsschulden: "Offer to pay the 'Staatsschulden' from the Revolution" 
+ HOL_belgium_offer_trade: "Offer the Handels- en Scheepsvaartverdrag" 
+ HOL_belgium_problems_france: "Work out the problems with France" 
+ HOL_belgium_show_reforms: "Show the reforms to the Belgians" 
+ HOL_belgium_offer_zeeuws_vlaanderen_limburg: "Offer Zeeuws-Vlaanderen and Limburg" 
+ HOL_belgium_confederation: "Offer a Confederation" 
+ HOL_belgium_central_state: "Offer a Centralized Constitutional State" 
+ HOL_belgium_anarchist: "Offer an Anarchist union of States" 
+ HOL_belgium_question_two_kings: "The Question of the Two Kings" 
+ HOL_belgium_one_king: "One King!" 
+ HOL_belgium_two_king: "Two kings!" 
   
- HOL_develop_east_desc: "The Crown Colony of the Netherlands, the Dutch East Indies, is our greatest colony in the empire. The geographical extent of the colony is massive in comparison to our homeland, and the potential for developing the resources and materials on islands like Java and Sumatra is great.\n\nWith some clever investments, we can kick-start the progress of developing the colony into something worth bearing the name Crown Colony!" #NT!
- HOL_develop_east_tt: "§GUnlocks decisions for the development of the Dutch East Indies!§!" #NT!
+ HOL_develop_east_desc: "The Crown Colony of the Netherlands, the Dutch East Indies, is our greatest colony in the empire. The geographical extent of the colony is massive in comparison to our homeland, and the potential for developing the resources and materials on islands like Java and Sumatra is great.\n\nWith some clever investments, we can kick-start the progress of developing the colony into something worth bearing the name Crown Colony!" 
+ HOL_develop_east_tt: "§GUnlocks decisions for the development of the Dutch East Indies!§!" 
   
- HOL_trading_spirit_custom: "§YThe Dutch Trading Spirit§! will make sure our §Yneighbouring countries§! will have a §Gpositive§! §Yopinion§! of us and that our §Ytrade power§! around the world is expanded!" #NT!
+ HOL_trading_spirit_custom: "§YThe Dutch Trading Spirit§! will make sure our §Yneighbouring countries§! will have a §Gpositive§! §Yopinion§! of us and that our §Ytrade power§! around the world is expanded!" 
   
- hol_lux_crisis_refused_selling: "Refused Selling of Luxembourg" #NT!
+ hol_lux_crisis_refused_selling: "Refused Selling of Luxembourg" 

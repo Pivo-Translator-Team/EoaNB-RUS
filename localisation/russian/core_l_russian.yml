@@ -1,24 +1,24 @@
 ﻿l_russian:
- LOADING_GUI: "Crowning Monarchs" #NT!
- LOADING_MAP_SPRITES: "Extorting Debt" #NT!
- INIT_MAP_LOGIC: "Crafting Casus Belli" #NT!
- LOADING_DATABASES: "Composing Anthems" #NT!
- LOADING_HISTORY: "Spreading Propaganda" #NT!
- LOAD_EVENTS: "Manifesting Destiny" #NT!
- INIT_GAMESTATE: "Blockading the Slave Trade" #NT!
- LOAD_FLAGS: "Scrambling Africa" #NT!
- CREATING_CHKSUM: "Instigating Ethnic Conflicts" #NT!
- GENERATING_GRADIENT_BORDERS: "Promoting Nationalism" #NT!
- CREATING_PROVINCE: "Creating Cultures" #NT!
- LOAD_GFX_PDXMAP_SHADERS: "Loading Absolutism" #NT!
- LOAD_GFX_PDXMAP_TERRAIN: "Loading Liberalism" #NT!
- LOAD_GFX_PDXMAP_BORDERS: "Loading Socialism" #NT!
- LOAD_GFX_PDXMAP_TEXTURES: "Loading Conservatism" #NT!
- LOAD_GFX_PDXMAP_TREES: "Loading Fundamentalism" #NT!
- LOAD_GFX_PDXMAP_RIVERS: "Loading Progressivism" #NT!
- LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Loading Anarchism" #NT!
- LOAD_GFX: "Suppressing Labour Unions" #NT!
- PRECALC_NAVAL_DIST: "Smuggling Opium" #NT!
+ LOADING_GUI: "Crowning Monarchs" 
+ LOADING_MAP_SPRITES: "Extorting Debt" 
+ INIT_MAP_LOGIC: "Crafting Casus Belli" 
+ LOADING_DATABASES: "Composing Anthems" 
+ LOADING_HISTORY: "Spreading Propaganda" 
+ LOAD_EVENTS: "Manifesting Destiny" 
+ INIT_GAMESTATE: "Blockading the Slave Trade" 
+ LOAD_FLAGS: "Scrambling Africa" 
+ CREATING_CHKSUM: "Instigating Ethnic Conflicts" 
+ GENERATING_GRADIENT_BORDERS: "Promoting Nationalism" 
+ CREATING_PROVINCE: "Creating Cultures" 
+ LOAD_GFX_PDXMAP_SHADERS: "Loading Absolutism" 
+ LOAD_GFX_PDXMAP_TERRAIN: "Loading Liberalism" 
+ LOAD_GFX_PDXMAP_BORDERS: "Loading Socialism" 
+ LOAD_GFX_PDXMAP_TEXTURES: "Loading Conservatism" 
+ LOAD_GFX_PDXMAP_TREES: "Loading Fundamentalism" 
+ LOAD_GFX_PDXMAP_RIVERS: "Loading Progressivism" 
+ LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Loading Anarchism" 
+ LOAD_GFX: "Suppressing Labour Unions" 
+ PRECALC_NAVAL_DIST: "Smuggling Opium" 
   
  SEPARATION_LINE: "--------------\n"
  MENU_MESSAGES_DISABLE_ALL: "Отключить все"
@@ -59,9 +59,9 @@
  HOTJOIN_DECLINE: "Отклонить запрос на быстрый вход"
  READY: "Готово!"
  UNREADY: "Готово?"
- diff_very_easy_player: "Partisan Difficulty" #NT!
- diff_easy_player: "Enlisted Difficulty" #NT!
- diff_normal_player: "Regular Difficulty" #NT!
+ diff_very_easy_player: "Partisan Difficulty" 
+ diff_easy_player: "Enlisted Difficulty" 
+ diff_normal_player: "Regular Difficulty" 
  diff_hard_player: "Офицер"
  diff_very_hard_player: "Элита"
  NOT_READY_TO_PLAY_MP: "Игрок $PLAYER|H$ не готов"
@@ -170,7 +170,7 @@
  CONFIRMUNASSIGNTEXT: "Вы действительно хотите ОТКРЕПИТЬ $NAME|H$?"
  CONFIRDISBANDGROUPTEXT: "Все §Gармии§!, у которых нет §Yдивизий§!, будут автоматически §Rудалены§!, а их приказы — §Rотменены§!!"
  REASSIGN_FULL_ORDERS_GROUP_HEADER: "Переназначить армии"
- REASSIGN_FULL_ORDERS_GROUP_TEXT: "All §YArmies§! that won't have any §YDivisions§! will be automatically §RRemoved§! and all orders will be §RLost§!!\n\nAre you sure you want to §YREASSIGN§! all units to other §YArmy§!?" #NT!
+ REASSIGN_FULL_ORDERS_GROUP_TEXT: "All §YArmies§! that won't have any §YDivisions§! will be automatically §RRemoved§! and all orders will be §RLost§!!\n\nAre you sure you want to §YREASSIGN§! all units to other §YArmy§!?" 
  REASSIGN_ALL_SHIPS_HEADER: "Переназначить оперативные соединения"
  REASSIGN_ALL_SHIPS_TEXT: "Вы действительно хотите переподчинить все корабли оперативного соединения ($TASKFORCES|H$ -> $PARENT|H$) и §Rрасформировать§! пустые оперативные соединения?"
  REASSIGN_ALL_TASKFORCES_HEADER: "Переназначить флоты"
@@ -184,7 +184,7 @@
  CONFIRMCHANGE_GROUP_LEADER_IN_TRANSFER_TEXT: "$NAME|H$ уже закреплен за другой §Gармией§!, отправленной в качестве §Yдобровольцев§!.\nВы уверены, что хотите §Rпереназначить§! §Gкомандующего§!?"
  CONFIRMCHANGE_NAVY_LEADER: "Переназначить командующего"
  CONFIRMCHANGE_NAVY_LEADER_TEXT: "$NAME|H$ уже закреплен за другим §Gфлотом§! и будет переназначен.\nВы уверены, что хотите §Rпереназначить§! §Gкомандующего§!?"
- CONFIRMCHANGE_UNIT_TEMPLATE: "Change Division Template" #NT!
+ CONFIRMCHANGE_UNIT_TEMPLATE: "Change Division Template" 
  CONFIRMCHANGE_UNIT_TEMPLATE_SINGLE: "Вы уверены, что хотите §YИЗМЕНИТЬ§! §Yсостав дивизии§! на $TEMPLATE|H$ для этой §Yвоинской части§!? На поставку новой техники уйдет некоторое время."
  CONFIRMCHANGE_UNIT_TEMPLATE_MULTI: "Вы уверены, что хотите §YИЗМЕНИТЬ§! §Yсостав дивизии§! на $TEMPLATE|H$ для этих $COUNT|Y$ §Yвоинских частей§!? На поставку новой техники уйдет некоторое время."
  CONFIRMCHANGE_UNIT_TEMPLATE_EQUIPMENT_NEEDED_ENOUGHT: "$AMOUNT|0H$ $EQUIPMENT$ (§Gдоступно: $STOCK|0*$§!)"
@@ -214,8 +214,8 @@
  COUNTRY_LOCKED_BY_SERVER: "Сервер заблокировал государство $COUNTRY$."
  FE_IRONMAN: "Режим Ironman"
  FE_IRONMAN_TOOLTIP: "В режиме Ironman недоступна командная строка с читами, а прохождение игры сохраняется в один и тот же файл. В этом режиме отступать некуда."
- FE_HISTORICAL: "Historical AI Behaviour" #NT!
- FE_HISTORICAL_TOOLTIP: "AI countries will, where applicable, take §HNational Focuses§!, §HDecision§! and §HEvent§! decisions in a historical manner. Select this if you want AI-controlled countries to follow their real-world historical paths more closely.\n\nIf this option is active, some events will have tooltips to show the player which options on an event, focus, mission or decision are the historical ones. They will appear in §BBlue§!." #NT!
+ FE_HISTORICAL: "Historical AI Behaviour" 
+ FE_HISTORICAL_TOOLTIP: "AI countries will, where applicable, take §HNational Focuses§!, §HDecision§! and §HEvent§! decisions in a historical manner. Select this if you want AI-controlled countries to follow their real-world historical paths more closely.\n\nIf this option is active, some events will have tooltips to show the player which options on an event, focus, mission or decision are the historical ones. They will appear in §BBlue§!." 
  PROC_FLAGS: "Подготовка флагов"
  IRONMAN_START: "Запустить Ironman"
  SUB_UNIT_RANGED_VALUE: "$MIN$ — $MAX$ $SUBUNIT$"
@@ -252,20 +252,20 @@
  DELETE_TASK_FORCE: "§RУдалить оперативное соединение§!"
  DELETE_SHIP: "§RУдалить корабль§!"
  DELETE_RAILWAY_GUN: "§RУдалить железнодорожное орудие§!"
- #flooded: "Flooded" #NT!
- #rain_light_icon: "GFX_modifiers_weather_icons:1" #NT!
- #rain_heavy_icon: "GFX_modifiers_weather_icons:2" #NT!
- #snow_icon: "GFX_modifiers_weather_icons:3" #NT!
- #blizzard_icon: "GFX_modifiers_weather_icons:4" #NT!
- #sandstorm_icon: "GFX_modifiers_weather_icons:5" #NT!
- #weather_arctic_water: "Arctic Water" #NT!
- #arctic_water_icon: "GFX_modifiers_weather_icons:7" #NT!
- #water_shallow_sea_icon: "GFX_modifiers_terrain_icons:1" #NT!
- #water_deep_ocean_icon: "GFX_modifiers_terrain_icons:2" #NT!
- #water_fjords_icon: "GFX_modifiers_terrain_icons:3" #NT!
- #water_modifier_shark_infested_name: "Shark Infested Waters" #NT!
- #water_modifier_shark_infested_icon: "GFX_modifiers_weather_icons:6" #NT!
- #MENU_BAR_SAVED_GAME_RULES_FILENAME: "Saved game rules filename:" #NT!
+ #flooded: "Flooded" 
+ #rain_light_icon: "GFX_modifiers_weather_icons:1" 
+ #rain_heavy_icon: "GFX_modifiers_weather_icons:2" 
+ #snow_icon: "GFX_modifiers_weather_icons:3" 
+ #blizzard_icon: "GFX_modifiers_weather_icons:4" 
+ #sandstorm_icon: "GFX_modifiers_weather_icons:5" 
+ #weather_arctic_water: "Arctic Water" 
+ #arctic_water_icon: "GFX_modifiers_weather_icons:7" 
+ #water_shallow_sea_icon: "GFX_modifiers_terrain_icons:1" 
+ #water_deep_ocean_icon: "GFX_modifiers_terrain_icons:2" 
+ #water_fjords_icon: "GFX_modifiers_terrain_icons:3" 
+ #water_modifier_shark_infested_name: "Shark Infested Waters" 
+ #water_modifier_shark_infested_icon: "GFX_modifiers_weather_icons:6" 
+ #MENU_BAR_SAVED_GAME_RULES_FILENAME: "Saved game rules filename:" 
  ACHIEVEMENTS_DISABLED_MODIFIED_SAVE: "§YФайл сохранения отредактирован или принадлежит другому пользователю. Достижения отключены.§!"
  ACHIEVEMENTS_DISABLED_MODIFIED_GAME: "§YHoI 4 запущена с модами или изменена каким-то иным образом. Достижения отключены.§!"
  ACHIEVEMENTS_DISABLED_WRONG_PLAYER: "§YВ этой игре нужно играть за государство $COUNTRY$. Достижения отключены.§!"
@@ -282,8 +282,8 @@
  AUTOSAVE_TOCLOUD: "Автосохранение в облаке"
  LOADING_SAVEGAME: "Загрузка сохраненной игры: $NAME$"
  LOADING_SAVEGAME_NO_NAME: "Загрузка сохраненной игры"
- #LOADING_DATABASES: "Loading databases" #NT!
- #LOADING_MAP_SPRITES: "Loading sprites" #NT!
+ #LOADING_DATABASES: "Loading databases" 
+ #LOADING_MAP_SPRITES: "Loading sprites" 
  OLD_SAVEGAME: "§RФайл сохранения сделан в другой версии игры и не может быть загружен.§!"
  OLD_SAVEGAME_ALLOWED: "§RФайл сохранения сделан в другой версии игры и может вести себя непредсказуемым образом при загрузке.§!"
  CONFIRMUNSYNCTITLE: "Отключить синхронизацию файла"
@@ -306,15 +306,15 @@
  CONFIRMLOADSAVETITLE: "Загрузить игру"
  CONFIRMLOADSAVETEXT: "Вы уверены, что хотите загрузить сохраненный файл $NAME$ и прервать текущую игру?"
  CANT_BUILD_UNDER_SIEGE: "В осажденной провинции нельзя строить."
- #LOAD_GFX_PDXMAP_SHADERS: "Loading Map(Creating Shaders)..." #NT!
- #LOAD_GFX_PDXMAP_TERRAIN: "Loading Map(Creating Terrain)..." #NT!
- #LOAD_GFX_PDXMAP_BORDERS: "Loading Map(Creating Borders)..." #NT!
- #LOAD_GFX_PDXMAP_TEXTURES: "Loading Map(Creating Textures)..." #NT!
- #LOAD_GFX_PDXMAP_TREES: "Loading Map(Creating Trees)..." #NT!
- #LOAD_GFX_PDXMAP_RIVERS: "Loading Map(Creating Rivers)..." #NT!
- #LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Loading Map(Creating objects)..." #NT!
+ #LOAD_GFX_PDXMAP_SHADERS: "Loading Map(Creating Shaders)..." 
+ #LOAD_GFX_PDXMAP_TERRAIN: "Loading Map(Creating Terrain)..." 
+ #LOAD_GFX_PDXMAP_BORDERS: "Loading Map(Creating Borders)..." 
+ #LOAD_GFX_PDXMAP_TEXTURES: "Loading Map(Creating Textures)..." 
+ #LOAD_GFX_PDXMAP_TREES: "Loading Map(Creating Trees)..." 
+ #LOAD_GFX_PDXMAP_RIVERS: "Loading Map(Creating Rivers)..." 
+ #LOAD_GFX_PDXMAP_STATIC_OBJECTS: "Loading Map(Creating objects)..." 
  LOAD_INIT: "Подготовка игры..."
- #LOAD_EVENTS: "Loading Events" #NT!
+ #LOAD_EVENTS: "Loading Events" 
  weather_none: "Ясно"
  weather_mud: "Слякоть"
  flooded: "Затоплено"
@@ -343,8 +343,8 @@
  water_modifier_shark_infested_name: "Нашествие акул"
  water_modifier_shark_infested_icon: "GFX_modifiers_weather_icons:6"
  resistance_effect: "§HМестное сопротивление§!"
- WEATHER_LEVEL_OF_RAINFALL: "$VAL|H$ inches of §Hrain§!" #NT!
- WEATHER_LEVEL_OF_SNOWFALL: "$VAL|H$ inches of §Hsnow§!" #NT!
+ WEATHER_LEVEL_OF_RAINFALL: "$VAL|H$ inches of §Hrain§!" 
+ WEATHER_LEVEL_OF_SNOWFALL: "$VAL|H$ inches of §Hsnow§!" 
  weather_period_duration: "Самая ранняя смена погоды: $VAL|H$"
  TECH_RESEARCH_TIME_LABEL: "Время исследования: $WEEKS|H$ нед."
  THEATRE_NAME: "Театр: $THEATRE|H$"
@@ -357,7 +357,7 @@
  SPEED_DECREASE: "§TУменьшить скорость§!"
  FE_SINGLE_PLAYER: "Одиночная игра"
  FE_MULTI_PLAYER: "Сетевая игра"
- FE_TUTORIAL: "Tutorial [DO NOT CLICK]" #NT!
+ FE_TUTORIAL: "Tutorial [DO NOT CLICK]" 
  FE_CREDITS: "Авторы"
  FE_EXIT: "Выход"
  OPTIONS: "Настройки"
@@ -366,7 +366,7 @@
  MENU_BAR_QUIT: "Покинуть игру"
  MENU_BAR_SAVE_GAME: "Сохранить игру"
  MENU_BAR_GAME_OPTIONS: "Настройки игры"
- MENU_BAR_GAME_WIKI: "EoaNB Wiki" #NT!
+ MENU_BAR_GAME_WIKI: "EoaNB Wiki" 
  MENU_BAR_GAME_RESIGN: "Выйти в меню"
  MENU_BAR_MESSAGE_SETTINGS: "Сообщения"
  MENU_BAR_CLOSE: "Закрыть"
@@ -379,13 +379,13 @@
  MENU_ACHIEVEMENTS: "Достижения в Hearts of Iron IV "
  MENU_HOMEPAGE: "Сайт «Дня Победы IV»"
  MENU_FORUM: "Форум «Дня Победы IV»"
- MENU_FACEBOOK: "End of a New Beginning Discord" #NT!
+ MENU_FACEBOOK: "End of a New Beginning Discord" 
  MENU_TWITTER: "«День Победы IV» в Twitter"
  MENU_PRIVACY_POLICY: "Политика конфиденциальности"
  MAIN_MENU: "Главное меню"
  MAIN_MENU_BACK: "Возврат в меню"
  HELP_MENU: "Помощь"
- ACHIEVEMENTS_VIEW: "Achievements" #NT!
+ ACHIEVEMENTS_VIEW: "Achievements" 
  ACHIEVEMENTS_VIEW_LOCKED: "§RДостижения недоступны§!"
  ACHIEVEMENT_UNLOCKED_WHEN: "Необходимые условия:"
  ACHIEVEMENT_AVAILABLE: "Доступно"
@@ -413,8 +413,8 @@
  SCORE_CALC_SCORE_MULT: "\nx Умножитель счета $MULT$"
  CLOSE: "Закрыть"
  CLOSE_TOOLTIP: "§TЗакрыть§!"
- #LOAD_GFX: "Loading Graphics" #NT!
- #LOAD_FLAGS: "Creating Flags" #NT!
+ #LOAD_GFX: "Loading Graphics" 
+ #LOAD_FLAGS: "Creating Flags" 
  PROC_FLAGS: "Подготовка флагов"
  FE_CONTINUE: "Продолжить игру"
  FE_NEW: "Начать игру"
@@ -424,11 +424,11 @@
  SHORTCUT: "Быстрая клавиша: $KEY$"
  ADD_NEW_AIRWING: "Добавить новое авиакрыло"
  ADD_NEW_AIRWING_VOLUNTEER_BASE: "§RНельзя создать авиакрыло на добровольческой авиабазе§!"
- #CREATING_PROVINCE: "Creating Province #" #NT!
+ #CREATING_PROVINCE: "Creating Province #" 
  EXECUTE_HISTORY: "Обработка исторических данных"
- #CREATING_CHKSUM: "Creating checksum" #NT!
- #GENERATING_GRADIENT_BORDERS: "Generating Gradient Borders" #NT!
- #PRECALC_NAVAL_DIST: "Precalculating Naval Distances" #NT!
+ #CREATING_CHKSUM: "Creating checksum" 
+ #GENERATING_GRADIENT_BORDERS: "Generating Gradient Borders" 
+ #PRECALC_NAVAL_DIST: "Precalculating Naval Distances" 
  FREQUENCY_INSTANT: "Мгновенно"
  FREQUENCY_DAY: "дн."
  FREQUENCY_DAILY: "ежедневно"
@@ -438,7 +438,7 @@
  FREQUENCY_MONTHLY: "ежемесячно"
  FREQUENCY_YEAR: "г."
  FREQUENCY_YEARLY: "ежегодно"
- #INIT_GAMESTATE: "Initializing game" #NT!
+ #INIT_GAMESTATE: "Initializing game" 
  SUPPLY_CONTROL_EDGE: "§YКонтроль над входящими пограничными провинциями§!: $EDGE|0%$"
  SUPPLY_SUPPORTED_BASE: "Местная база снабжения: $VAL|+=$"
  SUPPLY_SUPPORTED_BONUS_INPUT: "Распространение к соседям ($SPILL|Y%0$): $VAL|+=$"
@@ -454,7 +454,7 @@
  SUPPLY_INFO_FOREIGN: "§YПоддержка§!: $SUP$"
  SUPPLY_INCOMING_INFRA_LIMIT: "§RМестная инфраструктура: $VAL$§!"
  SUPPLY_INCOMING_FROM_PREV_INFRA: "§R $PREV_BONUS|0%$ от предыдущей инфраструктуры: $PREV$§!"
- SUPPLY_INCOMING_PORT_LIMIT: "§RLocal Naval Port(s) limits to: $VAL$§!" #NT!
+ SUPPLY_INCOMING_PORT_LIMIT: "§RLocal Naval Port(s) limits to: $VAL$§!" 
  SUPPLY_SUPPORTED_CAP: "Предыдущее ограничение$WHERE$: $CAP|R$"
  SUPPLY_SUPPORTED_CAP_BOTTLENECK_PORT: " (Порты в: $WHERE|R$)"
  SUPPLY_SUPPORTED_CAP_BOTTLENECK_INFRA: " (Инфраструктура в: $WHERE|R$)"
@@ -466,7 +466,7 @@
  NAVAL_MISSION_NAME_PATROL_DESC: "Приказать оперативному соединению патрулировать район действий флота.\n\nОперативное соединение может патрулировать только один регион за раз.\nОно будет пытаться обнаружить вражеские флоты в своем активном регионе. Радары и превосходство в воздухе позволят обнаруживать противника быстрее.\n\nСтоит также учитывать, что противник может обнаружить и атаковать вас раньше, чем вы его."
  NAVAL_MISSION_NAME_SEARCH_AND_DESTROY: "Поиск и уничтожение"
  NAVAL_MISSION_NAME_STRIKE_FORCE: "Ударное соединение"
- NAVAL_MISSION_NAME_STRIKE_FORCE_DESC: "Order the task force to wait at the closest naval port until an enemy task force is spotted.\nOnce an enemy is spotted by one of your patrol task forces, your strike force will move to intercept it." #NT!
+ NAVAL_MISSION_NAME_STRIKE_FORCE_DESC: "Order the task force to wait at the closest naval port until an enemy task force is spotted.\nOnce an enemy is spotted by one of your patrol task forces, your strike force will move to intercept it." 
  NAVAL_MISSION_NAME_SEARCH_AND_DESTROY_DESC: "Приказ оперативному соединению заняться поиском и уничтожением вражеских флотов в указанном регионе или регионах."
  NAVAL_MISSION_NAME_CONVOY_RAIDING: "Охота на конвои"
  NAVAL_MISSION_NAME_CONVOY_RAIDING_DESC: "Приказ оперативному соединению заняться охотой на вражеские конвои в указанном регионе или регионах."
@@ -496,7 +496,7 @@
  NAVAL_MISSION_NAME_NAVAL_INVASION_SUPPORT: "Поддержка морского вторжения"
  NAVAL_MISSION_NAME_NAVAL_INVASION_SUPPORT_DESC: "Приказать другим кораблям сопровождать высадку и поддерживать десанты обстрелом с моря."
  NAVAL_MISSION_NAME_TRAINING: "Морские учения"
- NAVAL_MISSION_NAME_TRAINING_DESC: "Order a task force to perform exercises in the region adjacent to the closest naval port.\nThis has a chance to damage ships over time.\nThe crew will not gain experience once they reach the Regular level.\nYou will gain §YNavy Experience§! while training.\nThe §YPride of the Fleet§! is less likely to get into an accident.\n\nHold §HShift§! and click to enable §HNaval Exercises§! until all ships are fully trained." #NT!
+ NAVAL_MISSION_NAME_TRAINING_DESC: "Order a task force to perform exercises in the region adjacent to the closest naval port.\nThis has a chance to damage ships over time.\nThe crew will not gain experience once they reach the Regular level.\nYou will gain §YNavy Experience§! while training.\nThe §YPride of the Fleet§! is less likely to get into an accident.\n\nHold §HShift§! and click to enable §HNaval Exercises§! until all ships are fully trained." 
  NAVAL_BTN_REMOVE_REGIONS: "§HУбрать регион§!\n§GНажмите§! эту кнопку, затем нажмите регион, который хотите убрать для выбранного флота.\n§GЩелкните правой кнопкой мыши§! эту кнопку, чтобы §Rубрать все регионы§! для выбранного флота."
  NAVAL_BTN_REMOVE_REGIONS_NO_REGIONS: "§RНет регионов, которые можно убрать.§!"
  NAVAL_CONFIRM_REMOVE_ALL_REGIONS: "Убрать все регионы"
@@ -528,7 +528,7 @@
  NAVAL_GUI_BTN_REGIONS: "Щелчок по карте:\n§GЩелчок правой кнопкой§! — §Yдобавить§! или §YSHIFT§!+щелчок §Gправой кнопкой§! — §Yудалить§! регионы.\nРегионы должны примыкать друг к другу.\n§GЩелчок правой кнопкой§! по этой кнопке — §Rотменить выделение всех регионов§!."
  NAVAL_GUI_BTN_MERGE: "Объединить указанные оперативные соединения"
  NAVAL_GUI_BTN_NEW_FLEET_FROM_EXISTING: "§HСоздать новый флот§!"
- #NAVAL_GUI_BTN_NEW_FLEET_FROM_EXISTING_DESC: "Create a new fleet with ships from this fleet" #NT!
+ #NAVAL_GUI_BTN_NEW_FLEET_FROM_EXISTING_DESC: "Create a new fleet with ships from this fleet" 
  NAVY_SELECT_HALF: "Вдвое сократить текущий выбор кораблей"
  NAVY_SELECT_HALF_NEED_MORE_THAN_ONE_SHIP: "§RНужно выбрать хотя бы два корабля§!"
  NAVAL_GUI_BTN_NEW_FLEET_FROM_EXISTING_DESC: "Создать новый флот с кораблями из этого флота"
@@ -536,17 +536,17 @@
  SHIP_ENGAGEMENT_BUTTON_FIRE_AT_WILL_DESC: "Оперативное соединение всегда атакует противника. Находясь в провинции, где был замечен противник или ожидается столкновение, оно обязательно вступит в бой."
  SHIP_ENGAGEMENT_BUTTON_HOLD_FIRE: "§HТекущий порядок ведения огня — §Gне вступать в бой!§!§!"
  SHIP_ENGAGEMENT_BUTTON_HOLD_FIRE_DESC: "Оперативное соединение постарается не вступать в бой с противником, пересекая провинции, где есть вражеские корабли и идут сражения.\nЕсли, конечно, враг не заметит нас и не откроет огонь первым."
- #CURRENT_ASSIGNED_TASK_FORCE_FOR_PATROL: "There are $NUM|H$ task forces assigned to patrol the fleet area of operation." #NT!
- #CURRENT_ASSIGNED_TASK_FORCE_FOR_MISSION: "There are $NUM|H$ task forces assigned to $MISSION|H$ mission in this region." #NT!
- #CURRENT_ACTIVE_TASK_FORCE_FOR_MISSION: "Out of them, $NUM|H$ are currently active in the region." #NT!
- #CURRENT_NO_ACTIVE_TASK_FORCE_FOR_MISSION: "But none are currently active in the region." #NT!
- #CURRENT_ALL_ACTIVE_TASK_FORCE_FOR_MISSION: "All of them are currently active in the region." #NT!
- #CURRENT_ACTIVE_SHIPS_FOR_NAVAL_INVASION_SUPPORT: "In total there are $NUM|H$ task forces on $MISSION_NAME|H$ mission in this region and currently $NUM2|H$ of them are escorting invasion armies and $NUM3|H$ of them are supporting coastal combats." #NT!
- #CURRENT_ACTIVE_TASK_FORCE_FOR_SUPREMACY: "But only $NUM|H$ of them are close enough to give §HNaval Supremacy§!." #NT!
- #CURRENT_NO_ACTIVE_TASK_FORCE_FOR_SUPREMACY: "But none of them are close enough to give §HNaval Supremacy§!." #NT!
- #CURRENT_ACTIVE_TASK_FORCE_FOR_SUPREMACY_WARNING: "§R£mapicon_unit_no_orders  Some task forces are too far away from this region to give §HNaval Supremacy§!§!" #NT!
- #SHIP_ENGAGEMENT_BUTTON_GENERAL_DESC: "\n--------------\n§GDo not engage§! will work only if:\n - The task force has no orders\n - The task force is patrolling\n§GDo not engage§! will auto-enable if the task force has been defeated and is returning to a naval port to be repaired." #NT!
- #SHIP_ENGAGEMENT_MAP_ICON: "The task force engagement rule is: §GDo not engage§! the enemies." #NT!
+ #CURRENT_ASSIGNED_TASK_FORCE_FOR_PATROL: "There are $NUM|H$ task forces assigned to patrol the fleet area of operation." 
+ #CURRENT_ASSIGNED_TASK_FORCE_FOR_MISSION: "There are $NUM|H$ task forces assigned to $MISSION|H$ mission in this region." 
+ #CURRENT_ACTIVE_TASK_FORCE_FOR_MISSION: "Out of them, $NUM|H$ are currently active in the region." 
+ #CURRENT_NO_ACTIVE_TASK_FORCE_FOR_MISSION: "But none are currently active in the region." 
+ #CURRENT_ALL_ACTIVE_TASK_FORCE_FOR_MISSION: "All of them are currently active in the region." 
+ #CURRENT_ACTIVE_SHIPS_FOR_NAVAL_INVASION_SUPPORT: "In total there are $NUM|H$ task forces on $MISSION_NAME|H$ mission in this region and currently $NUM2|H$ of them are escorting invasion armies and $NUM3|H$ of them are supporting coastal combats." 
+ #CURRENT_ACTIVE_TASK_FORCE_FOR_SUPREMACY: "But only $NUM|H$ of them are close enough to give §HNaval Supremacy§!." 
+ #CURRENT_NO_ACTIVE_TASK_FORCE_FOR_SUPREMACY: "But none of them are close enough to give §HNaval Supremacy§!." 
+ #CURRENT_ACTIVE_TASK_FORCE_FOR_SUPREMACY_WARNING: "§R£mapicon_unit_no_orders  Some task forces are too far away from this region to give §HNaval Supremacy§!§!" 
+ #SHIP_ENGAGEMENT_BUTTON_GENERAL_DESC: "\n--------------\n§GDo not engage§! will work only if:\n - The task force has no orders\n - The task force is patrolling\n§GDo not engage§! will auto-enable if the task force has been defeated and is returning to a naval port to be repaired." 
+ #SHIP_ENGAGEMENT_MAP_ICON: "The task force engagement rule is: §GDo not engage§! the enemies." 
  SHIP_CURRENT_AGGRESSIVENESS_LEVEL: "Текущий порядок ведения огня: $CURRENT|H$"
  SHIP_CLICK_TO_CHANGE_AGGRESSIVENESS_LEVEL: "§GЩелкните§!, чтобы изменить на $NEXT|H$"
  SHIP_ENGAGEMENT_BUTTON_AGGRESSIVENESS_1: "Не вступать в бой"
@@ -573,7 +573,7 @@
  CURRENT_ACTIVE_TASK_FORCE_FOR_SUPREMACY: "Только $NUM|H$ из них находятся достаточно близко, чтобы обеспечить §Hпревосходство на море§!."
  CURRENT_NO_ACTIVE_TASK_FORCE_FOR_SUPREMACY: "Ни одно из них не находится достаточно близко, чтобы обеспечить §Hпревосходство на море§!."
  CURRENT_ACTIVE_TASK_FORCE_FOR_SUPREMACY_WARNING: "§R£mapicon_unit_no_orders Часть оперативных соединений сейчас находится слишком далеко от этого региона, чтобы обеспечить §Hбезопасность на море§!§!"
- SHIP_ENGAGEMENT_BUTTON_GENERAL_DESC: "\n--------------\n§GDo not engage§! will work only if:\n - The task force has no orders\n - The task force is patrolling\n§GDo not engage§! will auto-enable if the task force has been defeated and is returning to a naval port to be repaired." #NT!
+ SHIP_ENGAGEMENT_BUTTON_GENERAL_DESC: "\n--------------\n§GDo not engage§! will work only if:\n - The task force has no orders\n - The task force is patrolling\n§GDo not engage§! will auto-enable if the task force has been defeated and is returning to a naval port to be repaired." 
  SHIP_ENGAGEMENT_MAP_ICON: "Оперативное соединение соблюдает порядок «§GНе вступать в бой§! с противником»."
  NAVAL_CAN_NOT_MOVE_THERE: "§RУ нашего флота нет доступа в этот регион§!"
  SHIP_CANNOT_GOTO_MISSION_AREA: "§RОперативное соединение не может попасть в какую-либо из выделенных областей своего флота.§!"
@@ -593,7 +593,7 @@
  NAVAL_MISSIONS_LOCAL_HEADER: "§HЗадания флота:§!"
  NAVAL_MISSION_THIS_IS_LAND_REGION: "В этом регионе нет морских провинций."
  HOME_BASE_TITLE: "§HПорт приписки§!"
- HOME_BASE_DESC: "The base this fleet is carrying out missions from.\n§YCTRL§!+§GRight-click§! a naval port to move and set a new §Ghome base§!." #NT!
+ HOME_BASE_DESC: "The base this fleet is carrying out missions from.\n§YCTRL§!+§GRight-click§! a naval port to move and set a new §Ghome base§!." 
  NAVAL_PROV_DESC_MOVE_TO: "§GЩелчок правой кнопкой§! — §Yпереместиться§! в провинцию."
  NAVAL_PROV_DESC_REBASE_TO: "§YCTRL§!+§Gщелчок правой кнопкой§! — выбрать как новый §Gпорт приписки§!"
  NAVAL_PROV_DESC_MOVE_TO_DEACTIVATE: "§R(Текущее задание будет деактивировано)§!"
@@ -605,22 +605,22 @@
  MULTIPLE_TASKFORCES_SELECTED: "Задания — несколько оперативных соединений"
  ONE_TASKFORCE_SELECTED: "Задания — $TASKFORCE$"
  NAVAL_PROV_DESC_MOVE_TO_COASTAL_WARNING: "§HСовет:§! §gнеподвижные флоты, которые занимают позицию в прибрежных районах, способны перекрывать проливы, но их могут заметить дивизии. На флоты, состоящие только из подводных лодок, это не распространяется§!."
- NAVAL_BASE_TOOLTIP_GOTO_NAVALBASE: "§GRight-click§! to move to that naval port." #NT!
- NAVAL_BASE_TOOLTIP_HOLD_AND_GOTO_NAVALBASE: "§GControl + Right-click§! to cancel mission, and move to that naval port." #NT!
+ NAVAL_BASE_TOOLTIP_GOTO_NAVALBASE: "§GRight-click§! to move to that naval port." 
+ NAVAL_BASE_TOOLTIP_HOLD_AND_GOTO_NAVALBASE: "§GControl + Right-click§! to cancel mission, and move to that naval port." 
  NAVAL_BASE_TOOLTIP_SET_MAINBASE: "§GControl + щелчок правой кнопкой§! — выбрать как новый §Gпорт приписки§!.\n"
- #RESERVE_FLEET_NAME: "$COUNTRY$ Reserve fleet $NUMBER$" #NT!
- #TASK_FORCE_NAME: "$COUNTRY$ Task force $NUMBER$" #NT!
- #COMPACT_SHIP_VIEW_DESC: "$NUM|Y$ Ships of type $TYPE|Y$." #NT!
- #COMPACT_SHIP_VIEW_DESC_REQ: "$NUM|Y$ Required and automatically reinforced." #NT!
- #NAVY_SPLIT_IN_HALF: "Split the task force in two" #NT!
- NAVAL_BASE_TOOLTIP_SELECTION_INFO: "§GClick§! to select taskforces that are based or assigned for repairs in this naval port.\n§GControl + Click§! to toggle repair state.\n§GShift + Click§! to show repair queue." #NT!
+ #RESERVE_FLEET_NAME: "$COUNTRY$ Reserve fleet $NUMBER$" 
+ #TASK_FORCE_NAME: "$COUNTRY$ Task force $NUMBER$" 
+ #COMPACT_SHIP_VIEW_DESC: "$NUM|Y$ Ships of type $TYPE|Y$." 
+ #COMPACT_SHIP_VIEW_DESC_REQ: "$NUM|Y$ Required and automatically reinforced." 
+ #NAVY_SPLIT_IN_HALF: "Split the task force in two" 
+ NAVAL_BASE_TOOLTIP_SELECTION_INFO: "§GClick§! to select taskforces that are based or assigned for repairs in this naval port.\n§GControl + Click§! to toggle repair state.\n§GShift + Click§! to show repair queue." 
  NAVAL_BASE_NAVY_LIST_HEADER: "Флоты, находящиеся на этой базе:"
  NAVAL_BASE_NAVY_ENTRY: "$NAME|Y$ ($COUNTRY|Y$)"
  NAVY_HOME_BASE: "$NAME$ (Ур.:$LVL|Y$)"
  FLEET_NAME: "$NUMBER$ флот государства $COUNTRY$"
  FLEET_NAME_USA: "$NUMBER$ флот ВМС США"
  FLEET_NAME_GER: "$NUMBER$ флот государства $COUNTRY$"
- FLEET_NAME_SOV: "$NUMBER$-ja Sovietskaja Flotilija" #NT!
+ FLEET_NAME_SOV: "$NUMBER$-ja Sovietskaja Flotilija" 
  RESERVE_FLEET_NAME: "Резервный флот $NUMBER$ ($COUNTRY$)"
  TASK_FORCE_NAME: "Оперативное соединение $NUMBER$ ($COUNTRY$)"
  COMPACT_SHIP_VIEW_DESC: "Корабли типа $TYPE|Y$: $NUM|Y$."
@@ -655,11 +655,11 @@
  FEX_STATE_RUN_AWAY: "Вышел из боя"
  FEX_STATE_SUNK: "Потоплен"
  SHIP_SUNK_BY: "Потопившее судно: $NAME|R$"
- ONLY_REPAIR_IN_NAVAL_BASE: "Can only repair when in a naval port." #NT!
+ ONLY_REPAIR_IN_NAVAL_BASE: "Can only repair when in a naval port." 
  REPAIR_READY_ETA: "Примерный срок завершения ремонта: $WHEN|Y$."
  TOTAL_DAMAGED_SHIPS_REPAIR: "В ремонте нуждаются $SHIPS|Y$ шт. кораблей, каждый восстанавливает $REPAIR|+%$ ед. в час."
- NAVAL_BASE_REPAIR_INFO: "This naval port has a level of $SIZE|Y0$, of which $FUNCTIONAL|Y0$ are functional, each level providing $EFFECT|Y$ strength repair maximum at local supply level of $SUPPLY|Y%$, the total hourly maximum repair power is $POWER|Y2%$.\n" #NT!
- #NAVAL_COMBAT_HOURS_TO_ARRIVE: "\n  Hours to arrive: $NUM|0Y$" #NT!
+ NAVAL_BASE_REPAIR_INFO: "This naval port has a level of $SIZE|Y0$, of which $FUNCTIONAL|Y0$ are functional, each level providing $EFFECT|Y$ strength repair maximum at local supply level of $SUPPLY|Y%$, the total hourly maximum repair power is $POWER|Y2%$.\n" 
+ #NAVAL_COMBAT_HOURS_TO_ARRIVE: "\n  Hours to arrive: $NUM|0Y$" 
  NAVAL_COMBAT_SHIP_TOOLTIP: "$FLAG$ $NAME|$ $STATUS|Y$ — "
  NAVAL_COMBAT_SHIP_TOOLTIP_ATTACKING: "\n§YАтакует§! $FLAG$ $TARGET|R$"
  NAVAL_COMBAT_SHIP_TOOLTIP_APPROACHING: "\n§YПриближается к§! $FLAG$ $TARGET|R$ (§Y$DIST|0$км§! до зоны действия)"
@@ -669,8 +669,8 @@
  NAVAL_COMBAT_SHIP_ORGANIZATION_FACTOR: " Организация: $ORG|%Y$"
  NAVAL_COMBAT_SHIP_STRENGTH_DESC: "Прочность — количество повреждений, которое выдержит корабль, прежде чем он будет уничтожен."
  NAVAL_COMBAT_INCOMING_UNKNOWN: "§RПриближаются неизвестные корабли.§!"
- NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER: "\n====================\n$NUM|G$/$TOT|G$ x $MOD|Y$ from $FROM|Y$ ($DEAD|R$ shot down)." #NT!
- NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER_EXTERNAL: "\n====================\n$HOUR|Y$ hours ago $NUM|G$ of $MOD|Y$ came from $FROM|Y$. $DEAD|R$ was shot down by the enemy." #NT!
+ NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER: "\n====================\n$NUM|G$/$TOT|G$ x $MOD|Y$ from $FROM|Y$ ($DEAD|R$ shot down)." 
+ NAVAL_COMBAT_AIRWING_TOOLTIP_HEADER_EXTERNAL: "\n====================\n$HOUR|Y$ hours ago $NUM|G$ of $MOD|Y$ came from $FROM|Y$. $DEAD|R$ was shot down by the enemy." 
  NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN: "\nПодбито:"
  NAVAL_COMBAT_AIRWING_TOOLTIP_SHOT_DOWN_ENTRY: "\n   $NUM|G$ x $MOD|Y$"
  NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED: "\nПовреждено вражеских кораблей:"
@@ -678,11 +678,11 @@
  NAVAL_COMBAT_AIRWING_TOOLTIP_DAMAGED_LAST_HIT: " (§GФинальный удар§!)"
  NAVAL_COMBAT_RECEIVED_CRITICALS: "Получено критических повреждений: $NUM|R$."
  NAVAL_COMBAT_HIDDEN_SUBS: "§RТочное местонахождение неизвестно.§!\n"
- NAVAL_TRANSFER_BLOCKED: "§RYou can't transfer ships between task forces in different naval ports§!" #NT!
- #NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_MINES_PLANTING: "§YVery wide§!" #NT!
- #NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_MINES_SWEEPING: "§YVery wide§!" #NT!
- #NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_TRAINING: "§YTight§!" #NT!
- #NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_RESERVE_FLEET: "§YTight§!" #NT!
+ NAVAL_TRANSFER_BLOCKED: "§RYou can't transfer ships between task forces in different naval ports§!" 
+ #NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_MINES_PLANTING: "§YVery wide§!" 
+ #NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_MINES_SWEEPING: "§YVery wide§!" 
+ #NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_TRAINING: "§YTight§!" 
+ #NAVAL_DETECTION_CHANCE_DETAILS_FORMATION_RESERVE_FLEET: "§YTight§!" 
  CARRIER_PLANES_EVAC_STATUS_DESTROYED: "Не обнаружена авиабаза для эвакуации — все самолеты уничтожены."
  CARRUER_PLANES_EVAC_STATUS_STATE: "Самолеты эвакуированы на авиабазу в регионе $STATE|Y$ государства $COUNTRY|Y$."
  AIR_SUPERIORITY_BAR_DISABLED: "У нас есть авиация в этом регионе, но она либо бездействует, либо не способна лишить противника превосходства в воздухе."
@@ -715,7 +715,7 @@
  REASON_NONE_TOTAL: "Всего: $SUM|0H$"
  REASON_NONE_TOTAL_DETAILED: "Всего: $SUM|1H$"
  REASON_LAND_COMBAT: "Сбито силами ПВО: $SUM|0H$"
- REASON_AIR_COMBAT: "Shot down in Airbattle: $SUM|0H$" #NT!
+ REASON_AIR_COMBAT: "Shot down in Airbattle: $SUM|0H$" 
  REASON_ACCIDENT: "Случайные потери: $SUM|0H$"
  REASON_BOMBED: "Подвергнуто бомбардировке: $SUM|0H$"
  AIRVIEW_DETAILS_CHANNEL_1: "Здания, уничт. бомбард-ми: $VAL|R1$"
@@ -726,7 +726,7 @@
  AIRVIEW_DETAILS_CHANNEL_6: "Сбито наших штурм-в: $VAL|R0$"
  AIRVIEW_DETAILS_CHANNEL_7: "Сбито наших трансп-в: $VAL|R0$"
  AIRVIEW_DETAILS_CHANNEL_8: "Перехв-но бомб-в: $VAL|R1$"
- AIRVIEW_DETAILS_CHANNEL_9: "Our trains lost: $VAL|R1$" #NT!
+ AIRVIEW_DETAILS_CHANNEL_9: "Our trains lost: $VAL|R1$" 
  AIRVIEW_DETAILS_CHANNEL_10: "Потеряно наших грузовиков: $VAL|R1$"
  AIRVIEW_DETAILS_CHANNEL_11: "Потеряно наших железнодорожных орудий: $VAL|R1$"
  AIRVIEW_DETAILS_CHANNEL_12: "Вражеские здания, уничтоженные бомбардировками: $VAL|G1$"
@@ -737,7 +737,7 @@
  AIRVIEW_DETAILS_CHANNEL_17: "Сбитые вражеские штурмовики: $VAL|G0$"
  AIRVIEW_DETAILS_CHANNEL_18: "Уничтоженный вражеский транспорт: $VAL|G0$"
  AIRVIEW_DETAILS_CHANNEL_19: "Перехваченные вражеские бомбардировщики: $VAL|G1$"
- AIRVIEW_DETAILS_CHANNEL_20: "Enemy trains lost: $VAL|G1$" #NT!
+ AIRVIEW_DETAILS_CHANNEL_20: "Enemy trains lost: $VAL|G1$" 
  AIRVIEW_DETAILS_CHANNEL_21: "Потеряно вражеских грузовиков: $VAL|G1$"
  AIRVIEW_DETAILS_CHANNEL_22: "Потеряно вражеских железнодорожных орудий: $VAL|G1$"
  AIRVIEW_GRAPH_VALUE: "$VALUE|1$"
@@ -761,12 +761,12 @@
  NAVAL_DETECTION_CHANCE_DETAILS_SURF_DET: "   x оборудование для обнаружения на поверхности: $VAL|0%+$"
  NAVAL_DETECTION_CHANCE_DETAILS_SUB_DET: "   x оборудование для обнаружения подводных лодок: $VAL|0%+$"
  NAVAL_DETECTION_CHANCE_DETAILS_TRUE_VAL: "§gВероятность обнаружения также зависит от степени видимости вражеских кораблей.§!"
- SPOTTING_BASE_CHANCE_TOTAL: "§HBase detection in region: $VAL|0%+$§!\n" #NT!
- SPOTTING_BASE_CHANCE: "  Base: $VAL|0%+=$\n" #NT!
- SPOTTING_BASE_CHANCE_FROM_NAVY: "  Task Forces in Region: $VAL|0%+=$\n" #NT!
- SPOTTING_BASE_CHANCE_FROM_AIR: "  Air Superiority in Region: $VAL|0%+=$\n" #NT!
- SPOTTING_BASE_CHANCE_FROM_RADAR: "  Radar Coverage in Region: $VAL|0%+=$\n" #NT!
- SPOTTING_BASE_CHANCE_FROM_DECRYPTION: "  Intel Difference: $VAL|0%+=$\n" #NT!
+ SPOTTING_BASE_CHANCE_TOTAL: "§HBase detection in region: $VAL|0%+$§!\n" 
+ SPOTTING_BASE_CHANCE: "  Base: $VAL|0%+=$\n" 
+ SPOTTING_BASE_CHANCE_FROM_NAVY: "  Task Forces in Region: $VAL|0%+=$\n" 
+ SPOTTING_BASE_CHANCE_FROM_AIR: "  Air Superiority in Region: $VAL|0%+=$\n" 
+ SPOTTING_BASE_CHANCE_FROM_RADAR: "  Radar Coverage in Region: $VAL|0%+=$\n" 
+ SPOTTING_BASE_CHANCE_FROM_DECRYPTION: "  Intel Difference: $VAL|0%+=$\n" 
  NAVAL_SPOTTING_SPEED_SURFACE: "Обнаружение: $VAL|2%+=$"
  NAVAL_SPOTTING_SPEED_SUB: "Скорость обнаружения подводных целей: $VAL|2%+=$"
  NAVAL_SPOTTING_SURFACE_DETECTION: "Обнаружение надводных целей: $VAL|2%+$"
@@ -777,7 +777,7 @@
  NAVAL_SPOTTING_DUE_TO_SPEED_DELTA: "Разница в скорости: $VAL|2%+=$"
  NAVAL_SPOTTING_COORDINATION_FACTOR: "Координация: $VAL|0%H$"
  NAVAL_SPOTTING_STATE: "Количество необнаруженных кораблей: §Y$NUM$§!\n"
- SPOTTING_DETECTION_PROCESS_PER_TASK_FORCE: "  $NAME$: $VAL|0%+$ ($TARGET$)\n" #NT!
+ SPOTTING_DETECTION_PROCESS_PER_TASK_FORCE: "  $NAME$: $VAL|0%+$ ($TARGET$)\n" 
  NAVAL_SPOTTING_LEVEL_NONE_DESC: "Мы знаем о присутствии противника в этом регионе."
  NAVAL_SPOTTING_LEVEL_LOW_DESC: "Мы заметили противника и примерно знаем его численность."
  NAVAL_SPOTTING_LEVEL_MEDIUM_DESC: "Мы заметили противника и точно знаем его численность."
@@ -808,21 +808,21 @@
  NAVAL_ACCIDENTS_ACTIONS: "§GЩелкните§!, чтобы открыть сводку о §Yкатастрофах на флоте§!.\n§GПравый щелчок§! — §Rскрыть§! данные о §Yкатастрофах на флоте§! в этом регионе."
  NAVAL_ACCIDENT_DISPATCH_TITLE: "Скрыть данные о катастрофах на флоте"
  NAVAL_ACCIDENT_DISPATCH_DESC: "Вы действительно хотите скрыть данные о катастрофах на флоте в этом регионе?"
- #REQUEST_EXPEDITIONARIES_DIVISIONS_COUNT: "$NUM_DIVS|Y$ Total Divisions" #NT!
- #ARMY_LEADER_EXPEDITIONARY_FORCE_ICON: "This army is an empty army created for requesting expeditionary forces." #NT!
- #ARMY_LEADER_CREATE_EXPEDITIONARY_FORCE_GROUP: "Click to create an empty army for requesting expeditionary forces." #NT!
+ #REQUEST_EXPEDITIONARIES_DIVISIONS_COUNT: "$NUM_DIVS|Y$ Total Divisions" 
+ #ARMY_LEADER_EXPEDITIONARY_FORCE_ICON: "This army is an empty army created for requesting expeditionary forces." 
+ #ARMY_LEADER_CREATE_EXPEDITIONARY_FORCE_GROUP: "Click to create an empty army for requesting expeditionary forces." 
  UNIT_VIEW_DIVISIONS_COUNT: "$DIV$/$MAX$"
  UNIT_VIEW_DIVISIONS_COUNT_NO_LIMIT: "$DIV$"
  UNIT_TOOLTIP_BATTALIONS: "§GБатальоны§!"
  UNIT_TOOLTIP_SUPPORT: "§GПоддержка§!"
- MAP_ARROWS_LOCALIZATION: "$DIVISIONS$ - $GROUP$" #NT!
+ MAP_ARROWS_LOCALIZATION: "$DIVISIONS$ - $GROUP$" 
  MAP_ARROWS_LOCALIZATION_EMPTY: "Нет дивизий"
- MAP_ARROWS_DIVISIONS_COUNT: "$DIV$ Divisions" #NT!
- MAP_ARROWS_DIVISIONS_COUNT_SHORT: "$DIV$ Divs." #NT!
- MAP_ARROWS_LOCALIZATION_EMPTY_SHORT: "No Divs." #NT!
- MAP_ARROWS_PARATROOPERS_COUNT: "$DIV$ Paratroopers" #NT!
- MAP_ARROWS_INVASION_TRANSPORTS_COUNT: " $TR$ Transports" #NT!
- MAP_ARROWS_PARADROP_TRANSPORTS_COUNT: " $TR$ Transports" #NT!
+ MAP_ARROWS_DIVISIONS_COUNT: "$DIV$ Divisions" 
+ MAP_ARROWS_DIVISIONS_COUNT_SHORT: "$DIV$ Divs." 
+ MAP_ARROWS_LOCALIZATION_EMPTY_SHORT: "No Divs." 
+ MAP_ARROWS_PARATROOPERS_COUNT: "$DIV$ Paratroopers" 
+ MAP_ARROWS_INVASION_TRANSPORTS_COUNT: " $TR$ Transports" 
+ MAP_ARROWS_PARADROP_TRANSPORTS_COUNT: " $TR$ Transports" 
  REQUEST_EXPEDITIONARIES_DIVISIONS_COUNT: "Всего дивизий: $NUM_DIVS|Y$"
  UNITS_VIEW_DIVISIONS_COUNT: "Дивизии: $DIV|G$"
  UNITS_VIEW_WINGS_COUNT: "Выбрано авиакрыльев: $WINGS|G$"
@@ -851,16 +851,16 @@
  UNITS_VIEW_BTN_DELETE_ORDER: "§HУдалить приказ§!\n§GЩелкните§! по этой кнопке, затем щелкните на карте по приказу, который вы хотите удалить.\n§GЩелкните правой кнопкой§! по этой кнопке, чтобы §Rудалить все приказы§! выбранной армии."
  UNITS_VIEW_BTN_RESHAPE: "§HРежим редактирования§!\nНажмите эту кнопку, чтобы перейти в режим редактирования, или удерживайте §GALT§!\nЧтобы изменить план операции, §Gщелкните правой кнопкой§! по его концу.\n§GНажмите и удерживайте левую кнопку§! на стрелке наступления, чтобы изменить ее форму или соединить с другим приказом.\n§GНажмите и удерживайте правую кнопку§! на одном из мигающих приказов, чтобы нарисовать новую стрелку наступления."
  UNITS_VIEW_BTN_DRAW_OFFENCE: "§HЛиния наступления§!\n§GНажмите и удерживайте правую кнопку§! на карте, чтобы нарисовать §Yлинию наступления§!.\nЛинии можно рисовать только на территории, которую вы прикрепили к §Hлинии фронта§! или §Hморскому вторжению§!.\n\nДивизии, прикрепленные к плану с линией наступления, будут пытаться захватить территорию, чтобы перенести туда свою линию фронта. \n\n§GЗажмите кнопку мыши§!, затем §Gотпустите§! ее над кнопкой выполнения плана, чтобы изменить его тип"
- UNITS_VIEW_BTN_DRAW_DEFENCE: "§HFront Line§!\n - §GClick§! on one of the borders against another country to set the assigned front along entire border.\n - §GRight-click and drag the mouse§! on one of the borders against another country to set the front in a shorter interval.\n - §GRight-click and drag the mouse§! on the existing front line endings to edit them.\n\nFront lines are the start point of attacks into enemy territory towards Offensive Lines, but also allows you to quickly position Divisions along a foreign border." #NT!
- UNITS_VIEW_BTN_DRAW_DEFENCE_ARMY_GROUP: "§HFront Line§!\n - §GClick§! on one of the borders against another country to set the assigned front along entire border.\n - §GShift + Click§! on one of the borders against another country to set the assigned front without sub-army fronts along entire border.\n - §GRight-click and drag the mouse§! on one of the borders against another country to set the front in a shorter interval.\n - §GShift + Right-click and drag the mouse§! on one of the borders against another country to set the front without sub-army fronts in a shorter interval.\n - §GRight-click and drag the mouse§! on the existing front line endings to edit them.\n\nFront lines are the start point of attacks into enemy territory towards Offensive Lines, but also allows you to quickly position Divisions along a foreign border." #NT!
- UNITS_VIEW_BTN_DRAW_FALLBACK: "§HFallback line§!\n - §GRight-click and drag the mouse§! on the friendly territory to draw the §YSingle use§! defensive order.\n\nFallback lines are useful for positioning Divisions for defense, for example, behind a river, or somewhere else in friendly territory." #NT!
+ UNITS_VIEW_BTN_DRAW_DEFENCE: "§HFront Line§!\n - §GClick§! on one of the borders against another country to set the assigned front along entire border.\n - §GRight-click and drag the mouse§! on one of the borders against another country to set the front in a shorter interval.\n - §GRight-click and drag the mouse§! on the existing front line endings to edit them.\n\nFront lines are the start point of attacks into enemy territory towards Offensive Lines, but also allows you to quickly position Divisions along a foreign border." 
+ UNITS_VIEW_BTN_DRAW_DEFENCE_ARMY_GROUP: "§HFront Line§!\n - §GClick§! on one of the borders against another country to set the assigned front along entire border.\n - §GShift + Click§! on one of the borders against another country to set the assigned front without sub-army fronts along entire border.\n - §GRight-click and drag the mouse§! on one of the borders against another country to set the front in a shorter interval.\n - §GShift + Right-click and drag the mouse§! on one of the borders against another country to set the front without sub-army fronts in a shorter interval.\n - §GRight-click and drag the mouse§! on the existing front line endings to edit them.\n\nFront lines are the start point of attacks into enemy territory towards Offensive Lines, but also allows you to quickly position Divisions along a foreign border." 
+ UNITS_VIEW_BTN_DRAW_FALLBACK: "§HFallback line§!\n - §GRight-click and drag the mouse§! on the friendly territory to draw the §YSingle use§! defensive order.\n\nFallback lines are useful for positioning Divisions for defense, for example, behind a river, or somewhere else in friendly territory." 
  UNITS_VIEW_BTN_AREA_DEFENSE: "§HОборона территории§!\n — §Gщелкайте§! по регионам, чтобы добавить их в приказ или убрать из него.\nУ армии, получившей этот приказ, не может быть в то же время других приказов.\n\nДивизии, прикреплённые к армии с этим приказом, рассредоточатся по указанной области для охраны важных городов, портов и других объектов, а также для подавления небольших скоплений противника."
  UNITS_VIEW_BTN_DRAW_NAVAL_INV: "§HМорское вторжение§!\nШаг 1) §GЩелкните§! по одной из выделенных провинций, чтобы указать исходную точку вторжения.\nШаг 2) §GЩелкните правой кнопкой§! по одной или нескольким прибрежным провинциям, куда вы хотите вторгнуться.\nПосле активации плана ваши страны начнут подготовку и резервирование конвоев для вторжения."
  UNITS_VIEW_BTN_DRAW_PARADROP: "§HВоздушно-десантная операция§!\nШаг 1) §GЩелкните§! по нашей авиабазе, чтобы указать пункт вылета. На авиабазе должны находиться транспортные самолеты.\nШаг 2) §GЩелкните правой кнопкой§! по провинции, которая находится в зоне действия ваших транспортных самолетов, чтобы указать точку высадки.\n§gПомните: будут переброшены только войска, способные десантироваться с парашютом.§!"
  UNITS_VIEW_BTN_DRAW_OFFENCE_FRONT_LINE_FIRST: "§RВам нужно сначала создать линию фронта.§!"
  UNITS_VIEW_BTN_RESHAPE_NOTHING: "§RНет объектов для редактирования.§!"
  UNITS_VIEW_BTN_UNASSIGN_NO_ORDERS: "§RОткреплять не от чего.§!"
- UNITS_VIEW_BTN_UNASSIGN_DEFENCE_ORDER: "§RCannot unassign units from §YGarrison Area§! order.§!" #NT!
+ UNITS_VIEW_BTN_UNASSIGN_DEFENCE_ORDER: "§RCannot unassign units from §YGarrison Area§! order.§!" 
  UNITS_VIEW_BTN_DELTE_NOTHING: "§RНет объектов для удаления.§!"
  UNITS_VIEW_BTN_DRAW_PARADROP_NO_PARATROOPERS: "§RВ группе войск нет воздушного десанта.§!"
  UNITS_VIEW_BTN_IN_RESHAPE_MODE: "§RВы сейчас редактируете приказы.§!"
@@ -959,13 +959,13 @@
  RESISTANCE_TICK_SPEED_TOTAL: "\n---------------\nЕжедневный прирост сопротивления: $TOT|%2-=$ ( не более $SUPPRESSION|Y%2$ из-за подавления сопротивления )"
  RESISTANCE_NOT_OPERATIONAL: "§gСопротивление растет только в полностью оккупированных не национальных регионах.§!"
  RESISTANCE_OCCUPATION_POLICY: "---------------\nОккупационная политика $NAM|Y$:"
- #RESISTANCE_STRENGTH: "Resistance strength: $TOT|%2-=$" #NT!
- #RESISTANCE_EFFECTS: "\n---------------\nResistance effects:" #NT!
+ #RESISTANCE_STRENGTH: "Resistance strength: $TOT|%2-=$" 
+ #RESISTANCE_EFFECTS: "\n---------------\nResistance effects:" 
  RESISTANCE_VIEW_TITLE: "Сила местного сопротивления: $TOT|%0-=$"
  RESISTANCE_VIEW_POLICY_TITLE: "Оккупационная политика:"
  RESISTANCE_VIEW_GROWTH: "Прирост: $GR|%2-=$"
- OCCUPIED_COUNTRY_COST: "$VALUE$ Legislative Power/Day" #NT!
- OCCUPATION_POLICY_COST: "Occupations: $VALUE|+$" #NT!
+ OCCUPIED_COUNTRY_COST: "$VALUE$ Legislative Power/Day" 
+ OCCUPATION_POLICY_COST: "Occupations: $VALUE|+$" 
  CHOOSE_LEADER: "Выберите командующего"
  SHOW_ACTIVE: "Действующие"
  FE_NO_COUNTRY_SELECTED: "Государство не выбрано"
@@ -977,7 +977,7 @@
  FE_SELECT_COUNTRY: "Выбрать страну"
  FE_COUNTRY_INFO_TITLE: "Сведения"
  FE_COUNTRY_SPIRIT: "Национальный дух"
- FE_COUNTRY_HISTORY_TITLE: "Situation Overview" #NT!
+ FE_COUNTRY_HISTORY_TITLE: "Situation Overview" 
  LEADER: "Лидер"
  GOVERNMENT: "Правительство"
  RULING_PARTY: "Правящая партия"
@@ -1019,31 +1019,31 @@
  RAILWAY_GUN_SERIES_AMOUNT_DESC: "Количество железнодорожных орудий, которые осталось произвести."
  RAILWAY_GUN_SERIES_DECREASE_DESC: "Уменьшить количество производимых железнодорожных орудий.\n§GCtrl+щелчок§! — вычесть §H10§!\n§GShift+Click§! — вычесть §H100§!"
  oil_desc: "Нефть нужна для работы наземной техники, самолетов и кораблей."
- #AIR_WING_XP_BONUS_NONE: "§HNo bonus from experience§!" #NT!
- #AIR_WING_XP_BONUS_HEADER: "§HThis gives the following effects:§!" #NT!
- #AIR_WING_XP_BONUS_NEXT_LEVEL: "Experience progress to next level: $EXP|Y%0$" #NT!
- #AIR_WING_XP_TRAINING_DAILY_PROGRESS: "Daily experience progress to next level from §YPilot Exercises§!: $EXP|Y%1$" #NT!
- #AIR_WING_XP_TRAINING_MAX_REACHED: "This §YAir Wing§! cannot gain additional experience from §YPilot Exercises§!." #NT!
- #AIR_WING_XP_LOSS_INFO: "When the §YAir Wing§! takes damage it loses experience. The loss is reduced by $FRIENDLY|+%0$ over friendly territory." #NT!
- #NAVY_XP_BONUS_NONE: "§HNo bonus from experience§!" #NT!
- #NAVY_XP_BONUS_HEADER: "§HThis gives the following effects:§!" #NT!
+ #AIR_WING_XP_BONUS_NONE: "§HNo bonus from experience§!" 
+ #AIR_WING_XP_BONUS_HEADER: "§HThis gives the following effects:§!" 
+ #AIR_WING_XP_BONUS_NEXT_LEVEL: "Experience progress to next level: $EXP|Y%0$" 
+ #AIR_WING_XP_TRAINING_DAILY_PROGRESS: "Daily experience progress to next level from §YPilot Exercises§!: $EXP|Y%1$" 
+ #AIR_WING_XP_TRAINING_MAX_REACHED: "This §YAir Wing§! cannot gain additional experience from §YPilot Exercises§!." 
+ #AIR_WING_XP_LOSS_INFO: "When the §YAir Wing§! takes damage it loses experience. The loss is reduced by $FRIENDLY|+%0$ over friendly territory." 
+ #NAVY_XP_BONUS_NONE: "§HNo bonus from experience§!" 
+ #NAVY_XP_BONUS_HEADER: "§HThis gives the following effects:§!" 
  aluminium_desc: "Алюминий незаменим в производстве особых видов техники и самолетов."
  rubber_desc: "Резина необходима для производства большинства видов техники."
  tungsten_desc: "Вольфрам — редкий, прочный металл. Чаще всего его используют в производстве противотанковых снарядов, а также для станков и специальных типов запчастей."
  steel_desc: "Сталь — основной металл, необходимый для создания большинства видов военной техники, будь то танки или корабли."
  chromium_desc: "Хром — металл, использующийся при создании современных двигателей."
  CLAIM_LIST_DESC: "Государства, претендующие на этот регион."
- SUPPLY_MAPICON_SUPPORTED_LIMITED_DESC: "This node could support more supplies, but is limited by some §R'bottlenecks'§! in its route.\nConsider improving §Ginfrastructure§! along the route.\nImprove also the naval ports if the route includes the sea path.\nThink then about necessary amount of convoys and escorts." #NT!
+ SUPPLY_MAPICON_SUPPORTED_LIMITED_DESC: "This node could support more supplies, but is limited by some §R'bottlenecks'§! in its route.\nConsider improving §Ginfrastructure§! along the route.\nImprove also the naval ports if the route includes the sea path.\nThink then about necessary amount of convoys and escorts." 
  SUPPLY_MAPICON_SUPPORTED_DESC: "Этот пункт принимает достаточное количество ресурсов.\nЧем больше войск будет в этом районе, тем больше вырастет потребление ресурсов."
  SUPPLY_MAPICON_INFRA_DESC: "Средний уровень инфраструктуры регионов в этой области ($AVG|1Y$) увеличивает пропускную способность ее каналов снабжения.\nОбщий уровень §Yинфраструктуры§! в этой области — $LVL|G$."
  SUPPLY_MAPICON_INFRA_DESC_CLICK_TO_INC: "\n §GЩелкните§!, чтобы добавить еще несколько в очередь на строительство."
  SUPPLY_MAPICON_INFRA_PENDING_DESC: "\n§GМы уже модернизируем §Yинфраструктуру§! в этом районе.§!"
- SUPPLY_MAPICON_PORT_DESC: "The highest level §Ynaval port§! is $LVL|G$." #NT!
- SUPPLY_MAPICON_PORT_PENDING_DESC: "\n§GWe are already improving the local best §Ynaval port§!.§!" #NT!
+ SUPPLY_MAPICON_PORT_DESC: "The highest level §Ynaval port§! is $LVL|G$." 
+ SUPPLY_MAPICON_PORT_PENDING_DESC: "\n§GWe are already improving the local best §Ynaval port§!.§!" 
  DEBUG_TOOLTIP_HINT: "Удерживайте §GCtrl + Alt§!, чтобы увидеть §Hотладочную информацию§!"
- PEACE_CONFERENCE_PROVINCE_TOOLTIP: "$STATE|Y$ (£victory_points£ $COST$)\nBuildings ($SLOTS|Y$):\n$BUILDINGS$" #NT!
- PEACE_CONFERENCE_PROVINCE_TOOLTIP_ITEM: "$NAME$: $VALUE|Y$" #NT!
- PEACE_CONFERENCE_PROVINCE_TOOLTIP_RESOURCES: "Resources:\n$RESOURCES$" #NT!
+ PEACE_CONFERENCE_PROVINCE_TOOLTIP: "$STATE|Y$ (£victory_points£ $COST$)\nBuildings ($SLOTS|Y$):\n$BUILDINGS$" 
+ PEACE_CONFERENCE_PROVINCE_TOOLTIP_ITEM: "$NAME$: $VALUE|Y$" 
+ PEACE_CONFERENCE_PROVINCE_TOOLTIP_RESOURCES: "Resources:\n$RESOURCES$" 
  PEACE_CONFERENCE_PROVINCE_TOOLTIP_CLAIMS: "Претензии:\n$CLAIMS$"
  PEACE_CONFERENCE_PROVINCE_TOOLTIP_CORES: "Национальные территории:\n$CORES$"
  PROV_TEXT_UNITS_PARACHUTED: "Десантировано боевых единиц"
@@ -1108,21 +1108,21 @@
  TRAINING_ATTRITION: "Боевая подготовка: $VALUE$"
  UNITS_VIEW_BTN_TRAIN_UNITS_TOOLTIP: "Щелкните, чтобы начать §Gподготовку§! этой армии. Боевые единицы будут тратить снаряжение, получая опыт. Ваше государство также будет получать £army_experience армейский опыт от каждой из этих боевых единиц, чей уровень опыта не ниже, чем $VAL|Y$ — $NAME|Y$."
  UNITS_VIEW_BTN_TRAIN_UNITS_TOOLTIP_SHIFT_CLICK_INFO: "Shift+ЛКМ, чтобы начать §Gбоевую подготовку§!, которая будет идти до полного обучения всех воинских частей."
- #UNIT_LEVEL_0: "Green" #NT!
- #UNIT_LEVEL_1: "Trained" #NT!
- #UNIT_LEVEL_2: "Regular" #NT!
- #UNIT_LEVEL_3: "Seasoned" #NT!
- #UNIT_LEVEL_4: "Veterans" #NT!
- #SHIP_LEVEL_0: "Fresh" #NT!
- #SHIP_LEVEL_1: "Trained" #NT!
- #SHIP_LEVEL_2: "Regular" #NT!
- #SHIP_LEVEL_3: "Seasoned" #NT!
- #SHIP_LEVEL_4: "Veterans" #NT!
- #AIR_WING_LEVEL_0: "Rookies" #NT!
- #AIR_WING_LEVEL_1: "Trained" #NT!
- #AIR_WING_LEVEL_2: "Regular" #NT!
- #AIR_WING_LEVEL_3: "Seasoned" #NT!
- #AIR_WING_LEVEL_4: "Veterans" #NT!
+ #UNIT_LEVEL_0: "Green" 
+ #UNIT_LEVEL_1: "Trained" 
+ #UNIT_LEVEL_2: "Regular" 
+ #UNIT_LEVEL_3: "Seasoned" 
+ #UNIT_LEVEL_4: "Veterans" 
+ #SHIP_LEVEL_0: "Fresh" 
+ #SHIP_LEVEL_1: "Trained" 
+ #SHIP_LEVEL_2: "Regular" 
+ #SHIP_LEVEL_3: "Seasoned" 
+ #SHIP_LEVEL_4: "Veterans" 
+ #AIR_WING_LEVEL_0: "Rookies" 
+ #AIR_WING_LEVEL_1: "Trained" 
+ #AIR_WING_LEVEL_2: "Regular" 
+ #AIR_WING_LEVEL_3: "Seasoned" 
+ #AIR_WING_LEVEL_4: "Veterans" 
  AIR_WING_XP_BONUS_NONE: "§HБез бонуса за опыт§!"
  AIR_WING_XP_BONUS_HEADER: "§HДает следующие эффекты:§!"
  AIR_WING_XP_BONUS_NEXT_LEVEL: "Опыта до следующего уровня: $EXP|Y%0$"
@@ -1136,8 +1136,8 @@
  EXP_DETAILS: "Прогресс до следующего уровня: $EXP|Y%0$"
  EXP_COMBAT_BONUS: "Бонус к боевому опыту: $EFFECT|+=%0$"
  EXP_TRAINING_BONUS: "Бонус к опыту за подготовку: $EFFECT|+=%0$"
- #FOCUS_CANNOT_BE_CANCELLED_MANUALLY: "§RCannot be cancelled manually§!" #NT!
- #FOCUS_CANCEL_BUTTON_DESC: "§HClick to cancel this focus.§!\n$DAYS|0H$ §Hdays§! progress will be saved." #NT!
+ #FOCUS_CANNOT_BE_CANCELLED_MANUALLY: "§RCannot be cancelled manually§!" 
+ #FOCUS_CANCEL_BUTTON_DESC: "§HClick to cancel this focus.§!\n$DAYS|0H$ §Hdays§! progress will be saved." 
  CANNOT_EXECUTE_ORDERS_WHILE_TRAINING: "Эта армия сейчас проходит §Yподготовку§! и не может выполнять приказы. Остановите подготовку, если хотите, чтобы армия выполнила приказы."
  UNIT_COUNTER_TOOLTIP: "$DIVISION|H$"
  FOCUS_TREE_VIEW_HEADER: "Фокусы государства $COUNTRY$"
@@ -1156,7 +1156,7 @@
  FOCUS_CANNOT_START_CAPITULATED: "§RНедоступно после капитуляции вашего государства!§!"
  FOCUS_CANNOT_BE_CANCELLED_MANUALLY: "§RНевозможно отменить вручную§!"
  FOCUS_CANNOT_BYPASS: "§RНельзя пропустить фокус, пока действует взаимоисключающий фокус§!"
- #FOCUS_CANCEL_BUTTON_DESC: "§HClick to cancel this focus.§!\n$DAYS|0H$ §Hdays§! progress will be saved." #NT!
+ #FOCUS_CANCEL_BUTTON_DESC: "§HClick to cancel this focus.§!\n$DAYS|0H$ §Hdays§! progress will be saved." 
  FOCUS_STATUS_IN_PROGRESS: "Прогресс: $CURR|Y0$/$TOT|0Y$ дн. "
  CONTINUOUS_FOCUS_ACTIVE_STATUS: "Активно"
  CONTINUOUS_FOCUS_NOT_ACTIVE_STATUS: "Неактивно"
@@ -1170,8 +1170,8 @@
  PROVINCE_CONTROL_TOOLTIP: "$TAG$$CONTROL|H$ контролирует эту провинцию в регионе $NAME|H$."
  PROVINCE_OWNED_TOOLTIP: "Первоначальный владелец провинции: $TAG$$OWNED|H$."
  PROVINCE_VP_TOOLTIP: "Победные очки: £victory_points $VALUE|G$ "
- PROVINCE_PORT_TOOLTIP: "Naval Port: §HYes§!" #NT!
- PROVINCE_PORT_TOOLTIP_LEVEL: "Naval Port: $LEVEL|H$" #NT!
+ PROVINCE_PORT_TOOLTIP: "Naval Port: §HYes§!" 
+ PROVINCE_PORT_TOOLTIP_LEVEL: "Naval Port: $LEVEL|H$" 
  PROVINCE_AIRBASE_TOOLTIP: "Вместимость авиабазы: $CAPACITY|H$"
  PROVINCE_ROCKET_TOOLTIP: "Вместимость ракетной площадки: $CAPACITY|H$"
  PROVINCE_TERRAIN_TOOLTIP: "Местность: $NAME|Y$"
@@ -1194,7 +1194,7 @@
  MOVING_STRATEGIC_REDEPLOYMENT_ORG: "Движение в режиме стратегической передислокации. Во время движения организация всегда равна $VALUE|H%$."
  MOVING_NAVAL_TRANSFER_ORG: "Движение в режиме переброски флота. Во время движения организация всегда равна $VALUE|H%$."
  MOVING_AMPHIBIOUS_INVASION: "Дивизия осуществляет высадку с моря. Ее скорость равна $VALUE|H$ км/ч."
- #MOVING: "Division is doing naval transfer.\nSpeed: $VALUE|H$ km/h\nBase: $BASE|H$ km/h\nNaval movement modifier: $NAVAL|H%$." #NT!
+ #MOVING: "Division is doing naval transfer.\nSpeed: $VALUE|H$ km/h\nBase: $BASE|H$ km/h\nNaval movement modifier: $NAVAL|H%$." 
  ZERO_ORG_MOVEMENT_MODIFIER: "Низкий уровень организации: $VALUE|+%$"
  MOVEMENT_SPEED_DESC: "Скорость: $VALUE|H$ км/ч\nБазовое значение: $BASE|H$ км/ч"
  COMBAT_SPEED_MODIFIER: "В бою: x$VALUE|H%$"
@@ -1299,7 +1299,7 @@
  TOGGLE_RADAR: "Включить или выключить отображение §Yрадаров§!"
  TOGGLE_PLAYER_COUNTERS_ONLY: "Переключение отображения §Yзначков воинских частей§! между:\n§Yвсеми§! или §Yтолько игрока§!"
  DIPLOMACY_SEND_EXP_FORCE_TITLE: "Экспедиционные войска"
- DIPLOMACY_SEND_VOLUNTEERS_TITLE: "Dispatch Volunteers" #NT!
+ DIPLOMACY_SEND_VOLUNTEERS_TITLE: "Dispatch Volunteers" 
  EXP_MULTIPLE_DIVISIONS: "Дивизии: $COUNT$/$TOTAL$"
  EXP_SINGLE_DIVISION: "1 дивизия"
  VOL_MULTIPLE_DIVISIONS: "Дивизии: $COUNT$"
@@ -1323,34 +1323,34 @@
  CONFIRM_SAVEGAME_DESC: "Вы действительно хотите перезаписать $NAME|Y$?"
  DIPLOMACY_CREATE_FACTION_NOT_RULE: "Вы не можете создавать альянсы без национального духа."
  FLEET_OUT_OF_RANGE_TOOLTIP_HEADER: "§RВне зоны действия флота§!"
- #ALL_SHIPS: "\n  §RSelected ships can't move here.§!" #NT!
+ #ALL_SHIPS: "\n  §RSelected ships can't move here.§!" 
  FLEET_OUT_OF_RANGE_TOOLTIP_ALL_SHIPS: "\n  §RВыбранные оперативные соединения не могут сюда попасть.§!"
  FLEET_OUT_OF_RANGE_TOOLTIP_SOME_SHIPS: "\n  §RИз $MAX|Y$ оперативных соединений $NUM|Y$ не могут сюда попасть.§!"
- FLEET_OUT_OF_RANGE_TOOLTIP: "\n  Asking other countries for the §YMilitary access§! or §YDocking rights§!, as well as §YFaction members§! will give us the access to their naval ports.\nTop nearest naval ports:\n$LIST$" #NT!
- FLEET_OUT_OF_RANGE_TOOLTIP_ENTRY: "  $FLAG$ $NAME$ nearest naval port $DIST|G0$ km.\n" #NT!
- FLEET_OUT_OF_RANGE_TOOLTIP_ENTRY_ZERO_DIST: "  $FLAG$ $NAME$ nearest naval port §Gis adjacent§!\n" #NT!
+ FLEET_OUT_OF_RANGE_TOOLTIP: "\n  Asking other countries for the §YMilitary access§! or §YDocking rights§!, as well as §YFaction members§! will give us the access to their naval ports.\nTop nearest naval ports:\n$LIST$" 
+ FLEET_OUT_OF_RANGE_TOOLTIP_ENTRY: "  $FLAG$ $NAME$ nearest naval port $DIST|G0$ km.\n" 
+ FLEET_OUT_OF_RANGE_TOOLTIP_ENTRY_ZERO_DIST: "  $FLAG$ $NAME$ nearest naval port §Gis adjacent§!\n" 
  FLEET_OUT_OF_RANGE_TOOLTIP_ENTRIES_NONE: "§RНет§!\n"
  WE: "Мы"
- #ORG_HIT_NON_RATIO_WHEN_ADVANCING: "Moving: $VAL|=+2$\n" #NT!
- #NAVAL_TERRAIN_LABEL: "Terrain" #NT!
- #NAVY_REINFORCE_CANCEL_TITLE: "Cancel reinforcement task." #NT!
- #NAVY_REINFORCE_CANCEL_DESC_ONE: "$FLEET|H$ is heading to $TARGET|H$ to merge with them.\nDo you want to abort this task?" #NT!
- #NAVY_REINFORCE_CANCEL_DESC_MULT: "$NUM|H$ fleets are heading to their original task forces to merge with them.\nDo you want to abort this task?" #NT!
- #NAVY_REFIT_ABORT_TITLE: "§RAbort§! refitting task." #NT!
- #NAVY_REFIT_ABORT_DESC: "Selected task forces are currently refitting with progress:\n$PROGRESS_LIST$\nAt this stage, the ships are not seaworthy. You can only wait till refitting is complete, or you can §Rscuttle§! them.\nDo you want to §Rscuttle§! $NUM_SHIPS|H$ ships?\nIt is irreversible!" #NT!
- #NAVY_REFIT_PROGRESS_LIST_ENTRY: "  $SHIP|H$: $PROGRESS|%1$\n" #NT!
- #NAVY_REFIT_PROGRESS_LIST_ENTRY_COMPLETE: "  $SHIP|H$: §GComplete§!\n" #NT!
- #NAVY_REFIT_ABORT_CONFIRM_BUTTON_TEXT: "§RScuttle§!" #NT!
- #NAVY_REFIT_CANCEL_TITLE: "Cancel refitting task." #NT!
- #NAVY_REFIT_CANCEL_DESC: "Selected task forces are currently refitting with progress:\n$PROGRESS_LIST$\nThe progress will be lost.\nDo you want to abort this task?" #NT!
- #NAVY_REFIT_CANCEL_DESC_ONE: "$FLEET|H$ is heading to $TARGET|H$ to refit.\nDo you want to abort this task?" #NT!
- #NAVY_REFIT_CANCEL_DESC_MULT: "$NUM|H$ fleets are heading to naval ports to refit.\nDo you want to abort this task?" #NT!
- #NAVY_REPAIR_CANCEL_ALLY_SHIP: "Aborting the repairs of an ally ship will cancel repairs and will force its taskforce to move to the one of its own ports." #NT!
- #NAVY_REPAIR_CANCEL_ONE_SHIP: "Aborting the repairs will put its parent taskforce on §RNever Repair§! setting." #NT!
- #DO_YOU_WANT_TO_CONTINUE: "Do you want to continue?" #NT!
- #NAVY_REPAIR_CANCEL_DESC_REUNITE: "\nThey will return and merge with the task force they are detached from." #NT!
- #NAVY_REPAIR_CANCEL_DESC_WARN_ON_POLICY: "\n§RBeware§! that $FLEET|H$ may send those ships back, unless you change the repair policy to §RNever repair§!." #NT!
- #NAVY_REPAIR_BECAUSE_OF_REFIT_CANCEL_NOTIFY: "The ship is repairing because it has scheduled refitting process. Cancelling the reparation will also cancel the refitting task." #NT!
+ #ORG_HIT_NON_RATIO_WHEN_ADVANCING: "Moving: $VAL|=+2$\n" 
+ #NAVAL_TERRAIN_LABEL: "Terrain" 
+ #NAVY_REINFORCE_CANCEL_TITLE: "Cancel reinforcement task." 
+ #NAVY_REINFORCE_CANCEL_DESC_ONE: "$FLEET|H$ is heading to $TARGET|H$ to merge with them.\nDo you want to abort this task?" 
+ #NAVY_REINFORCE_CANCEL_DESC_MULT: "$NUM|H$ fleets are heading to their original task forces to merge with them.\nDo you want to abort this task?" 
+ #NAVY_REFIT_ABORT_TITLE: "§RAbort§! refitting task." 
+ #NAVY_REFIT_ABORT_DESC: "Selected task forces are currently refitting with progress:\n$PROGRESS_LIST$\nAt this stage, the ships are not seaworthy. You can only wait till refitting is complete, or you can §Rscuttle§! them.\nDo you want to §Rscuttle§! $NUM_SHIPS|H$ ships?\nIt is irreversible!" 
+ #NAVY_REFIT_PROGRESS_LIST_ENTRY: "  $SHIP|H$: $PROGRESS|%1$\n" 
+ #NAVY_REFIT_PROGRESS_LIST_ENTRY_COMPLETE: "  $SHIP|H$: §GComplete§!\n" 
+ #NAVY_REFIT_ABORT_CONFIRM_BUTTON_TEXT: "§RScuttle§!" 
+ #NAVY_REFIT_CANCEL_TITLE: "Cancel refitting task." 
+ #NAVY_REFIT_CANCEL_DESC: "Selected task forces are currently refitting with progress:\n$PROGRESS_LIST$\nThe progress will be lost.\nDo you want to abort this task?" 
+ #NAVY_REFIT_CANCEL_DESC_ONE: "$FLEET|H$ is heading to $TARGET|H$ to refit.\nDo you want to abort this task?" 
+ #NAVY_REFIT_CANCEL_DESC_MULT: "$NUM|H$ fleets are heading to naval ports to refit.\nDo you want to abort this task?" 
+ #NAVY_REPAIR_CANCEL_ALLY_SHIP: "Aborting the repairs of an ally ship will cancel repairs and will force its taskforce to move to the one of its own ports." 
+ #NAVY_REPAIR_CANCEL_ONE_SHIP: "Aborting the repairs will put its parent taskforce on §RNever Repair§! setting." 
+ #DO_YOU_WANT_TO_CONTINUE: "Do you want to continue?" 
+ #NAVY_REPAIR_CANCEL_DESC_REUNITE: "\nThey will return and merge with the task force they are detached from." 
+ #NAVY_REPAIR_CANCEL_DESC_WARN_ON_POLICY: "\n§RBeware§! that $FLEET|H$ may send those ships back, unless you change the repair policy to §RNever repair§!." 
+ #NAVY_REPAIR_BECAUSE_OF_REFIT_CANCEL_NOTIFY: "The ship is repairing because it has scheduled refitting process. Cancelling the reparation will also cancel the refitting task." 
  SEARCH: "Поиск"
  RELEASE_AS_PUPPET: "Отпустить как марионетку"
  PLAY_AS: "Играть за"
@@ -1367,9 +1367,9 @@
  MODIFIER_BASE_VALUE: "Базовое значение: $VALUE|H0$"
  MODIFIER_BASE_VALUE_PERCENTAGE: "Базовое значение: $VALUE|H0%$"
  MODIFIER_BASE_VALUE_STR: "Базовое значение: $VALUE$"
- POSITIVE_VALUE_HOUR: "$VALUE|G0$ §HH§" #NT!
- NEGATIVE_VALUE_HOUR: "$VALUE|R0$ §HH§" #NT!
- NEUTRAL_VALUE_HOUR: "$VALUE|H0$ §HH§" #NT!
+ POSITIVE_VALUE_HOUR: "$VALUE|G0$ §HH§" 
+ NEGATIVE_VALUE_HOUR: "$VALUE|R0$ §HH§" 
+ NEUTRAL_VALUE_HOUR: "$VALUE|H0$ §HH§" 
  POSITIVE_VALUE: "$VALUE|G0$"
  NEGATIVE_VALUE: "$VALUE|R0$"
  NEUTRAL_VALUE: "$VALUE|H0$"
@@ -1383,7 +1383,7 @@
  NAVAL_STATS_LABEL: "Параметры"
  NAVAL_HISTORY_LABEL: "История"
  NAVAL_TERRAIN_LABEL: "Местность"
- #NAVAL_DESIGN_LABEL: "Design" #NT!
+ #NAVAL_DESIGN_LABEL: "Design" 
  NAVAL_COMBAT_RESULT_HEADER: "§HМорское сражение§!"
  PORT_STRIKE_RESULT_HEADER: "§HУдары по порту§!"
  NAVAL_COMBAT_RESULT_HEADER_DATE: " ($DATE$) "
@@ -1407,14 +1407,14 @@
  NAVY_REFIT_CANCEL_TITLE: "Отменить перевооружение."
  NAVY_REFIT_CANCEL_DESC: "Выбранные оперативные соединения сейчас находятся на перевооружении, его прогресс:\n$PROGRESS_LIST$\nВесь прогресс будет утерян.\nПрервать выполнение этого задания?"
  NAVY_REFIT_CANCEL_DESC_ONE: "Флот $FLEET|H$ направляется на перевооружение в: $TARGET|H$.\nОтменить это задание?"
- NAVY_REFIT_CANCEL_DESC_MULT: "$NUM|H$ fleets are heading to naval ports to refit.\nDo you want to abort this task?" #NT!
+ NAVY_REFIT_CANCEL_DESC_MULT: "$NUM|H$ fleets are heading to naval ports to refit.\nDo you want to abort this task?" 
  NAVY_REPAIR_CANCEL_TITLE: "Отменить ремонт."
  NAVY_REPAIR_CANCEL_ALLY_SHIP: "Если вы прервете ремонт союзного корабля, его оперативное соединение будет вынуждено переместиться в один из их портов."
  NAVY_REPAIR_CANCEL_ONE_SHIP: "Если вы прервете ремонт, оперативное соединение корабля перейдет в режим «§RНикогда не ремонтировать§!»."
  DO_YOU_WANT_TO_CONTINUE: "Продолжить?"
  NAVY_REPAIR_CANCEL_DESC_ONE_IN_BASE: "Флот $FLEET|H$ сейчас находится на ремонте в: $TARGET|H$.\nОтменить это задание?"
  NAVY_REPAIR_CANCEL_DESC_ONE: "Флот $FLEET|H$ направляется на ремонт в: $TARGET|H$.\nОтменить это задание?"
- NAVY_REPAIR_CANCEL_DESC_MULT: "$NUM|H$ fleets are heading to naval ports to repair.\nDo you want to abort this task?" #NT!
+ NAVY_REPAIR_CANCEL_DESC_MULT: "$NUM|H$ fleets are heading to naval ports to repair.\nDo you want to abort this task?" 
  NAVY_REPAIR_CANCEL_DESC_REUNITE: "\nОни вернутся и объединятся с оперативным соединением, от которого отделились."
  NAVY_REPAIR_CANCEL_DESC_WARN_ON_POLICY: "\n§RВнимание:§! флот $FLEET|H$ может отправить корабли обратно, если вы не выбрали настройку «§RНикогда не ремонтировать§!»."
  NAVY_REPAIR_BECAUSE_OF_REFIT_CANCEL_NOTIFY: "Корабль находится на ремонте для подготовки к перевооружению. Отменив ремонт, вы также отмените перевооружение."
@@ -1422,42 +1422,42 @@
  NAVY_FORMATION_SPREAD_DESC: "Показывает, насколько флот рассредоточен по району выполнения задания. Чем больше кораблей рассредоточено, тем выше шанс заметить противника, но тогда в бой войдет меньше кораблей."
  NAVY_NAME_DETACHMENT_POSTFIX: " — (Отделился)"
  NAVY_REPAIR_POLICY_0: "§RНикогда не ремонтировать.§!\nОперативное соединение никогда не вернется в порт приписки по своей воле."
- NAVY_REPAIR_POLICY_1: "§RRepair priority - Low.§!\nThe task force will decide to return to a naval port if the ships have suffered §RSevere§! damage." #NT!
- NAVY_REPAIR_POLICY_2: "§YRepair priority - Medium.§!\nThe task force will decide to return to a naval port if the ships have suffered §RMedium§! damage." #NT!
+ NAVY_REPAIR_POLICY_1: "§RRepair priority - Low.§!\nThe task force will decide to return to a naval port if the ships have suffered §RSevere§! damage." 
+ NAVY_REPAIR_POLICY_2: "§YRepair priority - Medium.§!\nThe task force will decide to return to a naval port if the ships have suffered §RMedium§! damage." 
  NAVY_REPAIR_POLICY_3: "§GПриоритет ремонта — высокий.§!\nОперативное соединение вернется в порт приписки, если корабли получат §Rнебольшие§! повреждения."
  NAVY_REPAIR_POLICY_DESC: "Система ремонта и возврата позволяет отправлять поврежденные корабли на ремонт в порт приписки и не требует вмешательства игрока. Игрок решает, что для него важнее, устанавливая приоритеты.\nВыполнить задание любой ценой?\nИли выжить любой ценой?"
  NAVY_REPAIR_POLICY_BLOCK_BECAUSE_DETACHED: "§RУ сил, выделенных из оперативного подразделения, нельзя менять параметры ремонта§!"
- NAVY_REPAIR_POLICY_CLICK_TO_CHANGE_TO: "§GClick§! to change to:0 " #NT!
- #NAVY_REPAIR_POLICY_SPLIT: "§HAutomatic split off§! is now $ON_OFF|H$.\n" #NT!
+ NAVY_REPAIR_POLICY_CLICK_TO_CHANGE_TO: "§GClick§! to change to:0 " 
+ #NAVY_REPAIR_POLICY_SPLIT: "§HAutomatic split off§! is now $ON_OFF|H$.\n" 
  NAVY_REPAIR_POLICY_SPLIT: "§HАвтоматическое отделение§! сейчас $ON_OFF|H$.\n"
  NAVY_SPLIT_TASKFORCE_IN_HALF: "Разделить выбранное оперативное соединение надвое"
  NAVY_SPLIT_TASKFORCE_IN_HALF_TOO_SMALL: "§RЭто оперативное соединение слишком маленькое, чтобы его разделять§!"
- NAVY__REPAIR_POLICY_DISABLED: "§RNever repair§!" #NT!
+ NAVY__REPAIR_POLICY_DISABLED: "§RNever repair§!" 
  NAVY_DOCKYARD_REPAIR_POLICY_0: "§RНикогда не ремонтировать§!"
  NAVY_DOCKYARD_REPAIR_POLICY_1: "§RПриоритет ремонта: низкий§!"
  NAVY_DOCKYARD_REPAIR_POLICY_2: "§YПриоритет ремонта: средний§!"
  NAVY_DOCKYARD_REPAIR_POLICY_3: "§GПриоритет ремонта: высокий§!"
- NAVY_DOCKYARD_REPAIR_POLICY_INFO: "The Naval Ports with higher priority will grab dockyards first for their repairs. \n\n§GClick§! to change repair priority. §GRight - Click§! to change disable or enable dockyard for repairs." #NT!
+ NAVY_DOCKYARD_REPAIR_POLICY_INFO: "The Naval Ports with higher priority will grab dockyards first for their repairs. \n\n§GClick§! to change repair priority. §GRight - Click§! to change disable or enable dockyard for repairs." 
  NAVY_REPAIR_POLICY_SPLIT: "§HАвтоматическое отделение§! сейчас $ON_OFF|H$.\n"
- NAVY_ALLY_DOCKYARD_REPAIR_INFO: "This Naval Port is controlled by an ally and dockyards required for repairs will be supplied by them and only they can change the naval port settings.\n\n§GClick§! to change disable or enable dockyard for repairs." #NT!
+ NAVY_ALLY_DOCKYARD_REPAIR_INFO: "This Naval Port is controlled by an ally and dockyards required for repairs will be supplied by them and only they can change the naval port settings.\n\n§GClick§! to change disable or enable dockyard for repairs." 
  ENABLED: "Включено"
  DISABLED: "Отключено"
  FIND: "Найти"
  TYPE_HERE: "Печатайте здесь"
  GOTO_CAPITAL: "Домой"
- NAVY_REPAIR_POLICY_SPLIT_DESC: "The §YAllow to split§! option allows the most heavily damaged ships to detach and return to a close by naval port for repairs while the rest of the task force continues its mission.\nThe detached ships are very vulnerable to attack while they return.\nAfter completing repairs, the ships will return to their assigned task forces.\n\nThe amount of ships detached depends on the repair priority setting as well as the damage to each individual ship." #NT!
+ NAVY_REPAIR_POLICY_SPLIT_DESC: "The §YAllow to split§! option allows the most heavily damaged ships to detach and return to a close by naval port for repairs while the rest of the task force continues its mission.\nThe detached ships are very vulnerable to attack while they return.\nAfter completing repairs, the ships will return to their assigned task forces.\n\nThe amount of ships detached depends on the repair priority setting as well as the damage to each individual ship." 
  NAVY_REPAIR_NOW_CANCEL: "§RОтменить§! ремонт."
  NAVY_REPAIR_NOW_CANCEL_RETURN: "\nВернуться и объединиться с флотом $FLEET|H$."
- ALL_TASK_FORCES_REPAIR_NOW: "§HRepair now!§!\nAll the selected task forces will return to the home base for repairs.\n§GClick§! to send. They will resume their current tasks after they are fully repaired.\n§GCtrl+Click§! to send. They will stay in the naval port after that." #NT!
- NAVY_REPAIR_NOW: "§HRepair now!§!\nThe task force will return to a close by naval port for repairs.\n§GClick§! to send. It will come back to the current task after it is fully repaired.\n§GCtrl+Click§! to send. It will stay in the naval port after that." #NT!
- SHIP_REPAIR_NOW: "§HRepair now!§!\nThe ship will detach as a separate task force and return to a close by naval port for repairs.\nIt will come back to its current task force once it is fully repaired.\n§GClick§! to detach.\n§GShift+Click§! to mark multiple ships and detach them as one task force on releasing §GShift§!." #NT!
+ ALL_TASK_FORCES_REPAIR_NOW: "§HRepair now!§!\nAll the selected task forces will return to the home base for repairs.\n§GClick§! to send. They will resume their current tasks after they are fully repaired.\n§GCtrl+Click§! to send. They will stay in the naval port after that." 
+ NAVY_REPAIR_NOW: "§HRepair now!§!\nThe task force will return to a close by naval port for repairs.\n§GClick§! to send. It will come back to the current task after it is fully repaired.\n§GCtrl+Click§! to send. It will stay in the naval port after that." 
+ SHIP_REPAIR_NOW: "§HRepair now!§!\nThe ship will detach as a separate task force and return to a close by naval port for repairs.\nIt will come back to its current task force once it is fully repaired.\n§GClick§! to detach.\n§GShift+Click§! to mark multiple ships and detach them as one task force on releasing §GShift§!." 
  SHIP_REPAIR_NOW_WITHOUT_DETACHING: "§HОтремонтировать сейчас!§!\n§GЩелкните§!, чтобы добавить корабль в очередь ремонта."
- #REFIT_TOOLTIP: "§HRefit Ships§!\nRefit the selected ships to a different compatible ship design." #NT!
+ #REFIT_TOOLTIP: "§HRefit Ships§!\nRefit the selected ships to a different compatible ship design." 
  SHIP_REFIT_TOOLTIP: "§HПеревооружение кораблей§!\nПеревооружить выбранные корабли в соответствии с другими совместимыми проектами кораблей."
  SHIP_REFIT_NO_SHIPS_TOOLTIP: "§RНи один из кораблей сейчас не выбран.§!"
  SHIP_REFIT_NO_COMPATIBLE_DESIGNS_TOOLTIP: "§RНет подходящих проектов, которые можно использовать для перевооружения выбранных кораблей.§!"
  SHIP_REFIT_UPGRADE_TOOLTIP: "§HМодернизация корабля§!\nПеревооружить этот корабль для использования улучшенного проекта."
- SHIP_REFIT_TOOLTIP_DELAYED: "After choosing the target ship design, selected ships will detach as a separate §HTask Force§! and return to a nearby §HNaval Port§! for refitting.  While refitting, progress can be tracked in the production window.\n\nThey will come back to their current §HTask Force§! once refitting is complete.\n\n§GShift + Click§! to select multiple ships.\n§GCtrl + Click§! to toggle ship selection." #NT!
+ SHIP_REFIT_TOOLTIP_DELAYED: "After choosing the target ship design, selected ships will detach as a separate §HTask Force§! and return to a nearby §HNaval Port§! for refitting.  While refitting, progress can be tracked in the production window.\n\nThey will come back to their current §HTask Force§! once refitting is complete.\n\n§GShift + Click§! to select multiple ships.\n§GCtrl + Click§! to toggle ship selection." 
  SHIP_REFIT_CANCEL_TOOLTIP: "§RОтменить§! перевооружение."
  SHIP_REFIT_CANCEL_TOOLTIP_DELAYED: "Корабли вернутся к своему первоначальному оперативному соединению и продолжат выполнение предыдущего задания."
  SHIP_REFIT_IN_PROGRESS_TOOLTIP: "Этот корабль сейчас перевооружают в соответствии с проектом $VARIANT_NAME|H$."
@@ -1469,11 +1469,11 @@
  SHIP_REINFORCING: "Пополняет: $TARGET|Y$"
  SHIP_REPAIR_PROGRESS: "Ремонт: $PROGRESS|Y%1$"
  SHIP_REFIT_CONFIRM_TITLE: "Перевооружение кораблей"
- SHIP_REFIT_CONFIRM_DESCRIPTION: "§HRefit the selected ships ($COUNT$) to the ship design $VARIANT_NAME|H$.§!\n\nThe ships will return to a nearby §HNaval Port§! and will be locked there until the process is complete.  With maximum §HDockyards§! assigned, this will take up to $DAYS|H$ days to complete.\n\nIf the §HNaval Port§! where they are being refit is bombed, their production progress will be reduced.  If captured, the ships will be lost to the enemy.\n\nAre you sure you want to refit?" #NT!
+ SHIP_REFIT_CONFIRM_DESCRIPTION: "§HRefit the selected ships ($COUNT$) to the ship design $VARIANT_NAME|H$.§!\n\nThe ships will return to a nearby §HNaval Port§! and will be locked there until the process is complete.  With maximum §HDockyards§! assigned, this will take up to $DAYS|H$ days to complete.\n\nIf the §HNaval Port§! where they are being refit is bombed, their production progress will be reduced.  If captured, the ships will be lost to the enemy.\n\nAre you sure you want to refit?" 
  SHIP_OPEN_TASKFORCE_COMPOSITION_EDITOR: "Создать новое ударное соединение с нуля"
- #RESEARCH_WITH_XP: "Research with XP" #NT!
- #DLC_IS_NOT_ENABLED: "$DLC|Y$ is not enabled." #NT!
- #SAVED_GAME_RULES_DLC_MISSING: "Missing DLCs:\n" #NT!
+ #RESEARCH_WITH_XP: "Research with XP" 
+ #DLC_IS_NOT_ENABLED: "$DLC|Y$ is not enabled." 
+ #SAVED_GAME_RULES_DLC_MISSING: "Missing DLCs:\n" 
  SHIP_TYPE_DESC: "$TYPE$ ($VARIANT$)"
  EXP_DAILY_GAIN: "Ежедневный прирост опыта: $EXP|Y%2$"
  CAN_USE_ROCKET_SITES_FOR_NUKES: "Может применять ракеты для ядерных ударов."
@@ -1534,116 +1534,116 @@
  owned: "Во владении:"
  CHAT: "Чат:"
  FORT: "Укрепление"
- #FUEL_TITLE: "§HFuel§!" #NT!
- #FUEL: "Fuel" #NT!
- #CURRENT_FUEL: "Current Fuel: $NUM|H$" #NT!
- #FUEL_DAILY: "$AMOUNT|H$/day" #NT!
- #FUEL_DAILY_GAIN_NON_OIL_ONLY: "Daily Gain: $NUM|H$" #NT!
- #FUEL_DAILY_GAIN_OIL_ONLY: "Daily Gain: $NUM|H$ (from $OIL|H$£resources_strip|1 )" #NT!
- #FUEL_DAILY_GAIN: "Daily Gain: $NUM|H$" #NT!
- #FUEL_DAILY_GAIN_BASE: "Base Gain: $NUM|H$" #NT!
- #FUEL_DAILY_GAIN_FROM_STATES: "From Refineries: $NUM|H$" #NT!
- #FUEL_DAILY_GAIN_FROM_OIL: "From $OIL$£resources_strip|1 : $NUM|H$" #NT!
- #FUEL_CAPACITY: "Fuel Capacity: $NUM|H$" #NT!
- #DAILY_FUEL_CONSUMPTION: "Active Consumption: $NUM|H$" #NT!
- #DAILY_FUEL_CONSUMPTION_MAX: "Potential Consumption: $NUM|H$" #NT!
- #DAILY_FUEL_CONSUMPTION_WITH_RECEIVED: "Active Consumption: $NUM|H$ §R(Received: $NUM2|%.0$)§!" #NT!
- #OUT_OF_FUEL_INFO: "With current consumption rates, you will be out of fuel in $DUR|R$" #NT!
- #FUEL_GAIN_BY_STATES_FACTOR_TOOLTIP: "Fuel Gain will be modified by $FACTOR|+%.0$ to a total of $TOTAL|.2H$" #NT!
- #MAX_FUEL_BY_STATES_FACTOR_TOOLTIP: "Fuel Capacity will be modified by $FACTOR|+%.0$ to a total of $TOTAL|.2H$" #NT!
- #FUEL_CAPACITY_FILL_INFO: "With current production rate, you will fill your fuel capacity in $DUR|G$" #NT!
- #DURATION_DAYS: "$NUM|.0$ days" #NT!
- #DURATION_MONTHS: "$NUM|.1$ months" #NT!
- #DURATION_YEARS: "$NUM|.1$ years" #NT!
- #FUEL_STOCKPILE_MAX_SHORT: "§GFull§!" #NT!
- #FUEL_STOCKPILE_EMPTY_SHORT: "§R0§!" #NT!
- #FUEL_STOCKPILE_MAX: "§GStockpile is full.§!" #NT!
- #FUEL_STOCKPILE_EMPTY: "§RStockpile is empty.§!" #NT!
- #OTHER_FUEL_CONSUMPTION: "Other Active Consumption: $NUM|H$" #NT!
- #FUEL_REQUIRED: "Required: $NUM|H$" #NT!
- #FUEL_REQUIRED_WITH_RECEIVED: "Required: $NUM|H$ §R(Received: $NUM2$)§!" #NT!
- #FUEL_REQUIRED_WITH_RECEIVED_PERC: "Required: $NUM|H$ §R(Received: $NUM2|%.0$)§!" #NT!
- #FUEL_DAILY_REQUIRED: "Current consumption: $NUM|H$/day" #NT!
- #FUEL_DAILY_REQUIRED_AND_RECEIVED: "Current requirements: $REQUIRED|H$/day §R(received: $RECEIVED$/day)§!" #NT!
- #FUEL_DAILY_REQUIRED_MAX: "Maximum consumption: $NUM|H$/day" #NT!
- #FUEL_DAILY_REQUIRED_MAX_DESC_NAVY: "The consumption will vary based on the current activity. It will reach the maximum consumption while in combat." #NT!
- #FUEL_TOTAL_REQUIRED: "Total Required: $NUM|H$" #NT!
- #FUEL_TOTAL_REQUIRED_WITH_RECEIVED: "Total Required: $NUM|H$ §R(Received: $NUM2$)§!" #NT!
- #FUEL_TOTAL_REQUIRED_WITH_RECEIVED_PERC: "Total Required: $NUM|H$ §R(Received: $NUM2|%.0$)§!" #NT!
- #FUEL_SUPPORTED: "Supported: $NUM|H$" #NT!
- #FUEL_DESC: "§HFuel§! is generated by your country's excess oil. Each country has a maximum capacity for §HFuel§! which can be increased by building §HSilos§!. §HFuel§! is used by tanks/mechanized units, ships and planes and it is delivered using §HSupply Lines§!." #NT!
- #LACK_OF_FUEL: "Lack of Fuel: $VAL|%0R$" #NT!
- #FUEL_STOCKPILE_HEADER: "\n§HFuel Stockpile Capacity: $NUM$§!" #NT!
- #BASE_FUEL_CAPACITY: "Base: $NUM|H$" #NT!
- #FUEL_CAPACITY_FROM_STATES: "In states: $NUM|H$" #NT!
- #REGION_WITH_NO_PATROL: "§RYour fleets does not have enough active patrol forces to cover this area.§!" #NT!
- #AGRESSIVE_MISSION_WITH_NO_AGGRESSIVENESS: "§R$NAME|H$ is on §HDo Not Engage§! setting.§!" #NT!
- #TOO_MANY_REGIONS_FOR_CONVOY_RAID: "§R$NAME|H$ can only cover at most $NUM|H$ regions efficiently for convoy raiding. Their efficiency is lowered to $EFFICIENCY|%.0H$.§!" #NT!
- #CONVOY_RAID_EFFICIENCY_DESC: "$NAME|H$ can only cover at most $NUM|H$ regions efficiently for convoy raiding and currently can cover all regions at maximum efficiency." #NT!
- #TOO_MANY_REGIONS_FOR_CONVOY_RAID_DETAILED: "At lower efficiencies, convoy raid fleets will have a harder time at spotting enemy convoys and will take time to join combat." #NT!
- #TOO_MANY_CONVOYS_FOR_CONVOY_ESCORT: "§R$NAME|H$ can only cover at most $NUM|H$ convoys efficiently for convoy escorting. Their efficiency is lowered to $EFFICIENCY|%.0H$.§!" #NT!
- #TOO_MANY_CONVOYS_FOR_CONVOY_ESCORT_DETAILED: "At lower efficiencies, convoy escort fleets will not be able to fully cover for all convoys and less ships will be available at the start of combat if they are spotted." #NT!
- #CONVOY_DEFENSE_EFFICIENCY_DESC: "$NAME|H$ can only cover at most $NUM|H$ convoys efficiently for convoy escorting and currently can cover all convoys at maximum efficiency." #NT!
- #FACTION_LEADER_CAPITULATED_HEADER: "Faction Leadership" #NT!
- #FACTION_LEADER_CAPITULATED_WE_ARE_NEW_LEADER: "After the capitulation of $OLDLEADER|H$ we are now the leader of $FACTION|H$." #NT!
- #RESEARCH_WITH_XP_TEXT: "Spend $XP_TEXT$" #NT!
- #RESEARCH_WITH_XP_TEXT_TOOLTIP: "Spend $XP_TEXT$ to gain $NUM|+%.0$ bonus during research." #NT!
- #RESEARCH_TECH_IS_ALREADY_BOOSTED_BY_XP: "Technology is already boosted by XP" #NT!
- #RESEARCH_NOT_ENOUGH_XP_TO_BOOST: "§RYou don't have enough experience to boost this research.§!" #NT!
- #RESEARCH_XP_BOOST_TOOLTIP: "Experience Boost: $VAL|+%0H$" #NT!
- #RESEARCH_ONE_TIME_BONUS: "Limited Use Bonus: $VAL|+%0H$" #NT!
- #RESEARCH_GLOBAL_BONUS: "Research Speed Bonus: $VAL|+%0H$" #NT!
- #RESEARCH_TOTAL_BONUS: "Research Speed: $VAL$" #NT!
- #RESEARCH_ARMY_EXPERIENCE: "$VALUE|.0Y$£army_experience " #NT!
- #RESEARCH_NAVY_EXPERIENCE: "$VALUE|.0Y$£navy_experience " #NT!
- #RESEARCH_AIR_EXPERIENCE: "$VALUE|.0Y$£air_experience " #NT!
- #RESEARCH_AHEAD_OF_TIME_YEARS: "$VAL|.1Y$ years" #NT!
- #REQUEST_EXPEDITIONARIES: "Request Expeditionaries" #NT!
- #TOTAL_UNITS: "Total Units:" #NT!
- #MOVING: "Moving" #NT!
- #QUEUED: "In Queue" #NT!
- #FINISHED: "Finished" #NT!
- #NAVAL_ACCESS: "Access" #NT!
- #SUPREMACY_DETAILS: "§HNaval Supremacy§! is calculated using sum of total supremacy of friendly ships in the region against enemy total supremacy.\n\nTotal supremacy of a navy depends on what type of mission it is running, how effective it is on the region, how many ships it has and how large they are.\n\n" #NT!
- #REPAIR_ASSIGNMENT_INFO: "This is the maximum numbers of §HDockyards§! that can be assigned to ship repairs." #NT!
- #TOO_MANY_SHIPS_TO_REPAIR: "§RThe Naval Port capacity is too low to repair all ships waiting in queue.§!" #NT!
- #TOO_MANY_SHIPS_TO_REPAIR_NO_DOCKYARDS: "§RYou don't have enough dockyards allocated for repairs to use the full capacity of the naval port.§!" #NT!
- #SHIPS_THAT_AR_BEING_REPAIRED_IN_ALLY_INFO: "Ships that are being repaired in another ally's naval port will use their dockyards for repairs." #NT!
- #DOCKYARD_REPAIR_INFO: "There are $CUR|H$ ships awaiting repairs.\nThis §YNaval Port§! can support at most $MAX|H$ simultaneous repairs." #NT!
- #NAVAL_REPAIR_QUEUE_DOCKYARD_SHIP_TOOLTIP: "Currently there are $NUM|H$ ships are queued for repairs in this Naval Port." #NT!
- #NAVAL_REPAIR_QUEUE_DOCKYARD_TOOLTIP: "§GClick§! to toggle list of ship queue\n§GRight-click§! to pan to Naval Port" #NT!
- #NAVAL_REPAIR_QUEUE_SHIP_TOOLTIP: "§GDrag and Drop§! to move ship within repair queue or to assign it to another Naval Port" #NT!
- #NAVAL_REPAIR_QUEUE_SHIP_TASKFORCE_TOOLTIP: "§GClick§! to select taskforce of this ship" #NT!
- #NAVAL_REPAIR_BUTTON_INFO: "§HNaval Repair Queue§!\n\n§GClick§! to toggle Naval Repair Queue and edit the repair lines." #NT!
- #WILL_BE_REMOVED: "Remaining Days: $NUM|H$" #NT!
- #OFF_REPAIRING: "Off repairing" #NT!
- #OFF_REFITTING: "Off refitting" #NT!
- #MERGING: "Merging" #NT!
- #REFIT: "Refit" #NT!
- #REFIT_TOOLTIP: "Send ships to a naval port to refit them to the selected design." #NT!
- #REFIT_CANCEL: "Cancel" #NT!
- #REFIT_DESCRIPTION: "Refit selected ships ($COUNT$) to the design below:" #NT!
- #REFIT_NO_SHARED_MATCHES: "§RThere is no existing ship design to which all of the selected ships can be refit.§!\n\nCreate a new ship design or narrow your selection to similar ships only." #NT!
- #WEEKLY_CHANGE_NUM: "(Weekly: $NUM|+%.2$)" #NT!
- #COMBAT_MAP_ICON_CONVOY_FREIGHT_ENTRY: "$FLAG$ $COUNT|H$ Freight convoys" #NT!
- #COMBAT_MAP_ICON_CONVOY_DIVISIONS_ENTRY: "$FLAG$ $COUNT|H$ Troop convoys" #NT!
- #OIL_NEED_TEXT: "C:\nM:" #NT!
- #YEAR_UNIT_SHORT: "y" #NT!
- #DAY_UNIT_SHORT: "d" #NT!
- #USE_FLEET_COLOR: "Use fleet's color" #NT!
- #FLEET_ACTIVE_ONLY_TASKFORCE_DESCRIPTION: "$FLEET_NAME|H$ has $NUM|H$ active taskforces. " #NT!
- #FLEET_TASKFORCE_DESCRIPTION: "$FLEET_NAME|H$ has $NUM|H$ active and $NUM_2|H$ non-active taskforces. " #NT!
- #FLEET_MAX_TASKFORCE_DESCRIPTION: "$ADMIRAL|H$ can lead at most $NUM|H$ active taskforces." #NT!
- #FLEET_OVERCAPACITY_DESCRIPTION: "Over capacity status of your fleet will reduce the admiral's effectiveness to $VALUE|%.0R$" #NT!
- #TEMPORARILY_DETACHED: "§HTemporarily Detached:§!" #NT!
- #MODIFIED_BY: "§HModified by:§!" #NT!
+ #FUEL_TITLE: "§HFuel§!" 
+ #FUEL: "Fuel" 
+ #CURRENT_FUEL: "Current Fuel: $NUM|H$" 
+ #FUEL_DAILY: "$AMOUNT|H$/day" 
+ #FUEL_DAILY_GAIN_NON_OIL_ONLY: "Daily Gain: $NUM|H$" 
+ #FUEL_DAILY_GAIN_OIL_ONLY: "Daily Gain: $NUM|H$ (from $OIL|H$£resources_strip|1 )" 
+ #FUEL_DAILY_GAIN: "Daily Gain: $NUM|H$" 
+ #FUEL_DAILY_GAIN_BASE: "Base Gain: $NUM|H$" 
+ #FUEL_DAILY_GAIN_FROM_STATES: "From Refineries: $NUM|H$" 
+ #FUEL_DAILY_GAIN_FROM_OIL: "From $OIL$£resources_strip|1 : $NUM|H$" 
+ #FUEL_CAPACITY: "Fuel Capacity: $NUM|H$" 
+ #DAILY_FUEL_CONSUMPTION: "Active Consumption: $NUM|H$" 
+ #DAILY_FUEL_CONSUMPTION_MAX: "Potential Consumption: $NUM|H$" 
+ #DAILY_FUEL_CONSUMPTION_WITH_RECEIVED: "Active Consumption: $NUM|H$ §R(Received: $NUM2|%.0$)§!" 
+ #OUT_OF_FUEL_INFO: "With current consumption rates, you will be out of fuel in $DUR|R$" 
+ #FUEL_GAIN_BY_STATES_FACTOR_TOOLTIP: "Fuel Gain will be modified by $FACTOR|+%.0$ to a total of $TOTAL|.2H$" 
+ #MAX_FUEL_BY_STATES_FACTOR_TOOLTIP: "Fuel Capacity will be modified by $FACTOR|+%.0$ to a total of $TOTAL|.2H$" 
+ #FUEL_CAPACITY_FILL_INFO: "With current production rate, you will fill your fuel capacity in $DUR|G$" 
+ #DURATION_DAYS: "$NUM|.0$ days" 
+ #DURATION_MONTHS: "$NUM|.1$ months" 
+ #DURATION_YEARS: "$NUM|.1$ years" 
+ #FUEL_STOCKPILE_MAX_SHORT: "§GFull§!" 
+ #FUEL_STOCKPILE_EMPTY_SHORT: "§R0§!" 
+ #FUEL_STOCKPILE_MAX: "§GStockpile is full.§!" 
+ #FUEL_STOCKPILE_EMPTY: "§RStockpile is empty.§!" 
+ #OTHER_FUEL_CONSUMPTION: "Other Active Consumption: $NUM|H$" 
+ #FUEL_REQUIRED: "Required: $NUM|H$" 
+ #FUEL_REQUIRED_WITH_RECEIVED: "Required: $NUM|H$ §R(Received: $NUM2$)§!" 
+ #FUEL_REQUIRED_WITH_RECEIVED_PERC: "Required: $NUM|H$ §R(Received: $NUM2|%.0$)§!" 
+ #FUEL_DAILY_REQUIRED: "Current consumption: $NUM|H$/day" 
+ #FUEL_DAILY_REQUIRED_AND_RECEIVED: "Current requirements: $REQUIRED|H$/day §R(received: $RECEIVED$/day)§!" 
+ #FUEL_DAILY_REQUIRED_MAX: "Maximum consumption: $NUM|H$/day" 
+ #FUEL_DAILY_REQUIRED_MAX_DESC_NAVY: "The consumption will vary based on the current activity. It will reach the maximum consumption while in combat." 
+ #FUEL_TOTAL_REQUIRED: "Total Required: $NUM|H$" 
+ #FUEL_TOTAL_REQUIRED_WITH_RECEIVED: "Total Required: $NUM|H$ §R(Received: $NUM2$)§!" 
+ #FUEL_TOTAL_REQUIRED_WITH_RECEIVED_PERC: "Total Required: $NUM|H$ §R(Received: $NUM2|%.0$)§!" 
+ #FUEL_SUPPORTED: "Supported: $NUM|H$" 
+ #FUEL_DESC: "§HFuel§! is generated by your country's excess oil. Each country has a maximum capacity for §HFuel§! which can be increased by building §HSilos§!. §HFuel§! is used by tanks/mechanized units, ships and planes and it is delivered using §HSupply Lines§!." 
+ #LACK_OF_FUEL: "Lack of Fuel: $VAL|%0R$" 
+ #FUEL_STOCKPILE_HEADER: "\n§HFuel Stockpile Capacity: $NUM$§!" 
+ #BASE_FUEL_CAPACITY: "Base: $NUM|H$" 
+ #FUEL_CAPACITY_FROM_STATES: "In states: $NUM|H$" 
+ #REGION_WITH_NO_PATROL: "§RYour fleets does not have enough active patrol forces to cover this area.§!" 
+ #AGRESSIVE_MISSION_WITH_NO_AGGRESSIVENESS: "§R$NAME|H$ is on §HDo Not Engage§! setting.§!" 
+ #TOO_MANY_REGIONS_FOR_CONVOY_RAID: "§R$NAME|H$ can only cover at most $NUM|H$ regions efficiently for convoy raiding. Their efficiency is lowered to $EFFICIENCY|%.0H$.§!" 
+ #CONVOY_RAID_EFFICIENCY_DESC: "$NAME|H$ can only cover at most $NUM|H$ regions efficiently for convoy raiding and currently can cover all regions at maximum efficiency." 
+ #TOO_MANY_REGIONS_FOR_CONVOY_RAID_DETAILED: "At lower efficiencies, convoy raid fleets will have a harder time at spotting enemy convoys and will take time to join combat." 
+ #TOO_MANY_CONVOYS_FOR_CONVOY_ESCORT: "§R$NAME|H$ can only cover at most $NUM|H$ convoys efficiently for convoy escorting. Their efficiency is lowered to $EFFICIENCY|%.0H$.§!" 
+ #TOO_MANY_CONVOYS_FOR_CONVOY_ESCORT_DETAILED: "At lower efficiencies, convoy escort fleets will not be able to fully cover for all convoys and less ships will be available at the start of combat if they are spotted." 
+ #CONVOY_DEFENSE_EFFICIENCY_DESC: "$NAME|H$ can only cover at most $NUM|H$ convoys efficiently for convoy escorting and currently can cover all convoys at maximum efficiency." 
+ #FACTION_LEADER_CAPITULATED_HEADER: "Faction Leadership" 
+ #FACTION_LEADER_CAPITULATED_WE_ARE_NEW_LEADER: "After the capitulation of $OLDLEADER|H$ we are now the leader of $FACTION|H$." 
+ #RESEARCH_WITH_XP_TEXT: "Spend $XP_TEXT$" 
+ #RESEARCH_WITH_XP_TEXT_TOOLTIP: "Spend $XP_TEXT$ to gain $NUM|+%.0$ bonus during research." 
+ #RESEARCH_TECH_IS_ALREADY_BOOSTED_BY_XP: "Technology is already boosted by XP" 
+ #RESEARCH_NOT_ENOUGH_XP_TO_BOOST: "§RYou don't have enough experience to boost this research.§!" 
+ #RESEARCH_XP_BOOST_TOOLTIP: "Experience Boost: $VAL|+%0H$" 
+ #RESEARCH_ONE_TIME_BONUS: "Limited Use Bonus: $VAL|+%0H$" 
+ #RESEARCH_GLOBAL_BONUS: "Research Speed Bonus: $VAL|+%0H$" 
+ #RESEARCH_TOTAL_BONUS: "Research Speed: $VAL$" 
+ #RESEARCH_ARMY_EXPERIENCE: "$VALUE|.0Y$£army_experience " 
+ #RESEARCH_NAVY_EXPERIENCE: "$VALUE|.0Y$£navy_experience " 
+ #RESEARCH_AIR_EXPERIENCE: "$VALUE|.0Y$£air_experience " 
+ #RESEARCH_AHEAD_OF_TIME_YEARS: "$VAL|.1Y$ years" 
+ #REQUEST_EXPEDITIONARIES: "Request Expeditionaries" 
+ #TOTAL_UNITS: "Total Units:" 
+ #MOVING: "Moving" 
+ #QUEUED: "In Queue" 
+ #FINISHED: "Finished" 
+ #NAVAL_ACCESS: "Access" 
+ #SUPREMACY_DETAILS: "§HNaval Supremacy§! is calculated using sum of total supremacy of friendly ships in the region against enemy total supremacy.\n\nTotal supremacy of a navy depends on what type of mission it is running, how effective it is on the region, how many ships it has and how large they are.\n\n" 
+ #REPAIR_ASSIGNMENT_INFO: "This is the maximum numbers of §HDockyards§! that can be assigned to ship repairs." 
+ #TOO_MANY_SHIPS_TO_REPAIR: "§RThe Naval Port capacity is too low to repair all ships waiting in queue.§!" 
+ #TOO_MANY_SHIPS_TO_REPAIR_NO_DOCKYARDS: "§RYou don't have enough dockyards allocated for repairs to use the full capacity of the naval port.§!" 
+ #SHIPS_THAT_AR_BEING_REPAIRED_IN_ALLY_INFO: "Ships that are being repaired in another ally's naval port will use their dockyards for repairs." 
+ #DOCKYARD_REPAIR_INFO: "There are $CUR|H$ ships awaiting repairs.\nThis §YNaval Port§! can support at most $MAX|H$ simultaneous repairs." 
+ #NAVAL_REPAIR_QUEUE_DOCKYARD_SHIP_TOOLTIP: "Currently there are $NUM|H$ ships are queued for repairs in this Naval Port." 
+ #NAVAL_REPAIR_QUEUE_DOCKYARD_TOOLTIP: "§GClick§! to toggle list of ship queue\n§GRight-click§! to pan to Naval Port" 
+ #NAVAL_REPAIR_QUEUE_SHIP_TOOLTIP: "§GDrag and Drop§! to move ship within repair queue or to assign it to another Naval Port" 
+ #NAVAL_REPAIR_QUEUE_SHIP_TASKFORCE_TOOLTIP: "§GClick§! to select taskforce of this ship" 
+ #NAVAL_REPAIR_BUTTON_INFO: "§HNaval Repair Queue§!\n\n§GClick§! to toggle Naval Repair Queue and edit the repair lines." 
+ #WILL_BE_REMOVED: "Remaining Days: $NUM|H$" 
+ #OFF_REPAIRING: "Off repairing" 
+ #OFF_REFITTING: "Off refitting" 
+ #MERGING: "Merging" 
+ #REFIT: "Refit" 
+ #REFIT_TOOLTIP: "Send ships to a naval port to refit them to the selected design." 
+ #REFIT_CANCEL: "Cancel" 
+ #REFIT_DESCRIPTION: "Refit selected ships ($COUNT$) to the design below:" 
+ #REFIT_NO_SHARED_MATCHES: "§RThere is no existing ship design to which all of the selected ships can be refit.§!\n\nCreate a new ship design or narrow your selection to similar ships only." 
+ #WEEKLY_CHANGE_NUM: "(Weekly: $NUM|+%.2$)" 
+ #COMBAT_MAP_ICON_CONVOY_FREIGHT_ENTRY: "$FLAG$ $COUNT|H$ Freight convoys" 
+ #COMBAT_MAP_ICON_CONVOY_DIVISIONS_ENTRY: "$FLAG$ $COUNT|H$ Troop convoys" 
+ #OIL_NEED_TEXT: "C:\nM:" 
+ #YEAR_UNIT_SHORT: "y" 
+ #DAY_UNIT_SHORT: "d" 
+ #USE_FLEET_COLOR: "Use fleet's color" 
+ #FLEET_ACTIVE_ONLY_TASKFORCE_DESCRIPTION: "$FLEET_NAME|H$ has $NUM|H$ active taskforces. " 
+ #FLEET_TASKFORCE_DESCRIPTION: "$FLEET_NAME|H$ has $NUM|H$ active and $NUM_2|H$ non-active taskforces. " 
+ #FLEET_MAX_TASKFORCE_DESCRIPTION: "$ADMIRAL|H$ can lead at most $NUM|H$ active taskforces." 
+ #FLEET_OVERCAPACITY_DESCRIPTION: "Over capacity status of your fleet will reduce the admiral's effectiveness to $VALUE|%.0R$" 
+ #TEMPORARILY_DETACHED: "§HTemporarily Detached:§!" 
+ #MODIFIED_BY: "§HModified by:§!" 
  SYSTEM_SERVER_LOST: "Сервер потерян"
  FE_CUSTOM_DIFFUCULTY: "Сложность по выбору"
  GARRISON_ORDER_CONF: "Оборона (мин. дивизий: $REQ_DIVS|Y$)"
  UNITS_VIEW_BTN_DRAW_BLITZ: "§HПрорыв§!\n§GНажмите и удерживайте правую кнопку мыши§! на карте, чтобы нарисовать §Yлинию прорыва§!.\nЛинии можно рисовать только на территории, которую вы прикрепили к §Hлинии фронта§! или §Hморскому вторжению§!.\n\nВ отличие от §Yлинии наступления§!, в ходе §Yпрорыва§! войска будут активно пытаться захватить все провинции, существовавшие в тот момент, когда вы нарисовали линию, без учета последующих изменений. §YПрорыв§! полезен, если вы хотите создать несколько пересекающихся блокадных колец, чтобы отрезать противника или нанести серию быстрых ударов по вражеской территории."
  UNITS_VIEW_BTN_DRAW_BLITZ_FRONT_LINE_FIRST: "§RВам нужно сначала создать линию фронта.§!"
  GARRISON_CONF_VP: "Защищать победные очки"
- GARRISON_CONF_PORT: "Guard Naval Ports" #NT!
+ GARRISON_CONF_PORT: "Guard Naval Ports" 
  GARRISON_CONF_COAST: "Защищать береговую линию"
  GARRISON_CONF_FORT: "Защищать укрепления"
  GARRISON_CONF_AIRBASE: "Защищать авиабазы"
@@ -1747,7 +1747,7 @@
  SHORTCUT_SAVED: "Быстрая клавиша сохранена"
  cold_climate: "Акклиматизация к холоду"
  hot_climate: "Акклиматизация к жаре"
- wet_climate: "Wet acclimatization" #NT!
+ wet_climate: "Wet acclimatization" 
  ACCLIMATIZATION: "Акклиматизация"
  ACCLIMATIZATION_GAIN_ENTRY_YES: "£trigger_yes"
  ACCLIMATIZATION_GAIN_ENTRY_NO: "£trigger_no"
@@ -1891,13 +1891,13 @@
  NAVAL_ACCESS: "Доступ"
  SUPREMACY_DETAILS: "§HПревосходство на море§! рассчитывается с учетом суммы общего превосходства союзных кораблей в регионе против общего превосходства противника.\n\nОбщее превосходство флота зависит от того, какое задание он выполняет, насколько эффективен он в регионе, сколько в нем кораблей и насколько они крупны.\n\n"
  REPAIR_ASSIGNMENT_INFO: "Это максимальное количество §Hверфей§!, которые можно выделить для ремонта кораблей."
- TOO_MANY_SHIPS_TO_REPAIR: "§RThe Naval Port capacity is too low to repair all ships waiting in queue.§!" #NT!
- TOO_MANY_SHIPS_TO_REPAIR_NO_DOCKYARDS: "§RYou don't have enough dockyards allocated for repairs to use the full capacity of the naval port.§!" #NT!
- SHIPS_THAT_AR_BEING_REPAIRED_IN_ALLY_INFO: "Ships that are being repaired in another ally's naval port will use their dockyards for repairs." #NT!
- DOCKYARD_REPAIR_INFO: "There are $CUR|H$ ships awaiting repairs.\nThis §YNaval Port§! can support at most $MAX|H$ simultaneous repairs." #NT!
- NAVAL_REPAIR_QUEUE_DOCKYARD_SHIP_TOOLTIP: "Currently there are $NUM|H$ ships are queued for repairs in this Naval Port." #NT!
- NAVAL_REPAIR_QUEUE_DOCKYARD_TOOLTIP: "§GClick§! to toggle list of ship queue\n§GRight-click§! to pan to Naval Port" #NT!
- NAVAL_REPAIR_QUEUE_SHIP_TOOLTIP: "§GDrag and Drop§! to move ship within repair queue or to assign it to another Naval Port" #NT!
+ TOO_MANY_SHIPS_TO_REPAIR: "§RThe Naval Port capacity is too low to repair all ships waiting in queue.§!" 
+ TOO_MANY_SHIPS_TO_REPAIR_NO_DOCKYARDS: "§RYou don't have enough dockyards allocated for repairs to use the full capacity of the naval port.§!" 
+ SHIPS_THAT_AR_BEING_REPAIRED_IN_ALLY_INFO: "Ships that are being repaired in another ally's naval port will use their dockyards for repairs." 
+ DOCKYARD_REPAIR_INFO: "There are $CUR|H$ ships awaiting repairs.\nThis §YNaval Port§! can support at most $MAX|H$ simultaneous repairs." 
+ NAVAL_REPAIR_QUEUE_DOCKYARD_SHIP_TOOLTIP: "Currently there are $NUM|H$ ships are queued for repairs in this Naval Port." 
+ NAVAL_REPAIR_QUEUE_DOCKYARD_TOOLTIP: "§GClick§! to toggle list of ship queue\n§GRight-click§! to pan to Naval Port" 
+ NAVAL_REPAIR_QUEUE_SHIP_TOOLTIP: "§GDrag and Drop§! to move ship within repair queue or to assign it to another Naval Port" 
  NAVAL_REPAIR_QUEUE_SHIP_TASKFORCE_TOOLTIP: "§GЩелкните§!, чтобы выбрать оперативное соединение этого корабля"
  NAVAL_REPAIR_QUEUE_EXPAND_COLLAPSE_ALL: "§GЩелкните§!, чтобы развернуть или свернуть все очереди."
  NAVAL_REPAIR_BUTTON_INFO: "§HОчередь ремонта кораблей§!\n§GЩелкните§!, чтобы просмотреть очередь ремонта кораблей и отредактировать список."
@@ -1906,7 +1906,7 @@
  OFF_REFITTING: "На перевооружении"
  MERGING: "Объединяется"
  REFIT: "Перевооружение"
- REFIT_TOOLTIP: "Send ships to a naval port to refit them to the selected design." #NT!
+ REFIT_TOOLTIP: "Send ships to a naval port to refit them to the selected design." 
  REFIT_CANCEL: "Отменить"
  REFIT_DESCRIPTION: "Перевооружить выбранные корабли ($COUNT$) по указанному ниже плану:"
  REFIT_NO_SHARED_MATCHES: "§RУ вас нет проекта корабля для перевооружения всех выбранных кораблей.§!\n\nСоздайте новый проект корабля или выберите только схожие корабли."
@@ -1952,7 +1952,7 @@
  MAP_MODE_CLICK_INFO: "§GЩёлкните ЛКМ§!, чтобы изменить режим карты."
  MAP_MODE_ASSIGN_INFO: "§GЩёлкните ЛКМ§!, чтобы назначить режим «$NEW_MAP_MODE|H$» на кнопку $OLD_MAP_MODE_KEY$ $OLD_MAP_MODE|H$ и закрыть это меню.\n§GЩёлкните ПКМ§!, чтобы назначить режим, не закрывая меню."
  MAP_LOADING_ERROR_TITLE: "Не удалось загрузить карту"
- MAP_LOADING_ERROR_INTRO: "Some errors are present in the map definition and have been logged to error.log\n\n" #NT!
+ MAP_LOADING_ERROR_INTRO: "Some errors are present in the map definition and have been logged to error.log\n\n" 
  MAP_LOADING_ERROR_GENERAL_MITIGATION_PRELUDE: "Рекомендуем отключить моды и повторить попытку.\n"
  MAP_LOADING_ERROR_MITIGATION_STEAM: "Если это не поможет, проверьте в Steam целостность игровых файлов.\n"
  MAP_LOADING_ERROR_MITIGATION_MSGR: ""
@@ -2008,7 +2008,7 @@
  SUPPLYMODE_TOOLTIP_CAPITAL_NODE_MILITARY: "От военных заводов: $SUPPLY|.1H$ £supply_texticon£"
  SUPPLYMODE_TOOLTIP_CAPITAL_NODE_DOCKYARDS: "От верфей: $SUPPLY|.1H$ £supply_texticon£"
  SUPPLYMODE_TOOLTIP_SUPPLY_NODE_HEADER: "§YЦентр снабжения§! в провинции $PROVINCE_NAME|H$:"
- SUPPLYMODE_TOOLTIP_NAVALBASE_NODE_HEADER: "§YNaval Port§! in $PROVINCE_NAME|H$, Level $LEVEL|H$:" #NT!
+ SUPPLYMODE_TOOLTIP_NAVALBASE_NODE_HEADER: "§YNaval Port§! in $PROVINCE_NAME|H$, Level $LEVEL|H$:" 
  SUPPLYMODE_TOOLTIP_FLOATINGHARBOR_NODE_HEADER: "§YПлавучая гавань§! в провинции $PROVINCE_NAME|H$:"
  SUPPLYMODE_TOOLTIP_FLOATINGHARBOR_EXPIRATION: "$DAYS|H$ д. до истощения"
  SUPPLYMODE_TOOLTIP_NODE_CONTROLLED_BY: "Контролируется государством $COUNTRY|H$"

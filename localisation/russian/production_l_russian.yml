@@ -57,7 +57,7 @@
  PRODUCTION_INFANTRY_BUTTON_DISABLED: "Техника для пехоты и артиллерии §Rне изобретена§!!"
  PRODUCTION_INFANTRY_BUTTON_NO_FACTORIES_DISABLED: "У нас §Rнет военных заводов!§!"
  PRODUCTION_AIRCRAFT_BUTTON: "Производство самолетов"
- #PRODUCTION_AIRCRAFT_BUTTON_NO_FACTORIES_DISABLED: "We have §RNo military factories§!!" #NT!
+ #PRODUCTION_AIRCRAFT_BUTTON_NO_FACTORIES_DISABLED: "We have §RNo military factories§!!" 
  PRODUCTION_AIRCRAFT_BUTTON_DISABLED: "Самолеты §Rне изобретены§!!"
  PRODUCTION_SHIPS_BUTTON: "Строительство кораблей"
  PRODUCTION_SHIPS_BUTTON_DISABLED: "Корабли §Rне изобретены§!!"
@@ -184,8 +184,8 @@
  CARRIER_AIR_WING_LIMIT_DESC: "Самолеты/вместимость авианосца"
  CARRIER_AIR_WING_LIMIT_DESC_UNDER: "§YЭтот авианосец заполнен не целиком§!"
  CARRIER_AIR_WING_LIMIT_DESC_OVER: "§RЭтот авианосец будет переполнен, а размещенные на нем авиакрылья получат штраф§!"
- CARRIER_AIR_WING_INCREASE: "Increase amount\n§GCtrl+click to increase by§! §H5§!\n§GShift+click to increase by§! §H10§!" #NT!
- CARRIER_AIR_WING_DECREASE: "Decrease amount\n§GCtrl+click to decrease by§! §H5§!\n§GShift+click to decrease by§! §H10§!" #NT!
+ CARRIER_AIR_WING_INCREASE: "Increase amount\n§GCtrl+click to increase by§! §H5§!\n§GShift+click to increase by§! §H10§!" 
+ CARRIER_AIR_WING_DECREASE: "Decrease amount\n§GCtrl+click to decrease by§! §H5§!\n§GShift+click to decrease by§! §H10§!" 
  PRODUCTION_ENTRY_NEW: "(новое)"
  PRODUCTION_ENTRY_OUTDATED: "(устаревшее)"
  PRODUCTION_LINE_CHANGE: "§GЩелкните, чтобы §Hизменить§! тип выпускаемой техники.\nВы сохраните часть эффективности, если переключитесь на новую версию той же техники.\n§!§RВесь прогресс этой линии будет утерян.§!"

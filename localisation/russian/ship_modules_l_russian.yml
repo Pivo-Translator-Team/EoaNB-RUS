@@ -1,6 +1,6 @@
 ﻿l_russian:
   ### EQUIPMENT MODULE CATEGORIES ### 
- EQ_MOD_CAT_ship_light_battery_TITLE: "Light Battery" #NT!
+ EQ_MOD_CAT_ship_light_battery_TITLE: "Light Battery" 
  EQ_MOD_CAT_ship_sub_snorkel_TITLE: "Шноркель"
  EQ_MOD_CAT_ship_torpedo_TITLE: "Торпедные аппараты"
  EQ_MOD_CAT_ship_airplane_launcher_TITLE: "Авиационное оборудование"
@@ -47,6 +47,6 @@
  EQ_MOD_SLOT_mid_3_custom_slot_TITLE: "Центр. 3 модиф."
  EQ_MOD_SLOT_rear_1_custom_slot_TITLE: "Корм. 1 модиф."
  EQ_MOD_SLOT_rear_2_custom_slot_TITLE: "Корм. 2 модиф."
- SHIP_DESIGNER_MODULE_SELECTION: "Select Module" #NT!
+ SHIP_DESIGNER_MODULE_SELECTION: "Select Module" 
   ### EQUIPMENT MODULES ### 
  YUG_ship_armor_cruiser_1: "50-мм пояс/25-мм палуба"

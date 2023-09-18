@@ -22,10 +22,10 @@
  EFFECT_ADD_TRADE_OPINION: "Торговые отношения с государством $TARGET|Y$ изменятся на $TRUST$."
  EFFECT_REVERSE_ADD_TRADE_OPINION: "Торговые отношения государства @$TAG$$TARGET|UY$ с ними изменятся на $TRUST$."
  EFFECT_REMOVE_TRADE_OPINION: "Торговые отношения с государством $TARGET|Y$ изменятся на $TRUST$."
- EFFECT_ADD_BUILDING_CONSTRUCTION: "Start construction of $NUMBER|Y$ $BUILDING|Y$." #NT!
- EFFECT_ADD_BUILDING_CONSTRUCTION_INSTANT: "Add $NUMBER|Y$ $BUILDING|Y$." #NT!
- EFFECT_ADD_BUILDING_CONSTRUCTION_PROVINCE: "Start construction of $NUMBER|Y$ $BUILDING|Y$ in a province in the state." #NT!
- EFFECT_ADD_BUILDING_CONSTRUCTION_INSTANT_PROVINCE: "Add $NUMBER|Y$ $BUILDING|Y$ in a province in the state." #NT!
+ EFFECT_ADD_BUILDING_CONSTRUCTION: "Start construction of $NUMBER|Y$ $BUILDING|Y$." 
+ EFFECT_ADD_BUILDING_CONSTRUCTION_INSTANT: "Add $NUMBER|Y$ $BUILDING|Y$." 
+ EFFECT_ADD_BUILDING_CONSTRUCTION_PROVINCE: "Start construction of $NUMBER|Y$ $BUILDING|Y$ in a province in the state." 
+ EFFECT_ADD_BUILDING_CONSTRUCTION_INSTANT_PROVINCE: "Add $NUMBER|Y$ $BUILDING|Y$ in a province in the state." 
  EFFECT_REMOVE_BUILDING: "Будет удалено $NUMBER|Y$ ед. сооружения $BUILDING|Y$ из региона $LOCATION|Y$."
  EFFECT_CREATE_FACTION: "Будет создан альянс $NAME|Y$."
  EFFECT_DISMANTLE_FACTION: "Будет распущен альянс $NAME|Y$."
@@ -60,7 +60,7 @@
  EFFECT_DECLARE_WAR: "Государство $NAME|UY$ объявит войну государству $COUNTRY|Y$."
  EFFECT_END_PUPPET: "Государство $NAME|UY$ уберет марионеточный режим из государства $COUNTRY|Y$."
  EFFECT_MANPOWER_ADD_COUNTRY: "Людские ресурсы: $VAL|+=0$."
- EFFECT_MANPOWER_ADD_STATE: "Manpower: $VAL|+=0$." #NT!
+ EFFECT_MANPOWER_ADD_STATE: "Manpower: $VAL|+=0$." 
  CHANGE_TAG_EFFECT: "Государство изменится на: $COUNTRY|Y$."
  EFFECT_REMOVE_IDEAS_WITH_TRAIT: "Все идеи $TRAIT$ будут убраны из государства $COUNTRY$."
  EFFECT_RELEASE_NATION: "Государство $COUNTRY|Y$ получит независимость."
@@ -77,8 +77,8 @@
  EFFECT_ADD_ARMY_EXPERIENCE: "Опыт армии: $VAL|=+0$."
  EFFECT_ADD_NAVY_EXPERIENCE: "Опыт флота: $VAL|=+0$."
  EFFECT_ADD_AIR_EXPERIENCE: "Опыт авиации: $VAL|=+0$."
- POLITICS_SET_POLITICAL_POWER: "Sets Legislative Power to $VAL|0Y$." #NT!
- POLITICS_ADD_POLITICAL_POWER: "Legislative Power: $VAL|=+0$." #NT!
+ POLITICS_SET_POLITICAL_POWER: "Sets Legislative Power to $VAL|0Y$." 
+ POLITICS_ADD_POLITICAL_POWER: "Legislative Power: $VAL|=+0$." 
  EFFECT_ADD_NUKE: "Добавить атомную бомбу: $VAL|=+0$."
  EFFECT_LAUNCH_NUKE_ON: "Сбросить атомную бомбу на: $STATE|H$."
  EFFECT_SET_FUEL: "Установить запас горючего в объеме $VAL|0Y$."
@@ -95,7 +95,7 @@
  EFFECT_ADD_RESEARCH_SLOT: "Будет получено ячеек для исследований: $COUNT|G$."
  EFFECT_REMOVE_RESEARCH_SLOT: "Будет потеряно ячеек для исследований: $COUNT|R$."
  EFFECT_ADD_THREAT: "Мировая напряженность возрастет на $THREAT|1R$."
- EFFECT_REMOVE_THREAT: "World Tension is decreased by  $THREAT|1G$." #NT!
+ EFFECT_REMOVE_THREAT: "World Tension is decreased by  $THREAT|1G$." 
  EFFECT_SET_RESEARCH_SLOTS: "Количество ячеек для исследований станет равно $COUNT|H$."
  EFFECT_SET_FUEL_RATIO: "Сделать соотношение горючего равным $VAL|%.0H$."
  EFFECT_BORDER_WAR: "начнется пограничный конфликт"
@@ -155,23 +155,23 @@
  EFFECT_CREATE_OPERATIVE_LEADER: "$NAME|H$ становится агентом.\n"
  EFFECT_ASSIGN_ADVISOR: "Назначить советника по имени $NAME|H$ с эффектом\n$DESC$\n"
  EFFECT_DEACTIVATE_ADVISOR: "Убрать советника по имени $NAME|H$, потеряв эффект\n$DESC$\n"
- #EFFECT_ADD_ADVISOR_ROLE: "$NAME|H$ becomes a $TYPE$ with the effect:\n$DESC$\n" #NT!
- #EFFECT_ADD_ADVISOR_ROLE_APPOINT: "$NAME|H$ becomes a $TYPE$ with the effect:\n$DESC$\nand is directly hired.\n" #NT!
- #EFFECT_REMOVE_ADVISOR_ROLE: "$NAME|H$ stops being a $TYPE$.\n" #NT!
- #EFFECT_REMOVE_UNIT_LEADER_ROLE: "$NAME|H$ stops being a $TYPE$.\n" #NT!
+ #EFFECT_ADD_ADVISOR_ROLE: "$NAME|H$ becomes a $TYPE$ with the effect:\n$DESC$\n" 
+ #EFFECT_ADD_ADVISOR_ROLE_APPOINT: "$NAME|H$ becomes a $TYPE$ with the effect:\n$DESC$\nand is directly hired.\n" 
+ #EFFECT_REMOVE_ADVISOR_ROLE: "$NAME|H$ stops being a $TYPE$.\n" 
+ #EFFECT_REMOVE_UNIT_LEADER_ROLE: "$NAME|H$ stops being a $TYPE$.\n" 
  EFFECT_RECRUIT_CHARACTER: "$NAME|H$: нанять"
  EFFECT_RETIRE_CHARACTER: "$NAME|H$: уволить с поста в государстве $COUNTRY|Y$"
  EFFECT_ADD_TIMED_IDEA: "Будет получена идея $IDEA|H$ на $DAYS|H$ дн. ($DESC$).\n"
  TIMED_IDEA_DATE: "§HБудет удалено: $DATE$§!."
  IDEA_EXPIRED_HEADER: "Срок действия идеи истечет."
  IDEA_EXPIRED_DESC: "Идея $IDEA|H$ не будет влиять на нас."
- EFFECT_WHITE_PEACE_WITH: "Peace with $COUNTRY|Y$." #NT!
+ EFFECT_WHITE_PEACE_WITH: "Peace with $COUNTRY|Y$." 
  EFFECT_CONTEXT_COUNTRY: "(@$TAG$$COUNTRY|H$)"
  EFFECT_CONTEXT_STATE: "$COUNTRY|UH$"
  EFFECT_CONTEXT_LEADER: "$LEADER|H$($FLAG$)"
  EFFECT_KILL_COUNTRY_LEADER: "$NAME|Y$ умрет."
  EFFECT_RETIRE_COUNTRY_LEADER: "$NAME|Y$ выйдет на пенсию."
- EFFECT_CREATE_COUNTRY_LEADER: "$NAME|Y$ becomes leader for the $IDEOLOGY|Y$ party." #NT!
+ EFFECT_CREATE_COUNTRY_LEADER: "$NAME|Y$ becomes leader for the $IDEOLOGY|Y$ party." 
  EFFECT_LOAD_FOCUS_TREE: "Дерево национального фокуса будет изменено на $TREE_NAME|Y$."
  EFFECT_START_CIVIL_WAR: "Сторонники идеологии $IDEOLOGY|Y$ начнут гражданскую войну."
  EFFECT_TRANSFER_UNITS: "Передать часть сил государству $RECIPIENT|Y$"
@@ -189,8 +189,8 @@
  EFFECT_ADD_EXTRA_STATE_SHARED_BUILDING_SLOTS: "Будет добавлено ячеек для строительства: $COUNT|G$."
  EFFECT_REMOVE_EXTRA_STATE_SHARED_BUILDING_SLOTS: "Будет убрано ячеек для строительства: $COUNT|R$."
  EFFECT_ADD_TO_WAR: "Присоединится к государству $COUNTRY1|Y$ в войне против государства $COUNTRY2|Y$.\n"
- EFFECT_CREATE_EQUIPMENT_VARIANT: "Create a variant of $PARENT|Y$: $NAME|Y$.\n" #NT!
- EFFECT_ADD_EQUIPMENT_PRODUCTION: "Add a production of $EQUIPMENT|Y$.\n" #NT!
+ EFFECT_CREATE_EQUIPMENT_VARIANT: "Create a variant of $PARENT|Y$: $NAME|Y$.\n" 
+ EFFECT_ADD_EQUIPMENT_PRODUCTION: "Add a production of $EQUIPMENT|Y$.\n" 
  EFFECT_ADD_ACE: "$NAME|Y$ «$CALLSIGN|Y$» $SURNAME|Y$ станет летчиком-асом.\n"
  NO_EFFECT: "Ничего не происходит"
  EFFECT_ADD_COUNTRY_LEADER_TRAIT: "$LEADER|H$ получит: $TRAIT$"
@@ -221,7 +221,7 @@
  EFFECT_ADD_RELATION_MODIFIER: "Будет получен модификатор $NAME|H$ в отношениях с государством $TARGET|H$ — ($DESC$)."
  EFFECT_REMOVE_RELATION_MODIFIER: "Будет убран модификатор $NAME|H$ в отношениях с государством $TARGET|H$ — ($DESC$)."
  EFFECT_SET_BUILDING_CONSTRUCTION: "Даст зданию $BUILDING|Y$ уровень $NUMBER|Y$."
- EFFECT_ADD_OFFSITE_BUILDING: "Add $NUMBER|Y$ offmap $BUILDING|Y$." #NT!
+ EFFECT_ADD_OFFSITE_BUILDING: "Add $NUMBER|Y$ offmap $BUILDING|Y$." 
  EFFECT_ADD_UNIT_LEADER_TRAIT: "Будет получена черта $TRAITNAME|Y$.\n$TRAITMODIFIER$"
  EFFECT_ADD_UNIT_LEADER_TRAIT_WITH_DURATION: "Будет получена черта $TRAITNAME|H$ на $NUMDAYS|H$ дн.\n$TRAITMODIFIER$"
  EFFECT_ADD_UNIT_LEADER_TRAIT_WITH_DURATION: "Будет получена черта $TRAITNAME|H$ на $NUMDAYS|H$ дн.\n$TRAITMODIFIER$"
@@ -280,9 +280,9 @@
  EFFECT_ACTIVATE_TARGETED_DECISION: "Будет активировано $NAME|H$."
  EFFECT_REMOVE_TARGETED_DECISION: "Будет убрано $NAME|H$."
  EFFECT_MODIFY_TIMED_IDEA_INCREASE: "Будет увеличено действие идеи $IDEA|H$ до $DATE$ (§H+§!$DAYS|H$ дн.).\n"
- EFFECT_MODIFY_TIMED_IDEA_DECREASE: "Decrease duration of '$IDEA|H$' until $DATE$ (§H§!$DAYS|H$ days).\n" #NT!
- EFFECT_ACTIVATE_DECISION: "Activate Decision: $NAME|H$" #NT!
- EFFECT_REMOVE_DECISION: "Remove Decision: $NAME|H$" #NT!
+ EFFECT_MODIFY_TIMED_IDEA_DECREASE: "Decrease duration of '$IDEA|H$' until $DATE$ (§H§!$DAYS|H$ days).\n" 
+ EFFECT_ACTIVATE_DECISION: "Activate Decision: $NAME|H$" 
+ EFFECT_REMOVE_DECISION: "Remove Decision: $NAME|H$" 
  EFFECT_SET_TRUCE: "Будет заключено перемирие с государством $COUNTRY|H$ до $DATE|H$."
  EFFECT_SUPPLY_UNITS: "Обеспечит снабжение армий в достаточном объеме на $NUM|H.0$ ч."
  EFFECT_REMOVE_EXILE_TAG: "Больше не считается изгнанным лидером"
@@ -300,7 +300,7 @@
  EFFECT_LOAD_OOB: "Загрузить файл боевого порядка $NAME|H$."
  EFFECT_SET_OOB: "Указать, чтобы файл боевого порядка $NAME|H$ загружался в начале игры."
  EFFECT_SET_KEYED_OOB: "Указать, чтобы файл боевого порядка $NAME|H$ с ключом $KEY|H$ загружался в начале игры."
- EFFECT_GIVE_RESOURCE_RIGHTS: "Give $RECEIVER|H$ rights to the resources in $STATE|H$" #NT!
+ EFFECT_GIVE_RESOURCE_RIGHTS: "Give $RECEIVER|H$ rights to the resources in $STATE|H$" 
  EFFECT_REMOVE_RESOURCE_RIGHTS: "Лишить прав на ресурсы в регионе $STATE|H$"
  EFFECT_END_EXILE: "Восстановить: $COUNTRY|H$"
  EFFECT_INHERIT_TECHNOLOGY: "Получить те же технологии, что и государство $COUNTRY|H$"
@@ -336,7 +336,7 @@
  EFFECT_CREATE_SHIP: "Создать корабль ($VARIANT|H$) из государства $COUNTRY|H$"
  CUSTOM_EFFECT_CREATE_FAKE_ARMIES: "Создаст ложные воинские части, дезинформируя ваших противников."
  CUSTOM_EFFECT_CREATE_FAKE_ARMIES_RESULT: "Создано [?num_to_create|.0H] ложн. воинск. част., которые можно использовать для дезинформации противников."
- EFFECT_ADD_CIVIL_WAR_TARGET: "Consider $COUNTRY$ as the civil war revolter" #NT!
+ EFFECT_ADD_CIVIL_WAR_TARGET: "Consider $COUNTRY$ as the civil war revolter" 
  add_ruling_to_dem_tt: "Отдать всю поддержку (§Y[ROOT.GetRulingIdeology]§!) §Yдемократии§!."
  add_ruling_to_fas_tt: "Отдать всю поддержку (§Y[ROOT.GetRulingIdeology]§!) §Yфашизму§!."
  add_ruling_to_com_tt: "Отдать всю поддержку (§Y[ROOT.GetRulingIdeology]§!) §Yкоммунизму§!."
@@ -371,7 +371,7 @@
  EFFECT_ADD_HISTORY_ENTRY_UNIT_EFFECT: "Новая запись в истории: $UNIT$"
  TEST_HISTORY_ENTRY_KEY: "$SUBJECT$ пропадает из кабинета Муссолини в провинции $PROVINCE$."
  CHANGE_DIV_TEMPLATE_EFFECT: "$DIV$ меняет шаблон на $TEMPLATE|H$"
- EFFECT_SEND_EMBARGO: "Embargos $COUNTRY|H$" #NT!
+ EFFECT_SEND_EMBARGO: "Embargos $COUNTRY|H$" 
  EFFECT_BREAK_EMBARGO: "Снимает эмбарго с державы $COUNTRY|H$"
  EFFECT_ADD_RANDOM_UNIT_TRAIT: "Добавляет командиру дивизии случайную доступную черту"
   

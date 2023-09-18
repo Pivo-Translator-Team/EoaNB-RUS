@@ -2,1292 +2,1292 @@
   
  ### Bookmark Entry ### 
   
- MNT_END_OF_NEW_BEG_DESC: "Montenergo is a small mountainous country all around surounded by big neighbours. On one side it's stuck in tje hot frontier of the Ottoman Empire, from which it tries to gain its independence at any cost, by negotiation or blood. On another side, a border with Austria which holds it's rightfull land of Kotor, which makes Montenegro isolated from the coast. As a small country with big problems and another looming border clash on the horizon, interesting times are ahead for Montenegro." #NT!
+ MNT_END_OF_NEW_BEG_DESC: "Montenergo is a small mountainous country all around surounded by big neighbours. On one side it's stuck in tje hot frontier of the Ottoman Empire, from which it tries to gain its independence at any cost, by negotiation or blood. On another side, a border with Austria which holds it's rightfull land of Kotor, which makes Montenegro isolated from the coast. As a small country with big problems and another looming border clash on the horizon, interesting times are ahead for Montenegro." 
   
  ### Leader Descriptions ### 
   
- POLITICS_Danilo_I__DESC: "Danilo I, ruler of Montenegro, is the first secular ruler for a very long time. He rules with a tough and wise hand. By his power and reforms, he is leading Montenegro to one ultimate goal, independence. Another goal which he made for himself is to make his nation modern and powerfull. Montenegro under his leadership is to become a regional power and liberate all rightfull lands from any oppressor." #NT!
+ POLITICS_Danilo_I__DESC: "Danilo I, ruler of Montenegro, is the first secular ruler for a very long time. He rules with a tough and wise hand. By his power and reforms, he is leading Montenegro to one ultimate goal, independence. Another goal which he made for himself is to make his nation modern and powerfull. Montenegro under his leadership is to become a regional power and liberate all rightfull lands from any oppressor." 
   
  ### NATIONAL FOCUSES ### 
- #MNT_Status_of_Principality: "Status of Principality" #NT!
- #MNT_Status_of_Principality_desc: "In 1852, Danilo I Petrović Njegoš married and disbanded the Prince-Bishopric of Montenegro to create Principality of Montenegro. That way, the role of church in political life was significantly lowered." #NT!
- #MNT_Assassination_Of_Knez_Danilo: "Assassination of Knez Danilo" #NT!
- #MNT_Assassination_Of_Knez_Danilo_desc: "Danilo I was killed on 1st August 1860, while boarding a boat in Kotor. The killer was from a clan that fled the country." #NT!
- #MNT_Nikola_Royal_Wedding: "Nikola's Royal Wedding" #NT!
- #MNT_Nikola_Royal_Wedding_desc: "A royal wedding needs to happen as soon as possible, because Montenegro needs a heir." #NT!
- #MNT_Punish_Clan_Bjelopavlic: "Punish Clan Bjelopavlic" #NT!
- #MNT_Punish_Clan_Bjelopavlic_desc: "The killer of Danilo I was from clan Bjelopavlić, who fled the country after they didn't want to pay taxes to the Knez. We need to punish them!" #NT!
- #MNT_Execute_Todor_Kadic: "Execute Todor Kadic" #NT!
- #MNT_Execute_Todor_Kadic_desc: "Todor Kadić, the killer of Danilo I, will be hanged because of his actions." #NT!
- #MNT_Danilo_Code: "Danilo's Code" #NT!
- #MNT_Danilo_Code_desc: "Danilo's Code was made in 1855. With it, Knez Danilo I continued with reforms of Montenegro. With it, patriarchal way of living and autonomy of clans were greatly reduced (abolished). It also had rights for people and it strengthened political position of Knez." #NT!
- #MNT_Strengthen_Political_Position: "Strengthen Political Position" #NT!
- #MNT_Strengthen_Political_Position_desc: "We should strengthen our political position." #NT!
- #MNT_Encourage_Society_Modernization: "Encourage Society Modernization" #NT!
- #MNT_Encourage_Society_Modernization_desc: "Encouraging modernization of our society will make living in our country better and more European." #NT!
- #MNT_Abolish_Cruel_Practices: "Abolish Cruel Practices" #NT!
- #MNT_Abolish_Cruel_Practices_desc: "Cruel practices and traditions in our country need to be abolished in order to modernize our society more." #NT!
- #MNT_Freedom_Of_South_Slavs: "Freedom For South Slavs" #NT!
- #MNT_Freedom_Of_South_Slavs_desc: "We should talk about the state of our Slavic brothers under the Ottomans. That should give us more war support." #NT!
- #MNT_Connect_The_Nahiyas: "Connect The Nahiyas" #NT!
- #MNT_Connect_The_Nahiyas_desc: "We need to connect parts of our country better." #NT!
- #MNT_Modern_Animal_Raising_Practices: "Modern Animal Raising Practices" #NT!
- #MNT_Modern_Animal_Raising_Practices_desc: "We should introduce modern animal raising practices, because they will make that industry more productive." #NT!
- #MNT_Expand_Research_Potential: "Expand Research Potential" #NT!
- #MNT_Expand_Research_Potential_desc: "We need to research faster in order to keep up with big European nations." #NT!
- #MNT_Promote_Agriculture: "Promote Agriculture" #NT!
- #MNT_Promote_Agriculture_desc: "Agriculture is an important part of economy. Promoting it will boost our economy a lot." #NT!
- #MNT_New_Agriculture_Techniques: "New Agriculture Techniques" #NT!
- #MNT_New_Agriculture_Techniques_desc: "Since agriculture is important, we should introduce new techniques that will make it more productive." #NT!
- #MNT_Improve_Farming_Methods: "Improve Farming Methods" #NT!
- #MNT_Improve_Farming_Methods_desc: "Improving our farming methods will definitely help us in boosting our economy." #NT!
- #MNT_Faster_Modernization: "Faster Modernization" #NT!
- #MNT_Faster_Modernization_desc: "Modernization of our economy is paying off. That means we are doing it right. We should start modernizing it even more." #NT!
- #MNT_More_Productive_Economy: "More Productive Economy" #NT!
- #MNT_More_Productive_Economy_desc: "Even though we don't have a lot of factories, our economy is getting better every day." #NT!
- #MNT_Situation_Stabilized: "Situation Stabilized" #NT!
- #MNT_Situation_Stabilized_desc: "The murderer is executed and our new Knez is married. The situation in the country has stabilized." #NT!
- #MNT_Reorganized_Army: "Reorganized Army" #NT!
- #MNT_Reorganized_Army_desc: "In 1854, Danilo I made the first attempt to reorganize the Montenegrin army." #NT!
- #MNT_Define_Chain_Of_Command: "Define Chain Of Command" #NT!
- #MNT_Define_Chain_Of_Command_desc: "In 1855, Knez Danilo defined the chain of command in the army. He also made topništvo (artillery) an independent military branch." #NT!
- #MNT_Study_Land_Doctrines: "Study Land Doctrines" #NT!
- #MNT_Study_Land_Doctrines_desc: "We need to study land doctrines, so we can develop better strategies." #NT!
- #MNT_New_Strategies: "New Strategies" #NT!
- #MNT_New_Strategies_desc: "In order to defend our country more easily, we need to research new strategies." #NT!
- #MNT_Improve_Army_Tactics: "Improve Army Tactics" #NT!
- #MNT_Improve_Army_Tactics_desc: "New and better army tactics will surely help us in winning battles against an enemy." #NT!
- #MNT_Improve_Troops'_Morale: "Improve Troops' Morale" #NT!
- #MNT_Improve_Troops'_Morale_desc: "If we improve morale of our soldiers, they will be more willing to fight and defend our country." #NT!
- #MNT_Train_Our_Brave_Fighters: "Train Our Brave Fighters" #NT!
- #MNT_Train_Our_Brave_Fighters_desc: "We should train our soldiers. That will pay off when we go to a war, even though it is not a real experience." #NT!
- #MNT_New_Recruits: "New Recruits" #NT!
- #MNT_New_Recruits_desc: "There is never enough manpower. Especially when you're such a small country." #NT!
- #MNT_Modernizing_Army_Equipment: "Modernizing Army Equipment" #NT!
- #MNT_Modernizing_Army_Equipment_desc: "We need to keep up with big countries." #NT!
- #MNT_After_War_Period: "After War Period" #NT!
- #MNT_After_War_Period_desc: "Thankfully, European majors stepped in and saved our country from the Ottomans. We should continue with modernizing our army." #NT!
- #MNT_1871_Reform: "1871 Reform" #NT!
- #MNT_1871_Reform_desc: "We need to reform our army once again." #NT!
- #MNT_1866_Officer_Training: "1866 Officer Training" #NT!
- #MNT_1866_Officer_Training_desc: "We need to have an officer training in order to make our army better and more competitive." #NT!
- #MNT_Improve_Quality_Of_Strategies: "Improve Quality Of Strategies" #NT!
- #MNT_Improve_Quality_Of_Strategies_desc: "It never hurts to try to improve strategies. We should do that, since an even bigger war is looming." #NT!
- #MNT_Better_Artillery_Quality: "Better Artillery Quality" #NT!
- #MNT_Better_Artillery_Quality_desc: "Artillery is becoming more and more important. A better quality of it will benefit us." #NT!
- #MNT_Equipment_For_Infantry: "Equipment For Infantry" #NT!
- #MNT_Equipment_For_Infantry_desc: "Modernizing our infantry will help us in future wars." #NT!
- #MNT_More_Recruits: "More Recruits" #NT!
- #MNT_More_Recruits_desc: "The recent war cost us a lot in manpower. We need to recruit more people." #NT!
- #MNT_Prepare_For_War: "Prepare For War" #NT!
- #MNT_Prepare_For_War_desc: "A big war is looming, we must prepare for it before it happens." #NT!
- #MNT_National_Anthem: "National Anthem" #NT!
- #MNT_National_Anthem_desc: "Knez Nikola will write text for the anthem of Montenegro called "Onamo, 'namo!". It will be composed by a Slovenian composer and will be inspired by Garibaldi's work." #NT!
- #MNT_First_Montenegrin_Newspaper: "First Montenegrin Newspapers" #NT!
- #MNT_First_Montenegrin_Newspaper_desc: "Knez Nikola will approve the release of the first newspapers in Montenegro. They will be called "Crnogorac" ("Montenegrin")." #NT!
- #MNT_Visit_Russian_Tsar: "Visit The Russian Tsar" #NT!
- #MNT_Visit_Russian_Tsar_desc: "Nikola will be visiting Alexander II, the Russian Tsar. That is going to improve our relations with Russia. The Tsar and his wife will surely help us in modernizing our country." #NT!
- #MNT_Build_Schools: "Build Schools" #NT!
- #MNT_Build_Schools_desc: "Schools are one of the most vital parts in modernization of society. We will build a few of them across the country." #NT!
- #MNT_United_Serb_Youth: "United Serb Youth" #NT!
- #MNT_United_Serb_Youth_desc: ""United Serb Youth" is a Serbian political movement. It's slogan is "Serbdom all and everywhere". It is supposed to unite all Serbian people." #NT!
- #MNT_Make_Another_Movement: "Make Another Movement" #NT!
- #MNT_Make_Another_Movement_desc: "We need to make another movement similar to the past one." #NT!
+ #MNT_Status_of_Principality: "Status of Principality" 
+ #MNT_Status_of_Principality_desc: "In 1852, Danilo I Petrović Njegoš married and disbanded the Prince-Bishopric of Montenegro to create Principality of Montenegro. That way, the role of church in political life was significantly lowered." 
+ #MNT_Assassination_Of_Knez_Danilo: "Assassination of Knez Danilo" 
+ #MNT_Assassination_Of_Knez_Danilo_desc: "Danilo I was killed on 1st August 1860, while boarding a boat in Kotor. The killer was from a clan that fled the country." 
+ #MNT_Nikola_Royal_Wedding: "Nikola's Royal Wedding" 
+ #MNT_Nikola_Royal_Wedding_desc: "A royal wedding needs to happen as soon as possible, because Montenegro needs a heir." 
+ #MNT_Punish_Clan_Bjelopavlic: "Punish Clan Bjelopavlic" 
+ #MNT_Punish_Clan_Bjelopavlic_desc: "The killer of Danilo I was from clan Bjelopavlić, who fled the country after they didn't want to pay taxes to the Knez. We need to punish them!" 
+ #MNT_Execute_Todor_Kadic: "Execute Todor Kadic" 
+ #MNT_Execute_Todor_Kadic_desc: "Todor Kadić, the killer of Danilo I, will be hanged because of his actions." 
+ #MNT_Danilo_Code: "Danilo's Code" 
+ #MNT_Danilo_Code_desc: "Danilo's Code was made in 1855. With it, Knez Danilo I continued with reforms of Montenegro. With it, patriarchal way of living and autonomy of clans were greatly reduced (abolished). It also had rights for people and it strengthened political position of Knez." 
+ #MNT_Strengthen_Political_Position: "Strengthen Political Position" 
+ #MNT_Strengthen_Political_Position_desc: "We should strengthen our political position." 
+ #MNT_Encourage_Society_Modernization: "Encourage Society Modernization" 
+ #MNT_Encourage_Society_Modernization_desc: "Encouraging modernization of our society will make living in our country better and more European." 
+ #MNT_Abolish_Cruel_Practices: "Abolish Cruel Practices" 
+ #MNT_Abolish_Cruel_Practices_desc: "Cruel practices and traditions in our country need to be abolished in order to modernize our society more." 
+ #MNT_Freedom_Of_South_Slavs: "Freedom For South Slavs" 
+ #MNT_Freedom_Of_South_Slavs_desc: "We should talk about the state of our Slavic brothers under the Ottomans. That should give us more war support." 
+ #MNT_Connect_The_Nahiyas: "Connect The Nahiyas" 
+ #MNT_Connect_The_Nahiyas_desc: "We need to connect parts of our country better." 
+ #MNT_Modern_Animal_Raising_Practices: "Modern Animal Raising Practices" 
+ #MNT_Modern_Animal_Raising_Practices_desc: "We should introduce modern animal raising practices, because they will make that industry more productive." 
+ #MNT_Expand_Research_Potential: "Expand Research Potential" 
+ #MNT_Expand_Research_Potential_desc: "We need to research faster in order to keep up with big European nations." 
+ #MNT_Promote_Agriculture: "Promote Agriculture" 
+ #MNT_Promote_Agriculture_desc: "Agriculture is an important part of economy. Promoting it will boost our economy a lot." 
+ #MNT_New_Agriculture_Techniques: "New Agriculture Techniques" 
+ #MNT_New_Agriculture_Techniques_desc: "Since agriculture is important, we should introduce new techniques that will make it more productive." 
+ #MNT_Improve_Farming_Methods: "Improve Farming Methods" 
+ #MNT_Improve_Farming_Methods_desc: "Improving our farming methods will definitely help us in boosting our economy." 
+ #MNT_Faster_Modernization: "Faster Modernization" 
+ #MNT_Faster_Modernization_desc: "Modernization of our economy is paying off. That means we are doing it right. We should start modernizing it even more." 
+ #MNT_More_Productive_Economy: "More Productive Economy" 
+ #MNT_More_Productive_Economy_desc: "Even though we don't have a lot of factories, our economy is getting better every day." 
+ #MNT_Situation_Stabilized: "Situation Stabilized" 
+ #MNT_Situation_Stabilized_desc: "The murderer is executed and our new Knez is married. The situation in the country has stabilized." 
+ #MNT_Reorganized_Army: "Reorganized Army" 
+ #MNT_Reorganized_Army_desc: "In 1854, Danilo I made the first attempt to reorganize the Montenegrin army." 
+ #MNT_Define_Chain_Of_Command: "Define Chain Of Command" 
+ #MNT_Define_Chain_Of_Command_desc: "In 1855, Knez Danilo defined the chain of command in the army. He also made topništvo (artillery) an independent military branch." 
+ #MNT_Study_Land_Doctrines: "Study Land Doctrines" 
+ #MNT_Study_Land_Doctrines_desc: "We need to study land doctrines, so we can develop better strategies." 
+ #MNT_New_Strategies: "New Strategies" 
+ #MNT_New_Strategies_desc: "In order to defend our country more easily, we need to research new strategies." 
+ #MNT_Improve_Army_Tactics: "Improve Army Tactics" 
+ #MNT_Improve_Army_Tactics_desc: "New and better army tactics will surely help us in winning battles against an enemy." 
+ #MNT_Improve_Troops'_Morale: "Improve Troops' Morale" 
+ #MNT_Improve_Troops'_Morale_desc: "If we improve morale of our soldiers, they will be more willing to fight and defend our country." 
+ #MNT_Train_Our_Brave_Fighters: "Train Our Brave Fighters" 
+ #MNT_Train_Our_Brave_Fighters_desc: "We should train our soldiers. That will pay off when we go to a war, even though it is not a real experience." 
+ #MNT_New_Recruits: "New Recruits" 
+ #MNT_New_Recruits_desc: "There is never enough manpower. Especially when you're such a small country." 
+ #MNT_Modernizing_Army_Equipment: "Modernizing Army Equipment" 
+ #MNT_Modernizing_Army_Equipment_desc: "We need to keep up with big countries." 
+ #MNT_After_War_Period: "After War Period" 
+ #MNT_After_War_Period_desc: "Thankfully, European majors stepped in and saved our country from the Ottomans. We should continue with modernizing our army." 
+ #MNT_1871_Reform: "1871 Reform" 
+ #MNT_1871_Reform_desc: "We need to reform our army once again." 
+ #MNT_1866_Officer_Training: "1866 Officer Training" 
+ #MNT_1866_Officer_Training_desc: "We need to have an officer training in order to make our army better and more competitive." 
+ #MNT_Improve_Quality_Of_Strategies: "Improve Quality Of Strategies" 
+ #MNT_Improve_Quality_Of_Strategies_desc: "It never hurts to try to improve strategies. We should do that, since an even bigger war is looming." 
+ #MNT_Better_Artillery_Quality: "Better Artillery Quality" 
+ #MNT_Better_Artillery_Quality_desc: "Artillery is becoming more and more important. A better quality of it will benefit us." 
+ #MNT_Equipment_For_Infantry: "Equipment For Infantry" 
+ #MNT_Equipment_For_Infantry_desc: "Modernizing our infantry will help us in future wars." 
+ #MNT_More_Recruits: "More Recruits" 
+ #MNT_More_Recruits_desc: "The recent war cost us a lot in manpower. We need to recruit more people." 
+ #MNT_Prepare_For_War: "Prepare For War" 
+ #MNT_Prepare_For_War_desc: "A big war is looming, we must prepare for it before it happens." 
+ #MNT_National_Anthem: "National Anthem" 
+ #MNT_National_Anthem_desc: "Knez Nikola will write text for the anthem of Montenegro called "Onamo, 'namo!". It will be composed by a Slovenian composer and will be inspired by Garibaldi's work." 
+ #MNT_First_Montenegrin_Newspaper: "First Montenegrin Newspapers" 
+ #MNT_First_Montenegrin_Newspaper_desc: "Knez Nikola will approve the release of the first newspapers in Montenegro. They will be called "Crnogorac" ("Montenegrin")." 
+ #MNT_Visit_Russian_Tsar: "Visit The Russian Tsar" 
+ #MNT_Visit_Russian_Tsar_desc: "Nikola will be visiting Alexander II, the Russian Tsar. That is going to improve our relations with Russia. The Tsar and his wife will surely help us in modernizing our country." 
+ #MNT_Build_Schools: "Build Schools" 
+ #MNT_Build_Schools_desc: "Schools are one of the most vital parts in modernization of society. We will build a few of them across the country." 
+ #MNT_United_Serb_Youth: "United Serb Youth" 
+ #MNT_United_Serb_Youth_desc: ""United Serb Youth" is a Serbian political movement. It's slogan is "Serbdom all and everywhere". It is supposed to unite all Serbian people." 
+ #MNT_Make_Another_Movement: "Make Another Movement" 
+ #MNT_Make_Another_Movement_desc: "We need to make another movement similar to the past one." 
   
   # All the localisation for new focus 
   
- MNT_focus_the_reign_of_danilo: "The Reign of Danilo" #NT!
- MNT_focus_the_reign_of_danilo_desc: "" #NT!
+ MNT_focus_the_reign_of_danilo: "The Reign of Danilo" 
+ MNT_focus_the_reign_of_danilo_desc: "" 
   
- MNT_focus_the_aftermath_of_napoleons_visit: "The Aftermath of Napoléon's Visit" #NT!
- MNT_focus_the_aftermath_of_napoleons_visit_desc: " " #NT!
+ MNT_focus_the_aftermath_of_napoleons_visit: "The Aftermath of Napoléon's Visit" 
+ MNT_focus_the_aftermath_of_napoleons_visit_desc: " " 
   
- MNT_focus_accept_danilos_new_chancellor: "Accept Danilo's New Chancellor" #NT!
- MNT_focus_accept_danilos_new_chancellor_desc: " " #NT!
+ MNT_focus_accept_danilos_new_chancellor: "Accept Danilo's New Chancellor" 
+ MNT_focus_accept_danilos_new_chancellor_desc: " " 
   
- MNT_focus_french_support_in_diplomatic_affairs: "French Support in Diplomatic Affairs" #NT!
- MNT_focus_french_support_in_diplomatic_affairs_desc: " " #NT!
+ MNT_focus_french_support_in_diplomatic_affairs: "French Support in Diplomatic Affairs" 
+ MNT_focus_french_support_in_diplomatic_affairs_desc: " " 
   
- MNT_focus_protection_for_danilo: "Protection for Danilo" #NT!
- MNT_focus_protection_for_danilo_desc: "  " #NT!
+ MNT_focus_protection_for_danilo: "Protection for Danilo" 
+ MNT_focus_protection_for_danilo_desc: "  " 
   
- MNT_focus_demand_political_recognition_from_france: "Demand Political Recognition from France" #NT!
- MNT_focus_demand_political_recognition_from_france_desc: " " #NT!
+ MNT_focus_demand_political_recognition_from_france: "Demand Political Recognition from France" 
+ MNT_focus_demand_political_recognition_from_france_desc: " " 
   
- MNT_focus_establish_an_embassy_in_france: "Establish an Embassy in France" #NT!
- MNT_focus_establish_an_embassy_in_france_desc: " " #NT!
+ MNT_focus_establish_an_embassy_in_france: "Establish an Embassy in France" 
+ MNT_focus_establish_an_embassy_in_france_desc: " " 
   
- MNT_focus_join_the_anti_austrian_coalition: "Join the Anti-Austrian Coalition" #NT!
- MNT_focus_join_the_anti_austrian_coalition_desc: " " #NT!
+ MNT_focus_join_the_anti_austrian_coalition: "Join the Anti-Austrian Coalition" 
+ MNT_focus_join_the_anti_austrian_coalition_desc: " " 
   
- MNT_focus_the_kotor_problem: "The Kotor Problem" #NT!
- MNT_focus_the_kotor_problem_desc: " " #NT!
+ MNT_focus_the_kotor_problem: "The Kotor Problem" 
+ MNT_focus_the_kotor_problem_desc: " " 
   
- MNT_focus_wait_for_the_sardinians: "Wait for the Sardinians" #NT!
- MNT_focus_wait_for_the_sardinians_desc: " " #NT!
+ MNT_focus_wait_for_the_sardinians: "Wait for the Sardinians" 
+ MNT_focus_wait_for_the_sardinians_desc: " " 
   
- MNT_focus_learn_about_the_new_ways_of_warfare: "Learn About the New Ways of Warfare" #NT!
- MNT_focus_learn_about_the_new_ways_of_warfare_desc: " " #NT!
+ MNT_focus_learn_about_the_new_ways_of_warfare: "Learn About the New Ways of Warfare" 
+ MNT_focus_learn_about_the_new_ways_of_warfare_desc: " " 
   
- MNT_focus_integrate_kotor: "Integrate Kotor" #NT!
- MNT_focus_integrate_kotor_desc: " " #NT!
+ MNT_focus_integrate_kotor: "Integrate Kotor" 
+ MNT_focus_integrate_kotor_desc: " " 
   
- MNT_focus_look_for_help_in_italy: "Look for Help in Italy" #NT!
- MNT_focus_look_for_help_in_italy_desc: " " #NT!
+ MNT_focus_look_for_help_in_italy: "Look for Help in Italy" 
+ MNT_focus_look_for_help_in_italy_desc: " " 
   
- MNT_focus_a_royal_visit_from_italy: "A Royal Visit from Italy" #NT!
- MNT_focus_a_royal_visit_from_italy_desc: " " #NT!
+ MNT_focus_a_royal_visit_from_italy: "A Royal Visit from Italy" 
+ MNT_focus_a_royal_visit_from_italy_desc: " " 
   
- MNT_focus_observe_the_italian_navy: "Observe the Italian Navy" #NT!
- MNT_focus_observe_the_italian_navy_desc: " " #NT!
+ MNT_focus_observe_the_italian_navy: "Observe the Italian Navy" 
+ MNT_focus_observe_the_italian_navy_desc: " " 
   
- MNT_focus_win_the_favor_of_the_italian_states: "Win the Favor of the Italian States" #NT!
- MNT_focus_win_the_favor_of_the_italian_states_desc: " " #NT!
+ MNT_focus_win_the_favor_of_the_italian_states: "Win the Favor of the Italian States" 
+ MNT_focus_win_the_favor_of_the_italian_states_desc: " " 
   
- MNT_focus_order_foreign_warships: "Order Foreign Warships" #NT!
- MNT_focus_order_foreign_warships_desc: " " #NT!
+ MNT_focus_order_foreign_warships: "Order Foreign Warships" 
+ MNT_focus_order_foreign_warships_desc: " " 
   
- MNT_focus_french_guidance_in_military_reorganization: "French Guidance in Military Reorganization" #NT!
- MNT_focus_french_guidance_in_military_reorganization_desc: " " #NT!
+ MNT_focus_french_guidance_in_military_reorganization: "French Guidance in Military Reorganization" 
+ MNT_focus_french_guidance_in_military_reorganization_desc: " " 
   
- MNT_focus_purchase_foreign_artillery: "Purchase Foreign Artillery" #NT!
- MNT_focus_purchase_foreign_artillery_desc: " " #NT!
+ MNT_focus_purchase_foreign_artillery: "Purchase Foreign Artillery" 
+ MNT_focus_purchase_foreign_artillery_desc: " " 
   
- MNT_focus_profit_from_the_experience_of_the_french: "Profit from the Experience of the French" #NT!
- MNT_focus_profit_from_the_experience_of_the_french_desc: " " #NT!
+ MNT_focus_profit_from_the_experience_of_the_french: "Profit from the Experience of the French" 
+ MNT_focus_profit_from_the_experience_of_the_french_desc: " " 
   
- MNT_focus_learn_from_the_austro_sardinian_war: "Learn from the Austro-Sardinian War" #NT!
- MNT_focus_learn_from_the_austro_sardinian_war_desc: " " #NT!
+ MNT_focus_learn_from_the_austro_sardinian_war: "Learn from the Austro-Sardinian War" 
+ MNT_focus_learn_from_the_austro_sardinian_war_desc: " " 
   
- MNT_focus_allow_french_volunteers_to_join_the_army: "Allow French Volunteers to Join the Army" #NT!
- MNT_focus_allow_french_volunteers_to_join_the_army_desc: " " #NT!
+ MNT_focus_allow_french_volunteers_to_join_the_army: "Allow French Volunteers to Join the Army" 
+ MNT_focus_allow_french_volunteers_to_join_the_army_desc: " " 
   
- MNT_focus_study_french_doctrines: "Study French Doctrines" #NT!
- MNT_focus_study_french_doctrines_desc: " " #NT!
+ MNT_focus_study_french_doctrines: "Study French Doctrines" 
+ MNT_focus_study_french_doctrines_desc: " " 
   
- MNT_focus_french_financial_support: "French Financial Support" #NT!
- MNT_focus_french_financial_support_desc: " " #NT!
+ MNT_focus_french_financial_support: "French Financial Support" 
+ MNT_focus_french_financial_support_desc: " " 
   
- MNT_focus_scholarships_for_french_colleges: "Scholarships for French Colleges" #NT!
- MNT_focus_scholarships_for_french_colleges_desc: " " #NT!
+ MNT_focus_scholarships_for_french_colleges: "Scholarships for French Colleges" 
+ MNT_focus_scholarships_for_french_colleges_desc: " " 
   
- MNT_focus_ties_with_the_french_elite: "Ties with the French Elites" #NT!
- MNT_focus_ties_with_the_french_elite_desc: " " #NT!
+ MNT_focus_ties_with_the_french_elite: "Ties with the French Elites" 
+ MNT_focus_ties_with_the_french_elite_desc: " " 
   
- MNT_focus_financial_support_for_war_damaged_areas: "Financial Support for War-Damaged Areas" #NT!
- MNT_focus_financial_support_for_war_damaged_areas_desc: " " #NT!
+ MNT_focus_financial_support_for_war_damaged_areas: "Financial Support for War-Damaged Areas" 
+ MNT_focus_financial_support_for_war_damaged_areas_desc: " " 
   
- MNT_focus_french_support_in_diplomatic_affairs: "French Support in Diplomatic Affairs" #NT!
- MNT_focus_french_support_in_diplomatic_affairs_desc: " " #NT!
+ MNT_focus_french_support_in_diplomatic_affairs: "French Support in Diplomatic Affairs" 
+ MNT_focus_french_support_in_diplomatic_affairs_desc: " " 
   
- MNT_focus_order_agricultural_machinery: "Order Agricultural Machinery" #NT!
- MNT_focus_order_agricultural_machinery_desc: " " #NT!
+ MNT_focus_order_agricultural_machinery: "Order Agricultural Machinery" 
+ MNT_focus_order_agricultural_machinery_desc: " " 
   
- MNT_focus_ore_processing_innovations: "Ore-Processing Innovations" #NT!
- MNT_focus_ore_processing_innovations_desc: " " #NT!
+ MNT_focus_ore_processing_innovations: "Ore-Processing Innovations" 
+ MNT_focus_ore_processing_innovations_desc: " " 
   
- MNT_focus_innovations_in_construction: "Innovations in Construction" #NT!
- MNT_focus_innovations_in_construction_desc: " " #NT!
+ MNT_focus_innovations_in_construction: "Innovations in Construction" 
+ MNT_focus_innovations_in_construction_desc: " " 
   
- MNT_focus_cooling_of_the_relations_with_russia: "Cooling of the Relations with Russia" #NT!
- MNT_focus_cooling_of_the_relations_with_russia_desc: " " #NT!
+ MNT_focus_cooling_of_the_relations_with_russia: "Cooling of the Relations with Russia" 
+ MNT_focus_cooling_of_the_relations_with_russia_desc: " " 
   
- MNT_focus_normalization_of_the_relations_with_russia: "Normalization of the Relations with Russia" #NT!
- MNT_focus_normalization_of_the_relations_with_russia_desc: " " #NT!
+ MNT_focus_normalization_of_the_relations_with_russia: "Normalization of the Relations with Russia" 
+ MNT_focus_normalization_of_the_relations_with_russia_desc: " " 
   
- MNT_focus_end_russian_interference_in_our_internal_affairs: "End Russian Interference in our Internal Affairs" #NT!
- MNT_focus_end_russian_interference_in_our_internal_affairs_desc: " " #NT!
+ MNT_focus_end_russian_interference_in_our_internal_affairs: "End Russian Interference in our Internal Affairs" 
+ MNT_focus_end_russian_interference_in_our_internal_affairs_desc: " " 
   
- MNT_focus_limited_financial_support: "Limited Financial Support" #NT!
- MNT_focus_limited_financial_support_desc: " " #NT!
+ MNT_focus_limited_financial_support: "Limited Financial Support" 
+ MNT_focus_limited_financial_support_desc: " " 
   
- MNT_decision_financial_help_from_russia: "Financial Help from Russia" #NT!
+ MNT_decision_financial_help_from_russia: "Financial Help from Russia" 
   
- MNT_focus_weapons_for_every_slav_fighting_the_ottomans: "Weapons for Every Slav Fighting the Ottomans" #NT!
- MNT_focus_weapons_for_every_slav_fighting_the_ottomans_desc: " " #NT!
+ MNT_focus_weapons_for_every_slav_fighting_the_ottomans: "Weapons for Every Slav Fighting the Ottomans" 
+ MNT_focus_weapons_for_every_slav_fighting_the_ottomans_desc: " " 
   
- MNT_focus_support_from_the_orthodox_church: "Support from the Orthodox Church" #NT!
- MNT_focus_support_from_the_orthodox_church_desc: " " #NT!
+ MNT_focus_support_from_the_orthodox_church: "Support from the Orthodox Church" 
+ MNT_focus_support_from_the_orthodox_church_desc: " " 
   
- MNT_focus_the_reign_of_nikola: "The Reign of Nikola" #NT!
- MNT_focus_the_reign_of_nikola_desc: " " #NT!
+ MNT_focus_the_reign_of_nikola: "The Reign of Nikola" 
+ MNT_focus_the_reign_of_nikola_desc: " " 
   
- MNT_focus_reapproach_russia: "Reapproach Russia" #NT!
- MNT_focus_reapproach_russia_desc: " " #NT!
+ MNT_focus_reapproach_russia: "Reapproach Russia" 
+ MNT_focus_reapproach_russia_desc: " " 
   
- MNT_focus_financial_help_from_russia: "Financial Help from Russia" #NT!
- MNT_focus_financial_help_from_russia_desc: " " #NT!
+ MNT_focus_financial_help_from_russia: "Financial Help from Russia" 
+ MNT_focus_financial_help_from_russia_desc: " " 
   
- MNT_Montenegrin_Clans: "Montenegrin Clans" #NT!
- MNT_Montenegrin_Clans_desc: "" #NT!
+ MNT_Montenegrin_Clans: "Montenegrin Clans" 
+ MNT_Montenegrin_Clans_desc: "" 
   
- MNT_Rivalries_Between_Clans: "Rivalries Between Clans" #NT!
- MNT_Rivalries_Between_Clans_desc: "Danilo I was really determined to get clans under his control, that included ending the rivalries between them." #NT!
+ MNT_Rivalries_Between_Clans: "Rivalries Between Clans" 
+ MNT_Rivalries_Between_Clans_desc: "Danilo I was really determined to get clans under his control, that included ending the rivalries between them." 
   
- MNT_Increase_Control_Over_Clans: "Increase Control Over Clans" #NT!
- MNT_Increase_Control_Over_Clans_desc: "Danilo greatly reduced autonomy of clans in the country in order to have more control over them." #NT!
+ MNT_Increase_Control_Over_Clans: "Increase Control Over Clans" 
+ MNT_Increase_Control_Over_Clans_desc: "Danilo greatly reduced autonomy of clans in the country in order to have more control over them." 
   
- MNT_Clan_Question_Resolved: "Clan Question Resolved" #NT!
- MNT_Clan_Question_Resolved_desc: "The clan question is resolved. Most of the clans in our country bow to our Knez and they are loyal." #NT!
+ MNT_Clan_Question_Resolved: "Clan Question Resolved" 
+ MNT_Clan_Question_Resolved_desc: "The clan question is resolved. Most of the clans in our country bow to our Knez and they are loyal." 
   
- MNT_expanded_infrastructure: "Expanded Infrastructure" #NT!
- MNT_expanded_infrastructure_desc: "The roads in our capital need to be better and there needs to be more of them." #NT!
+ MNT_expanded_infrastructure: "Expanded Infrastructure" 
+ MNT_expanded_infrastructure_desc: "The roads in our capital need to be better and there needs to be more of them." 
   
- MNT_creation_of_industrial_sector: "Creation Of Industrial Sector" #NT!
- MNT_creation_of_industrial_sector_desc: "" #NT!
+ MNT_creation_of_industrial_sector: "Creation Of Industrial Sector" 
+ MNT_creation_of_industrial_sector_desc: "" 
   
- MNT_purchase_machinery_for_military_production: "Purchase Machinery For Military Production" #NT!
- MNT_purchase_machinery_for_military_production_desc: "" #NT!
+ MNT_purchase_machinery_for_military_production: "Purchase Machinery For Military Production" 
+ MNT_purchase_machinery_for_military_production_desc: "" 
   
- MNT_crnojevic_military_factory: "Crnojevic Military Factory" #NT!
- MNT_crnojevic_military_factory_desc: "" #NT!
+ MNT_crnojevic_military_factory: "Crnojevic Military Factory" 
+ MNT_crnojevic_military_factory_desc: "" 
   
- MNT_modernise_agriculture: "Modernise Agriculture" #NT!
- MNT_modernise_agriculture_desc: "" #NT!
+ MNT_modernise_agriculture: "Modernise Agriculture" 
+ MNT_modernise_agriculture_desc: "" 
   
- MNT_feed_our_population: "Feed Our Population" #NT!
- MNT_feed_our_population_desc: "" #NT!
+ MNT_feed_our_population: "Feed Our Population" 
+ MNT_feed_our_population_desc: "" 
   
- MNT_combat_turkish_landlords: "Combat Turkish Landlords" #NT!
- MNT_combat_turkish_landlords_desc: "" #NT!
+ MNT_combat_turkish_landlords: "Combat Turkish Landlords" 
+ MNT_combat_turkish_landlords_desc: "" 
   
- MNT_mineral_riches_of_montenegro: "Mineral Riches Of Montenegro" #NT!
- MNT_mineral_riches_of_montenegro_desc: "" #NT!
+ MNT_mineral_riches_of_montenegro: "Mineral Riches Of Montenegro" 
+ MNT_mineral_riches_of_montenegro_desc: "" 
   
- MNT_trade_in_kotor_bay: "Trade In Kotor Bay" #NT!
- MNT_trade_in_kotor_bay_desc: "" #NT!
+ MNT_trade_in_kotor_bay: "Trade In Kotor Bay" 
+ MNT_trade_in_kotor_bay_desc: "" 
   
- MNT_state_of_montenegrian_army: "State Of Montenegrian Army" #NT!
- MNT_state_of_montenegrian_army_desc: "" #NT!
+ MNT_state_of_montenegrian_army: "State Of Montenegrian Army" 
+ MNT_state_of_montenegrian_army_desc: "" 
   
- MNT_danilos_army_reform: "Danilo's Army Reform" #NT!
- MNT_danilos_army_reform_desc: "" #NT!
+ MNT_danilos_army_reform: "Danilo's Army Reform" 
+ MNT_danilos_army_reform_desc: "" 
   
- MNT_army_of_the_future: "Army Of The Future" #NT!
- MNT_army_of_the_future_desc: "" #NT!
+ MNT_army_of_the_future: "Army Of The Future" 
+ MNT_army_of_the_future_desc: "" 
   
- MNT_foreign_support: "Foreign Support" #NT!
- MNT_foreign_support_desc: "" #NT!
+ MNT_foreign_support: "Foreign Support" 
+ MNT_foreign_support_desc: "" 
   
- MNT_serbian_support: "Serbian Support" #NT!
- MNT_serbian_support_desc: "" #NT!
+ MNT_serbian_support: "Serbian Support" 
+ MNT_serbian_support_desc: "" 
   
- MNT_mission_of_captain_milutin_javanovic: "Mission Of Captain Milutin Javanovic" #NT!
- MNT_mission_of_captain_milutin_javanovic_desc: "" #NT!
+ MNT_mission_of_captain_milutin_javanovic: "Mission Of Captain Milutin Javanovic" 
+ MNT_mission_of_captain_milutin_javanovic_desc: "" 
   
- MNT_serbian_military_cooperation: "Serbian Military Cooperation" #NT!
- MNT_serbian_military_cooperation_desc: "Military cooperation with Serbia will help us recover our country and army from the recent war." #NT!
+ MNT_serbian_military_cooperation: "Serbian Military Cooperation" 
+ MNT_serbian_military_cooperation_desc: "Military cooperation with Serbia will help us recover our country and army from the recent war." 
   
- MNT_help_from_austria: "Help From Austria" #NT!
- MNT_help_from_austria_desc: "" #NT!
+ MNT_help_from_austria: "Help From Austria" 
+ MNT_help_from_austria_desc: "" 
   
- MNT_guns_contract: "Guns Contract" #NT!
- MNT_guns_contract_desc: "Better and more modern weapons is one of the most important things in wars. We need to modernize the equipment." #NT!
+ MNT_guns_contract: "Guns Contract" 
+ MNT_guns_contract_desc: "Better and more modern weapons is one of the most important things in wars. We need to modernize the equipment." 
   
- MNT_artillery_purchase: "Artillery Purchase" #NT!
- MNT_artillery_purchase_desc: "Montenegro is a small country, but we still need to keep up in artillery research with bigger countries. Artillery has become a really important factor." #NT!
+ MNT_artillery_purchase: "Artillery Purchase" 
+ MNT_artillery_purchase_desc: "Montenegro is a small country, but we still need to keep up in artillery research with bigger countries. Artillery has become a really important factor." 
   
- MNT_integrate_other_tribal_armies: "Integrate Other Tribal Armies" #NT!
- MNT_integrate_other_tribal_armies_desc: "" #NT!
+ MNT_integrate_other_tribal_armies: "Integrate Other Tribal Armies" 
+ MNT_integrate_other_tribal_armies_desc: "" 
   
- MNT_equal_army_opportunity: "Equal Army Opportunity" #NT!
- MNT_equal_army_opportunity_desc: "" #NT!
+ MNT_equal_army_opportunity: "Equal Army Opportunity" 
+ MNT_equal_army_opportunity_desc: "" 
   
- MNT_uniform_reform: "Uniform Reform" #NT!
- MNT_uniform_reform_desc: "" #NT!
+ MNT_uniform_reform: "Uniform Reform" 
+ MNT_uniform_reform_desc: "" 
   
- MNT_army_band: "Army Band" #NT!
- MNT_army_band_desc: "" #NT!
+ MNT_army_band: "Army Band" 
+ MNT_army_band_desc: "" 
   
- MNT_department_of_military_Affairs: "Department Of Military Affairs" #NT!
- MNT_department_of_military_Affairs_desc: "Forming of this department is definitely needed, because more wars are going to happen in future." #NT!
+ MNT_department_of_military_Affairs: "Department Of Military Affairs" 
+ MNT_department_of_military_Affairs_desc: "Forming of this department is definitely needed, because more wars are going to happen in future." 
   
- MNT_focus_negotiations_with_the_ottomans: "Negotiation with Ottomans" #NT!
- MNT_focus_negotiations_with_the_ottomans_desc: " " #NT!
+ MNT_focus_negotiations_with_the_ottomans: "Negotiation with Ottomans" 
+ MNT_focus_negotiations_with_the_ottomans_desc: " " 
   
- MNT_focus_defend_the_nation: "Defend the Nation" #NT!
- MNT_focus_defend_the_nation_desc: " " #NT!
+ MNT_focus_defend_the_nation: "Defend the Nation" 
+ MNT_focus_defend_the_nation_desc: " " 
   
- MNT_focus_recognize_our_status_under_the_ottomans: "Recognise Our Status to Ottomans" #NT!
- MNT_focus_recognize_our_status_under_the_ottomans_desc: " " #NT!
+ MNT_focus_recognize_our_status_under_the_ottomans: "Recognise Our Status to Ottomans" 
+ MNT_focus_recognize_our_status_under_the_ottomans_desc: " " 
   
- MNT_focus_strike_a_deal_with_the_ottomans: "Deal with Ottomans" #NT!
- MNT_focus_strike_a_deal_with_the_ottomans_desc: " " #NT!
+ MNT_focus_strike_a_deal_with_the_ottomans: "Deal with Ottomans" 
+ MNT_focus_strike_a_deal_with_the_ottomans_desc: " " 
   
- MNT_focus_the_mostar_convention: "Mostar Convention" #NT!
- MNT_focus_the_mostar_convention_desc: " " #NT!
+ MNT_focus_the_mostar_convention: "Mostar Convention" 
+ MNT_focus_the_mostar_convention_desc: " " 
   
- MNT_focus_transgress_the_agreement: "Transgress the Agreement" #NT!
- MNT_focus_transgress_the_agreement_desc: " " #NT!
+ MNT_focus_transgress_the_agreement: "Transgress the Agreement" 
+ MNT_focus_transgress_the_agreement_desc: " " 
   
- MNT_focus_new_goals_for_our_nation: "New Goals for our Nation" #NT!
+ MNT_focus_new_goals_for_our_nation: "New Goals for our Nation" 
   
- MNT_focus_support_the_uprising_in_herzegovina: "Support Uprising in Hercegovina" #NT!
+ MNT_focus_support_the_uprising_in_herzegovina: "Support Uprising in Hercegovina" 
   
- MNT_focus_smuggle_weapons_into_herzegovina: "Smuggle Weapon Supplies" #NT!
+ MNT_focus_smuggle_weapons_into_herzegovina: "Smuggle Weapon Supplies" 
   
- MNT_focus_send_jarosi_battalions: "Send Jarosi Batalions" #NT!
+ MNT_focus_send_jarosi_battalions: "Send Jarosi Batalions" 
   
- MNT_focus_appoint_more_loyal_leaders: "Appoint More Loyal Leader" #NT!
+ MNT_focus_appoint_more_loyal_leaders: "Appoint More Loyal Leader" 
   
- MNT_focus_negotiate_a_ceasefire: "Negotiated Ceasefire" #NT!
+ MNT_focus_negotiate_a_ceasefire: "Negotiated Ceasefire" 
   
- MNT_focus_take_what_we_deserve: "Take what we Deserve" #NT!
+ MNT_focus_take_what_we_deserve: "Take what we Deserve" 
   
- MNT_focus_work_on_incorporating_the_new_lands: "Work on Incorporating the New Lands" #NT!
+ MNT_focus_work_on_incorporating_the_new_lands: "Work on Incorporating the New Lands" 
   
- MNT_focus_assist_with_the_economic_rebuilding: "Assist with the Economic Rebuilding" #NT!
+ MNT_focus_assist_with_the_economic_rebuilding: "Assist with the Economic Rebuilding" 
   
- MNT_focus_the_scutari_convention: "The Scutari Convention" #NT!
+ MNT_focus_the_scutari_convention: "The Scutari Convention" 
   
- MNT_focus_ignore_the_treatys_stipulations: "Ignore the Treaty's Stipulations" #NT!
+ MNT_focus_ignore_the_treatys_stipulations: "Ignore the Treaty's Stipulations" 
   
- MNT_focus_prepare_for_the_final_war_of_independence: "Prepare for the Final War of Independence" #NT!
+ MNT_focus_prepare_for_the_final_war_of_independence: "Prepare for the Final War of Independence" 
   
- MNT_focus_into_the_new_age: "Into the New Age" #NT!
- MNT_focus_into_the_new_age_desc: " " #NT!
+ MNT_focus_into_the_new_age: "Into the New Age" 
+ MNT_focus_into_the_new_age_desc: " " 
   
- MNT_focus_agriculture_reform: "Agriculture Reform" #NT!
- MNT_focus_agriculture_reform_desc: " " #NT!
+ MNT_focus_agriculture_reform: "Agriculture Reform" 
+ MNT_focus_agriculture_reform_desc: " " 
   
- MNT_focus_modern_livestock_farming: "Modern Livestock Farming" #NT!
- MNT_focus_modern_livestock_farming_desc: " " #NT!
+ MNT_focus_modern_livestock_farming: "Modern Livestock Farming" 
+ MNT_focus_modern_livestock_farming_desc: " " 
   
- MNT_focus_beef_exports: "Beef Exports" #NT!
- MNT_focus_beef_exports_desc: " " #NT!
+ MNT_focus_beef_exports: "Beef Exports" 
+ MNT_focus_beef_exports_desc: " " 
   
- MNT_focus_animal_breeding: "Animal Breeding" #NT!
- MNT_focus_animal_breeding_desc: " " #NT!
+ MNT_focus_animal_breeding: "Animal Breeding" 
+ MNT_focus_animal_breeding_desc: " " 
   
- MNT_focus_promote_local_agriculture: "Promote Local Agriculture" #NT!
- MNT_focus_promote_local_agriculture_desc: " " #NT!
+ MNT_focus_promote_local_agriculture: "Promote Local Agriculture" 
+ MNT_focus_promote_local_agriculture_desc: " " 
   
- MNT_focus_improve_farming_methods: "Improve Farming Methods" #NT!
- MNT_focus_improve_farming_methods_desc: " " #NT!
+ MNT_focus_improve_farming_methods: "Improve Farming Methods" 
+ MNT_focus_improve_farming_methods_desc: " " 
   
- MNT_focus_buy_modern_machinery: "Buy Modern Machinery" #NT!
- MNT_focus_buy_modern_machinery_desc: " " #NT!
+ MNT_focus_buy_modern_machinery: "Buy Modern Machinery" 
+ MNT_focus_buy_modern_machinery_desc: " " 
   
- MNT_focus_increase_farming_yields: "Increase Farming Yields" #NT!
- MNT_focus_increase_farming_yields_desc: " " #NT!
+ MNT_focus_increase_farming_yields: "Increase Farming Yields" 
+ MNT_focus_increase_farming_yields_desc: " " 
   
- MNT_focus_advance_agricultural_technology: "Advance Agricultural Technology" #NT!
- MNT_focus_advance_agricultural_technology_desc: " " #NT!
+ MNT_focus_advance_agricultural_technology: "Advance Agricultural Technology" 
+ MNT_focus_advance_agricultural_technology_desc: " " 
   
- MNT_focus_a_surplus_of_foodstuff: "A Surplus of Foodstuff" #NT!
- MNT_focus_a_surplus_of_foodstuff_desc: " " #NT!
+ MNT_focus_a_surplus_of_foodstuff: "A Surplus of Foodstuff" 
+ MNT_focus_a_surplus_of_foodstuff_desc: " " 
   
- MNT_focus_build_a_saltworks: "Build a Saltworks" #NT!
- MNT_focus_build_a_saltworks_desc: " " #NT!
+ MNT_focus_build_a_saltworks: "Build a Saltworks" 
+ MNT_focus_build_a_saltworks_desc: " " 
   
- MNT_focus_fewer_farmers_more_soldiers: "Fewer Farmers, More Soldiers" #NT!
- MNT_focus_fewer_farmers_more_soldiers_desc: " " #NT!
+ MNT_focus_fewer_farmers_more_soldiers: "Fewer Farmers, More Soldiers" 
+ MNT_focus_fewer_farmers_more_soldiers_desc: " " 
   
- MNT_focus_more_crops_for_exports: "More Crops for Export" #NT!
- MNT_focus_more_crops_for_exports_desc: " " #NT!
+ MNT_focus_more_crops_for_exports: "More Crops for Export" 
+ MNT_focus_more_crops_for_exports_desc: " " 
   
- MNT_focus_self_sufficient_agriculture: "Self-Sufficient Agriculture" #NT!
- MNT_focus_self_sufficient_agriculture_desc: " " #NT!
+ MNT_focus_self_sufficient_agriculture: "Self-Sufficient Agriculture" 
+ MNT_focus_self_sufficient_agriculture_desc: " " 
   
- MNT_focus_combat_ottoman_landownership: "Combat Ottoman Landownership" #NT!
- MNT_focus_combat_ottoman_landownership_desc: " " #NT!
+ MNT_focus_combat_ottoman_landownership: "Combat Ottoman Landownership" 
+ MNT_focus_combat_ottoman_landownership_desc: " " 
   
- MNT_focus_offer_to_purchase_their_farms: "Offer to Purchase their Farms" #NT!
- MNT_focus_offer_to_purchase_their_farms_desc: " " #NT!
+ MNT_focus_offer_to_purchase_their_farms: "Offer to Purchase their Farms" 
+ MNT_focus_offer_to_purchase_their_farms_desc: " " 
   
- MNT_focus_nationalize_their_property: "Nationalize their Property" #NT!
- MNT_focus_nationalize_their_property_desc: " " #NT!
+ MNT_focus_nationalize_their_property: "Nationalize their Property" 
+ MNT_focus_nationalize_their_property_desc: " " 
   
- MNT_focus_give_more_land_to_tenant_farmers: "Give More Land to Tenant Farmers" #NT!
- MNT_focus_give_more_land_to_tenant_farmers_desc: " " #NT!
+ MNT_focus_give_more_land_to_tenant_farmers: "Give More Land to Tenant Farmers" 
+ MNT_focus_give_more_land_to_tenant_farmers_desc: " " 
   
- MNT_focus_give_more_land_to_montenegrin_landlords: "Give More Land to Montenegrin Landlords" #NT!
- MNT_focus_give_more_land_to_montenegrin_landlords_desc: " " #NT!
+ MNT_focus_give_more_land_to_montenegrin_landlords: "Give More Land to Montenegrin Landlords" 
+ MNT_focus_give_more_land_to_montenegrin_landlords_desc: " " 
   
- MNT_focus_give_more_land_to_the_ruler_and_his_friends: "Give More Land to the Ruler and his Friends" #NT!
- MNT_focus_give_more_land_to_the_ruler_and_his_friends_desc: " " #NT!
+ MNT_focus_give_more_land_to_the_ruler_and_his_friends: "Give More Land to the Ruler and his Friends" 
+ MNT_focus_give_more_land_to_the_ruler_and_his_friends_desc: " " 
   
- MNT_focus_forestry_efforts: "Forestry Efforts" #NT!
- MNT_focus_forestry_efforts_desc: " " #NT!
+ MNT_focus_forestry_efforts: "Forestry Efforts" 
+ MNT_focus_forestry_efforts_desc: " " 
   
- MNT_focus_build_sawmills: "Build Sawmills" #NT!
- MNT_focus_build_sawmills_desc: " " #NT!
+ MNT_focus_build_sawmills: "Build Sawmills" 
+ MNT_focus_build_sawmills_desc: " " 
   
- MNT_focus_support_the_creation_of_an_industrial_sector: "Support the Creation of an Industrial Sector" #NT!
- MNT_focus_support_the_creation_of_an_industrial_sector_desc: " " #NT!
+ MNT_focus_support_the_creation_of_an_industrial_sector: "Support the Creation of an Industrial Sector" 
+ MNT_focus_support_the_creation_of_an_industrial_sector_desc: " " 
   
- MNT_focus_exploit_the_natural_riches_of_montenegro: "Exploit the Natural Riches of Montenegro" #NT!
- MNT_focus_exploit_the_natural_riches_of_montenegro_desc: " " #NT!
+ MNT_focus_exploit_the_natural_riches_of_montenegro: "Exploit the Natural Riches of Montenegro" 
+ MNT_focus_exploit_the_natural_riches_of_montenegro_desc: " " 
   
- MNT_focus_state_of_the_montenegrin_army: "State of the Montenegrin Army" #NT!
- MNT_focus_state_of_the_montenegrin_army_desc: " " #NT!
+ MNT_focus_state_of_the_montenegrin_army: "State of the Montenegrin Army" 
+ MNT_focus_state_of_the_montenegrin_army_desc: " " 
   
- MNT_focus_danilos_army_reform: "Danilo's Army Reform" #NT!
- MNT_focus_danilos_army_reform_desc: " " #NT!
+ MNT_focus_danilos_army_reform: "Danilo's Army Reform" 
+ MNT_focus_danilos_army_reform_desc: " " 
   
- MNT_focus_fortification_efforts: "Fortification Efforts" #NT!
- MNT_focus_fortification_efforts_desc: " " #NT!
+ MNT_focus_fortification_efforts: "Fortification Efforts" 
+ MNT_focus_fortification_efforts_desc: " " 
   
- MNT_focus_new_fortification_system: "New Fortification System" #NT!
- MNT_focus_new_fortification_system_desc: " " #NT!
+ MNT_focus_new_fortification_system: "New Fortification System" 
+ MNT_focus_new_fortification_system_desc: " " 
   
- MNT_focus_the_questions_of_funding_and_workforce: "The Questions of Funding and Workforce" #NT!
- MNT_focus_the_questions_of_funding_and_workforce_desc: " " #NT!
+ MNT_focus_the_questions_of_funding_and_workforce: "The Questions of Funding and Workforce" 
+ MNT_focus_the_questions_of_funding_and_workforce_desc: " " 
   
- MNT_focus_a_military_workforce: "A Military Workforce" #NT!
- MNT_focus_a_military_workforce_desc: " " #NT!
+ MNT_focus_a_military_workforce: "A Military Workforce" 
+ MNT_focus_a_military_workforce_desc: " " 
   
- MNT_focus_creating_work_for_the_unemployed: "Creating Work for the Unemployed" #NT!
- MNT_focus_creating_work_for_the_unemployed_desc: " " #NT!
+ MNT_focus_creating_work_for_the_unemployed: "Creating Work for the Unemployed" 
+ MNT_focus_creating_work_for_the_unemployed_desc: " " 
   
- MNT_focus_force_civilians_to_work: "Force Civilians to Work" #NT!
- MNT_focus_force_civilians_to_work_desc: " " #NT!
+ MNT_focus_force_civilians_to_work: "Force Civilians to Work" 
+ MNT_focus_force_civilians_to_work_desc: " " 
   
- MNT_focus_the_question_of_clans_in_the_army: "The Question of Clans in the Army" #NT!
- MNT_focus_the_question_of_clans_in_the_army_desc: " " #NT!
+ MNT_focus_the_question_of_clans_in_the_army: "The Question of Clans in the Army" 
+ MNT_focus_the_question_of_clans_in_the_army_desc: " " 
   
- MNT_focus_integrate_other_tribal_armies: "Integrate other Tribal Armies" #NT!
- MNT_focus_integrate_other_tribal_armies_desc: " " #NT!
+ MNT_focus_integrate_other_tribal_armies: "Integrate other Tribal Armies" 
+ MNT_focus_integrate_other_tribal_armies_desc: " " 
   
- MNT_focus_an_army_of_equal_opportunities: "An Army of Equal Opportunities" #NT!
- MNT_focus_an_army_of_equal_opportunities_desc: " " #NT!
+ MNT_focus_an_army_of_equal_opportunities: "An Army of Equal Opportunities" 
+ MNT_focus_an_army_of_equal_opportunities_desc: " " 
   
- MNT_focus_integrate_the_command_of_the_clan_armies: "Integrate the Command of the Clan Armies" #NT!
- MNT_focus_integrate_the_command_of_the_clan_armies_desc: " " #NT!
+ MNT_focus_integrate_the_command_of_the_clan_armies: "Integrate the Command of the Clan Armies" 
+ MNT_focus_integrate_the_command_of_the_clan_armies_desc: " " 
   
- MNT_focus_introduce_alaj_barjak: "Introduce Alaj-Barjak" #NT!
- MNT_focus_introduce_alaj_barjak_desc: " " #NT!
+ MNT_focus_introduce_alaj_barjak: "Introduce Alaj-Barjak" 
+ MNT_focus_introduce_alaj_barjak_desc: " " 
   
- MNT_focus_new_uniforms: "New Uniforms" #NT!
- MNT_focus_new_uniforms_desc: " " #NT!
+ MNT_focus_new_uniforms: "New Uniforms" 
+ MNT_focus_new_uniforms_desc: " " 
   
- MNT_focus_map_our_lands: "Map our Lands" #NT!
- MNT_focus_map_our_lands_desc: " " #NT!
+ MNT_focus_map_our_lands: "Map our Lands" 
+ MNT_focus_map_our_lands_desc: " " 
   
- MNT_focus_take_advantage_of_our_terrain: "Take Advantage of our Terrain" #NT!
- MNT_focus_take_advantage_of_our_terrain_desc: " " #NT!
+ MNT_focus_take_advantage_of_our_terrain: "Take Advantage of our Terrain" 
+ MNT_focus_take_advantage_of_our_terrain_desc: " " 
   
- MNT_focus_establish_special_mountain_training: "Establish Special Mountain Training" #NT!
- MNT_focus_establish_special_mountain_training_desc: " " #NT!
+ MNT_focus_establish_special_mountain_training: "Establish Special Mountain Training" 
+ MNT_focus_establish_special_mountain_training_desc: " " 
   
- MNT_focus_mountaineer_infantry: "Mountaineer Infantry" #NT!
- MNT_focus_mountaineer_infantry_desc: " " #NT!
+ MNT_focus_mountaineer_infantry: "Mountaineer Infantry" 
+ MNT_focus_mountaineer_infantry_desc: " " 
   
- MNT_focus_department_of_military_affairs: "Department of Military Affairs" #NT!
- MNT_focus_department_of_military_affairs_desc: " " #NT!
+ MNT_focus_department_of_military_affairs: "Department of Military Affairs" 
+ MNT_focus_department_of_military_affairs_desc: " " 
   
- MNT_focus_establish_an_army_band: "Establish an Army Band" #NT!
- MNT_focus_establish_an_army_band_desc: " " #NT!
+ MNT_focus_establish_an_army_band: "Establish an Army Band" 
+ MNT_focus_establish_an_army_band_desc: " " 
   
- MNT_focus_study_foreign_tactics: "Study Foreign Tactics" #NT!
- MNT_focus_study_foreign_tactics_desc: " " #NT!
+ MNT_focus_study_foreign_tactics: "Study Foreign Tactics" 
+ MNT_focus_study_foreign_tactics_desc: " " 
   
- MNT_focus_send_officers_to_foreign_military_academies: "Send Officers to Foreign Military Academies" #NT!
- MNT_focus_send_officers_to_foreign_military_academies_desc: " " #NT!
+ MNT_focus_send_officers_to_foreign_military_academies: "Send Officers to Foreign Military Academies" 
+ MNT_focus_send_officers_to_foreign_military_academies_desc: " " 
   
- MNT_focus_military_cooperation_with_serbia: "Military Cooperation with Serbia" #NT!
- MNT_focus_military_cooperation_with_serbia_desc: " " #NT!
+ MNT_focus_military_cooperation_with_serbia: "Military Cooperation with Serbia" 
+ MNT_focus_military_cooperation_with_serbia_desc: " " 
   
- MNT_focus_purchase_foreign_weapons: "Purchase Foreign Weapons" #NT!
- MNT_focus_purchase_foreign_weapons_desc: " " #NT!
+ MNT_focus_purchase_foreign_weapons: "Purchase Foreign Weapons" 
+ MNT_focus_purchase_foreign_weapons_desc: " " 
   
- MNT_focus_send_army_commanders_to_serbia: "Send Army Commanders to Serbia" #NT!
- MNT_focus_send_army_commanders_to_serbia_desc: " " #NT!
+ MNT_focus_send_army_commanders_to_serbia: "Send Army Commanders to Serbia" 
+ MNT_focus_send_army_commanders_to_serbia_desc: " " 
   
- MNT_focus_training_for_artillery_battalions: "Training for Artillery Battalions" #NT!
- MNT_focus_training_for_artillery_battalions_desc: " " #NT!
+ MNT_focus_training_for_artillery_battalions: "Training for Artillery Battalions" 
+ MNT_focus_training_for_artillery_battalions_desc: " " 
   
- MNT_focus_improve_the_chain_of_command: "Improve the Chain of Command" #NT!
- MNT_focus_improve_the_chain_of_command_desc: " " #NT!
+ MNT_focus_improve_the_chain_of_command: "Improve the Chain of Command" 
+ MNT_focus_improve_the_chain_of_command_desc: " " 
   
- MNT_focus_the_mission_of_captain_jovanovic: "The Mission of Captain Jovanovic" #NT!
- MNT_focus_the_mission_of_captain_jovanovic_desc: " " #NT!
+ MNT_focus_the_mission_of_captain_jovanovic: "The Mission of Captain Jovanovic" 
+ MNT_focus_the_mission_of_captain_jovanovic_desc: " " 
   
- MNT_focus_recruitment_campaigns: "Recruitment Campaigns" #NT!
- MNT_focus_recruitment_campaigns_desc: " " #NT!
+ MNT_focus_recruitment_campaigns: "Recruitment Campaigns" 
+ MNT_focus_recruitment_campaigns_desc: " " 
   
- MNT_focus_volunteer_divisions: "Volunteer Divisions" #NT!
- MNT_focus_volunteer_divisions_desc: " " #NT!
+ MNT_focus_volunteer_divisions: "Volunteer Divisions" 
+ MNT_focus_volunteer_divisions_desc: " " 
   
- MNT_focus_war_preparation_plans: "War Preparation Plans" #NT!
- MNT_focus_war_preparation_plans_desc: " " #NT!
+ MNT_focus_war_preparation_plans: "War Preparation Plans" 
+ MNT_focus_war_preparation_plans_desc: " " 
   
- MNT_focus_improve_the_conditions_in_the_army: "Improve the Conditions in the Army" #NT!
- MNT_focus_improve_the_conditions_in_the_army_desc: " " #NT!
+ MNT_focus_improve_the_conditions_in_the_army: "Improve the Conditions in the Army" 
+ MNT_focus_improve_the_conditions_in_the_army_desc: " " 
   
- MNT_focus_establish_field_hospitals: "Establish Field Hospitals" #NT!
- MNT_focus_establish_field_hospitals_desc: " " #NT!
+ MNT_focus_establish_field_hospitals: "Establish Field Hospitals" 
+ MNT_focus_establish_field_hospitals_desc: " " 
   
- MNT_focus_ask_the_red_cross_for_assistance: "Ask the Red Cross for Assistance" #NT!
- MNT_focus_ask_the_red_cross_for_assistance_desc: " " #NT!
+ MNT_focus_ask_the_red_cross_for_assistance: "Ask the Red Cross for Assistance" 
+ MNT_focus_ask_the_red_cross_for_assistance_desc: " " 
   
- MNT_focus_professionalization_of_field_medics: "Professionalization of Field Medics" #NT!
- MNT_focus_professionalization_of_field_medics_desc: " " #NT!
+ MNT_focus_professionalization_of_field_medics: "Professionalization of Field Medics" 
+ MNT_focus_professionalization_of_field_medics_desc: " " 
   
- MNT_focus_an_army_of_the_present: "An Army of the Present" #NT!
- MNT_focus_an_army_of_the_present_desc: " " #NT!
+ MNT_focus_an_army_of_the_present: "An Army of the Present" 
+ MNT_focus_an_army_of_the_present_desc: " " 
   
- MNT_focus_the_montenegrin_navy: "The Montenegrin Navy" #NT!
- MNT_focus_the_montenegrin_navy_desc: " " #NT!
+ MNT_focus_the_montenegrin_navy: "The Montenegrin Navy" 
+ MNT_focus_the_montenegrin_navy_desc: " " 
   
- MNT_focus_establish_our_main_harbors: "Establish our Main Harbors" #NT!
- MNT_focus_establish_our_main_harbors_desc: " " #NT!
+ MNT_focus_establish_our_main_harbors: "Establish our Main Harbors" 
+ MNT_focus_establish_our_main_harbors_desc: " " 
   
- MNT_focus_rebuild_kotor: "Rebuild Kotor" #NT!
- MNT_focus_rebuild_kotor_desc: " " #NT!
+ MNT_focus_rebuild_kotor: "Rebuild Kotor" 
+ MNT_focus_rebuild_kotor_desc: " " 
   
- MNT_focus_expand_facilities_in_bar: "Expand Facilities in Bar" #NT!
- MNT_focus_expand_facilities_in_bar_desc: " " #NT!
+ MNT_focus_expand_facilities_in_bar: "Expand Facilities in Bar" 
+ MNT_focus_expand_facilities_in_bar_desc: " " 
   
- MNT_focus_a_shore_defense_flotilla: "A Shore Defense Flotilla" #NT!
- MNT_focus_a_shore_defense_flotilla_desc: " " #NT!
+ MNT_focus_a_shore_defense_flotilla: "A Shore Defense Flotilla" 
+ MNT_focus_a_shore_defense_flotilla_desc: " " 
   
- MNT_focus_send_navy_officers_to_foreign_academies: "Send Navy Officers to Foreign Academies" #NT!
- MNT_focus_send_navy_officers_to_foreign_academies_desc: " " #NT!
+ MNT_focus_send_navy_officers_to_foreign_academies: "Send Navy Officers to Foreign Academies" 
+ MNT_focus_send_navy_officers_to_foreign_academies_desc: " " 
   
- MNT_focus_recruitment_campaign_for_new_sailors: "Recruitment Campaign for New Sailors" #NT!
- MNT_focus_recruitment_campaign_for_new_sailors_desc: " " #NT!
+ MNT_focus_recruitment_campaign_for_new_sailors: "Recruitment Campaign for New Sailors" 
+ MNT_focus_recruitment_campaign_for_new_sailors_desc: " " 
   
- MNT_focus_naval_innovations: "Naval Innovations" #NT!
- MNT_focus_naval_innovations_desc: " " #NT!
+ MNT_focus_naval_innovations: "Naval Innovations" 
+ MNT_focus_naval_innovations_desc: " " 
   
- MNT_focus_purchase_foreign_vessels: "Purchase Foreign Vessels" #NT!
- MNT_focus_purchase_foreign_vessels_desc: " " #NT!
+ MNT_focus_purchase_foreign_vessels: "Purchase Foreign Vessels" 
+ MNT_focus_purchase_foreign_vessels_desc: " " 
   
- MNT_focus_focus_on_a_merchant_fleet: "Focus on a Merchant Fleet" #NT!
- MNT_focus_focus_on_a_merchant_fleet_desc: " " #NT!
+ MNT_focus_focus_on_a_merchant_fleet: "Focus on a Merchant Fleet" 
+ MNT_focus_focus_on_a_merchant_fleet_desc: " " 
   
- MNT_focus_the_trade_must_flow: "The Trade Must Flow" #NT!
- MNT_focus_the_trade_must_flow_desc: " " #NT!
+ MNT_focus_the_trade_must_flow: "The Trade Must Flow" 
+ MNT_focus_the_trade_must_flow_desc: " " 
   
- MNT_focus_secure_coastal_areas: "Secure Coastal Areas" #NT!
- MNT_focus_secure_coastal_areas_desc: " " #NT!
+ MNT_focus_secure_coastal_areas: "Secure Coastal Areas" 
+ MNT_focus_secure_coastal_areas_desc: " " 
   
- MNT_focus_fortify_our_coastline: "Fortify our Coastline" #NT!
- MNT_focus_fortify_our_coastline_desc: " " #NT!
+ MNT_focus_fortify_our_coastline: "Fortify our Coastline" 
+ MNT_focus_fortify_our_coastline_desc: " " 
   
- MNT_focus_prospect_for_iron_ore: "Prospect for Iron Ore" #NT!
- MNT_focus_prospect_for_iron_ore_desc: " " #NT!
+ MNT_focus_prospect_for_iron_ore: "Prospect for Iron Ore" 
+ MNT_focus_prospect_for_iron_ore_desc: " " 
   
- MNT_focus_find_coal_deposits: "Find Coal Deposits" #NT!
- MNT_focus_find_coal_deposits_desc: " " #NT!
+ MNT_focus_find_coal_deposits: "Find Coal Deposits" 
+ MNT_focus_find_coal_deposits_desc: " " 
   
- MNT_focus_metallurgy_innovations: "Metallurgy Innovations" #NT!
- MNT_focus_metallurgy_innovations_desc: " " #NT!
+ MNT_focus_metallurgy_innovations: "Metallurgy Innovations" 
+ MNT_focus_metallurgy_innovations_desc: " " 
   
- MNT_focus_experiment_with_steel_production: "Experiment with Steel Production" #NT!
- MNT_focus_experiment_with_steel_production_desc: " " #NT!
+ MNT_focus_experiment_with_steel_production: "Experiment with Steel Production" 
+ MNT_focus_experiment_with_steel_production_desc: " " 
   
- MNT_focus_process_bauxite_ore: "Process Bauxite Ore" #NT!
- MNT_focus_process_bauxite_ore_desc: " " #NT!
+ MNT_focus_process_bauxite_ore: "Process Bauxite Ore" 
+ MNT_focus_process_bauxite_ore_desc: " " 
   
- MNT_focus_purchase_machinery_for_a_military_factory: "Purchase Machinery for a Military Factory" #NT!
- MNT_focus_purchase_machinery_for_a_military_factory_desc: " " #NT!
+ MNT_focus_purchase_machinery_for_a_military_factory: "Purchase Machinery for a Military Factory" 
+ MNT_focus_purchase_machinery_for_a_military_factory_desc: " " 
   
- MNT_focus_experiment_with_military_production: "Experiment with Military Production" #NT!
- MNT_focus_experiment_with_military_production_desc: " " #NT!
+ MNT_focus_experiment_with_military_production: "Experiment with Military Production" 
+ MNT_focus_experiment_with_military_production_desc: " " 
   
- MNT_focus_rijeka_military_workshop: "Rijeka Military Workshop" #NT!
- MNT_focus_rijeka_military_workshop_desc: " " #NT!
+ MNT_focus_rijeka_military_workshop: "Rijeka Military Workshop" 
+ MNT_focus_rijeka_military_workshop_desc: " " 
   
- MNT_focus_construction_resource_industry: "Construction Resource Industry" #NT!
- MNT_focus_construction_resource_industry_desc: " " #NT!
+ MNT_focus_construction_resource_industry: "Construction Resource Industry" 
+ MNT_focus_construction_resource_industry_desc: " " 
   
- MNT_focus_expand_clay_pits: "Expand Clay Pits" #NT!
- MNT_focus_expand_clay_pits_desc: " " #NT!
+ MNT_focus_expand_clay_pits: "Expand Clay Pits" 
+ MNT_focus_expand_clay_pits_desc: " " 
   
- MNT_focus_build_more_quarries: "Build More Quarries" #NT!
- MNT_focus_build_more_quarries_desc: " " #NT!
+ MNT_focus_build_more_quarries: "Build More Quarries" 
+ MNT_focus_build_more_quarries_desc: " " 
   
- MNT_focus_new_construction_projects: "New Construction Projects" #NT!
- MNT_focus_new_construction_projects_desc: " " #NT!
+ MNT_focus_new_construction_projects: "New Construction Projects" 
+ MNT_focus_new_construction_projects_desc: " " 
   
- MNT_focus_rebuild_the_road_network: "Rebuild the Road Network" #NT!
- MNT_focus_rebuild_the_road_network_desc: " " #NT!
+ MNT_focus_rebuild_the_road_network: "Rebuild the Road Network" 
+ MNT_focus_rebuild_the_road_network_desc: " " 
   
- MNT_focus_build_new_stone_bridges: "Build New Stone Bridges" #NT!
- MNT_focus_build_new_stone_bridges_desc: " " #NT!
+ MNT_focus_build_new_stone_bridges: "Build New Stone Bridges" 
+ MNT_focus_build_new_stone_bridges_desc: " " 
   
- MNT_focus_centralized_road_system: "Centralized Road System" #NT!
- MNT_focus_centralized_road_system_desc: " " #NT!
+ MNT_focus_centralized_road_system: "Centralized Road System" 
+ MNT_focus_centralized_road_system_desc: " " 
   
- MNT_focus_connect_the_nahiyas: "Connect The Nahiyas" #NT!
- MNT_focus_connect_the_nahiyas_desc: " " #NT!
+ MNT_focus_connect_the_nahiyas: "Connect The Nahiyas" 
+ MNT_focus_connect_the_nahiyas_desc: " " 
   
- MNT_focus_urbanization_projects: "Urbanization Projects" #NT!
- MNT_focus_urbanization_projects_desc: " " #NT!
+ MNT_focus_urbanization_projects: "Urbanization Projects" 
+ MNT_focus_urbanization_projects_desc: " " 
   
- MNT_focus_rebuild_cetinje: "Rebuild Cetinje" #NT!
- MNT_focus_rebuild_cetinje_desc: " " #NT!
+ MNT_focus_rebuild_cetinje: "Rebuild Cetinje" 
+ MNT_focus_rebuild_cetinje_desc: " " 
   
- MNT_focus_dannilovgrad: "Dannilovgrad" #NT!
- MNT_focus_dannilovgrad_desc: " " #NT!
+ MNT_focus_dannilovgrad: "Dannilovgrad" 
+ MNT_focus_dannilovgrad_desc: " " 
   
- MNT_focus_urbanize_the_country: "Urbanize the Country" #NT!
- MNT_focus_urbanize_the_country_desc: " " #NT!
+ MNT_focus_urbanize_the_country: "Urbanize the Country" 
+ MNT_focus_urbanize_the_country_desc: " " 
   
- MNT_focus_support_new_businesses: "Support New Businesses" #NT!
- MNT_focus_support_new_businesses_desc: " " #NT!
+ MNT_focus_support_new_businesses: "Support New Businesses" 
+ MNT_focus_support_new_businesses_desc: " " 
   
- MNT_focus_trade_in_the_kotor_bay: "Trade in the Kotor Bay" #NT!
- MNT_focus_trade_in_the_kotor_bay_desc: " " #NT!
+ MNT_focus_trade_in_the_kotor_bay: "Trade in the Kotor Bay" 
+ MNT_focus_trade_in_the_kotor_bay_desc: " " 
   
- MNT_focus_maritime_cooperation_with_the_austrians: "Maritime Cooperation with the Austrians" #NT!
- MNT_focus_maritime_cooperation_with_the_austrians_desc: " " #NT!
+ MNT_focus_maritime_cooperation_with_the_austrians: "Maritime Cooperation with the Austrians" 
+ MNT_focus_maritime_cooperation_with_the_austrians_desc: " " 
   
- MNT_focus_postal_cooperation_with_the_austrians: "Postal Cooperation with the Austrians" #NT!
- MNT_focus_postal_cooperation_with_the_austrians_desc: " " #NT!
+ MNT_focus_postal_cooperation_with_the_austrians: "Postal Cooperation with the Austrians" 
+ MNT_focus_postal_cooperation_with_the_austrians_desc: " " 
   
- MNT_focus_cattaro_cetinje_telegraph_line: "Cattaro-Cetinje Telegraph Line" #NT!
- MNT_focus_cattaro_cetinje_telegraph_line_desc: " " #NT!
+ MNT_focus_cattaro_cetinje_telegraph_line: "Cattaro-Cetinje Telegraph Line" 
+ MNT_focus_cattaro_cetinje_telegraph_line_desc: " " 
   
- MNT_focus_socioeconomic_reforms: "Socioeconomic Reforms" #NT!
- MNT_focus_socioeconomic_reforms_desc: " " #NT!
+ MNT_focus_socioeconomic_reforms: "Socioeconomic Reforms" 
+ MNT_focus_socioeconomic_reforms_desc: " " 
   
- MNT_focus_croatian_textile_industry: "Croatian Textile Industry" #NT!
- MNT_focus_croatian_textile_industry_desc: " " #NT!
+ MNT_focus_croatian_textile_industry: "Croatian Textile Industry" 
+ MNT_focus_croatian_textile_industry_desc: " " 
   
- MNT_focus_administrative_reforms: "Administrative Reforms" #NT!
- MNT_focus_administrative_reforms_desc: " " #NT!
+ MNT_focus_administrative_reforms: "Administrative Reforms" 
+ MNT_focus_administrative_reforms_desc: " " 
   
- MNT_focus_reform_the_bureaucratic_apparatus: "Reform the Bureaucratic Apparatus" #NT!
- MNT_focus_reform_the_bureaucratic_apparatus_desc: " " #NT!
+ MNT_focus_reform_the_bureaucratic_apparatus: "Reform the Bureaucratic Apparatus" 
+ MNT_focus_reform_the_bureaucratic_apparatus_desc: " " 
   
- MNT_focus_new_system_for_tax_collection: "New System for Tax Collection" #NT!
- MNT_focus_new_system_for_tax_collection_desc: " " #NT!
+ MNT_focus_new_system_for_tax_collection: "New System for Tax Collection" 
+ MNT_focus_new_system_for_tax_collection_desc: " " 
   
- MNT_focus_first_census_of_the_montenegrin_people: "First Census of the Montenegrin People" #NT!
- MNT_focus_first_census_of_the_montenegrin_people_desc: " " #NT!
+ MNT_focus_first_census_of_the_montenegrin_people: "First Census of the Montenegrin People" 
+ MNT_focus_first_census_of_the_montenegrin_people_desc: " " 
   
- MNT_focus_a_survey_of_houses_fields_and_animals: "A Survey of Houses, Fields, and Animals" #NT!
- MNT_focus_a_survey_of_houses_fields_and_animals_desc: " " #NT!
+ MNT_focus_a_survey_of_houses_fields_and_animals: "A Survey of Houses, Fields, and Animals" 
+ MNT_focus_a_survey_of_houses_fields_and_animals_desc: " " 
   
- MNT_focus_bogisic_civil_code: "Bogišić Civil Code" #NT!
- MNT_focus_bogisic_civil_code_desc: " " #NT!
+ MNT_focus_bogisic_civil_code: "Bogišić Civil Code" 
+ MNT_focus_bogisic_civil_code_desc: " " 
   
- MNT_focus_religious_reforms: "Religious Reforms" #NT!
- MNT_focus_religious_reforms_desc: " " #NT!
+ MNT_focus_religious_reforms: "Religious Reforms" 
+ MNT_focus_religious_reforms_desc: " " 
   
- MNT_focus_sideline_the_church: "Sideline the Church" #NT!
- MNT_focus_sideline_the_church_desc: " " #NT!
+ MNT_focus_sideline_the_church: "Sideline the Church" 
+ MNT_focus_sideline_the_church_desc: " " 
   
- MNT_focus_church_collections_for_the_poor: "Church Collections for the Poor" #NT!
- MNT_focus_church_collections_for_the_poor_desc: " " #NT!
+ MNT_focus_church_collections_for_the_poor: "Church Collections for the Poor" 
+ MNT_focus_church_collections_for_the_poor_desc: " " 
   
- MNT_focus_secularization_of_the_state: "Secularization of the State" #NT!
- MNT_focus_secularization_of_the_state_desc: " " #NT!
+ MNT_focus_secularization_of_the_state: "Secularization of the State" 
+ MNT_focus_secularization_of_the_state_desc: " " 
   
- MNT_focus_new_bishop_of_cetinje: "New Bishop of Cetinje" #NT!
- MNT_focus_new_bishop_of_cetinje_desc: " " #NT!
+ MNT_focus_new_bishop_of_cetinje: "New Bishop of Cetinje" 
+ MNT_focus_new_bishop_of_cetinje_desc: " " 
   
- MNT_focus_cetinje_theological_seminary: "Cetinje Theological Seminary" #NT!
- MNT_focus_cetinje_theological_seminary_desc: " " #NT!
+ MNT_focus_cetinje_theological_seminary: "Cetinje Theological Seminary" 
+ MNT_focus_cetinje_theological_seminary_desc: " " 
   
- MNT_focus_monasterial_hospitals: "Monasterial Hospitals" #NT!
- MNT_focus_monasterial_hospitals_desc: " " #NT!
+ MNT_focus_monasterial_hospitals: "Monasterial Hospitals" 
+ MNT_focus_monasterial_hospitals_desc: " " 
   
- MNT_focus_join_the_red_cross: "Join the Red Cross" #NT!
- MNT_focus_join_the_red_cross_desc: " " #NT!
+ MNT_focus_join_the_red_cross: "Join the Red Cross" 
+ MNT_focus_join_the_red_cross_desc: " " 
   
- MNT_focus_the_clan_situation: "The Clan Situation" #NT!
- MNT_focus_the_clan_situation_desc: " " #NT!
+ MNT_focus_the_clan_situation: "The Clan Situation" 
+ MNT_focus_the_clan_situation_desc: " " 
   
- MNT_focus_assimilation_campaign: "Assimilation Campaign" #NT!
- MNT_focus_assimilation_campaign_desc: " " #NT!
+ MNT_focus_assimilation_campaign: "Assimilation Campaign" 
+ MNT_focus_assimilation_campaign_desc: " " 
   
- MNT_focus_rule_of_law_and_order: "Rule of Law and Order" #NT!
- MNT_focus_rule_of_law_and_order_desc: " " #NT!
+ MNT_focus_rule_of_law_and_order: "Rule of Law and Order" 
+ MNT_focus_rule_of_law_and_order_desc: " " 
   
- MNT_focus_incorporation_of_the_niksici_tribe: "Incorporation of the Niksici Tribe" #NT!
- MNT_focus_incorporation_of_the_niksici_tribe_desc: " " #NT!
+ MNT_focus_incorporation_of_the_niksici_tribe: "Incorporation of the Niksici Tribe" 
+ MNT_focus_incorporation_of_the_niksici_tribe_desc: " " 
   
- MNT_focus_the_kuci_bosniaks: "The Kuci Bosniaks" #NT!
- MNT_focus_the_kuci_bosniaks_desc: " " #NT!
+ MNT_focus_the_kuci_bosniaks: "The Kuci Bosniaks" 
+ MNT_focus_the_kuci_bosniaks_desc: " " 
   
- MNT_focus_suppress_the_brda_tribe: "Suppress the Brda Tribe" #NT!
- MNT_focus_suppress_the_brda_tribe_desc: " " #NT!
+ MNT_focus_suppress_the_brda_tribe: "Suppress the Brda Tribe" 
+ MNT_focus_suppress_the_brda_tribe_desc: " " 
   
- MNT_focus_changes_regarding_titles: "Changes Regarding Titles" #NT!
- MNT_focus_changes_regarding_titles_desc: " " #NT!
+ MNT_focus_changes_regarding_titles: "Changes Regarding Titles" 
+ MNT_focus_changes_regarding_titles_desc: " " 
   
- MNT_focus_clan_situation_resolved: "Clan Situation Resolved" #NT!
- MNT_focus_clan_situation_resolved_desc: " " #NT!
+ MNT_focus_clan_situation_resolved: "Clan Situation Resolved" 
+ MNT_focus_clan_situation_resolved_desc: " " 
   
- MNT_focus_education_reforms: "Education Reforms" #NT!
- MNT_focus_education_reforms_desc: " " #NT!
+ MNT_focus_education_reforms: "Education Reforms" 
+ MNT_focus_education_reforms_desc: " " 
   
- MNT_focus_repair_the_njegos_printing_house: "Repair the Njegoš Printing House" #NT!
- MNT_focus_repair_the_njegos_printing_house_desc: "  " #NT!
+ MNT_focus_repair_the_njegos_printing_house: "Repair the Njegoš Printing House" 
+ MNT_focus_repair_the_njegos_printing_house_desc: "  " 
   
- MNT_focus_the_crnogorac_newspaper: "The Crnogorac Newspaper" #NT!
- MNT_focus_the_crnogorac_newspaper_desc: " " #NT!
+ MNT_focus_the_crnogorac_newspaper: "The Crnogorac Newspaper" 
+ MNT_focus_the_crnogorac_newspaper_desc: " " 
   
- MNT_focus_fund_new_schools: "Fund New Schools" #NT!
- MNT_focus_fund_new_schools_desc: " " #NT!
+ MNT_focus_fund_new_schools: "Fund New Schools" 
+ MNT_focus_fund_new_schools_desc: " " 
   
- MNT_focus_girls_institute_of_cetinje: "Girls Institute of Cetinje" #NT!
- MNT_focus_girls_institute_of_cetinje_desc: " " #NT!
+ MNT_focus_girls_institute_of_cetinje: "Girls Institute of Cetinje" 
+ MNT_focus_girls_institute_of_cetinje_desc: " " 
   
- MNT_focus_build_schools_in_the_countryside: "Build Schools in the Countryside" #NT!
- MNT_focus_build_schools_in_the_countryside_desc: " " #NT!
+ MNT_focus_build_schools_in_the_countryside: "Build Schools in the Countryside" 
+ MNT_focus_build_schools_in_the_countryside_desc: " " 
   
  ### EVENTS ### 
- montenegro.1.t: "Clans" #NT!
- montenegro.1.d: "Clans" #NT!
- montenegro.1.a: "Ok" #NT!
+ montenegro.1.t: "Clans" 
+ montenegro.1.d: "Clans" 
+ montenegro.1.a: "Ok" 
   
- montenegro.2.t: "Knez Danilo Assassinated" #NT!
- montenegro.2.d: "Our Knez was shot!" #NT!
- montenegro.2.a: "Horrible!" #NT!
+ montenegro.2.t: "Knez Danilo Assassinated" 
+ montenegro.2.d: "Our Knez was shot!" 
+ montenegro.2.a: "Horrible!" 
   
- montenegro.3.t: "Knez Nikola I" #NT!
- montenegro.3.d: "The echo of fire in Kotor on our leader knez Danilo is still heard through Montenegro. Ater two days of fighting for his life surounded by his wife and close friends, he has passed away. This left to us a much greater question and that is his sucession. He had only one daughter, princes Olga who is one year old. The closest male relative is his brother and army comander Mirko Petrovič-Njegoš. But he has rejected the throne for himself and offers to make Nikola next knez. Coronation will be held in the near future after Danilo is buried in Cetinje." #NT!
- montenegro.3.a: "Knez is dead. Long live the knez Nikola I." #NT!
+ montenegro.3.t: "Knez Nikola I" 
+ montenegro.3.d: "The echo of fire in Kotor on our leader knez Danilo is still heard through Montenegro. Ater two days of fighting for his life surounded by his wife and close friends, he has passed away. This left to us a much greater question and that is his sucession. He had only one daughter, princes Olga who is one year old. The closest male relative is his brother and army comander Mirko Petrovič-Njegoš. But he has rejected the throne for himself and offers to make Nikola next knez. Coronation will be held in the near future after Danilo is buried in Cetinje." 
+ montenegro.3.a: "Knez is dead. Long live the knez Nikola I." 
   
- montenegro.4.t: "Support Herzegovina Uprising" #NT!
- montenegro.4.d: "There has been an uprising in Herzegovina since 1852. During the Congress Of Paris in 1856, Ottomans said that we are not an independent nation, but a part of their territory! Our Knez thinks that is unacceptable. He thinks we should start supporting Luka Vukalović and his uprising." #NT!
- montenegro.4.a: "We will support our brothers!" #NT!
+ montenegro.4.t: "Support Herzegovina Uprising" 
+ montenegro.4.d: "There has been an uprising in Herzegovina since 1852. During the Congress Of Paris in 1856, Ottomans said that we are not an independent nation, but a part of their territory! Our Knez thinks that is unacceptable. He thinks we should start supporting Luka Vukalović and his uprising." 
+ montenegro.4.a: "We will support our brothers!" 
   
- montenegro.5.t: "Ottoman Empire declared war on us!" #NT!
+ montenegro.5.t: "Ottoman Empire declared war on us!" 
   montenegro.5.d: "The Ottomans found out about us supporting the rebels in Herzegovina. The Porte has decided to attack our country because of that. We must defend our country! 
- montenegro.5.a: "We must win." #NT!
+ montenegro.5.a: "We must win." 
   
- montenegro.6.t: "Visit Alexander II of Russia" #NT!
- montenegro.6.d: "Visit Alexander II of Russia" #NT!
- montenegro.6.a: "Ok" #NT!
+ montenegro.6.t: "Visit Alexander II of Russia" 
+ montenegro.6.d: "Visit Alexander II of Russia" 
+ montenegro.6.a: "Ok" 
   
- montenegro.236.t: "Crnogorac" #NT!
- montenegro.236.d: "" #NT!
- montenegro.236.a: "Ok" #NT!
+ montenegro.236.t: "Crnogorac" 
+ montenegro.236.d: "" 
+ montenegro.236.a: "Ok" 
   
- montenegro.237.t: "Milan Kostić and the Constitution of the Cetinje Seminary" #NT!
- montenegro.237.d: "" #NT!
- montenegro.237.a: "Ok" #NT!
+ montenegro.237.t: "Milan Kostić and the Constitution of the Cetinje Seminary" 
+ montenegro.237.d: "" 
+ montenegro.237.a: "Ok" 
   
- montenegro.8.t: "Krivošije uprising" #NT!
- montenegro.8.d: "Austro-Hungarian government made a decision to extend military conscription to the tribe Krivošije, so they decided to rebel against them. We should only support them secretly, because we don't want any major attention." #NT!
- montenegro.8.a: "We will support them secretly." #NT!
+ montenegro.8.t: "Krivošije uprising" 
+ montenegro.8.d: "Austro-Hungarian government made a decision to extend military conscription to the tribe Krivošije, so they decided to rebel against them. We should only support them secretly, because we don't want any major attention." 
+ montenegro.8.a: "We will support them secretly." 
   
- montenegro.9.t: "Build of Danilovgrad Town" #NT!
- montenegro.9.d: " " #NT!
- montenegro.9.a: "Amazing!" #NT!
+ montenegro.9.t: "Build of Danilovgrad Town" 
+ montenegro.9.d: " " 
+ montenegro.9.a: "Amazing!" 
   
- montenegro.10.t: "Montenegrin Trade in Kotor Bay?" #NT!
- montenegro.10.d: " " #NT!
- montenegro.10.a: "We should accept!" #NT!
- montenegro.10.b: "We shouldn't accept!" #NT!
+ montenegro.10.t: "Montenegrin Trade in Kotor Bay?" 
+ montenegro.10.d: " " 
+ montenegro.10.a: "We should accept!" 
+ montenegro.10.b: "We shouldn't accept!" 
   
- montenegro.11.t: "Trade in Kotor Bay - Austria Accepts Proporsal" #NT!
- montenegro.11.d: " " #NT!
- montenegro.11.a: "Amazing!" #NT!
+ montenegro.11.t: "Trade in Kotor Bay - Austria Accepts Proporsal" 
+ montenegro.11.d: " " 
+ montenegro.11.a: "Amazing!" 
   
- montenegro.12.t: "Trade in Kotor Bay - Austria Declines Proporsal" #NT!
- montenegro.12.d: " " #NT!
- montenegro.12.a: "That shouldn't happened!" #NT!
+ montenegro.12.t: "Trade in Kotor Bay - Austria Declines Proporsal" 
+ montenegro.12.d: " " 
+ montenegro.12.a: "That shouldn't happened!" 
   
- montenegro.13.t: "First People's Census!" #NT!
- montenegro.13.d: " " #NT!
- montenegro.13.a: "Amazing!" #NT!
+ montenegro.13.t: "First People's Census!" 
+ montenegro.13.d: " " 
+ montenegro.13.a: "Amazing!" 
   
- montenegro.14.t: "Alaj-Barjak" #NT!
- montenegro.14.d: "One main goal of our army reform is to unite all tribes armies into one capable force, which coud drive Ottomans and other occupiers out of our rightfull lands. This couldn't be achive without unifying symbols, flags and other recognitions stuff of out army. With introducing Alaj-Barjak we will have one flag for one army in our land." #NT!
- montenegro.14.a: "Let our Eagle fly high above our enemy." #NT!
+ montenegro.14.t: "Alaj-Barjak" 
+ montenegro.14.d: "One main goal of our army reform is to unite all tribes armies into one capable force, which coud drive Ottomans and other occupiers out of our rightfull lands. This couldn't be achive without unifying symbols, flags and other recognitions stuff of out army. With introducing Alaj-Barjak we will have one flag for one army in our land." 
+ montenegro.14.a: "Let our Eagle fly high above our enemy." 
   
- montenegro.15.t: "Situation of Montenegrin Army" #NT!
- montenegro.15.d: " " #NT!
- montenegro.15.a: "Amazing!" #NT!
+ montenegro.15.t: "Situation of Montenegrin Army" 
+ montenegro.15.d: " " 
+ montenegro.15.a: "Amazing!" 
   
- montenegro.16.t: "Montenegrin Army Band" #NT!
- montenegro.16.d: " " #NT!
- montenegro.16.a: "Amazing!" #NT!
+ montenegro.16.t: "Montenegrin Army Band" 
+ montenegro.16.d: " " 
+ montenegro.16.a: "Amazing!" 
   
- montenegro.17.t: "Danilo Code - Montenegro Law" #NT!
- montenegro.17.d: " " #NT!
- montenegro.17.a: "Amazing!" #NT!
+ montenegro.17.t: "Danilo Code - Montenegro Law" 
+ montenegro.17.d: " " 
+ montenegro.17.a: "Amazing!" 
   
- montenegro.18.t: "Montenegro During Crimean War" #NT!
- montenegro.18.d: " " #NT!
- montenegro.18.a: "Amazing!" #NT!
+ montenegro.18.t: "Montenegro During Crimean War" 
+ montenegro.18.d: " " 
+ montenegro.18.a: "Amazing!" 
   
- montenegro.231.t: "Consequences for Bishop Nikanor II" #NT!
- montenegro.231.d: " " #NT!
- montenegro.231.a: "Amazing!" #NT!
+ montenegro.231.t: "Consequences for Bishop Nikanor II" 
+ montenegro.231.d: " " 
+ montenegro.231.a: "Amazing!" 
   
- montenegro.232.t: "Roganović as a new Metropolitan of Montenegro and the Highlands" #NT!
- montenegro.232.d: " " #NT!
- montenegro.232.a: "Amazing!" #NT!
+ montenegro.232.t: "Roganović as a new Metropolitan of Montenegro and the Highlands" 
+ montenegro.232.d: " " 
+ montenegro.232.a: "Amazing!" 
   
- montenegro.233.t: "Roganović's consecration in St.Petersburg" #NT!
- montenegro.233.d: " " #NT!
- montenegro.233.a: "Amazing!" #NT!
+ montenegro.233.t: "Roganović's consecration in St.Petersburg" 
+ montenegro.233.d: " " 
+ montenegro.233.a: "Amazing!" 
   
- montenegro.234.t: "Roganović's Church Reforms" #NT!
- montenegro.234.d: " " #NT!
- montenegro.234.a: "Amazing!" #NT!
+ montenegro.234.t: "Roganović's Church Reforms" 
+ montenegro.234.d: " " 
+ montenegro.234.a: "Amazing!" 
   
- montenegro.235.t: "Girls Education in Montenegro" #NT!
- montenegro.235.d: " " #NT!
- montenegro.235.a: "Amazing!" #NT!
+ montenegro.235.t: "Girls Education in Montenegro" 
+ montenegro.235.d: " " 
+ montenegro.235.a: "Amazing!" 
   
- montenegro.33.t: "Jaroši Batalions" #NT!
- montenegro.33.d: "" #NT!
- montenegro.33.a: "Amazing!" #NT!
+ montenegro.33.t: "Jaroši Batalions" 
+ montenegro.33.d: "" 
+ montenegro.33.a: "Amazing!" 
   
- montenegro.165.t: "Departure of Henri Delarue to France" #NT!
- montenegro.165.d: "Yesterday, Henri Delarue left to return to France due to negotiations with Ottomans ending. With this ended also his diplomatic missions, for which he was send to us. Because he was our chancellor, his place will be vacant for now. We must find someone to replace him and continue in his job." #NT!
- montenegro.165.a: "Let's find someone. Quickly." #NT!
+ montenegro.165.t: "Departure of Henri Delarue to France" 
+ montenegro.165.d: "Yesterday, Henri Delarue left to return to France due to negotiations with Ottomans ending. With this ended also his diplomatic missions, for which he was send to us. Because he was our chancellor, his place will be vacant for now. We must find someone to replace him and continue in his job." 
+ montenegro.165.a: "Let's find someone. Quickly." 
   
- montenegro.166.t: "Jan Vaclik has problem on the border " #NT!
- montenegro.166.d: "jan vaclik has a problem with the austrian authorities over his departure to montenegro as chancellor " #NT!
- montenegro.166.a: "Let's leave it up to him to figure it out." #NT!
- montenegro.166.b: "let's solve this problem with the Austrian authorities" #NT!
+ montenegro.166.t: "Jan Vaclik has problem on the border " 
+ montenegro.166.d: "jan vaclik has a problem with the austrian authorities over his departure to montenegro as chancellor " 
+ montenegro.166.a: "Let's leave it up to him to figure it out." 
+ montenegro.166.b: "let's solve this problem with the Austrian authorities" 
   
- montenegro.167.t: "problems with the authorities continue" #NT!
- montenegro.167.d: "Jan Vaclik is stuck on the border with us in the Austrian monarchy and probably won't reach us without our help" #NT!
- montenegro.167.a: "we must  help him" #NT!
+ montenegro.167.t: "problems with the authorities continue" 
+ montenegro.167.d: "Jan Vaclik is stuck on the border with us in the Austrian monarchy and probably won't reach us without our help" 
+ montenegro.167.a: "we must  help him" 
   
- montenegro.168.t: "jan Vaclík successfully arrived to Montenegro" #NT!
- montenegro.168.d: "Jan Vaclik from the Austrian monarchy arrived in Montenegro yesterday, and today he had an audience with Danilo" #NT!
- montenegro.168.a: "Well, let's make him Chancellor." #NT!
+ montenegro.168.t: "jan Vaclík successfully arrived to Montenegro" 
+ montenegro.168.d: "Jan Vaclik from the Austrian monarchy arrived in Montenegro yesterday, and today he had an audience with Danilo" 
+ montenegro.168.a: "Well, let's make him Chancellor." 
   
- montenegro.169.t: "the question of the new Chancellor" #NT!
- montenegro.169.d: "with Henri Delarue's return to france we have lost our chancellor so it is appropriate to find a replacement to help us build our independent state and promote our interests abroad" #NT!
- montenegro.169.a: "deliver the message with the request to Jan vaclik" #NT!
+ montenegro.169.t: "the question of the new Chancellor" 
+ montenegro.169.d: "with Henri Delarue's return to france we have lost our chancellor so it is appropriate to find a replacement to help us build our independent state and promote our interests abroad" 
+ montenegro.169.a: "deliver the message with the request to Jan vaclik" 
   
- montenegro.37.t: "the demands of the Montenegrins" #NT!
- montenegro.37.d: "Montenegro demands to regain full control of its resources and to end our government's interference in Montenegro's mining affairs" #NT!
- montenegro.37.a: "well, we recognize their rights as wel as their resources" #NT!
- montenegro.37.b: "let's try to stop them" #NT!
+ montenegro.37.t: "the demands of the Montenegrins" 
+ montenegro.37.d: "Montenegro demands to regain full control of its resources and to end our government's interference in Montenegro's mining affairs" 
+ montenegro.37.a: "well, we recognize their rights as wel as their resources" 
+ montenegro.37.b: "let's try to stop them" 
   
- montenegro.38.t: "the Ottomans refused to relinquish control of our mines" #NT!
- montenegro.38.d: "the Ottoman Foreign Ministry has decided not to comply with our request to take over all mining in our state, since the ability to control mining in our territory is an essential element of an independent state it is necessary to resolve this matter in its own way" #NT!
- montenegro.38.a: "let's take our mines, drive the Ottomans out" #NT!
- montenegro.38.b: "let's hire Ottoman mine managers" #NT!
+ montenegro.38.t: "the Ottomans refused to relinquish control of our mines" 
+ montenegro.38.d: "the Ottoman Foreign Ministry has decided not to comply with our request to take over all mining in our state, since the ability to control mining in our territory is an essential element of an independent state it is necessary to resolve this matter in its own way" 
+ montenegro.38.a: "let's take our mines, drive the Ottomans out" 
+ montenegro.38.b: "let's hire Ottoman mine managers" 
   
- montenegro.39.t: "the demands of the Montenegrins" #NT!
- montenegro.39.d: "Montenegrins demand the withdrawal of all Ottoman troops and officials from Montenegro and the liberation of their state " #NT!
- montenegro.39.a: "let's give them farmland to ease the pressure of the minorites" #NT!
- montenegro.39.b: "Let's try to prove that we're the ones who decide " #NT!
+ montenegro.39.t: "the demands of the Montenegrins" 
+ montenegro.39.d: "Montenegrins demand the withdrawal of all Ottoman troops and officials from Montenegro and the liberation of their state " 
+ montenegro.39.a: "let's give them farmland to ease the pressure of the minorites" 
+ montenegro.39.b: "Let's try to prove that we're the ones who decide " 
   
- montenegro.40.t: "The Ottomans say no" #NT!
- montenegro.40.d: "The Ottomans have refused our ultimatum to vacate our territory" #NT!
- montenegro.40.a: "we won't ask them this time " #NT!
+ montenegro.40.t: "The Ottomans say no" 
+ montenegro.40.d: "The Ottomans have refused our ultimatum to vacate our territory" 
+ montenegro.40.a: "we won't ask them this time " 
   
- montenegro.41.t: "the demands of the Montenegrins" #NT!
- montenegro.41.d: "Montenegro is demanding the release of trade routes through Montenegro, now we can set rules and limits for them to follow" #NT!
- montenegro.41.a: "let's ban them from importing weapons " #NT!
- montenegro.41.b: "let's give them unrestricted access to our roads" #NT!
+ montenegro.41.t: "the demands of the Montenegrins" 
+ montenegro.41.d: "Montenegro is demanding the release of trade routes through Montenegro, now we can set rules and limits for them to follow" 
+ montenegro.41.a: "let's ban them from importing weapons " 
+ montenegro.41.b: "let's give them unrestricted access to our roads" 
   
- montenegro.42.t: "The Ottomans say no" #NT!
- montenegro.42.d: "the Ottomans have banned us from importing weapons" #NT!
- montenegro.42.a: "let's strengthen our military from our own resources" #NT!
+ montenegro.42.t: "The Ottomans say no" 
+ montenegro.42.d: "the Ottomans have banned us from importing weapons" 
+ montenegro.42.a: "let's strengthen our military from our own resources" 
   
- montenegro.43.t: "the demands of the Montenegrins" #NT!
- montenegro.43.d: "Montenegro wants to recognize its provisional army and its completely independent structure as well as the command" #NT!
- montenegro.43.a: "not to recognize their army they're traitors" #NT!
- montenegro.43.b: "let's respect it " #NT!
+ montenegro.43.t: "the demands of the Montenegrins" 
+ montenegro.43.d: "Montenegro wants to recognize its provisional army and its completely independent structure as well as the command" 
+ montenegro.43.a: "not to recognize their army they're traitors" 
+ montenegro.43.b: "let's respect it " 
   
- montenegro.44.t: "The Ottomans say no" #NT!
- montenegro.44.d: "by the Ottomans' refusal to recognize our army and all its members who subscribe to the idea of a free Montenegro as traitors, we have lost many soldiers who do not want to participate in the betrayal of the Ottoman Empire" #NT!
- montenegro.44.a: "let one man fight with the strength of a hundred men" #NT!
+ montenegro.44.t: "The Ottomans say no" 
+ montenegro.44.d: "by the Ottomans' refusal to recognize our army and all its members who subscribe to the idea of a free Montenegro as traitors, we have lost many soldiers who do not want to participate in the betrayal of the Ottoman Empire" 
+ montenegro.44.a: "let one man fight with the strength of a hundred men" 
   
- montenegro.45.t: "fate of herzegovina rebelion" #NT!
- montenegro.45.d: "Today the surrender of the last rebels in Herzegovina was announced and now we will decide what will happen to her, but let's not forget that we have promised Luka Vukalovic the title of voivode of Zubac, Kruševica, Dračevica and Sutorina and also amnesty for all rebels it is up to us if we keep our promises thanks to which Herzegovina surrendered" #NT!
- montenegro.45.a: "let's regain control of Herzegovina before a new uprising breaks out" #NT!
- montenegro.45.a: "let's keep our promises" #NT!
+ montenegro.45.t: "fate of herzegovina rebelion" 
+ montenegro.45.d: "Today the surrender of the last rebels in Herzegovina was announced and now we will decide what will happen to her, but let's not forget that we have promised Luka Vukalovic the title of voivode of Zubac, Kruševica, Dračevica and Sutorina and also amnesty for all rebels it is up to us if we keep our promises thanks to which Herzegovina surrendered" 
+ montenegro.45.a: "let's regain control of Herzegovina before a new uprising breaks out" 
+ montenegro.45.a: "let's keep our promises" 
   
- montenegro.46.t: "fate of montenegro" #NT!
- montenegro.46.d: "following the conclusion of the Scrutari negotiations, the Montenegrin government decided today to surrender and admit defeat" #NT!
- montenegro.46.a: "will this be the battle that ends this war?" #NT!
+ montenegro.46.t: "fate of montenegro" 
+ montenegro.46.d: "following the conclusion of the Scrutari negotiations, the Montenegrin government decided today to surrender and admit defeat" 
+ montenegro.46.a: "will this be the battle that ends this war?" 
   
- montenegro.47.t: "battle of Grahovec" #NT!
- montenegro.47.d: "today the Ottoman army was repulsed near the village of Grahovec, our men bravely defended our homeland from the invasion of Ottoman troops, in general it can be said that our commanders behaved heroically, despite the Ottoman superiority they refused any dishonorable steps, above all we can criticize the fact that the enemy was given time to bury the dead and it was not decided to interrupt the water supply, which would have ensured us an advantage, but it would have been dishonest, despite all the difficulties our heroes won with all the glory that will soon go around the world, we also managed to secure good Ottoman armament in the form of rifles and also excellent cannons which were among other things, a huge advantage for the Ottomans" #NT!
- montenegro.47.a: "let's celebrate this victory" #NT!
+ montenegro.47.t: "battle of Grahovec" 
+ montenegro.47.d: "today the Ottoman army was repulsed near the village of Grahovec, our men bravely defended our homeland from the invasion of Ottoman troops, in general it can be said that our commanders behaved heroically, despite the Ottoman superiority they refused any dishonorable steps, above all we can criticize the fact that the enemy was given time to bury the dead and it was not decided to interrupt the water supply, which would have ensured us an advantage, but it would have been dishonest, despite all the difficulties our heroes won with all the glory that will soon go around the world, we also managed to secure good Ottoman armament in the form of rifles and also excellent cannons which were among other things, a huge advantage for the Ottomans" 
+ montenegro.47.a: "let's celebrate this victory" 
   
- montenegro.48.t: "battle of Grahovec" #NT!
- montenegro.48.d: "today our army suffered a huge defeat near the village of Grahovec, we lost our men, cannons, rifles, glory and morale, despite this loss it is necessary to point out that the Montenegrin soldiers behaved honorably and allowed us to bury our deceased soldiers" #NT!
- montenegro.48.a: "it is the end of the beginning of the Montenegrin rebellion" #NT!
+ montenegro.48.t: "battle of Grahovec" 
+ montenegro.48.d: "today our army suffered a huge defeat near the village of Grahovec, we lost our men, cannons, rifles, glory and morale, despite this loss it is necessary to point out that the Montenegrin soldiers behaved honorably and allowed us to bury our deceased soldiers" 
+ montenegro.48.a: "it is the end of the beginning of the Montenegrin rebellion" 
   
- montenegro.49.t: "war demaged lands" #NT!
- montenegro.49.d: "As a result of the war and the terror perpetrated by the Ottomans on our population, hordes of refugees are fleeing from the peripheries that are under Ottoman rule to Montenegro where they are looking for a better life but unfortunately for us we are not sufficiently supplied with food and we do not have enough jobs for them, but we will have to take care of the Montenegrins although we" #NT!
- montenegro.49.a: " ok " #NT!
+ montenegro.49.t: "war demaged lands" 
+ montenegro.49.d: "As a result of the war and the terror perpetrated by the Ottomans on our population, hordes of refugees are fleeing from the peripheries that are under Ottoman rule to Montenegro where they are looking for a better life but unfortunately for us we are not sufficiently supplied with food and we do not have enough jobs for them, but we will have to take care of the Montenegrins although we" 
+ montenegro.49.a: " ok " 
   
- montenegro.108.t: "failure of negotiation" #NT!
- montenegro.108.d: "The Ottoman Empire refuses to recognize the independence of Montenegro and they still consider it part of their empire, therefore peaceful coexistence of our two states side by side is almost impossible and the problem will have to be solved with weapons in hand" #NT!
- montenegro.108.a: "let's knock down the sick man on the bosphorus" #NT!
+ montenegro.108.t: "failure of negotiation" 
+ montenegro.108.d: "The Ottoman Empire refuses to recognize the independence of Montenegro and they still consider it part of their empire, therefore peaceful coexistence of our two states side by side is almost impossible and the problem will have to be solved with weapons in hand" 
+ montenegro.108.a: "let's knock down the sick man on the bosphorus" 
   
- montenegro.109.t: "failure of negotiation" #NT!
- montenegro.109.d: "The Ottoman Empire refuses to recognize the independence of Montenegro and they still consider it part of their empire, therefore peaceful coexistence of our two states side by side is almost impossible and the problem will have to be solved with weapons in hand" #NT!
- montenegro.109.a: "let's knock down the sick man on the bosphorus" #NT!
+ montenegro.109.t: "failure of negotiation" 
+ montenegro.109.d: "The Ottoman Empire refuses to recognize the independence of Montenegro and they still consider it part of their empire, therefore peaceful coexistence of our two states side by side is almost impossible and the problem will have to be solved with weapons in hand" 
+ montenegro.109.a: "let's knock down the sick man on the bosphorus" 
   
- montenegro.110.t: "a compromise with the Ottomans?" #NT!
- montenegro.110.d: "The Ottoman Empire is interested in an agreement with Montenegro but still regards us as their autonomous territory rather than a sovereign state, it is up to us whether we accept the small concessions provided by the Ottoman Empire or resolve the matter face to face with them at gunpoint" #NT!
- montenegro.110.a: "let's knock down the sick man on the bosphorus" #NT!
- montenegro.110.b: "we also stand for compromise between our countries" #NT!
+ montenegro.110.t: "a compromise with the Ottomans?" 
+ montenegro.110.d: "The Ottoman Empire is interested in an agreement with Montenegro but still regards us as their autonomous territory rather than a sovereign state, it is up to us whether we accept the small concessions provided by the Ottoman Empire or resolve the matter face to face with them at gunpoint" 
+ montenegro.110.a: "let's knock down the sick man on the bosphorus" 
+ montenegro.110.b: "we also stand for compromise between our countries" 
   
- montenegro.117.t: "Jaroši batalions" #NT!
- montenegro.117.d: "On our territory are lots of uncontrolible armed bads of criminals. These so called Jaroši are potencial problem for as, but their are also experience fighters. So we could offer them to pardon them if they join our national fight in Hercegovina and even if they succeded there to join our army." #NT!
- montenegro.117.a: "anyone who doesn't like the Ottomans is our friend" #NT!
+ montenegro.117.t: "Jaroši batalions" 
+ montenegro.117.d: "On our territory are lots of uncontrolible armed bads of criminals. These so called Jaroši are potencial problem for as, but their are also experience fighters. So we could offer them to pardon them if they join our national fight in Hercegovina and even if they succeded there to join our army." 
+ montenegro.117.a: "anyone who doesn't like the Ottomans is our friend" 
   
- montenegro.222.t: "Support for Montenegro" #NT!
- montenegro.222.d: "Placerholder" #NT!
- montenegro.222.a: "We Shall Offer our Support" #NT!
+ montenegro.222.t: "Support for Montenegro" 
+ montenegro.222.d: "Placerholder" 
+ montenegro.222.a: "We Shall Offer our Support" 
   
- montenegro.223.t: "Montenegro Royal Visit" #NT!
- montenegro.223.d: "Placeholder" #NT!
- montenegro.223.a: "Welcome to Italy" #NT!
+ montenegro.223.t: "Montenegro Royal Visit" 
+ montenegro.223.d: "Placeholder" 
+ montenegro.223.a: "Welcome to Italy" 
   
  ### IDEAS ### 
- MNT_Conflicts_With_Ottoman_Empire: "Conflicts With The Ottoman Empire" #NT!
- MNT_Conflicts_With_Ottoman_Empire_desc: "Diplomatic chaos is surrounding Montenegro right now, as Ottomans claim that Montenegro isn't independent. Great powers are trying to solve the problem, but it seems that is doesn't have an end." #NT!
+ MNT_Conflicts_With_Ottoman_Empire: "Conflicts With The Ottoman Empire" 
+ MNT_Conflicts_With_Ottoman_Empire_desc: "Diplomatic chaos is surrounding Montenegro right now, as Ottomans claim that Montenegro isn't independent. Great powers are trying to solve the problem, but it seems that is doesn't have an end." 
   
- MNT_dominance_of_the_rich_ottomans: "Dominance of Wealthy Ottomans" #NT!
- MNT_dominance_of_the_rich_ottomans_desc: "Best of our land is in the hand of wealthy Ottoman farmers, who have no interest in cooperating with us. This will be a great problem, when we would try to wage any kind of hostile actions, against Ottomans oppressors." #NT!
+ MNT_dominance_of_the_rich_ottomans: "Dominance of Wealthy Ottomans" 
+ MNT_dominance_of_the_rich_ottomans_desc: "Best of our land is in the hand of wealthy Ottoman farmers, who have no interest in cooperating with us. This will be a great problem, when we would try to wage any kind of hostile actions, against Ottomans oppressors." 
   
- MNT_Unsure_positions_of_church: "Uncertain Position of The Church" #NT!
- MNT_Unsure_positions_of_church_desc: "" #NT!
+ MNT_Unsure_positions_of_church: "Uncertain Position of The Church" 
+ MNT_Unsure_positions_of_church_desc: "" 
   
- MNT_Unsure_positions_of_church1: "Uncertain Position of The Church" #NT!
- MNT_Unsure_positions_of_church1_desc: "" #NT!
+ MNT_Unsure_positions_of_church1: "Uncertain Position of The Church" 
+ MNT_Unsure_positions_of_church1_desc: "" 
   
- MNT_Administrative_chaos: "Administrative Chaos" #NT!
- MNT_Administrative_chaos_desc: "Our rule and power are expanding further inland, but our administrative apparatus isn't ready for that. We don't even know how many people are living in our lands. We have to improve this huge absence if we want to reform Montenegro into a modern state worthy of independence." #NT!
+ MNT_Administrative_chaos: "Administrative Chaos" 
+ MNT_Administrative_chaos_desc: "Our rule and power are expanding further inland, but our administrative apparatus isn't ready for that. We don't even know how many people are living in our lands. We have to improve this huge absence if we want to reform Montenegro into a modern state worthy of independence." 
   
- MNT_Administrative_chaos1: "Administrative Chaos" #NT!
- MNT_Administrative_chaos1_desc: "Our rule and power are expanding further inland, but our administrative apparatus isn't ready for that. We don't even know how many people are living in our lands. We have to improve this huge absence if we want to reform Montenegro into a modern state worthy of independence." #NT!
+ MNT_Administrative_chaos1: "Administrative Chaos" 
+ MNT_Administrative_chaos1_desc: "Our rule and power are expanding further inland, but our administrative apparatus isn't ready for that. We don't even know how many people are living in our lands. We have to improve this huge absence if we want to reform Montenegro into a modern state worthy of independence." 
   
- MNT_Administrative_chaos2: "Administrative Chaos" #NT!
- MNT_Administrative_chaos2_desc: "Our rule and power are expanding further inland, but our administrative apparatus isn't ready for that. We don't even know how many people are living in our lands. We have to improve this huge absence if we want to reform Montenegro into a modern state worthy of independence." #NT!
+ MNT_Administrative_chaos2: "Administrative Chaos" 
+ MNT_Administrative_chaos2_desc: "Our rule and power are expanding further inland, but our administrative apparatus isn't ready for that. We don't even know how many people are living in our lands. We have to improve this huge absence if we want to reform Montenegro into a modern state worthy of independence." 
   
- MNT_Aftermath_of_assasination_attempt: "Aftermath of the Assassination Attempt" #NT!
- MNT_Aftermath_of_assasination_attempt_desc: "" #NT!
+ MNT_Aftermath_of_assasination_attempt: "Aftermath of the Assassination Attempt" 
+ MNT_Aftermath_of_assasination_attempt_desc: "" 
   
- MNT_Clans_Question: "Clans Question" #NT!
- MNT_Clans_Question_desc: "Clans question." #NT!
+ MNT_Clans_Question: "Clans Question" 
+ MNT_Clans_Question_desc: "Clans question." 
   
- MNT_Clans_Question2: "Clans Question Being Resolved" #NT!
- MNT_Clans_Question2_desc: "..." #NT!
+ MNT_Clans_Question2: "Clans Question Being Resolved" 
+ MNT_Clans_Question2_desc: "..." 
   
- MNT_Kotor_Bay_Trade: "Trade in Kotor Bay" #NT!
- MNT_Kotor_Bay_Trade_desc: " " #NT!
+ MNT_Kotor_Bay_Trade: "Trade in Kotor Bay" 
+ MNT_Kotor_Bay_Trade_desc: " " 
   
- MNT_Kotor_Bay_Trade1: "Trade in Kotor Bay" #NT!
- MNT_Kotor_Bay_Trade1_desc: " " #NT!
+ MNT_Kotor_Bay_Trade1: "Trade in Kotor Bay" 
+ MNT_Kotor_Bay_Trade1_desc: " " 
   
- MNT_Salt_Works: "Salt Works" #NT!
- MNT_Salt_Works_desc: " " #NT!
+ MNT_Salt_Works: "Salt Works" 
+ MNT_Salt_Works_desc: " " 
   
- MNT_Salt_Works2: "Salt Works" #NT!
- MNT_Salt_Works2_desc: " " #NT!
+ MNT_Salt_Works2: "Salt Works" 
+ MNT_Salt_Works2_desc: " " 
   
- MNT_Disastrous_Agriculture: "Disastrous Agriculture" #NT!
- MNT_Disastrous_Agriculture_desc: " " #NT!
+ MNT_Disastrous_Agriculture: "Disastrous Agriculture" 
+ MNT_Disastrous_Agriculture_desc: " " 
   
- MNT_Disastrous_Agriculture1: "Disastrous Agriculture" #NT!
- MNT_Disastrous_Agriculture_desc1: " " #NT!
+ MNT_Disastrous_Agriculture1: "Disastrous Agriculture" 
+ MNT_Disastrous_Agriculture_desc1: " " 
   
- MNT_Disastrous_Agriculture2: "Disastrous Agriculture" #NT!
- MNT_Disastrous_Agriculture_desc2: " " #NT!
+ MNT_Disastrous_Agriculture2: "Disastrous Agriculture" 
+ MNT_Disastrous_Agriculture_desc2: " " 
   
- MNT_Disastrous_Agriculture3: "Disastrous Agriculture" #NT!
- MNT_Disastrous_Agriculture_desc3: " " #NT!
+ MNT_Disastrous_Agriculture3: "Disastrous Agriculture" 
+ MNT_Disastrous_Agriculture_desc3: " " 
   
- MNT_Outdated_Economy: "Nonexistent Industry" #NT!
- MNT_Outdated_Economy_desc: " " #NT!
+ MNT_Outdated_Economy: "Nonexistent Industry" 
+ MNT_Outdated_Economy_desc: " " 
   
- MNT_Outdated_Economy1: "Nonexistent Industry" #NT!
- MNT_Outdated_Economy1_desc: " " #NT!
+ MNT_Outdated_Economy1: "Nonexistent Industry" 
+ MNT_Outdated_Economy1_desc: " " 
   
- MNT_Outdated_Economy2: "Nonexistent Industry" #NT!
- MNT_Outdated_Economy2_desc: " " #NT!
+ MNT_Outdated_Economy2: "Nonexistent Industry" 
+ MNT_Outdated_Economy2_desc: " " 
   
- MNT_Outdated_Economy3: "Nonexistent Industry" #NT!
- MNT_Outdated_Economy3_desc: " " #NT!
+ MNT_Outdated_Economy3: "Nonexistent Industry" 
+ MNT_Outdated_Economy3_desc: " " 
   
- MNT_Outdated_Economy4: "Nonexistent Industry" #NT!
- MNT_Outdated_Economy4_desc: " " #NT!
+ MNT_Outdated_Economy4: "Nonexistent Industry" 
+ MNT_Outdated_Economy4_desc: " " 
   
- MNT_Outdated_Economy5: "Nonexistent Industry" #NT!
- MNT_Outdated_Economy5_desc: " " #NT!
+ MNT_Outdated_Economy5: "Nonexistent Industry" 
+ MNT_Outdated_Economy5_desc: " " 
   
- MNT_Outdated_Economy6: "Nonexistent Industry" #NT!
- MNT_Outdated_Economy6_desc: " " #NT!
+ MNT_Outdated_Economy6: "Nonexistent Industry" 
+ MNT_Outdated_Economy6_desc: " " 
   
- MNT_Outdated_Economy7: "Nonexistent Industry" #NT!
- MNT_Outdated_Economy7_desc: " " #NT!
+ MNT_Outdated_Economy7: "Nonexistent Industry" 
+ MNT_Outdated_Economy7_desc: " " 
   
- MNT_Outdated_Economy8: "Nonexistent Industry" #NT!
- MNT_Outdated_Economy8_desc: " " #NT!
+ MNT_Outdated_Economy8: "Nonexistent Industry" 
+ MNT_Outdated_Economy8_desc: " " 
   
- MNT_nonexistent_education_system: "Nonexistent Education System" #NT!
- MNT_nonexistent_education_system_desc: " " #NT!
+ MNT_nonexistent_education_system: "Nonexistent Education System" 
+ MNT_nonexistent_education_system_desc: " " 
   
- MNT_nonexistent_education_system1: "Nonexistent Education System" #NT!
+ MNT_nonexistent_education_system1: "Nonexistent Education System" 
   
- MNT_nonexistent_education_system2: "Nonexistent Education System" #NT!
+ MNT_nonexistent_education_system2: "Nonexistent Education System" 
   
- MNT_nonexistent_education_system3: "Nonexistent Education System" #NT!
+ MNT_nonexistent_education_system3: "Nonexistent Education System" 
   
- MNT_Crimean_War_Neutrality: "Crimean War Neutrality" #NT!
- MNT_Crimean_War_Neutrality_desc: " " #NT!
+ MNT_Crimean_War_Neutrality: "Crimean War Neutrality" 
+ MNT_Crimean_War_Neutrality_desc: " " 
   
- MNT_Danilo_Code: "Danilo's Code" #NT!
- MNT_Danilo_Code_desc: " " #NT!
+ MNT_Danilo_Code: "Danilo's Code" 
+ MNT_Danilo_Code_desc: " " 
   
- MNT_Danilo_Code1: "Danilo's Code" #NT!
- MNT_Danilo_Code1_desc: " " #NT!
+ MNT_Danilo_Code1: "Danilo's Code" 
+ MNT_Danilo_Code1_desc: " " 
   
- MNT_bogisic_code: "Bogišić Code" #NT!
- MNT_bogisic_code_desc: " " #NT!
+ MNT_bogisic_code: "Bogišić Code" 
+ MNT_bogisic_code_desc: " " 
   
- MNT_Clans_Army: "Clan's Army" #NT!
- MNT_Clans_Army_desc: " " #NT!
+ MNT_Clans_Army: "Clan's Army" 
+ MNT_Clans_Army_desc: " " 
   
- MNT_Clans_Army1: "Clan's Army" #NT!
- MNT_Clans_Army1_desc: " " #NT!
+ MNT_Clans_Army1: "Clan's Army" 
+ MNT_Clans_Army1_desc: " " 
   
- MNT_Clans_Army2: "Clan's Army" #NT!
- MNT_Clans_Army2_desc: " " #NT!
+ MNT_Clans_Army2: "Clan's Army" 
+ MNT_Clans_Army2_desc: " " 
   
- MNT_non_state_army: "Non-State Army" #NT!
- MNT_non_state_army_desc: "We have lots of problems with our armed forces. One main problem is that our force isn't truly united and each clan has its small armed band. If we manage to get everything in one place things like modern weaponry or functional chain of command don't exist. If we want to gain independence and have a force that doesn't look like an armed mob, we have to do something about that." #NT!
+ MNT_non_state_army: "Non-State Army" 
+ MNT_non_state_army_desc: "We have lots of problems with our armed forces. One main problem is that our force isn't truly united and each clan has its small armed band. If we manage to get everything in one place things like modern weaponry or functional chain of command don't exist. If we want to gain independence and have a force that doesn't look like an armed mob, we have to do something about that." 
   
- MNT_non_state_army1: "Non-State Army" #NT!
- MNT_non_state_army_desc1: "We have lots of problems with our armed forces. One main problem is that our force isn't truly united and each clan has its small armed band. If we manage to get everything in one place things like modern weaponry or functional chain of command don't exist. If we want to gain independence and have a force that doesn't look like an armed mob, we have to do something about that." #NT!
+ MNT_non_state_army1: "Non-State Army" 
+ MNT_non_state_army_desc1: "We have lots of problems with our armed forces. One main problem is that our force isn't truly united and each clan has its small armed band. If we manage to get everything in one place things like modern weaponry or functional chain of command don't exist. If we want to gain independence and have a force that doesn't look like an armed mob, we have to do something about that." 
   
- MNT_Disconnected_Nahiyahs: "Disconnected Nahiyahs" #NT!
+ MNT_Disconnected_Nahiyahs: "Disconnected Nahiyahs" 
   
- MNT_Disconnected_Nahiyahs1: "Disconnected Nahiyahs" #NT!
+ MNT_Disconnected_Nahiyahs1: "Disconnected Nahiyahs" 
   
- MNT_Disconnected_Nahiyahs2: "Disconnected Nahiyahs" #NT!
+ MNT_Disconnected_Nahiyahs2: "Disconnected Nahiyahs" 
   
- MNT_Disconnected_Nahiyahs3: "Disconnected Nahiyahs" #NT!
+ MNT_Disconnected_Nahiyahs3: "Disconnected Nahiyahs" 
   
- MNT_Montenegrin_Support: "Support from Montenegro" #NT!
+ MNT_Montenegrin_Support: "Support from Montenegro" 
   
- MNT_Montenegrin_Support1: "Support from Montenegro" #NT!
+ MNT_Montenegrin_Support1: "Support from Montenegro" 
   
- MNT_crops_export: "Crops Export" #NT!
+ MNT_crops_export: "Crops Export" 
   
- MNT_dominance_of_the_rich_Ottomans: "Dominance of the rich Ottomans" #NT!
- MNT_dominance_of_the_rich_Ottomans: "As the Ottoman Empire expanded and created its once great empire, its inhabitants gradually settled in the newly acquired territories where they bought up land destroyed by the fighting for cheap and built their farms there, which is why today most of the farming in Montenegro is owned by rich Ottomans who control our farming" #NT!
+ MNT_dominance_of_the_rich_Ottomans: "Dominance of the rich Ottomans" 
+ MNT_dominance_of_the_rich_Ottomans: "As the Ottoman Empire expanded and created its once great empire, its inhabitants gradually settled in the newly acquired territories where they bought up land destroyed by the fighting for cheap and built their farms there, which is why today most of the farming in Montenegro is owned by rich Ottomans who control our farming" 
   
- MNT_dominance_of_the_rich_Ottomans1: "Dominance of the rich Ottomans" #NT!
- MNT_dominance_of_the_rich_Ottomans1_desc: "As the Ottoman Empire expanded and created its once great empire, its inhabitants gradually settled in the newly acquired territories where they bought up land destroyed by the fighting for cheap and built their farms there, which is why today most of the farming in Montenegro is owned by rich Ottomans who control our farming" #NT!
+ MNT_dominance_of_the_rich_Ottomans1: "Dominance of the rich Ottomans" 
+ MNT_dominance_of_the_rich_Ottomans1_desc: "As the Ottoman Empire expanded and created its once great empire, its inhabitants gradually settled in the newly acquired territories where they bought up land destroyed by the fighting for cheap and built their farms there, which is why today most of the farming in Montenegro is owned by rich Ottomans who control our farming" 
   
- MNT_ottoman_mining_sanctions: "Ottoman Mining Sanctions" #NT!
- MNT_ottoman_mining_sanctions_desc: "the Ottomans imposed sanctions on us because we disagreed over a mining dispute on our territory" #NT!
+ MNT_ottoman_mining_sanctions: "Ottoman Mining Sanctions" 
+ MNT_ottoman_mining_sanctions_desc: "the Ottomans imposed sanctions on us because we disagreed over a mining dispute on our territory" 
   
- MNT_montenegrin_militia: "Montenegrin Militia" #NT!
- MNT_montenegrin_militia_desc: " " #NT!
+ MNT_montenegrin_militia: "Montenegrin Militia" 
+ MNT_montenegrin_militia_desc: " " 
   
- MNT_ban_on_arms_imports: "Ban on Foreign Arms Imports" #NT!
- MNT_ban_on_arms_imports_desc: " " #NT!
+ MNT_ban_on_arms_imports: "Ban on Foreign Arms Imports" 
+ MNT_ban_on_arms_imports_desc: " " 
   
- BOS_HRZ_Bosnian_Uprising_Peace: "Vukalovic's Uprising" #NT!
+ BOS_HRZ_Bosnian_Uprising_Peace: "Vukalovic's Uprising" 
   
- MNT_Mostar_Convention: "Mostar Convention" #NT!
+ MNT_Mostar_Convention: "Mostar Convention" 
   
- MNT_negotiations_with_the_Ottoman_Empire: "Negotiations with the Ottoman Empire" #NT!
+ MNT_negotiations_with_the_Ottoman_Empire: "Negotiations with the Ottoman Empire" 
   
- MNT_clans_cooperation: "Clans Cooperation" #NT!
+ MNT_clans_cooperation: "Clans Cooperation" 
   
- MNT_the_question_of_the_new_chancellor: "Question of the New Chancellor" #NT!
- MNT_the_question_of_the_new_chancellor_desc: "After departure of Henri Delarue, the post of chancellor is empty and his duties have shifted to other officials of the Knez office. In this, the  whole office is partly paralized. We have to find a replacement quickly, if we want to continue in our reforms of the country." #NT!
+ MNT_the_question_of_the_new_chancellor: "Question of the New Chancellor" 
+ MNT_the_question_of_the_new_chancellor_desc: "After departure of Henri Delarue, the post of chancellor is empty and his duties have shifted to other officials of the Knez office. In this, the  whole office is partly paralized. We have to find a replacement quickly, if we want to continue in our reforms of the country." 
   
- MNT_Fewer_Farmers_More_Soldiers: "Fewere Farmers - More Soldiers" #NT!
- MNT_Fewer_Farmers_More_Soldiers_desc: " " #NT!
+ MNT_Fewer_Farmers_More_Soldiers: "Fewere Farmers - More Soldiers" 
+ MNT_Fewer_Farmers_More_Soldiers_desc: " " 
   
- MNT_local_montenegrin_agriculture: "Local Montenegrin Agriculture" #NT!
- MNT_local_montenegrin_agriculture_desc: " " #NT!
+ MNT_local_montenegrin_agriculture: "Local Montenegrin Agriculture" 
+ MNT_local_montenegrin_agriculture_desc: " " 
   
- MNT_Montenegrin_landlord_agriculture: "Montenegrin Landlords Agriculture" #NT!
- MNT_Montenegrin_landlord_agriculture_desc: " " #NT!
+ MNT_Montenegrin_landlord_agriculture: "Montenegrin Landlords Agriculture" 
+ MNT_Montenegrin_landlord_agriculture_desc: " " 
   
- MNT_state_agriculture: "State Agriculture" #NT!
- MNT_state_agriculture_desc: " " #NT!
+ MNT_state_agriculture: "State Agriculture" 
+ MNT_state_agriculture_desc: " " 
   
- MNT_Urban_supply: "Urban Supply" #NT!
- MNT_Urban_supply_desc: " " #NT!
+ MNT_Urban_supply: "Urban Supply" 
+ MNT_Urban_supply_desc: " " 
   
- MNT_The_Theological_Seminary_of_St_Peter_of_Cetinje: "The Theological Seimnary of St Peter in Cetinje" #NT!
- MNT_The_Theological_Seminary_of_St_Peter_of_Cetinje_desc: " " #NT!
+ MNT_The_Theological_Seminary_of_St_Peter_of_Cetinje: "The Theological Seimnary of St Peter in Cetinje" 
+ MNT_The_Theological_Seminary_of_St_Peter_of_Cetinje_desc: " " 
   
- MNT_Montenegrins_army: "Montenegrin Army" #NT!
+ MNT_Montenegrins_army: "Montenegrin Army" 
   
- MNT_The_Crnogorac_Newspaper: "The Crnogorac Newspaper" #NT!
+ MNT_The_Crnogorac_Newspaper: "The Crnogorac Newspaper" 
   
- MNT_Sardinia_Piemont_support: "Support from Sardinia-Piedmont" #NT!
+ MNT_Sardinia_Piemont_support: "Support from Sardinia-Piedmont" 
   
- MNT_russia_direction: "Russian Direction" #NT!
+ MNT_russia_direction: "Russian Direction" 
   
- MNT_russia_direction1: "Russian Direction" #NT!
+ MNT_russia_direction1: "Russian Direction" 
   
- MNT_French_support: "French Support" #NT!
+ MNT_French_support: "French Support" 
   
  ### DECISIONS ### 
   
- MNT_decision_buy_rifles_from_liege_factories: "Foreign Rifles" #NT!
+ MNT_decision_buy_rifles_from_liege_factories: "Foreign Rifles" 
   
- MNT_decision_Artilery_batalions_training: "Montenegrin Artillery Battalions" #NT!
+ MNT_decision_Artilery_batalions_training: "Montenegrin Artillery Battalions" 
   
- MNT_decision_todor_ilich_schools: "Todor Ilich's Educational Headquarters" #NT!
+ MNT_decision_todor_ilich_schools: "Todor Ilich's Educational Headquarters" 
   
- MNT_decision_schools: "New Schools" #NT!
+ MNT_decision_schools: "New Schools" 
   
- MNT_decision_build_girls_institute: "Establishment of Empress Mary`s Girls Institute" #NT!
+ MNT_decision_build_girls_institute: "Establishment of Empress Mary`s Girls Institute" 
   
- MNT_decision_rebuild_road_system: "Rebuild Road System" #NT!
+ MNT_decision_rebuild_road_system: "Rebuild Road System" 
   
- MNT_decision_connect_the_nahiyas: "Conntect the Nahiyas" #NT!
+ MNT_decision_connect_the_nahiyas: "Conntect the Nahiyas" 
   
- MNT_decison_new_road_system: "New Road System" #NT!
+ MNT_decison_new_road_system: "New Road System" 
   
- MNT_decision_purchase_machinery: "Purchase Machinery" #NT!
+ MNT_decision_purchase_machinery: "Purchase Machinery" 
   
- MNT_decision_purchase_of_farms: "Farms Purchase" #NT!
+ MNT_decision_purchase_of_farms: "Farms Purchase" 
   
- MNT_decision_resources_back: "Situation with Montenegrin Resources" #NT!
+ MNT_decision_resources_back: "Situation with Montenegrin Resources" 
   
- MNT_to_ask_the_Ottomans_to_release_our_territory: "Ask the Ottomans to release our Territory" #NT!
+ MNT_to_ask_the_Ottomans_to_release_our_territory: "Ask the Ottomans to release our Territory" 
   
- MNT_arms_import: "Foreign Arms Import" #NT!
+ MNT_arms_import: "Foreign Arms Import" 
   
- MNT_the_status_of_our_army: "The Status of Our Army" #NT!
+ MNT_the_status_of_our_army: "The Status of Our Army" 
   
- MNT_negotiations_tttomans_timer: "Negotations with Ottomans - Timer" #NT!
+ MNT_negotiations_tttomans_timer: "Negotations with Ottomans - Timer" 
   
- MNT_decision_category_foreign_politics: "Foreign Politics" #NT!
+ MNT_decision_category_foreign_politics: "Foreign Politics" 
   
- MNT_Visit_Napoleon_III: "Visit Napoleon III" #NT!
- MNT_Visit_Napoleon_III_desc: "Since our Knez likes France more than Russia, he should visit Napoleon III." #NT!
+ MNT_Visit_Napoleon_III: "Visit Napoleon III" 
+ MNT_Visit_Napoleon_III_desc: "Since our Knez likes France more than Russia, he should visit Napoleon III." 
   
- MNT_Talk_With_Vuk_Karadzic: "Talk with Vuk Karadžić" #NT!
- MNT_Talk_With_Vuk_Karadzic_desc: "Vuk Karadžić will be sent by Serbian Knez to visit Nikola in order to talk about the situation of our people in the Ottoman Empire and it's vassal states." #NT!
+ MNT_Talk_With_Vuk_Karadzic: "Talk with Vuk Karadžić" 
+ MNT_Talk_With_Vuk_Karadzic_desc: "Vuk Karadžić will be sent by Serbian Knez to visit Nikola in order to talk about the situation of our people in the Ottoman Empire and it's vassal states." 
   
- MNT_Ask_Serbia_For_Help: "Ask Serbia For Help" #NT!
- MNT_Ask_Serbia_For_Help_desc: "We should ask Serbia to help us recover our army, since the war weakened us." #NT!
+ MNT_Ask_Serbia_For_Help: "Ask Serbia For Help" 
+ MNT_Ask_Serbia_For_Help_desc: "We should ask Serbia to help us recover our army, since the war weakened us." 
   
- MNT_decision_category_economy: "Montenegrin Economy" #NT!
+ MNT_decision_category_economy: "Montenegrin Economy" 
   
- MNT_decision_russian_loans: "Loans from Russia" #NT!
+ MNT_decision_russian_loans: "Loans from Russia" 
   
- MNT_decision_combat_turkish_landlords: "Combat Turkish Landlords" #NT!
+ MNT_decision_combat_turkish_landlords: "Combat Turkish Landlords" 
   
- MNT_decision_montenegro_infrastructure: "Improve Montenegrin Infrastructure" #NT!
+ MNT_decision_montenegro_infrastructure: "Improve Montenegrin Infrastructure" 
   
- MNT_decision_croatian_textile_factory: "Croatian Textile Factory" #NT!
+ MNT_decision_croatian_textile_factory: "Croatian Textile Factory" 
   
- MNT_decision_lumber_industry: "Montenegrin Lumber Industry" #NT!
+ MNT_decision_lumber_industry: "Montenegrin Lumber Industry" 
   
- MNT_decision_minerals_montenegro: "Minerals of Montenegro" #NT!
+ MNT_decision_minerals_montenegro: "Minerals of Montenegro" 
   
- MNT_decision_rebuild_centije: "Rebuild of Centije" #NT!
+ MNT_decision_rebuild_centije: "Rebuild of Centije" 
   
- MNT_decision_danilovgrad: "Danilovgrad" #NT!
+ MNT_decision_danilovgrad: "Danilovgrad" 
   
- MNT_decision_crnojevic_military_factory: "Crnojevic Military Factory" #NT!
+ MNT_decision_crnojevic_military_factory: "Crnojevic Military Factory" 
   
- MNT_decision_first_centije_hotel: "Creation of First Centije Hotel" #NT!
+ MNT_decision_first_centije_hotel: "Creation of First Centije Hotel" 
   
- MNT_decision_invest_in_our_terrestrial_infrastructure: "Invest in Our Terrestrial Infrastructure" #NT!
+ MNT_decision_invest_in_our_terrestrial_infrastructure: "Invest in Our Terrestrial Infrastructure" 
   
- MNT_Montenegrins_Herzgovina_Uprising: "Small Support for Herzgovina Uprising!" #NT!
+ MNT_Montenegrins_Herzgovina_Uprising: "Small Support for Herzgovina Uprising!" 
   
- MNT_Montenegrins_Herzgovina_Uprising1: "Full Support for Herzegovina Uprising!" #NT!
+ MNT_Montenegrins_Herzgovina_Uprising1: "Full Support for Herzegovina Uprising!" 
   
- MNT_decision_category_army: "Montenegrin Army Reform" #NT!
+ MNT_decision_category_army: "Montenegrin Army Reform" 
   
- MNT_decision_new_uniforms: "New Uniforms" #NT!
+ MNT_decision_new_uniforms: "New Uniforms" 
   
- MNT_decision_study_french_doctrine: "Study French Military Doctrine" #NT!
+ MNT_decision_study_french_doctrine: "Study French Military Doctrine" 
   
- MNT_decision_buy_austrian_cannons: "Purchase Austrian Artillery" #NT!
+ MNT_decision_buy_austrian_cannons: "Purchase Austrian Artillery" 
   
- MNT_decision_buy_austrian_rifles: "Purchase Rifle Artillery" #NT!
+ MNT_decision_buy_austrian_rifles: "Purchase Rifle Artillery" 
   
- MNT_capture_Montenegro_Sandjak: "Capture Sandjak" #NT!
+ MNT_capture_Montenegro_Sandjak: "Capture Sandjak" 
   
- MNT_capture_Outer_montenegro: "Capture Outer Montenegro" #NT!
+ MNT_capture_Outer_montenegro: "Capture Outer Montenegro" 
   
- MNT_integration_of_the_new_territory: "Integration Of The New Territory" #NT!
+ MNT_integration_of_the_new_territory: "Integration Of The New Territory" 
   
- MNT_mission_Danilos_Army_Reform: "Danilo's Army Reform" #NT!
+ MNT_mission_Danilos_Army_Reform: "Danilo's Army Reform" 
   
- MNT_mission_New_fortification_system: "Montenegrin Fortifications" #NT!
+ MNT_mission_New_fortification_system: "Montenegrin Fortifications" 
   
- MNT_decision_open_iron_mines: "Iron Ore in Montenegro" #NT!
+ MNT_decision_open_iron_mines: "Iron Ore in Montenegro" 
   
- MNT_decision_coal_mines: "Coal in Montenegro" #NT!
+ MNT_decision_coal_mines: "Coal in Montenegro" 
   
- MNT_decision_bauxite_in_montenegro: "Bauxite in Montenegro" #NT!
+ MNT_decision_bauxite_in_montenegro: "Bauxite in Montenegro" 
   
- MNT_decision_build_saltworks: "Build Saltworks" #NT!
+ MNT_decision_build_saltworks: "Build Saltworks" 
   
- MNT_decision_expand_salt_work: "Saltworks Expansion" #NT!
+ MNT_decision_expand_salt_work: "Saltworks Expansion" 
   
- MNT_decision_Beef_Exports: "Beef Exports" #NT!
+ MNT_decision_Beef_Exports: "Beef Exports" 
   
- MNT_decision_parish_reforms: "Parish Reforms" #NT!
+ MNT_decision_parish_reforms: "Parish Reforms" 
   
- MNT_decision_priests_reforms: "Priests Reforms" #NT!
+ MNT_decision_priests_reforms: "Priests Reforms" 
   
- MNT_decision_Sardinian_support: "Sardinian Support" #NT!
+ MNT_decision_Sardinian_support: "Sardinian Support" 
   
- MNT_decision_french_economy_help: "French Economic Help" #NT!
+ MNT_decision_french_economy_help: "French Economic Help" 
   
- MNT_mission_agricultural_reform: "Agricultural Reform" #NT!
+ MNT_mission_agricultural_reform: "Agricultural Reform" 
   
- MNT_decision_Buy_modern_farming_machines_austria: "Buy Modern Austrian Farming Machines" #NT!
+ MNT_decision_Buy_modern_farming_machines_austria: "Buy Modern Austrian Farming Machines" 
   
- MNT_decision_Buy_modern_farming_machines_france: "Buy Modern French Farming Machines" #NT!
+ MNT_decision_Buy_modern_farming_machines_france: "Buy Modern French Farming Machines" 
   
- MNT_decision_Buy_modern_farming_machines_italy: "Buy Modern Italian Farming Machines" #NT!
+ MNT_decision_Buy_modern_farming_machines_italy: "Buy Modern Italian Farming Machines" 
   
- MNT_decision_Buy_modern_farming_machines_Russia: "Buy Modern Russian Farming Machines" #NT!
+ MNT_decision_Buy_modern_farming_machines_Russia: "Buy Modern Russian Farming Machines" 
   
- MNT_mission_creation_of_an_inudstrial_sector: "Creation of an Industrial Sector" #NT!
+ MNT_mission_creation_of_an_inudstrial_sector: "Creation of an Industrial Sector" 
   
- MNT_decision_urbanisation_of_people: "Urbanization of People" #NT!
+ MNT_decision_urbanisation_of_people: "Urbanization of People" 
   
- MNT_decision_integrate_kotor: "Integrate Kotor" #NT!
+ MNT_decision_integrate_kotor: "Integrate Kotor" 
   
   
  ### CUSTOM EFFECTS ### 
   
  ### TRAITS ### 
   
- MNT_trait_darinka_petrovic_njegos: "Princess Consort of Montenegro" #NT!
+ MNT_trait_darinka_petrovic_njegos: "Princess Consort of Montenegro" 
   
- MNT_trait_knyaz: "Knyaz" #NT!
+ MNT_trait_knyaz: "Knyaz" 
   
- MNT_trait_metropolitan_of_montenegro: "Metropolitan of Montenegro" #NT!
+ MNT_trait_metropolitan_of_montenegro: "Metropolitan of Montenegro" 
   
- MNT_mandator_of_the_Montenegrin_people: " mandator of the Montenegrin people" #NT!
+ MNT_mandator_of_the_Montenegrin_people: " mandator of the Montenegrin people" 
   
- MNT_minister_of_feregin: "Montenegrin Diplomat" #NT!
+ MNT_minister_of_feregin: "Montenegrin Diplomat" 
   
- MNT_Danilo_chancellor_France: "Danilo chancellor from France" #NT!
+ MNT_Danilo_chancellor_France: "Danilo chancellor from France" 
   
   
  ### OPINION MODIFIERS ### 
   
- MNT_Supported_Vukalovic: "Montenegrin Support for Vukalović" #NT!
+ MNT_Supported_Vukalovic: "Montenegrin Support for Vukalović" 
   
  ### Herzegovina 
- HRZ_focus_we_are_rebels: "We are Rebels!" #NT!
- HRZ_focus_extend_the_uprising_to_bosnia: "Extend the Uprising to Bosnia" #NT!
- HRZ_focus_to_establish_a_national_revolutionary_dictatorship: "Establish a Ntaional Revolutionary Dictatorship" #NT!
- HRZ_focus_lets_mobilize_all_forces: "Mobilize all Forces!" #NT!
- HRZ_focus_Scutari_convention: "Scutari Convention" #NT!
- HRZ_focus_Tuzla_agreement: "Tuzla Agreement" #NT!
+ HRZ_focus_we_are_rebels: "We are Rebels!" 
+ HRZ_focus_extend_the_uprising_to_bosnia: "Extend the Uprising to Bosnia" 
+ HRZ_focus_to_establish_a_national_revolutionary_dictatorship: "Establish a Ntaional Revolutionary Dictatorship" 
+ HRZ_focus_lets_mobilize_all_forces: "Mobilize all Forces!" 
+ HRZ_focus_Scutari_convention: "Scutari Convention" 
+ HRZ_focus_Tuzla_agreement: "Tuzla Agreement" 
   
- HRZ_decision_contact_the_serbs_in_sarajevo: "Contact Serbs in Sarajevo" #NT!
- HRZ_decision_contact_the_serbs_in_romanija: "Contact Serbs in Romanija" #NT!
- HRZ_decision_contact_the_serbs_in_banja_luka: "Contact Serbs in Banja Luka" #NT!
- HRZ_decision_contact_the_serbs_in_west_bosnia: "Contact Serbs in West Bosnia" #NT!
- HRZ_decision_invoke_terror: "Invoke Terror" #NT!
+ HRZ_decision_contact_the_serbs_in_sarajevo: "Contact Serbs in Sarajevo" 
+ HRZ_decision_contact_the_serbs_in_romanija: "Contact Serbs in Romanija" 
+ HRZ_decision_contact_the_serbs_in_banja_luka: "Contact Serbs in Banja Luka" 
+ HRZ_decision_contact_the_serbs_in_west_bosnia: "Contact Serbs in West Bosnia" 
+ HRZ_decision_invoke_terror: "Invoke Terror" 
   
- HRZ_invoked_terror: "Invoked Terror" #NT!
- HRZ_uprising: "Vukalović's Uprising" #NT!
- HRZ_Scutari_Convention: "Scutari Convention" #NT!
+ HRZ_invoked_terror: "Invoked Terror" 
+ HRZ_uprising: "Vukalović's Uprising" 
+ HRZ_Scutari_Convention: "Scutari Convention" 

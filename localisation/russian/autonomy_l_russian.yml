@@ -1,8 +1,8 @@
 ﻿l_russian:
- autonomy_hispanic_crown_union: "Union de La Corona" #NT!
+ autonomy_hispanic_crown_union: "Union de La Corona" 
  autonomy_dominion: "Доминион"
  autonomy_supervised_state: "Подконтрольное государство"
- autonomy_confederation_member: "Confederation Member" #NT!
+ autonomy_confederation_member: "Confederation Member" 
  autonomy_colony: "Колония"
  autonomy_puppet: "Марионетка"
  autonomy_integrated_puppet: "Интегрированная марионетка"
@@ -11,24 +11,24 @@
  autonomy_reichskommissariat: "Комиссариат"
  autonomy_reichsprotectorate: "Протекторат"
  autonomy_satellite: "Сателлит"
- autonomy_princely_state: "Princely State" #NT!
- autonomy_imperial_protectorate: "Imperial Protectorate" #NT!
- autonomy_daimyo: "Daimyo" #NT!
- autonomy_protectorate: "Protectorate" #NT!
+ autonomy_princely_state: "Princely State" 
+ autonomy_imperial_protectorate: "Imperial Protectorate" 
+ autonomy_daimyo: "Daimyo" 
+ autonomy_protectorate: "Protectorate" 
  autonomy_wtt_imperial_associate: "Партнер империи"
  autonomy_wtt_imperial_protectorate: "Протекторат империи"
  autonomy_wtt_imperial_subject: "Субъект империи"
  autonomy_collaboration_government: "Коллаборационистское правительство"
- autonomy_personal_union: "Personal Union Partner" #NT!
- autonomy_personal_union_2: "Personal Union Partner" #NT!
- autonomy_personal_union_3: "Personal Union Partner" #NT!
- autonomy_principality: "Principality" #NT!
- autonomy_grand_principality: "Grand Principality" #NT!
- autonomy_autonomous_territory: "Autonomous Territory" #NT!
- autonomy_british_mandate: "British Mandate" #NT!
- autonomy_british_crown_colony: "Crown Colony" #NT!
- autonomy_british_self_gov: "Self-Governing Colony" #NT!
- autonomy_british_dominion: "Dominion" #NT!
+ autonomy_personal_union: "Personal Union Partner" 
+ autonomy_personal_union_2: "Personal Union Partner" 
+ autonomy_personal_union_3: "Personal Union Partner" 
+ autonomy_principality: "Principality" 
+ autonomy_grand_principality: "Grand Principality" 
+ autonomy_autonomous_territory: "Autonomous Territory" 
+ autonomy_british_mandate: "British Mandate" 
+ autonomy_british_crown_colony: "Crown Colony" 
+ autonomy_british_self_gov: "Self-Governing Colony" 
+ autonomy_british_dominion: "Dominion" 
  AUTONOMY_CAN_TAKE_DESC: "$OWNER|UH$ может получить статус $NEXTLEVEL|H$"
  AUTONOMY_CANT_TAKE_DESC: "$OWNER|UH$ пока не может получить статус $NEXTLEVEL|H$"
  AUTONOMY_CAN_LOSE_DESC: "$OWNER|UH$ может быть понижено до статуса $PREVLEVEL|H$"
@@ -42,7 +42,7 @@
  AUTONOMY_RELATION_DESC2: "$SUBJECT|UH$ — $LEVEL|H$ зарубежного государства"
  AUTONOMY_COUNTRY_EFFECT: "Государство"
  AUTONOMY_MASTER_COUNTRY_EFFECT: "Метрополия"
- SHOW_SUBJECTS_DESC: "§GClick to manage your subjects.§!" #NT!
+ SHOW_SUBJECTS_DESC: "§GClick to manage your subjects.§!" 
  SHOW_SUBJECTS_DISABLED_DESC: "§RУ нас нет субъектов§!"
  MANAGE_SUBJECTS_HEADER: "Субъекты"
  CONTINUOUS_AUTONOMY_EFFECT: "$REASON$: £autonomy_texticon $VAL|+=2$"
@@ -76,7 +76,7 @@
  FOREIGN_EXILE_TEMPLATE_DESC: "Это шаблон государства $COUNTRY_ADJ|H$, чье изгнанное правительство нашло у нас убежище. Мы можем скопировать этот шаблон и создавать на его основе войска в изгнании. Войска в изгнании задействуют людские ресурсы правительства в изгнании."
  EXILE_TEMPLATE_DESC: "Это ссыльный шаблон государства $COUNTRY_DEF|H$. Войска в изгнании задействуют людские ресурсы правительства в изгнании."
  CONSTRUCTION_MASTER_BUILDING_LEVELS: "Государство $MASTER|UH$ сейчас строит для нас здание $BUILDING|H$ $LVL|H$ уровня."
- CONSTRUCTION_MASTER_BUILDING_REDUCE_LEVELS: "We are allowed to reduce this construction level only by $LVL|R$." #NT!
+ CONSTRUCTION_MASTER_BUILDING_REDUCE_LEVELS: "We are allowed to reduce this construction level only by $LVL|R$." 
  CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE: "§RНам запрещено понижать уровень или отменять строительство этого здания.§!"
  CONSTRUCTION_INFO_MASTER: "Строительство ведется на территории государства $WHO|H$. Если мы не используем все фабрики, они могут помочь, задействовав свои."
  CONSTRUCTION_INFO_SUBJECT: "Государство $WHO|H$ возводит это здание для нас. Если они не используют все фабрики, мы можем помочь, задействовав свои."
