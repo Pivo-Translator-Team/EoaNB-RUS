@@ -405,8 +405,8 @@
  government_system_loc_15: "Федерация Конгси"
  GET_CURRENT_MISSILE_TARGETED_NATION_2: "2"
  GET_CURRENT_MISSILE_TARGETED_NATION_1: "1"
- NMC_TARGET_COUNTRY: "Мы выбрали эту страну для атаки нашим §Rядерным арсеналом§!".
- eoanb_found_nuclear_missile_command: "Найдена Команда для Ядерной Ракеты".
+ NMC_TARGET_COUNTRY: "Мы выбрали эту страну для атаки нашим §RЯдерным Арсеналом§!"
+ eoanb_found_nuclear_missile_command: "Основать Командование Ядерными Ракетами"
  eoanb_found_nuclear_missile_command_desc: "Теперь у нас есть возможность нанести удар в любой точке мира с помощью нашего ядерного оружия, давайте зададим команду, когда и куда мы нанесем ядерный удар."
  NMC_MISSILE_AMOUNT: "Это количество §YМБР§!, которые находятся у нас на хранении."
  NMC_WARHEAD_AMOUNT: "Это количество ядерных боеголовок §YВысокой мощности§!, имеющихся у нас на хранении."
@@ -419,8 +419,8 @@
  branch_propaganda: "Отдел Пропаганды"
  branch_command: "Командование & Управление"
  branch_communications: "Связь"
- upgrade_form_department_prop: "Отдел Форм"
- upgrade_rnd_deparment: "Отдел Форм И&Р"
+ upgrade_form_department_prop: "Сформировать Отдел"
+ upgrade_rnd_deparment: "Сформировать Отдел И&Р"
  upgrade_agency_funding: "Финансирование Агентства"
  black_site_defense: "Защита от Кражи Технологий"
  upgrade_propaganda_schooling: "Пропагандистское Обучение"
@@ -471,4 +471,4 @@
  BRA_navigation_treaty: "Навигационный Договор"
  BRA_trade_and_navigation_treaty: "Договор о Торговле и Навигации"
  BRA_accepts_ENG_currency: "Бразилия принимает Британскую валюту"
- URG_accepts_BRA_investments: "Бразильские частные инвестиции в Уругвае".
+ URG_accepts_BRA_investments: "Бразильские частные инвестиции в Уругвае"
