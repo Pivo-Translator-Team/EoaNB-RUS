@@ -1,0 +1,23 @@
+﻿l_russian:
+  
+ BOP_TOOLTIP: "§Y[root.GetPowerBalanceName]§! в данный момент [?.root.power_balance_value|0%H] на следующей стороне: §Y[root.GetActiveSideName]§!"
+ BOP_TOOLTIP_TREND: "Баланс сил склоняется в следующую сторону: §Y[root.GetTrendingSideName]§! на [root.GetBopTrendTextIcon][root.GetChangeRateDesc].\n[root.GetPowerBalanceModDesc]"
+ BOP_TOOLTIP_STABLE: "Баланс сил в данное время стабилен."
+ BOP_LEFT_SIDE_TOOLTIP: "[root.GetLeftSideName]"
+ BOP_RIGHT_SIDE_TOOLTIP: "[root.GetRightSideName]"
+ BOP_ACTIVE_RANGE_DESC: "[root.GetActiveRangeName]"
+ BOP_ACTIVE_RANGE_TOOLTIP: "[root.GetActiveRangeModDesc][root.GetActiveRangeRuleDesc]"
+  
+ BOP_CHANGE_RATE_DAILY: "$VALUE|2%H$ в день"
+ BOP_CHANGE_RATE_WEEKLY: "$VALUE|2%H$ в неделю"
+  
+ BOP_RANGE_DESC: "$NAME|Y$\nДальность: $MIN|%Y$–$MAX|%Y$\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$"
+ BOP_RANGE_MODIFIER: "§YМодификаторы:§!\n$DESC$"
+ BOP_RANGE_RULE: "§YПравила:§!\n$DESC$"
+ BOP_RANGE_ACTIVATION_EFFECT: "\n§YЭффект активации:§!\n$DESC$"
+ BOP_RANGE_DEACTIVATION_EFFECT: "\n§YЭффект деактивации:§!\n$DESC$"
+  
+ BOP_PERCENTAGE: "$VALUE|0%$"
+ BOP_LEVELS: "$UNLOCKED$/$TOTAL$"
+  
+ BOP_STATIC_MODIFIER: "$NAME|H$"
