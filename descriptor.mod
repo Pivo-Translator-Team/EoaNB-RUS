@@ -4,6 +4,7 @@ tags={
 }
 dependencies={
 	"End of a New Beginning - Official Steam Version"
+	"End of a New Beginning - Official GitHub Version"
 }
 name="Официальный Русификатор End of a New Beginning"
 picture="thumbnail.png"
