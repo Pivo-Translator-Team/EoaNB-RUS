@@ -1824,7 +1824,7 @@
 
 #stats_l_russian
  STAT_COMMON_MAX_ORG:0 "£organization_texticon  Организация: "
- STAT_ARMY_DEFAULT_MORALE:0 "£army_morale_texticon  Скорость восстанов.: "
+ STAT_ARMY_DEFAULT_MORALE:0 "£army_morale_texticon  Скорость восстанов: "
  STAT_ARMY_COMBAT_WIDTH:0 "£combat_width_texticon  Ширина фронта: "
  STAT_ARMY_DEFENSE:0 "£defence_texticon  Защита: "
  STAT_ARMY_COLLATERAL:0 "£going_to_combat  Сопутствующие потери: "
@@ -1867,8 +1867,8 @@
  STAT_AIR_NAVAL_STRIKE_AGILITY:0 "£attacker_speed_texticon  Маневренность флота: "
  STAT_AIR_GROUND_ATTACK:0 "£cas_texticon  Авиаштурмовая атака: "
  STAT_COMMON_MAX_STRENGTH:0 "£strenght_texticon  Прочность: "
- STAT_COMMON_MAXIMUM_SPEED:0 "£attacker_speed_texticon  Макс. скор.: "
- STAT_NAVY_MAXIMUM_SPEED:0 "£attacker_speed_texticon  Макс. скор.: "
+ STAT_COMMON_MAXIMUM_SPEED:0 "£attacker_speed_texticon  Макс. скор: "
+ STAT_NAVY_MAXIMUM_SPEED:0 "£attacker_speed_texticon  Макс. скор: "
  STAT_NAVY_RANGE:0 "£navy_anchor_texticon  Дальность плавания: "
  STAT_COMMON_ARMOR:0 "£armor_texticon  Броня: "
  STAT_COMMON_PIERCING:0 "£piercing_texticon  Бронебойность: "

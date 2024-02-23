@@ -388,7 +388,7 @@
  UNIT_ADJECENCY_RULE_BLOCKED: "Перемещение невозможно, так как у нас $RULE_NAME|H$ права"
  UNIT_CANT_MOVE_TO_OCCUPIED_NEUTRAL: "§RНельзя перейти в провинцию§!, принадлежащую государству $OWNER|Y$\nНам необходимо сначала попросить право на §Gпроход войск§!."
  DEMILITARIZED_ZONE: "Demilitarized: §RTroops may not enter§!" 
- PLAN_PREPARATION: "Бонус от подготовки плана нападения: $VALUE|0Y%$ (макс.: $MAX|0Y%$)"
+ PLAN_PREPARATION: "Бонус от подготовки плана нападения: $VALUE|0Y%$ (макс: $MAX|0Y%$)"
  PLAN_PREPARATION_FACTOR: "Бонус от подготовки плана нападения умножается на $VALUE|0+%$"
  PLAN_PREPARATION_CHANGE: "Уровень подготовки возрастает на $VALUE|1Y%$ ежедневно."
  PLAN_PREPARATION_DESC: "Боевые единицы, находящиеся на стартовой позиции, указанной в плане, накапливают бонус к подготовке. Он будет уменьшаться, как только они начнут выполнение плана или отойдут."

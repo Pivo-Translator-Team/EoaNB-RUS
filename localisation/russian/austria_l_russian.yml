@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  ###################
  # Austrian Events #
  ###################
@@ -899,7 +899,7 @@ l_russian:
  ##############################
  # Austrian Empire Focus Tree #
  ##############################
- aus_empire_focus: "Austrian Empire Focus Tree"
+ aus_empire_focus: "Дерево Фокусов Австрийской Империи"
  
  #Politics
  AUS_focus_an_empire_in_demise: "An Empire in Demise?"
@@ -1640,7 +1640,7 @@ l_russian:
  AUS_decision_profit_from_the_sudbahn_desc: ""
  AUS_decision_profit_from_the_carl_ludwig_bahn: "Прибыль от Carl Ludwig-Bahn"
  AUS_decision_profit_from_the_carl_ludwig_bahn_desc: ""
- AUS_decision_profit_from_the_tiroler_staatsbahnen: Прибыль от Tiroler Staatsbahnen"
+ AUS_decision_profit_from_the_tiroler_staatsbahnen: "Прибыль от Tiroler Staatsbahnen"
  AUS_decision_profit_from_the_tiroler_staatsbahnen_desc: ""
  AUS_decision_profit_from_the_theiss_eisenbahn: "Прибыль от Theiss-Eisenbahn"
  AUS_decision_profit_from_the_theiss_eisenbahn_desc: ""
@@ -1763,7 +1763,7 @@ l_russian:
  AUS_idea_new_infantry_regulations_degenfeld_2_desc: ""
  AUS_idea_new_infantry_regulations_benedek_1: "Новое положение о пехоте"
  AUS_idea_new_infantry_regulations_benedek_1_desc: ""
- AUS_idea_new_infantry_regulations_benedek_2: Устав пехоты нового образца"
+ AUS_idea_new_infantry_regulations_benedek_2: "Устав пехоты нового образца"
  AUS_idea_new_infantry_regulations_benedek_2_desc: ""
  AUS_idea_austrian_general_staff_1: "Австрийский генштаб"
  AUS_idea_austrian_general_staff_1_desc: ""

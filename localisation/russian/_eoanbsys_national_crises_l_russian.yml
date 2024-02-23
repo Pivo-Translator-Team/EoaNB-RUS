@@ -3,16 +3,16 @@
  EOANBSYS_spirit_national_crisis: "[EOANBSYS_national_crisis_name_scripted]" 
  EOANBSYS_spirit_national_crisis_desc: "[EOANBSYS_national_crisis_desc_scripted]" 
  # Decisions 
- EOANBSYS_national_crisis_decision_category: "§L[EOANBSYS_national_crisis_name_scripted]§! (Fragmentation: [EOANBSYS_national_crisis_progress_scripted])" 
- EOANBSYS_national_crisis_decision_category_desc: "\n§RNational Crisis§! :  §H[EOANBSYS_national_crisis_name_scripted]§!\n§SBackground§! :  [EOANBSYS_national_crisis_desc_scripted]\n \n§SNational Crises§! occur when your nation befalls to economic or political instability. Factional turmoil, civilian radicalization and more may occur, disrupting your nation's stability until the crisis has been resolved.\n \n§CFragmention§! tracks the level of instability caused by §H[EOANBSYS_national_crisis_name_scripted]§! and will continue to increase §S[EOANBSYS_national_crisis_time_scripted]§! without any intervention. Completing objectives, events and other actions related to the crisis may increase or decrease your fragmentation. Reaching §R100 Fragmentation§! will bring greater disaster. Reaching §G0 Fragmentation§! will end the crisis and avoid disastrous effects.\n" 
+ EOANBSYS_national_crisis_decision_category: "§L[EOANBSYS_national_crisis_name_scripted]§! (Разделение: [EOANBSYS_national_crisis_progress_scripted])" 
+ EOANBSYS_national_crisis_decision_category_desc: "\n§RНациональный Кризис§! :  §H[EOANBSYS_national_crisis_name_scripted]§!\n§SСправка§! : [EOANBSYS_national_crisis_desc_scripted]\n \n§SНациональные Кризисы§! происходят, когда вашу нацию постигает экономическая или политическая нестабильность. Фракционные беспорядки, радикализация гражданского населения и многое другое могут нарушить стабильность вашей нации, пока кризис не будет разрешен.\n \n§CРазделение§! отслеживает уровень нестабильности, вызванный §H[EOANBSYS_national_crisis_name_scripted]§! и будет продолжать увеличивать §S[EOANBSYS_national_crisis_time_scripted]§ без какого-либо вмешательства. Выполнение задач, событий и других действий, связанных с кризисом, может увеличить или уменьшить вашу фрагментацию. Достижение §R100 Разделения§! приведет к еще большей катастрофе. Достижение §G0 Разделения§! приведет к завершению кризиса и предотвращению катастрофических последствий.\n"
   
- EOANBSYS_national_crisis_progress_counter_14: "§R[EOANBSYS_national_crisis_name_scripted] Progress§!" 
+ EOANBSYS_national_crisis_progress_counter_14: "§R[EOANBSYS_national_crisis_name_scripted] Прогресс§!" 
  EOANBSYS_national_crisis_progress_counter_14_desc: "" 
- EOANBSYS_national_crisis_progress_counter_30: "§R[EOANBSYS_national_crisis_name_scripted] Progress§!" 
+ EOANBSYS_national_crisis_progress_counter_30: "§R[EOANBSYS_national_crisis_name_scripted] Прогресс§!" 
  EOANBSYS_national_crisis_progress_counter_30_desc: "" 
- EOANBSYS_national_crisis_progress_counter_60: "§R[EOANBSYS_national_crisis_name_scripted] Progress§!" 
+ EOANBSYS_national_crisis_progress_counter_60: "§R[EOANBSYS_national_crisis_name_scripted] Прогресс§!" 
  EOANBSYS_national_crisis_progress_counter_60_desc: "" 
- EOANBSYS_national_crisis_progress_counter_90: "§R[EOANBSYS_national_crisis_name_scripted] Progress§!" 
+ EOANBSYS_national_crisis_progress_counter_90: "§R[EOANBSYS_national_crisis_name_scripted] Прогресс§!" 
  EOANBSYS_national_crisis_progress_counter_90_desc: "" 
   
  EOANBSYS_national_crisis_progress_scripted_really_high: "§R[?ROOT.EOANBSYS_national_crisis_progress_var]%§!" 
@@ -22,30 +22,30 @@
   
   
  # Scripted Localisation 
- EOANBSYS_national_crisis_name_default: "Civilian Revolt" 
- EOANBSYS_national_crisis_desc_default: "A §HCivilian Revolt§! occurs when a population has become extremely unconfident of or does not approve their government and has gained the means to display their displeasure." 
- EOANBSYS_national_crisis_name_luddite_movement_crisis: "Luddite Movement" 
- EOANBSYS_national_crisis_desc_luddite_movement_crisis: "Insert Luddite Movement Description Here Fam" 
- EOANBSYS_national_crisis_name_aspirations_for_liberty_crisis: "Aspiration for Liberty" 
- EOANBSYS_national_crisis_desc_aspirations_for_liberty_crisis: "Insert Aspiration for Liberty Description Here" 
- EOANBSYS_national_crisis_name_worker_revolt_crisis: "Worker Revolt" 
- EOANBSYS_national_crisis_desc_worker_revolt_crisis: "Insert Worker Revolt Description Here Fam" 
- EOANBSYS_national_crisis_name_military_coup_crisis: "Military Coup" 
- EOANBSYS_national_crisis_desc_military_coup_crisis: "Insert Military Coup Description Here Fam" 
- EOANBSYS_national_crisis_name_bakumatsu_crisis: "Bakumatsu Crisis" 
- EOANBSYS_national_crisis_desc_bakumatsu_crisis: "For centuries, the Japanese Islands have remained isolated and at peace from the world. Now, with the increasing connectivity of global trade, foreign powers are increasingly interested in accessing our shores and markets. Now, our leaders are divided upon what opening to the world will fate us. Some see this as an opportunity to shift Japan from generations of stagnation. Others see foreigners in our land as an existencial threat to Japan itself." 
+ EOANBSYS_national_crisis_name_default: "Гражданское Восстание" 
+ EOANBSYS_national_crisis_desc_default: "§HГражданский Восстание§! происходит, когда население стало крайне недоверчивым к своему правительству или не одобряет его и получило средства для выражения своего недовольства." 
+ EOANBSYS_national_crisis_name_luddite_movement_crisis: "Движение Луддитов"
+ EOANBSYS_national_crisis_desc_luddite_movement_crisis: "Вставьте здесь описание движения луддитов Fam."
+ EOANBSYS_national_crisis_name_aspirations_for_liberty_crisis: "Стремление к Свободе" 
+ EOANBSYS_national_crisis_desc_aspirations_for_liberty_crisis: "Вставьте здесь описание стремления к Свободе" 
+ EOANBSYS_national_crisis_name_worker_revolt_crisis: "Рабочее Восстание"
+ EOANBSYS_national_crisis_desc_worker_revolt_crisis: "Вставьте здесь описание рабочего восстания Fam"
+ EOANBSYS_national_crisis_name_military_coup_crisis: "Военный Переворот"
+ EOANBSYS_national_crisis_desc_military_coup_crisis: "Вставьте здесь описание военного переворота Fam"
+ EOANBSYS_national_crisis_name_bakumatsu_crisis: "Кризис Бакумацу"
+ EOANBSYS_national_crisis_desc_bakumatsu_crisis: "На протяжении веков Японские острова оставались изолированными и отгороженными от всего мира. Теперь, с ростом глобальной торговли, иностранные державы все больше заинтересованы в доступе к нашим берегам и рынкам. Теперь наши лидеры расходятся во мнениях о том, что сулит нам открытие мира. Одни видят в этом возможность вывести Японию из поколений застоя. Другие видят в иностранцах на нашей земле угрозу для самой Японии."
   
- EOANBSYS_national_crisis_time_scripted_14: "Bi-Weekly" 
- EOANBSYS_national_crisis_time_scripted_30: "Monthly" 
- EOANBSYS_national_crisis_time_scripted_60: "Bi-Monthly" 
- EOANBSYS_national_crisis_time_scripted_90: "Tri-Monthly" 
+ EOANBSYS_national_crisis_time_scripted_14: "Два раза в неделю" 
+ EOANBSYS_national_crisis_time_scripted_30: "Ежемесячно" 
+ EOANBSYS_national_crisis_time_scripted_60: "Два раза в месяц" 
+ EOANBSYS_national_crisis_time_scripted_90: "Трижды в месяц"
   
  # Scripted Effects 
- EOANBSYS_national_crisis_progress_add_tt: "§R$RIGHT|0$%§! §HFragmentation§!" 
- EOANBSYS_national_crisis_progress_minus_tt: "§G$RIGHT|0$%§! §HFragmentation§!" 
+ EOANBSYS_national_crisis_progress_add_tt: "§R$RIGHT|0$%§! §HРазделения§!" 
+ EOANBSYS_national_crisis_progress_minus_tt: "§G$RIGHT|0$%§! §HРазделения§!" 
   
  # Triggers 
- EOANBSYS_national_crisis_progress_counter_var_less_than_one_tt: "§G0%§! §HFragmentation§!" 
- EOANBSYS_national_crisis_progress_counter_var_more_than_ninety_nine_tt: "§R100%§! §HFragmentation§!" 
+ EOANBSYS_national_crisis_progress_counter_var_less_than_one_tt: "§G0%§! §HРазделения§!" 
+ EOANBSYS_national_crisis_progress_counter_var_more_than_ninety_nine_tt: "§R100%§! §HРазделения§!" 
   
  # National Crises Flags 
