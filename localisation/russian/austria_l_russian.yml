@@ -1,10 +1,10 @@
 ﻿l_russian:
- ###################
- # Austrian Events #
- ###################
- 
- ###STARTING EVENTS, GENERAL INFO EVENTS
- #STARTING EVENTS
+  ################### 
+  # Austrian Events # 
+  ################### 
+  
+  ###STARTING EVENTS, GENERAL INFO EVENTS 
+  #STARTING EVENTS 
  austria.1.t: "Названия провинций: русские или немецкие?"
  austria.1.d: "Этот мод дает вам возможность играть с немецкими названиями провинций и городов, находящихся под вашим контролем. Хотите ли вы включить эту возможность?"
  austria.1.a: "Да, я хочу немецкие названия."
@@ -18,7 +18,7 @@
  austria.4.t: "Внутренние угрозы Австрийской империи"
  austria.4.d: "В пределах Австрийской империи проживает более десятка различных национальностей, которые стремятся к автономии от правительства в Вене, в чем им неоднократно отказывала центральная власть. Националистическая агитация отдельных лиц остается наиболее опасной внутренней угрозой, но это не единственная проблема. Некоторые наши министры и дипломаты устало смотрят вдаль, ожидая самого худшего в предстоящих конфликтах. Если мы хотим, чтобы наша империя перешла на современный виток развития, нам необходимо решить эти проблемы раз и навсегда."
  austria.4.a: "Нам нужно найти решения..."
- #HABSBURG EVENTS
+  #HABSBURG EVENTS 
  austria.11.t: "Рождение престолонаследника"
  austria.11.d: "После двух дочерей у Австрийской империи наконец-то появился наследник мужского пола. Сын императора Франца Иосифа и императрицы Елизаветы, кронпринц закрепляет за императором его собственную линию дома Габсбургов. Он родился в императорском замке Шлосс Лаксенбург, расположенном недалеко от Вены, и будет назван Рудольфом в честь одного из своих великих предков. Австрийский престол сохранен еще на одно поколение."
  austria.11.a: "Он должен получить имя Рудольф, как и его знаменитый предок."
@@ -32,7 +32,7 @@
  austria.14.d: "Принцесса Мария Валерия Австрийская родилась в Буде, в Венгерском королевстве. Четвертый ребенок императора и императрицы, она быстро станет любимой дочерью последней. Некоторые придворные часто называли ее 'Die Einzige', 'Единственное дитя', что объясняется тем, как сильно она была обожаема своей матерью. В основном это объяснялось тем, что она была первым ребенком, которого императрице позволили воспитывать самостоятельно.\n\nЕе также прозвали 'венгерским дитем', поскольку ее рождение было уступкой императора императрице Елизавете, которая хотела улучшить отношения со своей любимой частью империи. Она родилась через девять месяцев после коронации Франца Иосифа в Будапеште в качестве нового короля Венгрии."
  austria.14.a: "'Венгерское' дитя."
  austria.14.b: "Единственное дитя."
- #FLAVOUR EVENTS
+  #FLAVOUR EVENTS 
  austria.21.t: "The Blue Danube Waltz"
  austria.21.d: "'An der schönen, blauen Donau', or 'The Blue Danube' as it is commonly referred to in English, is the new waltz of the great Austrian composer Johann Straus II. Composed in 1866, it has been for the first time been played at a Vienna Men's Choral Association concert today.\n\nIt has encountered only a mild success however, but Johann Strauss will continue to play his piece around the world, hoping to find better success in the international stage."
  austria.21.a: "O' Glorious Danube!"
@@ -106,8 +106,8 @@
  austria.44.t: "Railway Accident Near Cerhovice"
  austria.44.d: ""
  austria.44.a: "What a tragedy!"
- 
- ###RAILWAY EVENTS
+  
+  ###RAILWAY EVENTS 
  austria.51.t: "Railway Line from Vienna to Munich - Planning Complete"
  austria.51.d: "Plans have existed since the early 1850s to connect the Austrian capital Vienna to Munich via railway. After initial failure, the plan has recently been revitalized, much to the joy of our beloved Empress Elisabeth, who is a Bavarian native. The planning for the railway line has been completed now. It will run west from Vienna to Linz, from where it will continue in south-western direction to Salzburg and meet the line from Bavaria behind the border. The line is scheduled to go into service in approximately three years time. If we decide to support this initiative, the new railway line would surely benefit our economy and our mutual understanding with the Bavarians."
  austria.51.a: "Sounds good."
@@ -210,9 +210,9 @@
  austria.76.d: "As part of the railway concessions agreed upon by the state and the investors, the railway line to Zagreb (Agram) and further southeast to the Bosnian border has been completed. This concludes the public and semi-public railway development plans currently underway."
  austria.76.a: "Gute Reise!"
  AUS_stop_funding_railways_effect_tt: "§RIn case you decide to stop funding the railway projects, you will have to finish or build some of the lines yourself to unlock all content.§!"
- 
- ###DIPLOMACY AND GEC EVENTS
- #CRIMEAN WAR AFTERMATH EVENTS
+  
+  ###DIPLOMACY AND GEC EVENTS 
+  #CRIMEAN WAR AFTERMATH EVENTS 
  austria.101.t: "Aftermath of the Crimean War"
  austria.101.d: "The conflict between Russia and the combined allied forces of Great Britain, France, and Sardinia-Piedmont resulted from an effort to prevent the successful Russian invasion of the Ottoman Empire. The Russians were humiliated and bereaved in the aftermath, with their navy crippled, civilians fearing further conflict, and the government in crisis. Looking back, our own involvement in the crisis was hapless overall. Without any significant gains, we alienated the Russians who had supported us during the March Revolution, despite our promises and moral obligation to return the favor. We will have to decide how to proceed from here."
  austria.101.a: "Let's hope our actions in the past won't come back to haunt us."
@@ -243,13 +243,13 @@
  austria.109.t: "Diplomatic Effort Successful!"
  austria.109.d: "Wunderbar! Our foreign advisors and their teams have returned back to Vienna, voicing their great return from their expedition as one of the greatest diplomatic successes of the Austrian Empire to date! The central governments in London and Saint Petersburg have humbly accepted our plea for amendment and have sent their own delegations along back to Vienna to continue this prosperous moment between our great nations. Let us hope we can keep these relations tall, as upcoming conflicts could require a call for their ever-needed support against our enemies..."
  austria.109.a: "Three cheers for our diplomatic corps."
- #GENERAL DIPLOMACY EVENTS
+  #GENERAL DIPLOMACY EVENTS 
  austria.121.t: "Meeting of Emperor Franz Joseph I and Tsar Alexander II at Weimar"
  austria.121.d: "Following the dispute their countries have had during the Crimean War and in its aftermath, the diplomatic relations between Austria and Russia are strained. Today, the Austrian Emperor Franz Joseph I and the Russian Tsar Alexander II are meeting at the German city of Weimar in Thuringia, home of the German classics Goethe and Schiller, in an attempt to bring their countries closer once again."
  austria.121.a: "Perhaps a welcome sign of rapprochement?"
- 
- ###ITALY EVENTS
- #ITALIAN UNREST EVENTS
+  
+  ###ITALY EVENTS 
+  #ITALIAN UNREST EVENTS 
  austria.151.t: "HIDDEN EVENT: Trouble in Lombardy-Venetia?"
  austria.152.t: "Uproar in Italy"
  austria.152.d: "Italian nationalist sentiment, stirred up by the Risorgimento movement, has resulted in yet another act of violence against our righteous rule in Northern Italy."
@@ -265,9 +265,9 @@
  austria.154.t: "Our Subjects in Italy Demand Liberalization Promises Kept"
  austria.154.d: "Due to the liberal ideals of Archduke Maximilian, who had been appointed as Viceroy of the Kingdom of Lombardy-Venetia in February 1857 when Emperor Franz Joseph had decided the immediate replacement of the elderly soldier Joseph Radetzky von Radetz, who had been stirring discontent amongst the Italian population. Maximilian promised liberal reforms to better the situation for the Italian peoples under Austrian control, and now this has come front to us: The Italians demand their promise fulfilled."
  austria.154.a: "We should act according to our promises."
- 
- ###NATIONALIST THREAT EVENTS
- #NATIONALIST AGITATION EVENTS
+  
+  ###NATIONALIST THREAT EVENTS 
+  #NATIONALIST AGITATION EVENTS 
  austria.201.t: "The Challenges of a Multinational Empire"
  austria.201.d: "This empire consists of a multitude of different and conflicting ethnicities that bicker and fight, loosening our hold over them and destabilizing their homelands. The challenges we face against them are undoubtedly increasing as more and more rise up against us. Our lands may be ethnically divided, but they are still under the control of the massive Austrian Army, which crushes any attempt of armed rebellion. The other powers of Europe do not face the same internal threat that we do, but we will stand atop them once our troublemakers are dealt with..."
  austria.201.a: "We need to find a cure against this nationalist madness!"
@@ -296,7 +296,7 @@
  AUS_nationalist_uproar_mild_resistance_effect_tt: "[ROOT.GetName] is experiencing §Rmild insurgence§! of §Ynationalist agitators§!.\n"
  AUS_nationalist_uproar_moderate_resistance_effect_tt: "[ROOT.GetName] is experiencing §Rmoderate insurgence§! of §Ynationalist agitators§!.\n"
  AUS_nationalist_uproar_serious_resistance_effect_tt: "[ROOT.GetName] is experiencing §Rserious insurgence§! of §Ynationalist agitators§!.\n"
- #austria.210 - placeholder for possible additions
+  #austria.210 - placeholder for possible additions 
  austria.211.t: "Continue the Language Promotion Policy?"
  austria.211.d: "Our policy to promote the German language across the realm has run out. Should we renew the legislation and continue with it?"
  austria.211.a: "It's been successful so far, let's continue with it."
@@ -357,16 +357,16 @@
  austria.217.d_croatian: "Our language promotion policy has inspired members of the upper class in Croatia to adapt their ways to fit in with the German upper class."
  austria.217.d_polish: "Our language promotion policy has inspired members of the upper class in our Polish lands to adapt their ways to fit in with the German upper class."
  austria.217.a: "This sparks hope."
- #REACTIONS TO WARS AND OTHER DEVELOPMENTS
+  #REACTIONS TO WARS AND OTHER DEVELOPMENTS 
  austria.251.t: "Protests in Bohemia Turned Violent"
  austria.251.d: "The protests in Bohemia have begun to turn violent as German and Czech moderates have left the “National Committee”, leaving radical nationalists and utopian socialists to demand reforms. Such reforms do not have the popular support of the German and Czech middle class, but the situation is still unstable in Bohemia and swift action is needed to restore order."
  austria.251.a: "Nonsense..."
  austria.252.t: "Anger in Hungary"
  austria.252.d: "Despite putting down the Hungarian Revolution of 1848, their resistance to our rule has not gone away. Worse still, other groups have noticed this and it appears that the hard work done in 1848 to keep the Empire centralized and whole has been for nothing."
  austria.252.a: "The Hungarians should better keep quiet."
- 
- ###DOMESTIC POLITICS EVENTS
- #DOMESTIC POLICY EVENTS
+  
+  ###DOMESTIC POLITICS EVENTS 
+  #DOMESTIC POLICY EVENTS 
  austria.301.t: "The Laxenburg Manifesto"
  austria.301.d: "Emperor Franz Joseph I has published the Laxenburg Manifesto, in which he details the peace agreements to be made in light of recent events and promises reforms to be made domestically. Among the reforms are promises to relinquish control to local communal authorities, alongside promises to submit to 'effective control' the expenditures (civil and military) of the government. Assurances were also made to religious groups within the Empire, namely non-Catholic groups; Israelites are to be regulated along modern lines taking into account local and provincial conditions. Although few may notice the lack of the word 'constitution' or anything in its likeness, many feel that this new manifesto marks the beginning of consitutionality in the Austrian Empire."
  austria.301.a: "We need to redeem our reputation at all cost."
@@ -486,12 +486,12 @@
  austria.334.t: "The Bohemian Declaration"
  austria.334.d: ""
  austria.334.a: "This insolence!"
- 
+  
  austria.351.t: "Count von Belcredi Offers his Resignation"
  austria.351.d: "The tenure of Richard Belcredi seems to have come to an end. Following the defeat against Prussia, different plans were presented to thoroughly reform the Austrian Empire into a federalized state. However, Belcredi's plan was quickly dropped in favor of Friedrich Ferdinand von Beust's agenda to form a dual monarchy. The new foreign minister, who had been leading the Saxon government prior to the war, seems to have gained the Emperor's trust, and is likely to hold more power than Staatsminister Belcredi, and the latter has consequently asked for his resignation. Should we accept it and make von Beust the new Staatsminister?"
  austria.351.a: "Replace him with Friedrich Ferdinand von Beust."
  austria.351.b: "Reject his resignation."
- #RELIGIOUS UNREST EVENTS
+  #RELIGIOUS UNREST EVENTS 
  austria.391.t: "Ramifications of the Concordat of 1855"
  austria.391.d: "Ever since the agreement to greatly expand the power and influence of the Austrian Bishops' Conference detailed in the Concordat of 1855, many in the German speaking parts of the Empire have started protesting the continued empowerment of the Catholic Church, further reinforcing recent movements of anti-clericalism. Many argue that the relinquishment of control of the educational sector to the Catholic Church across the Empire may have disastrous consequences. Despite this, so far the Emperor and his government have refused any calls for reform or repeal."
  austria.391.a: "This agreement is in line with the will of the Emperor, and we must defend it."
@@ -507,9 +507,9 @@
  #austria.400.t: "Abolishing the Serbian Voivodeship"
  #austria.400.d: "Formed in November 1849 as a response to the Revolutions of 1848 and 1849, the Serbian Voivodeship was the end result of decades of the rise of the privileges of the Serbs in the Austrian Empire.\n\nHowever, the Hungarian leadership has asked for it to be incorporated back into the Kingdom of Hungary back in 1860. In 1867, Hungary gained direct rule, and step by step the Voivodeship has been incorporated into the Kingdom.\n\nAfter two decades of existence, the Serbian Voivodeship has been officially abolished, and the Serbian autonomy has been curbed once again."
  #austria.400.a: "All roads lead to Buda - Pesth and Vienna"
- 
- ###AUSTRIA-HUNGARY COMPROMISE EVENTS
- #COMPROMISE ARRANGEMENTS
+  
+  ###AUSTRIA-HUNGARY COMPROMISE EVENTS 
+  #COMPROMISE ARRANGEMENTS 
  austria.401.t: "Negotiations with the Hungarians Commence"
  austria.401.d: "After a move from the Emperor to suspend the constitutional patent, the Hungarian leadership is now very open to negotiations with the Austrian crown, in the hopes of building a more liberal Empire that can give more autonomy to the Hungarians.\n\nThese negotiations will have the main goal to ease tensions, and to finally create an administrative structure that would please everyone in the Austrian Empire. It is now time to find a compromise."
  austria.401.a: "Go on then."
@@ -528,9 +528,9 @@
  austria.405.t: "Franz Joseph Crowned King of Hungary"
  austria.405.d: "Today, Emperor Franz Joseph I, ruler of the Austrian Empire, was crowned I. Ferenc József, King of Hungary. The ceremony, the final step in this great compromise between the two kingdoms, will formalize the union of both crown.\n\nThe Austrian Empire has now been reformed into a dual-monarchy, and now that it has found peace, it can look outwards into Europe. The Austrian Empire has finally resolved one of their greatest issues."
  austria.405.a: "It is no longer Austria, but Austria-Hungary!"
- 
- ###ALT-HISTORY EVENTS
- #HUNGARIAN REVOLUTION EVENTS
+  
+  ###ALT-HISTORY EVENTS 
+  #HUNGARIAN REVOLUTION EVENTS 
  austria.501.t: "The Winds of Change in Hungary"
  austria.501.d: "A very important report has arrived from the Minister of Interior [AUS.GetLeader] describing a resurgence of Magyar nationalism due to our aggressive policies and actions in the past years. The Secret Police has tracked down several 'Pro-Independence Committees' operating throughout Hungary and many more are believed to exist. These committees have been collecting funds from abroad to fund a planned revolt. In addition to that, the people too appear dissatisfied with our administration and a large part of the Magyars have refused to pay taxes. The general consensus is that an uprising appears to be planned in Hungary."
  austria.501.a: "Worrying..."
@@ -551,7 +551,7 @@
  austria.506.t: "The Treaty of Pressburg"
  austria.506.d: "The Austro-Hungarian war resulted in a great victory for the reborn nation of Hungary! Austria has signed the Treaty of Pressburg, granting Hungary formal independence from Austria, and even the Croatian territory on top of that.\n\nSince the first Hungarian Revolution in 1848/49, the people of Hungary had been longing for the day they could claim themselves truly sovereign. And now, after many years of hardship and struggle, they can happily wave the Hungarian national flag in Buda."
  austria.506.a: "The Magyar Nation is reborn!"
- #ITALIAN ORGANIZATION AFTER VICTORY IN 2IW
+  #ITALIAN ORGANIZATION AFTER VICTORY IN 2IW 
  austria.526.t: "Victory in Italy!"
  austria.526.d: "The bloody war that was forced upon us by the treacherous Sardinians is over - and once again we emerge victorious! We will have to decide how to make the most of our triumph in the following weeks and months."
  austria.526.a: "A.E.I.O.U."
@@ -571,7 +571,7 @@
  austria.529.a: "Create the Italian League."
  austria.529.b: "There's no need for this."
  AUS_italian_league_effect_tt: "The §YItalian League§! is formed between the §Y[AUS.GetName]§! and the rulerships of its holdings in Italy."
- 
+  
  austria.532.t: "The Future of the [LVN.GetName]"
  austria.532.d: "The Kingdom of Lombardy-Venetia has been ours since the Congress of Vienna in 1815, following Napoleon's defeat. The Kingdom has however been a site of often violent insurrections by Italian nationalists again the Habsburg rule and with our close victory against Piedmont the time has come to decide on how we should deal with the Kingdom. A prominent idea put forward by the Conservatives is to annex Venice into the Austrian Empire, effectively recreating the Duchy of Lombardy. A popular option amongst the more Moderates is to keep the same structure for the Kingdom while the Liberals propose to give it more autonomy, in order to satisfy the Italians."
  austria.532.a: "Annex Venetia."
@@ -585,8 +585,8 @@
  austria.534.t: "Austria Cedes Savoy and Nice"
  austria.534.d: "On [GetDateText] our troops entered Savoy and Nice for the first time since 1815, when it was ceded to the Piedmontese. The population cheered the French troops and thousands attended the official ceremony of the handing of Chambery from Austria to France. The agreement known as the 'Franco-Austrian Agreement on Savoy of [GetYear]' was signed between Staatsminister [AUS.GetLeader] of Austria and [FRA.GetLeader] of France. With this glorious agreement, the Austrians have not only proven that they can be trusted, but in fact that they can be good friends of ours. The Emperor later declared that 'the old grudge between France and Austria has been ended, now we can only expect friendship', effectively instructing his government to consider Austria a friend, not an enemy."
  austria.534.a: "Wonderful news."
- 
- #DOMESTIC POLICY AFTER VICTORY IN ITALY
+  
+  #DOMESTIC POLICY AFTER VICTORY IN ITALY 
  austria.541.t: "The Secret State Debt Commission Commences its Operations"
  austria.541.d: "A small number of hand-picked experts and confidants have gathered in Vienna to determine the magnitude of our debt situation. They were invited under false pretences to veil the true nature of their mission. His Majesty, the Emperor, himself will be greeting them shortly, after which the commission will be instructed in their task. We expect them to present their report in a few weeks."
  austria.541.a: "Make sure no one hears about this."
@@ -648,8 +648,8 @@
  austria.552.t: "Central Authority Successfully Enforced"
  austria.552.d: "For now, it seems like our adversaries have been dealt with. The centralization measures currently face now major resistance and we can continue implementing them across the realm. Given time, this might reform our administration into a proper centralized government with the strongest authority in the hand of our glorious Emperor Franz Joseph I."
  austria.552.a: "Great news!"
- 
- #FEDERALIZATION OF THE EMPIRE
+  
+  #FEDERALIZATION OF THE EMPIRE 
  austria.576.t: "Negotiations Begin with the Nationalities of the Empire"
  austria.576.d: "The Austrian Empire is now heading towards forming a great Central European federation of semi-autonomous states. Historically, the Empire had always been separated into two main areas, administered by Austria (Cisleithania) and by Hungary (Transleithania).\n\nWith our new federation being drafted, we might want to give the smaller nationalities some autonomy as well. It could weaken our two nations, but in the process we will be able to create a more stable federation."
  austria.576.a: "Negotiate only with the Magyars"
@@ -697,14 +697,14 @@
  austria.586.t: "Negotiate with the Serbians"
  austria.586.d: "The small province of Vojvodina is a Slavic majority region in Southern Transleithania, under official Hungary control. While they are a very small region, which wouldn't cause much trouble, we might look into making them truly autonomous. The new federation needs to take into account the needs of all of the minorities in the Empire."
  austria.586.a: ""
- 
- ###ARMY EVENTS
- #AUSTRIAN ARMY REFORM EVENTS - DEGENFELD
+  
+  ###ARMY EVENTS 
+  #AUSTRIAN ARMY REFORM EVENTS - DEGENFELD 
  austria.601.t: "August von Degenfeld Appointed Army Theorist"
  austria.601.d: "Emperor Franz Joseph I has come forward with his decision on who should head the army reform program. The Emperor has entrusted the lieutenant field marshal August von Degenfeld-Schonburg with this important task. Degenfeld is believed to have convinced the Emperor with his innovative approach and his profound knowledge of modern warfare, even though the cost might be significant."
  austria.601.a: "Great news for the army!"
  AUS_appointed_degenfeld_effect_tt: "§YAugust von Degenfeld will begin implementing his proposed army reform plans shortly.§!"
- 
+  
  austria.623.t: "Invest in Special Training for Military Railway Department?"
  austria.623.d: "The soldiers of our recently created military railway department require special instructions for their tasks and the technical equipment they are dealing with in order to act efficiently in times of conflict. Investing into their training could certainly increase their usefulness and the reward they bring to the table. Given time, we might also benefit from the experiences we gain in the process. Should we make the necessary investments to facilitate their training?"
  austria.623.a: "Let's do it."
@@ -716,24 +716,24 @@
  austria.625.t: "Training for Military Railway Department Finished"
  austria.625.d: "Our special training program for the military railway department was finished a few weeks ago. Both the instructors and officers have reported great progress in the everyday routines, knowledge, and the performance under pressure from the latest drills. It seems the scheme has been successful!"
  austria.625.a: "Great news for the army."
- #AUSTRIAN ARMY REFORM EVENTS - BENEDEK
+  #AUSTRIAN ARMY REFORM EVENTS - BENEDEK 
  austria.621.t: "Ludwig von Benedek Appointed Army Theorist"
  austria.621.d: "Emperor Franz Joseph I has come forward with his decision on who should head the army reform program. The Emperor has entrusted the seasoned Feldzeugmeister Ludwig von Benedek with this important task. Benedek is believed to have convinced the Emperor with his dash and battlefield experience - and the promise of low cost, high reward."
  austria.621.a: "Great news for the army!"
  AUS_appointed_benedek_effect_tt: "§YLudwig von Benedek will begin implementing his proposed army reform plans shortly.§!"
- 
+  
  austria.676.t: "Österreichische Militärische Zeitschrift"
  austria.676.d: "The 'Österreichische Militärische Zeitschrift', or Austrian Military Journal, was established in 1808 to accompany and support the reforms and reorganization measures that the Austrian Imperial Army went through after the humiliating defeat at the hands of Napoléon at the Battle of Austerlitz. Archduke Charles, who headed the reform process, deemed it appropriate to educate the senior officers in important advances of the military sciences in the form a periodical journal. The goal of the articles in the journal is to derive strategic, operational, and tactical conclusions from military and scientific developments across to globe for implementation of the battlefield."
  austria.676.a: "Great news for the army!"
- 
+  
  austria.651.t: "Breechloader Development Successful"
  austria.651.d: "After months upon months toiling away at what felt like a goal too unrealistic, the developmental funds allocated to our domestic-made breech-loader technologies have finally proven to be a staggering success! The engineers commissioned and tasked with the adaptation of a breech-loading mechanism on the existing Lorenz Rifle have reported recently that a reliable and functioning prototype has been made, tested, and approved. With this, we may finally have a homegrown equivalent to the ground-breaking Prussian Dreyse needle-gun!"
  austria.651.a: "Great news for the army!"
  austria.652.t: "Breechloader Development Failed"
  austria.652.d: "The engineering committee appointed and commissioned to design, prototype, and ready a functioning breech-loading mechanism for mass production have reported a failure of substantial cost. It seems in their attempts to engineer a suitable design, funds were used up at an alarmingly high rate, without groundbreaking success to show for. Prototype after prototype kept failing and needing re-manufacturing, until finally the coffers ran dry. With no funds left to continue additional design and tooling changes, the committee has been forced to inform us of their failure. We could try to entrust other engineers with a similar task as this, but then again, we can ill-afford these lavish fundings of seemingly inconsequential projects and ideas as things stand."
  austria.652.a: "All these funds for nothing?"
- 
- #GENERALS EVENTS
+  
+  #GENERALS EVENTS 
  austria.701.t: "Dismissing Feldmarschall Ferenc Gyulay"
  austria.701.d: "Count Ferenc Gyulay, who was named Feldmarschall only a few years ago, has proven to be an incompetent military commander. His crushing defeat in the Battle of Magenta against the Italians and their allies puts us in a bad spot. It would be wise to recall him back to Wien, and instead let the Emperor decide how to handle the situation to avoid demoralizing the army entirely. Should Ferenc Gyulay remain as Feldmarschall, or should he be recalled from his command? Keeping him there will surely anger both the people and the army."
  austria.701.a: "Dismiss him, Heinrich von Heß will take over."
@@ -761,9 +761,9 @@
  austria.708.t: "Leopold Gondrecourt Promoted to Major General"
  austria.708.d: "Leopold Gondrecourt, former tutor of the Crown Prince, has been promoted to the rank of Major General. The senior officer of French origin, recipient of the prestigious Pour le Mérite order of merit, has proven his dash and talent as battlefield leader and we continue to wish him the best of luck in all of his future commands."
  austria.708.a: "A Frenchman in the army?"
- 
- ###NAVY EVENTS
- #AUSTRIAN NAVY EVENTS
+  
+  ###NAVY EVENTS 
+  #AUSTRIAN NAVY EVENTS 
  austria.801.t: "The Austrian Navy"
  austria.801.d: "The Kaiserlich-königliche Kriegsmarine, or Imperial-Royal Navy, was mostly made up of Italian crew members up until the appointment of Ferdinand Maximilian; the Italian language was the primary language, and even Italian ship names were used over German ones. While the rest of Europe upheaved their naval production during the Age of Exploration and furthered it during the Napoleonic Age, Austria sat back and promoted a 'Fleet in Being' doctrine, partially due to its advantageous seafaring and rivaling neighbors to the south. But now, with a change in leadership and the threat of a unified Italian rival, Emperor Franz Joseph has made the final decision: Austria will need a great and prodigious Navy, one to rival its enemies and protect Austrian interests: A truely Imperial Navy."
  austria.801.a: "Something to build upon?"
@@ -846,9 +846,9 @@
  austria.826.t: "The SMS Novara Circumnavigates the Globe"
  austria.826.d: "After two years and three months, the SMS Novarra has completed its voyage across the world. The crew was praised by the Austrian scientific community for the multiple discoveries and detailed studies of parts of the world that were still not known. Whine the Viennese Academy of Sciences are only starting to compile a summary of the countless notes taken by the crew, the ship's voyage has already marked Austrian history, and its legacy will sure continue to resonate for the centuries to come."
  austria.826.a: "Excellent."
- 
- ###ECONOMY EVENTS
- #DEBT CRISIS EVENTS
+  
+  ###ECONOMY EVENTS 
+  #DEBT CRISIS EVENTS 
  austria.901.t: "The Empire's Financial Crisis"
  austria.901.d: "The Austrian Empire and its domains have never seen the luxurious goods of a quantifiable economic boom that has seemed to reach so many other nations. With so many conflicts in the last century adding up, our debt has been climbing to threatening heights, and paying off the interest on it all has been taking up a large portion of the annual national funds.\nThe massive Imperial-Royal Army that protects our lands requires immense funding to sustain its quality. The officers' and generals' pensions are paid generously while they are enjoying other benefits that many other armies do not provide. Since the revolutions of 1848 and 1849, Italy's garrison has nearly doubled, and the cost has not been insignificant.\nThe formation of the Zollverein under the aegis of Prussia dealt a blow to our economic influence in most of Germany, and despite our best and most sincere efforts we are still not included in this customs union. This leads to issues for our economy, too, as difficulties in opening businesses and trading continue to dwindle the morale and incentive of our subjects to further the Industrial Revolution in our realm.\nWhile it does seem that we will remain behind other Great Powers, our industries have shown some promising sparks of life lately, after some shrewd reforms by Staatsminister Bach and his ministers and advisors. The likes of Anselm Salomon von Rothschild, Karl Adalbert Lanna, Johann Adolf zu Schwarzenberg, and other prominent economists are assembling industrial enthusiasts across the Empire."
  austria.901.a: "We need to deal with this situation first and foremost."
@@ -874,7 +874,7 @@
  austria.909.t: "Growing Debt Burden due to High Army Budget"
  austria.909.d: "Our army budget is too high compared to our government income. We either find new sources of revenue or we risk bankruptcy."
  austria.909.a: "Maybe we should cut the army budget?"
- #AUSTRIAN ECONOMY EVENTS
+  #AUSTRIAN ECONOMY EVENTS 
  austria.931.t: "Vienna Urbanization"
  austria.931.d: "The beating heart of the entire Empire, Wien is a city as old and glorious as they come, but it isn't perfect, more and more people come flocking from different areas looking for their place in the world in our Imperial city, and we cannot let them down, thus we shall demolish old and unneeded buildings so we can construct more places for these poor souls to work in and find their happiness."
  austria.931.a: "Good news."
@@ -891,17 +891,17 @@
  austria.935.d: ""
  austria.935.a: "Go ahead."
  austria.935.b: "No need."
- #PANIC OF 1873 EVENTS
+  #PANIC OF 1873 EVENTS 
  austria.951.t: "The Panic of 1873"
  austria.951.d: "The Vienna Stock Exchange Crashed, a series of Viennese bank failures ensued..."
  austria.951.a: "Scheiße!"
- 
- ##############################
- # Austrian Empire Focus Tree #
- ##############################
+  
+  ############################## 
+  # Austrian Empire Focus Tree # 
+  ############################## 
  aus_empire_focus: "Дерево Фокусов Австрийской Империи"
- 
- #Politics
+  
+  #Politics 
  AUS_focus_an_empire_in_demise: "An Empire in Demise?"
  AUS_focus_an_empire_in_demise_desc: "Despite the threats and tribulations that our kingdom has faced, owing to our unrivaled leadership, our empire has stood firm against the sands of time. However, because time is running out and our government is split, an agreement was made with Russia, and they are now defending our territory to protect us from the ongoing Hungarian Revolution while we sort out our internal matters. More than a dozen distinct nationalist nationalities have fought for autonomy against the government in Vienna, which has been a source of contention for decades. These issues are putting further strain on our empire's stability, but any efforts at insurgency will be crushed quickly because their territory is still under Austrian control. Despite the obstacles, we are making progress and will rise above these issues."
  AUS_focus_external_threats: "External Threats"
@@ -957,7 +957,7 @@
  AUS_focus_keep_army_budget_at_all_cost_effect_tt: "Keeping our §Yarmy budget§! at the current level will likely mean we are going to have to take on §Rmore§! §Ydebt§! over time. In the short term, however, the §Ymilitary brass§! will be §Ghappy§! and the §Yhawks§! among our politicians will §Gsupport§! this policy.\n\n"
  AUS_focus_cooperate_with_the_kreditanstalt: "Cooperate with the Kreditanstalt"
  AUS_focus_cooperate_with_the_kreditanstalt_desc: "Anselm Salomon von Rothschild, a descendant of the famed Jewish banking dynasty Rothschild, created the 'k. k. privilegierte sterreichische Kredit-Anstalt für Handel und Gewerbe' in 1855. The financial institution is quickly expanding and gaining business from all throughout Europe. Cooperating with them would ensure that our financial matters are handled professionally."
- #Triumph in Italy
+  #Triumph in Italy 
  AUS_focus_triumph_in_italy: "Triumph in Italy"
  AUS_focus_triumph_in_italy_desc: "The Italians have challenged our rule over Northern Italy, and we have crushed them on the battlefield. This will show our adversaries that the Austrian Empire is far from being past its best. We can use this victory as political leverage both on the inside and outside."
  AUS_focus_neoabsolutism: "Neoabsolutism"
@@ -990,7 +990,7 @@
  AUS_focus_a_unitary_empire_desc: "The Austrian Empire has existed for too long as a collection of crowns with separate laws, preventing us from ruling effectively. We will instead create a single state, with a single set of laws. We will do away with the complicated mess we know today, and create a nation that is united under our Emperor."
  AUS_focus_a_failed_state: "A Failed State"
  AUS_focus_a_failed_state_desc: "Our neoabsolutist approach has failed. The enforced centralization only caused more problems than it solved, and our government now lies in shambles. It will be tough to get out of this..."
- #Disaster in Italy
+  #Disaster in Italy 
  AUS_focus_disaster_in_italy: "Disaster in Italy"
  AUS_focus_disaster_in_italy_desc: "The worst has occurred in Italy... We have been defeated, and the wealth of Venice and Lombardy are now denied to us. Our nation must reorient and find a new path forward to cope with these great losses. Our pride, our treasury, and our army are damaged by these events, and we must find a way to heal each of them."
  AUS_focus_summon_the_reichsrat: "Summon the Reichsrat"
@@ -1023,8 +1023,8 @@
  AUS_focus_a_constitutional_monarchy_desc: "Our great Emperor has now issued several documents that grant power to the Reichsrat, granting that body many of the powers he once held. Our nation will be able to be ruled by people from across its empire, with many of the citizens choosing their own government for the first time. Let us hope this new system can continue."
  AUS_focus_sistierungspatent: "Sistierungspatent"
  AUS_focus_sistierungspatent_desc: "The relations between the Austrian and Hungarian parts of our empire have long been the most fraught with difficulty in our empire. The power the Hungarians can wield has once again forced our Emperor to make considerable concessions. Despairingly, the concessions demanded at this time have caused the issuing of the 'Sistierungspatent', suspending the constitutional patent until proper negotiations can take place to decide the future of all parts of our Empire."
- 
- #Army
+  
+  #Army 
  AUS_focus_imperial_royal_army: "The Imperial-Royal Army"
  AUS_focus_imperial_royal_army_desc: "Our army is the backbone of the Empire and one of the most important factors of keeping it safe from internal and external threats and as so we should encourage army training to prepare for the worst."
  AUS_focus_degenfelds_army_reform_plans: "Degenfeld's Army Reform Plans"
@@ -1102,8 +1102,8 @@
  AUS_focus_follow_hauslabs_ideas_trigger_tt: "Requires §YFranz von Hauslab§! to hold any position in the §YMilitary High Command§!."
  AUS_focus_implement_the_stosstaktik: "Implement the Stoßtaktik"
  AUS_focus_implement_the_stosstaktik_desc: "The bayonet has proven itself as the best choice of infantry weapon and our tactics must reflect this. We will focus our strategies on bayonet charges and the famed bravery of our soldiers will prove triumphant over all our enemies!"
- 
- #Navy
+  
+  #Navy 
  AUS_focus_imperial_royal_navy: "The Imperial-Royal Navy"
  AUS_focus_imperial_royal_navy_desc: "The Kaiserlich-königliche Kriegsmarine, or Imperial-Royal Navy, was mostly made up of Italian crew members up until the appointment of Ferdinand Maximilian; the Italian language was the primary language, and even Italian ship names were used over German ones. While the rest of Europe upheaved their naval production during the Age of Exploration and furthered it during the Napoleonic Age, Austria sat back and promoted a Fleet-in-Being doctrine, partially due to its advantageous seafaring and rivaling neighbors to the south. But now, with a change in leadership and the threat of a unified Italy, Emperor Franz Joseph has made a final decision: Austria will need a great and prodigious navy, one to rival its enemies and protect Austrian interests - a truly Imperial-Royal Navy."
  AUS_focus_archduke_maximilians_tenure: "Archduke Maximilian's Tenure"
@@ -1172,8 +1172,8 @@
  AUS_focus_erzherzog_ferdinand_max_class_ironclads: "Erzherzog Ferdinand Max-Class Ironclads"
  AUS_focus_erzherzog_ferdinand_max_class_ironclads_desc: "The new Erzherzog-Class has proven its capability and strength on the seas, and was decided for its heavy guns and thick armor to be the next ship class for the Austrian Navy. The class' first ship, Erzherzog Ferdinand Max, has begun its production and will be set for 1865. These heavy ships will dominate the Adriatic, and crush any Italian resistance."
  AUS_naval_reform_effect_tt: "§CThis will §Ymodify§! the §YNaval Reform§! spirit with the following effects:§!\n"
- 
- #Economy
+  
+  #Economy 
  AUS_focus_austrian_industrialization: "Industrialization of the Austrian Empire"
  AUS_focus_austrian_industrialization_desc: "Our administration has grown old over the ages and left un-modernized, if we are to restore some of our prestige and modernize our cities we simply have to modernize it with the standards of powers such as United Kingdom and France. This way we can kick off industrialization in our realm."
  AUS_focus_privatize_railways: "Privatize the Railways"
@@ -1232,12 +1232,12 @@
  AUS_focus_new_farming_technologies_desc: "With constant wars with Napoleon at the beginning of the 19th century our farming sector was almost completely abandoned, the money from the British barely helped since almost all of it was spent on funding the wars, but with the situation under control once again we should invest in more modern farming equipment and technology in general."
  AUS_focus_gold_and_precious_metals: "Iron and Precious Metals"
  AUS_focus_gold_and_precious_metals_desc: "This mountainous province on the complete eastern border of our domain has many secrets left, but today we found one of them a great and wealthy amount of coal is buried under the mountains, we should invest into extraction technology so all of the iron under the mountains finds it's way in the light of day."
- 
- ######################
- # Austrian Decisions #
- ######################
- 
- #Italian Unrest
+  
+  ###################### 
+  # Austrian Decisions # 
+  ###################### 
+  
+  #Italian Unrest 
  AUS_decision_category_italian_unrest: "Беспорядки в Италии"
  AUS_decision_category_italian_unrest_desc: "Неприятности назревают в §YИталии§!. В последнее время итальянские националисты активизировали свою деятельность в наших итальянских владениях. Они пытаются §Yдестабилизировать наше правление и разжечь беспорядки в регионе§!. Их цель - низвергнуть наше правление над частью Италии и объединить итальянский народ в единое национальное государство. Однако это крайне опасно для нашего государства, поскольку чревато последствиями, которые в конечном итоге могут привести к разрушению нашей империи. Мы должны предпринять решительные действия, чтобы противодействовать их усилиям!\n\n[LVN.GetFlag]§YСуществующий риск возникновения беспорядков в наших итальянских владениях§!: [?ITA_UPROAR_RISK|-%1]\n§YБазовое ежемесячное изменение риска итальянских беспорядков§!: [?modifier@AUS_Italian_Uproar_Risk_Modifier|=-%1]\n\nЕсть некоторые меры, которые мы можем предпринять для противодействия и предотвращения операций боевиков:\n[LVN.GetFlag]§YРазмещение не менее 20 000 солдат в каждом итальянском государстве, находящемся под контролем [LVN.GetName]§!: §G-1.0%§!\n[LVN.GetFlag]§Y[LVN.GetNameDef] предоставляет человеческие права своим гражданам§!: §G-0.5%§!\n[LVN.GetFlag]§Y[LVN.GetNameDef] имеет свободу прессы§!: §G-0.5%§!\n"
  AUS_decision_uproar_in_italy_countdown: "Беспорядки в Италии"
@@ -1254,8 +1254,8 @@
  AUS_decision_grant_human_rights_in_lvn_desc: "Нам больше нецелесообразно относиться к этим людям как к гражданам оккупированной территории. Вместо этого мы должны признать их людьми, имеющими равные права со всеми остальными жителями нашего государства, если мы хотим удержать их в его составе."
  AUS_decision_grant_free_press_in_lvn: "Предоставить права человека гражданам страны [LVN.GetName]"
  AUS_decision_grant_free_press_in_lvn_desc: "Хотя свобода прессы может дать возможность оппозиционным нам элементам организоваться против нас, достигнутая репутация будет стоить такого риска. Предоставив гражданам возможность высказывать свое мнение, мы дадим им возможность высказать свои мысли и разочарования, не ставя под угрозу наше правление."
- 
- #External Threats
+  
+  #External Threats 
  AUS_decision_category_external_threats: "Борьба с внешними угрозами"
  AUS_decision_category_external_threats_desc: "После восстаний и смуты 1848 г. большая часть наших интересов была сосредоточена внутри страны, с отдельными всплесками вмешательства в международные дела. Однако, если мы хотим сохранить свое место в качестве великой державы, мы должны решать и внешние проблемы."
  AUS_decision_stabilize_the_mediterranean: "Сотрудничать с Францией и Великобританией в Средиземноморье"
@@ -1280,22 +1280,22 @@
  AUS_decision_refit_fort_verona_desc: "Хотя положение Вероны может сделать ее менее привлекательной для противника, рассчитывающего на наступление на Венецию, ее позиция крайне важна для любых атак на Трент, а из Трента - на Тироль. Для защиты от наступления на Австрию важно усилить укрепления Вероны."
  AUS_decision_refit_fort_mantua: "Переоборудование укреплений в Мантуе"
  AUS_decision_refit_fort_mantua_desc: "Мантуя, самая южная часть Квадрилатеро, может стать следующим направлением атаки на контролируемую нами Ломбардию-Венецию. Мы проведем реконструкцию и модернизацию наших укреплений, чтобы предотвратить возможное нападение на нашу крепость."
-
+  
  AUS_mission_russian_troops_galician_border: "Российские войска на границе с Галицией"
  AUS_mission_russian_troops_galician_border_desc: "Ходят слухи, что подлые сардинцы договорились с русскими о военной помощи в нашем активном конфликте в Италии. Судя по всему, русские следят за галицийской границей, готовые нанести удар, если мы проявим хоть малейший признак слабости..."
  AUS_mission_russian_troops_galician_border_trigger_tt: "\n§RNOTE:§!\nМы должны иметь §Yне менее 20 000 солдат§!, постоянно находящихся в §Yкаждой§! провинции §YЗападной Галиции и Восточной Галиции§!, для предотвращения российских операций на границе.§!\n\n"
  AUS_mission_romanian_troops_transylvanian_border: "Возможные операции на румынской границе"
  AUS_mission_romanian_troops_transylvanian_border_desc: "То, что французы отправили оружие в румынские княжества, - это точно. Но мы не знаем, каковы цели этой сделки. Возможно, было бы разумно держать значительное количество войск в непосредственной близости от уязвимых границ на юго-востоке Трансильвании, чтобы заставить любого потенциального агрессора дважды подумать о нападении?"
  AUS_mission_romanian_troops_transylvanian_border_trigger_tt: "\n§RNOTE:§!\nМы должны иметь не менее §Y16 000 солдат§! в провинции §YЮжная Трансильвания§!, §Y8 000 солдат§! в провинции §YСекейский край§!, и §Y6 000 солдат§! в провинции §YЮжная Буковина§! для предотвращения румынских операций на границе.§!\n\n"
- 
+  
  AUS_unrest_in_italy_minus_one_effect_tt: "§YРиск возникновения беспорядков в наших итальянских владениях§!: §G-1%§!"
  AUS_unrest_in_italy_minus_two_effect_tt: "§YРиск возникновения беспорядков в наших итальянских владениях§!: §G-2%§!"
  AUS_unrest_in_italy_minus_five_effect_tt: "§YРиск возникновения беспорядков в наших итальянских владениях§!: §G-5%§!"
  AUS_unrest_in_italy_minus_ten_effect_tt: "§YРиск возникновения беспорядков в наших итальянских владениях§!: §G-10%§!"
  AUS_unrest_in_italy_plus_one_effect_tt: "§YРиск возникновения беспорядков в наших итальянских владениях§!: §R+1%§!"
  AUS_unrest_in_italy_plus_two_effect_tt: "§YРиск возникновения беспорядков в наших итальянских владениях§!: §R+2%§!"
- 
- #Multinational Empire
+  
+  #Multinational Empire 
  AUS_decision_category_multinational_empire: "Вызовы многонациональной империи"
  AUS_decision_category_multinational_empire_desc: "Подданными нашей славной Империи являются люди самых разных национальностей, которые издавна живут вместе и мирно сосуществуют. Императорская корона Дома Габсбургов, возложенная на голову нашего монарха исключительно Божьей милостью, на протяжении веков была объединяющим и стабилизирующим фактором, а император Франц Иосиф - особенно любимой фигурой на императорском троне. Однако Весна народов в первой половине XIX века принесла свои беды. Вспышки националистических выступлений, вплоть до военных мятежей, охватили различные регионы империи и продолжают угрожать миру и стабильности в нашем государстве. Мы должны справиться с этими опасностями, пока они не вышли из-под контроля. Но каждое наше действие чревато катастрофой.\n\nСуществующий риск возникновения беспорядков в наших:\n[HUN.GetFlag]§YВенгерских землях§!: [?HUN_REVOLT_RISK|-%1]\n[CZE.GetFlag]§YЗападнославянских землях§!: [?CZE_REVOLT_RISK|-%1]\n[CRO.GetFlag]§YЮжнославянских землях§!: [?CRO_REVOLT_RISK|-%1]\n[POL.GetFlag]§YПольских землях§!: [?POL_REVOLT_RISK|-%1]"
  AUS_decision_nationalist_agitation_countdown: "Националистическая агитация"
@@ -1323,7 +1323,7 @@
  AUS_decision_suppress_south_slavic_nationalism: "Подавление южнославянского национализма"
  AUS_decision_suppress_south_slavic_nationalism_desc: "Разделенные между имперской короной Австрии и землями Короны Святого Стефана, но объединенные под властью императора Франца Иосифа, южнославянские народы Далматинского побережья имеют переменчивую историю взаимоотношений с Империей в целом. Мы должны быть готовы к любым неприятностям."
  AUS_decision_suppress_polish_nationalism: "Подавление польского национализма"
- AUS_decision_suppress_polish_nationalism_desc: "Польское государство, разделенное на части могущественными соседями во второй половине XVIII в., было восстановлено в 1807 г. под эгидой Наполеона, но после его поражения быстро распалось. По решению Венского конгресса польская община вступила в личную унию с Россией, а остальная часть была поделена между нами и пруссаками. В наших галицийских владениях проживает немало поляков, которые, хотя и лояльны до сих пор, могут помнить времена польского величия, поэтому мы должны быть в курсе их деятельности." 
+ AUS_decision_suppress_polish_nationalism_desc: "Польское государство, разделенное на части могущественными соседями во второй половине XVIII в., было восстановлено в 1807 г. под эгидой Наполеона, но после его поражения быстро распалось. По решению Венского конгресса польская община вступила в личную унию с Россией, а остальная часть была поделена между нами и пруссаками. В наших галицийских владениях проживает немало поляков, которые, хотя и лояльны до сих пор, могут помнить времена польского величия, поэтому мы должны быть в курсе их деятельности."
  AUS_increase_hungarian_nationalism_by_half_tt: "§YРиск беспорядков в Венгрии§!: §R+0.5%§!\n"
  AUS_increase_hungarian_nationalism_by_one_tt: "§YРиск беспорядков в Венгрии§!: §R+1%§!\n"
  AUS_increase_hungarian_nationalism_by_two_tt: "§YРиск беспорядков в Венгрии§!: §R+2%§!\n"
@@ -1388,11 +1388,11 @@
  AUS_decrease_all_nationalisms_by_two_tt: "§YРиск беспорядков в наших негерманских землях§!: §G-2%§!\n"
  AUS_decrease_all_nationalisms_by_three_tt: "§YРиск беспорядков в наших негерманских землях§!: §G-3%§!\n"
  AUS_decrease_all_nationalisms_by_four_tt: "§YРиск беспорядков в наших негерманских землях§!: §G-4%§!\n"
- 
- #Domestic Politics
+  
+  #Domestic Politics 
  AUS_decision_category_domestic_politics: "Внутренняя политика"
  AUS_decision_category_domestic_politics_desc: "Наша территория гораздо шире и разнообразнее, чем у многих других государств Европы, за исключением Российской империи. Это обстоятельство ставит перед нашим правительством ряд сложнейших задач. Рост национализма представляет собой серьезную угрозу внутреннему единству различных народов, которые мы с гордостью называем своими подданными, и во многих частях империи агитаторы призывают к восстанию. Христиане-некатолики также требуют большего признания и свободы, чем они имеют в настоящее время, а некоторые даже объединились с различными националистическими движениями, чтобы изменить свое положение силой. Мы должны быть очень внимательны к этой деятельности. В конце концов, мы должны преодолеть оборонительную позицию и попытаться действовать по собственному усмотрению, чтобы сформировать будущее государства по своему образу и подобию. Но, как всегда, внутренняя политика тесно связана с тем, что происходит и снаружи..."
- #Alt-History
+  #Alt-History 
  AUS_decision_create_a_secret_state_debt_commission: "Create a Secret State Debt Commission"
  AUS_decision_create_a_secret_state_debt_commission_desc: ""
  AUS_decision_prepare_centralization_measures: "Prepare Centralization Measures"
@@ -1436,7 +1436,7 @@
  AUS_decision_suppress_resistance_in_croatia_desc: ""
  AUS_decision_suppress_resistance_effect_tt: "§GThe local resistance will be suppressed to a minor level.§!"
  AUS_suppressing_the_resistance_flag: " §GOur executive forces are currently suppressing local resistance elsewhere§!"
- #Historical
+  #Historical 
  AUS_mission_the_empire_in_peril: "The Empire in Peril"
  AUS_mission_the_empire_in_peril_desc: "To guide the Empire out of this perilous situation we need to take some measures immediately."
  AUS_mission_the_empire_in_peril_trigger_1_tt: "Appoint a New Prime Minister"
@@ -1498,8 +1498,8 @@
  AUS_decision_enact_the_protestantenpatent_desc: ""
  AUS_decision_crack_down_on_heretics: "Crack Down on Heretics"
  AUS_decision_crack_down_on_heretics_desc: ""
- 
- #Financial Affairs
+  
+  #Financial Affairs 
  AUS_decision_category_financial_affairs: "Financial Affairs"
  AUS_decision_category_financial_affairs_desc: "Major economic reforms that started at the end of the 18th century triggered economic growth and the subjects of the Habsburg Empire slowly grew richer. However, the revolutions of 1848/49 and the subsequent reactionary policy hindered industrial growth. This in combination with the astronimical cost of our standing army, corrupted by nepotism, overexpendtiture, and general ineffectiveness, led to a huge budget deficit that over time has turned into a full-blown financial crisis that still haunts the country, which in turn further stifles investment and industrial development. We have to deal with this situation, and hope is not yet lost. Reforms and acts have been passed to deal with the growing debt and revitalize our economy. All we need is time and determination."
  AUS_mission_avoid_bankruptcy: "Avoid Bankruptcy"
@@ -1526,8 +1526,8 @@
  AUS_decision_cooperate_with_the_kreditanstalt_desc: "The 'k. k. privilegierte Österreichische Kredit-Anstalt für Handel und Gewerbe' was founded in 1855 by Anselm Salomon von Rothschild, an offspring of the famous Jewish banking family Rothschild. The banking house is rapidly growing and attracting business interest from all over Europe. Cooperating with them would mean that our debt dealings are in competent hands."
  AUS_decision_cooperate_with_the_kreditanstalt_effect_tt: "\nHaving selected §YAnselm Salomon von Rothschild§! as an §Yadvisor§! may grant us more chances to §Greduce§! §Ydebt§! in the future."
  AUS_fiscal_measure_in_progress_flag: " §GFiscal Measure in Progress§!"
- 
- #Army
+  
+  #Army 
  AUS_decision_category_austrian_army: "Kaiserlich-königliche Armee"
  AUS_decision_category_austrian_army_desc: "Although our army is still considered the backbone of our Empire, financial trouble meant that we had to downsize it recently, much to the dismay of our senior officers and the conservative elites, for which the army is the place to prove themselves - and to be promoted into highly remunerative positions of course. But to reduce our debt burden and avoid bankruptcy, it might be crucial to cut down the costs for our land force even further.\n\nAt the same time, however, recent conflicts seem to make it absolutely necessary that we stay ahead of the latest military innovations and developments. It will be a tough task to accomodate all these things at the same time."
  AUS_mission_degenfelds_army_reform_plans: "Degenfeld's Army Reform Plans"
@@ -1541,7 +1541,7 @@
  AUS_decision_expand_the_kriegsschule: "Expand the Kriegsschule"
  AUS_decision_expand_the_kriegsschule_desc: ""
  AUS_decision_expand_the_kriegsschule_trigger_1_tt: "Requires the technology §YNew Tactics§! from the §YInnovation§! branch of the §YLand Doctrines§! to be researched."
- AUS_decision_expand_the_kriegsschule_trigger_2_tt: "Requires the technology §YLearn from 1848§! from the §YTradition§! branch of the §YLand Doctrines§! to be researched." 
+ AUS_decision_expand_the_kriegsschule_trigger_2_tt: "Requires the technology §YLearn from 1848§! from the §YTradition§! branch of the §YLand Doctrines§! to be researched."
  AUS_decision_invest_in_breechloader_development: "Invest in Breechloader Development"
  AUS_decision_invest_in_breechloader_development_desc: ""
  AUS_decision_invest_in_breechloader_development_effect_tt: "\n§YOur military engineers will be tasked with the development of a breechloader rifle for the Imperial-Royal Army. §RDepending on their success§!, we will be able to prepare mass production of such a rifle.§!\n"
@@ -1575,8 +1575,8 @@
  AUS_decision_introduce_new_cavalry_regulations_desc: ""
  AUS_army_reform_ongoing_flag: " §YArmy Reform in Progress§!"
  AUS_army_reform_ongoing_effect_tt: "§GWe will start the process of military reform.§!\n§RWhile it lasts, we cannot invest in other army ventures.§!\n\n"
- 
- #Navy
+  
+  #Navy 
  AUS_decision_category_austrian_navy: "Kaiserlich-königliche Kriegsmarine"
  AUS_decision_category_austrian_navy_desc: "Despite our difficult geographic position for enhanced naval operations, the Imperial-Royal Navy is an important part of our armed forces. Recently, trouble in Italy not only meant that we had to diversify our naval infrastructure in the Adriatic Sea, but also that the character of our navy needs to be questioned fundamentally.\n\nThe multi-talented Archduke Maximilian has taken on the task of captaining this reform process, but it still remains to be seen how successful he will be. He faces opposition from the senior staff of the land forces, which is competing with the navy over a decreasing budget. If Austria wants to play an important part in the Mediterranean Sea, however, significant investment will be necessary."
  AUS_mission_reform_the_imperial_royal_navy: "Reform the Imperial-Royal Navy"
@@ -1624,18 +1624,18 @@
  AUS_decision_order_kaiser_max_class_ironclads: "Order Kaiser Max-Class Ironclads"
  AUS_decision_order_kaiser_max_class_ironclads_desc: ""
  AUS_decision_order_erzherzog_ferdinand_max_class_ironclads: "Order Erzherzog Ferdinand Max-Class Ironclads"
- AUS_decision_order_erzherzog_ferdinand_max_class_ironclads_desc: "" 
+ AUS_decision_order_erzherzog_ferdinand_max_class_ironclads_desc: ""
  AUS_navy_reform_ongoing_flag: " §YNavy Reform in Progress§!"
  AUS_navy_reform_ongoing_effect_tt: "§GWe will start the process of navy reform.§!\n§RWhile it lasts, we cannot invest in other navy ventures.§!\n\n"
  AUS_ship_order_in_progress_flag: " §YShip Order in Progress§!"
  AUS_ship_order_in_progress_effect_tt: "§GWe will order new ships for the navy.§!\n§RAs long as the order has not been completed, we cannot order other ships.§!\n\n"
  AUS_navy_department_established_flag: "§YNavy Department Established§!"
  AUS_flottillenkorps_incorporated_flag: "§YFlottillenkorps Incorporated into the Navy§!"
- 
- #Economy
+  
+  #Economy 
  AUS_decision_category_habsburg_industry: "Экономика Австрийской империи"
  AUS_decision_category_habsburg_industry_desc: "После постепенной отмены всех форм крепостного права, начавшейся в XVIII веке, в Австрийской империи начался заметный экономический рост, причем лидировали крупные промышленные, горнодобывающие и лесные районы Моравии и Богемии. Радикальные перемены, вызванные этим развитием, казалось бы, должны были в целом и необратимо изменить облик страны, но правящая элита не желала делиться своим богатством, статусом и, как следствие, властью, что отчасти привело к Мартовской революции 1848 года и последующей реставрационной политике победившей аристократической элиты. Результатом стал финансовый кризис, который до сих пор сдерживает инвестиции и промышленное развитие. Однако при правильном подходе и поддержке успешных и инновационных предпринимателей мы можем разбудить спящего гиганта и оживить промышленный рост."
- 
+  
  AUS_decision_profit_from_the_sudbahn: "Прибыль от Südbahn"
  AUS_decision_profit_from_the_sudbahn_desc: ""
  AUS_decision_profit_from_the_carl_ludwig_bahn: "Прибыль от Carl Ludwig-Bahn"
@@ -1662,10 +1662,10 @@
  AUS_decision_transylvanian_iron_desc: ""
  AUS_decision_hungarian_gold: "Венгерское золото"
  AUS_decision_hungarian_gold_desc: ""
- 
+  
  AUS_decision_railway_upgrade: "Модернизация железных дорог"
  AUS_decision_railway_upgrade_desc: "Наша железнодорожная сеть уже не справляется с задачей поддержки и тем более стимулирования современной промышленности. Ее модернизация и расширение не только решат эту проблему, но и дадут нашей промышленности важные контракты и возможность расширения торговли."
- 
+  
  eoanb_decision_AUS_reform_ita1: "Будущее Ломбардии-Венеции"
  eoanb_decision_AUS_reform_ita1_desc: "Ломбардо-Венецианское королевство принадлежит нам со времен Венского конгресса 1815 года, но за это время здесь произошло немало событий, и после нашей победы над Пьемонтом пришло время решать его дальнейшую судьбу."
  eoanb_decision_AUS_reform_ita2: "Будущее государств Центральной Италии"
@@ -1676,7 +1676,7 @@
  eoanb_decision_AUS_peace_with_HUN_desc: ""
  eoanb_decision_AUS_peace_with_HUN_2: "Предложение отчаянного мира для Венгрии"
  eoanb_decision_AUS_peace_with_HUN_2_desc: ""
- 
+  
  AUS_decision_category_federalization: "Венская конференция"
  AUS_decision_category_federalization_desc: "Представители всех национальностей империи собрались в Вене, чтобы обсудить будущее страны."
  AUS_decision_negotiate_with_the_hungarians: "Переговоры с венграми"
@@ -1687,14 +1687,14 @@
  AUS_decision_negotiate_with_the_bohemians: "Переговоры с богемцами и моравцами"
  AUS_decision_negotiate_with_the_galicians: "Переговоры с галичанами"
  AUS_decision_negotiate_with_the_vojvodina: "Переговоры с делегатами от Воеводины"
- 
+  
  eoanb_decision_AUS_reform_ita4: "Будущее Пьемонта"
  eoanb_decision_AUS_reform_ita4_desc: ""
  eoanb_decision_AUS_reform_ita5: "Образование королевства Ломбардия-Пьемонт"
  eoanb_decision_AUS_reform_ita5_desc: ""
  eoanb_decision_AUS_reform_ita6: "Формирование Итальянской лиги"
  eoanb_decision_AUS_reform_ita6_desc: ""
- 
+  
  AUS_mission_vic_Prague_Migration_1: "Первая волна рабочих"
  AUS_mission_vic_Prague_Migration_2: "Вторая волна рабочих"
  AUS_decision_bank_galicyjski: "Галицийский банк торговли и промышленности"
@@ -1705,12 +1705,12 @@
  AUS_decision_support_steyr: "Поддержка оружейного завода Steyr"
  AUS_mission_ganzworks: "Ganz Works Factory"
  AUS_decision_support_ganzworks: "Поддержка Ganz Works"
- 
- #######################
- #   Austrian Ideas    #
- #######################
- 
- #Politics
+  
+  ####################### 
+  #   Austrian Ideas    # 
+  ####################### 
+  
+  #Politics 
  AUS_idea_klerikalabsolutist: "Klerikalabsolutist"
  AUS_idea_klerikalabsolutist_desc: "Барон Александр фон Бах создал грозную систему, известную как 'Klerikalabsolutismus', или клерикальный абсолютизм, при котором император и церковь играют ведущую роль в управлении государством и обеспечении благосостояния подданных. Однако существует постоянная оппозиция со стороны либералов, которые нападают на систему фон Баха как на очень деспотичную и не лучшую, чем правление Меттерниха."
  AUS_idea_concordat_of_1855_1: "Конкордат 1855 года"
@@ -1749,8 +1749,8 @@
  GC_idea_south_german_bund_desc: "После заключения соглашения с Пруссией мы смогли связать южногерманские государства свободной торговой ассоциацией."
  AUS_idea_lost_hungary_revolt: "Проигранная венгерская революция"
  AUS_idea_lost_hungary_revolt_desc: ""
- 
- #Army
+  
+  #Army 
  AUS_idea_army_spending_cuts: "Сокращение расходов на армию"
  AUS_idea_army_spending_cuts_desc: "Многолетняя финансовая неразбериха и неразвитая экономика дают о себе знать. Нам нужно экономить, а наша армия - самая большая статья расходов. Хотим мы этого или нет, но мы должны сократить численность армии..."
  AUS_idea_military_railway_department: "Военно-железнодорожное управление"
@@ -1779,8 +1779,8 @@
  AUS_idea_hauslab_assault_desc: ""
  AUS_idea_stosstaktik: "Тактика шокового воздействия"
  AUS_idea_stosstaktik_desc: ""
- 
- #Navy
+  
+  #Navy 
  AUS_idea_navy_spending_cuts_1: "Сокращение расходов на ВМФ"
  AUS_idea_navy_spending_cuts_1_desc: ""
  AUS_idea_navy_spending_cuts_2: "Сокращение расходов на ВМФ"
@@ -1793,8 +1793,8 @@
  AUS_idea_race_for_supremacy_desc: ""
  AUS_idea_salvacoste: "Salvacoste"
  AUS_idea_salvacoste_desc: ""
- 
- #Economy
+  
+  #Economy 
  AUS_idea_railway_concessions: "Австрийские железнодорожные концессии"
  AUS_idea_railway_concessions_desc: "В рамках усилий по индустриализации в нашей империи было начато строительство железных дорог по нескольким получастным и государственным проектам. Мы можем поддержать их планы по расширению железных дорог, которые уже реализуются для приведенных ниже линий, а их строительство в целом запланировано до 1862 года. Или же мы можем отказаться от поддержки этих линий, и тогда нам придется строить их самим.\n\n[AUS.GetFlag] Südbahn:\nЖелезнодорожная линия Вена-Триест через Грац и Любляну\n[AUS.GetFlag] - [BAV.GetFlag] Westbahn:\nЖелезнодорожная линия Вена-Мюнхен через Линц и Зальцбург\n[AUS.GetFlag] - [CZE.GetFlag] - [BAV.GetFlag] Böhmische Westbahn:\nСообщение Праги с границей Баварии через Пльзень\n[AUS.GetFlag] - [BAV.GetFlag] Nordtiroler Staatsbahn:\nЖелезнодорожная линия Розенхайм - Инсбрук через Куфштайн\n[AUS.GetFlag] - [LVN.GetFlag] Südtiroler Staatsbahn:\nЖелезнодорожная линия Бозен-Верона через Тренто\n[AUS.GetFlag] - [LVN.GetFlag] Линия Удине-Триест:\nПодключение линии из Милана к Südbahn и Триесту\n[AUS.GetFlag] - [HUN.GetFlag] Theiss-Eisenbahn:\nЖелезнодорожные линии из Будапешта в Арад и Кошице через Дебрецен и Мишкольц\n[AUS.GetFlag] - [SER.GetFlag] Banater Eisenbahn:\nСоединяет Будапешт с Сегедом и Темешваром и далее на юг до границы с Сербией\n[AUS.GetFlag] - [GLM.GetFlag] Galizische Carl Ludwig-Bahn:\nСоединение Кракова с Пшемыслом и далее со Львовом\n[AUS.GetFlag] - [CRO.GetFlag] Kroatische Bahn:\nСообщение между Веной и Загребом и далее к боснийской границе"
  AUS_idea_newspaper_tax: "Газетный налог"
@@ -1819,8 +1819,8 @@
  AUS_idea_bank_galicyjski_desc: ""
  AUS_idea_industrialization_bohemia: "Индустриализация в Богемии"
  AUS_idea_urbanise_wien: "Урбанизация Вены"
- 
- #Companies
+  
+  #Companies 
  AUS_vic_naval_company_osterreichischer_lloyd: "Австрийский Ллойд"
  AUS_vic_naval_company_stabilimento_tecnico_triestino: "Stabilimento Tecnico Triestino"
  AUS_oewg: "Österreichische Waffenfabriks-Gesellschaft (Œ.W.G.)"
@@ -1830,14 +1830,14 @@
  AUS_vic_Ganz_Works: "Ganz Works"
  AUS_vic_Wiener_Neustadter_Lokomotivfabrik: "Wiener Neustädter Lokomotivfabrik"
  AUS_vic_Andritz_AG: "Andritz AG"
- 
- #Heads of State
+  
+  #Heads of State 
  AUS_Franz_Joseph_I: "Император Франц Иосиф I"
-
- #####################
- # Austrian Tooltips #
- #####################
- 
+  
+  ##################### 
+  # Austrian Tooltips # 
+  ##################### 
+  
  AUS_tt_deal_with_magyars: "Выбор\n"
  AUS_tt_reform_empire_compromise: "§GРеформирование§! империи, начав переговоры с одной или несколькими различными §Yнациональностями§! в империи.\n\nС помощью ваших §Yвыборов§! до и во время переговоров вы сможете §Gповлиять§! на курс империи на ближайшие десятилетия."
  AUS_tt_not_reform_empire: "Вступление в новую эру §Yабсолютизма§! в империи\n\nПолитика империи будет по-прежнему направлена на §Yнемецкий народ и под влиянием Габсбургов§!, и будет стремиться к §Yпресечению§! инакомыслия на ближайшие десятилетия."
@@ -1847,27 +1847,27 @@
  AUS_tt_keep_richard_belcredi: "§YГраф фон Белькреди§! поддерживает федерализацию империи"
  AUS_tt_new_eastern_settlements: "§GПоощрение§! §Yнемецких§! поселений в §Yвосточных регионах§! империи\n\nЭто будет способствовать §Yэмиграции§! бедных этнических §Yнемцев§! и будет иметь целью в конечном итоге §Yгерманизировать§! §Yвосточные земли§!"
  AUS_tt_coerce_nobility_Germanisation: "§YНегерманская аристократия§! по всей империи получит §Gзначительные привилегии§! в обмен на §Gпредставление§! наших усилий по §Yгерманизации§!"
- AUS_tt_remove_recognised_cultures_germanisation: "§RУстранение§! всех §Yпризнанных культур§!" 
- 
+ AUS_tt_remove_recognised_cultures_germanisation: "§RУстранение§! всех §Yпризнанных культур§!"
+  
  AUS_autocracy_compromise_party_long: "Дом Габсбургов"
  AUS_autocracy_compromise_party: "Дом Габсбургов"
  PIE_autocracy_House_Bonaparte: "Дом Бонапартов"
  PIE_autocracy_House_Bourbon: "Дом Пармских Бурбонов"
  SAR_autocracy_House_Savoy: "Савойский дом"
- 
+  
  AUS_tt_divide_sardinia_and_piedmont: "§YПьемонт§! становится §Yавстрийской марионеткой§! и в §YСардинии§! сохраняется §YСавойский дом§!\n"
  AUS_tt_let_sardinia_piedmont_be: "§YБелый мир§! подписан"
-
+  
  AUS_tt_uhlans: "§YВ Тарнове появятся две неукомплектованные кавалерийские дивизии§!\n"
  AUS_tt_sudbahn_trieste: "§gУ вас будет §Y3000 дней§!, чтобы §Yповысить уровень инфраструктуры на единицу§! в §YТриесте и Истрии§!§!"
  AUS_tt_Galician_Railways: "§gУ вас будет §Y3000 дней§!, чтобы §Yповысить уровень инфраструктуры на единицу§! в §YЗападной и Южной Галиции.§!§!"
  AUS_tt_: "§gУ вас будет §Y3000 дней§!, чтобы §Yпостроить железную дорогу§! в §YВенгрии§! и §Y3000 дней§!, чтобы §Yпостроить железную дорогу§! в §YТрансильвании.§!§!"
-
+  
  AUS_tt_SMS_Novara: "\n§YПарусный фрегат SMS Novara возвращается в Триест.§!"
  AUS_novara_expedition_returned_flag: "§YЭкспедиция на Novara§! возвращается в Триест."
- 
+  
  AUS_focus_build_ironclads_effect_tt: "§GСо временем это позволит разблокировать §Yрешение§! для расширения военно-морского флота, в том числе отечественного судостроения.§!"
- ###Austrian Opinion Modifiers###
+  ###Austrian Opinion Modifiers### 
  AUS_CRIMEAN_WAR_AFTERMATH_DISASTROUS: "Последствия Крымской войны"
  AUS_CRIMEAN_WAR_AFTERMATH_VERY_BAD: "Последствия Крымской войны"
  AUS_CRIMEAN_WAR_AFTERMATH_BAD: "Последствия Крымской войны"
@@ -1882,20 +1882,20 @@
  AUS_POL_ARRANGEMENTS_REL: "Политические договоренности"
  eoanb_om_PRS_AUS_socialism: "Поддержка австрийских социалистов"
  eoanb_om_PRS_AUS_hungary_seperatist: "Поддержка венгерских сепаратистов"
- 
- ################################
- # Austrian Leader Descriptions #
- ################################
- 
+  
+  ################################ 
+  # Austrian Leader Descriptions # 
+  ################################ 
+  
  POLITICS_ALEXANDER_BACH_DESC: "Барон Александр фон Бах занимает пост министра внутренних дел Габсбургской монархии и является фактическим лидером Австрии в вопросах внутренней политики. Барон происходит из семьи, имеющей давние заслуги в области права, и сам является доктором юридических наук и верным слугой империи. С момента прихода к власти в 1849 г. во время революции он стремился отойти от чрезмерно контролирующей системы Меттерниха, но в то же время сохранил на практике многие принципы Меттерниха в своей клерикально-абсолютистской форме правления. Барон выступает за централизацию империи, за то, чтобы центром всего была Вена, а для поддержания лояльности к императору использовалась суровая тайная полиция. Барон, как и большинство консервативных членов правительства, является сторонником католической церкви в Австрии. Несмотря на то, что он пользуется поддержкой императора и большинства германо-австрийцев, политика барона вызывает глубокое недовольство других этнических групп в империи, и, возможно, со временем обнаружится, что его политика может принести больше вреда, чем пользы, когда речь идет о лояльности подданных Франца-Иосифа..."
  POLITICS_BERNHARD_VON_RECHBERG_DESC: "Граф Иоганн Бернгард фон Рехберг-унд-Ротенлёвен родился в Регенсбурге в 1806 г. Изначально предполагалось, что он пойдет по тому же пути, что и его отец, граф Алоис, и станет баварским государственным деятелем, но судьба распорядилась иначе. Получив образование в Страсбургском и Мюнхенском университетах, он навлек на себя неудовольствие баварского короля Людвига I из-за участия Рехберга в дуэли. Впоследствии, в 1828 г., он перешел на австрийскую дипломатическую службу. В последующие годы он работал в составе австрийского дипломатического корпуса в Берлине, Лондоне и Брюсселе, а в 1841 г. был назначен посланником в Стокгольме, а два года спустя - в Бразилии.\n\nВо время мартовских революций 1848/49 гг. он был назначен австрийским полномочным представителем во Франкфуртском парламенте, созванном для подготовки объединения Германии, которое в итоге не состоялось. В 1853 г. он поступил на государственную службу в Ломбардии-Венеции, помогая Радецкому и другим правителям в гражданском управлении королевством, возглавляемым Габсбургами, а затем вернулся во Франкфурт, где в течение двух лет был австрийским представителем и назначенным президентом германского 'бундестага'. Сейчас, в это трудное время, император считает, что фон Рехберг - лучший вариант для решения наших проблем после поражения в Италии. Благодаря своему опыту он также сможет направлять нашу политику в Германской конфедерации, где в последние годы усиливаются разногласия между Австрией и Пруссией. Рехберг разделяет ценности нашего бывшего государственного канцлера Клеменса фон Меттерниха и часто рассматривается как его ученик. Благодаря этому фон Рехберг оказался в выгодном положении в 1848 году, когда он сопровождал фон Меттерниха во время полета в Англию, а сразу после этого был назначен австрийским представителем во Франкфурте во время революции.\n\nОн считает, что Австрия и Пруссия должны идти на компромисс и поддерживать хорошие отношения, чтобы сохранить господство консерваторов в Германии. В качестве статс-министра и министра иностранных дел он будет иметь возможность проводить свою политику в империи. Он пользуется доверием императора, чтобы разрешить накалившуюся обстановку во всем королевстве в пользу правительства и устранить проблемы, возникшие по вине его предшественника, особенно в связи с текущей ситуацией в Германии."
  POLITICS_AGENOR_GOLUCHOWSKI_DESC: "Граф Агенор Ромуальд Голуховский был назначен на пост министра внутренних дел вместо барона Александра фон Баха. Консерватор и аристократ из Галиции, он является близким советником императора, кроме того, он успешно занимал пост губернатора Галиции, где осуществил ряд проектов, направленных на благо бедного региона. Граф будет следить за созданием конституции, достаточно либеральной, чтобы удовлетворить население. Тем не менее, он может оказаться недостаточно харизматичным, чтобы примирить все различные этнические группы в империи..."
- POLITICS_ANTON_VON_SCHMERLING_DESC: "Антон Риттер фон Шмерлинг - первый либеральный министр внутренних дел Австрийской империи со времен Венского конгресса. Родился в Вене, изучал право и более двадцати лет был государственным служащим в Нижней Австрии. Его известность пришла во время революции 1848 г., когда он стал председателем Конфедеративного сейма. Он поддержал правительство эрцгерцога Иоанна и подавил восстание во Франкфурте-на-Майне. После краха революции он вернулся в Вену и стал министром юстиции до своей отставки в 1851 году. Антон фон Шмерлинг - либерал и централист - считает, что Австрия должна стать полностью унитарным государством с парламентским правительством. Хотя дворяне и консерваторы относятся к его идеям с подозрением, в нем видят человека, способного объединить различные этнические группы под властью немцев. Император оказал ему большое доверие, и еще предстоит выяснить, чего фон Шмерлинг сможет добиться." 
+ POLITICS_ANTON_VON_SCHMERLING_DESC: "Антон Риттер фон Шмерлинг - первый либеральный министр внутренних дел Австрийской империи со времен Венского конгресса. Родился в Вене, изучал право и более двадцати лет был государственным служащим в Нижней Австрии. Его известность пришла во время революции 1848 г., когда он стал председателем Конфедеративного сейма. Он поддержал правительство эрцгерцога Иоанна и подавил восстание во Франкфурте-на-Майне. После краха революции он вернулся в Вену и стал министром юстиции до своей отставки в 1851 году. Антон фон Шмерлинг - либерал и централист - считает, что Австрия должна стать полностью унитарным государством с парламентским правительством. Хотя дворяне и консерваторы относятся к его идеям с подозрением, в нем видят человека, способного объединить различные этнические группы под властью немцев. Император оказал ему большое доверие, и еще предстоит выяснить, чего фон Шмерлинг сможет добиться."
  POLITICS_ARCHDUKE_RAINER_DESC: "Эрцгерцог Райнер Фердинанд Австрийский - один из нескольких высокопоставленных членов монархии Габсбургов. Эрцгерцог изучал право в Вене и, как большинство представителей монаршей фамилии мужского пола, поступил на службу в императорскую армию. В 1852 г. он женился на своей двоюродной сестре эрцгерцогине Марии Каролине Австрийской, и этот брак оказался очень счастливым. Эрцгерцог лишь в малой степени интересовался политикой, но при дворе его считали идеальным человеком для продолжения абсолютизма в империи, поэтому Франц Иосиф назначил его министром внутренних дел. Эрцгерцог - это, пожалуй, то, что нужно империи, прагматичный лидер, хотя, как и император, возможно, несколько инертный. Большая часть фактической власти принадлежит фракции абсолютистов при дворе, и их задача состоит в том, чтобы все мужчины и женщины в империи были верными подданными Его Величества."
  POLITICS_RICHARD_VON_BELCREDI_DESC: "Вместо Антона фон Шмерлинга на пост министра внутренних дел был назначен граф Рихард фон Белькреди. Граф - выходец из маркграфства Моравия, хотя его семья происходит из Ломбардии, изучал право в Праге, а затем в Вене. Уже будучи членом ландтага с 1861 г., он является опытным бюрократом и противником так называемого 'компромисса' с венграми. Граф выступает за федерализацию империи, хотя и в консервативном варианте, когда местная знать сохраняет практически всю власть, для борьбы с различными сепаратистскими движениями. В конечном итоге от императора зависит, останется ли граф фон Белькреди на посту министра внутренних дел надолго, или его заменят более сговорчивым и покладистым политиком, как в случае с Антоном фон Шмерлингом."
  POLITICS_FRIEDRICH_FERDINAND_VON_BEUST_DESC: "Граф Фридрих Фердинанд фон Бейст - странный выбор на пост статс-министра: он и саксонец, и протестант. Несмотря на это, он является ярым противником Пруссии, нанесшей нам столь серьезную обиду, а также очень компетентным государственным деятелем. Есть надежда, что граф положит конец переговорам с мадьярами и вернет веру в монархию. Пора, чтобы несчастье закончилось и наступил новый период мира и стабильности..."
- 
- #Advisor Traits
+  
+  #Advisor Traits 
  AUS_trait_Abraham_Ganz: "Отец Ganz Works"
  AUS_trait_Agenor_Goluchowski: "Успешный руководитель"
  AUS_trait_Andreas_von_Baumgartner: "Президент Академии наук"
@@ -1912,21 +1912,21 @@
  AUS_trait_Mathias_von_Schonerer: "Первопроходец железных дорог"
  AUS_trait_Moric_Fischer_de_Farkashazy: "Венгерский промышленник"
  AUS_trait_Moritz_Palffy_von_Erdod: "Венгерский губернатор"
- 
- #Theorist Traits
+  
+  #Theorist Traits 
  AUS_trait_theorist_degenfeld: "Смелый новатор"
  AUS_trait_theorist_benedek: "Ручной монархист"
- 
- #Company Traits
+  
+  #Company Traits 
  AUS_trait_concern_austrian_andritz: "Австрийский лидер в области тяжелой промышленности"
  AUS_trait_concern_austrian_ganzworks: "Сердце венгерской тяжелой промышленности"
  AUS_trait_concern_austrian_lokomotivfabrik: "Австрийская паровозостроительная компания"
- 
- #Leader Traits
+  
+  #Leader Traits 
  AUS_trait_Archduke_Maximilian_Calming_Figure: "Успокаивающая фигура"
  AUS_trait_Archduke_Maximilian_Calming_Figure_desc: "Вопреки всему, эрцгерцогу Максимилиану удалось успокоить общественное давление и националистические настроения в наших владениях в Северной Италии. Хотя Итальянское национальное движение, несомненно, продолжит свою деятельность и останется серьезной угрозой нашему господству в регионе, успокаивающая аура эрцгерцога должна оказать стабилизирующее воздействие в ближайшем будущем."
- 
- ###Misc
+  
+  ###Misc 
  dynmod_AUS_naval_reform: "Реформа ВМФ"
  dynmod_AUS_naval_reform_desc: "В настоящее время наш флот находится в процессе реформирования."
  dynmod_AUS_urbanization: "Урбанизация Вены"
@@ -1938,21 +1938,21 @@
  AUS_Italian_Uproar_Risk_Modifier: "Изменение риска итальянских беспорядков по месяцам"
  AUS_navy_experience_more_than_49: "£navy_experience §H50§!"
  AUS_navy_experience_more_than_49_blocked: "£navy_experience §R50§!"
- AUS_navy_experience_more_than_tooltip: "Это стоит 50£navy_experience для принятия решения."
+ AUS_navy_experience_more_than_tooltip: "Это стоит 30£navy_experience для принятия решения."
  AUS_navy_experience_more_than_29: "£navy_experience §H30§!"
  AUS_navy_experience_more_than_29_blocked: "£navy_experience §R30§!"
  AUS_navy_experience_more_than_tooltip: "Это стоит 30£navy_experience для принятия решения."
- 
- #Custom Triggers
+  
+  #Custom Triggers 
  AUS_HUN_REVOLT_RISK_LESS_THAN_55_trigger_tt: "§YРиск беспорядков в Венгрии ниже 55%§!\n"
  AUS_HUN_REVOLT_RISK_LESS_THAN_45_trigger_tt: "§YРиск беспорядков в Венгрии ниже 45%§!\n"
  AUS_HUN_REVOLT_RISK_LESS_THAN_35_trigger_tt: "§YРиск беспорядков в Венгрии ниже 35%§!\n"
- 
+  
  AUS_CRO_REVOLT_RISK_LESS_THAN_35_trigger_tt: "§YРиск беспорядков в наших южнославянских землях ниже 35%§!\n"
  AUS_CRO_REVOLT_RISK_LESS_THAN_25_trigger_tt: "§YРиск беспорядков в наших южнославянских землях ниже 25%§!\n"
- 
+  
  AUS_CZE_REVOLT_RISK_LESS_THAN_25_trigger_tt: "§YРиск беспорядков в наших западнославянских землях ниже 25%§!\n"
- 
+  
  AUS_POL_REVOLT_RISK_LESS_THAN_25_trigger_tt: "§YРиск беспорядков в наших польских землях ниже 25%§!\n"
- 
+  
  AUS_ITA_REVOLT_RISK_LESS_THAN_60_trigger_tt: "§YРиск беспорядков в наших итальянских землях ниже 60%§!\n"

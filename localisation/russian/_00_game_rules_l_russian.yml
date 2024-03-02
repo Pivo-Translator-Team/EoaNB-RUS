@@ -4,42 +4,42 @@
   
  ### EUROPE ### 
   
- RULE_GROUP_EOANB_RULES_EUROPE: "Пути Cтран - Европа" 
+ RULE_GROUP_EOANB_RULES_EUROPE: "Пути Cтран - Европа"
   
  ## France 
   
  # Orsini Affair - Emperor's fate (Alive or Dead) 
   
- FRA_EMPEROR_FATE: "£GFX_EOANB_game_rule_flag_FRA   Дело Орсини - Судьба Императора" 
- RULE_OPTION_FRA_EMPEROR_FATE_RANDOM: "Стандратно" 
- RULE_OPTION_FRA_EMPEROR_FATE_RANDOM_DESC: "Итальянские националисты во главе с Феличе Орсини попытаются убить Наполеона III, бросив бомбы в карету императора. Удастся ли попытка или нет, будет зависеть от судьбы." 
- RULE_OPTION_FRA_EMPEROR_FATE_ALIVE: "Император выживает" 
- RULE_OPTION_FRA_EMPEROR_FATE_ALIVE_DESC: "Попытка Орсини провалится, что приведет к продолжению правления Наполеона III во Франции." 
- RULE_OPTION_FRA_EMPEROR_FATE_DEAD: "Император убит" 
- RULE_OPTION_FRA_EMPEROR_FATE_DEAD_DESC: "Попытка Орсини увенчается успехом, а император погибнет после того, как рядом с его каретой упадет бомба. Во Французской Империи воцарится хаос, будет установлено Временное Регентство и проведены некоторые либеральные реформы, пока не будет выбран новый лидер." 
+ FRA_EMPEROR_FATE: "£GFX_EOANB_game_rule_flag_FRA   Дело Орсини - Судьба Императора"
+ RULE_OPTION_FRA_EMPEROR_FATE_RANDOM: "Стандратно"
+ RULE_OPTION_FRA_EMPEROR_FATE_RANDOM_DESC: "Итальянские националисты во главе с Феличе Орсини попытаются убить Наполеона III, бросив бомбы в карету императора. Удастся ли попытка или нет, будет зависеть от судьбы."
+ RULE_OPTION_FRA_EMPEROR_FATE_ALIVE: "Император выживает"
+ RULE_OPTION_FRA_EMPEROR_FATE_ALIVE_DESC: "Попытка Орсини провалится, что приведет к продолжению правления Наполеона III во Франции."
+ RULE_OPTION_FRA_EMPEROR_FATE_DEAD: "Император убит"
+ RULE_OPTION_FRA_EMPEROR_FATE_DEAD_DESC: "Попытка Орсини увенчается успехом, а император погибнет после того, как рядом с его каретой упадет бомба. Во Французской Империи воцарится хаос, будет установлено Временное Регентство и проведены некоторые либеральные реформы, пока не будет выбран новый лидер."
   
  ## Sardinia-Piedmont 
   
  # Risorgimento - Austro-Sardinian War - Russian Assistance 
   
- PIE_RISORGIMENTO_RUSSIA: "£GFX_EOANB_game_rule_flag_PIE   £GFX_EOANB_game_rule_flag_RUS   Российско-Сардинская Встреча" 
- RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_RANDOM: "Стандартно" 
- RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_RANDOM_DESC: "Заявка Сардинии и Пьемонта на участие в войне против Ломбардо-Венецианского Королевства и Австрии предполагает обращение за помощью к России. Уровень помощи, которую окажет Россия, будь то союз, помощь или просто гарантия нейтралитета, будет определяться случайным образом или в зависимости от других параметров." 
- RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ALLIANCE: "Союз за Галицию" 
- RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ALLIANCE_DESC: "Предстоящая война рассматривается как возможность отнять Галицию у Австрии, искупив унижение, понесенное во время Крымской Войны. Поэтому Россия вступит в войну на стороне Сардинии-Пьемонта, признав ее законной нацией для Объединения Италии.\n\n§RТребуется:§!\n§YСардиния-Пьемонт НЕ состоит в союзе с Францией.§!" 
- RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ASSISTANCE: "Помощь России" 
- RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ASSISTANCE_DESC: "Предстоящий конфликт рассматривается как возможность наказать Австрию за предательство в Крымской Войне. Российская Империя ограничит свою помощь размещением войск на австрийской границе, отвлекая их во время Второй Итальянской Войны за Независимость." 
- RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY: "Российский Нейтралитет" 
- RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY_DESC: "Не желая вмешиваться в Итальянские дела, Россия даст гарантию нейтралитета в предстоящей войне и покончит с этим, отказавшись от дальнейшей помощи.\n\n§RТребуется:§!\n§YСардиния-Пьемонт уже в союзе с Францией.§!" 
+ PIE_RISORGIMENTO_RUSSIA: "£GFX_EOANB_game_rule_flag_PIE   £GFX_EOANB_game_rule_flag_RUS   Российско-Сардинская Встреча"
+ RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_RANDOM: "Стандартно"
+ RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_RANDOM_DESC: "Заявка Сардинии и Пьемонта на участие в войне против Ломбардо-Венецианского Королевства и Австрии предполагает обращение за помощью к России. Уровень помощи, которую окажет Россия, будь то союз, помощь или просто гарантия нейтралитета, будет определяться случайным образом или в зависимости от других параметров."
+ RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ALLIANCE: "Союз за Галицию"
+ RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ALLIANCE_DESC: "Предстоящая война рассматривается как возможность отнять Галицию у Австрии, искупив унижение, понесенное во время Крымской Войны. Поэтому Россия вступит в войну на стороне Сардинии-Пьемонта, признав ее законной нацией для Объединения Италии.\n\n§RТребуется:§!\n§YСардиния-Пьемонт НЕ состоит в союзе с Францией.§!"
+ RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ASSISTANCE: "Помощь России"
+ RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_ASSISTANCE_DESC: "Предстоящий конфликт рассматривается как возможность наказать Австрию за предательство в Крымской Войне. Российская Империя ограничит свою помощь размещением войск на австрийской границе, отвлекая их во время Второй Итальянской Войны за Независимость."
+ RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY: "Российский Нейтралитет"
+ RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY_DESC: "Не желая вмешиваться в Итальянские дела, Россия даст гарантию нейтралитета в предстоящей войне и покончит с этим, отказавшись от дальнейшей помощи.\n\n§RТребуется:§!\n§YСардиния-Пьемонт уже в союзе с Францией.§!"
   
  ## Kingdom of Württemberg 
   
  # Status of Liberalism (Integrated or Suppressed) 
   
- WUR_LIBERALISM_STATUS: "£GFX_EOANB_game_rule_flag_WUR   Статус Либерализма в Вюртемберге" 
- RULE_OPTION_WUR_LIBERALISM_STATUS_RANDOM: "Стандартно" 
- RULE_OPTION_WUR_LIBERALISM_STATUS_RANDOM_DESC: "Королевству Вюртемберг предстоит сделать выбор между интеграцией и подавлением либерализма. Этот выбор будет сделан случайным образом." 
- RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS: "Подавление Либерализма" 
- RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS_DESC: "Не желая допустить ее дальнейшего роста, Король Вильгельм сосредоточится на подавлении либеральных движений в стране." 
- RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE: "Внедрение Либерализма" 
- RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE_DESC: "После тщательного обдумывания, Король Вильгельм примет решение о внедрении либерализма в королевстве." 
+ WUR_LIBERALISM_STATUS: "£GFX_EOANB_game_rule_flag_WUR   Статус Либерализма в Вюртемберге"
+ RULE_OPTION_WUR_LIBERALISM_STATUS_RANDOM: "Стандартно"
+ RULE_OPTION_WUR_LIBERALISM_STATUS_RANDOM_DESC: "Королевству Вюртемберг предстоит сделать выбор между интеграцией и подавлением либерализма. Этот выбор будет сделан случайным образом."
+ RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS: "Подавление Либерализма"
+ RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS_DESC: "Не желая допустить ее дальнейшего роста, Король Вильгельм сосредоточится на подавлении либеральных движений в стране."
+ RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE: "Внедрение Либерализма"
+ RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE_DESC: "После тщательного обдумывания, Король Вильгельм примет решение о внедрении либерализма в королевстве."

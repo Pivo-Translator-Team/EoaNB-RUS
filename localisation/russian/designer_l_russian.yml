@@ -2,7 +2,12 @@
  DESIGNER_LOCKED: "§RНедоступно§!"
  DESIGNER_ADD: "§GЩелкните, чтобы добавить§!"
  DESIGNER_CHANGE: "§GЩелкните, чтобы изменить§!"
+ DESIGNER_CHANGE_REMOVE: "§GShift + щелчок§!, чтобы удалить"
  DESIGNER_DUPLICATE_TO_MODIFY: "§RКлонировать шаблон для редактирования§!"
+ DESIGNER_BLOCKED: "Эта ячейка боевого батальона §Rзаблокирована§!"
+ DESIGNER_BLOCKED_BY_TECH: "Будет открыто с одной из следующих доктрин:$TECH$"
+ DESIGNER_BLOCKED_TECH_DESC: "\n £trigger_no §H$NAME$ ($CATEGORY$)§!"
+ DESIGNER_BLOCKED_BY_NOT_HANDLED: "§HЧтобы получить доступ, игрок должен соответствовать условиям.§!"
  DESIGNER_UNLOCK: "$VALUE|H0$ £army_experience"
  DESIGNER_REPLACE_DESC: "Цена замены: $VALUE|H0$ £army_experience"
  DESIGNER_ADD_DESC: "Цена добавления: $VALUE|H0$ £army_experience"
@@ -186,6 +191,17 @@
  EQUIPMENT_DESIGNER_ROLE_CHANGE_DISALLOWED: "§RСмена роли запрещена§!"
  EQUIPMENT_DESIGNER_ROLE_CHANGE_DISALLOWED_LICENSED: "Это лицензированный проект, его можно использовать только в указанной роли. Чтобы задействовать дополнительные роли, нужно приобретать новые лицензии."
  EQUIPMENT_DESIGNER_BELOW_MINIMUM_SPEED: "§RМакс. скорость ниже $SPEED$ минимума§!"
+ EQUIPMENT_DESIGNER_WEIGHT_EXCEEDS_THRUST: "§RВес превосходит силу тяги§!"
+ EQUIPMENT_DESIGNER_WEIGHT_EXCEEDS_THRUST_FOR_MISSIONS: "§RВес превосходит силу тяги для следующих миссий:§!"
+ EQUIPMENT_DESIGNER_PLANE_ROLE_REQUIRE_WEAPON: "Добавить главное вооружение, чтобы дать роль"
+  
+  # Specialized names can be provided by appending the archetype/hull token. These will take priority if available. E.g. 
+ #ship_designer_screen_ship_hull_cruiser: "Light Cruiser"
+ #ship_designer_capital_ship_ship_hull_cruiser: "Heavy Cruiser"
+ ship_designer_submarine: "$EQUIPMENT_SUBMARINE$"
+ ship_designer_capital_ship: "$EQUIPMENT_CAPITAL_SHIP$"
+ ship_designer_screen: "$EQUIPMENT_SCREEN$"
+ ship_designer_carrier: "$EQUIPMENT_CARRIER$"
   
  tank_designer_light_tank_chassis: "Легкий танк"
  tank_designer_light_tank_chassis_role_disallowed: "Удалите модуль, запрещающий выбирать роль $tank_designer_light_tank_chassis|H$, чтобы иметь возможность переключиться на нее."
@@ -212,6 +228,7 @@
  tank_designer_flame: "Огнеметчик (рота обеспечения)"
  tank_designer_flame_role_disallowed: "Добавить модуль, позволяющий выбирать роль §H«Пламя»§!."
   # name list themes 
+ l_english: 
   # name list themes -- updated to include country-specific and other new list names 
  NAME_THEME_RIVERS: "Реки"
  NAME_THEME_FISH: "Рыбы"
@@ -283,9 +300,9 @@
  NAME_THEME_HISTORICAL_SUBS_OCLASS: "Исторические подлодки класса «О»"
  NAME_THEME_HISTORICAL_SUBS_KCLASS: "Исторические подлодки класса «К»"
   
- NAME_THEME_US_MONITORS: "Исторические Мониторы США" 
- NAME_THEME_US_CORVETTES: "Исторические Корветы США" 
- NAME_THEME_US_FRIGATES: "Исторические Фригаты США" 
+ NAME_THEME_US_MONITORS: "Исторические Мониторы США"
+ NAME_THEME_US_CORVETTES: "Исторические Корветы США"
+ NAME_THEME_US_FRIGATES: "Исторические Фригаты США"
   
   
  NAVAL_ROLE_SELECT_DESC: "Здесь можно организовать свои проекты, поделив их по классам, и более гибко настраивать варианты усиления в составе оперативного соединения."

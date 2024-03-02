@@ -5,11 +5,11 @@
   
   
   ### GENERIC LOCALISATION ### 
- eoanb_category_foreign_influence_actions: "Действия Иностранного Влияния" 
- eoanb_category_foreign_influence_actions_desc: "Существует 2 вида §GIВлияния§!. §YМинорное§! и §YМажорное§! Влияние.\n§YМинорное§! Влияние длится один год и может быть отменено другой нацией через §C180§! дней.\n§YМажорное§! Влияние длится 2 года и может быть отменено другой нацией через §C365§! дней.\nЗа каждый уровень влияния вы тратите §R0.1§! §YLЗаконодательной Власти§! и вы получаете §G-2.5%§! §YПотребительских Товаров§!.\n\nЕсли другая §YВеликая Держава§! имеет §YМинорное§! влияние на §YЦелевую Страну§!, то вы потратие §R+25§! дополнительной законодательной власти, чтобы получить влияние для себя.\nЕсли другая §YВеликая Держава§! имеет §YСМажорное§! влияние на §YЦелевую Страну§!, то вы потратите §R+50§! и обе нации получат §YМинорное§! влияние на §YЦелевую Страну§!.\n\nЗахват §GВлияния§! другой §YВеликой Державой§! ухудшит §Gмнение§! между вашими нациями.\n§CПока решение активно, ваше влияние не может быть захвачено другой Великой Державой.§!" 
+ eoanb_category_foreign_influence_actions: "Действия Иностранного Влияния"
+ eoanb_category_foreign_influence_actions_desc: "Существует 2 вида §GIВлияния§!. §YМинорное§! и §YМажорное§! Влияние.\n§YМинорное§! Влияние длится один год и может быть отменено другой нацией через §C180§! дней.\n§YМажорное§! Влияние длится 2 года и может быть отменено другой нацией через §C365§! дней.\nЗа каждый уровень влияния вы тратите §R0.1§! §YLЗаконодательной Власти§! и вы получаете §G-2.5%§! §YПотребительских Товаров§!.\n\nЕсли другая §YВеликая Держава§! имеет §YМинорное§! влияние на §YЦелевую Страну§!, то вы потратие §R+25§! дополнительной законодательной власти, чтобы получить влияние для себя.\nЕсли другая §YВеликая Держава§! имеет §YСМажорное§! влияние на §YЦелевую Страну§!, то вы потратите §R+50§! и обе нации получат §YМинорное§! влияние на §YЦелевую Страну§!.\n\nЗахват §GВлияния§! другой §YВеликой Державой§! ухудшит §Gмнение§! между вашими нациями.\n§CПока решение активно, ваше влияние не может быть захвачено другой Великой Державой.§!"
   
   ### Decisions 
- Minor_Influence: "Минорное [FROM.GetAdjective] Влияние \nЗаинтересованные Стороны: [GetNationFlagsInfluencingCountry]". 
+ Minor_Influence: "Минорное [FROM.GetAdjective] Влияние \nЗаинтересованные Стороны: [GetNationFlagsInfluencingCountry]"
  Minor_Influence_desc: "Соревнуйтесь за Влияние на целевую страну."
  Major_Influence: "Мажорное [FROM.GetAdjective] Влияние"
  Major_Influence_desc: "Соревнуйтесь за Основное Влияние на целевую страну."
@@ -17,55 +17,55 @@
   
   
   ### Custom effect tooltips ### 
- custom_tt_influence_generic_country: "Государство §Y[GetNationInfluencingCountry]§! в настоящее время оказывает влияние на Государство §Y[FROM.GetFlag][FROM.GetName]§!.\n\n" 
+ custom_tt_influence_generic_country: "Государство §Y[GetNationInfluencingCountry]§! в настоящее время оказывает влияние на Государство §Y[FROM.GetFlag][FROM.GetName]§!.\n\n"
  custom_tt_generic_influence_availability_major: "Чтобы получить это решение, вы должны иметь минорное влияние на Государство §Y[FROM.GetFlag][FROM.GetName]§!."
   
- target_is_not_great_power: "Государство §Y[FROM.GetFlag][FROM.GetName]§! не является Великой Державой." 
- Great_Power_influence_over_country: "Нет §YМинорного/Мажорного§! влияния других §YВеликих Держав§! на Государство §Y[FROM.GetFlag][FROM.GetName]§! менее чем на §C180/365§! дней.\n§YИЛИ§!\nНет §YВеликой Державы§! имеющей влияние на Государство §Y[FROM. GetFlag][FROM.GetName]§!.\n§YИЛИ§!\nДве §YВеликие Державы§! не имеют §YМинорного§! влияния на Государство §Y[FROM.GetFlag][FROM.GetName]§! одновременно.\n§YИЛИ§!\nНет §YМажорного§! Влияния на Государство §Y[FROM.GetFlag][FROM.GetName]§!". 
+ target_is_not_great_power: "Государство §Y[FROM.GetFlag][FROM.GetName]§! не является Великой Державой."
+ Great_Power_influence_over_country: "Нет §YМинорного/Мажорного§! влияния других §YВеликих Держав§! на Государство §Y[FROM.GetFlag][FROM.GetName]§! менее чем на §C180/365§! дней.\n§YИЛИ§!\nНет §YВеликой Державы§! имеющей влияние на Государство §Y[FROM. GetFlag][FROM.GetName]§!.\n§YИЛИ§!\nДве §YВеликие Державы§! не имеют §YМинорного§! влияния на Государство §Y[FROM.GetFlag][FROM.GetName]§! одновременно.\n§YИЛИ§!\nНет §YМажорного§! Влияния на Государство §Y[FROM.GetFlag][FROM.GetName]§!"
  target_is_not_influenced_by_this: "Государство §Y[THIS.GetFlag][THIS.GetName]§ не имеет §YМинорного§! влияния на Государство §Y[FROM.GetFlag][FROM.GetName]§!\n§YИЛИ§!\nГосударство §Y[THIS.GetFlag][THIS.GetName]§! не имеет §YМинорного§! влияния на Государство §Y[FROM.GetFlag][FROM.GetName]§! менее §C180§! дней."
   
- root_has_minor_influence_over_target: "Государство §Y[THIS.GetFlag][THIS.GetName]§! имеет §YМинорное/Мажорное§! влияние на Государство §Y[FROM.GetFlag][FROM.GetName]§! более чем на §C180/365§! дней." 
- foreign_influence_cost_based_on_distance: "§CДипломатические Платы§! в зависимости §GРасстояния§!:" 
+ root_has_minor_influence_over_target: "Государство §Y[THIS.GetFlag][THIS.GetName]§! имеет §YМинорное/Мажорное§! влияние на Государство §Y[FROM.GetFlag][FROM.GetName]§! более чем на §C180/365§! дней."
+ foreign_influence_cost_based_on_distance: "§CДипломатические Платы§! в зависимости §GРасстояния§!:"
  take_over_cost: "§CЗатраты на Поглощение:§!"
   
   ### Ideas ### 
- idea_minor_external_influence: "Минорное [?influenced_by.GetFlag][?influenced_by.GetAdjective] влияние" 
- idea_major_external_influence: "Мажорное [?influenced_by.GetFlag][?influenced_by.GetAdjective] влияние" 
- idea_shared_external_influence: "Конкурирующие [?influenced_by.GetFlag][?influenced_by.GetAdjective] и [?influenced_by2.GetFlag][?influenced_by2.GetAdjective] Иностранное Влияние" 
+ idea_minor_external_influence: "Минорное [?influenced_by.GetFlag][?influenced_by.GetAdjective] влияние"
+ idea_major_external_influence: "Мажорное [?influenced_by.GetFlag][?influenced_by.GetAdjective] влияние"
+ idea_shared_external_influence: "Конкурирующие [?influenced_by.GetFlag][?influenced_by.GetAdjective] и [?influenced_by2.GetFlag][?influenced_by2.GetAdjective] Иностранное Влияние"
   
   ### Dynamic Modifiers 
- dynmod_foreign_influence: "Последствия Иностранного Влияния" 
+ dynmod_foreign_influence: "Последствия Иностранного Влияния"
   
- idea_centrism_drift: "Ежедневная поддержка центризма под Влянием" 
- idea_traditional_conservatism_drift: "Ежедневная поддержка традиционал-консерватизма под Влянием" 
- idea_autocracy_drift: "Ежедневная поддержка автократии под Влянием" 
- idea_ideology_radical_socialism_drift: "Ежедневная поддержка радикал-социализма под Влянием" 
- idea_social_egalitarianism_drift: "Ежедневная поддержка социал-эгалитаризма под Влянием" 
+ idea_centrism_drift: "Ежедневная поддержка центризма под Влянием"
+ idea_traditional_conservatism_drift: "Ежедневная поддержка традиционал-консерватизма под Влянием"
+ idea_autocracy_drift: "Ежедневная поддержка автократии под Влянием"
+ idea_ideology_radical_socialism_drift: "Ежедневная поддержка радикал-социализма под Влянием"
+ idea_social_egalitarianism_drift: "Ежедневная поддержка социал-эгалитаризма под Влянием"
   
   ###Events 
- foreign_influence.1.t: "[From.GetFlag][FROM.GetAdjective] Влияние" 
- foreign_influence.1.d: "Сегодня несколько иностранных [FROM.GetFlag][FROM.GetAdjective] дипломатов прибыли в нашу страну. Похоже, что Государство [FROM.GetName] пытается установить прочные связи с нашей страной." 
+ foreign_influence.1.t: "[From.GetFlag][FROM.GetAdjective] Влияние"
+ foreign_influence.1.d: "Сегодня несколько иностранных [FROM.GetFlag][FROM.GetAdjective] дипломатов прибыли в нашу страну. Похоже, что Государство [FROM.GetName] пытается установить прочные связи с нашей страной."
  foreign_influence.1.a: "Это здорово! Они нам нужны."
- foreign_influence.1.b: "О нет!" 
+ foreign_influence.1.b: "О нет!"
   
- foreign_influence.2.t: "[FROM.FROM.GetFlag][FROM.FROM.GetAdjective] Влияние Потеряно" 
- foreign_influence.2.d: "Сегодня наш посол в Государстве [FROM.FROM.GetFlag][FROM.FROM.GetName] был оклеветан несколькими слухами, распространенными [FROM.GetFlag][FROM.GetAdjective] дипломатами. Как мы должны реагировать на это?" 
+ foreign_influence.2.t: "[FROM.FROM.GetFlag][FROM.FROM.GetAdjective] Влияние Потеряно"
+ foreign_influence.2.d: "Сегодня наш посол в Государстве [FROM.FROM.GetFlag][FROM.FROM.GetName] был оклеветан несколькими слухами, распространенными [FROM.GetFlag][FROM.GetAdjective] дипломатами. Как мы должны реагировать на это?"
  foreign_influence.2.a: "Ну что ж, бывает."
- foreign_influence.2.b: "Они заплатят за это, со временем..." 
+ foreign_influence.2.b: "Они заплатят за это, со временем..."
   
- foreign_influence.3.t: "Крупное Иностранное Влияние Взяло Верх" 
+ foreign_influence.3.t: "Крупное Иностранное Влияние Взяло Верх"
  foreign_influence.3.d: "Государство [FROM.GetFlag][FROM.GetName] взяло верх над нашим влиянием на Государство [FROM.FROM.GetFlag][FROM.FROM.GetName]. Как мы должны на это реагировать?"
  foreign_influence.3.a: "Нет! Государство [FROM.FROM.GetFlag][FROM.FROM.GetName] - наше."
- foreign_influence.3.b: "Они заплатят за это, со временем..." 
+ foreign_influence.3.b: "Они заплатят за это, со временем..."
   
  foreign_influence.4.t: "Опасные Уровни [FROM.GetFlag][FROM.GetAdjective] Влияния"
- foreign_influence.4.d: "[FROM.GetFlag][FROM.GetAdjective] дипломаты имеют опасный уровень влияния на [THIS.GetFlag][THIS.GetAdjective] дела! Мы должны остановить их!" 
- foreign_influence.4.a: "Суверенитет нашей страны в опасности!" 
+ foreign_influence.4.d: "[FROM.GetFlag][FROM.GetAdjective] дипломаты имеют опасный уровень влияния на [THIS.GetFlag][THIS.GetAdjective] дела! Мы должны остановить их!"
+ foreign_influence.4.a: "Суверенитет нашей страны в опасности!"
  foreign_influence.4.b: "Мы ничего не можем сделать."
   
- foreign_influence.5.t: "Многочисленные Внешние Влияния" 
- foreign_influence.5.d: "Несколько иностранных дипломатов из Государство [?influenced_by.GetFlag][?influenced_by.GetName] и Государства [?infuenced_by2.GetFlag][?influenced_by2.GetName] борются за Влияние нашей страны!" 
+ foreign_influence.5.t: "Многочисленные Внешние Влияния"
+ foreign_influence.5.d: "Несколько иностранных дипломатов из Государство [?influenced_by.GetFlag][?influenced_by.GetName] и Государства [?infuenced_by2.GetFlag][?influenced_by2.GetName] борются за Влияние нашей страны!"
  foreign_influence.5.a: "Пусть сражаются!"
   
- foreign_influence_test: "[eoanb_foreign_influence_array_test]" 
+ foreign_influence_test: "[eoanb_foreign_influence_array_test]"
   
