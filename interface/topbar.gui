@@ -1118,7 +1118,7 @@ guiTypes = {
 			name ="log_title"
 			position = { x= 498 y = 2 }
 			font = "vic_18_grey"
-			text = "Logistics"
+			text = "Логистика"
 			format = center
 			maxWidth = 166
 			maxHeight = 24
