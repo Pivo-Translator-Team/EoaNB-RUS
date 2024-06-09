@@ -26,7 +26,7 @@
   
  root_has_minor_influence_over_target: "Государство §Y[THIS.GetFlag][THIS.GetName]§! имеет §YМинорное/Мажорное§! влияние на Государство §Y[FROM.GetFlag][FROM.GetName]§! более чем на §C180/365§! дней."
  foreign_influence_cost_based_on_distance: "§CДипломатические Платы§! в зависимости §GРасстояния§!:"
- take_over_cost: "§CЗатраты на Поглощение:§!"
+ take_over_cost: "§CЗатраты на Переворот:§!"
   
   ### Ideas ### 
  idea_minor_external_influence: "Минорное [?influenced_by.GetFlag][?influenced_by.GetAdjective] влияние"
