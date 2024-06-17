@@ -767,7 +767,7 @@ guiTypes = {
 
 		instantTextBoxType = {
 			name ="pol_power"
-			position = { x= 130 y = 126§§ }
+			position = { x= 130 y = 126 }
 			font = "hoi_18mbs"
 			text = "999"
 			format = center
