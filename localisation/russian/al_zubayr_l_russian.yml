@@ -1,7 +1,7 @@
 ﻿l_russian:
  ALZ_slave_raid_does_not_have_non_aggression_pact: "Пакта о ненападении с владельцем региона §Y[834.GetName]§ нет!"
   
- ALZ_slave_raid_border_conflict: "[ROOT.GetName] набег за рабами"
+ ALZ_slave_raid_border_conflict: "Государство [ROOT.GetName] устраивает Набег за Рабами"
  ALZ_slave_raid_state_834: "Начать набег за рабами в регион [834.GetName]"
   
  ALZ_slave_raid_ended: "Набег завершен"
