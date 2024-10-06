@@ -1,111 +1,111 @@
 ﻿l_russian:
   
- SPR_morocco_expedition_fortify_ceuta_decision: "Fortify [1029.GetName]"
- SPR_morocco_expedition_fortify_ceuta_decision_desc: "If we fortify [1029.GetName], we ensure Morocco has a difficult time raiding it in the future and use it to launch an attack."
- SPR_prepare_ceuta_tooltip: "Unlocks decisions related to fortifying §Y[1029.GetName]§!."
- SPR_morocco_expedition_fortify_melilla_decision: "Fortify Melilla"
- SPR_morocco_expedition_fortify_melilla_decision_desc: "If we fortify Melilla, we ensure Morocco has a difficult time raiding it in the future and use it to launch an attack."
- SPR_prepare_melilla_tooltip: "Unlocks decisions related to fortifying §YMelilla§!."
-  
- SPR_morocco_expedition_begin_invasion: "Begin the [MOR.GetAdjective] War"
- SPR_morocco_expedition_begin_invasion_desc: "Now that we are ready, we can begin the invasion of [MOR.GetName]."
-  
- SPR_morocco_expedition_take_er_rif_mission: "Spanish-Morocco War"
- SPR_morocco_expedition_take_er_rif_mission_desc: "The [1029.GetName] are critical port cities that can sustain an invasion in Morocco. They are the keystones to the entire operation, without it the Spanish forces will be forced to abandon the war. If Spain reaches [290.GetName], it will initiate peace negotiations with Morocco and the end of the war."
- SPR_morocco_expedition_take_casablanca_mission: "Spanish-Morocco War"
- SPR_morocco_expedition_take_casablanca_mission_desc: "The [1029.GetName] are critical port cities that can sustain an invasion in Morocco. They are the keystones to the entire operation, without it the Spanish forces will be forced to abandon the war. Casablanca is a critical city for [MOR.GetName] and if lost, Morocco will no longer have the will to fight."
-  
- SPR_morocco_expedition_state_controlled_trigger: "Is controlled by a §Y[SPR.GetName]§!"
- SPR_morocco_expedition_state_not_controlled_trigger: "Is not controlled by §Y[MOR.GetName]§!"
-  
- SPR_morocco_expedition_has_not_began: "§YMorocco War§! has not started"
-  
- morocco.2.t: "Tribals Conduct Unsanctioned Raid on Spain!"
+ SPR_morocco_expedition_fortify_ceuta_decision: "Укрепить [1029.GetName]"
+ SPR_morocco_expedition_fortify_ceuta_decision_desc: "Если мы укрепим [1029.GetName], то обеспечим, что в будущем Марокко будет сложно совершать на него набеги, а также сможем использовать его для начала атаки."
+ SPR_prepare_ceuta_tooltip: "Открывает решения, связанные с укреплением §Y[1029.GetName]§!."
+ SPR_morocco_expedition_fortify_melilla_decision: "Укрепить Мелилью"
+ SPR_morocco_expedition_fortify_melilla_decision_desc: "Если мы укрепим Мелилью, то обеспечим, что в будущем Марокко будет сложно совершать на неё набеги, а также сможем использовать её для начала атаки."
+ SPR_prepare_melilla_tooltip: "Открывает решения, связанные с укреплением §YМелильи§!."
+
+ SPR_morocco_expedition_begin_invasion: "Начать войну с Марокко"
+ SPR_morocco_expedition_begin_invasion_desc: "Теперь, когда мы готовы, мы можем начать вторжение в Марокко."
+
+ SPR_morocco_expedition_take_er_rif_mission: "Испано-Марокканская война"
+ SPR_morocco_expedition_take_er_rif_mission_desc: "[1029.GetName] являются ключевыми портовыми городами, которые могут поддерживать вторжение в Марокко. Они — ключевые позиции всей операции, без них испанские силы будут вынуждены покинуть войну. Если Испания достигнет [290.GetName], то начнутся мирные переговоры с Марокко и война закончится."
+ SPR_morocco_expedition_take_casablanca_mission: "Испано-Марокканская война"
+ SPR_morocco_expedition_take_casablanca_mission_desc: "[1029.GetName] являются ключевыми портовыми городами, которые могут поддерживать вторжение в Марокко. Они — ключевые позиции всей операции, без них испанские силы будут вынуждены покинуть войну. Касабланка — ключевой город для Марокко, и если он будет потерян, Марокко больше не сможет продолжать войну."
+
+ SPR_morocco_expedition_state_controlled_trigger: "Контролируется §YИспанией§!"
+ SPR_morocco_expedition_state_not_controlled_trigger: "Не контролируется §YМарокко§!"
+
+ SPR_morocco_expedition_has_not_began: "§YВойна с Марокко§! ещё не началась"
+
+ morocco.2.t: "Племена провели несанкционированный набег на Испанию!"
  morocco.2.d: ""
- morocco.2.a: "This could be quite the incident!"
-  
- SPR_morocco_expedition.1.t: "Moroccan Tribes Raid Our Border!"
+ morocco.2.a: "Это может стать серьёзным инцидентом!"
+
+ SPR_morocco_expedition.1.t: "Марокканские племена напали на нашу границу!"
  SPR_morocco_expedition.1.d: ""
- SPR_morocco_expedition.1.a: "Demand they cease the raids!"
- SPR_morocco_expedition.1.b: "We have more important matters to attend to."
-  
- SPR_morocco_expedition.2.t: "Spain Demands End of Raids"
+ SPR_morocco_expedition.1.a: "Требуем прекратить набеги!"
+ SPR_morocco_expedition.1.b: "У нас есть более важные дела."
+
+ SPR_morocco_expedition.2.t: "Испания требует прекращения набегов"
  SPR_morocco_expedition.2.d: ""
- SPR_morocco_expedition.2.a: "It's out of our control..."
- SPR_morocco_expedition.2.b: "The Sultan's word is law, they will cease!"
-  
- SPR_morocco_expedition.3.t: "Moroccan Tribes Raid Once Again!"
+ SPR_morocco_expedition.2.a: "Это не в нашей власти..."
+ SPR_morocco_expedition.2.b: "Слово султана — закон, они прекратят!"
+
+ SPR_morocco_expedition.3.t: "Марокканские племена снова напали!"
  SPR_morocco_expedition.3.d: ""
- SPR_morocco_expedition.3.a: "We'll make sure that doesn't happen again..."
-  
- SPR_morocco_expedition.4.t: "Spain Prepares for War!"
- SPR_morocco_expedition.4.d: "Spain is preparing for war, what shall we do?"
- SPR_morocco_expedition.4.a: "Let's hope they change their minds..."
- SPR_morocco_expedition.4.b: "Declare war before they prepare!"
-  
- SPR_morocco_expedition.5.t: "Local Tribes Raid Spain!"
+ SPR_morocco_expedition.3.a: "Мы позаботимся о том, чтобы это больше не повторилось..."
+
+ SPR_morocco_expedition.4.t: "Испания готовится к войне!"
+ SPR_morocco_expedition.4.d: "Испания готовится к войне, что нам делать?"
+ SPR_morocco_expedition.4.a: "Надеемся, что они изменят своё мнение..."
+ SPR_morocco_expedition.4.b: "Объявим войну первыми!"
+
+ SPR_morocco_expedition.5.t: "Местные племена напали на Испанию!"
  SPR_morocco_expedition.5.d: ""
- SPR_morocco_expedition.5.a: "This could be a diplomatic nightmare..."
-  
- SPR_morocco_expedition.6.t: "Spain Declares War!"
+ SPR_morocco_expedition.5.a: "Это может стать дипломатическим кошмаром..."
+
+ SPR_morocco_expedition.6.t: "Испания объявляет войну!"
  SPR_morocco_expedition.6.d: ""
- SPR_morocco_expedition.6.a: "Prepare ourselves! To War!"
-  
- SPR_morocco_expedition.7.t: "Morocco Declares War!"
+ SPR_morocco_expedition.6.a: "Готовимся к войне!"
+
+ SPR_morocco_expedition.7.t: "Марокко объявляет войну!"
  SPR_morocco_expedition.7.d: ""
- SPR_morocco_expedition.7.a: "What?!"
-  
- SPR_morocco_expedition.8.t: "Spain Takes [290.GetName]!"
+ SPR_morocco_expedition.7.a: "Что?!"
+
+ SPR_morocco_expedition.8.t: "Испания захватывает [290.GetName]!"
  SPR_morocco_expedition.8.d: ""
- SPR_morocco_expedition.8.a: "It's over!"
- SPR_morocco_expedition.8.b: "Keep fighting!"
-  
- SPR_morocco_expedition.9.t: "Morocco Keeps Fighting!"
+ SPR_morocco_expedition.8.a: "Всё кончено!"
+ SPR_morocco_expedition.8.b: "Продолжаем сражаться!"
+
+ SPR_morocco_expedition.9.t: "Марокко продолжает сражаться!"
  SPR_morocco_expedition.9.d: ""
- SPR_morocco_expedition.9.a: "Onwards to Casablanca!"
-  
- SPR_morocco_expedition.10.t: "Spain Takes Casablanca!"
+ SPR_morocco_expedition.9.a: "Вперёд, на Касабланку!"
+
+ SPR_morocco_expedition.10.t: "Испания захватывает Касабланку!"
  SPR_morocco_expedition.10.d: ""
- SPR_morocco_expedition.10.a: "It's really over!"
-  
- SPR_morocco_expedition.11.t: "Morocco Surrenders!"
+ SPR_morocco_expedition.10.a: "Теперь всё точно кончено!"
+
+ SPR_morocco_expedition.11.t: "Марокко сдаётся!"
  SPR_morocco_expedition.11.d: ""
- SPR_morocco_expedition.11.a: "Now for the negotiations..."
-  
- SPR_morocco_expedition.12.t: "Exhausted From War!"
+ SPR_morocco_expedition.11.a: "Теперь к переговорам..."
+
+ SPR_morocco_expedition.12.t: "Измучены войной!"
  SPR_morocco_expedition.12.d: ""
- SPR_morocco_expedition.12.a: "We have no choice but to whitepeace..."
-  
- SPR_morocco_expedition.13.t: "Morocco Holds [1029.GetName] and [1030.GetName]!"
+ SPR_morocco_expedition.12.a: "У нас нет выбора, кроме как заключить мир..."
+
+ SPR_morocco_expedition.13.t: "Марокко удерживает [1029.GetName] и [1030.GetName]!"
  SPR_morocco_expedition.13.d: ""
- SPR_morocco_expedition.13.a: "We have no choice but to negotiate..."
-  
- SPR_morocco_expedition.14.t: "Morocco Holds [1029.GetName] and [1030.GetName]!"
+ SPR_morocco_expedition.13.a: "У нас нет выбора, кроме как начать переговоры..."
+
+ SPR_morocco_expedition.14.t: "Марокко удерживает [1029.GetName] и [1030.GetName]!"
  SPR_morocco_expedition.14.d: ""
- SPR_morocco_expedition.14.a: "Now for the negotiations..."
-  
- SPR_morocco_expedition.15.t: "Morocco Agrees to Demands!"
+ SPR_morocco_expedition.14.a: "Теперь к переговорам..."
+
+ SPR_morocco_expedition.15.t: "Марокко соглашается с требованиями!"
  SPR_morocco_expedition.15.d: ""
- SPR_morocco_expedition.15.a: "Now for a fiesta!"
-  
- SPR_morocco_expedition.16.t: "Spain's Demands!"
+ SPR_morocco_expedition.15.a: "Теперь время для фиесты!"
+
+ SPR_morocco_expedition.16.t: "Требования Испании!"
  SPR_morocco_expedition.16.d: ""
- SPR_morocco_expedition.16.a: "This has ruined us!"
-  
- SPR_morocco_expedition.17.t: "Press Trade Demands On Morocco?"
+ SPR_morocco_expedition.16.a: "Это разорило нас!" 
+
+ SPR_morocco_expedition.17.t: "Выдвинуть торговые требования Марокко?"
  SPR_morocco_expedition.17.d: ""
- SPR_morocco_expedition.17.a: "They are not in a position to refuse."
- SPR_morocco_expedition.17.b: "We have gained enough payments already..."
-  
- SPR_morocco_expedition.18.t: "Spain Presses Trade Demands!"
+ SPR_morocco_expedition.17.a: "Они не в положении отказаться."
+ SPR_morocco_expedition.17.b: "Мы уже получили достаточно платежей..."
+
+ SPR_morocco_expedition.18.t: "Испания выдвигает торговые требования!"
  SPR_morocco_expedition.18.d: ""
- SPR_morocco_expedition.18.a: "We are in no position to refuse..."
-  
- SPR_morocco_expedition.19.t: "Morocco Accepts Trade Demands!"
+ SPR_morocco_expedition.18.a: "Мы не можем отказаться..."
+
+ SPR_morocco_expedition.19.t: "Марокко принимает торговые требования!"
  SPR_morocco_expedition.19.d: ""
- SPR_morocco_expedition.19.a: "Excellent!"
-  
- SPR_morocco_expedition.20.t: "Spain Determined to Stop Raiders"
+ SPR_morocco_expedition.19.a: "Отлично!" 
+
+ SPR_morocco_expedition.20.t: "Испания решительно настроена остановить налётчиков"
  SPR_morocco_expedition.20.d: ""
- SPR_morocco_expedition.20.a: "We can allow Spain to teach Morocco some manners."
+ SPR_morocco_expedition.20.a: "Мы можем позволить Испании научить Марокко манерам."
   
