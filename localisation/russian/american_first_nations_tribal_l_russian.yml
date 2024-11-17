@@ -85,11 +85,6 @@
  SIX_conflict_escalation_orange: "§O[?SIX.NA_N_conflict_escalation_value@ROOT]§!"
  SIX_conflict_escalation_red: "§R[?SIX.NA_N_conflict_escalation_value@ROOT]§!"
   
- CRW_conflict_escalation_loc: "\n§W[CRW.GetName]:§! [CRW_conflict_escalation_color]"
- CRW_conflict_escalation_green: "§G[?CRW.NA_N_conflict_escalation_value@ROOT]§!"
- CRW_conflict_escalation_orange: "§O[?CRW.NA_N_conflict_escalation_value@ROOT]§!"
- CRW_conflict_escalation_red: "§R[?CRW.NA_N_conflict_escalation_value@ROOT]§!"
-  
  SHO_conflict_escalation_loc: "\n§W[SHO.GetName]:§! [SHO_conflict_escalation_color]"
  SHO_conflict_escalation_green: "§G[?SHO.NA_N_conflict_escalation_value@ROOT]§!"
  SHO_conflict_escalation_orange: "§O[?SHO.NA_N_conflict_escalation_value@ROOT]§!"

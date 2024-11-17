@@ -1,142 +1,333 @@
 ﻿l_russian:
   
-  ############################### 
-  # Austro-Hungarian Focus Tree # 
-  ############################### 
- AUS_Compromise_Achieved: "Компромисс достигнут"
- AUS_Compromise_Achieved_desc: "Мы наконец смогли сделать это!"
- AUS_Croatian-Hungarian_Settlement: "Хорватско-венгерское урегулирование"
- AUS_Croatian-Hungarian_Settlement_desc: "Отношения между двумя народами Транслейтании весьма натсянутые отношения. Нужно с этим что-то сделать."
- AUS_HUN_Limited_Suffrage: "Предоставить ограниченное избирательное право Транслейтании"
- AUS_HUN_Limited_Suffrage_desc: "Возможно, народы Транслейтании тоже могут принять участие в голосованиях?"
- AUS_HUN_Safeguard_Magnates_Power: "Защитить власть магнатов"
- AUS_HUN_Safeguard_Magnates_Power_desc: "Магнаты это самая передовая часть нашей элиты, они двигают нашу экономику вперёд, поэтому стоит защитить их от трудностей, связаных с их деятельностью"
- AUS_HUN_Universal_Suffrage: "Предоставить всеобщее избирательное право в Транслейтании"
- AUS_HUN_Universal_Suffrage_desc: "Результаты нашего эксперимента показали неплохой результат. Настало время расширить его рамки!"
- AUS_HUN_Land_Redistribution: "Перераспределение земли"
- AUS_HUN_Land_Redistribution_desc: "Стоит начать процесс перераспределение земли, их текущее распределение несправедливо и невыгодно."
- AUS_HUN_Nationalities_Law: "Закон о национальностях"
- AUS_HUN_Nationalities_Law_desc: ""
- AUS_HUN_Abolish_Transylvanian_Nations: "Упразднить Трансильванские народности"
- AUS_HUN_Abolish_Transylvanian_Nations_desc: ""
- AUS_HUN_Abolish_Military_Frontiers: "Упразднить "военные границы""
- AUS_HUN_Abolish_Military_Frontiers_desc: ""Военные границы" это древний метод защиты наших границ от Османской угрозы. Век величия блистательной Порты прошёл, такие меры ныне нам уже не нужны."
- AUS_HUN_Initiate_Magyarisation: "Начало мадьяризации"
- AUS_HUN_Initiate_Magyarisation_desc: "Малым народам, которые имеют свои языки и недостаточно умны чтобы выучить немецкий, придётся учить язык нашей второй короны — мадьярский."
- AUS_HUN_Create_Budapesth: "Создать Будапешт"
- AUS_HUN_Create_Budapesth_desc: "Нам следует создать центр для Транслейтании, если слить воедино три мадьярских городка — Буду, Обуду и Пешт, это позволит нам организовать новый административный центр в наших землях, с помощью которого мы сможем эффективно управлять нашей державой."
- AUS_HUN_Support_Education: "Поддержите образование в Транслейтании"
- AUS_HUN_Support_Education_desc: "Уровень образования в наших славянских владениях очень низок, для поддержания экономики следует помочь развитию этой отрасли."
- AUS_HUN_December_Constitution: "Декабрьская конституция"
- AUS_HUN_December_Constitution_desc: "Этот свод законов, пожалуй лучшее что смогли бы придумать для нашей Империи. Конечно, в нём полно недостатков, вызванных необходимостью текущего момента, однако благодаря всему этому полномочия Рейхсрата стали значительно шире, а в Транслейтании появилась крепкая власть. Да и челяди станет жить проще."
- AUS_HUN_Bourgeois_Cabinet: "Буржуазный кабинет"
- AUS_HUN_Bourgeois_Cabinet_desc: "Возможно, представителям буржуазии стоит позволить управлять землями, даже если у них нет благородного происхождения"
- AUS_HUN_Abrogate_Concordat: "Аннулировать Конкордат"
- AUS_HUN_Abrogate_Concordat_desc: "Конкордат, навязанный клерикалистами нужно немедленно аннулировать."
- AUS_HUN_Compulsory_Education: "Обязательное образование в Цислейтании."
- AUS_HUN_Compulsory_Education_desc: "Наши предыдущие реформы поощрили образование в Транслейтании. Стоит ввести следующий этап, но уже у нас — в Цислейтании"
- AUS_HUN_Electoral_Reform_1: "Избирательная реформа в Цислейтании"
- AUS_HUN_Electoral_Reform_1_desc: "Местные парламенты только вредят нашей державе. Стоит ввести прямые выборы в курии, это позволит ослабить кумовство и коррупцию на наших землях."
- AUS_HUN_Liberals_Continue: "Либералы продолжают своё дело"
- AUS_HUN_Liberals_Continue_desc: ""
- AUS_HUN_Laissez_Faire: "Политика невмешательства"
- AUS_HUN_Laissez_Faire_desc: "Возможно, нам не стоит лезть туда, куда нас не звали, рискуя тем, что мы уже имеем, ради призрачной возможности получить небольшую выгоду."
- AUS_HUN_Universal_Male_Suffrage_1: "Всеобщее избирательное право мужчин в Цислейтании"
- AUS_HUN_Universal_Male_Suffrage_1_desc: "Стоит устранить ценз, для тех, кто должен голосовать. Это позволит выбирать наших представителей, основываясь на выборе каждого нашего подданого."
- AUS_HUN_All_Roads_Lead_Vienna_1: "Все дороги ведут в Вену"
- AUS_HUN_All_Roads_Lead_Vienna_1_desc: ""
- AUS_HUN_Appoint_Eduard_Taaffe: "Назначить Эдуарда Тааффе "
- AUS_HUN_Appoint_Eduard_Taaffe_desc: "Друг нашего императора, грамотный управленец и просто умный человек, мы уверены что он будет идеальной фигурой для назначения на пост министра-президента Цислейтании"
- AUS_HUN_Taaffe_Social_Policy: "Социальная политика"
- AUS_HUN_Taaffe_Social_Policy_desc: "Нам следует заняться социальной политикой нашей страны."
- AUS_HUN_Taaffe_Restrict_Child_Labour: "Ограничить детский труд"
- AUS_HUN_Taaffe_Restrict_Child_Labour_desc: "Детский труд, хоть и безусловно полезен как в воспитании детей, так и для нашей экономики, однако это чудовищная практика, да и работники из них так себе."
- AUS_HUN_Taaffe_Restrict_Hours_Women: "Ограничить рабочий день для женщин"
- AUS_HUN_Taaffe_Restrict_Hours_Women_desc: "Ужас, из-за того что наши женщины много работают, рождаемость падает и устои нашей страны могут от этого пошатнуться."
- AUS_HUN_Taaffe_Further_Electoral_Reform: "Дальнейшая избирательная реформа в Цислейтании"
- AUS_HUN_Taaffe_Further_Electoral_Reform_desc: "Нам следует продолжить наши реформы в сфере избирательного права в наших Цислейтанских землях."
- AUS_HUN_Taaffe_Oppose_Liberals: "Противостоять либералам"
- AUS_HUN_Taaffe_Oppose_Liberals_desc: "Нам необходимо ограничить власть либералов, хоть их идеи и полезны для нас, черезмерное заигрывание с ними может пошатнуть устои нашей страны."
- AUS_HUN_Galician_Sejm: "Галицкий сейм"
- AUS_HUN_Galician_Sejm_desc: "В наших не венгерских землях могут быть созданы свои сеймы. Галицкий — один из них."
- AUS_HUN_Negotiate_Czech: "Переговоры с Чехией"
- AUS_HUN_Negotiate_Czech_desc: "Нам следует начать процесс переговоров с Чехией."
- AUS_HUN_Czech_Compromise: "Чешский компромисс"
- AUS_HUN_Czech_Compromise_desc: "Мы пришли к компромиссу с нашими чешскими землями. Пожалуй, это лучшее, чего мы смогли бы добиться."
- AUS_HUN_Czech_Maintain_Status_Quo: "Сохранить статус-кво"
- AUS_HUN_Czech_Maintain_Status_Quo_desc: "Возможно, нам не следует ничего менять. Текущая ситуация хоть и не устраивает нас, но главное в нашей ситуации это не испортить ничего."
- AUS_HUN_Czech_Crown_St_Wenceslas: "Корона Святого Вацлава"
- AUS_HUN_Czech_Crown_St_Wenceslas_desc: "Эта регалия безусловно важна для всего чешского народа. Стоит сохранить эту бемценную реликвию наших подданых."
- AUS_HUN_Czech_Reforms_Bohemia: "Реформы в Богемии-Моравии"
- AUS_HUN_Czech_Reforms_Bohemia_desc: "Реформы это безусловно важный пункт для разумных правителей в современном мире."
- AUS_HUN_Polonisation: "Полонизация в Галиции"
- AUS_HUN_Polonisation_desc: "Стоит начать процесс ополячивания в землях Галиции, это может оказаться полезным для нашей державы."
- AUS_HUN_Recognise_Ruthenians: "Признать русинов"
- AUS_HUN_Recognise_Ruthenians_desc: "Как бы это прискорбно ни было, нам следует признать народ русинов. Это несколько миллионов наших подданых, которые будут преданы нам всем сердцем."
+ 	### NATIONAL FOCUSES ### 
   
- AUS_HUN_Stock_Market_Crashes: "Паника 1873"
- AUS_HUN_Raise_Taxes: "Поднять налоги"
- AUS_HUN_Encourage_Global_Trade: "Поощрять мировую торговлю"
- AUS_HUN_Trust_The_Markets: "Поверить в Рынок"
- AUS_HUN_Impose_Tariffs: "Ввести пошлины"
- AUS_HUN_Nationalise_Railways: "Национализировать железные дороги"
- AUS_HUN_Expand_Regulations: "Расширить регламент"
- AUS_HUN_United_Economy: "Австро-венгерская экономика"
- AUS_HUN_Expand_Schooling_System: "Расширить систему школьного образования"
- AUS_HUN_Found_New_Universities: "Основать новые университеты"
- AUS_HUN_New_School_Of_Economics: "Новая школа экономики"
- AUS_HUN_Found_AustroHungarian_Bank: "Основать Австро-Венгерский банк"
- AUS_HUN_Austrian_Capitalism: "Австрийский капитализм"
- AUS_HUN_Rapid_Industrialisation: "Ускоренная индустриализация"
- AUS_HUN_Develop_Skoda: "Поддержать Шкоду"
- AUS_HUN_Baku_Of_Galicia: "Баку Галиции"
- AUS_HUN_Trade_with_Neighbours: "Торговля с соседями"
- AUS_HUN_Invest_In_Galicia: "Инвестировать в Галицию"
- AUS_HUN_Invest_In_Austria: "Инвестировать в Австрию"
- AUS_HUN_Dig_Greedily: "Жадно копайте!"
- AUS_HUN_Hungarian_State_Railways: "Создание Венгерских государственных железных дорог"
- AUS_HUN_Found_MAKVAG: "Основать MAKVAG"
- AUS_HUN_BreadBasket_of_Europe: "Сельскохозяйственные инновации"
- AUS_HUN_Expand_Budapest: "Расширить Будапешт"
- AUS_HUN_Encourage_Shipping: "Поощрять торговлю"
- AUS_HUN_Develop_River_Travel: "Развитие речных путешествий"
- AUS_HUN_Expand_Danube_Canal: "Дальнейшее расширение Дунайского канала"
- AUS_HUN_Machine_Tools_Industry: "Станкостроительная промышленность"
- AUS_HUN_Electrify_Monarchy: "Электрифицируйте державу"
+ 		### NATIONAL FOCUSES ECONOMY ### 
   
- AUS_HUN_new_landstreitkrafte: "Новые сухопутные войска"
- AUS_HUN_prioritize_austrian_army: "Приоритет на австрийскую армию"
- AUS_HUN_jager_elites: "Элитные егеря"
- AUS_HUN_centralize_command: "Централизировать командование"
- AUS_HUN_maneuvers_in_alps: "MМанёвры в Альпах"
- AUS_HUN_kaisers_pride: "Гордость Кайзера"
- AUS_HUN_Hussars_in_the_Austrian_army: "Принять гусар в австрийскую армию"
- AUS_HUN_Control_the_Uhlans: "Контролируйте улан"
- AUS_HUN_Dual_Duties: "Дуальные обязательства"
- AUS_HUN_Dual_Army: "Дуальная армия"
- AUS_HUN_Gemeinsame_Army_Expanded: "Расширить нашу единую армию"
- AUS_HUN_Cisleithania_to_border: "От Цислейтании до границы"
- AUS_HUN_Assure_the_Landsturm: "Убедить Ландштурм"
- AUS_HUN_Menacing_army: "Грозное воинство"
- AUS_HUN_Take_care_trentino: "Берегите Трентино"
- AUS_HUN_Integreate_carpathian_army: "Интегрируйте Карпатское воинство"
- AUS_HUN_To_Bosnia: "В Боснию!"
- AUS_HUN_Prince_Rudolf_reforms: "Либеральные реформы принца Рудольфа"
- AUS_HUN_Heir_Landwehr: "Ландсвер его величества эрцгерцога"
- AUS_HUN_Modern_Army: "Современная армия"
- AUS_HUN_New_Tactics: "Новые тактики, новые генералы"
- AUS_HUN_Albrecht_conservative_army: "Консервативная армия эрцгерцога Альбрехта"
- AUS_HUN_Responsibility_in_war: "Изучение ответственности на войне"
- AUS_HUN_Functional_army: "Функциональная армия"
- AUS_HUN_Napoleon_thoughts: "Адаптировать Наполеоновские идеи"
- AUS_HUN_Modern_Ancient_Uniforms: "Современная или старинная униформа для армии?"
- AUS_HUN_Uniforms_pride: "Форма наша — гордость"
- AUS_HUN_Artillery_status: "Вопрос артиллерии"
- AUS_HUN_Haubitz_research: "Фонд исследований гаубиц"
- AUS_HUN_Artillerie_Division: "Сформировать конно-артиллерийскую дивизию."
- AUS_HUN_Napoleonic_legacy: "Наполеоновское наследие"
- AUS_HUN_mass_artillery: "Массовая артиллерия"
- AUS_HUN_Fieldcannon_Experts: "Эксперты по полевым орудиям"
+ AUS_cisleithanien_development: "Cisleithanien Development" #NT!
+ AUS_cisleithanien_development_desc: "..." #NT!
+  
+ AUS_industrialization_in_transleithania: "Industrialization in Transleithania" #NT!
+ AUS_industrialization_in_transleithania_desc: "..." #NT!
+  
+ AUS_encourage_trade_and_transport: "Encourage Trade and Transport" #NT!
+ AUS_encourage_trade_and_transport_desc: "..." #NT!
+  
+ AUS_create_mv: "Create MÁV" #NT!
+ AUS_create_mv_desc: "..." #NT!
+  
+ AUS_etvss_reforms: "Eötvös's Reforms" #NT!
+ AUS_etvss_reforms_desc: "..." #NT!
+  
+ AUS_national_education_act: "Reichsvolksschulgesetz" #NT!
+ AUS_national_education_act_desc: "..." #NT!
+  
+ AUS_continue_in_ganzs_legacy: "Continue in Ganz's Legacy" #NT!
+ AUS_continue_in_ganzs_legacy_desc: "..." #NT!
+  
+ AUS_emperors_finest: "Emperor's Finest" #NT!
+ AUS_emperors_finest_desc: "..." #NT!
+  
+ AUS_industrial_capacity_of_gyr: "Industrial Capacity of Győr" #NT!
+ AUS_industrial_capacity_of_gyr_desc: "..." #NT!
+  
+ AUS_countryside_railroads: "Countryside Railroads" #NT!
+ AUS_countryside_railroads_desc: "..." #NT!
+  
+ AUS_develop_alfld_and_dunntl: "Develop Alföld and Dunántúl" #NT!
+ AUS_develop_alfld_and_dunntl_desc: "..." #NT!
+  
+ AUS_expand_education_system: "Expand Education System" #NT!
+ AUS_expand_education_system_desc: "..." #NT!
+  
+ AUS_rapid_industrialization: "Rapid Industrialization" #NT!
+ AUS_rapid_industrialization_desc: "..." #NT!
+  
+ AUS_found_stb: "Found StB" #NT!
+ AUS_found_stb_desc: "..." #NT!
+  
+ AUS_expand_river_transport: "Expand River Transport" #NT!
+ AUS_expand_river_transport_desc: "..." #NT!
+  
+ AUS_baross_reforms: "Baross Reforms" #NT!
+ AUS_baross_reforms_desc: "..." #NT!
+  
+ AUS_subsidise_mvag: "Subsidise MÁVAG" #NT!
+ AUS_subsidise_mvag_desc: "..." #NT!
+  
+ AUS_oderberg__kassa_railroad: "Oderberg - Kassa Railroad" #NT!
+ AUS_oderberg__kassa_railroad_desc: "..." #NT!
+  
+ AUS_expand_danube_canal: "Expand Danube Canal" #NT!
+ AUS_expand_danube_canal_desc: "..." #NT!
+  
+ AUS_trade_with_southern_neighbours: "Trade with Southern Neighbours" #NT!
+ AUS_trade_with_southern_neighbours_desc: "..." #NT!
+  
+ AUS_found_new_universities: "Found New Universities" #NT!
+ AUS_found_new_universities_desc: "..." #NT!
+  
+ AUS_new_tech_high_schools: "New Tech High Schools" #NT!
+ AUS_new_tech_high_schools_desc: "..." #NT!
+  
+ AUS_national_AUS_modernize_rivereducation_act: "Reichsvolksschulgesetz" #NT!
+ AUS_national_education_act_desc: "..." #NT!
+  
+ AUS_new_school_of_economics: "New School of Economics" #NT!
+ AUS_new_school_of_economics_desc: "..." #NT!
+  
+ AUS_found_austro__hungarian_state_bank: "Found Austro - Hungarian State Bank" #NT!
+ AUS_found_austro__hungarian_state_bank_desc: "..." #NT!
+  
+ AUS_lika_railway: "Lika Railway" #NT!
+ AUS_lika_railway_desc: "..." #NT!
+  
+ AUS_further_investment_in_austrian_lands: "Further Investment in Austrian Lands" #NT!
+ AUS_further_investment_in_austrian_lands_desc: "..." #NT!
+  
+ AUS_breadbasket_of_empire: "Breadbasket of Empire" #NT!
+ AUS_breadbasket_of_empire_desc: "..." #NT!
+  
+ AUS_build_up_industry_in_galicia: "Build up Industry in Galicia" #NT!
+ AUS_build_up_industry_in_galicia_desc: "..." #NT!
+  
+ AUS_support_industry_in_bohemia: "Support Industry in Bohemia" #NT!
+ AUS_support_industry_in_bohemia_desc: "..." #NT!
+  
+ AUS_develop_panonian_basin: "Develop Panonian Basin" #NT!
+ AUS_develop_panonian_basin_desc: "..." #NT!
+  
+ AUS_improve_minority_areas: "Improve Minority Areas" #NT!
+ AUS_improve_minority_areas_desc: "..." #NT!
+  
+ AUS_subsidize_economy_in_austria: "Subsidize Economy in Austria" #NT!
+ AUS_subsidize_economy_in_austria_desc: "..." #NT!
+  
+ AUS_brux_coal_excavation: "Brux Coal Excavation" #NT!
+ AUS_brux_coal_excavation_desc: "..." #NT!
+  
+ AUS_skoda_woks: "Škoda Woks" #NT!
+ AUS_skoda_woks_desc: "..." #NT!
+  
+ AUS_kik_innovations: "Křižík Innovations" #NT!
+ AUS_kik_innovations_desc: "..." #NT!
+  
+ AUS_locomotive_factory_linz: "Lokomotivfabrik Linz" #NT!
+ AUS_locomotive_factory_linz_desc: "..." #NT!
+  
+ AUS_expand_mining_in_carinthia: "Expand Mining in Carinthia" #NT!
+ AUS_expand_mining_in_carinthia_desc: "..." #NT!
+  
+ AUS_modernize_river: "Modernize Fiume" #NT!
+ AUS_modernize_river_desc: "..." #NT!
+  
+ AUS_dalmatian_urban_expansion: "Dalmatian Urban Expansion" #NT!
+ AUS_dalmatian_urban_expansion_desc: "..." #NT!
+  
+ AUS_chamber_of_commerce_and_craft_in_zagreb: "Chamber of Commerce and Craft in Zagreb" #NT!
+ AUS_chamber_of_commerce_and_craft_in_zagreb_desc: "..." #NT!
+  
+ AUS_support_farmers_saving_banks: "Support Farmers Saving Banks" #NT!
+ AUS_support_farmers_saving_banks_desc: "..." #NT!
+  
+ AUS_electrify_empire: "Electrify Empire" #NT!
+ AUS_electrify_empire_desc: "..." #NT!
+  
+ AUS_support_local_industry_and_development_banks: "Support Local Industry and Development Banks" #NT!
+ AUS_support_local_industry_and_development_banks_desc: "..." #NT!
+  
+ AUS_expand_mineral_extraction: "Expand Mineral Extraction" #NT!
+ AUS_expand_mineral_extraction_desc: "..." #NT!
+  
+ AUS_subsidize_light_industry: "Subsidize Light Industry" #NT!
+ AUS_subsidize_light_industry_desc: "..." #NT!
+  
+ AUS_subsidize_alpine_farmers: "Subsidize Alpine Farmers" #NT!
+ AUS_subsidize_alpine_farmers_desc: "..." #NT!
+  
+ AUS_expand_industrial_agriculture: "Expand Industrial Agriculture" #NT!
+ AUS_expand_industrial_agriculture_desc: "..." #NT!
+  
+ AUS_telecomunication_network_in_croatian_lands: "Telecomunication Network in Croatian Lands" #NT!
+ AUS_telecomunication_network_in_croatian_lands_desc: "..." #NT!
+  
+ AUS_fight_galician_poverty: "Fight Galician Poverty" #NT!
+ AUS_fight_galician_poverty_desc: "..." #NT!
+  
+ AUS_expand_salt_and_oil_minning: "Expand Salt and Oil Minning" #NT!
+ AUS_expand_salt_and_oil_minning_desc: "..." #NT!
+  
+ AUS_support_zieleniewski_krakow_factory: "Support Zieleniewski Krakow Factory" #NT!
+ AUS_support_zieleniewski_krakow_factory_desc: "..." #NT!
+  
+ AUS_empires_industrial_heartland: "Empire's Industrial Heartland" #NT!
+ AUS_empires_industrial_heartland_desc: "..." #NT!
+  
+ 		### NATIONAL FOCUSES ARMY ### 
+  
+ AUS_dualism_in_army: "Dualism in the Army" #NT!
+ AUS_dualism_in_army_desc: "As a new internal situation is forming in our lands, we need to adapt our armed forces to this situation. This will be done by negotiation with the Hungarian delegation. We hope that this and follow-up reform will end in making our armed forces one of the best in Europe." #NT!
+  
+ AUS_found_kk_warministry: "Found K. und k. Ministry of War" #NT!
+ AUS_found_kk_warministry_desc: "We would establish a new shared army ministry, which will be a foundation for our new army structure. The creation of the Kaiserlich und königlich Reichskriegsminister (Imperial and Royal Ministry of War) will mean we would have one ministry for both parts of our empire. There we will have a joint high command, with our emperor commander-in-chief, all centralised in Wien (Vienna)." #NT!
+  
+ AUS_reorganize_landwehr: "Reorganise Landwehr" #NT!
+ AUS_reorganize_landwehr_desc: "We’ll reorganise the Landwehr, the territorial forces of the Ciseleithian part of our empire, into the K. und k. Landwehr. This will be another part of our armed forces. With it, we’ll establish the Ministry of National Defence (Landwehr Ministerium) in Wien (Vienna), independent from the K. und K. War Ministry. This will be with Gemeinsame Armee (Common Army) and Honvéd as part of our land forces." #NT!
+  
+ AUS_honvend_formation: "Honvéd Formation" #NT!
+ AUS_honvend_formation_desc: "One of Hungary’s demands in the Compromise of 1867 was to have its defence force. The Royal Hungarian Honvedseg will only operate in the Transleithania part of our empire. We’ll create their own Ministry, the K. u. Honved Ministerium (The Royal Hungarian Defence Ministry), in Budapest independent from the K. und K. War Ministry. This will be with Gemeinsame Armee (Common Army) and Landwehr as part of our land forces." #NT!
+  
+ AUS_reform_conscription: "Reform the Conscription" #NT!
+ AUS_reform_conscription_desc: "We need to reform and reorganise our antique conscription system. We will unite and simplify the whole system. All men between the age of 21 - 32 will need to go through 2-3 years of military service. Then they’ll have a 10-year reserve obligation." #NT!
+  
+ AUS_HUN_unit_elisation: "Unit Specialisation" #NT!
+ AUS_HUN_unit_elisation_desc: "We need to train elite units, who can dominate the battlefields and win the wars for us. These units will have special training to reverse the unfavourable fate of wars to our advantage." #NT!
+  
+ AUS_HUN_alpine_mountainers: "Alpine Mountaineers" #NT!
+ AUS_HUN_alpine_mountainers_desc: "In our land, there are many great mountains such as the Alps and the Carpathian. We can use this fact and recruit people from there to the elite mountaineers division, which could serve greatly to our army during a fight in mountainous regions." #NT!
+  
+ AUS_HUN_elite_jeagers: "Elite Jäger" #NT!
+ AUS_HUN_elite_jeagers_desc: "We will expand the elite Jaeger Division. These huntsmen and the foresters of our empire will become great scouts on rage of the battlefield." #NT!
+  
+ AUS_HUN_reform_heavy_cavalery: "Reform Heavy Cavalry" #NT!
+ AUS_HUN_reform_heavy_cavalery_desc: "Our heavy cavalry didn't change much from the Napoleonic war. We need to reform this truly outdated part of our military to bear the standards of modern military and warfare." #NT!
+  
+ AUS_HUN_expand_hussars: "Expand Hussars Regiments" #NT!
+ AUS_HUN_expand_hussars_desc: "Hungarians and Poles have a long tradition of light cavalry. We could continue and support this tradition. This will be done by reforming and expanding hussars as swift recon units, which can strike enemies at any moment in the rage of battle." #NT!
+  
+ AUS_ethnic_battalions: "Ethnic Battalions" #NT!
+ AUS_ethnic_battalions_desc: "In an empire of ten nationalities and five religions, marked by ethnic conflict and sharp political and economic divisions, the army formed the only real bond among the emperor's subjects and the sole instrument through which loyalty to him could find expression. We will only achieve this by creating ethnically homogeneous battalions." #NT!
+  
+ AUS_mil_slavic: "Military Slavic" #NT!
+ AUS_mil_slavic_desc: "Military Slavic is a human-made group of cca 90 words, which means base military commands. It was made so every Slav of our empire could understand them even without learning them because of the proximity to each language." #NT!
+  
+ AUS_ger_hun_commander_dominance: "Germano-Hungarian Commander Dominance" #NT!
+ AUS_ger_hun_commander_dominance_desc: "After Ausgleich, Hungarians will gain a much greater role in commanding our new reorganised army. Despite these changes, the official commanding language in our armed forces will still be German but with large Hungarian autonomy in the Honvéd part of the military." #NT!
+  
+ AUS_multi_lan_army: "Multi-Language Army" #NT!
+ AUS_multi_lan_army_desc: "The biggest problem with the current structure of our army is that it has multiple nationalities trying to cooperate and fight in the name of the Kaiser. There are multiple ways to fix this huge problem like officers' language education, better division organisation etc. But the main point is that through our reforms, we are trying to fight internal misunderstanding." #NT!
+  
+ AUS_HUN_study_our_lost_war: "Study Last Wars" #NT!
+ AUS_HUN_study_our_lost_war_desc: "We need to study the last wars on which experience we have to adapt our military thinking and doctrines. Only by teaching from our and others' mistakes will our army improve and not by endless hours sitting behind drawing boards." #NT!
+  
+ AUS_HUN_archiduke_albert_conservative_army: "Archduke Albert's Conservative Reform" #NT!
+ AUS_HUN_archiduke_albert_conservative_army_desc: "We need to choose someone who will lead the reorganisation of our tactics. The best man for this job is Archduke Albert Habsburg, Duke of Teschen. He’s a defender of conservative tactics at all costs. He thinks that we need to reform our army but needs to be close to our long military traditions. All of the final major decisions regarding the army will be made by him and his associates." #NT!
+  
+ AUS_HUN_modernize_stoss_taktic: "Modernize Stoß Tactic" #NT!
+ AUS_HUN_modernize_stoss_taktic_desc: "Stoßtaktik is a tactic preferred by our army in which our infantry fight in close quarters with bayonets against the enemy forces. We have shown the world it can be effective, but because of technological innovations, it is starting to be costly and obsolete. We need to learn from the past and rethink our Stoßtaktik and modernise it so it can match the power of the other armies." #NT!
+  
+ AUS_HUN_adapt_napolenic_thoughts: "Adapt Napoleonic Thoughts" #NT!
+ AUS_HUN_adapt_napolenic_thoughts_desc: "Napoleon was one of the greatest strategists who many times defeated our glorious army. We still have much to learn from his military doctrines and tactics. If we want to remain a great power we’d have to adapt his thinking to the modern world." #NT!
+  
+ AUS_HUN_functional_army: "Functional Army" #NT!
+ AUS_HUN_functional_army_desc: "If it works, why would we drastically change it? This can be also implemented in our armed forces. A functional army is what we need at the moment, and we cannot risk any risky experimentation with one of the foundations of our state." #NT!
+  
+ AUS_HUN_Prince_Rudolf_Liberal_Reform: "Prince Rudolf's Progressive Reform" #NT!
+ AUS_HUN_Prince_Rudolf_Liberal_Reform_desc: "Prince Rudolf, the son of our great emperor, Franz Joseph I, is one of the most capable men to lead the army. He’s a true visionary. He’ll insist on progressive reforms in the land forces, which would drift our forces from any shameful defeat in any upcoming war. This will lead to modernising our failed army into a great, undefeatable one." #NT!
+  
+ AUS_HUN_abolish_stoss_taktic: "Abolish Stoß Tactic" #NT!
+ AUS_HUN_abolish_stoss_taktic_desc: "Stoßtaktik is a tactic preferred by our army in which our infantry fight in close quarters with bayonets against the enemy forces. We have shown the world it can be effective, but with modern technology, it starts to be obsolete. We need to stop using this costly nonsense and start caring about our men's lives." #NT!
+  
+ AUS_HUN_new_generation_new_tactics: "New Generation, New Ideas" #NT!
+ AUS_HUN_new_generation_new_tactics_desc: "We’ll fire most of our current military cabinet and fill the new positions with young and talented military theorists. This will lead to the development of new and modern tactics for our army, which will be used in a future war against anyone who dares to attack our great empire. Despite many old commanders’ opposition, we’ll progress our reforms in a way that our reforms will be relevant for many upcoming wars in the future." #NT!
+  
+ AUS_HUN_modern_army: "Modern Army" #NT!
+ AUS_HUN_modern_army_desc: "The new and fresh cabinet will now work on modernising the Imperial and Royal Army’s equipment and tactics. We won’t ever face a shameful defeat anymore. Only with a modern army, we can stay a great power in global politics and defend our rightful place under the sun." #NT!
+  
+ AUS_HUN_Status_of_Artilery: "Status of Artillery" #NT!
+ AUS_HUN_Status_of_Artilery_desc: "Artillery started to become the new king of the battlefield. We need to update our thinking to this unquestionable fact. Every modern army relies on the use of artillery and we would face hard times if we don’t adapt." #NT!
+  
+ AUS_HUN_napoleonic_legacy: "Napoleonic Legacy" #NT!
+ AUS_HUN_napoleonic_legacy_desc: "During the Napoleonic wars artillery was used for the first time in European history on such a scale. We need to continue with this legacy and learn from our past mistakes." #NT!
+  
+ AUS_HUN_en_masse_artilery: "En Masse Artillery" #NT!
+ AUS_HUN_en_masse_artilery_desc: "If we want to maximally use our artillery brigades, we’ll have to use as many artillery pieces at once. This tactic should maximalise our breakthrough in enemy lines." #NT!
+  
+ AUS_HUN_fund_haubitzen_research: "Fund Haubitzen Research" #NT!
+ AUS_HUN_fund_haubitzen_research_desc: "The heavy artillery research lacked funds. We’ll spend some of the new and increased budget towards modernising the artillery technology. We’ll have to establish new research facilities and financially help existing ones." #NT!
+  
+ AUS_HUN_form_reitende_artilleriedivision: "Form Reitende Artilleriedivision" #NT!
+ AUS_HUN_form_reitende_artilleriedivision_desc: "We’ll have to form a new artillery division. Reitende Artillerie Division would be formed by 10 mounted artillery batteries dragged by horses. This new mobile artillery will be a great support to our armed forces." #NT!
+  
+ AUS_HUN_form_field_cannon_experts: "Field Cannon Experts" #NT!
+ AUS_HUN_form_field_cannon_experts_desc: "Artillery has a long tradition in Czech lands. It was used there from the Hussite wars in the 15th century. We need to support this legacy, which may bring us many potential victories on the battlefield. By our actions, we will create a new generation of artillery experts." #NT!
+  
+ AUS_increase_army_budget: "Increase Army Budget" #NT!
+ AUS_increase_army_budget_desc: "Everything has its price. And so has a modern and ready army. We need to increase our army budget to be able to modernise and reform everything we need to." #NT!
+  
+ AUS_modernize_army_equipment: "Modernise Army Equipment" #NT!
+ AUS_modernize_army_equipment_desc: "Modern equipment is the easiest way to victory and save our men's lives. We have to modernise our military gear to keep up with other great powers." #NT!
+  
+ AUS_contract_domestic_companies_mil: "Contracts with Domestic Military Companies" #NT!
+ AUS_contract_domestic_companies_mil_desc: "One of our main arms deliveries has to be from our lands. By this, we will not only ensure that deliveries would not be during war but also some form of national pride. We should try to contact domestic arms designers and sign contracts with them. Only by this, we will become an arms manufacturing powerhouse." #NT!
+  
+ AUS_skoda_artilleries: "Škoda Artilleries" #NT!
+ AUS_skoda_artilleries_desc: "Škoda Works are on the way to becoming one of the biggest arms factories in the whole empire and even Europe. We need to improve their access to state arms contracts. This will not only improve our ability to keep up with our enemies but also guarantee our contracts priority." #NT!
+  
+ AUS_coop_steyr: "Cooperation with Steyr-Mannlicher" #NT!
+ AUS_coop_steyr_desc: "The cooperation of the Austrian arms factory with engineer Ferdinand Manlicher brought in the past many good results. We have to support this team to bring us even greater outcomes of their work." #NT!
+  
+ AUS_HUN_foregin_arms_purchase: "Foreign Arms Purchases" #NT!
+ AUS_HUN_foregin_arms_purchase_desc: "We will use our contacts in the foreign arms market to buy the newest equipment for our forces. Let our arms agents spread through the world and allow us to get hands on the best that the world can offer." #NT!
+  
+ #3# 
+  
+ AUS_reform_officer_ed: "Reform Officers Education" #NT!
+ AUS_reform_officer_ed_desc: "..." #NT!
+  
+ AUS_officer_appointment_question: "Officers Appointment Question" #NT!
+ AUS_officer_appointment_question_desc: "..." #NT!
+  
+ AUS_officer_appointment_noble: "Continue in Noble Officers Supremacy" #NT!
+ AUS_officer_appointment_noble_desc: "We think that our army should stick to the current officer appointment system. By this, we will ensure that the lowborn people won't infect the pureness of our officers corp.  The noble personnel, trained from their youngest years, were always the core of our army. We shouldn't move away from this tradition and protect it as much as is in our power." #NT!
+  
+ AUS_officer_appointment_nonnoble: "Support Non-Noble Officers in the Army" #NT!
+ AUS_officer_appointment_nonnoble_desc: "..." #NT!
+  
+ #2# 
+  
+ AUS_found_mil_tech_academies: "Found Military Technical Academies" #NT!
+ AUS_found_mil_tech_academies_desc: "..." #NT!
+  
+ AUS_talented_officer_fund_ed: "Talented Officers Education Fund" #NT!
+ AUS_talented_officer_fund_ed_desc: "We will create a talented officers fund which would give a stipend to the most talented cadets of our military schools. This move will improve their morale and chance to finish their studies. They will repay it many times to us through their service to the emperor." #NT!
+  
+ AUS_imperial_maneuvers: "Imperial Manoeuvres" #NT!
+ AUS_imperial_maneuvers_desc: "..." #NT!
+  
+ #5# 
+  
+ AUS_HUN_adminastrive_reorganisation_of_army: "Administrative Reorganisation of Army" #NT!
+ AUS_HUN_adminastrive_reorganisation_of_army_desc: "..." #NT!
+  
+ AUS_HUN_new_military_maps_of_empire: "New Military Maps of the Empire" #NT!
+ AUS_HUN_new_military_maps_of_empire_desc: "..." #NT!
+  
+ AUS_HUN_reorganize_military_district: "Reorganize Military Districts" #NT!
+ AUS_HUN_reorganize_military_district_desc: "..." #NT!
+  
+ AUS_HUN_fortfication_of_empire: "Fortification of Our Empire" #NT!
+ AUS_HUN_fortfication_of_empire_desc: "..." #NT!
+  
+ AUS_HUN_alpine_fortress: "Alpine Fortress" #NT!
+ AUS_HUN_alpine_fortress_desc: "..." #NT!
+  
+ #5# 
+  
+ AUS_HUN_fortify_galicia: "Fortify Galicia" #NT!
+ AUS_HUN_fortify_galicia_desc: "..." #NT!
+  
+ AUS_HUN_southern_military_bridgehead: "Southern Military Bridgehead" #NT!
+ AUS_HUN_southern_military_bridgehead_desc: "..." #NT!
+  
+ AUS_HUN_abolish_military_frontiner: "Abolish Military Frontiner" #NT!
+ AUS_HUN_abolish_military_frontiner_desc: "..." #NT!
+  
+ AUS_HUN_relinquish_fortress_status_from_big_cities: "Relinquish Fortress Status from Cities" #NT!
+ AUS_HUN_relinquish_fortress_status_from_big_cities_desc: "..." #NT!
+  
+ AUS_HUN_expand_military_frontiner: "Expand Military Frontiner" #NT!
+ AUS_HUN_expand_military_frontiner_desc: "..." #NT!
   
   ########################### 
   # Austro-Hungarian Events # 
@@ -151,14 +342,13 @@
   ########################## 
   
  AUH_idea_Global_Trade_1873: "Дешёвые зарубежные товары"
+  
  AUH_idea_Trust_Markets_1873: "Простота ведения бизнеса"
+  
  AUS_idea_Prince_Rudolf_reform: "Реформы эрцгерцога Рудольфа"
+  
  AUS_idea_albrechts_conservative_army: "Консервативная армия Альбрехта"
   
   ############################# 
   # Austro-Hungarian Tooltips # 
   ############################# 
-  
- AUS_tt_the_panic_of_1873_damage: "§RМногие из наших заводов и нашей инфраструктуры будут повреждены или разрушены этим кризисом, а наша военная промышленность не сможет работать на полную мощность.§!"
- AUS_tt_the_panic_of_1873_railways_nat: "§GМы восстановим всю поврежденную и разрушенную инфраструктуру.§!\n"
- AUS_tt_the_panic_of_1873_2_civs_returned: "§GМы вернем себе 2 разрушенных гражданских завода.§!\n"

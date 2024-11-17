@@ -12,9 +12,9 @@
  # Decisions 
  EOANBSYS_pandemics_decision_category: "§L[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]§! (Иммунизация: [EOANBSYS_pandemics_progress_scripted][?EOANBSYS_pandemics_progress_var|%1]§!)"
  EOANBSYS_pandemics_decision_category_desc: "\n§RВспышка§! :  §H[EOANBSYS_pandemics_name_scripted]§!\n§SТип§! : [EOANBSYS_pandemics_type_scripted] [EOANBSYS_pandemics_level_scripted]\n§SGПроисхождение§! : [EOANBSYS_pandemics_desc_scripted]\n \n§SВспышки§! происходят, когда болезнь быстро заражает определенную популяцию, вызывая гражданские беспорядки, общественные беспорядки и часто смерть.\n \n§СМммунизация§! отслеживает прогресс вашей нации на пути к ликвидации болезни: §Y[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]§!, и будет продолжать увеличиваться естественным образом §SДвухнедельно§! до тех пор, пока вспышка не будет ликвидирована. Выполнение задач, событий и других действий, связанных со вспышкой, может повысить или понизить уровень Иммунизации вашего населения.\n"
- EOANBSYS_pandemics_progress_counter: "§R[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted] Wave§!"
- EOANBSYS_decisions_pandemics_country_quarantine: "Change Quarantine Laws"
- EOANBSYS_decisions_pandemics_country_quarantine_desc: "Quarintining may save [ROOT.GetAdjective] lives from this §R[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]§!! However, other detriments to the civilian life and the economy may will occur."
+ EOANBSYS_pandemics_progress_counter: "Волна Болезни: §R[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]§!"
+ EOANBSYS_decisions_pandemics_country_quarantine: "Изменить Законы Карантина"
+ EOANBSYS_decisions_pandemics_country_quarantine_desc: "Карантин может спасти [ROOT.GetAdjective] жителей от болензни: §R[EOANBSYS_pandemics_name_scripted] [EOANBSYS_pandemics_level_scripted]§!! Однако могут возникнуть и другие негативные последствия для гражданской жизни и экономики."
   
  # Effects 
  EOANBSYS_pandemics_enable_spread_tt: "§C Мировое Правило§!: §RВключить Распространение Эпидемий§!"

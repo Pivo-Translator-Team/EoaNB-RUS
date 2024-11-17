@@ -35,7 +35,9 @@
  prussia.11.d: "Этот мод даёт вам возможность играть с немецкими названиями провинций в Германии. Хотите включить эту опцию?"
  prussia.11.a: "Да, я хочу немецкие названия."
  prussia.11.b: "Нет, оставьте на русском."
- PRS_event_german_rename_effect_tt: "§YПровинции§! в §YГермании§! будут переименованы в их §Yнемецкие§! названия."
+ prussia.11.c: "No, keep it in English." #NT!
+ PRS_event_germany_rename_effect_tt: "§YStates§! and §Ycities§! in §YGermany§! will be renamed to their §YGerman§! names." #NT!
+ PRS_event_germany_austria_rename_effect_tt: "§YStates§! and §Ycities§! in §YGermany§! and §YAustria§! will be renamed to their §YGerman§! names." #NT!
   
  #ADVISOR EVENTS 
  prussia.16.t: "Александр фон Гумбольдт найден мёртвым!"
@@ -207,6 +209,84 @@
  prussia.98.d: "Теперь названный главным шпионом [PRS.GetLeader], Штибер, похоже, наслаждается раскрытием преступных банд по всей Пруссии. Одна из его самых известных миссий включала расследование фальшивомонетчиков, подрывающих прусские усилия по стандартизации валюты по всей Зольферайну. Проследив за ними в северные районы Вестфалии, он нашел банду и наблюдал за их деятельностью. Во время большого собрания он возглавил команду прусской тайной полиции, чтобы окружить и задержать их. Он также возглавил расследование против прусских спекулянтов на бирже. Несколько человек были вовлечены в незаконную торговлю акциями на Берлинской бирже с использованием методов инсайдерской торговли. Штибер использовал свою сеть в проституционном бизнесе для сбора информации и свидетельств, которые привели к аресту этих мошенников. С тех пор инсайдерская торговля в Пруссии прекратилась."
  prussia.98.a: "Прекрасно!"
   
+ prussia.101.t: "Fear of War in Southern Germany" #NT!
+ prussia.101.d: "There are fears in Southern Germany that the conflict between France and Austria in Italy could spread to German soil. In addition, the Eisenach Declaration of the National Association and its growing influence in Germany caused uncertainty. This could be an opportunity for us to gain favor with the other monarchs of the German Confederation if we invite them to a meeting to calm their worries. However, the convention should take place on neutral grounds in one of the concerned states. Where should we inquire about this?" #NT!
+ prussia.101.a: "Ask the Grand Duke of Baden." #NT!
+ PRS_place_for_meeting_of_crowned_heads_baden_effect_tt: "§YOur relatively amicable relationship with the [BAD.GetName] makes it very likely that they'll react positively.§!\n\n" #NT!
+ prussia.101.b: "Ask the King of Bavaria." #NT!
+ PRS_place_for_meeting_of_crowned_heads_bavaria_effect_tt: "§YOur relatively cold relationship with the [BAV.GetName] makes it less likely that they'll react positively, but it could be an opportunity to get on better terms with them.§!\n\n" #NT!
+ prussia.101.c: "Abandon the idea." #NT!
+ prussia.102.t: "Prussia Suggests a Convention of the Crowned Heads of Germany" #NT!
+ prussia.102.d: "Amidst the current fear of war, the [PRS.GetName] has suggested a convention of the crowned heads of Germany. They specifically asked us to host this convention, since we have appropriate places to welcome these high-born guests and their entourages in our country. This presents an opportunity for us to not only improve our relationship with Prussia, but also to calm our public and increase our prestige in the world." #NT!
+ prussia.102.a: "Agree to a convention at Baden-Baden." #NT!
+ prussia.102.b: "Agree to a convention at Bad Kissingen." #NT!
+ prussia.102.c: "We don't need Prussian interference in our matters." #NT!
+ prussia.103.t: "[FROM.GetNameDef] Accepts to Host Monarchs' Convention" #NT!
+ prussia.103.d_baden: "[BAD.GetNameDef] has accepted to host the suggested monarchs' convention. We can now invite the crowned heads of Germany to Baden-Baden." #NT!
+ prussia.103.d_bavaria: "[BAD.GetNameDef] has accepted to host the suggested monarchs' convention. We can now invite the crowned heads of Germany to Bad Kissingen." #NT!
+ prussia.103.a: "Good news." #NT!
+ prussia.104.t: "[FROM.GetNameDef] Refuses to Host Monarchs' Convention" #NT!
+ prussia.104.d: "[FROM.GetNameDef] has refused to host the suggested monarchs' convention in their country. We could still ask the other monarch or we can let it rest and bury the idea." #NT!
+ prussia.104.a: "Bury the idea." #NT!
+ prussia.104.b: "Ask the Grand Duke of Baden instead." #NT!
+ prussia.104.c: "Ask the King of Bavaria instead." #NT!
+ prussia.105.t_baden: "Invite the Crowned Heads of Germany to Baden-Baden" #NT!
+ prussia.105.t_bavaria: "Invite the Crowned Heads of Germany to Bad Kissingen" #NT!
+ prussia.105.d_baden: "We will invite the crowned heads of Germany to a conference at the beautiful spa city of Baden-Baden, in the [BAD.GetName]. This is the ideal place for such a meeting in which we can assert the other monarchs of our support and mutual understanding. They mustn't fear war on their soil as long as they put their trust in us to prevent this from happening." #NT!
+ prussia.105.d_bavaria: "We will invite the crowned heads of Germany to a conference at the beautiful spa city of Bad Kissingen, in the [BAV.GetName]. This is the ideal place for such a meeting in which we can assert the other monarchs of our support and mutual understanding. They mustn't fear war on their soil as long as they put their trust in us to prevent this from happening." #NT!
+ prussia.105.a: "Alright then, send the invitations!" #NT!
+ PRS_event_invite_crowned_heads_to_a_meeting_baden_effect_tt: "§YWe will invite the monarchs of the other German states (excluding Austria) to a convention. This will improve our mutual relationships. The convention will take place at Baden-Baden and will start in about two months.§!" #NT!
+ PRS_event_invite_crowned_heads_to_a_meeting_bavaria_effect_tt: "§YWe will invite the monarchs of the other German states (excluding Austria) to a convention. This will improve our mutual relationships. The convention will take place at Bad Kissingen and will start in about two months.§!" #NT!
+ prussia.106.t: "An Opportunity to Influence the German States?" #NT!
+ prussia.106.d: "We hear that the [PRS.GetName] is preparing a convention of the crowned heads of Germany to calm their fear of war amidst the current situation in Italy and our resulting differences with the [AUS.GetName]. We've got plenty of reason to talk to the Prussians anyway and could ask them for some of their time?" #NT!
+ prussia.106.a: "Ask to speak the King of Prussia." #NT!
+ prussia.106.b: "Don't get involved." #NT!
+ prussia.107.t: "France Wishes to Speak the King of Prussia" #NT!
+ prussia.107.d_baden: "[FRA.GetLeader] has inquired to speak to our monarch. Since he's very busy with the preparations for the monarchs' convention at Baden-Baden, the king currently does not have sufficient time to meet the French monarch. We could, however, offer [FRA.GetLeader] the opportunity to attend the monarchs' meeting at Baden-Baden. Since he's part of the reason for the Southern German states' fear of war, his presence could be a welcome sign of relief. How should we respond?" #NT!
+ prussia.107.d_bavaria: "[FRA.GetLeader] has inquired to speak to our monarch. Since he's very busy with the preparations for the monarchs' convention at Bad Kissingen, the king currently does not have sufficient time to meet the French monarch. We could, however, offer [FRA.GetLeader] the opportunity to attend the monarchs' meeting at Bad Kissingen. Since he's part of the reason for the Southern German states' fear of war, his presence could be a welcome sign of relief. How should we respond?" #NT!
+ prussia.107.a: "Invite him to the monarchs' convention." #NT!
+ prussia.107.b: "Tell them we've got no time at the moment." #NT!
+ prussia.108.t_baden: "Prussian Invitation to the Monarchs' Convention at Baden-Baden" #NT!
+ prussia.108.t_bavaria: "Prussian Invitation to the Monarchs' Convention at Bad Kissingen" #NT!
+ prussia.108.d_baden: "Since the King of Prussia is very busy with the preparations for the German monarchs' convention, he has invited us to join said convention at Baden-Baden, in the [BAD.GetName]. This would be an opportunity to meet the other German monarchs as well. How should we respond?" #NT!
+ prussia.108.d_bavaria: "Since the King of Prussia is very busy with the preparations for the German monarchs' convention, he has invited us to join said convention at Bad Kissingen, in the [BAV.GetName]. This would be an opportunity to meet the other German monarchs as well. How should we respond?" #NT!
+ prussia.108.a: "Attent the convention." #NT!
+ prussia.108.b: "Refuse to attend the convention." #NT!
+ prussia.109.t: "The King of Prussia is 'currently unavailable'" #NT!
+ prussia.109.d: "In what might be considered a diplomatic insult, the Prussians have reacted to our inquiry by answering that - qoute - 'the King of Prussia is very busy and currently unavailable.' We can only hope that the public does not learn of this insolence, otherwise we might have another war at our hands... Well, not much we can do about it at present." #NT!
+ prussia.109.a: "How dare they?" #NT!
+ prussia.110.t: "France Will Attend Monarchs' Convention" #NT!
+ prussia.110.d_baden: "[FRA.GetNameDef] has responded positively to our invitation to the monarchs' convention at Baden-Baden. They will attend and we will have an even better opportunity to calm the South German states. Additionally, the convention will be a lot more prestigious with [FRA.GetLeader] present." #NT!
+ prussia.110.d_bavaria: "[FRA.GetNameDef] has responded positively to our invitation to the monarchs' convention at Bad Kissingen. They will attend and we will have an even better opportunity to calm the South German states. Additionally, the convention will be a lot more prestigious with [FRA.GetLeader] present." #NT!
+ prussia.110.a: "Sounds good." #NT!
+ prussia.111.t: "France Refuses to Attend Monarchs' Convention" #NT!
+ prussia.111.d_baden: "[FRA.GetNameDef] has responded negatively to our invitation to the monarchs' convention. [FRA.GetLeader] wanted to speak to the King of Prussia in private and has, thus, refused our invitation to Baden-Baden. This means we will miss out on an even better opportunity to calm the South German states and the presence of [FRA.GetLeader] could have made the convention a lot more prestigious as well." #NT!
+ prussia.111.d_bavaria: "[FRA.GetNameDef] has responded negatively to our invitation to the monarchs' convention. [FRA.GetLeader] wanted to speak to the King of Prussia in private and has, thus, refused our invitation to Bad Kissingen. This means we will miss out on an even better opportunity to calm the South German states and the presence of [FRA.GetLeader] could have made the convention a lot more prestigious as well." #NT!
+ prussia.111.a: "Well, well, we'll never fully understand the French, will we?" #NT!
+ prussia.112.t_baden: "German Monarchs' Convention at Baden-Baden" #NT!
+ prussia.112.t_bavaria: "German Monarchs' Convention at Bad Kissingen" #NT!
+ prussia.112.d_baden: "The crowned heads of Germany have gathered at Baden-Baden for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days." #NT!
+ prussia.112.d_bavaria: "The crowned heads of Germany have gathered at Bad Kissingen for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days." #NT!
+ prussia.112.d_baden_france: "The crowned heads of Germany, as well as [FRA.GetLeader] of France, have gathered at Baden-Baden for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days." #NT!
+ prussia.112.d_bavaria_france: "The crowned heads of Germany, as well as [FRA.GetLeader] of France, have gathered at Bad Kissingen for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days." #NT!
+ prussia.112.a: "Let's hope our efforts are not in vain." #NT!
+ prussia.113.t_baden: "German Monarchs' Convention at Baden-Baden" #NT!
+ prussia.113.t_bavaria: "German Monarchs' Convention at Bad Kissingen" #NT!
+ prussia.113.d_baden: "Alongside [FRA.GetLeader], the crowned heads of Germany have gathered at Baden-Baden for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days." #NT!
+ prussia.113.d_bavaria: "Alongside [FRA.GetLeader], the crowned heads of Germany have gathered at Bad Kissingen for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days." #NT!
+ prussia.113.a: "Ah, what a beautiful place!" #NT!
+ FRA_event_german_monarchs_convention_effect_tt: "§YWe will improve our relationship with the German states.§!" #NT!
+ prussia.114.t_baden: "German Monarchs' Convention at Baden-Baden Ends" #NT!
+ prussia.114.t_bavaria: "German Monarchs' Convention at Bad Kissingen Ends" #NT!
+ prussia.114.d_baden: "The monarchs' convention at Baden-Baden has come to an end. Our plan to calm the other monarchs and to restore public peace has largely been successful. We were able to present ourselves in a very positive light and we might have gained an advantage over Austria with our caring and level-headed demeanor." #NT!
+ prussia.114.d_bavaria: "The monarchs' convention at Bad Kissingen has come to an end. Our plan to calm the other monarchs and to restore public peace has largely been successful. We were able to present ourselves in a very positive light and we might have gained an advantage over Austria with our caring and level-headed demeanor." #NT!
+ prussia.114.d_baden_france: "The monarchs' convention at Baden-Baden has come to an end. Our plan to calm the other monarchs and to restore public peace has largely been successful. We were able to present ourselves in a very positive light and we might have gained an advantage over Austria with our caring and level-headed demeanor. The presence of [FRA.GetLeader] of France has further increased the convention's scope and significance." #NT!
+ prussia.114.d_bavaria_france: "The monarchs' convention at Bad Kissingen has come to an end. Our plan to calm the other monarchs and to restore public peace has largely been successful. We were able to present ourselves in a very positive light and we might have gained an advantage over Austria with our caring and level-headed demeanor. The presence of [FRA.GetLeader] of France has further increased the convention's scope and significance." #NT!
+ prussia.114.a: "Great news!" #NT!
+ prussia.115.t: "Hidden Event to Clear Flags after the Convention" #NT!
+ prussia.115.d: "This is supposed to be hidden." #NT!
+ prussia.115.a: "Hidden." #NT!
+  
  #Monuments 
  prussia.171.t: "Кёльнский собор - интерьер завершён"
  prussia.171.d: "После более чем 300 лет болезненной паузы на строительной площадке Кёльнского собора, финальная фаза завершения величайшей церкви Германии началась при покойном короле Фридрихе Вильгельме IV в 1842 году. Теперь, спустя более двадцати лет после церемонии закладки, неф и трансепт собора завершены, что означает, что внутреннее пространство наконец почти полностью доступно."
@@ -267,6 +347,7 @@
  prussia.204.t: "Немецкий национальный союз"
  prussia.204.d: "Жестокое обострение борьбы за объединение Италии вызвало шоковую волну по всему континенту. Особенно в раздробленной Германии идеи национального государства нашли очень плодотворную почву. Одним из главных сторонников объединенной немецкой нации был основанный сразу после австро-сардинской войны - Немецкий национальный союз или 'Deutscher Nationalverein.' Образованный либералами и умеренными демократами, союз поддерживал создание немецкого государства под руководством Пруссии без участия Австрии."
  prussia.204.a: "От Мааса до Мемеля, от Эчи до Бельта..."
+ PRS_second_eisenach_effect_tt: "§YThis will slightly worsen our relationship with the other German states, as the Nationalverein has declared their support for a German unification under Prussia, if need be by use of military force.§!\n\n" #NT!
  prussia.205.t: "Парламент согласен"
  prussia.205.d: "Большинство в парламенте поддерживает представленный план реформ, который поставит армию под более строгий контроль законодательных органов."
  prussia.205.a: "Замечательно!"
@@ -503,6 +584,7 @@
  prussia.305.t: "Экспедиция Эйленбурга возвращается"
  prussia.305.d: "После почти двух лет экспедиция Эйленбурга причалила в порту Данцига сегодня утром. Мы должны тепло их встретить после столь долгого и успешного путешествия."
  prussia.305.a: "Добро пожаловать домой."
+ PRS_eulenburg_expedition_effect_tt: "The §YEulenburg Expedition§! returns home successfully, two of three ships have returned to Danzig. Prussia has proven that it can effectively represent all §YZollverein§! states internationally. This will improve our relations with the other §YZollverein§! members." #NT!
  prussia.306.t: "Продажа Кюрасао?"
  prussia.306.d: "[PRS.GetAdjective] недавно обратились к нам с интересным предложением: они хотят купить остров Кюрасао. Мы могли бы воспользоваться политическими и экономическими преимуществами, которые они предложили в обмен, но стоит ли это того?"
  prussia.306.a: "Мы продадим им Кюрасао!"
@@ -520,6 +602,9 @@
  prussia.310.t: "Все члены Полицайферайна сотрудничают"
  prussia.310.d: "Все члены Полицайферайна сотрудничают, чтобы обеспечить наилучший шанс на успех в нашей цели — ограничить количество политической пропаганды, которая контрабандой проникает в страну. С полным участием всех членов большинство лазеек в системе наблюдения были закрыты. Преступникам будет очень сложно отравить умы нашего народа своими опасными идеями в будущем."
  prussia.310.a: "Превосходно."
+ prussia.311.t: "All Polizeiverein Members Collaborating" #NT!
+ prussia.311.d: "All members of the Polizeiverein are collaborating to ensure the best chance of success for our goal to limit the amount of political propaganda being smuggled into the country. With all members on board, most loopholes in the surveillance network have been closed. It will be very hard for those criminals to poison the minds of our people with their dangerous ideas in the future." #NT!
+ prussia.311.a: "Hervorragend." #NT!
  prussia.312.t: "Конец кризиса в Невшателе"
  prussia.312.d: "Наши отношения с княжеством Невшатель были... натянутыми на протяжении последнего столетия. Мы получили его в 1707 году, и за последующее столетие оно дважды переходило из наших рук к французам. В 1815 году Фридрих Вильгельм III Прусский решил позволить маленькому княжеству присоединиться к Швейцарской Конфедерации, оставаясь при этом под нашим фактическим контролем. Однако в 1848 году эти неблагодарные псы восстали против нашего правления! С тех пор мы отстаиваем наши права на этот регион. Мы надеялись, что швейцарцы уступят, так как лоялисты Невшателя восстали, но при поддержке британцев они отвергли наши притязания. Мы вынуждены признать независимость этого маленького региона."
  prussia.312.a: "Этот позор на чести Королевства Пруссия не будет забыт."
@@ -577,7 +662,7 @@
  prussia.514.t: "Купить предложенные Пруссией оружия?"
  prussia.514.d: "Пруссаки обратились к нам с предложением купить некоторые из их устаревших орудий по низкой цене. Хотя на рынке есть более современные модели, это могло бы стать хорошим пополнением нашего арсенала. Как нам поступить?"
  prussia.514.a: "Принять их предложение."
- prussia.514.b: "Нам не нужно оружие от Пруссии." 
+ PRS_weapons_deal_ACW_effect_tt: "We will soon receive §Ypayments for the weapons deal§! with the Americans." #NT!
  prussia.515.t: "Американцы согласны купить наше оружие"
  prussia.515.d: "[FROM.GetNameDef] согласились купить наше оружие. Мы можем заключить оружейную сделку."
  prussia.515.a: "Очень хорошо."
@@ -750,9 +835,9 @@
  prussia.840.t: "Расширение военно-морской инфраструктуры начало приносить плоды"
  prussia.840.d: "Мы успешно начали расширение нашей военно-морской инфраструктуры. Эти усилия начинают приносить плоды, и наш флот, безусловно, выиграет от этого. Давайте постараемся развивать это."
  prussia.840.a: "Продолжаем!"
- prussia.841.t: "Расширение военно-морской инфраструктуры успешно завершено"
- prussia.841.d: "Мы успешно завершили расширение нашей военно-морской инфраструктуры. Эти усилия, безусловно, помогут нашему флоту, когда придет время."
- prussia.841.a: "Отлично!"
+ prussia.840.b: "Don't issue the bonds. We can manage with what we have." #NT!
+ PRS_navy_bonds_ngc_warning_effect_tt: "\n\n§RWARNING: We will not get the opportunity to order more foreign warships and expanding the port and dockyard infrastructure will be more complicated as a result. Also, taking loans or issuing currency to finance projects later will increase inflation more drastically.§!" #NT!
+  
  prussia.842.t: "Церемония смены названия"
  prussia.842.d: "После успешного завершения плана расширения порта Хагена в Ядебухте, зарождающийся город был переименован в 'Вильгельмсхафен' на сегодняшней церемонии. Хотя это пока что скромный городок, план Хагена оставляет место для более масштабных строительных работ в будущем."
  prussia.842.a: "Да здравствует король Вильгельм!"
@@ -863,32 +948,23 @@
  prussia.916.b: "Провал..."
  prussia.916.c: "Ничья, нам придется голосовать снова..."
   
+  
  ### MISSIONS & DECISIONS ### 
  #Political Decisions 
  PRS_decision_ask_HAN_access: "Попросить Ганновер о военном доступе"
  PRS_decision_ask_HAN_access_desc: "Мы владеем некоторыми территориями по ту сторону Рейна, и страна Ганновер контролирует важные пути снабжения, ведущие в эти регионы. Нам следует попросить их о военном доступе, чтобы обеспечить снабжение наших войск в тех местах."
  PRS_decision_offer_guns_USA: "Предложить оружие американцам"
  PRS_decision_offer_guns_USA_desc: "Американцы увязли в огромной гражданской войне. Это может стать хорошей возможностью сбыть устаревшее оружие. Стоит ли сделать предложение?"
- PRS_decision_sell_guns_USA: "Продать оружие американцам"
- PRS_decision_sell_guns_USA_desc: ""
+ PRS_decision_offer_guns_CSA: "Offer Guns to the Confederates" #NT!
+ PRS_decision_offer_guns_CSA_desc: "The Americans are tangled up in a massive civil war. This could be a great opportunity to sell off some outdated guns. Should we make an offer to the Confederates?" #NT!
  PRS_decision_sending_scheibert_acw: "Отправить Шайберта для наблюдения за гражданской войной в Америке"
  PRS_decision_sending_scheibert_acw_desc: ""
  PRS_decision_sending_scheibert_acw_effect_tt: "Капитан Шайберт останется в Америке до окончания войны или до тех пор, пока не усвоит достаточно уроков."
- PRS_decision_second_eisenach: "Вторая Эйзенахская декларация"
- PRS_decision_second_eisenach_desc: "Попытка улучшить наши отношения с малыми германскими государствами может помочь нам в нашем стремлении к объединению."
- PRS_decision_second_eisenach_effect_tt: "§GПруссия улучшит свои отношения с малыми германскими государствами.§!"
  PRS_decision_recognize_italy: "Дипломатическое признание Италии"
  PRS_decision_recognize_italy_desc: ""
  PRS_decision_recognize_italy_effect_tt: "Это §Gулучшит§! наши отношения с Италией, но §Rухудшит§! наши отношения с Австрией."
- PRS_decision_landsturm_regiments: "Полки Ландштурма"
- PRS_decision_landsturm_regiments_desc: "Мы проигрываем войну в Южной Германии, поэтому призовём новые полки, чтобы помочь нам."
- PRS_decision_landsturm_regiments_effect_tt: "Мы получим три полка Ландштурма в Берлине."
-  
- #Economic Decisions 
- PRS_mission_eighteenseventhreecrisis: "Кризис золотого краха 1873 года"
- PRS_mission_eighteenseventhreecrisis_desc: ""
- PRS_decision_westfalen_coal: "Расширение угольной промышленности Вестфалии"
- PRS_decision_westfalen_coal_desc: "В земле Вестфалия под поверхностью скрыто немало угля — нам следует профинансировать добычные операции в этом регионе."
+ PRS_decision_invite_crowned_heads_to_a_meeting: "Invite the Crowned Heads of Germany to a Meeting" #NT!
+ PRS_decision_invite_crowned_heads_to_a_meeting_desc: "We will make the necessary preparations to invite the crowned heads of Germany to a meeting. The resulting costs will be split between us and the host country." #NT!
   
  #Zollverein 
  PRS_decision_category_zollverein: "Администрация Zollverein"
@@ -965,6 +1041,8 @@
  #Prussian Industry 
  PRS_decision_category_industrialisation: "Прусская индустриализация"
  PRS_decision_category_industrialisation_desc: "§YПруссия§! стремительно индустриализируется, в этом нет сомнений, но наши конкуренты в Европе и за её пределами тоже не стоят на месте. Хотя мы в целом поддерживаем §Yсвободу частного предпринимательства§!, нам нужно найти способ поддержать бизнесы и предприятия, которые могут значительно усилить экономическую мощь нашей страны. Некоторые §Yпредприниматели§! уже привлекли внимание общественности, и было бы выгодно поддержать их через различные административные каналы. Мы также можем инвестировать в §Yинфраструктуру§! страны, чтобы способствовать внутренней торговле и мобильности."
+ PRS_decision_westfalen_coal: "Расширение угольной промышленности Вестфалии"
+ PRS_decision_westfalen_coal_desc: "В земле Вестфалия под поверхностью скрыто немало угля — нам следует профинансировать добычные операции в этом регионе."
  PRS_decision_expand_berlin_stock_exchange: "Расширить Берлинскую биржу"
  PRS_decision_expand_berlin_stock_exchange_desc: ""
  PRS_decision_prussian_consortium: "Создать Preußen-Konsortium"
@@ -974,37 +1052,42 @@
  PRS_mission_berlin_anhalt_rail_trigger_tt_1: "£railroad_connection_texticon Железнодорожное сообщение между\n §YБерлином§! и §YМагдебургом§!\n"
  PRS_mission_berlin_anhalt_rail_trigger_tt_2: "£railroad_connection_texticon Железнодорожное сообщение между\n §YБерлином§! и §YХалле§!\n"
  PRS_mission_berlin_anhalt_rail_trigger_tt_3: "£railroad_connection_texticon Железнодорожное сообщение между\n §YМагдебургом§! и §YХалле§!\n"
+ PRS_decision_expand_berlin_anhalt_rail: "Expand the Berlin-Anhalt Railway Network" #NT!
+ PRS_decision_expand_berlin_anhalt_rail_desc: "" #NT!
  PRS_mission_silesia_rail: "Расширить Силезские железные дороги"
  PRS_mission_silesia_rail_desc: ""
  PRS_mission_silesia_rail_trigger_tt_1: "£railroad_connection_texticon Железнодорожное сообщение между §YГлогау§! и §YЛисса§!\n"
+ PRS_decision_expand_silesia_rail: "Expand the Silesian Railway Network" #NT!
+ PRS_decision_expand_silesia_rail_desc: "" #NT!
  PRS_mission_ostbahn_rail: "Завершить Прусскую восточную железную дорогу"
  PRS_mission_ostbahn_rail_desc: ""
  PRS_mission_ostbahn_rail_trigger_tt_1: "£railroad_connection_texticon Устранить разрыв в соединении между\n §YЛандсбергом§! и §YКройцем§!\n"
  PRS_mission_ostbahn_rail_trigger_tt_2: "£railroad_connection_texticon Железнодорожное сообщение между\n §YБерлином§! и §YДанцигом§!\n"
  PRS_mission_ostbahn_rail_trigger_tt_3: "£railroad_connection_texticon Железнодорожное сообщение между\n §YДанцигом§! и §YКёнигсбергом§!\n"
  PRS_mission_ostbahn_rail_trigger_tt_4: "£railroad_connection_texticon Железнодорожное сообщение между\n §YКёнигсбергом§! и §YEydtkuhnen§!\n"
+ PRS_decision_finish_ostbahn_rail: "Finish the Preußische Ostbahn" #NT!
+ PRS_decision_finish_ostbahn_rail_desc: "" #NT!
  PRS_mission_rhineland_rail: "Расширить Рейнские железные дороги"
  PRS_mission_rhineland_rail_desc: ""
  PRS_mission_rhineland_rail_trigger_tt_1: "£railroad_connection_texticon Железнодорожное сообщение между\n §YКёльном§! и §YКобленцем§!\n"
  PRS_mission_rhineland_rail_trigger_tt_2: "£railroad_connection_texticon Железнодорожное сообщение между\n §YКобленцем§! и §YМайнцем§!\n"
  PRS_mission_rhineland_rail_trigger_tt_3: "£railroad_connection_texticon Железнодорожное сообщение между\n §YКёльном§! и §YТриром§!\n"
  PRS_mission_rhineland_rail_trigger_tt_4: "£railroad_connection_texticon Железнодорожное сообщение между\n §YТриром§! и §YСаарбрюккеном§!\n"
- PRS_decision_rheinland_steel: "Рейнская сталь"
- PRS_decision_rheinland_steel_desc: ""
- PRS_decision_silesian_steel: "Силезская сталь"
- PRS_decision_silesian_steel_desc: ""
+ PRS_decision_expand_rhineland_rail: "Expand Rhineland Railway Network" #NT!
+ PRS_decision_expand_rhineland_rail_desc: "" #NT!
+ PRS_decision_support_rhineland_steel_industry: "Support Rhineland Steel Industry" #NT!
+ PRS_decision_support_rhineland_steel_industry_desc: "" #NT!
+ PRS_decision_support_silesian_steel_industry: "Support Silesian Steel Industry" #NT!
+ PRS_decision_support_silesian_steel_industry_desc: "" #NT!
+ PRS_decision_acquire_locomotives: "Acquire Locomotives" #NT!
+ PRS_decision_acquire_locomotives_desc: "" #NT!
+ PRS_decision_acquire_locomotives_effect_tt: "§YIf §GAlbert Borsig§! serves us as an advisor or we have a company partnership with §GBorsig Maschinenbau-Anstalt§!, this will also §Greduce unemployment§!.§!" #NT!
  PRS_mission_borsig_berlin: "Borsig Maschinenbau-Anstalt (Берлин)"
  PRS_mission_borsig_berlin_desc: ""
- PRS_decision_support_borsig: "Поддержать Альберта Борсига"
- PRS_decision_support_borsig_desc: ""
  PRS_mission_krupp_factories: "Krupp-Gussstahlfabrik (Эссен)"
  PRS_mission_krupp_factories_desc: ""
- PRS_decision_support_krupp: "Поддержать Альфреда Круппа"
- PRS_decision_support_krupp_desc: ""
  PRS_mission_siemens_halske: "Telegraphen-Bauanstalt Siemens & Halske (Берлин)"
  PRS_mission_siemens_halske_desc: ""
- PRS_decision_support_siemens: "Поддержать Вернера Сименса"
- PRS_decision_support_siemens_desc: ""
  PRS_mission_vulcan_ag: "Vulcan AG (Штеттин)"
  PRS_mission_vulcan_ag_desc: ""
  PRS_decision_spandau_arsenal: "Завершить перенос Королевского арсенала"
@@ -1019,10 +1102,14 @@
  #Prussian Urbanization 
  PRS_decision_category_urbanization: "Прусская урбанизация"
  PRS_decision_category_urbanization_desc: "Крупные §Yгорода в Пруссии§! ежедневно привлекают новых жителей и, таким образом, быстро растут. Тысячи людей из сельской местности переезжают в §Yгородские и промышленные центры§! нашей развивающейся нации, и мы должны постараться извлечь выгоду из этого развития. Больше людей, живущих вблизи индустриального центра, означает §Yлучшие возможности для роста§! для прусских предприятий и заводов, что, в свою очередь, должно ещё больше ускорить наш §Yпроцесс индустриализации§!."
+ PRS_decision_stettin_sewerage_system: "Construct a Sewerage System in Stettin" #NT!
+ PRS_decision_stettin_sewerage_system_desc: "" #NT!
  PRS_mission_hobrecht_plan: "Реализовать план Хобехта"
  PRS_mission_hobrecht_plan_desc: ""
  PRS_decision_berlin_urbanization: "Поощрять урбанизацию Берлина"
  PRS_decision_berlin_urbanization_desc: ""
+ PRS_decision_berlin_sewerage_system: "Construct a Sewerage System in Berlin" #NT!
+ PRS_decision_berlin_sewerage_system_desc: "" #NT!
  PRS_mission_ruhr_urbanization: "Урбанизация Рура"
  PRS_mission_ruhr_urbanization_desc: ""
  PRS_decision_ruhr_urbanization: "Поощрять урбанизацию Рура"
@@ -1064,8 +1151,8 @@
  PRS_decision_heeresreform_new_tactics_desc: ""
  PRS_decision_heeresreform_war_games: "Heeresreform - военные игры"
  PRS_decision_heeresreform_war_games_desc: ""
- PRS_decision_heeresreform_no_noble_privilege: "Heeresreform - конец привилегиям знати"
- PRS_decision_heeresreform_no_noble_privilege_desc: ""
+ PRS_decision_heeresreform_end_noble_privileges: "Heeresreform - End Noble Privileges" #NT!
+ PRS_decision_heeresreform_end_noble_privileges_desc: "" #NT!
  PRS_decision_heeresreform_strenghten_generalstab: "Heeresreform - усиление Генерального штаба"
  PRS_decision_heeresreform_strenghten_generalstab_desc: ""
  PRS_heeresreform_measure_in_progress: " §GМера по реформе армии в процессе.§!"
@@ -1092,8 +1179,8 @@
  PRS_decision_smear_campaign_desc: ""
  PRS_decision_collaborate_with_other_parties: "Сотрудничать с другими партиями"
  PRS_decision_collaborate_with_other_parties_desc: ""
- PRS_decision_invent_administrative_barriers: "Подготовить административные барьеры для нежелательных избирателей"
- PRS_decision_invent_administrative_barriers_desc: ""
+ PRS_decision_impose_administrative_barriers: "Impose Administrative Barriers for Undesired Voters" #NT!
+ PRS_decision_impose_administrative_barriers_desc: "" #NT!
  PRS_decision_election_campaign_effect_tt: "§GЭто может способствовать успеху консервативной избирательной кампании.§!"
  PRS_electoral_corruption_in_progress_flag: " §GИзбирательная коррупция в процессе§!"
   
@@ -1105,6 +1192,13 @@
  PRS_decision_eulenburg_expedition_start_effect_tt: "Корабли §YSMS Arcona, SMS Thetis и Frauenlob§! отплывут в Японию, и взаимодействовать с ними будет невозможно до их возвращения. События будут происходить время от времени до возвращения экспедиции домой."
  PRS_mission_hagens_expansion_plan: "План расширения порта Хагена"
  PRS_mission_hagens_expansion_plan_desc: ""
+ PRS_decision_invest_into_jade_bight_port: "Invest into Jade Bight Port Infrastructure" #NT!
+ PRS_decision_invest_into_jade_bight_port_desc: "We should make the necessary investments into the port infrastructure at the Jade Bight in order to implement Gotthilf Hagen's plan." #NT!
+ PRS_decision_invest_into_jade_bight_dockyard: "Invest into Jade Bight Dockyard Infrastructure" #NT!
+ PRS_decision_invest_into_jade_bight_dockyard_desc: "We should make the necessary investments into the dockyard infrastructure at the Jade Bight in order to implement Gotthilf Hagen's plan." #NT!
+ PRS_decision_invest_into_jade_bight_settlement: "Invest into Jade Bight Settlement" #NT!
+ PRS_decision_invest_into_jade_bight_settlement_desc: "We should make the necessary investments into the settlement at the Jade Bight to implement Gotthilf Hagen's plan." #NT!
+ PRS_jade_bight_expansion_in_progress: " §GJade Bight Expansion in Progress.§!" #NT!
  PRS_mission_build_high_sea_fleet: "Создать флот открытого моря"
  PRS_mission_build_high_sea_fleet_desc: ""
  PRS_decision_issue_bonds_for_ships: "Выпустить облигации для финансирования расширения флота"
@@ -1145,7 +1239,6 @@
  PRS_decision_detach_navy_ministry_effect_tt: "Это отделит §Gморское министерство§! от командования армией, сделав его независимым ведомством нашего военного управления. §GПринц Адальберт§! возьмёт на себя руководство министерством."
  PRS_decision_issue_bonds_for_ships_ngc: "Выпустить облигации для финансирования Бундесфлота"
  PRS_decision_issue_bonds_for_ships_ngc_desc: ""
- PRS_decision_issue_bonds_for_ships_ngc_effect_tt: "§GЭто также позволит нам заказывать корабли за границей.§!"
  PRS_decision_ask_ENG_for_ships_3: "Разместить ещё один заказ на военные корабли в Великобритании"
  PRS_decision_ask_ENG_for_ships_3_desc: ""
  PRS_decision_order_ships_from_ENG_3: "Заказать корабли в Великобритании"
@@ -1153,13 +1246,22 @@
  PRS_decision_order_ships_from_ENG_3_effect_tt: "§GМы приобретём ещё четыре военных корабля у §YАнглии§!, чтобы усилить наш флот.§!"
  PRS_decision_establish_wilhelmshaven_war_port: "Создать военный порт Вильгельмсхафен"
  PRS_decision_establish_wilhelmshaven_war_port_desc: ""
+ PRS_decision_proclaim_wilhelmshaven_war_port: "Proclaim Kriegshafen Wilhelmshaven" #NT!
+ PRS_decision_proclaim_wilhelmshaven_war_port_desc: "" #NT!
  PRS_decision_establish_kiel_war_port: "Создать военный порт Киль"
  PRS_decision_establish_kiel_war_port_desc: ""
- PRS_mission_expand_kiel_dockyard: "Расширить Королевскую верфь Киль"
- PRS_mission_expand_kiel_dockyard_desc: ""
- PRS_mission_expand_danzig_dockyard: "Расширить Королевскую верфь Данциг"
- PRS_mission_expand_danzig_dockyard_desc: ""
- PRS_decision_naval_infrastructure_effect_tt: "§GЭто будет способствовать развитию нашей военно-морской инфраструктуры.§!"
+ PRS_decision_proclaim_kiel_war_port: "Proclaim Kriegshafen Kiel" #NT!
+ PRS_decision_proclaim_kiel_war_port_desc: "" #NT!
+ PRS_decision_invest_into_kiel_dockyards: "Invest into Kiel Dockyards" #NT!
+ PRS_decision_invest_into_kiel_dockyards_desc: "" #NT!
+ PRS_decision_invest_into_danzig_dockyards: "Invest into Danzig Dockyards" #NT!
+ PRS_decision_invest_into_danzig_dockyards_desc: "" #NT!
+ PRS_mission_expand_wilhelmshaven_port_infrastructure: "Expand Königliche Werft Wilhelmshaven" #NT!
+ PRS_mission_expand_wilhelmshaven_port_infrastructure_desc: "" #NT!
+ PRS_mission_expand_kiel_port_infrastructure: "Expand Königliche Werft Kiel" #NT!
+ PRS_mission_expand_kiel_port_infrastructure_desc: "" #NT!
+ PRS_mission_expand_danzig_port_infrastructure: "Expand Königliche Werft Danzig" #NT!
+ PRS_mission_expand_danzig_port_infrastructure_desc: "" #NT!
   
  #Second Schleswig War 
  PRS_decision_category_sh_question: "Вопрос Шлезвига-Гольштейна"
@@ -1232,9 +1334,6 @@
  #Politics of the North German Confederation 
  PRS_decision_category_NGC_politics: "Политика Северогерманского союза"
  PRS_decision_category_NGC_politics_desc: "§YНемецкий дуализм§! наконец завершился — и мы вышли победителями. Теперь пришло время пожинать плоды ситуации и §Yутвердить наше господство§!, как в §YСеверогерманском союзе§!, так и в §YГермании§! в целом. Прежде всего, нам нужно закрепить полученные достижения и §Yконсолидировать новый союз§!. После этого мы можем попытаться сделать наши институты более §Yпривлекательными для южногерманских государств§!."
- PRS_decision_core_seven_weeks_war: "Административная реформа Северной Германии"
- PRS_decision_core_seven_weeks_war_desc: "После победы в войне с Австрией некоторые новые территории перешли под наш контроль. Независимо от того, контролируем ли мы их напрямую или косвенно, мы должны работать над их интеграцией в наш административный комплекс!"
- PRS_decision_core_seven_weeks_war_effect_tt: "§YМалые немецкие государства§! потеряют свои ядра на этих территориях."
  PRS_mission_draft_constitution: "Разработать конституцию"
  PRS_mission_draft_constitution_desc: ""
  PRS_mission_draft_constitution_trigger_tt: "§RВремя на исходе!§! §GУчредительный Рейхстаг§! должен как можно скорее решить все §Yвосемь§! §Gконституционных вопросов§! и подготовить §Gпроект конституции§!, иначе мы столкнёмся с политическими проблемами. Длительная неопределённость не только ухудшит нашу репутацию; она также может поставить под угрозу стабильность недавно сформированного союза..."
@@ -1265,6 +1364,11 @@
  PRS_decision_budget_and_taxes: "Конституционный вопрос: Бюджет и налоги"
  PRS_decision_budget_and_taxes_desc: ""
  PRS_decision_budget_and_taxes_trigger_tt: "Сначала нужно решить §Gконституционный вопрос§! об §Gоплате и привилегиях§!."
+ PRS_decision_core_seven_weeks_war: "Административная реформа Северной Германии"
+ PRS_decision_core_seven_weeks_war_desc: "После победы в войне с Австрией некоторые новые территории перешли под наш контроль. Независимо от того, контролируем ли мы их напрямую или косвенно, мы должны работать над их интеграцией в наш административный комплекс!"
+ PRS_decision_core_seven_weeks_war_effect_tt: "§YМалые немецкие государства§! потеряют свои ядра на этих территориях."
+ PRS_decision_confiscate_hanover_assets: "Confiscate the Assets of the Royal House of Hanover" #NT!
+ PRS_decision_confiscate_hanover_assets_desc: "Our victory over the Kingdom of Hanover gives us the opportunity to confiscate the state treasury of the former Royal House of Guelphs. This would certainly not go down well with everyone, but the former Hanoverian king, George V, never misses an opportunity to stir up trouble abroad against Prussia and the North German Confederation. He has allegedly even mobilised a small band of volunteers, calling themselves the ‘Guelphic Legion’, to fight against us in a future war! In view of these circumstances, the confiscation of the state treasury would be a legitimate means of combating these Guelphic agitations." #NT!
  PRS_decision_denominational_equality: "Принять закон о равенстве вероисповеданий"
  PRS_decision_denominational_equality_desc: ""
  PRS_decision_freedom_of_movement: "Принять закон о свободе передвижения"
@@ -1347,32 +1451,6 @@
  PRS_decision_force_free_trade_desc: ""
  PRS_liberalization_in_progress_flag: " §GМеры по либерализации в процессе§!"
   
- #German Unification 
- GER_decision_category_unite_liberal_republic: "Объединение Германии (Либеральная Республика)"
- GER_decision_category_unite_liberal_republic_desc: ""
- GER_decision_unite_liberal_republic: "Объединить немецкие государства!"
- GER_decision_unite_liberal_republic_desc: "Мы объединим немецкие государства под одним знаменем, с идеалами либерализма и свободы!"
- GER_decision_unite_liberal_republic_trigger_tt: "§Y[Root.GetNameDef]§! — республика и владеет большинством важных немецких государств, а также либо §Y[8.GetName]§!, либо §Y[28.GetName]§!, либо обеими."
- GER_decision_unite_liberal_republic_effect_tt: "§GМы объединим Германию как либеральную республику!§!\n\n"
- GER_decision_category_unite_liberal_monarchy: "Объединение Германии (Либеральная Монархия)"
- GER_decision_category_unite_liberal_monarchy_desc: ""
- GER_decision_unite_liberal_monarchy: "Объединить немецкие государства!"
- GER_decision_unite_liberal_monarchy_desc: "Мы объединим немецкие государства под одним императором, с идеалами либерализма и свободы!"
- GER_decision_unite_liberal_monarchy_trigger_tt: "§Y[Root.GetNameDef]§! — монархия и владеет большинством важных немецких государств, а также либо §Y[8.GetName]§!, либо §Y[28.GetName]§!, либо обеими."
- GER_decision_unite_liberal_monarchy_effect_tt: "§GМы объединим Германию как либеральную монархию!§!\n\n"
- GER_decision_category_unite_bismarck: "Объединение Германии (Бисмарк)"
- GER_decision_category_unite_bismarck_desc: ""
- GER_decision_unite_bismarck: "Объединить немецкие государства!"
- GER_decision_unite_bismarck_desc: "Мы объединим немецкие государства под одним знаменем, как это предложил Бисмарк — как авторитарную империю!"
- GER_decision_unite_bismarck_trigger_tt: "§Y[Root.GetNameDef]§! владеет большинством важных немецких государств, а также либо §Y[8.GetName]§!, либо §Y[28.GetName]§!, либо обеими."
- GER_decision_unite_bismarck_effect_tt: "§GМы объединим Германию как авторитарную империю!§!\n\n"
- GER_decision_category_unite_socialist: "Объединение Германии (Социалистическое)"
- GER_decision_category_unite_socialist_desc: ""
- GER_decision_unite_socialist: "Объединить немецкие государства!"
- GER_decision_unite_socialist_desc: "Мы объединим немецкие государства под одним знаменем, с идеалами социализма!"
- GER_decision_unite_socialist_trigger_tt: "§Y[Root.GetNameDef]§! владеет большинством важных немецких государств."
- GER_decision_unite_socialist_effect_tt: "§GМы объединим Германию как социалистическое государство!§!\n\n"
-  
  #Integrating Political Decisions after 7WW Tie 
  eoanb_om_PRS_annex_NGC_subject: "Интеграция Субъекта"
  eoanb_tt_decision_PRS_annex_SCH: "§YШлезвиг-Гольштейн§! будет аннексирован §YПруссией§! и утратит свои корни."
@@ -1414,17 +1492,7 @@
  eoanb_decision_PRS_annex_NGC_NAS_desc: "Мы расширим своё влияние в Северогерманском союзе, административно интегрировав Нассау."
  eoanb_decision_PRS_annex_NGC_FRK: "Интегрировать Франкфурт"
  eoanb_decision_PRS_annex_NGC_FRK_desc: "Мы расширим своё влияние в Северогерманском союзе, административно интегрировав Франкфурт."
- eoanb_flag_war_over_south_germany: "Социалисты в Пруссии начали войну за Южную Германию."
- eoanb_decision_PRS_intervention_by_FRA: "Интервенция против Пруссии"
- eoanb_decision_PRS_intervention_by_FRA_desc: "Прусские социалисты начали войну против южногерманских государств, чтобы объединить расколотую страну. Мы не можем допустить социалистическую державу в центре Европы, особенно такую могущественную, какой может стать объединённая Германия.\n\n§RНам нужно не дать им захватить Баварию, иначе они победят, несмотря на нашу интервенцию.§!"
- eoanb_decision_PRS_intervention_by_AUS: "Интервенция против Пруссии"
- eoanb_decision_PRS_intervention_by_AUS_desc: "Прусские социалисты начали войну против южногерманских государств, чтобы объединить расколотую страну. Мы не можем допустить социалистическую державу в центре Европы, особенно такую могущественную, какой может стать объединённая Германия.\n\n§RНам нужно не дать им захватить Баварию, иначе они победят, несмотря на нашу интервенцию.§!"
- eoanb_decision_PRS_intervention_by_RUS: "Интервенция против Пруссии"
- eoanb_decision_PRS_intervention_by_RUS_desc: "Прусские социалисты начали войну против южногерманских государств, чтобы объединить расколотую страну. Мы не можем допустить социалистическую державу в центре Европы, особенно такую могущественную, какой может стать объединённая Германия.\n\n§RНам нужно не дать им захватить Баварию, иначе они победят, несмотря на нашу интервенцию.§!"
- eoanb_decision_PRS_help_by_FRA: "Революция в Германии"
- eoanb_decision_PRS_help_by_FRA_desc: "Пруссия начала революцию в южногерманских государствах - мы им поможем!"
- eoanb_decision_ENG_blockade_PRS: "Блокада прусских торговых путей"
- eoanb_decision_ENG_blockade_PRS_desc: "Мы заблокируем прусские торговые пути, если в Германии вспыхнет война."
+  
   
  ### FOCUSES/FOCI ### 
  prussia_focus: "Prussian Focus Tree"
@@ -1476,8 +1544,8 @@
  PRS_focus_prussian_industrialization_desc: "Хотя индустриальная революция пришла в нашу страну, большая часть нашей экономики по-прежнему контролируется доиндустриальными секторами, такими как сельское хозяйство и ремёсла. Поощрение промышленного развития городских регионов, безусловно, поддержит экономический рост."
  PRS_focus_borsig: "Borsig"
  PRS_focus_borsig_desc: "Август Борсиг занимается механическим инженерным делом с 1837 года, и его компания теперь сосредоточена на производстве локомотивов. Он недавно расширил свои фабрики на северо-западе Берлина, и поддержка его усилий может помочь обеспечить доминирующего и стабильного поставщика необходимого железнодорожного оборудования."
- PRS_focus_krupp_cooperation: "Krupp"
- PRS_focus_krupp_cooperation_desc: "Неловкое равновесие между государством и корпорациями подтвердило превосходство компаний, поскольку как их капитал, так и преданность производству гораздо больше, чем мы когда-либо сможем достичь самостоятельно. Одним из самых известных таких предпринимателей является Фридрих Крупп, который специализируется на производстве стали и артиллерии. Сотрудничество с ним, безусловно, не только увеличит наши военные возможности, но и снизит нашу нагрузку в военные времена."
+ PRS_focus_krupp: "Krupp" #NT!
+ PRS_focus_krupp_desc: "The uneasy balance between state and corporate has proved superiority for the companies, as both their capital and devotion to production is far greater than we will ever be able to achieve on our own. One of the most prominent of these entrepreneurs, Friedrich Krupp, specializes in the production of steel and artillery, and cooperating with him will surely not only increase our militaristic capacities, but also reduce our burden in times of war." #NT!
  PRS_focus_siemens_halske: "Siemens & Halske"
  PRS_focus_siemens_halske_desc: "Вернер Сименс является одним из самых инновационных умов в области телекоммуникаций в мире. В 1847 году он основал свой бизнес с точным инженером Иоганном Георгом Хальске на западе Берлина. С тех пор компания пережила резкий рост, и мы, безусловно, могли бы извлечь выгоду из поддержки их усилий."
  PRS_focus_vulcan_ag: "Vulcan AG"
@@ -1543,16 +1611,13 @@
  PRS_focus_ngc_navy: "Флот Северогерманского союза"
  PRS_focus_ngc_navy_desc: "Силы северогерманского флота должны продолжать расти, если мы хотим сохранить свое место среди великих держав. Флот конфедерации остается под контролем пруссаков, а другие государства-участники должны будут вносить как финансовый, так и кадровый вклад в укрепление наших военно-морских сил. Несколько административных изменений также могут помочь."
  PRS_focus_ngc_navy_trigger_tt: "Требуется образование §YСеверогерманского союза§! или одного из его государств-преемников."
- PRS_focus_ngc_navy_effect_tt: "§GЭто со временем разблокирует несколько §Yрешений§! для реформирования нашей военно-морской администрации и заказа большего количества военных кораблей.§!"
  PRS_focus_war_ports: "Военные порты"
  PRS_focus_war_ports_desc: "С быстрым технологическим развитием во всех областях морской войны крайне важно идти в ногу со временем и соответствующим образом улучшать нашу военно-морскую инфраструктуру. Создание полноценных военных портов на наших морских границах станет важным шагом в этом направлении."
  PRS_focus_royal_dockyards: "Королевские верфи"
  PRS_focus_royal_dockyards_desc: "С быстрым технологическим развитием во всех областях морской войны крайне важно идти в ногу со временем и соответствующим образом улучшать нашу военно-морскую инфраструктуру. Расширение наших верфей будет способствовать росту и развитию в будущем."
- PRS_focus_war_ports_royal_dockyards_trigger_tt: "Требуется национальный дух §YФлот Северогерманского союза§!."
  PRS_focus_war_ports_royal_dockyards_effect_tt: "§GЭто разблокирует §Yрешения§! и §Yмиссии§! для улучшения нашей военно-морской инфраструктуры в ключевых местах. В зависимости от нашего успеха, мы получим более сильный §Yнациональный дух§! для нашего флота.§!"
  PRS_focus_military_supremacy: "Военное превосходство"
  PRS_focus_military_supremacy_desc: "Наша армия — настоящая гордость нашей нации."
- PRS_focus_military_supremacy_effect_tt: "Разблокирует закон §YАрмия как государство§! для военных расходов.§!"
   
  #Prussian Constitutional Crisis - HISTORICAL (different outcomes) 
  PRS_focus_constitution_crisis: "Прусский конституционный кризис"
@@ -1680,7 +1745,10 @@
  PRS_focus_advance_focus: "Новая Германия"
  PRS_focus_advance_focus_desc: "Прошедшие десятилетия были борьбой для Пруссии, как внутри Германии, так и за ее пределами. Теперь мы утвердили свою идентичность в немецких государствах и обладаем непревзойденным военным и политическим могуществом. Нет смысла в том, чтобы люди, говорящие на одном языке, имеющие одну культуру и сражающиеся за одну цель, были разделены на мелкие государства или подчинялись разъединенной сущности, как показала нам история. На горизонте появляется новая концепция, и Пруссия готова воплотить ее в жизнь."
  PRS_focus_advance_focus_trigger_tt: "§YГермания§! должна быть объединена."
- PRS_focus_advance_focus_effect_tt: "§GЭтот фокус открывает§! §Yфокусное дерево Германии§!§G!§!\n\nВ зависимости от того, в каком направлении была направлена §YПруссия§!, новое фокусное дерево будет §Yисторическим§!, §Yлиберальным§! или §Yсоциалистическим§!.\n\n§RВнимание! В данный момент только исторически объединенная Германская империя имеет развитое фокусное дерево после объединения.§!"  
+ PRS_focus_advance_focus_effect_tt: "§GЭтот фокус открывает§! §Yфокусное дерево Германии§!§G!§!\n\nВ зависимости от того, в каком направлении была направлена §YПруссия§!, новое фокусное дерево будет §Yисторическим§!, §Yлиберальным§! или §Yсоциалистическим§!.\n\n§RВнимание! В данный момент только исторически объединенная Германская империя имеет развитое фокусное дерево после объединения.§!"
+  
+ prussia.917.d: "[?ENG]" #NT!
+  
  #Colonies - ALT-HISTORY 
  PRS_focus_colonial_politics_branch: "Прусские колониальные амбиции"
  PRS_focus_colonial_politics_branch_desc: "Нам тоже нужна колониальная империя!"
@@ -1777,26 +1845,13 @@
  #General Focus Tooltips (used for various foci) 
  PRS_focus_conscrisis_aftermath_effect_tt: "§GЭто запустит цепочку событий, которые сделают видимыми другие фокусы этой ветви.§!\n\n"
  PRS_focus_highly_unfinished_warning_effect_tt: "§RПРЕДУПРЕЖДЕНИЕ: Выбор этого пути приведет к направлению, которое почти не содержит дальнейшего контента на данный момент! Объединение Германии НЕ будет возможным при выборе этого пути!!!§!\n\n"
- PRS_focus_unfinished_warning_effect_tt: "§RПРЕДУПРЕЖДЕНИЕ: Выбор этого пути может привести вас на значительно менее проработанный путь по сравнению с историческим, и может не иметь значительного количества контента, особенно после объединения!§!\n\n"  
+ PRS_focus_unfinished_warning_effect_tt: "§RПРЕДУПРЕЖДЕНИЕ: Выбор этого пути может привести вас на значительно менее проработанный путь по сравнению с историческим, и может не иметь значительного количества контента, особенно после объединения!§!\n\n"
+  
   
  ### IDEAS ### 
- #Zollverein 
- PRS_Zollverein: "Золльверейн"
- PRS_Zollverein_desc: "Эта страна является членом Золльверейна."
- PRS_Zollverein_1: "Реконструкция Золльверейна"
- PRS_Zollverein_1_desc: "Эта страна является членом Золльверейна."
- PRS_Zollverein_2: "Реконструированный Золльверейн"
- PRS_Zollverein_2_desc: "Эта страна является членом Золльверейна."
- PRS_Zollverein_associate: "Ассоциированный член Золльверейна"
- PRS_Zollverein_associate_desc: "Эта страна является ассоциированным членом Золльверейна."
- PRS_Zollverein_foreign_treaties_1: "Внешнеторговые договоры Золльверейна"
- PRS_Zollverein_foreign_treaties_1_desc: "Золльверейн заключил небольшое количество торговых договоров с зарубежными странами. Это укрепит нашу экономику."
- PRS_Zollverein_foreign_treaties_2: "Внешнеторговые договоры Золльверейна"
- PRS_Zollverein_foreign_treaties_2_desc: "Золльверейн заключил значительное количество торговых договоров с зарубежными странами. Это существенно укрепит нашу экономику."
-  
  #Railroads 
  PRS_Rail_Focus_1: "Прусские государственные железные дороги"
- PRS_Rail_Focus_1_desc: "Государство финансирует расширение и национализацию железнодорожной сети." 
+ PRS_Rail_Focus_1_desc: "Государство финансирует расширение и национализацию железнодорожной сети."
  PRS_Rail_Focus_2: "Прусские государственные железные дороги"
  PRS_Rail_Focus_2_desc: "Государство финансирует расширение и национализацию железнодорожной сети. Это слегка улучшит развертывание нашей армии и скорость мобилизации."
  PRS_Rail_Focus_3: "Прусские государственные железные дороги"
@@ -1819,20 +1874,22 @@
  PRS_trade_and_economic_law_3_desc: "Нам необходимо реформировать наше торговое и экономическое законодательство, чтобы лучше соответствовать потребностям нашей растущей торговли и промышленности. Возможно, законодательство, которое мы примем, поможет объединить фрагментированные немецкие кодексы законов."
  PRS_trade_and_economic_law_4: "Прусские торговые и экономические законы"
  PRS_trade_and_economic_law_4_desc: "Нам необходимо реформировать наше торговое и экономическое законодательство, чтобы лучше соответствовать потребностям нашей растущей торговли и промышленности. Возможно, законодательство, которое мы примем, поможет объединить фрагментированные немецкие кодексы законов."
- PRS_idea_well_oiled_economy: "Отлаженная экономика"
- PRS_idea_well_oiled_economy_desc: "[ROOT.GetAdjective] экономика работает, как хорошо отлаженный механизм."
+ PRS_idea_gruenderzeit: "Gründerzeit" #NT!
+ PRS_idea_gruenderzeit_desc: "Our country is experiencing a significant economic boom." #NT!
  PRS_idea_research_investments: "Увеличенное финансирование исследований"
  PRS_idea_research_investments_desc: "Пруссия значительно инвестирует в исследования благодаря недавнему экономическому буму."
  PRS_idea_trade_with_france: "Торговый договор с Францией"
  PRS_idea_trade_with_france_desc: "Мы получаем прибыль от выгодного торгового соглашения с Францией."
  PRS_idea_trade_with_zollverein: "Торговый договор с Таможенным союзом"
  PRS_idea_trade_with_zollverein_desc: "Мы получаем прибыль от выгодного торгового соглашения с Таможенным союзом."
- PRS_USA_guns_deal_ACW: "Оплата сделки по поставке оружия Пруссией"
- PRS_USA_guns_deal_ACW_desc: "Мы получили оружие из Пруссии и в настоящее время погашаем долг за поставки."
+ PRS_idea_sell_weapons_ACW: "American Weapons Deal Payment" #NT!
+ PRS_idea_sell_weapons_ACW_desc: "We have received payments from the Americans for the weapons deal." #NT!
+ PRS_idea_buy_weapons_ACW: "Prussian Weapons Deal Payment" #NT!
+ PRS_idea_buy_weapons_ACW_desc: "We have received weapons from Prussia and are currently paying them off." #NT!
   
  #Army 
- PRS_legacy_clausewitz: "Наследие Клаузевица"
- PRS_legacy_clausewitz_desc: "§Y[PRS.GetFlag] [PRS.GetAdjective]§! Военная доктрина основана на наследии Клаузевица, которое уже устарело. Нам нужно встряхнуть военное руководство.\n\n§Y[PRS.GetNameWithFlag]§! §Rне может тренировать§! §Yили§! §Rредактировать§! §Yшаблоны дивизий до завершения военной реформы и победы в войне братьев 1866 года.§!"
+ PRS_idea_legacy_clausewitz: "Legacy of Clausewitz" #NT!
+ PRS_idea_legacy_clausewitz_desc: "The §Y[PRS.GetFlag] [PRS.GetAdjective]§! war doctrine is still based on the legacy of Carl von Clausewitz, the brilliant Prussian general whose ideas shaped modern militaries around the world. Clausewitz' thoughts, as shrewd as they might be, are becoming increasingly outdated. We need to shake up the military establishment.\n\n§Y[PRS.GetNameWithFlag]§! §Rcannot train§! §Yor§! §Redit§! §Ydivision templates until Heeresreform is completed and the 1866 Brothers War is won.§!" #NT!
  PRS_landwehr: "Landwehr"
  PRS_landwehr_desc: "Пруссия получает выгоду от системы Landwehr."
  PRS_landwehr_1: "Landwehr"
@@ -1872,18 +1929,26 @@
  PRS_idea_army_reserves_mobilizing_desc: "Прусские армейские резервы мобилизуются в связи с продолжающейся войной, укрепляя [PRS.GetAdjective] армию."
  PRS_idea_collective_struggle_against_france: "Коллективная борьба против Франции"
  PRS_idea_collective_struggle_against_france_desc: "Французы отклонили наше мирное предложение и открыли свои истинные намерения — граница по Рейну. Мы должны сделать все возможное, чтобы их мечты никогда не сбылись."
- 
+  
  #Navy 
- PRS_idea_build_high_fleet: "Создание флота открытого моря"
- PRS_idea_build_high_fleet_desc: "Нам необходимо усилить наши усилия по созданию глубоководного военно-морского флота."
- PRS_idea_high_fleet_1: "Хохзеефлотте"
- PRS_idea_high_fleet_1_desc: "Мы, наконец, можем назвать свой флот настоящим глубоководным военно-морским флотом. Великий Курфюрст наверняка был бы горд нашим достижением."
- PRS_idea_high_fleet_2: "Флот Северогерманского Союза"
- PRS_idea_high_fleet_2_desc: "Мы, наконец, контролируем флот, который по праву заслуживает это название. Лучшее в этом то, что мы полностью контролируем его, а другие члены конфедерации обязаны участвовать в финансировании в зависимости от их размера и доходов. Хотя затраты растут, это делает флот действительно стоящим."
- PRS_idea_high_fleet_3: "Флот Северогерманского Союза"
- PRS_idea_high_fleet_3_desc: "Мы, наконец, контролируем флот, который по праву заслуживает это название. Лучшее в этом то, что мы полностью контролируем его, а другие члены конфедерации обязаны участвовать в финансировании в зависимости от их размера и доходов. Хотя затраты растут, это делает флот действительно стоящим."
- PRS_idea_high_fleet_4: "Флот Северогерманского Союза"
- PRS_idea_high_fleet_4_desc: "Мы, наконец, контролируем флот, который по праву заслуживает это название. Лучшее в этом то, что мы полностью контролируем его, а другие члены конфедерации обязаны участвовать в финансировании в зависимости от их размера и доходов. Хотя затраты растут, это делает флот действительно стоящим."
+ PRS_idea_build_high_sea_fleet: "Building Up a High Seas Fleet" #NT!
+ PRS_idea_build_high_sea_fleet_desc: "We need to increase our efforts of building a deep-water navy." #NT!
+ PRS_idea_high_sea_fleet_1: "Hochseeflotte" #NT!
+ PRS_idea_high_sea_fleet_1_desc: "We can finally call a true deep-water, ocean-going navy our own. The Great Elector would surely be proud of our achievement." #NT!
+ PRS_idea_high_sea_fleet_2: "Marine des Norddeutschen Bundes" #NT!
+ PRS_idea_high_sea_fleet_2_desc: "We finally control a navy that actually deserves the name. The best thing is that we alone are in control of it, the other member states of the confederation have to participate financially in proportion to their size and income. Although growing in costs, this should make the navy well worthwhile." #NT!
+ PRS_idea_high_sea_fleet_3: "Marine des Norddeutschen Bundes" #NT!
+ PRS_idea_high_sea_fleet_3_desc: "We finally control a navy that actually deserves the name. The best thing is that we alone are in control of it, the other member states of the confederation have to participate financially in proportion to their size and income. Although growing in costs, this should make the navy well worthwhile." #NT!
+ PRS_idea_high_sea_fleet_4: "Marine des Norddeutschen Bundes" #NT!
+ PRS_idea_high_sea_fleet_4_desc: "We finally control a navy that actually deserves the name. The best thing is that we alone are in control of it, the other member states of the confederation have to participate financially in proportion to their size and income. Although growing in costs, this should make the navy well worthwhile." #NT!
+ PRS_idea_high_sea_fleet_5: "Marine des Norddeutschen Bundes" #NT!
+ PRS_idea_high_sea_fleet_5_desc: "We finally control a navy that actually deserves the name. The best thing is that we alone are in control of it, the other member states of the confederation have to participate financially in proportion to their size and income. Although growing in costs, this should make the navy well worthwhile." #NT!
+ PRS_idea_high_sea_fleet_6: "Marine des Norddeutschen Bundes" #NT!
+ PRS_idea_high_sea_fleet_6_desc: "We finally control a navy that actually deserves the name. The best thing is that we alone are in control of it, the other member states of the confederation have to participate financially in proportion to their size and income. Although growing in costs, this should make the navy well worthwhile." #NT!
+ PRS_idea_high_sea_fleet_7: "Marine des Norddeutschen Bundes" #NT!
+ PRS_idea_high_sea_fleet_7_desc: "We finally control a navy that actually deserves the name. The best thing is that we alone are in control of it, the other member states of the confederation have to participate financially in proportion to their size and income. Although growing in costs, this should make the navy well worthwhile." #NT!
+ PRS_idea_high_sea_fleet_8: "Marine des Norddeutschen Bundes" #NT!
+ PRS_idea_high_sea_fleet_8_desc: "We finally control a navy that actually deserves the name. The best thing is that we alone are in control of it, the other member states of the confederation have to participate financially in proportion to their size and income. Although growing in costs, this should make the navy well worthwhile." #NT!
  PRS_idea_navy_ministry_1: "Подчиненное Министерство ВМФ"
  PRS_idea_navy_ministry_1_desc: "Хотя Министерство ВМФ было создано, в данный момент оно подчиняется армии."
  PRS_idea_navy_ministry_2: "Независимое Министерство ВМФ"
@@ -1972,10 +2037,6 @@
  #Misc 
  PRS_idea_undermine_france: "Дипломатический саботаж"
  PRS_idea_undermine_france_desc: "Кто-то подрывает политические усилия этой страны..."
- PRS_idea_reparations_to_PRS: "Репарации Германии"
- PRS_idea_reparations_to_PRS_desc: "Франция выплачивает репарации Германии."
- PRS_idea_reparations_from_FRA: "Репарации от Франции"
- PRS_idea_reparations_from_FRA_desc: "Германия получает репарации от Франции."
  PRS_idea_fp_mil_boost: "За Отечество!"
  PRS_idea_fp_mil_boost_desc: "Вся страна охвачена волной энтузиазма, чтобы выиграть этот последний конфликт для объединения Германии."
  PRS_idea_weakened_sww: "Военная неполноценность"
@@ -2002,8 +2063,6 @@
  PRS_idea_new_socialist_schools_desc: "Пруссия улучшила свою систему образования."
  PRS_idea_new_socialist_schools_2: "Новые школы"
  PRS_idea_new_socialist_schools_2_desc: "Пруссия улучшила свою систему образования."
- PRS_idea_weakened_DEN: "Проблемы с военной организацией"
- PRS_idea_weakened_DEN_desc: "Вооружённые силы Дании сталкиваются с проблемами в организации и структуре командования."
   
  #Hidden Ideas 
  PRS_hidden_idea_AI_lp_boost: "Усиление законодательной власти ИИ"
@@ -2039,6 +2098,7 @@
  PRS_trait_Maximilian_von_Forckenbeck: "Решительный мэр\n(Социальный либерал)"
  PRS_trait_Moritz_Bethmann_Hollweg: "Политический писатель\n(Консерватор)"
  PRS_trait_Rudolf_Virchow: "Известный гигиенист\n(Социальный либерал)"
+ PRS_trait_Rudolph_Delbruck: "Bismarck's Right Hand\n(Neutral)" #NT!
  PRS_trait_Theodor_Mommsen: "Знаменитый классический ученый\n(Социальный либерал)"
  PRS_trait_Werner_Siemens: "Гений электротехники\n(Нейтральный)"
  PRS_trait_Wilhelm_Liebknecht: "Марксистский политик\n(Радикальный социалист)"
@@ -2101,6 +2161,7 @@
  prussian_military_spendage: "Государство армии"
  prussian_military_spendage_desc: "Наша нация тратит значительную часть своего бюджета на армию, обеспечивая её припасами, снаряжением и обучением, что делает нашу армию высокоэффективной и даёт нам преимущество над противниками. После ряда реформ стало гораздо дешевле поддерживать эффективность вооружённых сил, несмотря на сокращение расходов."
   
+  
  ### OPINION MODIFIERS ### 
  PRS_GC_GOOD_RELATIONS_SGC: "Исторически хорошие отношения"
  PRS_GC_GOOD_RELATIONS_NGC: "Исторически хорошие отношения"
@@ -2111,7 +2172,11 @@
  eoanb_om_PRS_eulenburg_expedition: "Дипломатический контакт"
  eoanb_om_PRS_henry_heuksen_lite: "Убийство Генри Хёйксена"
  eoanb_om_PRS_henry_heuksen_heavy: "Убийство Генри Хёйксена"
- PRS_FOCUS_EISENACH_REL: "Вторая Эйзенахская декларация"
+ PRS_SECOND_EISENACH_DECLARATION_REL: "Second Eisenach Declaration" #NT!
+ PRS_AGREED_TO_HOST_MONARCHS_CONVENTION_REL: "Agreed to Host Monarchs' Convention" #NT!
+ PRS_REFUSED_TO_HOST_MONARCHS_CONVENTION_REL: "Refused to Host Monarchs' Convention" #NT!
+ PRS_AGREED_TO_ATTEND_MONARCHS_CONVENTION_REL: "Agreed to Attend Monarchs' Convention" #NT!
+ PRS_REFUSED_TO_ATTEND_MONARCHS_CONVENTION_REL: "Refused to Attend Monarchs' Convention" #NT!
  PRS_ITA_RECOGNIZE_ITALY_REL: "Признание Италии"
  PRS_AUS_RECOGNIZE_ITALY_REL: "Признание Италии"
  PRS_EULENBURG_EXPEDITION_REL: "Экспедиция Эйленбурга"
@@ -2137,6 +2202,7 @@
  eoanb_HOLSTEIN_GC_MEMBER_REL: "Освобождение Гольштейна"
  eoanb_AUS_PRS_GC_SCHLESWIG_DISAPPOINTMENT: "Игнорирование федеральной политики"
  PRS_FRA_ARRANGEMENTS_REL: "Политические договорённости"
+ PRS_ENG_WELFENFONDS_REL: "Confiscated Hanover State Treasury" #NT!
  PRS_ENG_IMPROVEMENT_REL: "Королевские связи и симпатии"
  PRS_ENG_NAVAL_TREATY_REL: "Англо-прусский морской договор"
  PRS_RUS_LOOSEN_TIES_REL: "Эмансипация от российского оплота консерватизма"
@@ -2149,6 +2215,10 @@
  eoanb_threat_name_PRS_ambitions: "Объявленные амбиции"
  eoanb_om_PRS_annexes_SCH: "Подготовка аннексии"
  eoanb_om_PRS_annexes_HLS: "Подготовка аннексии"
+ PRS_OTTOMAN_ARMS_DEAL: "Recent Arms Deal" #NT!
+ PRS_OTTOMAN_REFUSES_ARMS_DEAL: "Sublime Porte insisted on Autarky" #NT!
+ PRS_OTTOMAN_MILITARY_COOPERATION: "Military Cooperation" #NT!
+  
   
  ### FLAGS & TRIGGERS ### 
  PRS_budget_approved: "§GБюджет утверждён§!"
@@ -2171,9 +2241,6 @@
  PRS_decision_cooperate_with_austria_flag: "§GПруссия сотрудничает с Австрией по вопросу о нарушениях Дании в Шлезвиг-Гольштейне.§!"
  PRS_denmark_sues_for_peace_flag: "Дания была вынуждена просить о мире."
  PRS_signs_of_war_GC_flag: "§RКажется, судьба решена. В Германском союзе начнётся война.§!"
- PRS_zollverein_trade_treaty_negotiating_ngc_flag: "§YТаможенный союз — Ведутся переговоры о торговом соглашении с Северогерманским союзом.§!"
- PRS_zollverein_trade_treaty_negotiating_flag: "§YТаможенный союз — Ведутся переговоры о торговом соглашении.§!"
- nation_is_in_zollverein: "Эта страна является частью Таможенного союза."
  PRS_compromise_successful: "§YКороль Фридрих III согласился на предложенный компромисс до эскалации ситуации.§!"
  PRS_new_prime_minister_flag: "§YНазначен новый премьер-министр.§!"
  PRS_compromise_negotiated_flag: "§YКомпромисс с парламентом успешно достигнут.§!"

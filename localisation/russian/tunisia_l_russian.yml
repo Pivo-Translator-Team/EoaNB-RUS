@@ -1,12 +1,23 @@
 ﻿l_russian:
-   ### Events 
+  
+ ### COUNTRY DESCRIPTION ### 
+  
+ TUN_END_OF_NEW_BEG_DESC: "Tunisia, a semi-autonomous state under the Ottoman Empire, faces a turbulent period marked by political instability, corruption, and a stagnant agrarian economy. Beys, from the Husainid dynasty, struggled to govern effectively, and urgent reforms were needed. Meanwhile, European powers, especially France and Italy, eye Tunisia’s strategic Mediterranean location, posing a growing threat of foreign intervention.\n\nTunisia stands at a crossroads, balancing modernization efforts with the need to protect its autonomy, as internal challenges and external pressures shape its uncertain future." #NT!
+  
+ ### LEADERS DESCRIPTION ### 
+  
+ POLITICS_MUHAMMAD_II_IBN_AL_HUSAYN: "Muhammad II is the Eleventh Bey of the Husainid Dynasty. As Heir Apparent, he had excelled in military affairs and earned the rank of Divisional General within the Ottoman Army in August 1840. He was further promoted to Marshal shortly after he succeeded his cousin Ahmad Bey on the 30th of May, 1855."
+ POLITICS_MUHAMMAD_III_AL_SADIQ: "Muhammad III 'the Righteous' is the Twelfth Bey of Tunisia, he was 'Bey al-Mahalla' from the 10th of June, 1855 to the 23rd of September,  1859. The same day he was heir apparent, he was appointed as Divisional General in the Imperial Ottoman Army. After the death of his brother, Muhammad II ibn al Husayn, Muhammad III took over as Bey as his nephew was too young at the time to rule, although he did end up adopting him. There are rumors about the British consul trying to persuade him to set up the first official printing press..."
+  
+ ### EVENTS ### 
+  
  tunisia.1.t: "Batto Sfez Affair"
  tunisia.1.d: "Today the Court of Tunisia declared Batto Sfez, the jew that killed a muslim child in a carriage accident, guilty and it will be executed for having blasphemed Islam. Few days ago we executed a muslim that murdered a jew, if we don't do the same now the stability of our nation could be affected."
  tunisia.1.a: " This the people's will"
- tunisia.1.b: " We can't anger France and England"
   
  tunisia.2.t: "The Fundamental Pact"
  tunisia.2.d: "Has been a while since the consules of Britain and France (Richard Wood and Leon Roches) started making pressure on us for a new bill of rights that would ensure the security of both Tunisians and foreigners, their influence over our government is rising every day, and we must choose a side. Their demands have been condensed into eleven points composing the Ahd Al-Amane (Fundamental Pact) and will open our market to foreign capitalists and will ensure basic human rights for everyone."
+ tunisia.2.a: "Execute him" #NT!
  tunisia.2.b: "No land to foreign capitalists!"
   
  tunisia.3.t: "Cultural Reforms"
@@ -32,10 +43,7 @@
  tunisia.8.t: "In name of Allah"
  tunisia.8.d: "Our path is signed, if we follow His will we won't succumb to the infidels that wish to extinguish the light of allah by their continuous military and social campaigns!"
  tunisia.8.a: "Allāhu ʾakbar!"
-  
- tunisia.100.t: "Mejba Revolt"
- tunisia.100.d: "We got news of the death of General Ferhat, it seems that he was killed by a group of insurgents from the inland. The entire region is fighting against us, led by the traditionalist Ali Ben Ghedhahem, Ali, who is called the people's bey"
- tunisia.100.a: "We must fight back!"
+ tunisia.8.b: "Support them" #NT!
   
  tunisia.9.t: "French fleet spotted near our coasts!"
  tunisia.9.d: "This morning, the Bey woke up to news of an unexpected visit from the French Navy. Nine ships armed with seven hundred cannons have been displaced in La Goulette to "help the Bey against any person who prevents him from granting freedom to your subjects and to assure them of the peace and security of their persons and their property”, as stated by the admiral commanding the fleet. Meanwhile we got news of a new message from the British Consul Richard Wood who added that a British squadron anchored in Malta is awaiting his word if tensions flare between the Bey and admiral or if any threats by the fleet are formulated against the town."
@@ -45,16 +53,223 @@
  tunisia.10.d: "Tonight, the French fleet, which has been stationed near Tunis, has opened fire, there is chaos all around the city and many deaths have been reported."
  tunisia.10.a: "This is outrageous!"
   
+ tunisia.20.t: "French Fleet Spotted Near Tunisian Coasts" #NT!
+ tunisia.20.d: "This morning, Tunis woke up to the news of an unexpected visit from the French Navy. Nine ships armed with seven hundred cannons have been displaced in La Goulette. Their commanding admiral says they are here to help the Bey against any person who prevents him from granting freedom to his subjects and to assure them of the peace and security of their persons and their property. Meanwhile, rumours spread that British Consul Richard Wood had a British squadron anchored in Malta awaiting his order if tensions flared between the Bey and admiral or if any threats by the fleet were formulated against the town." #NT!
+ tunisia.20.a: "This is not good for Tunisia" #NT!
+  
+ tunisia.21.t: "French Force us to Create Fundamental Pact" #NT!
+ tunisia.21.d: "It has been a while since the consuls of Britain and France (Richard Wood and Leon Roches) started putting pressure on us for a new bill of rights to ensure the security of both Tunisians and foreigners. Their influence over our government is rising every day. We must choose a side. Their demands have been condensed into eleven points composing the Ahd Al-Amane (Fundamental Pact), which will open our market to foreign capitalists and will ensure basic human rights for everyone." #NT!
+ tunisia.21.a: "No land to foreign capitalists!" #NT!
+ tunisia.21.b: "Accept their demands" #NT!
+  
+ tunisia.22.t: "Naval Bombing of Tunis" #NT!
+ tunisia.22.d: "Tonight, the French fleet, which has been stationed near Tunis, has opened fire on the city. There is chaos all around the town, with many deaths have been reported." #NT!
+ tunisia.22.a: "This is outrageous" #NT!
+  
+ tunisia.23.t: "Start Creating Fundamental Pact" #NT!
+ tunisia.23.d: "Today both delegations sit for the first time in front of one table on the topic of Ahd Al-Amane (Fundamental Pact). It will be the new bill of rights to ensure the security of both Tunisians and foreigners. Their demands have been condensed into eleven points, which will open our market to foreign capitalists and will ensure basic human rights for everyone." #NT!
+ tunisia.23.a: "This is the beggining of something great" #NT!
+  
+ tunisia.24.t: "Fundamental Pact Signed " #NT!
+ tunisia.24.d: "After a few days of intense negotiations, both sides struck a deal. Bey of Tunisia will sign Ahd Al-Amane (Fundamental Pact). This new bill of rights ensures the security of both Tunisians and foreigners. This will greatly open Tunisia to the modern world and show that we have a right to place between modern civilized nations." #NT!
+ tunisia.24.a: "This will greatly benefit the future of Tunis" #NT!
+  
  tunisia.11.t: "Khazdanar Scandal"
  tunisia.11.d: "Tonight the French fleet stationed near Tunis opened fire. Victims are reported in large numbers."
  tunisia.11.a: "."
   
-   ### Focuses 
+ tunisia.12.t: "Grand Vezier Question" #NT!
+ tunisia.12.d: "WIP" #NT!
+ tunisia.12.a: "Keep Khezdanar as Grand Vezier" #NT!
+ tunisia.12.b: "Enought of his coruption, appoint Hayreddin Pasha as Grand Vezier" #NT!
+  
+ tunisia.13.t: "Naval Budget" #NT!
+ tunisia.13.d: "WIP" #NT!
+ tunisia.13.a: "Do not expand budget" #NT!
+ tunisia.13.b: "Expand naval budget" #NT!
+  
+ tunisia.14.t: "Palace Renovation" #NT!
+ tunisia.14.d: "WIP" #NT!
+ tunisia.14.a: "Nice" #NT!
+  
+ tunisia.15.t: "Completion of the Mosque of Tunis Renovation" #NT!
+ tunisia.15.d: "WIP" #NT!
+ tunisia.15.a: "Architecture is coming to Africa" #NT!
+  
+ tunisia.17.t: "Spreading the Tunisian Culture Abroad" #NT!
+ tunisia.17.d: "WIP" #NT!
+ tunisia.17.a: "OK" #NT!
+  
+ tunisia.18.t: "Our Travellers Bring News" #NT!
+ tunisia.18.d: "WIP" #NT!
+ tunisia.18.a: "OK" #NT!
+  
+ tunisia.19.t: "European Inventions Brought to Tunisia" #NT!
+ tunisia.19.d: "WIP" #NT!
+ tunisia.19.a: "OK" #NT!
+  
+ tunisia.25.t: "General Husain Takes Office" #NT!
+ tunisia.25.d: "WIP" #NT!
+ tunisia.25.a: "OK" #NT!
+  
+ tunisia.26.t: "General Husain Announce His Plans" #NT!
+ tunisia.26.d: "WIP" #NT!
+ tunisia.26.a: "OK" #NT!
+  
+ tunisia.27.t: "General Husain Announce His Plans for Phase Two" #NT!
+ tunisia.27.d: "WIP" #NT!
+ tunisia.27.a: "OK" #NT!
+  
+ tunisia.28.t: "General Husain Establish Tunisian Official Journal" #NT!
+ tunisia.28.d: "WIP" #NT!
+ tunisia.28.a: "OK" #NT!
+  
+ tunisia.29.t: "General Husain Announce His Plans for Phase Three" #NT!
+ tunisia.29.d: "WIP" #NT!
+ tunisia.29.a: "OK" #NT!
+  
+ tunisia.30.t: "The Telegraph Concession" #NT!
+ tunisia.30.d: "We have recently received a request from French industries to build a telegraph line in our country. This will lead to an important increase in communications and control in our regions." #NT!
+ tunisia.30.a: "Technology is coming to Africa!" #NT!
+  
+ tunisia.31.t: "The Constitution" #NT!
+ tunisia.31.d: "After months of work, we have finally achieved the goal of being the first African nation with a modern constitution." #NT!
+ tunisia.31.a: "Not everyone seems to be happy ..." #NT!
+  
+ tunisia.32.t: "Invite Northern Reformists" #NT!
+ tunisia.32.d: "Europe is the cradle of reforms. We should invite a commission to help us with our plans. The Buyuruldu Commission will work on all the aspects of our country that need to be reformed." #NT!
+ tunisia.32.a: "They will accept for sure." #NT!
+  
+ tunisia.33.t: "Cultural Reforms" #NT!
+ tunisia.33.d: "The first step to keep our nation alive is to invest in our future. The world is changing, and we won't survive if we don't modernise our thoughts and ideals. It's too late to withdraw." #NT!
+ tunisia.33.a: "In the name of science!" #NT!
+  
+ tunisia.34.t: "Trans-Saharan Network" #NT!
+ tunisia.34.d: "Since the abolition of slavery in 1846, an unrestricted and illegal slave trade has formed in the Sahara Desert, but no real action has been taken against it up to now." #NT!
+ tunisia.34.a: "No one should be allowed to trade illegally in our nation!" #NT!
+  
+ tunisia.100.t: "Mejba Revolt"
+ tunisia.100.d: "We got news of the death of General Ferhat, it seems that he was killed by a group of insurgents from the inland. The entire region is fighting against us, led by the traditionalist Ali Ben Ghedhahem, Ali, who is called the people's bey"
+ tunisia.100.a: "We must fight back!"
+  
+ tunisia.101.t: "Rural Nobles Revolt against New Tax" #NT!
+ tunisia.101.d: "WIP " #NT!
+ tunisia.101.a: "Send Farhat to them" #NT!
+  
+ tunisia.102.t: "The tax rates are doubled" #NT!
+ tunisia.102.d: "WIP " #NT!
+ tunisia.102.a: "Okay" #NT!
+  
+ tunisia.103.t: "Farhat killed!" #NT!
+ tunisia.103.d: "WIP " #NT!
+ tunisia.103.a: "Oh damn them..." #NT!
+  
+ tunisia.104.t: "El Kef falls" #NT!
+ tunisia.104.d: "WIP " #NT!
+ tunisia.104.a: "NO!" #NT!
+  
+ tunisia.105.t: "Majba Revolt" #NT!
+ tunisia.105.d: "WIP " #NT!
+ tunisia.105.a: "We must do somethings about this" #NT!
+  
+ tunisia.106.t: "Establish Contact with the rebels" #NT!
+ tunisia.106.d: "WIP " #NT!
+ tunisia.106.a: "This is not good" #NT!
+  
+ tunisia.109.t: "Pressure The Bey to Avoid a Revolt" #NT!
+ tunisia.109.d: "WIP " #NT!
+ tunisia.109.a: "We must avoid a rebellion in Tunis" #NT!
+  
+ tunisia.107.t: "An intervention in Tunisia?" #NT!
+ tunisia.107.d: "WIP " #NT!
+ tunisia.107.a: "Prepare an army" #NT!
+  
+ tunisia.108.t: "Plans Exposed" #NT!
+ tunisia.108.d: "WIP " #NT!
+ tunisia.108.a: "Mierda!" #NT!
+  
+ tunisia.110.t: "Italy has plans to invade Tunis" #NT!
+ tunisia.110.d: "WIP " #NT!
+ tunisia.110.a: "We cannot allow this" #NT!
+  
+ tunisia.111.t: "British Anger" #NT!
+ tunisia.111.d: "WIP " #NT!
+ tunisia.111.a: "We can't wake up the sleeping lion" #NT!
+  
+ tunisia.112.t: "European Intervention" #NT!
+ tunisia.112.d: "WIP " #NT!
+ tunisia.112.a: "Ya rabbi...!" #NT!
+  
+ tunisia.113.t: "Diplomat steals 20 Million Piastres" #NT!
+ tunisia.113.d: "WIP " #NT!
+ tunisia.113.a: "Damn him" #NT!
+  
+ tunisia.114.t: "French pressure to begin negotiations" #NT!
+ tunisia.114.d: "WIP " #NT!
+ tunisia.114.a: "We have nothing to lose" #NT!
+  
+ tunisia.115.t: "Non-Intervention Agreement" #NT!
+ tunisia.115.d: "WIP " #NT!
+ tunisia.115.a: "We must keep peace in Tunisia" #NT!
+  
+ tunisia.116.t: "Negotiations begin..." #NT!
+ tunisia.116.d: "WIP " #NT!
+ tunisia.116.a: "We have to be patient" #NT!
+  
+ tunisia.117.t: "Repealing the mejba tax?" #NT!
+ tunisia.117.d: "WIP " #NT!
+ tunisia.117.a: "This tax must be scrapped" #NT!
+ tunisia.117.b: "This is an essential to rule the country" #NT!
+  
+ tunisia.118.t: "Abolish our Constitution?" #NT!
+ tunisia.118.d: "WIP " #NT!
+ tunisia.118.a: "It's useless, so yes" #NT!
+ tunisia.118.b: "No, it is unacceptable" #NT!
+  
+ tunisia.119.t: "Remove Foreign Goverment?" #NT!
+ tunisia.119.d: "WIP " #NT!
+ tunisia.119.a: "Foreign people shouldn't rule our country" #NT!
+ tunisia.119.b: "They help investing in us" #NT!
+  
+ tunisia.120.t: "Restore Slavery to our country?" #NT!
+ tunisia.120.d: "WIP " #NT!
+ tunisia.120.a: "The lesser people should get their pickaxes ready" #NT!
+ tunisia.120.b: "This against everything the slaves fought for" #NT!
+  
+ tunisia.121.t: "We should Try Bribing the Tribes" #NT!
+ tunisia.121.d: "WIP " #NT!
+ tunisia.121.a: "We need their support" #NT!
+ tunisia.121.b: "Give them a reasonable ammount" #NT!
+ tunisia.121.c: "This would be unethical" #NT!
+  
+ tunisia.122.t: "The big day..." #NT!
+ tunisia.122.d: "WIP " #NT!
+ tunisia.122.a: "I can't wait to see" #NT!
+  
+ ### FOCUSES ### 
+  
+   ### FOCUSES AR-RASHID BRANCH ### 
+  
  TUN_the_great_prince: " The Great Prince "
  TUN_the_great_prince_desc: " Our bey is taking us to a time of peace and glory  "
   
- TUN_batto_sfez_affair: " Batto Sfez Affair "
- TUN_batto_sfez_affair_desc: "Our social stability is being undermined by a carriage accident, we must do something "
+ TUN_with_friends_leon_roche: "Friendship with Léon Roche" #NT!
+ TUN_with_friends_leon_roche_desc: "Ever since France first laid its sights on North Africa, our national sovereignty has been at risk. If we wish to fare better than our neighbours, we must arm ourselves with quill and paper and begin establishing friendly relations with the new dominant power of the region. Thankfully, our great Sultan has made friends with French diplomat and interpreter Léon Roches, which will certainly aid our diplomatic effort." #NT!
+  
+ TUN_french_investors: "Invite French Investors" #NT!
+ TUN_french_investors_desc: "Some may see plight in our underdeveloped lands, but we see opportunity. Ever since opening up to France, European investors have begun flooding our lands in hopes of successful ventures." #NT!
+  
+ TUN_the_old_order: " The old Order"
+ TUN_the_old_order_desc: " To ensure our nation autonomy, we must act as our fathers did."
+  
+ TUN_tunisia_first: " Tunisia First"
+ TUN_tunisia_first_desc: " Our national sovranity comes before everything."
+  
+ TUN_relegalize_slavery: " Relegalize slavery"
+ TUN_relegalize_slavery_desc: "We have to deal with our debts in all the ways possible"
+  
+ TUN_in_name_of_Allah: "In name of Allah"
+ TUN_in_name_of_Allah_desc: "So remember Me; I will remember you. And be grateful to Me and do not deny Me."
   
  TUN_social_reforms: " Social Reforms "
  TUN_social_reforms_desc: " The will of allah must not be misinterpreted "
@@ -68,28 +283,49 @@
  TUN_municipality_of_tunis: " Municipality of Tunis "
  TUN_municipality_of_tunis_desc: " We have to decentralize the power to achieve more stability and autonomy "
   
- TUN_expand_the_royal_palace: "Expand the Dar al-Taj palace"
- TUN_expand_the_royal_palace_desc: "he power of a king is seen in his palace"
-  
  TUN_stabilize_the_nation: " Stabilize the Nation "
  TUN_stabilize_the_nation_desc: " There must be only one law in a state "
   
- TUN_deal_with_national_debts: " Deal with national debts"
- TUN_deal_with_national_debts_desc: " Our nation has seen an increase in his deficit also due to the loss of gold and silver coin, we have to stop this "
+ TUN_expand_the_royal_palace: "Expand the Dar al-Taj palace"
+ TUN_expand_the_royal_palace_desc: "he power of a king is seen in his palace"
   
- #---NO REFORMS 
- TUN_the_old_order: " The old Order"
- TUN_the_old_order_desc: " To ensure our nation autonomy, we must act as our fathers did."
+ TUN_richard_wood: "Partnership with Richard Wood" #NT!
+ TUN_richard_wood_desc: "While it is true that France is an immediate threat to our sovereignty, we must also acknowledge Britain's superior fleet, which, thanks to their naval bases in Malta and Gibraltar, projects power throughout the Western Mediterranean. As such, it is imperative that we establish diplomatic ties with London moreover, the English are a more enterprising people, always eager to pounce at any opportunity for profit, and we hope they can bring that spirit to our lands." #NT!
   
- TUN_tunisia_first: " Tunisia First"
- TUN_tunisia_first_desc: " Our national sovranity comes before everything."
+ TUN_anglo_tunisia_bank: "Create Anglo-Tunisian Bank" #NT!
+ TUN_anglo_tunisia_bank_desc: "Our efforts to bring ourselves closer to Britain have bore fruit. In a moment of historical significance, the Anglo-Tunisian Bank has opened its gates as the first modern centre of finance in our Nation, bringing us ever closer to modernity." #NT!
   
- TUN_relegalize_slavery: " Relegalize slavery"
- TUN_relegalize_slavery_desc: "We have to deal with our debts in all the ways possible"
+ TUN_streamlined_tax_collection: "Streamlined Tax Collection" #NT!
+ TUN_streamlined_tax_collection_desc: "With modernising financial institutions come more efficient methods, including streamlined tax collection, which will undoubtedly aid us in collecting funds for the Sultans's future designs." #NT!
   
- TUN_in_name_of_Allah: "In name of Allah"
- TUN_in_name_of_Allah_desc: "So remember Me; I will remember you. And be grateful to Me and do not deny Me."
- #-- PT2 
+ TUN_improved_agriculture_infastructure: "Modernize Agricultural Infrastructure" #NT!
+ TUN_improved_agriculture_infastructure_desc: "Gold sitting only in our treasury is wasted. The recent influx of investors and ideas has certainly brought us much-needed resources, which we will use to improve our agricultural infrastructure." #NT!
+  
+ TUN_agriculture_canals: "Expand Agricultural Canals" #NT!
+ TUN_agriculture_canals_desc: "" #NT!
+  
+ TUN_renovate_madrasas: "Renovate Madrasas" #NT!
+ TUN_renovate_madrasas_desc: "" #NT!
+  
+ TUN_issue_debased_currency: "Issue Debased Currency" #NT!
+ TUN_issue_debased_currency_desc: "Although some may scoff at debasing currency, pointing at examples such as Rome, we are wiser and know that controlled and strategic debasing can in fact be beneficial to our nation." #NT!
+  
+ TUN_tunis_bizerte_road: "Renovate Tunis-Bizerte Road" #NT!
+ TUN_tunis_bizerte_road_desc: "Having developed our agriculture, we must now lay the groundwork for future projects by improving our infrastructure. While this may not be cheap, it will certainly benefit us in the long term." #NT!
+  
+ TUN_the_dar_al_bey: "Restore Dar al-Bey" #NT!
+ TUN_the_dar_al_bey_desc: "Built-in the 17th century by Muradid Bey Hammuda Pasha Bey and having a floor added in 1795, The Dar al-Bey quickly became the main office of the tunisian government and a symbol of power. The beautiful Moorish royal house continues to loyally serve our Sultan." #NT!
+  
+ TUN_palace_renovations: "Palace Renovations" #NT!
+ TUN_palace_renovations_desc: "A symbol of power and beauty cannot be left in disrepair our Sultan has put aside time and skilled workers to renovate the Palace." #NT!
+  
+ TUN_la_goulette_port_improvements: "La Goulette Port Improvements" #NT!
+ TUN_la_goulette_port_improvements_desc: "La Goulette is a major port, and now that we have resources to spare, just like the Dar al-Bey. It cannot be left without improvements." #NT!
+  
+ TUN_great_mosque_of_tunis_renovations: "The Great Mosque of Tunis Renovations" #NT!
+ TUN_great_mosque_of_tunis_renovations_desc: "The Great Mosque is an important place of worship, and, just like with the Goulette Port and the Dar al-Bey, we must seek to improve it to show our people the prosperity brought upon us by our glorious Sultan." #NT!
+  
+   ### FOCUSES AL-SADIQ BRANCH ### 
   
  TUN_the_reformist: " The Reformist "
  TUN_the_reformist_desc: " Muhammad II is dead, Long live Muhammad III "
@@ -97,14 +333,32 @@
  TUN_cultural_reforms: " Cultural Reforms "
  TUN_cultural_reforms_desc: " Our country is still based on medieval ideas, we must change this "
   
+ TUN_school_for_science_and_math: "Expand Schools for Math and Science" #NT!
+ TUN_school_for_science_and_math_desc: "" #NT!
+  
+ TUN_secular_subjects: "Secularize School Subjects" #NT!
+ TUN_secular_subjects_desc: "" #NT!
+  
+ TUN_european_architecture_and_fashion: "Popularize European Architecture and Fashion" #NT!
+ TUN_european_architecture_and_fashion_desc: "" #NT!
+  
+ TUN_first_tunisian_newspaper: " The Tunisian Newspaper "
+ TUN_first_tunisian_newspaper_desc: "  Ar-Ra'id at-Tunisi will be our first State newspaper "
+  
+ TUN_support_tunisian_literature: "Support Tunisian Literature" #NT!
+ TUN_support_tunisian_literature_desc: "" #NT!
+  
+ TUN_european_art_influences: "Encourage European Art Influence" #NT!
+ TUN_european_art_influences_desc: "" #NT!
+  
+ TUN_tunisian_culture_in_europe: "Spread Tunisian Culture Through Europe" #NT!
+ TUN_tunisian_culture_in_europe_desc: "" #NT!
+  
  TUN_enforce_slave_trade_ban: "  Enforce slave trade ban "
  TUN_enforce_slave_trade_ban_desc: "This is our first step to end the illegal slave trades in our country "
   
  TUN_Trans_Saharan_networks: " Trans-Saharan network "
  TUN_Trans_Saharan_networks_desc: " The biggest route where slaves are moved is the Trans saharian one, if we close it we cut out most of the supplies of the slave holders  "
-  
- TUN_first_tunisian_newspaper: " The Tunisian Newspaper "
- TUN_first_tunisian_newspaper_desc: "  Ar-Ra'id at-Tunisi will be our first State newspaper "
   
  TUN_succession_reforms: " Succession Reforms "
  TUN_succession_reforms_desc: " From now on the older prince will be the heir to the throne "
@@ -118,8 +372,59 @@
  TUN_the_constitution: " The Constitution"
  TUN_the_constitution_desc: " A modern country needs modern laws"
   
+ TUN_grand_council: "Form Grand Council" #NT!
+ TUN_grand_council_desc: "" #NT!
+  
+ TUN_sign_it_for_the_people: "Sign It For The People" #NT!
+ TUN_sign_it_for_the_people_desc: "" #NT!
+  
+ TUN_centralize_the_government: "Centralize Government" #NT!
+ TUN_centralize_the_government_desc: "" #NT!
+  
+ TUN_ministry_of_defense: "Form Ministry of Defense" #NT!
+ TUN_ministry_of_defense_desc: "" #NT!
+  
+ TUN_ministry_of_finance: "Formalize Ministry of Finance" #NT!
+ TUN_ministry_of_finance_desc: "" #NT!
+  
+ TUN_european_diplomatic_protocols: "Commence to European Diplomatic Protocols" #NT!
+ TUN_european_diplomatic_protocols_desc: "" #NT!
+  
+ TUN_improve_relations_with_french: "Improve Relations with French" #NT!
+ TUN_improve_relations_with_french_desc: "" #NT!
+  
+ TUN_anglo_tunisian_relations: "Extend Anglo-Tunisian Relations" #NT!
+ TUN_anglo_tunisian_relations_desc: "" #NT!
+  
+ TUN_mission_to_rome: "Send Delegation to Italy" #NT!
+ TUN_mission_to_rome_desc: "" #NT!
+  
+ TUN_host_diplomats: "Host Foreign Diplomats" #NT!
+ TUN_host_diplomats_desc: "" #NT!
+  
+ TUN_recognize_diplomatic_immunities: "Recognize Diplomatic Immunities" #NT!
+ TUN_recognize_diplomatic_immunities_desc: "" #NT!
+  
  TUN_economical_reforms: " Economical Reforms "
  TUN_economical_reforms_desc: " It's time to review our economy laws "
+  
+ TUN_efforts_reduce_corruption: "Fight Agains Corruption" #NT!
+ TUN_efforts_reduce_corruption_desc: "" #NT!
+  
+ TUN_equitable_taxes: "Enforce Equitable Taxes" #NT!
+ TUN_equitable_taxes_desc: "" #NT!
+  
+ TUN_standartized_rate_across_provinces: "Standardize Rates Across Our Provinces" #NT!
+ TUN_standartized_rate_across_provinces_desc: "" #NT!
+  
+ TUN_farming_equipment_subsidies: "Subsidise Farming Equipment" #NT!
+ TUN_farming_equipment_subsidies_desc: "" #NT!
+  
+ TUN_bank_of_tunisia_founding: "Found Bank of Tunisia" #NT!
+ TUN_bank_of_tunisia_founding_desc: "" #NT!
+  
+ TUN_french_and_italian_financial_experts: "Invite French and Italian Finance Experts" #NT!
+ TUN_french_and_italian_financial_experts_desc: "" #NT!
   
  TUN_renew_old_infrastructures: " Renew Old Infrastructure "
  TUN_renew_old_infrastructures_desc: " Our infrastructures are old and damaged"
@@ -136,11 +441,304 @@
  TUN_industrialize_the_country: " Industrialize the Country "
  TUN_industrialize_the_country_desc: "the more industries we build the better we can manage our debts"
   
+ TUN_tunis_la_goulette_railway: "Build Tunis-La Goulette Railway" #NT!
+ TUN_tunis_la_goulette_railway_desc: "" #NT!
+  
  TUN_the_monetary_issue: " The Monetary Issue "
  TUN_the_monetary_issue_desc: "We have an absourd amount of debts and we can't afford a default"
   
-   ### Missions & Decisions 
+ TUN_politics: "Grand Vezier Question" #NT!
+ TUN_politics_desc: "" #NT!
+  
+ TUN_introduce_state_courts: "Introduce State Courts" #NT!
+ TUN_introduce_state_courts_desc: "" #NT!
+  
+ TUN_khezdanar_is_fine: "Keep Khezdanar" #NT!
+ TUN_khezdanar_is_fine_desc: "" #NT!
+  
+ TUN_Hayreddin_Pasha: "Appoint Hayreddin Pasha" #NT!
+ TUN_Hayreddin_Pasha_desc: "" #NT!
+  
+ TUN_deal_with_national_debts: " Deal with national debts"
+ TUN_deal_with_national_debts_desc: " Our nation has seen an increase in his deficit also due to the loss of gold and silver coin, we have to stop this "
+  
+ TUN_mejba_tax: "Introduce Mejba Tax" #NT!
+ TUN_mejba_tax_desc: "" #NT!
+  
+ TUN_issue_bonds: "Issue New Bonds" #NT!
+ TUN_issue_bonds_desc: "" #NT!
+  
+ TUN_negotiate_with_europeans: "Negotiate with Europeans" #NT!
+ TUN_negotiate_with_europeans_desc: "" #NT!
+  
+ TUN_equal_treatment_europeans_and_tunisians: "Equal Treatment of All Citizens" #NT!
+ TUN_equal_treatment_europeans_and_tunisians_desc: "" #NT!
+  
+ TUN_double_the_rate: "Double The Taxe Rates" #NT!
+ TUN_double_the_rate_desc: "" #NT!
+  
+ TUN_populous_response: "Popular Response" #NT!
+ TUN_populous_response_desc: "" #NT!
+  
+ TUN_double_entry_bookkeeping: "Use Double Entry Bookkeeping" #NT!
+ TUN_double_entry_bookkeeping_desc: "" #NT!
+  
+ TUN_an_actual_budget: "Create State Budget" #NT!
+ TUN_an_actual_budget_desc: "" #NT!
+  
+ TUN_creation_of_state_treasury: "Creation of State Treasury" #NT!
+ TUN_creation_of_state_treasury_desc: "" #NT!
+  
+   ### FOCUSES AFTERMATH OF MAJBA REBELION BRANCH ### 
+  
+ TUN_contain_bled_el_majba_revolt: "Contain the Bled el Majba Revolt" #NT!
+ TUN_contain_bled_el_majba_revolt_desc: "" #NT!
+  
+ TUN_seek_ottoman_funds: "Seek Ottoman Funds" #NT!
+ TUN_seek_ottoman_funds_desc: "" #NT!
+  
+ TUN_negotiate_autonomy: "Negotiate Autonomy" #NT!
+ TUN_negotiate_autonomy_desc: "" #NT!
+  
+ TUN_khaznader_bribes_rebels: "Send Khaznader to Bribe Rebel Leaders" #NT!
+ TUN_khaznader_bribes_rebels_desc: "" #NT!
+  
+ TUN_pit_tribes_against_each_other: "Play Tribes Against Each Other" #NT!
+ TUN_pit_tribes_against_each_other_desc: "" #NT!
+  
+ TUN_ask_for_anglo_french_assistance: "Ask for Anglo-French Assistance" #NT!
+ TUN_ask_for_anglo_french_assistance_desc: "" #NT!
+  
+ TUN_french_intervention: "Lobby for French Intervention" #NT!
+ TUN_french_intervention_desc: "" #NT!
+  
+ TUN_anglo_tunisian_convention: "Sign Anglo-Tunisian Convention" #NT!
+ TUN_anglo_tunisian_convention_desc: "" #NT!
+  
+ TUN_buy_british_gunboats: "Buy British Gunboats" #NT!
+ TUN_buy_british_gunboats_desc: "Buy British Gunboats" #NT!
+  
+ TUN_revoke_the_constitution: "Revoke Constitution" #NT!
+ TUN_revoke_the_constitution_desc: "" #NT!
+  
+ TUN_plunder_te_sahil: "Plunder Sahil Region" #NT!
+ TUN_plunder_te_sahil_desc: "" #NT!
+  
+ TUN_conscript_sahil_locals: "Force Conscription of Sahil Locals" #NT!
+ TUN_conscript_sahil_locals_desc: "" #NT!
+  
+ TUN_aftermath_of_the_revolt: "Aftermath of Majba Rebelion" #NT!
+ TUN_aftermath_of_the_revolt_desc: "" #NT!
+  
+ TUN_future_of_the_beylic: "Future of Beylik" #NT!
+ TUN_future_of_the_beylic_desc: "" #NT!
+  
+   ### FOCUSES ARMY BRANCH ### 
+  
+ TUN_armee_de_tunis: "Army of Tunis" #NT!
+ TUN_armee_de_tunis_desc: "" #NT!
+  
+ TUN_tunis_fortification: "Adapt Fortification of Tunis" #NT!
+ TUN_tunis_fortification_desc: "" #NT!
+  
+ TUN_la_goulette_fortifications: "Expand La Goulette Port Fortification" #NT!
+ TUN_la_goulette_fortifications_desc: "" #NT!
+  
+ TUN_ravelins_and_lunettes: "Ravelins and Lunettes" #NT!
+ TUN_ravelins_and_lunettes_desc: "" #NT!
+  
+ TUN_military_administration: "Military Administration" #NT!
+ TUN_military_administration_desc: "" #NT!
+  
+ TUN_european_military_laws: "Adapt European Military Laws" #NT!
+ TUN_european_military_laws_desc: "" #NT!
+  
+ TUN_new_developments: "New Developments" #NT!
+ TUN_new_developments_desc: "" #NT!
+  
+ TUN_medical_improvments: "Medical Improvments" #NT!
+ TUN_medical_improvments_desc: "" #NT!
+  
+ TUN_implement_field_hospitals: "Implement Field Hospitals" #NT!
+ TUN_implement_field_hospitals_desc: "" #NT!
+  
+ TUN_rifled_cannons: "Rifled Cannons" #NT!
+ TUN_rifled_cannons_desc: "" #NT!
+  
+ TUN_european_pattered_rifles: "European Pattered Rifles" #NT!
+ TUN_european_pattered_rifles_desc: "" #NT!
+  
+ TUN_french_army_advisor: "French Army Advisors" #NT!
+ TUN_french_army_advisor_desc: "" #NT!
+  
+ TUN_european_drill: "European Drill" #NT!
+ TUN_european_drill_desc: "" #NT!
+  
+ TUN_creation_of_artillery_units: "Creation of Artillery Units" #NT!
+ TUN_creation_of_artillery_units_desc: "" #NT!
+  
+ TUN_infantry_regiments: "Infantry Regiments" #NT!
+ TUN_infantry_regiments_desc: "" #NT!
+  
+ TUN_hierarchical_system: "Hierarchical System" #NT!
+ TUN_hierarchical_system_desc: "" #NT!
+  
+ TUN_supply_chais_and_depots: "Supply Chais and Depots" #NT!
+ TUN_supply_chais_and_depots_desc: "" #NT!
+  
+ TUN_beylic_light_infantry: "Beylic Light Infantry" #NT!
+ TUN_beylic_light_infantry_desc: "" #NT!
+  
+ TUN_beylic_engineers: "Beylic Engineers" #NT!
+ TUN_beylic_engineers_desc: "" #NT!
+  
+ TUN_restructured_beylic_cavalry: "Restructured Beylic Cavalry" #NT!
+ TUN_restructured_beylic_cavalry_desc: "" #NT!
+  
+ TUN_mounted_rifles: "Mounted Rifles" #NT!
+ TUN_mounted_rifles_desc: "" #NT!
+  
+ TUN_beylic_gendarmerie: "Found Beylic Gendarmerie" #NT!
+ TUN_beylic_gendarmerie_desc: "" #NT!
+  
+ TUN_reorganize_the_police_force: "Reorganize Police Force" #NT!
+ TUN_reorganize_the_police_force_desc: "" #NT!
+  
+   ### FOCUSES NAVY BRANCH ### 
+  
+ TUN_focus_navy: "Tunisian Navy" #NT!
+ TUN_focus_navy_desc: "" #NT!
+  
+ TUN_wrestle_with_budget: "Wrestle with Budget" #NT!
+ TUN_wrestle_with_budget_desc: "" #NT!
+  
+ TUN_no_budget_expansion: "No Budget Expansion" #NT!
+ TUN_no_budget_expansion_desc: "" #NT!
+  
+ TUN_all_power_to_navy: "All Power to Navy" #NT!
+ TUN_all_power_to_navy_desc: "" #NT!
+  
+ TUN_introduction_of_steamships: "Introduce Steamships" #NT!
+ TUN_introduction_of_steamships_desc: "" #NT!
+  
+ TUN_aquire_the_sultan: "Aquire Sultan" #NT!
+ TUN_aquire_the_sultan_desc: "" #NT!
+  
+ TUN_el_rahman: "El Rahman" #NT!
+ TUN_el_rahman_desc: "" #NT!
+  
+ TUN_bizerte_repair_shops: "Bizerte Repair Shops" #NT!
+ TUN_bizerte_repair_shops_desc: "" #NT!
+  
+ TUN_expanding_la_goulette_shipyards: "Expand La Goulette Shipyards" #NT!
+ TUN_expanding_la_goulette_shipyards_desc: "" #NT!
+  
+ TUN_european_naval_architecture: "European Port Architecture" #NT!
+ TUN_european_naval_architecture_desc: "" #NT!
+  
+ TUN_european_naval_practices: "Oversee European Naval Exercise" #NT!
+ TUN_european_naval_practices_desc: "" #NT!
+  
+ TUN_french_naval_mission: "French Naval Mission" #NT!
+ TUN_french_naval_mission_desc: "" #NT!
+  
+ TUN_tunisian_naval_academy: "Found Tunisian Naval Academy" #NT!
+ TUN_tunisian_naval_academy_desc: "" #NT!
+  
+ TUN_squadron_organization: "Squadron Organization" #NT!
+ TUN_squadron_organization_desc: "" #NT!
+  
+ TUN_european_style_regulations: "European Style Regulations" #NT!
+ TUN_european_style_regulations_desc: "" #NT!
+  
+ TUN_modern_naval_artillery: "Modern Naval Artillery" #NT!
+ TUN_modern_naval_artillery_desc: "" #NT!
+  
+ TUN_european_ship_design: "European Ship Design" #NT!
+ TUN_european_ship_design_desc: "" #NT!
+  
+ TUN_steam_adapted_hulls: "Steam Adapted Hulls" #NT!
+ TUN_steam_adapted_hulls_desc: "" #NT!
+  
+ TUN_ship_telegraphy: "Ship Telegraphy" #NT!
+ TUN_ship_telegraphy_desc: "" #NT!
+  
+ TUN_coastal_artillery: "Coastal Artillery" #NT!
+ TUN_coastal_artillery_desc: "" #NT!
+  
+ TUN_immigrant_labour_force: "Immigrant Labour Force" #NT!
+ TUN_immigrant_labour_force_desc: "" #NT!
+  
+ TUN_promenade_de_la_marine: "Promenade de la Marine" #NT!
+ TUN_promenade_de_la_marine_desc: "" #NT!
+  
+ TUN_the_italian_trade: "Italian Trade" #NT!
+ TUN_the_italian_trade_desc: "" #NT!
+  
+ TUN_the_tuscan_jews: "Tuscan Jews" #NT!
+ TUN_the_tuscan_jews_desc: "" #NT!
+  
+ TUN_we_go_forward_with_italy: "Forward with Italy" #NT!
+ TUN_we_go_forward_with_italy_desc: "" #NT!
+  
+ TUN_empower_the_french: "Empower the French" #NT!
+ TUN_empower_the_french_desc: "" #NT!
+  
+ TUN_sultans_orders: "Sultans Orders" #NT!
+ TUN_sultans_orders_desc: "" #NT!
+  
+ TUN_the_winter_matter: "Winter Matter" #NT!
+ TUN_the_winter_matter_desc: "" #NT!
+  
+ TUN_a_season_harbour: "Season Harbour" #NT!
+ TUN_a_season_harbour_desc: "" #NT!
+  
+ TUN_hayreddin_pashas_reforms: "Hayreddin Pashas Reforms" #NT!
+ TUN_hayreddin_pashas_reforms_desc: "" #NT!
+  
+ ### MISSIONS & DECISIONS ### 
+  
+ tunisia_defense_category: "Tunisian Army" #NT!
+  
+ TUN_mission_bardo_school_finances: "Financing École militaire du Bardo" #NT!
+ TUN_mission_bardo_school_finances_desc: "" #NT!
+  
+ TUN_decision_the_marseille_of_the_desert: "Modern Capital Investments" #NT!
+ TUN_decision_the_marseille_of_the_desert_desc: "" #NT!
+  
+ TUN_decision_establish_municipality_of_tunis: "Modern Administrative Districts" #NT!
+ TUN_decision_establish_municipality_of_tunis_desc: " " #NT!
+  
+ TUN_decision_renew_old_infrastructures: "Renew Old Infrastructures" #NT!
+ TUN_decision_renew_old_infrastructures_desc: "" #NT!
+  
+ tunisia_economy_category: "Tunisian Economy" #NT!
+ tunisia_economy_category_desc: "" #NT!
+  
+ TUN_develop_tunis: "Expand Tunisian Farmlands" #NT!
+ TUN_develop_tunis_desc: "" #NT!
+  
+ TUN_develop_tunis_agriculture: "Develop the Tunis Agriculture" #NT!
+ TUN_develop_tunis_agriculture_desc: "" #NT!
+  
+ TUN_renovate_the_madrasas: "Renovate the Madrasas" #NT!
+ TUN_renovate_the_madrasas_desc: "" #NT!
+  
+ TUN_decsion_issue_debased_currency: "Issue Debased Currency" #NT!
+ TUN_decsion_issue_debased_currency_desc: "" #NT!
+  
+ TUN_decision_tunis_bizerte_road: "Construct Tunis-Bizerte Road" #NT!
+ TUN_decision_tunis_bizerte_road_desc: "" #NT!
+  
+ TUN_decision_school_science_and_math: "Build Schools for Science and Math" #NT!
+ TUN_decision_school_science_and_math_desc: "" #NT!
+  
+ TUN_decision_issue_bonds: "New Goverment Bonds" #NT!
+ TUN_decision_issue_bonds_desc: "" #NT!
+  
  tunisia_revolt_category: "Revolts in Tunisia"
+ tunisia_revolt_category_desc: "If you have 0 points after the crisis ends, then the Civil War is §Gaverted§!.\n If the revolt has more than 1 points then the Civil War will §Rescalate§!. Every point you have will be turned into a division, with the revolt §Yhaving at max 9 divisions§! !\n ---------------------------\n Current points: [?Mejba_Revolt_var|Y]" #NT!
+  
  tunisia_revolt_mission: " General Discontent "
  tunisia_revolt_mission_desc: "An integralist upraising is spreading in our country, this is probably due to the high debts and the political events of our time. \n Current upset level is [?Mejba_Revolt_var|G]% "
   
@@ -153,17 +751,309 @@
  TUN_Manipulate_Inland_Economy: " Manipulate Inland Economy"
  TUN_Manipulate_Inland_Economy_desc: " the best way to quell a riot is to find a compromise"
   
-   ### Ideas 
+ TUN_decision_british_gunboats: "Buy British Gunboats" #NT!
+ TUN_decision_british_gunboats_desc: "Buy British Gunboats" #NT!
+  
+ TUN_bizerte_repair_shop: "Bizerte Repair Shops" #NT!
+ TUN_bizerte_repair_shop_desc: "" #NT!
+  
+ TUN_la_goulette_shipyard: "Expanding La Goulette Shipyards" #NT!
+ TUN_la_goulette_shipyard_desc: "" #NT!
+  
+ TUN_build_forts_Tunis: "Build Tunis Fortifications" #NT!
+ TUN_build_forts_Tunis_desc: "" #NT!
+  
+ TUN_build_coastal_forts_Tunis: "Build La Goulette Fortifications" #NT!
+ TUN_build_coastal_forts_Tunis_desc: "" #NT!
+  
+ TUN_build_coastal_artillery: "Build Coastal Artillery" #NT!
+ TUN_build_coastal_artillery_desc: "" #NT!
+  
+ TUN_decision_conscript_sahil_locals: "Conscript Sahil Locals" #NT!
+ TUN_decision_conscript_sahil_locals_desc: "" #NT!
+  
+ TUN_shipyard_in_tunis: "Invest in Tunis Shipyards" #NT!
+ TUN_shipyard_in_tunis_desc: "" #NT!
+  
+ TUN_decision_renovate_palace: "Renovate the Royal Palace" #NT!
+ TUN_decision_renovate_palace_desc: "" #NT!
+  
+ TUN_decision_renovate_great_mosque: "Renovate the Great Mosque of Tunis" #NT!
+ TUN_decision_renovate_great_mosque_desc: "" #NT!
+  
+ TUN_decision_partner_anglo_tunisia_bank: "Expand the Anglo-Tunisia Bank" #NT!
+ TUN_decision_partner_anglo_tunisia_bank_desc: "" #NT!
+  
+ TUN_decision_support_anglo_tunisia_bank: "Ask for Anglo-Tunisian Bank Investment" #NT!
+ TUN_decision_support_anglo_tunisia_bank_desc: "" #NT!
+  
+ TUN_decision_cherish_french_immigrantion: "Cherish French Immigration" #NT!
+ TUN_decision_cherish_french_immigrantion_desc: "" #NT!
+  
+ TUN_decision_open_to_italians: "Open to Italians" #NT!
+ TUN_decision_open_to_italians_desc: "" #NT!
+  
+ TUN_mission_cultural_reforms: "Cultural Reforms" #NT!
+ TUN_mission_cultural_reforms_desc: "" #NT!
+  
+   #Modernization Decisions 
+  
+ tunisia_modernizing_category: "Marseille of the Desert" #NT!
+ tunisia_modernizing_category_desc: "Tunis City is our national capital and also our biggest city with great strategic importance, sitting right next to the Mediterranean Sea. But a city which in the past held glory and many richest of the known world is now undeveloped and could be compared to towns in the middle of nowhere. We need to invest great funds and attract specialists from all our Europe to bring it back to its greatest days when Cartage ruled the waves so we could rival the greatest hubs in Europe and become Marseille of the Desert." #NT!
+  
+ TUN_mission_preparing_modernazition_plans: "Preparing Modernization Plans" #NT!
+ TUN_mission_preparing_modernazition_plans_desc: "" #NT!
+  
+ TUN_mission_finish_phase_one: "Finish Phase One" #NT!
+ TUN_mission_finish_phase_one_desc: "" #NT!
+  
+ TUN_mission_finish_phase_two: "Finish Phase Two" #NT!
+ TUN_mission_finish_phase_two_desc: "" #NT!
+  
+ TUN_mission_finish_phase_three: "Finish Phase Three" #NT!
+ TUN_mission_finish_phase_three_desc: "" #NT!
+  
+ TUN_decision_discuss_plans_with_ulemas: "Discuss Plans with Ulemas" #NT!
+ TUN_decision_discuss_plans_with_ulemas_desc: "" #NT!
+  
+ TUN_decision_make_new_city_maps: "Make New City Maps" #NT!
+ TUN_decision_make_new_city_maps_desc: "" #NT!
+  
+ TUN_decision_conduct_land_survey: "Conduct Land Survey" #NT!
+ TUN_decision_conduct_land_survey_desc: "" #NT!
+  
+ TUN_decision_discuss_plans_with_the_europeans: "Discuss Plans with Europeans" #NT!
+ TUN_decision_discuss_plans_with_the_europeans_desc: "" #NT!
+  
+ TUN_decision_prepare_urban_plans_for_the_city: "Prepare Urban Plans for the City" #NT!
+ TUN_decision_prepare_urban_plans_for_the_city_desc: "" #NT!
+  
+ TUN_decision_conduct_town_people_estimates: "Conduct Town People Estimates" #NT!
+ TUN_decision_conduct_town_people_estimates_desc: "" #NT!
+  
+ TUN_decision_finish_phase_1: "Finish Phase One" #NT!
+ TUN_decision_finish_phase_1_desc: "" #NT!
+  
+ TUN_start_phase_2: "Start Phase Two" #NT!
+ TUN_start_phase_2_desc: "" #NT!
+  
+ TUN_tear_down_the_old_walls: "Tear Down Old City Walls" #NT!
+ TUN_tear_down_the_old_walls_desc: "" #NT!
+  
+ TUN_invite_european_specialists: "Invite European Specialists" #NT!
+ TUN_invite_european_specialists_desc: "" #NT!
+  
+ TUN_reform_town_jurisdical_system: "Reform Town Jurisdical System" #NT!
+ TUN_reform_town_jurisdical_system_desc: "" #NT!
+  
+ TUN_laid_down_foundations: "Laid Down Foundations for New Suburbs" #NT!
+ TUN_laid_down_foundations_desc: "" #NT!
+  
+ TUN_create_tunisian_printing_house: "Create Tunisian Printing House" #NT!
+ TUN_create_tunisian_printing_house_desc: "" #NT!
+  
+ TUN_prepare_modern_fortifications: "Prepare Modern Tunis Fortification" #NT!
+ TUN_prepare_modern_fortifications_desc: "" #NT!
+  
+ TUN_renovate_main_roads: "Renovate Main Roads" #NT!
+ TUN_renovate_main_roads_desc: "" #NT!
+  
+ TUN_build_new_aquaduct: "Build New Town Aquaduct" #NT!
+ TUN_build_new_aquaduct_desc: "" #NT!
+  
+ TUN_decision_finish_phase_two: "Finish Phase Two" #NT!
+ TUN_decision_finish_phase_two_desc: "" #NT!
+  
+ TUN_start_phase_3: "Start Phase Three" #NT!
+ TUN_start_phase_3_desc: "" #NT!
+  
+ TUN_construct_sewage_system: "Construct Sewage System" #NT!
+ TUN_construct_sewage_system_desc: "" #NT!
+  
+ TUN_install_gas_streetlamps: "Install Gas Street Lamps" #NT!
+ TUN_install_gas_streetlamps_desc: "" #NT!
+  
+ TUN_tunis_goulette_railway: "Tunis-Goulette Railway" #NT!
+ TUN_tunis_goulette_railway_desc: "" #NT!
+  
+ TUN_sadiki_college: "Sadiki College" #NT!
+ TUN_sadiki_college_desc: "" #NT!
+  
+ TUN_ulema_teachers: "Task Ulemas To Search for Teachers" #NT!
+ TUN_ulema_teachers_desc: "" #NT!
+  
+ TUN_invite_european_teachers: "Invite European Teachers" #NT!
+ TUN_invite_european_teachers_desc: "" #NT!
+  
+ TUN_expand_towns_greenery: "Expand Towns Greenery" #NT!
+ TUN_expand_towns_greenery_desc: "" #NT!
+  
+ TUN_invite_european_industrialists: "Invite European Industrialists" #NT!
+ TUN_invite_european_industrialists_desc: "" #NT!
+  
+ TUN_finish_phase_3: "Finish Phase Three" #NT!
+ TUN_finish_phase_3_desc: "" #NT!
+  
+ ### IDEAS ### 
+  
+ TUN_preparing_modernization_plans: "Preparing Modernization Plans" #NT!
+ TUN_preparing_modernization_plans_desc: "Preparing Modernization Plans" #NT!
+  
+ TUN_modifier_winds_of_change: "Winds of Change" #NT!
+ TUN_modifier_winds_of_change_desc: "A new wind of reform seeking advisors with competence in mind and ideas of modernization has blessed the royal courts and palaces of our lands." #NT!
+  
+ TUN_modifier_seasonal_harbour: "Seasonal Harbour" #NT!
+ TUN_modifier_seasonal_harbour_desc: "Seasonal Harbour" #NT!
+  
+ TUN_modifier_marseille_of_the_desert: "Marseille of the Deserts" #NT!
+ TUN_modifier_marseille_of_the_desert_desc: "Marseille of the Deserts" #NT!
+  
+ TUN_idea_streamlined_tax_collection: "Streamlined Tax Collection" #NT!
+ TUN_idea_streamlined_tax_collection_desc: "" #NT!
+  
+ TUN_dar_al_bay: "The Dar al Bey" #NT!
+ TUN_dar_al_bay_desc: "" #NT!
+  
+ TUN_idea_la_goulette_port_improvements: "La Goulette Port Improvements" #NT!
+ TUN_idea_la_goulette_port_improvements_desc: "" #NT!
+  
+ TUN_idea_school_science_and_math: "New Schools for Science and Math" #NT!
+ TUN_idea_school_science_and_math_desc: "" #NT!
+  
+ TUN_idea_secular_subjects: "Secularizing School Subjects" #NT!
+ TUN_idea_secular_subjects_desc: "" #NT!
+  
+ TUN_farming_subsidies: "Farming Subsidies" #NT!
+ TUN_farming_subsidies_desc: "" #NT!
+  
+ TUN_bank_of_tunis: "Bank of Tunis" #NT!
+ TUN_bank_of_tunis_desc: "" #NT!
+  
+ TUN_Manipulate_Inland_Economy_idea: "Manupulate Inland Economy" #NT!
+ TUN_Manipulate_Inland_Economy_idea_desc: "" #NT!
+  
  TUN_reforming_kingdom: "Reforming Regional Power"
+ TUN_reforming_kingdom_desc: "" #NT!
+  
  TUN_french_military_pressure: "French Fleet near our coast!"
+ TUN_french_military_pressure_desc: "" #NT!
+  
  TUN_unorganized_ministries: "Unorganized ministries"
+ TUN_unorganized_ministries_desc: "" #NT!
+  
  TUN_corrupted_ministers: "Corrupted Ministers"
+ TUN_corrupted_ministers_desc: "" #NT!
   
-   ### Tooltips 
+ TUN_administrative_corruption: "Administrative Corruption" #NT!
+ TUN_administrative_corruption_desc: "" #NT!
+  
+ TUN_idea_ministry_of_defense: "Ministry of Defense" #NT!
+ TUN_idea_ministry_of_defense_desc: "" #NT!
+  
+ TUN_idea_ministry_of_finance: "Ministry of Finance" #NT!
+ TUN_idea_ministry_of_finance_desc: "" #NT!
+  
+ TUN_idea_ministry_of_finance2: "Ministry of Finance" #NT!
+ TUN_idea_ministry_of_finance2_desc: "" #NT!
+  
+ TUN_idea_european_style_diplomacy: "European Style Diplomany" #NT!
+ TUN_idea_european_style_diplomacy_desc: "" #NT!
+  
+ TUN_idea_european_style_diplomacy2: "European Style Diplomany" #NT!
+ TUN_idea_european_style_diplomacy2_desc: "" #NT!
+  
+ TUN_idea_european_style_diplomacy3: "European Style Diplomany" #NT!
+ TUN_idea_european_style_diplomacy3_desc: "" #NT!
+  
+ TUN_reformism: "Reformism" #NT!
+ TUN_reformism_desc: "" #NT!
+  
+ TUN_integralist_uprising: "Integralist Uprising" #NT!
+ TUN_integralist_uprising_desc: "" #NT!
+  
+ TUN_idea_equitable_taxes: "Equitable Taxes" #NT!
+ TUN_idea_equitable_taxes_desc: "" #NT!
+  
+ TUN_idea_mejba_tax: "Mejba Tax" #NT!
+ TUN_idea_mejba_tax_desc: "" #NT!
+  
+ dynmod_TUN_euro_based_army: "European-Based Army" #NT!
+ dynmod_TUN_euro_based_army_desc: "" #NT!
+  
+ TUN_max_planning_modifier: "Max Planning Factor" #NT!
+ TUN_max_planning_modifier_desc: "" #NT!
+  
+ TUN_supply_and_depots: "Supply and depots" #NT!
+ TUN_supply_and_depots_desc: "" #NT!
+  
+ TUN_ravelins_and_lunettes_idea: "Defence in land fortifications" #NT!
+ TUN_ravelins_and_lunettes_idea_desc: "" #NT!
+  
+ TUN_naval_training: "Naval Training" #NT!
+ TUN_naval_training_desc: "" #NT!
+  
+ TUN_naval_training_1: "Naval Training" #NT!
+ TUN_naval_training_1_desc: "" #NT!
+  
+ TUN_majba_revolt: "Majba Revolt" #NT!
+ TUN_majba_revolt_desc: "" #NT!
+  
+ TUN_french_intervention: "French Intervention" #NT!
+ TUN_french_intervention_desc: "" #NT!
+  
+ TUN_british_lower_tariffs: "Lower Tariffs" #NT!
+ TUN_british_lower_tariffs_desc: "" #NT!
+  
+ TUN_street_riots: "Street Riots" #NT!
+ TUN_street_riots_desc: "" #NT!
+  
+ TUN_creating_the_fundementalist_pact: "Creating the Fundamentalist Pact" #NT!
+ TUN_creating_the_fundementalist_pact_desc: "" #NT!
+  
+ TUN_the_marseille_of_the_desert_1: "Marseille of the Desert" #NT!
+ TUN_the_marseille_of_the_desert_1_desc: "" #NT!
+  
+ TUN_the_marseille_of_the_desert_2: "Marseille of the Desert" #NT!
+ TUN_the_marseille_of_the_desert_2_desc: "" #NT!
+  
+ TUN_the_marseille_of_the_desert_3: "Marseille of the Desert" #NT!
+ TUN_the_marseille_of_the_desert_3_desc: "" #NT!
+  
+ TUN_Mejba_Revolt_Modifier: "Mejba Revolt Intensity" #NT!
+ TUN_Mejba_Revolt_Modifier_desc: "" #NT!
+  
+ TUN_idea_orders_east: "Orders East" #NT!
+ TUN_idea_orders_east_desc: "" #NT!
+  
+ ### OPINION ### 
+  
+ TUN_ottoman_funds: "Ottoman Funds" #NT!
+ TUN_anglo_french_intervention: "Anglo-French Intervention" #NT!
+ TUN_british_lower_tariffs: "British Lower Tariffs" #NT!
+  
+ ### TRAITS ### 
+  
+ TUN_trait_ahmad_ibn_abi_diyaf: "Liberal Moderniser" #NT!
+ TUN_trait_yusuf_jait: "Foreign minister and diplomat" #NT!
+ TUN_trait_salem_bouhageb: "Reformer and administrator" #NT!
+ TUN_trait_mohamed_baccouche: "Tunisian Businessman" #NT!
+ TUN_trait_hayreddin_pasha: "Ottoman-Tunisian Statesman" #NT!
+ TUN_trait_mohammed_bouattour: "Conservative Silent Workhorse" #NT!
+ TUN_trait_hayreddin_pasha_naval: "Tunisian Fleet Reformer" #NT!
+ TUN_trait_ecole_militare_bardo: "Foreign Style Army School" #NT!
+  
+ ### TOOLTIPS ### 
+  
  TUN_control_the_revolt_tooltip: "\n§RWe must control the revolt before its too late§!"
-  
-   ### Leader Descriptions 
- POLITICS_MUHAMMAD_II_IBN_AL_HUSAYN: "Muhammad II is the Eleventh Bey of the Husainid Dynasty. As Heir Apparent, he had excelled in military affairs and earned the rank of Divisional General within the Ottoman Army in August 1840. He was further promoted to Marshal shortly after he succeeded his cousin Ahmad Bey on the 30th of May, 1855."
- POLITICS_MUHAMMAD_III_AL_SADIQ: "Muhammad III 'the Righteous' is the Twelfth Bey of Tunisia, he was 'Bey al-Mahalla' from the 10th of June, 1855 to the 23rd of September,  1859. The same day he was heir apparent, he was appointed as Divisional General in the Imperial Ottoman Army. After the death of his brother, Muhammad II ibn al Husayn, Muhammad III took over as Bey as his nephew was too young at the time to rule, although he did end up adopting him. There are rumors about the British consul trying to persuade him to set up the first official printing press..."
-  
-  
+ TUN_popular_response_tt: "§RThis will have massive consequences...§!" #NT!
+ TUN_current_tree_end_tt: "This is where the §YTree§! currently §REnds§!" #NT!
+ TUN_anglo_tunisi_bank_tt: "Unlocks §YDecisions§! supporting our §YEconomy§! greatly" #NT!
+ TUN_winds_of_change_tt: "§CThis will§! §Ychange the effects§! §Cof the§! §YWinds of change§! §Cspirit in the following way:§!\n" #NT!
+ TUN_european_style_army_tt: "§CThis will§! §Ychange the effects§! §Cof the§! §YEuropean-Based Army§! §Cspirit in the following way:§!\n" #NT!
+ TUN_tt_muslim_outrage: "§RThe muslim community will become outraged...§!" #NT!
+ TUN_tt_non_muslim_outrage: "§RThe non-muslim community will become outraged...§!" #NT!
+ tun_modernize_tunis_tt: "Modernisation is still in progress" #NT!
+ tun_finished_phase_one_yay_tt: "You have finished all of the decisions for §YPhase One§!" #NT!
+ tun_finished_phase_two_yay_tt: "You have finished all of the decisions for §YPhase Two§!" #NT!
+ tun_finished_phase_three_yay_tt: "You have finished all of the decisions for §YPhase Three§!" #NT!
+ tun_college_tt: "§RYou can only choose one of the decisions regarding the §!§YTeachers!§!" #NT!

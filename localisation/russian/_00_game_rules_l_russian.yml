@@ -43,3 +43,15 @@
  RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS_DESC: "Не желая допустить ее дальнейшего роста, Король Вильгельм сосредоточится на подавлении либеральных движений в стране."
  RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE: "Внедрение Либерализма"
  RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE_DESC: "После тщательного обдумывания, Король Вильгельм примет решение о внедрении либерализма в королевстве."
+  
+ ##  Montenegro 
+  
+ # Mechanics Complexity 
+  
+  
+  
+ MNT_mechanic_complexity: "£GFX_EOANB_game_rule_flag_MNT   Montenegro Mechanics Complexity" #NT!
+ RULE_MNT_EASY_MECHANIC: "Easy Mechanics" #NT!
+ RULE_MNT_EASY_MECHANIC_DESC: "" #NT!
+ RULE_MNT_COMPLEX_MECHANIC: "Complex Mechanics" #NT!
+ RULE_MNT_COMPLEX_MECHANIC_DESC: "" #NT!

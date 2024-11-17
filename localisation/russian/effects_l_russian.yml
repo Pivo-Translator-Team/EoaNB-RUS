@@ -262,6 +262,7 @@
  EFFECT_UNLOCK_DECISION_REMOVE_HEADER: "При удалении решения:"
  EFFECT_UNLOCK_DECISION: "Будет открыто решение: $NAME|H$$EFFECT$."
  EFFECT_UNLOCK_DECISION_CATEGORY: "Будут открыты решения: $NAME|H$."
+ EFFECT_UNLOCK_DECISION_BOP: "Unlocks Decision: $NAME|H$$EFFECT$" #NT!
  EFFECT_MODIFY_BUILDING_RESOURCES: "Изменить продукцию здания $BUILDING|H$ на: $AMOUNT|+=$£resources_strip|$FRAME$."
  EFFECT_ADD_MAX_TRAIT: "Будут добавлены пустые ячейки для черт: $NUM|G$."
  EFFECT_START_BORDER_WAR: "Начнется пограничный конфликт между регионами $STATE1|H$ и $STATE2|H$."

@@ -488,6 +488,7 @@
  MODIFIER_FACTION_TRADE_OPINION_FACTOR_DESC: "Какое влияние оказывает мнение при заключении торговых сделок между членами альянса."
  MODIFIER_GROUND_ATTACK: "Авиаштурмовая атака"
  MODIFIER_GROUND_ATTACK_FACTOR: "Коэффициент авиаштурмовой атаки"
+ ground_attack_factor_tt: " $MODIFIER_GROUND_ATTACK_FACTOR$: $RIGHT|+=%1$"
  MODIFIER_AIR_TAC_GROUND_ATTACK: "Атака бомбардировщиков"
  MODIFIER_AIR_TAC_GROUND_ATTACK_DESC: "Бонус к тактическому удару бомбардировщиков по наземным целям."
  MODIFIER_AIR_TAC_GROUND_ATTACK_FACTOR: "Атака бомбардировщиков"
@@ -498,6 +499,7 @@
  MODIFIER_AIR_CAS_GROUND_ATTACK_FACTOR_DESC: "Бонус к удару штурмовиков по наземным целям."
  MODIFIER_AIR_CAS_PRESENT_FACTOR: "Наземная поддержка"
  MODIFIER_AIR_CAS_PRESENT_FACTOR_DESC: "Скоординированные действия авиации помогают вашим сухопутным войскам лучше сражаться."
+ air_cas_present_factor_tt: " $MODIFIER_AIR_CAS_PRESENT_FACTOR$: $RIGHT|+=%1$"
  MODIFIER_AIR_TAC_STRATEGIC_BOMBING_FACTOR: "Тактическая бомбардировка"
  MODIFIER_AIR_TAC_STRATEGIC_BOMBING_FACTOR_DESC: "Бонус для тактических бомбардировщиков, выполняющих регулярные стратегические бомбардировки."
  MODIFIER_TRAINING_TIME_FACTOR: "Время подготовки"
@@ -961,6 +963,7 @@
  war_support_modifier: "Поддержка войны"
  war_support_good_modifier: "Поддержка войны"
  war_support_bad_modifier: "Поддержка войны"
+ war_support_during_war: "Поддержка войны"
  MODIFIER_STABILITY_FACTOR: "Стабильность"
  MODIFIER_STABILITY_WEEKLY: "Стабильность в неделю"
  MODIFIER_STABILITY_WEEKLY_FACTOR: "Еженедельный прирост стабильности"
@@ -1027,11 +1030,24 @@
  MODIFIER_NAVAL_INVASION_PREPARATION_SPEED_DESC: "Фактор скорости при подготовке высадки с моря"
  MODIFIER_STATIC_ANTI_AIR_DAMAGE_FACTOR: "Статический коэффициент урона ПВО"
  MODIFIER_STATIC_ANTI_AIR_HIT_CHANCE_FACTOR: "Статический коэффициент вероятности попадания ПВО"
+ modifier_production_speed_coal_mine_factor: "Скорость Строительства §YУгольных Шахт§!"
+ modifier_production_speed_coal_mine_factor_desc: "Изменяет скорость строительства Угольных Шахт."
+ modifier_production_speed_cotton_farm_factor: "Скорость Строительства §YФерм Хлопка§!"
+ modifier_production_speed_cotton_farm_factor_desc: "Изменяет скорость строительства Ферм Хлопка."
+ modifier_production_speed_steel_mill_factor: "Скорость Строительства §YСталелитейных Заводов§!"
+ modifier_production_speed_steel_mill_factor_desc: "Изменяет скорость строительства Сталелитейных Заводов."
+ modifier_production_speed_logging_camp_factor: "Скорость Строительства §YЛесозаготовительных Лагерей§!"
+ modifier_production_speed_logging_camp_factor_desc: "Изменяет скорость строительства Лесозаготовительных Лагерей."
+ modifier_production_speed_machine_parts_factory_factor: "Скорость Строительства §YЗаводов Деталей Машин§!"
+ modifier_production_speed_machine_parts_factory_factor_desc: "Изменяет скорость строительства Заводов Деталей Машин."
+ modifier_production_speed_farm_factor: "Скорость Строительства §YФерм§!"
+ modifier_production_speed_farm_factor_desc: "Изменяет скорость строительства Ферм."
+ modifier_production_speed_fabric_weavery_factor: "§YFabric Weavery§! Construction Speed" #NT!
+ modifier_production_speed_fabric_weavery_factor_desc: "Modifies the speed of Fabric Weavery construction speed" #NT!
  STAT_COMMON_ACCLIMATIZATION_WET_GAIN: "Коэффициент усиления влажной акклиматизации"
  STAT_COMMON_ACCLIMATIZATION_WET_GAIN_DESC: "Скорость передвижения акклиматизируется во влажном климате."
  STAT_COMMON_ACCLIMATIZATION_WET_GAIN_VALUE: "$VALUE|H1%$"
- STAT_COMMON_ACCLIMATIZATION_WET_GAIN_DIFF: " $VALUE|=+1%$" 
- MODIFIER_ARMOR: " $VALUE|=+1%$"
+ STAT_COMMON_ACCLIMATIZATION_WET_GAIN_DIFF: " $VALUE|=+1%$" MODIFIER_ARMOR: " $VALUE|=+1%$" MODIFIER_ARMOR:0 "Armor" #NT!
  MODIFIER_BREAKTHROUGH: "Прорыв"
  carrier_experience_bonus_max: "От опыта авианосца"
  carrier_experience_malus_min: "От опыта авианосца"
@@ -1170,6 +1186,20 @@
  modifier_state_production_speed_infrastructure_factor_desc: "Изменяет скорость строительства в этом регионе ($infrastructure$)."
  modifier_state_production_speed_arms_factory_factor: "§Y$arms_factory$§! — скорость строительства"
  modifier_state_production_speed_arms_factory_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$arms_factory$§!."
+ modifier_state_production_speed_coal_mine_factor: "§Y$coal_mine$§! Construction Speed" #NT!
+ modifier_state_production_speed_coal_mine_factor_desc: "Modifies the speed of §Y$coal_mine$§! construction in this state." #NT!
+ modifier_state_production_speed_cotton_farm_factor: "£cotton_resource_texticon §Y$cotton_farm$§! Construction Speed" #NT!
+ modifier_state_production_speed_cotton_farm_factor_desc: "Modifies the speed of §Y$cotton_farm$§! construction in this state." #NT!
+ modifier_state_production_speed_farm_factor: "£food_resource_texticon §Y$farm$§! Construction Speed" #NT!
+ modifier_state_production_speed_farm_factor_desc: "Modifies the speed of §Y$farm$§! construction in this state." #NT!
+ modifier_state_production_speed_fabric_weavery_factor: "§Y$fabric_weavery$§! Construction Speed" #NT!
+ modifier_state_production_speed_fabric_weavery_factor_desc: "Modifies the speed of §Y$fabric_weavery$§! construction in this state." #NT!
+ modifier_state_production_speed_steel_mill_factor: "§Y$steel_mill$§! Construction Speed" #NT!
+ modifier_state_production_speed_steel_mill_factor_desc: "Modifies the speed of §Y$steel_mill$§! construction in this state." #NT!
+ modifier_state_production_speed_logging_camp_factor: "§Y$logging_camp$§! Construction Speed" #NT!
+ modifier_state_production_speed_logging_camp_factor_desc: "Modifies the speed of §Y$logging_camp$§! construction in this state." #NT!
+ modifier_state_production_speed_machine_parts_factory_factor: "§Y$machine_parts_factory$§! Construction Speed" #NT!
+ modifier_state_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of §Y$machine_parts_factory$§! construction in this state." #NT!
  modifier_state_production_speed_air_base_factor: "§Y$air_base$§! — скорость строительства"
  modifier_state_production_speed_air_base_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$air_base$§!."
  modifier_state_production_speed_naval_base_factor: "§Y$naval_base$§! — скорость строительства"

@@ -1,5 +1,7 @@
 ﻿l_russian:
   
+ SWI_END_OF_NEW_BEG_DESC: "Nestled in the heart of Europe, Switzerland stands as a neutral bastion amidst the political upheavals surrounding it. A decade has passed since the Swiss Civil War, which solidified the federal state and resolved the tensions between conservative Catholic cantons and the progressive forces in Bern. The new Federal Constitution of 1848 marked the country's transformation, balancing the autonomy of cantons with a centralized government.\n\nSwitzerland’s neutrality is respected, but tensions remain high among its diverse linguistic and religious communities. Despite avoiding Europe’s revolutionary conflicts, internal divisions still threaten the fragile unity.\n\nIndustrialization is slowly taking root and ambitious railway projects now cross the Alps, linking the nation to Europe’s economy and marking a new era of development. Switzerland's future remains uncertain. Will it continue successfully navigating its course as a neutral and decentralized state, or will internal divisions and external pressures force the Confederation to change its path?" #NT!
+  
   ### Swiss Focus Tree ### 
  SWI_Elect_Guillaume: "Выбрать Гийома"
  SWI_Elect_Guillaume_desc: "Над Альпами поднимается буря! Бундесверсаммунг избрал ветерана Зондербундкрига Гийома Анри Дюфура Генералом, который будет уполномочен решать любые внешнеполитические кризисы, которые могут возникнуть из-за империалистических амбиций наших соседей."
@@ -106,6 +108,156 @@
  SWI_neuchatel_war: "Невшательская война"
  PRS_Neuchatel_war: "Невшательская война"
  lost_war_neuchatel: "Проигрыш в Невшательской войне"
+ SWI_Religion_Divide: "The Religius Divide" #NT!
+ SWI_Religion_Divide_desc: "" #NT!
+ SWI_Recovery_Sonderbund_War: "Recovery from the Sonderbund War" #NT!
+ SWI_Recovery_Sonderbund_War_desc: "" #NT!
+ SWI_Support_Federalist: "Support the Federalist" #NT!
+ SWI_Support_Federalist_desc: "" #NT!
+ SWI_Federal_RailWays: "Swiss Federal Railways" #NT!
+ SWI_Federal_RailWays_desc: "" #NT!
+ SWI_Standardize_Education: "Standardize Education" #NT!
+ SWI_Standardize_Education_desc: "" #NT!
+ SWI_1864_Obligationenrecht: "1864 Obligationenrecht" #NT!
+ SWI_1864_Obligationenrecht_desc: "" #NT!
+ SWI_Equal_Laws: "Equal Law" #NT!
+ SWI_Equal_Laws_desc: "" #NT!
+ SWI_True_Federation: "A True Federation" #NT!
+ SWI_True_Federation_desc: "" #NT!
+ SWI_Power_Cantons: "Power to the Cantons" #NT!
+ SWI_Power_Cantons_desc: "" #NT!
+ SWI_Localized_Rail: "Localized Rail" #NT!
+ SWI_Localized_Rail_desc: "" #NT!
+ SWI_Religious_Education: "Religious Education" #NT!
+ SWI_Religious_Education_desc: "" #NT!
+ SWI_Decrease_Federal_Power: "Decrease Federal Power" #NT!
+ SWI_Decrease_Federal_Power_desc: "" #NT!
+ SWI_Local_Laws: "Local Laws" #NT!
+ SWI_Local_Laws_desc: "" #NT!
+ SWI_Return_Confederation: "Return to the Confederation" #NT!
+ SWI_Return_Confederation_desc: "" #NT!
+ SWI_More_Representation: "More Representation" #NT!
+ SWI_More_Representation_desc: "" #NT!
+ SWI_Direct_Democracy: "Direct Democracy" #NT!
+ SWI_Direct_Democracy_desc: "" #NT!
+ SWI_Zurich_Democratic_Mov: "Zurich Democratic Movement" #NT!
+ SWI_Zurich_Democratic_Mov_desc: "" #NT!
+ SWI_Direct_Election_1869: "Direct Elections in 1869" #NT!
+ SWI_Direct_Election_1869_desc: "" #NT!
+ SWI_Address_Working_Conditions: "Address Working Condition" #NT!
+ SWI_Address_Working_Conditions_desc: "" #NT!
+ SWI_Changing_Markets: "Changing Markets" #NT!
+ SWI_Changing_Markets_desc: "" #NT!
+ SWI_Rights_Workers: "Rights for Workers" #NT!
+ SWI_Rights_Workers_desc: "" #NT!
+ SWI_Watchmaker_Trade_Association: "Swiss Watchmaker's Trade Association" #NT!
+ SWI_Watchmaker_Trade_Association_desc: "" #NT!
+ SWI_International_Red_Cross: "International Red Cross" #NT!
+ SWI_International_Red_Cross_desc: "" #NT!
+ SWI_More_Stable_Future: "A More Stable Future" #NT!
+ SWI_More_Stable_Future_desc: "" #NT!
+ SWI_Coming_Industrial_Boom: "The Coming Industrial Boom" #NT!
+ SWI_Coming_Industrial_Boom_desc: "" #NT!
+ SWI_Treaty_Paris_Affirmation: "Treaty of Paris Affirmation" #NT!
+ SWI_Treaty_Paris_Affirmation_desc: "" #NT!
+ SWI_Cantons_With_Napoleon: "The Cantons stand with Napoleon" #NT!
+ SWI_Cantons_With_Napoleon_desc: "" #NT!
+ SWI_No_Longer_Neutral: "No longer Neutral" #NT!
+ SWI_No_Longer_Neutral_desc: "" #NT!
+ SWI_Franco_Swiss_Economic_Union: "Franco-Swiss Economic Union" #NT!
+ SWI_Franco_Swiss_Economic_Union_desc: "" #NT!
+ SWI_Join_Latin_Monetary: "Join the Latin Monetary Union" #NT!
+ SWI_Join_Latin_Monetary_desc: "" #NT!
+ SWI_Open_Border_Agreement: "Open Border Agreement " #NT!
+ SWI_Open_Border_Agreement_desc: "" #NT!
+ SWI_Hire_French_Military: "Hire French Military Engineers" #NT!
+ SWI_Hire_French_Military_desc: "" #NT!
+ SWI_Forts_Rhine: "Forts on the Rhine" #NT!
+ SWI_Forts_Rhine_desc: "" #NT!
+ SWI_Approach_Napoleon: "Approach Napoleon III" #NT!
+ SWI_Approach_Napoleon_desc: "" #NT!
+ SWI_Lyon_Pact: "The Lyon Pact" #NT!
+ SWI_Lyon_Pact_desc: "" #NT!
+ SWI_Geneva_Accords: "The Geneva Accords" #NT!
+ SWI_Geneva_Accords_desc: "" #NT!
+ SWI_Negotiate_Savoy: "Negotiate for Savoy" #NT!
+ SWI_Negotiate_Savoy_desc: "" #NT!
+ SWI_Savoy: "Swiss Savoy" #NT!
+ SWI_Savoy_desc: "" #NT!
+ SWI_Neutral_Above_All: "Neutral Above All" #NT!
+ SWI_Neutral_Above_All_desc: "" #NT!
+ SWI_French_Influence: "French Influence" #NT!
+ SWI_French_Influence_desc: "" #NT!
+ SWI_Relations_France: "Relations with France" #NT!
+ SWI_Relations_France_desc: "" #NT!
+ SWI_Meet_Napoleon: "Meet with Napoleon" #NT!
+ SWI_Meet_Napoleon_desc: "" #NT!
+ SWI_Spread_Liberalism: "Spread Liberalism across Europe" #NT!
+ SWI_Spread_Liberalism_desc: "" #NT!
+ SWI_Italian_Influence: "Italian Influence" #NT!
+ SWI_Italian_Influence_desc: "" #NT!
+ SWI_Relations_Sardinia: "Relations with Sardinia" #NT!
+ SWI_Relations_Sardinia_desc: "" #NT!
+ SWI_Stay_Out_With_Austria: "Stay out of an Austrian conflict" #NT!
+ SWI_Stay_Out_With_Austria_desc: "" #NT!
+ SWI_Recognize_Italy: "Recognize Italy" #NT!
+ SWI_Recognize_Italy_desc: "" #NT!
+ SWI_Austrian_Influence: "Austrian Influence" #NT!
+ SWI_Austrian_Influence_desc: "" #NT!
+ SWI_Relations_Austria: "Relations with Austria" #NT!
+ SWI_Relations_Austria_desc: "" #NT!
+ SWI_Stay_Out_With_Sardinia: "Stay out of a conflict with Sardinia" #NT!
+ SWI_Stay_Out_With_Sardinia_desc: "" #NT!
+ SWI_Prussian_Influence: "Prussian Influence" #NT!
+ SWI_Prussian_Influence_desc: "" #NT!
+ SWI_Relations_Prussia: "Relations with Prussia" #NT!
+ SWI_Relations_Prussia_desc: "" #NT!
+ SWI_Amend_From_Neuchatel: "Amend from the Neuchatel Crisis" #NT!
+ SWI_Amend_From_Neuchatel_desc: "" #NT!
+ SWI_Inter_Germany_Neutrality: "Inter-German Neutrality" #NT!
+ SWI_Inter_Germany_Neutrality_desc: "" #NT!
+ SWI_We_Stand_German_Brethren: "We stand with our German Brethren!" #NT!
+ SWI_We_Stand_German_Brethren_desc: "" #NT!
+ SWI_Protestant_Stand_Prussia: "The Protestants stand with Prussia" #NT!
+ SWI_Protestant_Stand_Prussia_desc: "" #NT!
+ SWI_Neuchatel_Behind_Us: "Put Neuchatel behind us" #NT!
+ SWI_Neuchatel_Behind_Us_desc: "" #NT!
+ SWI_Volunteers_Fight_Denmark: "Volunteers to fight against Denmark" #NT!
+ SWI_Volunteers_Fight_Denmark_desc: "" #NT!
+ SWI_Prusso_Swiss_Alliance: "The Prusso-Swiss Alliance?" #NT!
+ SWI_Prusso_Swiss_Alliance_desc: "" #NT!
+ SWI_Join_German_Confederation: "Join the German Confederation" #NT!
+ SWI_Join_German_Confederation_desc: "" #NT!
+ SWI_North_German_Relation: "North German Relations" #NT!
+ SWI_North_German_Relation_desc: "" #NT!
+ SWI_Non_Aggression_North_Germany: "Non-Aggression with North Germany" #NT!
+ SWI_Non_Aggression_North_Germany_desc: "" #NT!
+ SWI_Join_Zollverein: "Join the Zollverein" #NT!
+ SWI_Join_Zollverein_desc: "" #NT!
+ SWI_Raise_Tariff_Against_France: "Raise Tariffs against France" #NT!
+ SWI_Raise_Tariff_Against_France_desc: "" #NT!
+ SWI_Embargo_France: "Embargo France" #NT!
+ SWI_Embargo_France_desc: "" #NT!
+ SWI_Austrian_Allies: "Austrian Allies" #NT!
+ SWI_Austrian_Allies_desc: "" #NT!
+ SWI_Relations_With_Austrian_Empire: "Closer Relations with the Austrian Empire" #NT!
+ SWI_Relations_With_Austrian_Empire_desc: "" #NT!
+ SWI_No_War_Alps: "No War in the Alps" #NT!
+ SWI_No_War_Alps_desc: "" #NT!
+ SWI_Vaduz_Treaty: "Vaduz Treaty" #NT!
+ SWI_Vaduz_Treaty_desc: "" #NT!
+ SWI_Diplomacy_With_Italian_States: "Better Diplomacy with the Italian States" #NT!
+ SWI_Diplomacy_With_Italian_States_desc: "" #NT!
+ SWI_Diplomacy_With_Lombardy_Venetia: "Better Diplomacy with Lombardy-Venetia" #NT!
+ SWI_Diplomacy_With_Lombardy_Venetia_desc: "" #NT!
+ SWI_The_Alpine_Alliance: "The Alpine Alliance" #NT!
+ SWI_The_Alpine_Alliance_desc: "" #NT!
+ SWI_Join_Austrian_Trade_Union: "Join the Austrian Trade Union" #NT!
+ SWI_Join_Austrian_Trade_Union_desc: "" #NT!
+ SWI_Austrian_Industrial_Advisors: "Austrian Industrial Advisors" #NT!
+ SWI_Austrian_Industrial_Advisors_desc: "" #NT!
+ SWI_Austrian_Dockyards: "Austrian Dockyards" #NT!
+ SWI_Austrian_Dockyards_desc: "" #NT!
   
   ### Decisions and Missions ### 
  SWI_mission_prepare_for_invasion: "Подготовиться к Вторжению Пруссаков"
@@ -129,6 +281,46 @@
  SWI_Milizsystem1: "Система Милиции"
  SWI_Milizsystem2: "Система Милиции"
  SWI_Milizsystem3: "Система Милиции"
+ SWI_Legacy_of_Jomini: "Legacy of Jomini" #NT!
+ SWI_Trained_Population: "Trained Population" #NT!
+ SWI_Multicultural_Nation: "Multicultural Nation" #NT!
+ SWI_Religious_Divide: "Religious Divide" #NT!
+ SWI_Federal_Railways_Idea: "Federal Railways" #NT!
+ SWI_Direct_Democracy_Idea: "Direct Democracy" #NT!
+ SWI_Watchmaker_Trade_Association_Idea: "Watchmaker Trade Association" #NT!
+ SWI_International_Red_Cross_Idea: "International Red Cross" #NT!
+ SWI_Franco_Swiss_Economic_Union_Idea: "Franco-Swiss Economic Union" #NT!
+ SWI_Latin_Monetary_Union: "Latin Monetary Union" #NT!
+ SWI_German_Confederation: "German Confederation" #NT!
+ SWI_Join_The_Zollverein: "Join the Zollverein" #NT!
+ SWI_Neutrality_1: "Swiss Neutrality" #NT!
+ SWI_idea_austrian_trade_union: "Austrian Trade Union" #NT!
+ SWI_Education: "Swiss Education" #NT!
+ SWI_French_Military_Engineers: "French Military Engineers" #NT!
+ SWI_Spread_Liberalism_Idea: "Spread Liberalism" #NT!
+ SWI_Raise_Tariff_Against_France_Idea: "Tariff Against France" #NT!
+ SWI_Volunteers_Fight_Denmark_Idea: "Volunteers to fight against Denmark" #NT!
+ SWI_Religious_Tolerance: "Religious Tolerance" #NT!
+  
+  ###Decisions### 
+  ### BOP ### 
+ SWI_religious_divide_category_decisions: "Religious Divide" #NT!
+ SWI_Balance_of_Power_Religious_Divide: "Religious Divide" #NT!
+ SWI_BOP_Protestant_Strength: "Strength of the Protestants" #NT!
+ SWI_BOP_Chatolic_Strength: "Strength of the Catholics" #NT!
+ SWI_BOP_Protestant_Strength_low: "Low Protestant Stregnth" #NT!
+ SWI_BOP_Protestant_Strength_mid: "Mid Protestant Stregnth" #NT!
+ SWI_BOP_Protestant_Strength_high: "High Protestant Stregnth" #NT!
+ SWI_BOP_Protestant_Strength_very_high: "Very High Protestant Stregnth" #NT!
+ SWI_BOP_Chatolic_Strength_low: "Low Protestant Stregnth" #NT!
+ SWI_BOP_Chatolic_Strength_mid: "Mid Protestant Stregnth" #NT!
+ SWI_BOP_Chatolic_Strength_high: "High Protestant Stregnth" #NT!
+ SWI_BOP_Chatolic_Strength_very_high: "Very High Protestant Stregnth" #NT!
+  
+  #Factions 
+ The_Geneva_Accords: "The Geneva Accords" #NT!
+ Prussian_Swiss_Pact: "Prussian Swiss Pact" #NT!
+ The_Alpine_Alliance: "The Alpine Alliance" #NT!
   
   #Events 
  swiss.1.t: "Французы Победили"
@@ -151,3 +343,27 @@
  swiss.6.d: "Некоторые из наиболее влиятельных членов высшего командования со временем захотят уйти из высшего командования и вообще из армии. В то время как они начнут новую главу в своей жизни, некоторые займутся политикой и т. д., они все еще хотят иметь возможность обучать "Инструкторов". Должны ли мы в таком случае разрешать невоенному персоналу вмешиваться в обучение наших солдат, даже если они уходят в политику и могут быть подвержены влиянию их идеологии?"
  swiss.6.a: "Разрешить"
  swiss.6.b: "Не Разрешать"
+ swiss.7.t: "Negociate for Savoy?" #NT!
+ swiss.7.d: "WIP" #NT!
+ swiss.7.a: "WIP" #NT!
+ swiss.7.b: "WIP" #NT!
+ swiss.8.t: "Inter-German Neutrality" #NT!
+ swiss.8.d: "WIP" #NT!
+ swiss.8.a: "WIP" #NT!
+ swiss.8.b: "WIP" #NT!
+ swiss.8.c: "WIP" #NT!
+ swiss.9.t: "Completion of Saint-Gotthard Tunnel Survey" #NT!
+ swiss.9.d: "" #NT!
+ swiss.9.a: "" #NT!
+ swiss.10.t: "Henri Dunant publishes 'A memory of Solferino'" #NT!
+ swiss.10.d: "" #NT!
+ swiss.10.a: "" #NT!
+ swiss.11.t: "Geneva Convention Signed" #NT!
+ swiss.11.d: "" #NT!
+ swiss.11.a: "" #NT!
+ swiss.12.t: "Establishment of the Swiss National Bank" #NT!
+ swiss.12.d: "" #NT!
+ swiss.12.a: "" #NT!
+ swiss.13.t: "Federal Shooting Festival in Chur" #NT!
+ swiss.13.d: "" #NT!
+ swiss.13.a: "" #NT!

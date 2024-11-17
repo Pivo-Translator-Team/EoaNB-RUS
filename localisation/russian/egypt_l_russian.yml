@@ -32,9 +32,6 @@
  EGY_afr_decrease_debt_8: "§G-8§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Gdecreases§! by 8\n"
  EGY_afr_decrease_debt_9: "§G-9§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Gdecreases§! by 9\n"
  EGY_afr_decrease_debt_10: "§G-10§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Gdecreases§! by 10\n"
- egy_vic_debt: "Уровень долга Государства [Root.GetName]: §R[?Root.debt_level]§!"
- egy_vic_debt_desc: "Уровень долга нашей страны.\nЕсли он превысит §Y20§! мы можем столкнуться с большими проблемами.\nЕсли он достигнет §R50§! мы будем вынуждены объявить о банкротстве."
- egy_vic_debt_payments: "[Root.GetName]'s Debt Repayments"
  egy_vic_postal_service: "Egyptian Postal Service"
  egy_public_consered_debt_1: "Low Worries of National Debt"
  egy_public_consered_debt_2: "Rising Worries of National Debt"
@@ -300,3 +297,21 @@
  baring_report_comissioned: "Baring Report Commissioned"
  EGY_block_the_canal: "Block the Canal"
  EGY_un_block_the_canal: "Unblock the Canal"
+ EGY_overtaxed_landowners: "Overtaxed landowners" #NT!
+  
+ afr_EGY_vic.28.t: "Britain Sends fleet to Alexandria" #NT!
+ afr_EGY_vic.28.d: "The British have sent a fleet of battleships to the coast of Alexandria, we can only assume this is to protect their stake in the Canel. However, the presence of the foreign fleet exacerbated the tensions in Alexandria between the nationalist forces and the large foreign and Christian population." #NT!
+ afr_EGY_vic.28.a: "Worrying" #NT!
+ afr_EGY_vic.29.t: "Britain bombards Alexandria" #NT!
+ afr_EGY_vic.29.d: "l Admiral Seymour issued an ultimatum to 'Urabi's forces to stop fortifying or the British fleet would bombard the city. However, this was not done and at 7:00am Admiral Seymour aboard HMS Invincible signaled to HMS Alexandra to commence firing at the Ras El Tin fortifications followed by the general order to attack the enemy's batteries. It has been estimated that as many as 30 percent of the shells fired by the Royal Navy missed their targets and landed in the city itself, causing death and injury among the inhabitants, damaging or destroying many buildings, and starting fires which spread over the following days." #NT!
+ afr_EGY_vic.29.a: "Worrying" #NT!
+ afr_EGY_vic.30.t: "Revolts spread across country" #NT!
+ afr_EGY_vic.30.d: "The attack on Alexandria has made tensions across the country much worse, with Urabi struggling to keep control. It is likely that Britain may intervene further" #NT!
+ afr_EGY_vic.30.a: "Worrying" #NT!
+ afr_EGY_vic.31.t: "Britain intervenes in revolts" #NT!
+ afr_EGY_vic.31.d: "" #NT!
+ afr_EGY_vic.31.a: "Worrying" #NT!
+ afr_EGY_vic.31.t: "Britain intervenes in revolts" #NT!
+ afr_EGY_vic.31.d: "Tension built over the summer of 1881 as both the Khedive and the Egyptian officers, now led by ʻUrabi, searched for supporters and gathered allies. In September the Khedive ordered ʻUrabi's regiment to leave Cairo. He refused and ordered the dismissal of the Turco-Circassian generals and the creation of an elected government. Our governmeant is unable to oppse the revolt." #NT!
+ afr_EGY_vic.31.a: "Allow him to take control" #NT!
+ afr_EGY_vic.31.b: "Crack down on the Officers" #NT!

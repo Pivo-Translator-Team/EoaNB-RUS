@@ -1,6 +1,107 @@
 ﻿l_russian:
   
-  #Decisions 
+ ###Decisions 
+  
+ #Balkan Affairs 
+ OTO_decision_category_balkan_affairs: "Balkan Affairs" #NT!
+ OTO_decision_category_balkan_affairs_desc: "The Balkan has long been an area of expansion for our ancestors. In recent decades, however, our grip on the region is loosening and many of the ethnic minorities have developed nationalist tendencies direct against our Empire. We need to take action in order to reinforce our power on the Balkan peninsula and to restore our former glory." #NT!
+ OTO_decision_create_danubian_vilayet: "Create the Danubian Vilayet" #NT!
+ OTO_decision_create_danubian_vilayet_desc: "We should create a Danubian Vilayet to act as a model province for the rest of the Empire." #NT!
+ OTO_decision_appoint_midhad_pasha: "Appoint Midhad Pasha" #NT!
+ OTO_decision_appoint_midhad_pasha_desc: "Midhad Pasha has proven a competent administrator during his work in Nis. To implement the reforms needed on the Danube, Midhat Pasha should take the lead on the path of the new changes." #NT!
+ OTO_decision_appoint_midhad_pasha_effect_tt: "§YMidhad Pasha§! will be selectable as a §Ypolitical advisor§!." #NT!
+ OTO_danubian_vilayet_established_flag: "The §YDanubian Vilayet§! has been established." #NT!
+ OTO_decision_assimilate_protestants: "Assimilate Protestants" #NT!
+ OTO_decision_assimilate_protestants_desc: "As their devotion and religious affiliation are diminishing, we could increase our efforts to assimilate Protestants." #NT!
+ OTO_decision_assimilate_protestants_effect_tt: "A number of §BProtestants§!£protestantism_texticon  in our Empire will be assimilated." #NT!
+ OTO_decision_increase_cultural_autonomy: "Increase Cultural Autonomy" #NT!
+ OTO_decision_increase_cultural_autonomy_desc: "We could increase the cultural autonomy of our holdings in non-core provinces. This would certainly ease tensions, but at the same time we might lose some grip on these territories." #NT!
+ OTO_decision_reduce_cultural_autonomy: "Reduce Cultural Autonomy" #NT!
+ OTO_decision_reduce_cultural_autonomy_desc: "We could reduce the cultural autonomy of our holdings in non-core provinces. This would certainly increase tensions in these provinces, but at the same we could tighten our grip on these regions." #NT!
+ OTO_decision_invite_eugene_henri_gavand: "Invite Eugène-Henri Gavand" #NT!
+ OTO_decision_invite_eugene_henri_gavand_desc: "The French civil engineer Eugène-Henri Gavand is known for his skills regarding the construction of railway lines in difficult terrain. We could use his expertise in an attempt to modernize our infrastructure." #NT!
+ OTO_decision_invite_eugene_henri_gavand_effect_tt: "§YEugène-Henri Gavand§! will be selectable as a §Ypolitical advisor§!." #NT!
+ OTO_decision_revive_selanik_mines: "Revive the Selanik Mines" #NT!
+ OTO_decision_revive_selanik_mines_desc: "We should invest into reviving the old Selanik mines to increase our resource output." #NT!
+ OTO_decision_invest_tokat_copper_mine: "Invest into Tokat Copper Mine" #NT!
+ OTO_decision_invest_tokat_copper_mine_desc: "Investing into the Topak Copper Mine could proove our ability to compete with the Western powers." #NT!
+ OTO_decision_expand_zonguldak_coal_mine: "Expand the Zonguldak Coal Mine" #NT!
+ OTO_decision_expand_zonguldak_coal_mine_desc: "The mine field in Zonguldak has still not been tapped fully and there is a lot of potential for expansion of our coal output. With the necessary investment, we could significantly increase our resource output in the region." #NT!
+ OTO_decision_invite_ernst_weiss: "Invite the Prussian Mine Engineer Ernst Weiss" #NT!
+ OTO_decision_invite_ernst_weiss_desc: "The Prussian mine engineer Ernst Weiss has expressed his willingness to come to the [OTO.GetName] in order to oversee the expansion of our resource industry. This could be a welcome opportunity to increase our efforts of westernization." #NT!
+ OTO_decision_invite_ernst_weiss_effect_tt: "§YErnst Weiss§! will be selectable as a §Ypolitical advisor§!." #NT!
+ OTO_decision_vratsa_jewellers: "Vratsa Jewellers" #NT!
+ OTO_decision_vratsa_jewellers_desc: "Vratsa's jewelers are known throughout the Empire and Southeastern Europe for their quality craftsmanship. An investment into the expansion and modernization of their workshops could significantly enhance our reputation around the world." #NT!
+ OTO_decision_map_the_danube: "Map the Danube" #NT!
+ OTO_decision_map_the_danube_desc: "By using foreign experts to properly map the Danube in our lands, we can improve infrastructure in the region and increase our standing in the world." #NT!
+ OTO_decision_capture_bulgarian_revolutionaries: "Capture Bulgarian Revolutionaries" #NT!
+ OTO_decision_capture_bulgarian_revolutionaries_desc: "We need to ensure that these elements are not a threat to our national security anymore." #NT!
+ OTO_decision_tarnovo_textile_mill: "Support the Tarnovo Textile Mill" #NT!
+ OTO_decision_tarnovo_textile_mill_desc: "We should do our best to support Stefan Karagiosov in his efforts to establish an Italian-style textile mill at Tarnovo." #NT!
+ OTO_decision_tarnovo_textile_mill_effect_tt: "We can earn §Ypolitical power§! and §Yprestige§! by building the textile mill in §Ytwo years time§!." #NT!
+ OTO_mission_urbanization_of_bulgaria: "Urbanization of Bulgaria" #NT!
+ OTO_mission_urbanization_of_bulgaria_desc: "Bulgaria is urbanizing quickly." #NT!
+ OTO_decision_encourage_bulgarian_urbanization: "Encourage Bulgarian Urbanization" #NT!
+ OTO_decision_encourage_bulgarian_urbanization_desc: "By encouraging Bulgarian urbanization we can profit form the additional workforce for the industries in the cities." #NT!
+ OTO_decision_redistribute_the_land: "Redistribute the Land" #NT!
+ OTO_decision_redistribute_the_land_desc: "By redistributing parts of the Empire's land holdings we could make sure that the most productive farmers can be rewarded, increasing their motivation to grow more and use modern farming techniques." #NT!
+ OTO_decision_support_landowners: "Support Small and Medium-Sized Landowners" #NT!
+ OTO_decision_support_landowners_desc: "By supporting the small and medium-sized landowners we can increase our agricultural output and further encourage the switch to new and modern farming techniques." #NT!
+ OTO_decision_the_agrarian_class: "The Agrarian Class" #NT!
+ OTO_decision_the_agrarian_class_desc: "We need to empower the peasants in order to crush the rigid traditional social order in our rural societies. This way, we could free a lot of unused potential for industrializing and modernization matters." #NT!
+ OTO_mission_strengthen_serbian_border: "Strengthen the Serbian Border" #NT!
+ OTO_mission_strengthen_serbian_border_desc: "Serbia remains an unstable and unreliable entity on our northern border. We should do everything in our power to secure the region with additional defences which would likely deter any Serbian aggression." #NT!
+ OTO_mission_strengthen_serbian_border_trigger_tt: "We will have §Y365 days§! to §Yfortify the border with Serbia§!. To achieve that, §YVidin§! and §YNiš§! need to have at least a §Ylevel 1 fort§!." #NT!
+ OTO_decision_construct_forts_on_the_serbian_border: "Construct Forts on the Serbian Border" #NT!
+ OTO_decision_construct_forts_on_the_serbian_border_desc: "We can invest into the construction of forts on the Serbian border." #NT!
+ OTO_decision_grant_concession_for_telegraph_lines: "Grant Concessions for Telegraph Lines" #NT!
+ OTO_decision_grant_concession_for_telegraph_lines_desc: "By granting concessions to foreign companies like Siemens that possess the knowledge and the capabilities to construct telegraph lines, we can significantly increase the speed in which our commands and messages are conveyed." #NT!
+ OTO_decision_pernik_coal_mines: "The Pernik Coal Mine" #NT!
+ OTO_decision_pernik_coal_mines_desc: "Research has proven that there are rich and untapped coal fields near the town of Pernik. Building a coal mine here could be useful in order to significantly increase our resource output." #NT!
+ OTO_decision_chiprovtsi_carpet_industry: "Support the Chiprovtsi Carpet Industry" #NT!
+ OTO_decision_chiprovtsi_carpet_industry_desc: "The Chiprovtsi Carpet Industry might be small at the moment, but there is potential for growth. It would be wise to do our best to support it." #NT!
+ OTO_decision_ressurect_silk_industry: "Ressurect the Silk Industry" #NT!
+ OTO_decision_ressurect_silk_industry_desc: "" #NT!
+ OTO_decision_modernised_ruggery_workshops: "Modernise Ruggery Workshops" #NT!
+ OTO_decision_modernised_ruggery_workshops_desc: "" #NT!
+ OTO_decision_euro_stock_exchange: "European Stock Exchange" #NT!
+ OTO_decision_euro_stock_exchange_desc: "" #NT!
+ OTO_decision_develop_trip: "Develop Tripoli" #NT!
+ OTO_decision_develop_trip_desc: "" #NT!
+  
+ #Ottoman Railway Projects 
+ OTO_decision_category_railway_projects: "Ottoman Railway Projects" #NT!
+ OTO_decision_category_railway_projects_desc: "Locomotives are the heart of industrialization and their tracks are the lifelines. Our Empire lacks the prerequisites to keep up with the major Western powers in this area, but we can get help. We urgently need to invest in our infrastructure to speed up modernization." #NT!
+ OTO_decision_construct_izmir_aydin_railway: "Construct Izmir-Aydin Railway" #NT!
+ OTO_decision_construct_izmir_aydin_railway_desc: "The Izmir-Aydin Railway Line will greatly improve our industrial capacities in the region." #NT!
+ OTO_mission_ruse_varna_railway_line: "The Ruse-Varna Railway Line" #NT!
+ OTO_mission_ruse_varna_railway_line_desc: "Construction of the Ruse-Varna Railway Line is underway." #NT!
+ OTO_decision_invite_foreign_experts: "Invite Foreign Experts to Assist Construction" #NT!
+ OTO_decision_invite_foreign_experts_desc: "Compared to the Western powers, we have little experience in the matters of railroad technologicy. Therefore, taking in experience from foreigners might not a bad idea and we could invite them to assist with the construction of the railway line." #NT!
+ OTO_decision_invest_more_money: "Invest Money to Encourage Faster Construction" #NT!
+ OTO_decision_invest_more_money_desc: "Despite the deficit our Empire is facing at the moment, it is urgent to invest more money to encourage faster construction." #NT!
+ OTO_decision_local_labor_force: "Use the Local Labor Force for Construction" #NT!
+ OTO_decision_local_labor_force_desc: "The regional towns such as Shumen and Razgrad possess sufficient workforce that can be used in the construction phase. However, the work is tough and there might be consequences." #NT!
+  
+ #Rhodopes Islamization 
+ OTO_decision_category_islamization: "Rhodopes Islamization" #NT!
+ OTO_decision_category_islamization_desc: "The §YRhodopes region§! has been a center of §Yassimilation efforts in the Balkans§!, and a majority of the populace there speaks Turkish now. In terms of faith and affiliation, however, a majority is still following ideas foreign to our Empire. By taking measures to convert the local population to §GIslam§!£islam_texticon  we could enhance the process of assimilation and §Yconsolidate our power in the region§!." #NT!
+ OTO_decision_tear_down_orthodox_churches_rhodopes: "Tear Down Orthodox Churches in the Rhodopes" #NT!
+ OTO_decision_tear_down_orthodox_churches_rhodopes_desc: "By tearing down Orthodox churches in the region we will send a clear signal that Islamization and conversion of the local populace is desired by the High Porte." #NT!
+ OTO_decision_tear_down_orthodox_churches_rhodopes_effect_tt: "The percentage of §GSunni Muslims§!£islam_texticon  in the region will §Grise§! as the percentage of §0Orthodox Christians§!£orthodoxy_texticon  will dwindle." #NT!
+ OTO_decision_raid_bulgarian_settlements: "Raid Isolated Bulgarian Settlements" #NT!
+ OTO_decision_raid_bulgarian_settlements_desc: "There are isolated Bulgarian settlements resisting conversion. We could raid them using our armed forces, which would send a clear signal to the rest of the populace in the region." #NT!
+ OTO_decision_raid_bulgarian_settlements_effect_tt: "As a result of our raiding operations, the percentage of §GSunni Muslims§!£islam_texticon  in the region will §Grise§! as the §0Orthodox§!£orthodoxy_texticon  population decreases." #NT!
+ OTO_decision_establish_new_municipal_boundaries: "Establish New Municipal Boundaries" #NT!
+ OTO_decision_establish_new_municipal_boundaries_desc: "The municipalities of the Rhodope region have been established long ago. We could reorganize them to improve the influence of our local supporters and to make sure that there are more municipalities with a Muslim£islam_texticon  majority. This should encourage assimilation further." #NT!
+ OTO_decision_establish_new_municipal_boundaries_effect_tt: "The new municipal boundaries will make it easier to administer the region and slightly increase the number of §GSunni Muslims§!£islam_texticon  majority municipalities." #NT!
+ OTO_decision_collect_additional_taxes_from_bulgarians: "Collect Additional Taxes from Bulgarians" #NT!
+ OTO_decision_collect_additional_taxes_from_bulgarians_desc: "By collecting additional taxes from the §0Orthodox Bulgarians§!£orthodoxy_texticon  we can finance other measures and make them more willing to assimilate. This will, of course, cause some trouble in the short term, though." #NT!
+ OTO_decision_collect_additional_taxes_from_bulgarians_effect_tt: "The additional taxes will make a small number of §0Orthodox Bulgarians§! §Yassimilate§! to our customs." #NT!
+ OTO_decision_contact_michal_czajkowski: "Contact Michał Czajkowski" #NT!
+ OTO_decision_contact_michal_czajkowski_desc: "Michał Czajkowski is Polish writer of distant Cossack heritage. He is a vocal and enthusiastic supporter of a Muslim Cossack state. Czajkowski could help us in our endeavor of Islamizing the Rhodopes. Since he is of Slavic origin, the local Slavic populace might be much more open to his ideas than to those of our administrators." #NT!
+ OTO_decision_contact_michal_czajkowski_effect_tt: "§YMehmet Sadyk Pasha§!, as §YMichał Czajkowski§! is called in the §YOttoman Empire§!, will be selectable as a §Ypolitical advisor§!." #NT!
+  
  OTO_suppress_independence_movements_in_the_balkans: "Suppress independence movements in the Balkans."
  OTO_suppress_independence_movements_in_the_balkans_desc: "The last years have seen a rising nationalism among the minorities in the Balkans. If we don't react now and suppress them soon it may be too late and we may lose our territories there."
  OTO_reign_in_montenegro: "Reign in [MNT.GetName]"
@@ -13,183 +114,240 @@
  OTO_conquer_cetinje: "conquer the Cetinje"
  OTO_decision_category_Herzegovinian_uprising: "Herzegovina uprising 1862"
  OTO_decision_category_Herzegovinian_uprising_desc: ""
+ OTO_develop_industry_in_central_anatolia: "Develop mechanized industry in Central Anatolia" #NT!
+ OTO_invest_on_galata_institutions: "Invest on the Galata Institutions" #NT!
+ OTO_organize_guilds: "Organize the rural Guilds" #NT!
+ OTO_consolidate_cotton_farms: "Consolidate cotton farms" #NT!
+ OTO_create_agroindustries_syria: "Create agroindustries in Syria" #NT!
+ OTO_fund_mining_expeditions: "Fund mining expeditions on Anatolia" #NT!
+ OTO_invest_ironworks_south_east: "Invest in ironworks on the Southeast" #NT!
+ OTO_establish_naval_works_lybia: "Establish naval works in Libya" #NT!
+  
+ #Tanzimat Decisions 
+ OTO_decision_category_islahat_fermani: "Islahat Fermani" #NT!
+ OTO_decision_category_islahat_fermani_desc: "Our Empire is weak and backward in many respects. It is imperative that we implement reforms in order to make progress and become competitive. These steps will be met with resistance and will not be accomplished without significant opposition, but we must take this path to get back on our feet and return the [OTO.GetName] to its glorious might." #NT!
+ OTO_mission_improve_education_system: "Improvements in the Education System" #NT!
+ OTO_mission_improve_education_system_desc: "Our empire is backward, and that also applies to our education system. We need to implement reforms in order to make progress here and become competitive." #NT!
+ OTO_decision_use_administrative_resoruces: "Use Administrative Resources" #NT!
+ OTO_decision_use_administrative_resoruces_desc: "We can use our administrative resources to smoothen the implementation of the desired reform." #NT!
+ OTO_decision_remove_bureaucratic_barriers: "Remove Bureaucratic Barriers" #NT!
+ OTO_decision_remove_bureaucratic_barriers_desc: "We can use our influence to remove bureaucratic barriers in the way of implementing the desired reform." #NT!
+ OTO_decision_allocate_additional_funding: "Allocate Additional Funding" #NT!
+ OTO_decision_allocate_additional_funding_desc: "We can allocate additional funds to make sure that the desired reform is implemented quickly and efficiently." #NT!
+  
+ #Military Reforms Decisions 
+ OTO_decision_category_military_reforms: "Ottoman Military Reforms" #NT!
+ OTO_decision_category_military_reforms_desc: "Ottoman Military stands in a very sad state. Even after 'victory' in recent war with Russia, our forces could barely called army in western definition of this word. Titanic work should be done in all of spheres, from ammunition to structure, to ensure security of the Porte in future conflicts, be it another war with Russia or any of brewing rebellions..." #NT!
+ OTO_decision_expand_arms_production_constantinople: "Expand Arms Production in Constantinopole" #NT!
+ OTO_decision_expand_arms_production_constantinople_desc: "" #NT!
+ OTO_decision_konya_arms_factory: "Construct New Arms Factory in Konya" #NT!
+ OTO_decision_konya_arms_factory_desc: "" #NT!
+ OTO_decision_adalia_arms_factory: "Construct New Arms Factory in Adalia" #NT!
+ OTO_decision_adalia_arms_factory_desc: "" #NT!
+ OTO_decision_smyrna_arms_factory: "Construct New Arms Factory in Smyrna" #NT!
+ OTO_decision_smyrna_arms_factory_desc: "" #NT!
+ OTO_decision_bursa_artillery_foundry: "Construct Artillery Foundry in Bursa" #NT!
+ OTO_decision_bursa_artillery_foundry_desc: "" #NT!
+ OTO_decision_expand_shipyards_constantinople: "Expand Constantinopole Shipyards" #NT!
+ OTO_decision_expand_shipyards_constantinople_desc: "" #NT!
+ OTO_decision_import_british_rifles: "Import British Rifles" #NT!
+ OTO_decision_import_british_rifles_desc: "" #NT!
+ OTO_decision_import_french_rifles: "Import French Rifles" #NT!
+ OTO_decision_import_french_rifles_desc: "" #NT!
+ OTO_decision_import_american_rifles: "Import American Rifles" #NT!
+ OTO_decision_import_american_rifles_desc: "" #NT!
+ OTO_decision_import_german_artillery: "Import German Artillery" #NT!
+ OTO_decision_import_german_artillery_desc: "" #NT!
+ OTO_decision_import_american_artillery: "Import American Artillery" #NT!
+ OTO_decision_import_american_artillery_desc: "" #NT!
+  
+ #Military Tooltips 
+ eoanb_tt_OTO_ottoman_military_debt_management: "§GThis will reduce our future military costs§!" #NT!
+  
+ ###IDEAS 
+  
+ #Sick Man 
+ OTO_idea_sick_man_1: "Sick Man of Europe" #NT!
+ OTO_idea_sick_man_1_desc: "The [Root.GetName] has long been called the Sick Man of Europe, and the effects of this now begin to appear" #NT!
+ OTO_idea_sick_man_2: "Sick Man of Europe" #NT!
+ OTO_idea_sick_man_2_desc: "The [Root.GetName] has long been called the Sick Man of Europe, and the effects of this now begin to appear" #NT!
+ OTO_idea_sick_man_3: "Sick Man of Europe" #NT!
+ OTO_idea_sick_man_3_desc: "The [Root.GetName] has long been called the Sick Man of Europe, and the effects of this now begin to appear" #NT!
+ OTO_idea_sick_man_4: "Sick Man of Europe" #NT!
+ OTO_idea_sick_man_4_desc: "The [Root.GetName] is falling behind the other powers of Europe as the sickness spreads within them, many doubt that any administration could save them now." #NT!
+ OTO_idea_sick_man_5: "Sick Man of Europe" #NT!
+ OTO_idea_sick_man_5_desc: "The [Root.GetName] is falling behind the other powers of Europe as the sickness spreads within them, many doubt that any administration could save them now." #NT!
+ OTO_idea_sick_man_6: "Sick Man of Europe" #NT!
+ OTO_idea_sick_man_6_desc: "The [Root.GetName] is falling behind the other powers of Europe as the sickness spreads within them. Many powerful men prepare for the collapse and bookies are taking bets on how far away the collapse is." #NT!
+  
+ #Crimean War Debt 
+ OTO_idea_crimean_war_debt: "Crimean War Debt" #NT!
+ OTO_idea_crimean_war_debt_desc: "The Crimean War was officially a success for us, but we had to pay a high price for it. Our European allies did not support us out of pure charity. The high costs of the war and the loans we received are a burden on our state coffers." #NT!
+ OTO_idea_crimean_war_debt_spend_1: "Crimean War Debt" #NT!
+ OTO_idea_crimean_war_debt_spend_1_desc: "The Crimean War was officially a success for us, but we had to pay a high price for it. Our European allies did not support us out of pure charity. The high costs of the war and the loans we received are a burden on our state coffers." #NT!
+ OTO_idea_crimean_war_debt_spend_2: "Crimean War Debt" #NT!
+ OTO_idea_crimean_war_debt_spend_2_desc: "The Crimean War was officially a success for us, but we had to pay a high price for it. Our European allies did not support us out of pure charity. The high costs of the war and the loans we received are a burden on our state coffers." #NT!
+ OTO_idea_crimean_war_debt_spend_3: "Crimean War Debt" #NT!
+ OTO_idea_crimean_war_debt_spend_3_desc: "The Crimean War was officially a success for us, but we had to pay a high price for it. Our European allies did not support us out of pure charity. The high costs of the war and the loans we received are a burden on our state coffers." #NT!
+ OTO_idea_crimean_war_debt_save_1: "Crimean War Debt" #NT!
+ OTO_idea_crimean_war_debt_save_1_desc: "The Crimean War was officially a success for us, but we had to pay a high price for it. Our European allies did not support us out of pure charity. The high costs of the war and the loans we received are a burden on our state coffers." #NT!
+ OTO_idea_crimean_war_debt_save_2: "Crimean War Debt" #NT!
+ OTO_idea_crimean_war_debt_save_2_desc: "The Crimean War was officially a success for us, but we had to pay a high price for it. Our European allies did not support us out of pure charity. The high costs of the war and the loans we received are a burden on our state coffers." #NT!
+  
+ #Tanzimat Reform Ideas 
+ OTO_idea_tanzimat_reform_start: "Tanzimat Reform" #NT!
+ OTO_idea_tanzimat_reform_start_desc: "The Tanzimat reforms encompass governmental changes aimed at modernizing the Empire and centralizing power. Inspired by European models, these reforms seek to reorganize administrative, legal, and educational systems, including more religious freedom. There are also economic changes included, like modernizing the tax system and strengthening our Empire's financial basis." #NT!
+ OTO_idea_tanzimat_reform: "Tanzimat Reform" #NT!
+ OTO_idea_tanzimat_reform_desc: "The Tanzimat reforms encompass governmental changes aimed at modernizing the Empire and centralizing power. Inspired by European models, these reforms seek to reorganize administrative, legal, and educational systems, including more religious freedom. There are also economic changes included, like modernizing the tax system and strengthening our Empire's financial basis." #NT!
+ OTO_idea_tanzimat_reform_1: "Tanzimat Reform" #NT!
+ OTO_idea_tanzimat_reform_1_desc: "The Tanzimat reforms encompass governmental changes aimed at modernizing the Empire and centralizing power. Inspired by European models, these reforms seek to reorganize administrative, legal, and educational systems, including more religious freedom. There are also economic changes included, like modernizing the tax system and strengthening our Empire's financial basis." #NT!
+ OTO_idea_tanzimat_reform_2: "Tanzimat Reform" #NT!
+ OTO_idea_tanzimat_reform_2_desc: "The Tanzimat reforms encompass governmental changes aimed at modernizing the Empire and centralizing power. Inspired by European models, these reforms seek to reorganize administrative, legal, and educational systems, including more religious freedom. There are also economic changes included, like modernizing the tax system and strengthening our Empire's financial basis." #NT!
+ OTO_idea_tanzimat_reform_eased: "Eased Tanzimat Reform Tentions" #NT!
+ OTO_idea_tanzimat_reform_eased_desc: "The Tanzimat reforms encompass governmental changes aimed at modernizing the Empire and centralizing power. Inspired by European models, these reforms seek to reorganize administrative, legal, and educational systems, including more religious freedom. There are also economic changes included, like modernizing the tax system and strengthening our Empire's financial basis." #NT!
+ OTO_idea_tanzimat_reform_refuted: "Tanzimat Reform Refuted" #NT!
+ OTO_idea_tanzimat_reform_refuted_desc: "The Tanzimat reforms encompass governmental changes aimed at modernizing the Empire and centralizing power. Inspired by European models, these reforms seek to reorganize administrative, legal, and educational systems, including more religious freedom. There are also economic changes included, like modernizing the tax system and strengthening our Empire's financial basis." #NT!
+ OTO_idea_tanzimat_reform_refuted_2: "Tanzimat Reform Refuted" #NT!
+ OTO_idea_tanzimat_reform_refuted_2_desc: "The Tanzimat reforms encompass governmental changes aimed at modernizing the Empire and centralizing power. Inspired by European models, these reforms seek to reorganize administrative, legal, and educational systems, including more religious freedom. There are also economic changes included, like modernizing the tax system and strengthening our Empire's financial basis." #NT!
+ OTO_idea_tanzimat_reform_refuted_3: "Tanzimat Reform Refuted" #NT!
+ OTO_idea_tanzimat_reform_refuted_3_desc: "The Tanzimat reforms encompass governmental changes aimed at modernizing the Empire and centralizing power. Inspired by European models, these reforms seek to reorganize administrative, legal, and educational systems, including more religious freedom. There are also economic changes included, like modernizing the tax system and strengthening our Empire's financial basis." #NT!
+  
+ tatar_migrant_crisis: "Tatar Migrant Crisis"
+  
+ #Ishat Fermani Ideas and Modifiers 
+ OTO_idea_taleb_foregin_exchange: "Taleb Foreign Exchanges" #NT!
+ OTO_idea_cream_civil_servants: "Cream Civil Servants" #NT!
+ OTO_idea_regulated_government_spending: "Government Spending Regulated" #NT!
+ OTO_idea_streamlined_property_rights: "Streamlined Property Rights" #NT!
+ OTO_idea_dahiliye_nezaret: "The Dâhiliye Nezareti" #NT!
+ OTO_idea_bezmialem_valide_hospital: "The Bezmialem Valide Hospital" #NT!
+ dynmod_OTO_city_of_palaces: "City of Palaces" #NT!
+  
+ #Military Reforms Ideas 
+ OTO_idea_westernized_ranks: "Westernized Ranks" #NT!
+ OTO_idea_kara_harp_school: "Kara Harp School" #NT!
+ OTO_idea_non_existing_arms_industry_1: "Non-existing Arms Industry" #NT!
+ OTO_idea_non_existing_arms_industry_1_desc: "Our arms industry is currently in a very bad shape." #NT!
+ OTO_idea_non_existing_arms_industry_2: "Barely Existing Arms Industry" #NT!
+ OTO_idea_non_existing_arms_industry_2_desc: "Our arms industry is still in a bad shape but slowly recovering." #NT!
+ OTO_idea_non_existing_arms_industry_3: "Weak Existing Arms Industry" #NT!
+ OTO_idea_non_existing_arms_industry_3_desc: "Our arms industry is still not in a good shape but slowly recovering." #NT!
+ OTO_idea_non_existing_arms_industry_4: "Emerging Arms Industry" #NT!
+ OTO_idea_non_existing_arms_industry_4_desc: "Our arms industry is slowly getting back on its feet." #NT!
+ OTO_idea_non_existing_artillery_industry: "Non-existing Artillery Production" #NT!
+ OTO_idea_non_existing_artillery_industry_desc: "Our artillery production is currently in a very bad shape." #NT!
+  
+ ALB_idea_albanian_fervor: "Albanian Fervor"
+ ALB_idea_albanian_fervor_desc: "Albanian nationalist fervor is directed against their long-term overlord, the Ottoman Empire." #NT!
+  
+ OTO_idea_foreign_investors: "Foreign Investors" #NT!
+ OTO_idea_foreign_investors_desc: "Foreign investors are coming to our country which in turn helps our economy grow faster and industrialization to speed up." #NT!
+ OTO_idea_general_agricultural_funds_1: "Agricultural Funds" #NT!
+ OTO_idea_general_agricultural_funds_1_desc: "Allowing investment of additional funds into the agricultural sector will provide the necessary means for economic development." #NT!
+ OTO_idea_general_agricultural_funds_2: "Agricultural and Peasant Funds" #NT!
+ OTO_idea_general_agricultural_funds_2_desc: "Allowing investment of additional funds into the agricultural sector will provide the necessary means for economic development and the support of our peasants." #NT!
+ OTO_idea_general_agricultural_funds_3: "A Strong Peasantry" #NT!
+ OTO_idea_general_agricultural_funds_3_desc: "The peasantry is the backbone of our country and their hard work ensure we have food on the table. We need to make them the driving force behind our strive for modernization and prosperity." #NT!
+ OTO_idea_empowered_urban_unions: "Empowered Urban Unions" #NT!
+ OTO_idea_empowered_urban_unions_desc: "Urban unions of industrialists are the driving force behind most of our private industries. By empowering them we can maximize their leverage in terms of economic growth and development." #NT!
+ OTO_idea_empowered_rural_unions: "Empowered Rural Unions" #NT!
+ OTO_idea_empowered_rural_unions_desc: "Rural unions of farmers and landowners are the backbone of our economy. By empowering them we can not really improve the food supply within our country, but also produce excess to be sold for profit." #NT!
+  
+ OTO_idea_cult_of_the_sultan: "Cult of the Sultan" #NT!
+ OTO_idea_cult_of_the_sultan_desc: "Sultan [OTO.GetLeader] leads our Empire by divine right. He is the Supreme Leader and we must do everything in our power to support him." #NT!
+  
+ OTO_idea_gm_and_co_investments: "GM & Co. Investments" #NT!
+ OTO_idea_gm_and_co_investments_desc: "" #NT!
+ OTO_idea_rothschild_investments: "Rothschild Investments" #NT!
+ OTO_idea_rothschild_investments_desc: "" #NT!
+ OTO_idea_pereire_investments: "Pereire Investments" #NT!
+ OTO_idea_pereire_investments_desc: "" #NT!
+  
+ OTO_idea_the_suez_1: "The Suez" #NT!
+ OTO_idea_the_suez_1_desc: "" #NT!
+ OTO_idea_the_suez_2: "The Suez" #NT!
+ OTO_idea_the_suez_2_desc: "" #NT!
+ OTO_idea_tributes_to_the_porte: "Tributes to the Porte" #NT!
+ OTO_idea_tributes_to_the_porte_desc: "" #NT!
+ OTO_idea_bountiful_harvest: "Bountiful Harvest" #NT!
+ OTO_idea_bountiful_harvest_desc: "" #NT!
+ OTO_idea_reinforced_trade_lines: "Reinforced Trade Lines" #NT!
+ OTO_idea_reinforced_trade_lines_desc: "" #NT!
+ OTO_idea_leased_assests: "Leased Assets" #NT!
+ OTO_idea_leased_assests_desc: "" #NT!
+  
+ #Military Ideas 
+ OTO_idea_devshrime: "Devshrime" #NT!
+ OTO_idea_devshrime_desc: "" #NT!
+ OTO_idea_prussian_tatics_1: "Prussian Tactics" #NT!
+ OTO_idea_prussian_tatics_1_desc: "We are using Prussian tactics for our army." #NT!
+ OTO_idea_prussian_tatics_2: "Prussian Tactics" #NT!
+ OTO_idea_prussian_tatics_2_desc: "We are using Prussian tactics for our army." #NT!
+ OTO_idea_french_tatics_1: "French Tactics" #NT!
+ OTO_idea_french_tatics_1_desc: "We are using French tactics for our army." #NT!
+ OTO_idea_french_tatics_2: "French Tactics" #NT!
+ OTO_idea_french_tatics_2_desc: "We are using French tactics for our army." #NT!
   
   
+ ###TRAITS 
+ OTO_trait_charles_augustus_hartley: "Father of the Danube" #NT!
+ OTO_trait_cyrus_hamlin: "Protestant Educator" #NT!
+ OTO_trait_ernst_weiss: "Prussian Mine Engineer" #NT!
+ OTO_trait_eugene_henri_gavand: "French Civil Engineer" #NT!
+ OTO_trait_mehmet_sadyk_pasha: "Cossack Enthusiast" #NT!
+ OTO_trait_midhad_pasha: "Vilayet Governor" #NT!
+ OTO_trait_neofit_rilski: "Bulgarian Patriarch" #NT!
   
+ ###EVENTS 
+ #Tanzimant Events 
+ OTO_events.63.t: "Islahat Fermani" #NT!
+ OTO_events.63.d: "The Islahat Fermani is a reform edict from 1856. Better known as the 'Imperial Reform Edict', it is part of the so-called Tanzimat reforms were started by Sultan Mahmud II. His son and successor, Abdulmecid I, has decided to continue the reform path that his father has laid. He decided to announce this edict in order to streamline and combine the previous reform efforts into a larger picture. It is both a promise to his citizens and subjects as it is a sign towards the Western powers which supported the Ottomans in their struggle against Russia." #NT!
+ OTO_events.63.a: "Onwards to modernization!" #NT!
+ OTO_events.64.t: "Secure More Railway Funds" #NT!
+ OTO_events.64.d: "We need to secure more funds in order to fully develop our railways and infrastructure, otherwise we might get stuck before we can even get started. We have a few options on the international market but we need to make a decision who we should trust with this matter." #NT!
+ OTO_events.64.a: "Go with Prussian money, they only have economic interests here." #NT!
+ OTO_events.64.b: "Choose Austrian investors, we have a direct line to them." #NT!
+ OTO_events.64.c: "The French have helped us before, let's go with them." #NT!
+ OTO_events.65.t: "Meetings with Political Adversaries" #NT!
+ OTO_events.65.d: "The Tanzimat reforms are met with stark resistance. We need to take action if we don't want to be at the wrong end of a stick eventually..." #NT!
+ OTO_events.65.d: "Let's ease off a bit." #NT!
   
+ #Military Reforms 
+ OTO_events.66.t: "Potential Import Partners" #NT!
+ OTO_events.66.d: "It is clear that we cannot produce sufficient amounts of rifles on our own. We not only lack the appropriate facilities, building them up would also cost a lot of time and even more money. Thus, we are left with no other choice than to import weapons from abroad. The questions is, however, do we want to trust in this delicate matter?" #NT!
+ OTO_events.66.a: "Trust British suppliers." #NT!
+ OTO_events.66.b: "Trust the French instead, they will not betray us." #NT!
+ OTO_events.66.c: "Rely on American suppliers." #NT!
+ OTO_events.67.t: "A 300 Year Old Legacy…" #NT!
+ OTO_events.67.d: "The Ottoman artillery corps have a long and proud history, but at the same time a rather bleak and unfortunate present. Most, if not all our artillery pieces are outdated and fall short in comparison with any of our potential adversaries. 'Artillery is King of battle' as some military scholars said, so in order to compete with rival armies our artillery must be rearmed.\n\nProducing high-quality artillery weapons, however, requires time, skill and money. We seem to be lacking all of those requirements at the moment. It might, therefore, be wise to import artillery weapons from abroad. The Germans and Americans seem to be able to supply artillery weaponry of proven quality. Prussian Krupp cannons are considered cutting-edge, while American field artillery is also a solid choice.\n\nOn the other hand, it could be time to finally establish an artillery production of our own. It may be costly, time-consuming and is initially likely to be of lesser quality, but our supplies will be more secure and we could save money in the long run. So, what do we do?" #NT!
+ OTO_events.67.a: "Krupp cannons have proven their effectiveness." #NT!
+ OTO_events.67.b: "American artillery has been tested in the Civil War." #NT!
+ OTO_events.67.c: "There's nothing like homemade!" #NT!
+ OTO_events.68.t: "And What Of The Legacy Of Urbans?" #NT!
+ OTO_events.68.d: "WIP" #NT!
+ OTO_events.68.a: "WIP" #NT!
+ OTO_events.69.t: "A Strong Military - but at what Cost?" #NT!
+ OTO_events.69.d: "As any military campaign is largely financial, any military reform in the end results in question of the budget. We always need more arms, more arsenals, more officer academies and solider salaries. There is no possibility that the Porte can defeat another Great Power, namely Russia, without an even bigger budget for military spending. From another perspective, however, uncontrolled military spending could defeat our Empire faster than any Russian army ever could. We must consider our budgeting very carefully." #NT!
+ OTO_events.69.a: "The budget stays the same." #NT!
+ OTO_events.69.b: "Our army needs nore funds, increase the budget." #NT!
+ OTO_events.73.t: "The Donanma-yi Humâyûn" #NT!
+ OTO_events.73.d: "The Imperial Navy, or Donanma-yi Humâyûn as it is known in Ottoman Turkish, is considered to be pride of the High Porte, but it has lost its former glory in recent decades. The Mediterranean is now flooded with British and French ships, but our main contender still stands threatening in the Black Sea. Although we cannot compete with the Western navies, we could still be able to deter Russia in our northern waters, but that would require significant investments and many reforms to our naval organization, logistics and education." #NT!
+ OTO_events.73.a: "Lots of work ahead..." #NT!
   
-  #Focus Tree 
- OTO_vic_land_code_1858: "Land Code of 1858"
- OTO_vic_land_code_1858_desc: "We should codify the different types of land ownership so that we can accurately record, and therefore best make use of, the different types of land holdings across the empire."
- OTO_vic_increase_spending: "Increase Spending"
- OTO_vic_increase_spending_desc: "We should put the finances from our loans to good use and invest in a stronger economy in the long-term, even if it costs us now."
- OTO_vic_save_money: "Save Money"
- OTO_vic_save_money_desc: "Put away money in the treasury to pay back our enormous international debts. It may hurt, but this is the only way to avoid bankruptcy."
- OTO_vic_defund_charities: "Defund Charitable Organisations"
- OTO_vic_defund_charities_desc: "The treasury loses a lot of money by funding Islamic charitable organisations. Let us leave this to the private investors, and keep as much revenue to ourselves as possible."
- OTO_vic_army_cutbacks: "Army Cutbacks"
- OTO_vic_army_cutbacks_desc: "After humiliating defeats, we should not waste any more money frivolously on the army. It is best to take time to rebuild the economy and think about the army later."
- OTO_vic_first_crimean_war_debt_payoff: "First Crimean War Debt Payoff"
- OTO_vic_first_crimean_war_debt_payoff_desc: "Use the money we have saved to make our first installment in paying back our Crimean War debt."
- OTO_vic_auction_state_assets: "Auction State Assets"
- OTO_vic_auction_state_assets_desc: "Sell off property of the Sultan and local governments to the highest bidder, whether they be regional nobles or foreign private investors. We can reap a lot of money by selling treasures and small parcels of land in this way."
- OTO_vic_final_crimean_war_debt_payment: "Final Crimean War Debt Payment"
- OTO_vic_final_crimean_war_debt_payment_desc: "Gather the funds to pay off the last of the Crimean war debt. After this round of payments, we will finally be debt free."
- OTO_vic_close_down_embassies: "Close Down Embassies"
- OTO_vic_close_down_embassies_desc: "Our diplomatic expenses are enormous. Though they support our international presence, they are not vital to the continuation of our Empire."
- OTO_vic_governmental_infrastructure: "Governmental Infrastructure"
- OTO_vic_governmental_infrastructure_desc: ""
- OTO_vic_justice_reforms: "Justice Reforms"
- OTO_vic_justice_reforms_desc: "Our criminal justice system is far too corrupt and filled with bureaucratic red tape. Reforming the system will solve this."
- OTO_vic_crimean_debt_question: "Crimean Debt Question"
- OTO_vic_crimean_debt_question_desc: ""
- OTO_vic_deal_with_bankruptcy: "Deal with Bankruptcy"
- OTO_vic_deal_with_bankruptcy_desc: "We have been forced to declare bankruptcy; we need to commit resources to help mitigate this."
- OTO_vic_profits_of_the_cotton_trade: "Profits of the Cotton Trade"
- OTO_vic_profits_of_the_cotton_trade_desc: ""
- OTO_vic_raise_taxes: "Raise Taxes"
- OTO_vic_raise_taxes_desc: "We must increase taxes to pay for our spending and debt payment."
- OTO_vic_first_payment: "First Debt Payment"
- OTO_vic_first_payment_desc: ""
- OTO_vic_stimulate_the_ottoman_economy: "Stimulate the Ottoman Economy"
- OTO_vic_stimulate_the_ottoman_economy_desc: "Allocating loaned money into building up our industrial heartland will ensure that we will not be faced with a similar situation in the future."
- OTO_vic_invest_in_ottoman_businesses: "Invest in Ottoman Businesses"
- OTO_vic_invest_in_ottoman_businesses_desc: "Subsidizing small businesses will lead to domestic economic growth and will boost our economy."
- OTO_vic_the_question_of_religious_freedoms: "The Question of Religious Freedoms"
- OTO_vic_the_question_of_religious_freedoms_desc: "It is time to decide how we are to treat the other religions within our empire."
- OTO_vic_Force_convert_the_churches: "Force Convert the Churches"
- OTO_vic_Force_convert_the_churches_desc: "We should the other churches within the empire to preach Islamic values."
- OTO_vic_religious_repair: "Religious Repair"
- OTO_vic_religious_repair_desc: "We should repair our relations with the various churches that worship differently in our empire."
- OTO_vic_schooling_reforms: "Schooling Reforms"
- OTO_vic_schooling_reforms_desc: "Modernizing our education system will help us catch up to the rest of Europe."
- OTO_vic_power_control: "Power and Control"
- OTO_vic_power_control_desc: ""
- OTO_vic_empower_sultan: "Empower the Sultan"
- OTO_vic_empower_sultan_desc: ""
- OTO_vic_closed_schooling: "Closed Schooling"
- OTO_vic_closed_schooling_desc: "Limiting the number of students who can go to school will reduce some strain on our economy, while still enabling us to provide education to certain people."
- OTO_vic_open_schooling: "Open Schooling"
- OTO_vic_open_schooling_desc: "Opening up the education system for everyone will, while requiring more funds, allow everyone to better themselves and help the economy in the long term."
- OTO_vic_military_reforms: "Military Reforms"
- OTO_vic_military_reforms_desc: ""
- OTO_vic_enforce_corporal_punishment: "Enforce Corporal Punishment"
- OTO_vic_enforce_corporal_punishment_desc: "Enforcing corporal punishment will ensure that people are less likely to commit crimes."
- OTO_vic_abolish_corporal_punishment: "Abolish Corporal Punishment"
- OTO_vic_abolish_corporal_punishment_desc: "The current system of corporal punishment is much too cruel; we must abolish it to gain the support of the people."
- OTO_vic_police_force: "Police Force"
- OTO_vic_police_force_desc: ""
- OTO_vic_increased_reforms: "Increased Reforms"
- OTO_vic_increased_reforms_desc: ""
- OTO_vic_the_pay_of_the_grand_vizier: "The Pay of the Grand Vizier"
- OTO_vic_the_pay_of_the_grand_vizier_desc: ""
- OTO_vic_1869_nationality_law: "The Nationality Law of 1869"
- OTO_vic_1869_nationality_law_desc: "Give citizenship to people within our nation regardless of religion or ethnicity."
- OTO_vic_decriminalize_homosexuality: "Decriminalize Homosexuality"
- OTO_vic_decriminalize_homosexuality_desc: ""
- OTO_vic_edict_of_public_education: "Edict of Public Education"
- OTO_vic_edict_of_public_education_desc: ""
- OTO_vic_open_the_imperial_school: "Open the Imperial School"
- OTO_vic_open_the_imperial_school_desc: ""
- OTO_vic_ideals_of_the_tanzimatcilar: "Ideals of the Tanzimatcilar"
- OTO_vic_ideals_of_the_tanzimatcilar_desc: ""
- OTO_vic_future_of_the_empire: "Future of the Empire"
- OTO_vic_future_of_the_empire_desc: ""
- OTO_vic_traditional_ideals: "Traditional Ideals"
- OTO_vic_traditional_ideals_desc: ""
- OTO_vic_Grand_Vizier_Power: "Give the Grand Vizier More Power"
- OTO_vic_Grand_Vizier_Power_desc: ""
- OTO_vic_begin_to_Undo_the_Tanzimat: "Begin to Undo the Tanzimat"
- OTO_vic_begin_to_Undo_the_Tanzimat_desc: "The Tanzimat reforms made the Sultan much weaker. it is time to undo it and restore absolute power and restore power to the Viziers."
- OTO_vic_The_Sultans_Viziers: "The Sultan's Viziers"
- OTO_vic_The_Sultans_Viziers_desc: ""
- OTO_vic_Empire_Trade: "Empire Trade"
- OTO_vic_Empire_Trade_desc: ""
- OTO_vic_Mediterranean_Market: "Mediterranean Market"
- OTO_vic_Mediterranean_Market_desc: ""
- OTO_vic_reverse_islahat: "Reverse Islahat"
- OTO_vic_reverse_islahat_desc: ""
- OTO_vic_forced_islamic_conversion: "Islamic Supremacy"
- OTO_vic_forced_islamic_conversion_desc: ""
- OTO_vic_Islamic_State: "Islamic State"
- OTO_vic_Islamic_State_desc: ""
- OTO_vic_ottomanism: "Ottomanism"
- OTO_vic_ottomanism_desc: ""
- OTO_vic_military_revisionism: "Military Revisionism"
- OTO_vic_military_revisionism_desc: ""
- OTO_vic_reimplement_devshirme: "Reinstitution of the Devshirme"
- OTO_vic_reimplement_devshirme_desc: "Assure the People of the Book their security under the state by reinstuting the Devshirme -- An select group of non-Muslim subjects educated through the Islamic system and bound for life in service to the state."
- OTO_vic_imperial_power: "Imperial Power"
- OTO_vic_imperial_power_desc: ""
- OTO_vic_military_expansion: "Military Expansion"
- OTO_vic_military_expansion_desc: ""
- OTO_vic_Show_of_Force: "Show of Force"
- OTO_vic_Show_of_Force_desc: ""
- OTO_vic_Holding_Struggle: "Holding Struggle"
- OTO_vic_Holding_Struggle_desc: ""
- OTO_vic_imperial_Holdings: "Imperial Holdings"
- OTO_vic_imperial_Holdings_desc: ""
- OTO_vic_Internal_Reforms: "Internal Reforms"
- OTO_vic_Internal_Reforms_desc: ""
- OTO_vic_military_agenda: "Military Agenda"
- OTO_vic_military_agenda_desc: "With our military expansion and reform plans done, we can now make a military agenda for our armies to fulfill, this includes filling our army with more modernized weapons and equipment, and reforming our military doctrines even further."
- OTO_vic_german_doctrines: "German Doctrines"
- OTO_vic_german_doctrines_desc: "Prussian military doctrines mostly involve using newer modernized tactics instead of older traditional tactics, along with a good use of artillery and also utilizing things other than just infantry."
- OTO_vic_french_doctrines: "French Doctrines"
- OTO_vic_french_doctrines_desc: "The French army has many traditional doctrines, and at the same time, each general has their own doctrine that they use, instead of a single unified doctrine, this allows us to switch it up if ever needed to match the conditions of battle."
- OTO_vic_german_influence: "German Influence"
- OTO_vic_german_influence_desc: "With heavy Prussian influence to our doctrines, we can also apply Prussian influence to our weapons, equipment, uniforms, and other things that we have, along with taking a Prussian style military command."
- OTO_vic_french_influence: "French Influence"
- OTO_vic_french_influence_desc: "We can use french influenced designs for our weapons, our uniforms, and our equipment to use on the battlefield, along with using a more french styled military command."
- OTO_vic_new_ottoman_army: "New Ottoman Army"
- OTO_vic_new_ottoman_army_desc: "With our Military Reform Agenda now fulfilled, we now have a brand new and reformed army, taking doctrines and influence from foreign powers, and adding our ways to it, finally having a westernized army."
- OTO_vic_buying_arms: "Buy Arms"
- OTO_vic_buying_arms_desc: "In order to fulfill one of the steps of the military agenda, we can buy foreign weaponry and equipment from the USA, The British, and the Prussians, this will help further allow us to produce our own modern equipment."
- OTO_vic_USA_guns: "Buy American Weapons"
- OTO_vic_USA_guns_desc: "With the Americans now out of their bloody civil war, and with many, many, leftover weapons and equipment, they are willing to sell these at a reasonably low price compared to the British arms."
- OTO_vic_ENG_guns: "Buy British Weapons"
- OTO_vic_ENG_guns_desc: "With the British Empire having many leftover weapons from conquering far lands, they are willing to sell these weapons at a reasonably lower price compared to the American Weapons."
- OTO_vic_PRS_artillery: "Buy Prussian Artillery"
- OTO_vic_PRS_artillery_desc: "The Kingdom of Prussia has some of the most reformed and modernized artillery systems in the world, they are willing to sell us some of this new artillery for us to make on our own."
- OTO_vic_economic_reforms: "Economic Reforms"
- OTO_vic_economic_reforms_desc: "Now with our first set of economic and political reforms now finished, we can continue the economic reforms to help modernize and to ensure we don't fall into another debt crisis again, we can accomplish this by rearranging our economic structure, as well as regulating and monitoring revenue."
- OTO_vic_attempt_debt_crackdown: "Attempt to Crack Down on Debt"
- OTO_vic_attempt_debt_crackdown_desc: "In order to forward modernization, we must now crack down on our debt problems, this involves having better debt management, paying off our debt, and various other methods."
- OTO_vic_debt_management: "Debt Management"
- OTO_vic_debt_management_desc: "One way to crack down on debt is to have better methods of debt management. We can do this by paying off our debts, or saving money, increasing trade with European powers, and various other things."
- OTO_vic_reformation_of_the_national_bank: "Ottoman National Bank"
- OTO_vic_reformation_of_the_national_bank_desc: "Having a unified national bank can help us gain enough funds to fund factories, railways, and general construction projects across the nation, this can also lead to better economic structures in the future."
- OTO_vic_form_oto_stock_exchange: "Ottoman Stock Exchange"
- OTO_vic_form_oto_stock_exchange_desc: "With a unified national bank now established, we can now also establish the Ottoman Stock Exchange, this will allow european investors to seek higher returns in the vast ottoman markets."
- OTO_vic_begin_modernization_efforts: "Begin Modernization Efforts"
- OTO_vic_begin_modernization_efforts_desc: "With a series of industrial reforms now completed, we can start to modernize our nation, we do also have to do other steps to help bolster the modernization process, but this will lay down the foundations for it."
- OTO_vic_complete_moderization: "Complete Modernization"
- OTO_vic_complete_moderization_desc: "After completing the steps to modernization, we can now declare ourselves a modernized nation now that our efforts have paid off. This will help for years to come in our future."
- OTO_vic_ottoman_railways: "Ottoman Railways"
- OTO_vic_ottoman_railways_desc: "Alongside Balkan railways, we can now also construct various railways across Anatolia, we can also connect these up to the Balkan lines, as railways are vital to the economy, we can use these to help modernize."
- OTO_vic_balkan_mines: "Balkan Railways"
- OTO_vic_balkan_mines_desc: "In order to transport raw resources in our balkan holdings, we can construct various railways, eventually, we can construct these railways to connect with our anatolian ones, unifying the railways"
- OTO_vic_mines_in_anatolia: "Mines in Anatolia"
- OTO_vic_mines_in_anatolia_desc: "Across Anatolia there are many resource rich areas, we can mine some of these areas, such as Trabzon, having raw iron and coal depots, and Mersin, having just raw iron depots."
- OTO_vic_mines_in_lebanon: "Mines in Lebanon"
- OTO_vic_mines_in_lebanon_desc: "Lebanon, having many coal deposits, we can exploit this by constructing many mines in the region, acquiring a part of this coal, we can use this in various things such as factories for making weapons."
- OTO_vic_ottoman_influence: "Ottoman Influence"
- OTO_vic_ottoman_influence_desc: ""
- OTO_vic_influence_in_the_balkans: "Influence in the Balkans"
- OTO_vic_influence_in_the_balkans_desc: ""
- OTO_vic_our_balkan_holdings: "Our Balkan Holdings"
- OTO_vic_our_balkan_holdings_desc: ""
- OTO_vic_influence_in_africa: "Influence in Africa"
- OTO_vic_influence_in_africa_desc: ""
- OTO_vic_the_sons_of_muhammad_ali: "The Sons of Muhammad Ali"
- OTO_vic_the_sons_of_muhammad_ali_desc: ""
- OTO_vic_influence_in_arabia: "Influence In Arabia"
- OTO_vic_influence_in_arabia_desc: ""
- OTO_mac_great_eastern_crisis: "Great Eastern Crisis"
- OTO_mac_great_eastern_crisis_desc: ""
-  ### always attempt to do stuff from top to bottom, left to right### 
+ #Balkan Tree 
+ OTO_events.70.t: "The Copper Heart of the Empire" #NT!
+ OTO_events.70.d: "In 18th and 19th century Europe, wide-ranging reforms have been implemented in many areas following the Industrial Revolution. The need of resources has gradually increased with the development of industrialization at the start of this century. Our Empire, which followed all the developments closely and has recently begun the effort of modernization, has started to use and rediscover the rich mining basins within the country. The military and civilian industry sectors are much more vibrant now than they used to be in the 16th and 17th centuries. However, we are still lacking modern techniques for the extraction and transportation of sufficient amounts of goods compared to our European counterparts. Despite all of that, some parts of the Empire still manage to produce at least an adequate amount of the ores we need. This includes the Tokat copper mine in Asia Minor, which is a symbol of our ability to compete with the Western nations." #NT!
+ OTO_events.70.a: "We should invest into the copper mine at Tokat." #NT!
+ OTO_events.70.b: "Our money is better spent elsewhere." #NT!
+ OTO_events.71.t: "The Ruse-Varna Railway Project" #NT!
+ OTO_events.71.d: "In a bold move to modernize our Empire and enhance our strategic infrastructure, the Ottoman government needs to finalize plans for the Ruse-Varna Railway, connecting the Danube port city of Ruse with the Black Sea port of Varna. This project promises to revolutionize trade and military logistics within our borders. However, given the resources and expertise required, we have to decide whether we want to grant a concession to either British or French investors and engineers, or to rely on local experts to oversee the construction and initial operation of the railway. This decision has sparked considerable debate within the Empire. On one hand, foreign investment and expertise will expedite the project and ensure its success. On the other hand, commissioning to foreign companies would be more expensive and there are concerns about the extent of foreign influence and control over such a vital piece of infrastructure." #NT!
+ OTO_events.71.a: "Contact London." #NT!
+ OTO_events.71.b: "Use French capital." #NT!
+ OTO_events.71.c: "Trust in local experts." #NT!
+ OTO_events.72.t: "The First Railway in the Empire" #NT!
+ OTO_events.72.d: "As we strive to modernize the [OTO.GetName], the completion of the Ruse-Varna Railway in [GetYear] stands as a monumental achievement. Stretching from the Danube port city of Ruse to the Black Sea port of Varna, this railway is the first of its kind in our Empire, symbolizing our dedication to progress and innovation. This project not only enhances our trade routes but also fortifies our strategic military capabilities by streamlining the movement of troops and resources. This vital link between Europe and the Near East strengthens our ties with Western powers and showcases our commitment to modernization, promising a brighter future for our Empire." #NT!
+ OTO_events.72.a: "Success!" #NT!
   
-  #Events 
  OTO_vassal_tribute.1.t: ""
  OTO_vassal_tribute.1.d: ""
  OTO_vassal_tribute.2.t: "Tribute"
@@ -339,36 +497,15 @@
  OTO_mac_grain_crisis4: "§RGrain Crisis§!"
  OTO_mac_grain_crisis5: "§RGrain Crisis§!"
  OTO_mac_grain_crisis_remains: "Recovering from the Grain Crisis"
- OTO_vic_turkish_language: "Turkish Language Promoted"
- OTO_vic_universal_printing: "Universal Printing Allowed"
- OTO_vic_industrial_reforms: "Industrial Reforms"
- OTO_vic_industrial_reforms_desc: "In order to begin modernization efforts, we can begin a series of industrial reforms to help advance construction speeds. This will help us construct factories, railways, and other industrial buildings."
  OTO_events.3.t: "Questions about the Grand Vizers Pay"
- OTO_vic_learn_from_the_FRA_army: "Learn from the Army of the [FRA.GetName]"
- OTO_vic_learn_from_the_FRA_army_desc: "The French army, having one of the most modernized armies in the world, we can use this and learn from the French army, taking on French influence and using French doctrines for our army."
- OTO_vic_learn_from_the_PRS_army: "Learn from the Army of the [PRS.GetName]"
- OTO_vic_learn_from_the_PRS_army_desc: "The Prussian army, having one of the best armies in Europe, we can use this to our advantage, using Prussian influenced doctrines, and having Prussian influenced uniforms, weapons, and equipment."
  OTO_1858_land_code: "1858 Land Code"
- OTO_vic_start_of_the_tanzimat_reforms: "Continue the Tanzimat Reforms"
- OTO_vic_modernization_effort: "Modernization Effort"
- OTO_tanzimat_reform_start: "Tanzimat Reform"
- OTO_license_foreign_arms: "Licensing Foreign Arms"
  OTO_religious_segregation: "Sided with Religious Segregationist"
  OTO_religious_intergration: "Sided with Religious Integrationist"
  OTO_events.1.t: "The Question of Religious Freedoms"
  OTO_events.1.d: "Religion has been a hotly debated and contentious matter, with the Sultans and their counselors taking primacy. Since the beginning of the nineteenth century, religious freedom riots have erupted across our vast empire, particularly in the Balkans, where the Christian majority seeks greater recognition of their beliefs. As the Caliph of the Islamic World, the issue of religion is extremely important, thus the topic must be addressed as soon as possible."
  OTO_events.1.a: "Sunni Islam is the only religion"
  OTO_events.1.b: "Integrate in the Catholics"
- #OTO_tanzimat_reform_1: "Tanzimat Reform"
- #OTO_tanzimat_reform_2: "Tanzimat Reform"
- OTO_tanzimat_reform_3: "Tanzimat Reform"
- OTO_tanzimat_reform_4: "Tanzimat Reform"
  OTO_events.2.t: "The Question of the Crimean Debt"
- OTO_crimean_war_debt_spend_1: "Crimean War Debt"
- OTO_crimean_war_debt_save_1: "Crimean War Debt"
- OTO_crimean_war_debt_spend_2: "Crimean War Debt"
- OTO_crimean_war_debt_spend_3: "Crimean War Debt"
- OTO_crimean_war_debt_save_2: "Crimean War Debt"
  OTO_closed_embassies: "Closed Embassies"
  OTO_auctioned_state_assets: "Auctioned State Assets"
  OTO_mac_consentrate_russia: "Concentrate on the [RUS.GetName]"
@@ -428,34 +565,16 @@
  OTO_events.40.d: "In addition to Sofia, the earthquake was also felt in distant towns such as Plovdiv and Yanina. Buildings were affected in Ihtiman and Rila Monastery, and the flow of mineral springs changed in Dolna Banya. In Sofia, the earthquake caused significant damage, with 70-80% of buildings severely affected. The poorer inhabitants of the city are in a difficult situation, having to rebuild their houses unforeseen in the run-up to winter. Some have been helped by donations, such as that made by Ivan Denkoğlu.In the case of the larger public buildings, the damage was more severe, with some partially or completely destroyed. The minarets of 19 of the city's 24 mosques were demolished, and only 2 of the 7 churches remain usable. Among the destroyed buildings is the Siyavush Mosque, which was abandoned after the earthquake. According to eyewitness accounts, the roof of the minaret of the Bash Cheshme Mosque, toppled over and stuck its spire into the minaret's spire. One of the arches of the newly built St Nedelya Cathedral also fell. The earthquake kills 4 people, including two children at the Siyavush Mosque and one of the construction workers at St. Nedelya. In some places around Sofia cracks opened in the ground, according to Filaretov the crack between Boyana and Dragalevtsi is over 20 cm wide and about 1.5 km long. West of the city a new hot geyser appears, which gradually weakens to the still existing spring in Ovcha Kupel. The flow rate of the mineral springs in the town decreases for a few days and then recovers"
  OTO_events.40.a: "We must offer help!"
   
-  #Ideas 
- OTO_crimean_war_debt: "Crimean War Debt"
- tatar_migrant_crisis: "Tatar Migrant Crisis"
- OTO_tanzimat_reform: "Tanzimat Reform"
- OTO_tanzimat_reform_1: "Tanzimat Reform"
- OTO_tanzimat_reform_2: "Tanzimat Reform"
- OTO_tanzimat_reform_refuted: "Tanzimat Reform Refuted"
- OTO_tanzimat_reform_refuted_2: "Tanzimat Reform Refuted"
- OTO_tanzimat_reform_refuted_3: "Tanzimat Reform Refuted"
- OTO_sick_man: "Sick Man of Europe"
- OTO_sick_man_desc: "The [Root.GetName] has long been called the Sick Man of Europe, and the effects of this now begin to appear"
- OTO_sick_man_2: "Sick Man of Europe"
- OTO_sick_man_2_desc: "The [Root.GetName] has long been called the Sick Man of Europe, and the effects of this now begin to appear"
- OTO_sick_man_3: "Sick Man of Europe"
- OTO_sick_man_3_desc: "The [Root.GetName] has long been called the Sick Man of Europe, and the effects of this now begin to appear"
- OTO_sick_man_4: "Sick Man of Europe"
- OTO_sick_man_4_desc: "The [Root.GetName] is falling behind the other powers of Europe as the sickness spreads within them, many doubt that any administration could save them now."
- OTO_sick_man_5: "Sick Man of Europe"
- OTO_sick_man_5_desc: "The [Root.GetName] is falling behind the other powers of Europe as the sickness spreads within them, many doubt that any administration could save them now."
- OTO_sick_man_6: "Sick Man of Europe"
- OTO_sick_man_6_desc: "The [Root.GetName] is falling behind the other powers of Europe as the sickness spreads within them. Many powerful men prepare for the collapse and bookies are taking bets on how far away the collapse is."
- OTO_vic_devshrime: "Devshrime"
- OTO_vic_ottoman_trade: "Imperial Trade"
- OTO_vic_ottoman_mediterranean: "Ottoman Mediterranean"
- OTO_vic_prussian_tatics: "Prussian Tactics"
- OTO_vic_prussian_tatics_2: "Prussian Tactics"
- OTO_vic_french_tatics: "French Tactics"
- OTO_vic_french_tatics_2: "French Tactics"
+ OTO_events.61.t: "Creation of the Danubian Vilayet" #NT!
+ OTO_events.61.d: "Our local administrators in the Danubian valley have informed us that the Danubian Vilayet has officially been established, safeguarding the borders and economic stability of our great Empire on the border with Romania. The vilayet encompasses the northern parts of the Silistra province along the Danube River and the eyalets of Niš, Vidin and Silistra. This vilayet is meant to become a model province, showcasing all the progress achieved by our nation through the modernizing efforts linked to the Tanzimat reforms! We are all looking forward to harvesting the fruits of this initiative." #NT!
+ OTO_events.61.a: "Hooray!" #NT!
+ OTO_events.62.t: "Which investor do we choose?" #NT!
+ OTO_events.62.d: "" #NT!
+ OTO_events.62.a: "Rothschild family" #NT!
+ OTO_events.62.b: "Pereire brothers" #NT!
+ OTO_events.62.c: "GM & Co." #NT!
+  
+  
  OTO_vic_imperial_school: "Imperial School"
  OTO_mac_fixed_wheat_prices: "Fixed Wheat Prices"
  #OTO_mac_war_focus_russia: "Fight the Russians!"
@@ -466,18 +585,17 @@
  OTO_mac_increased_tax_burden: "Increased Tax Burden"
  OTO_ERU_tamrash_republic: "Autonomous Tamrash Republic"
  OTO_ERU_tamrash_republic_desc: "The Pomak dominated Tamrash Republic declared itself a self governing administrative region not long after the establishment of Eastern Rumelia. Instead remaining under direct ottoman control. Any attempts by the Eastern Rumelia administration to subdue this Pomak thorn have been unsuccessful so far."
- ALB_idea_albanian_fervor: "Albanian Fervor"
   
- OTO_sicker_man_of_europe: "Our situation worsens..."
-  OTO_heal_sick_man: "We can no longer be considered the 'Sick Man of Europe'. 
-  
-  #Opinion Modifiers 
- OTO_rail_partnership: "Rail Partnership"
+ #Opinion Modifiers 
+ OTTOMAN_RAILWAY_COOPERATION_REL: "Ottoman Railway Cooperation" #NT!
  OTO_young_ottomans_and_france: "The Young Ottomans and France"
  OTO_restricted_churches_opinion_malus: "Restricted Churches"
  OTO_anglo_ottoman_convention_om: "Anglo-Ottoman Convention"
  GRE_OTO_teaching_greek: "Teaching Greek"
  supported_BUL_exarchate: "Supported Heretical Church"
+ OTO_investments_rothschild_family: "Rothschild Connections" #NT!
+ OTO_investments_pereire_brothers: "Pereire Connections" #NT!
+ OTO_investments_gm_and_co_offer: "GM & Co. Connections" #NT!
   
  #################### 
  ### Crete Revolt ### 
@@ -498,6 +616,124 @@
  OTO_events.39.d: "Despite our diplomats best efforts to appease the Greeks in Crete, the situation has gotten worse. Our efforts to contain them continue."
  OTO_events.39.a: "That's not good."
   
+ OTO_events.41.t: "Problems in Mount Lebanon" #NT!
+ OTO_events.41.d: "A Peasant Leader is inciting rebellion against the local feudal lords in Lebanon" #NT!
+ OTO_events.41.a: "Troubling..." #NT!
+  
+ OTO_events.42.t: "Lebanese Lords Overthrown!" #NT!
+ OTO_events.42.d: "The local Lebanese Lords in Keserwan have been overthrown by Tanyus" #NT!
+ OTO_events.42.a: "Hopefully things will stabilize now" #NT!
+  
+ OTO_events.43.t: "Druze-Maronite tensions rising" #NT!
+ OTO_events.43.d: "The Lebanon has not stabilized since the overthrow of the local lords. Inter-millet violence between the Druze and Maronite communities has become quite prevalent." #NT!
+ OTO_events.43.a: "Lebanon is on the brink of Catastrophe" #NT!
+  
+ OTO_events.44.t: "Tensions in Lebanon explode!" #NT!
+ OTO_events.44.d: "Lebanon has exploded in violence today as the local tension between Druze and Maronites have boiled over" #NT!
+ OTO_events.44.a: "Things can only get worse..." #NT!
+  
+ OTO_events.45.t: "Christian Refugees" #NT!
+ OTO_events.45.d: "As Lebanon explodes into violence, thousands of Christians flee into Damascus for safety" #NT!
+ OTO_events.45.a: "May they be safe in Damascus" #NT!
+  
+ OTO_events.46.t: "Bloody Lebanon" #NT!
+ OTO_events.46.d: "Intense clashes and atrocities are occuring across Lebanon, thousands are dead" #NT!
+ OTO_events.46.a: "This is bad" #NT!
+  
+ OTO_events.47.t: "Violence Spreads to Damascus!" #NT!
+ OTO_events.47.d: "The Christian refugees have not had luck in Damascus. The violence from Mount Lebanon has spread to Damascus and many are dead" #NT!
+ OTO_events.47.a: "Wait until Europe finds out about this..." #NT!
+  
+ OTO_world_event.1.t: "The Mount Lebanon Crisis" #NT!
+ OTO_world_event.1.d: "The Levant has slipped into chaos. Thousands of civilians are dead including many Christians. The violence has even spread to the once great city of Damascus. This is sure to anger many across the globe." #NT!
+ OTO_world_event.1.a: "Oh the humanity!" #NT!
+  
+ OTO_events.49.t: "Intervention in Lebanon" #NT!
+ OTO_events.49.d: "France has proposed a Coalition to intervene in Lebanon to protect the Maronite minorities! They will send an ultimatum to the Ottoman Empire on July 1st. Should we join France and other Great Powers in the coalition?" #NT!
+ OTO_events.49.a: "Of course!" #NT!
+ OTO_events.49.b: "Why should we interfere in Ottoman affairs?" #NT!
+  
+ OTO_events.50.t: "Ultimatum from Europe" #NT!
+ OTO_events.50.d: "France and its coalition have sent us an ultimatum to allow them to intervene on the ground in Mount Lebanon. Accepting would be a flagrant violation of our autonomy, however risking a war with Europeans might hurt us more. Should we accept?" #NT!
+ OTO_events.50.a: "What else can we do but accept?" #NT!
+ OTO_events.50.b: "The Ottoman Empire is a Soverign State!" #NT!
+  
+ OTO_events.51.t.a: "Expeditionary army lands in Beirut" #NT!
+ OTO_events.51.t.b: "Preparations for military operation" #NT!
+ OTO_events.51.d.a: "Coalition forces arrive on the coast of Beirut to stabilize the situation" #NT!
+ OTO_events.51.d.b: "The combined coalition begins to prepare for a military operation against the Ottoman Empire" #NT!
+ OTO_events.51.a: "Great News!" #NT!
+ OTO_events.51.b: "How far we have fallen" #NT!
+ OTO_events.51.c: "Let them come!" #NT!
+  
+ OTO_events.52.t.a: "Pacification Begins" #NT!
+ OTO_events.52.t.b: "Occupation of Beirut!" #NT!
+ OTO_events.52.d.a: "Coalition forces have begun their campaign to pacify the region to protect the local Maronites." #NT!
+ OTO_events.52.d.b: "Coalition forces have seize Beirut from the Ottoman Garrison. The French have already begun contacting leaders of local Maronite militias in an attempt to arm them against Ottoman troops." #NT!
+ OTO_events.52.a: "The Maronite suffering is finally coming to an end" #NT!
+ OTO_events.52.b: "Spectacular Progress!" #NT!
+ OTO_events.52.c: "At least the crisis is coming to an end" #NT!
+ OTO_events.52.d: "This is a flagrant violation of our Sovereignty!" #NT!
+  
+ OTO_events.53.t.a: "Réglement Organique" #NT!
+ OTO_events.53.t.b: "Our Response to the Occupation" #NT!
+ OTO_events.53.d.a: "Our Pacification has been successful. To maintain a status quo between the Maronites, Muslims, and Druze we have established the Mutasarrifate of Lebanon; an autonomous region of the Ottoman Empire" #NT!
+ OTO_events.53.d.b: "The World watches with a careful eye to how we respond to this act of aggression. The wolves are ready to attack if we show weakness. We must respond!" #NT!
+ OTO_events.53.a: "A Successful Expedition" #NT!
+ OTO_events.53.b: "Send the military to enforce our will in the region" #NT!
+  
+ OTO_events.54.t: "Clashes in Lebanon" #NT!
+ OTO_events.54.d: "Rebels and Ottoman soldiers have begun to clash in Latakia and outer Lebanon. It seems that the Ottomans are officially involved in the conflict and the fuse of war has been lit" #NT!
+ OTO_events.54.a: "How dare they hurt People fighting for their right to live!" #NT!
+ OTO_events.54.b: "Let the traitors bleed!" #NT!
+  
+ OTO_events.55.t.a: "Khalil Agha agrees to help the French!" #NT!
+ OTO_events.55.t.b: "Khalil Agha refuses to join the French" #NT!
+ OTO_events.55.d.a: "Khalil Agha, a local strongman in Palestine that helped protect the Christians of Nazareth from the massacres sweeping the region, has agreed to join our fight against the Ottoman Empire" #NT!
+ OTO_events.55.d.b: "Khalil Agha, a local strongman in Palestine that helped protect the Christians of Nazareth from the massacres sweeping the region, declined to join our fight against the Ottoman Empire" #NT!
+ OTO_events.55.a: "Amazing!" #NT!
+ OTO_events.55.b: "Let him bleed!" #NT!
+ OTO_events.55.c: "Unfortunate" #NT!
+ OTO_events.55.d: "The West cannot break the bonds of Islam!" #NT!
+  
+ OTO_events.56.t: "War Breaks Out in Lebanon!" #NT!
+ OTO_events.56.d: "It appears that the tensions in Lebanon have reached a tipping point. The clashes between Lebanese and Ottoman soldiers have been increasing in both frequency and scale. The situation must now be sorted out on the battlefield" #NT!
+ OTO_events.56.a: "Lebanon shall be free!" #NT!
+ OTO_events.56.b: "Let the traitors bleed!" #NT!
+  
+ OTO_events.60.t: "Treaty of Damascus" #NT!
+ OTO_events.60.d.a: "The Bloody war in Lebanon is finally coming to an end. Both sides are tired and are ready to come to an agreement. How will the post-war Levant look?" #NT!
+ OTO_events.60.a: "We must concede Lebanon and Palestine" #NT!
+ OTO_events.60.b: "Lebanon is Free and Palestine will be Autonomous!" #NT!
+ OTO_events.60.c: "Lebanon will have it's Autonomy" #NT!
+ OTO_events.60.d: "May Europe think twice next time it tries to attack our mighty empire!" #NT!
+ OTO_events.60.e: "We are free!" #NT!
+ OTO_events.60.f: "The Ottomans were stronger than they appeared" #NT!
+ OTO_events.60.g: "The Maronites will be safe under our protection" #NT!
+ OTO_events.60.h: "The Maronites will be safe under French rule" #NT!
+  
+ OTO_events.101.t.a: "Réglement Organique" #NT!
+ OTO_events.101.t.b: "Beirut taken by the French" #NT!
+ OTO_events.101.d.a: "The situation in Lebanon has resulted in a multipower intervention in the region as the Sick Man of Europe failed to deal with the violence. After the European Coalition had a successful expedition to pacify Mount Lebanon in the Ottoman Empire, the coalition has established an autonomous region to better protect the Maronite minorities of Mount Lebanon." #NT!
+ OTO_events.101.d.b: "The situation in Lebanon has resulted in a multipower invasion the region as the Sick Man of Europe failed to deal with the violence. After the Ottoman Empire refused Great Power intervention, the French acted quickly and ceased the city. The ultimate goal of the coalition is the establishment of a Maronite state in the region to better protect the Maronite minorities of Mount Lebanon." #NT!
+ OTO_events.101.a: "The Sick Man falls further" #NT!
+ OTO_events.101.b: "Interesting..." #NT!
+  
+ OTO_events.102.t: "Lebanon War" #NT!
+ OTO_events.102.d: "It appears that the tensions in Lebanon have reached a tipping point. The clashes between Lebanese and Ottoman soldiers have been increasing in both frequency and scale. The situation must now be sorted out on the battlefield." #NT!
+ OTO_events.102.a: "Worrying" #NT!
+  
+ OTO_events.900.t: "Keep State and City Names?" #NT!
+ OTO_events.900.d: "This mod gives you the option of switching the names of states and cities within the [OTO.GetName] to either their Bulgarian or their Greek names, where applicable, or to keep the Turkish names. Which option do you prefer?" #NT!
+ OTO_events.900.a: "Swtich to Bulgarian names." #NT!
+ OTO_event_bulgarian_rename_effect_tt: "§YStates§! and §Ycities§! in the §Y[OTO.GetName]§! will be renamed to their §YBulgarian§! names, where applicable." #NT!
+ OTO_events.900.b: "Swtich to Greek names." #NT!
+ OTO_event_greek_rename_effect_tt: "§YStates§! and §Ycities§! in the §Y[OTO.GetName]§! will be renamed to their §YGreek§! names, where applicable." #NT!
+ OTO_events.900.c: "Keep the Turkish names." #NT!
+  
+ OTO_category_lebanon_intervention: "Intervention in Lebanon" #NT!
+ decision_lebanon_arm_marionites: "Arm the Maronites" #NT!
+  
  OTO_category_crete_revolt: "The Cretan Revolt of [GetYear]"
  OTO_idea_cretan_revolt: "The Cretan Revolt Aftermath"
  OTO_send_pologeorgakis: "Sending Pologeorgakis to negotiate with the Sfakians"
@@ -506,3 +742,351 @@
  OTO_recall_Veli_Eddin_Pasha: "Recall Veli Eddin Pasha"
  OTO_provide_greek_rights: "Cede more autonomy to the Greeks in Crete"
  dynmod_OTO_crete_revolt: "Crete Revolt"
+ dynmod_OTO_edirne_meric_bridge: "The Edirne Meriç Bridge" #NT!
+ decision_cost_ie_2000: " £infantry_equipment_text_icon §Y2000" #NT!
+ decision_cost_ie_2000_blocked: " £infantry_equipment_text_icon §Y2000" #NT!
+ Lebanon_Revolt_Mission_Lebanon_WIN: "SURVIVE" #NT!
+ Lebanon_Revolt_Mission_Ottoman_WIN: "Defeat the Rebels!" #NT!
+ Lebanon_Revolt_Peace_Treaty_Mission: "War Exhaustion Timer" #NT!
+  
+ ######################## 
+ #### OTO VIC FOCUS ##### 
+ ######################## 
+  
+ OTO_focus_consequences_hatt_i_humayun: "Consequences of the Hatt-i Humayun" #NT!
+ OTO_focus_consequences_hatt_i_humayun_desc: "The hatt-i humayun of 1856, better known as the Imperial Reform Edict (or Islâhat Fermâni), is a decree from Sultan Abdülmecid I in which he has promised equality in education, government appointments, and justice to all, regardless of creed. The reform edict has raised both hopes and concerns among the subjects of the [OTO.GetName] and it will be interesting to see what comes of it." #NT!
+ OTO_focus_migration_regulations: "Migration Regulations of 1857" #NT!
+ OTO_focus_migration_regulations_desc: "" #NT!
+ OTO_focus_muhacirin_komisyonu: "Muhacirin Komisyonu" #NT!
+ OTO_focus_muhacirin_komisyonu_desc: "" #NT!
+ OTO_focus_vilayet_division: "Vilayet Division" #NT!
+ OTO_focus_vilayet_division_desc: "" #NT!
+ OTO_focus_press_law: "Press Law" #NT!
+ OTO_focus_press_law_desc: "" #NT!
+ OTO_focus_land_law_of_1858: "The Land Law of 1858" #NT!
+ OTO_focus_land_law_of_1858_desc: "" #NT!
+ OTO_focus_sura_yi_devlet: "Şûrâ-yı Devlet" #NT!
+ OTO_focus_sura_yi_devlet_desc: "" #NT!
+ OTO_focus_galatasaray_imperial_ottoman_lycee: "Galatasaray Imperial Ottoman Lycée" #NT!
+ OTO_focus_galatasaray_imperial_ottoman_lycee_desc: "" #NT!
+ OTO_focus_public_education_law: "Public Education Law" #NT!
+ OTO_focus_public_education_law_desc: "" #NT!
+ OTO_focus_give_europeans_land: "Give the Europeans Land in the Empire" #NT!
+ OTO_focus_give_europeans_land_desc: "" #NT!
+ OTO_focus_ottoman_stock_exchange: "The Ottoman Stock Exchange" #NT!
+ OTO_focus_ottoman_stock_exchange_desc: "" #NT!
+ OTO_focus_reorganize_the_state_council: "Reorganize the State Council" #NT!
+ OTO_focus_reorganize_the_state_council_desc: "" #NT!
+ #Periphery 
+ OTO_focus_periphery_of_the_empire: "The Periphery of the Empire" #NT!
+ OTO_focus_periphery_of_the_empire_desc: "" #NT!
+ OTO_focus_liberties_bosniak_traders: "Liberties to the Bosniak Traders" #NT!
+ OTO_focus_liberties_bosniak_traders_desc: "" #NT!
+ OTO_focus_repress_serbian_bourgeoisie: "Repress the Serbian bourgeoisie" #NT!
+ OTO_focus_repress_serbian_bourgeoisie_desc: "" #NT!
+ OTO_focus_rise_of_yugoslavism: "The Rise of Yugoslavism?" #NT!
+ OTO_focus_rise_of_yugoslavism_desc: "" #NT!
+ OTO_focus_iron_smelting_sarajevo: "Iron-smelting in Sarajevo" #NT!
+ OTO_focus_iron_smelting_sarajevo_desc: "" #NT!
+ OTO_focus_vares_kresevo_mines: "Vareš-Kreševo Mines " #NT!
+ OTO_focus_vares_kresevo_mines_desc: "" #NT!
+ OTO_focus_revive_manufacturing: "Revive the manufacturing" #NT!
+ OTO_focus_revive_manufacturing_desc: "" #NT!
+ OTO_focus_develop_new_trade_routes: "Develop new trade routes" #NT!
+ OTO_focus_develop_new_trade_routes_desc: "" #NT!
+ OTO_focus_northern_towns: "The Northern Towns" #NT!
+ OTO_focus_northern_towns_desc: "" #NT!
+ OTO_focus_imperial_railway: "Trans-Imperial Railway" #NT!
+ OTO_focus_imperial_railway_desc: "" #NT!
+ #Balkan  Development 
+ OTO_focus_balkan_development: "Balkan Development" #NT!
+ OTO_focus_balkan_development_desc: "In the dawn of our Empire we should focus on creating and further secure our Balkan holdings. The Balkans, as a geopolitical place, are important for our state and developing them will ensure our place in Europe and Asia." #NT!
+ OTO_focus_protestant_assimilation: "Protestant Assimilation" #NT!
+ OTO_focus_protestant_assimilation_desc: "Protestants only make up a small percentage of people in the Empire, but they are much more willing to assimilate to our cultures and customs than other religious minorities - a fact that we should use to our advantage." #NT!
+ OTO_focus_questions_cultural_autonomy: "Questions of Cultural Autonomy" #NT!
+ OTO_focus_questions_cultural_autonomy_desc: "We have to answer an important question in regard to the way the Tanzimat reforms are going to be implemented: Do we want to increase cultural autonomy or do we want to reduce it to keep more power centralized?" #NT!
+ OTO_focus_hire_foreign_advisors: "Hire Foreign Advisors" #NT!
+ OTO_focus_hire_foreign_advisors_desc: "[OTO.GetNameDef] has long been at the crossroads of empires and civilizations, learning and adapting from those who pass through its lands. By hiring foreign advisors, we can harness their expertise in order to modernize our military, industry, and administration, ideally enabling the resurrection of our Empire after these tumultuous times." #NT!
+ OTO_focus_hire_foreign_advisors_effect_tt: "§YCharles Augustus Hartley§! and §YCyrus Hamlin§! will be selectable as §Ypolitical advisors§!." #NT!
+ OTO_focus_uproot_aristocrats: "Uproot the Aristocrats" #NT!
+ OTO_focus_uproot_aristocratsdesc: "The aristocracy in the Balkan region has long been the most significant force behind resistance against our rule and even local uprisings. We finally need to uproot them and make it clear to the people that the aristocrats are not acting in their best interest." #NT!
+ OTO_focus_embrace_new_feudalism: "Embrace the New Feudalism" #NT!
+ OTO_focus_embrace_new_feudalism_desc: "A new form of feudalism will help us to improve the loyalty and trust within the local population and it will contribute to our efforts to uproot the traditional elites from the people of the land." #NT!
+ OTO_focus_echoes_industrial_revolution: "Echoes of the Industrial Revolution" #NT!
+ OTO_focus_echoes_industrial_revolution_desc: "The effects of the Industrial Revolution that started at the end of the 18th century are ever-expanding and the Western powers greatly profit from new possibilities. Here, at our doorstep, the [OTO.GetName] finally feels the winds of change, too. It would be beneficial to steer our economy into a path of westernization." #NT!
+ OTO_focus_mines_act: "Mines Act" #NT!
+ OTO_focus_mines_act_desc: "The vast territories of our Empire require firm regulations regarding their management. A mines act needs to be enforced in order to modernize and westernize the primary sector of the economy and improve our resource output." #NT!
+ OTO_focus_welcome_western_investments: "Welcome Western Investments" #NT!
+ OTO_focus_welcome_western_investments_desc: "With the Industrial Revolution already at full speed in Western Europe, it is crucial for us to attract Western industrialists to come to the Empire and increase our industrialization efforts." #NT!
+ OTO_focus_general_agricultural_funds: "General Agricultural Funds" #NT!
+ OTO_focus_general_agricultural_funds_desc: "The bigger part of our economy is based on agriculture. As a result, developing this sector of the economy is paramount and offers the opportunity for speedy growth and profits." #NT!
+ OTO_focus_vratsa_high_quality_jewellery: "Vratsa High-Quality Jewellery " #NT!
+ OTO_focus_vratsa_high_quality_jewellery_desc: "The Bulgarian city of Vratsa is known throughout the Empire and even beyond for its high-quality jewellery craftsmanship. The local jewellers, however, are still using outdated methods of production." #NT!
+ OTO_focus_ottoman_bulgarian_schools: "Ottoman-Bulgarian Schools" #NT!
+ OTO_focus_ottoman_bulgarian_schools_desc: "A significant number of Bulgarian schools have opened over the last years, and by following the Tanzimat we can embrace this trend in line with our modernization efforts." #NT!
+ OTO_focus_danubian_investments: "Danubian Investments" #NT!
+ OTO_focus_danubian_investments_desc: "The Danube is one of the largest rivers in Europe and it has for centuries been an important trade route. Especially in the lands and our control, however, the river is still fairly wild and untamed. We must increase our efforts to improve this situation." #NT!
+ OTO_focus_legacy_of_belogradchik_upspring: "The Legacy of the Belogradchik Uprising" #NT!
+ OTO_focus_legacy_of_belogradchik_upspring_desc: "The Belogradchik Uprising commemorates the fierce but ultimately suppressed 1850 uprising in the Belogradchik region, which saw Bulgarian peasants rise against Ottoman rule. The aftermath of this rebellion left a lasting impact on the Empire's approach to dissent. We shall aim to systematically capture and deal with revolutionary leaders who continue to inspire unrest, ensuring the stability and control of Ottoman authorities over the region." #NT!
+ OTO_focus_empower_urban_unions: "Empower the Urban Unions" #NT!
+ OTO_focus_empower_urban_unions_desc: "The towns play an important role in the development of the regions in the Balkans. They provide much of the technical progress of industrialization and therefore are crucial for our economic development. We should strengthen the position of the industrialist unions in the cities in order to maximize their leverage." #NT!
+ OTO_focus_italian_model_factory_tarnovo: "Italian Model Factory at Tarnovo" #NT!
+ OTO_focus_italian_model_factory_tarnovo_desc: "A Bulgarian industrialist known as Stefan Karagiosov is encouraged to set up a textile mill in his home town of Tarnovo. Using the knowledge and expertise he earned by conducting business in Italy, Karagiosov is determined to make this factory a reality. We should support his efforts." #NT!
+ OTO_focus_cult_of_the_sultan: "The Cult of the Sultan" #NT!
+ OTO_focus_cult_of_the_sultan_desc: "[OTO.GetNameDef] stands at a crossroads, facing internal turmoil and external pressures from rival powers. Amidst these challenges, a resurgence of loyalty and devotion to the Sultan emerges as a unifying force. The Cult of the Sultan symbolizes the concentrated efforts to elevate the Sultan's divine right to rule, reinforcing his authority and solidifying his position as the supreme leader of the Empire." #NT!
+ OTO_focus_reverse_secularization: "Reverse Secularization" #NT!
+ OTO_focus_reverse_secularization_desc: "" #NT!
+ OTO_focus_chemins_de_fer_orientaux: "Chemins de fer Orientaux" #NT!
+ OTO_focus_chemins_de_fer_orientaux_desc: "" #NT!
+ OTO_focus_ruse_varna_railway_line: "Ruse-Varna Railway line" #NT!
+ OTO_focus_ruse_varna_railway_line_desc: "With either the help of foreign capital or our own workforce, the construction of the first Ottoman railway in our European lands will be a vital step on the path to reformed Empire!" #NT!
+ OTO_focus_urbanization_bulgaria: "Urbanization of Bulgaria" #NT!
+ OTO_focus_urbanization_bulgaria_desc: "The 19th century is a time of change and modernization within the Ottoman Empire. Influenced by the Tanzimat reforms. Bulgaria, a predominantly rural and agrarian region, begins to see the early stages of industrialization and urbanization. The Ottoman authorities, recognizing the strategic importance of Bulgaria, should invest in developing infrastructure and promoting urban growth to better control the region and harness its economic potential." #NT!
+ OTO_focus_grace_peasantry: "Grace the Peasantry" #NT!
+ OTO_focus_grace_peasantry_desc: "Making up the biggest part of our population, the peasantry curtails the development and modernization of various sectors within the Empire. Actions must be taken or else we will fail to accomplish what we set out to do." #NT!
+ OTO_focus_empower_rural_unions: "Empower the Rural Unions" #NT!
+ OTO_focus_empower_rural_unions_desc: "As the granaries of our Empire, the villages and the rural areas of the Balkans should be the main focus of economic development. Especially since our industrial capacity is still low, the agricultural sector provides a ready alternative for profitable investment. Rural unions of farmers and landowners can form the basis of a sustainable agricultural industry with potential for growth and prosperity." #NT!
+ OTO_focus_agrarian_class: "The Agrarian Class" #NT!
+ OTO_focus_agrarian_class_desc: "It is high time to address the class issue of the peasantry. We can no longer tolerate the strict fragmentation and segregation within rural societies. The arrogance and carelessness of some provincial 'chiefs', who are deliberately undermining the potential for growth and prosperity among the peasantry for their own benefit, needs to be stopped." #NT!
+ OTO_focus_strengthen_serbia_border: "Strengthen the Serbian Border" #NT!
+ OTO_focus_strengthen_serbia_border_desc: "" #NT!
+ OTO_focus_promote_muslim_solidarity: "Promote Muslim Solidarity" #NT!
+ OTO_focus_promote_muslim_solidarity_desc: "[OTO.GetNameDef] faces mounting internal and external pressures, making the promotion of unity and cohesion among its Muslim population and the Christian one a strategic imperative. We should put some effort into reinforcing a sense of collective identity and purpose among Muslims within the Empire, fostering loyalty to the Sultan and countering the rising tide of nationalist and secularist sentiments." #NT!
+ OTO_focus_telegraph_lines: "Telegraph Lines" #NT!
+ OTO_focus_telegraph_lines_desc: "" #NT!
+ OTO_focus_pernik_coal_mines: "Pernik Coal Mines" #NT!
+ OTO_focus_pernik_coal_mines_desc: "After detailed prospecting and test excavations in the area we have found significant coal fields near Pernik. Establishing an excavation site there could be useful in boosting our resource industry." #NT!
+ OTO_focus_chiprovtsi_carpet_industry: "Chiprovtsi Carpet Industry" #NT!
+ OTO_focus_chiprovtsi_carpet_industry_desc: "" #NT!
+ OTO_focus_rhodope_islamization: "Islamization of the Rhodopes" #NT!
+ OTO_focus_rhodope_islamization_desc: "After centuries of constant assimilation in the region, the majority of the people living in the Rhodopes is speaking Turkish. Now, in the second half of the 19th century, it is time to finish this process once and for all by converting the people there to the proper faith." #NT!
+ OTO_focus_prevent_bulgarian_education: "Prevent Bulgarian Education" #NT!
+ OTO_focus_prevent_bulgarian_education_desc: "" #NT!
+ OTO_focus_impose_old_church_slavonic: "Impose the Old Church Slavonic" #NT!
+ OTO_focus_impose_old_church_slavonic_desc: "" #NT!
+ OTO_focus_allow_self_governance: "Allow Self-Governance" #NT!
+ OTO_focus_allow_self_governance_desc: "Our Empire is overexpanding and a major debt crisis is looming over our heads; it might be too much to handle all by ourselves. The vast territories and ethnic conflicts are a barrier to our further modernization. We could, however, reap the fruits of our labor and allow self-governance where we can count on reliable governors and populations." #NT!
+ OTO_focus_allow_self_governance_trigger_tt: "The states of §YWestern Thrace§!, §YSmolyan-Ortaköy§! and §YEastern Macedonia§! all have at least 60% §GMuslim§!£islam_texticon  population." #NT!
+ OTO_focus_cherish_creation_new_bulgarian: "Cherish the Creation of New Bulgarian" #NT!
+ OTO_focus_cherish_creation_new_bulgarian_desc: "" #NT!
+ OTO_focus_patriarch_bulgarian_teachers: "The Patriarch of Bulgarian Teachers" #NT!
+ OTO_focus_patriarch_bulgarian_teachers_desc: "If we want to incorporate the Bulgarian lands properly we need to use Bulgarians in the process. The most important part of integration is education and, fortunately, we have someone willing and able to assist in that." #NT!
+ OTO_focus_patriarch_bulgarian_teachers_effect_tt: "§YNeofit Rilski§! will be selectable as a §Ypolitical advisor§!." #NT!
+ OTO_focus_prohibit_kidnapping_christian_women: "Prohibit Kidnapping of Christian Women" #NT!
+ OTO_focus_prohibit_kidnapping_christian_women_desc: "" #NT!
+ #Asia & Africa 
+ OTO_focus_develop_mechanized_production_ca: "Develop Mechanized Production In Central Anatolia" #NT!
+ OTO_focus_develop_mechanized_production_ca_desc: "" #NT!
+ OTO_focus_profiting_off_egypt: "Profiting off of Egypt" #NT!
+ OTO_focus_profiting_off_egypt_desc: "" #NT!
+ OTO_focus_organise_rural_guilds: "Organise the Rural Guilds" #NT!
+ OTO_focus_organise_rural_guilds_desc: "" #NT!
+ OTO_focus_start_regulation_egypt_goods: "Start Regulating Egypt Goods" #NT!
+ OTO_focus_start_regulation_egypt_goods_desc: "" #NT!
+ OTO_focus_start_instaure_special_taxes: "Instaure Special Taxes" #NT!
+ OTO_focus_start_instaure_special_taxes_desc: "" #NT!
+ OTO_focus_claim_part_suez_canal: "Claim Our Part on the Canal" #NT!
+ OTO_focus_claim_part_suez_canal_desc: "" #NT!
+ OTO_focus_start_entry_taxes: "Start Ruling entry Taxes" #NT!
+ OTO_focus_start_entry_taxes_desc: "" #NT!
+ OTO_focus_invest_ironworks_south_east: "Invest in Ironworks on the Southeast" #NT!
+ OTO_focus_invest_ironworks_south_east_desc: "" #NT!
+ OTO_focus_finding_ways_around_our_dept: "Finding Ways around our Debt" #NT!
+ OTO_focus_finding_ways_around_our_dept_desc: "" #NT!
+ OTO_focus_ressurect_silk_industry: "Ressurect the Silk Industry" #NT!
+ OTO_focus_ressurect_silk_industry_desc: "" #NT!
+ OTO_focus_modernised_ruggery_workshops: "Modernised Ruggery Workshop" #NT!
+ OTO_focus_modernised_ruggery_workshops_desc: "" #NT!
+ OTO_focus_enforce_monetary_regulations: "Enforce Monetary Regulatiions" #NT!
+ OTO_focus_enforce_monetary_regulations_desc: "" #NT!
+ OTO_focus_consolidate_cotton_farms: "Consolidate Cotton Farms" #NT!
+ OTO_focus_consolidate_cotton_farms_desc: "" #NT!
+ OTO_focus_slack_off_useless_spendings: "Slack off Useless Spendings" #NT!
+ OTO_focus_slack_off_useless_spendings_desc: "" #NT!
+ OTO_focus_foundations_for_dept_management: "Lay the Foundation for Debt Management" #NT!
+ OTO_focus_foundations_for_dept_management_desc: "" #NT!
+ OTO_focus_temporarily_lease_off_assets: "Temporarily Lease off Assets" #NT!
+ OTO_focus_temporarily_lease_off_assets_desc: "" #NT!
+ OTO_focus_invest_galata_institutions: "Invest on the Galata Institutions" #NT!
+ OTO_focus_invest_galata_institutions_desc: "" #NT!
+ OTO_focus_enforce_taxation_peninsula: "Enforce Taxation on the Peninsula" #NT!
+ OTO_focus_enforce_taxation_peninsula_desc: "" #NT!
+ OTO_focus_create_agroindustries_syria: "Create Agroindustries Syria" #NT!
+ OTO_focus_create_agroindustries_syria_desc: "" #NT!
+ OTO_focus_reinforce_trade_lines: "Reinforce Trade Lines" #NT!
+ OTO_focus_reinforce_trade_lines_desc: "" #NT!
+ OTO_focus_call_european_bank: "A Call for an European Bank" #NT!
+ OTO_focus_call_european_bank_desc: "" #NT!
+ OTO_focus_rothschild_family: "The Rothschild Family" #NT!
+ OTO_focus_rothschild_family_desc: "" #NT!
+ OTO_focus_gm_and_co_offer: "The GM & Co. Offer" #NT!
+ OTO_focus_gm_and_co_offer_desc: "" #NT!
+ OTO_focus_pereire_brothers: "The Pereire Brothers" #NT!
+ OTO_focus_pereire_brothers_desc: "" #NT!
+ OTO_focus_fund_mining_epeditions_anatolia: "Fund Mining Expeditions in Anatolia" #NT!
+ OTO_focus_fund_mining_epeditions_anatolia_desc: "" #NT!
+ OTO_focus_establish_naval_works_lybia: "Establish Naval Works in Libya" #NT!
+ OTO_focus_establish_naval_works_lybia_desc: "" #NT!
+ OTO_focus_start_overseeing_import_markets: "Start Overseeing the Import Markets" #NT!
+ OTO_focus_start_overseeing_import_markets_desc: "" #NT!
+ OTO_focus_manufactures_tunesia: "Manufactures in Tripoli" #NT!
+ OTO_focus_manufactures_tunesia_desc: "" #NT!
+ OTO_focus_funding_family_holdings: "Funding for Family Holdings" #NT!
+ OTO_focus_funding_family_holdings_desc: "" #NT!
+ OTO_focus_euro_stock_exchange: "Work Towards European Stock Exchange" #NT!
+ OTO_focus_euro_stock_exchange_desc: "" #NT!
+ #STARA PLANINA 
+ OTO_focus_stara_planina_region_buildout: "Stara Planina Region Buildout" #NT!
+ OTO_focus_stara_planina_region_buildout_desc: "" #NT!
+ OTO_focus_altun_kalofer: "Altun Kalofer" #NT!
+ OTO_focus_altun_kalofer_desc: "" #NT!
+ OTO_focus_gerdjik_sopot: "Gerdjik Sopot" #NT!
+ OTO_focus_gerdjik_sopot_desc: "" #NT!
+ OTO_focus_rose_valley: "Rose Valley" #NT!
+ OTO_focus_rose_valley_desc: "" #NT!
+ OTO_focus_tobacco_plantations_south_bulgaria: "Tobacco Plantations in South Bulgaria" #NT!
+ OTO_focus_tobacco_plantations_south_bulgaria_desc: "" #NT!
+ OTO_focus_export_bosnia: "Export to Bosnia" #NT!
+ OTO_focus_export_bosnia_desc: "" #NT!
+ OTO_focus_export_asia_minor: "Export to Asia Minor" #NT!
+ OTO_focus_export_asia_minor_desc: "" #NT!
+ #AEGEAN HEARTLAND 
+ OTO_focus_expand_aegean_economic_heartland: "Expand the Aegean Economic Heartland" #NT!
+ OTO_focus_expand_aegean_economic_heartland_desc: "" #NT!
+ OTO_focus_creation_merchant_class: "Creation of the Merchant Class" #NT!
+ OTO_focus_creation_merchant_class_desc: "" #NT!
+ OTO_focus_control_over_aegean_trade: "Control over the Aegean trade" #NT!
+ OTO_focus_control_over_aegean_trade_desc: "" #NT!
+ OTO_focus_serres_fair: "Serres Fair" #NT!
+ OTO_focus_serres_fair_desc: "" #NT!
+ OTO_focus_reconstruct_veria: "Reconstruct Veria" #NT!
+ OTO_focus_reconstruct_veria_desc: "" #NT!
+ OTO_focus_psara_fisherman: "The Psara Fishermen " #NT!
+ OTO_focus_psara_fisherman_desc: "" #NT!
+ OTO_focus_revive_siderokavsia: "Revive the Siderokavsia" #NT!
+ OTO_focus_revive_siderokavsia_desc: "The old lands around Selanik are full of resources and riches. The mines in the region had great importance over the centuries and now it is up to us to restore what has been lost decades ago." #NT!
+ #Abdulmeci Tree 
+ OTO_focus_enforce_islahat: "Enforce The Islahat Fermani" #NT!
+ OTO_focus_enforce_islahat_desc: "" #NT!
+ OTO_focus_stepping_up_education: "Stepping up our Education" #NT!
+ OTO_focus_stepping_up_education_desc: "" #NT!
+ OTO_focus_sending_our_talebs: "Sending our Talebs to Somewhere Better" #NT!
+ OTO_focus_sending_our_talebs_desc: "" #NT!
+ OTO_focus_the_mekteb_i_mulkiyye: "The Mekteb-i Mülkiyye..." #NT!
+ OTO_focus_the_mekteb_i_mulkiyye_desc: "" #NT!
+ OTO_focus_telgraf_mektebi: "...And the Telgraf Mektebi" #NT!
+ OTO_focus_telgraf_mektebi_desc: "" #NT!
+ OTO_focus_new_ottoman_land_code: "The New Ottoman Land Code" #NT!
+ OTO_focus_new_ottoman_land_code_desc: "" #NT!
+ OTO_focus_regulate_goverment_spending: "Regulate Governement Spending" #NT!
+ OTO_focus_regulate_goverment_spending_desc: "" #NT!
+ OTO_focus_easing_tanzimat_tensions: "Easing Tanzimat Tension" #NT!
+ OTO_focus_easing_tanzimat_tensions_desc: "" #NT!
+ OTO_focus_allocate_building_funds: "Allocate Building Funds" #NT!
+ OTO_focus_allocate_building_funds_desc: "" #NT!
+ OTO_focus_securing_our_coast: "Securing Our Coasts" #NT!
+ OTO_focus_securing_our_coast_desc: "" #NT!
+ OTO_focus_dahiliye_nezaret: "The Dahiliye Nezareti" #NT!
+ OTO_focus_dahiliye_nezaret_desc: "" #NT!
+ OTO_focus_bezmialem_hospital: "The Bezmialem Valide Hospital" #NT!
+ OTO_focus_bezmialem_hospital_desc: "" #NT!
+ OTO_focus_new_palaces: "New Palaces" #NT!
+ OTO_focus_new_palaces_desc: "" #NT!
+ OTO_focus_secure_more_railways_funds: "Secure more Railway funds" #NT!
+ OTO_focus_secure_more_railways_funds_desc: "" #NT!
+ OTO_focus_new_mosques: "New Mosques" #NT!
+ OTO_focus_new_mosques_desc: "" #NT!
+ OTO_focus_edirne_meric_bridge: "The Edirne Meric Bridge" #NT!
+ OTO_focus_edirne_meric_bridge_desc: "" #NT!
+ OTO_focus_develop_izmir_aydin_railway: "Develop the Izmir-Aydin Railway" #NT!
+ OTO_focus_develop_izmir_aydin_railway_desc: "" #NT!
+ OTO_focus_deciding_new_ruler: "Deciding on a new Ruler" #NT!
+ OTO_focus_deciding_new_ruler_desc: "" #NT!
+ ##Army Tree## 
+ OTO_focus_legacy_of_selim_III: "Legacy of Selim III" #NT!
+ OTO_focus_legacy_of_selim_III_desc: "" #NT!
+ OTO_focus_changing_our_rifles: "Changing our Rifles" #NT!
+ OTO_focus_changing_our_rifles_desc: "" #NT!
+ OTO_focus_investing_in_research: "Investing in Research" #NT!
+ OTO_focus_investing_in_research_desc: "" #NT!
+ OTO_focus_stepping_up_production: "Stepping up Production" #NT!
+ OTO_focus_stepping_up_production_desc: "" #NT!
+ OTO_focus_open_new_factory_konya: "Open a new Factory in Konya" #NT!
+ OTO_focus_open_new_factory_konya_desc: "" #NT!
+ OTO_focus_continue_industrialisation_in_ege: "Continue Industrialisation in Ege" #NT!
+ OTO_focus_continue_industrialisation_in_ege_desc: "" #NT!
+ OTO_focus_potential_import_partners: "Potential Import Partners" #NT!
+ OTO_focus_potential_import_partners_desc: "" #NT!
+ OTO_focus_british_rifles: "British Rifles" #NT!
+ OTO_focus_british_rifles_desc: "" #NT!
+ OTO_focus_french_rifles: "French Rifles" #NT!
+ OTO_focus_french_rifles_desc: "" #NT!
+ OTO_focus_american_rifles: "American Rifles" #NT!
+ OTO_focus_american_rifles_desc: "" #NT!
+ OTO_focus_expand_kara_harp_school: "Expand Kara Harp School" #NT!
+ OTO_focus_expand_kara_harp_school_desc: "" #NT!
+ OTO_focus_state_of_ottoman_navy: "State of the Ottoman Navy" #NT!
+ OTO_focus_state_of_ottoman_navy_desc: "" #NT!
+ OTO_focus_militarise_sirket_hayriye: "Militarise the Sirket-i Hayriye" #NT!
+ OTO_focus_militarise_sirket_hayriye_desc: "" #NT!
+ OTO_focus_westernise_the_ranks: "Westernise the Ranks" #NT!
+ OTO_focus_westernise_the_ranks_desc: "" #NT!
+ OTO_focus_open_new_muhendisanes: "Open New Mühendisanes" #NT!
+ OTO_focus_open_new_muhendisanes_desc: "" #NT!
+ OTO_focus_new_battlefield_tactics: "New Battlefield Tactics" #NT!
+ OTO_focus_new_battlefield_tactics_desc: "" #NT!
+ OTO_focus_reinforcing_our_vessels: "Reinforcing our Vessels" #NT!
+ OTO_focus_reinforcing_our_vessels_desc: "" #NT!
+ OTO_focus_new_naval_ways: "New Naval Ways" #NT!
+ OTO_focus_new_naval_ways_desc: "" #NT!
+ OTO_focus_reducig_our_military_debts: "Reducing our Military Debts" #NT!
+ OTO_focus_reducig_our_military_debts_desc: "" #NT!
+ OTO_focus_the_artillery_question: "The Artillery Question" #NT!
+ OTO_focus_the_artillery_question_desc: "" #NT!
+ OTO_focus_krupp_guns: "Krupp Guns" #NT!
+ OTO_focus_krupp_guns_desc: "" #NT!
+ OTO_focus_prussian_military_envoys: "Prussian Military Envoys" #NT!
+ OTO_focus_prussian_military_envoys_desc: "" #NT!
+ OTO_focus_american_field_guns: "American Field Guns" #NT!
+ OTO_focus_american_field_guns_desc: "" #NT!
+ OTO_focus_producing_our_own: "Producing on our Own!" #NT!
+ OTO_focus_producing_our_own_desc: "" #NT!
+ OTO_focus_howitzer_production: "Urban Might" #NT!
+ OTO_focus_howitzer_production_desc: "" #NT!
+ OTO_focus_fieldcannon_production: "Queen in Numbers" #NT!
+ OTO_focus_fieldcannon_production_desc: "" #NT!
+ OTO_focus_deciding_the_budget: "Deciding the Budget" #NT!
+ OTO_focus_deciding_the_budget_desc: "" #NT!
+ OTO_focus_new_ottoman_army: "New Ottoman Army" #NT!
+ OTO_focus_new_ottoman_army_desc: "" #NT!
+ #Church Tree 
+ OTO_focus_question_bulgarian_church: "Question of the Bulgarian Church" #NT!
+ OTO_focus_question_bulgarian_church_desc: "" #NT!
+ OTO_focus_greco_turkish_vouchsafe: "The Greco-Turkish Vouchsafe" #NT!
+ OTO_focus_greco_turkish_vouchsafe_desc: "" #NT!
+ OTO_focus_independent_Bulgarian_monasteries: "Independent Bulgarian Monasteries" #NT!
+ OTO_focus_independent_Bulgarian_monasteries_desc: "" #NT!
+ OTO_focus_total_greek_dominion: "Total Greek Dominion" #NT!
+ OTO_focus_total_greek_dominion_desc: "" #NT!
+ OTO_focus_bulgarian_colony_constantinople: "Bulgarian Colony in Constantinople" #NT!
+ OTO_focus_bulgarian_colony_constantinople_desc: "" #NT!
+ OTO_focus_bulgarien_enlightment: "The Bulgarian Enlightenment" #NT!
+ OTO_focus_bulgarien_enlightment_desc: "" #NT!
+ OTO_focus_problem_of_macedonia: "The Problem of Macedonia" #NT!
+ OTO_focus_problem_of_macedonia_desc: "" #NT!
+ OTO_focus_hellenic_schools: "Hellenic Schools" #NT!
+ OTO_focus_hellenic_schools_desc: "" #NT!
+ OTO_focus_migrations_policy_moesia: "Migration policy in Moesia" #NT!
+ OTO_focus_migrations_policy_moesia_desc: "" #NT!
+ OTO_focus_expel_bulgarians_from_thrace: "Expel Bulgarians from Thrace" #NT!
+ OTO_focus_expel_bulgarians_from_thrace_desc: "" #NT!
+ OTO_focus_islam_is_the_way: "Islam is the way" #NT!
+ OTO_focus_islam_is_the_way_desc: "" #NT!
+ OTO_focus_limit_bulgarien_presence: "Limit Bulgarian presence in the region" #NT!
+ OTO_focus_limit_bulgarien_presence_desc: "" #NT!
+ OTO_focus_settle_aromanians: "Settle Aromanians" #NT!
+ OTO_focus_settle_aromanians_desc: "" #NT!
+  
+ #Custom Effect Tooltips 
+ OTO_sicker_man_of_europe: "Our situation worsens..."
+ OTO_heal_sick_man: "We can no longer be considered the 'Sick Man of Europe'." #NT!

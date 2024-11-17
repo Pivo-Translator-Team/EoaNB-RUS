@@ -63,51 +63,20 @@
  afr_colony_generic_french_algeria_war_french_help: "\nФранция в настоящее время преследует §YКолониальные Амбиции§! §GНам будет гарантирована Французская помощь при вторжении!§!\n"
   
   
- french_senegal_colony_development.1: "Французская Помощь в Развитии [272.GetName]!"
- french_senegal_colony_development.1.t: "Французская Помощь в Развитии [272.GetName]!"
- french_senegal_colony_development.1.d: "Наши колониальные хозяева, [FRA.GetName], решили помочь нашему колониальному развитию!"
- french_senegal_colony_development.1.a: "Это позволит нам опередить график на годы!"
- french_senegal_colony_development_1_tooltip: "Завершает миссию §YРегиональная Промышленность§!\nЗавершает миссию §YДобыча Ресурсов§!\nЗавершает миссию §YРегиональная Инфраструктура§!"
- french_senegal_colony_development.2: "[FRA.GetName] Создает Форт в [272.GetName]!"
- french_senegal_colony_development.2.t: "[FRA.GetName] Создает Форт в [272.GetName]!"
- french_senegal_colony_development.2.d: "Наши колониальные хозяева, [FRA.GetName], решили помочь нашему колониальному развитию! На этот раз они основали форт на реке Сенегал, которая, как известно, оспаривается [TRZ.GetName]."
- french_senegal_colony_development.2.a: "Это поможет защитить наши колониальные владения!"
- french_senegal_colony_development_2_tooltip: "Добавить §Y1 Наземное Укрепление§!"
- french_senegal_colony_development.3: "Французская Помощь Колониальной Инфраструктуре!"
- french_senegal_colony_development.3.t: "Французская Помощь Колониальной Инфраструктуре!"
- french_senegal_colony_development.3.d: "Наши колониальные хозяева, [FRA.GetName], решили помочь нашему колониальному развитию новыми технологиями и строительством новой инфраструктуры!"
- french_senegal_colony_development.3.a: "Это позволит нам лучше контролировать территории."
- french_senegal_colony_development_3_tooltip: "Добавить §Y1 Инфраструктура§!"
- french_senegal_colony_development.4: "Французская Помощь Колониальным Верфям!"
- french_senegal_colony_development.4.t: "Французская Помощь Колониальным Верфям!"
- french_senegal_colony_development.4.d: "Наши колониальные хозяева, [FRA.GetName], решили помочь нашему колониальному развитию новыми верфями и портами."
- french_senegal_colony_development.4.a: "Теперь мы можем позволить себе владеть флотом!"
- french_senegal_colony_development_4_tooltip: "\n Добавить §Y1 Морской Порт§!\n Добавить §Y1 Верфь§!"
- french_senegal_colonial_navy.1: "Основать Колониальный Флот!"
- french_senegal_colonial_navy.1.t: "Основать Колониальный Флот!"
- french_senegal_colonial_navy.1.d: "[FRA.GetName] решил перевести Огюста Боссе, недавно получившего звание капитана Западно-Африканского флота.\n\nОгюст Боссе поступил в военно-морской колледж Ангулема в 1826 году, после чего принял участие в Алжирской экспедиции. Затем он служил в Средиземноморской эскадре с 1835 по 1836 год, после чего в 1836 году был произведен в лейтенанты. В звании лейтенанта он участвовал в операциях, связанных с аргентинским конфликтом. В 1847 году Огюст Боссе получил звание капитана фрегата, а в следующем году был назначен адъютантом морского министра.\n\n Несколько лет спустя, в 1853 году, он был повышен до капитана, занимая должность начальника штаба губернатора Сенегала. Он принимал участие в операциях на Балтийском море и был свидетелем бомбардировки Бомарсунда. До перевода в Сенегал Огюст Боссе принимал участие в Крымской войне."
- french_senegal_colonial_navy.1.a: "Это выдающееся событие! Мы должны поприветствовать нового Капитана!"
- start_french_senegal_colony_development.1: "Французские Инвестиции в Сенегал!"
- start_french_senegal_colony_development.1.t: "Французские Инвестиции в Сенегал!"
- start_french_senegal_colony_development.1.d: ""
- start_french_senegal_colony_development.1.a: "Это отличный способ использования средств!"
- start_french_senegal_colony_development.1.b: "Нас это не волнует."
-  
-  
- start_usa_liberia_investment_development.1.t: "Конгресс Голосует за Инвестиции в Либерию!"
- start_usa_liberia_investment_development.1.d: "Конгресс проголосовал за выделение огромных средств на развитие инфраструктуры, добычи ресурсов и местной промышленности [FROM.Capital.GetName]. Эти инвестиции помогут превратить [FROM.GetName] в яркий пример Африки."
- start_usa_liberia_investment_development.1.e: "Конгресс проголосовал за выделение средств на развитие инфраструктуры [FROM.Capital.GetName] и методов добычи ресурсов. Эти инвестиции позволят создать инфраструктуру, необходимую для добычи ресурсов в регионе."
- start_usa_liberia_investment_development.1.f: "Конгресс проголосовал за выделение ограниченных средств для инвестиций в инфраструктуру [FROM.Capital.GetName]. При этом никаких дополнительных средств на дальнейшее развитие [FROM.GetName] не предусмотрено."
- start_usa_liberia_investment_development.1.a: "Демократия - это, конечно, здорово!"
- start_usa_liberia_investment_development.1.b: "Демократия - это, конечно, здорово!"
- start_usa_liberia_investment_development.1.c: "Ну, так работает демократия. Кто-то выигрывает, кто-то проигрывает."
- usa_liberia_investment_development.1.t: "Помощь Соединенных Штатов в Развитии [Root.Capital.GetName]!"
- usa_liberia_investment_development.1.d: "Конгресс США проголосовал за выделение огромных средств на развитие инфраструктуры, добычи ресурсов и местной промышленности [ROOT.Capital.GetName]. Эти инвестиции помогут превратить [ROOT.GetName] в яркий пример Африки."
- usa_liberia_investment_development.1.e: "Конгресс США проголосовал за выделение средств на развитие инфраструктуры [ROOT.Capital.GetName] и методов добычи ресурсов. Эти инвестиции позволят в значительной степени обеспечить [ROOT.GetName] инфраструктурой, необходимой для добычи ресурсов в этом регионе."
- usa_liberia_investment_development.1.f: "Конгресс Соединенных Штатов проголосовал за предоставление ограниченных средств для инвестиций в инфраструктуру [ROOT.Capital.GetName]. При этом никаких дополнительных средств на дальнейшее развитие [ROOT.GetName] не предусмотрено."
- usa_liberia_investment_development.1.a: "[ROOT.GetName] станет Жемчужиной Африки!"
- usa_liberia_investment_development.1.b: "Это позволит нам опередить график на годы!"
- usa_liberia_investment_development.1.c: "Любые инвестиции, даже небольшие, будут высоко оценены!"
+ afr_colony_generic.20.t: "Congress Votes on Liberian Investments!" #NT!
+ afr_colony_generic.20.d: "Congress has voted to provide massive funds for [FROM.Capital.GetName]'s infrastructure, resource extraction, and local industry. The investments will go a long way in transforming [FROM.GetName] into the shining example of Africa." #NT!
+ afr_colony_generic.20.e: "Congress has voted to provide funds for [FROM.Capital.GetName]'s infrastructure and resource extraction methods. The investments will go a long way in giving [FROM.GetName] the infrastructure necessary to extract resources from the region." #NT!
+ afr_colony_generic.20.f: "Congress has voted to provide limited funds for investment for [FROM.Capital.GetName]'s infrastructure. With no additional funds to develop anything further within [FROM.GetName]." #NT!
+ afr_colony_generic.20.a: "Democracy sure is great!" #NT!
+ afr_colony_generic.20.b: "Democracy sure is great!" #NT!
+ afr_colony_generic.20.c: "Well, that's how democracy works. You win some, you lose some." #NT!
+ afr_colony_generic.21.t: "United States Assistance With [Root.Capital.GetName] Development!" #NT!
+ afr_colony_generic.21.d: "The United State's Congress has voted to provide massive funds for [ROOT.Capital.GetName]'s infrastructure, resource extraction, and local industry. The investments will go a long way in transforming [ROOT.GetName] into the shining example of Africa." #NT!
+ afr_colony_generic.21.e: "The United State's Congress has voted to provide funds for [ROOT.Capital.GetName]'s infrastructure and resource extraction methods. The investments will go a long way in giving [ROOT.GetName] the infrastructure necessary to extract resources from the region." #NT!
+ afr_colony_generic.21.f: "The United State's Congress has voted to provide limited funds for investment for [ROOT.Capital.GetName]'s infrastructure. With no additional funds to develop anything further within [ROOT.GetName]." #NT!
+ afr_colony_generic.21.a: "[ROOT.GetName] will be the Gem of Africa!" #NT!
+ afr_colony_generic.21.b: "This will put us years ahead of schedule!" #NT!
+ afr_colony_generic.21.c: "Any investment, even small, is greatly appreciated!" #NT!
  usa_liberia_investment_development_1_tooltip: "Завершает миссию §YРегиональная Промышленность§!\nЗавершает миссию §YДобыча Ресурсов§!\nЗавершает миссию §YРегиональная Инфраструктура§!"
  usa_liberia_investment_development_2_tooltip: "Завершает миссию §YДобыча Ресурсов§!\nЗавершает миссию §YРегиональная Инфраструктура§!"
  usa_liberia_investment_development_3_tooltip: "Завершает миссию §YРегиональная Инфраструктура§!"

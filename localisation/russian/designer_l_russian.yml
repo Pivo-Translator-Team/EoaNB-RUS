@@ -227,6 +227,11 @@
  tank_designer_rocket_role_disallowed: "Добавить модуль, позволяющий выбирать роль §HРакетная артиллерия§!."
  tank_designer_flame: "Огнеметчик (рота обеспечения)"
  tank_designer_flame_role_disallowed: "Добавить модуль, позволяющий выбирать роль §H«Пламя»§!."
+ tank_designer_early_armor_train: "Armored Train" #NT!
+ tank_designer_early_armor_train_role_disallowed: "Remove the module that forbids the $tank_designer_early_armor_train|H$ role to be able to switch to it." #NT!
+  
+  # name list themes 
+ l_english: 
   # name list themes -- updated to include country-specific and other new list names 
  NAME_THEME_RIVERS: "Реки"
  NAME_THEME_FISH: "Рыбы"
@@ -341,3 +346,6 @@
  DESIGNER_SELECT_NICHE_DELAYED: "Здесь можно организовать свои проекты, поделив их по классам, и более гибко настраивать варианты усиления своих подразделений."
  DESIGNER_SELECT_NICHE_DISABLED: "В дивизии нет бронетехники"
  DESIGNER_SELECT_NICHE_DISABLED_DELAYED: "Чтобы открыть возможность выбора §Yметки оборудования§!, добавьте батальон бронетехники или роту поддержки."
+  
+  
+  

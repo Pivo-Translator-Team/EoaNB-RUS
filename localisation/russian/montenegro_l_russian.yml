@@ -1,20 +1,22 @@
 ﻿l_russian:
   
- 	### Bookmark Entry ### 
+ 	### BOOKMARK ENTRY ### 
   
  MNT_END_OF_NEW_BEG_DESC: "Montenegro is a small mountainous country surrounded on all sides by big neighbours. On one side, it's stuck in the hot frontier of the Ottoman Empire, from which it tries to gain its independence at any cost, by negotiation or by blood. On another side, it's a border with Austria, which holds it's rightful land of Kotor, which makes Montenegro isolated from the sea. As a small country with big problems and another looming border clash on the horizon, interesting times are ahead for Montenegro."
   
- 	### Leader Descriptions ### 
+ 	### LEADERS DESCRIPTION ### 
   
  POLITICS_Danilo_I__DESC: "Danilo I, ruler of Montenegro, is the first secular ruler for a very long time. He rules with a tough and wise hand. Through his power and reforms, he is leading Montenegro to one ultimate goal, independence. Another intension, he made for himself is to make his nation modern and powerful. Montenegro's goals under his leadership are to become a regional power and liberate all rightful lands from any oppressor."
  POLITICS_NIKOLA_I_PETROVIC_DESC: "Nikola I. Petrović-Njegoš born on 25 September 1841, is the son of famous Montenegrin commander Mirko Petrović-Njegoš. After his father renounce the throne, he became the next pretender in line. His goals are to continue Danilo's legacy. This means reforms and armed power liberate Montenegrin lands from oppressors and reform the whole nation to bring it into the modern age of tomorrow."
   
-     ### Montenegro guide gui ### 
+     ### MONTENEGRO GUIDE GUI ### 
   
  MNT_outer_montenegro_tt: "the territory of outer Montenegro"
  MNT_outer_montenegro_TITLE: "this territory is home to the Grahovo, Vasojevici and Kuči clans."
   
  	### NATIONAL FOCUSES ### 
+  
+ 	### NATIONAL FOCUSES UNSORTED ### 
   
  MNT_focus_the_reign_of_danilo: "The Reign of Danilo"
  MNT_focus_the_reign_of_danilo_desc: " "
@@ -130,6 +132,66 @@
  MNT_focus_the_reign_of_nikola: "The Reign of Nikola"
  MNT_focus_the_reign_of_nikola_desc: " "
   
+ MNT_focus_support_for_educational_programs_from_the_tsar: "Educational Programs from the Tsar" #NT!
+ MNT_focus_support_for_educational_programs_from_the_tsar_desc: " " #NT!
+  
+ MNT_focus_tsarist_patronage_of_montenegrin_culture: "Tsarist Patronage of Montenegrin Culture" #NT!
+ MNT_focus_tsarist_patronage_of_montenegrin_culture_desc: " " #NT!
+  
+ MNT_focus_state_funds_for_elite_trips_to_russia: "State Funds for Elite Trips to Russia" #NT!
+ MNT_focus_state_funds_for_elite_trips_to_russia_desc: " " #NT!
+  
+ MNT_focus_inspirations_from_russian_culture_and_science: "Inspirations from Russian Culture and Science" #NT!
+ MNT_focus_inspirations_from_russian_culture_and_science_desc: " " #NT!
+  
+ MNT_focus_diplomatic_support_from_russia: "Diplomatic Support from Russia" #NT!
+ MNT_focus_diplomatic_support_from_russia_desc: " " #NT!
+  
+ MNT_focus_a_state_visit_to_russia: "A State Visit to Russia" #NT!
+ MNT_focus_a_state_visit_to_russia_desc: " " #NT!
+  
+ MNT_focus_the_mission_of_duke_dolgorukov: "The Mission of Duke Dolgorukov" #NT!
+ MNT_focus_the_mission_of_duke_dolgorukov_desc: " " #NT!
+  
+ MNT_focus_nikolas_meeting_with_the_tsar: "Nikola's Meeting with the Tsar" #NT!
+ MNT_focus_nikolas_meeting_with_the_tsar_desc: " " #NT!
+  
+ MNT_focus_royal_marriages_with_the_romanov_family: "Royal Marriages with the Romanov Family" #NT!
+ MNT_focus_royal_marriages_with_the_romanov_family_desc: " " #NT!
+  
+ MNT_focus_establish_an_embassy_in_russia: "Establish an Embassy in Russia" #NT!
+ MNT_focus_establish_an_embassy_in_russia_desc: " " #NT!
+  
+ MNT_focus_appoint_radonjic_as_ambassador_to_russia: "Appoint Radonjić as Ambassador to Russia" #NT!
+ MNT_focus_appoint_radonjic_as_ambassador_to_russia_desc: " " #NT!
+  
+ MNT_focus_military_support_from_russia: "Military Support from Russia" #NT!
+ MNT_focus_military_support_from_russia_desc: " " #NT!
+  
+ MNT_focus_observe_russian_military_maneuvers: "Observe Russian Military Maneuvers" #NT!
+ MNT_focus_observe_russian_military_maneuvers_desc: " " #NT!
+  
+ MNT_focus_armament_supplies_from_russia: "Armament Supplies from Russia" #NT!
+ MNT_focus_armament_supplies_from_russia_desc: " " #NT!
+  
+ MNT_focus_plans_of_intensifying_russian_support: "Plans of Intensifying Russian Support" #NT!
+ MNT_focus_plans_of_intensifying_russian_support_desc: " " #NT!
+  
+ MNT_focus_intensify_cooperation_with_our_slavic_brethren: "Intensify Cooperation with our Slavic Brethren" #NT!
+ MNT_focus_intensify_cooperation_with_our_slavic_brethren_desc: " " #NT!
+  
+ MNT_focus_military_support_from_serbia: "Military Support from Serbia" #NT!
+ MNT_focus_military_support_from_serbia_desc: " " #NT!
+  
+ MNT_focus_purchase_weapons_from_serbia: "Purchase Weapons from Serbia" #NT!
+ MNT_focus_purchase_weapons_from_serbia_desc: " " #NT!
+  
+ MNT_focus_ask_for_military_advisors: "Ask for Military Advisors" #NT!
+ MNT_focus_ask_for_military_advisors_desc: " " #NT!
+  
+ MNT_focus_the_mission_of_captain_milutin_jovanovic: "The Mission of Captain Milutin Jovanovic" #NT!
+ MNT_focus_the_mission_of_captain_milutin_jovanovic_desc: " " #NT!
+  
  MNT_focus_reapproach_russia: "Reapproach Russia"
  MNT_focus_reapproach_russia_desc: " "
   
@@ -196,6 +258,7 @@
  MNT_focus_negotiations_with_the_ottomans: "Negotiation with Ottomans"
  MNT_focus_negotiations_with_the_ottomans_desc: " "
   
+  
  MNT_focus_defend_the_nation: "Defend the Nation"
  MNT_focus_defend_the_nation_desc: " "
   
@@ -234,169 +297,6 @@
  MNT_focus_ignore_the_treatys_stipulations: "Ignore the Treaty's Stipulations"
   
  MNT_focus_prepare_for_the_final_war_of_independence: "Prepare for the Final War of Independence"
-  
- 	### FOCUSES REFORMS ### 
-  
- MNT_focus_into_the_new_age: "Into the New Age"
- MNT_focus_into_the_new_age_desc: "Montenegro is a poor and undeveloped region. We are still behind many of our rivals. We need to modernize as quickly as possible if we want to get back to our place under the sun. "
-  
- 	### FOCUSES AGRICULTURE REFORM ### 
-  
- MNT_focus_agriculture_reform: "Agriculture Reform"
- MNT_focus_agriculture_reform_desc: "Our agriculture is inefficient, backward, and unsustainable. In addition, the best land is in the hands of wealthy Ottoman landlords, which don't want to cooperate with us. We have to reform it to improve our situation and readiness for upcoming wars."
-  
- MNT_focus_modern_livestock_farming: "Modern Livestock Farming"
- MNT_focus_modern_livestock_farming_desc: "Almost every farmer had a cow, goat, or sheep. For many of them is the only thing they can live from in our hilly lands. If we teach farmers how to use them more efficiently, our farms would make greater yields."
-  
- MNT_focus_beef_exports: "Beef Exports"
- MNT_focus_beef_exports_desc: "Beef is one of the few things for which we are known in surrounding areas. It's also one of the main things we are exporting. If we support beef production and export, we could make greater profits."
-  
- MNT_focus_animal_breeding: "Animal Breeding"
- MNT_focus_animal_breeding_desc: "Supporting animal breeding could improve the lives of many of our Montenegrin. If we teach farmers proper care about animals and their other uses, they can better use them not only in our agriculture but also for industry purposes or in the army."
-  
- MNT_focus_promote_local_agriculture: "Promote Local Agriculture"
- MNT_focus_promote_local_agriculture_desc: "Our power doesn't lie in wealthy landlords but in small farmers farming on their fields and pastures in the hilly landscape of our country. We need to support them and by this make basics for our self-sufficient."
-  
- MNT_focus_improve_farming_methods: "Improve Farming Methods"
- MNT_focus_improve_farming_methods_desc: "Our farming methods are almost still as in medieval times. Because of this, we are taking away any possible chance of greater yields from our fields. We need to support education among farmers to improve our gains from agriculture."
-  
- MNT_focus_buy_modern_machinery: "Buy Modern Machinery"
- MNT_focus_buy_modern_machinery_desc: "Tools on most our farms are very primitive and, at most times, homemade, passing from father to son. We need to buy modern agricultural machinery in developed countries to help our farmers adapt to the new modern age."
-  
- MNT_focus_increase_farming_yields: "Increase Farming Yields"
- MNT_focus_increase_farming_yields_desc: "Our reforms have one main goal, and that's a production of enough food for the whole population. This brings us good results, even right now, when we aren't still at the end. We need to continue and finish what we began to achieve a great and prosperous Montenegro."
-  
- MNT_focus_advance_agricultural_technology: "Advance Agricultural Technology"
- MNT_focus_advance_agricultural_technology_desc: "There are many new technologies as fertilizers, which we can use to improve our situation. We need to improve our technique, which we utilize in fields to adapt to the modern era."
-  
- MNT_focus_a_surplus_of_foodstuff: "Surplus of Foodstuff"
- MNT_focus_a_surplus_of_foodstuff_desc: "We manage what when we begin to look unmanageable. Supported by our reforms, our farmers have achieved a small surplus of food and other agricultural products. We are now ready to defeat our main enemy in the fields. That is droughts, unfavorable weather, and many others."
-  
- MNT_focus_build_a_saltworks: "Build Saltworks"
- MNT_focus_build_a_saltworks_desc: "Salt is one of the main resources in every good kitchen. We don't need to import foreign salt if we build saltworks in Ulcijn."
-  
- MNT_focus_fewer_farmers_more_soldiers: "Fewer Farmers, More Soldiers"
- MNT_focus_fewer_farmers_more_soldiers_desc: "We can use that we manage surplus on our fields. There are many options that we could choose, but we choose to offer some farmers to relieve their fields and allow them to join our great army."
-  
- MNT_focus_more_crops_for_exports: "More Crops for Export"
- MNT_focus_more_crops_for_exports_desc: "Our surplus in our fields could be our huge economic change. We could try to find export destinations for our products and make extra profits for further reforms."
-  
- MNT_focus_self_sufficient_agriculture: "Self-Sufficient Agriculture"
- MNT_focus_self_sufficient_agriculture_desc: "We manage to increase our production. We manage to break the influence of the wealthy Ottoman landlords. By this moment, we could proclaim that our agriculture is truly independent of foreign influence. But we don't have to stay in one place and continue our modernization to keep up with other powers."
-  
- MNT_focus_combat_ottoman_landownership: "Combat Ottoman Landownership"
- MNT_focus_combat_ottoman_landownership_desc: "Ottoman landlords hold a major part of our best agricultural lands. Another huge problem is that they are more loyal to Sultan than to us. We need to combat this influence to become more independent from Ottoman."
-  
- MNT_focus_offer_to_purchase_their_farms: "Offer to Purchase their Farms"
- MNT_focus_offer_to_purchase_their_farms_desc: "Because we don't want to upset Sultan, we need to deal with Ottoman landlords peacefully. There's the only option, how to remove their influence and not force Ottomans against us. That's we will offer them to buy their land and, only by that, get rid of their power."
-  
- MNT_focus_nationalize_their_property: "Nationalize their Property"
- MNT_focus_nationalize_their_property_desc: "There is only one way to send gready Ottomans back where they came from. We will nationalize their property and force them out of our lands. Even if it meant to kill some of them."
-  
- MNT_focus_give_more_land_to_tenant_farmers: "Give More Land to Tenant Farmers"
- MNT_focus_give_more_land_to_tenant_farmers_desc: "We manage to get land from wealthy Ottomans. Now we need to decide what to do with it. After a long debate, we decided to give land to our loyal peasants without their land. That would serve them as a gift because without them, we wouldn't do it, and after all, we hope they will be great farmers surpassing their Ottoman predecessors."
-  
- MNT_focus_give_more_land_to_montenegrin_landlords: "Give More Land to Montenegrin Landlords"
- MNT_focus_give_more_land_to_montenegrin_landlords_desc: "When we get those lands, an important lobby emerges. It's based mainly around Montenegrin landlords and other very rich, publicly known individuals. Giving these lands to them will guarantee us that these people can work with lands, which isn't sure about small landless farmers. Another benefit will be some influence over them, because they will for sure remember from who they got that land."
-  
- MNT_focus_give_more_land_to_the_ruler_and_his_friends: "Give More Land to the Ruler and his Friends"
- MNT_focus_give_more_land_to_the_ruler_and_his_friends_desc: "Who manages to get our lands from our wealthy enemies, which sabotage our effort to gain independence? It was our clever knjaz. This means our ruler and his close cabinet of advisors have the most merits in getting this land for our state. That means it's logical to give most land to knjaz and his advisors and let them decide what they do with their land."
-  
- 	### FOCUSES INDUSTRY ### 
-  
- MNT_focus_support_the_creation_of_an_industrial_sector: "Support Creation of Industrial Sector"
- MNT_focus_support_the_creation_of_an_industrial_sector_desc: "One of the main pillars of our independence should be a big and powerful industry. We need to lay strong foundations of that pillar on which we can build other even greater projects. Without it, we would be the only undeveloped nation of farmers and unskilled laborers."
-  
- MNT_focus_rijeka_military_workshop: "Rijeka Crnojevica Military Workshop"
- MNT_focus_rijeka_military_workshop_desc: "In Rijeka Crnojevica near Cetinje is a small workshop, that can do complete miracles for our lands. They can make rifle parts and even some primitive cannons and many more. If we support them, they will expand and modernize workshops, and our gains will be enormous."
-  
- MNT_focus_purchase_machinery_for_a_military_factory: "Purchase Machinery for Military Factory"
- MNT_focus_purchase_machinery_for_a_military_factory_desc: "Even if we have the best military experts in the whole world, they won't be able to make modern weapons only with hammers and anvils. We have to also invest in modern machinery, which needs to be imported from abroad."
-  
- MNT_focus_experiment_with_military_production: "Experiment with Military Production"
- MNT_focus_experiment_with_military_production_desc: "We manage to build up all requirements, to begin with something more difficult. That's military production, which will be crucial in our national struggle. But we need to be prepared for the fact, that it won't be firstly great, but it will improve over time as our experts improve their skills."
-  
- MNT_focus_new_construction_projects: "New Construction Projects"
- MNT_focus_new_construction_projects_desc: "Our reform of the industrial sector isn't only about bureaucratic reform, but also, there should be projects which would support and stimulate our growth. Ahead lies two of the most important projects modernization of the road system and improvement of our cities."
-  
- MNT_focus_rebuild_the_road_network: "Rebuild the Road Network"
- MNT_focus_rebuild_the_road_network_desc: "Our road network is in very sad condition. Some roads, which are needed, don't exist, and a huge part of our main roads isn't paved. We need to do something about it because the road network is the backbone of every transportation system."
-  
- MNT_focus_build_new_stone_bridges: "Build New Stone Bridges"
- MNT_focus_build_new_stone_bridges_desc: "Rivers are our main enemies with our terrain in the planning of our road system. Many of our bridges are old, wooden, and insufficient. We need to improve this to remove the bottlenecks in our road system."
-  
- MNT_focus_centralized_road_system: "Centralized Road System"
- MNT_focus_centralized_road_system_desc: "Our roads are a group of unorganized, unmaintained paths. This needs to change by centralizing our system, connecting our most important centers, and building main road junctions in our capital."
-  
- MNT_focus_connect_the_nahiyas: "Connect The Nahiyas"
- MNT_focus_connect_the_nahiyas_desc: "Even the smallest village has to be connected to our roads. Because if our rule doesn't reach them, they are practically unadministratible. How we can with that get our independence if we couldn't fully rule our land."
-  
- MNT_focus_urbanization_projects: "Urbanization Projects"
- MNT_focus_urbanization_projects_desc: "Most of our population is rural. By this, we are lacking many opportunities, which brings urbanization. Ahead of us is lots of work like the sanitation of our cities, building new houses, and many more. Let's build from our town prosperous regional centers, which will bring glory to our nation."
-  
- MNT_focus_rebuild_cetinje: "Rebuild Cetinje"
- MNT_focus_rebuild_cetinje_desc: "Cetinje is our capital, but don't look like that. For foreigners, it could look like a big village where live someone had more power than others. This needs to change. We need to rebuild our capital city to be equal with other European capitals."
-  
- MNT_focus_dannilovgrad: "Danilovgrad"
- MNT_focus_dannilovgrad_desc: "Project of Danilovgrad town is planning to build completely new city on the green plains. By planning every urban aspect of city, we will create new administrative center, which could even surpass our national capital and maybe, in the future, will replace it."
-  
- MNT_focus_urbanize_the_country: "Urbanize the Country"
- MNT_focus_urbanize_the_country_desc: "Our country isn't only our capital city and its surroundings. There are many more centers as Rijeka Crnojevica, Kolašin, and others. Our effort needs to be extended to these areas so they aren't left behind."
-  
- MNT_focus_support_new_businesses: "Support New Businesses"
- MNT_focus_support_new_businesses_desc: "We need to support new companies which are emerging throughout our country. This will not only bring extra money to our state budget but also expand our industrial capacity, improve living conditions, and lay the foundation for other later-founded companies."
-  
- MNT_focus_croatian_textile_industry: "Croatian Textile Industry"
- MNT_focus_croatian_textile_industry_desc: "The textile industry is one of the oldest industries, which were developed in the western world. With a great portion of the rural population, it's perfect where we can begin our industrialization. We get an offer from Croatian merchants. They say they will build a factories for us if we provide them with cheaper labor."
-  
- MNT_focus_trade_in_the_kotor_bay: "Trade in the Kotor Bay"
- MNT_focus_trade_in_the_kotor_bay_desc: "Kotor bay is the shortest and safest way to get on the European market. But it's controlled by Austria. We need to sign an agreement about our free passage through their waters to unlock our goods to the world."
-  
- MNT_focus_maritime_cooperation_with_the_austrians: "Maritime Cooperation with the Austrians"
- MNT_focus_maritime_cooperation_with_the_austrians_desc: "We could expand our treaties with the Austrian about the Kotor area. We have drafted expansion in the area of maritime trade and trade shipping. This will bring us benefits such as expanded revenue or a better connection with the world."
-  
- MNT_focus_postal_cooperation_with_the_austrians: "Postal Cooperation with the Austrians"
- MNT_focus_postal_cooperation_with_the_austrians_desc: "Montenegro has its small postal service, but it´s only used by our government officials. Because of our position, we are isolated from other postal services. We have drafted an agreement between our postal services to cooperate and the Austrian side to operate Montenegrin post in Ottomans controlled territory."
-  
- MNT_focus_cattaro_cetinje_telegraph_line: "Cattaro-Cetinje Telegraph Line"
- MNT_focus_cattaro_cetinje_telegraph_line_desc: "Telegraph truly a new device by which we could communicate with another person at great distances in seconds. We don't have anything like this in Montenegro, but we can send Austrian experts to build the line from Kotor to Cetinje. This will connect us to the global telegraph net."
-  
- 	### FOCUSES RESOURCE EXTRACTION ### 
-  
- MNT_focus_exploit_the_natural_riches_of_montenegro: "Exploit the Natural Riches of Montenegro"
- MNT_focus_exploit_the_natural_riches_of_montenegro_desc: "Montenegro is full of natural riches, and many of them still don't used. For some of them, we only need to dig a few times into the Earth and find them. We will be able to use them to support our starting industry and growing population."
-  
- MNT_focus_forestry_efforts: "Forestry Efforts"
- MNT_focus_forestry_efforts_desc: "One of the natural riches of Montenegro is our forests. We could use them to support our newly created industries. But we mustn't only use them, but we have to also protect them and take care of them. This will be done only by spreading knowledge between forestry workers and other personnel."
-  
- MNT_focus_build_sawmills: "Build Sawmills"
- MNT_focus_build_sawmills_desc: "By supporting our forests, another great potential grew. That's building the woodworking industry around it because there will be always some demand for wood and other related stuff. This will not only bring financial benefits but also more stability to the region or improve the living of our people."
-  
- MNT_focus_prospect_for_iron_ore: "Prospect for Iron Ore"
- MNT_focus_prospect_for_iron_ore_desc: "Iron is one of the ores which humans are using to their advantage. We have reports that there are some iron deposits in our country. We need to prospect for it to set up ironworks and start smelting parts, which could be used in arms workshops."
-  
- MNT_focus_find_coal_deposits: "Find Coal Deposits"
- MNT_focus_find_coal_deposits_desc: "Coal is essential in making steel. We have reports that some farmers find some black stone, which burns very well even for a few hours. We need to search for coal to improve our industrial potential, which can be used in the struggle for independence."
-  
- MNT_focus_metallurgy_innovations: "Metallurgy Innovations"
- MNT_focus_metallurgy_innovations_desc: "When we now manage to get our ironworks in working, there are still many spaces for improvement. There are many innovations, which we could easily access as making coke from coal and others."
-  
- MNT_focus_experiment_with_steel_production: "Experiment with Steel Production"
- MNT_focus_experiment_with_steel_production_desc: "In almost every aspect, steel is better than pure iron. That's only by adding a small amount of carbon into the melt. Our smelter are skilled and surely after few attempts could do the same. We need to support them to create our steel and became in case of conflict self-sufficient."
-  
- MNT_focus_process_bauxite_ore: "Process Bauxite Ore"
- MNT_focus_process_bauxite_ore_desc: "Bauxite is one of the rarer ores which could be found in Montenegro. It's needed for the smelting of aluminum, which is done by expensive and hard technique. It shouldn't be our priority, but there is the possibility to mine in and then use it in many useful ways in our goals."
-  
- MNT_focus_construction_resource_industry: "Construction Resources Industry"
- MNT_focus_construction_resource_industry_desc: "We should build up a new and not less important industry, and that's the construction resources industry. If we manage to expand it, we would have enough bricks and cobblestones not only for growing Montenegro but also for all our great projects, which will bring us to greatness."
-  
- MNT_focus_expand_clay_pits: "Expand Clay Pits"
- MNT_focus_expand_clay_pits_desc: "Claypits are the backbone of the brick industry. We have to improve them to produce as many bricks as it's possible. Only through this, we will lay the groundwork that could support many of our projects."
-  
- MNT_focus_build_more_quarries: "Build More Quarries"
- MNT_focus_build_more_quarries_desc: "Only a few main roads are paved. For this modernization and many other constructions, we need to expand stone extraction all around Montenegro."
-  
- 	### FOCUSES ARMY REFORM ### 
   
  MNT_focus_state_of_the_montenegrin_army: "State of the Montenegrin Army"
  MNT_focus_state_of_the_montenegrin_army_desc: " "
@@ -659,7 +559,202 @@
  MNT_focus_the_mostar_convention_n: "Mostar Convention"
  MNT_focus_the_mostar_convention_n_desc: ""
   
+ 	### FOCUSES MONTENEGRO - OTTOMAN WAR (1858) ### 
+  
+ MNT_focus_guerrilla_war_easy_mechanic: "Guerrilla War" #NT!
+ MNT_focus_guerrilla_war_easy_mechanic_desc: "" #NT!
+  
+ MNT_focus_negotiations_with_the_ottomans_n_easy_mechanic: "Negotiation with Ottomans" #NT!
+ MNT_focus_negotiations_with_the_ottomans_n_easy_mechanic_desc: "" #NT!
+  
+ MNT_focus_path_of_peace_easy_mechanic: "Path of Peace" #NT!
+ MNT_focus_path_of_peace_easy_mechanic_desc: "" #NT!
+  
+ MNT_focus_path_of_war_easy_mechainc: "Path of War" #NT!
+ MNT_focus_path_of_war_easy_mechainc_desc: "" #NT!
+  
+ MNT_focus_recognize_our_status_under_the_ottomans_easy_mechanic: "Recognize our Status under the Ottomans" #NT!
+ MNT_focus_recognize_our_status_under_the_ottomans_easy_mechanic_desc: "" #NT!
+  
+ MNT_focus_strike_a_deal_with_the_ottomans_easy_mechanic: "Strike a Deal with the Ottomans" #NT!
+ MNT_focus_strike_a_deal_with_the_ottomans_easy_mechanic_desc: "" #NT!
+  
+ MNT_focus_the_mostar_convention_easy_mechanic: "Mostar Convention" #NT!
+ MNT_focus_the_mostar_convention_easy_mechanic_desc: "" #NT!
+  
+ MNT_focus_transgress_the_agreement_easy_mechanic: "Transgress on Agreement" #NT!
+ MNT_focus_transgress_the_agreement_easy_mechanic_desc: "" #NT!
+  
+ MNT_focus_new_goals_for_our_nation_easy_mechanic: "New Goals for our Nation" #NT!
+ MNT_focus_new_goals_for_our_nation_easy_mechanic_desc: "" #NT!
+  
+ 	### FOCUSES REFORMS ### 
+  
+ MNT_focus_into_the_new_age: "Into the New Age"
+ MNT_focus_into_the_new_age_desc: "Montenegro is a poor and undeveloped region. We are still behind many of our rivals. We need to modernize as quickly as possible if we want to get back to our place under the sun. "
+  
+ 	### FOCUSES AGRICULTURE REFORM ### 
+  
+ MNT_focus_agriculture_reform: "Agriculture Reform"
+ MNT_focus_agriculture_reform_desc: "Our agriculture is inefficient, backward, and unsustainable. In addition, the best land is in the hands of wealthy Ottoman landlords, which don't want to cooperate with us. We have to reform it to improve our situation and readiness for upcoming wars."
+  
+ MNT_focus_modern_livestock_farming: "Modern Livestock Farming"
+ MNT_focus_modern_livestock_farming_desc: "Almost every farmer had a cow, goat, or sheep. For many of them is the only thing they can live from in our hilly lands. If we teach farmers how to use them more efficiently, our farms would make greater yields."
+  
+ MNT_focus_beef_exports: "Beef Exports"
+ MNT_focus_beef_exports_desc: "Beef is one of the few things for which we are known in surrounding areas. It's also one of the main things we are exporting. If we support beef production and export, we could make greater profits."
+  
+ MNT_focus_animal_breeding: "Animal Breeding"
+ MNT_focus_animal_breeding_desc: "Supporting animal breeding could improve the lives of many of our Montenegrin. If we teach farmers proper care about animals and their other uses, they can better use them not only in our agriculture but also for industry purposes or in the army."
+  
+ MNT_focus_promote_local_agriculture: "Promote Local Agriculture"
+ MNT_focus_promote_local_agriculture_desc: "Our power doesn't lie in wealthy landlords but in small farmers farming on their fields and pastures in the hilly landscape of our country. We need to support them and by this make basics for our self-sufficient."
+  
+ MNT_focus_improve_farming_methods: "Improve Farming Methods"
+ MNT_focus_improve_farming_methods_desc: "Our farming methods are almost still as in medieval times. Because of this, we are taking away any possible chance of greater yields from our fields. We need to support education among farmers to improve our gains from agriculture."
+  
+ MNT_focus_buy_modern_machinery: "Buy Modern Machinery"
+ MNT_focus_buy_modern_machinery_desc: "Tools on most our farms are very primitive and, at most times, homemade, passing from father to son. We need to buy modern agricultural machinery in developed countries to help our farmers adapt to the new modern age."
+  
+ MNT_focus_increase_farming_yields: "Increase Farming Yields"
+ MNT_focus_increase_farming_yields_desc: "Our reforms have one main goal, and that's a production of enough food for the whole population. This brings us good results, even right now, when we aren't still at the end. We need to continue and finish what we began to achieve a great and prosperous Montenegro."
+  
+ MNT_focus_advance_agricultural_technology: "Advance Agricultural Technology"
+ MNT_focus_advance_agricultural_technology_desc: "There are many new technologies as fertilizers, which we can use to improve our situation. We need to improve our technique, which we utilize in fields to adapt to the modern era."
+  
+ MNT_focus_a_surplus_of_foodstuff: "Surplus of Foodstuff"
+ MNT_focus_a_surplus_of_foodstuff_desc: "We manage what when we begin to look unmanageable. Supported by our reforms, our farmers have achieved a small surplus of food and other agricultural products. We are now ready to defeat our main enemy in the fields. That is droughts, unfavorable weather, and many others."
+  
+ MNT_focus_build_a_saltworks: "Build Saltworks"
+ MNT_focus_build_a_saltworks_desc: "Salt is one of the main resources in every good kitchen. We don't need to import foreign salt if we build saltworks in Ulcijn."
+  
+ MNT_focus_fewer_farmers_more_soldiers: "Fewer Farmers, More Soldiers"
+ MNT_focus_fewer_farmers_more_soldiers_desc: "We can use that we manage surplus on our fields. There are many options that we could choose, but we choose to offer some farmers to relieve their fields and allow them to join our great army."
+  
+ MNT_focus_more_crops_for_exports: "More Crops for Export"
+ MNT_focus_more_crops_for_exports_desc: "Our surplus in our fields could be our huge economic change. We could try to find export destinations for our products and make extra profits for further reforms."
+  
+ MNT_focus_self_sufficient_agriculture: "Self-Sufficient Agriculture"
+ MNT_focus_self_sufficient_agriculture_desc: "We manage to increase our production. We manage to break the influence of the wealthy Ottoman landlords. By this moment, we could proclaim that our agriculture is truly independent of foreign influence. But we don't have to stay in one place and continue our modernization to keep up with other powers."
+  
+ MNT_focus_combat_ottoman_landownership: "Combat Ottoman Landownership"
+ MNT_focus_combat_ottoman_landownership_desc: "Ottoman landlords hold a major part of our best agricultural lands. Another huge problem is that they are more loyal to Sultan than to us. We need to combat this influence to become more independent from Ottoman."
+  
+ MNT_focus_offer_to_purchase_their_farms: "Offer to Purchase their Farms"
+ MNT_focus_offer_to_purchase_their_farms_desc: "Because we don't want to upset Sultan, we need to deal with Ottoman landlords peacefully. There's the only option, how to remove their influence and not force Ottomans against us. That's we will offer them to buy their land and, only by that, get rid of their power."
+  
+ MNT_focus_nationalize_their_property: "Nationalize their Property"
+ MNT_focus_nationalize_their_property_desc: "There is only one way to send gready Ottomans back where they came from. We will nationalize their property and force them out of our lands. Even if it meant to kill some of them."
+  
+ MNT_focus_give_more_land_to_tenant_farmers: "Give More Land to Tenant Farmers"
+ MNT_focus_give_more_land_to_tenant_farmers_desc: "We manage to get land from wealthy Ottomans. Now we need to decide what to do with it. After a long debate, we decided to give land to our loyal peasants without their land. That would serve them as a gift because without them, we wouldn't do it, and after all, we hope they will be great farmers surpassing their Ottoman predecessors."
+  
+ MNT_focus_give_more_land_to_montenegrin_landlords: "Give More Land to Montenegrin Landlords"
+ MNT_focus_give_more_land_to_montenegrin_landlords_desc: "When we get those lands, an important lobby emerges. It's based mainly around Montenegrin landlords and other very rich, publicly known individuals. Giving these lands to them will guarantee us that these people can work with lands, which isn't sure about small landless farmers. Another benefit will be some influence over them, because they will for sure remember from who they got that land."
+  
+ MNT_focus_give_more_land_to_the_ruler_and_his_friends: "Give More Land to the Ruler and his Friends"
+ MNT_focus_give_more_land_to_the_ruler_and_his_friends_desc: "Who manages to get our lands from our wealthy enemies, which sabotage our effort to gain independence? It was our clever knjaz. This means our ruler and his close cabinet of advisors have the most merits in getting this land for our state. That means it's logical to give most land to knjaz and his advisors and let them decide what they do with their land."
+  
+ 	### FOCUSES INDUSTRY ### 
+  
+ MNT_focus_support_the_creation_of_an_industrial_sector: "Support Creation of Industrial Sector"
+ MNT_focus_support_the_creation_of_an_industrial_sector_desc: "One of the main pillars of our independence should be a big and powerful industry. We need to lay strong foundations of that pillar on which we can build other even greater projects. Without it, we would be the only undeveloped nation of farmers and unskilled laborers."
+  
+ MNT_focus_rijeka_military_workshop: "Rijeka Crnojevica Military Workshop"
+ MNT_focus_rijeka_military_workshop_desc: "In Rijeka Crnojevica near Cetinje is a small workshop, that can do complete miracles for our lands. They can make rifle parts and even some primitive cannons and many more. If we support them, they will expand and modernize workshops, and our gains will be enormous."
+  
+ MNT_focus_purchase_machinery_for_a_military_factory: "Purchase Machinery for Military Factory"
+ MNT_focus_purchase_machinery_for_a_military_factory_desc: "Even if we have the best military experts in the whole world, they won't be able to make modern weapons only with hammers and anvils. We have to also invest in modern machinery, which needs to be imported from abroad."
+  
+ MNT_focus_experiment_with_military_production: "Experiment with Military Production"
+ MNT_focus_experiment_with_military_production_desc: "We manage to build up all requirements, to begin with something more difficult. That's military production, which will be crucial in our national struggle. But we need to be prepared for the fact, that it won't be firstly great, but it will improve over time as our experts improve their skills."
+  
+ MNT_focus_new_construction_projects: "New Construction Projects"
+ MNT_focus_new_construction_projects_desc: "Our reform of the industrial sector isn't only about bureaucratic reform, but also, there should be projects which would support and stimulate our growth. Ahead lies two of the most important projects modernization of the road system and improvement of our cities."
+  
+ MNT_focus_rebuild_the_road_network: "Rebuild the Road Network"
+ MNT_focus_rebuild_the_road_network_desc: "Our road network is in very sad condition. Some roads, which are needed, don't exist, and a huge part of our main roads isn't paved. We need to do something about it because the road network is the backbone of every transportation system."
+  
+ MNT_focus_build_new_stone_bridges: "Build New Stone Bridges"
+ MNT_focus_build_new_stone_bridges_desc: "Rivers are our main enemies with our terrain in the planning of our road system. Many of our bridges are old, wooden, and insufficient. We need to improve this to remove the bottlenecks in our road system."
+  
+ MNT_focus_centralized_road_system: "Centralized Road System"
+ MNT_focus_centralized_road_system_desc: "Our roads are a group of unorganized, unmaintained paths. This needs to change by centralizing our system, connecting our most important centers, and building main road junctions in our capital."
+  
+ MNT_focus_connect_the_nahiyas: "Connect The Nahiyas"
+ MNT_focus_connect_the_nahiyas_desc: "Even the smallest village has to be connected to our roads. Because if our rule doesn't reach them, they are practically unadministratible. How we can with that get our independence if we couldn't fully rule our land."
+  
+ MNT_focus_urbanization_projects: "Urbanization Projects"
+ MNT_focus_urbanization_projects_desc: "Most of our population is rural. By this, we are lacking many opportunities, which brings urbanization. Ahead of us is lots of work like the sanitation of our cities, building new houses, and many more. Let's build from our town prosperous regional centers, which will bring glory to our nation."
+  
+ MNT_focus_rebuild_cetinje: "Rebuild Cetinje"
+ MNT_focus_rebuild_cetinje_desc: "Cetinje is our capital, but don't look like that. For foreigners, it could look like a big village where live someone had more power than others. This needs to change. We need to rebuild our capital city to be equal with other European capitals."
+  
+ MNT_focus_dannilovgrad: "Danilovgrad"
+ MNT_focus_dannilovgrad_desc: "Project of Danilovgrad town is planning to build completely new city on the green plains. By planning every urban aspect of city, we will create new administrative center, which could even surpass our national capital and maybe, in the future, will replace it."
+  
+ MNT_focus_urbanize_the_country: "Urbanize the Country"
+ MNT_focus_urbanize_the_country_desc: "Our country isn't only our capital city and its surroundings. There are many more centers as Rijeka Crnojevica, Kolašin, and others. Our effort needs to be extended to these areas so they aren't left behind."
+  
+ MNT_focus_support_new_businesses: "Support New Businesses"
+ MNT_focus_support_new_businesses_desc: "We need to support new companies which are emerging throughout our country. This will not only bring extra money to our state budget but also expand our industrial capacity, improve living conditions, and lay the foundation for other later-founded companies."
+  
+ MNT_focus_croatian_textile_industry: "Croatian Textile Industry"
+ MNT_focus_croatian_textile_industry_desc: "The textile industry is one of the oldest industries, which were developed in the western world. With a great portion of the rural population, it's perfect where we can begin our industrialization. We get an offer from Croatian merchants. They say they will build a factories for us if we provide them with cheaper labor."
+  
+ MNT_focus_trade_in_the_kotor_bay: "Trade in the Kotor Bay"
+ MNT_focus_trade_in_the_kotor_bay_desc: "Kotor bay is the shortest and safest way to get on the European market. But it's controlled by Austria. We need to sign an agreement about our free passage through their waters to unlock our goods to the world."
+  
+ MNT_focus_maritime_cooperation_with_the_austrians: "Maritime Cooperation with the Austrians"
+ MNT_focus_maritime_cooperation_with_the_austrians_desc: "We could expand our treaties with the Austrian about the Kotor area. We have drafted expansion in the area of maritime trade and trade shipping. This will bring us benefits such as expanded revenue or a better connection with the world."
+  
+ MNT_focus_postal_cooperation_with_the_austrians: "Postal Cooperation with the Austrians"
+ MNT_focus_postal_cooperation_with_the_austrians_desc: "Montenegro has its small postal service, but it´s only used by our government officials. Because of our position, we are isolated from other postal services. We have drafted an agreement between our postal services to cooperate and the Austrian side to operate Montenegrin post in Ottomans controlled territory."
+  
+ MNT_focus_cattaro_cetinje_telegraph_line: "Cattaro-Cetinje Telegraph Line"
+ MNT_focus_cattaro_cetinje_telegraph_line_desc: "Telegraph truly a new device by which we could communicate with another person at great distances in seconds. We don't have anything like this in Montenegro, but we can send Austrian experts to build the line from Kotor to Cetinje. This will connect us to the global telegraph net."
+  
+ 	### FOCUSES RESOURCE EXTRACTION ### 
+  
+ MNT_focus_exploit_the_natural_riches_of_montenegro: "Exploit the Natural Riches of Montenegro"
+ MNT_focus_exploit_the_natural_riches_of_montenegro_desc: "Montenegro is full of natural riches, and many of them still don't used. For some of them, we only need to dig a few times into the Earth and find them. We will be able to use them to support our starting industry and growing population."
+  
+ MNT_focus_forestry_efforts: "Forestry Efforts"
+ MNT_focus_forestry_efforts_desc: "One of the natural riches of Montenegro is our forests. We could use them to support our newly created industries. But we mustn't only use them, but we have to also protect them and take care of them. This will be done only by spreading knowledge between forestry workers and other personnel."
+  
+ MNT_focus_build_sawmills: "Build Sawmills"
+ MNT_focus_build_sawmills_desc: "By supporting our forests, another great potential grew. That's building the woodworking industry around it because there will be always some demand for wood and other related stuff. This will not only bring financial benefits but also more stability to the region or improve the living of our people."
+  
+ MNT_focus_prospect_for_iron_ore: "Prospect for Iron Ore"
+ MNT_focus_prospect_for_iron_ore_desc: "Iron is one of the ores which humans are using to their advantage. We have reports that there are some iron deposits in our country. We need to prospect for it to set up ironworks and start smelting parts, which could be used in arms workshops."
+  
+ MNT_focus_find_coal_deposits: "Find Coal Deposits"
+ MNT_focus_find_coal_deposits_desc: "Coal is essential in making steel. We have reports that some farmers find some black stone, which burns very well even for a few hours. We need to search for coal to improve our industrial potential, which can be used in the struggle for independence."
+  
+ MNT_focus_metallurgy_innovations: "Metallurgy Innovations"
+ MNT_focus_metallurgy_innovations_desc: "When we now manage to get our ironworks in working, there are still many spaces for improvement. There are many innovations, which we could easily access as making coke from coal and others."
+  
+ MNT_focus_experiment_with_steel_production: "Experiment with Steel Production"
+ MNT_focus_experiment_with_steel_production_desc: "In almost every aspect, steel is better than pure iron. That's only by adding a small amount of carbon into the melt. Our smelter are skilled and surely after few attempts could do the same. We need to support them to create our steel and became in case of conflict self-sufficient."
+  
+ MNT_focus_process_bauxite_ore: "Process Bauxite Ore"
+ MNT_focus_process_bauxite_ore_desc: "Bauxite is one of the rarer ores which could be found in Montenegro. It's needed for the smelting of aluminum, which is done by expensive and hard technique. It shouldn't be our priority, but there is the possibility to mine in and then use it in many useful ways in our goals."
+  
+ MNT_focus_construction_resource_industry: "Construction Resources Industry"
+ MNT_focus_construction_resource_industry_desc: "We should build up a new and not less important industry, and that's the construction resources industry. If we manage to expand it, we would have enough bricks and cobblestones not only for growing Montenegro but also for all our great projects, which will bring us to greatness."
+  
+ MNT_focus_expand_clay_pits: "Expand Clay Pits"
+ MNT_focus_expand_clay_pits_desc: "Claypits are the backbone of the brick industry. We have to improve them to produce as many bricks as it's possible. Only through this, we will lay the groundwork that could support many of our projects."
+  
+ MNT_focus_build_more_quarries: "Build More Quarries"
+ MNT_focus_build_more_quarries_desc: "Only a few main roads are paved. For this modernization and many other constructions, we need to expand stone extraction all around Montenegro."
+  
  	### EVENTS ### 
+  
+ MNT_guide_gui.1.t: "Mechanics Complexity" #NT!
+ MNT_guide_gui.1.d: "This mod offers you the opportunity to play with easy or hard mechanics for Montenegro. What is your choice?" #NT!
+ MNT_guide_gui.1.a: "Choose Easy Mechanics" #NT!
+ MNT_guide_gui.1.b: "Choose Complex Mechanics (recommended)" #NT!
   
  OTO_battleofgrahovac.1.t: "Escalation on the Border"
  OTO_battleofgrahovac.1.d: "Tensions have been gradually rising on our border. Now it almost looks like war had broken out there. There was always some tension on both sides, but now it looks like it had boiled over. There are reports of shootings and looting of border villages. The population is fleeing to the mountain areas to save themself and the little belongings they have left from that madness. We need to quickly decide what to do because this situation could destabilize the whole region. We could try to calm the situation down with words and offer some kind of appeasement, or we could send in the army to destroy those bandits."
@@ -772,6 +867,7 @@
   
  pressure_on_OTO: "[who_make_diplomatic_pressure_OTO]"
  pressure_on_MNT: "[who_make_diplomatic_pressure_MNT]"
+  
  FRA_make_pressure: "FRA.GetName"
  RUS_make_pressure: "RUS.GetName"
  AUS_make_pressure: "AUS.GetName"
@@ -865,6 +961,25 @@
  OTO_battleofgrahovac.44.d: ""
  OTO_battleofgrahovac.44.a: ""
   
+ OTO_battleofgrahovac.49.t: "French Invasion of Albania" #NT!
+ OTO_battleofgrahovac.49.d: "A group of French ships emerge right before the Albanian port city of Durrës. They sent us and primarily the port garrison last chance to save themselves. That last chance was an ultimatum to withdraw some of the force fighting Montenegro. We have only a few hours to answer till they start to fire and landing operation." #NT!
+ OTO_battleofgrahovac.49.a: "We will make concessions to avoid humiliation." #NT!
+ OTO_battleofgrahovac.49.b: "Do nothing, they are only bluffing." #NT!
+ OTO_battleofgrahovac.49.c: "Let them come. We would be prepared for them." #NT!
+  
+ OTO_battleofgrahovac.50.t: "Russian Invasion of Moldavia" #NT!
+ OTO_battleofgrahovac.50.d: "We have spotted mass Russian troops buildup on our borders in Balkan. They are threatening our Balkan possessions with a grand land invasion. They sent us and primarily the border garrison last chance to save themselves. That last chance was an ultimatum to withdraw some of the force fighting Montenegro. We have only a few hours to answer till they start another land invasion of our lands." #NT!
+ OTO_battleofgrahovac.50.a: "We will make concessions to avoid humiliation." #NT!
+ OTO_battleofgrahovac.50.b: "Do nothing, they are only bluffing." #NT!
+ OTO_battleofgrahovac.50.c: "Let them come. We would be prepared for them." #NT!
+  
+ OTO_battleofgrahovac.51.t: "Ottomans Make Concessions" #NT!
+ OTO_battleofgrahovac.51.d: "Ottomans backed down in the face of imminent invasion, which would bring them a humiliating defeat. Now, they are willing to make concessions to keep us out of confrontation." #NT!
+ OTO_battleofgrahovac.51.a: "Truly great news." #NT!
+  
+ OTO_battleofgrahovac.52.t: "Montenegro Crisis Calmed Down" #NT!
+ OTO_battleofgrahovac.52.d: "" #NT!
+ OTO_battleofgrahovac.52.a: "Truly great news." #NT!
   
  montenegro.1.t: "Clans"
  montenegro.1.d: "Clans"
@@ -976,14 +1091,14 @@
  montenegro.37.t: "Montenegrins demands"
  montenegro.37.d: "Montenegro demands to regain full control of its resources and to end our government's interference in Montenegro's mining affairs"
  montenegro.37.a: "well, we recognize their rights as wel as their resources"
- montenegro.37.b: "let's try to stop them"
- montenegro.37.c: ""
   
  montenegro.38.t: "the Ottomans refused to relinquish control of our mines"
  montenegro.38.d: "The Ottoman Foreign Ministry has decided not to comply with our request to take over all mining in our state. Since the ability to control mining in our territory is an essential element of an independent state, it is necessary to resolve this matter in its own way."
  montenegro.38.a: "let's take our mines, drive the Ottomans out"
  montenegro.38.b: "let's hire Ottoman mine managers"
  montenegro.38.c: ""
+ support_MNT_side: "if Montenegro win we will gain 2 §Y Prestige §! , §Rif lose we lose 2§! §Y Prestige §!" #NT!
+ support_OTO_side: "if Ottomans win we will gain 2 §Y Prestige §! , §Rif lose we lose 2§! §Y Prestige §!" #NT!
   
  montenegro.39.t: "the demands of the Montenegrins"
  montenegro.39.d: "Montenegrins demand the withdrawal of all Ottoman troops and officials from Montenegro and the liberation of their state."
@@ -998,10 +1113,14 @@
  MNT_accept_demands: ""
  MNT_press_on_compromis: ""
  MNT_send_army: ""
+ add_two_prestige_beacuse_france_support_you: "you get §Ytwo extra prestige§! because §YFrance§! supports you" #NT!
+ add_two_prestige_beacuse_russia_support_you: "you get §Ytwo extra prestige§! because §YRussia§! supports you" #NT!
+ add_two_prestige_beacuse_austria_support_you: "you get §Ytwo extra prestige§! because §YAustria§! supports you" #NT!
   
  montenegro.41.t: "the demands of the Montenegrins"
  montenegro.41.d: "Montenegro is demanding the release of trade routes through Montenegro; now we can set rules and limits for them to follow."
  montenegro.41.a: "let's ban them from importing weapons "
+ montenegro.41.b: "We can't accept it. We have to stick to our goals." #NT!
   
  montenegro.42.t: "The Ottomans say no"
  montenegro.42.d: "The Ottomans have banned us from importing weapons."
@@ -1081,10 +1200,6 @@
  montenegro.110.d: "The Ottoman Empire is interested in an agreement with Montenegro but still regards us as their autonomous territory rather than a sovereign state. It is up to us whether we accept the small concessions provided by the Ottoman Empire or resolve the matter face-to-face with them at gunpoint."
  montenegro.110.a: "let's knock down the sick man on the bosphorus"
  montenegro.110.b: "we also stand for compromise between our countries"
-  
- montenegro.111.t: ""
- montenegro.111.d: ""
- montenegro.111.a: ""
   
  montenegro.117.t: "Jaroši batalions"
  montenegro.117.d: "On our territory are lots of uncontrollable armed criminals. These so-called Jaroi are potential problems, but they are also experienced fighters. So we could offer to pardon them if they joined our national fight in Hercegovina, or even if they succeeded in joining our army there."
@@ -1248,6 +1363,9 @@
  	### IDEAS ### 
   
  	### IDEAS GRAHOVEC + HERZEGOVINA UPRISING ### 
+  
+ MNT_idea_la_souverainete_du_montenegro: "Book Supporting Our Struggle" #NT!
+ MNT_idea_la_souverainete_du_montenegro_desc: "French book La souverainete du Montenegro." #NT!
   
  MNT_Crimean_War_Neutrality: "Crimean War Neutrality"
  MNT_Crimean_War_Neutrality_desc: " "
@@ -1638,6 +1756,8 @@
   
  MNT_decision_financial_help_from_russia: "Financial Help from Russia"
   
+ MNT_Nikola_Visits_Napoleon_III: "Nikola's Visit to France" #NT!
+  
  MNT_Talk_With_Vuk_Karadzic: "Talk with Vuk Karadžić"
  MNT_Talk_With_Vuk_Karadzic_desc: "Vuk Karadžić will be sent by Serbian Knez to visit Nikola in order to talk about the situation of our people in the Ottoman Empire and it's vassal states."
   
@@ -1777,6 +1897,7 @@
  it_is_ottoman_empire: "Ottoman Empire"
   
  	### DECISION (pre)GRAHOVEC + HERZEGOVINA UPRISING (1857) MNT ### 
+ MNT_decision_category_Herzegovinian_uprising_1857: "[the_Montenegrin_question]"
   
  MNT_decision_resources_back: "Situation with Montenegrin Resources"
   
@@ -1810,7 +1931,7 @@
   
  OTO_arrest_the_rebel_leader: "Try to Arrest Rebel Leaders"
   
- OTO_mission_herzegovina_uprising_1857: "Development of the Uprising in Herzegovina"
+ OTO_mission_development_of_herzegovina_uprising_1857: "Development of the Uprising in Herzegovina" #NT!
   
  OTO_mission_herzegovina_uprising_1857_final: "Ultimatum to Army for Finishing Uprising"
   
@@ -1935,6 +2056,69 @@
   
  montenegro_war_1858_desc: "§BMontenegro§! [MNT_lives]                                §ROttoman Empire§! [OTO_lives]    [divisions_in_montenegro_region]/[divisions_limit]"
   
+ FRA_have_casus_beli: "[FRA.GetFlag] £GFX_attack_texticon" #NT!
+ RUS_have_casus_beli: "[RUS.GetFlag] £GFX_attack_texticon" #NT!
+ AUS_have_casus_beli: "[AUS.GetFlag] £GFX_attack_texticon" #NT!
+  
+ OTO_will_lose: "If the mission ends, the Ottoman Empire will lose." #NT!
+ MNT_will_lose: "If the mission ends, Montenegro will lose." #NT!
+ MNT_OTO_1858_war_end: "The Montenegrin uprising is over" #NT!
+  
+ MNT_deliver_the_weapons_to_the_herzegovina: "Weapons Delivery to Herzegovina" #NT!
+ MNT_deliver_the_weapons_to_the_herzegovina_desc: "" #NT!
+  
+ MNT_deliver_the_weapons_to_the_herzegovina_decision_cost: "§Y50§! £infantry_equipment_texticon" #NT!
+ MNT_deliver_the_weapons_to_the_herzegovina_decision_blocked: "§R50§! £infantry_equipment_texticon" #NT!
+  
+ MNT_deliver_the_weapons_to_the_herzegovina_decision_cost_blocked: "§R50§! £infantry_equipment_texticon" #NT!
+ add_50_infeq_to_HRZ: "adds §B50 infantry equipment§! to herzegovina rebels" #NT!
+ add_x_infeq_to_HRZ: "adds §B?[herzegovina_equipment]§! to herzegovina rebels (number of added equipment depend on number of Montenegrin and Ottomans division in area)" #NT!
+  
+ MNT_to_start_a_new_uprising_in_Herzegovina: "Start New Uprising in Herzegovina" #NT!
+ MNT_to_start_a_new_uprising_in_Herzegovina_desc: "" #NT!
+  
+ MNT_herzegovina_equipment_more_than_200: "§B200§! £infantry_equipment_texticon" #NT!
+ MNT_herzegovina_equipment_more_than_200_blocked: "§R[herzegovina_equipment]/200§! £infantry_equipment_texticon" #NT!
+  
+ casus_beli_on_OTO: "You will gain casus belli £GFX_attack_texticon on the Ottoman Empire" #NT!
+ make_casus_beli_on_OTO_threat: "Gained casus belli on the Ottoman Empire" #NT!
+  
+ MNT_OTO_war_1858_time_to_withdraw_units: "Ultimatum to Withdraw From Western Balkan" #NT!
+  
+ MNT_RUS_send_army_closer_to_ottoman_empire: "Send Army Closer to Ottomans Borders" #NT!
+  
+ MNT_RUS_declare_war: "Declared War on the Ottoman Empire" #NT!
+  
+ MNT_FRA_prepare_our_fleet_to_adriatic_sea: "Prepare Fleet to the Adriatic Sea" #NT!
+  
+ MNT_FRA_invade_albania: "Invade Albania" #NT!
+  
+ MNT_decision_start_grahovo_missions: "Consolidate Our Control in Grahovo Region" #NT!
+  
+ MNT_keep_grahovo_mission: "Control Grahovo Region" #NT!
+  
+ MNT_decision_start_keep_scutari: "Consolidate Our Control in Scrutari" #NT!
+  
+ MNT_keep_scutari_mission: "Control Scrutari" #NT!
+  
+ MNT_decision_start_keep_herzegovina: "Consolidate Our Control in Herzegovina" #NT!
+  
+ MNT_keep_herzegovina_mission: "Control Herzegovina" #NT!
+  
+ MNT_decision_start_connection_with_serbia: "Land Connection to Serbia" #NT!
+  
+ MNT_connection_with_serbia: "Secure Land Connection to Serbia" #NT!
+  
+ MNT_deal_demage_to_ottomans: "Deal Damage to Ottomans" #NT!
+  
+ MNT_deliver_the_weapons_to_the_herzegovina: "Deliver Weapons to Herzegovina" #NT!
+  
+ OTO_keep_order_in_the_herzegovina: "Keep Order in Herzegovina" #NT!
+  
+ MNT_decision_secure_podgorica_western_sandjak: "Secure Podgorica and Western Sanjak" #NT!
+  
+ OTO_mission_secure_podgorica_western_sandjak: "Defend Podgorica and Western Sanjak" #NT!
+  
  one_live_MNT: "£montenegro_heartztexticon"
   
  two_lives_MNT: "£montenegro_heartztexticon £montenegro_heartztexticon"
@@ -1983,6 +2167,9 @@
  max_limit_12: "§Y12§!"
  max_limit_14: "§Y14§!"
  max_limit_16: "§Y16§!"
+  
+  
+ OTO_division_limit_last_alert: "if we !Ydon't withdraw our troops§!, all neutrals and supporters of Montenegro have the opportunity to get a §Rcasus beli§!£GFX_attack_texticon to §Ydeclare war§! on us. Supporters of the Ottoman Empire §Ywill lose prestige or become neutral§Y" #NT!
   
  	### DECISIONS CLANS ### 
   
@@ -2133,6 +2320,8 @@
   
  max_limit_tooltip_4: "Have more than §Y16 dvisions§! in combat area."
   
+ OTO_make_concesion: "[OTO.GetFlag] [OTO_decrease_lives] you §Rlose casus belli§! £GFX_attack_texticon on Ottoman Empire" #NT!
+  
  	### SCRIPTED LOC. ### 
   
  have_indenpendence_M: "§BMontenegrin independence from the Ottoman Empire was "de facto" recognized,§! the borders were guaranteed by the Great Powers "
@@ -2157,6 +2346,9 @@
  france_win: "France"
   
  MNT_decrease_lives: "§YDecrease £montenegro_heartztexticon by 1§!"
+ MNT_decrease_lives2: "§YDecrease £montenegro_heartztexticon £montenegro_heartztexticon by 2§!" #NT!
+ OTO_decrease_lives: "§YDecrease £ottoman_heartz_texticon by 1§!" #NT!
+ OTO_decrease_lives2: "§YDecrease £ottoman_heartz_texticon £ottoman_heartz_texticon by 2§!" #NT!
   
  	### FLAGS ### 
   
@@ -2283,16 +2475,3 @@
   
  MNT_creation_of_industrial_sector: "Creation Of Industrial Sector"
  MNT_creation_of_industrial_sector_desc: ""
-  
- 	### DECISIONS_PREBYTEK ### 
-  
- MNT_decision_study_french_doctrine: "Study French Military Doctrine"
-  
- MNT_decision_buy_austrian_cannons: "Purchase Austrian Artillery"
-  
- MNT_decision_buy_austrian_rifles: "Purchase Rifle Artillery"
-  
- MNT_decision_combat_turkish_landlords: "Combat Turkish Landlords"
-  
- MNT_Visit_Napoleon_III: "Visit Napoleon III"
- MNT_Visit_Napoleon_III_desc: "Since our Knez likes France more than Russia, he should visit Napoleon III."

@@ -42,7 +42,7 @@
  AUTONOMY_RELATION_DESC2: "$SUBJECT|UH$ — $LEVEL|H$ зарубежного государства"
  AUTONOMY_COUNTRY_EFFECT: "Государство"
  AUTONOMY_MASTER_COUNTRY_EFFECT: "Метрополия"
-  SHOW_SUBJECTS_DESC: "Открыть обзор субъектов"
+ SHOW_SUBJECTS_DESC: "Открыть обзор субъектов"
  SHOW_SUBJECTS_DISABLED_DESC: "§RУ нас нет субъектов§!"
  MANAGE_SUBJECTS_HEADER: "Субъекты"
  CONTINUOUS_AUTONOMY_EFFECT: "$REASON$: £autonomy_texticon $VAL|+=2$"
@@ -80,6 +80,4 @@
  CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE: "§RНам запрещено понижать уровень или отменять строительство этого здания.§!"
  CONSTRUCTION_INFO_MASTER: "Строительство ведется на территории государства $WHO|H$. Если мы не используем все фабрики, они могут помочь, задействовав свои."
  CONSTRUCTION_INFO_SUBJECT: "Государство $WHO|H$ возводит это здание для нас. Если они не используют все фабрики, мы можем помочь, задействовав свои."
- autonomy_communist_satellite: "Сателлит"
- autonomy_occupation_zone: "Оккупационная зона"
- autonomy_aat_defense_council_member: "Член Северного совета по обороне"
+  

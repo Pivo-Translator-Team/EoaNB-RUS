@@ -1,16 +1,9 @@
 ﻿l_russian:
- ###Tooltips### 
+  ###Tooltips### 
  GER_CONF_defensive_on_declare_tooltip: "§RГерманский союз не будет бездействовать, если одно из его членов подвергнется нападению внешней силы!§!\n"
   
- ###Events### 
- gerconfed.450.t: "Война в Германии"
- gerconfed.450.d: "Помимо того, что Германский союз является политическим образованием, его главная функция — защита каждого члена от внешних угроз. Теперь, когда конфронтация между Германским союзом и внешней силой неизбежна, союз готовит свои войска.\nНовый ветер дует по немецким землям. Хотя вопрос объединения Германии и братства поднимался разными интеллектуалами в прошлом, люди обрели новое понимание: объединённые против общего врага, плечом к плечу, старая система в Центральной Европе может вскоре измениться, если этот дух единства переживёт эту смертельную войну."
- gerconfed.450.a: "Единство!"
- gerconfed.450.b: "Это, безусловно, интересное развитие событий."
- gerconfed.450.c: "Мечты и фантазии их не спасут."
-  
- ##The other German Confederation## 
- ###Focus### 
+  ##The other German Confederation## 
+  ###Focus### 
  GEC_centralized_economy: "Централизованная экономика"
  GEC_centralized_economy_desc: ""
  GEC_decentralized_economy: "Децентрализованная экономика"
@@ -39,7 +32,7 @@
  GEC_northern_office_of_economy_desc: ""
  GEC_southern_office_of_economy: "Южное экономическое бюро"
  GEC_southern_office_of_economy_desc: ""
- GEC_regierungsbezirke: "Административные округа" 
+ GEC_regierungsbezirke: "Административные округа"
  GEC_regierungsbezirke_desc: ""
  GEC_bundeslaender: "Федеральные земли"
  GEC_bundeslaender_desc: ""
@@ -291,7 +284,7 @@
  GEC_nuremberger_pact_desc: ""
  GEC_affirm_french_autocracy: "Подтвердить французскую автократию"
  #GEC_affirm_french_autocracy_desc: ""
- GEC_franco_allemand_union: "Франко-Германский Союз" 
+ GEC_franco_allemand_union: "Франко-Германский Союз"
  GEC_franco_allemand_union_desc: ""
  GEC_address_inner_issues: "Рассмотреть внутренние проблемы"
  GEC_address_inner_issues_desc: ""
@@ -324,8 +317,7 @@
  GEC_ask_france_for_help: "Запросить помощь у Франции"
  GEC_ask_france_for_help_desc: ""
   
-  
- ###Ideas 
+  ###Ideas 
  GEC_boost_civs: "Единоразовый бонус на строительство гражданской промышленности"
  #GEC_boost_mils_desc: "25% construction bonus on the next Military Industry"
  GEC_boost_mils: "Единоразовый бонус на строительство военной промышленности"
@@ -334,15 +326,7 @@
  #GEC_boost_infra_desc: "25% construction bonus on the next Infrastructure"
  #GEC_gun_production: "5% boost in Gun Production for a Year"
   
-  
- ###Events 
- gerconfed.19.t: "Вопрос независимости Германии"
- gerconfed.19.d: "Германия — одна из ведущих держав Европы. Должны ли мы помочь им стать независимыми?\n"
- gerconfed.19.a: "Поддержать их"
- gerconfed.19.b: "Не поддерживать их"
-  
-  
- #Misc 
+  #Misc 
  GEC_customtrigger_civ_bonus: "Не имеет бонусов на скорость строительства гражданских объектов."
  GEC_customtrigger_mil_bonus: "Не имеет бонусов на строительство военных объектов."
  GEC_customtrigger_inf_bonus: "Не имеет бонусов на строительство инфраструктуры."

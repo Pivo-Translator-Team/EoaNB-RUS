@@ -35,7 +35,7 @@
  JAP_japanese_education: "Японское Образование"
  JAP_japanese_education_desc: ""
  JAP_iwakura_mission: "Экспедиция Ивакура"
- JAP_iwakura_mission_desc: "Теперь, когда реформация завершилась, отправка наших самых талантливых ученых в Европу будет разумной для дальнейшего прогресса в постоянно меняющемся мире. Ученые смогут переписать наш статус в мире, перезаключить унизительные неравноправные договоры и изучить те аспекты западного общества, которые необходимы Японии, чтобы лучше выровнять положение с Западным миром".
+ JAP_iwakura_mission_desc: "Теперь, когда реформация завершилась, отправка наших самых талантливых ученых в Европу будет разумной для дальнейшего прогресса в постоянно меняющемся мире. Ученые смогут переписать наш статус в мире, перезаключить унизительные неравноправные договоры и изучить те аспекты западного общества, которые необходимы Японии, чтобы лучше выровнять положение с Западным миром"
  JAP_student_mission: "Миссия Гакусэй"
  JAP_student_mission_desc: "Чтобы сохранить наши будущие поколения, стабильный образовательный фундамент позволит нам вкладывать больше средств в образование наших детей."
  JAP_hire_foreign_teachers: "Нанимать Зарубежных Учителей"
@@ -651,14 +651,14 @@
  #JAP_mission_tokyo_yokohama_rail_trigger_tt_1: "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YTokyo§! и §YYokosuka§!\n"
  #JAP_mission_osaka_kobe_rail_trigger_tt_2: "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YХего§! и §YOsaja§!\n"
  #JAP_mission_osaka_kobe_rail_trigger_tt_3: "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YHakodate§! и §YSapporo§!\n"
- #JAP_mission_osaka_kobe_rail_trigger_tt_4 "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YОсака§! и §YKyoto§!\n" "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YОсака§! и §YKyoto§!\n"
- #JAP_mission_osaka_kobe_rail_trigger_tt_5 "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YKagoshima§! и §YKokura§!\n" "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YKagoshima§! и §YKokura§!\n"
- #JAP_mission_osaka_kobe_rail_trigger_tt_6 "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YKagoshima§! и §YKumamoto§!\n" "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YKagoshima§! и §YKumamoto§!\n"
- #JAP_mission_osaka_kobe_rail_trigger_tt_7 "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YKokura§! и §YKumamoto§!\n" "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YKokura§! и §YKumamoto§!\n"
- #JAP_mission_osaka_kobe_rail_trigger_tt_8 "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YHagi§! и §YХего§!\n" "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YHagi§! и §YХего§!\n"
- #JAP_mission_osaka_kobe_rail_trigger_tt_9 "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YHagi§! и §YOkayama§!\n" "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YHagi§! и §YOkayama§!\n"
- #JAP_mission_osaka_kobe_rail_trigger_tt_10 "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YHagi§! и §YHiroshima§!\n" "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YHagi§! и §YHiroshima§!\n"
- #JAP_mission_osaka_kobe_rail_trigger_tt_11 "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YTokyo§! и §YKanazawa§!\n" "\n \n£railroad_connection_texticon Имеет Железнодорожное сообщение между\n §YTokyo§! и §YKanazawa§!\n"
+ #JAP_mission_osaka_kobe_rail_trigger_tt_4 "\n \n£railroad_connection_texticon Has Railway connection between\n §YOsaka§! and §YKyoto§!\n" "\n \n£railroad_connection_texticon Has Railway connection between\n §YOsaka§! and §YKyoto§!\n" #NT!
+ #JAP_mission_osaka_kobe_rail_trigger_tt_5 "\n \n£railroad_connection_texticon Has Railway connection between\n §YKagoshima§! and §YKokura§!\n" "\n \n£railroad_connection_texticon Has Railway connection between\n §YKagoshima§! and §YKokura§!\n" #NT!
+ #JAP_mission_osaka_kobe_rail_trigger_tt_6 "\n \n£railroad_connection_texticon Has Railway connection between\n §YKagoshima§! and §YKumamoto§!\n" "\n \n£railroad_connection_texticon Has Railway connection between\n §YKagoshima§! and §YKumamoto§!\n" #NT!
+ #JAP_mission_osaka_kobe_rail_trigger_tt_7 "\n \n£railroad_connection_texticon Has Railway connection between\n §YKokura§! and §YKumamoto§!\n" "\n \n£railroad_connection_texticon Has Railway connection between\n §YKokura§! and §YKumamoto§!\n" #NT!
+ #JAP_mission_osaka_kobe_rail_trigger_tt_8 "\n \n£railroad_connection_texticon Has Railway connection between\n §YHagi§! and §YHyōgo§!\n" "\n \n£railroad_connection_texticon Has Railway connection between\n §YHagi§! and §YHyōgo§!\n" #NT!
+ #JAP_mission_osaka_kobe_rail_trigger_tt_9 "\n \n£railroad_connection_texticon Has Railway connection between\n §YHagi§! and §YOkayama§!\n" "\n \n£railroad_connection_texticon Has Railway connection between\n §YHagi§! and §YOkayama§!\n" #NT!
+ #JAP_mission_osaka_kobe_rail_trigger_tt_10 "\n \n£railroad_connection_texticon Has Railway connection between\n §YHagi§! and §YHiroshima§!\n" "\n \n£railroad_connection_texticon Has Railway connection between\n §YHagi§! and §YHiroshima§!\n" #NT!
+ #JAP_mission_osaka_kobe_rail_trigger_tt_11 "\n \n£railroad_connection_texticon Has Railway connection between\n §YTokyo§! and §YKanazawa§!\n" "\n \n£railroad_connection_texticon Has Railway connection between\n §YTokyo§! and §YKanazawa§!\n" #NT!
  end_industrial_revolution_1: "\n§GЭто Знаменует Собой Завершение Первого Этапа Промышленной Революции!§!"
  end_industrial_revolution_2: "\n§GЭто Знаменует Собой Завершение Второго Этапа Промышленной Революции!§!"
  end_industrial_revolution_3: "\n§GЭто Знаменует Собой Завершение Третьего Этапа Промышленной Революции!§!"

@@ -11,7 +11,16 @@
  saxony.2.t: "Королевство Саксония –\nНачальная ситуация: Внешняя политика"
  saxony.2.d: "\nСаксония находится в сложном географическом положении. Расположенное между двумя немецкими гегемонами, Пруссией и Австрией, и граничит с третьей немецкой державой, Баварией, на юге, правительство должно быть осторожным, особенно на международной арене.\n\nХотя членство в Таможенном союзе имеет жизненно важное экономическое значение, наши отношения с ведущей державой союза, Пруссией, не самые лучшие. Фактически, Саксония чуть не была полностью аннексирована Пруссией во время Венского конгресса 1815 года как наказание за поддержку Наполеона до последнего момента.\n\nТолько вмешательство Австрии предотвратило полное включение нашего королевства в состав Пруссии, но мы все же потеряли более половины нашей территории и почти 40% населения в рамках окончательного акта Венского конгресса. Дни, когда нас считали европейской средней державой, давно прошли, и нам лишь чудом удалось предотвратить прусскую инициативу объединения после мартовской революции, известную как Эрфуртский союз.\n\nТеперь нам предстоит решить, как действовать дальше. Мы добились некоторых многообещающих успехов, работая с другими немецкими маломощными государствами, и продолжение этого пути должно быть нашим лучшим вариантом, хотя может быть трудно собрать всех участников на одной стороне. В то же время мы должны быть осторожны, чтобы не настроить против себя Австрию и Пруссию, иначе наши дни как независимой страны могут быть сочтены..."
  saxony.2.a: "Бог с тобой, моя Саксония!"
-
+ #GENERAL INFORMATION AND FLAVOR EVENTS 
+ saxony.11.t: "The Discovery of the Element Indium" #NT!
+ saxony.11.d: "Two scientists from the Bergakademie Freiberg have made a remarkable discovery: while conducting spectral analyses on black zinc, they came across a new element. Due to its indigo blue spectral colour, they named the new element indium." #NT!
+ saxony.11.a: "We can be proud of our scientists." #NT!
+ saxony.12.t: "Foundation of the Zwickau Brewing Association" #NT!
+ saxony.12.d: "Industrialists from Zwickau who are familiar with beer brewing have founded the Zwickauer Brauverein a few days ago. The association has set itself the goal of establishing a jointly managed brewery in Zwickau to meet the beer needs of the surrounding area with freshly brewed local beer." #NT!
+ saxony.12.a: "Many sure are looking forward to it." #NT!
+ saxony.13.t: "Foundation of the Zwickau Association Brewery" #NT!
+ saxony.13.d: "Entrepreneurs from the Zwickau Brewing Association laid the foundation stone for the first Zwickau association brewery today. Beer brewing will be able to begin here in a few months. The combined expertise of the members of the brewing association gives reason to hope that the beer brewed here will be of exceptional quality." #NT!
+ saxony.13.a: "Let's quickly collect the taxes - and some sample!" #NT!
   
  ###POLITICAL AND WAR EVENTS 
  #DOMESTIC POLITICS 
@@ -84,7 +93,7 @@
  saxony.306.t: "[FROM.GetNameDef] Реагирует отрицательно"
  saxony.306.d: "[FROM.GetNameDef] ответила на нашу повестку реформ."
  saxony.306.a: "Как жаль!"
- saxony.307.t: "Саксонское приглашение на конференцию Триаса в Вюрцбурге" 
+ saxony.307.t: "Саксонское приглашение на конференцию Триаса в Вюрцбурге"
  saxony.307.d: "Саксония пригласила нас на собрание германских средних государств, так называемого Триаса, в Вюрцбурге. В последнее время саксонцы очень активны в дипломатии, пытаясь развить взаимопонимание среди малых германских держав, достигнутое на Бамбергской конференции 1854 года. Они настаивают, что единственный способ сохранить независимость и мир для германских малых государств — это гораздо более тесное сотрудничество. Как мы ответим на их приглашение?"
  saxony.307.a: "Мы примем участие в конференции."
  saxony.307.b: "Мы не примем участие в конференции."
@@ -94,7 +103,7 @@
  saxony.309.t: "[FROM.GetNameDef] Отклоняет приглашение"
  saxony.309.d: "[FROM.GetNameDef] отклонила наше приглашение участвовать в Вюрцбургской конференции, где наш министр иностранных дел фон Бойст представит свой план реформирования Германского союза. Это показывает, что [FROM.GetName] не хочет сделать следующий шаг и предпочитает, чтобы Германия оставалась разделенной под сапогами Пруссии и Австрии!"
  saxony.309.a: "Проклятье!"
- saxony.310.t: "Начало дебатов о реформах на Вюрцбургской конференции" 
+ saxony.310.t: "Начало дебатов о реформах на Вюрцбургской конференции"
  saxony.310.d: "Делегаты германских средних государств, решившие отправить дипломатов для обсуждения реформ Германского союза, собрались в Вюрцбурге, Бавария. Наши баварские хозяева подготовили известный отель в городе для переговоров, а также организовали несколько общественных мероприятий на следующие четыре дня, включая посещение театра, праздничный ужин в особняке президента округа Нижняя Франкония Фридриха фон Цу Райна и бал."
  saxony.310.a: "Хорошо, но не забудьте про переговоры!"
  saxony.311.t: "Закрытие Вюрцбургской конференции"
@@ -138,8 +147,11 @@
  saxony.322.d: "[FROM.GetNameDef] отклонила наше приглашение участвовать на Третьей Вюрцбургской конференции, на которой наш министр иностранных дел фон Бойст все еще хочет обсудить реформу военной конституции Германского союза. Это показывает, что [FROM.GetName] по-прежнему не желает сделать шаг к более тесному сотрудничеству, предпочитая оставлять свою независимость на милость Австрии и Пруссии. Их падение будет их собственной виной!"
  saxony.322.a: "Проклятье!"
  saxony.323.t: "Начало Третьей Вюрцбургской конференции"
- saxony.323.d: "Делегаты германских средних государств, решившие отправить дипломатов для обсуждения реформ Германского союза, собрались в Вюрцбурге, Бавария, на Третью Вюрцбургскую конференцию. Снова в центре внимания обсуждения находятся вопросы войны и обороны, поскольку саксонский министр иностранных дел фон Бойст хочет продолжить обсуждение возможных изменений военной конституции Германского союза. Надеемся на прорыв в обсуждениях."
+ saxony.323.d_middle_states: "The delegates of the German middle states who decided to dispatch diplomats for the discussion of a reform of the German Confederation have gathered in Würzburg, Bavaria, for the Third Würzburg Conference. Again, matters of war and defence are at the forefront of the discussions, as the Saxon State Minister von Beust wants to continue discussing possible changes to the war constitution of the German Confederation. Let's hope for a breakthrough in the discussions." #NT!
+ saxony.323.d_great_powers: "The delegates of the German middle states who decided to dispatch diplomats for the discussion of a reform of the German Confederation have gathered in Würzburg, Bavaria, along with our representatives for the Third Würzburg Conference. Again, matters of war and defence are at the forefront of the discussions, as the Saxon State Minister von Beust wants to continue discussing possible changes to the war constitution of the German Confederation. We have decided to attend and will try to make sure that nothing discussed in Würzburg goes against our interests." #NT!
  saxony.323.a: "Действительно."
+ saxony.323.b: "We'll see." #NT!
+ saxony.323.c: "We need to be wary." #NT!
  saxony.324.t: "Закрытие Третьей Вюрцбургской конференции"
  saxony.324.d: "Вчера завершилась Третья Вюрцбургская конференция. Обсуждения были довольно продуктивными, но теперь настало время максимально использовать достигнутые договоренности."
  saxony.324.a: "Надеемся, это наконец принесет результаты."
@@ -182,6 +194,43 @@
  saxony.335.d: "К сожалению, наша попытка адаптировать предложение о реформе с целью склонить [FROM.GetNameDef] к его поддержке во Франкфурте не увенчалась успехом."
  saxony.335.a: "Черт побери!"
  SAX_continued_rejection_of_reform_proposal_effect_tt: "§RЭто означает, что мы не можем представить предложение о реформе Федеральному собранию.§!\n"
+ saxony.336.t_second_conference: "Should we also Invite Austria and Prussia to the Second Würzburg Conference?" #NT!
+ saxony.336.t_third_conference: "Should we also Invite Austria and Prussia to the Third Würzburg Conference?" #NT!
+ saxony.336.d_second_conference: "Since any reform endeavor can only be successful if at least one of the two Great Powers in the German Confederation, Austria or Prussia, supports our plans, it would be wise to invite representatives of the two states to the conference in Würzburg as well. The other middle states have the same opinion about this topic, but ultimately it's our decision as the organizers of the conference to send out the invitations. So, who should be invited?" #NT!
+ saxony.336.d_third_conference: "The reform plans are slowly taking shape. The upcoming conference in Würzburg is going to be very important in that regard. We should really try to win the support of either Austria or Prussia to give our plans a much better chance of success. But, of course, we could also try to do it on our own with the support of the other middle states. So, who should be invited?" #NT!
+ saxony.336.a: "Invite both, Austria and Prussia." #NT!
+ saxony.336.b: "Only invite Austria." #NT!
+ SAX_no_invitation_for_prussia_effect_tt: "§RThe §YPrussians§! will certainly hear of our refusal to send them an invitation, which will not only worsen our mutual relationship but could also make future cooperation more difficult.§!\n\n" #NT!
+ saxony.336.c: "Only invite Prussia." #NT!
+ SAX_no_invitation_for_austria_effect_tt: "§RThe §YAustrians§! will certainly hear of our refusal to send them an invitation, which will not only worsen our mutual relationship but could also make future cooperation more difficult.§!\n\n" #NT!
+ saxony.336.e: "Don't invite the two Great Powers." #NT!
+ SAX_no_invitation_for_austria_and_prussia_effect_tt: "§RThe §YAustrians§! and §YPrussians§! will certainly hear of our refusal to send them an invitation, which will not only worsen our mutual relationship but could also make future cooperation more difficult.§!\n\n" #NT!
+ saxony.337.t: "Invitation to a Conference in Würzburg" #NT!
+ saxony.337.d: "[SAX.GetNameDef] has invited us to a conference in Würzburg. The Saxons have met there before with other German middle states to discuss the possibilities of reform within the German Confederation. It could be wise to accept the invitation in order to know what the other states are discussing and whether we support their plans or whether we should take countermeasures." #NT!
+ saxony.337.a: "Accept the invitation." #NT!
+ saxony.337.b: "Reject the invitation." #NT!
+ saxony.338.t_first_time: "Left out of Würzburg Conference" #NT!
+ saxony.338.t_second_time: "Left out of Würzburg Conference - Again" #NT!
+ saxony.338.d_first_time: "We have learned from reliable diplomatic sources that a conference was recently held in Würzburg at which a number of German middle states discussed reform plans regarding the German Confederation. Apparently, we were not invited. [SAX.GetNameDef] seems to have been the driving force behind the meeting, so at least we know who we have to thank for our non-invitation." #NT!
+ saxony.338.d_second_time: "We have learned from reliable diplomatic sources that another conference was recently held in Würzburg at which a number of German middle states discussed reform plans regarding the German Confederation. Apparently, we were not invited - again! Still, the [SAX.GetName] seems to be the driving force behind these efforts, and they have made it very clear now that there is no desire to cooperate with us on the matter." #NT!
+ saxony.338.a: "What does this have to mean?" #NT!
+ saxony.338.b: "We've been left out again?!" #NT!
+ saxony.339.t: "[FROM.GetNameDef] Accepts Invitation to the Second Würzburg Conference" #NT!
+ saxony.339.d: "[FROM.GetNameDef] has accepted our invitation to the Second Würzburg Conference, where von Beust, our foreign minister, wants to present more of his ideas for a reform of the German Confederation. Although we cannot be sure where the [FROM.GetName] will stand regarding our plans, this could at least be interpreted as a sign of willingness to cooperate in the future." #NT!
+ saxony.339.a: "Very well then." #NT!
+ saxony.340.t: "[FROM.GetNameDef] Rejects Invitation to the Second Würzburg Conference" #NT!
+ saxony.340.d: "[FROM.GetNameDef] has rejected our invitation to participate in the Second Würzburg Conference, where von Beust, our foreign minister, wants to present more of his ideas for a reform of the German Confederation. It just shows that the [FROM.GetName] is not willing to cooperate with us in this endeavor. This jeopardizes our plans before they have even really taken shape." #NT!
+ saxony.340.a: "Not the answer we've hoped for..." #NT!
+ saxony.341.t: "Invitation to Another Conference in Würzburg" #NT!
+ saxony.341.d: "[SAX.GetNameDef] has invited us to a conference in Würzburg. We hear that their reform plans for the German Confederation are starting to take shape. Perhaps, it would be a good idea to be present at the next conference to make they do not decide anything against our interests. So, how should we respond to von Beust, Saxony's prime minister?" #NT!
+ saxony.341.a: "Accept the invitation." #NT!
+ saxony.341.b: "Reject the invitation." #NT!
+ saxony.342.t: "[FROM.GetNameDef] Accepts Invitation to the Third Würzburg Conference" #NT!
+ saxony.342.d: "[FROM.GetNameDef] has accepted our invitation to the Third Würzburg Conference, where von Beust wants to achieve a breakthrough in his plans for a reform of the German Confederation. Although we still cannot be sure where the [FROM.GetName] will stand regarding our plans, this might be a positive sign for willingness to cooperate." #NT!
+ saxony.342.a: "Very well indeed." #NT!
+ saxony.343.t: "[FROM.GetNameDef] Rejects Invitation to the Third Würzburg Conference" #NT!
+ saxony.343.d: "[FROM.GetNameDef] has rejected our invitation to participate in the Third Würzburg Conference, where von Beust wants to achieve a breakthrough in his plans for a reform of the German Confederation. This mean we cannot count on the support of the [FROM.GetName] and have to prepare for their resistance to our plans accordingly." #NT!
+ saxony.343.a: "Hm, I hope this doesn't mean the end of our plans..." #NT!
   
  ###ECONOMY AND TRADE EVENTS 
   
@@ -207,7 +256,8 @@
  SAX_decision_prusso_saxon_rapprochement: "Присужско-саксонское сближение"
  SAX_decision_prusso_saxon_rapprochement_desc: "Положение внутри Германского союза меняется. Старый гегемон, Австрия, постепенно теряет влияние и мощь, тогда как её братский соперник, Пруссия, стала истинной немецкой державой и быстро модернизируется. Мы решили сблизиться с пруссаками, чтобы ослабить нашу зависимость от Австрии."
  SAX_decision_convince_the_people: "Убедить народ"
- SAX_decision_convince_the_people_desc: "Народ Саксонии всё ещё страдает от потерь, которые мы понесли из-за пруссаков в 1815 году. Многие семьи были разорваны, и множество дворян потеряли обширные территории, которые теперь находятся в прусской провинции Саксония к северу и востоку от нашей границы. Нам нужно убедить и примирить этих людей, если мы хотим, чтобы сближение с Пруссией было успешным."  
+ SAX_decision_convince_the_people_desc: "Народ Саксонии всё ещё страдает от потерь, которые мы понесли из-за пруссаков в 1815 году. Многие семьи были разорваны, и множество дворян потеряли обширные территории, которые теперь находятся в прусской провинции Саксония к северу и востоку от нашей границы. Нам нужно убедить и примирить этих людей, если мы хотим, чтобы сближение с Пруссией было успешным."
+  
  #Trias Policy 
   
  ########################################## 
@@ -347,7 +397,7 @@
  SAX_decision_convene_third_wurzburg_conference: "Созвать Третью Вюрцбургскую конференцию"
  SAX_decision_convene_third_wurzburg_conference_desc: ""
  SAX_decision_convene_third_wurzburg_conference_effect_tt: "§YМы пригласим немецкие средние государства на третью конференцию в Вюрцбурге для обсуждения возможной реформы Германского Союза.§!\n\n"
- SAX_third_wurzburg_conference_flag: "§YТретья Вюрцбургская конференция§! завершилась."
+ SAX_third_wurzburg_conference_finished_flag: "The §YThird Würzburg Conference§! has ended." #NT!
  SAX_decision_attempt_to_reform_the_confederations_war_constitution: "Попытка реформировать военную конституцию Германского Союза"
  SAX_decision_attempt_to_reform_the_confederations_war_constitution_desc: "Вторая конференция Триаса в Вюрцбурге выявила некоторые проблемы, касающиеся военной конституции Германского Союза, которые беспокоят немецкие средние государства. Мы должны попытаться устранить эти проблемы, предложив конституционную поправку на заседании Бундестага во Франкфурте."
  SAX_decision_attempt_to_reform_the_confederations_war_constitution_effect_tt: "§YМы представим предложение реформы во Франкфурте. Хотя шансы на успех малы, наши усилия, вероятно, окажут положительное влияние на другие малые государства Германии.§!\n"
@@ -387,8 +437,8 @@
  SAX_decision_grant_partial_amnesty_to_richard_wagner_desc: "Было весьма неприятным сюрпризом узнать, что знаменитый композитор Рихард Вагнер был вовлечен в Майское восстание в Дрездене в 1849 году, и его изгнание не имело альтернативы. Теперь, когда все улеглось, и он, кажется, образумился, возможно, пришло время даровать Вагнеру частичную амнистию, что позволит ему легально въехать на территорию Германии."
  SAX_decision_grant_partial_amnesty_to_richard_wagner_effect_tt: "§GЭто может принести положительные результаты в будущем...§!"
  SAX_decision_grant_full_amnesty_to_richard_wagner: "Даровать полную амнистию Рихарду Вагнеру"
- SAX_decision_grant_full_amnesty_to_richard_wagner_desc: "После частичной амнистии, дарованной Его Величеством Королем Иоганном Саксонии, Рихард Вагнер снова проживает в Германии. Саксония — это родина Вагнера, было бы жестоко продолжать лишать его возможности вернуться на место его рождения. Кроме того, мы могли бы извлечь выгоду из его художественного гения в будущем."  
- 
+ SAX_decision_grant_full_amnesty_to_richard_wagner_desc: "После частичной амнистии, дарованной Его Величеством Королем Иоганном Саксонии, Рихард Вагнер снова проживает в Германии. Саксония — это родина Вагнера, было бы жестоко продолжать лишать его возможности вернуться на место его рождения. Кроме того, мы могли бы извлечь выгоду из его художественного гения в будущем."
+  
  #Foreign Arms Deals 
  SAX_decision_category_obtain_foreign_equipment: "Сделки по иностранному вооружению"
  SAX_decision_category_obtain_foreign_equipment_desc: "У нас могут быть некоторые варианты для усиления нашей армии, такие как призыв большего числа солдат, но нам не хватает оружейных заводов. Поэтому мы должны обратить внимание на соседей и купить их более качественное вооружение."
@@ -397,8 +447,8 @@
  SAX_decision_buy_austrian_rifles: "Купить винтовки у Австрии"
  SAX_decision_buy_austrian_rifles_desc: "Австрия — наш великий партнер и один из наших самых верных союзников. Покупка армейского снаряжения у них очевидна, особенно если учесть их статус великой державы и тот факт, что мы можем извлечь большую выгоду от торговли с ними, учитывая наши хорошие отношения."
  SAX_decision_buy_prussian_cannons: "Купить пушки у Пруссии"
- SAX_decision_buy_prussian_cannons_desc: "Несмотря на наше непростое прошлое с северным соседом, они сумели непрерывно улучшать и реформировать свою армию, что возвысило их до статуса великой державы в Европе, в то время как наша армия и государство находились в упадке с 1815 года. Мы, безусловно, получим выгоду с точки зрения качества пушек, если решим импортировать их, даже если это от одного из наших главных соперников."  
- 
+ SAX_decision_buy_prussian_cannons_desc: "Несмотря на наше непростое прошлое с северным соседом, они сумели непрерывно улучшать и реформировать свою армию, что возвысило их до статуса великой державы в Европе, в то время как наша армия и государство находились в упадке с 1815 года. Мы, безусловно, получим выгоду с точки зрения качества пушек, если решим импортировать их, даже если это от одного из наших главных соперников."
+  
  #Military Convention 
  SAX_decision_category_military_convention: "Военные конвенции"
  SAX_decision_category_military_convention_desc: "Ситуация в Германском союзе ухудшается. Хотя австро-прусский дуализм был гарантом мира и стабильности в Германии, ситуация в Шлезвиг-Гольштейне может привести к открытому конфликту между Пруссией и Австрией. Мы должны попытаться заключить военную конвенцию, которая могла бы спасти нас от нападения в такой войне."
@@ -407,8 +457,8 @@
  SAX_decision_convention_with_austria: "Просить о военной конвенции с Австрией"
  SAX_decision_convention_with_austria_desc: "Причины, по которым нам следует выбрать Австрию в качестве партнера, просты. Австрия хочет сохранить нашу независимость, в отличие от Пруссии, которая не раз стремилась нас аннексировать, как в 1815 году! Австрия — наш давний партнер, и это более крупная страна с более сильной армией, чем Пруссия. Поскольку Пруссия реформирует свою армию уже некоторое время, Бисмарк не сможет бросить вызов могущественной Австрии в обозримом будущем."
  SAX_decision_intensify_convention: "Укрепить военную конвенцию"
- SAX_decision_intensify_convention_desc: "Мы скоро можем оказаться на грани открытой войны в Германии, если никто не сможет деэскалировать ситуацию. Готовясь к худшему, мы должны воспользоваться этой возможностью, чтобы укрепить нашу военную конвенцию, так как все яснее становится, что на нас могут напасть в ходе немецкой войны."  
- 
+ SAX_decision_intensify_convention_desc: "Мы скоро можем оказаться на грани открытой войны в Германии, если никто не сможет деэскалировать ситуацию. Готовясь к худшему, мы должны воспользоваться этой возможностью, чтобы укрепить нашу военную конвенцию, так как все яснее становится, что на нас могут напасть в ходе немецкой войны."
+  
  #Economy 
  SAX_decision_category_economy: "Экономическое развитие Саксонии"
  SAX_decision_category_economy_desc: "Поскольку мы сумели индустриализироваться быстрее других, §YСаксония§! стала одним из экономических центров Германского союза. Но если мы хотим сохранить эту позицию, нам нужно продолжать индустриализацию и модернизацию!"
@@ -416,16 +466,22 @@
  SAX_mission_railway_expansion_desc: "Один из шагов к тому, чтобы сохранить наше доминирование в промышленном секторе, — это строительство еще большего числа железных дорог внутри Саксонии, чтобы привлечь других к инвестициям в нас и ускорить транспортировку необходимых материалов на заводы."
  SAX_mission_railway_expansion_trigger_tt_1: "£railroad_connection_texticon Есть железнодорожное соединение между\n §YХемницом§! и §YЦвиккау§!\n"
  SAX_mission_railway_expansion_trigger_tt_2: "£railroad_connection_texticon Есть железнодорожное соединение между\n §YДрезденом§! и §YФрайбергом§!\n"
+ SAX_decision_construct_freiberg_railway: "Construct a Railway Line to Freiberg" #NT!
+ SAX_decision_construct_freiberg_railway_desc: "Our railway network still has some gaps. For example, it is currently impossible to reach the major mining city of Freiberg, which not only means that traveling there is much harder than it should be, but also that the minerals mined there are difficult to be transported to our factories for refining and other industrial processes. Investing into a railway line connecting this region to our existing network could be prove a good idea." #NT!
+ SAX_decision_construct_chemnitz_zwickau_railway: "Construct a Railway Line between Chemnitz and Zwickau" #NT!
+ SAX_decision_construct_chemnitz_zwickau_railway_desc: "A striking gap in our railway network exists between the two industrial centers of Chemnitz and Zwickau. Geography has long been in the way of various railway projects in the region and, thus, people and goods moving between the two cities on rail needed to take a long detour through Thuringia and Leipzig. However, modern technology would allow us to finally build a direct connection between the two cities, but it certainly comes at a cost." #NT!
  SAX_decision_railway_upgrade: "Модернизация железных дорог"
  SAX_decision_railway_upgrade_desc: "Наша железнодорожная сеть уже не справляется с задачей поддержки или стимулирования современной промышленности. Модернизация и расширение сети не только решит эту проблему, но и предоставит нашей промышленности важные контракты и возможность расширения торговли."
  SAX_decision_expand_resource_output: "Увеличить добычу ресурсов"
  SAX_decision_expand_resource_output_desc: "Несмотря на то, что мы индустриализировались с начала этого века, нам все еще необходимо добывать природные ресурсы для дальнейшей переработки на наших фабриках. Мы должны сделать это на наших государственных шахтах и металлургических предприятиях."
+ SAX_decision_expand_queen_mary_ironworks: "Build a Coal Mine to Expand Königin Marienhütte" #NT!
+ SAX_decision_expand_queen_mary_ironworks_desc: "The Königin Marienhütte is the largest ironworks in all of Saxony, but its output is currently limited by the resources it can obtain from the local coal mines. Most of these coal mines still operate in the same way that they have been for decades. We should invest into a modern coal mine that can increase both the quality and efficiency of operations of the Marienhütte." #NT!
  SAX_decision_expand_mining_districts: "Расширить горнодобывающие районы"
  SAX_decision_expand_mining_districts_desc: "Поскольку мы ослабили действие Бергрегала (горного права), мы можем теперь решить, где именно следует открывать шахты. Некоторые политики считают, что лучшей идеей будет расширение существующих горнодобывающих районов, и открытие новых шахт поможет нашей экономике и привлечет новых инвесторов."
  SAX_decision_leipzig_plagwitz_city_development: "Городское развитие Лейпциг-Плагвиц"
  SAX_decision_leipzig_plagwitz_city_development_desc: "Адвокат Карл Хайне начал скупать собственность в Плагвице в 1854 году. С необходимой инфраструктурой, которая сейчас находится в стадии строительства, мы должны найти подходящие компании, которые откроют фабрики и начнут свою деятельность в Плагвице."
- SAX_decision_meissner_porzellan: "Мейсенский фарфор"
- SAX_decision_meissner_porzellan_desc: "'Meißner Porzellan', ранее называвшаяся 'Королевско-Польская и Курфюрстская Саксонская фарфоровая мануфактура', — это государственная компания, ответственная за производство фарфоровых изделий. Планируется перенести производство из 'Альбрехтсбурга' на фабрику в Тибишталь, муниципалитет Мейсена. Мы должны поддержать эту инициативу, так как это позволит упростить рабочие процессы и повысить производительность, что принесет нам прибыль за счет увеличения объемов продаж."
+ SAX_decision_meissener_porzellan: "Meissener Porzellan" #NT!
+ SAX_decision_meissener_porzellan_desc: "'Meissener Porzellan', formerly called 'Königlich-Polnische und Kurfürstlich-Sächsische Porzellanmanufaktur', is a state-owned company that is responsible for manufacturing porcelain goods. There are plans to move the production from the 'Albrechtsburg' to a fabric in Thiebischtal, a municipality of Meissen. We should support the company in doing so, as it would allow them more streamlined workflows, thus raising production, from which we would profit with more sales possible." #NT!
  SAX_decision_spiegelglas_friedrichsthal: "Зеркальный завод Фридрихсталь"
  SAX_decision_spiegelglas_friedrichsthal_desc: "Зеркальный завод во Фридрихстале был открыт в начале XVIII века. Причиной его открытия стало стремление Саксонии стать независимой от дорогостоящего импорта стекла из-за границы. Он функционировал с небольшими перерывами до 1815 года. С 1783 по 1815 год он был саксонским государственным предприятием, затем вместе с частями Лужицы перешел к Пруссии. В последние годы завод снова пережил подъем, а его продукция даже завоевала признание на мировых выставках. Теперь, когда территории, утраченные в 1815 году, вернулись под наше управление, мы вновь можем получать выгоду от продукции этого производства на нашей национальной территории."
  SAX_decision_enact_free_enterprise: "Ввести свободное предпринимательство"
@@ -442,16 +498,12 @@
  SAX_decision_chemnitzer_werkzeugmaschinenfabrik_desc: "Хемницерская фабрика станков была открыта Йоханом Циммерманом в 1852 году. Изначально копировав английские машины, компания начала производить собственные машины после открытия новой фабрики в 1854 году. Благодаря высокому качеству, 'Werkzeugmaschinenfabrik' станет отличным партнером в будущем. Поддерживая их, мы не ошибемся."
  SAX_decision_saxon_maschinenfabrik: "Саксонская машиностроительная фабрика"
  SAX_decision_saxon_maschinenfabrik_desc: "Открытая в 1837 году, Саксонская машиностроительная фабрика специализировалась на нескольких промышленных направлениях. С 1848 года их основное внимание сосредоточено на строительстве и обслуживании паровозов. Королевские саксонские железные дороги являются клиентом, так что у нас уже есть отношения с этой компанией. И, поскольку у нас не было никаких проблем с их локомотивами с начала сотрудничества, нет причин отменять наши заказы. Мы должны поддерживать наших верных партнеров из 'Maschinenfabrik' и сохранять нынешние отношения!"
- SAX_industry_development_ongoing_effect_tt: "§GМы начнем процесс промышленного развития.§!\n\n§RПока оно продолжается, мы не можем инвестировать в другие отрасли.§!\n"
- SAX_industry_development_ongoing_flag: "§GПромышленное развитие в процессе§!"
  SAX_decision_support_adca: "Поддержать ADCA"
  SAX_decision_support_adca_desc: "Всеобщий немецкий кредитный институт (ADCA) был основан в 1856 году и является саксонским банком. Он символизирует силу Саксонии в торговом и финансовом секторе и является хорошим партнером для инвестиций. Мы должны поддержать их, так как они могут быть полезны для нас в будущем, если у нас возникнут финансовые трудности."
  SAX_decision_strenghten_leipzig_trade_fair: "Укрепить Лейпцигскую ярмарку"
  SAX_decision_strenghten_leipzig_trade_fair_desc: "Лейпцигская ярмарка получает выгоду от промышленной революции и расширения железнодорожной системы, так как все больше торговцев могут посещать ярмарку и представлять свои новейшие продукты. Однако это также означает, что у нас почти не осталось свободных мест для новых торговцев. Нам нужно найти решение этой проблемы..."
  SAX_decision_found_saxon_bank_dresden: "Основать Саксонский банк в Дрездене"
  SAX_decision_found_saxon_bank_dresden_desc: "Один из способов укрепить нашу экономику и другие сферы общества — открыть банк, который сможет выдавать различные кредиты компаниям и инвесторам. К счастью для нас, некоторые предприниматели выразили интерес к созданию такого банка. Если мы поможем им с денежными уступками, мы сможем укрепить нашу экономику и иметь банк, связанный с нами."
- SAX_financial_investment_ongoing_effect_tt: "§GМы начнем процесс финансовых инвестиций.§!\n\n§RПока они продолжаются, мы не можем инвестировать в другие проекты.§!\n"
- SAX_financial_investment_ongoing_flag: "§GФинансовые инвестиции в процессе§!"
   
  ### FOCUS TREE ### 
  saxony_focus: "Saxony Focus Tree"
@@ -537,6 +589,7 @@
  SAX_focus_expand_the_universitat_leipzig_desc: "Наш министр культуры Йохан Пауль фон Фалькенштайн отвечает за научные вопросы. Одним из его стремлений является расширение Лейпцигского университета, нашего старейшего университета в Саксонии. Расширение будет включать несколько новых зданий для различных естественных наук, где можно будет преподавать и проводить эксперименты."
  SAX_focus_political_realities: "Политические реалии"
  SAX_focus_political_realities_desc: "У нас может быть король, интересующийся политикой, но времена остаются сложными. С 1830 года наши граждане заставили нас ввести демократические структуры в нашу монархическую систему. Хотя введение парламента и конституции в 1831 году удовлетворило граждан, они снова восстали в 1848 году, требуя объединения Саксонии с Германией и установления республики. В разгар революции нас спасла только Пруссия. Мы должны пересмотреть нашу политическую стратегию, если хотим избежать повторения ситуации 1848 года."
+ SAX_focus_political_reform_effect_tt: "§YThe direct effects of this focus depend on the party popularity of the respective ideology behind the reform plans.§!\n\n" #NT!
  SAX_focus_liberalize_saxony: "Либерализация Саксонии"
  SAX_focus_liberalize_saxony_desc: "Возможно, мы должны либерализировать Саксонию в некоторых аспектах нашей политики и следовать идеям революции 1848 года, но при этом сохранить некоторые элементы старой системы. Наша конституция дала нам эту возможность, и мы должны продолжать этот путь."
  SAX_focus_thorough_reforms: "Основательные реформы"
@@ -559,6 +612,7 @@
  SAX_focus_civil_law_code_desc: "Мы должны реформировать наши устаревшие гражданские законы и заменить их новым современным гражданским кодексом. Это поможет нам показать, что Саксония — действительно современная страна с современными законами и судебной системой."
  SAX_focus_conserve_the_status_quo: "Сохранение статус-кво"
  SAX_focus_conserve_the_status_quo_desc: "Вместо того чтобы уступать либералам, которые не остановились после того, как мы предоставили им реформы в 1830 и 1848 годах, а пытались свергнуть монархию и установить республику, мы должны стремиться к сохранению стабильности, а не к новым реформам. Мы должны сохранить статус-кво, потому что эта система доказала свою успешность в сравнении с кратковременными революционными государствами."
+ SAX_focus_conserve_the_status_quo_effect_tt: "§RWARNING: This might lock you out of the Trias path!§!\n\n" #NT!
  SAX_focus_create_elitist_preponderance: "Создание элитистского превосходства"
  SAX_focus_create_elitist_preponderance_desc: "Саксонией всегда правила монархия и элита. С тех пор, как существовало саксонское курфюршество и до сегодняшнего дня, Саксония всегда была монархией и процветала под этим правлением. Так зачем менять систему, которая работает?"
  SAX_focus_revoke_1849_consessions: "Отмена уступок 1849 года"
@@ -619,8 +673,6 @@
  SAX_focus_saxonys_economy_desc: "Как и любое другое германское государство, Саксония начала процесс индустриализации в начале XIX века. Но, в отличие от других, нам удалось стать одной из доминирующих промышленных держав в Германии, доминировать в Zollverein, а также построить самую плотную железнодорожную сеть в Германском союзе. И если мы хотим удержаться на этой позиции, нам нужно продолжать индустриализацию и расширять нашу инфраструктуру."
  SAX_focus_saxon_state_railway: "Расширение железнодорожной инфраструктуры"
  SAX_focus_saxon_state_railway_desc: "Одним из шагов для поддержания нашего доминирования в промышленном секторе является строительство еще большего числа железных дорог в Саксонии, чтобы привлечь больше инвестиций и ускорить транспортировку необходимых материалов на заводы. Инвестиции в железнодорожную систему означают больше денег и власти для Саксонии!"
- SAX_customeffect_infra_bonus_one: "§Y1x§! §G50%§! Ускорение строительства для: §YИнфраструктура§!"
- SAX_customeffect_rail_bonus_two: "§Y2x§! §G50%§! Ускорение строительства для: §YЖелезная дорога§!"
  SAX_focus_railway_bavaria: "Железнодорожное сообщение с Баварией"
  SAX_focus_railway_bavaria_desc: "В 1841 году мы открыли железнодорожную линию, которая соединяла нас с Баварией, но через Альтенбург, что является частью Тюрингии. Чтобы избежать проблем, если Тюрингия перекроет эту линию, мы приняли решение в 1845 году построить еще одну линию между Хемницем, важным промышленным центром Саксонии, и Баварией. Хотя часть линии от Цвиккау до Баварии уже открыта, мы не смогли завершить строительство железной дороги Хемниц-Цвиккау до сих пор. Мы должны открыть эту линию и обеспечить заводы Хемница ресурсами из Баварии и экспортировать готовую продукцию."
  SAX_focus_railway_ore_mountains: "Железные дороги в Рудных горах"
@@ -633,13 +685,8 @@
  SAX_focus_mining_and_metallurgy_desc: "Хотя мы индустриализировались с начала этого века, нам все еще нужно добывать природные ресурсы, которые мы можем использовать для дальнейшей переработки на наших заводах. Мы должны делать это в наших государственных шахтах и металлургиях."
  SAX_focus_queen_mary_ironworks: "Королевский завод Марии"
  SAX_focus_queen_mary_ironworks_desc: "Открытый в 1839 году в Кайнсдорфе, недалеко от Цвиккау, Королевский завод Марии является одним из крупнейших металлургических заводов в Саксонии. Он находится рядом с Цвиккау, потому что основной сырьевой материал — уголь, добывается на местной угольной шахте. Продукты, произведенные на этом заводе, такие как стальные рельсы и мосты, используются в нашей стране для расширения железнодорожной сети и инфраструктуры в целом. Настоящая жемчужина саксонской промышленности!"
- SAX_customeffect_coal_mine_bonus_one: "§Y1x§! §G75%§! Ускорение строительства для: §YУгольная шахта§!"
  SAX_focus_soften_bergregal: "Смягчение Бергрегала"
  SAX_focus_soften_bergregal_desc: "Бергрегал — это акт, который провозглашает знать страны владельцем природных ресурсов страны. Введенный в дни Священной Римской империи, он по-прежнему является законом в Саксонии, что может создать проблемы для нашего промышленного развития, так как потенциальные инвесторы могут не решиться вкладывать средства. Чтобы предотвратить это, мы должны смягчить Бергрегал, чтобы открыть больше инвестиционных возможностей для иностранных инвесторов, даже если это означает, что аристократия должна отказаться от своих претензий на природные ресурсы Саксонии!"
- SAX_focus_expand_mining_districts: "Расширение горнодобывающих районов"
- SAX_focus_expand_mining_districts_desc: "Поскольку мы смягчили Бергрегал, теперь мы можем решать, где именно должны быть созданы шахты. Некоторые политики считают, что лучшая идея — расширить существующие горнодобывающие районы, и открытие новых шахт поможет нашей экономике и привлечет новых инвесторов."
- SAX_focus_enact_berggesetz: "Введение горного закона"
- SAX_focus_enact_berggesetz_desc: "Хотя мы смягчили Бергрегал, и аристократия в значительной степени отказалась от своих претензий, а горнодобывающая отрасль уже открыта для инвесторов, Бергрегал все еще существует на бумаге. Мы должны официально отменить его и заменить его настоящим горным законом, горным кодексом, который официально позволит инвесторам инвестировать в горнодобывающую отрасль с юридической уверенностью. Возможно, с этим законом мы также сможем сделать металлургическую промышленность независимой."
  SAX_focus_expand_mining_districts: "Расширение горнодобывающих районов"
  SAX_focus_expand_mining_districts_desc: "Поскольку мы смягчили Бергрегал, теперь мы можем решать, где именно должны быть созданы шахты. Некоторые политики считают, что лучшее решение — расширить существующие горнодобывающие районы, а открытие новых шахт поможет нашей экономике и привлечет новых инвесторов."
  SAX_focus_enact_berggesetz: "Принятие Горного Закона"
@@ -737,14 +784,6 @@
  SAX_idea_industrializing_model_country: "Образцовая Страна Германской Индустриализации"
  SAX_idea_industrializing_model_country_desc: "Наше уже отличное положение в немецкой индустрии и статус великой индустриальной державы было уже обеспечено. Но всё же реформы были необходимы для сохранения этого статуса. Наши успешные реформы модернизировали Саксонию и расширили её промышленную мощь — как в Германии, так и за её пределами. Мы движемся в светлое будущее с нашей неудержимой индустрией!"
   
- #Construction Bonuses 
- SAX_idea_boost_coal: "Бонус на строительство угольных шахт"
- SAX_idea_boost_coal_desc: "Извлекая наши природные ресурсы, мы предоставим нашим компаниям возможность сэкономить деньги, которые они потратили бы на дорогой импорт. Эти средства они смогут инвестировать в другие, более полезные вещи, что в свою очередь укрепит нашу собственную экономику!"
- SAX_idea_boost_infra: "Бонус на строительство инфраструктуры"
- SAX_idea_boost_infra_desc: "Нам нужно улучшить нашу инфраструктуру, чтобы обеспечить стабильный поток транспортных перевозок по всей Саксонии и наладить хорошие связи с соседними государствами!"
- SAX_idea_boost_rail: "Бонус на строительство железных дорог"
- SAX_idea_boost_rail_desc: "Нам нужно расширить нашу железнодорожную сеть, чтобы обеспечить стабильный поток транспортных перевозок по всей Саксонии и наладить хорошие связи с соседними государствами!"
-  
  #Advisor Traits 
  SAX_trait_Albert_Dufour_Feronce: "Хорошо Связанный Бизнесмен\n(Нейтральный)"
  SAX_trait_Bernhard_Hirschel: "Пионер Гомеопатии\n(Социальный Либерал)"
@@ -766,39 +805,43 @@
  SAX_trait_Wilhelm_Pfotenhauer: "Промышленный Мэр Дрездена\n(Консерватор)"
   
  #Companies 
- kanonenbohrwerk_dresden: "Каноненбохрверк Дрезден"  
- saxon_maschinenfabrik: "Саксонская Машиностроительная Фабрика"  
+ kanonenbohrwerk_dresden: "Каноненбохрверк Дрезден"
+ bergakademie_freiberg: "Bergakademie Freiberg" #NT!
+ saxon_maschinenfabrik: "Саксонская Машиностроительная Фабрика"
  queen_mary_ironworks: "Королевский Железоделательный Завод Марии"
   
  #Company Traits 
- SAX_trait_concern_saxon_maschinenfabrik: "Саксонский Производитель Паровых Машин и Локомотивов"  
- SAX_trait_concern_queen_mary_ironworks: "Королевские Саксонские Железоделательные Заводы"  
+ SAX_trait_concern_bergakademie_freiberg: "University for Exploring and Mining Minerals" #NT!
+ SAX_trait_concern_saxon_maschinenfabrik: "Саксонский Производитель Паровых Машин и Локомотивов"
+ SAX_trait_concern_queen_mary_ironworks: "Королевские Саксонские Железоделательные Заводы"
   
  #Leader Traits 
- SAX_trait_Beust_Trias_Promoter: "Поддерживает Триас"  
- SAX_trait_Beust_Trias_Promoter_desc: "Фридрих Фердинанд фон Бойст активно поддерживает идею Триаса — концепцию того, что средние германские государства должны тесно сотрудничать, чтобы стать противовесом растущему влиянию двух немецких гегемонов, Австрии и Пруссии. Интересно будет увидеть, сможет ли фон Бойст объединить средние германские государства политически."  
+ SAX_trait_Beust_Trias_Promoter: "Поддерживает Триас"
+ SAX_trait_Beust_Trias_Promoter_desc: "Фридрих Фердинанд фон Бойст активно поддерживает идею Триаса — концепцию того, что средние германские государства должны тесно сотрудничать, чтобы стать противовесом растущему влиянию двух немецких гегемонов, Австрии и Пруссии. Интересно будет увидеть, сможет ли фон Бойст объединить средние германские государства политически."
   
  #Heads of State 
- SAX_Johann: "Король Иоганн Саксонский"  
+ SAX_Johann: "Король Иоганн Саксонский"
   
  #Country Leader Descriptions 
- SAX_FERDINAND_VON_ZSCHINSKY_LEADER_DESC: "Изучав право и работавший в частной, государственной и аристократической сферах, Фердинанд фон Цшинский провел двухнедельный срок в качестве главы Министерства внутренних дел Саксонии в 1848 году, прежде чем король Фридрих Август II назначил его руководителем саксонского правительства в 1849 году, что в 1856 году принесло ему дворянский титул.\n\nРуководство Цшинского было идеологически неоднозначным: одно из первых действий его правительства — роспуск Саксонского государственного парламента и восстановление менее либеральной конституции 1831 года (что стало крупным поворотом в уступках, сделанных после революций 1848 года), но с другой стороны, он также лишил феодальных землевладельцев их судебной юрисдикции и разделил власть государства и судебной системы.\n\nХотя его время в должности оказалось значимым для Саксонии, Фердинанд фон Цшинский находится в плохом состоянии здоровья, и, вероятно, у него осталось немного времени для руководства."  
- 
+ SAX_FERDINAND_VON_ZSCHINSKY_LEADER_DESC: "Изучав право и работавший в частной, государственной и аристократической сферах, Фердинанд фон Цшинский провел двухнедельный срок в качестве главы Министерства внутренних дел Саксонии в 1848 году, прежде чем король Фридрих Август II назначил его руководителем саксонского правительства в 1849 году, что в 1856 году принесло ему дворянский титул.\n\nРуководство Цшинского было идеологически неоднозначным: одно из первых действий его правительства — роспуск Саксонского государственного парламента и восстановление менее либеральной конституции 1831 года (что стало крупным поворотом в уступках, сделанных после революций 1848 года), но с другой стороны, он также лишил феодальных землевладельцев их судебной юрисдикции и разделил власть государства и судебной системы.\n\nХотя его время в должности оказалось значимым для Саксонии, Фердинанд фон Цшинский находится в плохом состоянии здоровья, и, вероятно, у него осталось немного времени для руководства."
+  
  ### OPINION MODIFIERS ### 
- SAX_THU_HISTORICAL_TIES_REL: "Исторические Связи"  
- SAX_LEGACY_OF_THE_FOUR_KINGS_ALLIANCE_REL: "Наследие Альянса Четырех Королей"  
- SAX_LEGACY_OF_THE_FOUR_KINGS_ALLIANCE_WEAK_REL: "Ослабленное Наследие Альянса Четырех Королей"  
- SAX_LEGACY_OF_BAMBERG_REL: "Наследие Бамбергской Конференции"  
- SAX_PRS_ANTI_PRUSSIAN_SENTIMENT_REL: "Анти-Прусские Настроения"  
- SAX_PRS_EARLY_RAPPROCHEMENT_REL: "Попытка Сближения"  
- SAX_PRS_MEDIUM_RAPPROCHEMENT_REL: "Продолжающееся Сближение"  
- SAX_PRS_FULL_RAPPROCHEMENT_REL: "Успешное Сближение"  
- SAX_AUS_GOODWILL_REL: "Австро-Саксонская Добрая Воля"  
- SAX_AUS_GOODWILL_COOLING_REL: "Охлаждение Австро-Саксонской Дружбы"  
- SAX_GC_BUNDESREFORM_SUPPORT_REL: "Поддерживает Инициативу Реформы Бундесверa"  
- SAX_GC_BUNDESREFORM_POSITIVE_REL: "Положительная Реакция на Инициативу Реформы Бундесвера"  
- SAX_GC_BUNDESREFORM_CAUTIOUS_REL: "Осторожная Реакция на Инициативу Реформы Бундесвера"  
- SAX_GC_BUNDESREFORM_NEGATIVE_REL: "Отрицательная Реакция на Инициативу Реформы Бундесвера"  
- SAX_MILITARY_CONVENTION_EARLY_REL: "Подписана Военная Конвенция"  
- SAX_MILITARY_CONVENTION_MEDIUM_REL: "Усилена Военная Конвенция"  
- SAX_MILITARY_CONVENTION_REJECTED_REL: "Военная Конвенция Отклонена"  
+ SAX_THU_HISTORICAL_TIES_REL: "Исторические Связи"
+ SAX_LEGACY_OF_THE_FOUR_KINGS_ALLIANCE_REL: "Наследие Альянса Четырех Королей"
+ SAX_LEGACY_OF_THE_FOUR_KINGS_ALLIANCE_WEAK_REL: "Ослабленное Наследие Альянса Четырех Королей"
+ SAX_LEGACY_OF_BAMBERG_REL: "Наследие Бамбергской Конференции"
+ SAX_PRS_ANTI_PRUSSIAN_SENTIMENT_REL: "Анти-Прусские Настроения"
+ SAX_PRS_EARLY_RAPPROCHEMENT_REL: "Попытка Сближения"
+ SAX_PRS_MEDIUM_RAPPROCHEMENT_REL: "Продолжающееся Сближение"
+ SAX_PRS_FULL_RAPPROCHEMENT_REL: "Успешное Сближение"
+ SAX_AUS_GOODWILL_REL: "Австро-Саксонская Добрая Воля"
+ SAX_AUS_GOODWILL_COOLING_REL: "Охлаждение Австро-Саксонской Дружбы"
+ SAX_GC_BUNDESREFORM_SUPPORT_REL: "Поддерживает Инициативу Реформы Бундесверa"
+ SAX_GC_BUNDESREFORM_POSITIVE_REL: "Положительная Реакция на Инициативу Реформы Бундесвера"
+ SAX_GC_BUNDESREFORM_CAUTIOUS_REL: "Осторожная Реакция на Инициативу Реформы Бундесвера"
+ SAX_GC_BUNDESREFORM_NEGATIVE_REL: "Отрицательная Реакция на Инициативу Реформы Бундесвера"
+ SAX_NO_INVITATION_TO_SECOND_WURZBURG_CONFERENCE_REL: "No Invitation to Würzburg Conference" #NT!
+ SAX_NO_INVITATION_TO_THIRD_WURZBURG_CONFERENCE_REL: "No Invitations to Würzburg Conferences" #NT!
+ SAX_MILITARY_CONVENTION_EARLY_REL: "Подписана Военная Конвенция"
+ SAX_MILITARY_CONVENTION_MEDIUM_REL: "Усилена Военная Конвенция"
+ SAX_MILITARY_CONVENTION_REJECTED_REL: "Военная Конвенция Отклонена"

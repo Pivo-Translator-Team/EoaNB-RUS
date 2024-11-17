@@ -3194,14 +3194,44 @@
  BRA_traditional_conservatism_ADJ: "Бразильск."
  BRA_chauvinist_populism: "Интегралистская Бразилия"
  BRA_chauvinist_populism_DEF: "Интегралистская Бразилия"
+ BRA_chauvinist_populism_ADJ: "Бразильск."
  BRA_centrism: "Бразильская Республика"
  BRA_centrism_DEF: "Бразильская Республика"
+ BRA_centrism_ADJ: "Бразильск."
+ BRA_radical_democracy: "Brazil"
+ BRA_radical_democracy_DEF: "Brazil"
+ BRA_radical_democracy_ADJ: "Brazilian"
  BRA_autocracy: "Бразильская Империя"
  BRA_autocracy_DEF: "Бразильская Империя"
- BRA_ideology_social_liberalism: "Бразильская Социалистическая Республика"
- BRA_chauvinist_populism_ADJ: "Бразильск."
- BRA_centrism_ADJ: "Бразильск."
  BRA_autocracy_ADJ: "Бразильск."
+ BRA_ideology_social_liberalism: "Бразильская Социалистическая Республика"
+ BRA_ideology_social_liberalism_DEF: "The People's Republic of Brazil"
+ BRA_ideology_social_liberalism_ADJ: "Brazilian"
+ BRA_social_egalitarianism: "Republic of Brazil"
+ BRA_social_egalitarianism_DEF: "The Republic of Brazil"
+ BRA_social_egalitarianism_ADJ: "Brazilian"
+  
+ BHA_traditional_conservatism: "Bahia" #NT!
+ BHA_traditional_conservatism_DEF: "Bahia" #NT!
+ BHA_traditional_conservatism_ADJ: "Bahian" #NT!
+ BHA_chauvinist_populism: "Bahia" #NT!
+ BHA_chauvinist_populism_DEF: "Bahia" #NT!
+ BHA_chauvinist_populism_ADJ: "Bahian" #NT!
+ BHA_centrism: "Bahia" #NT!
+ BHA_centrism_DEF: "Bahia" #NT!
+ BHA_centrism_ADJ: "Bahian" #NT!
+ BHA_radical_democracy: "Bahia" #NT!
+ BHA_radical_democracy_DEF: "Bahia" #NT!
+ BHA_radical_democracy_ADJ: "Bahian" #NT!
+ BHA_autocracy: "Bahia" #NT!
+ BHA_autocracy_DEF: "Bahia" #NT!
+ BHA_autocracy_ADJ: "Bahian" #NT!
+ BHA_ideology_social_liberalism: "Bahia" #NT!
+ BHA_ideology_social_liberalism_DEF: "Bahia" #NT!
+ BHA_ideology_social_liberalism_ADJ: "Bahian" #NT!
+ BHA_social_egalitarianism: "Malês" #NT!
+ BHA_social_egalitarianism_DEF: "Second Malês Revolt" #NT!
+ BHA_social_egalitarianism_ADJ: "Bahian" #NT!
   
  COL_chauvinist_populism: "Нуэва Гран Колумбия"
  COL_chauvinist_populism_DEF: "Нуэва Гран Колумбия"
@@ -3684,7 +3714,6 @@
  KAB_autocracy: "Кааба"
  TOU_autocracy: "Империя Тукулер"
  MOS_autocracy: "Королевства Моси"
- BAM_autocracy: "Империя Бамана"
  FTJ_autocracy: "Имамат Фута-Джаллон"
  MSN_autocracy: "Империя Массина"
  FTT_autocracy: "Имамат Фута-Торо"
@@ -3708,7 +3737,6 @@
  IGA_autocracy: "Королевство Игала"
  IJW_autocracy: "Кланы Иджо"
  KBG_autocracy: "Кабадугу"
- DGB_autocracy: "Королевство Дагомба"
  IJB_autocracy: "Империя Бенин"
  KON_autocracy: "Конo"
  KTA_autocracy: "Кота"
@@ -3825,7 +3853,6 @@
  KAB_autocracy_DEF: "Кааба"
  TOU_autocracy_DEF: "Тукулер"
  MOS_autocracy_DEF: "Моси"
- BAM_autocracy_DEF: "Бамана"
  FTJ_autocracy_DEF: "Фута-Джаллон"
  MSN_autocracy_DEF: "Массина"
  FTT_autocracy_DEF: "Фута-Торо"
@@ -3846,7 +3873,6 @@
  IGA_autocracy_DEF: "Королевство Игала"
  IJW_autocracy_DEF: "Кланы Иджо"
  KBG_autocracy_DEF: "Кабадугу"
- DGB_autocracy_DEF: "Королевство Дагомба"
  IJB_autocracy_DEF: "Империя Бенин"
  KON_autocracy_DEF: "Конo"
  KTA_autocracy_DEF: "Кота"
@@ -3964,7 +3990,6 @@
  KAB_autocracy_ADJ: "Кааба"
  TOU_autocracy_ADJ: "Тукулер"
  MOS_autocracy_ADJ: "Моси"
- BAM_autocracy_ADJ: "Бамана"
  FTJ_autocracy_ADJ: "Фута-Джаллон"
  MSN_autocracy_ADJ: "Массина"
  FTT_autocracy_ADJ: "Фута-Торо"
@@ -3985,7 +4010,6 @@
  IJB_autocracy_ADJ: "Империя Бенин"
  IGA_autocracy_ADJ: "Игала"
  KBG_autocracy_ADJ: "Кабадугу"
- DGB_autocracy_ADJ: "Дагомбийск."
  KON_autocracy_ADJ: "Конo"
  KTA_autocracy_ADJ: "Кота"
  KTK_autocracy_ADJ: "Котоко"
@@ -6529,3 +6553,43 @@
  HOB_radical_democracy_ADJ: "Хобьонск."
  HOB_anarchism_ADJ: "Хобьонск."
  HOB_fundamentalism_ADJ: "Хобьонск."
+  
+  
+ IOT: "Itu o Tane" #NT!
+ IOT_DEF: "The Itu o Tane District" #NT!
+ IOT_ADJ: "Itu o Tanian" #NT!
+  
+  
+ IOF: "Itu o Fafine" #NT!
+ IOF_DEF: "The Itu o Fafine District" #NT!
+ IOF_ADJ: "Itu o Fafinian" #NT!
+  
+  
+ FAA: "Fa'asaleleaga" #NT!
+ FAA_DEF: "The Fa'asaleleaga District" #NT!
+ FAA_ADJ: "Fa'asaleleagan" #NT!
+  
+  
+ ANA: "A'ana" #NT!
+ ANA_DEF: "The A'ana District" #NT!
+ ANA_ADJ: "A'anan" #NT!
+  
+  
+ TUA: "Tuamasaga" #NT!
+ TUA_DEF: "The Tuamasaga District" #NT!
+ TUA_ADJ: "Tuamasagan" #NT!
+  
+  
+ ATU: "Atua" #NT!
+ ATU_DEF: "The Atua District" #NT!
+ ATU_ADJ: "Atuan" #NT!
+  
+  
+ TUT: "Tutuila" #NT!
+ TUT_DEF: "The Tutuila District" #NT!
+ TUT_ADJ: "Tutuilan" #NT!
+  
+  
+ TMA: "Manu'a" #NT!
+ TMA_DEF: "The Manu'a District" #NT!
+ TMA_ADJ: "Manu'an" #NT!

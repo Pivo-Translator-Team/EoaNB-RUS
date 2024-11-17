@@ -1,0 +1,446 @@
+﻿l_russian:
+ ######################### 
+ #  German Empire Events # 
+ ######################### 
+  
+ germany.1.t: "Флаг Германии"
+ germany.1.d: "Наша долгая и великая борьба за объединение германских государств и закрепление нашего места как значительной силы в Европе наконец привела нас к победе! Мы обеспечили появление нового, единого германского государства — но теперь, когда оно у нас есть, возникает вопрос: под каким флагом наш народ должен объединиться? Было бы лучше, если бы мы немедленно занялись этим вопросом..."
+ germany.1.a: "Гордый имперский флаг, как было предложено изначально!"
+ germany.1.b: "Объедините флаг Конфедерации и прусского орла в одно могучее знамя!"
+ germany.1.c: "Старый Чёрный Орёл, почитая нас как преемников Рима и Священной Римской империи!"
+ germany.1.e: "Национальный флаг Германии, символизирующий свободу и единство!"
+ eoanb_tt_ger_event_1_a: "Эта опция позволит нам сохранить §YИмперский германский флаг§! — Красный внизу, белый в середине и черный сверху."
+ eoanb_tt_ger_event_1_b: "Эта опция позволит нам перейти на §YГерманский военный флаг§! — Имперский флаг в верхнем левом углу и Чёрный Орёл в центре."
+ eoanb_tt_ger_event_1_c: "Эта опция позволит нам перейти на §YСтарый имперский германский флаг§! — Чёрный орёл на жёлтом фоне."
+ eoanb_tt_ger_event_1_e: "Эта опция позволит нам перейти на §YНациональный германский флаг§! — Жёлтый, красный и чёрный."
+ germany.2.t: "Статус крепости Штеттин"
+ germany.2.d: "Пришло время принять решение относительно статуса крепости в Штеттине."
+ germany.2.a: "Она больше практически не приносит никакой пользы — закройте её."
+ germany.2.b: "Мы должны продолжать её поддерживать!"
+ germany.3.t: "Статус крепости Минден"
+ germany.3.d: "Пришло время принять решение относительно статуса крепости в Миндене."
+ germany.3.a: "Она больше практически не приносит никакой пользы — закройте её."
+ germany.3.b: "Мы должны продолжать её поддерживать!"
+ germany.4.t: "Статус крепости Козель"
+ germany.4.d: "Пришло время принять решение относительно статуса крепости в Козеле."
+ germany.4.a: "Она больше практически не приносит никакой пользы — закройте её."
+ germany.4.b: "Мы должны продолжать её поддерживать!"
+ germany.5.t: "Статус крепости Эрфурт"
+ germany.5.d: "Пришло время принять решение относительно статуса крепости в Эрфурте."
+ germany.5.a: "Она больше практически не приносит никакой пользы — закройте её."
+ germany.5.b: "Мы должны продолжать её поддерживать!"
+ germany.6.t: "Статус крепости Глатц"
+ germany.6.d: "Пришло время принять решение относительно статуса крепости в Глатце."
+ germany.6.a: "Она больше практически не приносит никакой пользы — закройте её."
+ germany.6.b: "Мы должны продолжать её поддерживать!"
+ eoanb_om_GER_AUS_alliance_failed: "Неудавшийся союз"
+ germany.7.t: "Пруссия предлагает союз"
+ germany.7.d: "До нас дошло новое предложение от Пруссии: так называемый \"Двойственный союз\". Они предлагают заключить с ними союз с целью обеспечения мира и стабильности как сильного оборонительного пакта в центре Европы. Что мы на это скажем?"
+ germany.7.a: "Отличная идея!"
+ germany.7.b: "Мы не будем заключать с ними союз."
+ germany.8.t: "Австрия проявляет сотрудничество"
+ germany.8.d: "Наше предложение о двойном союзе было принято Австрией! Это значительно укрепляет наши позиции в Центральной Европе..."
+ germany.8.a: "Замечательно!"
+ germany.9.t: "Австрия отклонила наше предложение."
+ germany.9.d: "Австрийцы решили отклонить наше предложение, и мы остаёмся одни на мировой арене — пока что."
+ germany.9.a: "Жаль..."
+ eoanb_om_GER_ITA_alliance_failed: "Неудавшийся союз"
+ eoanb_tt_ger_event_11_a: "§YИталия§! будет добавлна в §YДвойственный союз§!, превратив его в §YТройственный союз§!."
+ germany.10.t: "Предложение союза от Пруссии"
+ germany.10.d: "Немцы, недавно заключившие союз с Австрией, отправили нам предложение: они хотят, чтобы мы присоединились к их альянсу. Что мы ответим им в ответ?"
+ germany.10.a: "Мы с радостью к ним присоединимся!"
+ germany.10.b: "Мы откажемся."
+ germany.11.t: "Италия принимает!"
+ germany.11.d: "Итальянцы приняли наше предложение и официально присоединятся к альянсу с подписанием договора сегодня вечером. Двойственный союз превратился в Тройственный союз..."
+ germany.11.a: "Это укрепит наш союз!"
+ germany.12.t: "Италия отклоняет."
+ germany.12.d: "Наш запрос к итальянцам о присоединении к нашему союзу был, по-видимому, отклонён. Итальянское правительство заявило, что они \"не видят выгоды\" в присоединении к нашему пакту."
+ germany.12.a: "Их потеря."
+ eoanb_tt_ger_event_13_a: "Мы можем выгнать немцев, если захотим, но это может привести к конфликту."
+ eoanb_tt_ger_event_14_a: "Наше военное присутствие в Китае будет ограничено только нашими торговыми портами."
+ germany.13.t: "Немецкое военное присутствие в Китае."
+ germany.13.d: "Немцы, уже владея торговым портом здесь, в Китае, взяли на себя смелость установить военное присутствие вокруг принадлежащих им территорий, зачастую за пределами их торговых портов... Нам предстоит решить, как реагировать на это, или реагировать ли вообще..."
+ germany.13.a: "Хорошо..."
+ germany.14.t: "Империя Цин вмешивается против нашего военного присутствия."
+ germany.14.d: "С тех пор, как мы расширили наше военное присутствие в Китае за пределы торговых портов, в этих регионах нарастает недовольство. Теперь оно достигло пика, и правительство заявляет, что вынуждено принять меры, чтобы ограничить наш военный доступ только торговыми портами — примем ли мы это от них?"
+ germany.14.a: "Мы немного отступим."
+ germany.14.b: "Они думают, что могут так поступить с нами?!"
+ germany.15.t: "Наводнение в Балтийском море."
+ germany.15.d: "За последние несколько ночей ужасные наводнения обрушились на все прибрежные районы Балтийского моря. Инфраструктура в этих областях сильно пострадала, но, возможно, ещё не поздно восстановить некоторые из этих территорий...."
+ germany.15.a: "Мы должны помочь везде, где это возможно!"
+ germany.15.b: "Мы не можем выделить ресурсы в данный момент..."
+ germany.16.t: "Землетрясения в Рейнской области."
+ germany.16.d: "Сегодня ранник утро в Рейнской области было отмечено разрушением и ужасом, когда сильное землетрясение произошло неподалеку от Кёльна, разрушив множество зданий и убив или ранив сотни наших граждан. Спасательные работы уже ведутся."
+ germany.16.a: "Ужасно."
+ germany.17.t: "Массовые забастовки рабочих в Пруссии!"
+ germany.17.d: "Неожиданно для нас рабочие в нашей стране смогли организовать масштабную всеобщую забастовку! Сегодня они маршируют по улицам, требуя улучшения условий труда и сокращения рабочего времени, и угрожают полностью прекратить работу, если их требования не будут выполнены."
+ germany.17.a: "Похоже, нам придётся выстоять — они в конце концов сдадутся."
+ germany.17.b: "Попробуем подкупить рабочих."
+ germany.17.c: "Мы могли бы просто уступить их требованиям..."
+ germany.18.t: "Покушение на Бисмарка!"
+ germany.18.d: "Во время своих поездок по Баварии сегодня на канцлера Отто фон Бисмарка было совершено покушение! Нападавший, который уже арестован, выстрелил в его карету с нескольких ярдов, но попал лишь в правую руку. Мотивы этого нападения пока неизвестны. Фон Бисмарка срочно доставили в больницу, и сейчас его лечат на протяжении ночи..."
+ germany.18.a: "Будем молиться, чтобы он выздоровел."
+ germany.18.b: "Сделайте всё необходимое, чтобы он выжил!"
+ germany.18.c: "Не было бы ли жаль, если бы у его врача произошла небольшая \"ошибка\"?"
+ #germany.19.t: "Return of the Eulenburg Expedition" #NT!
+ #germany.19.d: "In 1859, Friedrich Albrecht zu Eulenburg departed from Prussia in hopes of establishing relations with some of the most important nations in the faraway lands of Asia. He has now successfully returned form that mission, and is reporting tales of negotiations and diplomatic pleasantries with the nations of [QNG.GetNameDef], [JAP.GetNameDef] and [SIA.GetNameDef]." #NT!
+ #germany.19.a: "Great!" #NT!
+ germany.20.t: "Наше предложение британцам."
+ germany.20.d: "Что мы предложим Англичанам в обмен на Гельголанд?"
+ germany.20.a: "Предложите им выгодные политические договоры!"
+ germany.20.b: "Предложите им промышленную компенсацию!"
+ germany.20.c: "Предложите им Кюрасао!"
+ germany.21.t: "Немцы хотят купить Гельголанд."
+ germany.21.d: "Немцы сделали нам предложение купить остров Гельголанд. Похоже, они стремятся приобрести эту стратегическую базу довольно срочно...\n\n\n(Вы можете просмотреть предложение, наведя курсор на опцию \"Мы примем их предложение\")"
+ germany.21.a: "Мы примем их предложение."
+ germany.21.b: "Нет, мы не можем позволить себе потерять эту базу."
+ germany.22.t: "Британия отрицает"
+ germany.22.d: "Англия отказалась продать нам остров Гелиголанд! Жаль, но это был не единственный способ приобрести этот остров..."
+ germany.22.a: "Какая жалость..."
+ germany.23.t: "Британия принимает!"
+ germany.23.d: "Англия приняла наше предложение и согласился официально передать нам остров Гелиголанд! Он, несомненно, станет важной стратегической базой в Северном море..."
+ germany.23.a: "Ура!"
+ eoanb_flag_GER_heligoland_offer_power: "Пруссия предложила выгодные договоры в обмен на Гелиголанд"
+ eoanb_flag_GER_heligoland_offer_industry: "Пруссия предложила промышленную компенсацию в обмен на Гелиголанд"
+ eoanb_flag_GER_heligoland_offer_curacao: "Пруссия предложила остров Кюрасао в обмен на Гелиголанд"
+ eoanb_tt_ger_event_21_a: "§YПруссия§! передаст нам §YКюрасао§! скоро."
+  
+ #FLAVOUR EVENTS 
+ germany.101.t: "Генрих Шлиман - Раскопки в Хисарлыке"
+ germany.101.d: "Генрих Шлиманн, богатый торговец и археолог-любитель из Мекленбурга, недавно начал раскопки вблизи древнего поселения Хисарлык на берегу Эгейского моря в Османской империи. Шлиман считает, что под этими холмами покоятся древние руины мифологического города Троя, и его убеждения подтверждает британский эмигрант и археолог-любитель Фрэнк Калверт. Команда, работающая на этом месте, кажется, полна решимости доказать свою теорию в течение следующих месяцев и лет."
+ germany.101.a: "Звучит многообещающе."
+ germany.102.t: "Генрих Шлиман - Найденное сокровище Приама"
+ germany.102.d: "Срочные новости доходят до нас из Османской империи, сообщая об обнаружении древнего и мифического города Троя! До недавнего времени многие считали его легендой и вымыслом, но раскопки, проведенные археологом Генрихом Шлиманом в Хисарлыке, открыли тайны, которые земля хранила веками. Шлиман также обнаружил значительное количество ювелирных изделий, золота и артефактов, которые, по его мнению, являются так называемым «сокровищем Приама», названным в честь гомеровского царя Приама. Среди наиболее заметных находок сокровищ - оружие, в основном сделанное из меди, две золотые диадемы и другие медные артефакты. Хотя находки еще предстоит подтвердить, это открытие способно навсегда изменить наше представление об истории Греции и ее мифологии."
+ germany.102.a: "Вот это открытие!"
+ germany.103.t: "Генрих Шлиман - Раскопки в Микенах"
+ germany.103.d: "С помощью других известных археологов, таких как Вильгельм Дёрпфельд, Генрих Шлиман начал новые раскопки в надежде открыть новые истины о греческой мифологии в Микенах, на холме к северу от долины Аргоса, на греческом полуострове Пелопоннес. Шлиман считает, что это место скрывает секреты, связанные с микенским царем Агамемноном, предводителем ахейцев в гомеровском эпосе о Троянской войне 'Илиада'. После его открытий в Хисарлыке общественный интерес к новому проекту раскопок, как полагают, будет огромным."
+ germany.103.a: "Шлиман снова что-то делает"
+ germany.104.t: "Генрих Шлиман - Найдена маска Агамемнона"
+ germany.104.d: "Сегодня был зарегистрирован крупный прорыв в археологических раскопках Микен: Генрих Шлиман, немецкий археолог, который несколько лет назад раскопал Трою, обнаружил Валовые могилы, царское кладбище. Всего было обнаружено девятнадцать тел: восемь мужчин, девять женщин и двое детей, а также находящиеся там вещи и оружие усопших. Одним из самых впечатляющих найденных артефактов стала золотая маска, которую Шлиман называет 'Маской Агамемнона', по имени легендарного микенского царя Агамемнона. Историческая ценность этих находок еще не подтверждена, но, несомненно, это еще один впечатляющий успех Шлимана."
+ germany.104.a: "Опять он"
+ germany.105.t: "Первый словарь немецкой орфографии Конрада Дудена"
+ germany.105.d: "Доктор Конрад Дуден, директор гимназии из Шлейца, является автором монографии под названием 'Немецкое правописание' (Deutsche Rechtschreibung). Одним из ключевых компонентов этой книги является словарь немецкого языка, в котором приведены примеры слов, соответствующих его языковому принципу. Доктор Дуден преподает в регионе, где пересекаются три немецких диалекта, каждый из которых имеет свои особенности правописания, и оценка орфографии учеников во многом зависит от языковой традиции, в которой вырос их учитель. Словарь Дудена адаптирует написание слов, делая его более фонетически точным и последовательным, и кажется гораздо более практичным и легким для изучения и использования. Его работа, несомненно, будет использована экспертами для создания единой системы правописания вместо сохранения системы изучения языка, основанной на преподавании, которая до сих пор диктовала, какой вариант правописания выучить. Поскольку эта работа упрощает немецкий язык, возможно, что люди с низким уровнем образования смогут стать более грамотными, чем это было в прошлом, что, по словам Дюдена, и было его целью. Похоже, он намерен продолжать свою работу по упрощению и унификации немецкого языка."
+ germany.105.a: "Безусловно, интересно."
+ germany.106.t: "Конференция по установлению Большего Единства в немецкой орфографии"
+ germany.106.d: "По распоряжению прусского министерства образования и культуры 14 специалистов по немецкому языку собрались в Берлине на 'Конференцию по установлению большего единства в немецком правописании' или, иначе, 'Орфографическую конференцию'. На основе проекта германиста Рудольфа фон Раумера участники конференции в ближайшие дни обсудят возможные решения различных проблем. На конференции также присутствует доктор Конрад Дуден, директор школы, ответственный за одну из самых влиятельных работ по этой теме. Это дает надежду на то, что внутреннее объединение страны может быть продвинуто дальше."
+ germany.106.a: "Что ж, удачи."
+ germany.107.t: "[PRS.GetLeader] Накладывает вето на резолюцию Орфографической конференции"
+ germany.107.d: "Орфографическая конференция в Берлине завершилась десять дней назад, и присутствовавшие на ней специалисты пришли к важным выводам и представили свою резолюцию общественности и прусскому правительству. Однако в последние дни они столкнулись с серьезной реакцией со стороны различных источников. Многие критики сомневаются, что изменения могут быть успешными, поскольку считают их слишком масштабными. Премьер-министр Пруссии, [PRS.GetLeader], наложил сегодня вето на резолюцию орфографической конференции, и, таким образом, она должна быть признана неудачной. Борьба за некое единство в немецкой орфографической системе будет продолжаться."
+ germany.107.a: "Вот облом."
+ germany.108.t: "Дуден публикует 'Полный орфографический словарь немецкого языка'"
+ germany.108.d: "Доктор Конрад Дуден наконец-то достиг своей цели - создал всеобъемлющий словарь немецкого языка. Книга называется 'Vollständiges Orthographisches Wörterbuch der deutschen Sprache', или 'Полный орфографический словарь немецкого языка'. Он содержит 27 000 слов на 187 страницах, что позволило выполнить все пожелания доктора Дудена в отношении существующих орфографических систем, преподаваемых в школах всех немецких земель. К сожалению, похоже, что прусское министерство образования и культуры и премьер-министр, [PRS.GetLeader], который также является канцлером Германской империи, имеют некоторые сомнения в отношении унификации немецкого правописания. Как бы то ни было, прусское правительство издало запрет на использование орфографии Дудена в бюрократических органах по всей Пруссии. Причины такого решения неизвестны, но мы надеемся, что в будущем ситуация изменится, ведь более простой способ написания и изучения, несомненно, поддержал бы немецкий язык во всем мире."
+ germany.108.a: "Это, несомненно, окажет влияние."
+ germany.109.t: "Вторая орфографическая конференция проходит успешно"
+ germany.109.d: "После почти трех десятилетий дебатов, последовавших за политическим объединением Германии, немецкий язык наконец-то получит единую орфографическую систему. Во многом благодаря постоянным усилиям немецких лингвистов, преподавателей и политиков, возглавляемых доктором Конрадом Дуденом, Вторая орфографическая конференция имела больший успех, чем ее предшественница 25 лет назад. В течение трех дней 26 полномочных представителей немецких государств, доктор Хумер в качестве уполномоченного Австрии, представители других учреждений, а также книжной торговли встречались и обсуждали в Берлине вопросы стандартизации единой немецкой орфографии. Помимо государственных чиновников, в заседании приняли участие несколько экспертов, в том числе Конрад Дуден и Вильгельм Вильманс, которые уже участвовали в Первой орфографической конференции в 1876 году. Резолюция была принята как немецкими, так и австрийскими государственными чиновниками и, таким образом, является обязательной к исполнению. Также ожидается, что [SWI.GetName] в скором времени присоединится к резолюции по немецкому правописанию."
+ germany.109.a: "Наконец-то!"
+  
+ ### MISSIONS & DECISIONS ### 
+ #Economic Decisions 
+ GER_decision_category_economy: "German Economy" #NT!
+ GER_decision_category_economy_desc: "" #NT!
+ GER_mission_panic_of_1873: "Gründerkrise" #NT!
+ GER_mission_panic_of_1873_desc: "" #NT!
+ GER_decision_introduce_the_goldmark: "Introduce the Goldmark" #NT!
+ GER_decision_introduce_the_goldmark_desc: "We will introduce the Goldmark as the new currency of the [ROOT.GetName]. One Goldmark will be equivalent to the new minor unit of one hundred Pfennig made largely of nickel and copper. The change will manifest our switch to the gold standard system and hopefully stabilize our economy." #NT!
+ GER_decision_build_up_gold_reserves: "Build up Gold Reserves" #NT!
+ GER_decision_build_up_gold_reserves_desc: "In order to make sure we have enough liquid assets to meet financial liabilites, we must build up our gold reserves by acquiring gold on the global market or by converting excisting assets into gold." #NT!
+ GER_decision_introduce_goldmark_and_silberthaler: "Introduce Goldmark and Silberthaler" #NT!
+ GER_decision_introduce_goldmark_and_silberthaler_desc: "We will introduce two new official currency items with a fixed exchange rate, the Goldmark and the Silberthaler. Three Goldmark will be equivalent to one Silberthaler, which continues the tradition of the silver-based Vereinstahler. The change will manifest our switch to a bimetallic standard and hopefully stabilize our economy." #NT!
+ GER_decision_build_up_gold_and_silver_reserves: "Build up Gold and Silver Reserves" #NT!
+ GER_decision_build_up_gold_and_silver_reserves_desc: "In order to make sure we have enough liquid assets to meet financial liabilites, we must build up our gold and silver reserves by acquiring these precious metals on the global market or by converting excisting assets into them." #NT!
+ GER_decision_introduce_the_silbermark: "Introduce the Silbermark" #NT!
+ GER_decision_introduce_the_silbermark_desc: "We will introduce the Silbermark as the new currency of the [ROOT.GetName]. It follows the tradition of the silver-based Vereinsthaler. One Silbermark will be equivalent to the minor unit of one hundred Groschen, however, instead of the 120 Groschen that made a Vereinsthaler before. The change will manifest our switch to the silver standard system and hopefully stabilize our economy." #NT!
+ GER_decision_build_up_silver_reserves: "Build up Silver Reserves" #NT!
+ GER_decision_build_up_silver_reserves_desc: "In order to make sure we have enough liquid assets to meet financial liabilites, we must build up our silver reserves by acquiring silver on the global market or by converting excisting assets into silver." #NT!
+ GER_decision_build_up_precious_metals_reserves_effect_tt: "We will build up our §Yliquid assets reserves§!. We estimate that it will need a total of §Ythree years§! until we have accumulated enough to be able to establish a central bank." #NT!
+ GER_decision_establish_the_reichsbank: "Establish the Reichsbank" #NT!
+ GER_decision_establish_the_reichsbank_desc: "" #NT!
+ GER_decision_support_the_deutsche_bank: "Support the Deutsche Bank" #NT!
+ GER_decision_support_the_deutsche_bank_desc: "" #NT!
+ GER_decision_establish_the_metric_system: "Establish the Metric System" #NT!
+ GER_decision_establish_the_metric_system_desc: "" #NT!
+ GER_decision_support_the_german_mining_industry: "Support the German Mining Industry" #NT!
+ GER_decision_support_the_german_mining_industry_desc: "" #NT!
+ GER_decision_support_the_foundation_of_stock_companies: "Support the Foundation of Stock Companies" #NT!
+ GER_decision_support_the_foundation_of_stock_companies_desc: "" #NT!
+  
+ #German Unification 
+ GER_decision_category_unite_liberal_republic: "Объединение Германии (Либеральная Республика)"
+ GER_decision_category_unite_liberal_republic_desc: ""
+ GER_decision_unite_liberal_republic: "Объединить немецкие государства!"
+ GER_decision_unite_liberal_republic_desc: "Мы объединим немецкие государства под одним знаменем, с идеалами либерализма и свободы!"
+ GER_decision_unite_liberal_republic_trigger_tt: "§Y[Root.GetNameDef]§! — республика и владеет большинством важных немецких государств, а также либо §Y[8.GetName]§!, либо §Y[28.GetName]§!, либо обеими."
+ GER_decision_unite_liberal_republic_effect_tt: "§GМы объединим Германию как либеральную республику!§!\n\n"
+ GER_decision_category_unite_liberal_monarchy: "Объединение Германии (Либеральная Монархия)"
+ GER_decision_category_unite_liberal_monarchy_desc: ""
+ GER_decision_unite_liberal_monarchy: "Объединить немецкие государства!"
+ GER_decision_unite_liberal_monarchy_desc: "Мы объединим немецкие государства под одним императором, с идеалами либерализма и свободы!"
+ GER_decision_unite_liberal_monarchy_trigger_tt: "§Y[Root.GetNameDef]§! — монархия и владеет большинством важных немецких государств, а также либо §Y[8.GetName]§!, либо §Y[28.GetName]§!, либо обеими."
+ GER_decision_unite_liberal_monarchy_effect_tt: "§GМы объединим Германию как либеральную монархию!§!\n\n"
+ GER_decision_category_unite_bismarck: "Объединение Германии (Бисмарк)"
+ GER_decision_category_unite_bismarck_desc: ""
+ GER_decision_unite_bismarck: "Объединить немецкие государства!"
+ GER_decision_unite_bismarck_desc: "Мы объединим немецкие государства под одним знаменем, как это предложил Бисмарк — как авторитарную империю!"
+ GER_decision_unite_bismarck_trigger_tt: "§Y[Root.GetNameDef]§! владеет большинством важных немецких государств, а также либо §Y[8.GetName]§!, либо §Y[28.GetName]§!, либо обеими."
+ GER_decision_unite_bismarck_effect_tt: "§GМы объединим Германию как авторитарную империю!§!\n\n"
+ GER_decision_category_unite_socialist: "Объединение Германии (Социалистическое)"
+ GER_decision_category_unite_socialist_desc: ""
+ GER_decision_unite_socialist: "Объединить немецкие государства!"
+ GER_decision_unite_socialist_desc: "Мы объединим немецкие государства под одним знаменем, с идеалами социализма!"
+ GER_decision_unite_socialist_trigger_tt: "§Y[Root.GetNameDef]§! владеет большинством важных немецких государств."
+ GER_decision_unite_socialist_effect_tt: "§GМы объединим Германию как социалистическое государство!§!\n\n"
+  
+ ### FOCUSES/FOCI ### 
+ german_empire_historical_focus: "German Empire Focus Tree" #NT!
+  
+ #Economy - HISTORICAL and ALT-HISTORY 
+ GER_focus_historical_gruenderjahre: "Gründerjahre" #NT!
+ GER_focus_historical_gruenderjahre_desc: "It's time for us, the founders of the new Germany, to decide on a new currency standard." #NT!
+ GER_focus_historical_prosperity_for_all: "Prosperity for All?" #NT!
+ GER_focus_historical_prosperity_for_all_desc: "" #NT!
+ GER_focus_historical_monetary_policy: "Monetary Policy" #NT!
+ GER_focus_historical_monetary_policy_desc: "" #NT!
+ GER_focus_historical_gold_standard: "Keep the Gold Standard"
+ GER_focus_historical_gold_standard_desc: "The Gold Standard is tried, tested, and internationally recognized. We should keep it."
+ GER_focus_historical_the_goldmark: "The Goldmark" #NT!
+ GER_focus_historical_the_goldmark_desc: "" #NT!
+ GER_focus_historical_bimetallism: "Bimetallism" #NT!
+ GER_focus_historical_bimetallism_desc: "We must not restrict ourselves to one type of metal when making coinage..." #NT!
+ GER_focus_historical_goldmark_and_silberthaler: "Goldmark and Silberthaler" #NT!
+ GER_focus_historical_goldmark_and_silberthaler_desc: "" #NT!
+ GER_focus_historical_silver_standard: "The Silver Standard"
+ GER_focus_historical_silver_standard_desc: "A new standard based on silver coins instead of gold will help us develop the economy quicker, and gain more economic independence."
+ GER_focus_historical_the_silbermark: "The Silbermark" #NT!
+ GER_focus_historical_the_silbermark_desc: "" #NT!
+ GER_focus_historical_create_a_flexible_reserve_banking_system: "Create a Flexible Reserve Banking System" #NT!
+ GER_focus_historical_create_a_flexible_reserve_banking_system_desc: "" #NT!
+ GER_focus_historical_create_a_flexible_reserve_banking_system_effect_tt: "This will unlock §Ydecisions§! to built up our §Yprecious metal reserves§! in accordance with the §Ymonetary standard§! we are following. This is required to make sure we have enough assets to fulfill financial liabilities and stabilize the economy." #NT!
+ GER_focus_historical_establish_the_reichsbank: "Establish the Reichsbank" #NT!
+ GER_focus_historical_establish_the_reichsbank_desc: "We will establish a central bank for the German Empire." #NT!
+ GER_focus_historical_establish_the_reichsbank_trigger_tt: "We have secured enough §Yliquid assets reserves§! to be able to form a §Ycentral bank§!.\n\n" #NT!
+ GER_focus_historical_support_the_deutsche_bank: "Support the Deutsche Bank" #NT!
+ GER_focus_historical_support_the_deutsche_bank_desc: "We will support the Deutsche Bank which focuses heavily on foreign investments." #NT!
+ GER_focus_historical_economic_policy: "Economic Policy" #NT!
+ GER_focus_historical_economic_policy_desc: "" #NT!
+ GER_focus_historical_railway_boom: "Railway Boom"
+ GER_focus_historical_railway_boom_desc: "We will expand the railways across our nation."
+ GER_focus_historical_support_the_german_mining_industry: "Support the German Mining Industry" #NT!
+ GER_focus_historical_support_the_german_mining_industry_desc: "We will support the growth of our mining industry." #NT!
+ GER_focus_historical_support_foundation_of_stock_companies: "Support Foundation of Stock Companies" #NT!
+ GER_focus_historical_support_foundation_of_stock_companies_desc: "We will establish some joint stock companies." #NT!
+ GER_focus_historical_new_industrial_lead_sectors: "New Industrial Lead Sectors" #NT!
+ GER_focus_historical_new_industrial_lead_sectors_desc: "" #NT!
+ GER_focus_historical_electrical_engineering: "Electrical Engineering" #NT!
+ GER_focus_historical_electrical_engineering_desc: "" #NT!
+ eoanb_tt_GER_focus_company_aeg: "§YAEG§! becomes available as an employable company.\n" #NT!
+ GER_focus_historical_mechanical_engineering: "Mechanical Engineering" #NT!
+ GER_focus_historical_mechanical_engineering_desc: "" #NT!
+ eoanb_tt_GER_focus_company_siemens: "§YSiemens AG§! becomes available as an employable company.\n"
+ GER_focus_historical_chemical_industry: "Chemical Industry" #NT!
+ GER_focus_historical_chemical_industry_desc: "" #NT!
+ eoanb_tt_GER_focus_company_bayer: "§YBayer AG§! becomes available as an employable company.\n"
+ GER_focus_historical_technische_hochschulen: "Technische Hochschulen"
+ GER_focus_historical_technische_hochschulen_desc: "We need technological universities to get more scientifically knowledgeable citizens!"
+ GER_focus_historical_mechanization: "Mechanization"
+ GER_focus_historical_mechanization_desc: "Mechanization of farming will increase output."
+ GER_focus_historical_agricultural_advances: "Agricultural Advances" #NT!
+ GER_focus_historical_agricultural_advances_desc: "Agricultural advances like artifical fertilizers will greatly boost the output of our agrarian industry." #NT!
+ GER_focus_historical_gruenderzeit_architecture: "Gründerzeit Architecture" #NT!
+ GER_focus_historical_gruenderzeit_architecture_desc: "" #NT!
+ GER_focus_historical_steel_frame_construction: "Steel Frame Construction" #NT!
+ GER_focus_historical_steel_frame_construction_desc: "" #NT!
+ GER_focus_historical_gruenderkrach: "Gründerkrach" #NT!
+ GER_focus_historical_gruenderkrach_desc: "The Economy has crashed!" #NT!
+ GER_focus_historical_dealing_with_the_crisis: "Dealing with the Crisis" #NT!
+ GER_focus_historical_dealing_with_the_crisis_desc: "We need to deal with the crisis immediately!" #NT!
+ GER_focus_historical_take_drastic_measures: "Take Drastic Measures" #NT!
+ GER_focus_historical_take_drastic_measures_desc: "We will have to take drastic measures to intervene in the current crisis." #NT!
+ GER_focus_historical_bail_out_faltering_businesses: "Bail Out Faltering Businesses" #NT!
+ GER_focus_historical_bail_out_faltering_businesses_desc: "We will have to bail out privately owned businesses in financial trouble." #NT!
+ GER_focus_historical_tax_cuts_for_businesses: "Tax Cuts for Businesses" #NT!
+ GER_focus_historical_tax_cuts_for_businesses_desc: "We will make tax cuts to allow businesses more breathing room." #NT!
+ GER_focus_historical_impose_restrictive_tariffs: "Impose Restrictive Tariffs" #NT!
+ GER_focus_historical_impose_restrictive_tariffs_desc: "We need restrictive tariffs to make sure our economy is not negatively influenced by the outside world!" #NT!
+ GER_focus_historical_take_moderate_measures: "Take Moderate Measures" #NT!
+ GER_focus_historical_take_moderate_measures_desc: "We should take some moderate measures to intervene in the current crisis." #NT!
+ GER_focus_historical_subsidize_faltering_businesses: "Subsidize Faltering Businesses" #NT!
+ GER_focus_historical_subsidize_faltering_businesses_desc: "We should subsidize some of our businesses to incentivize economic growth." #NT!
+ GER_focus_historical_raise_taxes: "Raise Taxes"
+ GER_focus_historical_raise_taxes_desc: "Raise the taxes - it will upset the population, but this crisis must be stopped."
+ GER_focus_historical_impose_moderate_tariffs: "Impose Moderate Tariffs" #NT!
+ GER_focus_historical_impose_moderate_tariffs_desc: "We need to impose moderate tariffs to protect our economy, but allow for international trade at the same time." #NT!
+ GER_focus_historical_take_cautious_measures: "Take Cautious Measures" #NT!
+ GER_focus_historical_take_cautious_measures_desc: "We need profit immediately or our economy will take decades to recover!" #NT!
+ GER_focus_historical_aid_programs_for_faltering_businesses: "Aid Programs for Faltering Businesses" #NT!
+ GER_focus_historical_aid_programs_for_faltering_businesses_desc: "We need aid programs for faltering businesses to make sure they do not go bankrupt." #NT!
+ GER_focus_historical_sell_state_possessions: "Sell State Possessions"
+ GER_focus_historical_sell_state_possessions_desc: "We need to sell state possessions that do not generate a profit for us."
+ GER_focus_historical_sell_state_possessions_effect_tt: "We will sell some §Ymilitary equipment§! on the world market.\n" #NT!
+ GER_focus_historical_impose_limited_tariffs: "Impose Limited Tariffs" #NT!
+ GER_focus_historical_impose_limited_tariffs_desc: "We will impose limited tariffs to protect the economic whilst not prohibiting trade too much." #NT!
+ reduce_severity_of_the_economic_crisis_effect_tt: "This will §Greduce§! the severity of the §Yeconomic crisis§!." #NT!
+ GER_focus_historical_the_crisis_ends: "The Crisis Ends" #NT!
+ GER_focus_historical_the_crisis_ends_desc: "We have managed to beat out the flames of the economic crisis." #NT!
+ GER_focus_historical_the_golden_era: "The Golden Era" #NT!
+ GER_focus_historical_the_golden_era_desc: "Our country is entering a golden era of progress and prosperity." #NT!
+ GER_focus_historical_the_golden_era_trigger_tt: "The §Yeconomic crisis§! has been §Gcompletely resolved§!." #NT!
+  
+ #Politics - HISTORICAL (and some ALT-HISTORY) 
+ GER_focus_historical_united_at_last: "United at Last" #NT!
+ GER_focus_historical_united_at_last_desc: "We will give Bismarck more influence in our policy domain, whether domestic or foreign." #NT!
+ GER_focus_historical_securing_the_unity: "Securing the Unity" #NT!
+ GER_focus_historical_securing_the_unity_desc: "" #NT!
+ GER_focus_historical_dealing_with_external_threats: "Dealing with External Threats" #NT!
+ GER_focus_historical_dealing_with_external_threats_desc: "We must decide on our foreign policies." #NT!
+ GER_focus_historical_the_saturated_empire: "The Saturated Empire" #NT!
+ GER_focus_historical_the_saturated_empire_desc: "" #NT!
+ GER_focus_historical_the_kissingen_dictation: "The Kissingen Dictation" #NT!
+ GER_focus_historical_the_kissingen_dictation_desc: "We will enact a political manifesto written by Bismarck himself against the socialist menace." #NT!
+ GER_focus_historical_the_congress_of_berlin: "The Congress of Berlin" #NT!
+ GER_focus_historical_the_congress_of_berlin_desc: "" #NT!
+ GER_focus_historical_nightmare_of_coalitions: "Nightmare of Coalitions" #NT!
+ GER_focus_historical_nightmare_of_coalitions_desc: "" #NT!
+ GER_focus_historical_isolate_france: "Isolate France"
+ GER_focus_historical_isolate_france_desc: "Isolating France will strengthen our power."
+ GER_focus_historical_revitalize_ties_with_italy: "Revitalize Ties with Italy" #NT!
+ GER_focus_historical_revitalize_ties_with_italy_desc: "We will send a delegation to the Italian government in hopes of revitalizing our relations with Italy." #NT!
+ GER_focus_historical_reconciliation_with_austria: "Reconciliation with Austria" #NT!
+ GER_focus_historical_reconciliation_with_austria_desc: "We need to repair our relations with Austria, we cannot have a disgruntled neighbor forever." #NT!
+ GER_focus_historical_find_common_ground_with_russia: "Find Common Ground with Russia" #NT!
+ GER_focus_historical_find_common_ground_with_russia_desc: "A mission to Russia will help stabilize and improve our relations with our biggest neighbor." #NT!
+ GER_focus_historical_the_league_of_three_emperors: "The League of Three Emperors" #NT!
+ GER_focus_historical_the_league_of_three_emperors_desc: "An alliance of the three European empires will ensure the stability of monarchical form of state." #NT!
+ GER_focus_historical_dual_alliance: "The Dual Alliance"
+ GER_focus_historical_dual_alliance_desc: "We will propose an Alliance to [AUS.GetName]."
+ GER_focus_historical_reinsurance_treaty: "Reinsurance Treaty" #NT!
+ GER_focus_historical_reinsurance_treaty_desc: "" #NT!
+ GER_focus_historical_transalpine_alliance: "Transalpine Alliance" #NT!
+ GER_focus_historical_transalpine_alliance_desc: "" #NT!
+ GER_focus_historical_triple_alliance: "The Triple Alliance"
+ GER_focus_historical_triple_alliance_desc: "We will form an alliance to increase our standing in europe. It will be composed of the old Dual Pact and Italy."
+ GER_focus_historical_mediterranean_agreements: "Mediterranean Agreements" #NT!
+ GER_focus_historical_mediterranean_agreements_desc: "" #NT!
+ GER_focus_historical_offer_britain_an_accession: "Offer Britain an Accession" #NT!
+ GER_focus_historical_offer_britain_an_accession_desc: "" #NT!
+ GER_focus_historical_invite_romania: "Invite Romania" #NT!
+ GER_focus_historical_invite_romania_desc: "" #NT!
+ GER_focus_historical_dealing_with_our_ethnic_minorities: "Dealing with Our Ethnic Minorities" #NT!
+ GER_focus_historical_dealing_with_our_ethnic_minorities_desc: "" #NT!
+ GER_focus_historical_germanization_efforts: "Germanization Efforts..." #NT!
+ GER_focus_historical_germanization_efforts_desc: "We will start efforts to germanize some of our territories." #NT!
+ GER_focus_historical_germanization_in_alsace_lorraine: "...in Alsace-Lorraine" #NT!
+ GER_focus_historical_germanization_in_alsace_lorraine_desc: "We should enforce a policy of Germanization in our new territories of Alsace and Lorraine." #NT!
+ GER_focus_historical_germanization_in_schleswig: "...in Schleswig" #NT!
+ GER_focus_historical_germanization_in_schleswig_desc: "We should enforce a policy of Germanization in the Danish-dominated parts of Schleswig." #NT!
+ GER_focus_historical_germanization_in_our_polish_lands: "...in Our Polish Lands" #NT!
+ GER_focus_historical_germanization_in_our_polish_lands_desc: "Our Polish lands in the east must be Germanized." #NT!
+ GER_focus_historical_dealing_with_internal_threats: "Domestic Policy" #NT!
+ GER_focus_historical_dealing_with_internal_threats_desc: "We need to make a few domestic reforms - Bismarck already made some propositions..." #NT!
+ GER_focus_historical_kulturkampf: "Kulturkampf"
+ GER_focus_historical_kulturkampf_desc: "Germany has been split into small countries for centuries before its unification - we must ensure we all share a common culture and way of life."
+ GER_focus_historical_fight_papal_influences: "Fight Papal Influences" #NT!
+ GER_focus_historical_fight_papal_influences_desc: "" #NT!
+ GER_focus_historical_pulpit_law: "Pulpit Law" #NT!
+ GER_focus_historical_pulpit_law_desc: "" #NT!
+ GER_focus_historical_ban_the_jesuit_order: "Ban the Jesuit Order" #NT!
+ GER_focus_historical_ban_the_jesuit_order_desc: "" #NT!
+ GER_focus_historical_suspend_diplomatic_ties_with_the_vatican: "Suspend Diplomatic Ties with the Vatican" #NT!
+ GER_focus_historical_suspend_diplomatic_ties_with_the_vatican_desc: "" #NT!
+ GER_focus_historical_expatriation_laws: "Expatriation Laws" #NT!
+ GER_focus_historical_expatriation_laws_desc: "" #NT!
+ GER_focus_historical_strengthen_the_grip_of_the_state: "Strengthen the Grip of the State" #NT!
+ GER_focus_historical_strengthen_the_grip_of_the_state_desc: "" #NT!
+ GER_focus_historical_supervise_education: "Supervise Education" #NT!
+ GER_focus_historical_supervise_education_desc: "" #NT!
+ GER_focus_historical_enforce_civil_marriage: "Enforce Civil Marriage" #NT!
+ GER_focus_historical_enforce_civil_marriage_desc: "" #NT!
+ GER_focus_historical_civil_administration_of_bishoprics: "Civil Administration of Bishoprics" #NT!
+ GER_focus_historical_civil_administration_of_bishoprics_desc: "" #NT!
+ GER_focus_historical_cut_financial_subsidies: "Cut Financial Subsidies" #NT!
+ GER_focus_historical_cut_financial_subsidies_desc: "" #NT!
+ GER_focus_historical_the_socialist_menace: "The Socialist Menace" #NT!
+ GER_focus_historical_the_socialist_menace_desc: "" #NT!
+ GER_focus_historical_fight_the_social_democrats: "Fight the Social Democrats" #NT!
+ GER_focus_historical_fight_the_social_democrats_desc: "The Social Democrats pose a threat to our way of life, so we must ensure their dangerous ideas do not take hold in our great country." #NT!
+ GER_focus_historical_high_treason_trials: "High Treason Trials" #NT!
+ GER_focus_historical_high_treason_trials_desc: "We will take the most vehement and dangerous socialist activists to court so they may not endanger our society." #NT!
+ GER_focus_historical_press_campaign: "Press Campaign" #NT!
+ GER_focus_historical_press_campaign_desc: "" #NT!
+ GER_focus_historical_anti_socialist_law: "Anti-Socialist Law" #NT!
+ GER_focus_historical_anti_socialist_law_desc: "We will enact a few laws stopping the spread of socialism in [PRS.GetNameDef]." #NT!
+ GER_focus_historical_improve_the_situation_of_workers: "Improve the Situation of Workers" #NT!
+ GER_focus_historical_improve_the_situation_of_workers_desc: "" #NT!
+ GER_focus_historical_social_security_laws: "Social Security Laws"
+ GER_focus_historical_social_security_laws_desc: "Social Security Laws take a bit of weight off the shoulders of the German worker."
+ GER_focus_historical_compulsory_health_insurance: "Compulsory Health Insurance" #NT!
+ GER_focus_historical_compulsory_health_insurance_desc: "Illness can strike a worker at any time and seemingly at random, so we should ease the suffering in this regard." #NT!
+ GER_focus_historical_insurance_against_accidents: "Insurance Against Accidents" #NT!
+ GER_focus_historical_insurance_against_accidents_desc: "Accidents can cripple a person not only literally, but also economically. We should provide aid to the ones suffering from their consequences." #NT!
+ GER_focus_historical_invalidity_insurance_and_pensions: "Invalidity Insurance and Pensions" #NT!
+ GER_focus_historical_invalidity_insurance_and_pensions_desc: "We will create an insurance against invalidity and institute pensions for citizens that have worked for long enough, so that they may enjoy their old age." #NT!
+ GER_focus_historical_labor_protection_act: "Labor Protection Act" #NT!
+ GER_focus_historical_labor_protection_act_desc: "" #NT!
+  
+ ### IDEAS ### 
+ #Economy & Trade 
+ GER_idea_currency_confusion: "Currency Confusion" #NT!
+ GER_idea_currency_confusion_desc: "We are currently experiencing a widespread confusion in regard to the ever-changing exchange rates of our various currencies. Since we have not yet established a binding system of legal tender and fixed exhange rates across the whole country, our economy is not as stable and strong as it could be." #NT!
+ GER_idea_gruenderjahre_1: "Gründerjahre" #NT!
+ GER_idea_gruenderjahre_1_desc: "Our victory over France and the reparations we are going to receive have initiated a huge economic boom across the country." #NT!
+ GER_idea_gruenderjahre_2: "Gründerjahre" #NT!
+ GER_idea_gruenderjahre_2_desc: "Our victory over France and the reparations we are going to receive have initiated a huge economic boom across the country." #NT!
+ GER_idea_golden_era: "Golden Era" #NT!
+ GER_idea_golden_era_desc: "We are experiencing a time of growth and prosperity." #NT!
+ GER_idea_deutsche_bank: "Deutsche Bank" #NT!
+ GER_idea_deutsche_bank_desc: "The Deutsche Bank enjoys our support. We can certainly profit from their economic expertise and influence on foreign markets." #NT!
+ GER_idea_support_german_mining_industry: "German Mining Industry" #NT!
+ GER_idea_support_german_mining_industry_desc: "The German Mining Industry is a mighty machine fueling the German Economy." #NT!
+ GER_idea_growing_stock_exchange_trading_1: "Growing Stock Exchange Trading" #NT!
+ GER_idea_growing_stock_exchange_trading_1_desc: "Our economy is experiencing a rapid increase in stock exchange trading activities. Several centers of stock trades are flourishing across the country, the most important ones in Berlin, Hamburg and Frankfurt. Many individuals have become rich with skillful trading in recent years, and companies are profiting from the readily available capital." #NT!
+ GER_idea_growing_stock_exchange_trading_2: "Growing Stock Exchange Trading" #NT!
+ GER_idea_growing_stock_exchange_trading_2_desc: "Our economy is experiencing a rapid increase in stock exchange trading activities. Several centers of stock trades are flourishing across the country, the most important ones in Berlin, Hamburg and Frankfurt. Many individuals have become rich with skillful trading in recent years, and companies are profiting from the readily available capital." #NT!
+  
+ #Currency 
+ GER_idea_gold_standard_1: "Gold Standard" #NT!
+ GER_idea_gold_standard_1_desc: "The German Economy is adhering to the international standard by using gold coins as official economic units of account." #NT!
+ GER_idea_gold_standard_2: "Gold Standard" #NT!
+ GER_idea_gold_standard_2_desc: "The German Economy is adhering to the international standard by using gold coins as official economic units of account." #NT!
+ GER_idea_bimetallism_1: "Bimetallism" #NT!
+ GER_idea_bimetallism_1_desc: "The German Economy is adhering to the monetary standard of bimetallism by using both gold and silver coins with a fixed exchange rate as offical economic units of account." #NT!
+ GER_idea_bimetallism_2: "Bimetallism" #NT!
+ GER_idea_bimetallism_2_desc: "The German Economy is adhering to the monetary standard of bimetallism by using both gold and silver coins with a fixed exchange rate as offical economic units of account." #NT!
+ GER_idea_silver_standard_1: "Silver Standard" #NT!
+ GER_idea_silver_standard_1_desc: "The German Economy is using silver coins as official economic units of account." #NT!
+ GER_idea_silver_standard_2: "Silver Standard" #NT!
+ GER_idea_silver_standard_2_desc: "The German Economy is using silver coins as official economic units of account." #NT!
+  
+ #Railroads 
+ GER_idea_railways_booming_1: "Railway Boom" #NT!
+ GER_idea_railways_booming_1_desc: "The railway sector is currently booming in the [PRS.GetName]." #NT!
+ GER_idea_railways_booming_2: "Railway Boom" #NT!
+ GER_idea_railways_booming_2_desc: "The railway sector is currently booming in the [PRS.GetName]." #NT!
+ GER_idea_railways_booming_3: "Railway Boom" #NT!
+ GER_idea_railways_booming_3_desc: "The railway sector is currently booming in the [PRS.GetName]." #NT!
+ GER_idea_railways_booming_4: "Railway Boom" #NT!
+ GER_idea_railways_booming_4_desc: "The railway sector is currently booming in the [PRS.GetName]." #NT!
+ GER_idea_railways_booming_5: "Railway Boom" #NT!
+ GER_idea_railways_booming_5_desc: "The railway sector is currently booming in the [PRS.GetName]." #NT!
+  
+ #Constitution 
+ PRS_GER_Constitution_Modifier: "Constitution of the German Empire" #NT!
+ PRS_GER_Constitution_Modifier_desc: "§YThe German Empire's Constitution§! certainly carries the chancellor's thumbprint. It has been created on the basis of the North German Confederation's constitution and is one of §Ythe most advanced constitutions of its time§!.§!" #NT!
+  
+ #Companies 
+ aeg: "AEG" #NT!
+ siemens: "«Сименс»"
+ bayer: "Bayer AG" #NT!
+  
+ #Company Traits 
+ GER_trait_concern_aeg: "Allgemeine Elektricitäts-Gesellschaft AG" #NT!
+ GER_trait_concern_siemens: "Механический Концерн"
+ GER_trait_concern_bayer: "Химический Концерн"
+  
+ eoanb_flag_GER_bismarck_dead: "Bismarck is dead."
+  
+ #Country Leader Descriptions 
+ OLD_PETER_VON_ROSSING_LEADER_DESC: "Born on February 4, 1805, into a noble family, Peter von Rössing made his way into the political sphere after graduating from the University of Göttingen in 1834. He held a variety of offices following his graduation, being that of an auditor, an assessor, a chamberlain, and even reaching the role of High Court Chancellor within the Military High Court and the Military Collegium. It was not until May 1st, 1851, however, following the resignation of former president Dietrich Christian von Buttel, that von Rössing obtained his current position as President of the General Ministry. Since then, he has achieved several notable changes. The first of which was the constitutional revision of the Basic Law of the State of 1849, which was deemed necessary to alter in a conservative sense following the failed Revolution of 1848 and 1849. He also successfully managed to regulate the conditions of the Protestant Church of Oldenburg in 1853, alongside the reorganisation of the teaching and education system in 1855." #NT!

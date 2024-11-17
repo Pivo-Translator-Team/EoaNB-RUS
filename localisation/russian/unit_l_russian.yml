@@ -555,6 +555,7 @@
  category_tribal_infantry: "Племенная пехота"
  armor_train_company: "Бронепоезд поддержки"
  category_armor_train_company: "Бронепоезда"
+ armor_train_aa_company: "Anti-Air Train Support" #NT!
  UNIT_LEVEL_0: "Новички I"
  UNIT_LEVEL_1: "Новички II"
  UNIT_LEVEL_2: "Новички III"
@@ -618,7 +619,6 @@
  AIR_WING_LEVEL_18: "Легендарные IX"
  AIR_WING_LEVEL_19: "Легендарные X"
  AIR_WING_LEVEL_20: "Боги Неба"
-
  category_bicycle_signal_company: "Велосипедные роты"
  category_motorcycle_signal_company: "Мотоциклетные роты"
  bicycle_signal_company: "Велосипедная вспомогательная рота"

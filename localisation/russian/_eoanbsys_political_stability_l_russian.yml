@@ -1,8 +1,8 @@
 ﻿l_russian:
   ###GENERAL EVENTS### 
- pssystem.0.t: "Беспорядки на Улицах!"
- pssystem.0.d: "В последнее время наше правительство теряет политическое влияние в нашей стране. Люди, недовольные слабостью и нестабильностью правящей партии [Root.GetRulingParty], являющейся нашим нынешним главным правительственным органом и подстрекаемой нашими политическими врагами, бросили свои работы и вышли на улицы, протестуя и устраивая беспорядки против нас. Если мы хотим разрешить эту тревожную ситуацию, мы должны действовать сейчас и укрепить нашу политическую стабильность."
- pssystem.0.a: "Это только временно."
+ pssystem.32.t: "Riots in the Streets!" #NT!
+ pssystem.32.d: "As of late, our government has been losing political influence in our country. The people, dissatisfied with the weak and unstable [Root.GetRulingParty] as our main governmental body and incited by political adversaries, have abandoned their work and taken to the streets, protesting and rioting against us. This unrest has created a volatile situation, undermining the stability that our nation needs.\n\nTo resolve this troubling situation, we must act decisively to raise our Political Stability. Addressing the concerns of the populace and restoring their confidence in our leadership is crucial. By implementing strong policies and fostering a sense of unity, we can navigate through this period of turmoil and reestablish a stable and effective government.." #NT!
+ pssystem.32.a: "This is only temporary." #NT!
  pssystem.1.t: "Масштабные Протесты!"
  pssystem.1.d: "Наблюдая за тем, как наша политическая стабильность только ухудшается, [Root.GetAdjectiveCap] люди организовали массовые акции протеста против нашего правительства, поддержанные политически противоположными силами. Они утверждают, что нынешний политический кризис в нашей стране является доказательством шаткости и нестабильности идеологической системы руководящего органа — [Root.GetRulingIdeologyNoun] . Если мы оставим эту проблему в покое, она может разорвать нашу страну на части."
  pssystem.1.a: "Это начинает раздражать."

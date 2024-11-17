@@ -1,839 +1,281 @@
 ﻿l_russian:
   
- APA_tribal_cosmetic_1_autocracy: "Племена Апачи"
- NAV_tribal_cosmetic_1_autocracy: "Племена Навахо"
- CHY_tribal_cosmetic_1_autocracy: "Племена Шайенн-Арапахо"
- SIX_tribal_cosmetic_1_autocracy: "Племена Сиу"
- CRW_tribal_cosmetic_1_autocracy: "Племена Кроу"
- SHO_tribal_cosmetic_1_autocracy: "Племена Шошоны"
- BFT_tribal_cosmetic_1_autocracy: "Племена Черноногие"
- NEZ_tribal_cosmetic_1_autocracy: "Племена Не-Персе"
- KAD_tribal_cosmetic_1_autocracy: "Племена Кель Адаг"
- TOG_tribal_cosmetic_1_autocracy: "Племена Того-Бе"
- TGN_tribal_cosmetic_1_autocracy: "Племена Тагант"
- KHI_tribal_cosmetic_1_autocracy: "Племена Хива"
- TMS_tribal_cosmetic_1_autocracy: "Племена Туркмены"
- BUK_tribal_cosmetic_1_autocracy: "Племена Бухара"
- KOK_tribal_cosmetic_1_autocracy: "Племена Коканд"
- KLT_tribal_cosmetic_1_autocracy: "Племена Калат"
- MRN_tribal_cosmetic_1_autocracy: "Племена Мерина"
- WLL_tribal_cosmetic_1_autocracy: "Племена Валлмапу"
- ORO_tribal_cosmetic_1_autocracy: "Племена Оромо"
- KAG_tribal_cosmetic_1_autocracy: "Племена Ахаггар"
- HER_tribal_cosmetic_1_autocracy: "Племена Гереро"
- OOR_tribal_cosmetic_1_autocracy: "Племена Нама"
- BST_tribal_cosmetic_1_autocracy: "Племена Бастер"
- HMB_tribal_cosmetic_1_autocracy: "Племена Дамара"
- KVG_tribal_cosmetic_1_autocracy: "Королевство Масубия"
- OVB_tribal_cosmetic_1_autocracy: "Племена Овамбо"
- SNS_tribal_cosmetic_1_autocracy: "Племена Сануситы"
- DFR_tribal_cosmetic_1_autocracy: "Племена Дарфур"
- SHK_tribal_cosmetic_1_autocracy: "Племена Шилук"
- TRZ_tribal_cosmetic_1_autocracy: "Племена Трарза"
- TUG_tribal_cosmetic_1_autocracy: "Племена Кель Эйр"
- BDA_tribal_cosmetic_1_autocracy: "Племена Банда"
- BAT_tribal_cosmetic_1_autocracy: "Кланы Тсвана"
- BMG_tribal_cosmetic_1_autocracy: "Племена Бамангвато"
- NDE_tribal_cosmetic_1_autocracy: "Племега Ндебеле"
- SAA_tribal_cosmetic_1_autocracy: "Племена Саан"
- EQA_tribal_cosmetic_1_autocracy: "Племена Экватория"
- KRU_tribal_cosmetic_1_autocracy: "Племена Кру"
- KAB_tribal_cosmetic_1_autocracy: "Племена Кааба"
- OYO_tribal_cosmetic_1_autocracy: "Племена Ойо"
- BMM_tribal_cosmetic_1_autocracy: "Королевство Бамум"
- BET_tribal_cosmetic_1_autocracy: "Племена Бети"
- BLU_tribal_cosmetic_1_autocracy: "Племена Булу"
- FNG_tribal_cosmetic_1_autocracy: "Племена Фанг"
- GBG_tribal_cosmetic_1_autocracy: "Федерация Вукари"
- IJB_tribal_cosmetic_1_autocracy: "Племена Иджебу"
- GAO_tribal_cosmetic_1_autocracy: "Племена Гао"
- KON_tribal_cosmetic_1_autocracy: "Племена Конго"
- KTA_tribal_cosmetic_1_autocracy: "Племена Кота"
- KTK_tribal_cosmetic_1_autocracy: "Племена Котоко"
- KUB_tribal_cosmetic_1_autocracy: "Племена Куба"
- LOA_tribal_cosmetic_1_autocracy: "Племена Лоанго"
- LUB_tribal_cosmetic_1_autocracy: "Племена Люба"
- SRA_tribal_cosmetic_1_autocracy: "Племена Сара-Каба"
- LUN_tribal_cosmetic_1_autocracy: "Племена Лунда"
- MDR_tribal_cosmetic_1_autocracy: "Племена Мандара"
- MSG_tribal_cosmetic_1_autocracy: "Племена Митсого"
- PUN_tribal_cosmetic_1_autocracy: "Племена Пуну"
- YEK_tribal_cosmetic_1_autocracy: "Племена Йеке"
- GBY_tribal_cosmetic_1_autocracy: "Племена Гбайя"
- TEK_tribal_cosmetic_1_autocracy: "Племена Теке"
- RWD_tribal_cosmetic_1_autocracy: "Племена Руанда"
- BUR_tribal_cosmetic_1_autocracy: "Племена Бурунди"
- KRG_tribal_cosmetic_1_autocracy: "Племена Карангве"
- BUG_tribal_cosmetic_1_autocracy: "Племена Буганда"
- TIP_tribal_cosmetic_1_autocracy: "Племена Утетера"
- TTL_tribal_cosmetic_1_autocracy: "Племена Тетала"
- BKM_tribal_cosmetic_1_autocracy: "Племена Бюкама"
- NYG_tribal_cosmetic_1_autocracy: "Племена Нйанве"
- TOR_tribal_cosmetic_1_autocracy: "Племена Торо"
- BNY_tribal_cosmetic_1_autocracy: "Племена Уньоро"
- KKY_tribal_cosmetic_1_autocracy: "Племена Кикуйю"
- LGR_tribal_cosmetic_1_autocracy: "Племена Лугуру"
- LUO_tribal_cosmetic_1_autocracy: "Королевство Ванга"
- MAA_tribal_cosmetic_1_autocracy: "Племена Масаи"
- MMA_tribal_cosmetic_1_autocracy: "Племена Камба"
- NYW_tribal_cosmetic_1_autocracy: "Племена Ньямвези"
- OGD_tribal_cosmetic_1_autocracy: "Кланы Даруд"
- SUK_tribal_cosmetic_1_autocracy: "Племена Сукума"
- TKN_tribal_cosmetic_1_autocracy: "Племена Туркана"
- UJJ_tribal_cosmetic_1_autocracy: "Племена Уджиджи"
- SRW_tribal_cosmetic_1_autocracy: "Племена Сарауак"
- PNG_tribal_cosmetic_1_autocracy: "Племена Папуа"
- AHR_tribal_cosmetic_1_autocracy: "Северно-Герерские Племена"
- BTS_tribal_cosmetic_1_autocracy: "Племена Макололо"
- CKW_tribal_cosmetic_1_autocracy: "Племена Чокве"
- GGL_tribal_cosmetic_1_autocracy: "Королевство Мбунда"
- KBD_tribal_cosmetic_1_autocracy: "Племена Кимбунду"
- LOZ_tribal_cosmetic_1_autocracy: "Племена Бемба"
- OVD_tribal_cosmetic_1_autocracy: "Племена Овимбунду"
- WYO_tribal_cosmetic_1_autocracy: "Королевства Яо"
- WES_tribal_cosmetic_1_autocracy: "Племена Сахарави"
- APA_tribal_cosmetic_1_fundamentalism: "Племена Апачи"
- NAV_tribal_cosmetic_1_fundamentalism: "Племена Навахо"
- CHY_tribal_cosmetic_1_fundamentalism: "Племена Шайенн-Арапахо"
- SIX_tribal_cosmetic_1_fundamentalism: "Племена Сиу"
- CRW_tribal_cosmetic_1_fundamentalism: "Племена Кроу"
- SHO_tribal_cosmetic_1_fundamentalism: "Племена Шошоны"
- BFT_tribal_cosmetic_1_fundamentalism: "Племена Черноногие"
- NEZ_tribal_cosmetic_1_fundamentalism: "Племена Не-Персе"
- KAD_tribal_cosmetic_1_fundamentalism: "Племена Кель Адаг"
- TOG_tribal_cosmetic_1_fundamentalism: "Племена Того-Бе"
- TGN_tribal_cosmetic_1_fundamentalism: "Племена Тагант"
- KHI_tribal_cosmetic_1_fundamentalism: "Племена Хива"
- BUK_tribal_cosmetic_1_fundamentalism: "Племена Бухара"
- KOK_tribal_cosmetic_1_fundamentalism: "Племена Коканд"
- KLT_tribal_cosmetic_1_fundamentalism: "Племена Калат"
- MRN_tribal_cosmetic_1_fundamentalism: "Племена Мерина"
- WLL_tribal_cosmetic_1_fundamentalism: "Племена Валлмапу"
- ORO_tribal_cosmetic_1_fundamentalism: "Племена Оромо"
- KAG_tribal_cosmetic_1_fundamentalism: "Племена Ахаггар"
- HER_tribal_cosmetic_1_fundamentalism: "Племена Гереро"
- OOR_tribal_cosmetic_1_fundamentalism: "Племена Нама"
- BST_tribal_cosmetic_1_fundamentalism: "Племена Бастер"
- HMB_tribal_cosmetic_1_fundamentalism: "Племена Дамара"
- KVG_tribal_cosmetic_1_fundamentalism: "Королевство Масубия"
- OVB_tribal_cosmetic_1_fundamentalism: "Племена Овамбо"
- SNS_tribal_cosmetic_1_fundamentalism: "Племена Сануситы"
- DFR_tribal_cosmetic_1_fundamentalism: "Племена Дарфур"
- SHK_tribal_cosmetic_1_fundamentalism: "Племена Шилук"
- TRZ_tribal_cosmetic_1_fundamentalism: "Племена Трарза"
- TUG_tribal_cosmetic_1_fundamentalism: "Племена Кель Эйр"
- BDA_tribal_cosmetic_1_fundamentalism: "Племена Банда"
- BAT_tribal_cosmetic_1_fundamentalism: "Племена Ботсвана"
- NDE_tribal_cosmetic_1_fundamentalism: "Племега Ндебеле"
- SAA_tribal_cosmetic_1_fundamentalism: "Племена Саан"
- EQA_tribal_cosmetic_1_fundamentalism: "Племена Экватория"
- KRU_tribal_cosmetic_1_fundamentalism: "Племена Кру"
- KAB_tribal_cosmetic_1_fundamentalism: "Племена Кааба"
- OYO_tribal_cosmetic_1_fundamentalism: "Племена Ойо"
- BMM_tribal_cosmetic_1_fundamentalism: "Племена Бамум"
- BET_tribal_cosmetic_1_fundamentalism: "Племена Бети"
- BLU_tribal_cosmetic_1_fundamentalism: "Племена Булу"
- FNG_tribal_cosmetic_1_fundamentalism: "Племена Фанг"
- GBG_tribal_cosmetic_1_fundamentalism: "Халифат Вукари"
- IJB_tribal_cosmetic_1_fundamentalism: "Племена Иджебу"
- GAO_tribal_cosmetic_1_fundamentalism: "Племена Гао"
- KON_tribal_cosmetic_1_fundamentalism: "Племена Конго"
- KTA_tribal_cosmetic_1_fundamentalism: "Племена Кота"
- KTK_tribal_cosmetic_1_fundamentalism: "Племена Котоко"
- KUB_tribal_cosmetic_1_fundamentalism: "Племена Куба"
- LOA_tribal_cosmetic_1_fundamentalism: "Племена Лоанго"
- LUB_tribal_cosmetic_1_fundamentalism: "Племена Люба"
- SRA_tribal_cosmetic_1_fundamentalism: "Племена Сара-Каба"
- LUN_tribal_cosmetic_1_fundamentalism: "Племена Лунда"
- MDR_tribal_cosmetic_1_fundamentalism: "Племена Мандара"
- MSG_tribal_cosmetic_1_fundamentalism: "Племена Митсого"
- PUN_tribal_cosmetic_1_fundamentalism: "Племена Пуну"
- YEK_tribal_cosmetic_1_fundamentalism: "Племена Йеке"
- GBY_tribal_cosmetic_1_fundamentalism: "Племена Гбайя"
- TEK_tribal_cosmetic_1_fundamentalism: "Племена Теке"
- RWD_tribal_cosmetic_1_fundamentalism: "Племена Руанда"
- BUR_tribal_cosmetic_1_fundamentalism: "Племена Бурунди"
- KRG_tribal_cosmetic_1_fundamentalism: "Племена Карангве"
- BUG_tribal_cosmetic_1_fundamentalism: "Племена Буганда"
- TIP_tribal_cosmetic_1_fundamentalism: "Племена Утетера"
- TTL_tribal_cosmetic_1_fundamentalism: "Племена Тетала"
- BKW_tribal_cosmetic_1_fundamentalism: "Лезские Племена"
- BKM_tribal_cosmetic_1_fundamentalism: "Племена Бюкама"
- NYG_tribal_cosmetic_1_fundamentalism: "Племена Нйанве"
- TOR_tribal_cosmetic_1_fundamentalism: "Племена Торо"
- BNY_tribal_cosmetic_1_fundamentalism: "Племена Уньоро"
- KKY_tribal_cosmetic_1_fundamentalism: "Племена Кикуйю"
- LGR_tribal_cosmetic_1_fundamentalism: "Племена Лугуру"
- LUO_tribal_cosmetic_1_fundamentalism: "Королевство Ванга"
- MAA_tribal_cosmetic_1_fundamentalism: "Племена Масаи"
- MMA_tribal_cosmetic_1_fundamentalism: "Племена Камба"
- NYW_tribal_cosmetic_1_fundamentalism: "Племена Ньямвези"
- OGD_tribal_cosmetic_1_fundamentalism: "Кланы Даруд"
- SUK_tribal_cosmetic_1_fundamentalism: "Племена Сукума"
- TKN_tribal_cosmetic_1_fundamentalism: "Племена Туркана"
- UJJ_tribal_cosmetic_1_fundamentalism: "Племена Уджиджи"
- SRW_tribal_cosmetic_1_fundamentalism: "Племена Сарауак"
- PNG_tribal_cosmetic_1_fundamentalism: "Племена Папуа"
- AHR_tribal_cosmetic_1_fundamentalism: "Северно-Герерские Племена"
- BTS_tribal_cosmetic_1_fundamentalism: "Племена Баротселенд"
- CKW_tribal_cosmetic_1_fundamentalism: "Племена Чокве"
- GGL_tribal_cosmetic_1_fundamentalism: "Королевство Мбунда"
- KBD_tribal_cosmetic_1_fundamentalism: "Племена Кимбунду"
- LOZ_tribal_cosmetic_1_fundamentalism: "Племена Лози"
- OVD_tribal_cosmetic_1_fundamentalism: "Племена Овимбунду"
- WYO_tribal_cosmetic_1_fundamentalism: "Королевства Яо"
- HJZ_tribal_cosmetic_1_fundamentalism: "Племена Хиджаз"
- APA_tribal_cosmetic_1_chauvinist_populism: "Племена Апачи"
- NAV_tribal_cosmetic_1_chauvinist_populism: "Племена Навахо"
- CHY_tribal_cosmetic_1_chauvinist_populism: "Племена Шайенн-Арапахо"
- SIX_tribal_cosmetic_1_chauvinist_populism: "Племена Сиу"
- CRW_tribal_cosmetic_1_chauvinist_populism: "Племена Кроу"
- SHO_tribal_cosmetic_1_chauvinist_populism: "Племена Шошоны"
- BFT_tribal_cosmetic_1_chauvinist_populism: "Племена Черноногие"
- NEZ_tribal_cosmetic_1_chauvinist_populism: "Племена Не-Персе"
- KAD_tribal_cosmetic_1_chauvinist_populism: "Племена Кель Адаг"
- TOG_tribal_cosmetic_1_chauvinist_populism: "Племена Того-Бе"
- TGN_tribal_cosmetic_1_chauvinist_populism: "Племена Тагант"
- KHI_tribal_cosmetic_1_chauvinist_populism: "Племена Хива"
- BUK_tribal_cosmetic_1_chauvinist_populism: "Племена Бухара"
- KOK_tribal_cosmetic_1_chauvinist_populism: "Племена Коканд"
- KLT_tribal_cosmetic_1_chauvinist_populism: "Племена Калат"
- MRN_tribal_cosmetic_1_chauvinist_populism: "Племена Мерина"
- WLL_tribal_cosmetic_1_chauvinist_populism: "Племена Валлмапу"
- ORO_tribal_cosmetic_1_chauvinist_populism: "Племена Оромо"
- KAG_tribal_cosmetic_1_chauvinist_populism: "Племена Ахаггар"
- HER_tribal_cosmetic_1_chauvinist_populism: "Племена Гереро"
- OOR_tribal_cosmetic_1_chauvinist_populism: "Племена Нама"
- BST_tribal_cosmetic_1_chauvinist_populism: "Племена Бастер"
- HMB_tribal_cosmetic_1_chauvinist_populism: "Племена Дамара"
- KVG_tribal_cosmetic_1_chauvinist_populism: "Королевство Масубия"
- OVB_tribal_cosmetic_1_chauvinist_populism: "Племена Овамбо"
- SNS_tribal_cosmetic_1_chauvinist_populism: "Племена Сануситы"
- DFR_tribal_cosmetic_1_chauvinist_populism: "Племена Дарфур"
- SHK_tribal_cosmetic_1_chauvinist_populism: "Племена Шилук"
- TRZ_tribal_cosmetic_1_chauvinist_populism: "Племена Трарза"
- TUG_tribal_cosmetic_1_chauvinist_populism: "Племена Кель Эйр"
- BDA_tribal_cosmetic_1_chauvinist_populism: "Племена Банда"
- BAT_tribal_cosmetic_1_chauvinist_populism: "Племена Ботсвана"
- NDE_tribal_cosmetic_1_chauvinist_populism: "Племега Ндебеле"
- SAA_tribal_cosmetic_1_chauvinist_populism: "Племена Саан"
- EQA_tribal_cosmetic_1_chauvinist_populism: "Племена Экватория"
- KRU_tribal_cosmetic_1_chauvinist_populism: "Племена Кру"
- KAB_tribal_cosmetic_1_chauvinist_populism: "Племена Кааба"
- OYO_tribal_cosmetic_1_chauvinist_populism: "Племена Ойо"
- BMM_tribal_cosmetic_1_chauvinist_populism: "Племена Бамум"
- BET_tribal_cosmetic_1_chauvinist_populism: "Племена Бети"
- BLU_tribal_cosmetic_1_chauvinist_populism: "Племена Булу"
- FNG_tribal_cosmetic_1_chauvinist_populism: "Племена Фанг"
- GBG_tribal_cosmetic_1_chauvinist_populism: "Федерация Вукари"
- IJB_tribal_cosmetic_1_chauvinist_populism: "Племена Иджебу"
- GAO_tribal_cosmetic_1_chauvinist_populism: "Племена Гао"
- KON_tribal_cosmetic_1_chauvinist_populism: "Племена Конго"
- KTA_tribal_cosmetic_1_chauvinist_populism: "Племена Кота"
- KTK_tribal_cosmetic_1_chauvinist_populism: "Племена Котоко"
- KUB_tribal_cosmetic_1_chauvinist_populism: "Племена Куба"
- LOA_tribal_cosmetic_1_chauvinist_populism: "Племена Лоанго"
- LUB_tribal_cosmetic_1_chauvinist_populism: "Племена Люба"
- SRA_tribal_cosmetic_1_chauvinist_populism: "Племена Сара-Каба"
- LUN_tribal_cosmetic_1_chauvinist_populism: "Племена Лунда"
- MDR_tribal_cosmetic_1_chauvinist_populism: "Племена Мандара"
- MSG_tribal_cosmetic_1_chauvinist_populism: "Племена Митсого"
- PUN_tribal_cosmetic_1_chauvinist_populism: "Племена Пуну"
- YEK_tribal_cosmetic_1_chauvinist_populism: "Племена Йеке"
- GBY_tribal_cosmetic_1_chauvinist_populism: "Племена Гбайя"
- TEK_tribal_cosmetic_1_chauvinist_populism: "Племена Теке"
- RWD_tribal_cosmetic_1_chauvinist_populism: "Племена Руанда"
- BUR_tribal_cosmetic_1_chauvinist_populism: "Племена Бурунди"
- KRG_tribal_cosmetic_1_chauvinist_populism: "Племена Карангве"
- BUG_tribal_cosmetic_1_chauvinist_populism: "Племена Буганда"
- TIP_tribal_cosmetic_1_chauvinist_populism: "Племена Утетера"
- TTL_tribal_cosmetic_1_chauvinist_populism: "Племена Тетала"
- BKW_tribal_cosmetic_1_chauvinist_populism: "Лезские Племена"
- BKM_tribal_cosmetic_1_chauvinist_populism: "Племена Бюкама"
- NYG_tribal_cosmetic_1_chauvinist_populism: "Племена Нйанве"
- TOR_tribal_cosmetic_1_chauvinist_populism: "Племена Торо"
- BNY_tribal_cosmetic_1_chauvinist_populism: "Племена Уньоро"
- KKY_tribal_cosmetic_1_chauvinist_populism: "Племена Кикуйю"
- LGR_tribal_cosmetic_1_chauvinist_populism: "Племена Лугуру"
- LUO_tribal_cosmetic_1_chauvinist_populism: "Королевство Ванга"
- MAA_tribal_cosmetic_1_chauvinist_populism: "Племена Масаи"
- MMA_tribal_cosmetic_1_chauvinist_populism: "Племена Камба"
- NYW_tribal_cosmetic_1_chauvinist_populism: "Племена Ньямвези"
- OGD_tribal_cosmetic_1_chauvinist_populism: "Кланы Даруд"
- SUK_tribal_cosmetic_1_chauvinist_populism: "Племена Сукума"
- TKN_tribal_cosmetic_1_chauvinist_populism: "Племена Туркана"
- UJJ_tribal_cosmetic_1_chauvinist_populism: "Племена Уджиджи"
- SRW_tribal_cosmetic_1_chauvinist_populism: "Племена Сарауак"
- PNG_tribal_cosmetic_1_chauvinist_populism: "Племена Папуа"
- AHR_tribal_cosmetic_1_chauvinist_populism: "Северно-Герерские Племена"
- BTS_tribal_cosmetic_1_chauvinist_populism: "Племена Баротселенд"
- CKW_tribal_cosmetic_1_chauvinist_populism: "Племена Чокве"
- GGL_tribal_cosmetic_1_chauvinist_populism: "Королевство Мбунда"
- KBD_tribal_cosmetic_1_chauvinist_populism: "Племена Кимбунду"
- LOZ_tribal_cosmetic_1_chauvinist_populism: "Племена Лози"
- OVD_tribal_cosmetic_1_chauvinist_populism: "Племена Овимбунду"
- WYO_tribal_cosmetic_1_chauvinist_populism: "Королевства Яо"
- HJZ_tribal_cosmetic_1_chauvinist_populism: "Племена Хиджаз"
- APA_tribal_cosmetic_2_autocracy: "Племя Апачи"
- NAV_tribal_cosmetic_2_autocracy: "Племя Навахо"
- CHY_tribal_cosmetic_2_autocracy: "Племя Шайенн-Арапахо"
- SIX_tribal_cosmetic_2_autocracy: "Племя Сиу"
- CRW_tribal_cosmetic_2_autocracy: "Племя Кроу"
- SHO_tribal_cosmetic_2_autocracy: "Племя Шошоны"
- BFT_tribal_cosmetic_2_autocracy: "Племя Черноногие"
- NEZ_tribal_cosmetic_2_autocracy: "Племя Не-Персе"
- KAD_tribal_cosmetic_2_autocracy: "Племя Кель Адаг"
- TOG_tribal_cosmetic_2_autocracy: "Племя Того-Бе"
- TGN_tribal_cosmetic_2_autocracy: "Племя Тагант"
- KHI_tribal_cosmetic_2_autocracy: "Племя Хива"
- BUK_tribal_cosmetic_2_autocracy: "Племя Бухара"
- KOK_tribal_cosmetic_2_autocracy: "Племя Коканд"
- KLT_tribal_cosmetic_2_autocracy: "Племя Калат"
- MRN_tribal_cosmetic_2_autocracy: "Племя Мерина"
- WLL_tribal_cosmetic_2_autocracy: "Племя Валлмапу"
- ORO_tribal_cosmetic_2_autocracy: "Племя Оромо"
- KAG_tribal_cosmetic_2_autocracy: "Племя Ахаггар"
- HER_tribal_cosmetic_2_autocracy: "Племя Гереро"
- OOR_tribal_cosmetic_2_autocracy: "Племя Нама"
- BST_tribal_cosmetic_2_autocracy: "Племя Бастер"
- HMB_tribal_cosmetic_2_autocracy: "Племя Дамара"
- KVG_tribal_cosmetic_2_autocracy: "Королевство Масубия"
- OVB_tribal_cosmetic_2_autocracy: "Племя Овамбо"
- SNS_tribal_cosmetic_2_autocracy: "Племя Сануситы"
- DFR_tribal_cosmetic_2_autocracy: "Племя Дарфур"
- SHK_tribal_cosmetic_2_autocracy: "Племя Шилук"
- TRZ_tribal_cosmetic_2_autocracy: "Племя Трарза"
- TUG_tribal_cosmetic_2_autocracy: "Племя Кель Эйр"
- BDA_tribal_cosmetic_2_autocracy: "Племя Банда"
- BAT_tribal_cosmetic_2_autocracy: "Союз Кланов Тсваны"
- BMG_tribal_cosmetic_2_autocracy: "Племя Бамангвато"
- NDE_tribal_cosmetic_2_autocracy: "Племя Ндебеле"
- SAA_tribal_cosmetic_2_autocracy: "Племя Саан"
- EQA_tribal_cosmetic_2_autocracy: "Племя Экватория"
- KRU_tribal_cosmetic_2_autocracy: "Племя Кру"
- KAB_tribal_cosmetic_2_autocracy: "Племя Кааба"
- OYO_tribal_cosmetic_2_autocracy: "Племя Ойо"
- BMM_tribal_cosmetic_2_autocracy: "Племя Бамум"
- BET_tribal_cosmetic_2_autocracy: "Племя Бети"
- BLU_tribal_cosmetic_2_autocracy: "Племя Булу"
- FNG_tribal_cosmetic_2_autocracy: "Племя Фанг"
- GBG_tribal_cosmetic_2_autocracy: "Федерация Вукари"
- IJB_tribal_cosmetic_2_autocracy: "Племя Иджебу"
- GAO_tribal_cosmetic_2_autocracy: "Племя Гао"
- KON_tribal_cosmetic_2_autocracy: "Племя Конго"
- KTA_tribal_cosmetic_2_autocracy: "Племя Кота"
- KTK_tribal_cosmetic_2_autocracy: "Племя Котоко"
- KUB_tribal_cosmetic_2_autocracy: "Королевство Куба"
- LOA_tribal_cosmetic_2_autocracy: "Племя Лоанго"
- LUB_tribal_cosmetic_2_autocracy: "Королевство Люба"
- SRA_tribal_cosmetic_2_autocracy: "Племя Сара-Каба"
- LUN_tribal_cosmetic_2_autocracy: "Племя Лунда"
- MDR_tribal_cosmetic_2_autocracy: "Племя Мандара"
- MSG_tribal_cosmetic_2_autocracy: "Племя Митсого"
- PUN_tribal_cosmetic_2_autocracy: "Племя Пуну"
- YEK_tribal_cosmetic_2_autocracy: "Племя Йеке"
- GBY_tribal_cosmetic_2_autocracy: "Племя Гбайя"
- TEK_tribal_cosmetic_2_autocracy: "Племя Теке"
- RWD_tribal_cosmetic_2_autocracy: "Племя Руанда"
- BUR_tribal_cosmetic_2_autocracy: "Племя Бурунди"
- KRG_tribal_cosmetic_2_autocracy: "Племя Карангве"
- BUG_tribal_cosmetic_2_autocracy: "Племя Буганда"
- TIP_tribal_cosmetic_2_autocracy: "Племя Утетера"
- TTL_tribal_cosmetic_2_autocracy: "Племя Тетала"
- BKW_tribal_cosmetic_2_autocracy: "Лезское Племя"
- BKM_tribal_cosmetic_2_autocracy: "Племя Бюкама"
- NYG_tribal_cosmetic_2_autocracy: "Племя Нйанве"
- TOR_tribal_cosmetic_2_autocracy: "Племя Торо"
- BNY_tribal_cosmetic_2_autocracy: "Племя Уньоро"
- KKY_tribal_cosmetic_2_autocracy: "Племя Кикуйю"
- LGR_tribal_cosmetic_2_autocracy: "Племя Лугуру"
- LUO_tribal_cosmetic_2_autocracy: "Королевство Ванга"
- MAA_tribal_cosmetic_2_autocracy: "Племя Масаи"
- MMA_tribal_cosmetic_2_autocracy: "Племя Камба"
- NYW_tribal_cosmetic_2_autocracy: "Племя Ньямвези"
- OGD_tribal_cosmetic_2_autocracy: "Клан Даруд"
- SUK_tribal_cosmetic_2_autocracy: "Племя Сукума"
- TKN_tribal_cosmetic_2_autocracy: "Племя Туркана"
- UJJ_tribal_cosmetic_2_autocracy: "Племя Уджиджи"
- SRW_tribal_cosmetic_2_autocracy: "Племя Сарауак"
- PNG_tribal_cosmetic_2_autocracy: "Племя Папуа"
- AHR_tribal_cosmetic_2_autocracy: "Северно-Герерское Племя"
- BTS_tribal_cosmetic_2_autocracy: "Племя Макололо"
- CKW_tribal_cosmetic_2_autocracy: "Племя Чокве"
- GGL_tribal_cosmetic_2_autocracy: "Королевство Мбунда"
- KBD_tribal_cosmetic_2_autocracy: "Племя Кимбунду"
- LOZ_tribal_cosmetic_2_autocracy: "Племя Лози"
- OVD_tribal_cosmetic_2_autocracy: "Племя Овимбунду"
- WYO_tribal_cosmetic_2_autocracy: "Племя ВаЯо"
- WES_tribal_cosmetic_2_autocracy: "Сахарави"
- HJZ_tribal_cosmetic_2_autocracy: "Племя Хиджаз"
- APA_tribal_cosmetic_2_fundamentalism: "Племя Апачи"
- NAV_tribal_cosmetic_2_fundamentalism: "Племя Навахо"
- CHY_tribal_cosmetic_2_fundamentalism: "Племя Шайенн-Арапахо"
- SIX_tribal_cosmetic_2_fundamentalism: "Племя Сиу"
- CRW_tribal_cosmetic_2_fundamentalism: "Племя Кроу"
- SHO_tribal_cosmetic_2_fundamentalism: "Племя Шошоны"
- BFT_tribal_cosmetic_2_fundamentalism: "Племя Черноногие"
- NEZ_tribal_cosmetic_2_fundamentalism: "Племя Не-Персе"
-  
- KAD_tribal_cosmetic_2_fundamentalism: "Племя Кель Адаг"
- TOG_tribal_cosmetic_2_fundamentalism: "Племя Того-Бе"
- TGN_tribal_cosmetic_2_fundamentalism: "Племя Тагант"
- KHI_tribal_cosmetic_2_fundamentalism: "Племя Хива"
- BUK_tribal_cosmetic_2_fundamentalism: "Племя Бухара"
- KOK_tribal_cosmetic_2_fundamentalism: "Племя Коканд"
- KLT_tribal_cosmetic_2_fundamentalism: "Племя Калат"
- MRN_tribal_cosmetic_2_fundamentalism: "Племя Мерина"
- WLL_tribal_cosmetic_2_fundamentalism: "Племя Валлмапу"
- ORO_tribal_cosmetic_2_fundamentalism: "Племя Оромо"
- KAG_tribal_cosmetic_2_fundamentalism: "Племя Ахаггар"
- HER_tribal_cosmetic_2_fundamentalism: "Племя Гереро"
- OOR_tribal_cosmetic_2_fundamentalism: "Племя Нама"
- BST_tribal_cosmetic_2_fundamentalism: "Племя Бастер"
- HMB_tribal_cosmetic_2_fundamentalism: "Племя Дамара"
- KVG_tribal_cosmetic_2_fundamentalism: "Королевство Масубия"
- OVB_tribal_cosmetic_2_fundamentalism: "Племя Овамбо"
- SNS_tribal_cosmetic_2_fundamentalism: "Племя Сануситы"
- DFR_tribal_cosmetic_2_fundamentalism: "Племя Дарфур"
- SHK_tribal_cosmetic_2_fundamentalism: "Племя Шилук"
- TRZ_tribal_cosmetic_2_fundamentalism: "Племя Трарза"
- TUG_tribal_cosmetic_2_fundamentalism: "Племя Кель Эйр"
- BDA_tribal_cosmetic_2_fundamentalism: "Племя Банда"
- BAT_tribal_cosmetic_2_fundamentalism: "Союз Кланов Тсваны"
- BMG_tribal_cosmetic_2_fundamentalism: "Племя Бамангвато"
- NDE_tribal_cosmetic_2_fundamentalism: "Племя Ндебеле"
- SAA_tribal_cosmetic_2_fundamentalism: "Племя Саан"
- EQA_tribal_cosmetic_2_fundamentalism: "Племя Экватория"
- KRU_tribal_cosmetic_2_fundamentalism: "Племя Кру"
- KAB_tribal_cosmetic_2_fundamentalism: "Племя Кааба"
- OYO_tribal_cosmetic_2_fundamentalism: "Племя Ойо"
- BMM_tribal_cosmetic_2_fundamentalism: "Племя Бамум"
- BET_tribal_cosmetic_2_fundamentalism: "Племя Бети"
- BLU_tribal_cosmetic_2_fundamentalism: "Племя Булу"
- FNG_tribal_cosmetic_2_fundamentalism: "Племя Фанг"
- GBG_tribal_cosmetic_2_fundamentalism: "Федерация Вукари"
- IJB_tribal_cosmetic_2_fundamentalism: "Племя Иджебу"
- GAO_tribal_cosmetic_2_fundamentalism: "Племя Гао"
- KON_tribal_cosmetic_2_fundamentalism: "Племя Конго"
- KTA_tribal_cosmetic_2_fundamentalism: "Племя Кота"
- KTK_tribal_cosmetic_2_fundamentalism: "Племя Котоко"
- KUB_tribal_cosmetic_2_fundamentalism: "Королевство Куба"
- LOA_tribal_cosmetic_2_fundamentalism: "Племя Лоанго"
- LUB_tribal_cosmetic_2_fundamentalism: "Королевство Люба"
- SRA_tribal_cosmetic_2_fundamentalism: "Племя Сара-Каба"
- LUN_tribal_cosmetic_2_fundamentalism: "Племя Лунда"
- MDR_tribal_cosmetic_2_fundamentalism: "Племя Мандара"
- MSG_tribal_cosmetic_2_fundamentalism: "Племя Митсого"
- PUN_tribal_cosmetic_2_fundamentalism: "Племя Пуну"
- YEK_tribal_cosmetic_2_fundamentalism: "Племя Йеке"
- GBY_tribal_cosmetic_2_fundamentalism: "Племя Гбайя"
- TEK_tribal_cosmetic_2_fundamentalism: "Племя Теке"
- RWD_tribal_cosmetic_2_fundamentalism: "Племя Руанда"
- BUR_tribal_cosmetic_2_fundamentalism: "Племя Бурунди"
- KRG_tribal_cosmetic_2_fundamentalism: "Племя Карангве"
- BUG_tribal_cosmetic_2_fundamentalism: "Племя Буганда"
-  
- TIP_tribal_cosmetic_2_fundamentalism: "Племя Утетера"
- TTL_tribal_cosmetic_2_fundamentalism: "Племя Тетала"
- BKW_tribal_cosmetic_2_fundamentalism: "Лезское Племя"
- BKM_tribal_cosmetic_2_fundamentalism: "Племя Бюкама"
- NYG_tribal_cosmetic_2_fundamentalism: "Племя Нйанве"
- TOR_tribal_cosmetic_2_fundamentalism: "Племя Торо"
- BNY_tribal_cosmetic_2_fundamentalism: "Племя Уньоро"
- KKY_tribal_cosmetic_2_fundamentalism: "Племя Кикуйю"
- LGR_tribal_cosmetic_2_fundamentalism: "Племя Лугуру"
- LUO_tribal_cosmetic_2_fundamentalism: "Королевство Ванга"
- MAA_tribal_cosmetic_2_fundamentalism: "Племя Масаи"
- MMA_tribal_cosmetic_2_fundamentalism: "Племя Камба"
- NYW_tribal_cosmetic_2_fundamentalism: "Племя Ньямвези"
- OGD_tribal_cosmetic_2_fundamentalism: "Клан Даруд"
- SUK_tribal_cosmetic_2_fundamentalism: "Племя Сукума"
- TKN_tribal_cosmetic_2_fundamentalism: "Племя Туркана"
- UJJ_tribal_cosmetic_2_fundamentalism: "Племя Уджиджи"
- SRW_tribal_cosmetic_2_fundamentalism: "Племя Сарауак"
- PNG_tribal_cosmetic_2_fundamentalism: "Племя Папуа"
- AHR_tribal_cosmetic_2_fundamentalism: "Северно-Герерское Племя"
- BTS_tribal_cosmetic_2_fundamentalism: "Племя Макололо"
- CKW_tribal_cosmetic_2_fundamentalism: "Племя Чокве"
- GGL_tribal_cosmetic_2_fundamentalism: "Королевство Мбунда"
- KBD_tribal_cosmetic_2_fundamentalism: "Племя Кимбунду"
- LOZ_tribal_cosmetic_2_fundamentalism: "Племя Лози"
- OVD_tribal_cosmetic_2_fundamentalism: "Племя Овимбунду"
- WYO_tribal_cosmetic_2_fundamentalism: "ВаЯо"
- HJZ_tribal_cosmetic_2_fundamentalism: "Племя Хиджаз"
- APA_tribal_cosmetic_2_chauvinist_populism: "Племя Апачи"
- NAV_tribal_cosmetic_2_chauvinist_populism: "Племя Навахо"
- CHY_tribal_cosmetic_2_chauvinist_populism: "Племя Шайенн-Арапахо"
- SIX_tribal_cosmetic_2_chauvinist_populism: "Племя Сиу"
- CRW_tribal_cosmetic_2_chauvinist_populism: "Племя Кроу"
- SHO_tribal_cosmetic_2_chauvinist_populism: "Племя Шошоны"
- BFT_tribal_cosmetic_2_chauvinist_populism: "Племя Черноногие"
- NEZ_tribal_cosmetic_2_chauvinist_populism: "Племя Не-Персе"
- KAD_tribal_cosmetic_2_chauvinist_populism: "Племя Кель Адаг"
- TOG_tribal_cosmetic_2_chauvinist_populism: "Племя Того-Бе"
- TGI_tribal_cosmetic_2_chauvinist_populism: "Племя Тагант"
- KHI_tribal_cosmetic_2_chauvinist_populism: "Племя Хива"
- BUK_tribal_cosmetic_2_chauvinist_populism: "Племя Бухара"
- KOK_tribal_cosmetic_2_chauvinist_populism: "Племя Коканд"
- KLT_tribal_cosmetic_2_chauvinist_populism: "Племя Калат"
- MRN_tribal_cosmetic_2_chauvinist_populism: "Племя Мерина"
- WLL_tribal_cosmetic_2_chauvinist_populism: "Племя Валлмапу"
- ORO_tribal_cosmetic_2_chauvinist_populism: "Племя Оромо"
- KAG_tribal_cosmetic_2_chauvinist_populism: "Племя Ахаггар"
- HER_tribal_cosmetic_2_chauvinist_populism: "Племя Гереро"
- OOR_tribal_cosmetic_2_chauvinist_populism: "Племя Нама"
- BST_tribal_cosmetic_2_chauvinist_populism: "Племя Бастер"
- HMB_tribal_cosmetic_2_chauvinist_populism: "Племя Дамара"
- KVG_tribal_cosmetic_2_chauvinist_populism: "Королевство Масубия"
- OVB_tribal_cosmetic_2_chauvinist_populism: "Племя Овамбо"
- SNS_tribal_cosmetic_2_chauvinist_populism: "Племя Сануситы"
- DFR_tribal_cosmetic_2_chauvinist_populism: "Племя Дарфур"
- SHK_tribal_cosmetic_2_chauvinist_populism: "Племя Шилук"
- TRZ_tribal_cosmetic_2_chauvinist_populism: "Племя Трарза"
- TUG_tribal_cosmetic_2_chauvinist_populism: "Племя Кель Эйр"
- BDA_tribal_cosmetic_2_chauvinist_populism: "Племя Банда"
- BAT_tribal_cosmetic_2_chauvinist_populism: "Тсвана"
- BMG_tribal_cosmetic_2_chauvinist_populism: "Племя Бамангвато"
- NDE_tribal_cosmetic_2_chauvinist_populism: "Племя Ндебеле"
- SAA_tribal_cosmetic_2_chauvinist_populism: "Племя Саан"
- EQA_tribal_cosmetic_2_chauvinist_populism: "Племя Экватория"
- KRU_tribal_cosmetic_2_chauvinist_populism: "Племя Кру"
- KAB_tribal_cosmetic_2_chauvinist_populism: "Племя Кааба"
- OYO_tribal_cosmetic_2_chauvinist_populism: "Племя Ойо"
- BMM_tribal_cosmetic_2_chauvinist_populism: "Племя Бамум"
- BET_tribal_cosmetic_2_chauvinist_populism: "Племя Бети"
- BLU_tribal_cosmetic_2_chauvinist_populism: "Племя Булу"
- FNG_tribal_cosmetic_2_chauvinist_populism: "Племя Фанг"
- GBG_tribal_cosmetic_2_chauvinist_populism: "Племя Гбари"
- IJB_tribal_cosmetic_2_chauvinist_populism: "Племя Иджебу"
- GAO_tribal_cosmetic_2_chauvinist_populism: "Племя Гао"
- KON_tribal_cosmetic_2_chauvinist_populism: "Племя Конго"
- KTA_tribal_cosmetic_2_chauvinist_populism: "Племя Кота"
- KTK_tribal_cosmetic_2_chauvinist_populism: "Племя Котоко"
- KUB_tribal_cosmetic_2_chauvinist_populism: "Королевство Куба"
- LOA_tribal_cosmetic_2_chauvinist_populism: "Племя Лоанго"
- LUB_tribal_cosmetic_2_chauvinist_populism: "Королевство Люба"
- SRA_tribal_cosmetic_2_chauvinist_populism: "Племя Сара-Каба"
- LUN_tribal_cosmetic_2_chauvinist_populism: "Племя Лунда"
- MDR_tribal_cosmetic_2_chauvinist_populism: "Племя Мандара"
- MSG_tribal_cosmetic_2_chauvinist_populism: "Племя Митсого"
- PUN_tribal_cosmetic_2_chauvinist_populism: "Племя Пуну"
- YEK_tribal_cosmetic_2_chauvinist_populism: "Племя Йеке"
- GBY_tribal_cosmetic_2_chauvinist_populism: "Племя Гбайя"
- TEK_tribal_cosmetic_2_chauvinist_populism: "Племя Теке"
- RWD_tribal_cosmetic_2_chauvinist_populism: "Племя Руанда"
- BUR_tribal_cosmetic_2_chauvinist_populism: "Племя Бурунди"
- KRG_tribal_cosmetic_2_chauvinist_populism: "Племя Карангве"
- BUG_tribal_cosmetic_2_chauvinist_populism: "Племя Буганда"
- TIP_tribal_cosmetic_2_chauvinist_populism: "Племя Утетера"
- TTL_tribal_cosmetic_2_chauvinist_populism: "Племя Тетала"
- BKW_tribal_cosmetic_2_chauvinist_populism: "Лезское Племя"
- BKM_tribal_cosmetic_2_chauvinist_populism: "Племя Бюкама"
- NYG_tribal_cosmetic_2_chauvinist_populism: "Племя Нйанве"
- TOR_tribal_cosmetic_2_chauvinist_populism: "Племя Торо"
- BNY_tribal_cosmetic_2_chauvinist_populism: "Племя Уньоро"
- KKY_tribal_cosmetic_2_chauvinist_populism: "Племя Кикуйю"
- LGR_tribal_cosmetic_2_chauvinist_populism: "Племя Лугуру"
- LUO_tribal_cosmetic_2_chauvinist_populism: "Королевство Ванга"
- MAA_tribal_cosmetic_2_chauvinist_populism: "Племя Масаи"
- MMA_tribal_cosmetic_2_chauvinist_populism: "Племя Камба"
- NYW_tribal_cosmetic_2_chauvinist_populism: "Племя Ньямвези"
- OGD_tribal_cosmetic_2_chauvinist_populism: "Клан Даруд"
- SUK_tribal_cosmetic_2_chauvinist_populism: "Племя Сукума"
- TKN_tribal_cosmetic_2_chauvinist_populism: "Племя Туркана"
- UJJ_tribal_cosmetic_2_chauvinist_populism: "Племя Уджиджи"
- SRW_tribal_cosmetic_2_chauvinist_populism: "Племя Сарауак"
- PNG_tribal_cosmetic_2_chauvinist_populism: "Племя Папуа"
- AHR_tribal_cosmetic_2_chauvinist_populism: "Северно-Герерское Племя"
- BTS_tribal_cosmetic_2_chauvinist_populism: "Племя Баротселенд"
- CKW_tribal_cosmetic_2_chauvinist_populism: "Племя Чокве"
- GGL_tribal_cosmetic_2_chauvinist_populism: "Королевство Мбунда"
- KBD_tribal_cosmetic_2_chauvinist_populism: "Племя Кимбунду"
- LOZ_tribal_cosmetic_2_chauvinist_populism: "Племя Лози"
- OVD_tribal_cosmetic_2_chauvinist_populism: "Племя Овимбунду"
- WYO_tribal_cosmetic_2_chauvinist_populism: "ВаЯо"
- HJZ_tribal_cosmetic_2_chauvinist_populism: "Племя Хиджаз"
- APA_nomad_cosmetic_2_autocracy: "Племя Апачи"
- NAV_nomad_cosmetic_2_autocracy: "Племя Навахо"
- CHY_nomad_cosmetic_2_autocracy: "Племя Шайенн-Арапахо"
- SIX_nomad_cosmetic_2_autocracy: "Племя Сиу"
- CRW_nomad_cosmetic_2_autocracy: "Племя Кроу"
- SHO_nomad_cosmetic_2_autocracy: "Племя Шошоны"
- BFT_nomad_cosmetic_2_autocracy: "Племя Черноногие"
- NEZ_nomad_cosmetic_2_autocracy: "Племя Не-Персе"
- KAD_nomad_cosmetic_2_autocracy: "Кочевники Кель Адаг"
- TOG_nomad_cosmetic_2_autocracy: "Кочевники Того-Бе"
- TAG_nomad_cosmetic_2_autocracy: "Кочевники Тагант"
- KHI_nomad_cosmetic_2_autocracy: "Кочевники Хива"
- BUK_nomad_cosmetic_2_autocracy: "Кочевники Бухара"
- KOK_nomad_cosmetic_2_autocracy: "Кочевники Коканд"
- KLT_nomad_cosmetic_2_autocracy: "Кочевники Калат"
- MRN_nomad_cosmetic_2_autocracy: "Кочевники Мерина"
- WLL_nomad_cosmetic_2_autocracy: "Кочевники Валлмапу"
- ORO_nomad_cosmetic_2_autocracy: "Кочевники Оромо"
- KAG_nomad_cosmetic_2_autocracy: "Кочевники Ахаггар"
- HER_nomad_cosmetic_2_autocracy: "Кочевники Гереро"
- OOR_nomad_cosmetic_2_autocracy: "Кочевники Нама"
- BST_nomad_cosmetic_2_autocracy: "Кочевники Бастер"
- HMB_nomad_cosmetic_2_autocracy: "Кочевники Дамара"
- KVG_nomad_cosmetic_2_autocracy: "Масубия"
- OVB_nomad_cosmetic_2_autocracy: "Кочевники Овамбо"
- SNS_nomad_cosmetic_2_autocracy: "Кочевники Сануситы"
- DFR_nomad_cosmetic_2_autocracy: "Кочевники Дарфур"
- SHK_nomad_cosmetic_2_autocracy: "Кочевники Шилук"
- TRZ_nomad_cosmetic_2_autocracy: "Кочевники Трарза"
- TUG_nomad_cosmetic_2_autocracy: "Кочевники Кель Эйр"
- BDA_nomad_cosmetic_2_autocracy: "Кочевники Банда"
- BAT_nomad_cosmetic_2_autocracy: "Кочевники Ботсвана"
- NDE_nomad_cosmetic_2_autocracy: "Кочевники Ндебеле"
- SAA_nomad_cosmetic_2_autocracy: "Кочевники Саан"
- EQA_nomad_cosmetic_2_autocracy: "Кочевники Экватория"
- KRU_nomad_cosmetic_2_autocracy: "Кочевники Кру"
- AKA_nomad_cosmetic_2_autocracy: "Кочевники Бауле"
- KAB_nomad_cosmetic_2_autocracy: "Кочевники Кааба"
- SIN_nomad_cosmetic_2_autocracy: "Кочевники Сине"
- SAL_nomad_cosmetic_2_autocracy: "Кочевники Салум"
- OYO_nomad_cosmetic_2_autocracy: "Кочевники Ойо"
- BMM_nomad_cosmetic_2_autocracy: "Кочевники Бамум"
- BET_nomad_cosmetic_2_autocracy: "Кочевники Бети"
- BLU_nomad_cosmetic_2_autocracy: "Кочевники Булу"
- FNG_nomad_cosmetic_2_autocracy: "Кочевники Фанг"
- GBG_nomad_cosmetic_2_autocracy: "Кочевники Гбари"
- IJB_nomad_cosmetic_2_autocracy: "Кочевники Иджебу"
- GAO_nomad_cosmetic_2_autocracy: "Кочевники Гао"
- KON_nomad_cosmetic_2_autocracy: "Кочевники Конго"
- KTA_nomad_cosmetic_2_autocracy: "Кочевники Кота"
- KTK_nomad_cosmetic_2_autocracy: "Кочевники Котоко"
- KUB_nomad_cosmetic_2_autocracy: "Кочевники Куба"
- LOA_nomad_cosmetic_2_autocracy: "Кочевники Лоанго"
- LUB_nomad_cosmetic_2_autocracy: "Кочевники Люба"
- SRA_nomad_cosmetic_2_autocracy: "Кочевники Сара-Каба"
- LUN_nomad_cosmetic_2_autocracy: "Кочевники Лунда"
- MDR_nomad_cosmetic_2_autocracy: "Кочевники Мандара"
- MSG_nomad_cosmetic_2_autocracy: "Кочевники Митсого"
- PUN_nomad_cosmetic_2_autocracy: "Кочевники Пуну"
- YEK_nomad_cosmetic_2_autocracy: "Кочевники Йеке"
- GBY_nomad_cosmetic_2_autocracy: "Кочевники Гбайя"
- TEK_nomad_cosmetic_2_autocracy: "Кочевники Теке"
- RWD_nomad_cosmetic_2_autocracy: "Кочевники Руанда"
- BUR_nomad_cosmetic_2_autocracy: "Кочевники Бурунди"
- KRG_nomad_cosmetic_2_autocracy: "Кочевники Карангве"
- BUG_nomad_cosmetic_2_autocracy: "Кочевники Буганда"
- TIP_nomad_cosmetic_2_autocracy: "Кочевники Утетера"
- TTL_nomad_cosmetic_2_autocracy: "Кочевники Тетала"
- BKW_nomad_cosmetic_2_autocracy: "Лезские Кочевники"
- BKM_nomad_cosmetic_2_autocracy: "Кочевники Бюкама"
- NYG_nomad_cosmetic_2_autocracy: "Кочевники Нйанве"
- TOR_nomad_cosmetic_2_autocracy: "Кочевники Торо"
- BNY_nomad_cosmetic_2_autocracy: "Кочевники Уньоро"
- KKY_nomad_cosmetic_2_autocracy: "Кочевники Кикуйю"
- LGR_nomad_cosmetic_2_autocracy: "Кочевники Лугуру"
- LUO_nomad_cosmetic_2_autocracy: "Кочевники Луо"
- MAA_nomad_cosmetic_2_autocracy: "Кочевники Масаи"
- MMA_nomad_cosmetic_2_autocracy: "Кочевники Меру"
- NYW_nomad_cosmetic_2_autocracy: "Кочевники Ньямвези"
- OGD_nomad_cosmetic_2_autocracy: "Кланы Даруд"
- SUK_nomad_cosmetic_2_autocracy: "Кочевники Сукума"
- TKN_nomad_cosmetic_2_autocracy: "Кочевники Туркана"
- UJJ_nomad_cosmetic_2_autocracy: "Кочевники Уджиджи"
- SRW_nomad_cosmetic_2_autocracy: "Кочевники Сарауак"
- PNG_nomad_cosmetic_2_autocracy: "Кочевники Папуа"
- AHR_nomad_cosmetic_2_autocracy: "Северно-Герерские Кочевники"
- BTS_nomad_cosmetic_2_autocracy: "Кочевники Баротселенд"
- CKW_nomad_cosmetic_2_autocracy: "Кочевники Чокве"
- GGL_nomad_cosmetic_2_autocracy: "Кочевники Гангела"
- KBD_nomad_cosmetic_2_autocracy: "Кочевники Кимбунду"
- LOZ_nomad_cosmetic_2_autocracy: "Кочевники Лози"
- OVD_nomad_cosmetic_2_autocracy: "Кочевники Овимбунду"
- WYO_nomad_cosmetic_2_autocracy: "Кочевники ВаЯо"
- HJZ_nomad_cosmetic_2_autocracy: "Кочевники Хиджаз"
- APA_nomad_cosmetic_2_fundamentalism: "Племя Апачи"
- NAV_nomad_cosmetic_2_fundamentalism: "Племя Навахо"
- CHY_nomad_cosmetic_2_fundamentalism: "Племя Шайенн-Арапахо"
- SIX_nomad_cosmetic_2_fundamentalism: "Племя Сиу"
- CRW_nomad_cosmetic_2_fundamentalism: "Племя Кроу"
- SHO_nomad_cosmetic_2_fundamentalism: "Племя Шошоны"
- BFT_nomad_cosmetic_2_fundamentalism: "Племя Черноногие"
- NEZ_nomad_cosmetic_2_fundamentalism: "Кочевники Не-Персе"
- KAD_nomad_cosmetic_2_fundamentalism: "Кочевники Кель Адаг"
- TOG_nomad_cosmetic_2_fundamentalism: "Кочевники Того-Бе"
- TGN_nomad_cosmetic_2_fundamentalism: "Кочевники Тагант"
- KHI_nomad_cosmetic_2_fundamentalism: "Кочевники Хива"
- BUK_nomad_cosmetic_2_fundamentalism: "Кочевники Бухара"
- KOK_nomad_cosmetic_2_fundamentalism: "Кочевники Коканд"
- KLT_nomad_cosmetic_2_fundamentalism: "Кочевники Калат"
- MRN_nomad_cosmetic_2_fundamentalism: "Кочевники Мерина"
- WLL_nomad_cosmetic_2_fundamentalism: "Кочевники Валлмапу"
- ORO_nomad_cosmetic_2_fundamentalism: "Кочевники Оромо"
- KAG_nomad_cosmetic_2_fundamentalism: "Кочевники Ахаггар"
- HER_nomad_cosmetic_2_fundamentalism: "Кочевники Гереро"
- OOR_nomad_cosmetic_2_fundamentalism: "Кочевники Нама"
- BST_nomad_cosmetic_2_fundamentalism: "Кочевники Бастер"
- HMB_nomad_cosmetic_2_fundamentalism: "Кочевники Дамара"
- KVG_nomad_cosmetic_2_fundamentalism: "Масубия"
- OVB_nomad_cosmetic_2_fundamentalism: "Кочевники Овамбо"
- SNS_nomad_cosmetic_2_fundamentalism: "Кочевники Сануситы"
- DFR_nomad_cosmetic_2_fundamentalism: "Кочевники Дарфур"
- SHK_nomad_cosmetic_2_fundamentalism: "Кочевники Шилук"
- TRZ_nomad_cosmetic_2_fundamentalism: "Кочевники Трарза"
- TUG_nomad_cosmetic_2_fundamentalism: "Кочевники Кель Эйр"
- BDA_nomad_cosmetic_2_fundamentalism: "Кочевники Банда"
- BAT_nomad_cosmetic_2_fundamentalism: "Кочевники Ботсвана"
- NDE_nomad_cosmetic_2_fundamentalism: "Кочевники Ндебеле"
- SAA_nomad_cosmetic_2_fundamentalism: "Кочевники Саан"
- EQA_nomad_cosmetic_2_fundamentalism: "Кочевники Экватория"
- KRU_nomad_cosmetic_2_fundamentalism: "Кочевники Кру"
- AKA_nomad_cosmetic_2_fundamentalism: "Кочевники Бауле"
- KAB_nomad_cosmetic_2_fundamentalism: "Кочевники Кааба"
- SIN_nomad_cosmetic_2_fundamentalism: "Кочевники Сине"
- SAL_nomad_cosmetic_2_fundamentalism: "Кочевники Салум"
- OYO_nomad_cosmetic_2_fundamentalism: "Кочевники Ойо"
- BMM_nomad_cosmetic_2_fundamentalism: "Кочевники Бамум"
- BET_nomad_cosmetic_2_fundamentalism: "Кочевники Бети"
- BLU_nomad_cosmetic_2_fundamentalism: "Кочевники Булу"
- FNG_nomad_cosmetic_2_fundamentalism: "Кочевники Фанг"
- GBG_nomad_cosmetic_2_fundamentalism: "Кочевники Гбари"
- IJB_nomad_cosmetic_2_fundamentalism: "Кочевники Иджебу"
- GAO_nomad_cosmetic_2_fundamentalism: "Кочевники Гао"
- KON_nomad_cosmetic_2_fundamentalism: "Кочевники Конго"
- KTA_nomad_cosmetic_2_fundamentalism: "Кочевники Кота"
- KTK_nomad_cosmetic_2_fundamentalism: "Кочевники Котоко"
- KUB_nomad_cosmetic_2_fundamentalism: "Кочевники Куба"
- LOA_nomad_cosmetic_2_fundamentalism: "Кочевники Лоанго"
- LUB_nomad_cosmetic_2_fundamentalism: "Кочевники Люба"
- SRA_nomad_cosmetic_2_fundamentalism: "Кочевники Сара-Каба"
- LUN_nomad_cosmetic_2_fundamentalism: "Кочевники Лунда"
- MDR_nomad_cosmetic_2_fundamentalism: "Кочевники Мандара"
- MSG_nomad_cosmetic_2_fundamentalism: "Кочевники Митсого"
- PUN_nomad_cosmetic_2_fundamentalism: "Кочевники Пуну"
- YEK_nomad_cosmetic_2_fundamentalism: "Кочевники Йеке"
- GBY_nomad_cosmetic_2_fundamentalism: "Кочевники Гбайя"
- TEK_nomad_cosmetic_2_fundamentalism: "Кочевники Теке"
- RWD_nomad_cosmetic_2_fundamentalism: "Кочевники Руанда"
- BUR_nomad_cosmetic_2_fundamentalism: "Кочевники Бурунди"
- KRG_nomad_cosmetic_2_fundamentalism: "Кочевники Карангве"
- BUG_nomad_cosmetic_2_fundamentalism: "Кочевники Буганда"
- TIP_nomad_cosmetic_2_fundamentalism: "Кочевники Утетера"
- TTL_nomad_cosmetic_2_fundamentalism: "Кочевники Тетала"
- BKW_nomad_cosmetic_2_fundamentalism: "Лезские Кочевники"
- BKM_nomad_cosmetic_2_fundamentalism: "Кочевники Бюкама"
- NYG_nomad_cosmetic_2_fundamentalism: "Кочевники Нйанве"
- TOR_nomad_cosmetic_2_fundamentalism: "Кочевники Торо"
- BNY_nomad_cosmetic_2_fundamentalism: "Кочевники Уньоро"
- KKY_nomad_cosmetic_2_fundamentalism: "Кочевники Кикуйю"
- LGR_nomad_cosmetic_2_fundamentalism: "Кочевники Лугуру"
- LUO_nomad_cosmetic_2_fundamentalism: "Кочевники Луо"
- MAA_nomad_cosmetic_2_fundamentalism: "Кочевники Масаи"
- MMA_nomad_cosmetic_2_fundamentalism: "Кочевники Меру"
- NYW_nomad_cosmetic_2_fundamentalism: "Кочевники Ньямвези"
- OGD_nomad_cosmetic_2_fundamentalism: "Кланы Даруд"
- SUK_nomad_cosmetic_2_fundamentalism: "Кочевники Сукума"
- TKN_nomad_cosmetic_2_fundamentalism: "Кочевники Туркана"
- UJJ_nomad_cosmetic_2_fundamentalism: "Кочевники Уджиджи"
- SRW_nomad_cosmetic_2_fundamentalism: "Кочевники Сарауак"
- PNG_nomad_cosmetic_2_fundamentalism: "Кочевники Папуа"
- AHR_nomad_cosmetic_2_fundamentalism: "Северно-Герерские Кочевники"
- BTS_nomad_cosmetic_2_fundamentalism: "Кочевники Баротселенд"
- CKW_nomad_cosmetic_2_fundamentalism: "Кочевники Чокве"
- GGL_nomad_cosmetic_2_fundamentalism: "Кочевники Гангела"
- KBD_nomad_cosmetic_2_fundamentalism: "Кочевники Кимбунду"
- LOZ_nomad_cosmetic_2_fundamentalism: "Кочевники Лози"
- OVD_nomad_cosmetic_2_fundamentalism: "Кочевники Овимбунду"
- WYO_nomad_cosmetic_2_fundamentalism: "Кочевники ВаЯо"
- HJZ_nomad_cosmetic_2_fundamentalism: "Кочевники Хиджаз"
- APA_nomad_cosmetic_2_chauvinist_populism: "Племя Апачи"
- NAV_nomad_cosmetic_2_chauvinist_populism: "Племя Навахо"
- CHY_nomad_cosmetic_2_chauvinist_populism: "Племя Шайенн-Арапахо"
- SIX_nomad_cosmetic_2_chauvinist_populism: "Племя Сиу"
- CRW_nomad_cosmetic_2_chauvinist_populism: "Племя Кроу"
- SHO_nomad_cosmetic_2_chauvinist_populism: "Племя Шошоны"
- BFT_nomad_cosmetic_2_chauvinist_populism: "Племя Черноногие"
- NEZ_nomad_cosmetic_2_chauvinist_populism: "Кочевники Не-Персе"
- KAD_nomad_cosmetic_2_chauvinist_populism: "Кочевники Кель Адаг"
- TOG_nomad_cosmetic_2_chauvinist_populism: "Кочевники Тагант"
- # TOG_nomad_cosmetic_2_chauvinist_populism: "Tagant Nomads"
- KHI_nomad_cosmetic_2_chauvinist_populism: "Кочевники Хива"
- BUK_nomad_cosmetic_2_chauvinist_populism: "Кочевники Бухара"
- KOK_nomad_cosmetic_2_chauvinist_populism: "Кочевники Коканд"
- KLT_nomad_cosmetic_2_chauvinist_populism: "Кочевники Калат"
- MRN_nomad_cosmetic_2_chauvinist_populism: "Кочевники Мерина"
- WLL_nomad_cosmetic_2_chauvinist_populism: "Кочевники Валлмапу"
- ORO_nomad_cosmetic_2_chauvinist_populism: "Кочевники Оромо"
- KAG_nomad_cosmetic_2_chauvinist_populism: "Кочевники Ахаггар"
- HER_nomad_cosmetic_2_chauvinist_populism: "Кочевники Гереро"
- OOR_nomad_cosmetic_2_chauvinist_populism: "Кочевники Нама"
- BST_nomad_cosmetic_2_chauvinist_populism: "Кочевники Бастер"
- HMB_nomad_cosmetic_2_chauvinist_populism: "Кочевники Дамара"
- KVG_nomad_cosmetic_2_chauvinist_populism: "Масубия"
- OVB_nomad_cosmetic_2_chauvinist_populism: "Кочевники Овамбо"
- SNS_nomad_cosmetic_2_chauvinist_populism: "Кочевники Сануситы"
- DFR_nomad_cosmetic_2_chauvinist_populism: "Кочевники Дарфур"
- SHK_nomad_cosmetic_2_chauvinist_populism: "Кочевники Шилук"
- TRZ_nomad_cosmetic_2_chauvinist_populism: "Кочевники Трарза"
- TUG_nomad_cosmetic_2_chauvinist_populism: "Кочевники Кель Эйр"
- BDA_nomad_cosmetic_2_chauvinist_populism: "Кочевники Банда"
- BAT_nomad_cosmetic_2_chauvinist_populism: "Кочевники Ботсвана"
- NDE_nomad_cosmetic_2_chauvinist_populism: "Кочевники Ндебеле"
- EQA_nomad_cosmetic_2_chauvinist_populism: "Кочевники Экватория"
- KRU_nomad_cosmetic_2_chauvinist_populism: "Кочевники Кру"
- AKA_nomad_cosmetic_2_chauvinist_populism: "Кочевники Бауле"
- KAB_nomad_cosmetic_2_chauvinist_populism: "Кочевники Кааба"
- SIN_nomad_cosmetic_2_chauvinist_populism: "Кочевники Сине"
- SAL_nomad_cosmetic_2_chauvinist_populism: "Кочевники Салум"
- OYO_nomad_cosmetic_2_chauvinist_populism: "Кочевники Ойо"
- BMM_nomad_cosmetic_2_chauvinist_populism: "Кочевники Бамум"
- BET_nomad_cosmetic_2_chauvinist_populism: "Кочевники Бети"
- BLU_nomad_cosmetic_2_chauvinist_populism: "Кочевники Булу"
- FNG_nomad_cosmetic_2_chauvinist_populism: "Кочевники Фанг"
- GBG_nomad_cosmetic_2_chauvinist_populism: "Кочевники Гбари"
- IJB_nomad_cosmetic_2_chauvinist_populism: "Кочевники Иджебу"
- GAO_nomad_cosmetic_2_chauvinist_populism: "Кочевники Гао"
- KON_nomad_cosmetic_2_chauvinist_populism: "Кочевники Конго"
- KTA_nomad_cosmetic_2_chauvinist_populism: "Кочевники Кота"
- KTK_nomad_cosmetic_2_chauvinist_populism: "Кочевники Котоко"
- KUB_nomad_cosmetic_2_chauvinist_populism: "Кочевники Куба"
- LOA_nomad_cosmetic_2_chauvinist_populism: "Кочевники Лоанго"
- LUB_nomad_cosmetic_2_chauvinist_populism: "Кочевники Люба"
- SRA_nomad_cosmetic_2_chauvinist_populism: "Кочевники Сара-Каба"
- LUN_nomad_cosmetic_2_chauvinist_populism: "Кочевники Лунда"
- MDR_nomad_cosmetic_2_chauvinist_populism: "Кочевники Мандара"
- MSG_nomad_cosmetic_2_chauvinist_populism: "Кочевники Митсого"
- PUN_nomad_cosmetic_2_chauvinist_populism: "Кочевники Пуну"
- YEK_nomad_cosmetic_2_chauvinist_populism: "Кочевники Йеке"
- GBY_nomad_cosmetic_2_chauvinist_populism: "Кочевники Гбайя"
- TEK_nomad_cosmetic_2_chauvinist_populism: "Кочевники Теке"
- RWD_nomad_cosmetic_2_chauvinist_populism: "Кочевники Руанда"
- BUR_nomad_cosmetic_2_chauvinist_populism: "Кочевники Бурунди"
- KRG_nomad_cosmetic_2_chauvinist_populism: "Кочевники Карангве"
- BUG_nomad_cosmetic_2_chauvinist_populism: "Кочевники Буганда"
- TIP_nomad_cosmetic_2_chauvinist_populism: "Кочевники Утетера"
- TTL_nomad_cosmetic_2_chauvinist_populism: "Кочевники Тетала"
- BKW_nomad_cosmetic_2_chauvinist_populism: "Лезские Кочевники"
- BKM_nomad_cosmetic_2_chauvinist_populism: "Кочевники Бюкама"
- NYG_nomad_cosmetic_2_chauvinist_populism: "Кочевники Нйанве"
- TOR_nomad_cosmetic_2_chauvinist_populism: "Кочевники Торо"
- BNY_nomad_cosmetic_2_chauvinist_populism: "Кочевники Уньоро"
- KKY_nomad_cosmetic_2_chauvinist_populism: "Кочевники Кикуйю"
- LGR_nomad_cosmetic_2_chauvinist_populism: "Кочевники Лугуру"
- LUO_nomad_cosmetic_2_chauvinist_populism: "Кочевники Луо"
- MAA_nomad_cosmetic_2_chauvinist_populism: "Кочевники Масаи"
- MMA_nomad_cosmetic_2_chauvinist_populism: "Кочевники Меру"
- NYW_nomad_cosmetic_2_chauvinist_populism: "Кочевники Ньямвези"
- OGD_nomad_cosmetic_2_chauvinist_populism: "Кланы Даруд"
- SUK_nomad_cosmetic_2_chauvinist_populism: "Кочевники Сукума"
- TKN_nomad_cosmetic_2_chauvinist_populism: "Кочевники Туркана"
- UJJ_nomad_cosmetic_2_chauvinist_populism: "Кочевники Уджиджи"
- SRW_nomad_cosmetic_2_chauvinist_populism: "Кочевники Сарауак"
- PNG_nomad_cosmetic_2_chauvinist_populism: "Кочевники Папуа"
- AHR_nomad_cosmetic_2_chauvinist_populism: "Северно-Герерские Кочевники"
- BTS_nomad_cosmetic_2_chauvinist_populism: "Кочевники Баротселенд"
- CKW_nomad_cosmetic_2_chauvinist_populism: "Кочевники Чокве"
- GGL_nomad_cosmetic_2_chauvinist_populism: "Кочевники Гангела"
- KBD_nomad_cosmetic_2_chauvinist_populism: "Кочевники Кимбунду"
- LOZ_nomad_cosmetic_2_chauvinist_populism: "Кочевники Лози"
- OVD_nomad_cosmetic_2_chauvinist_populism: "Кочевники Овимбунду"
- WYO_nomad_cosmetic_2_chauvinist_populism: "Кочевники ВаЯо"
- HJZ_nomad_cosmetic_2_chauvinist_populism: "Кочевники Хиджаз"
+ APA_tribal_cosmetic_1: "Apache Tribes" #NT!
+ NAV_tribal_cosmetic_1: "Navajo Tribes" #NT!
+ CHY_tribal_cosmetic_1: "Cheyenne-Arapaho Tribes" #NT!
+ SIX_tribal_cosmetic_1: "Sioux Tribes" #NT!
+ SHO_tribal_cosmetic_1: "Shoshone Tribes" #NT!
+ BFT_tribal_cosmetic_1: "Blackfoot Tribes" #NT!
+ NEZ_tribal_cosmetic_1: "Nez Percé Tribes" #NT!
+ KAD_tribal_cosmetic_1: "Kel Adagh Tribes" #NT!
+ TOG_tribal_cosmetic_1: "Togo-Be Tribes" #NT!
+ TGN_tribal_cosmetic_1: "Tagant Tribes" #NT!
+ KHI_tribal_cosmetic_1: "Khivia Tribes" #NT!
+ TMS_tribal_cosmetic_1: "Turkmen Tribes" #NT!
+ BUK_tribal_cosmetic_1: "Bukhara Tribes" #NT!
+ KOK_tribal_cosmetic_1: "Kokand Tribes" #NT!
+ KLT_tribal_cosmetic_1: "Kalat Tribes" #NT!
+ MRN_tribal_cosmetic_1: "Merina Tribes" #NT!
+ WLL_tribal_cosmetic_1: "Wallmapu Tribes" #NT!
+ ORO_tribal_cosmetic_1: "Oromo Tribes" #NT!
+ KAG_tribal_cosmetic_1: "Ahaggar Tribes" #NT!
+ HER_tribal_cosmetic_1: "Herero Tribes" #NT!
+ OOR_tribal_cosmetic_1: "Nama Tribes" #NT!
+ BST_tribal_cosmetic_1: "Baster Tribes" #NT!
+ HMB_tribal_cosmetic_1: "Damara Tribes" #NT!
+ KVG_tribal_cosmetic_1: "Masubia Kingdom" #NT!
+ OVB_tribal_cosmetic_1: "Ovambo Tribes" #NT!
+ SNS_tribal_cosmetic_1: "Senussi Tribes" #NT!
+ DFR_tribal_cosmetic_1: "Darfur Tribes" #NT!
+ SHK_tribal_cosmetic_1: "Shiluk Tribes" #NT!
+ TRZ_tribal_cosmetic_1: "Trarza Tribes" #NT!
+ TUG_tribal_cosmetic_1: "Kel Ayr Tribes" #NT!
+ BDA_tribal_cosmetic_1: "Banda Tribes" #NT!
+ BAT_tribal_cosmetic_1: "Tswana Clans" #NT!
+ BMG_tribal_cosmetic_1: "Bamangwato Tribes" #NT!
+ NDE_tribal_cosmetic_1: "Ndebele Tribes" #NT!
+ SAA_tribal_cosmetic_1: "Saan Tribes" #NT!
+ EQA_tribal_cosmetic_1: "Equatoria Tribes" #NT!
+ KRU_tribal_cosmetic_1: "Kru Tribes" #NT!
+ KAB_tribal_cosmetic_1: "Kaabu Tribes" #NT!
+ OYO_tribal_cosmetic_1: "Oyo Tribes" #NT!
+ BMM_tribal_cosmetic_1: "Bamum Kingdom" #NT!
+ BET_tribal_cosmetic_1: "Beti Tribes" #NT!
+ BLU_tribal_cosmetic_1: "Bulu Tribes" #NT!
+ FNG_tribal_cosmetic_1: "Fang Tribes" #NT!
+ GBG_tribal_cosmetic_1: "Wukari Federation" #NT!
+ IJB_tribal_cosmetic_1: "Ijebu Tribes" #NT!
+ GAO_tribal_cosmetic_1: "Gao Tribes" #NT!
+ KON_tribal_cosmetic_1: "Kongo Tribes" #NT!
+ KTA_tribal_cosmetic_1: "Kota Tribes" #NT!
+ KTK_tribal_cosmetic_1: "Kotoko Tribes" #NT!
+ KUB_tribal_cosmetic_1: "Kuba Tribes" #NT!
+ LOA_tribal_cosmetic_1: "Loango Tribes" #NT!
+ LUB_tribal_cosmetic_1: "Luba Tribes" #NT!
+ SRA_tribal_cosmetic_1: "Sara-Kaba Tribes" #NT!
+ LUN_tribal_cosmetic_1: "Lunda Tribes" #NT!
+ MDR_tribal_cosmetic_1: "Mandara Tribes" #NT!
+ MSG_tribal_cosmetic_1: "Mitsogo Tribes" #NT!
+ PUN_tribal_cosmetic_1: "Punu Tribes" #NT!
+ YEK_tribal_cosmetic_1: "Yeke Tribes" #NT!
+ GBY_tribal_cosmetic_1: "Gbaya Tribes" #NT!
+ TEK_tribal_cosmetic_1: "Teke Tribes" #NT!
+ RWD_tribal_cosmetic_1: "Rwanda Tribes" #NT!
+ BUR_tribal_cosmetic_1: "Burundi Tribes" #NT!
+ KRG_tribal_cosmetic_1: "Karangwe Tribes" #NT!
+ BUG_tribal_cosmetic_1: "Buganda Tribes" #NT!
+ TIP_tribal_cosmetic_1: "Utetera Tribes" #NT!
+ TTL_tribal_cosmetic_1: "Tetala Tribes" #NT!
+ BKM_tribal_cosmetic_1: "Bukama Tribes" #NT!
+ NYG_tribal_cosmetic_1: "Nyangwe Tribes" #NT!
+ TOR_tribal_cosmetic_1: "Toro Tribes" #NT!
+ BNY_tribal_cosmetic_1: "Bunyoro Tribes" #NT!
+ KKY_tribal_cosmetic_1: "Kikuyu Tribes" #NT!
+ LGR_tribal_cosmetic_1: "Luguru Tribes" #NT!
+ LUO_tribal_cosmetic_1: "Wanga Kingdom" #NT!
+ MAA_tribal_cosmetic_1: "Maasai Tribes" #NT!
+ MMA_tribal_cosmetic_1: "Kamba Tribes" #NT!
+ NYW_tribal_cosmetic_1: "Nyamwezi Tribes" #NT!
+ OGD_tribal_cosmetic_1: "Darood Clans" #NT!
+ SUK_tribal_cosmetic_1: "Sukuma Tribes" #NT!
+ TKN_tribal_cosmetic_1: "Turkana Tribes" #NT!
+ UJJ_tribal_cosmetic_1: "Ujiji Tribes" #NT!
+ SRW_tribal_cosmetic_1: "Sarawak Tribes" #NT!
+ PNG_tribal_cosmetic_1: "Papua Tribes" #NT!
+ AHR_tribal_cosmetic_1: "Northern Herero Tribes" #NT!
+ BTS_tribal_cosmetic_1: "Makololo Tribes" #NT!
+ CKW_tribal_cosmetic_1: "Chokwe Tribes" #NT!
+ GGL_tribal_cosmetic_1: "Mbunda Kingdom" #NT!
+ KBD_tribal_cosmetic_1: "Kimbundu Tribes" #NT!
+ LOZ_tribal_cosmetic_1: "Bemba Tribes" #NT!
+ OVD_tribal_cosmetic_1: "Ovimbundu Tribes" #NT!
+ WYO_tribal_cosmetic_1: "Yao Kingdoms" #NT!
+ WES_tribal_cosmetic_1: "Sahrawi tribes" #NT!
+ APA_tribal_cosmetic_2: "Apache Tribe" #NT!
+ NAV_tribal_cosmetic_2: "Navajo Tribe" #NT!
+ CHY_tribal_cosmetic_2: "Cheyenne-Arapaho Tribe" #NT!
+ SIX_tribal_cosmetic_2: "Sioux Tribe" #NT!
+ SHO_tribal_cosmetic_2: "Shoshone Tribe" #NT!
+ BFT_tribal_cosmetic_2: "Blackfoot Tribe" #NT!
+ NEZ_tribal_cosmetic_2: "Nez Percé Tribe" #NT!
+ KAD_tribal_cosmetic_2: "Kel Adagh Tribe" #NT!
+ TOG_tribal_cosmetic_2: "Togo-Be Tribe" #NT!
+ TGN_tribal_cosmetic_2: "Tagant Tribe" #NT!
+ KHI_tribal_cosmetic_2: "Khivia Tribe" #NT!
+ BUK_tribal_cosmetic_2: "Bukhara Tribe" #NT!
+ KOK_tribal_cosmetic_2: "Kokand Tribe" #NT!
+ KLT_tribal_cosmetic_2: "Kalat Tribe" #NT!
+ MRN_tribal_cosmetic_2: "Merina Tribe" #NT!
+ WLL_tribal_cosmetic_2: "Wallmapu Tribe" #NT!
+ ORO_tribal_cosmetic_2: "Oromo Tribe" #NT!
+ KAG_tribal_cosmetic_2: "Ahaggar Tribe" #NT!
+ HER_tribal_cosmetic_2: "Herero Tribe" #NT!
+ OOR_tribal_cosmetic_2: "Nama Tribe" #NT!
+ BST_tribal_cosmetic_2: "Baster Tribe" #NT!
+ HMB_tribal_cosmetic_2: "Damara Tribe" #NT!
+ KVG_tribal_cosmetic_2: "Masubia Kingdom" #NT!
+ OVB_tribal_cosmetic_2: "Ovambo Tribe" #NT!
+ SNS_tribal_cosmetic_2: "Senussi Tribe" #NT!
+ DFR_tribal_cosmetic_2: "Darfur Tribe" #NT!
+ SHK_tribal_cosmetic_2: "Shiluk Tribe" #NT!
+ TRZ_tribal_cosmetic_2: "Trarza Tribe" #NT!
+ TUG_tribal_cosmetic_2: "Kel Ayr Tribe" #NT!
+ BDA_tribal_cosmetic_2: "Banda Tribe" #NT!
+ BAT_tribal_cosmetic_2: "Tswana clan union" #NT!
+ BMG_tribal_cosmetic_2: "Bamangwato Tribe" #NT!
+ NDE_tribal_cosmetic_2: "Ndebele Tribe" #NT!
+ SAA_tribal_cosmetic_2: "Saan Tribe" #NT!
+ EQA_tribal_cosmetic_2: "Equatoria Tribe" #NT!
+ KRU_tribal_cosmetic_2: "Kru Tribe" #NT!
+ KAB_tribal_cosmetic_2: "Kaabu Tribe" #NT!
+ OYO_tribal_cosmetic_2: "Oyo Tribe" #NT!
+ BMM_tribal_cosmetic_2: "Bamum Tribe" #NT!
+ BET_tribal_cosmetic_2: "Beti Tribe" #NT!
+ BLU_tribal_cosmetic_2: "Bulu Tribe" #NT!
+ FNG_tribal_cosmetic_2: "Fang Tribe" #NT!
+ GBG_tribal_cosmetic_2: "Wukari Federation" #NT!
+ IJB_tribal_cosmetic_2: "Ijebu Tribe" #NT!
+ GAO_tribal_cosmetic_2: "Gao Tribe" #NT!
+ KON_tribal_cosmetic_2: "Kongo Tribe" #NT!
+ KTA_tribal_cosmetic_2: "Kota Tribe" #NT!
+ KTK_tribal_cosmetic_2: "Kotoko Tribe" #NT!
+ KUB_tribal_cosmetic_2: "Kuba Kingdom" #NT!
+ LOA_tribal_cosmetic_2: "Loango Tribe" #NT!
+ LUB_tribal_cosmetic_2: "Luba Kingdom" #NT!
+ SRA_tribal_cosmetic_2: "Sara-Kaba Tribe" #NT!
+ LUN_tribal_cosmetic_2: "Lunda Tribe" #NT!
+ MDR_tribal_cosmetic_2: "Mandara Tribe" #NT!
+ MSG_tribal_cosmetic_2: "Mitsogo Tribe" #NT!
+ PUN_tribal_cosmetic_2: "Punu Tribe" #NT!
+ YEK_tribal_cosmetic_2: "Yeke Tribe" #NT!
+ GBY_tribal_cosmetic_2: "Gbaya Tribe" #NT!
+ TEK_tribal_cosmetic_2: "Teke Tribe" #NT!
+ RWD_tribal_cosmetic_2: "Rwanda Tribe" #NT!
+ BUR_tribal_cosmetic_2: "Burundi Tribe" #NT!
+ KRG_tribal_cosmetic_2: "Karangwe Tribe" #NT!
+ BUG_tribal_cosmetic_2: "Buganda Tribe" #NT!
+ TIP_tribal_cosmetic_2: "Utetera Tribe" #NT!
+ TTL_tribal_cosmetic_2: "Tetala Tribe" #NT!
+ BKW_tribal_cosmetic_2: "lese Tribe" #NT!
+ BKM_tribal_cosmetic_2: "Bukama Tribe" #NT!
+ NYG_tribal_cosmetic_2: "Nyangwe Tribe" #NT!
+ TOR_tribal_cosmetic_2: "Toro Tribe" #NT!
+ BNY_tribal_cosmetic_2: "Bunyoro Tribe" #NT!
+ KKY_tribal_cosmetic_2: "Kikuyu Tribe" #NT!
+ LGR_tribal_cosmetic_2: "Luguru Tribe" #NT!
+ LUO_tribal_cosmetic_2: "Wanga Kingdom" #NT!
+ MAA_tribal_cosmetic_2: "Maasai Tribe" #NT!
+ MMA_tribal_cosmetic_2: "Kamba Tribe" #NT!
+ NYW_tribal_cosmetic_2: "Nyamwezi Tribe" #NT!
+ OGD_tribal_cosmetic_2: "Darood Clan" #NT!
+ SUK_tribal_cosmetic_2: "Sukuma Tribe" #NT!
+ TKN_tribal_cosmetic_2: "Turkana Tribe" #NT!
+ UJJ_tribal_cosmetic_2: "Ujiji Tribe" #NT!
+ SRW_tribal_cosmetic_2: "Sarawak Tribe" #NT!
+ PNG_tribal_cosmetic_2: "Papua Tribe" #NT!
+ AHR_tribal_cosmetic_2: "Northern Herero Tribe" #NT!
+ BTS_tribal_cosmetic_2: "Makololo Tribe" #NT!
+ CKW_tribal_cosmetic_2: "Chokwe Tribe" #NT!
+ GGL_tribal_cosmetic_2: "Mbunda Kingdom" #NT!
+ KBD_tribal_cosmetic_2: "Kimbundu Tribe" #NT!
+ LOZ_tribal_cosmetic_2: "Lozi Tribe" #NT!
+ OVD_tribal_cosmetic_2: "Ovimbundu Tribe" #NT!
+ WYO_tribal_cosmetic_2: "WaYao Tribe" #NT!
+ WES_tribal_cosmetic_2: "Sahrawis" #NT!
+ HJZ_tribal_cosmetic_2: "Hejaz Tribe" #NT!
+ APA_nomad_cosmetic_2: "Apache Tribe" #NT!
+ NAV_nomad_cosmetic_2: "Navajo Tribe" #NT!
+ CHY_nomad_cosmetic_2: "Cheyenne-Arapaho Tribe" #NT!
+ SIX_nomad_cosmetic_2: "Sioux Tribe" #NT!
+ SHO_nomad_cosmetic_2: "Shoshone Tribe" #NT!
+ BFT_nomad_cosmetic_2: "Blackfoot Tribe" #NT!
+ NEZ_nomad_cosmetic_2: "Nez Percé Tribe" #NT!
+ KAD_nomad_cosmetic_2: "Kel Adagh Nomads" #NT!
+ TOG_nomad_cosmetic_2: "Togo-Be Nomads" #NT!
+ TAG_nomad_cosmetic_2: "Tagant Nomads" #NT!
+ KHI_nomad_cosmetic_2: "Khivia Nomads" #NT!
+ BUK_nomad_cosmetic_2: "Bukhara Nomads" #NT!
+ KOK_nomad_cosmetic_2: "Kokand Nomads" #NT!
+ KLT_nomad_cosmetic_2: "Kalat Nomads" #NT!
+ MRN_nomad_cosmetic_2: "Merina Nomads" #NT!
+ WLL_nomad_cosmetic_2: "Wallmapu Nomads" #NT!
+ ORO_nomad_cosmetic_2: "Oromo Nomads" #NT!
+ KAG_nomad_cosmetic_2: "Ahaggar Nomads" #NT!
+ HER_nomad_cosmetic_2: "Herero Nomads" #NT!
+ OOR_nomad_cosmetic_2: "Nama Nomads" #NT!
+ BST_nomad_cosmetic_2: "Baster Nomads" #NT!
+ HMB_nomad_cosmetic_2: "Damara Nomads" #NT!
+ KVG_nomad_cosmetic_2: "Masubia" #NT!
+ OVB_nomad_cosmetic_2: "Ovambo Nomads" #NT!
+ SNS_nomad_cosmetic_2: "Senussi Nomads" #NT!
+ DFR_nomad_cosmetic_2: "Darfur Nomads" #NT!
+ SHK_nomad_cosmetic_2: "Shiluk Nomads" #NT!
+ TRZ_nomad_cosmetic_2: "Trarza Nomads" #NT!
+ TUG_nomad_cosmetic_2: "Kel Ayr Nomads" #NT!
+ BDA_nomad_cosmetic_2: "Banda Nomads" #NT!
+ BAT_nomad_cosmetic_2: "Batswana Nomads" #NT!
+ NDE_nomad_cosmetic_2: "Ndebele Nomads" #NT!
+ SAA_nomad_cosmetic_2: "Saan Nomads" #NT!
+ EQA_nomad_cosmetic_2: "Equatoria Nomads" #NT!
+ KRU_nomad_cosmetic_2: "Kru Nomads" #NT!
+ AKA_nomad_cosmetic_2: "Baoule Nomads" #NT!
+ KAB_nomad_cosmetic_2: "Kaabu Nomads" #NT!
+ SIN_nomad_cosmetic_2: "Sine Nomads" #NT!
+ SAL_nomad_cosmetic_2: "Saloum Nomads" #NT!
+ OYO_nomad_cosmetic_2: "Oyo Nomads" #NT!
+ BMM_nomad_cosmetic_2: "Bamum Nomads" #NT!
+ BET_nomad_cosmetic_2: "Beti Nomads" #NT!
+ BLU_nomad_cosmetic_2: "Bulu Nomads" #NT!
+ FNG_nomad_cosmetic_2: "Fang Nomads" #NT!
+ GBG_nomad_cosmetic_2: "Gbagyi Nomads" #NT!
+ IJB_nomad_cosmetic_2: "Ijebu Nomads" #NT!
+ GAO_nomad_cosmetic_2: "Gao Nomads" #NT!
+ KON_nomad_cosmetic_2: "Kongo Nomads" #NT!
+ KTA_nomad_cosmetic_2: "Kota Nomads" #NT!
+ KTK_nomad_cosmetic_2: "Kotoko Nomads" #NT!
+ KUB_nomad_cosmetic_2: "Kuba Nomads" #NT!
+ LOA_nomad_cosmetic_2: "Loango Nomads" #NT!
+ LUB_nomad_cosmetic_2: "Luba Nomads" #NT!
+ SRA_nomad_cosmetic_2: "Sara-Kaba Nomads" #NT!
+ LUN_nomad_cosmetic_2: "Lunda Nomads" #NT!
+ MDR_nomad_cosmetic_2: "Mandara Nomads" #NT!
+ MSG_nomad_cosmetic_2: "Mitsogo Nomads" #NT!
+ PUN_nomad_cosmetic_2: "Punu Nomads" #NT!
+ YEK_nomad_cosmetic_2: "Yeke Nomads" #NT!
+ GBY_nomad_cosmetic_2: "Gbaya Nomads" #NT!
+ TEK_nomad_cosmetic_2: "Teke Nomads" #NT!
+ RWD_nomad_cosmetic_2: "Rwanda Nomads" #NT!
+ BUR_nomad_cosmetic_2: "Burundi Nomads" #NT!
+ KRG_nomad_cosmetic_2: "Karangwe Nomads" #NT!
+ BUG_nomad_cosmetic_2: "Buganda Nomads" #NT!
+ TIP_nomad_cosmetic_2: "Utetera Nomads" #NT!
+ TTL_nomad_cosmetic_2: "Tetala Nomads" #NT!
+ BKW_nomad_cosmetic_2: "lese Nomads" #NT!
+ BKM_nomad_cosmetic_2: "Bukama Nomads" #NT!
+ NYG_nomad_cosmetic_2: "Nyangwe Nomads" #NT!
+ TOR_nomad_cosmetic_2: "Toro Nomads" #NT!
+ BNY_nomad_cosmetic_2: "Bunyoro Nomads" #NT!
+ KKY_nomad_cosmetic_2: "Kikuyu Nomads" #NT!
+ LGR_nomad_cosmetic_2: "Luguru Nomads" #NT!
+ LUO_nomad_cosmetic_2: "Luo Nomads" #NT!
+ MAA_nomad_cosmetic_2: "Maasai Nomads" #NT!
+ MMA_nomad_cosmetic_2: "Meru Nomads" #NT!
+ NYW_nomad_cosmetic_2: "Nyamwezi Nomads" #NT!
+ OGD_nomad_cosmetic_2: "Darood Clans" #NT!
+ SUK_nomad_cosmetic_2: "Sukuma Nomads" #NT!
+ TKN_nomad_cosmetic_2: "Turkana Nomads" #NT!
+ UJJ_nomad_cosmetic_2: "Ujiji Nomads" #NT!
+ SRW_nomad_cosmetic_2: "Sarawak Nomads" #NT!
+ PNG_nomad_cosmetic_2: "Papua Nomads" #NT!
+ AHR_nomad_cosmetic_2: "Northern Herero Nomads" #NT!
+ BTS_nomad_cosmetic_2: "Barotseland Nomads" #NT!
+ CKW_nomad_cosmetic_2: "Chokwe Nomads" #NT!
+ GGL_nomad_cosmetic_2: "Ganguela Nomads" #NT!
+ KBD_nomad_cosmetic_2: "Kimbundu Nomads" #NT!
+ LOZ_nomad_cosmetic_2: "Lozi Nomads" #NT!
+ OVD_nomad_cosmetic_2: "Ovimbundu Nomads" #NT!
+ WYO_nomad_cosmetic_2: "WaYao Nomads" #NT!
+ HJZ_nomad_cosmetic_2: "Hejaz Nomads" #NT!
   
  PRS_cosmetic_republic: "Прусская Республика"
  PRS_cosmetic_republic_DEF: "Республика Пруссия"
@@ -1002,6 +444,14 @@
  PRM_Rebels_social_egalitarianism: "Итальянские Революционеры"
  PRM_Rebels_social_egalitarianism_DEF: "Итальянские Революционеры"
  PRM_Rebels_social_egalitarianism_ADJ: "Итальянск."
+  
+ PKH_Rebels_autocracy: "Kazakh Revolution" #NT!
+ PKH_Rebels_autocracy_DEF: "Kazakh Revolution" #NT!
+ PKH_Rebels_autocracy_ADJ: "Kazakh" #NT!
+  
+ PKH_successful_autocracy: "United Kazakhstan" #NT!
+ PKH_successful_autocracy_DEF: "United Kazakhstan" #NT!
+ PKH_successful_autocracy_ADJ: "Kazakh" #NT!
   
  GER_north_confederation_centrism: "Северо-Германская Конфедерация"
  GER_north_confederation_traditional_conservatism: "Северо-Германская Конфедерация"
@@ -1275,6 +725,8 @@
  TRV_ENG_autonomy_puppet_DEF: "Трансвааль"
  TRV_ENG_autonomy_puppet_ADJ: "Трансваальск."
   
+ TRV_rebels: "Republic of Zoutpansberg" #NT!
+  
  OFS_ENG_autonomy_dominion: "Колония Оранжевой Реки"
  OFS_ENG_autonomy_dominion_DEF: "Колония Оранжевой Реки"
  OFS_ENG_autonomy_dominion_ADJ: "Колониальн."
@@ -1347,38 +799,12 @@
  MEC_monarchy_chauvinist_populism_ADJ: "Мексиканск."
  MEC_monarchy_fundamentalism_ADJ: "Мексиканск."
   
- #ENG_centrism: "Колония Трансвааль"
- #ENG_centrism_DEF: "Колония Трансвааль"
- #ENG_centrism_ADJ: "Трансваальск."
- NAT_ENG_autonomy_dominion: "Натал"
- NAT_ENG_autonomy_dominion_DEF: "Натал"
- NAT_ENG_autonomy_dominion_ADJ: "Южно-Африканск."
- NAT_ENG_autonomy_colony: "Натал"
- NAT_ENG_autonomy_colony_DEF: "Натал"
- NAT_ENG_autonomy_colony_ADJ: "Южно-Африканск."
- NAT_ENG_autonomy_puppet: "Натал"
- NAT_ENG_autonomy_puppet_DEF: "Натал"
- NAT_ENG_autonomy_puppet_ADJ: "Южно-Африканск."
- NAT_UK_traditional_conservatism: "Натал"
- NAT_UK_traditional_conservatism_DEF: "Натал"
- NAT_UK_traditional_conservatism_ADJ: "Южно-Африканск."
-  
- #ENG_autocracy: "Колония Трансвааль"
- #ENG_autocracy_DEF: "Колония Трансвааль"
- #ENG_autocracy_ADJ: "Трансваальск."
- ADN_ENG_autonomy_dominion: "Протекторат Аден"
- ADN_ENG_autonomy_dominion_DEF: "Протекторат Аден"
- ADN_ENG_autonomy_dominion_ADJ: "Аденск."
- ADN_ENG_autonomy_colony: "Протекторат Аден"
- ADN_ENG_autonomy_colony_DEF: "Протекторат Аден"
- ADN_ENG_autonomy_colony_ADJ: "Аденск."
- ADN_ENG_autonomy_puppet: "Протекторат Аден"
- ADN_ENG_autonomy_puppet_DEF: "Протекторат Аден"
- ADN_ENG_autonomy_puppet_ADJ: "Аденск."
- ADN_UK_traditional_conservatism: "Протекторат Аден"
- ADN_UK_traditional_conservatism_DEF: "Протекторат Аден"
- ADN_UK_traditional_conservatism_ADJ: "Аденск."
- ADN_subject: "Протекторат Аден"
+ NAT_UK: "Natal" #NT!
+ NAT_UK_DEF: "Natal" #NT!
+ NAT_UK_ADJ: "South African" #NT!
+ GQW_UK: "Griqualand West Colony" #NT!
+ GQW_UK_DEF: "Griqualand West Colony" #NT!
+ GQW_UK_ADJ: "Griqualand West" #NT!
   
  USS_traditional_conservatism: "Соединенные Штаты Стеллаланда"
  USS_traditional_conservatism_DEF: "Соединенные Штаты Стеллаланда"
@@ -1911,9 +1337,6 @@
  CHY_USA_state: "Колорадо"
  CHY_USA_state_DEF: "Колорадо"
  CHY_USA_state_ADJ: "Колорадск."
- CRW_USA_state: "Вайоминг"
- CRW_USA_state_DEF: "Вайоминг"
- CRW_USA_state_ADJ: "Вайомингск."
  BFT_USA_state: "Монтана"
  BFT_USA_state_DEF: "Монтана"
  BFT_USA_state_ADJ: "Монтанск."
@@ -2635,68 +2058,6 @@
  GEO_Mingrelia_anarchism_ADJ: "Мегрельск."
  GEO_Mingrelia_chauvinist_populism_ADJ: "Мегрельск."
  GEO_Mingrelia_fundamentalism_ADJ: "Мегрельск."
-  
- TRV_ENG_dominated_centrism: "Трансвааль"
- TRV_ENG_dominated_traditional_conservatism: "Трансвааль"
- TRV_ENG_dominated_social_egalitarianism: "Трансвааль"
- TRV_ENG_dominated_ideology_radical_socialism: "Трансвааль"
- TRV_ENG_dominated_ideology_social_liberalism: "Трансвааль"
- TRV_ENG_dominated_autocracy: "Трансвааль"
- TRV_ENG_dominated_radical_democracy: "Трансвааль"
- TRV_ENG_dominated_anarchism: "Трансвааль"
- TRV_ENG_dominated_chauvinist_populism: "Трансвааль"
- TRV_ENG_dominated_fundamentalism: "Трансвааль"
- TRV_ENG_dominated_centrism_DEF: "Трансвааль"
- TRV_ENG_dominated_traditional_conservatism_DEF: "Трансвааль"
- TRV_ENG_dominated_social_egalitarianism_DEF: "Трансвааль"
- TRV_ENG_dominated_ideology_radical_socialism_DEF: "Трансвааль"
- TRV_ENG_dominated_ideology_social_liberalism_DEF: "Трансвааль"
- TRV_ENG_dominated_autocracy_DEF: "Трансвааль"
- TRV_ENG_dominated_radical_democracy_DEF: "Трансвааль"
- TRV_ENG_dominated_anarchism_DEF: "Трансвааль"
- TRV_ENG_dominated_chauvinist_populism_DEF: "Трансвааль"
- TRV_ENG_dominated_fundamentalism_DEF: "Трансвааль"
- TRV_ENG_dominated_centrism_ADJ: "Трансваальск."
- TRV_ENG_dominated_traditional_conservatism_ADJ: "Трансваальск."
- TRV_ENG_dominated_social_egalitarianism_ADJ: "Трансваальск."
- TRV_ENG_dominated_ideology_radical_socialism_ADJ: "Трансваальск."
- TRV_ENG_dominated_ideology_social_liberalism_ADJ: "Трансваальск."
- TRV_ENG_dominated_autocracy_ADJ: "Трансваальск."
- TRV_ENG_dominated_radical_democracy_ADJ: "Трансваальск."
- TRV_ENG_dominated_anarchism_ADJ: "Трансваальск."
- TRV_ENG_dominated_chauvinist_populism_ADJ: "Трансваальск."
- TRV_ENG_dominated_fundamentalism_ADJ: "Трансваальск."
-  
- #ENG_centrism: "Колония Трансвааль"
- #ENG_traditional_conservatism: "Колония Трансвааль"
- TRV_ENG_social_egalitarianism: "Колония Трансвааль"
- TRV_ENG_ideology_radical_socialism: "Колония Трансвааль"
- TRV_ENG_ideology_social_liberalism: "Колония Трансвааль"
- #ENG_autocracy: "Колония Трансвааль"
- TRV_ENG_radical_democracy: "Колония Трансвааль"
- TRV_ENG_anarchism: "Колония Трансвааль"
- #ENG_chauvinist_populism: "Колония Трансвааль"
- TRV_ENG_fundamentalism: "Колония Трансвааль"
- #ENG_centrism_DEF: "Колония Трансвааль"
- #ENG_traditional_conservatism_DEF: "Колония Трансвааль"
- TRV_ENG_social_egalitarianism_DEF: "Колония Трансвааль"
- TRV_ENG_ideology_radical_socialism_DEF: "Колония Трансвааль"
- TRV_ENG_ideology_social_liberalism_DEF: "Колония Трансвааль"
- #ENG_autocracy_DEF: "Колония Трансвааль"
- TRV_ENG_radical_democracy_DEF: "Колония Трансвааль"
- TRV_ENG_anarchism_DEF: "Колония Трансвааль"
- #ENG_chauvinist_populism_DEF: "Колония Трансвааль"
- TRV_ENG_fundamentalism_DEF: "Колония Трансвааль"
- #ENG_centrism_ADJ: "Трансваальск."
- #ENG_traditional_conservatism_ADJ: "Трансваальск."
- TRV_ENG_social_egalitarianism_ADJ: "Трансваальск."
- TRV_ENG_ideology_radical_socialism_ADJ: "Трансваальск."
- TRV_ENG_ideology_social_liberalism_ADJ: "Трансваальск."
- #ENG_autocracy_ADJ: "Трансваальск."
- TRV_ENG_radical_democracy_ADJ: "Трансваальск."
- TRV_ENG_anarchism_ADJ: "Трансваальск."
- #ENG_chauvinist_populism_ADJ: "Трансваальск."
- TRV_ENG_fundamentalism_ADJ: "Трансваальск."
   
  LIB_maryland_chauvinist_populism: "Реорганизованный Свободный Штат Мэриленд"
  LIB_maryland_chauvinist_populism_DEF: "Реорганизованный Свободный Штат Мэриленд"
@@ -3713,7 +3074,9 @@
  EASTER_EGG_hangd_Cosmetic_ADJ: "Бит."
   
  NWT_Northwest_Territories_Cosmetic: "Северо-Западные Территории"
- BCO_Hudson_Bay_Columbia_Cosmetic: "Колумбия Гудзонова Залива"
+ BCO_1857_Cosmetic: "Colony of Vancouver and Queen Charlotte's Island" #NT!
+ BCO_1857_Cosmetic_DEF: "The Colony of Vancouver and Queen Charlotte's Island" #NT!
+ BCO_1857_Cosmetic_ADJ: "Vancouverites" #NT!
  BCO_Colony: "Британская Колумбия"
  BCO_Colony_DEF: "Колония Британская Колумбия"
  BCO_Colony_ADJ: "Британско-Колумбийск."
@@ -3919,3 +3282,17 @@
  MIN_Dakota: "Территория Дакота"
  MIN_Dakota_ADJ: "Дакотск."
  MIN_Dakota_DEF: "Территория Дакота"
+  
+ TRV_ENG_dominated: "Transvaal Colony" #NT!
+ TRV_ENG_dominated_ADJ: "Transvaal" #NT!
+ TRV_ENG_dominated_DEF: "Colony of Transvaal" #NT!
+  
+ BAH: "Bahia" #NT!
+ BAH_ADJ: "Baiano" #NT!
+ BAH_DEF: "Bahia de Todos os Santos" #NT!
+  
+ AFR_tribes_central: "Central African Tribes" #NT!
+ AFR_tribes_south: "South African Tribes" #NT!
+ AFR_tribes_east: "East African Tribes" #NT!
+ AFR_tribes_west: "West African Tribes" #NT!
+ AFR_tribes_sahara: "Sahara African Tribes" #NT!

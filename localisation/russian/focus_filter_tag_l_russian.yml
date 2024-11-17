@@ -1,6 +1,7 @@
 ﻿l_russian:
  ######## 
  FOCUS_FILTER_HISTORICAL: "Историч."
+ FOCUS_FILTER_ALTHISTORY: "Альтернативно Историч."
  FOCUS_FILTER_MILITARY: "Армия"
  FOCUS_FILTER_NAVY: "Флот"
  FOCUS_FILTER_ANARCHISM: "Анархизм"
@@ -13,7 +14,6 @@
  FOCUS_FILTER_SOCIAL_LIBERALISM: "Социал-Либерализм"
  FOCUS_FILTER_TRAD_CONSERV: "Традиционный Консерватизм"
  FOCUS_FILTER_COMMUNISM: "Авангардный Коммунизм"
- FOCUS_FILTER_ALTHISTORY: "Альтернативно Историч."
  FOCUS_FILTER_DIPLOMACY: "Дипломатия"
  ######## 
  FOCUS_FILTER_POLITICAL: "Политика"

@@ -75,7 +75,6 @@
  MANAGE_OCCUPIED_TERRITORIES_HEADER: "Чужая территория"
  MANAGE_EXILED_GOVERNMENTS: "Правительства в изгнании"
  SHOW_EXILED_STATUS: "Статус изгнания"
- SHOW_EXILED_STATUS_LEGITIMACY: "Легитимность: $VALUE|0H$"
  SHOW_COLLABORATIONS: "Сотрудничество"
  SHOW_EXILED_COLLABORATORS: "В ссылке / коллаборационисты"
  POLITICAL_RESEARCH_BONUS_ENTRY: "$CATEGORY$: $FACTOR|=+0%$"
@@ -117,7 +116,7 @@
  REMOVE_IDEA_ARMY_XP: "§RУ вас недостаточно §Hопыта армии§!, чтобы удалить эту идею.\nСтоимость удаления (£pol_power): $VALUE|0$§!"
  POLITICS_GOAL_LEADS_TO: "§TОткрывает будущие цели:§!"
  POLITICS_GOAL_LEADS_TO_ENTRY: "$GOAL|Y$"
-  MANAGE_GOVERNMENT_DESC: "Меняйте законы, нанимайте или увольняйте министров, заказывайте исследования компаниям. Большинство этих действий будут оплачиваться §Yзаконодательной властью§!."
+ MANAGE_GOVERNMENT_DESC: "Меняйте законы, нанимайте или увольняйте министров, заказывайте исследования компаниям. Большинство этих действий будут оплачиваться §Yзаконодательной властью§!."
  POLITICS_JUSTIFY_WARGOAL: "§T$OWNER|H$ оправдывает цель войны $TYPE|H$ против: $TARGET|H$§!"
  POLITICS_TIMEDACTIVITY_PROGRESS: ": $PROGRESS|1Y%$"
  POLITICS_TIMEDACTIVITY_WARGOAL_PROGRESS: "§T$TYPE|H$: выполнено $PROGRESS|1H%$§!"
@@ -184,5 +183,6 @@
  IDEA_COST_COMPACT_NAVY_XP: "£navy_experience $VALUE|0$"
   
  italian_music_popular: "Популярная Итальянская Музыка"
+ POL_OTHERS_DRIFT: "В связи с изменениями в других партиях: $VAL$"
   
  POLITICS_UCT_LEADER_DESC: "Эта земля без претензий и либо малонаселена несколькими местными племенами, либо вообще не заселена."
