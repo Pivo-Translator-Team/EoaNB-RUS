@@ -8,5 +8,5 @@ dependencies={
 }
 name="Официальный Русификатор End of a New Beginning"
 picture="thumbnail.png"
-supported_version="1.14.*"
+supported_version="1.15.*"
 remote_file_id="2876997486"
