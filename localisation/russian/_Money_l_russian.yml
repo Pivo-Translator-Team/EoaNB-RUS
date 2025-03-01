@@ -1,254 +1,254 @@
 ﻿l_russian:
  # MONEY SYSTEM # 
  # GUI: 
- MONEY_TOOLTIP: "We currently have §Y[?money|2][GetCurrentSIUnit]§![GetCurrencyTextIcon]. \n--------------\nCurrent balance: [?total_balance_temp|2+=][GetCurrentSIUnit][GetCurrencyTextIcon] \n--------------\nTotal Income ([?income_modifier|2+=%]): [?total_income_temp|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Taxes: [?income_from_our_taxes|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Consumer Goods Factories: [?income_from_our_consumer_goods_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Unused Civilian Factories: [?income_from_our_free_civilian_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Other Sources: [?income_from_other_sources|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n--------------\nTotal Expenses ([?expenses_modifier|2-=%]): [?total_expenses_temp|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Social Spending: [?expenses_from_our_social_spending|2+][GetCurrentSIUnit] \n   Law and Order Spending: [?expenses_from_our_law_spending|2+][GetCurrentSIUnit] \n   Road Maintenance Spending: [?expenses_from_our_road_spending|2+][GetCurrentSIUnit] \n   Navy Spending: [?expenses_from_our_navy_spending|2+][GetCurrentSIUnit] \n   Research and Education Spending: [?expenses_from_our_research_spending|2+][GetCurrentSIUnit] \n   Military Spending: [?expenses_from_our_army_spending|2+][GetCurrentSIUnit] \n   Used Military Factories: [?expenses_from_our_used_mil_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Interests: [?expenses_from_loans|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Other Sources: [?expenses_from_other_sources|2+][GetCurrentSIUnit]" #NT!
- MONEY_TOOLTIP_DELAYED: "Current Loans: §Y[?current_loans_sum|^]§![GetCurrentSIUnit][GetCurrencyTextIcon] \n--------------\nA detailed view on the economy can be found in the economy window in the political tab." #NT!
+ MONEY_TOOLTIP: "В настоящий момент у нас есть §Y[?money|2][GetCurrentSIUnit]§![GetCurrencyTextIcon]. \n--------------\nТекущий баланс: [?total_balance_temp|2+=][GetCurrentSIUnit][GetCurrencyTextIcon] \n--------------\nДоход ([?income_modifier|2+=%]): [?total_income_temp|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Налоги: [?income_from_our_taxes|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Потребительские товары: [?income_from_our_consumer_goods_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Неиспользуемые фабрики: [?income_from_our_free_civilian_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Прочие источники: [?income_from_other_sources|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n--------------\nОбщие расходы ([?expenses_modifier|2-=%]): [?total_expenses_temp|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Социальные расходы: [?expenses_from_our_social_spending|2+][GetCurrentSIUnit] \n   Расходы на правопорядок: [?expenses_from_our_law_spending|2+][GetCurrentSIUnit] \n   Расходы на содержание дорог: [?expenses_from_our_road_spending|2+][GetCurrentSIUnit] \n   Расходы на флот: [?expenses_from_our_navy_spending|2+][GetCurrentSIUnit] \n   Расходы на исследования и образование: [?expenses_from_our_research_spending|2+][GetCurrentSIUnit] \n   Военные расходы: [?expenses_from_our_army_spending|2+][GetCurrentSIUnit] \n   Используемые военные фабрики: [?expenses_from_our_used_mil_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Проценты: [?expenses_from_loans|2+][GetCurrentSIUnit][GetCurrencyTextIcon] \n   Прочие источники: [?expenses_from_other_sources|2+][GetCurrentSIUnit]"
+ MONEY_TOOLTIP_DELAYED: "Текущие займы: §Y[?current_loans_sum|^]§![GetCurrentSIUnit][GetCurrencyTextIcon] \n--------------\nПодробный обзор экономики можно найти в окне экономики на вкладке «Политика»."
   
- MONEY_DIPLOMACY_TOOLTIP: "§Y[FROM.GetNameWithFlag]'s§! treasury is §Y[?THIS.money|2][THIS.GetCurrentSIUnit]§! [THIS.GetCurrencyTextIcon]" #NT!
+ MONEY_DIPLOMACY_TOOLTIP: "Казна §Y[FROM.GetNameWithFlag]'s§! составляет §Y[?THIS.money|2][THIS.GetCurrentSIUnit]§! [THIS.GetCurrencyTextIcon]" #NT!
   
- BUDGET_TOOLTIP_TT: "A detailed view on the economy can be found in the economy window in the political tab." #NT!
- OPEN_ECONOMY_WINDOW_TT: "§GClick§! to open or close the §YEconomy§! view." #NT!
- ECONOMY_WINDOW_TITLE: "Financial Overview" #NT!
- ECONOMY_WINDOW_INCOME_TITLE: "Monthly Income" #NT!
- ECONOMY_WINDOW_EXPENSES_TITLE: "Monthly Expenses" #NT!
+ BUDGET_TOOLTIP_TT: "Подробный обзор экономики можно найти в окне экономики на вкладке «Политика»." #NT!
+ OPEN_ECONOMY_WINDOW_TT: "§GНажмите§!, чтобы открыть или закрыть окно §YЭкономики§!." #NT!
+ ECONOMY_WINDOW_TITLE: "Финансовый обзор" #NT!
+ ECONOMY_WINDOW_INCOME_TITLE: "Ежемесячный доход" #NT!
+ ECONOMY_WINDOW_EXPENSES_TITLE: "Ежемесячные расходы" #NT!
   
- ECONOMY_WINDOW_INCOME_ENTRY_TT_DELAYED: "This value does not include the income modifier. This is applied to the total amount of your income." #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_TT_DELAYED: "This value does not include the expenses modifier. This is applied to the total amount of your expenses." #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_TT_DELAYED: "Это значение не включает модификатор дохода. Он применяется к общей сумме вашего дохода." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_TT_DELAYED: "Это значение не включает модификатор расходов. Он применяется к общей сумме ваших расходов." #NT!
   
- ECONOMY_WINDOW_INCOME_ENTRY_TAXES: "Taxes  |  ([?tax_modifier|2+=%]):" #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_TAXES: "Налоги  |  ([?tax_modifier|2+=%]):" #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_TAXES_VALUE: "[?income_from_our_taxes|2+]" #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_TAXES_TT: "§Y[This.GetNameDefCap]§! currently gains [?income_from_our_taxes|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Ytaxes§! each month. \n----------------\nModified by: [?tax_modifier|2+=%] (capped at §Y-100%§!) \n     Ideas: [?tax_modifier_from_ideas|2+=%] \n     Decisions: [?tax_modifier_from_decisions|2+=%] \n     Other: [?tax_modifier_from_other|2+=%]" #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_TAXES_TT_DELAYED: "Revenue generated by your taxation level is dependant on your §YPopulation§!" #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_TAXES_TT: "§Y[This.GetNameDefCap]§! в настоящее время получает [?income_from_our_taxes|2+][GetCurrentSIUnit][GetCurrencyTextIcon] от §Yналогов§! ежемесячно. \n----------------\nМодификаторы: [?tax_modifier|2+=%] (с учётом ограничения в §Y-100%§!) \n     Национальные духи: [?tax_modifier_from_ideas|2+=%] \n     Решения: [?tax_modifier_from_decisions|2+=%] \n     Прочее: [?tax_modifier_from_other|2+=%]" #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_TAXES_TT_DELAYED: "Доход от налогов зависит от уровня налогообложения и вашей §YПопуляции§!" #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_ICON_1_TT: "§Y[This.GetTaxationLevelName]:§! \n[!income_entry_taxes_slider_icon_1_click]" #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_ICON_2_TT: "§Y[This.GetTaxationLevelName]:§! \n[!income_entry_taxes_slider_icon_2_click]" #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_ICON_3_TT: "§Y[This.GetTaxationLevelName]:§! \n[!income_entry_taxes_slider_icon_3_click]" #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_ICON_4_TT: "§Y[This.GetTaxationLevelName]:§! \n[!income_entry_taxes_slider_icon_4_click]" #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_ICON_5_TT: "§Y[This.GetTaxationLevelName]:§! \n[!income_entry_taxes_slider_icon_5_click]" #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentTaxationLevelName]§! is the currently selected level." #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_ICON_TT_DELAYED: "To change the §YTaxation Level§!, click one of the two arrow buttons to its side." #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentTaxationLevelName]§! — текущий выбранный уровень." #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_ICON_TT_DELAYED: "Чтобы изменить §Yуровень налогообложения§!, нажмите одну из двух кнопок со стрелками по бокам." #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_LEFT_BUTTON_TT: "[This.GetTaxesSliderButtonLeftTooltip]" #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_taxes_slider_left_button_click]" #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_taxes_slider_left_button_click]" #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_RIGHT_BUTTON_TT: "[This.GetTaxesSliderButtonRightTooltip]" #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_taxes_slider_right_button_click]" #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_CONSUMER_GOODS: "Consumer Goods Factories  |  ([?consumer_goods_modifier|2+=%]):" #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_TAXES_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_taxes_slider_right_button_click]" #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_CONSUMER_GOODS: "Потребительские товары  |  ([?consumer_goods_modifier|2+=%]):" #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_CONSUMER_GOODS_VALUE: "[?income_from_our_consumer_goods_factories|2+]" #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_CONSUMER_GOODS_TT: "§Y[This.GetNameDefCap]§! currently gains [?income_from_our_consumer_goods_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Yconsumer goods factories§! each month. \n----------------\nModified by: [?consumer_goods_modifier|2+=%] (capped at §Y-100%§!) \n     Ideas: [?consumer_goods_modifier_from_ideas|2+=%] \n     Decisions: [?consumer_goods_modifier_from_decisions|2+=%] \n     Other: [?consumer_goods_modifier_from_other|2+=%]" #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_UNUSED_CIVILIAN_FACTORIES: "Unused Civilian Factories:" #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_CONSUMER_GOODS_TT: "§Y[This.GetNameDefCap]§! в настоящее время получает [?income_from_our_consumer_goods_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon] от §Yпотребительских товаров§! ежемесячно. \n----------------\nМодификаторы: [?consumer_goods_modifier|2+=%] (с учётом ограничения в §Y-100%§!) \n     Национальные духи: [?consumer_goods_modifier_from_ideas|2+=%] \n     Решения: [?consumer_goods_modifier_from_decisions|2+=%] \n     Прочее: [?consumer_goods_modifier_from_other|2+=%]" #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_UNUSED_CIVILIAN_FACTORIES: "Неиспользуемые фабрики:" #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_UNUSED_CIVILIAN_FACTORIES_VALUE: "[?income_from_our_free_civilian_factories|2+]" #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_UNUSED_CIVILIAN_FACTORIES_TT: "§Y[This.GetNameDefCap]§! currently gains [?income_from_our_free_civilian_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Yunused civilian factories§! each month." #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_OTHER: "Other Sources:" #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_UNUSED_CIVILIAN_FACTORIES_TT: "§Y[This.GetNameDefCap]§! в настоящее время получает [?income_from_our_free_civilian_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon] от §Yнеиспользуемых гражданских фабрик§! ежемесячно." #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_OTHER: "Прочие источники:" #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_OTHER_VALUE: "[?income_from_other_sources|2+]" #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_OTHER_TT: "§Y[This.GetNameDefCap]§! currently gains [?income_from_other_sources|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Yother sources§! each month." #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_SUBSIDY: "Subsidies:" #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_OTHER_TT: "§Y[This.GetNameDefCap]§! в настоящее время получает [?income_from_other_sources|2+][GetCurrentSIUnit][GetCurrencyTextIcon] от §Yпрочих источников§! ежемесячно." #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_SUBSIDY: "Субсидии:" #NT!
  ECONOMY_WINDOW_INCOME_ENTRY_SUBSIDY_VALUE: "[?income_from_subsidy_sources|2+]" #NT!
- ECONOMY_WINDOW_INCOME_ENTRY_SUBSIDY_TT: "§Y[This.GetNameDefCap]§! currently gains [?income_from_subsidy_sources|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Ysubsidies§! each month." #NT!
+ ECONOMY_WINDOW_INCOME_ENTRY_SUBSIDY_TT: "§Y[This.GetNameDefCap]§! в настоящее время получает [?income_from_subsidy_sources|2+][GetCurrentSIUnit][GetCurrencyTextIcon] от §Yсубсидий§! ежемесячно." #NT!
   
- ECONOMY_WINDOW_TOTAL_INCOME_ENTRY: "Total Income  |  ([?income_modifier|2+=%]):" #NT!
+ ECONOMY_WINDOW_TOTAL_INCOME_ENTRY: "Общий доход  |  ([?income_modifier|2+=%]):" #NT!
  ECONOMY_WINDOW_TOTAL_INCOME_ENTRY_VALUE: "[?total_income_temp|2+]" #NT!
- ECONOMY_WINDOW_TOTAL_INCOME_ENTRY_TT: "The total income of §Y[This.GetNameDef]§! amounts to [?total_income_temp|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  per month." #NT!
- ECONOMY_WINDOW_TOTAL_INCOME_ENTRY_TT_DELAYED: "Modified by: [?income_modifier|2+=%] (capped at §Y-100%§!) \n     Ideas: [?income_modifier_from_ideas|2+=%] \n     Decisions: [?income_modifier_from_decisions|2+=%] \n     Other: [?income_modifier_from_other|2+=%]" #NT!
+ ECONOMY_WINDOW_TOTAL_INCOME_ENTRY_TT: "Общий доход §Y[This.GetNameDef]§! составляет [?total_income_temp|2+][GetCurrentSIUnit][GetCurrencyTextIcon] в месяц." #NT!
+ ECONOMY_WINDOW_TOTAL_INCOME_ENTRY_TT_DELAYED: "Модификаторы: [?income_modifier|2+=%] (с учётом ограничения в §Y-100%§!) \n     Национальные духи: [?income_modifier_from_ideas|2+=%] \n     Решения: [?income_modifier_from_decisions|2+=%] \n     Прочее: [?income_modifier_from_other|2+=%]" #NT!
   
- ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING: "Social Spending  |  ([?social_spending_cost_modifier|2-=%]):" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING: "Социальные расходы  |  ([?social_spending_cost_modifier|2-=%]):" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_VALUE: "[?expenses_from_our_social_spending|2+]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_TT: "§Y[This.GetNameDefCap]§! currently loses [?expenses_from_our_social_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Ysocial spending§! each month. \n----------------\nModified by: [?social_spending_cost_modifier|2-=%] (capped at §Y-100%§!) \n     Ideas: [?social_spending_cost_modifier_from_ideas|2-=%] \n     Decisions: [?social_spending_cost_modifier_from_decisions|2-=%] \n     Other: [?social_spending_cost_modifier_from_other|2-=%]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_TT: "§Y[This.GetNameDefCap]§! в настоящее время теряет [?expenses_from_our_social_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon] из-за §Yсоциальных расходов§! ежемесячно. \n----------------\nМодификаторы: [?social_spending_cost_modifier|2-=%] (с учётом ограничения в §Y-100%§!) \n     Национальные духи: [?social_spending_cost_modifier_from_ideas|2-=%] \n     Решения: [?social_spending_cost_modifier_from_decisions|2-=%] \n     Прочее: [?social_spending_cost_modifier_from_other|2-=%]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_ICON_1_TT: "§Y[This.GetSocialSpendingLevelName]:§! \n[!income_entry_social_spending_slider_icon_1_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_ICON_2_TT: "§Y[This.GetSocialSpendingLevelName]:§! \n[!income_entry_social_spending_slider_icon_2_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_ICON_3_TT: "§Y[This.GetSocialSpendingLevelName]:§! \n[!income_entry_social_spending_slider_icon_3_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_ICON_4_TT: "§Y[This.GetSocialSpendingLevelName]:§! \n[!income_entry_social_spending_slider_icon_4_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_ICON_5_TT: "§Y[This.GetSocialSpendingLevelName]:§! \n[!income_entry_social_spending_slider_icon_5_click]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentSocialSpendingLevelName]§! is the currently selected level." #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_ICON_TT_DELAYED: "To change the §YSocial Spending Level§!, click one of the two arrow buttons to its side." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentSocialSpendingLevelName]§! — текущий выбранный уровень." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_ICON_TT_DELAYED: "Чтобы изменить §Yуровень социальных расходов§!, нажмите одну из двух кнопок со стрелками по бокам." #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_LEFT_BUTTON_TT: "[This.GetSocialSpendingSliderButtonLeftTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_social_spending_slider_left_button_click]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_social_spending_slider_left_button_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_RIGHT_BUTTON_TT: "[This.GetSocialSpendingSliderButtonRightTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_social_spending_slider_right_button_click]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING: "Military Spending  |  ([?army_spending_cost_modifier|2-=%]):" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_SOCIAL_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_social_spending_slider_right_button_click]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING: "Военные расходы  |  ([?army_spending_cost_modifier|2-=%]):" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_VALUE: "[?expenses_from_our_army_spending|2+]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_TT: "§Y[This.GetNameDefCap]§! currently loses [?expenses_from_our_army_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Yarmy spending§! each month. \n----------------\nModified by: [?army_spending_cost_modifier|2-=%] (capped at §Y-100%§!) \n     Ideas: [?army_spending_cost_modifier_from_ideas|2-=%] \n     Decisions: [?army_spending_cost_modifier_from_decisions|2-=%] \n     Other: [?army_spending_cost_modifier_from_other|2-=%]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_TT: "§Y[This.GetNameDefCap]§! в настоящее время теряет [?expenses_from_our_army_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon] из-за §Yвоенных расходов§! ежемесячно. \n----------------\nМодификаторы: [?army_spending_cost_modifier|2-=%] (с учётом ограничения в §Y-100%§!) \n     Национальные духи: [?army_spending_cost_modifier_from_ideas|2-=%] \n     Решения: [?army_spending_cost_modifier_from_decisions|2-=%] \n     Прочее: [?army_spending_cost_modifier_from_other|2-=%]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_ICON_1_TT: "§Y[This.GetArmySpendingLevelName]:§! \n[!income_entry_army_spending_slider_icon_1_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_ICON_2_TT: "§Y[This.GetArmySpendingLevelName]:§! \n[!income_entry_army_spending_slider_icon_2_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_ICON_3_TT: "§Y[This.GetArmySpendingLevelName]:§! \n[!income_entry_army_spending_slider_icon_3_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_ICON_4_TT: "§Y[This.GetArmySpendingLevelName]:§! \n[!income_entry_army_spending_slider_icon_4_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_ICON_5_TT: "§Y[This.GetArmySpendingLevelName]:§! \n[!income_entry_army_spending_slider_icon_5_click]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentArmySpendingLevelName]§! is the currently selected level." #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_ICON_TT_DELAYED: "To change the §YMilitary Spending Level§!, click one of the two arrow buttons to its side." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentArmySpendingLevelName]§! — текущий выбранный уровень." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_ICON_TT_DELAYED: "Чтобы изменить §Yуровень военных расходов§!, нажмите одну из двух кнопок со стрелками по бокам." #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_LEFT_BUTTON_TT: "[This.GetArmySpendingSliderButtonLeftTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_army_spending_slider_left_button_click]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_army_spending_slider_left_button_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_RIGHT_BUTTON_TT: "[This.GetArmySpendingSliderButtonRightTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_army_spending_slider_right_button_click]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING: "Research and Education Spending  |  ([?research_spending_cost_modifier|2-=%]):" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ARMY_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_army_spending_slider_right_button_click]"  #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING: "Расходы на исследования и образование  |  ([?research_spending_cost_modifier|2-=%]):" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_VALUE: "[?expenses_from_our_research_spending|2+]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_TT: "§Y[This.GetNameDefCap]§! currently loses [?expenses_from_our_research_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Yresearch and education spending§! each month. \n----------------\nModified by: [?research_spending_cost_modifier|2-=%] (capped at §Y-100%§!) \n     Ideas: [?research_spending_cost_modifier_from_ideas|2-=%] \n     Decisions: [?research_spending_cost_modifier_from_decisions|2-=%] \n     Other: [?research_spending_cost_modifier_from_other|2-=%]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_TT: "§Y[This.GetNameDefCap]§! в настоящее время теряет [?expenses_from_our_research_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon] из-за §Yрасходов на исследования и образование§! ежемесячно. \n----------------\nМодификаторы: [?research_spending_cost_modifier|2-=%] (с учётом ограничения в §Y-100%§!) \n     Национальные духи: [?research_spending_cost_modifier_from_ideas|2-=%] \n     Решения: [?research_spending_cost_modifier_from_decisions|2-=%] \n     Прочее: [?research_spending_cost_modifier_from_other|2-=%]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_ICON_1_TT: "§Y[This.GetResearchSpendingLevelName]:§! \n[!income_entry_research_spending_slider_icon_1_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_ICON_2_TT: "§Y[This.GetResearchSpendingLevelName]:§! \n[!income_entry_research_spending_slider_icon_2_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_ICON_3_TT: "§Y[This.GetResearchSpendingLevelName]:§! \n[!income_entry_research_spending_slider_icon_3_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_ICON_4_TT: "§Y[This.GetResearchSpendingLevelName]:§! \n[!income_entry_research_spending_slider_icon_4_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_ICON_5_TT: "§Y[This.GetResearchSpendingLevelName]:§! \n[!income_entry_research_spending_slider_icon_5_click]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentResearchSpendingLevelName]§! is the currently selected level." #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_ICON_TT_DELAYED: "To change the §YResearch and Education Spending Level§!, click one of the two arrow buttons to its side." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentResearchSpendingLevelName]§! — текущий выбранный уровень." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_ICON_TT_DELAYED: "Чтобы изменить §Yуровень расходов на образование и исследования§!, нажмите одну из двух кнопок со стрелками по бокам." #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_LEFT_BUTTON_TT: "[This.GetResearchSpendingSliderButtonLeftTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_research_spending_slider_left_button_click]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_research_spending_slider_left_button_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_RIGHT_BUTTON_TT: "[This.GetResearchSpendingSliderButtonRightTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_research_spending_slider_right_button_click]" #NT!
- ECONOMY_WINDOW_EXPENSES_USED_MILITARY_FACTORIES: "Used Military Factories:" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_RESEARCH_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_research_spending_slider_right_button_click]" #NT!
+ ECONOMY_WINDOW_EXPENSES_USED_MILITARY_FACTORIES: "Используемые военные фабрики:" #NT!
  ECONOMY_WINDOW_EXPENSES_USED_MILITARY_FACTORIES_VALUE: "[?expenses_from_our_used_mil_factories|2+]" #NT!
- ECONOMY_WINDOW_EXPENSES_USED_MILITARY_FACTORIES_TT: "§Y[This.GetNameDefCap]§! currently loses [?expenses_from_our_used_mil_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Yused military factories§! each month." #NT!
- ECONOMY_WINDOW_EXPENSES_INTERESTS: "Interest Payments:" #NT!
+ ECONOMY_WINDOW_EXPENSES_USED_MILITARY_FACTORIES_TT: "§Y[This.GetNameDefCap]§! в настоящее время теряет [?expenses_from_our_used_mil_factories|2+][GetCurrentSIUnit][GetCurrencyTextIcon] из-за §Yиспользуемых военных фабрик§! ежемесячно." #NT!
+ ECONOMY_WINDOW_EXPENSES_INTERESTS: "Выплаты процентов:" #NT!
  ECONOMY_WINDOW_EXPENSES_INTERESTS_VALUE: "[?expenses_from_loans|2+]" #NT!
- ECONOMY_WINDOW_EXPENSES_INTERESTS_TT: "§Y[This.GetNameDefCap]§! currently loses [?expenses_from_loans|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  on §Yloan interest§! each month." #NT!
- ECONOMY_WINDOW_EXPENSES_OTHER: "Other Sources:" #NT!
+ ECONOMY_WINDOW_EXPENSES_INTERESTS_TT: "§Y[This.GetNameDefCap]§! в настоящее время теряет [?expenses_from_loans|2+][GetCurrentSIUnit][GetCurrencyTextIcon] на §Yвыплату процентов по займам§! ежемесячно." #NT!
+ ECONOMY_WINDOW_EXPENSES_OTHER: "Прочие расходы:" #NT!
  ECONOMY_WINDOW_EXPENSES_OTHER_VALUE: "[?expenses_from_other_sources|2+]" #NT!
- ECONOMY_WINDOW_EXPENSES_OTHER_TT: "§Y[This.GetNameDefCap]§! currently loses [?expenses_from_other_sources|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Yother sources§! each month." #NT!
- ECONOMY_WINDOW_EXPENSES_SUBSIDY: "Subsidizing:" #NT!
+ ECONOMY_WINDOW_EXPENSES_OTHER_TT: "§Y[This.GetNameDefCap]§! в настоящее время теряет [?expenses_from_other_sources|2+][GetCurrentSIUnit][GetCurrencyTextIcon] из-за §Yпрочих расходов§! ежемесячно." #NT!
+ ECONOMY_WINDOW_EXPENSES_SUBSIDY: "Субсидирование:" #NT!
  ECONOMY_WINDOW_EXPENSES_SUBSIDY_VALUE: "[?expenses_from_subsidy_sources|2+]" #NT!
- ECONOMY_WINDOW_EXPENSES_SUBSIDY_TT: "§Y[This.GetNameDefCap]§! currently loses [?expenses_from_subsidy_sources|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Ysubsidizing§! each month." #NT!
-  
- ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING: "Law and Order Spending  |  ([?law_spending_cost_modifier|2-=%]):" #NT!
+ ECONOMY_WINDOW_EXPENSES_SUBSIDY_TT: "§Y[This.GetNameDefCap]§! в настоящее время теряет [?expenses_from_subsidy_sources|2+][GetCurrentSIUnit][GetCurrencyTextIcon] из-за §Yсубсидирования§! ежемесячно." #NT!
+
+ ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING: "Расходы на правопорядок  |  ([?law_spending_cost_modifier|2-=%]):" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_VALUE: "[?expenses_from_our_law_spending|2+]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_TT: "§Y[This.GetNameDefCap]§! currently loses [?expenses_from_our_law_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Ylaw spending§! each month. \n----------------\nModified by: [?law_spending_cost_modifier|2-=%] (capped at §Y-100%§!) \n     Ideas: [?law_spending_cost_modifier_from_ideas|2-=%] \n     Decisions: [?law_spending_cost_modifier_from_decisions|2-=%] \n     Other: [?law_spending_cost_modifier_from_other|2-=%]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_TT: "§Y[This.GetNameDefCap]§! в настоящее время теряет [?expenses_from_our_law_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon] из-за §Yрасходов на правопорядок§! ежемесячно. \n----------------\nМодификаторы: [?law_spending_cost_modifier|2-=%] (с учётом ограничения в §Y-100%§!) \n     Национальные духи: [?law_spending_cost_modifier_from_ideas|2-=%] \n     Решения: [?law_spending_cost_modifier_from_decisions|2-=%] \n     Прочее: [?law_spending_cost_modifier_from_other|2-=%]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_ICON_1_TT: "§Y[This.GetLawSpendingLevelName]:§! \n[!income_entry_law_spending_slider_icon_1_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_ICON_2_TT: "§Y[This.GetLawSpendingLevelName]:§! \n[!income_entry_law_spending_slider_icon_2_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_ICON_3_TT: "§Y[This.GetLawSpendingLevelName]:§! \n[!income_entry_law_spending_slider_icon_3_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_ICON_4_TT: "§Y[This.GetLawSpendingLevelName]:§! \n[!income_entry_law_spending_slider_icon_4_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_ICON_5_TT: "§Y[This.GetLawSpendingLevelName]:§! \n[!income_entry_law_spending_slider_icon_5_click]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentLawSpendingLevelName]§! is the currently selected level." #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_ICON_TT_DELAYED: "To change the §YLaw Spending Level§!, click one of the two arrow buttons to its side." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentLawSpendingLevelName]§! — текущий выбранный уровень." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_ICON_TT_DELAYED: "Чтобы изменить §Yуровень расходов на правопорядок§!, нажмите одну из двух кнопок со стрелками по бокам." #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_LEFT_BUTTON_TT: "[This.GetLawSpendingSliderButtonLeftTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_law_spending_slider_left_button_click]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_law_spending_slider_left_button_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_RIGHT_BUTTON_TT: "[This.GetLawSpendingSliderButtonRightTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_law_spending_slider_right_button_click]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_LAW_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_law_spending_slider_right_button_click]" #NT!
   
- ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING: "Road Maintenance Spending  |  ([?road_spending_cost_modifier|2-=%]):" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING: "Расходы на содержание дорог  |  ([?road_spending_cost_modifier|2-=%]):" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_VALUE: "[?expenses_from_our_road_spending|2+]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_TT: "§Y[This.GetNameDefCap]§! currently loses [?expenses_from_our_road_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Yroad spending§! each month. \n----------------\nModified by: [?road_spending_cost_modifier|2-=%] (capped at §Y-100%§!) \n     Ideas: [?road_spending_cost_modifier_from_ideas|2-=%] \n     Decisions: [?road_spending_cost_modifier_from_decisions|2-=%] \n     Other: [?road_spending_cost_modifier_from_other|2-=%]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_TT: "§Y[This.GetNameDefCap]§! в настоящее время теряет [?expenses_from_our_road_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon] из-за §Yрасходов на содержание дорог§! ежемесячно. \n----------------\nМодификаторы: [?road_spending_cost_modifier|2-=%] (с учётом ограничения в §Y-100%§!) \n     Национальные духи: [?road_spending_cost_modifier_from_ideas|2-=%] \n     Решения: [?road_spending_cost_modifier_from_decisions|2-=%] \n     Прочее: [?road_spending_cost_modifier_from_other|2-=%]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_ICON_1_TT: "§Y[This.GetRoadSpendingLevelName]:§! \n[!income_entry_road_spending_slider_icon_1_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_ICON_2_TT: "§Y[This.GetRoadSpendingLevelName]:§! \n[!income_entry_road_spending_slider_icon_2_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_ICON_3_TT: "§Y[This.GetRoadSpendingLevelName]:§! \n[!income_entry_road_spending_slider_icon_3_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_ICON_4_TT: "§Y[This.GetRoadSpendingLevelName]:§! \n[!income_entry_road_spending_slider_icon_4_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_ICON_5_TT: "§Y[This.GetRoadSpendingLevelName]:§! \n[!income_entry_road_spending_slider_icon_5_click]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentRoadSpendingLevelName]§! is the currently selected level." #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_ICON_TT_DELAYED: "To change the §YRoad Spending Level§!, click one of the two arrow buttons to its side." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentRoadSpendingLevelName]§! — текущий выбранный уровень." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_ICON_TT_DELAYED: "Чтобы изменить §Yуровень расходов на дороги§!, нажмите одну из двух кнопок со стрелками по бокам." #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_LEFT_BUTTON_TT: "[This.GetRoadSpendingSliderButtonLeftTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_road_spending_slider_left_button_click]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_road_spending_slider_left_button_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_RIGHT_BUTTON_TT: "[This.GetRoadSpendingSliderButtonRightTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_road_spending_slider_right_button_click]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_ROAD_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_road_spending_slider_right_button_click]" #NT!
   
- ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING: "Navy Spending  |  ([?navy_spending_cost_modifier|2-=%]):" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING: "Расходы на флот  |  ([?navy_spending_cost_modifier|2-=%]):" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_VALUE: "[?expenses_from_our_navy_spending|2+]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_TT: "§Y[This.GetNameDefCap]§! currently loses [?expenses_from_our_navy_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  from §Ynavy spending§! each month. \n----------------\nModified by: [?navy_spending_cost_modifier|2-=%] (capped at §Y-100%§!) \n     Ideas: [?navy_spending_cost_modifier_from_ideas|2-=%] \n     Decisions: [?navy_spending_cost_modifier_from_decisions|2-=%] \n     Other: [?navy_spending_cost_modifier_from_other|2-=%]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_TT: "§Y[This.GetNameDefCap]§! в настоящее время теряет [?expenses_from_our_navy_spending|2+][GetCurrentSIUnit][GetCurrencyTextIcon] из-за §Yрасходов на флот§! ежемесячно. \n----------------\nМодификаторы: [?navy_spending_cost_modifier|2-=%] (с учётом ограничения в §Y-100%§!) \n     Национальные духи: [?navy_spending_cost_modifier_from_ideas|2-=%] \n     Решения: [?navy_spending_cost_modifier_from_decisions|2-=%] \n     Прочее: [?navy_spending_cost_modifier_from_other|2-=%]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_ICON_1_TT: "§Y[This.GetNavySpendingLevelName]:§! \n[!income_entry_navy_spending_slider_icon_1_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_ICON_2_TT: "§Y[This.GetNavySpendingLevelName]:§! \n[!income_entry_navy_spending_slider_icon_2_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_ICON_3_TT: "§Y[This.GetNavySpendingLevelName]:§! \n[!income_entry_navy_spending_slider_icon_3_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_ICON_4_TT: "§Y[This.GetNavySpendingLevelName]:§! \n[!income_entry_navy_spending_slider_icon_4_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_ICON_5_TT: "§Y[This.GetNavySpendingLevelName]:§! \n[!income_entry_navy_spending_slider_icon_5_click]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentNavySpendingLevelName]§! is the currently selected level." #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_ICON_TT_DELAYED: "To change the §YNavy Spending Level§!, click one of the two arrow buttons to its side." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_ICON_ACTIVE_TT: "--------------\n§Y[This.GetCurrentNavySpendingLevelName]§! — текущий выбранный уровень." #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_ICON_TT_DELAYED: "Чтобы изменить §Yуровень расходов на флот§!, нажмите одну из двух кнопок со стрелками по бокам." #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_LEFT_BUTTON_TT: "[This.GetNavySpendingSliderButtonLeftTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_navy_spending_slider_left_button_click]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_LEFT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_navy_spending_slider_left_button_click]" #NT!
  ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_RIGHT_BUTTON_TT: "[This.GetNavySpendingSliderButtonRightTooltip]" #NT!
- ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YThis would have the following effects:§! \n[!income_entry_navy_spending_slider_right_button_click]" #NT!
+ ECONOMY_WINDOW_EXPENSES_ENTRY_NAVY_SPENDING_SLIDER_RIGHT_BUTTON_TT_DELAYED: "§YЭто приведёт к следующим последствиям:§! \n[!income_entry_navy_spending_slider_right_button_click]" #NT!
   
- ECONOMY_WINDOW_TOTAL_EXPENSES_ENTRY: "Total Expenses ([?expenses_modifier|2-=%]):" #NT!
+ ECONOMY_WINDOW_TOTAL_EXPENSES_ENTRY: "Общие расходы ([?expenses_modifier|2-=%]):" #NT!
  ECONOMY_WINDOW_TOTAL_EXPENSES_ENTRY_VALUE: "[?total_expenses_temp|2+]" #NT!
- ECONOMY_WINDOW_TOTAL_EXPENSES_ENTRY_TT: "The total expenses of §Y[This.GetNameDef]§! amount to [?total_expenses_temp|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  per month." #NT!
- ECONOMY_WINDOW_TOTAL_EXPENSES_ENTRY_TT_DELAYED: "Modified by: [?expenses_modifier|2-=%] (capped at §Y-100%§!) \n     Inflation: [?current_inflation|2-=%] \n     Ideas: [?expenses_modifier_from_ideas|2-=%] \n     Decisions: [?expenses_modifier_from_decisions|2-=%] \n     Other: [?expenses_modifier_from_other|2-=%]" #NT!
-  
- ECONOMY_WINDOW_BALANCE_ENTRY: "§YFinal Monthly Balance§!" #NT!
+ ECONOMY_WINDOW_TOTAL_EXPENSES_ENTRY_TT: "Общие расходы §Y[This.GetNameDef]§! составляют [?total_expenses_temp|2+][GetCurrentSIUnit][GetCurrencyTextIcon] в месяц." #NT!
+ ECONOMY_WINDOW_TOTAL_EXPENSES_ENTRY_TT_DELAYED: "Модификаторы: [?expenses_modifier|2-=%] (с учётом ограничения в §Y-100%§!) \n     Инфляция: [?current_inflation|2-=%] \n     Национальные духи: [?expenses_modifier_from_ideas|2-=%] \n     Решения: [?expenses_modifier_from_decisions|2-=%] \n     Прочее: [?expenses_modifier_from_other|2-=%]" #NT!
+
+ ECONOMY_WINDOW_BALANCE_ENTRY: "§YИтоговый месячный баланс§!" #NT!
  ECONOMY_WINDOW_BALANCE_ENTRY_VALUE: "[?total_balance_temp|2+=]" #NT!
- ECONOMY_WINDOW_BALANCE_ENTRY_TT: "The balance of §Y[This.GetNameDef]§! amounts to [?total_balance_temp|2+=][GetCurrentSIUnit][GetCurrencyTextIcon]  per month." #NT!
-  
- ECONOMY_WINDOW_TREASURY_ENTRY: "§YTotal Treasury§!" #NT!
+ ECONOMY_WINDOW_BALANCE_ENTRY_TT: "Баланс §Y[This.GetNameDef]§! составляет [?total_balance_temp|2+=][GetCurrentSIUnit][GetCurrencyTextIcon] в месяц." #NT!
+
+ ECONOMY_WINDOW_TREASURY_ENTRY: "§YОбщая казна§!" #NT!
  ECONOMY_WINDOW_TREASURY_ENTRY_VALUE: "[?money|2+=]" #NT!
- ECONOMY_WINDOW_TREASURY_ENTRY_TT: "The treasury of §Y[This.GetNameDef]§! amounts to [?money|2+=][GetCurrentSIUnit][GetCurrencyTextIcon]  stored." #NT!
+ ECONOMY_WINDOW_TREASURY_ENTRY_TT: "Казна §Y[This.GetNameDef]§! содержит [?money|2+=][GetCurrentSIUnit][GetCurrencyTextIcon]." #NT!
   
- ECONOMY_WINDOW_LOANS_ENTRY: "Current Loans" #NT!
+ ECONOMY_WINDOW_LOANS_ENTRY: "Текущие займы" #NT!
  ECONOMY_WINDOW_LOANS_ENTRY_VALUE: "[?current_loans_sum|^0-]" #NT!
- ECONOMY_WINDOW_LOANS_ENTRY_TT: "§Y[This.GetNameDefCap]§! currently has §Y[?current_loans_sum|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]  loaned." #NT!
- ECONOMY_WINDOW_LOANS_ENTRY_TT_DELAYED: "The interest rate lies at §Y0.1%§!, which means we have to pay [?expenses_from_loans|2+][GetCurrentSIUnit][GetCurrencyTextIcon]  in interests currently." #NT!
- ECONOMY_WINDOW_PAY_LOAN_BUTTON_TEXT: "Pay Loan" #NT!
- ECONOMY_WINDOW_PAY_LOAN_BUTTON_TT: "§YPay Loan§! \n§LPaying a loan will cost us [GetCurrencyTextIcon], but it will decrease the amount of interest we have to pay.§! \n\n§YPrerequisites:§! \n[!pay_loan_button_click_enabled]" #NT!
- ECONOMY_WINDOW_PAY_LOAN_BUTTON_TT_DELAYED: "§GClick§! to repay §Y1.00§![GetCurrentSIUnit][GetCurrencyTextIcon]. \n§GShift + click§! to repay §Y[?possible_max_money_to_repay|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]." #NT!
- ECONOMY_WINDOW_TAKE_LOAN_BUTTON_TEXT: "Take Loan" #NT!
- ECONOMY_WINDOW_TAKE_LOAN_BUTTON_TT: "§YTake Loan§! \n§LTaking a loan will give us [GetCurrencyTextIcon]  right away, however it will also increase our inflation and require us to pay the interest until the loan is paid off. \nLoans are automatically taken if we have a negative amount of money at the end of the month.§! \n\n§YPrerequisites per loan:§! \n[!take_loan_button_click_enabled] \n§YEffects per loan:§! \n[!take_loan_button_click]" #NT!
- ECONOMY_WINDOW_TAKE_LOAN_BUTTON_TT_DELAYED: "§GClick§! to take §Y1§! loan. \n§GCtrl + click§! to take §Y10§! loans. \n§GShift + click§! to take §Y50§! loans." #NT!
+ ECONOMY_WINDOW_LOANS_ENTRY_TT: "§Y[This.GetNameDefCap]§! в настоящее время имеет §Y[?current_loans_sum|2]§![GetCurrentSIUnit][GetCurrencyTextIcon] в виде займов." #NT!
+ ECONOMY_WINDOW_LOANS_ENTRY_TT_DELAYED: "Процентная ставка составляет §Y0.1%§!, что означает, что нам необходимо выплачивать [?expenses_from_loans|2+][GetCurrentSIUnit][GetCurrencyTextIcon] в качестве процентов." #NT!
+ ECONOMY_WINDOW_PAY_LOAN_BUTTON_TEXT: "Погасить займ" #NT!
+ ECONOMY_WINDOW_PAY_LOAN_BUTTON_TT: "§YПогасить займ§! \n§LПогашение займа обойдётся нам в [GetCurrencyTextIcon], но снизит сумму выплачиваемых процентов.§! \n\n§YТребования:§! \n[!pay_loan_button_click_enabled]" #NT!
+ ECONOMY_WINDOW_PAY_LOAN_BUTTON_TT_DELAYED: "§GНажмите§!, чтобы погасить §Y1.00§![GetCurrentSIUnit][GetCurrencyTextIcon]. \n§GShift + нажмите§!, чтобы погасить §Y[?possible_max_money_to_repay|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]." #NT!
+ ECONOMY_WINDOW_TAKE_LOAN_BUTTON_TEXT: "Взять займ" #NT!
+ ECONOMY_WINDOW_TAKE_LOAN_BUTTON_TT: "§YВзять займ§! \n§LВзятие займа сразу предоставит нам [GetCurrencyTextIcon], однако это также увеличит инфляцию и обяжет нас выплачивать проценты до полного погашения займа. \nЗаймы автоматически берутся, если у нас отрицательный баланс в конце месяца.§! \n\n§YТребования для каждого займа:§! \n[!take_loan_button_click_enabled] \n§YЭффекты каждого займа:§! \n[!take_loan_button_click]" #NT!
+ ECONOMY_WINDOW_TAKE_LOAN_BUTTON_TT_DELAYED: "§GНажмите§!, чтобы взять §Y1§! займ. \n§GCtrl + нажмите§!, чтобы взять §Y10§! займов. \n§GShift + нажмите§!, чтобы взять §Y50§! займов." #NT!
   
- ECONOMY_WINDOW_INFLATION_ENTRY: "Current Inflation" #NT!
+ ECONOMY_WINDOW_INFLATION_ENTRY: "Текущая инфляция" #NT!
  ECONOMY_WINDOW_INFLATION_ENTRY_VALUE: "[?current_inflation|2-=%]" #NT!
- ECONOMY_WINDOW_INFLATION_ENTRY_TT: "§Y[This.GetNameDefCap]§! currently has an inflation of [?current_inflation|2-=%]." #NT!
- ECONOMY_WINDOW_INFLATION_ENTRY_TT_DELAYED: "Daily Change: [?daily_inflation_change|2-=%] \n----------------\nModified by: [?daily_inflation_change_factor_display|2=%Y] (capped at §Y-100%§!) \n     Ideas: [?daily_inflation_change_factor_from_ideas|2=%Y] \n     Decisions: [?daily_inflation_change_factor_from_decisions|2=%Y] \n     Other: [?daily_inflation_change_factor_from_other|2=%Y]" #NT!
+ ECONOMY_WINDOW_INFLATION_ENTRY_TT: "§Y[This.GetNameDefCap]§! в настоящее время имеет инфляцию на уровне [?current_inflation|2-=%]." #NT!
+ ECONOMY_WINDOW_INFLATION_ENTRY_TT_DELAYED: "Ежедневное изменение: [?daily_inflation_change|2-=%] \n----------------\nМодификаторы: [?daily_inflation_change_factor_display|2=%Y] (с учётом ограничения в §Y-100%§!) \n     Национальные духи: [?daily_inflation_change_factor_from_ideas|2=%Y] \n     Решения: [?daily_inflation_change_factor_from_decisions|2=%Y] \n     Прочее: [?daily_inflation_change_factor_from_other|2=%Y]" #NT!
   
- RESEARCH_TAB_RESEARCH_LEVEL_INFORMATION_TT: "Our current §YResearch and Education Level§! is §G[This.GetCurrentResearchSpendingLevelName]§!." #NT!
- RESEARCH_TAB_RESEARCH_LEVEL_INFORMATION_TT_DELAYED: "§YThis has the following effects:§! \n[!research_level_button_click]" #NT!
+ RESEARCH_TAB_RESEARCH_LEVEL_INFORMATION_TT: "Наш текущий §Yуровень исследований и образования§! — §G[This.GetCurrentResearchSpendingLevelName]§!." #NT!
+ RESEARCH_TAB_RESEARCH_LEVEL_INFORMATION_TT_DELAYED: "§YЭто оказывает следующие эффекты:§! \n[!research_level_button_click]" #NT!
   
- AUTOMATIC_LOAN_POPUP_WINDOW_TITLE: "New Loan Taken" #NT!
- AUTOMATIC_LOAN_POPUP_WINDOW_DESC: "Our financial situation required us to take §Y[?automatic_loan_amount]§! loans automatically. \n\nWe now have a total amount of §Y[?current_loans_sum|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]  loaned." #NT!
-  
- BANKRUPTCY_POPUP_WINDOW_TITLE: "Bankruptcy" #NT!
- BANKRUPTCY_POPUP_WINDOW_DESC: "§R\n\nOur economy has totally collapsed. \n\nWe have no choice but to declare bankruptcy!§!" #NT!
+ AUTOMATIC_LOAN_POPUP_WINDOW_TITLE: "Новый займ взят автоматически" #NT!
+ AUTOMATIC_LOAN_POPUP_WINDOW_DESC: "Наша финансовая ситуация вынудила нас автоматически взять §Y[?automatic_loan_amount]§! займов. \n\nТеперь у нас общий долг составляет §Y[?current_loans_sum|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]." #NT!
+
+ BANKRUPTCY_POPUP_WINDOW_TITLE: "Банкротство" #NT!
+ BANKRUPTCY_POPUP_WINDOW_DESC: "§R\n\nНаша экономика полностью рухнула. \n\nУ нас нет другого выбора, кроме как объявить банкротство!§!" #NT!
  BANKRUPTCY_POPUP_WINDOW_TT: "[!ok_button_click]" #NT!
   
   # Scripted Effects: 
- CANNOT_LOWER_TAXATION_LEVEL_TT: "§RWe already have the lowest §YTaxation Level§! possible.§W\n\n" #NT!
- CANNOT_INCREASE_TAXATION_LEVEL_TT: "§RWe already have the highest §YTaxation Level§! possible.§W\n\n" #NT!
- CANNOT_LOWER_SOCIAL_SPENDING_LEVEL_TT: "§RWe already have the lowest §YSocial Spending Level§! possible.§W\n\n" #NT!
- CANNOT_INCREASE_SOCIAL_SPENDING_LEVEL_TT: "§RWe already have the highest §YSocial Spending Level§! possible.§W\n\n" #NT!
- CANNOT_LOWER_ARMY_SPENDING_LEVEL_TT: "§RWe already have the lowest §YMilitary Spending Level§! possible.§W\n\n" #NT!
- CANNOT_INCREASE_ARMY_SPENDING_LEVEL_TT: "§RWe already have the highest §YMilitary Spending Level§! possible.§W\n\n" #NT!
- CANNOT_LOWER_NAVY_SPENDING_LEVEL_TT: "§RWe already have the highest §YNavy Spending Level§! possible.§W\n\n" #NT!
- CANNOT_INCREASE_NAVY_SPENDING_LEVEL_TT: "§RWe already have the highest §YNavy Spending Level§! possible.§W\n\n" #NT!
- CANNOT_LOWER_ROAD_SPENDING_LEVEL_TT: "§RWe already have the highest §YRoad Spending Level§! possible.§W\n\n" #NT!
- CANNOT_INCREASE_ROAD_SPENDING_LEVEL_TT: "§RWe already have the highest §YRoad Spending Level§! possible.§W\n\n" #NT!
- CANNOT_LOWER_LAW_SPENDING_LEVEL_TT: "§RWe already have the highest §YLaw Spending Level§! possible.§W\n\n" #NT!
- CANNOT_INCREASE_LAW_SPENDING_LEVEL_TT: "§RWe already have the highest §YLaw Spending Level§! possible.§W\n\n" #NT!
- CANNOT_LOWER_RESEARCH_SPENDING_LEVEL_TT: "§RWe already have the lowest §YResearch and Education Spending Level§! possible.§W\n\n" #NT!
- CANNOT_INCREASE_RESEARCH_SPENDING_LEVEL_TT: "§RWe already have the highest §YResearch and Education Spending Level§! possible.§W\n\n" #NT!
- GAIN_MONEY_TT: "Gain [?money_to_gain|2+][GetCurrentSIUnit][GetCurrencyTextIcon].\n" #NT!
- LOSE_MONEY_TT: "Lose [?money_to_gain|2+][GetCurrentSIUnit][GetCurrencyTextIcon].\n" #NT!
- GAIN_INFLATION_TT: "Gain [?inflation_to_gain|2-=%] inflation.\n" #NT!
- LOSE_INFLATION_TT: "Lose [?inflation_to_gain|2-=%] inflation.\n" #NT!
- SET_UNEMPLOYMENT_EFFECT_TT: "Set the [This.GetAdjective] §Yunemployment§! to §Y[?unemployment_value|%2]§!.\n" #NT!
- ADD_UNEMPLOYMENT_EFFECT_TT: "The [This.GetAdjective] §Yunemployment§! is changed by [?unemployment_value|%2-=].\n" #NT!
- CHANGE_UNEMPLOYMENT_VALUE_MODIFIER_TT: "Change the impact of §Yunemployment§! (currently [?current_value|-2%=]) by [?modifier_value|-2%=].\n" #NT!
- TAKE_LOAN_EFFECT_TT: "Take §Y[?loans_amount|0]§! loans. \n§YEffects per loan:§! \n" #NT!
+ CANNOT_LOWER_TAXATION_LEVEL_TT: "§RМы уже достигли самого низкого §Yуровня налогообложения§! из возможных.§W\n\n" #NT!
+ CANNOT_INCREASE_TAXATION_LEVEL_TT: "§RМы уже достигли самого высокого §Yуровня налогообложения§! из возможных.§W\n\n" #NT!
+ CANNOT_LOWER_SOCIAL_SPENDING_LEVEL_TT: "§RМы уже достигли самого низкого §Yуровня социальных расходов§! из возможных.§W\n\n" #NT!
+ CANNOT_INCREASE_SOCIAL_SPENDING_LEVEL_TT: "§RМы уже достигли самого высокого §Yуровня социальных расходов§! из возможных.§W\n\n" #NT!
+ CANNOT_LOWER_ARMY_SPENDING_LEVEL_TT: "§RМы уже достигли самого низкого §Yуровня военных расходов§! из возможных.§W\n\n" #NT!
+ CANNOT_INCREASE_ARMY_SPENDING_LEVEL_TT: "§RМы уже достигли самого высокого §Yуровня военных расходов§! из возможных.§W\n\n" #NT!
+ CANNOT_LOWER_NAVY_SPENDING_LEVEL_TT: "§RМы уже достигли самого низкого §Yуровня расходов на флот§! из возможных.§W\n\n" #NT!
+ CANNOT_INCREASE_NAVY_SPENDING_LEVEL_TT: "§RМы уже достигли самого высокого §Yуровня расходов на флот§! из возможных.§W\n\n" #NT!
+ CANNOT_LOWER_ROAD_SPENDING_LEVEL_TT: "§RМы уже достигли самого низкого §Yуровня расходов на дороги§! из возможных.§W\n\n" #NT!
+ CANNOT_INCREASE_ROAD_SPENDING_LEVEL_TT: "§RМы уже достигли самого высокого §Yуровня расходов на дороги§! из возможных.§W\n\n" #NT!
+ CANNOT_LOWER_LAW_SPENDING_LEVEL_TT: "§RМы уже достигли самого низкого §Yуровня расходов на правопорядок§! из возможных.§W\n\n" #NT!
+ CANNOT_INCREASE_LAW_SPENDING_LEVEL_TT: "§RМы уже достигли самого высокого §Yуровня расходов на правопорядок§! из возможных.§W\n\n" #NT!
+ CANNOT_LOWER_RESEARCH_SPENDING_LEVEL_TT: "§RМы уже достигли самого низкого §Yуровня расходов на исследования и образование§! из возможных.§W\n\n" #NT!
+ CANNOT_INCREASE_RESEARCH_SPENDING_LEVEL_TT: "§RМы уже достигли самого высокого §Yуровня расходов на исследования и образование§! из возможных.§W\n\n" #NT!
+ GAIN_MONEY_TT: "Получено [?money_to_gain|2+][GetCurrentSIUnit][GetCurrencyTextIcon].\n" #NT!
+ LOSE_MONEY_TT: "Потеряно [?money_to_gain|2+][GetCurrentSIUnit][GetCurrencyTextIcon].\n" #NT!
+ GAIN_INFLATION_TT: "Инфляция увеличена на [?inflation_to_gain|2-=%].\n" #NT!
+ LOSE_INFLATION_TT: "Инфляция снижена на [?inflation_to_gain|2-=%].\n" #NT!
+ SET_UNEMPLOYMENT_EFFECT_TT: "Уровень §Yбезработицы§! в [This.GetAdjective] установлен на §Y[?unemployment_value|%2]§!.\n" #NT!
+ ADD_UNEMPLOYMENT_EFFECT_TT: "Уровень §Yбезработицы§! в [This.GetAdjective] изменён на [?unemployment_value|%2-=].\n" #NT!
+ CHANGE_UNEMPLOYMENT_VALUE_MODIFIER_TT: "Изменено влияние §Yбезработицы§! (текущий уровень: [?current_value|-2%=]) на [?modifier_value|-2%=].\n" #NT!
+ TAKE_LOAN_EFFECT_TT: "Взять §Y[?loans_amount|0]§! займов. \n§YЭффекты каждого займа:§! \n" #NT!
   
   # Scripted Triggers: 
- HAS_TAKEN_A_LOAN: "Has taken a loan" #NT!
- HAS_SPECIFIC_LOAN_SIZE: "Has at least loaned §Y[?loan_size_to_check|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
- HAS_LESS_THAN_SPECIFIC_LOAN_SIZE: "Has less loaned than §Y[?loan_size_to_check|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
- HAS_SPECIFIC_AMOUNT_OF_MONEY: "Has at least §Y[?amount_of_money_to_check|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
- HAS_LESS_THAN_SPECIFIC_AMOUNT_OF_MONEY: "Has less than §Y[?amount_of_money_to_check|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
- HAS_AT_LEAST_UNEMPLOYMENT_VALUE_TT: "Has an unemployment of at least §Y[?unemployment_value|2%]§! (currently §Y[?current_unemployment|2%]§!)" #NT!
- HAS_LESS_THAN_UNEMPLOYMENT_VALUE_TT: "Has an unemployment of less than §Y[?unemployment_value|2%]§! (currently §Y[?current_unemployment|2%]§!)" #NT!
- HAS_BALANCE_IN_NEGATIVE: "Has balance in negatives" #NT!
- HAS_BALANCE_IN_POSITIVE: "Has balance in positive" #NT!
+ HAS_TAKEN_A_LOAN: "Взял займ" #NT!
+ HAS_SPECIFIC_LOAN_SIZE: "Взял как минимум §Y[?loan_size_to_check|2]§![GetCurrentSIUnit][GetCurrencyTextIcon] в долг" #NT!
+ HAS_LESS_THAN_SPECIFIC_LOAN_SIZE: "Взял в долг менее §Y[?loan_size_to_check|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
+ HAS_SPECIFIC_AMOUNT_OF_MONEY: "Имеет как минимум §Y[?amount_of_money_to_check|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
+ HAS_LESS_THAN_SPECIFIC_AMOUNT_OF_MONEY: "Имеет менее §Y[?amount_of_money_to_check|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
+ HAS_AT_LEAST_UNEMPLOYMENT_VALUE_TT: "Уровень безработицы составляет как минимум §Y[?unemployment_value|2%]§! (текущий уровень: §Y[?current_unemployment|2%]§!)" #NT!
+ HAS_LESS_THAN_UNEMPLOYMENT_VALUE_TT: "Уровень безработицы составляет менее §Y[?unemployment_value|2%]§! (текущий уровень: §Y[?current_unemployment|2%]§!)" #NT!
+ HAS_BALANCE_IN_NEGATIVE: "Баланс в отрицательном значении" #NT!
+ HAS_BALANCE_IN_POSITIVE: "Баланс в положительном значении" #NT!
   
  decision_cost_money: "§Y[?amount_of_money_to_check|0]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
  decision_cost_money_blocked: "§R[?amount_of_money_to_check|0]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
   # Decisions: 
- Inflation_category: "Inflation Management" #NT!
+ Inflation_category: "Управление инфляцией" #NT!
   
  eoanb_category_economic: "Экономические Решения"
- eoanb_category_economic_desc: "\n\n\n£decision_header_GENERIC_Unemployment£\n\n\n\nThe rise in §Runemployment§! within our country has become a persistent issue, demanding our attention. Despite various efforts, the job market has remained unstable for an extended period. The consequences have been felt nationwide, affecting the employment prospects and financial security of our citizens over an extended duration.\n\nWhile the situation persists, there are indications that the worst of the unemployment challenge may be behind us. However, the recovery has been disappointingly sluggish and has not yielded substantial benefits to anyone. To invigorate our §Cjob market§!, strengthen our §Cfinancial institutions§!, and §Cenhance our infrastructure§!, we must be prepared to take decisive and §Ycomprehensive measures§!.\n\nAny solution we propose will require considerable political support and adequate funding, making it essential to proceed judiciously. Mismanaging this issue could further §Rstrain§! our economy and undermine §Rpublic confidence§!.\n\nIrrespective of the approach we decide upon, acting swiftly is crucial to prevent the situation from §Rworsening§!.\n\nCurrent Unemployment: §Y[?current_unemployment|2%]§! \nCurrent Unemployment Impact: [This.GetCurrentUnemploymentImpact]" #NT!
+ eoanb_category_economic_desc: "\n\n\n£decision_header_GENERIC_Unemployment£\n\n\n\nРост §Rбезработицы§! в нашей стране стал затяжной проблемой, требующей нашего внимания. Несмотря на различные усилия, рынок труда остаётся нестабильным уже продолжительное время. Последствия ощутили все: перспективы трудоустройства и финансовая безопасность граждан остаются под угрозой.\n\nХотя ситуация по-прежнему сложная, есть признаки того, что худший этап кризиса безработицы остался позади. Однако восстановление идёт слишком медленно и пока не принесло значительных результатов. Чтобы оживить наш §Cрынок труда§!, укрепить §Cфинансовые институты§! и §Cулучшить инфраструктуру§!, мы должны быть готовы к решительным и §Yкомплексным мерам§!.\n\nЛюбое предлагаемое решение потребует значительной политической поддержки и достаточного финансирования, поэтому действовать следует взвешенно. Ошибки в управлении этим вопросом могут ещё больше §Rослабить§! экономику и подорвать §Rобщественное доверие§!.\n\nКакой бы путь мы ни выбрали, действовать нужно быстро, чтобы предотвратить дальнейшее §Rухудшение§! ситуации.\n\nТекущий уровень безработицы: §Y[?current_unemployment|2%]§! \nТекущие последствия безработицы: [This.GetCurrentUnemploymentImpact]" #NT!
   
- can_become_bankrupt_mission: "Menacing Bankruptcy" #NT!
- can_become_bankrupt_mission_desc: "We are in a catastrophical economic situation, we have taken too many loans so that our interest rate is higher than our current income. We have to change this within the next §Y[?months_mission_timeout@can_become_bankrupt_mission]§! months or we will have to declare ourselves §Rbankrupt§!." #NT!
- can_become_bankrupt_at_war_mission: "Menacing Bankruptcy" #NT!
- can_become_bankrupt_at_war_mission_desc: "We are in a catastrophical economic situation, we have taken too many loans so that our interest rate is higher than our current income. We have to change this within the next §Y[?months_mission_timeout@can_become_bankrupt_at_war_mission]§! months or we will have to declare ourselves §Rbankrupt§!." #NT!
+ can_become_bankrupt_mission: "Грозит банкротство" #NT!
+ can_become_bankrupt_mission_desc: "Мы находимся в катастрофическом экономическом положении — мы взяли слишком много займов, и теперь процентные выплаты превышают наш текущий доход. Нам необходимо исправить эту ситуацию в течение §Y[?months_mission_timeout@can_become_bankrupt_mission]§! месяцев, иначе нам придётся объявить §Rбанкротство§!." #NT!
+ can_become_bankrupt_at_war_mission: "Грозит банкротство" #NT!
+ can_become_bankrupt_at_war_mission_desc: "Мы находимся в катастрофическом экономическом положении — мы взяли слишком много займов, и теперь процентные выплаты превышают наш текущий доход. Нам необходимо исправить эту ситуацию в течение §Y[?months_mission_timeout@can_become_bankrupt_at_war_mission]§! месяцев, иначе нам придётся объявить §Rбанкротство§!." #NT!
   
- reduce_inflation: "Deflation Measures" #NT!
- reduce_inflation_desc: "Taking major strides to reduce our inflation rate will help us curb our debt and regular prices to citizens." #NT!
-  
- print_money: "Issue Currency" #NT!
- print_money_desc: "Printing money will take some time and will increase our inflation rate, but might be an acceptable option to gain some desperately needed capital." #NT!
-  
- create_public_works: "Create Public Works" #NT!
- create_public_works_desc: "Injecting significant government funds into our national industrial base will allow for the creation of a new factory area somewhere within our borders." #NT!
-  
- REMOVE_ALL_LOANS_GET_RID_OF_DEBTS: "All active §Yloans§! are removed. \nSet [GetCurrentSIUnit][GetCurrencyTextIcon]  to §Y0.00§!. \nInflation is set to §Y0.00%§!\n\n" #NT!
+ reduce_inflation: "Меры по снижению инфляции" #NT!
+ reduce_inflation_desc: "Принятие решительных мер по снижению уровня инфляции поможет нам сократить долг и стабилизировать цены для граждан." #NT!
+
+ print_money: "Эмиссия валюты" #NT!
+ print_money_desc: "Печать денег займёт некоторое время и приведёт к росту инфляции, но может быть оправданной мерой для получения столь необходимого капитала." #NT!
+
+ create_public_works: "Создание общественных работ" #NT!
+ create_public_works_desc: "Вливание значительных государственных средств в национальную промышленную базу позволит создать новый промышленный район в пределах наших границ." #NT!
+
+ REMOVE_ALL_LOANS_GET_RID_OF_DEBTS: "Все активные §Yзаймы§! аннулированы. \nБаланс [GetCurrentSIUnit][GetCurrencyTextIcon] установлен на §Y0.00§!. \nИнфляция установлена на §Y0.00%§!\n\n" #NT!
   
  CREATE_PUBLIC_WORKS_CUSTOM_COST_TEXT: "§Y[?amount_of_money_to_check|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
  CREATE_PUBLIC_WORKS_CUSTOM_COST_TEXT_blocked: "§R[?amount_of_money_to_check|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
- HAS_MORE_INCOME_THAN_LOAN_EXPENSES: "Has a higher total income (currently §Y[?total_income_temp|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]) than interest rate (currently §Y[?required_income|2]§![GetCurrentSIUnit][GetCurrencyTextIcon])" #NT!
+ HAS_MORE_INCOME_THAN_LOAN_EXPENSES: "Общий доход (в настоящее время §Y[?total_income_temp|2]§![GetCurrentSIUnit][GetCurrencyTextIcon]) превышает выплаты по процентам (в настоящее время §Y[?required_income|2]§![GetCurrentSIUnit][GetCurrencyTextIcon])" #NT!
   
  eoanb_money_and_political_power_50: "§Y[?amount_of_money_to_check|2]§![GetCurrencyTextIcon]  £pol_power §H50§!" #NT!
  eoanb_money_and_political_power_50_blocked: "§R[?amount_of_money_to_check|2]§![GetCurrencyTextIcon]  £pol_power §R50§!" #NT!
@@ -284,282 +284,281 @@
  eoanb_money_and_navy_experience_50_blocked: "§R[?amount_of_money_to_check|2]§![GetCurrencyTextIcon]  £navy_experience §R50§!" #NT!
   
   # Ideas: 
- debt_idea: "[THIS.GetNameWithFlag]'s Debt Level: §R[?current_loans_sum|^][GetCurrentSIUnit]§!" #NT!
- debt_idea_desc: "The debt level of §Y[This.GetNameWithFlag]§!. If this gets too high, they can face §RBankruptcy§!.\n\nInflation: [?current_inflation|2-=%]" #NT!
- bankruptcy: "Bankruptcy" #NT!
- bankruptcy_desc: "§WDaily Inflation Change:§! §G-1.00%§! \n\nWe are bankrupt. Our funds have been drained, and our national economy is in tatters. This has huge negative effects on our country and our prestiege." #NT!
- generic_unemployment_idea: "National Unemployment" #NT!
- generic_unemployment_idea_desc: "§YMass unemployment§! strikes the nations, slowing economic growth and exerting massive pressure on our institutions. Drastic measures must be taken in §Y[Root.GetNameWithFlag]§! to alleviate the suffering of not only the government, but the people themselves. $UNEMPLOYMENT_EFFECTS$" #NT!
+ debt_idea: "Уровень долга [THIS.GetNameWithFlag]: §R[?current_loans_sum|^][GetCurrentSIUnit]§!" #NT!
+ debt_idea_desc: "Уровень долга §Y[This.GetNameWithFlag]§!. Если он станет слишком высоким, страна может столкнуться с §Rбанкротством§!.\n\nИнфляция: [?current_inflation|2-=%]" #NT!
+ bankruptcy: "Банкротство" #NT!
+ bankruptcy_desc: "§WЕжедневное изменение инфляции:§! §G-1.00%§! \n\nМы объявили банкротство. Наши финансовые ресурсы истощены, а национальная экономика в руинах. Это оказывает серьёзные негативные последствия на нашу страну и её престиж." #NT!
+ generic_unemployment_idea: "Национальная безработица" #NT!
+ generic_unemployment_idea_desc: "§YМассовая безработица§! охватила страну, замедляя экономический рост и создавая огромную нагрузку на наши институты. В §Y[Root.GetNameWithFlag]§! необходимо срочно принять радикальные меры, чтобы облегчить страдания не только правительства, но и всего народа. $UNEMPLOYMENT_EFFECTS$" #NT!
   
- UNEMPLOYMENT_EFFECTS: "§W\n--------------\nCurrent Unemployment: §Y[?current_unemployment|2%]§! \nCurrent Unemployment Impact: [This.GetCurrentUnemploymentImpact] \n\nThis results in the following effects: \n   $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?unemployment_modifier_negative_var|2+=%] \n   $MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?unemployment_modifier_negative_var|2+=%] \n   $MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?unemployment_modifier_negative_var|2+=%] \n   $money_income_factor$: [?unemployment_modifier_negative_var|2+=%] \n   $MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR$: [?unemployment_modifier_half_negative_var|2+=%] \n   $MODIFIER_POLITICAL_POWER_FACTOR$: [?unemployment_modifier_half_negative_var|2+=%]" #NT!
+ UNEMPLOYMENT_EFFECTS: "§W\n--------------\nТекущий уровень безработицы: §Y[?current_unemployment|2%]§! \nТекущие последствия безработицы: [This.GetCurrentUnemploymentImpact] \n\nЭто приводит к следующим эффектам: \n   $MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$: [?unemployment_modifier_negative_var|2+=%] \n   $MODIFIER_INDUSTRIAL_CAPACITY_FACTOR$: [?unemployment_modifier_negative_var|2+=%] \n   $MODIFIER_INDUSTRIAL_CAPACITY_DOCKYARD_FACTOR$: [?unemployment_modifier_negative_var|2+=%] \n   $money_income_factor$: [?unemployment_modifier_negative_var|2+=%] \n   $MODIFIER_STABILITY_OFFENSIVE_WAR_FACTOR$: [?unemployment_modifier_half_negative_var|2+=%] \n   $MODIFIER_POLITICAL_POWER_FACTOR$: [?unemployment_modifier_half_negative_var|2+=%]" #NT!
+
   
   # Dynamic Modifiers: 
- inflation_dynamic_modifier: "Inflation" #NT!
- unemployment_dynamic_modifier: "National Unemployment" #NT!
+ inflation_dynamic_modifier: "Инфляция" #NT!
+ unemployment_dynamic_modifier: "Национальная безработица" #NT!
   
   # Custom Modifiers: 
- inflation_change: "£money_icon£ Inflation Growth (Monthly)" #NT!
- inflation_change_factor: "£money_icon£ Inflation Growth Modifier" #NT!
- tax_efficiency_factor: "£money_icon£ Tax Income Modifier" #NT!
- consumer_goods_income_factor: "£money_icon£ Consumer Goods Factories Income Modifier" #NT!
- money_income: "£money_icon£ Money Income (Monthly)" #NT!
- money_income_factor: "£money_icon£ Money Income Modifier" #NT!
- money_expenses: "£money_icon£ Money Expense (Monthly)" #NT!
- money_expenses_factor: "£money_icon£ Money Expense Modifier" #NT!
- money_income_factor_from_ideas: "§Ymoney_income_factor_from_ideas§! has no effect and should be hidden" #NT!
- money_income_factor_from_decisions: "§Ymoney_income_factor_from_decisions§! has no effect and should be hidden" #NT!
- money_expenses_factor_from_ideas: "§Ymoney_expenses_factor_from_ideas§! has no effect and should be hidden" #NT!
- money_expenses_factor_from_decisions: "§Ymoney_expenses_factor_from_decisions§! has no effect and should be hidden" #NT!
- inflation_change_factor_from_ideas: "§Yinflation_change_factor_from_ideas§! has no effect and should be hidden" #NT!
- inflation_change_factor_from_decisions: "§Yinflation_change_factor_from_decisions§! has no effect and should be hidden" #NT!
- tax_efficiency_factor_from_ideas: "§Ytax_efficiency_factor_from_ideas§! has no effect and should be hidden" #NT!
- tax_efficiency_factor_from_decisions: "§Ytax_efficiency_factor_from_decisions§! has no effect and should be hidden" #NT!
- consumer_goods_income_factor_from_ideas: "§Yconsumer_goods_income_factor_from_ideas§! has no effect and should be hidden" #NT!
- consumer_goods_income_factor_from_decisions: "§Yconsumer_goods_income_factor_from_decisions§! has no effect and should be hidden" #NT!
- social_spending_cost_factor: "Social Spending Cost per Million Core Population" #NT!
- social_spending_cost_factor_from_ideas: "§Ysocial_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- social_spending_cost_factor_from_decisions: "§Ysocial_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- army_spending_cost_factor: "Cost per Fielded Battalion" #NT!
- army_spending_cost_factor_from_ideas: "§Yarmy_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- army_spending_cost_factor_from_decisions: "§Yarmy_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- research_spending_cost_factor: "Cost per Research Slot" #NT!
- research_spending_cost_factor_from_ideas: "§Yresearch_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- research_spending_cost_factor_from_decisions: "§Yresearch_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- additional_research_slots_cosmetical: "Research Slots" #NT!
- weekly_unemployment_change: "Weekly Unemployment Change" #NT!
- monthly_unemployment_change: "Monthly Unemployment Change" #NT!
- unemployment_value_factor: "Unemployment Impact" #NT!
+ inflation_change: "£money_icon£ Рост инфляции (ежемесячно)" #NT!
+ inflation_change_factor: "£money_icon£ Модификатор роста инфляции" #NT!
+ tax_efficiency_factor: "£money_icon£ Модификатор налоговых поступлений" #NT!
+ consumer_goods_income_factor: "£money_icon£ Модификатор дохода от фабрик потребительских товаров" #NT!
+ money_income: "£money_icon£ Денежные поступления (ежемесячно)" #NT!
+ money_income_factor: "£money_icon£ Модификатор денежных поступлений" #NT!
+ money_expenses: "£money_icon£ Денежные расходы (ежемесячно)" #NT!
+ money_expenses_factor: "£money_icon£ Модификатор денежных расходов" #NT!
+ money_income_factor_from_ideas: "§Ymoney_income_factor_from_ideas§! не оказывает эффекта и должен быть скрыт" #NT!
+ money_income_factor_from_decisions: "§Ymoney_income_factor_from_decisions§! не оказывает эффекта и должен быть скрыт" #NT!
+ money_expenses_factor_from_ideas: "§Ymoney_expenses_factor_from_ideas§! не оказывает эффекта и должен быть скрыт" #NT!
+ money_expenses_factor_from_decisions: "§Ymoney_expenses_factor_from_decisions§! не оказывает эффекта и должен быть скрыт" #NT!
+ inflation_change_factor_from_ideas: "§Yinflation_change_factor_from_ideas§! не оказывает эффекта и должен быть скрыт" #NT!
+ inflation_change_factor_from_decisions: "§Yinflation_change_factor_from_decisions§! не оказывает эффекта и должен быть скрыт" #NT!
+ tax_efficiency_factor_from_ideas: "§Ytax_efficiency_factor_from_ideas§! не оказывает эффекта и должен быть скрыт" #NT!
+ tax_efficiency_factor_from_decisions: "§Ytax_efficiency_factor_from_decisions§! не оказывает эффекта и должен быть скрыт" #NT!
+ consumer_goods_income_factor_from_ideas: "§Yconsumer_goods_income_factor_from_ideas§! не оказывает эффекта и должен быть скрыт" #NT!
+ consumer_goods_income_factor_from_decisions: "§Yconsumer_goods_income_factor_from_decisions§! не оказывает эффекта и должен быть скрыт" #NT!
+ social_spending_cost_factor: "Расходы на социальные нужды на миллион основного населения" #NT!
+ social_spending_cost_factor_from_ideas: "§Ysocial_spending_cost_factor_from_ideas§! не оказывает эффекта и должен быть скрыт" #NT!
+ social_spending_cost_factor_from_decisions: "§Ysocial_spending_cost_factor_from_decisions§! не оказывает эффекта и должен быть скрыт" #NT!
+ army_spending_cost_factor: "Стоимость на каждую задействованную батальонную единицу" #NT!
+ army_spending_cost_factor_from_ideas: "§Yarmy_spending_cost_factor_from_ideas§! не оказывает эффекта и должен быть скрыт" #NT!
+ army_spending_cost_factor_from_decisions: "§Yarmy_spending_cost_factor_from_decisions§! не оказывает эффекта и должен быть скрыт" #NT!
+ research_spending_cost_factor: "Стоимость на каждую исследовательскую ячейку" #NT!
+ research_spending_cost_factor_from_ideas: "§Yresearch_spending_cost_factor_from_ideas§! не оказывает эффекта и должен быть скрыт" #NT!
+ research_spending_cost_factor_from_decisions: "§Yresearch_spending_cost_factor_from_decisions§! не оказывает эффекта и должен быть скрыт" #NT!
+ additional_research_slots_cosmetical: "Исследовательские ячейки" #NT!
+ weekly_unemployment_change: "Еженедельное изменение безработицы" #NT!
+ monthly_unemployment_change: "Ежемесячное изменение безработицы" #NT!
+ unemployment_value_factor: "Влияние безработицы" #NT!
   
- navy_spending_cost_factor: "Cost per Ship" #NT!
- navy_spending_cost_factor_from_ideas: "§Ynavy_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- navy_spending_cost_factor_from_decisions: "§Ynavy_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
-  
- road_spending_cost_factor: "Cost per Infrastructure" #NT!
- road_spending_cost_factor_from_ideas: "§Yroad_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- road_spending_cost_factor_from_decisions: "§Yroad_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
-  
- law_spending_cost_factor: "Cost per Stability" #NT!
- law_spending_cost_factor_from_ideas: "§Ylaw_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- law_spending_cost_factor_from_decisions: "§Ylaw_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
+ navy_spending_cost_factor: "Стоимость за каждый корабль" #NT!
+ navy_spending_cost_factor_from_ideas: "§Ynavy_spending_cost_factor_from_ideas§! не оказывает эффекта и должен быть скрыт" #NT!
+ navy_spending_cost_factor_from_decisions: "§Ynavy_spending_cost_factor_from_decisions§! не оказывает эффекта и должен быть скрыт" #NT!
+
+ road_spending_cost_factor: "Стоимость за каждую единицу инфраструктуры" #NT!
+ road_spending_cost_factor_from_ideas: "§Yroad_spending_cost_factor_from_ideas§! не оказывает эффекта и должен быть скрыт" #NT!
+ road_spending_cost_factor_from_decisions: "§Yroad_spending_cost_factor_from_decisions§! не оказывает эффекта и должен быть скрыт" #NT!
+
+ law_spending_cost_factor: "Стоимость за единицу стабильности" #NT!
+ law_spending_cost_factor_from_ideas: "§Ylaw_spending_cost_factor_from_ideas§! не оказывает эффекта и должен быть скрыт" #NT!
+ law_spending_cost_factor_from_decisions: "§Ylaw_spending_cost_factor_from_decisions§! не оказывает эффекта и должен быть скрыт" #NT!
   
   # Scripted Localisation: 
- string_taxes_slider_button_left_tt_max_level_reached: "§RWe cannot further reduce the §YTaxation Level§!.§W" #NT!
- string_taxes_slider_button_left_tt_not_allowed: "§RWe are not allowed to reduce the §YTaxation Level§!.§W" #NT!
- string_taxes_slider_button_left_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YTaxation Level§!.§W" #NT!
- string_taxes_slider_button_left_tt: "§GClick§! to reduce the §YTaxation Level§!." #NT!
-  
- string_taxes_slider_button_right_tt_max_level_reached: "§RWe cannot further increase the §YTaxation Level§!.§W" #NT!
- string_taxes_slider_button_right_tt_not_allowed: "§RWe are not allowed to increase the §YTaxation Level§!.§W" #NT!
- string_taxes_slider_button_right_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YTaxation Level§!.§W" #NT!
- string_taxes_slider_button_right_tt: "§GClick§! to increase the §YTaxation Level§!." #NT!
-  
- string_social_spending_slider_button_left_tt_max_level_reached: "§RWe cannot further reduce the §YSocial Spending Level§!.§W" #NT!
- string_social_spending_slider_button_left_tt_not_allowed: "§RWe are not allowed to reduce the §YSocial Spending Level§!.§W" #NT!
- string_social_spending_slider_button_left_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YSocial Spending Level§!.§W" #NT!
- string_social_spending_slider_button_left_tt: "§GClick§! to reduce the §YSocial Spending Level§!." #NT!
-  
- string_social_spending_slider_button_right_tt_max_level_reached: "§RWe cannot further increase the §YSocial Spending Level§!.§W" #NT!
- string_social_spending_slider_button_right_tt_not_allowed: "§RWe are not allowed to increase the §YSocial Spending Level§!.§W" #NT!
- string_social_spending_slider_button_right_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YSocial Spending Level§!.§W" #NT!
- string_social_spending_slider_button_right_tt: "§GClick§! to increase the §YSocial Spending Level§!." #NT!
-  
- string_research_spending_slider_button_left_tt_max_level_reached: "§RWe cannot further reduce the §YResearch and Education Spending Level§!.§W" #NT!
- string_research_spending_slider_button_left_tt_not_allowed: "§RWe are not allowed to reduce the §YResearch and Education Spending Level§!.§W" #NT!
- string_research_spending_slider_button_left_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YResearch and Education Spending Level§!.§W" #NT!
- string_research_spending_slider_button_left_tt: "§GClick§! to reduce the §YResearch and Education Spending Level§!." #NT!
-  
- string_research_spending_slider_button_right_tt_max_level_reached: "§RWe cannot further increase the §YResearch and Education Spending Level§!.§W" #NT!
- string_research_spending_slider_button_right_tt_not_allowed: "§RWe are not allowed to increase the §YResearch and Education Spending Level§!.§W" #NT!
- string_research_spending_slider_button_right_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YResearch and Education Spending Level§!.§W" #NT!
- string_research_spending_slider_button_right_tt: "§GClick§! to increase the §YResearch and Education Spending Level§!." #NT!
-  
- string_army_spending_slider_button_left_tt_max_level_reached: "§RWe cannot further reduce the §YMilitary Spending Level§!.§W" #NT!
- string_army_spending_slider_button_left_tt_not_allowed: "§RWe are not allowed to reduce the §YMilitary Spending Level§!.§W" #NT!
- string_army_spending_slider_button_left_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YMilitary Spending Level§!.§W" #NT!
- string_army_spending_slider_button_left_tt: "§GClick§! to reduce the §YMilitary Spending Level§!." #NT!
-  
- string_army_spending_slider_button_right_tt_max_level_reached: "§RWe cannot further increase the §YMilitary Spending Level§!.§W" #NT!
- string_army_spending_slider_button_right_tt_not_allowed: "§RWe are not allowed to increase the §YMilitary Spending Level§!.§W" #NT!
- string_army_spending_slider_button_right_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YMilitary Spending Level§!.§W" #NT!
- string_army_spending_slider_button_right_tt: "§GClick§! to increase the §YMilitary Spending Level§!." #NT!
-  
- string_navy_spending_slider_button_left_tt_max_level_reached: "§RWe cannot further reduce the §YNavy Spending Level§!.§W" #NT!
- string_navy_spending_slider_button_left_tt_not_allowed: "§RWe are not allowed to reduce the §YNavy Spending Level§!.§W" #NT!
- string_navy_spending_slider_button_left_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YNavy Spending Level§!.§W" #NT!
- string_navy_spending_slider_button_left_tt: "§GClick§! to reduce the §YNavy Spending Level§!." #NT!
-  
- string_navy_spending_slider_button_right_tt_max_level_reached: "§RWe cannot further increase the §YNavy Spending Level§!.§W" #NT!
- string_navy_spending_slider_button_right_tt_not_allowed: "§RWe are not allowed to increase the §YNavy Spending Level§!.§W" #NT!
- string_navy_spending_slider_button_right_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YNavy Spending Level§!.§W" #NT!
- string_navy_spending_slider_button_right_tt: "§GClick§! to increase the §YNavy Spending Level§!." #NT!
-  
- string_road_spending_slider_button_left_tt_max_level_reached: "§RWe cannot further reduce the §YRoad Spending Level§!.§W" #NT!
- string_road_spending_slider_button_left_tt_not_allowed: "§RWe are not allowed to reduce the §YRoad Spending Level§!.§W" #NT!
- string_road_spending_slider_button_left_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YRoad Spending Level§!.§W" #NT!
- string_road_spending_slider_button_left_tt: "§GClick§! to reduce the §YRoad Spending Level§!." #NT!
-  
- string_road_spending_slider_button_right_tt_max_level_reached: "§RWe cannot further increase the §YRoad Spending Level§!.§W" #NT!
- string_road_spending_slider_button_right_tt_not_allowed: "§RWe are not allowed to increase the §YRoad Spending Level§!.§W" #NT!
- string_road_spending_slider_button_right_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YRoad Spending Level§!.§W" #NT!
- string_road_spending_slider_button_right_tt: "§GClick§! to increase the §YRoad Spending Level§!." #NT!
-  
- string_law_spending_slider_button_left_tt_max_level_reached: "§RWe cannot further reduce the §YLaw Spending Level§!.§W" #NT!
- string_law_spending_slider_button_left_tt_not_allowed: "§RWe are not allowed to reduce the §YLaw Spending Level§!.§W" #NT!
- string_law_spending_slider_button_left_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YLaw Spending Level§!.§W" #NT!
- string_law_spending_slider_button_left_tt: "§GClick§! to reduce the §YLaw Spending Level§!." #NT!
-  
- string_law_spending_slider_button_right_tt_max_level_reached: "§RWe cannot further increase the §YLaw Spending Level§!.§W" #NT!
- string_law_spending_slider_button_right_tt_not_allowed: "§RWe are not allowed to increase the §YLaw Spending Level§!.§W" #NT!
- string_law_spending_slider_button_right_tt_no_pp: "§RWe don't have the required §Y50§R £pol_power£ to change the §YLaw Spending Level§!.§W" #NT!
- string_law_spending_slider_button_right_tt: "§GClick§! to increase the §YLaw Spending Level§!." #NT!
-  
- army_spending_slider_unlocked: "New §LMilitary Spending§! options are now §Gavailable§!" #NT!
- research_spending_slider_unlocked: "New §LResearch & Education Spending§! options are now §Gavailable§!" #NT!
- social_spending_slider_unlocked: "New §LSocial Spending§! options are now §Gavailable§!" #NT!
- tax_spending_slider_unlocked: "New §LTaxes§! options are now §Gavailable§!" #NT!
- navy_spending_slider_unlocked: "New §LNavy Spending§! options are now §Gavailable§!" #NT!
-  
+ string_taxes_slider_button_left_tt_max_level_reached: "§RМы не можем дальше снизить §Yуровень налогообложения§!.§W" #NT!
+ string_taxes_slider_button_left_tt_not_allowed: "§RНам запрещено снижать §Yуровень налогообложения§!.§W" #NT!
+ string_taxes_slider_button_left_tt_no_pp: "§RУ нас недостаточно §Y50§R £pol_power£ для изменения §Yуровня налогообложения§!.§W" #NT!
+ string_taxes_slider_button_left_tt: "§GНажмите§!, чтобы снизить §Yуровень налогообложения§!." #NT!
+
+ string_taxes_slider_button_right_tt_max_level_reached: "§RМы не можем дальше повысить §Yуровень налогообложения§!.§W" #NT!
+ string_taxes_slider_button_right_tt_not_allowed: "§RНам запрещено повышать §Yуровень налогообложения§!.§W" #NT!
+ string_taxes_slider_button_right_tt_no_pp: "§RУ нас недостаточно §Y50§R £pol_power£ для изменения §Yуровня налогообложения§!.§W" #NT!
+ string_taxes_slider_button_right_tt: "§GНажмите§!, чтобы повысить §Yуровень налогообложения§!." #NT!
+
+ string_social_spending_slider_button_left_tt_max_level_reached: "§RМы не можем дальше снизить §Yуровень социальных расходов§!.§W" #NT!
+ string_social_spending_slider_button_left_tt_not_allowed: "§RНам запрещено снижать §Yуровень социальных расходов§!.§W" #NT!
+ string_social_spending_slider_button_left_tt_no_pp: "§RУ нас недостаточно §Y50§R £pol_power£ для изменения §Yуровня социальных расходов§!.§W" #NT!
+ string_social_spending_slider_button_left_tt: "§GНажмите§!, чтобы снизить §Yуровень социальных расходов§!." #NT!
+
+ string_social_spending_slider_button_right_tt_max_level_reached: "§RМы не можем дальше повысить §Yуровень социальных расходов§!.§W" #NT!
+ string_social_spending_slider_button_right_tt_not_allowed: "§RНам запрещено повышать §Yуровень социальных расходов§!.§W" #NT!
+ string_social_spending_slider_button_right_tt_no_pp: "§RУ нас недостаточно §Y50§R £pol_power£ для изменения §Yуровня социальных расходов§!.§W" #NT!
+ string_social_spending_slider_button_right_tt: "§GНажмите§!, чтобы повысить §Yуровень социальных расходов§!." #NT!
+
+ string_research_spending_slider_button_left_tt_max_level_reached: "§RМы не можем дальше снизить §Yуровень расходов на исследования и образование§!.§W" #NT!
+ string_research_spending_slider_button_left_tt_not_allowed: "§RНам запрещено снижать §Yуровень расходов на исследования и образование§!.§W" #NT!
+ string_research_spending_slider_button_left_tt_no_pp: "§RУ нас недостаточно §Y50§R £pol_power£ для изменения §Yуровня расходов на исследования и образование§!.§W" #NT!
+ string_research_spending_slider_button_left_tt: "§GНажмите§!, чтобы снизить §Yуровень расходов на исследования и образование§!." #NT!
+
+ string_research_spending_slider_button_right_tt_max_level_reached: "§RМы не можем дальше повысить §Yуровень расходов на исследования и образование§!.§W" #NT!
+ string_research_spending_slider_button_right_tt_not_allowed: "§RНам запрещено повышать §Yуровень расходов на исследования и образование§!.§W" #NT!
+ string_research_spending_slider_button_right_tt_no_pp: "§RУ нас недостаточно §Y50§R £pol_power£ для изменения §Yуровня расходов на исследования и образование§!.§W" #NT!
+ string_research_spending_slider_button_right_tt: "§GНажмите§!, чтобы повысить §Yуровень расходов на исследования и образование§!." #NT!
+
+ string_army_spending_slider_button_left_tt_max_level_reached: "§RМы не можем дальше снизить §Yуровень военных расходов§!.§W" #NT!
+ string_army_spending_slider_button_left_tt_not_allowed: "§RНам запрещено снижать §Yуровень военных расходов§!.§W" #NT!
+ string_army_spending_slider_button_left_tt_no_pp: "§RУ нас недостаточно §Y50§R £pol_power£ для изменения §Yуровня военных расходов§!.§W" #NT!
+ string_army_spending_slider_button_left_tt: "§GНажмите§!, чтобы снизить §Yуровень военных расходов§!." #NT!
+
+ string_army_spending_slider_button_right_tt_max_level_reached: "§RМы не можем дальше повысить §Yуровень военных расходов§!.§W" #NT!
+ string_army_spending_slider_button_right_tt_not_allowed: "§RНам запрещено повышать §Yуровень военных расходов§!.§W" #NT!
+ string_army_spending_slider_button_right_tt_no_pp: "§RУ нас недостаточно §Y50§R £pol_power£ для изменения §Yуровня военных расходов§!.§W" #NT!
+ string_army_spending_slider_button_right_tt: "§GНажмите§!, чтобы повысить §Yуровень военных расходов§!." #NT!
+
+ string_navy_spending_slider_button_left_tt_max_level_reached: "§RМы не можем дальше снижать уровень §Yрасходов на флот§!.§W" #NT!
+ string_navy_spending_slider_button_left_tt_not_allowed: "§RНам не разрешено снижать уровень §Yрасходов на флот§!.§W" #NT!
+ string_navy_spending_slider_button_left_tt_no_pp: "§RУ нас нет необходимых §Y50§R £pol_power£ для изменения уровня §Yрасходов на флот§!.§W" #NT!
+ string_navy_spending_slider_button_left_tt: "§GКликните§!, чтобы снизить уровень §Yрасходов на флот§!." #NT!
+
+ string_navy_spending_slider_button_right_tt_max_level_reached: "§RМы не можем дальше повышать уровень §Yрасходов на флот§!.§W" #NT!
+ string_navy_spending_slider_button_right_tt_not_allowed: "§RНам не разрешено повышать уровень §Yрасходов на флот§!.§W" #NT!
+ string_navy_spending_slider_button_right_tt_no_pp: "§RУ нас нет необходимых §Y50§R £pol_power£ для изменения уровня §Yрасходов на флот§!.§W" #NT!
+ string_navy_spending_slider_button_right_tt: "§GКликните§!, чтобы повысить уровень §Yрасходов на флот§!." #NT!
+
+ string_road_spending_slider_button_left_tt_max_level_reached: "§RМы не можем дальше снижать уровень §Yрасходов на инфраструктуру§!.§W" #NT!
+ string_road_spending_slider_button_left_tt_not_allowed: "§RНам не разрешено снижать уровень §Yрасходов на инфраструктуру§!.§W" #NT!
+ string_road_spending_slider_button_left_tt_no_pp: "§RУ нас нет необходимых §Y50§R £pol_power£ для изменения уровня §Yрасходов на инфраструктуру§!.§W" #NT!
+ string_road_spending_slider_button_left_tt: "§GКликните§!, чтобы снизить уровень §Yрасходов на инфраструктуру§!." #NT!
+
+ string_road_spending_slider_button_right_tt_max_level_reached: "§RМы не можем дальше повышать уровень §Yрасходов на инфраструктуру§!.§W" #NT!
+ string_road_spending_slider_button_right_tt_not_allowed: "§RНам не разрешено повышать уровень §Yрасходов на инфраструктуру§!.§W" #NT!
+ string_road_spending_slider_button_right_tt_no_pp: "§RУ нас нет необходимых §Y50§R £pol_power£ для изменения уровня §Yрасходов на инфраструктуру§!.§W" #NT!
+ string_road_spending_slider_button_right_tt: "§GКликните§!, чтобы повысить уровень §Yрасходов на инфраструктуру§!." #NT!
+
+ string_law_spending_slider_button_left_tt_max_level_reached: "§RМы не можем дальше снижать уровень §Yрасходов на правопорядок§!.§W" #NT!
+ string_law_spending_slider_button_left_tt_not_allowed: "§RНам не разрешено снижать уровень §Yрасходов на правопорядок§!.§W" #NT!
+ string_law_spending_slider_button_left_tt_no_pp: "§RУ нас нет необходимых §Y50§R £pol_power£ для изменения уровня §Yрасходов на правопорядок§!.§W" #NT!
+ string_law_spending_slider_button_left_tt: "§GКликните§!, чтобы снизить уровень §Yрасходов на правопорядок§!." #NT!
+
+ string_law_spending_slider_button_right_tt_max_level_reached: "§RМы не можем дальше повышать уровень §Yрасходов на правопорядок§!.§W" #NT!
+ string_law_spending_slider_button_right_tt_not_allowed: "§RНам не разрешено повышать уровень §Yрасходов на правопорядок§!.§W" #NT!
+ string_law_spending_slider_button_right_tt_no_pp: "§RУ нас нет необходимых §Y50§R £pol_power£ для изменения уровня §Yрасходов на правопорядок§!.§W" #NT!
+ string_law_spending_slider_button_right_tt: "§GКликните§!, чтобы повысить уровень §Yрасходов на правопорядок§!." #NT!
+
+ army_spending_slider_unlocked: "Новые параметры §Lвоенных расходов§! теперь §Gдоступны§!" #NT!
+ research_spending_slider_unlocked: "Новые параметры §Lрасходов на исследования и образование§! теперь §Gдоступны§!" #NT!
+ social_spending_slider_unlocked: "Новые параметры §Lсоциальных расходов§! теперь §Gдоступны§!" #NT!
+ tax_spending_slider_unlocked: "Новые параметры §Lналогообложения§! теперь §Gдоступны§!" #NT!
+ navy_spending_slider_unlocked: "Новые параметры §Lрасходов на флот§! теперь §Gдоступны§!" #NT!
   
  whitespace: "\n" #NT!
   
   # Diplomatic Actions: 
- BANKROLL_TITLE: "Bankroll" #NT!
- BANKROLL_ACTION_DESC: "Send £money_icon  money to them for economic aid." #NT!
- BANKROLL_ACCEPT_TITLE: "Bankrolling Received" #NT!
- BANKROLL_ACCEPT_DESC: "§Y[Root.GetNameWithFlag]§! has sent us economic aid of §Y[]§! £money_icon." #NT!
- BANKROLL_REMOVE_TITLE: "Stop Bankrolling" #NT!
- BANKROLL_REMOVE_ACTION_DESC: "Stop sending £money_icon  money to them for economic aid." #NT!
- BANKROLL_REMOVE_ACCEPT_TITLE: "Bankrolling Rescinded" #NT!
- BANKROLL_REMOVE_ACCEPT_DESC: "§Y[Root.GetNameWithFlag]§! has rescinded their economic aid of §Y[]§! £money_icon." #NT!
-  
- eoanb_bankrolling_target_sent: "§Y[ROOT.GetNameWithFlag]§! will bankroll §Y[THIS.GetNameWithFlag]§!." #NT!
- eoanb_bankrolling_target_recieved: "§Y[ROOT.GetNameWithFlag]§! has decided to bankroll §Y[THIS.GetNameWithFlag]§! half of their monthly balance to us." #NT!
- eoanb_clear_bankrolling_target_sent: "§Y[Root.GetNameWithFlag]§! will stop bankrolling §B[THIS.GetNameWithFlag]§!." #NT!
- eoanb_clear_bankrolling_target_recieved: "The government of §B[FROM.GetNameWithFlag]§! has rescinded their bankrolling to us!" #NT!
+ BANKROLL_TITLE: "Финансирование" #NT!
+ BANKROLL_ACTION_DESC: "Отправить £money_icon деньги в качестве экономической помощи." #NT!
+ BANKROLL_ACCEPT_TITLE: "Получено финансирование" #NT!
+ BANKROLL_ACCEPT_DESC: "§Y[Root.GetNameWithFlag]§! отправил нам экономическую помощь в размере §Y[]§! £money_icon." #NT!
+ BANKROLL_REMOVE_TITLE: "Прекратить финансирование" #NT!
+ BANKROLL_REMOVE_ACTION_DESC: "Прекратить отправку £money_icon денег в качестве экономической помощи." #NT!
+ BANKROLL_REMOVE_ACCEPT_TITLE: "Финансирование прекращено" #NT!
+ BANKROLL_REMOVE_ACCEPT_DESC: "§Y[Root.GetNameWithFlag]§! прекратил оказывать нам экономическую помощь в размере §Y[]§! £money_icon." #NT!
+
+ eoanb_bankrolling_target_sent: "§Y[ROOT.GetNameWithFlag]§! будет финансировать §Y[THIS.GetNameWithFlag]§!." #NT!
+ eoanb_bankrolling_target_recieved: "§Y[ROOT.GetNameWithFlag]§! решил выделить §Y[THIS.GetNameWithFlag]§! половину своего месячного бюджета." #NT!
+ eoanb_clear_bankrolling_target_sent: "§Y[Root.GetNameWithFlag]§! прекратит финансирование §B[THIS.GetNameWithFlag]§!." #NT!
+ eoanb_clear_bankrolling_target_recieved: "Правительство §B[FROM.GetNameWithFlag]§! прекратило наше финансирование!" #NT!
   
   # Diplomatic Actions: 
- TAKE_ON_LOAN_TITLE: "Take on Debt" #NT!
- TAKE_ON_LOAN_ACTION_DESC: "Take on [GetCurrentSIUnit][GetCurrencyTextIcon]debt for them." #NT!
- TAKE_ON_LOAN_ACCEPT_TITLE: "Debts Taken On" #NT!
- TAKE_ON_LOAN_ACCEPT_DESC: "§Y[THIS.GetNameWithFlag]§! has accepted our invitation to take on their debts!" #NT!
+ TAKE_ON_LOAN_TITLE: "Взять на себя долг" #NT!
+ TAKE_ON_LOAN_ACTION_DESC: "Взять на себя долг в размере [GetCurrentSIUnit][GetCurrencyTextIcon] за них." #NT!
+ TAKE_ON_LOAN_ACCEPT_TITLE: "Долги приняты" #NT!
+ TAKE_ON_LOAN_ACCEPT_DESC: "§Y[THIS.GetNameWithFlag]§! принял наше предложение взять на себя их долги!" #NT!
   
    # Diplomatic Action GUIs: 
- TAKE_ON_LOAN_SEND_DESC: "§Y[ROOT.GetNameWithFlag]§! would take on §Y[?This.current_loans_sum|0]§![GetCurrentSIUnit][GetCurrencyTextIcon]debt of §Y[This.GetNameWithFlag]§!." #NT!
+ TAKE_ON_LOAN_SEND_DESC: "§Y[ROOT.GetNameWithFlag]§! возьмёт на себя долг в размере §Y[?This.current_loans_sum|0]§![GetCurrentSIUnit][GetCurrencyTextIcon] от §Y[This.GetNameWithFlag]§!." #NT!
  TAKE_ON_LOAN_SEND_VALUE: "§Y[?This.current_loans_sum|0]§![GetCurrentSIUnit][GetCurrencyTextIcon]" #NT!
-  
- BANKROLL_SEND_DESC: "§Y[ROOT.GetNameWithFlag]§! will bankroll [GetCurrentSIUnit][GetCurrencyTextIcon]§Y[THIS.GetNameWithFlag]§!." #NT!
- BANKROLLING_ACCEPT_TITLE: "Bankrolling [This.GetNameWithFlag]" #NT!
- BANKROLLING_ACCEPT_DESC: "They have accepted our bankrolling efforts." #NT!
-  
- STOP_BANKROLL_SEND_DESC: "We will stop our efforts to bankroll §Y[This.GetNameWithFlag]§!." #NT!
+
+ BANKROLL_SEND_DESC: "§Y[ROOT.GetNameWithFlag]§! будет финансировать [GetCurrentSIUnit][GetCurrencyTextIcon]§Y[THIS.GetNameWithFlag]§!." #NT!
+ BANKROLLING_ACCEPT_TITLE: "Финансирование §Y[This.GetNameWithFlag]§!" #NT!
+ BANKROLLING_ACCEPT_DESC: "Они приняли наше финансирование." #NT!
+
+ STOP_BANKROLL_SEND_DESC: "Мы прекратим финансирование §Y[This.GetNameWithFlag]§!." #NT!
   
   # Diplomatic Actions: 
- CUSTOMS_UNION_TITLE: "Customs Union" #NT!
- CUSTOMS_UNION_ACTION_DESC: "Invite to a customs union." #NT!
- CUSTOMS_UNION_ACCEPT_TITLE: "Customs Union Invitation" #NT!
- CUSTOMS_UNION_ACCEPT_DESC: "§Y[THIS.GetNameWithFlag]§! has accepted our invitation to a customs union!" #NT!
-  
- check_money_to_loan_size_tt: "Enough treasurey to pay off §Y[THIS.GetNameWithFlag]§! loans" #NT!
+ CUSTOMS_UNION_TITLE: "Таможенный союз" #NT!
+ CUSTOMS_UNION_ACTION_DESC: "Пригласить в таможенный союз." #NT!
+ CUSTOMS_UNION_ACCEPT_TITLE: "Приглашение в таможенный союз" #NT!
+ CUSTOMS_UNION_ACCEPT_DESC: "§Y[THIS.GetNameWithFlag]§! принял наше приглашение в таможенный союз!" #NT!
+
+ check_money_to_loan_size_tt: "Достаточно средств в казне для погашения долгов §Y[THIS.GetNameWithFlag]§!" #NT!
   
  ### ECONOMIC MAPMODES 
   
- MAPMODE_GDP_MAP_MODE: "Gross Domestic Product" #NT!
- MAPMODE_GDP_MAP_MODE_NAME: "Gross Domestic Product" #NT!
- MAPMODE_GDP_MAP_MODE_DESCRIPTION: "Displays the GDP of each state with brighter colored states having a higher GDP." #NT!
- GDP_map_mode_tooltip: "§YGross Domestic Product§! in §C[FROM.controller.GetNameWithFlag]§!: §Y[?FROM.controller:money|Y]M§!" #NT!
- GDP_map_mode_tooltip_delayed: "§YGross Domestic Product§! (§YGDP§!) is the measure of the total economic output produced in a given region in a year, and is the sum of the national treasury." #NT!
-  
- MAPMODE_GDP_C_MAP_MODE: "Gross Domestic Product per Capita" #NT!
- MAPMODE_GDP_C_MAP_MODE_NAME: "Gross Domestic Product per Capita" #NT!
- MAPMODE_GDP_C_MAP_MODE_DESCRIPTION: "Displays the GDP/c of each state with brighter colored states having a higher GDP/c." #NT!
- gdp_c_map_mode_tooltip: "§YGross Domestic Product per Capita§! in §C[FROM.controller.GetNameWithFlag]§!: §Y[?FROM.controller:gdp_per_capita|3]§!" #NT!
- gdp_c_map_mode_tooltip_delayed: "§YGross Domestic Product per Capita§! (§YGDP/c§!) is the measure of the value of goods produced in a given region in a year divided by the population total." #NT!
-  
- eoanb_is_bankrolling: " Is bankrolling" #NT!
+ MAPMODE_GDP_MAP_MODE: "Валовой внутренний продукт" #NT!
+ MAPMODE_GDP_MAP_MODE_NAME: "Валовой внутренний продукт" #NT!
+ MAPMODE_GDP_MAP_MODE_DESCRIPTION: "Отображает ВВП каждого штата, где более яркие цвета обозначают более высокий уровень ВВП." #NT!
+ GDP_map_mode_tooltip: "§YВаловой внутренний продукт§! в §C[FROM.controller.GetNameWithFlag]§!: §Y[?FROM.controller:money|Y]M§!" #NT!
+ GDP_map_mode_tooltip_delayed: "§YВаловой внутренний продукт§! (§YВВП§!) — это мера общего экономического производства в данном регионе за год и является суммой национальной казны." #NT!
+
+ MAPMODE_GDP_C_MAP_MODE: "ВВП на душу населения" #NT!
+ MAPMODE_GDP_C_MAP_MODE_NAME: "ВВП на душу населения" #NT!
+ MAPMODE_GDP_C_MAP_MODE_DESCRIPTION: "Отображает ВВП на душу населения каждого штата, где более яркие цвета обозначают более высокий уровень ВВП/ч." #NT!
+ gdp_c_map_mode_tooltip: "§YВВП на душу населения§! в §C[FROM.controller.GetNameWithFlag]§!: §Y[?FROM.controller:gdp_per_capita|3]§!" #NT!
+ gdp_c_map_mode_tooltip_delayed: "§YВВП на душу населения§! (§YGDP/c§!) — это показатель стоимости произведённых товаров в данном регионе за год, делённый на численность населения." #NT!
+
+ eoanb_is_bankrolling: " Оказывает финансирование" #NT!
   
  ############################################### 
  ## Economy Policy 
  ############################################## 
- economic_policy: "Economic Policy" #NT!
+ economic_policy: "Экономическая политика" #NT!
  ## Economic System 
- idea_group_economic_system: "Economic System" #NT!
- economic_system: "Economic System" #NT!
- EFFECT_CHANGE_LAW_economic_system: "Change Economic System Law to '$NAME|Y$' which grants ($DESC$)." #NT!
- agrarian_economy: "Agrarian Economy" #NT!
- EFFECT_CHANGE_LAW_agrarian_economy: "Change Agrarian Economy Law to '$NAME|Y$' which grants ($DESC$)." #NT!
- industrializing_economy: "Industrializing Economy" #NT!
- EFFECT_CHANGE_LAW_industrializing_economy: "Change Industrializing Economy Law to '$NAME|Y$' which grants ($DESC$)." #NT!
- free_market_economy: "Free Market Economy" #NT!
- EFFECT_CHANGE_LAW_free_market_economy: "Change Free Market Economy Law to '$NAME|Y$' which grants ($DESC$)." #NT!
- social_market_economy: "Social Market Economy" #NT!
- EFFECT_CHANGE_LAW_social_market_economy: "Change Social Market Economy Law to '$NAME|Y$' which grants ($DESC$)." #NT!
- corporatism: "Corporatism" #NT!
- mixed_economy: "Mixed Economy" #NT!
- planned_economy: "Planned Economy" #NT!
+ idea_group_economic_system: "Экономическая система" #NT!
+ economic_system: "Экономическая система" #NT!
+ EFFECT_CHANGE_LAW_economic_system: "Изменить закон об экономической системе на '$NAME|Y$', который даёт ($DESC$)." #NT!
+ agrarian_economy: "Аграрная экономика" #NT!
+ EFFECT_CHANGE_LAW_agrarian_economy: "Изменить закон об аграрной экономике на '$NAME|Y$', который даёт ($DESC$)." #NT!
+ industrializing_economy: "Индустриализирующаяся экономика" #NT!
+ EFFECT_CHANGE_LAW_industrializing_economy: "Изменить закон об индустриализирующейся экономике на '$NAME|Y$', который даёт ($DESC$)." #NT!
+ free_market_economy: "Свободная рыночная экономика" #NT!
+ EFFECT_CHANGE_LAW_free_market_economy: "Изменить закон о свободной рыночной экономике на '$NAME|Y$', который даёт ($DESC$)." #NT!
+ social_market_economy: "Социально-рыночная экономика" #NT!
+ EFFECT_CHANGE_LAW_social_market_economy: "Изменить закон о социально-рыночной экономике на '$NAME|Y$', который даёт ($DESC$)." #NT!
+ corporatism: "Корпоративизм" #NT!
+ mixed_economy: "Смешанная экономика" #NT!
+ planned_economy: "Плановая экономика" #NT!
   
- ## Taxation Policy 
- EFFECT_CHANGE_LAW_taxation_slider_law: "Change Taxation Policy to '$NAME|Y$' which grants ($DESC$)." #NT!
- taxation_slider_law: "Taxation Policy" #NT!
- taxation_level_1: "Minimal Taxation" #NT!
- taxation_level_2: "Low Taxation" #NT!
- taxation_level_3: "Moderate Taxation" #NT!
- taxation_level_4: "High Taxation" #NT!
- taxation_level_5: "Very High Taxation" #NT!
-  
- ## Social Spending Policy 
- EFFECT_CHANGE_LAW_social_spending_slider_law: "Change Social Spending Policy to '$NAME|Y$' which grants ($DESC$)." #NT!
- social_spending_slider_law: "Social Spending Policy" #NT!
- social_spending_level_1: "Minimal Social Spending" #NT!
- social_spending_level_2: "Limited Social Spending" #NT!
- social_spending_level_3: "Moderate Social Spending" #NT!
- social_spending_level_4: "Significant Social Spending" #NT!
- social_spending_level_5: "Generous Social Spending" #NT!
-  
- ## Military Spending Policy 
- EFFECT_CHANGE_LAW_army_spending_slider_law: "Change Military Spending Policy to '$NAME|Y$' which grants ($DESC$)." #NT!
- army_spending_slider_law: "Army Spending Policy" #NT!
- army_spending_level_1: "Minimal Army Spending" #NT!
- army_spending_level_2: "Limited Army Spending" #NT!
- army_spending_level_3: "Moderate Army Spending" #NT!
- army_spending_level_4: "Significant Army Spending" #NT!
- army_spending_level_5: "Massive Army Spending" #NT!
-  
- ## Research and Education Spending Policy 
- EFFECT_CHANGE_LAW_research_spending_slider_law: "Change Research and Education Spending Policy to '$NAME|Y$' which grants ($DESC$)." #NT!
- research_spending_slider_law: "Research and Education Spending Policy" #NT!
- research_spending_level_1: "Minimal Research and Education Spending" #NT!
- research_spending_level_2: "Limited Research and Education Spending" #NT!
- research_spending_level_3: "Moderate Research and Education Spending" #NT!
- research_spending_level_4: "Significant Research and Education Spending" #NT!
- research_spending_level_5: "Massive Research and Education Spending" #NT!
-  
- ## Law and Order Spending Policy 
- EFFECT_CHANGE_LAW_law_spending_slider_law: "Change Law and Order Spending Policy to '$NAME|Y$' which grants ($DESC$)." #NT!
- law_and_order_slider_law: "Law and Order Spending Policy" #NT!
- law_spending_level_1: "Minimal Law and Order Spending" #NT!
- law_spending_level_2: "Limited Law and Order Spending" #NT!
- law_spending_level_3: "Moderate Law and Order Spending" #NT!
- law_spending_level_4: "Significant Law and Order Spending" #NT!
- law_spending_level_5: "Massive Law and Order Spending" #NT!
-  
- ## Road Maintenance Spending Policy 
- EFFECT_CHANGE_LAW_road_spending_slider_law: "Change Law and Order Spending Policy to '$NAME|Y$' which grants ($DESC$)." #NT!
- road_maintenance_slider_law: "Infrastructure Spending Policy" #NT!
- road_spending_level_1: "Minimal Infrastructure Spending" #NT!
- road_spending_level_2: "Limited Infrastructure Spending" #NT!
- road_spending_level_3: "Moderate Infrastructure Spending" #NT!
- road_spending_level_4: "Significant Infrastructure Spending" #NT!
- road_spending_level_5: "Massive Infrastructure Spending" #NT!
-  
-  ## Naval Spending Policy 
- EFFECT_CHANGE_LAW_naval_spending_slider_law: "Change Naval Spending Policy to '$NAME|Y$' which grants ($DESC$)." #NT!
- naval_infrastructure_slider_law: "Navy Spending Policy" #NT!
- navy_spending_level_1: "Minimal Navy Spending" #NT!
- navy_spending_level_2: "Limited Navy Spending" #NT!
- navy_spending_level_3: "Moderate Navy Spending" #NT!
- navy_spending_level_4: "Significant Navy Spending" #NT!
- navy_spending_level_5: "Massive Navy Spending" #NT!
-  
+ ## Политика налогообложения
+ EFFECT_CHANGE_LAW_taxation_slider_law: "Изменить политику налогообложения на '$NAME|Y$', которая даёт ($DESC$)." #NT!
+ taxation_slider_law: "Политика налогообложения" #NT!
+ taxation_level_1: "Минимальное налогообложение" #NT!
+ taxation_level_2: "Низкое налогообложение" #NT!
+ taxation_level_3: "Умеренное налогообложение" #NT!
+ taxation_level_4: "Высокое налогообложение" #NT!
+ taxation_level_5: "Очень высокое налогообложение" #NT!
+
+ ## Политика социальных расходов
+ EFFECT_CHANGE_LAW_social_spending_slider_law: "Изменить политику социальных расходов на '$NAME|Y$', которая даёт ($DESC$)." #NT!
+ social_spending_slider_law: "Политика социальных расходов" #NT!
+ social_spending_level_1: "Минимальные социальные расходы" #NT!
+ social_spending_level_2: "Ограниченные социальные расходы" #NT!
+ social_spending_level_3: "Умеренные социальные расходы" #NT!
+ social_spending_level_4: "Значительные социальные расходы" #NT!
+ social_spending_level_5: "Щедрые социальные расходы" #NT!
+
+ ## Политика военных расходов
+ EFFECT_CHANGE_LAW_army_spending_slider_law: "Изменить политику военных расходов на '$NAME|Y$', которая даёт ($DESC$)." #NT!
+ army_spending_slider_law: "Политика военных расходов" #NT!
+ army_spending_level_1: "Минимальные военные расходы" #NT!
+ army_spending_level_2: "Ограниченные военные расходы" #NT!
+ army_spending_level_3: "Умеренные военные расходы" #NT!
+ army_spending_level_4: "Значительные военные расходы" #NT!
+ army_spending_level_5: "Массированные военные расходы" #NT!
+
+ ## Политика расходов на исследования и образование
+ EFFECT_CHANGE_LAW_research_spending_slider_law: "Изменить политику расходов на исследования и образование на '$NAME|Y$', которая даёт ($DESC$)." #NT!
+ research_spending_slider_law: "Политика расходов на исследования и образование" #NT!
+ research_spending_level_1: "Минимальные расходы на исследования и образование" #NT!
+ research_spending_level_2: "Ограниченные расходы на исследования и образование" #NT!
+ research_spending_level_3: "Умеренные расходы на исследования и образование" #NT!
+ research_spending_level_4: "Значительные расходы на исследования и образование" #NT!
+ research_spending_level_5: "Массированные расходы на исследования и образование" #NT!
+
+ ## Политика расходов на правопорядок
+ EFFECT_CHANGE_LAW_law_spending_slider_law: "Изменить политику расходов на правопорядок на '$NAME|Y$', которая даёт ($DESC$)." #NT!
+ law_and_order_slider_law: "Политика расходов на правопорядок" #NT!
+ law_spending_level_1: "Минимальные расходы на правопорядок" #NT!
+ law_spending_level_2: "Ограниченные расходы на правопорядок" #NT!
+ law_spending_level_3: "Умеренные расходы на правопорядок" #NT!
+ law_spending_level_4: "Значительные расходы на правопорядок" #NT!
+ law_spending_level_5: "Массированные расходы на правопорядок" #NT!
+
+ ## Политика расходов на инфраструктуру
+ EFFECT_CHANGE_LAW_road_spending_slider_law: "Изменить политику расходов на инфраструктуру на '$NAME|Y$', которая даёт ($DESC$)." #NT!
+ road_maintenance_slider_law: "Политика расходов на инфраструктуру" #NT!
+ road_spending_level_1: "Минимальные расходы на инфраструктуру" #NT!
+ road_spending_level_2: "Ограниченные расходы на инфраструктуру" #NT!
+ road_spending_level_3: "Умеренные расходы на инфраструктуру" #NT!
+ road_spending_level_4: "Значительные расходы на инфраструктуру" #NT!
+ road_spending_level_5: "Массированные расходы на инфраструктуру" #NT!
+
+ ## Политика расходов на флот
+ EFFECT_CHANGE_LAW_naval_spending_slider_law: "Изменить политику расходов на флот на '$NAME|Y$', которая даёт ($DESC$)." #NT!
+ naval_infrastructure_slider_law: "Политика расходов на флот" #NT!
+ navy_spending_level_1: "Минимальные расходы на флот" #NT!
+ navy_spending_level_2: "Ограниченные расходы на флот" #NT!
+ navy_spending_level_3: "Умеренные расходы на флот" #NT!
+ navy_spending_level_4: "Значительные расходы на флот" #NT!
+ navy_spending_level_5: "Массированные расходы на флот" #NT!
   
  ############################################### 
  ## Tooltips 
@@ -567,29 +566,29 @@
  idea_header_political: "£pol_idea_texticon \n" #NT!
  idea_header_military: "£army_experience_20x20 \n" #NT!
  idea_header_economy: "£industry \n" #NT!
- CANNOT_CHANGE_SLIDER_LAW_MUST_USE_SLIDER: "You cannot change §OSpending Laws§! laws here, use the sliders in the §YEconomy§! view instead." #NT!
- eoanb_trigger_tt_law_closed_economy: "§YSome other special circumstances will also allow you to switch to this.§!"
- paid_our_debts: "Paid our Debts" #NT!
+ CANNOT_CHANGE_SLIDER_LAW_MUST_USE_SLIDER: "Вы не можете изменить законы §Oрасходов§! здесь, используйте ползунки в меню §YЭкономика§!." #NT!
+ eoanb_trigger_tt_law_closed_economy: "§YНекоторые другие особые обстоятельства также позволят вам переключиться на этот вариант.§!" #NT!
+ paid_our_debts: "Погашены наши долги" #NT!
   
  ############################################### 
  ## Commands 
  ############################################## 
   
- d_add_money_DESC: "Adds the specified amount of [GetCurrentSIUnit][GetCurrencyTextIcon]. A country can be targeted by selecting \nit via right-click.  \nUsage: §Yadd_money <integer>§!. Will add §Y1000§!, if no number is \nspecified." #NT!
- D_ADD_MONEY_TT: "(§Y[This.GetName]§!): Gain [?args^0?1000|2+][GetCurrentSIUnit][GetCurrencyTextIcon]." #NT!
- D_SUBTRACT_MONEY_TT: "(§Y[This.GetName]§!): Lose [?args^0?1000|2+][GetCurrentSIUnit][GetCurrencyTextIcon]." #NT!
-  
- d_add_inflation_DESC: "Changes inflation by the specified amount of. A country can be targeted by \nselecting it via right-click. \nUsage: §Yadd_inflation <float>§!. Will add §Y10%§!, if no number is \nspecified." #NT!
- D_ADD_INFLATION_TT: "(§Y[This.GetName]§!): Gain [?args^0?0.1|2-=%] inflation." #NT!
-  
- d_set_unemployment_DESC: "Sets the unemployment to the specified amount. A country can be targeted by selecting \nit via right-click.  \nUsage: §Yset_unemployment <float>§!. Will set to §Y10%§!, if no number is \nspecified." #NT!
- D_SET_UNEMPLOYMENT_TT: "(§Y[This.GetName]§!): Set the §Yunemployment§! to §Y[?unemployment_value|%2]§!." #NT!
-  
- d_add_unemployment_DESC: "Changes the unemployment by the specified amount. A country can be targeted by selecting \nit via right-click.  \nUsage: §Yadd_unemployment <float>§!. Will add §Y10%§!, if no number is \nspecified." #NT!
- D_ADD_UNEMPLOYMENT_TT: "(§Y[This.GetName]§!): The §Yunemployment§! is changed by [?unemployment_value|%2-=]." #NT!
-  
- d_change_unemployment_impact_DESC: "Changes the impact of unemployment be the specific percentage. \nThis value can also be influenced by ideas. A country can be \ntargeted by selecting it via right-click.  \nUsage: §Ychange_unemployment_impact <float>§!. Will add §Y10%§!, \nif no number is specified." #NT!
- D_CHANGE_UNEMPLOYMENT_IMPACT_TT: "Change the impact of §Yunemployment§! (currently [?current_value|-2%=]) by" #NT!
+ d_add_money_DESC: "Добавляет указанное количество [GetCurrentSIUnit][GetCurrencyTextIcon]. Страна может быть выбрана для цели, щелкнув по ней правой кнопкой мыши. \nИспользование: §Yadd_money <integer>§!. Если число не указано, будет добавлено §Y1000§!." #NT!
+ D_ADD_MONEY_TT: "(§Y[This.GetName]§!): Получает [?args^0?1000|2+][GetCurrentSIUnit][GetCurrencyTextIcon]." #NT!
+ D_SUBTRACT_MONEY_TT: "(§Y[This.GetName]§!): Теряет [?args^0?1000|2+][GetCurrentSIUnit][GetCurrencyTextIcon]." #NT!
+
+ d_add_inflation_DESC: "Изменяет уровень инфляции на указанную величину. Страна может быть выбрана для цели, щелкнув по ней правой кнопкой мыши. \nИспользование: §Yadd_inflation <float>§!. Если число не указано, будет добавлено §Y10%§!." #NT!
+ D_ADD_INFLATION_TT: "(§Y[This.GetName]§!): Увеличение инфляции на [?args^0?0.1|2-=%]." #NT!
+
+ d_set_unemployment_DESC: "Устанавливает уровень безработицы на указанную величину. Страна может быть выбрана для цели, щелкнув по ней правой кнопкой мыши. \nИспользование: §Yset_unemployment <float>§!. Если число не указано, будет установлено §Y10%§!." #NT!
+ D_SET_UNEMPLOYMENT_TT: "(§Y[This.GetName]§!): Уровень §Yбезработицы§! установлен на §Y[?unemployment_value|%2]§!." #NT!
+
+ d_add_unemployment_DESC: "Изменяет уровень безработицы на указанную величину. Страна может быть выбрана для цели, щелкнув по ней правой кнопкой мыши. \nИспользование: §Yadd_unemployment <float>§!. Если число не указано, будет добавлено §Y10%§!." #NT!
+ D_ADD_UNEMPLOYMENT_TT: "(§Y[This.GetName]§!): Уровень §Yбезработицы§! изменяется на [?unemployment_value|%2-=]." #NT!
+
+ d_change_unemployment_impact_DESC: "Изменяет влияние безработицы на указанный процент. \nЭта величина также может зависеть от национальных идей. Страна может быть выбрана для цели, щелкнув по ней правой кнопкой  мыши. \nИспользование: §Ychange_unemployment_impact <float>§!. Если число не указано, будет добавлено §Y10%§!." #NT!
+ D_CHANGE_UNEMPLOYMENT_IMPACT_TT: "Изменить влияние §Yбезработицы§! (в настоящее время [?current_value|-2%=]) на" #NT!
  D_CHANGE_UNEMPLOYMENT_IMPACT_TT_2: "[?modifier_value|-2%=]." #NT!
   
  ############################################### 
@@ -625,15 +624,15 @@
  country_GDP_M_map_1: "[?FROM.controller:country_GDP_M|Y0] §YM§!" #NT!
  country_GDP_T_map_2: "[?FROM.controller:country_GDP_T|Y0..3] §YT§!" #NT!
  country_GDP_B_map_3: "[?FROM.controller:country_GDP_B|Y0..3] §YB§!" #NT!
- view_GDP_button_tt: "Open GDP Screen" #NT!
- top_ten_GDP_country_flag_icon_tt: "[THIS.GetName]\nGDP: $[country_GDP_f_d]\nGDP per capita: $[?country_GDP_per_capita|Y0]\nGDP growth/m: [?GDP_growth_value|0..3+=%%]\nPercentage of total GDP: §Y[?percentage_of_GDP|%%]§!" #NT!
- GDP_list_flag_button_tt: "[THIS.GetName]\nGDP: $[country_GDP_f_d]\nGDP per capita: $[?country_GDP_per_capita|Y0]\nGDP growth/m: [?GDP_growth_value|0..3+=%%]\nPercentage of total GDP: §Y[?percentage_of_GDP|%%]§!" #NT!
- GDP_selected_country_flag_icon_tt: "[THIS.GetName]\nGDP: $[country_GDP_f_d]\nGDP per capita: $[?country_GDP_per_capita|Y0]\nGDP growth/m: [?GDP_growth_value|0..3+=%%]\nPercentage of total GDP: §Y[?percentage_of_GDP|%%]§!" #NT!
+ view_GDP_button_tt: "Открыть экран ВВП" #NT!
+ top_ten_GDP_country_flag_icon_tt: "[THIS.GetName]\nВВП: $[country_GDP_f_d]\nВВП на душу населения: $[?country_GDP_per_capita|Y0]\nРост ВВП/мес: [?GDP_growth_value|0..3+=%%]\nДоля в общем ВВП: §Y[?percentage_of_GDP|%%]§!" #NT!
+ GDP_list_flag_button_tt: "[THIS.GetName]\nВВП: $[country_GDP_f_d]\nВВП на душу населения: $[?country_GDP_per_capita|Y0]\nРост ВВП/мес: [?GDP_growth_value|0..3+=%%]\nДоля в общем ВВП: §Y[?percentage_of_GDP|%%]§!" #NT!
+ GDP_selected_country_flag_icon_tt: "[THIS.GetName]\nВВП: $[country_GDP_f_d]\nВВП на душу населения: $[?country_GDP_per_capita|Y0]\nРост ВВП/мес: [?GDP_growth_value|0..3+=%%]\nДоля в общем ВВП: §Y[?percentage_of_GDP|%%]§!" #NT!
  GDP_list_text: "[country_GDP_f]" #NT!
  GDP_per_capita_list_text: "[?country_GDP_per_capita|0]" #NT!
  top_ten_GDP_rank: "No. [?THIS.GDP_position|0]" #NT!
- GDP_selected_country_rank: "Rank No. [?THIS.GDP_position|0]" #NT!
- GDP_main_title: "Country GDP Rankings" #NT!
- GDP_list_sort_button_text: "GDP" #NT!
- GDP_per_capita_list_sort_button_text: "GDP Per Capita" #NT!
- GDP_main_text: "Average GDP: [?global.average_GDP|Y] §YB §!P.C.: [?global.average_GDP_per_capita|Y0] Country GDP:§Y [country_GDP_f] §!P.C.: [?country_GDP_per_capita|Y0]" #NT!
+ GDP_selected_country_rank: "Ранг No. [?THIS.GDP_position|0]" #NT!
+ GDP_main_title: "Рейтинг стран по ВВП" #NT!
+ GDP_list_sort_button_text: "ВВП" #NT!
+ GDP_per_capita_list_sort_button_text: "ВВП на душу населения" #NT!
+ GDP_main_text: "Средний ВВП: [?global.average_GDP|Y] §YB §! ВВП на душу населения: [?global.average_GDP_per_capita|Y0] ВВП страны:§Y [country_GDP_f] §! ВВП на душу населения: [?country_GDP_per_capita|Y0]" #NT!
