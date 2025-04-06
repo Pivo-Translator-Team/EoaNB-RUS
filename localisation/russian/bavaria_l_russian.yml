@@ -18,8 +18,8 @@
   
  BAV_decision_category_economy: "Экономика Баварии"
  BAV_mission_industrializing: "Индустриализация"
- BAV_decision_enact_free_enterprise: "Enact Free Enterprise"
- BAV_decision_establish_an_industrial_code: "Establish an Industrial Code"
+ BAV_decision_enact_free_enterprise: "Enact Free Enterprise" #NT!
+ BAV_decision_establish_an_industrial_code: "Establish an Industrial Code" #NT!
  BAV_decision_railway_upgrade: "Модернизация железной дороги"
  BAV_decision_railway_upgrade_desc: "Наша железнодорожная сеть больше не справляется с задачей поддержки, не говоря уже о стимулировании современной промышленности. Модернизация и расширение не только исправят эту проблему, но и предоставят важные контракты для нашей промышленности, а также возможность расширить торговлю."
  BAV_decision_railway_upgrade_trigger_tt: "Имеется §YЖелезнодорожное соединение§! между §YПассау§! и §YНюрнбергом§!, а также между §YБерхтесгаденом§! и §YМюнхеном§!\n"

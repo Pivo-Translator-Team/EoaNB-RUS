@@ -6,7 +6,7 @@
  boer_states.1.d: "Our war with the [OFS.GetNameDef] is going badly, we are badly outnumbered and there are rumors of some of our automonus regions siding with them. Perhaps we should offer peace before it is too late"
  boer_states.1.a: "Offer them Peace"
  boer_states.1.b: "Never!"
- boer_states.1.c: "Not only shall we recognize them, we shall guarantee them as well"
+ boer_states.1.c: "Not only shall we recognize them, we shall guarantee them as well" #NT!
  boer_states.2.t: "Orange Free State refuses integration"
  boer_states.2.d: "After multiple requests made to the [OFS.GetNameDef] about a union and being declined every time, We just recived information about the [OFS.GetNameDef] imprisioning many of our loyalists there for treson."
  boer_states.2.a: "We can not let this Stand! To war!"
@@ -18,11 +18,11 @@
  boer_states.4.a: "Isn't he the president of the South African Republic already ?"
  boer_states.5.t: "Pretorius left the Orange Free State !"
  boer_states.5.a: "The Government Secretary of the Volksraad, Joseph Allison, will serve as acting president for now"
- boer_states.5.b: "There must be separation of the church from the state"
+ boer_states.5.b: "There must be separation of the church from the state" #NT!
  boer_states.6.t: "The Resignation of Pretorius was accepted by the Volksraad"
  boer_states.6.d: ""
  boer_states.6.a: "The Volksraad will take charge until a new acting president is chosen"
- boer_states.6.b: "Ignore the British"
+ boer_states.6.b: "Ignore the British" #NT!
  boer_states.7.t: "The Volksraad decides to give the seat to Jacobus Johannes Venter"
  boer_states.7.d: ""
  boer_states.7.a: "He becomes the acting president"
@@ -32,7 +32,7 @@
  boer_states.9.t: "Resignation of Pretorius"
  boer_states.9.d: ""
  boer_states.9.a: "Johannes Hermanus Grobler becomes the acting president"
- boer_states.9.b: "The Practice is immoral"
+ boer_states.9.b: "The Practice is immoral" #NT!
  boer_states.10.t: "Stephanus Schoeman takes power !"
  boer_states.10.d: ""
  boer_states.10.a: "What a twist ?"
@@ -80,7 +80,7 @@
  boer_states.24.t: "[GOS.GetName] asks for Integration?"
  boer_states.24.d: "We have received envoys from the small [GOS.GetName] asking to join our republic, should we let them"
  boer_states.24.a: "Yes, We shall now be Known as The United States of Stellaland"
- #boer_states.25.t: "REMOVED"
+ #boer_states.25.t: "REMOVED" #NT!
  boer_states.26.t: "[ENG.GetName] declares us a Protectorate"
  boer_states.26.d: "[ENG.GetNameDef]has declared us to be part of it's realm, shall we ask to join [TRV.GetNameDef] instead?"
  boer_states.26.a: "Yes, go to [OFS.GetNameDef]"
@@ -90,8 +90,8 @@
  boer_states.28.t: "[STL.GetNameDef] has asked us to integrate them"
  boer_states.28.d: "Recently [ENG.GetNameDef] has declared [STL.GetName] as a protectorate, however the Citizens of [STL.GetNameDef] have come to us asking to instead be integrated into our nation"
  boer_states.28.a: "We Accept"
- #boer_states.29.t: "HIDDEN"
- #boer_states.30.t: "HIDDEN"
+ #boer_states.29.t: "HIDDEN" #NT!
+ #boer_states.30.t: "HIDDEN" #NT!
  boer_states.31.t: "[ENG.GetNameDef] has full control over [1148.GetName]"
  boer_states.31.d: "We have lost the war against [ENG.GetNameDef] and their Representatives are pushing for peace, should we accept?"
  boer_states.31.a: "We accept it"
@@ -109,7 +109,7 @@
  boer_states.34.a: "Fine, we side with the [OFS.GetName]"
  boer_states.34.b: "Fine, we side with the [SOT.GetName]"
  boer_states.35.t: "Sign the Treaty?"
- boer_states.35.d: "The Digger Republic has beaten our commandos and we are unable to do anything further. We have lost too much in this adventure, we can not lose anymore."
+ boer_states.35.d: "The Digger Republic has beaten our commandos and we are unable to do anything further. We have lost too much in this adventure, we can not lose anymore." #NT!
  boer_states.35.a: "We Agree"
  boer_states.36.t: "The Treaty is agreed to"
  boer_states.36.d: "Both sides have agreed to the treaty over the fate of [779.GetName], and the treaty terms are now being put into action."
@@ -133,37 +133,37 @@
  boer_states.42.d: "[OFS.GetNameDef] is currently winning against [SOT.GetNameDef] and if they win, they may disturb the balance within the region. shall we offer to arbitrate a treaty?"
  boer_states.42.a: "Ignore the War"
  boer_states.42.b: "Offer to arbitrate a Treaty"
- boer_states.43.t: "Schoeman Stars Civil War"
- boer_states.43.d: "After Schoeman unsuccessfully attempted to use force to supplant Grobler as acting president, Kruger persuaded him to submit to a volksraad hearing, where Schoeman was censured and relieved of his post. Willem Cornelis Janse van Rensburg was appointed acting president while a new election was organised for October 1862. Dissatisfied with the Volksraad decision to censure him, Schoeman has mustered a commando at Potchefstroom and is once again attempting to force his way into office."
- boer_states.43.a: "Muster our Commandos"
- boer_states.44.t: "Elections are Held Again"
- boer_states.44.d: "Knowing he was defeated Schoeman accepted negotiations held with Kruger and Pretorius, agreeing to hold a special court on the disturbances soon thereafter fresh elections for president and commandant-general. Schoeman was found guilty of rebellion against the state and banished. The election results were announced, with Van Rensburg becoming president and Kruger as commandant-general. Both expressed disappointment at the low turnout and resolved to hold another set of elections. The civil war led to an economic collapse in the Transvaal, weakening the government's ability to back up its professed authority and sovereignty over the local chiefdoms. "
- boer_states.44.a: "Time to Rebuild"
- boer_states.45.t: "Pretorius Elected President in OFS"
- boer_states.45.d: "In late 1859, the president of Transvaal, Marthinus Wessel Pretorius, was invited to stand for President in the Orange Free State, where many burghers now favoured union, partly as a means to overcome the Basotho. The Transvaal constitution that he had just enacted made it illegal to hold office abroad, but he readily did so and won. The Volksraad attempted to side-step the constitutional problems by granting Pretorius half-a-year of leave in the hope that a solution might come about, and the president duly left for Bloemfontein and appointed Johannes Hermanus Grobler to be acting president in his absence."
- boer_states.45.a: "Tick.. Tock..."
- boer_states.46.t: "OFS Request Unification Talks"
- boer_states.46.d: "Once Pretorius was sworn in as President of the Free State he had sent a deputation to Pretoria to negotiate union the next day. Should we agree to negoitate a union between our nations, this may lead to Britain declaring the Sand River and Orange River Conventions void if the republics joined."
- boer_states.46.a: "Accept"
- boer_states.46.b: "Decline"
- boer_states.47.t: "Talks Fail with Transvaal"
- boer_states.47.d: "Transvaal government disliked Pretorius's unconstitutional dual presidency and worried that Britain might declare the Sand River and Orange River Conventions void if the republics joined. Thus have refused any talks for unification."
- boer_states.47.a: "Shame"
- boer_states.48.t: "Talks Begin"
- boer_states.48.d: "Negotiations between our government and Transvaal have started to decide whether unification will be possible, there are likely to be some major points that will decide the fate of these talks..."
- boer_states.48.a: "Great News!"
- boer_states.49.t: "Economic Investment"
- boer_states.49.d: "The Orange Free State has made a resuest during the unification talks for increased economic investment in their lands. This is due to the belief that our state is the richer and more populace, as a result we have a greater economy than theirs. While aspects of this are true, we are not much better off than the OFS and this could cause some anger within our nation, taking away their hard earned money to give it to someone else..."
- boer_states.49.a: "Accept"
- boer_states.49.b: "Refuse"
- boer_states.50.t: "Break Off UK Relations"
- boer_states.50.d: "Transvaal has demanded that a unified Boer Republic would have no ties with Britain. However, many within the Orange Free State believe good relations with Britain are important and some even seek unification with the Cape Colony. Furthermore, this unification would make the Sand River and Orange River Conventions void which could lead Britain to have justification to declare war on us..."
- boer_states.50.a: "Accept"
- boer_states.50.b: "Refuse"
+ boer_states.43.t: "Schoeman Stars Civil War" #NT!
+ boer_states.43.d: "After Schoeman unsuccessfully attempted to use force to supplant Grobler as acting president, Kruger persuaded him to submit to a volksraad hearing, where Schoeman was censured and relieved of his post. Willem Cornelis Janse van Rensburg was appointed acting president while a new election was organised for October 1862. Dissatisfied with the Volksraad decision to censure him, Schoeman has mustered a commando at Potchefstroom and is once again attempting to force his way into office." #NT!
+ boer_states.43.a: "Muster our Commandos" #NT!
+ boer_states.44.t: "Elections are Held Again" #NT!
+ boer_states.44.d: "Knowing he was defeated Schoeman accepted negotiations held with Kruger and Pretorius, agreeing to hold a special court on the disturbances soon thereafter fresh elections for president and commandant-general. Schoeman was found guilty of rebellion against the state and banished. The election results were announced, with Van Rensburg becoming president and Kruger as commandant-general. Both expressed disappointment at the low turnout and resolved to hold another set of elections. The civil war led to an economic collapse in the Transvaal, weakening the government's ability to back up its professed authority and sovereignty over the local chiefdoms. " #NT!
+ boer_states.44.a: "Time to Rebuild" #NT!
+ boer_states.45.t: "Pretorius Elected President in OFS" #NT!
+ boer_states.45.d: "In late 1859, the president of Transvaal, Marthinus Wessel Pretorius, was invited to stand for President in the Orange Free State, where many burghers now favoured union, partly as a means to overcome the Basotho. The Transvaal constitution that he had just enacted made it illegal to hold office abroad, but he readily did so and won. The Volksraad attempted to side-step the constitutional problems by granting Pretorius half-a-year of leave in the hope that a solution might come about, and the president duly left for Bloemfontein and appointed Johannes Hermanus Grobler to be acting president in his absence." #NT!
+ boer_states.45.a: "Tick.. Tock..." #NT!
+ boer_states.46.t: "OFS Request Unification Talks" #NT!
+ boer_states.46.d: "Once Pretorius was sworn in as President of the Free State he had sent a deputation to Pretoria to negotiate union the next day. Should we agree to negoitate a union between our nations, this may lead to Britain declaring the Sand River and Orange River Conventions void if the republics joined." #NT!
+ boer_states.46.a: "Accept" #NT!
+ boer_states.46.b: "Decline" #NT!
+ boer_states.47.t: "Talks Fail with Transvaal" #NT!
+ boer_states.47.d: "Transvaal government disliked Pretorius's unconstitutional dual presidency and worried that Britain might declare the Sand River and Orange River Conventions void if the republics joined. Thus have refused any talks for unification." #NT!
+ boer_states.47.a: "Shame" #NT!
+ boer_states.48.t: "Talks Begin" #NT!
+ boer_states.48.d: "Negotiations between our government and Transvaal have started to decide whether unification will be possible, there are likely to be some major points that will decide the fate of these talks..." #NT!
+ boer_states.48.a: "Great News!" #NT!
+ boer_states.49.t: "Economic Investment" #NT!
+ boer_states.49.d: "The Orange Free State has made a resuest during the unification talks for increased economic investment in their lands. This is due to the belief that our state is the richer and more populace, as a result we have a greater economy than theirs. While aspects of this are true, we are not much better off than the OFS and this could cause some anger within our nation, taking away their hard earned money to give it to someone else..." #NT!
+ boer_states.49.a: "Accept" #NT!
+ boer_states.49.b: "Refuse" #NT!
+ boer_states.50.t: "Break Off UK Relations" #NT!
+ boer_states.50.d: "Transvaal has demanded that a unified Boer Republic would have no ties with Britain. However, many within the Orange Free State believe good relations with Britain are important and some even seek unification with the Cape Colony. Furthermore, this unification would make the Sand River and Orange River Conventions void which could lead Britain to have justification to declare war on us..." #NT!
+ boer_states.50.a: "Accept" #NT!
+ boer_states.50.b: "Refuse" #NT!
  boer_states.51.t: "Diamonds Discovered in [1149.GetName]"
  boer_states.51.d: "A Large area of diamond mines have been discovered on the banks of the Vaal river within the state of [1149.GetName] and our adminitration there reports a large influx of miners to the area, ready to make themselves (And us) rich"
  boer_states.51.a: "This is good news"
- boer_states.51.b: "Refuse"
+ boer_states.51.b: "Refuse" #NT!
  boer_states.52.t: "Diamonds Discovered in [1149.GetName]"
  boer_states.52.d: "A Large area of diamond mines have been discovered on the banks of the Vaal river within the Disputed state of [1149.GetName]. [OFS.GetNameDef] has moved officals into the area and are attempting to administrate the area, however we have also laid claim to the area."
  boer_states.52.a: "Assert our claim"
@@ -181,30 +181,30 @@
  boer_states.56.d: "We have had control of the Kimberly diamond mines within the [1149.GetName] state. however [OFS.GetNameDef] are still claiming soverenty over the land and causing our diplomatic relations to plummit with the nations that are frendly with the [OFS.GetName]."
  boer_states.56.a: "Let us send a token monetary recompense"
  boer_states.56.b: "Cede the land back"
- boer_states.56.c: "Design 3"
- boer_states.56.e: "Our Current Flag"
- boer_states.57.t: "Philippolis Abandoned"
- boer_states.57.d: "The Griqua people that have lived in Philippolis have finally migrated elsewhere. This now allows us to fully take control of the area and strengthen our southern border with the British."
- boer_states.57.a: "Move in"
+ boer_states.56.c: "Design 3" #NT!
+ boer_states.56.e: "Our Current Flag" #NT!
+ boer_states.57.t: "Philippolis Abandoned" #NT!
+ boer_states.57.d: "The Griqua people that have lived in Philippolis have finally migrated elsewhere. This now allows us to fully take control of the area and strengthen our southern border with the British." #NT!
+ boer_states.57.a: "Move in" #NT!
   #boer_states.58.t: NOT NEEDED 
- boer_states.59.t: "Lydenburg Joins the Republic"
- boer_states.59.d: "After years of independance, our fellow countrymen in Lydenburg have decided to join our great republic willingly. We our slowly unifying the region for our people!"
- boer_states.59.a: "Great news!"
- boer_states.60.t: "Sir Theophilus Shepstone"
- boer_states.60.d: "Shepstone has arrived in Pretoria and issued a proclamation announcing the establishment of British authority over the Transvaal. Shepstone's force consisted of twenty-five men of the Natal Mounted Police only, but no overt opposition was made to the annexation as the republic is in a condition bordering on anarchy."
- boer_states.60.a: "Worrying"
- boer_states.61.t: "Diplomats in London"
- boer_states.61.d: "In an attempt to avoid a war, a delegation was sent to London to protest the illeagal occupation of our homeland. However, this diplomacy did not have the desired effect and our pleas fell on deaf ears. It is becoming increasingly likely that a war will break out."
- boer_states.61.a: "Worrying"
- boer_states.62.t: "British Rule in South Africa"
- boer_states.62.d: "Transvaal has failed to resist British occupation and it seems unlikely that we will be able to resist a Confederation imposed upon us by London. We have recieved an invitation by the Cape Colony to join a South African Confederation, many within our government see little point in refusing... it would lead to unnecessary bloodshed."
- boer_states.62.a: "End of the Free State"
- boer_states.63.t: "South African Union"
- boer_states.63.d: "Through the strong leadership of Prime Minister Molteno in the Cape Colony, the likelihood an South African Union has become the greatest it has ever been. The Prime Minister has put forward a fair plan that sees all parties take an equal stake. While our nation and people would come under British rule, which many see as undesirable, the new South African Union would have many freedom akin to Canada. There is little opposistion to this plan and the Volksraad will approve the treaty."
- boer_states.63.a: "Great News"
- boer_states.64.t: "South African Union"
- boer_states.64.d: "Through the strong leadership of Prime Minister Molteno in the Cape Colony, the likelihood an South African Union has become the greatest it has ever been. The Prime Minister has put forward a fair plan that sees all parties take an equal stake. While our nation and people would come under British rule, which many see as undesirable, the new South African Union would have many freedom akin to Canada. There is little opposistion to this plan and the Volksraad will approve the treaty."
- boer_states.64.a: "Great News"
+ boer_states.59.t: "Lydenburg Joins the Republic" #NT!
+ boer_states.59.d: "After years of independance, our fellow countrymen in Lydenburg have decided to join our great republic willingly. We our slowly unifying the region for our people!" #NT!
+ boer_states.59.a: "Great news!" #NT!
+ boer_states.60.t: "Sir Theophilus Shepstone" #NT!
+ boer_states.60.d: "Shepstone has arrived in Pretoria and issued a proclamation announcing the establishment of British authority over the Transvaal. Shepstone's force consisted of twenty-five men of the Natal Mounted Police only, but no overt opposition was made to the annexation as the republic is in a condition bordering on anarchy." #NT!
+ boer_states.60.a: "Worrying" #NT!
+ boer_states.61.t: "Diplomats in London" #NT!
+ boer_states.61.d: "In an attempt to avoid a war, a delegation was sent to London to protest the illeagal occupation of our homeland. However, this diplomacy did not have the desired effect and our pleas fell on deaf ears. It is becoming increasingly likely that a war will break out." #NT!
+ boer_states.61.a: "Worrying" #NT!
+ boer_states.62.t: "British Rule in South Africa" #NT!
+ boer_states.62.d: "Transvaal has failed to resist British occupation and it seems unlikely that we will be able to resist a Confederation imposed upon us by London. We have recieved an invitation by the Cape Colony to join a South African Confederation, many within our government see little point in refusing... it would lead to unnecessary bloodshed." #NT!
+ boer_states.62.a: "End of the Free State" #NT!
+ boer_states.63.t: "South African Union" #NT!
+ boer_states.63.d: "Through the strong leadership of Prime Minister Molteno in the Cape Colony, the likelihood an South African Union has become the greatest it has ever been. The Prime Minister has put forward a fair plan that sees all parties take an equal stake. While our nation and people would come under British rule, which many see as undesirable, the new South African Union would have many freedom akin to Canada. There is little opposistion to this plan and the Volksraad will approve the treaty." #NT!
+ boer_states.63.a: "Great News" #NT!
+ boer_states.64.t: "South African Union" #NT!
+ boer_states.64.d: "Through the strong leadership of Prime Minister Molteno in the Cape Colony, the likelihood an South African Union has become the greatest it has ever been. The Prime Minister has put forward a fair plan that sees all parties take an equal stake. While our nation and people would come under British rule, which many see as undesirable, the new South African Union would have many freedom akin to Canada. There is little opposistion to this plan and the Volksraad will approve the treaty." #NT!
+ boer_states.64.a: "Great News" #NT!
   
  ############### 
  ### FOCUSES ### 
@@ -219,8 +219,8 @@
  TRV_focus_external_focus_desc: "Our nation is in a precarious position, we should focus our efforts on securing our nations place in the world"
  TRV_focus_establish_laws_on_tariffs: "Establish Laws on Tariffs"
  TRV_focus_establish_laws_on_tariffs_desc: "Complete the reforms around Tariff law and what can be tariffed"
- TRV_focus_establish_industry: "Establish an Industry"
- TRV_focus_establish_industry_desc: ""
+ TRV_focus_establish_industry: "Establish an Industry" #NT!
+ TRV_focus_establish_industry_desc: "" #NT!
  TRV_focus_gunpowder_regulations: "Gunpowder Regulations"
  TRV_focus_gunpowder_regulations_desc: "Establish Regulations on gunpowder production and distribution within the [OFS.GetName]"
  TRV_focus_encorage_the_founding_of_a_research_foundation: "Encourage the Founding of a Research Foundation"
@@ -251,16 +251,16 @@
  TRV_focus_encorage_immirgration_desc: "In order to increase our population our advisors have suggested that we implement policies to encourage more Immigration into our country"
  TRV_focus_create_a_national_tax_code: "Create a National Tax Code"
  TRV_focus_create_a_national_tax_code_desc: "Our economy is completely unbalanced and unregulated, we should establish a proper tax code to stablise our nation and its economy"
- TRV_focus_attempt_diplomatic_ties_with_OFS: "Attempt Diplomatic Ties with [OFS.GetName]"
- TRV_focus_attempt_diplomatic_ties_with_OFS_desc: "[OFS.GetNameDef] is the only other Boer nation around, although we have had hostilities in the past. That does not mean that we should not work together to assure our mutual survival. Let us send Emissaries to them to forge lasting relations"
+ TRV_focus_attempt_diplomatic_ties_with_OFS: "Attempt Diplomatic Ties with [OFS.GetName]" #NT!
+ TRV_focus_attempt_diplomatic_ties_with_OFS_desc: "[OFS.GetNameDef] is the only other Boer nation around, although we have had hostilities in the past. That does not mean that we should not work together to assure our mutual survival. Let us send Emissaries to them to forge lasting relations" #NT!
  TRV_focus_consoladate_internal_governence: "Consolidate Internal Governance"
  TRV_focus_consoladate_internal_governence_desc: "Consolidate our government after completing our internal reforms, this will help stablise our nation"
  TRV_focus_the_fuctions_of_a_state: "The Functions of a State"
  TRV_focus_the_fuctions_of_a_state_desc: "We must define the responsibilities and powers that the various branches of our government should have. This will allow us to establish how we manage our country both inside and out"
  TRV_focus_offer_joint_guarentees: "Offer Joint Guarantees"
  TRV_focus_offer_joint_guarentees_desc: "In order to maintain our independence we should proclaim joint guarantees with [TRV.GetNameDef]"
- TRV_focus_offer_to_join_with_the_OFS: "Offer to join with [OFS.GetNameDef]"
- TRV_focus_offer_to_join_with_the_OFS_desc: "Our nations are very similar in terms of our governace and our people, we have even had the same president. The idea to intergrate into [OFS.GetNameDef] has been floating round the upper tiers of our government. Should we offer to do so?"
+ TRV_focus_offer_to_join_with_the_OFS: "Offer to join with [OFS.GetNameDef]" #NT!
+ TRV_focus_offer_to_join_with_the_OFS_desc: "Our nations are very similar in terms of our governace and our people, we have even had the same president. The idea to intergrate into [OFS.GetNameDef] has been floating round the upper tiers of our government. Should we offer to do so?" #NT!
  TRV_focus_our_british_policy: "Our British Policy"
  TRV_focus_our_british_policy_desc: "Ever since the formation of our country our fate has depended on the actions of [ENG.GetNameDef].However, what we do about this is up to us. to go with [ENG.GetNameDef] or take our own path?"
  TRV_focus_establish_diplomacy_with_the_west_no_Britain: "Britain has not accepted our Integration"
@@ -371,28 +371,28 @@
  TRV_focus_coal_mine_expansion: "Coal Mine Expansions"
  TRV_focus_diamond_fields: "Expansion Diamond Fields"
  TRV_focus_riches_of_witwatersrand: "The Riches of Witwatersrand"
- TRV_focus_shepstone_arrival: "Shepstone's Arrival"
- TRV_focus_shepstone_arrival_desc: ""
- TRV_focus_shepstone_accepted: "Shepstone Accepted"
- TRV_focus_shepstone_accepted_desc: ""
- TRV_focus_begin_reforming: "Begin Reforming"
- TRV_focus_begin_reforming_desc: ""
- TRV_focus_shepstone_rejected: "Shepstone Rejected"
- TRV_focus_shepstone_rejected_desc: ""
- TRV_focus_push_volksraad: "Push the Volksraad to Act"
- TRV_focus_push_volksraad_desc: ""
- TRV_focus_encourage_passive_resistance: "Encourage Passive Resistance"
- TRV_focus_encourage_passive_resistance_desc: ""
- TRV_focus_negotiate_uk: "Attempt to Negotiate with Britain"
- TRV_focus_negotiate_uk_desc: ""
- TRV_focus_uk_misstreatment: "British Mistreatment"
- TRV_focus_uk_misstreatment_desc: ""
- TRV_focus_end_passive_resistance: "End Passive Resistance"
- TRV_focus_end_passive_resistance_desc: ""
- TRV_focus_civil_war: "Civil War Ends"
- TRV_focus_eco_afternath: "Economic Aftermath"
- TRV_focus_pol_afternath: "Political Aftermath"
- TRV_focus_recover_civil_war: "Civil War Recovery"
+ TRV_focus_shepstone_arrival: "Shepstone's Arrival" #NT!
+ TRV_focus_shepstone_arrival_desc: "" #NT!
+ TRV_focus_shepstone_accepted: "Shepstone Accepted" #NT!
+ TRV_focus_shepstone_accepted_desc: "" #NT!
+ TRV_focus_begin_reforming: "Begin Reforming" #NT!
+ TRV_focus_begin_reforming_desc: "" #NT!
+ TRV_focus_shepstone_rejected: "Shepstone Rejected" #NT!
+ TRV_focus_shepstone_rejected_desc: "" #NT!
+ TRV_focus_push_volksraad: "Push the Volksraad to Act" #NT!
+ TRV_focus_push_volksraad_desc: "" #NT!
+ TRV_focus_encourage_passive_resistance: "Encourage Passive Resistance" #NT!
+ TRV_focus_encourage_passive_resistance_desc: "" #NT!
+ TRV_focus_negotiate_uk: "Attempt to Negotiate with Britain" #NT!
+ TRV_focus_negotiate_uk_desc: "" #NT!
+ TRV_focus_uk_misstreatment: "British Mistreatment" #NT!
+ TRV_focus_uk_misstreatment_desc: "" #NT!
+ TRV_focus_end_passive_resistance: "End Passive Resistance" #NT!
+ TRV_focus_end_passive_resistance_desc: "" #NT!
+ TRV_focus_civil_war: "Civil War Ends" #NT!
+ TRV_focus_eco_afternath: "Economic Aftermath" #NT!
+ TRV_focus_pol_afternath: "Political Aftermath" #NT!
+ TRV_focus_recover_civil_war: "Civil War Recovery" #NT!
   
  OFS_focus_complete_legal_reforms: "Complete Legal Reforms"
  OFS_focus_complete_legal_reforms_desc: "Our country has been reforming its Legal codes, we should complete this before focusing our government on anything else"
@@ -551,18 +551,18 @@
  OFS_has_dominion_over_rhodesia: "Has dominion over [545.GetName]"
  SWZ_idea_bigger_than_it_looks: "Bigger than it seems"
  SWZ_idea_bigger_than_it_looks_desc: "Much of our country has been sold to [TRV.GetNameDef], however the exchange has not been finalized yet giving us access to the land and it's people"
- TRV_idea_occupied_swazi_territory: "Occupied Swazi Territory"
- TRV_idea_occupied_swazi_territory_desc: "We have prepared to purchase a large area of land from [SWZ.GetNameDef] however the exchange has not as of yet taken place, limiting our efforts in the region"
+ TRV_idea_occupied_swazi_territory: "Occupied Swazi Territory" #NT!
+ TRV_idea_occupied_swazi_territory_desc: "We have prepared to purchase a large area of land from [SWZ.GetNameDef] however the exchange has not as of yet taken place, limiting our efforts in the region" #NT!
  trv_ignore_british: "§YHas Policy§!:Ignore the British"
  trv_british_loyalty: "§YHas Policy§!:British Loyalty"
- TRV_shepstone_takeover: "Shepstone Arrives in Pretoria"
+ TRV_shepstone_takeover: "Shepstone Arrives in Pretoria" #NT!
  OFS_western_diplomacy.desc: "§YUnlocks Diplomacy with the West§!"
  eoanb_decision_OFS_western_diplo: "Send our Diplomats to [From.GetNameDef]"
  eoanb_decision_OFS_western_diplo_desc: "For a long time we have remained isolated from the west, Now it is time to send diplomats to the great powers, [From.GetNameDef] seems likely to reconise us"
- TRV_idea_annoyed_church: "Annoyed Church Authorities"
+ TRV_idea_annoyed_church: "Annoyed Church Authorities" #NT!
  trv_settled_church_question: "Settled the question of the Church?"
- TRV_idea_god_fairing_people: "God Fearing People"
- TRV_idea_disjointed_government: "Disjointed Government"
+ TRV_idea_god_fairing_people: "God Fearing People" #NT!
+ TRV_idea_disjointed_government: "Disjointed Government" #NT!
  afr_ofs_invest_in_resource_discovery: "Funding Resource Discovery"
  afr_ofs_gold_mines_1: "Gold Mines"
  afr_ofs_gold_mines_2: "Gold Mines"
@@ -585,7 +585,7 @@
  ofs_bluebacks_heavly_devalued: "Bluebacks Heavily Devalued"
  ofs_bluebacks_valued: "Bluebacks Valued"
  ofs_bluebacks_heavly_valued: "Bluebacks Heavily Valued"
- ofs_idea_efficient_taxing: "Efficient Tax Collectors"
+ ofs_idea_efficient_taxing: "Efficient Tax Collectors" #NT!
  ofs_blueback_warning: "Establishes Blueback Notes as our national currency\n§RThis currency's effects may fluctuate§!"
  has_more_than_150k_pop: "Has a population higher than §Y150K§!"
  has_more_than_200k_pop: "Has a population higher than §Y200K§!"
@@ -640,32 +640,32 @@
  TRV_equal_policies: "Equal Policies"
  TRV_equal_policies_2: "Local Recruiting"
  TRV_immergation: "Immigration Surge"
- TRV_idea_uk_occupation: "British Occupation"
- TRV_idea_uk_assistance: "British Assistance"
- TRV_idea_useless_volksraad: "Useless Volksraad"
- TRV_idea_political_aftermath: "Political Aftermath"
- TRV_idea_economic_aftermath: "Economic Aftermath"
+ TRV_idea_uk_occupation: "British Occupation" #NT!
+ TRV_idea_uk_assistance: "British Assistance" #NT!
+ TRV_idea_useless_volksraad: "Useless Volksraad" #NT!
+ TRV_idea_political_aftermath: "Political Aftermath" #NT!
+ TRV_idea_economic_aftermath: "Economic Aftermath" #NT!
  NZASM_founded: "NZASM has been founded"
  BAT_protectorate: "Bechuanaland Protectorate"
  TRV_diamond_mines: "§YTransvaal§! Diamond mines discovered"
  trv_diamonds: "Transvaal Diamond mines"
- GQE_philippolis: "Philippolis"
- TRV_civil_War: "Transvaal Civil War"
- TRV_united_1: "South African Republic"
- TRV_united_2: "South African Republic"
- TRV_united_3: "South African Republic"
- NIR_zoutpansberg: "Zoutpansberg"
- NIR_zoutpansberg_DEF: "Zoutpansberg"
- NIR_zoutpansberg_ADJ: "Zoutpansberg"
- GOS_lydenburg: "Lydenburg"
- GOS_lydenburg_DEF: "Lydenburg"
- GOS_lydenburg_ADJ: "Lydenburg"
- STL_utrecht: "Utrecht"
- STL_utrecht_DEF: "Utrecht"
- STL_utrecht_ADJ: "Utrecht"
- RHO_Pondoland: "Mpondo Kingdom"
- RHO_Pondoland_DEF: "Mpondoland"
- RHO_Pondoland_ADJ: "Mpondoland"
+ GQE_philippolis: "Philippolis" #NT!
+ TRV_civil_War: "Transvaal Civil War" #NT!
+ TRV_united_1: "South African Republic" #NT!
+ TRV_united_2: "South African Republic" #NT!
+ TRV_united_3: "South African Republic" #NT!
+ NIR_zoutpansberg: "Zoutpansberg" #NT!
+ NIR_zoutpansberg_DEF: "Zoutpansberg" #NT!
+ NIR_zoutpansberg_ADJ: "Zoutpansberg" #NT!
+ GOS_lydenburg: "Lydenburg" #NT!
+ GOS_lydenburg_DEF: "Lydenburg" #NT!
+ GOS_lydenburg_ADJ: "Lydenburg" #NT!
+ STL_utrecht: "Utrecht" #NT!
+ STL_utrecht_DEF: "Utrecht" #NT!
+ STL_utrecht_ADJ: "Utrecht" #NT!
+ RHO_Pondoland: "Mpondo Kingdom" #NT!
+ RHO_Pondoland_DEF: "Mpondoland" #NT!
+ RHO_Pondoland_ADJ: "Mpondoland" #NT!
   
  OFS_mission_establish_industry: "Establishing Industry"
  OFS_mission_establish_military: "Establishing Arsenals"

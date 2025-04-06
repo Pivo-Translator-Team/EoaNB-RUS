@@ -727,16 +727,16 @@
  one_percent: "1% Бюджета"
  one_percent_desc: "Это государство тратит 1% своего бюджета на национальную армию, обеспечивая ее припасами и оборудованием, а также обучая ее.\n\n§GПацифистские§! партии поддерживают это, §YАнти-Милитаристские§! партии нейтральны в этом вопросе, §RПро-Милитаристские§! и §RДжингоистские§! партии выступают против этого."
  tax_rates: "Налоговые Ставки"
- taxation_level_1: "Минимальное налогообложение"
- taxation_level_1_desc: "This state has very low tax rates and population greatly benefits from it.\n\n§GLaissez-Faire§! parties support this, §YInterventionist§! parties are neutral on the matter, §RState Capitalist§! and §RPlanned Economy§! parties are opposed to it."
- taxation_level_2: "Низкое налогообложение"
- taxation_level_2_desc: "This state has low tax rates and population benefits from it.\n\n§GLaissez-Faire§! parties support this, §YInterventionist§! and §YState Capitalist§! parties are neutral on the matter, §RPlanned Economy§! parties are opposed to it."
- taxation_level_3: "Умеренное налогообложение"
- taxation_level_3_desc: "This state has usual tax rates and don't have any special bonuses.\n\n§GInterventionist§! parties support this, §YState Capitalist§! parties are neutral on the matter, §RLaissez-Faire§! and §YPlanned Economy§! parties are opposed to it."
- taxation_level_4: "Высокое налогообложение"
- taxation_level_4_desc: "This state has high tax rates and its government benefits from it.\n\n§GState Capitalist§! parties support this, §YInterventionist§! and §YPlanned Economy§! parties are neutral on the matter, §RLaissez-Faire§! parties are opposed to it."
- taxation_level_5: "Очень высокое налогообложение"
- taxation_level_5_desc: "This state has very high tax rates and its government greatly benefits from it.\n\n§GState Capitalist§! and §GPlanned Economy§! parties support this, no parties are neutral on the matter, §RLaissez-Faire§! and §RInterventionist§! parties are opposed to it."
+ taxation_level_1: "Very Low Taxes" #NT!
+ taxation_level_1_desc: "This state has very low tax rates and population greatly benefits from it.\n\n§GLaissez-Faire§! parties support this, §YInterventionist§! parties are neutral on the matter, §RState Capitalist§! and §RPlanned Economy§! parties are opposed to it." #NT!
+ taxation_level_2: "Low Taxes" #NT!
+ taxation_level_2_desc: "This state has low tax rates and population benefits from it.\n\n§GLaissez-Faire§! parties support this, §YInterventionist§! and §YState Capitalist§! parties are neutral on the matter, §RPlanned Economy§! parties are opposed to it." #NT!
+ taxation_level_3: "Standard Taxes" #NT!
+ taxation_level_3_desc: "This state has usual tax rates and don't have any special bonuses.\n\n§GInterventionist§! parties support this, §YState Capitalist§! parties are neutral on the matter, §RLaissez-Faire§! and §YPlanned Economy§! parties are opposed to it." #NT!
+ taxation_level_4: "High Taxes" #NT!
+ taxation_level_4_desc: "This state has high tax rates and its government benefits from it.\n\n§GState Capitalist§! parties support this, §YInterventionist§! and §YPlanned Economy§! parties are neutral on the matter, §RLaissez-Faire§! parties are opposed to it." #NT!
+ taxation_level_5: "Very High Taxes" #NT!
+ taxation_level_5_desc: "This state has very high tax rates and its government greatly benefits from it.\n\n§GState Capitalist§! and §GPlanned Economy§! parties support this, no parties are neutral on the matter, §RLaissez-Faire§! and §RInterventionist§! parties are opposed to it." #NT!
  press: "Законы Прессы"
  state_controlled_press: "Государственная Пресса"
  state_controlled_press_desc: "Это государство контролирует почти всю прессу в пределах своих границ."
@@ -961,32 +961,32 @@
  army_era: "Военная Структура и Тактика"
  law_pre_industrial_army: "Традиционная Армия"
  law_pre_industrial_army_desc: "Армия этой страны сформирована по стандартам Пре-Индустриальной Эры."
- law_napoleonic_army: "Napoleonic Army"
+ law_napoleonic_army: "Napoleonic Army" #NT!
  law_victorian_army: "Викторианская Армия"
  law_victorian_army_desc: "Армия этой страны сформирована по стандартам Викторианской Эры."
   
- doctrine_victorian_army_5: "Prussian-Victorian Army"
- doctrine_victorian_army_5_desc: "Army of this country is made by standarts of Prussian Victorian Era army."
- doctrine_victorian_army_4: "Victorian Army"
- doctrine_victorian_army_4_desc: "Army of this country is made by standarts of Victorian Era."
- doctrine_victorian_army_3: "Victorian Army"
- doctrine_victorian_army_3_desc: "Army of this country is made by standarts of Victorian Era."
- doctrine_victorian_army_2: "Victorian Army"
- doctrine_victorian_army_2_desc: "Army of this country is made by standarts of Victorian Era."
- doctrine_victorian_army_1: "Victorian Army"
- doctrine_victorian_army_1_desc: "Army of this country is made by standarts of Victorian Era."
+ doctrine_victorian_army_5: "Prussian-Victorian Army" #NT!
+ doctrine_victorian_army_5_desc: "Army of this country is made by standarts of Prussian Victorian Era army." #NT!
+ doctrine_victorian_army_4: "Victorian Army" #NT!
+ doctrine_victorian_army_4_desc: "Army of this country is made by standarts of Victorian Era." #NT!
+ doctrine_victorian_army_3: "Victorian Army" #NT!
+ doctrine_victorian_army_3_desc: "Army of this country is made by standarts of Victorian Era." #NT!
+ doctrine_victorian_army_2: "Victorian Army" #NT!
+ doctrine_victorian_army_2_desc: "Army of this country is made by standarts of Victorian Era." #NT!
+ doctrine_victorian_army_1: "Victorian Army" #NT!
+ doctrine_victorian_army_1_desc: "Army of this country is made by standarts of Victorian Era." #NT!
   
- doctrine_napoleonic_army_4: "Napoleonic Army"
- doctrine_napoleonic_army_4_desc: "Army of this country is made by standarts of Napoleonic Era."
- doctrine_napoleonic_army_3: "Napoleonic Army"
- doctrine_napoleonic_army_3_desc: "Army of this country is made by standarts of Napoleonic Era."
- doctrine_napoleonic_army_2: "Napoleonic Army"
- doctrine_napoleonic_army_2_desc: "Army of this country is made by standarts of Napoleonic Era."
- doctrine_napoleonic_army_1: "Napoleonic Army"
- doctrine_napoleonic_army_1_desc: "Army of this country is made by standarts of Napoleonic Era."
+ doctrine_napoleonic_army_4: "Napoleonic Army" #NT!
+ doctrine_napoleonic_army_4_desc: "Army of this country is made by standarts of Napoleonic Era." #NT!
+ doctrine_napoleonic_army_3: "Napoleonic Army" #NT!
+ doctrine_napoleonic_army_3_desc: "Army of this country is made by standarts of Napoleonic Era." #NT!
+ doctrine_napoleonic_army_2: "Napoleonic Army" #NT!
+ doctrine_napoleonic_army_2_desc: "Army of this country is made by standarts of Napoleonic Era." #NT!
+ doctrine_napoleonic_army_1: "Napoleonic Army" #NT!
+ doctrine_napoleonic_army_1_desc: "Army of this country is made by standarts of Napoleonic Era." #NT!
   
- doctrine_adapting_to_the_tactics: "Adapting to our new tactics"
- doctrine_adapting_to_the_tactics_desc: "We need to adapt to our new tactics, researching new ones will be much harder"
+ doctrine_adapting_to_the_tactics: "Adapting to our new tactics" #NT!
+ doctrine_adapting_to_the_tactics_desc: "We need to adapt to our new tactics, researching new ones will be much harder" #NT!
   
  law_trench_infantry: "Индустриальная Армия"
  law_trench_infantry_desc: "Армия этой страны сформирована по стандартам Машинной Эры."
@@ -1186,21 +1186,21 @@
  Panic_of_1857_3_desc: ""
  Panic_of_1857_4: "Паника 1857"
  Panic_of_1857_4_desc: ""
- eoanb_idea_panic_of_1873_minor: "Minor Economic Crisis"
- eoanb_idea_panic_of_1873_minor_desc: "Following a stock exchange panic in Vienna, our country is experiencing a minor economic crisis."
- eoanb_idea_panic_of_1873_minor_Legitimacy_View_tt: "Adjusted Legitimacy §R-5%§!"
- eoanb_idea_panic_of_1873_modest: "Modest Economic Crisis"
- eoanb_idea_panic_of_1873_modest_desc: "Following a stock exchange panic in Vienna, our country is experiencing a modest economic crisis."
- eoanb_idea_panic_of_1873_modest_Legitimacy_View_tt: "Adjusted Legitimacy §R-10%§!"
- eoanb_idea_panic_of_1873_substantial: "Substantial Economic Crisis"
- eoanb_idea_panic_of_1873_substantial_desc: "Following a stock exchange panic in Vienna, our country is experiencing a substantial economic crisis."
- eoanb_idea_panic_of_1873_substantial_Legitimacy_View_tt: "Adjusted Legitimacy §R-15%§!"
- eoanb_idea_panic_of_1873_severe: "Severe Economic Crisis"
- eoanb_idea_panic_of_1873_severe_desc: "Following a stock exchange panic in Vienna, our country is experiencing a severe economic crisis."
- eoanb_idea_panic_of_1873_severe_Legitimacy_View_tt: "Adjusted Legitimacy §R-20%§!"
- eoanb_idea_panic_of_1873_dramatic: "Dramatic Economic Crisis"
- eoanb_idea_panic_of_1873_dramatic_desc: "Following a stock exchange panic in Vienna, our country is experiencing a dramatic economic crisis."
- eoanb_idea_panic_of_1873_dramatic_Legitimacy_View_tt: "Adjusted Legitimacy §R-25%§!"
+ eoanb_idea_panic_of_1873_minor: "Minor Economic Crisis" #NT!
+ eoanb_idea_panic_of_1873_minor_desc: "Following a stock exchange panic in Vienna, our country is experiencing a minor economic crisis." #NT!
+ eoanb_idea_panic_of_1873_minor_Legitimacy_View_tt: "Adjusted Legitimacy §R-5%§!" #NT!
+ eoanb_idea_panic_of_1873_modest: "Modest Economic Crisis" #NT!
+ eoanb_idea_panic_of_1873_modest_desc: "Following a stock exchange panic in Vienna, our country is experiencing a modest economic crisis." #NT!
+ eoanb_idea_panic_of_1873_modest_Legitimacy_View_tt: "Adjusted Legitimacy §R-10%§!" #NT!
+ eoanb_idea_panic_of_1873_substantial: "Substantial Economic Crisis" #NT!
+ eoanb_idea_panic_of_1873_substantial_desc: "Following a stock exchange panic in Vienna, our country is experiencing a substantial economic crisis." #NT!
+ eoanb_idea_panic_of_1873_substantial_Legitimacy_View_tt: "Adjusted Legitimacy §R-15%§!" #NT!
+ eoanb_idea_panic_of_1873_severe: "Severe Economic Crisis" #NT!
+ eoanb_idea_panic_of_1873_severe_desc: "Following a stock exchange panic in Vienna, our country is experiencing a severe economic crisis." #NT!
+ eoanb_idea_panic_of_1873_severe_Legitimacy_View_tt: "Adjusted Legitimacy §R-20%§!" #NT!
+ eoanb_idea_panic_of_1873_dramatic: "Dramatic Economic Crisis" #NT!
+ eoanb_idea_panic_of_1873_dramatic_desc: "Following a stock exchange panic in Vienna, our country is experiencing a dramatic economic crisis." #NT!
+ eoanb_idea_panic_of_1873_dramatic_Legitimacy_View_tt: "Adjusted Legitimacy §R-25%§!" #NT!
  eoanb_continuous_ideological_stability: "Непрерывное Усиление Идеологии"
  eoanb_continuous_ideological_stability_desc: ""
  eoanb_continuous_suppress_revolts: "Непрерывное Усиление Подавления"
@@ -1269,8 +1269,8 @@
  GER_trait_naval_lloyd: "Конструктор Флота"
  GER_idea_maritime_trade_profits: "Прибыль от Морской Торговли"
  GER_idea_maritime_trade_profits_desc: "Германия извлекает выгоду из международной морской торговли."
- GER_idea_social_security_1: "Social Security Programs"
- GER_idea_social_security_1_desc: "Germany uses social security programs to ensure people who are unable to work are cared for."
+ GER_idea_social_security_1: "Social Security Programs" #NT!
+ GER_idea_social_security_1_desc: "Germany uses social security programs to ensure people who are unable to work are cared for." #NT!
  GER_idea_social_security_2: "Программы Социального Обеспечения"
  GER_idea_social_security_2_desc: "Германия использует программы социального обеспечения для обеспечения ухода за нетрудоспособными людьми."
  GER_idea_social_security_3: "Программы Социального Обеспечения"
@@ -1435,20 +1435,20 @@
  eoanb_continuous_resource_management_desc: ""
  eoanb_continuous_austerity_consumer: "Непрерывная Жесткая Экономия"
  eoanb_continuous_austerity_consumer_desc: ""
- eoanb_bail_out_limited: "Limited Bail-outs"
- eoanb_bail_out_limited_desc: "Business in trouble are receiving limited bail-out payments."
- eoanb_bail_out_moderate: "Moderate Bail-outs"
- eoanb_bail_out_moderate_desc: "Business in trouble are receiving moderate bail-out payments."
- eoanb_bail_out_extensive: "Extensive Bail-outs"
- eoanb_bail_out_extensive_desc: "Business in trouble are receiving extensive bail-out payments."
- eoanb_economic_aid_program: "Economic Aid Program"
- eoanb_economic_aid_program_desc: "Business in trouble are receiving economic aid from the government."
- eoanb_tariffs_limited: "Limited Tariffs"
- eoanb_tariffs_limited_desc: "We have imposed limited tariffs on good entering and leaving our country."
- eoanb_tariffs_moderate: "Limited Tariffs"
- eoanb_tariffs_moderate_desc: "We have imposed moderate tariffs on good entering and leaving our country."
- eoanb_tariffs_restrictive: "Restrictive Tariffs"
- eoanb_tariffs_restrictive_desc: "We have imposed restrictive tariffs on good entering and leaving our country."
+ eoanb_bail_out_limited: "Limited Bail-outs" #NT!
+ eoanb_bail_out_limited_desc: "Business in trouble are receiving limited bail-out payments." #NT!
+ eoanb_bail_out_moderate: "Moderate Bail-outs" #NT!
+ eoanb_bail_out_moderate_desc: "Business in trouble are receiving moderate bail-out payments." #NT!
+ eoanb_bail_out_extensive: "Extensive Bail-outs" #NT!
+ eoanb_bail_out_extensive_desc: "Business in trouble are receiving extensive bail-out payments." #NT!
+ eoanb_economic_aid_program: "Economic Aid Program" #NT!
+ eoanb_economic_aid_program_desc: "Business in trouble are receiving economic aid from the government." #NT!
+ eoanb_tariffs_limited: "Limited Tariffs" #NT!
+ eoanb_tariffs_limited_desc: "We have imposed limited tariffs on good entering and leaving our country." #NT!
+ eoanb_tariffs_moderate: "Limited Tariffs" #NT!
+ eoanb_tariffs_moderate_desc: "We have imposed moderate tariffs on good entering and leaving our country." #NT!
+ eoanb_tariffs_restrictive: "Restrictive Tariffs" #NT!
+ eoanb_tariffs_restrictive_desc: "We have imposed restrictive tariffs on good entering and leaving our country." #NT!
  PRT_disorganized_rebellion: "Неорганизованное Восстание"
  HON_Unstable_Walker: "Нестабильное Правительство Ополченцев"
  ENG_idea_british_industrial_revolution_2: "Промышленная Революция"
@@ -1796,5 +1796,5 @@
  URG_brazilian_investors_1: "Бразильские Частные Инвесторы"
  URG_brazilian_investors_2: "Бразильские Частные Инвесторы"
  URG_maua_trade_routes: "Торговые Пути Мауа"
- BRA_Pedro_II_desc: "Pedro II is the Head State of Empire of Brazil."
+ BRA_Pedro_II_desc: "Pedro II is the Head State of Empire of Brazil." #NT!
   

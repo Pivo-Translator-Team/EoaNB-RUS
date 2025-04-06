@@ -81,15 +81,15 @@
  arg.20.t: "Усмирение Ла-Риохи"
  arg.20.d: "Наша миссия в Ла-Риохе увенчалась успехом. Губернатор-выскочка, был побежден в провинции Анхель Пеньялоса, а затем казнен командиром наших войск в этом районе — Пабло Ларрасабалем."
  arg.20.a: "Прекрасно!"
- arg.21.t: "End of the Argentine Civil War"
- arg.21.d: "The Argentine Civil War, which has gone on for almost a decade, is finally over. As the dust settles over the plains of La Plata, the seccessionist state Buenos Aires stands. \n \nBuenos Aires declared independence from the Argentine Confederation based on its Constitution; which stipulated the importance of keeping the Central Government as weak as possible. Buenos Aires, which was the most powerful state in La Plata, rejected this and declared independence back in 1852. After a recent reescalation of conflict, Buenos Aires has finally managed to defeat the Confederation. \n \nTime will tell what this will bring to the future of South America."
- arg.21.d_confed: "The Argentine Civil War, which has gone on for almost a decade, is finally over. As the dust settles over the plains of La Plata, the old Confederation stands. \n \nIn order to defend themselves against foreign threat, the provinces of La Plata united into a Confederation, which stipulated the need of a Decentralized government. This angered the city of Buenos Aires, which was the most powerful state in La Plata. The declared independence back in 1852, and after a recent reescalation of the conflict, they were defeated at the hands of the Confederation. \n \nTime will tell what this will bring to the future of South America."
- arg.21.a: "Good for Argentina"
- arg.21.b: "For Argentina!"
- arg.22.t: "Reescalation of the Argentine Civil War"
- arg.22.d: "The eight year long stalemate between the Argentine Confederation and Buenos Aires have broken, the Argentine Civil War has resumed. \n \nAfter the September 11th Revolution in 1852, the city of Buenos Aires acted independent from the Argentine Confederate government. Although foreign nations recognized the Confederation, the city of Buenos Aires was the most powerful and prosperous city in La Plata, which seriously damaged the capabilities of the Confederation. Now, the Governor of Buenos Aires, [BUE.GetLeader], has called for the renewal of war to end the Confederation. \n \nArgentina has become embroiled in another war against itself."
- arg.22.a: "Interesting"
- arg.22.b: "For Argentina!"
+ arg.21.t: "End of the Argentine Civil War" #NT!
+ arg.21.d: "The Argentine Civil War, which has gone on for almost a decade, is finally over. As the dust settles over the plains of La Plata, the seccessionist state Buenos Aires stands. \n \nBuenos Aires declared independence from the Argentine Confederation based on its Constitution; which stipulated the importance of keeping the Central Government as weak as possible. Buenos Aires, which was the most powerful state in La Plata, rejected this and declared independence back in 1852. After a recent reescalation of conflict, Buenos Aires has finally managed to defeat the Confederation. \n \nTime will tell what this will bring to the future of South America." #NT!
+ arg.21.d_confed: "The Argentine Civil War, which has gone on for almost a decade, is finally over. As the dust settles over the plains of La Plata, the old Confederation stands. \n \nIn order to defend themselves against foreign threat, the provinces of La Plata united into a Confederation, which stipulated the need of a Decentralized government. This angered the city of Buenos Aires, which was the most powerful state in La Plata. The declared independence back in 1852, and after a recent reescalation of the conflict, they were defeated at the hands of the Confederation. \n \nTime will tell what this will bring to the future of South America." #NT!
+ arg.21.a: "Good for Argentina" #NT!
+ arg.21.b: "For Argentina!" #NT!
+ arg.22.t: "Reescalation of the Argentine Civil War" #NT!
+ arg.22.d: "The eight year long stalemate between the Argentine Confederation and Buenos Aires have broken, the Argentine Civil War has resumed. \n \nAfter the September 11th Revolution in 1852, the city of Buenos Aires acted independent from the Argentine Confederate government. Although foreign nations recognized the Confederation, the city of Buenos Aires was the most powerful and prosperous city in La Plata, which seriously damaged the capabilities of the Confederation. Now, the Governor of Buenos Aires, [BUE.GetLeader], has called for the renewal of war to end the Confederation. \n \nArgentina has become embroiled in another war against itself." #NT!
+ arg.22.a: "Interesting" #NT!
+ arg.22.b: "For Argentina!" #NT!
   
  BUE_our_stable_government: "Наше стабильное правительство"
  ARG_shared_strengthen_military: "Усиление армии"

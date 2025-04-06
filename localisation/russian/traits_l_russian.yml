@@ -253,8 +253,8 @@
  air_controller_desc: "Эксперт в зарождающейся области морской авиации, Авиационный Командир — естественный выбор для управления авианосцами."
  naval_invader: "Интервент"
  naval_invader_desc: "Эксперт по морским вторжениям. Идеальный человек для подготовки вторжения на враждебный пляж и его выполнения."
- british_officer: "British Officer"
- british_officer_desc: "This Officer is of British decent and brings in influence of United Kingdom"
+ british_officer: "British Officer" #NT!
+ british_officer_desc: "This Officer is of British decent and brings in influence of United Kingdom" #NT!
  bearer_of_artillery: "Артиллерийская обслуга"
  bearer_of_artillery_desc: "Никогда не роняй ящик!"
  dictator: "Диктатор"
@@ -708,8 +708,8 @@
  eoanb_bonapartist_desc: "This person seeks to install a government ruled by a militarist emperor who works for the people."
  eoanb_fra_governor_senegal: "Colonial Governor of Senegal"
  eoanb_fra_governor_senegal_desc: "This person is the colonial governor of our colony in Senegal. They take care of administrative decisions within the colony with guidance from our government."
- eoanb_fra_governor_algeria: "Colonial Governor of Algeria"
- eoanb_fra_governor_algeria_desc: "This person holds the position of governor in our colony in Algeria. They take care of administrative decisions within the colony with guidance from our government."
+ eoanb_fra_governor_algeria: "Colonial Governor of Algeria" #NT!
+ eoanb_fra_governor_algeria_desc: "This person holds the position of governor in our colony in Algeria. They take care of administrative decisions within the colony with guidance from our government." #NT!
   
  # EoaNB espionage traits 
   
@@ -738,7 +738,7 @@
  HOL_willems_orde: "Militaire Willems-Orde"
  HOL_orde_nederlandse_leeuw: "Orde van de Nederlandse Leeuw"
  HOL_orde_oranje_nassau: "Orde van Oranje-Nassau"
- kokand_inependence_activist: "Kokand Independence Activist"
+ kokand_inependence_activist: "Kokand Independence Activist" #NT!
   
   #Italian leader traits 
  ITA_trait_Iron_Baron: "Iron Baron"
@@ -757,24 +757,24 @@
  SWE_trait_raab: "Prussian style officer"
   
   #Swiss advisors traits 
- SWI_trait_elie_ducommun: "Peace Activist"
- SWI_trait_albert_gobat: "Peace Activist"
- SWI_trait_ludwig_schlafli: "Mathematician"
- SWI_trait_antoine_henry_jomini: "Land Fortification Genius"
- SWI_trait_hans_herzog: "Artillery Expert"
- SWI_trait_louis_wenger: "Politician"
- SWI_trait_louis_wenger: "Politician"
- SWI_trait_paul_ceresole: "Politician"
- SWI_trait_johann_jakob_stehlin: "Politician"
+ SWI_trait_elie_ducommun: "Peace Activist" #NT!
+ SWI_trait_albert_gobat: "Peace Activist" #NT!
+ SWI_trait_ludwig_schlafli: "Mathematician" #NT!
+ SWI_trait_antoine_henry_jomini: "Land Fortification Genius" #NT!
+ SWI_trait_hans_herzog: "Artillery Expert" #NT!
+ SWI_trait_louis_wenger: "Politician" #NT!
+ SWI_trait_louis_wenger: "Politician" #NT!
+ SWI_trait_paul_ceresole: "Politician" #NT!
+ SWI_trait_johann_jakob_stehlin: "Politician" #NT!
   
  #Tunisia: 
- TUN_trait_yusuf_jait: "Foreign minister and diplomat"
- TUN_trait_ahmad_ibn_abi_diyaf: "Liberal Moderniser"
- TUN_trait_ismail_sahib_at_tabaa: "Politican"
- TUN_trait_muhammad_belkhoja: "Politican"
- TUN_trait_ahmad_ben_hassine: "Politican"
- TUN_trait_muhammad_bayram: "Politican"
- TUN_trait_tunisian_naval_academy: "Naval Academy"
+ TUN_trait_yusuf_jait: "Politican" #NT!
+ TUN_trait_ahmad_ibn_abi_diyaf: "Politican" #NT!
+ TUN_trait_ismail_sahib_at_tabaa: "Politican" #NT!
+ TUN_trait_muhammad_belkhoja: "Politican" #NT!
+ TUN_trait_ahmad_ben_hassine: "Politican" #NT!
+ TUN_trait_muhammad_bayram: "Politican" #NT!
+ TUN_trait_tunisian_naval_academy: "Naval Academy" #NT!
   
  eoanb_liberal_tendencies: "Liberal Tendencies"
  eoanb_conservative_tendencies: "Conservative Tendencies"
@@ -816,5 +816,5 @@
  army_chief_entrenchment_2: "Эксперт по укреплениям"
  army_chief_entrenchment_3: "Гений укреплений"
  innovative_tactician: "Innovative Tactician"
- ruler_trait_stabilizing_figure: "Stabilizing Figure"
- ruler_trait_magnanimus: "The Magnanimous"
+ ruler_trait_stabilizing_figure: "Stabilizing Figure" #NT!
+ ruler_trait_magnanimus: "The Magnanimous" #NT!

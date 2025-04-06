@@ -731,7 +731,7 @@
  TRIGGER_IS_FEMALE_LEADER_COUNTRY: "Лидер государства — женщина"
  TRIGGER_IS_NOT_OPERATION: "Не является операцией $OPERATION|H$"
  TRIGGER_IS_OPERATION: "Операция $OPERATION|H$"
- TRIGGER_NUM_RESEARCHED_TECHS_MORE_THAN: "Has more than $AMOUNT|H$ researched technologies"
+ TRIGGER_NUM_RESEARCHED_TECHS_MORE_THAN: "Has more than $AMOUNT|H$ researched technologies" #NT!
  TRIGGER_NUM_RESEARCHED_TECHS_LESS_THAN: "Has less than $AMOUNT|H$ researched technologies"
  owns_or_subject_of_tt: "во владении государства §Y[ROOT.GetFlag] [ROOT.GetNameDef]§! или является §Yсубъектом§!\n"
  owns_or_subject_of_tt_NOT: "НЕ во владении государства §Y[ROOT.GetFlag][ROOT.GetNameDef]§! и НЕ является §Yсубъектом§!\n"

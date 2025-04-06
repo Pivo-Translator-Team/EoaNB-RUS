@@ -2,24 +2,24 @@
  ### FOCUS TREE ### 
   
  ## INDUSTRY / ECONOMY 
- BAD_focus_economic_situation: "Baden's Economic Situation"
- BAD_focus_economic_situation_desc: ""
+ BAD_focus_economic_situation: "Baden's Economic Situation" #NT!
+ BAD_focus_economic_situation_desc: "" #NT!
  BAD_focus_land_of_inventors: "Земля изобретателей"
  BAD_focus_land_of_inventors_desc: ""
- BAD_focus_agriculture_and_resources: "Agriculture and Resources"
- BAD_focus_agriculture_and_resources_desc: ""
+ BAD_focus_agriculture_and_resources: "Agriculture and Resources" #NT!
+ BAD_focus_agriculture_and_resources_desc: "" #NT!
  BAD_focus_der_schwarzwald: "Черный лес"
  BAD_focus_der_schwarzwald_desc: ""
  BAD_focus_black_forest_woodcutters: "Лесорубы Шварцвальда"
  BAD_focus_black_forest_woodcutters_desc: ""
- BAD_focus_expand_mining_districts: "Expand Mining Districts"
- BAD_focus_expand_mining_districts_desc: ""
- BAD_focus_fruits_of_our_soil: "Fruits Of Our Soil"
- BAD_focus_fruits_of_our_soil_desc: ""
+ BAD_focus_expand_mining_districts: "Expand Mining Districts" #NT!
+ BAD_focus_expand_mining_districts_desc: "" #NT!
+ BAD_focus_fruits_of_our_soil: "Fruits Of Our Soil" #NT!
+ BAD_focus_fruits_of_our_soil_desc: "" #NT!
  BAD_focus_freiburgs_wine: "Фрайбургское вино"
  BAD_focus_freiburgs_wine_desc: ""
- BAD_focus_tabacco_plantations: "Tobacco Plantations"
- BAD_focus_tabacco_plantations_desc: ""
+ BAD_focus_tabacco_plantations: "Tobacco Plantations" #NT!
+ BAD_focus_tabacco_plantations_desc: "" #NT!
  BAD_focus_badenian_railways: "Герцогские железные дороги Бадена"
  BAD_focus_badenian_railways_desc: ""
  BAD_focus_homeland_railway_expansion: "Расширение железнодорожной сети"
@@ -28,31 +28,31 @@
  BAD_focus_railway_germans_desc: ""
  BAD_focus_railway_switzerland: "Железнодорожная связь со Швейцарией"
  BAD_focus_railway_switzerland_desc: ""
- BAD_focus_manufactures_and_factories: "Manufactures and Factories"
- BAD_focus_manufactures_and_factories_desc: ""
- BAD_focus_luxury_goods: "Luxury Goods"
- BAD_focus_luxury_goods_desc: ""
- BAD_focus_goldstadt_pforzheim: "Golden City Pforzheim"
- BAD_focus_goldstadt_pforzheim_desc: ""
- BAD_focus_watchmaking_industry: "Baden's Watchmaking Industry"
- BAD_focus_watchmaking_industry_desc: ""
- BAD_focus_textile_industry: "Baden's Textile Industry"
- BAD_focus_textile_industry_desc: ""
- BAD_focus_machine_engineering_industry: "Baden's Machine Engineering Industry"
- BAD_focus_machine_engineering_industry_desc: ""
- BAD_focus_chemical_industry: "Baden's Chemical Industry"
- BAD_focus_chemical_industry_desc: ""
- BAD_focus_development_of_baden_industry: "Development of Baden's Industry"
- BAD_focus_development_of_baden_industry_desc: ""
- BAD_focus_an_industrialized_country: "An Industrialized Country"
- BAD_focus_an_industrialized_country_desc: ""
+ BAD_focus_manufactures_and_factories: "Manufactures and Factories" #NT!
+ BAD_focus_manufactures_and_factories_desc: "" #NT!
+ BAD_focus_luxury_goods: "Luxury Goods" #NT!
+ BAD_focus_luxury_goods_desc: "" #NT!
+ BAD_focus_goldstadt_pforzheim: "Golden City Pforzheim" #NT!
+ BAD_focus_goldstadt_pforzheim_desc: "" #NT!
+ BAD_focus_watchmaking_industry: "Baden's Watchmaking Industry" #NT!
+ BAD_focus_watchmaking_industry_desc: "" #NT!
+ BAD_focus_textile_industry: "Baden's Textile Industry" #NT!
+ BAD_focus_textile_industry_desc: "" #NT!
+ BAD_focus_machine_engineering_industry: "Baden's Machine Engineering Industry" #NT!
+ BAD_focus_machine_engineering_industry_desc: "" #NT!
+ BAD_focus_chemical_industry: "Baden's Chemical Industry" #NT!
+ BAD_focus_chemical_industry_desc: "" #NT!
+ BAD_focus_development_of_baden_industry: "Development of Baden's Industry" #NT!
+ BAD_focus_development_of_baden_industry_desc: "" #NT!
+ BAD_focus_an_industrialized_country: "An Industrialized Country" #NT!
+ BAD_focus_an_industrialized_country_desc: "" #NT!
   
  ## MILITARY 
  BAD_focus_our_army: "Наша армия"
  BAD_focus_our_army_desc: ""
  BAD_focus_vereinsgewehr: "Веринсгевер"
  BAD_focus_vereinsgewehr_desc: ""
- BAD_focus_vereinsgewehr_effect_tt: "This will unlock the §Y'Vereinsgewehr M/1857'§! as a new rifle model by granting the required §Ytechnology§!."
+ BAD_focus_vereinsgewehr_effect_tt: "This will unlock the §Y'Vereinsgewehr M/1857'§! as a new rifle model by granting the required §Ytechnology§!." #NT!
  BAD_focus_austrian_inspiration: "Вдохновение австрийцами"
  BAD_focus_austrian_inspiration_desc: ""
  BAD_focus_improve_scouting_equipment: "Улучшение разведывательного оборудования"
@@ -73,39 +73,39 @@
  BAD_focus_jaegerbat_reform_desc: ""
  BAD_focus_artillery_reform: "Реформа артиллерии"
  BAD_focus_artillery_reform_desc: ""
- BAD_focus_lessons_of_1812: "Lessons of 1812"
- BAD_focus_lessons_of_1812_desc: ""
- BAD_focus_beyer_war_minister: "Gustav Friedrich von Beyer as War Minister"
- BAD_focus_beyer_war_minister_desc: ""
+ BAD_focus_lessons_of_1812: "Lessons of 1812" #NT!
+ BAD_focus_lessons_of_1812_desc: "" #NT!
+ BAD_focus_beyer_war_minister: "Gustav Friedrich von Beyer as War Minister" #NT!
+ BAD_focus_beyer_war_minister_desc: "" #NT!
  BAD_focus_dreyse_rifle: "Винтовка Дрейзе"
  BAD_focus_dreyse_rifle_desc: ""
  BAD_focus_krupp_cooperation: "Сотрудничество с компанией Крупп"
  BAD_focus_krupp_cooperation_desc: ""
- BAD_focus_reestablish_1825_conscription: "Restore the 1825 Conscription Law"
- BAD_focus_reestablish_1825_conscription_desc: ""
+ BAD_focus_reestablish_1825_conscription: "Restore the 1825 Conscription Law" #NT!
+ BAD_focus_reestablish_1825_conscription_desc: "" #NT!
  BAD_focus_the_landwehr: "Ландвер"
  BAD_focus_the_landwehr_desc: ""
  BAD_focus_bruderkrieg_experience: "Опыт Братской войны"
  BAD_focus_bruderkrieg_experience_desc: ""
- BAD_focus_bruderkrieg_experience_trigger_tt: "§YThe German War§! has ended."
- BAD_focus_our_own_breechloading_rifle: "Our Own Breechloading Rifle"
- BAD_focus_our_own_breechloading_rifle_desc: ""
+ BAD_focus_bruderkrieg_experience_trigger_tt: "§YThe German War§! has ended." #NT!
+ BAD_focus_our_own_breechloading_rifle: "Our Own Breechloading Rifle" #NT!
+ BAD_focus_our_own_breechloading_rifle_desc: "" #NT!
  BAD_focus_increase_military_budget: "Увеличение военного бюджета"
  BAD_focus_increase_military_budget_desc: ""
   
  ## POLITICS 
- BAD_focus_friedrich_1: "The Reign of Friedrich I"
- BAD_focus_friedrich_1_desc: ""
+ BAD_focus_friedrich_1: "The Reign of Friedrich I" #NT!
+ BAD_focus_friedrich_1_desc: "" #NT!
  BAD_focus_kabinett_stengel: "Кабинет Штенгеля"
  BAD_focus_kabinett_stengel_desc: ""
- BAD_focus_enforce_the_criminal_code: "Enforce the Criminal Code"
- BAD_focus_enforce_the_criminal_code_desc: "Although it had already been announced in 1845, the penal code for the Grand Duchy of Baden only came into force in 1851, after the turmoil of the revolution. However, the practical implementation of this piece of legislation still leaves much to be desired. We must finally push for its enforcement if we want to create orderly conditions in the long term."
- BAD_focus_negotiate_treaty_with_catholics: "Treaty with the Catholic Church"
- BAD_focus_negotiate_treaty_with_catholics_desc: ""
+ BAD_focus_enforce_the_criminal_code: "Enforce the Criminal Code" #NT!
+ BAD_focus_enforce_the_criminal_code_desc: "Although it had already been announced in 1845, the penal code for the Grand Duchy of Baden only came into force in 1851, after the turmoil of the revolution. However, the practical implementation of this piece of legislation still leaves much to be desired. We must finally push for its enforcement if we want to create orderly conditions in the long term." #NT!
+ BAD_focus_negotiate_treaty_with_catholics: "Treaty with the Catholic Church" #NT!
+ BAD_focus_negotiate_treaty_with_catholics_desc: "" #NT!
  BAD_focus_second_chamber_opposition: "Оппозиция Второй палаты"
  BAD_focus_second_chamber_opposition_desc: ""
- BAD_focus_future_of_badens_politics: "The Future of Baden's Politics"
- BAD_focus_future_of_badens_politics_desc: ""
+ BAD_focus_future_of_badens_politics: "The Future of Baden's Politics" #NT!
+ BAD_focus_future_of_badens_politics_desc: "" #NT!
   
  #LIBERALISM PATH 
  BAD_focus_easter_proclamation: "Пасхальная декларация"
@@ -114,31 +114,31 @@
  BAD_focus_kabinett_stabel_desc: ""
  BAD_focus_minister_gideon_weizel: "Министр Гидеон Вайцель"
  BAD_focus_minister_gideon_weizel_desc: ""
- BAD_focus_minister_gideon_weizel_effect_tt: "§YGideon Weizel§! will be selectable as a §Ypolitical advisor§!."
+ BAD_focus_minister_gideon_weizel_effect_tt: "§YGideon Weizel§! will be selectable as a §Ypolitical advisor§!." #NT!
  BAD_focus_ministry_of_trade: "Министерство торговли"
  BAD_focus_ministry_of_trade_desc: ""
  BAD_focus_trade_act: "Закон о торговле"
  BAD_focus_trade_act_desc: ""
- BAD_focus_end_compulsory_guild_membership: "End Compulsory Guild Membership"
- BAD_focus_end_compulsory_guild_membership_desc: ""
- BAD_focus_end_compulsory_guild_membership_effect_tt: "After unlocking the focus §YBaden's Economic Situation§!, this will unlock a decision to enact §Yfree enterprise§!."
+ BAD_focus_end_compulsory_guild_membership: "End Compulsory Guild Membership" #NT!
+ BAD_focus_end_compulsory_guild_membership_desc: "" #NT!
+ BAD_focus_end_compulsory_guild_membership_effect_tt: "After unlocking the focus §YBaden's Economic Situation§!, this will unlock a decision to enact §Yfree enterprise§!." #NT!
  BAD_focus_privatize_railways: "Приватизация железных дорог"
  BAD_focus_privatize_railways_desc: ""
  BAD_customeffect_infrastructure_focus: "\nОткрывает фокус §YГерцогские железные дороги Бадена§!."
- BAD_focus_minister_august_lamey: "Minister August Lamey"
- BAD_focus_minister_august_lamey_desc: ""
- BAD_focus_minister_august_lamey_effect_tt: "§YAugust Lamey§! will be selectable as a §Ypolitical advisor§!."
- BAD_focus_minister_franz_von_roggenbach: "Minister Franz von Roggenbach"
- BAD_focus_minister_franz_von_roggenbach_desc: ""
- BAD_focus_minister_franz_von_roggenbach_effect_tt: "§YFranz von Roggenbach§! will be selectable as a §Ypolitical advisor§!."
- BAD_focus_establish_liberalism: "Establish Liberalism"
- BAD_focus_establish_liberalism_desc: ""
- BAD_focus_establish_civil_rights: "Establish Civil Rights"
- BAD_focus_establish_civil_rights_desc: ""
- BAD_focus_administrative_reforms: "Administrative Reforms"
- BAD_focus_administrative_reforms_desc: ""
- BAD_focus_school_reform: "School Reform"
- BAD_focus_school_reform_desc: ""
+ BAD_focus_minister_august_lamey: "Minister August Lamey" #NT!
+ BAD_focus_minister_august_lamey_desc: "" #NT!
+ BAD_focus_minister_august_lamey_effect_tt: "§YAugust Lamey§! will be selectable as a §Ypolitical advisor§!." #NT!
+ BAD_focus_minister_franz_von_roggenbach: "Minister Franz von Roggenbach" #NT!
+ BAD_focus_minister_franz_von_roggenbach_desc: "" #NT!
+ BAD_focus_minister_franz_von_roggenbach_effect_tt: "§YFranz von Roggenbach§! will be selectable as a §Ypolitical advisor§!." #NT!
+ BAD_focus_establish_liberalism: "Establish Liberalism" #NT!
+ BAD_focus_establish_liberalism_desc: "" #NT!
+ BAD_focus_establish_civil_rights: "Establish Civil Rights" #NT!
+ BAD_focus_establish_civil_rights_desc: "" #NT!
+ BAD_focus_administrative_reforms: "Administrative Reforms" #NT!
+ BAD_focus_administrative_reforms_desc: "" #NT!
+ BAD_focus_school_reform: "School Reform" #NT!
+ BAD_focus_school_reform_desc: "" #NT!
  BAD_focus_state_and_church: "Государство и церковь"
  BAD_focus_state_and_church_desc: ""
  BAD_focus_foreign_relations: "Внешние отношения"
@@ -147,12 +147,12 @@
  BAD_focus_closer_relations_prussia: "Более тесные отношения с Пруссией"
  BAD_focus_closer_relations_prussia_desc: ""
   
- #BAD_focus_state_and_church_act: "State-Church Relations Act"
- #BAD_focus_state_and_church_act_desc: ""
- #BAD_focus_establish_admin_court: "Establish an Administrative Court"
- #BAD_focus_establish_admin_court_desc: ""
- #BAD_focus_amnesty_for_1848: "Amnesty for 1848 Revolutionaries"
- #BAD_focus_amnesty_for_1848_desc: ""
+ #BAD_focus_state_and_church_act: "State-Church Relations Act" #NT!
+ #BAD_focus_state_and_church_act_desc: "" #NT!
+ #BAD_focus_establish_admin_court: "Establish an Administrative Court" #NT!
+ #BAD_focus_establish_admin_court_desc: "" #NT!
+ #BAD_focus_amnesty_for_1848: "Amnesty for 1848 Revolutionaries" #NT!
+ #BAD_focus_amnesty_for_1848_desc: "" #NT!
   
  BAD_focus_end_reaktionsera: "Конец эпохи реакции"
  BAD_focus_end_reaktionsera_desc: ""
@@ -264,39 +264,39 @@
   
  ## ECONOMY & INDUSTRY 
  BAD_decision_category_economy: "Экономика Бадена"
- BAD_decision_category_economy_desc: "The Industrial Revolution has finally reached our realm, but we have a lot of ground to make up to the big players like Great Britain or France. We have to speed up the industrializing process by all means to be able to catch up. On the surface it seems very simple investing in the modernization of our industry and the development of more advanced methods of production. The Big question is where should our priorities be?"
- BAD_decision_enact_free_enterprise: "Enact Free Enterprise"
- BAD_decision_enact_free_enterprise_desc: "We will need to adjust our laws in order to attract investors, as we have too harsh laws currently, which hamper the development of our economy. Liberialising the market is one thing we could do, as it would make us more attractive for investors."
- BAD_decision_establish_an_industrial_code: "Establish an Industrial Code"
- BAD_decision_establish_an_industrial_code_desc: "By establishing an industrial code we can give our businesses legal certainty. Doing so will hinder them doing things we do not want them to do, but in the long term this will raise their innovativeness and make up for problems in the short term."
- BAD_mission_establish_lumber_industry: "Establish Lumber Industry"
- BAD_mission_establish_lumber_industry_desc: "We need to make better use of our resources in order to industrialize our country faster. Our rich forest areas and the high-quality timber in our woods provide a good basis for promoting this process."
- BAD_decision_expand_woodcutting_industry: "Expand Woodcutting Industry"
- BAD_decision_expand_woodcutting_industry_desc: "We have a long tradition of logging and our rich forests are known for providing first-class lumber. Although we have to proceed with caution, we can increase our lumber production through smart investments."
+ BAD_decision_category_economy_desc: "The Industrial Revolution has finally reached our realm, but we have a lot of ground to make up to the big players like Great Britain or France. We have to speed up the industrializing process by all means to be able to catch up. On the surface it seems very simple investing in the modernization of our industry and the development of more advanced methods of production. The Big question is where should our priorities be?" #NT!
+ BAD_decision_enact_free_enterprise: "Enact Free Enterprise" #NT!
+ BAD_decision_enact_free_enterprise_desc: "We will need to adjust our laws in order to attract investors, as we have too harsh laws currently, which hamper the development of our economy. Liberialising the market is one thing we could do, as it would make us more attractive for investors." #NT!
+ BAD_decision_establish_an_industrial_code: "Establish an Industrial Code" #NT!
+ BAD_decision_establish_an_industrial_code_desc: "By establishing an industrial code we can give our businesses legal certainty. Doing so will hinder them doing things we do not want them to do, but in the long term this will raise their innovativeness and make up for problems in the short term." #NT!
+ BAD_mission_establish_lumber_industry: "Establish Lumber Industry" #NT!
+ BAD_mission_establish_lumber_industry_desc: "We need to make better use of our resources in order to industrialize our country faster. Our rich forest areas and the high-quality timber in our woods provide a good basis for promoting this process." #NT!
+ BAD_decision_expand_woodcutting_industry: "Expand Woodcutting Industry" #NT!
+ BAD_decision_expand_woodcutting_industry_desc: "We have a long tradition of logging and our rich forests are known for providing first-class lumber. Although we have to proceed with caution, we can increase our lumber production through smart investments." #NT!
  BAD_decision_schwarzwald_logging_camps: "Лесозаготовки в Шварцвальде"
- BAD_decision_schwarzwald_logging_camps_desc: "We still have unused capacity in our logging camps. A good opportunity to create jobs and increase our timber production."
- BAD_mission_establish_mineral_industry: "Establish Mineral Industry"
- BAD_mission_establish_mineral_industry_desc: "We need to make better use of our resources in order to industrialize our country more quickly. We still have some untapped veins of mineral resources that we could use to further the industrialization process."
+ BAD_decision_schwarzwald_logging_camps_desc: "We still have unused capacity in our logging camps. A good opportunity to create jobs and increase our timber production." #NT!
+ BAD_mission_establish_mineral_industry: "Establish Mineral Industry" #NT!
+ BAD_mission_establish_mineral_industry_desc: "We need to make better use of our resources in order to industrialize our country more quickly. We still have some untapped veins of mineral resources that we could use to further the industrialization process." #NT!
  BAD_decision_expand_mining_districts: "Расширение Добычи Железа и Угля"
- BAD_decision_expand_mining_districts_desc: "We still have several untapped mineral deposits in our country. Some politicians do think that it is the best idea to expand existing mining destricts and opening up new mines will help our economy and attract new investors."
- BAD_decision_establish_coal_mining: "Establish Coal Mining"
- BAD_decision_establish_coal_mining_desc: "Although our country does not exactly have huge coal reserves, we could significantly increase coal production in the few mining areas through targeted investment."
- BAD_decision_expand_farmlands: "Expand Farmlands"
- BAD_decision_expand_farmlands_desc: "Agriculture has always been the backbone of our country. With its help, we have been able to avoid major famines and the surplus yield brings a lot of money into our coffers every year. If we continue to invest in more modern methods here and there and cultivate high-yield areas more efficiently, we can further increase our yields."
- BAD_mission_establish_machine_engineering_industry: "Establish Machine Engineering Industry"
- BAD_mission_establish_machine_engineering_industry_desc: "We have many bright minds in our country who have made a name for themselves, especially in the field of mechanical engineering. It is our task to support these men and capitalize on their achievements."
- BAD_decision_pforzheim_jewellers: "Pforzheim Jewellers"
- BAD_decision_pforzheim_jewellers_desc: "Pforzheim's jewelers are known throughout Europe for their quality craftsmanship. There are plans to open up further overseas markets, which could significantly enhance our reputation around the world. We should therefore support these efforts."
- BAD_decision_watchmaking_industry: "Black Forest Watchmaking Industry"
- BAD_decision_watchmaking_industry_desc: "Black Forest watchmaking is renowned throughout Germany for its unrivaled quality. For the most part, precision mechanics have been working with the same techniques for decades, but some investment in modernizing the watchmaking trade could significantly increase sales of pocket watches."
- BAD_decision_support_basf: "Support BASF"
- BAD_decision_support_basf_desc: "Friedrich Engelhorn is a capable industrialist. His ideas for a large chemicals factory are interesting and we would do well to lend him our support."
- BAD_decision_support_textile_industry: "Support the Textile Industry"
- BAD_decision_support_textile_industry_desc: "Baden has a rich history of proto-industrialized textile production. By investing into modern technology and expanding industrial capacities, the output of our textile industry could be greatly improved."
- BAD_decision_subsidize_steel_mill: "Subsidize Construction of a Stell Mill"
- BAD_decision_subsidize_steel_mill_desc: "We can expand our extraction of raw materials, but without processing them into higher-quality materials, we will do little with them. We should therefore subsidize the construction of a steel mill."
- BAD_decision_subsidize_machine_parts_factory: "Subsidize Construction of a Machine Parts Factory"
- BAD_decision_subsidize_machine_parts_factory_desc: "Our engineers have great ideas, but they often lack the resources to put their inventions into practice and make them marketable. We should therefore provide the necessary funding to support this industry."
+ BAD_decision_expand_mining_districts_desc: "We still have several untapped mineral deposits in our country. Some politicians do think that it is the best idea to expand existing mining destricts and opening up new mines will help our economy and attract new investors." #NT!
+ BAD_decision_establish_coal_mining: "Establish Coal Mining" #NT!
+ BAD_decision_establish_coal_mining_desc: "Although our country does not exactly have huge coal reserves, we could significantly increase coal production in the few mining areas through targeted investment." #NT!
+ BAD_decision_expand_farmlands: "Expand Farmlands" #NT!
+ BAD_decision_expand_farmlands_desc: "Agriculture has always been the backbone of our country. With its help, we have been able to avoid major famines and the surplus yield brings a lot of money into our coffers every year. If we continue to invest in more modern methods here and there and cultivate high-yield areas more efficiently, we can further increase our yields." #NT!
+ BAD_mission_establish_machine_engineering_industry: "Establish Machine Engineering Industry" #NT!
+ BAD_mission_establish_machine_engineering_industry_desc: "We have many bright minds in our country who have made a name for themselves, especially in the field of mechanical engineering. It is our task to support these men and capitalize on their achievements." #NT!
+ BAD_decision_pforzheim_jewellers: "Pforzheim Jewellers" #NT!
+ BAD_decision_pforzheim_jewellers_desc: "Pforzheim's jewelers are known throughout Europe for their quality craftsmanship. There are plans to open up further overseas markets, which could significantly enhance our reputation around the world. We should therefore support these efforts." #NT!
+ BAD_decision_watchmaking_industry: "Black Forest Watchmaking Industry" #NT!
+ BAD_decision_watchmaking_industry_desc: "Black Forest watchmaking is renowned throughout Germany for its unrivaled quality. For the most part, precision mechanics have been working with the same techniques for decades, but some investment in modernizing the watchmaking trade could significantly increase sales of pocket watches." #NT!
+ BAD_decision_support_basf: "Support BASF" #NT!
+ BAD_decision_support_basf_desc: "Friedrich Engelhorn is a capable industrialist. His ideas for a large chemicals factory are interesting and we would do well to lend him our support." #NT!
+ BAD_decision_support_textile_industry: "Support the Textile Industry" #NT!
+ BAD_decision_support_textile_industry_desc: "Baden has a rich history of proto-industrialized textile production. By investing into modern technology and expanding industrial capacities, the output of our textile industry could be greatly improved." #NT!
+ BAD_decision_subsidize_steel_mill: "Subsidize Construction of a Stell Mill" #NT!
+ BAD_decision_subsidize_steel_mill_desc: "We can expand our extraction of raw materials, but without processing them into higher-quality materials, we will do little with them. We should therefore subsidize the construction of a steel mill." #NT!
+ BAD_decision_subsidize_machine_parts_factory: "Subsidize Construction of a Machine Parts Factory" #NT!
+ BAD_decision_subsidize_machine_parts_factory_desc: "Our engineers have great ideas, but they often lack the resources to put their inventions into practice and make them marketable. We should therefore provide the necessary funding to support this industry." #NT!
  BAD_decision_railway_upgrade: "Модернизация Железной Дороги"
  BAD_decision_railway_upgrade_desc: "Наша железнодорожная сеть больше не поддерживает и тем более не способствует развитию современной промышленности. Модернизация и расширение решат эту проблему, а также обеспечат важные контракты и возможности для расширения торговли."
  BAD_decision_railway_upgrade_trigger_tt: "Есть §YЖелезнодорожное Соединение§! между §YКонстанцем§! и §Yсеверо-востоком Бадена (провинция 6555)§!\n"
@@ -312,47 +312,47 @@
  BAD_decision_intensify_convention: "Усилить Военную Конвенцию"
   
  ## POLITICS 
- BAD_decision_category_politics: "The Politics of Baden"
- BAD_decision_category_politics_desc: "The Grand Duchy of Baden is facing a number of political challenges on which a happy future in peace and liberty could depend. It will be our task to act wisely and with foresight in order to achieve our goals and maneuver our country through these turbulent times."
- BAD_decision_convention_with_the_vatican: "Sign a Convention with the Vatican"
- BAD_decision_convention_with_the_vatican_desc: "Now that the Vatican has declared its willingness to find an agreement in our dispute with the Catholic Church, we should move swiftly to conclude a concordat."
- BAD_decision_establish_trade_ministry: "Establish a Trade Ministry"
- BAD_decision_establish_trade_ministry_desc: "State Minister Stabel has requested the creation of a trade ministry, and the Grand Duke has granted his request. We can now go ahead and place Gideon Weizel at the head of newly established Grand Ducal Trade Ministry."
- BAD_decision_baden_trade_act: "The Baden Trade Act of [GetYear]"
- BAD_decision_baden_trade_act_desc: "Trade Minister Gideon Weizel has presented the plans for a trade law that he has been preparing for some time. According to these plans, the [BAD.GetName] will move more in the direction of free trade if his bill is adopted."
- BAD_decision_baden_central_bank: "Foundation of the Baden Central Bank"
- BAD_decision_baden_central_bank_desc: "For a few years now, there have been discussions about the foundation of a central bank for the Grand Duchy of Baden. However, lawmakers are still not certain whether that would be feasible for a rather small country like ours. If we have the funds to spare, this endeavor could have positive effects on our economy though, making the necessary capital for investments of all sorts much more readily available without fear of a foreign influence on our finances."
+ BAD_decision_category_politics: "The Politics of Baden" #NT!
+ BAD_decision_category_politics_desc: "The Grand Duchy of Baden is facing a number of political challenges on which a happy future in peace and liberty could depend. It will be our task to act wisely and with foresight in order to achieve our goals and maneuver our country through these turbulent times." #NT!
+ BAD_decision_convention_with_the_vatican: "Sign a Convention with the Vatican" #NT!
+ BAD_decision_convention_with_the_vatican_desc: "Now that the Vatican has declared its willingness to find an agreement in our dispute with the Catholic Church, we should move swiftly to conclude a concordat." #NT!
+ BAD_decision_establish_trade_ministry: "Establish a Trade Ministry" #NT!
+ BAD_decision_establish_trade_ministry_desc: "State Minister Stabel has requested the creation of a trade ministry, and the Grand Duke has granted his request. We can now go ahead and place Gideon Weizel at the head of newly established Grand Ducal Trade Ministry." #NT!
+ BAD_decision_baden_trade_act: "The Baden Trade Act of [GetYear]" #NT!
+ BAD_decision_baden_trade_act_desc: "Trade Minister Gideon Weizel has presented the plans for a trade law that he has been preparing for some time. According to these plans, the [BAD.GetName] will move more in the direction of free trade if his bill is adopted." #NT!
+ BAD_decision_baden_central_bank: "Foundation of the Baden Central Bank" #NT!
+ BAD_decision_baden_central_bank_desc: "For a few years now, there have been discussions about the foundation of a central bank for the Grand Duchy of Baden. However, lawmakers are still not certain whether that would be feasible for a rather small country like ours. If we have the funds to spare, this endeavor could have positive effects on our economy though, making the necessary capital for investments of all sorts much more readily available without fear of a foreign influence on our finances." #NT!
  BAD_decision_vogelmann_tax_cuts: "Налоговые Сокращения по Вогельманну"
   
   
  ### IDEAS ### 
  ## ECONOMY & TRADE 
- BAD_idea_development_1: "Rise of Industry"
- BAD_idea_development_2: "Rise of Industry"
- BAD_idea_baden_tinkerer_1: "Baden Tinkerer"
- BAD_idea_baden_tinkerer_2: "Baden Tinkerer"
+ BAD_idea_development_1: "Rise of Industry" #NT!
+ BAD_idea_development_2: "Rise of Industry" #NT!
+ BAD_idea_baden_tinkerer_1: "Baden Tinkerer" #NT!
+ BAD_idea_baden_tinkerer_2: "Baden Tinkerer" #NT!
  BAD_combat_liberalism: "Борьба с Либерализмом"
  BAD_reactionary_grand_duchy: "Реакционное Великое Герцогство"
  BAD_new_Zollverein: "Таможенный Союз"
- BAD_idea_schwarzwald_1: "Der Schwarzwald"
- BAD_idea_schwarzwald_2: "Der Schwarzwald"
- BAD_idea_schwarzwald_3: "Der Schwarzwald"
- BAD_idea_agriculture_1: "Baden's Agriculture"
- BAD_idea_agriculture_2: "Baden's Agriculture"
- BAD_idea_agriculture_3: "Baden's Agriculture"
- BAD_idea_fine_crafts_1: "Baden's Fine Crafts"
- BAD_idea_fine_crafts_2: "Baden's Fine Crafts"
- BAD_idea_fine_crafts_3: "Baden's Fine Crafts"
- BAD_idea_failed_economic_reform: "Failed Economic Reform"
- BAD_idea_failed_economic_reform_desc: "We are currently feeling the consequences of a recently failed economic reform."
- BAD_idea_successful_economic_reform: "Successful Economic Reform"
- BAD_idea_successful_economic_reform_desc: "We are currently feeling the boost of a recent successful economic reform."
- BAD_idea_trade_ministry_1: "Baden Trade Ministry"
- BAD_idea_trade_ministry_1_desc: "The Grand Ducal Ministry of Trade provides us with advantages in our existing trade relations and also in the negotiation of possible new trade agreements with other countries."
- BAD_idea_trade_ministry_2: "Baden Trade Ministry"
- BAD_idea_trade_ministry_2_desc: "The Grand Ducal Ministry of Trade provides us with advantages in our existing trade relations and also in the negotiation of possible new trade agreements with other countries."
- BAD_idea_trade_ministry_3: "Baden Trade Ministry and Central Bank"
- BAD_idea_trade_ministry_3_desc: "The Grand Ducal Ministry of Trade provides us with advantages in our existing trade relations and also in the negotiation of possible new trade agreements with other countries."
+ BAD_idea_schwarzwald_1: "Der Schwarzwald" #NT!
+ BAD_idea_schwarzwald_2: "Der Schwarzwald" #NT!
+ BAD_idea_schwarzwald_3: "Der Schwarzwald" #NT!
+ BAD_idea_agriculture_1: "Baden's Agriculture" #NT!
+ BAD_idea_agriculture_2: "Baden's Agriculture" #NT!
+ BAD_idea_agriculture_3: "Baden's Agriculture" #NT!
+ BAD_idea_fine_crafts_1: "Baden's Fine Crafts" #NT!
+ BAD_idea_fine_crafts_2: "Baden's Fine Crafts" #NT!
+ BAD_idea_fine_crafts_3: "Baden's Fine Crafts" #NT!
+ BAD_idea_failed_economic_reform: "Failed Economic Reform" #NT!
+ BAD_idea_failed_economic_reform_desc: "We are currently feeling the consequences of a recently failed economic reform." #NT!
+ BAD_idea_successful_economic_reform: "Successful Economic Reform" #NT!
+ BAD_idea_successful_economic_reform_desc: "We are currently feeling the boost of a recent successful economic reform." #NT!
+ BAD_idea_trade_ministry_1: "Baden Trade Ministry" #NT!
+ BAD_idea_trade_ministry_1_desc: "The Grand Ducal Ministry of Trade provides us with advantages in our existing trade relations and also in the negotiation of possible new trade agreements with other countries." #NT!
+ BAD_idea_trade_ministry_2: "Baden Trade Ministry" #NT!
+ BAD_idea_trade_ministry_2_desc: "The Grand Ducal Ministry of Trade provides us with advantages in our existing trade relations and also in the negotiation of possible new trade agreements with other countries." #NT!
+ BAD_idea_trade_ministry_3: "Baden Trade Ministry and Central Bank" #NT!
+ BAD_idea_trade_ministry_3_desc: "The Grand Ducal Ministry of Trade provides us with advantages in our existing trade relations and also in the negotiation of possible new trade agreements with other countries." #NT!
   
  ## RAILWAYS 
  BAD_idea_state_railways_1: "Баденские Государственные Железные Дороги"
@@ -365,44 +365,44 @@
  BAD_idea_state_railways_4_desc: ""
   
  ## MILITARY 
- BAD_idea_russian_campaign_1812_1: "The Russian Campaign of 1812"
- BAD_idea_russian_campaign_1812_1_desc: "The Russian Campaign of 1812 was an unsuccessful military invasion of Russia, carried out under the orders of the French Emperor Napoléon Bonaparte. The campaign ended in a devastating defeat of the French forces, who had to withdraw from Moscow in harsh weather. [BAD.GetNameDef], a German state of the former Rheinbund, and therefore and ally of Napoléon, provided the French campaign with over 6,000 men. Over 90% of these men never came home, and many families lost loved ones. The people surely remember these days..."
- BAD_idea_russian_campaign_1812_2: "The Russian Campaign of 1812"
- BAD_idea_russian_campaign_1812_2_desc: "The Russian Campaign of 1812 was an unsuccessful military invasion of Russia, carried out under the orders of the French Emperor Napoléon Bonaparte. The campaign ended in a devastating defeat of the French forces, who had to withdraw from Moscow in harsh weather. [BAD.GetNameDef], a German state of the former Rheinbund, and therefore and ally of Napoléon, provided the French campaign with over 6,000 men. Over 90% of these men never came home, and many families lost loved ones. The people surely remember these days..."
- BAD_idea_austrian_style_army_1: "Austrian Style Army"
- BAD_idea_austrian_style_army_1_desc: "We have decided to follow the Austrian way of administering and leading our army."
- BAD_idea_austrian_style_army_2: "Austrian Style Army"
- BAD_idea_austrian_style_army_2_desc: "We have decided to follow the Austrian way of administering and leading our army."
- BAD_idea_austrian_style_army_3: "Austrian Style Army"
- BAD_idea_austrian_style_army_3_desc: "We have decided to follow the Austrian way of administering and leading our army."
- BAD_idea_austrian_style_army_4: "Austrian Style Army"
- BAD_idea_austrian_style_army_4_desc: "We have decided to follow the Austrian way of administering and leading our army."
- BAD_idea_federal_army_1: "Federal Army"
- BAD_idea_federal_army_1_desc: "We have decided to stay independent and cooperate with the other states of the German Confederation in the way of administering and leading our army."
- BAD_idea_federal_army_2: "Federal Army"
- BAD_idea_federal_army_2_desc: "We have decided to stay independent and cooperate with the other states of the German Confederation in the way of administering and leading our army."
- BAD_idea_federal_army_3: "Federal Army"
- BAD_idea_federal_army_3_desc: "We have decided to stay independent and cooperate with the other states of the German Confederation in the way of administering and leading our army."
- BAD_idea_federal_army_4: "Federal Army"
- BAD_idea_federal_army_4_desc: "We have decided to stay independent and cooperate with the other states of the German Confederation in the way of administering and leading our army."
- BAD_idea_prussian_style_army_1: "Prussian Style Army"
- BAD_idea_prussian_style_army_1_desc: "We have decided to follow the Prussian way of administering and leading our army."
- BAD_idea_prussian_style_army_2: "Prussian Style Army"
- BAD_idea_prussian_style_army_2_desc: "We have decided to follow the Prussian way of administering and leading our army."
- BAD_idea_prussian_style_army_3: "Prussian Style Army"
- BAD_idea_prussian_style_army_3_desc: "We have decided to follow the Prussian way of administering and leading our army."
- BAD_idea_prussian_style_army_4: "Prussian Style Army"
- BAD_idea_prussian_style_army_4_desc: "We have decided to follow the Prussian way of administering and leading our army."
+ BAD_idea_russian_campaign_1812_1: "The Russian Campaign of 1812" #NT!
+ BAD_idea_russian_campaign_1812_1_desc: "The Russian Campaign of 1812 was an unsuccessful military invasion of Russia, carried out under the orders of the French Emperor Napoléon Bonaparte. The campaign ended in a devastating defeat of the French forces, who had to withdraw from Moscow in harsh weather. [BAD.GetNameDef], a German state of the former Rheinbund, and therefore and ally of Napoléon, provided the French campaign with over 6,000 men. Over 90% of these men never came home, and many families lost loved ones. The people surely remember these days..." #NT!
+ BAD_idea_russian_campaign_1812_2: "The Russian Campaign of 1812" #NT!
+ BAD_idea_russian_campaign_1812_2_desc: "The Russian Campaign of 1812 was an unsuccessful military invasion of Russia, carried out under the orders of the French Emperor Napoléon Bonaparte. The campaign ended in a devastating defeat of the French forces, who had to withdraw from Moscow in harsh weather. [BAD.GetNameDef], a German state of the former Rheinbund, and therefore and ally of Napoléon, provided the French campaign with over 6,000 men. Over 90% of these men never came home, and many families lost loved ones. The people surely remember these days..." #NT!
+ BAD_idea_austrian_style_army_1: "Austrian Style Army" #NT!
+ BAD_idea_austrian_style_army_1_desc: "We have decided to follow the Austrian way of administering and leading our army." #NT!
+ BAD_idea_austrian_style_army_2: "Austrian Style Army" #NT!
+ BAD_idea_austrian_style_army_2_desc: "We have decided to follow the Austrian way of administering and leading our army." #NT!
+ BAD_idea_austrian_style_army_3: "Austrian Style Army" #NT!
+ BAD_idea_austrian_style_army_3_desc: "We have decided to follow the Austrian way of administering and leading our army." #NT!
+ BAD_idea_austrian_style_army_4: "Austrian Style Army" #NT!
+ BAD_idea_austrian_style_army_4_desc: "We have decided to follow the Austrian way of administering and leading our army." #NT!
+ BAD_idea_federal_army_1: "Federal Army" #NT!
+ BAD_idea_federal_army_1_desc: "We have decided to stay independent and cooperate with the other states of the German Confederation in the way of administering and leading our army." #NT!
+ BAD_idea_federal_army_2: "Federal Army" #NT!
+ BAD_idea_federal_army_2_desc: "We have decided to stay independent and cooperate with the other states of the German Confederation in the way of administering and leading our army." #NT!
+ BAD_idea_federal_army_3: "Federal Army" #NT!
+ BAD_idea_federal_army_3_desc: "We have decided to stay independent and cooperate with the other states of the German Confederation in the way of administering and leading our army." #NT!
+ BAD_idea_federal_army_4: "Federal Army" #NT!
+ BAD_idea_federal_army_4_desc: "We have decided to stay independent and cooperate with the other states of the German Confederation in the way of administering and leading our army." #NT!
+ BAD_idea_prussian_style_army_1: "Prussian Style Army" #NT!
+ BAD_idea_prussian_style_army_1_desc: "We have decided to follow the Prussian way of administering and leading our army." #NT!
+ BAD_idea_prussian_style_army_2: "Prussian Style Army" #NT!
+ BAD_idea_prussian_style_army_2_desc: "We have decided to follow the Prussian way of administering and leading our army." #NT!
+ BAD_idea_prussian_style_army_3: "Prussian Style Army" #NT!
+ BAD_idea_prussian_style_army_3_desc: "We have decided to follow the Prussian way of administering and leading our army." #NT!
+ BAD_idea_prussian_style_army_4: "Prussian Style Army" #NT!
+ BAD_idea_prussian_style_army_4_desc: "We have decided to follow the Prussian way of administering and leading our army." #NT!
   
  ## POLITICS 
- BAD_idea_reactionary_era: "Reactionary Era"
- BAD_idea_reactionary_era_desc: ""
- BAD_idea_a_new_era_1: "A New Era"
- BAD_idea_a_new_era_1_desc: ""
- BAD_idea_a_new_era_2: "A New Era"
- BAD_idea_a_new_era_2_desc: ""
- BAD_idea_liberal_grand_duchy: "A Liberal Grand Duchy"
- BAD_idea_liberal_grand_duchy_desc: ""
+ BAD_idea_reactionary_era: "Reactionary Era" #NT!
+ BAD_idea_reactionary_era_desc: "" #NT!
+ BAD_idea_a_new_era_1: "A New Era" #NT!
+ BAD_idea_a_new_era_1_desc: "" #NT!
+ BAD_idea_a_new_era_2: "A New Era" #NT!
+ BAD_idea_a_new_era_2_desc: "" #NT!
+ BAD_idea_liberal_grand_duchy: "A Liberal Grand Duchy" #NT!
+ BAD_idea_liberal_grand_duchy_desc: "" #NT!
  BAD_school_reform: "Школьная Реформа"
  BAD_court_reform: "Судебная Реформа Стабеля"
  BAD_court_reform1: "Баденский Административный Суд"
@@ -417,13 +417,13 @@
  # ADVISORS 
  BAD_trait_Adolf_Kussmaul: "Врач внутренней медицины\n(Нейтральный)"
  BAD_trait_Anton_von_Stabel: "Утвердительный государственный деятель\n(Либерал)"
- BAD_trait_Franz_von_Roggenbach: "Experienced Diplomat\n(Liberal)"
+ BAD_trait_Franz_von_Roggenbach: "Experienced Diplomat\n(Liberal)" #NT!
  BAD_trait_Franz_von_Stengel: "Консервативный законодатель\n(Традиционный консерватор)"
  BAD_trait_Friedrich_Engelhorn: "Основатель BASF\n(Нейтральный)"
  BAD_trait_Gideon_Weizel: "Влиятельный адвокат\n(Либерал)"
  BAD_trait_Gustav_Friedrich_von_Beyer: "Прусский военный атташе\n(Традиционный консерватор)"
  BAD_trait_Gustav_Weil: "Востоковед\n(Нейтральный)"
- BAD_trait_Hermann_von_Vicari: "Archbishop of Freiburg\n(Catholic)"
+ BAD_trait_Hermann_von_Vicari: "Archbishop of Freiburg\n(Catholic)" #NT!
  BAD_trait_Joseph_von_Scheffel: "Поэт из Бадена\n(Нейтральный)"
  BAD_trait_Julius_Jolly: "Национально-либеральный радикал\n(Либерал)"
  BAD_trait_Karl_Benz: "Дизайнер двигателей\n(Нейтральный)"
@@ -448,101 +448,101 @@
   
   
  ### DESCRIPTIONS 
- BAD_FRIEDRICH_I_LEADER_DESC: "First sitting in the Baden Estates Assembly as an appointed parliamentarian and then serving as regent for four years due to his brother's poor mental health, Friedrich I became Grand Duke of Baden in 1856 - though his reign did not officially begin until 1858 upon his brother's death.\n\nFriedrich holds rather liberal leanings, and has the will and ability to enact significant social and political reforms. Being a supporter of a constitutional monarchy and rather reluctant to go to war, perhaps Friedrich I can be a relatively benevolent monarch who improves the lives of his citizens in an age of increasing anti-monarchy sentiment."
+ BAD_FRIEDRICH_I_LEADER_DESC: "First sitting in the Baden Estates Assembly as an appointed parliamentarian and then serving as regent for four years due to his brother's poor mental health, Friedrich I became Grand Duke of Baden in 1856 - though his reign did not officially begin until 1858 upon his brother's death.\n\nFriedrich holds rather liberal leanings, and has the will and ability to enact significant social and political reforms. Being a supporter of a constitutional monarchy and rather reluctant to go to war, perhaps Friedrich I can be a relatively benevolent monarch who improves the lives of his citizens in an age of increasing anti-monarchy sentiment." #NT!
  BAD_FRANZ_VON_STENGEL_LEADER_DESC: "Происходя из семьи государственных служащих, Франц фон Штенгель сам работал в общественных службах в качестве юридического стажера, государственного советника и члена Ассамблеи земель Бадена. В последнее время он выступал как неофициальный премьер-министр Бадена, возглавляя кабинет Штенгеля.\n\nБудучи католиком и относительным консерватором в период либерализации Бадена, фон Штенгель сможет проводить основные, неидеологические реформы и законы без особых затруднений, однако, вероятно, столкнется с значительным сопротивлением в продвижении своей прокатолической программы."
  BAD_ANTON_VON_STABEL_LEADER_DESC: "Родившийся сразу после распада Священной Римской империи, Антон Штабель провел детство в период значительных политических и военных потрясений. Штабель сделал блестящую карьеру на государственной службе в качестве правительственного юриста, а затем судьи, поднявшись по карьерной лестнице с раннего возраста. Работая помощником судьи, государственным обвинителем, ректором университета и лектором, а также вице-канцлером Высшего суда, он стал известным экспертом в своей области.\n\nШтабель принял пост президента Министерства внутренних дел и юстиции после революций 1848 года, и, несмотря на призывы к жесткому реакционному ответу на революции, возглавил успешное продвижение прогрессивных реформ и модернизацию судебной системы. После избрания в недолговечный парламент в Эрфурте в 1850 году, Штабель стал вице-президентом Ландстенде, где оставался до того, как возглавил более либеральный Баден.\n\nТеперь у Штабеля есть возможность полностью реформировать Баден, создав одну из самых современных правовых систем в мире и превратив его в одно из самых либеральных государств Европы. Надеемся, что война не помешает ему завершить начатое..."
   
  ### EVENTS ### 
  #General Politics Events 
- baden.1.t: "Grand Duke Friedrich I"
- baden.1.d: "Grand Duke Friedrich I is the second son of Grand Duke Leopold of Baden. As Prince of the House of Baden, he sat in the First Chamber of the Baden Assembly of Estates from 1847 to 1852. Since his elder brother, Ludwig II, is terminally ill, he took over regency of the Grand Duchy after the death of his father in 1852. In 1856, he officially became Grand Duke himself.\n\nFriedrich I is said to have liberal views regarding his stance on politics and he is an advocate of a constitutional monarchy. He is married to the Prussian princess Luise, which could be of importance in terms of Baden's politics in regard to the German Confederation."
- baden.1.a: "Alright."
- baden.2.t: "The Stengel Cabinet"
- baden.2.d: "The Stengel cabinet took over the government of the [BAD.GetName] in 1856, shortly before Friedrich I officially assumed the throne. The two leading cabinet ministers, Franz Freiherr von Stengel as Minister of the Interior and Justice, and Wilhelm Freiherr Rivalier von Meysenbug as Minister of the Exterior and the Grand Ducal Household, pursue a moderately conservative policy. The effects of the reactionary era are still noticeable, as is the conflict with the Catholic Church, which presents the government with major challenges. In any case, the young, more liberal Grand Duke will keep a close eye on the conservative ministers."
- baden.2.a: "Ok."
- baden.3.t: "The Stabel Cabinet"
- baden.3.d: "The traditional liberal Anton Stabel has been commissioned by the Grand Duke to form a new government. Stabel is regarded as one of the pioneers of a moderate-liberal movement in Germany and was already part of the Baden government cabinet from 1849 to 1851. It was also Stabel who initiated the fall of the Stengel government by firmly insisting that the chambers of the Baden parliament had to approve the concordat with the Vatican. Consequently, he has now been called into responsibility by the Grand Duke and it will be interesting to see whether he can back up his words with deeds."
- baden.3.a: "Ok."
- baden.4.t: "The Grand Ducal Trade Ministry"
- baden.4.d: "The new liberal government is determined to put the economic policy of the [BAD.GetName] on a new footing. To this end, Minister of State Anton Stabel has proposed the establishment of a Ministry of Trade, which is to set the essential course. Gideon Weizel is to take the lead as the responsible minister in this ministry, as he has proven his expertise in this area in numerous negotiations of the Zollverein."
- baden.4.a: "Onwards!"
+ baden.1.t: "Grand Duke Friedrich I" #NT!
+ baden.1.d: "Grand Duke Friedrich I is the second son of Grand Duke Leopold of Baden. As Prince of the House of Baden, he sat in the First Chamber of the Baden Assembly of Estates from 1847 to 1852. Since his elder brother, Ludwig II, is terminally ill, he took over regency of the Grand Duchy after the death of his father in 1852. In 1856, he officially became Grand Duke himself.\n\nFriedrich I is said to have liberal views regarding his stance on politics and he is an advocate of a constitutional monarchy. He is married to the Prussian princess Luise, which could be of importance in terms of Baden's politics in regard to the German Confederation." #NT!
+ baden.1.a: "Alright." #NT!
+ baden.2.t: "The Stengel Cabinet" #NT!
+ baden.2.d: "The Stengel cabinet took over the government of the [BAD.GetName] in 1856, shortly before Friedrich I officially assumed the throne. The two leading cabinet ministers, Franz Freiherr von Stengel as Minister of the Interior and Justice, and Wilhelm Freiherr Rivalier von Meysenbug as Minister of the Exterior and the Grand Ducal Household, pursue a moderately conservative policy. The effects of the reactionary era are still noticeable, as is the conflict with the Catholic Church, which presents the government with major challenges. In any case, the young, more liberal Grand Duke will keep a close eye on the conservative ministers." #NT!
+ baden.2.a: "Ok." #NT!
+ baden.3.t: "The Stabel Cabinet" #NT!
+ baden.3.d: "The traditional liberal Anton Stabel has been commissioned by the Grand Duke to form a new government. Stabel is regarded as one of the pioneers of a moderate-liberal movement in Germany and was already part of the Baden government cabinet from 1849 to 1851. It was also Stabel who initiated the fall of the Stengel government by firmly insisting that the chambers of the Baden parliament had to approve the concordat with the Vatican. Consequently, he has now been called into responsibility by the Grand Duke and it will be interesting to see whether he can back up his words with deeds." #NT!
+ baden.3.a: "Ok." #NT!
+ baden.4.t: "The Grand Ducal Trade Ministry" #NT!
+ baden.4.d: "The new liberal government is determined to put the economic policy of the [BAD.GetName] on a new footing. To this end, Minister of State Anton Stabel has proposed the establishment of a Ministry of Trade, which is to set the essential course. Gideon Weizel is to take the lead as the responsible minister in this ministry, as he has proven his expertise in this area in numerous negotiations of the Zollverein." #NT!
+ baden.4.a: "Onwards!" #NT!
   
  #Kulturkampf Events 
- baden.51.t: "A Treaty with the Catholic Church?"
- baden.51.d: "The conflict with the Catholic Church has been occupying our country for several years now, and there is still no peace. It therefore seems appropriate to enter into negotiations with the Holy See in order to remedy this situation. If we do not find a solution, the problem could keep us busy for years to come. So, should we approach the Vatican?"
- baden.51.a: "Request an agreement."
- baden.51.b: "Continue with the status quo."
- baden.52.t: "[BAD.GetNameDef] Requests an Agreement"
- baden.52.d: "The Grand Duke of Baden asks us for an agreement in the dispute between the Catholic Church and the state institutions and the prerogatives of His Royal Majesty, Grand Duke Friedrich I of Baden. This is a welcome opportunity to secure our influence in the [BAD.GetName]. How should we respond to his request?"
- baden.52.a: "Agree to negotiate."
- PAP_baden_kulturkampf_negotiations_effect_tt: "§GWe will have a chance of securing a lasting treaty that protects Catholic interests in the [BAD.GetName].§!\n\n"
- baden.52.b: "There's no need to negotiate."
- PAP_baden_kulturkampf_no_negotiations_effect_tt: "§RPoliticians in the [BAD.GetName] might see this as a provocation and could try to push public influence in the matters of the Catholic Church in the country even further.§!\n\n"
- baden.53.t: "[PAP.GetNameDef] Willing to Negotiate"
- baden.53.d: "The Vatican has expressed its willingness to negotiate a solution to our dispute with the Catholic Church. An agreement is definitely considered possible. It is now up to us to make an offer. How should we proceed?"
- baden.53.a: "Make an acceptable offer."
- BAD_baden_kulturkampf_acceptable_offer_effect_tt: "§GThis will make an agreement with the Vatican almost certain.§!\n\n"
- baden.53.b: "Make an audacious offer."
- BAD_baden_kulturkampf_audacious_offer_effect_tt: "§RRejection of our offer is almost certain. This could, however, give us pretense to act more firmly against the Catholic Church.§!\n\n"
- baden.54.t: "[PAP.GetNameDef] Rejects Negotiation"
- baden.54.d: "The Vatican has rejected our request for negotiations to settle the Kulturkampf. It seems that the Catholic Church is not willing to compromise on this issue. We must therefore decide how to proceed."
- baden.54.a: "They choose to fight, we get it."
- baden.55.t: "[BAD.GetNameDef] Makes an Acceptable Offer"
- baden.55.d: "After we had signaled our willingness to negotiate, the government of the [BAD.GetName] sent us an offer. The proposal essentially corresponds to what we can expect in these negotiations. If we accept it, the prerogatives of the Catholic Church in Baden will be largely recognized and the autonomy of church institutions will be extended. How should we respond?"
- baden.55.a: "Accept their offer."
- baden.55.b: "Reject their offer."
- baden.56.t: "[BAD.GetNameDef] Makes an Audacious Offer"
- baden.56.d: "After we had signaled our willingness to negotiate, the government of the [BAD.GetName] sent us an offer. Unfortunately, the offer falls far short of what we expected. If we accept, the prerogatives of the Catholic Church in Baden will be restricted and the autonomy of church institutions will be largely abolished. However, we can expect that a rejection on our part could be accompanied by a tightening of the measures against the Catholic Church in Baden. So how should we react?"
- baden.56.a: "Accept their offer."
- baden.56.b: "Reject their offer, we need to fight this."
- baden.57.t: "[PAP.GetNameDef] Agrees to the Convention"
- baden.57.d: "The Vatican has accepted our offer of an amicable settlement in the Kulturkampf conflict with the Catholic Church. We can now conclude a convention and ratify the agreement."
- baden.57.a: "Good news."
- baden.58.t: "[PAP.GetNameDef] Rejects the Convention"
- baden.58.d: "The Vatican has rejected our offer of an amicable settlement in the Kulturkampf conflict with the Catholic Church. We must now decide how we should proceed."
- baden.58.a: "Make a more acceptable offer."
- baden.58.b: "We got what we came for."
- baden.58.c: "So be it."
- baden.59.t: "The Concordat of [GetYear]"
- baden.59.d: "The Concordat of 1859 should enable us to settle the dispute with the Catholic Church in the foreseeable future and to return to orderly conditions."
- baden.59.a: "A remarkable progress."
- baden.60.t: "Second Chamber in Opposition to the Concordat"
- baden.60.d: ""
- baden.60.a: "This is very bad news..."
- baden.61.t: "Dissolution of the Cabinet?"
- baden.61.d: ""
- baden.61.a: "Dissolve the cabinet and go with the Liberals."
- baden.61.b: "Keep the cabinet and stick with the conservatives."
- baden.62.t: "The Easter Proclamation"
- baden.62.d: ""
- baden.62.a: "Let's hope for the best."
- baden.63.t: "Die Katholische Volkspartei Badens"
- baden.63.d: "WIP"
- baden.63.a: "WIP"
+ baden.51.t: "A Treaty with the Catholic Church?" #NT!
+ baden.51.d: "The conflict with the Catholic Church has been occupying our country for several years now, and there is still no peace. It therefore seems appropriate to enter into negotiations with the Holy See in order to remedy this situation. If we do not find a solution, the problem could keep us busy for years to come. So, should we approach the Vatican?" #NT!
+ baden.51.a: "Request an agreement." #NT!
+ baden.51.b: "Continue with the status quo." #NT!
+ baden.52.t: "[BAD.GetNameDef] Requests an Agreement" #NT!
+ baden.52.d: "The Grand Duke of Baden asks us for an agreement in the dispute between the Catholic Church and the state institutions and the prerogatives of His Royal Majesty, Grand Duke Friedrich I of Baden. This is a welcome opportunity to secure our influence in the [BAD.GetName]. How should we respond to his request?" #NT!
+ baden.52.a: "Agree to negotiate." #NT!
+ PAP_baden_kulturkampf_negotiations_effect_tt: "§GWe will have a chance of securing a lasting treaty that protects Catholic interests in the [BAD.GetName].§!\n\n" #NT!
+ baden.52.b: "There's no need to negotiate." #NT!
+ PAP_baden_kulturkampf_no_negotiations_effect_tt: "§RPoliticians in the [BAD.GetName] might see this as a provocation and could try to push public influence in the matters of the Catholic Church in the country even further.§!\n\n" #NT!
+ baden.53.t: "[PAP.GetNameDef] Willing to Negotiate" #NT!
+ baden.53.d: "The Vatican has expressed its willingness to negotiate a solution to our dispute with the Catholic Church. An agreement is definitely considered possible. It is now up to us to make an offer. How should we proceed?" #NT!
+ baden.53.a: "Make an acceptable offer." #NT!
+ BAD_baden_kulturkampf_acceptable_offer_effect_tt: "§GThis will make an agreement with the Vatican almost certain.§!\n\n" #NT!
+ baden.53.b: "Make an audacious offer." #NT!
+ BAD_baden_kulturkampf_audacious_offer_effect_tt: "§RRejection of our offer is almost certain. This could, however, give us pretense to act more firmly against the Catholic Church.§!\n\n" #NT!
+ baden.54.t: "[PAP.GetNameDef] Rejects Negotiation" #NT!
+ baden.54.d: "The Vatican has rejected our request for negotiations to settle the Kulturkampf. It seems that the Catholic Church is not willing to compromise on this issue. We must therefore decide how to proceed." #NT!
+ baden.54.a: "They choose to fight, we get it." #NT!
+ baden.55.t: "[BAD.GetNameDef] Makes an Acceptable Offer" #NT!
+ baden.55.d: "After we had signaled our willingness to negotiate, the government of the [BAD.GetName] sent us an offer. The proposal essentially corresponds to what we can expect in these negotiations. If we accept it, the prerogatives of the Catholic Church in Baden will be largely recognized and the autonomy of church institutions will be extended. How should we respond?" #NT!
+ baden.55.a: "Accept their offer." #NT!
+ baden.55.b: "Reject their offer." #NT!
+ baden.56.t: "[BAD.GetNameDef] Makes an Audacious Offer" #NT!
+ baden.56.d: "After we had signaled our willingness to negotiate, the government of the [BAD.GetName] sent us an offer. Unfortunately, the offer falls far short of what we expected. If we accept, the prerogatives of the Catholic Church in Baden will be restricted and the autonomy of church institutions will be largely abolished. However, we can expect that a rejection on our part could be accompanied by a tightening of the measures against the Catholic Church in Baden. So how should we react?" #NT!
+ baden.56.a: "Accept their offer." #NT!
+ baden.56.b: "Reject their offer, we need to fight this." #NT!
+ baden.57.t: "[PAP.GetNameDef] Agrees to the Convention" #NT!
+ baden.57.d: "The Vatican has accepted our offer of an amicable settlement in the Kulturkampf conflict with the Catholic Church. We can now conclude a convention and ratify the agreement." #NT!
+ baden.57.a: "Good news." #NT!
+ baden.58.t: "[PAP.GetNameDef] Rejects the Convention" #NT!
+ baden.58.d: "The Vatican has rejected our offer of an amicable settlement in the Kulturkampf conflict with the Catholic Church. We must now decide how we should proceed." #NT!
+ baden.58.a: "Make a more acceptable offer." #NT!
+ baden.58.b: "We got what we came for." #NT!
+ baden.58.c: "So be it." #NT!
+ baden.59.t: "The Concordat of [GetYear]" #NT!
+ baden.59.d: "The Concordat of 1859 should enable us to settle the dispute with the Catholic Church in the foreseeable future and to return to orderly conditions." #NT!
+ baden.59.a: "A remarkable progress." #NT!
+ baden.60.t: "Second Chamber in Opposition to the Concordat" #NT!
+ baden.60.d: "" #NT!
+ baden.60.a: "This is very bad news..." #NT!
+ baden.61.t: "Dissolution of the Cabinet?" #NT!
+ baden.61.d: "" #NT!
+ baden.61.a: "Dissolve the cabinet and go with the Liberals." #NT!
+ baden.61.b: "Keep the cabinet and stick with the conservatives." #NT!
+ baden.62.t: "The Easter Proclamation" #NT!
+ baden.62.d: "" #NT!
+ baden.62.a: "Let's hope for the best." #NT!
+ baden.63.t: "Die Katholische Volkspartei Badens" #NT!
+ baden.63.d: "WIP" #NT!
+ baden.63.a: "WIP" #NT!
   
  #Flavor Events 
- baden.701.t: "Badischer Beobachter"
- baden.701.d: "WIP"
- baden.701.a: "WIP"
- baden.702.t: "Karlsruhe Polytechnic raised to Technical University"
- baden.702.d: "WIP"
- baden.702.a: "WIP"
- baden.703.t: "Sofja Kovalevskaja"
- baden.703.d: "WIP"
- baden.703.a: "WIP"
- baden.704.t: "Der Badische Frauenverein"
- baden.704.d: "WIP"
- baden.704.a: "WIP"
- baden.705.t: "Verein der Geflügelzucht"
- baden.705.d: "WIP"
- baden.705.a: "WIP"
- baden.706.t: "Grand Duke Helps with Funds and Place"
- baden.706.d: "WIP"
- baden.706.a: "WIP"
- baden.706.b: "WIP"
- baden.707.t: "Zoologische Garten Karlsruhe"
- baden.707.d: "WIP"
- baden.707.a: "WIP"
+ baden.701.t: "Badischer Beobachter" #NT!
+ baden.701.d: "WIP" #NT!
+ baden.701.a: "WIP" #NT!
+ baden.702.t: "Karlsruhe Polytechnic raised to Technical University" #NT!
+ baden.702.d: "WIP" #NT!
+ baden.702.a: "WIP" #NT!
+ baden.703.t: "Sofja Kovalevskaja" #NT!
+ baden.703.d: "WIP" #NT!
+ baden.703.a: "WIP" #NT!
+ baden.704.t: "Der Badische Frauenverein" #NT!
+ baden.704.d: "WIP" #NT!
+ baden.704.a: "WIP" #NT!
+ baden.705.t: "Verein der Geflügelzucht" #NT!
+ baden.705.d: "WIP" #NT!
+ baden.705.a: "WIP" #NT!
+ baden.706.t: "Grand Duke Helps with Funds and Place" #NT!
+ baden.706.d: "WIP" #NT!
+ baden.706.a: "WIP" #NT!
+ baden.706.b: "WIP" #NT!
+ baden.707.t: "Zoologische Garten Karlsruhe" #NT!
+ baden.707.d: "WIP" #NT!
+ baden.707.a: "WIP" #NT!
   
  #Elections Events 
   
@@ -551,8 +551,8 @@
  badenevent.5.t: "Великий герцог Фридрих I"
  badenevent.5.d: ""
  badenevent.5.a: "Прекрасно."
- badenevent.5.b: "Stay Neutral"
- badenevent.5.c: "Side with Austria"
+ badenevent.5.b: "Stay Neutral" #NT!
+ badenevent.5.c: "Side with Austria" #NT!
  badenevent.2.t: "Признаки войны"
  badenevent.2.d: "Постоянные споры между австрийцами и пруссаками в Германском союзе, возможно, скоро подойдут к финалу. Баден должен решить, на чьей стороне он будет, или сохранит нейтралитет."
  badenevent.9.t: "Выборы 1859 года"
@@ -575,14 +575,14 @@
  badenevent.15.a: "Печальные новости."
   
  ###Tooltips 
- BAD_advisors_unlocked_effect_tt: "§GThis will change which advisors are selectable.§!"
- BAD_legitimacy_increase_effect_tt: "This will improve the §bLegitimacy§! of our government.§!"
- BAD_legitimacy_decrease_effect_tt: "This will §Rdecrease§! the §bLegitimacy§! of our government by §R[?ROOT.political_legitimacy_equilibrium_custom|%+=0]§! in the long run."
+ BAD_advisors_unlocked_effect_tt: "§GThis will change which advisors are selectable.§!" #NT!
+ BAD_legitimacy_increase_effect_tt: "This will improve the §bLegitimacy§! of our government.§!" #NT!
+ BAD_legitimacy_decrease_effect_tt: "This will §Rdecrease§! the §bLegitimacy§! of our government by §R[?ROOT.political_legitimacy_equilibrium_custom|%+=0]§! in the long run." #NT!
  BAD_focus_ludwig_reforms_trigger_tt: "Требуется §YДамиан Людвиг§! как военный министр в §YВысшем военном командовании§!."
- BAD_focus_beyer_war_minister_tt: "Requires §YFriedrich von Beyer§! as War Minister in the §YMilitary High Command§!."
+ BAD_focus_beyer_war_minister_tt: "Requires §YFriedrich von Beyer§! as War Minister in the §YMilitary High Command§!." #NT!
  BAD_focus_school_reform_tt: "§GЗакон об образовании будет изменен в Бадене!§"
  BAD_damian_ludwig_trigger_tt: "Не имеет §YГустава Фридриха фон Бейера§! в качестве советника."
- BAD_change_kulturkampf_modifiers_tt: "§CThis will §Ymodify§! the §YBaden Kulturkampf§! spirit with the following effects:§!\n"
+ BAD_change_kulturkampf_modifiers_tt: "§CThis will §Ymodify§! the §YBaden Kulturkampf§! spirit with the following effects:§!\n" #NT!
   
  bad_closer_relations_prussia: "Баден - Более тесное сотрудничество с Пруссией"
  bad_talks_with_neighbours: "Сотрудничество с соседями"
@@ -595,5 +595,5 @@
   
  ###Dynamic Modifiers 
  dynmod_BAD_kulturkampf: "Культуркампф в Бадене"
- dynmod_BAD_kulturkampf_desc: "The Baden Kulturkampf describes the conflict between the Catholic Church, represented in particular by the Archbishop of Freiburg, Hermann von Vicari, and the [Bad.GetName]. The Catholic Church insists on its independence, while the state wants to do justice to its secular claim and limit the concerns of the Church as far as possible to the area of pastoral care. In the [Bad.GetName] in particular, which is divided along denominational lines, this dispute has become a real problem in recent years and one that we have to deal with."
- BAD_kulturkampf_legitimacy_modifier_tt: "Adjusted Legitimacy: [?ROOT.political_legitimacy_equilibrium_custom|%+=0]"
+ dynmod_BAD_kulturkampf_desc: "The Baden Kulturkampf describes the conflict between the Catholic Church, represented in particular by the Archbishop of Freiburg, Hermann von Vicari, and the [Bad.GetName]. The Catholic Church insists on its independence, while the state wants to do justice to its secular claim and limit the concerns of the Church as far as possible to the area of pastoral care. In the [Bad.GetName] in particular, which is divided along denominational lines, this dispute has become a real problem in recent years and one that we have to deal with." #NT!
+ BAD_kulturkampf_legitimacy_modifier_tt: "Adjusted Legitimacy: [?ROOT.political_legitimacy_equilibrium_custom|%+=0]" #NT!

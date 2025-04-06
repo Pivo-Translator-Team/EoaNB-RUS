@@ -5,7 +5,7 @@
  ACE_ottoman_aceh_oil_company_master: "[OTO.GetAdjective]-[ACE.GetAdjective] Нефтяная компания"
  ACE_ottoman_aceh_oil_company_master_desc: "[OTO.GetAdjective]-[ACE.GetAdjective] Нефтяная компания принесла огромную пользу нашей экономике, облегчив некоторые трудности, с которыми мы сталкиваемся. [ACE.GetName] при этом, это наш выход в Тихий океан"
   
- aceh.1: "[OTO.GetAdjective]-[ACE.GetAdjective] Oil Company Proposal"
- aceh.1.t: "[OTO.GetAdjective]-[ACE.GetAdjective] Oil Company Proposal"
- aceh.1.d: ""
- aceh.1.a: "This could improve our economy!"
+ aceh.1: "[OTO.GetAdjective]-[ACE.GetAdjective] Oil Company Proposal" #NT!
+ aceh.1.t: "[OTO.GetAdjective]-[ACE.GetAdjective] Oil Company Proposal" #NT!
+ aceh.1.d: "" #NT!
+ aceh.1.a: "This could improve our economy!" #NT!

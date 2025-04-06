@@ -1042,8 +1042,8 @@
  modifier_production_speed_machine_parts_factory_factor_desc: "Изменяет скорость строительства Заводов Деталей Машин."
  modifier_production_speed_farm_factor: "Скорость Строительства §YФерм§!"
  modifier_production_speed_farm_factor_desc: "Изменяет скорость строительства Ферм."
- modifier_production_speed_fabric_weavery_factor: "§YFabric Weavery§! Construction Speed"
- modifier_production_speed_fabric_weavery_factor_desc: "Modifies the speed of Fabric Weavery construction speed"
+ modifier_production_speed_fabric_weavery_factor: "§YFabric Weavery§! Construction Speed" #NT!
+ modifier_production_speed_fabric_weavery_factor_desc: "Modifies the speed of Fabric Weavery construction speed" #NT!
  STAT_COMMON_ACCLIMATIZATION_WET_GAIN: "Коэффициент усиления влажной акклиматизации"
  STAT_COMMON_ACCLIMATIZATION_WET_GAIN_DESC: "Скорость передвижения акклиматизируется во влажном климате."
  STAT_COMMON_ACCLIMATIZATION_WET_GAIN_VALUE: "$VALUE|H1%$"
@@ -1222,20 +1222,20 @@
  modifier_state_production_speed_infrastructure_factor_desc: "Изменяет скорость строительства в этом регионе ($infrastructure$)."
  modifier_state_production_speed_arms_factory_factor: "§Y$arms_factory$§! — скорость строительства"
  modifier_state_production_speed_arms_factory_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$arms_factory$§!."
- modifier_state_production_speed_coal_mine_factor: "§Y$coal_mine$§! Construction Speed"
- modifier_state_production_speed_coal_mine_factor_desc: "Modifies the speed of §Y$coal_mine$§! construction in this state."
- modifier_state_production_speed_cotton_farm_factor: "£cotton_resource_texticon §Y$cotton_farm$§! Construction Speed"
- modifier_state_production_speed_cotton_farm_factor_desc: "Modifies the speed of §Y$cotton_farm$§! construction in this state."
- modifier_state_production_speed_farm_factor: "£food_resource_texticon §Y$farm$§! Construction Speed"
- modifier_state_production_speed_farm_factor_desc: "Modifies the speed of §Y$farm$§! construction in this state."
- modifier_state_production_speed_fabric_weavery_factor: "§Y$fabric_weavery$§! Construction Speed"
- modifier_state_production_speed_fabric_weavery_factor_desc: "Modifies the speed of §Y$fabric_weavery$§! construction in this state."
- modifier_state_production_speed_steel_mill_factor: "§Y$steel_mill$§! Construction Speed"
- modifier_state_production_speed_steel_mill_factor_desc: "Modifies the speed of §Y$steel_mill$§! construction in this state."
- modifier_state_production_speed_logging_camp_factor: "§Y$logging_camp$§! Construction Speed"
- modifier_state_production_speed_logging_camp_factor_desc: "Modifies the speed of §Y$logging_camp$§! construction in this state."
- modifier_state_production_speed_machine_parts_factory_factor: "§Y$machine_parts_factory$§! Construction Speed"
- modifier_state_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of §Y$machine_parts_factory$§! construction in this state."
+ modifier_state_production_speed_coal_mine_factor: "§Y$coal_mine$§! Construction Speed" #NT!
+ modifier_state_production_speed_coal_mine_factor_desc: "Modifies the speed of §Y$coal_mine$§! construction in this state." #NT!
+ modifier_state_production_speed_cotton_farm_factor: "£cotton_resource_texticon §Y$cotton_farm$§! Construction Speed" #NT!
+ modifier_state_production_speed_cotton_farm_factor_desc: "Modifies the speed of §Y$cotton_farm$§! construction in this state." #NT!
+ modifier_state_production_speed_farm_factor: "£food_resource_texticon §Y$farm$§! Construction Speed" #NT!
+ modifier_state_production_speed_farm_factor_desc: "Modifies the speed of §Y$farm$§! construction in this state." #NT!
+ modifier_state_production_speed_fabric_weavery_factor: "§Y$fabric_weavery$§! Construction Speed" #NT!
+ modifier_state_production_speed_fabric_weavery_factor_desc: "Modifies the speed of §Y$fabric_weavery$§! construction in this state." #NT!
+ modifier_state_production_speed_steel_mill_factor: "§Y$steel_mill$§! Construction Speed" #NT!
+ modifier_state_production_speed_steel_mill_factor_desc: "Modifies the speed of §Y$steel_mill$§! construction in this state." #NT!
+ modifier_state_production_speed_logging_camp_factor: "§Y$logging_camp$§! Construction Speed" #NT!
+ modifier_state_production_speed_logging_camp_factor_desc: "Modifies the speed of §Y$logging_camp$§! construction in this state." #NT!
+ modifier_state_production_speed_machine_parts_factory_factor: "§Y$machine_parts_factory$§! Construction Speed" #NT!
+ modifier_state_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of §Y$machine_parts_factory$§! construction in this state." #NT!
  modifier_state_production_speed_air_base_factor: "§Y$air_base$§! — скорость строительства"
  modifier_state_production_speed_air_base_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$air_base$§!."
  modifier_state_production_speed_naval_base_factor: "§Y$naval_base$§! — скорость строительства"
