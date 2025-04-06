@@ -640,7 +640,7 @@
   
  SER_hand_to_defence_ministry: "Hand it to the Defence Ministry"
  SER_hand_to_defence_ministry_desc: ""
- SER_decision_hand_it_to_the_ministry: "Hand it to the Defence Ministry" #NT!
+ SER_decision_hand_it_to_the_ministry: "Hand it to the Defence Ministry"
   
  SER_serbian_steam_navigation_company: "Serbian Steam Navigation Company"
  SER_serbian_steam_navigation_company_desc: ""
@@ -736,10 +736,10 @@
  SERmisc.3.d: ""
  SERmisc.3.a: "A great man"
   
- SERmisc.4.t: "Best Man" #NT!
- SERmisc.4.d: "" #NT!
- SERmisc.4.a: "Accept" #NT!
- SERmisc.4.b: "Decline" #NT!
+ SERmisc.4.t: "Best Man"
+ SERmisc.4.d: ""
+ SERmisc.4.a: "Accept"
+ SERmisc.4.b: "Decline"
   
  SERmisc.5.t: "WARNING: Serbia is WIP"
  SERmisc.5.d: "Serbia is currently not really playable. So if you decide to play it anyway, remember that it will probably not work very well or even at all in some parts.\n-Serbian dev"
@@ -1140,7 +1140,7 @@
  SER_economy.3.d: "Send in the police to end the protests?"
  SER_economy.3.a: "Yes"
  SER_economy.3.b: "No"
- SER_tt_worker_strikes: "§YThis option will lead to§! §Rworker strikes§! §Yacross the country!§!" #NT!
+ SER_tt_worker_strikes: "§YThis option will lead to§! §Rworker strikes§! §Yacross the country!§!"
   
  SER_economy.4.t: "Workers Strike"
  SER_economy.4.d: "Promise them their wages?"
@@ -1280,6 +1280,7 @@
  SER_decision_belgrade_infantry_exercises: "Infantry Exercises in Belgrade with Kosta Protic"
  SER_decision_belgrade_artillery_exercises: "Artillery Training Outside of the Capital"
  SER_decision_franco_prussian_observer: "Send Milojko Lesjanin to Germany"
+ SER_decision_franco_prussian_observer_fra: "Send Sava Grujic to France" #NT!
  SER_decision_military_foundry: "Expand Military Foundries"
   
      #Economy Decisions 
@@ -1325,7 +1326,7 @@
  SER_decision_control_money_supply: "Control the money supply"
  SER_decision_crisis_contained: "Contain the Crisis"
  SER_decision_crisis_stabalised: "Stabalise the Crisis"
- SER_decision_purchase_steamship: "Purchase foreign steamships" #NT!
+ SER_decision_purchase_steamship: "Purchase foreign steamships"
   
      #SPIRITS 
   
@@ -1378,7 +1379,7 @@
  SER_idea_widespread_bankrupcies3_desc: "During the regime of Constitution Defenders, usurious interest rates soared to 300% and bankruptcies of small businessmen and farmers were widespread. Despite this, the regime did almost nothing for economic development and improvement of credit organization. Various proposals to create a note-issuing bank in the form of joint-stock company together with other types of banks were rejected by the regime. To make things worse, the regime produced permanent fiscal deficits which were covered from the state reserves, i.e. the “immovable crate”, from which cash loans were also advanced to the public. All this led to a drastic decrease of cash in the “immovable crate”. From the previous 380 000 ducats, cash in the state reserves shrank to only 25 000 ducats. At the same time, debt instruments (bonds) rose to 266 000 ducats before the end of the regime."
  SER_idea_widespread_bankrupcies4: "Frequent Bankruptcies"
  SER_idea_widespread_bankrupcies4_desc: "During the regime of Constitution Defenders, usurious interest rates soared to 300% and bankruptcies of small businessmen and farmers were widespread. Despite this, the regime did almost nothing for economic development and improvement of credit organization. Various proposals to create a note-issuing bank in the form of joint-stock company together with other types of banks were rejected by the regime. To make things worse, the regime produced permanent fiscal deficits which were covered from the state reserves, i.e. the “immovable crate”, from which cash loans were also advanced to the public. All this led to a drastic decrease of cash in the “immovable crate”. From the previous 380 000 ducats, cash in the state reserves shrank to only 25 000 ducats. At the same time, debt instruments (bonds) rose to 266 000 ducats before the end of the regime."
- SER_idea_poor_standar_of_life: "Poor Standard of Life" #NT!
+ SER_idea_poor_standar_of_life: "Poor Standard of Life"
  SER_idea_navigate_morava_river: "Navigation on Morava River"
  SER_idea_navigate_morava_river1: "Navigation on Morava River"
  SER_idea_salt_monopoly: "Salt Monopoly"
@@ -1419,8 +1420,8 @@
  SER_idea_worker_strikes: "Worker strikes"
  SER_idea_boycott: "Laborers boycott goods"
  SER_idea_economic_dependency: "Economic dependency"
- SER_idea_build_own_mines: "Our Own Mines" #NT!
- SER_idea_invest_mining: "Foreign Mining Investments" #NT!
+ SER_idea_build_own_mines: "Our Own Mines"
+ SER_idea_invest_mining: "Foreign Mining Investments"
   
      ###Balkan Pact Ideas 
  SER_idea_slavic_friendship: "Serbian - Bulgarian Cooperation"

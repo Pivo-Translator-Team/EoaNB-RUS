@@ -105,35 +105,35 @@
   
  afr_go_with_overlord_jihadist_revolution_trigger: "Our §YOverlord§! has pursued the §YJihadist Revolution§!"
   
- EDC_afr.57.t: "" #NT!
- EDC_afr.57.d: "" #NT!
- EDC_afr.57.a: "The people of [FROM.GetName] must endure industrialization." #NT!
- EDC_afr.57.b: "We will listen to their demands." #NT!
- EDC_afr.58.t: "The Jihadist Revolution Succedes!" #NT!
- EDC_afr.58.d: "This shall mark the beginning of a new era! Through faith in Allah, our Islamic Renaissance shall create reforms to bring stability, security, prosperity, and an end to corruption!" #NT!
- EDC_afr.58.a: "May our Golden Era begin! Inshallah!" #NT!
- EDC_afr.59.t: "The Jihadist Revolution Succedes!" #NT!
- EDC_afr.59.d: "This shall mark the beginning of a new era! Through faith in Allah, our Islamic Renaissance shall create reforms to bring stability, security, prosperity, and an end to corruption!" #NT!
- EDC_afr.59.a: "May our Golden Era begin! Inshallah!" #NT!
+ EDC_afr.57.t: ""
+ EDC_afr.57.d: ""
+ EDC_afr.57.a: "The people of [FROM.GetName] must endure industrialization."
+ EDC_afr.57.b: "We will listen to their demands."
+ EDC_afr.58.t: "The Jihadist Revolution Succedes!"
+ EDC_afr.58.d: "This shall mark the beginning of a new era! Through faith in Allah, our Islamic Renaissance shall create reforms to bring stability, security, prosperity, and an end to corruption!"
+ EDC_afr.58.a: "May our Golden Era begin! Inshallah!"
+ EDC_afr.59.t: "The Jihadist Revolution Succedes!"
+ EDC_afr.59.d: "This shall mark the beginning of a new era! Through faith in Allah, our Islamic Renaissance shall create reforms to bring stability, security, prosperity, and an end to corruption!"
+ EDC_afr.59.a: "May our Golden Era begin! Inshallah!"
   
- EDC_afr.61.t: "The [OTO.GetName] Rejects The Tanzimat Reforms!" #NT!
- EDC_afr.61.d: "The [OTO.GetName] has decided to undo the Tanzimat Reforms that made the Sultan weak and clouded Islamic guidance. We must follow their example and have a Jihadist Revolution to bring stability and fix the corruption within our country!" #NT!
- EDC_afr.61.a: "We must follow their example! Mashallah!" #NT!
- EDC_afr.61.b: "We will continue our chosen path." #NT!
+ EDC_afr.61.t: "The [OTO.GetName] Rejects The Tanzimat Reforms!"
+ EDC_afr.61.d: "The [OTO.GetName] has decided to undo the Tanzimat Reforms that made the Sultan weak and clouded Islamic guidance. We must follow their example and have a Jihadist Revolution to bring stability and fix the corruption within our country!"
+ EDC_afr.61.a: "We must follow their example! Mashallah!"
+ EDC_afr.61.b: "We will continue our chosen path."
   
- EDC_afr.62.t: "The [FROM.GetName] Declared Jihad!" #NT!
- EDC_afr.62.d: "" #NT!
- EDC_afr.62.a: "We must follow their example! Mashallah!" #NT!
- EDC_afr.62.b: "We will continue our chosen path." #NT!
+ EDC_afr.62.t: "The [FROM.GetName] Declared Jihad!"
+ EDC_afr.62.d: ""
+ EDC_afr.62.a: "We must follow their example! Mashallah!"
+ EDC_afr.62.b: "We will continue our chosen path."
   
- EDC_afr.63.t: "The [OMA.GetName] Questions [ZAN.GetLeader]!" #NT!
- EDC_afr.63.d: "The [OMA.GetName] and the [ZAN.GetName] had once been a unified empire, but an agreement brokered by the [ENG.GetName] has split the empire in two. [ZAN.GetLeader]'s brother, [OMA.GetLeader], now questions the legitimacy of the [ZAN.GetName]'s newfound autonomy. [OMA.GetLeader] has plans to keep the two countries unified, but the true power of this unity would remain within the [OMA.GetName]. That leaves a difficult question to be answered, what should be done in response to this?" #NT!
- EDC_afr.63.a: "We must shift towards cooperation! We are stronger when brothers unite in cause!" #NT!
- EDC_afr.63.b: "Brothers or not, the [ZAN.GetName] will not be a puppet!" #NT!
- EDC_afr.63.c: "Our old rivals may seek to rebuild their empire once united! We must prepare!" #NT!
- EDC_afr.63.e: "Take advantage of the chaos! Our Jihadist Revolution starts now!" #NT!
- EDC_afr.63.f: "We shall continue the status quo." #NT!
- EDC_afr.63.h: "A family feud, interesting!" #NT!
+ EDC_afr.63.t: "The [OMA.GetName] Questions [ZAN.GetLeader]!"
+ EDC_afr.63.d: "The [OMA.GetName] and the [ZAN.GetName] had once been a unified empire, but an agreement brokered by the [ENG.GetName] has split the empire in two. [ZAN.GetLeader]'s brother, [OMA.GetLeader], now questions the legitimacy of the [ZAN.GetName]'s newfound autonomy. [OMA.GetLeader] has plans to keep the two countries unified, but the true power of this unity would remain within the [OMA.GetName]. That leaves a difficult question to be answered, what should be done in response to this?"
+ EDC_afr.63.a: "We must shift towards cooperation! We are stronger when brothers unite in cause!"
+ EDC_afr.63.b: "Brothers or not, the [ZAN.GetName] will not be a puppet!"
+ EDC_afr.63.c: "Our old rivals may seek to rebuild their empire once united! We must prepare!"
+ EDC_afr.63.e: "Take advantage of the chaos! Our Jihadist Revolution starts now!"
+ EDC_afr.63.f: "We shall continue the status quo."
+ EDC_afr.63.h: "A family feud, interesting!"
   
  afr_choose_jihadist_tree_tooltip: "\nThis will force the §YJihadist Revolution§! focus path!\n"
   

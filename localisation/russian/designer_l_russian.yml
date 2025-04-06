@@ -227,8 +227,6 @@
  tank_designer_rocket_role_disallowed: "Добавить модуль, позволяющий выбирать роль §HРакетная артиллерия§!."
  tank_designer_flame: "Огнеметчик (рота обеспечения)"
  tank_designer_flame_role_disallowed: "Добавить модуль, позволяющий выбирать роль §H«Пламя»§!."
- tank_designer_early_armor_train: "Armored Train" #NT!
- tank_designer_early_armor_train_role_disallowed: "Remove the module that forbids the $tank_designer_early_armor_train|H$ role to be able to switch to it." #NT!
   
   # name list themes 
  l_english: 

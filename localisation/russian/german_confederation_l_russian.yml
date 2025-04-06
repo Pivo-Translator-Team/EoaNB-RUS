@@ -10,19 +10,19 @@
  gerconfed.3.t: "Наше предложение успешно!"
  gerconfed.3.d: "Страны-члены Германской конфедерации проголосовали, и наше предложение прошло! Франкфуртские реформы вступили в силу."
  gerconfed.3.a: "Sehr gut!"
- gerconfed.3.b: "[ROOT.GetNameDef] does not need such an agreement." #NT!
+ gerconfed.3.b: "[ROOT.GetNameDef] does not need such an agreement."
  gerconfed.4.t: "Наше предложение отклонено!"
  gerconfed.4.d: "Страны-члены Германской конфедерации проголосовали, и наше предложение было отклонено! Франкфуртские реформы были отклонены большинством голосов."
  gerconfed.4.a: "Чёрт!"
  gerconfed.5.t: "Франкфуртские реформы - ничья в Конфедерации"
  gerconfed.5.d: "Страны-члены Германской конфедерации провели голосование, и, похоже, оно завершилось ничьей! Голосов «за» и «против» абсолютно одинаковое количество, так что вопрос просто не будет рассматриваться в суде..."
  gerconfed.5.a: "Какая жалость..."
- gerconfed.6.t_rifles: "[FROM.GetNameDef] Wants to Buy Rifles" #NT!
- gerconfed.6.t_uniforms: "[FROM.GetNameDef] Wants to Buy Uniforms" #NT!
- gerconfed.6.t_cannons: "[FROM.GetNameDef] Wants to Buy Cannons" #NT!
- gerconfed.6.d_rifles: "[FROM.GetNameDef] has approached us with an offer to buy rifles from our manufacturers. They'd like to purchase 500 units of infantry rifles for a reasonable price. If we agree to their inquiry, they might go through with the order." #NT!
- gerconfed.6.d_uniforms: "[FROM.GetNameDef] has approached us with an offer to buy uniforms from our manufacturers. They'd like to purchase 500 units of infantry uniforms for a reasonable price. If we agree to their inquiry, they might go through with the order." #NT!
- gerconfed.6.d_cannons: "[FROM.GetNameDef] has approached us with an offer to buy cannons from our manufacturers. They'd like to purchase 25 units of field cannons for a reasonable price. If we agree to their inquiry, they might go through with the order." #NT!
+ gerconfed.6.t_rifles: "[FROM.GetNameDef] Wants to Buy Rifles"
+ gerconfed.6.t_uniforms: "[FROM.GetNameDef] Wants to Buy Uniforms"
+ gerconfed.6.t_cannons: "[FROM.GetNameDef] Wants to Buy Cannons"
+ gerconfed.6.d_rifles: "[FROM.GetNameDef] has approached us with an offer to buy rifles from our manufacturers. They'd like to purchase 500 units of infantry rifles for a reasonable price. If we agree to their inquiry, they might go through with the order."
+ gerconfed.6.d_uniforms: "[FROM.GetNameDef] has approached us with an offer to buy uniforms from our manufacturers. They'd like to purchase 500 units of infantry uniforms for a reasonable price. If we agree to their inquiry, they might go through with the order."
+ gerconfed.6.d_cannons: "[FROM.GetNameDef] has approached us with an offer to buy cannons from our manufacturers. They'd like to purchase 25 units of field cannons for a reasonable price. If we agree to their inquiry, they might go through with the order."
  gerconfed.6.a: "Мы поддержим Австрию"
  gerconfed.6.b: "Мы не поддержим Австрию"
  GEC_sell_weapons_profit_effect_tt: "§YМы бы получили финансовую выгоду от такой сделки по оружию.§!"
@@ -38,47 +38,47 @@
   
  ##DIETS AND CONFERENCES 
  #FRANKFURT DIET EVENTS 
- gerconfed.101.t: "Our Vote: The Frankfurter Reformakte" #NT!
- gerconfed.101.d: "Austria has recently proposed the \"Frankfurter Reformakte\" to the members of the German Confederation. Those reforms will strengthen their nation by means of some laws and will also move the German Confederation towards being a state of nations. The question now is: Will we support this reform? It would probably be taxing for our country..." #NT!
- gerconfed.101.a: "We see no issue with these reforms - we will vote for it." #NT!
- gerconfed.101.b: "This is an obvious powergrab by Austria - we will vote against it." #NT!
- gerconfed.102.t: "DEBUG: Count Votes Frankfurt Reform" #NT!
- gerconfed.102.d: "Hidden Event, counts Frankfurt Reform votes." #NT!
- gerconfed.102.a: "Reform passes." #NT!
- gerconfed.102.b: "Reform doesn't pass." #NT!
- gerconfed.102.c: "Tie." #NT!
- eoanb_tt_event_gerconfed_101_yes: "§YWe will vote in favor of the Frankfurt Reforms!§!" #NT!
- eoanb_tt_event_gerconfed_101_no: "§YWe will vote against the Frankfurt Reforms!§!" #NT!
+ gerconfed.101.t: "Our Vote: The Frankfurter Reformakte"
+ gerconfed.101.d: "Austria has recently proposed the \"Frankfurter Reformakte\" to the members of the German Confederation. Those reforms will strengthen their nation by means of some laws and will also move the German Confederation towards being a state of nations. The question now is: Will we support this reform? It would probably be taxing for our country..."
+ gerconfed.101.a: "We see no issue with these reforms - we will vote for it."
+ gerconfed.101.b: "This is an obvious powergrab by Austria - we will vote against it."
+ gerconfed.102.t: "DEBUG: Count Votes Frankfurt Reform"
+ gerconfed.102.d: "Hidden Event, counts Frankfurt Reform votes."
+ gerconfed.102.a: "Reform passes."
+ gerconfed.102.b: "Reform doesn't pass."
+ gerconfed.102.c: "Tie."
+ eoanb_tt_event_gerconfed_101_yes: "§YWe will vote in favor of the Frankfurt Reforms!§!"
+ eoanb_tt_event_gerconfed_101_no: "§YWe will vote against the Frankfurt Reforms!§!"
  eoanb_tt_generic_variable: "Общая подсказка для переменных (скрыто)"
- eoanb_tt_event_gerconfed_105_c: "§YNothing will happen.§!" #NT!
- gerconfed.103.t: "Our proposition successful!" #NT!
- gerconfed.103.d: "The member states of the German Confederation have voted and our proposition has passed! The Frankfurt Reforms are now active." #NT!
- gerconfed.103.a: "Sehr gut!" #NT!
- gerconfed.104.t: "Our proposition denied!" #NT!
- gerconfed.104.d: "The member states of the German Confederation have voted and our proposition has been denied! The Frankfurt Reforms were rejected by a majority of votes." #NT!
- gerconfed.104.a: "Damn it!" #NT!
- gerconfed.105.t: "Frankfurt Reforms - a tie in the Confederation" #NT!
- gerconfed.105.d: "The member states of the German Confederation have voted and it looks like a tie! The votes for and against the proposal are exactly the same number, so the issue just ended up being dismissed from the courts..." #NT!
- gerconfed.105.a: "What a shame..." #NT!
- eoanb_tt_event_gerconfed_106_a: "§YAustria will gain a small amount of political power.§!" #NT!
- eoanb_tt_event_gerconfed_106_b: "§YWe will vote against their proposal.§!" #NT!
- gerconfed.106.t: "Diet in Frankfurt" #NT!
- gerconfed.106.d: "Austria has called in a diet of the German Confederation in Frankfurt, where they will be attempting to strengthen their interests in regards to the Confederation. Every member state has the right to vote on their proposal - and now it is our turn." #NT!
- gerconfed.106.a: "We will support Austria." #NT!
- gerconfed.106.b: "We will not support Austria." #NT!
+ eoanb_tt_event_gerconfed_105_c: "§YNothing will happen.§!"
+ gerconfed.103.t: "Our proposition successful!"
+ gerconfed.103.d: "The member states of the German Confederation have voted and our proposition has passed! The Frankfurt Reforms are now active."
+ gerconfed.103.a: "Sehr gut!"
+ gerconfed.104.t: "Our proposition denied!"
+ gerconfed.104.d: "The member states of the German Confederation have voted and our proposition has been denied! The Frankfurt Reforms were rejected by a majority of votes."
+ gerconfed.104.a: "Damn it!"
+ gerconfed.105.t: "Frankfurt Reforms - a tie in the Confederation"
+ gerconfed.105.d: "The member states of the German Confederation have voted and it looks like a tie! The votes for and against the proposal are exactly the same number, so the issue just ended up being dismissed from the courts..."
+ gerconfed.105.a: "What a shame..."
+ eoanb_tt_event_gerconfed_106_a: "§YAustria will gain a small amount of political power.§!"
+ eoanb_tt_event_gerconfed_106_b: "§YWe will vote against their proposal.§!"
+ gerconfed.106.t: "Diet in Frankfurt"
+ gerconfed.106.d: "Austria has called in a diet of the German Confederation in Frankfurt, where they will be attempting to strengthen their interests in regards to the Confederation. Every member state has the right to vote on their proposal - and now it is our turn."
+ gerconfed.106.a: "We will support Austria."
+ gerconfed.106.b: "We will not support Austria."
   
  #ALT-HISTORY SOUTH-GERMAN CONFEDERATION 
- gerconfed.301.t: "The German Independence Question" #NT!
- gerconfed.301.d: "Germany is one of the Powerhouses in Europe. Should we choose to help them become independent?\n" #NT!
- gerconfed.301.a: "Support them" #NT!
- gerconfed.301.b: "Don't Support them" #NT!
+ gerconfed.301.t: "The German Independence Question"
+ gerconfed.301.d: "Germany is one of the Powerhouses in Europe. Should we choose to help them become independent?\n"
+ gerconfed.301.a: "Support them"
+ gerconfed.301.b: "Don't Support them"
   
  #GERMAN CONFEDERATION DEFENCE EVENTS 
- gerconfed.451.t: "War in Germany" #NT!
- gerconfed.451.d: "Aside from being a political entity, the German Confederation's main function is to protect each and every member from outside forces. With direct confrontation between the German Confederation and an outside force now being inevitable, the Confederation readies its troops.\nA new wind is blowing throughout the German lands. While the topic of German unification and brotherhood has been brought up by various intellectuals in the past, the people have gained a new perspective: united against an enemy, side by side and shoulder to shoulder, the old order in Central Europe may soon experience change, provided this spirit of unity survives this deadly war." #NT!
- gerconfed.451.a: "Einigkeit!" #NT!
- gerconfed.451.b: "An interesting development for sure." #NT!
- gerconfed.451.c: "Dreams and fantasies won't save them." #NT!
+ gerconfed.451.t: "War in Germany"
+ gerconfed.451.d: "Aside from being a political entity, the German Confederation's main function is to protect each and every member from outside forces. With direct confrontation between the German Confederation and an outside force now being inevitable, the Confederation readies its troops.\nA new wind is blowing throughout the German lands. While the topic of German unification and brotherhood has been brought up by various intellectuals in the past, the people have gained a new perspective: united against an enemy, side by side and shoulder to shoulder, the old order in Central Europe may soon experience change, provided this spirit of unity survives this deadly war."
+ gerconfed.451.a: "Einigkeit!"
+ gerconfed.451.b: "An interesting development for sure."
+ gerconfed.451.c: "Dreams and fantasies won't save them."
   
  #FLAVOUR EVENTS 
  gerconfed.501.t: "Церемония, посвященная 50-летию Битвы народов в Лейпциге"
@@ -154,44 +154,94 @@
  gerconfed.520.d_gec: "В неожиданном повороте событий Фридрих Энгельхорн выбрал противоположную сторону Рейна для создания своего химического завода. Вместо своего родного города Мангейма в Баден, он решил построить новый завод в городе Людвигсхафен, Бавария, вероятно, привлечённый обещанием субсидий, предоставленных королём Максимилианом II для развития промышленных компаний в Баварии. Ожидается, что BASF получит 1,5 миллиона гульденов от правительства Баварии — средства, которые можно использовать для дальнейшего роста и стимулирования инноваций компании. Но, по крайней мере, жители Мангейма могут спокойно наслаждаться свежим и незапятнанным воздухом."
  gerconfed.520.a: "Хорошие новости!"
  gerconfed.520.b: "Ох, нам следует быть осторожными, чтобы этого не произошло и здесь..."
- gerconfed.521.t: "Foundation of the German National Society" #NT!
- gerconfed.521.d: "The violent aggravation of the Italian struggle for unification sent shockwaves across the continent. Especially in fragmented Germany, the ideals of the nation-state fell on very fertile ground. One of the main proponents of a united German nation was founded in the immediate aftermath of the Austro-Sardinian War - the German National Association or 'Deutscher Nationalverein.' Formed by liberals and moderate democrats, the association supported a Prussian-led German nation-state without Austria. In their so-called Second Eisenach Declaration, the influential club members have declared their support for German unification - and they rest their hope in the [PRS.GetName], as it is in their opinion the only country motivated enough and capable of achieving this feat." #NT!
- gerconfed.521.a: "These troublemakers..." #NT!
- gerconfed.522.t_baden: "Prussian Invitation to a Convention at Baden-Baden" #NT!
- gerconfed.522.t_bavaria: "Prussian Invitation to a Convention at Bad Kissingen" #NT!
- gerconfed.522.d_baden: "Amidst the current fear of war, the [PRS.GetName] has invited us to a convention of the crowned heads of Germany at the beautiful spa ressort of Baden-Baden in the [BAD.GetName]. This presents an opportunity for us to not only improve our relationship with Prussia, but also to calm our public which is in fear that the war in Italy might spread to Germany, should Austria decide to retaliate against France. We could, however, decide to stay away and concentrate on our own affairs instead." #NT!
- gerconfed.522.d_bavaria: "Amidst the current fear of war, the [PRS.GetName] has invited us to a convention of the crowned heads of Germany at the beautiful spa ressort of Bad Kissingen in the [BAV.GetName]. This presents an opportunity for us to not only improve our relationship with Prussia, but also to calm our public which is in fear that the war in Italy might spread to Germany, should Austria decide to retaliate against France. We could, however, decide to stay away and concentrate on our own affairs instead." #NT!
- gerconfed.522.a: "We will attend." #NT!
- GEC_attend_monarchs_convention_effect_tt: "§GThis will probably improve our mutual relationship with Prussia and calm the public.§!\n\n" #NT!
- gerconfed.522.b: "We won't attend." #NT!
- GEC_do_not_attend_monarchs_convention_effect_tt: "§RWe might miss out on the chance to improve our mutual relationship with Prussia and calm the public.§!\n\n" #NT!
- gerconfed.523.t_baden: "German Monarchs' Convention at Baden-Baden" #NT!
- gerconfed.523.t_bavaria: "German Monarchs' Convention at Bad Kissingen" #NT!
- gerconfed.523.d_baden: "The crowned heads of Germany have gathered at Baden-Baden for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days." #NT!
- gerconfed.523.d_bavaria: "The crowned heads of Germany have gathered at Bad Kissingen for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days." #NT!
- gerconfed.523.d_baden_france: "The crowned heads of Germany, as well as [FRA.GetLeader] of France, have gathered at Baden-Baden for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days." #NT!
- gerconfed.523.d_bavaria_france: "The crowned heads of Germany, as well as [FRA.GetLeader] of France, have gathered at Bad Kissingen for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days." #NT!
- gerconfed.523.a: "Ah, what a beautiful place!" #NT!
- gerconfed.524.t_baden: "German Monarchs' Convention at Baden-Baden" #NT!
- gerconfed.524.t_bavaria: "German Monarchs' Convention at Bad Kissingen" #NT!
- gerconfed.524.d_baden: "The crowned heads of Germany have gathered at our beautiful spa resort of Baden-Baden for a convention. The place is truely buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will not only have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days, this event is also quite a chance for enhancing our image." #NT!
- gerconfed.524.d_bavaria: "The crowned heads of Germany have gathered at our beautiful spa resort of Bad Kissingen for a convention. The place is truely buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will not only have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days, this event is also quite a chance for enhancing our image." #NT!
- gerconfed.524.d_baden_france: "The crowned heads of Germany, as well as [FRA.GetLeader] of France, have gathered at our beautiful spa resort of Baden-Baden for a convention. The place is truely buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will not only have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days, this event is also quite a chance for enhancing our image." #NT!
- gerconfed.524.d_bavaria_france: "The crowned heads of Germany, as well as [FRA.GetLeader] of France, have gathered at our beautiful spa resort of Bad Kissingen for a convention. The place is truely buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will not only have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days, this event is also quite a chance for enhancing our image." #NT!
- gerconfed.524.a: "Hopefully everything will be to the satisfaction of our guests." #NT!
+ gerconfed.521.t: "Foundation of the German National Society"
+ gerconfed.521.d: "The violent aggravation of the Italian struggle for unification sent shockwaves across the continent. Especially in fragmented Germany, the ideals of the nation-state fell on very fertile ground. One of the main proponents of a united German nation was founded in the immediate aftermath of the Austro-Sardinian War - the German National Association or 'Deutscher Nationalverein.' Formed by liberals and moderate democrats, the association supported a Prussian-led German nation-state without Austria. In their so-called Second Eisenach Declaration, the influential club members have declared their support for German unification - and they rest their hope in the [PRS.GetName], as it is in their opinion the only country motivated enough and capable of achieving this feat."
+ gerconfed.521.a: "These troublemakers..."
+ gerconfed.522.t_baden: "Prussian Invitation to a Convention at Baden-Baden"
+ gerconfed.522.t_bavaria: "Prussian Invitation to a Convention at Bad Kissingen"
+ gerconfed.522.d_baden: "Amidst the current fear of war, the [PRS.GetName] has invited us to a convention of the crowned heads of Germany at the beautiful spa ressort of Baden-Baden in the [BAD.GetName]. This presents an opportunity for us to not only improve our relationship with Prussia, but also to calm our public which is in fear that the war in Italy might spread to Germany, should Austria decide to retaliate against France. We could, however, decide to stay away and concentrate on our own affairs instead."
+ gerconfed.522.d_bavaria: "Amidst the current fear of war, the [PRS.GetName] has invited us to a convention of the crowned heads of Germany at the beautiful spa ressort of Bad Kissingen in the [BAV.GetName]. This presents an opportunity for us to not only improve our relationship with Prussia, but also to calm our public which is in fear that the war in Italy might spread to Germany, should Austria decide to retaliate against France. We could, however, decide to stay away and concentrate on our own affairs instead."
+ gerconfed.522.a: "We will attend."
+ GEC_attend_monarchs_convention_effect_tt: "§GThis will probably improve our mutual relationship with Prussia and calm the public.§!\n\n"
+ gerconfed.522.b: "We won't attend."
+ GEC_do_not_attend_monarchs_convention_effect_tt: "§RWe might miss out on the chance to improve our mutual relationship with Prussia and calm the public.§!\n\n"
+ gerconfed.523.t_baden: "German Monarchs' Convention at Baden-Baden"
+ gerconfed.523.t_bavaria: "German Monarchs' Convention at Bad Kissingen"
+ gerconfed.523.d_baden: "The crowned heads of Germany have gathered at Baden-Baden for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days."
+ gerconfed.523.d_bavaria: "The crowned heads of Germany have gathered at Bad Kissingen for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days."
+ gerconfed.523.d_baden_france: "The crowned heads of Germany, as well as [FRA.GetLeader] of France, have gathered at Baden-Baden for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days."
+ gerconfed.523.d_bavaria_france: "The crowned heads of Germany, as well as [FRA.GetLeader] of France, have gathered at Bad Kissingen for a convention. The beautiful spa resort is buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days."
+ gerconfed.523.a: "Ah, what a beautiful place!"
+ gerconfed.524.t_baden: "German Monarchs' Convention at Baden-Baden"
+ gerconfed.524.t_bavaria: "German Monarchs' Convention at Bad Kissingen"
+ gerconfed.524.d_baden: "The crowned heads of Germany have gathered at our beautiful spa resort of Baden-Baden for a convention. The place is truely buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will not only have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days, this event is also quite a chance for enhancing our image."
+ gerconfed.524.d_bavaria: "The crowned heads of Germany have gathered at our beautiful spa resort of Bad Kissingen for a convention. The place is truely buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will not only have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days, this event is also quite a chance for enhancing our image."
+ gerconfed.524.d_baden_france: "The crowned heads of Germany, as well as [FRA.GetLeader] of France, have gathered at our beautiful spa resort of Baden-Baden for a convention. The place is truely buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will not only have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days, this event is also quite a chance for enhancing our image."
+ gerconfed.524.d_bavaria_france: "The crowned heads of Germany, as well as [FRA.GetLeader] of France, have gathered at our beautiful spa resort of Bad Kissingen for a convention. The place is truely buzzing with activity, as the various monarchs brought their entourages with them. Several journalists and public figures are also present to accompany this major social event. We will not only have the opportunity to talk to many of the monarchs in person in a relaxing atmosphere over the coming days, this event is also quite a chance for enhancing our image."
+ gerconfed.524.a: "Hopefully everything will be to the satisfaction of our guests."
   
- gerconfed.551.t: "Vatican Rejects Settlement over Disputes in Baden" #NT!
- gerconfed.551.d: "For some years now, there has been a dispute in the [BAD.GetName] between the state representatives, primarily His Royal Majesty the Grand Duke and his government, and the Catholic Church. It is a question of influence and power. As an enlightened, Protestant ruler, the Grand Duke regards it as his right, not least in the interests of the state, to exert influence on the appointment of Catholic officials in his country.\n\nUnder the new Archbishop of Freiburg, Hermann von Vicari, the Catholic Church increasingly resists this interference. Vicari insisted on the divine prerogative of investiture of Catholic officials and the independence of the Church from state institutions. The dispute attracts nationwide attention. An amicable agreement in this conflict has now failed due to the Vatican's refusal to accept a proposal from Baden." #NT!
- gerconfed.551.a: "These Catholics..." #NT!
- gerconfed.551.b: "Will this have repercussions for us?" #NT!
- gerconfed.552.t: "[BAD.GetNameDef] Signs Concordat with the Vatican" #NT!
- gerconfed.552.d: "For some years now, there has been a dispute in the [BAD.GetName] between the state representatives, primarily His Royal Majesty the Grand Duke and his government, and the Catholic Church. It is a question of influence and power. As an enlightened, Protestant ruler, the Grand Duke regards it as his right, not least in the interests of the state, to exert influence on the appointment of Catholic officials in his country.\n\nUnder the new Archbishop of Freiburg, Hermann von Vicari, the Catholic Church increasingly resists this interference. Vicari insisted on the divine prerogative of investiture of Catholic officials and the independence of the Church from state institutions. The dispute attracts nationwide attention. Now both sides seem to have reached an agreement. The Grand Duke has signed a concordat with the Vatican, which essentially recognizes the rights of the Catholic Church and the Archbishopric of Freiburg. Although Friedrich I has thus renounced some of his prerogatives, this could settle the dispute." #NT!
- gerconfed.552.a: "Why would he pass up on his rights like that, though?" #NT!
- gerconfed.552.b: "Sounds like a reasonable solution." #NT!
- gerconfed.553.t: "Grand Duke Friedrich I Declares Dawn of a New Era in the [BAD.GetName]" #NT!
- gerconfed.553.d: "Grand Duke Friedrich I of Baden made some truly astonishing statements in his Easter proclamation a few days ago. [BAD.GetNameDef] would pursue a liberal course in the spirit of the monarch, which would set an example for the states of the German Confederation. The Grand Duke placed the government in the hands of a liberal cabinet, led by [BAD.GetLeader], which has set itself the task of developing the country in the spirit of enlightenment and freedom.\n\nThe Liberals had only recently taken up arms against Baden's convention with the Vatican and now, for the first time ever in the German Confederation, hold government responsibility in a member state. Only time will tell whether they will be able to put their high aspirations into practice." #NT!
- gerconfed.553.a: "They have chose the path of freedom!" #NT!
- gerconfed.553.b: "Interesting." #NT!
+ gerconfed.551.t: "Vatican Rejects Settlement over Disputes in Baden"
+ gerconfed.551.d: "For some years now, there has been a dispute in the [BAD.GetName] between the state representatives, primarily His Royal Majesty the Grand Duke and his government, and the Catholic Church. It is a question of influence and power. As an enlightened, Protestant ruler, the Grand Duke regards it as his right, not least in the interests of the state, to exert influence on the appointment of Catholic officials in his country.\n\nUnder the new Archbishop of Freiburg, Hermann von Vicari, the Catholic Church increasingly resists this interference. Vicari insisted on the divine prerogative of investiture of Catholic officials and the independence of the Church from state institutions. The dispute attracts nationwide attention. An amicable agreement in this conflict has now failed due to the Vatican's refusal to accept a proposal from Baden."
+ gerconfed.551.a: "These Catholics..."
+ gerconfed.551.b: "Will this have repercussions for us?"
+ gerconfed.552.t: "[BAD.GetNameDef] Signs Concordat with the Vatican"
+ gerconfed.552.d: "For some years now, there has been a dispute in the [BAD.GetName] between the state representatives, primarily His Royal Majesty the Grand Duke and his government, and the Catholic Church. It is a question of influence and power. As an enlightened, Protestant ruler, the Grand Duke regards it as his right, not least in the interests of the state, to exert influence on the appointment of Catholic officials in his country.\n\nUnder the new Archbishop of Freiburg, Hermann von Vicari, the Catholic Church increasingly resists this interference. Vicari insisted on the divine prerogative of investiture of Catholic officials and the independence of the Church from state institutions. The dispute attracts nationwide attention. Now both sides seem to have reached an agreement. The Grand Duke has signed a concordat with the Vatican, which essentially recognizes the rights of the Catholic Church and the Archbishopric of Freiburg. Although Friedrich I has thus renounced some of his prerogatives, this could settle the dispute."
+ gerconfed.552.a: "Why would he pass up on his rights like that, though?"
+ gerconfed.552.b: "Sounds like a reasonable solution."
+ gerconfed.553.t: "Grand Duke Friedrich I Declares Dawn of a New Era in the [BAD.GetName]"
+ gerconfed.553.d: "Grand Duke Friedrich I of Baden made some truly astonishing statements in his Easter proclamation a few days ago. [BAD.GetNameDef] would pursue a liberal course in the spirit of the monarch, which would set an example for the states of the German Confederation. The Grand Duke placed the government in the hands of a liberal cabinet, led by [BAD.GetLeader], which has set itself the task of developing the country in the spirit of enlightenment and freedom.\n\nThe Liberals had only recently taken up arms against Baden's convention with the Vatican and now, for the first time ever in the German Confederation, hold government responsibility in a member state. Only time will tell whether they will be able to put their high aspirations into practice."
+ gerconfed.553.a: "They have chose the path of freedom!"
+ gerconfed.553.b: "Interesting."
+  
+ gerconfed.601.t: "Call for a Gathering of all German Gymnastics Clubs" #NT!
+ gerconfed.601.d: "In honour of the so-called 'father of gymnastics', Friedrich Ludwig Jahn, who died in 1852, and also to draw attention to the still unresolved issue of the German nation state, Theodor Georgii, a key protagonist of the German gymnastics movement, published a 'call for a gathering' of all German gymnastics clubs. For reasons of centrality and the liberal attitude of the local ruler, [THU.GetLeader], Coburg was immediately considered as a possible venue for the event. The call could have a great resonance among sports clubs throughout Germany." #NT!
+ gerconfed.601.a: "Are they politicians or sportsmen?" #NT!
+ gerconfed.601.b: "Are they politicians or sportsmen?" #NT!
+ gerconfed.602.t: "First Gathering of all German Gymnastics Clubs at Coburg" #NT!
+ gerconfed.602.d: "Well over 1,000 gymnasts flocked to Coburg last weekend for the First German Gymnastics Festival. The entire town - from the citizens to the administration to the ducal house - did its best to provide accommodation for the out-of-town guests. More than 100 clubs paraded through the town with their gymnastics flags. More than 50 gymnastics teams took part in the demonstrations on the town square.\n\nAt the meeting in the ducal riding hall, the delegates had previously made a strong case for the common cause of a general German gymnastics federation. However, the organisation was initially not founded. The meeting also raised new hopes for an early solution to the German nation-state question." #NT!
+ gerconfed.602.a: "These gymnasts might cause us some headache..." #NT!
+ gerconfed.602.b: "Interesting." #NT!
+ gerconfed.602.c: "A truly remarkable event in our lands." #NT!
+ gerconfed.603.t: "Nuremburg Suggested as Hosting Site for Second Gymnastics Festival" #NT!
+ gerconfed.603.d_not_bavaria: "The German gymnastics movement looks back at a successful first gymnastics festival in Coburg. Voices were quickly raised calling for a repeat next year in order to keep the movement's goals alive and demonstrate cohesion once again. Due to its great importance for the German emperors of the Middle Ages and its central location, Nuremberg has been considered as a venue for another meeting. It is now up to the Bavarian government to decide whether it would welcome such a gymnastics festival on Bavarian territory." #NT!
+ gerconfed.603.d_bavaria: "The German gymnastics movement looks back at a successful first gymnastics festival in Coburg. Voices were quickly raised calling for a repeat next year in order to keep the movement's goals alive and demonstrate cohesion once again. Due to its great importance for the German emperors of the Middle Ages and its central location, Nuremberg has been considered as a venue for another meeting. It is, therefore, now up to us to decide whether we would welcome such a gymnastics festival on Bavarian territory. How should we respond?" #NT!
+ gerconfed.603.a: "Always worth a trip." #NT!
+ gerconfed.603.b: "Always worth a trip." #NT!
+ gerconfed.603.c: "We would welcome the gymnasts from all over Germany in Nuremburg." #NT!
+ gerconfed.603.e: "Their won't be a 'German' gymnasts' festival on Bavarian soil." #NT!
+ gerconfed.604.t: "Bavaria Agrees to Host Gymnasts' Gathering at Nuremburg" #NT!
+ gerconfed.604.d: "The Bavarian government has agreed to hold the second German Gymnastics Festival in Nuremberg. The organizers can now plan everything else." #NT!
+ gerconfed.604.a: "I'm sure they are looking forward to it." #NT!
+ gerconfed.604.b: "Have they thought this through?" #NT!
+ gerconfed.605.t: "Bavaria Forbids Hosting of Gymnasts' Gathering at Nuremburg" #NT!
+ gerconfed.605.d: "The Bavarian government refused to hold the second German gymnastics festival in Nuremberg. The organizers will now have to look for an alternative." #NT!
+ gerconfed.605.a: "Why would they let this opportunity go?" #NT!
+ gerconfed.605.b: "I'm sure they have their reasons." #NT!
+ gerconfed.606.t: "Second Gathering of all German Gymnastics Clubs at Nuremburg" #NT!
+ gerconfed.606.d: "Last weekend, over 4,000 athletes and at least as many spectators came together in Nuremberg to celebrate the 'Second General German Gymnastics Festival'. Over 2,500 gymnasts from 262 cities and towns were present, plus around 500 gymnasts from Nuremberg clubs and 1,000 pupils from schools in the Franconian city. Delegations from Austria and representatives from foreign gymnastics clubs also took part, and athletes even made the long journey to Nuremberg from North America despite the American Civil War.\n\nOnce again, the festival not only served as a demonstration of top sporting performance, but also became a meeting place for advocates of liberal and national ideas in the German Confederation. In addition to accompanying cultural events, there was also a parade to the sports grounds, past the historical sites of Nuremberg's imperial era. The great success makes a repeat of the Turnerfest in the coming years very likely." #NT!
+ gerconfed.606.a: "A remarkable event indeed." #NT!
+ gerconfed.606.b: "In hindsight, this might not have been the best idea..." #NT!
+ gerconfed.606.c: "Alright then." #NT!
+ gerconfed.607.t: "Berlin Suggested as Alternative Hosting Site for Second Gymnastics Festival" #NT!
+ gerconfed.607.d_not_prussia: "Due to the Bavarian government's refusal to host the gymnastics festival, the gymnastics council in Berlin suggested the Prussian capital as an alternative to Nuremberg. The chairman of the gymnastics festival committee, Theodor Georgii, was delighted with the proposal from the local gymnasts to meet in Berlin to celebrate the 50th anniversary of the gymnastics ground in Hasenheide. However, in this case too, the final decision lies with the government, the Berlin authorities and - of course - the Prussian king." #NT!
+ gerconfed.607.d_prussia: "Due to the Bavarian government's refusal to host the gymnastics festival, the gymnastics council in Berlin suggested the Prussian capital as an alternative to Nuremberg. The chairman of the gymnastics festival committee, Theodor Georgii, was delighted with the proposal from the local gymnasts to meet in Berlin to celebrate the 50th anniversary of the gymnastics ground in Hasenheide. However, in this case too, the final decision lies with our government, the Berlin authorities and - of course - the King. Which recommendation should we make?" #NT!
+ gerconfed.607.a: "This is a great opportunity, we should host the festival." #NT!
+ gerconfed.607.b: "There are too many risks, recommend a rejection." #NT!
+ gerconfed.607.c: "Let's see what the Prussians decide." #NT!
+ gerconfed.608.t: "Second Gathering of all German Gymnastics Clubs at Coburg" #NT!
+ gerconfed.608.d: "Last weekend, over 2,000 athletes and at least as many spectators came together in Coburg to celebrate the 'Second General German Gymnastics Festival'. Over 1,500 gymnasts from 262 cities and towns were present, plus around 250 gymnasts from local clubs and as many pupils from schools in and around the city. Delegations from Austria and representatives from foreign gymnastics clubs also took part, and athletes even made the long journey to Coburg from North America despite the American Civil War.\n\nOnce again, the festival not only served as a demonstration of top sporting performance, but also became a meeting place for advocates of liberal and national ideas in the German Confederation. In addition to accompanying cultural events, there was also a parade to the sports grounds, with flags raised in the colours of the German nation - black, red and gold." #NT!
+ gerconfed.608.a: "So, they did find a venue after all." #NT!
+ gerconfed.608.b: "So, they did find a venue after all." #NT!
+ gerconfed.608.c: "Another great event to mark our place in Germany." #NT!
+ gerconfed.609.t: "Second Gathering of all German Gymnastics Clubs at Berlin" #NT!
+ gerconfed.609.d: "Last weekend, over 4,000 athletes and many more spectators came together in Berlin to celebrate the 'Second General German Gymnastics Festival'. Over 2,000 gymnasts from 262 cities and towns were present, plus around 1,000 gymnasts from Berlin clubs and 1,000 pupils from schools in the Prussian capital. Delegations from Austria and representatives from foreign gymnastics clubs also took part, and athletes even made the long journey to Berlin from North America despite the American Civil War.\n\nOnce again, the festival not only served as a demonstration of top sporting performance, but also became a meeting place for advocates of liberal and national ideas in the German Confederation. In addition to accompanying cultural events, there was also a parade from the Brandenburg Gate to the sports grounds, past many historical Berlin sites with significance to Prussian and German history.\n\n The sports festival in the Hasenheide also served to collect donations and utensils for the laying of the foundation stone of a monument to the gymnastics father Friedrich Ludwig Jahn, who died a few years ago. The laying of the foundation stone was accompanied by political speeches that echoed Jahn's ideals. The great success of the event makes a repeat very likely in the near future." #NT!
+ gerconfed.609.a: "Surely an event to remember." #NT!
+ gerconfed.609.b: "Surely an event to remember." #NT!
+ gerconfed.610.t: "Third Gathering of all German Gymnastics Clubs at Leipzig" #NT!
+ gerconfed.610.d: "Over the last days, around 20,000 athletes and many more spectators gathered in Leipzig to celebrate the 'Third General German Gymnastics Festival'. Next to around 4,000 athletes from Leipzig and its surroundings, roughly 16,000 gymnasts from all other Germany and Austria participated in the event. Leipzig was chosen as a hosting site not only because of its vibrant community of gymnastics clubs but also the commemorate the 50th anniversary of the Battle of the Nations of 1813, also showcasing the political side of the gymnasts' movement.\n\nThe organisers, who were supported by the city council in their efforts, set up a large festival ground roughly four kilometres south of the city centre. With four large pitches for gymnastics performances and seating capacities for around 5,000 spectators, the venue was by far the largest yet. The fair ground's highlight was a huge marquee for indoor gathering and festivities. The impressive temporary building was over 200 metres long, 30 metres wide and 20 metres tall, with capacity for more than 6,000 seated guests.\n\nThe sports festival lasted four days and was accompanied by several cultural and musical events in and around the city. The organisers are more than happy with how the event went and are looking forward to the next gathering." #NT!
+ gerconfed.610.a: "Quite an impressive display." #NT!
+ gerconfed.610.b: "Quite an impressive display." #NT!
+ gerconfed.610.c: "Quite an impressive display." #NT!
   
  ### GERMAN MINORS GENERIC FOCUS TREE ### 
  #Political Branch 
@@ -392,10 +442,10 @@
  GEC_decision_subsidize_new_extraction_methods_2_desc: "Новейшие методы добычи являются передовыми технологиями. Хотя они несут определенные риски, они также обещают значительное процветание."
  GEC_decision_weaken_the_guilds: "Ослабить гильдии"
  GEC_decision_weaken_the_guilds_desc: "Гильдии по-прежнему сильны в нашей стране, а их правила и обязательства мешают экономическому росту и конкуренции. Мы должны ослабить их влияние на торговлю и ремесленничество, чтобы реализовать наш потенциал для индустриального развития."
- GEC_decision_enact_free_enterprise: "Enact Free Enterprise" #NT!
- GEC_decision_enact_free_enterprise_desc: "The freedom of enterprise will offer great opportunities to the people willing and capable of taking them. Crushing the dominance of the guilds should bring our industrializing process into overdrive." #NT!
- GEC_decision_establish_an_industrial_code: "Establish an Industrial Code" #NT!
- GEC_decision_establish_an_industrial_code_desc: "By establishing an industrial code we can give our businesses legal certainty. Doing so will hinder them doing things we do not want them to do, but in the long term this will raise their innovativeness and make up for problems in the short term." #NT!
+ GEC_decision_enact_free_enterprise: "Enact Free Enterprise"
+ GEC_decision_enact_free_enterprise_desc: "The freedom of enterprise will offer great opportunities to the people willing and capable of taking them. Crushing the dominance of the guilds should bring our industrializing process into overdrive."
+ GEC_decision_establish_an_industrial_code: "Establish an Industrial Code"
+ GEC_decision_establish_an_industrial_code_desc: "By establishing an industrial code we can give our businesses legal certainty. Doing so will hinder them doing things we do not want them to do, but in the long term this will raise their innovativeness and make up for problems in the short term."
  GEC_decision_subsidize_and_support_major_industries: "Субсидировать и поддерживать крупные отрасли"
  GEC_decision_subsidize_and_support_major_industries_desc: "Субсидируя и поддерживая наши крупные отрасли, мы делаем ставку на верное. Эти отрасли уже приносили нам богатство, и, скорее всего, продолжат это делать. Оказывая государственную поддержку, мы можем увеличить возможные доходы."
   
@@ -412,7 +462,7 @@
  GEC_decision_category_trade: "Торговые возможности"
  GEC_decision_trade_consulate_bremen: "Торговое представительство в Бремене"
  GEC_decision_trade_consulate_hamburg: "Торговое представительство в Гамбурге"
- GEC_decision_purchase_trade_convoys_non_coastal: "Purchase Trade Convoys" #NT!
+ GEC_decision_purchase_trade_convoys_non_coastal: "Purchase Trade Convoys"
  GEC_decision_establish_trade_UK: "Установить торговые отношения с Англией"
   
  #Hansa Cities 
@@ -452,39 +502,47 @@
  ##Country-specific Spirits 
  BRE_idea_dissolved_city_guard: "Расформированная Городская Стража"
  BRE_idea_dissolved_city_guard_desc: ""
- GEC_idea_legacy_of_the_hanseatic_league: "Legacy of the Hanseatic League" #NT!
- GEC_idea_legacy_of_the_hanseatic_league_desc: "The Hanseatic League used to be the dominant trade power in Northern Europe for almost half a millenium. We still profit greatly from the Hanseatic legacy in terms of experience, expertise and infrastructure." #NT!
- HAM_idea_legion: "Legacy of Hanseatic Legion" #NT!
- HAM_idea_legion_desc: "" #NT!
- FRK_idea_frankfurter_borse: "Frankfurt Stock Exchange" #NT!
- FRK_idea_frankfurter_borse_desc: "Frankfurt is widely considered to be the birthplace of stock exchange. The city has grown into a center of finance and trade over the past centuries, and the Frankfurt Stock Exchange certainly has nothing to be ashamed of compared to the world's largest stock exchanges." #NT!
+ GEC_idea_legacy_of_the_hanseatic_league: "Legacy of the Hanseatic League"
+ GEC_idea_legacy_of_the_hanseatic_league_desc: "The Hanseatic League used to be the dominant trade power in Northern Europe for almost half a millenium. We still profit greatly from the Hanseatic legacy in terms of experience, expertise and infrastructure."
+ HAM_idea_legion: "Legacy of Hanseatic Legion"
+ HAM_idea_legion_desc: ""
+ FRK_idea_frankfurter_borse: "Frankfurt Stock Exchange"
+ FRK_idea_frankfurter_borse_desc: "Frankfurt is widely considered to be the birthplace of stock exchange. The city has grown into a center of finance and trade over the past centuries, and the Frankfurt Stock Exchange certainly has nothing to be ashamed of compared to the world's largest stock exchanges."
+ THU_idea_bastion_of_particularism: "Bastion of Particularism" #NT!
+ THU_idea_bastion_of_particularism_desc: "In mid-19th century, Thuringia is not yet a unified state but consists of eight separate independent countries with their own governments and royal families, as well as Prussian and Hessian exclaves. The region remains a peculiar remnant of the particularism characteristic for the Holy Roman Empire. Divided between the Ernestine cadet branches of the Saxon House of Wettin and two other dynasties, all Thuringian states are monarchies. Politically, the Thuringian duchies and principalities have little agency of their own and are constantly being influenced by either Prussia, Austria or their dynastic relatives in Saxony. With German nationalism on the rise, however, change might be on the horizon, and some Thuringian states have already begun sharing courts and administrative institutions in the past years." #NT!
+ THU_idea_germanys_green_heart: "Germany's Green Heart" #NT!
+ THU_idea_germanys_green_heart_desc: "From the Werra to the Saale, from the Thuringian Forest in the south to the Harz Mountains in the north, Thuringia is famous for its nature and the local population is increasingly aware of their touristic potential. Additionally, the 'Rennsteig', once a trail for messengers through the mountainous region in Thuringia's south, now attracts more and more hikers and naturalists from all over Germany. With its central position in Germany's heart, Thuringia has the potential to become a major hub for tourism and recreation." #NT!
+ THU_idea_jena_university: "The University of Jena" #NT!
+ THU_idea_jena_university_desc: "The University of Jena, founded in 1557, is not only one of Germany's oldest universities, but certainly one of its most influential and prestigious educational institutions. It belongs to all four Ernestine duchies and counts many famous scientists and philosophers among its alumni. Jena is also a center of the German unification movement. It is the birthplace of the Urburschenschaft, Germany's first openly nationalist student fraternity, which was founded in 1817. The liberal and national ideas that evolve in Jena reverberate across all of Germany." #NT!
+ THU_idea_wartburg: "The Wartburg" #NT!
+ THU_idea_wartburg_desc: "The Wartburg towers above Eisenach in the Grand Duchy of Saxe-Weimar-Eisenach, right at the Hessian border. First mentioned in 1080, the Wartburg is undoubtedly one of Germany's most famous and romantic castles, known for hosting Saint Elizabeth of Hungary, the anathemized Martin Luther while he translated the Bible, and the great German poet Johann Wolfgang von Goethe. Over the past centuries, it has fallen into a state of disrepair. Nevertheless, it is seen as a German national symbol and therefore attracts liberal and nationalist fraternities. Every year, patriotic students and professors meet at the castle to protest against reactionary politics and for German unification." #NT!
   
  ##Shared Spirits 
  #German Confederation 
- GEC_idea_german_confederation_major_power: "German Confederation Member - Major Power" #NT!
- GEC_idea_german_confederation_major_power_desc: "Created in 1815 by the Congress of Vienna, the German Confederation is an association of German states in the former Holy Roman Empire. Since 1848, however, tensions have risen, especially between the two German major powers, Prussia and Austria, and the bond of this confederation has been strongly strained in this age of growing nationalism, but it still stands a chance to be reformed and saved...\n\nAs a major power, it is our task to bring the smaller German states into our sphere of interest and thus make them compliant. This is the best way to expand our power." #NT!
- GEC_idea_german_confederation_middle_power: "German Confederation Member - Middle Power" #NT!
- GEC_idea_german_confederation_middle_power_desc: "Created in 1815 by the Congress of Vienna, the German Confederation is an association of German states in the former Holy Roman Empire. Since 1848, however, tensions have risen, especially between the two German major powers, Prussia and Austria, and the bond of this confederation has been strongly strained in this age of growing nationalism, but it still stands a chance to be reformed and saved...\n\nAs a middle power, we are at a crossroads in the German Confederation. On the one hand, our interests and decisions are important enough not to be ignored; on the other hand, we can hardly stand up to the major powers and are in need of their protection. However, this might change if all middle powers were to cooperate..." #NT!
- GEC_idea_german_confederation_minor_power: "German Confederation Member - Minor Power" #NT!
- GEC_idea_german_confederation_minor_power_desc: "Created in 1815 by the Congress of Vienna, the German Confederation is an association of German states in the former Holy Roman Empire. Since 1848, however, tensions have risen, especially between the two German major powers, Prussia and Austria, and the bond of this confederation has been strongly strained in this age of growing nationalism, but it still stands a chance to be reformed and saved...\n\nAs a minor power, we are practically irrelevant when it comes to the more important decisions in the German Confederation. However, this also means that we can concentrate on ourselves calmly and efficiently." #NT!
+ GEC_idea_german_confederation_major_power: "German Confederation Member - Major Power"
+ GEC_idea_german_confederation_major_power_desc: "Created in 1815 by the Congress of Vienna, the German Confederation is an association of German states in the former Holy Roman Empire. Since 1848, however, tensions have risen, especially between the two German major powers, Prussia and Austria, and the bond of this confederation has been strongly strained in this age of growing nationalism, but it still stands a chance to be reformed and saved...\n\nAs a major power, it is our task to bring the smaller German states into our sphere of interest and thus make them compliant. This is the best way to expand our power."
+ GEC_idea_german_confederation_middle_power: "German Confederation Member - Middle Power"
+ GEC_idea_german_confederation_middle_power_desc: "Created in 1815 by the Congress of Vienna, the German Confederation is an association of German states in the former Holy Roman Empire. Since 1848, however, tensions have risen, especially between the two German major powers, Prussia and Austria, and the bond of this confederation has been strongly strained in this age of growing nationalism, but it still stands a chance to be reformed and saved...\n\nAs a middle power, we are at a crossroads in the German Confederation. On the one hand, our interests and decisions are important enough not to be ignored; on the other hand, we can hardly stand up to the major powers and are in need of their protection. However, this might change if all middle powers were to cooperate..."
+ GEC_idea_german_confederation_minor_power: "German Confederation Member - Minor Power"
+ GEC_idea_german_confederation_minor_power_desc: "Created in 1815 by the Congress of Vienna, the German Confederation is an association of German states in the former Holy Roman Empire. Since 1848, however, tensions have risen, especially between the two German major powers, Prussia and Austria, and the bond of this confederation has been strongly strained in this age of growing nationalism, but it still stands a chance to be reformed and saved...\n\nAs a minor power, we are practically irrelevant when it comes to the more important decisions in the German Confederation. However, this also means that we can concentrate on ourselves calmly and efficiently."
   
  #Vienna Monetary Treaty 
- GEC_idea_vienna_monetary_treaty: "Vienna Monetary Treaty" #NT!
- GEC_idea_vienna_monetary_treaty_desc: "The Vienna Monetary Treaty of 1857 marks a crucial step on the way towards the establishment of a single currency within the German Confederation. The treaty was signed between the members of the Zollverein, the Principality of Liechtenstein, and its initiator, the Austrian Empire, which had experienced a decade of severe currency crises following the March Revolution. Prussia, as Germany's leading economic power, insisted on the currency following the traditional silver standard. The treaty will help the economies of all German states' by reducing the amount of exchange administration and cost." #NT!
+ GEC_idea_vienna_monetary_treaty: "Vienna Monetary Treaty"
+ GEC_idea_vienna_monetary_treaty_desc: "The Vienna Monetary Treaty of 1857 marks a crucial step on the way towards the establishment of a single currency within the German Confederation. The treaty was signed between the members of the Zollverein, the Principality of Liechtenstein, and its initiator, the Austrian Empire, which had experienced a decade of severe currency crises following the March Revolution. Prussia, as Germany's leading economic power, insisted on the currency following the traditional silver standard. The treaty will help the economies of all German states' by reducing the amount of exchange administration and cost."
   
  #Zollverein 
- GEC_idea_zollverein_1: "Zollverein" #NT!
- GEC_idea_zollverein_1_desc: "This country is a member of the Zollverein." #NT!
- GEC_idea_zollverein_2: "Reconstitutioning Zollverein" #NT!
- GEC_idea_zollverein_2_desc: "This country is a member of the Zollverein." #NT!
- GEC_idea_zollverein_3: "Reconstituted Zollverein" #NT!
- GEC_idea_zollverein_3_desc: "This country is a member of the Zollverein." #NT!
- GEC_idea_zollverein_associate: "Zollverein Associate" #NT!
- GEC_idea_zollverein_associate_desc: "This country is an associate of the Zollverein." #NT!
- GEC_idea_zollverein_foreign_treaties_1: "Zollverein Foreign Trade Treaties" #NT!
- GEC_idea_zollverein_foreign_treaties_1_desc: "The Zollverein has secured a small number of trade treaties with foreign countries. This will boost our economy." #NT!
- GEC_idea_zollverein_foreign_treaties_2: "Zollverein Foreign Trade Treaties" #NT!
- GEC_idea_zollverein_foreign_treaties_2_desc: "The Zollverein has secured a decent number of trade treaties with foreign countries. This will significantly boost our economy." #NT!
+ GEC_idea_zollverein_1: "Zollverein"
+ GEC_idea_zollverein_1_desc: "This country is a member of the Zollverein."
+ GEC_idea_zollverein_2: "Reconstitutioning Zollverein"
+ GEC_idea_zollverein_2_desc: "This country is a member of the Zollverein."
+ GEC_idea_zollverein_3: "Reconstituted Zollverein"
+ GEC_idea_zollverein_3_desc: "This country is a member of the Zollverein."
+ GEC_idea_zollverein_associate: "Zollverein Associate"
+ GEC_idea_zollverein_associate_desc: "This country is an associate of the Zollverein."
+ GEC_idea_zollverein_foreign_treaties_1: "Zollverein Foreign Trade Treaties"
+ GEC_idea_zollverein_foreign_treaties_1_desc: "The Zollverein has secured a small number of trade treaties with foreign countries. This will boost our economy."
+ GEC_idea_zollverein_foreign_treaties_2: "Zollverein Foreign Trade Treaties"
+ GEC_idea_zollverein_foreign_treaties_2_desc: "The Zollverein has secured a decent number of trade treaties with foreign countries. This will significantly boost our economy."
   
  #Polizeiverein 
  GEC_idea_polizeiverein_leader_1: "Geheimer Polizeiverein - Ведущий Член"
@@ -546,8 +604,8 @@
  GEC_idea_trade_with_england_desc: ""
   
  #Military 
- GEC_idea_fear_of_war: "Fear of War" #NT!
- GEC_idea_fear_of_war_desc: "The war in Italy might be over for now, but what if Austria decides to strike back at France? Will our country become a battleground as well?" #NT!
+ GEC_idea_fear_of_war: "Fear of War"
+ GEC_idea_fear_of_war_desc: "The war in Italy might be over for now, but what if Austria decides to strike back at France? Will our country become a battleground as well?"
  GEC_idea_military_convention_with_PRS: "Военная Конвенция с Пруссией"
  GEC_idea_military_convention_with_PRS_desc: "После подписания военной конвенции с Пруссией мы реорганизуем нашу армию в соответствии с прусскими принципами и духом."
  GEC_idea_PRS_military_convention_1: "Военная Конвенция с Пруссией"
@@ -617,9 +675,9 @@
  GEC_trade_from_bremen_flag: "Торговля может проходить через Бремен"
  GEC_trade_purchasing_convoys_flag: " Покупка конвоев в процессе"
  HSD_man_werk_gustavsburg_start: "§YMAN Werk Gustavsburg§! разблокирован решением."
- zollverein_trade_treaty_negotiating_ngc_flag: " §YZollverein - North German Trade Treaty Negotiation in Progress.§!" #NT!
- zollverein_trade_treaty_negotiating_flag: " §YZollverein - Trade Treaty Negotiation in Progress.§!" #NT!
+ zollverein_trade_treaty_negotiating_ngc_flag: " §YZollverein - North German Trade Treaty Negotiation in Progress.§!"
+ zollverein_trade_treaty_negotiating_flag: " §YZollverein - Trade Treaty Negotiation in Progress.§!"
   
  nation_is_in_zollverein: "Эта страна является частью Таможенного союза."
- is_part_of_the_german_confederation: "[THIS.GetFlag]§Y[THIS.GetName]§! is part of the §YGerman Confederation§!." #NT!
- is_part_of_the_german_confederation_trigger_tt: "[THIS.GetFlag]§Y[THIS.GetName]§! is part of the §YGerman Confederation§!." #NT!
+ is_part_of_the_german_confederation: "[THIS.GetFlag]§Y[THIS.GetName]§! is part of the §YGerman Confederation§!."
+ is_part_of_the_german_confederation_trigger_tt: "[THIS.GetFlag]§Y[THIS.GetName]§! is part of the §YGerman Confederation§!."

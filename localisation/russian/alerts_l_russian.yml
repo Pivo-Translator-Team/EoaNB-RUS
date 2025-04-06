@@ -133,7 +133,7 @@
  alert_paused_diplomatic_actions_instant: "§HДипломатические действия приостановлены§!"
  alert_paused_diplomatic_actions_delayed: "Некоторые ваши дипломатические действия приостановлены, потому что у вас мало политической власти.\nРекомендуем отменить эти действия, чтобы они не мешали вам набирать политическую власть.\n\nЗатрагивает отношения с:\n$COUNTRIES$"
  alert_resistance_instant: "§HПротиводействие оккупации!§!"
- alert_resistance_delayed: "High levels of resistance in:\n$LIST|H$" #NT!
+ alert_resistance_delayed: "High levels of resistance in:\n$LIST|H$"
  alert_resistance_delayed_countries: "§HСтраны:§!"
  alert_resistance_delayed_states: "§HРегионы:§!"
  alert_outdated_equipment_instant: "§HИдет производство устаревшей техники§!"

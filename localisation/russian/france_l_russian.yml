@@ -52,12 +52,12 @@
  FRA_decision_continental_system_POL: "Invite [POL.GetName] in the Continental System"
  FRA_decision_continental_system: "Invite [FROM.GetName] in the Continental System"
   
- FRA_decision_category_french_navy: "The Sails of Empire" #NT!
- FRA_decision_category_french_navy_desc: "The Imperial navy has been a long time pet project of His Majesty the Emperor, who has with all his power been making sure that it remains the top of the line. Following in good steps his predecessor Louis Philippe, he has ensured the full implementation of steam boilers and other innovations, and continues to make sure that the Navy is there to defeat all enemies it faces on the seas. The work is never over however, and as weapons continue to improve, same with strategies, boilers and other parts of shipbuilding, they must be swiftly implemented - lest our Eagle sink to the bottom." #NT!
- FRA_decision_strengthen_the_ports_of_lorient: "Invest into Lorient Port Infrastructure" #NT!
- FRA_decision_strengthen_the_ports_of_lorient_desc: " " #NT!
- FRA_decision_invest_into_lorient_dockyard: "Invest into Lorient Dockyard Infrastructure" #NT!
- FRA_decision_invest_into_lorient_dockyard_desc: " " #NT!
+ FRA_decision_category_french_navy: "The Sails of Empire"
+ FRA_decision_category_french_navy_desc: "The Imperial navy has been a long time pet project of His Majesty the Emperor, who has with all his power been making sure that it remains the top of the line. Following in good steps his predecessor Louis Philippe, he has ensured the full implementation of steam boilers and other innovations, and continues to make sure that the Navy is there to defeat all enemies it faces on the seas. The work is never over however, and as weapons continue to improve, same with strategies, boilers and other parts of shipbuilding, they must be swiftly implemented - lest our Eagle sink to the bottom."
+ FRA_decision_strengthen_the_ports_of_lorient: "Invest into Lorient Port Infrastructure"
+ FRA_decision_strengthen_the_ports_of_lorient_desc: " "
+ FRA_decision_invest_into_lorient_dockyard: "Invest into Lorient Dockyard Infrastructure"
+ FRA_decision_invest_into_lorient_dockyard_desc: " "
   
  FRA_decision_sign_treaty_turin: "Sign the Treaty of Turin"
   
@@ -74,36 +74,36 @@
  #                     FOCUS 
  ################################################## 
   # 1857 Politics 
- FRA_tradegy_avoided: "Tradegy is avoided" #NT!
- FRA_tradegy_avoided_desc: "" #NT!
- FRA_the_unchanged_vision: "The Unchanged Vision" #NT!
- FRA_the_unchanged_vision_desc: "" #NT!
- FRA_republican_deportations: "Republican Deportations" #NT!
- FRA_republican_deportations_desc: "" #NT!
- FRA_law_general_security: "Create a Law of General Security" #NT!
- FRA_law_general_security_desc: "" #NT!
- FRA_walewsky_to_britain: "Walewsky to Britain" #NT!
- FRA_walewsky_to_britain_desc: "" #NT!
- FRA_honour_the_wounded: "Honour the Wounded" #NT!
- FRA_honour_the_wounded_desc: "" #NT!
- FRA_embolden_bonapartist_agents: "Embolden Bonapartist Agents" #NT!
- FRA_embolden_bonapartist_agents_desc: "" #NT!
- FRA_business_as_usual: "Business as usual" #NT!
- FRA_business_as_usual_desc: "" #NT!
- FRA_turn_of_events: "A Turn of Events" #NT!
- FRA_turn_of_events_desc: "" #NT!
- FRA_special_legislative_session: "Organize a Special Legislative Session" #NT!
- FRA_special_legislative_session_desc: "" #NT!
- FRA_assembling_the_generals: "Assemble the Generals" #NT!
- FRA_assembling_the_generals_desc: "" #NT!
- FRA_fortifying_the_frontiers: "Fortify the Frontiers" #NT!
- FRA_fortifying_the_frontiers_desc: "" #NT!
- FRA_foreign_patriotic_initiatives: "Invite Foreign Partiotic Initiatives" #NT!
- FRA_foreign_patriotic_initiatives_desc: "" #NT!
- FRA_extrajudicial_executions: "Organize Extrajudicial Executions" #NT!
- FRA_extrajudicial_executions_desc: "" #NT!
- FRA_a_family_gathering: "A Family Gathering" #NT!
- FRA_a_family_gathering_desc: "" #NT!
+ FRA_tradegy_avoided: "Tradegy is avoided"
+ FRA_tradegy_avoided_desc: ""
+ FRA_the_unchanged_vision: "The Unchanged Vision"
+ FRA_the_unchanged_vision_desc: ""
+ FRA_republican_deportations: "Republican Deportations"
+ FRA_republican_deportations_desc: ""
+ FRA_law_general_security: "Create a Law of General Security"
+ FRA_law_general_security_desc: ""
+ FRA_walewsky_to_britain: "Walewsky to Britain"
+ FRA_walewsky_to_britain_desc: ""
+ FRA_honour_the_wounded: "Honour the Wounded"
+ FRA_honour_the_wounded_desc: ""
+ FRA_embolden_bonapartist_agents: "Embolden Bonapartist Agents"
+ FRA_embolden_bonapartist_agents_desc: ""
+ FRA_business_as_usual: "Business as usual"
+ FRA_business_as_usual_desc: ""
+ FRA_turn_of_events: "A Turn of Events"
+ FRA_turn_of_events_desc: ""
+ FRA_special_legislative_session: "Organize a Special Legislative Session"
+ FRA_special_legislative_session_desc: ""
+ FRA_assembling_the_generals: "Assemble the Generals"
+ FRA_assembling_the_generals_desc: ""
+ FRA_fortifying_the_frontiers: "Fortify the Frontiers"
+ FRA_fortifying_the_frontiers_desc: ""
+ FRA_foreign_patriotic_initiatives: "Invite Foreign Partiotic Initiatives"
+ FRA_foreign_patriotic_initiatives_desc: ""
+ FRA_extrajudicial_executions: "Organize Extrajudicial Executions"
+ FRA_extrajudicial_executions_desc: ""
+ FRA_a_family_gathering: "A Family Gathering"
+ FRA_a_family_gathering_desc: ""
   
   
  FRA_target_the_opposition: "Purge the Anarchists"
@@ -206,84 +206,84 @@
  FRA_crown_himself_napoleon_iv_desc: ""
   
   # Economics 
- FRA_projecta_impera: "Projecta Imperii" #NT!
- FRA_projecta_impera_desc: "His Majesty the Emperor has for over a decade pursued a statist policy influenced by all sorts of people. Achille Fould supports an almost laisse-faire variant of this, the Emperor a quite frankly socialist variant. In obverse, persons such as Pierre Magne try to balance competing tendencies. None however disagrees, that work on France must always continue." #NT!
- FRA_ferro_et_terra: "Ferro et Terra" #NT!
- FRA_ferro_et_terra_desc: "Steel and Land. That is what our Empire rests upon. Though Fire and Smoke may fuel it greatly, and though Marble and Glass may make it pretty. . .we still need Land and Steel. The former grants us food, the latter grants us weapons. These two must always be in firm grasp of the Empire, lest our brave Soldiers go hungry and our people starve." #NT!
- FRA_new_practices_for_new_empires: "New Practices for New Empires" #NT!
- FRA_new_practices_for_new_empires_desc: "The Future is now! Farming can not continue as in the old days, as if there are still Serfs and Bourbon Kings. New practices must be introduced. Reapers must be spread further, horses must be made avalible to more to purchase, so that toiling on land does not take an entire day. And further, who knows, perhaps this will also free up men for the Imperial Army." #NT!
- FRA_lowering_farmers_taxes: "Lowering Farmers Taxes" #NT!
- FRA_lowering_farmers_taxes_desc: "The Emperor and his allies have fervently done risky things for the public good. And almost always, it has paid off. One of this, was the hope that lowered taxes and support of financial institutions and competitive ventures would result in an increased treasury. It has. And so now, one must simply ask, why not grant what has been granted to the Banker and Artisan - to the Empire's finest? The farmer shall too, what all of France has. Prosperity and Abundance!" #NT!
- FRA_limited_land_redistribution: "Limited Land Redistribution" #NT!
- FRA_limited_land_redistribution_desc: "When the Republic and the Empire came about, many a thing was left empty. Signeurs et Madame left the French fatherland, for 'greener pastures'. Bah, traitors all! Nonetheless, now we are left with numerous estates to do something with. Now while we can't give every citizen a palace, we can sell off many a painting and grant each citizen some money, no? And after that, we can ensure that all those who worked on land without permanent housing, get at least some temporary semblence of it." #NT!
- FRA_establish_specialized_agricultural_education: "Establish Specialized Agricultural Education" #NT!
- FRA_establish_specialized_agricultural_education_desc: "We've given the farmer tools, we've lowered his taxes and we have now even given him some money to play around with. Now we must ensure that it is not wasted on booze and gambling. Our fervent lecturer, Victory Duruy, gets a new special task. To travel to the countryside and organize schools to ensure that France's best always know how to operate this new machinery. For the good of themselves and of France the great!" #NT!
- FRA_redistribution_of_orleans_properties: "Redistribution of Orleans Properties" #NT!
- FRA_redistribution_of_orleans_properties_desc: "Now comes the great show. We've redistributed the land of petty Monarchists who would dare fight our glorious and benevolent Empire. But now, we will end with Royal legacies for good. Numerous palaces of the Bourbon-Anjou and the Bourbon-Orleans lay empty. A few will be taken by the Emperor for personal projects and enjoyment, but the rest: au Peuple! Millions of France shall both be acquired by the state, and granted unto the people. Who will, naturally under our guidance, spend it well." #NT!
- FRA_compete_with_italian_grain: "Compete with Italian Grain" #NT!
- FRA_compete_with_italian_grain_desc: "The proclamation is a slight bit misleading. We fight not, just the Italian farmer. But the Spanish, German, British and Balkan one too. And all of them, our farmer must outcompete, outdo, and in doing so: profit from. Now as always, our friends the Latins, the South Slavs and others will not be hurt, we are a fair competitor. . .but the France must flow. And they will first flow to us, then anyone else." #NT!
- FRA_organized_departmental_farming: "Organized Departmental Farming" #NT!
- FRA_organized_departmental_farming_desc: "The Empire has, as said before, often been Statist. Now, for the most efficient of farming practices, Duruy will organize certain overseers and such to either advise on improved farming practices; or in cases of state-owned and leased land, order improvements. Now naturally this is a risky affair, but nonetheless we will do our best so that the land is used to it's greatest extent." #NT!
- FRA_spur_agricultural_ambition: "Spur Agricultural Ambition" #NT!
- FRA_spur_agricultural_ambition_desc: "Europe has grown restless. Industrialization has led to a flocking of cities, and thats not bad in itself. . .but, someone needs to feed the cities. As such, our Imperial government has decided that it would be wise to set up programs to help people to make their life on the countryside. To farm, and to perhaps get rich off of that, while feeding not only ourselves but Europe itself. Not to mention, a monopoly on foodstuffs will be very useful when it comes to politics too. How can you invade the one that feeds you?" #NT!
- FRA_rehabilitate_the_vandee: "Rehabilitate the Vandee" #NT!
- FRA_rehabilitate_the_vandee_desc: "The Vendee is a notoriously royalist region. First they revolted against the Republic. Then against Napoleon himself. Then against the Orleans! The Vendee is the most legitimist region there exists. . .and we've pacified it. Our Empress Eugenie, and the support of the Pope to us, has proven indispensable. Now, that region is calm and it is our duty to bring life back to it. After a practical genocide conducted by the Jacobins. Let us build up the land, let us give them money to re-start their farms. Let us give life back to the Vendee, and in so, earn their loyalty for more than just God and Country." #NT!
- FRA_ensure_food_for_the_army: "Ensure Food for the Army" #NT!
- FRA_ensure_food_for_the_army_desc: "Now that France is not only insured against famine, but insured as one of, or perhaps the foremost, producer of food in the world; we must ensure that our noble Army has it's share. There are hundreds of thousands of soldiers, and we tragically have to import food for these brave men. Now it is time to establish a very minor grain tax, that when utilized across all of France will permit us to feed our massive armies. With that in hand, we will be able to project our influence without any worry that our good men might starve. And if some remains, well, more profit to be made." #NT!
- FRA_a_prosperous_farmland: "A Prosperous Farmland" #NT!
- FRA_a_prosperous_farmland_desc: "Minerva would surely be proud of us. Our wise acts have ensured a prosperous French countryside, that produces more grain than any nation in the world, perhaps one day it will do even more than Russia itself. For now however, our great Napoleon will be happy to know that his nephew has not only done good by his name, but even more so. Famines are not only eradicated as a possibility, but trounced on with France becoming an exporter of grain. Let us thus simply say: Hurrah pour l'Empereur Napoleon III!" #NT!
- FRA_ignis_et_fumus: "Ignies Et Fumus" #NT!
- FRA_ignis_et_fumus_desc: "Fire and Smoke. While steel and land are needed to produce, we need fire and smoke to refine. We need them to travel, we need them to shoot, and much else. As such, we shall bolster our industry beyond all measure, and not only catch-up to the likes of Britain but overtake them. And then, none will be able to even breathe without thinking: ah, the French have made this!" #NT!
- FRA_break_the_hold_of_artisans: "Break the Hold of Artisans" #NT!
- FRA_break_the_hold_of_artisans_desc: "Like the economies of old, France is still dominated primarily by Artisans. While France is the best economy when it comes to banking and finances. . .well, industrially speaking we are much less so. Now we shall decrease tariffs on industrial goods, and promote artisans joining together to form grand factories! This way, their hold on our economy will be broken, and the nation able to make progress!" #NT!
- FRA_continued_industrial_advancement: "Continued Industrial Advancement" #NT!
- FRA_continued_industrial_advancement_desc: "While we make our march against weak Artisans and against the backwardness of the countryside: we shall also march to advance what already is there. His Majesty has opened up several tenders of technological and industrial advancement with the goal of bringing bright minds to Paris and the nation. Naturally certain Conservatives condemn this as unnecessary migrant-catching, but we know that the Empire will have the brightest minds of Europe!" #NT!
- FRA_grant_mange_the_blank_check: "Grant Mange the Black Check" #NT!
- FRA_grant_mange_the_blank_check_desc: "Pierre Magne is the great minister of finance in our wonderful Empire, and he has made his intent clear. To build railways until all of France can travel from their small village in Provance, to Paris, within just a few hours! And our Emperor is inclined to agree with him, and so has given Magne the blank check with the ministry. He shall build to his heart's content, and shall bring prestige and glory to France - as well as grandiose economic benefit. By increasing the number of railways, we will expand tourism, economic advancement of private persons and naturally, decrease the time of mobilization." #NT!
- FRA_a_new_manufactural_line: "A New Manufactural Line" #NT!
- FRA_a_new_manufactural_line_desc: " " #NT!
- FRA_reaffirming_imperial_ports_and_docks: "Reaffirming Imperial Ports and Docks" #NT!
- FRA_reaffirming_imperial_ports_and_docks_desc: "France's navy is the pride of Europe and especially the Emperor Napoleon III. Now however, times are changing. Ironclads, even more steam power, explosive breech-loading guns and much else; have become a daily part of naval combat. We must ensure that our ports can actually build such ships, and so we shall expand them, modernize them, and make sure that they out-do anything the perfidious Albion or the rabid Russian can try and make. France shall rule the Waves!" #NT!
- FRA_foulds_begrudging_subsidies: "Foulds Begrugding Subsidies" #NT!
- FRA_foulds_begrudging_subsidies_desc: "Achille Fould is the fiscal conservative in our ministry of finance, and a great proponent of fiscal responsibility. However, even he must at times consent to certain planned acts so that the French nation can out pace all others. As such His Majesty has managed to convince Fould to grant a sizeable subsidy check to industrial projects across France so that our nation can continue it's unimpeded economic golden age." #NT!
- FRA_the_art_of_refining: "The Art of Refining" #NT!
- FRA_the_art_of_refining_desc: "While we may make all that we want, we must also refine what we have. Algerian lead, Alsatian coal, Gold from Aquitaine. All of that has to be used for something, lest it simply sit under the ground, doing nothing. As such, we shall push for our youth to actually learn how to refine the materials at their disposal. And then, when they do that, we shall utilize those resources to produce guns, railway carts, fuel, whatever our glorious Empire needs!" #NT!
- FRA_first_batches_of_coal_and_steel: "First Batches of Coal and Steel" #NT!
- FRA_first_batches_of_coal_and_steel_desc: "It is a sad fact, but France is not endowed with infinite resources. Coal and Steel dry up, and as much as we do our best to mine in Provence and in Alsace, there is still not enough. As such we must begin to import our first batches of coal and steel from Britain and from America. Rue we the day when we begin to import something from the Prussians, but it might need to be considered later on. For now though, let us rejoice that our industry is so grand that we must import to keep it running at these speeds!" #NT!
- FRA_strengthen_the_ports_of_bordeaux: "Strengthen the Ports of Bordeaux" #NT!
- FRA_strengthen_the_ports_of_bordeaux_desc: "While we have done our best to strengthen all of our ports, with special care towards Marseille and Toulon where most of our fleet resides - we must strengthen one more with great care. Bordeaux, the seat of at least one Atlantic fleet. While it might not be a center of production and while it may take ages if Bordeaux is ever to reach that stage - it will still benefit us to enlarge and re-outfit the port so that should war come, repairs and safety are still guaranteed. And if Bordeaux's mayors manage to bless the city with a truly marvelous port, all the glory to them." #NT!
- FRA_embolden_the_silk_of_lyon: "Embolden the Silk of Lyon" #NT!
- FRA_embolden_the_silk_of_lyon_desc: "While France might be bashing down the walls between backwardness and the future - there are still some things which we shall not only keep, but embolden. And that is our trade of fine clothes, of refined jewels and much else. And for that, what better starting point than the Silk of Lyon? For centuries a major place for fine clothing, it shall now earn the subsidies of the nation and ensure that when one thinks of Luxury: they shall think of France! And not any France, but France of the Roman and Imperial Eagle, where the rightful heirs of Augustus, Caesar, Trajan and Constantine reign!" #NT!
- FRA_une_victorie_sur_lindustrie: "Une Victoire Sur L'industrie" #NT!
- FRA_une_victorie_sur_lindustrie_desc: "We've done it! Factories, and in them fire and through them smoke; litter France! In combination with our other efforts, France will become the undisputed economic hegemon of Europe - unite Germany or not, unite Italy or not! From Paris will travel silken robes, steel rifles, golden jewels and so much more. France shall be the shining light of the world in all matters economic. And all thanks to our noble Napoleon III and his brave and ingenious advisors! Hip-Hip, Hurrah!" #NT!
- FRA_marmore_et_vitro: "Marmore et Vitro" #NT!
- FRA_marmore_et_vitro_desc: " " #NT!
- FRA_continued_haussmannite_rennovations: "Continued Haussmannite Rennovations" #NT!
- FRA_continued_haussmannite_rennovations_desc: " " #NT!
- FRA_the_advance_on_suez: "The Advance on Suez" #NT!
- FRA_the_advance_on_suez_desc: " " #NT!
- FRA_subsidies_to_lgoc: "Subsidies to LGOC" #NT!
- FRA_subsidies_to_lgoc_desc: " " #NT!
- FRA_embolden_monsieur_schneider: "Embolden Monsieur Schneider" #NT!
- FRA_embolden_monsieur_schneider_desc: " " #NT!
- FRA_subsidize_the_periere_brothers: "Subsidize the Periere Brothers" #NT!
- FRA_subsidize_the_periere_brothers_desc: " " #NT!
- FRA_invest_in_the_vichy_baths: "Invest in the Vichy Baths" #NT!
- FRA_invest_in_the_vichy_baths_desc: " " #NT!
- FRA_expand_the_tourism_industry: "Expand the Tourism Industry" #NT!
- FRA_expand_the_tourism_industry_desc: " " #NT!
- FRA_expand_the_port_of_marsailles: "Expand the Port of Marsailles" #NT!
- FRA_expand_the_port_of_marsailles_desc: " " #NT!
- FRA_expand_schools_into_arab_territories: "Expand Schools into Arab Territories" #NT!
- FRA_expand_schools_into_arab_territories_desc: " " #NT!
- FRA_ensure_missionaries_in_the_levant_and_asia: "Ensure Missionaries in the Levant and Asia" #NT!
- FRA_ensure_missionaries_in_the_levant_and_asia_desc: " " #NT!
- FRA_further_expansion_of_the_louvre: "Further Expansion of the Louvre" #NT!
- FRA_further_expansion_of_the_louvre_desc: " " #NT!
- FRA_enlarged_festivities_of_empire: "Enlarged Festivities of Empire" #NT!
- FRA_enlarged_festivities_of_empire_desc: " " #NT!
- FRA_et_bien_dautres_glorieux: "Et Bien Dautres Glorieux" #NT!
- FRA_et_bien_dautres_glorieux_desc: " " #NT!
+ FRA_projecta_impera: "Projecta Imperii"
+ FRA_projecta_impera_desc: "His Majesty the Emperor has for over a decade pursued a statist policy influenced by all sorts of people. Achille Fould supports an almost laisse-faire variant of this, the Emperor a quite frankly socialist variant. In obverse, persons such as Pierre Magne try to balance competing tendencies. None however disagrees, that work on France must always continue."
+ FRA_ferro_et_terra: "Ferro et Terra"
+ FRA_ferro_et_terra_desc: "Steel and Land. That is what our Empire rests upon. Though Fire and Smoke may fuel it greatly, and though Marble and Glass may make it pretty. . .we still need Land and Steel. The former grants us food, the latter grants us weapons. These two must always be in firm grasp of the Empire, lest our brave Soldiers go hungry and our people starve."
+ FRA_new_practices_for_new_empires: "New Practices for New Empires"
+ FRA_new_practices_for_new_empires_desc: "The Future is now! Farming can not continue as in the old days, as if there are still Serfs and Bourbon Kings. New practices must be introduced. Reapers must be spread further, horses must be made avalible to more to purchase, so that toiling on land does not take an entire day. And further, who knows, perhaps this will also free up men for the Imperial Army."
+ FRA_lowering_farmers_taxes: "Lowering Farmers Taxes"
+ FRA_lowering_farmers_taxes_desc: "The Emperor and his allies have fervently done risky things for the public good. And almost always, it has paid off. One of this, was the hope that lowered taxes and support of financial institutions and competitive ventures would result in an increased treasury. It has. And so now, one must simply ask, why not grant what has been granted to the Banker and Artisan - to the Empire's finest? The farmer shall too, what all of France has. Prosperity and Abundance!"
+ FRA_limited_land_redistribution: "Limited Land Redistribution"
+ FRA_limited_land_redistribution_desc: "When the Republic and the Empire came about, many a thing was left empty. Signeurs et Madame left the French fatherland, for 'greener pastures'. Bah, traitors all! Nonetheless, now we are left with numerous estates to do something with. Now while we can't give every citizen a palace, we can sell off many a painting and grant each citizen some money, no? And after that, we can ensure that all those who worked on land without permanent housing, get at least some temporary semblence of it."
+ FRA_establish_specialized_agricultural_education: "Establish Specialized Agricultural Education"
+ FRA_establish_specialized_agricultural_education_desc: "We've given the farmer tools, we've lowered his taxes and we have now even given him some money to play around with. Now we must ensure that it is not wasted on booze and gambling. Our fervent lecturer, Victory Duruy, gets a new special task. To travel to the countryside and organize schools to ensure that France's best always know how to operate this new machinery. For the good of themselves and of France the great!"
+ FRA_redistribution_of_orleans_properties: "Redistribution of Orleans Properties"
+ FRA_redistribution_of_orleans_properties_desc: "Now comes the great show. We've redistributed the land of petty Monarchists who would dare fight our glorious and benevolent Empire. But now, we will end with Royal legacies for good. Numerous palaces of the Bourbon-Anjou and the Bourbon-Orleans lay empty. A few will be taken by the Emperor for personal projects and enjoyment, but the rest: au Peuple! Millions of France shall both be acquired by the state, and granted unto the people. Who will, naturally under our guidance, spend it well."
+ FRA_compete_with_italian_grain: "Compete with Italian Grain"
+ FRA_compete_with_italian_grain_desc: "The proclamation is a slight bit misleading. We fight not, just the Italian farmer. But the Spanish, German, British and Balkan one too. And all of them, our farmer must outcompete, outdo, and in doing so: profit from. Now as always, our friends the Latins, the South Slavs and others will not be hurt, we are a fair competitor. . .but the France must flow. And they will first flow to us, then anyone else."
+ FRA_organized_departmental_farming: "Organized Departmental Farming"
+ FRA_organized_departmental_farming_desc: "The Empire has, as said before, often been Statist. Now, for the most efficient of farming practices, Duruy will organize certain overseers and such to either advise on improved farming practices; or in cases of state-owned and leased land, order improvements. Now naturally this is a risky affair, but nonetheless we will do our best so that the land is used to it's greatest extent."
+ FRA_spur_agricultural_ambition: "Spur Agricultural Ambition"
+ FRA_spur_agricultural_ambition_desc: "Europe has grown restless. Industrialization has led to a flocking of cities, and thats not bad in itself. . .but, someone needs to feed the cities. As such, our Imperial government has decided that it would be wise to set up programs to help people to make their life on the countryside. To farm, and to perhaps get rich off of that, while feeding not only ourselves but Europe itself. Not to mention, a monopoly on foodstuffs will be very useful when it comes to politics too. How can you invade the one that feeds you?"
+ FRA_rehabilitate_the_vandee: "Rehabilitate the Vandee"
+ FRA_rehabilitate_the_vandee_desc: "The Vendee is a notoriously royalist region. First they revolted against the Republic. Then against Napoleon himself. Then against the Orleans! The Vendee is the most legitimist region there exists. . .and we've pacified it. Our Empress Eugenie, and the support of the Pope to us, has proven indispensable. Now, that region is calm and it is our duty to bring life back to it. After a practical genocide conducted by the Jacobins. Let us build up the land, let us give them money to re-start their farms. Let us give life back to the Vendee, and in so, earn their loyalty for more than just God and Country."
+ FRA_ensure_food_for_the_army: "Ensure Food for the Army"
+ FRA_ensure_food_for_the_army_desc: "Now that France is not only insured against famine, but insured as one of, or perhaps the foremost, producer of food in the world; we must ensure that our noble Army has it's share. There are hundreds of thousands of soldiers, and we tragically have to import food for these brave men. Now it is time to establish a very minor grain tax, that when utilized across all of France will permit us to feed our massive armies. With that in hand, we will be able to project our influence without any worry that our good men might starve. And if some remains, well, more profit to be made."
+ FRA_a_prosperous_farmland: "A Prosperous Farmland"
+ FRA_a_prosperous_farmland_desc: "Minerva would surely be proud of us. Our wise acts have ensured a prosperous French countryside, that produces more grain than any nation in the world, perhaps one day it will do even more than Russia itself. For now however, our great Napoleon will be happy to know that his nephew has not only done good by his name, but even more so. Famines are not only eradicated as a possibility, but trounced on with France becoming an exporter of grain. Let us thus simply say: Hurrah pour l'Empereur Napoleon III!"
+ FRA_ignis_et_fumus: "Ignies Et Fumus"
+ FRA_ignis_et_fumus_desc: "Fire and Smoke. While steel and land are needed to produce, we need fire and smoke to refine. We need them to travel, we need them to shoot, and much else. As such, we shall bolster our industry beyond all measure, and not only catch-up to the likes of Britain but overtake them. And then, none will be able to even breathe without thinking: ah, the French have made this!"
+ FRA_break_the_hold_of_artisans: "Break the Hold of Artisans"
+ FRA_break_the_hold_of_artisans_desc: "Like the economies of old, France is still dominated primarily by Artisans. While France is the best economy when it comes to banking and finances. . .well, industrially speaking we are much less so. Now we shall decrease tariffs on industrial goods, and promote artisans joining together to form grand factories! This way, their hold on our economy will be broken, and the nation able to make progress!"
+ FRA_continued_industrial_advancement: "Continued Industrial Advancement"
+ FRA_continued_industrial_advancement_desc: "While we make our march against weak Artisans and against the backwardness of the countryside: we shall also march to advance what already is there. His Majesty has opened up several tenders of technological and industrial advancement with the goal of bringing bright minds to Paris and the nation. Naturally certain Conservatives condemn this as unnecessary migrant-catching, but we know that the Empire will have the brightest minds of Europe!"
+ FRA_grant_mange_the_blank_check: "Grant Mange the Black Check"
+ FRA_grant_mange_the_blank_check_desc: "Pierre Magne is the great minister of finance in our wonderful Empire, and he has made his intent clear. To build railways until all of France can travel from their small village in Provance, to Paris, within just a few hours! And our Emperor is inclined to agree with him, and so has given Magne the blank check with the ministry. He shall build to his heart's content, and shall bring prestige and glory to France - as well as grandiose economic benefit. By increasing the number of railways, we will expand tourism, economic advancement of private persons and naturally, decrease the time of mobilization."
+ FRA_a_new_manufactural_line: "A New Manufactural Line"
+ FRA_a_new_manufactural_line_desc: " "
+ FRA_reaffirming_imperial_ports_and_docks: "Reaffirming Imperial Ports and Docks"
+ FRA_reaffirming_imperial_ports_and_docks_desc: "France's navy is the pride of Europe and especially the Emperor Napoleon III. Now however, times are changing. Ironclads, even more steam power, explosive breech-loading guns and much else; have become a daily part of naval combat. We must ensure that our ports can actually build such ships, and so we shall expand them, modernize them, and make sure that they out-do anything the perfidious Albion or the rabid Russian can try and make. France shall rule the Waves!"
+ FRA_foulds_begrudging_subsidies: "Foulds Begrugding Subsidies"
+ FRA_foulds_begrudging_subsidies_desc: "Achille Fould is the fiscal conservative in our ministry of finance, and a great proponent of fiscal responsibility. However, even he must at times consent to certain planned acts so that the French nation can out pace all others. As such His Majesty has managed to convince Fould to grant a sizeable subsidy check to industrial projects across France so that our nation can continue it's unimpeded economic golden age."
+ FRA_the_art_of_refining: "The Art of Refining"
+ FRA_the_art_of_refining_desc: "While we may make all that we want, we must also refine what we have. Algerian lead, Alsatian coal, Gold from Aquitaine. All of that has to be used for something, lest it simply sit under the ground, doing nothing. As such, we shall push for our youth to actually learn how to refine the materials at their disposal. And then, when they do that, we shall utilize those resources to produce guns, railway carts, fuel, whatever our glorious Empire needs!"
+ FRA_first_batches_of_coal_and_steel: "First Batches of Coal and Steel"
+ FRA_first_batches_of_coal_and_steel_desc: "It is a sad fact, but France is not endowed with infinite resources. Coal and Steel dry up, and as much as we do our best to mine in Provence and in Alsace, there is still not enough. As such we must begin to import our first batches of coal and steel from Britain and from America. Rue we the day when we begin to import something from the Prussians, but it might need to be considered later on. For now though, let us rejoice that our industry is so grand that we must import to keep it running at these speeds!"
+ FRA_strengthen_the_ports_of_bordeaux: "Strengthen the Ports of Bordeaux"
+ FRA_strengthen_the_ports_of_bordeaux_desc: "While we have done our best to strengthen all of our ports, with special care towards Marseille and Toulon where most of our fleet resides - we must strengthen one more with great care. Bordeaux, the seat of at least one Atlantic fleet. While it might not be a center of production and while it may take ages if Bordeaux is ever to reach that stage - it will still benefit us to enlarge and re-outfit the port so that should war come, repairs and safety are still guaranteed. And if Bordeaux's mayors manage to bless the city with a truly marvelous port, all the glory to them."
+ FRA_embolden_the_silk_of_lyon: "Embolden the Silk of Lyon"
+ FRA_embolden_the_silk_of_lyon_desc: "While France might be bashing down the walls between backwardness and the future - there are still some things which we shall not only keep, but embolden. And that is our trade of fine clothes, of refined jewels and much else. And for that, what better starting point than the Silk of Lyon? For centuries a major place for fine clothing, it shall now earn the subsidies of the nation and ensure that when one thinks of Luxury: they shall think of France! And not any France, but France of the Roman and Imperial Eagle, where the rightful heirs of Augustus, Caesar, Trajan and Constantine reign!"
+ FRA_une_victorie_sur_lindustrie: "Une Victoire Sur L'industrie"
+ FRA_une_victorie_sur_lindustrie_desc: "We've done it! Factories, and in them fire and through them smoke; litter France! In combination with our other efforts, France will become the undisputed economic hegemon of Europe - unite Germany or not, unite Italy or not! From Paris will travel silken robes, steel rifles, golden jewels and so much more. France shall be the shining light of the world in all matters economic. And all thanks to our noble Napoleon III and his brave and ingenious advisors! Hip-Hip, Hurrah!"
+ FRA_marmore_et_vitro: "Marmore et Vitro"
+ FRA_marmore_et_vitro_desc: " "
+ FRA_continued_haussmannite_rennovations: "Continued Haussmannite Rennovations"
+ FRA_continued_haussmannite_rennovations_desc: " "
+ FRA_the_advance_on_suez: "The Advance on Suez"
+ FRA_the_advance_on_suez_desc: " "
+ FRA_subsidies_to_lgoc: "Subsidies to LGOC"
+ FRA_subsidies_to_lgoc_desc: " "
+ FRA_embolden_monsieur_schneider: "Embolden Monsieur Schneider"
+ FRA_embolden_monsieur_schneider_desc: " "
+ FRA_subsidize_the_periere_brothers: "Subsidize the Periere Brothers"
+ FRA_subsidize_the_periere_brothers_desc: " "
+ FRA_invest_in_the_vichy_baths: "Invest in the Vichy Baths"
+ FRA_invest_in_the_vichy_baths_desc: " "
+ FRA_expand_the_tourism_industry: "Expand the Tourism Industry"
+ FRA_expand_the_tourism_industry_desc: " "
+ FRA_expand_the_port_of_marsailles: "Expand the Port of Marsailles"
+ FRA_expand_the_port_of_marsailles_desc: " "
+ FRA_expand_schools_into_arab_territories: "Expand Schools into Arab Territories"
+ FRA_expand_schools_into_arab_territories_desc: " "
+ FRA_ensure_missionaries_in_the_levant_and_asia: "Ensure Missionaries in the Levant and Asia"
+ FRA_ensure_missionaries_in_the_levant_and_asia_desc: " "
+ FRA_further_expansion_of_the_louvre: "Further Expansion of the Louvre"
+ FRA_further_expansion_of_the_louvre_desc: " "
+ FRA_enlarged_festivities_of_empire: "Enlarged Festivities of Empire"
+ FRA_enlarged_festivities_of_empire_desc: " "
+ FRA_et_bien_dautres_glorieux: "Et Bien Dautres Glorieux"
+ FRA_et_bien_dautres_glorieux_desc: " "
   
   # Diplomacy 
  FRA_cobden_chevalier_treaty: "The Cobden-Chevalier Treaty"
@@ -292,95 +292,95 @@
  FRA_chinese_indemnity_desc: ""
   
   # Navy 
- FRA_focus_navy_modernization: "Navy Modernization" #NT!
- FRA_focus_navy_modernization_desc: "" #NT!
+ FRA_focus_navy_modernization: "Navy Modernization"
+ FRA_focus_navy_modernization_desc: ""
  FRA_develop_steamships: "Develop our Steamships"
  FRA_develop_steamships_desc: "With the evolution of the steam engine, growing ever more compact and powerful, it might be feasible to equip our warships with them. Innovating on the subject will give us an edge in naval battles, something to compete with our rival from the other side of the Manche."
- FRA_focus_experimental_ship_designs: "Experimental Ship Designs" #NT!
- FRA_focus_experimental_ship_designs_desc: "" #NT!
- FRA_focus_troop_transportation_across_the_seas: "Troop Transportation Across the Seas" #NT!
- FRA_focus_troop_transportation_across_the_seas_desc: "" #NT!
- FRA_focus_invest_ironclad_research: "La Gloire" #NT!
- FRA_focus_invest_ironclad_research_desc: "" #NT!
- FRA_focus_steam_powered_ships_production: "Steam-Powered Ships Production" #NT!
- FRA_focus_steam_powered_ships_production_desc: "While we were the first to build steam battleships in 1850, the other great nations of the world have begun to copy us. New designs are needed to retain our technological advantage." #NT!
- FRA_focus_utilization_steam_engine_in_ports: "Utilization of Steam Engines in Ports" #NT!
- FRA_focus_utilization_steam_engine_in_ports_desc: "" #NT!
- FRA_focus_expand_lorient_drydocks: "Expand Lorient Drydocks" #NT!
- FRA_focus_expand_lorient_drydocks_desc: "There has been a longstanding drydock in the port of Lorient. The time has come to expand a second drydock in Lorient to increase our production of ships." #NT!
+ FRA_focus_experimental_ship_designs: "Experimental Ship Designs"
+ FRA_focus_experimental_ship_designs_desc: ""
+ FRA_focus_troop_transportation_across_the_seas: "Troop Transportation Across the Seas"
+ FRA_focus_troop_transportation_across_the_seas_desc: ""
+ FRA_focus_invest_ironclad_research: "La Gloire"
+ FRA_focus_invest_ironclad_research_desc: ""
+ FRA_focus_steam_powered_ships_production: "Steam-Powered Ships Production"
+ FRA_focus_steam_powered_ships_production_desc: "While we were the first to build steam battleships in 1850, the other great nations of the world have begun to copy us. New designs are needed to retain our technological advantage."
+ FRA_focus_utilization_steam_engine_in_ports: "Utilization of Steam Engines in Ports"
+ FRA_focus_utilization_steam_engine_in_ports_desc: ""
+ FRA_focus_expand_lorient_drydocks: "Expand Lorient Drydocks"
+ FRA_focus_expand_lorient_drydocks_desc: "There has been a longstanding drydock in the port of Lorient. The time has come to expand a second drydock in Lorient to increase our production of ships."
   
   # Colonization 
  FRA_french_colonial_empire: "Chasseloup-Laubat's Colonial Plans"
  FRA_french_colonial_empire_desc: "France needs to expand our colonial ambitions."
   # Algeria and Middle East 
- FRA_focus_the_kabylia_campaign: "The Kabylia Campaign" #NT!
- FRA_focus_the_kabylia_campaign_desc: "We have to continue military campaigns in Algeria to suppress resistance, while administrative reforms establish our governance there. Infrastructure projects, like railways and roads, improve communication and trade. European settlers will arrive, transforming demographics and agriculture. The French legal systems will replace local ones, ensuring uniformity. As Algeria has been a colony of us for several centuries now, this could mark a pivotal shift towards integrating Algeria into our colonial empire, demonstrating our commitment to civilizing mission and strategic dominance in North Africa." #NT!
- FRA_focus_the_regime_du_sabre: "Régime du Sabre" #NT!
- FRA_focus_the_regime_du_sabre_desc: "As we look to the future of our governance in Algeria, we propose the establishment of the Régime du Sabre, or Government by the Sword. This approach involves implementing a strict military rule to ensure stability and maintain French authority in the colony. Under this regime, our military leaders will take charge of both administration and security, allowing us to swiftly and effectively pacify the region and suppress any resistance. While some may view this method as harsh, it is necessary to bring order to Algeria and lay the groundwork for progress. Through the Régime du Sabre, we will modernize infrastructure, enhance public services, and integrate Algeria more closely with our nation. We aim to demonstrate our commitment to the civilizing mission, fostering development and prosperity in the territory. By adopting the Régime du Sabre, we ensure a disciplined, authoritative governance that will secure Algeria's future as a stable and integral part of the French Empire. This strong, decisive leadership is essential for addressing the challenges we face and achieving lasting peace and progress in the region." #NT!
- FRA_focus_new_colonial_ministries: "Changes in the Ministry" #NT!
- FRA_focus_new_colonial_ministries_desc: "The establishment of the Ministry of Algeria and the Colonies marks a significant change in Algerian governance, since we occupied the region. Prince Napoleon has been appointed as Minister, replacing the military governors. This new ministry aims to centralize and streamline the administration of our colonial territories. By having a dedicated ministerial oversight, we strive for more cohesive and efficient governance in Algeria. Prince Napoleon's leadership ensures that our policies and efforts align with our imperial goals. The Ministry of Algeria and the Colonies will enable better coordination of development projects, enhancement of public services, and implementation of reforms that stimulate economic growth and social stability. This transition reflects our commitment to a modern and progressive approach in managing our colonies. With Prince Napoleon's leadership, we anticipate strengthened ties between Algeria and France, paving the way for a more prosperous and stable future for the region. This strategic move underscores our dedication to effective and enlightened governance, ensuring that Algeria remains a vital and flourishing part of the French Empire." #NT!
- FRA_focus_Development_of_Algeria: "Development of Algeria" #NT!
- FRA_focus_Development_of_Algeria_desc: "The industrialization and economic improvement of Algeria are crucial goals for our administration. By investing in modern factories and industrial facilities, we aim to transform Algeria into a thriving economic hub. Expanding key industries will boost local production and create jobs, fostering economic diversification. To support this growth, we are introducing education and vocational training programs to equip the local workforce with essential skills. These efforts reflect our commitment to fostering economic growth and stability in Algeria. By modernizing the economy, we enhance the living standards of the local population and strengthen Algeria’s role within the French Empire. This comprehensive approach to industrialization and economic development will ensure that Algeria becomes a prosperous and important part of our colonial holdings, contributing significantly to the overall success and stability of the empire." #NT!
- FRA_focus_The_Agricultural_Projects: "The Agricultural Projects" #NT!
- FRA_focus_The_Agricultural_Projects_desc: "The advancement of agricultural projects in Algeria is a primary objective for our administration. By introducing modern farming techniques and investing in agricultural infrastructure, we aim to revolutionize Algeria’s agricultural sector. Expanding the cultivation of cash crops such as cotton, wheat, and olives will increase local production and export potential, driving economic growth. We are implementing irrigation systems and providing farmers with access to high-quality seeds and equipment to improve yields. Additionally, agricultural education programs are being established to train farmers in innovative practices and crop management. These initiatives demonstrate our commitment to enhancing agricultural productivity and stability in Algeria. By modernizing agriculture, we improve the livelihoods of rural communities and solidify Algeria’s economic contribution to the French Empire. This strategic approach to agricultural development will ensure that Algeria becomes a productive and valuable part of our colonial holdings, significantly boosting the overall prosperity and stability of the empire." #NT!
- FRA_focus_administration_of_the_colony: "Administration of the Colony" #NT!
- FRA_focus_administration_of_the_colony_desc: "We deliberate on the future of Algerian administration. One proposed plan advocates centralization, aiming to unify governance and improve coordination across the colony. Another favors decentralization, granting autonomy to address local needs and promote community participation in decision-making. These discussions are pivotal, defining our approach to governance and shaping our interactions with Algerian populations. Centralization promises uniformity and stronger control over policy implementation, ensuring efficient administration and strategic alignment with imperial objectives. Conversely, decentralization offers flexibility and responsiveness to diverse local conditions, fostering local governance and enhancing community engagement. The outcome of these deliberations will significantly impact our colonial policies, influencing our ability to maintain stability and advance our interests in North Africa. This critical juncture reflects our commitment to evolving and adapting our administrative strategies to effectively govern Algeria while navigating complex socio-political landscapes." #NT!
- FRA_focus_assimilation_colonial_model_algeria: "Model of Assimilation" #NT!
- FRA_focus_assimilation_colonial_model_algeria_desc: "We face crucial decisions regarding the administration of Algeria. Some advocate for assimilating Algeria and its people into French institutions, viewing it as an important part of our nation, as declared by us during our brief rule. Others argue for maintaining Algeria's autonomy, favoring a more independent colonial status that respects local governance and traditions. Another viewpoint proposes a structure akin to a French viceroyalty, balancing local autonomy with centralized oversight. These discussions highlight diverse visions for Algeria's future within our empire. The outcome will shape our colonial policies, influencing governance strategies and relationships with Algerian communities. Our commitment is to navigate these considerations while advancing imperial interests and ensuring stability in North Africa." #NT!
- FRA_ALG_The_Future_of_Algeria: "The Future of Algeria" #NT!
- FRA_ALG_The_Future_of_Algeria_desc: "We face a crucial decision regarding the governance of Algeria. One option proposes establishing a viceroyalty-style administration, granting the colony significant autonomy. This approach aims to balance local governance with centralized oversight, allowing Algeria to manage its affairs aligned with our policies. Alternatively, another proposal advocates creating a dedicated ministry to govern Algeria. This would streamline administration, centralize authority, and ensure uniformity in policy implementation across the colony. By establishing clear lines of command and coordination, this option seeks to enhance efficiency in managing Algerian affairs within the French Empire. These deliberations underscore our commitment to adapting our colonial governance to serve imperial interests while ensuring stability and increasing development in Algeria. The chosen path will shape our approach to governance and define our relationship with Algerian territories and populations" #NT!
+ FRA_focus_the_kabylia_campaign: "The Kabylia Campaign"
+ FRA_focus_the_kabylia_campaign_desc: "We have to continue military campaigns in Algeria to suppress resistance, while administrative reforms establish our governance there. Infrastructure projects, like railways and roads, improve communication and trade. European settlers will arrive, transforming demographics and agriculture. The French legal systems will replace local ones, ensuring uniformity. As Algeria has been a colony of us for several centuries now, this could mark a pivotal shift towards integrating Algeria into our colonial empire, demonstrating our commitment to civilizing mission and strategic dominance in North Africa."
+ FRA_focus_the_regime_du_sabre: "Régime du Sabre"
+ FRA_focus_the_regime_du_sabre_desc: "As we look to the future of our governance in Algeria, we propose the establishment of the Régime du Sabre, or Government by the Sword. This approach involves implementing a strict military rule to ensure stability and maintain French authority in the colony. Under this regime, our military leaders will take charge of both administration and security, allowing us to swiftly and effectively pacify the region and suppress any resistance. While some may view this method as harsh, it is necessary to bring order to Algeria and lay the groundwork for progress. Through the Régime du Sabre, we will modernize infrastructure, enhance public services, and integrate Algeria more closely with our nation. We aim to demonstrate our commitment to the civilizing mission, fostering development and prosperity in the territory. By adopting the Régime du Sabre, we ensure a disciplined, authoritative governance that will secure Algeria's future as a stable and integral part of the French Empire. This strong, decisive leadership is essential for addressing the challenges we face and achieving lasting peace and progress in the region."
+ FRA_focus_new_colonial_ministries: "Changes in the Ministry"
+ FRA_focus_new_colonial_ministries_desc: "The establishment of the Ministry of Algeria and the Colonies marks a significant change in Algerian governance, since we occupied the region. Prince Napoleon has been appointed as Minister, replacing the military governors. This new ministry aims to centralize and streamline the administration of our colonial territories. By having a dedicated ministerial oversight, we strive for more cohesive and efficient governance in Algeria. Prince Napoleon's leadership ensures that our policies and efforts align with our imperial goals. The Ministry of Algeria and the Colonies will enable better coordination of development projects, enhancement of public services, and implementation of reforms that stimulate economic growth and social stability. This transition reflects our commitment to a modern and progressive approach in managing our colonies. With Prince Napoleon's leadership, we anticipate strengthened ties between Algeria and France, paving the way for a more prosperous and stable future for the region. This strategic move underscores our dedication to effective and enlightened governance, ensuring that Algeria remains a vital and flourishing part of the French Empire."
+ FRA_focus_Development_of_Algeria: "Development of Algeria"
+ FRA_focus_Development_of_Algeria_desc: "The industrialization and economic improvement of Algeria are crucial goals for our administration. By investing in modern factories and industrial facilities, we aim to transform Algeria into a thriving economic hub. Expanding key industries will boost local production and create jobs, fostering economic diversification. To support this growth, we are introducing education and vocational training programs to equip the local workforce with essential skills. These efforts reflect our commitment to fostering economic growth and stability in Algeria. By modernizing the economy, we enhance the living standards of the local population and strengthen Algeria’s role within the French Empire. This comprehensive approach to industrialization and economic development will ensure that Algeria becomes a prosperous and important part of our colonial holdings, contributing significantly to the overall success and stability of the empire."
+ FRA_focus_The_Agricultural_Projects: "The Agricultural Projects"
+ FRA_focus_The_Agricultural_Projects_desc: "The advancement of agricultural projects in Algeria is a primary objective for our administration. By introducing modern farming techniques and investing in agricultural infrastructure, we aim to revolutionize Algeria’s agricultural sector. Expanding the cultivation of cash crops such as cotton, wheat, and olives will increase local production and export potential, driving economic growth. We are implementing irrigation systems and providing farmers with access to high-quality seeds and equipment to improve yields. Additionally, agricultural education programs are being established to train farmers in innovative practices and crop management. These initiatives demonstrate our commitment to enhancing agricultural productivity and stability in Algeria. By modernizing agriculture, we improve the livelihoods of rural communities and solidify Algeria’s economic contribution to the French Empire. This strategic approach to agricultural development will ensure that Algeria becomes a productive and valuable part of our colonial holdings, significantly boosting the overall prosperity and stability of the empire."
+ FRA_focus_administration_of_the_colony: "Administration of the Colony"
+ FRA_focus_administration_of_the_colony_desc: "We deliberate on the future of Algerian administration. One proposed plan advocates centralization, aiming to unify governance and improve coordination across the colony. Another favors decentralization, granting autonomy to address local needs and promote community participation in decision-making. These discussions are pivotal, defining our approach to governance and shaping our interactions with Algerian populations. Centralization promises uniformity and stronger control over policy implementation, ensuring efficient administration and strategic alignment with imperial objectives. Conversely, decentralization offers flexibility and responsiveness to diverse local conditions, fostering local governance and enhancing community engagement. The outcome of these deliberations will significantly impact our colonial policies, influencing our ability to maintain stability and advance our interests in North Africa. This critical juncture reflects our commitment to evolving and adapting our administrative strategies to effectively govern Algeria while navigating complex socio-political landscapes."
+ FRA_focus_assimilation_colonial_model_algeria: "Model of Assimilation"
+ FRA_focus_assimilation_colonial_model_algeria_desc: "We face crucial decisions regarding the administration of Algeria. Some advocate for assimilating Algeria and its people into French institutions, viewing it as an important part of our nation, as declared by us during our brief rule. Others argue for maintaining Algeria's autonomy, favoring a more independent colonial status that respects local governance and traditions. Another viewpoint proposes a structure akin to a French viceroyalty, balancing local autonomy with centralized oversight. These discussions highlight diverse visions for Algeria's future within our empire. The outcome will shape our colonial policies, influencing governance strategies and relationships with Algerian communities. Our commitment is to navigate these considerations while advancing imperial interests and ensuring stability in North Africa."
+ FRA_ALG_The_Future_of_Algeria: "The Future of Algeria"
+ FRA_ALG_The_Future_of_Algeria_desc: "We face a crucial decision regarding the governance of Algeria. One option proposes establishing a viceroyalty-style administration, granting the colony significant autonomy. This approach aims to balance local governance with centralized oversight, allowing Algeria to manage its affairs aligned with our policies. Alternatively, another proposal advocates creating a dedicated ministry to govern Algeria. This would streamline administration, centralize authority, and ensure uniformity in policy implementation across the colony. By establishing clear lines of command and coordination, this option seeks to enhance efficiency in managing Algerian affairs within the French Empire. These deliberations underscore our commitment to adapting our colonial governance to serve imperial interests while ensuring stability and increasing development in Algeria. The chosen path will shape our approach to governance and define our relationship with Algerian territories and populations"
   
   
  FRA_intervention_lebanon: "Intervention in Lebanon"
  FRA_intervention_lebanon_desc: ""
- FRA_interests_in_syria: "Interests in Syria" #NT!
- FRA_interests_in_syria_desc: "" #NT!
+ FRA_interests_in_syria: "Interests in Syria"
+ FRA_interests_in_syria_desc: ""
   
   # Africa - Senegal 
- FRA_focus_french_senegal_developments: "Faidherbe's Developments of French Senegal" #NT!
- FRA_focus_french_senegal_developments_desc: "In order to secure our governance over Senegal, Faidherbe worked out a development plan. By establishing infrastructure and promoting agriculture, the plan aims to exploit Senegal's resources, particularly peanuts, for economic gain. The development also facilitates military and administrative control, ensuring stability and security in the region. Additionally, we can spread our culture and influence more easily, reinforcing our global standing and securing our status as a colonial power." #NT!
- FRA_focus_forts_along_senegal_river: "Build Forts along the Senegal River" #NT!
- FRA_focus_forts_along_senegal_river_desc: "We plan to construct a series of forts along the Senegal River to solidify our control and protect our colonial interests. These forts could serve as military outposts to defend against local resistance and rival other colonial powers. Key locations, such as Saint-Louis and Podor, will become strategic points for trade and military operations. The fortifications will facilitate our expansion into the interior regions, ensuring safe passage for our traders and missionaries. This network of forts will be integral to our strategy of establishing a secure and profitable colony in West Africa." #NT!
- FRA_focus_annul_prior_treaties_senegal: "Annul Prior Treaties" #NT!
- FRA_focus_annul_prior_treaties_senegal_desc: "" #NT!
- FRA_focus_push_into_baol_kingdom: "Push into the Kingdom of Baol" #NT!
- FRA_focus_push_into_baol_kingdom_desc: "" #NT!
- FRA_focus_expand_colonial_infantry: "Expand our Colonial Infantry" #NT!
- FRA_focus_expand_colonial_infantry_desc: "Driven by the ambitions of our empire and economic interests, we decided to expand our colonial infantry in Senegal. French troops, integral to colonial governance, establish control across Africa. Their presence secures trade routes, quells local resistance, and spreads French culture and influence. The formation of the "tirailleurs" regiments, composed of native soldiers led by French officers, exemplifies this strategy.The integration of diverse colonial subjects into the military fosters a sense of loyalty to our nation while solidifying our dominance." #NT!
- FRA_focus_reform_foreign_legion: "Reform our Foreign Legion" #NT!
- FRA_focus_reform_foreign_legion_desc: "The French Foreign Legion has to undergo significant reform, enhancing its effectiveness and prestige, to become a modern force again.We recognize the need for a disciplined, elite force to secure our growing empire. Louis Falherbe supports getting our colonial troops proper pay and housing too. But the reforms also focus on training, structure, and recruitment, attracting adventurers and ex-soldiers from across Europe. The Legion will adopt stricter regulations and modernize its tactics, making it a formidable force in colonial campaigns again. These changes bolster its reputation as a symbol of bravery and resilience. The reformed Legion will become pivotal in protecting our interests abroad, exemplifying our nation's military prowess and commitment to our imperial ambitions." #NT!
- FRA_focus_colonial_regiments: "Oversea Colonial Regiments" #NT!
- FRA_focus_colonial_regiments_desc: "Our colonial regiments play a crucial role in expanding and maintaining the empire. These troops, stationed across Africa and Asia, exemplify French military strength and adaptability. The regiments, including the famed "tirailleurs" and "zouaves," consist of both French soldiers and locally recruited forces, showcasing a blend of cultures and skills. They secure territories, protect trade routes, and enforce colonial rule, reinforcing our global influence. Their presence symbolizes French power and commitment to civilization missions, contributing to economic growth and strategic dominance in the ever-evolving imperial landscape." #NT!
- FRA_focus_an_ally_against_the_sine: "An Ally Against the Sine?" #NT!
- FRA_focus_an_ally_against_the_sine_desc: "" #NT!
+ FRA_focus_french_senegal_developments: "Faidherbe's Developments of French Senegal"
+ FRA_focus_french_senegal_developments_desc: "In order to secure our governance over Senegal, Faidherbe worked out a development plan. By establishing infrastructure and promoting agriculture, the plan aims to exploit Senegal's resources, particularly peanuts, for economic gain. The development also facilitates military and administrative control, ensuring stability and security in the region. Additionally, we can spread our culture and influence more easily, reinforcing our global standing and securing our status as a colonial power."
+ FRA_focus_forts_along_senegal_river: "Build Forts along the Senegal River"
+ FRA_focus_forts_along_senegal_river_desc: "We plan to construct a series of forts along the Senegal River to solidify our control and protect our colonial interests. These forts could serve as military outposts to defend against local resistance and rival other colonial powers. Key locations, such as Saint-Louis and Podor, will become strategic points for trade and military operations. The fortifications will facilitate our expansion into the interior regions, ensuring safe passage for our traders and missionaries. This network of forts will be integral to our strategy of establishing a secure and profitable colony in West Africa."
+ FRA_focus_annul_prior_treaties_senegal: "Annul Prior Treaties"
+ FRA_focus_annul_prior_treaties_senegal_desc: ""
+ FRA_focus_push_into_baol_kingdom: "Push into the Kingdom of Baol"
+ FRA_focus_push_into_baol_kingdom_desc: ""
+ FRA_focus_expand_colonial_infantry: "Expand our Colonial Infantry"
+ FRA_focus_expand_colonial_infantry_desc: "Driven by the ambitions of our empire and economic interests, we decided to expand our colonial infantry in Senegal. French troops, integral to colonial governance, establish control across Africa. Their presence secures trade routes, quells local resistance, and spreads French culture and influence. The formation of the "tirailleurs" regiments, composed of native soldiers led by French officers, exemplifies this strategy.The integration of diverse colonial subjects into the military fosters a sense of loyalty to our nation while solidifying our dominance."
+ FRA_focus_reform_foreign_legion: "Reform our Foreign Legion"
+ FRA_focus_reform_foreign_legion_desc: "The French Foreign Legion has to undergo significant reform, enhancing its effectiveness and prestige, to become a modern force again.We recognize the need for a disciplined, elite force to secure our growing empire. Louis Falherbe supports getting our colonial troops proper pay and housing too. But the reforms also focus on training, structure, and recruitment, attracting adventurers and ex-soldiers from across Europe. The Legion will adopt stricter regulations and modernize its tactics, making it a formidable force in colonial campaigns again. These changes bolster its reputation as a symbol of bravery and resilience. The reformed Legion will become pivotal in protecting our interests abroad, exemplifying our nation's military prowess and commitment to our imperial ambitions."
+ FRA_focus_colonial_regiments: "Oversea Colonial Regiments"
+ FRA_focus_colonial_regiments_desc: "Our colonial regiments play a crucial role in expanding and maintaining the empire. These troops, stationed across Africa and Asia, exemplify French military strength and adaptability. The regiments, including the famed "tirailleurs" and "zouaves," consist of both French soldiers and locally recruited forces, showcasing a blend of cultures and skills. They secure territories, protect trade routes, and enforce colonial rule, reinforcing our global influence. Their presence symbolizes French power and commitment to civilization missions, contributing to economic growth and strategic dominance in the ever-evolving imperial landscape."
+ FRA_focus_an_ally_against_the_sine: "An Ally Against the Sine?"
+ FRA_focus_an_ally_against_the_sine_desc: ""
   
  ### - Gabon, Madagascar, Others 
  FRA_french_colonial_company_of_gabon: "Found the French Gabonese Establishment"
  FRA_french_colonial_company_of_gabon_desc: ""
- FRA_colonial_madagascar_consulate: "Madagascar Consulate" #NT!
- FRA_colonial_madagascar_consulate_desc: "" #NT!
- FRA_colonial_gabon_territorial_expansion: "Expand Gabon's Territory" #NT!
- FRA_colonial_gabon_territorial_expansion_desc: "" #NT!
- FRA_colonial_supress_the_natives: "Supress the Natives" #NT!
- FRA_colonial_supress_the_natives_desc: "" #NT!
- FRA_colonial_form_the_legion_in_gabon: "Légion de Gendarmerie Africaine in Gabon" #NT!
- FRA_colonial_form_the_legion_in_gabon_desc: "" #NT!
- FRA_colonial_found_the_franceville_settlement: "Found the Franceville Settlement" #NT!
- FRA_colonial_found_the_franceville_settlement_desc: "" #NT!
- FRA_colonial_gabon_road_system: "Build the Gabon Road System" #NT!
- FRA_colonial_gabon_road_system_desc: "" #NT!
- FRA_colonial_connect_the_road_system_with_port_gentil: "Connect the road system with Port-Gentil" #NT!
- FRA_colonial_connect_the_road_system_with_port_gentil_desc: "" #NT!
- FRA_colonial_use_the_natives_as_workers: "Use the Natives as Workforce" #NT!
- FRA_colonial_use_the_natives_as_workers_desc: "" #NT!
- FRA_colonial_gabon_wood_companies: "Gabonese Wood Companies" #NT!
- FRA_colonial_gabon_wood_companies_desc: "" #NT!
- FRA_colonial_extract_ivory: "Extract Ivory" #NT!
- FRA_colonial_extract_ivory_desc: "" #NT!
- FRA_colonial_extract_gabonese_rubber: "Extract Gabonese Rubber" #NT!
- FRA_colonial_extract_gabonese_rubber_desc: "" #NT!
- FRA_colonial_gambia_trade: "The Gambia Trade" #NT!
- FRA_colonial_gambia_trade_desc: "In the event the proposal fails, we can try again in a few years time." #NT!
+ FRA_colonial_madagascar_consulate: "Madagascar Consulate"
+ FRA_colonial_madagascar_consulate_desc: ""
+ FRA_colonial_gabon_territorial_expansion: "Expand Gabon's Territory"
+ FRA_colonial_gabon_territorial_expansion_desc: ""
+ FRA_colonial_supress_the_natives: "Supress the Natives"
+ FRA_colonial_supress_the_natives_desc: ""
+ FRA_colonial_form_the_legion_in_gabon: "Légion de Gendarmerie Africaine in Gabon"
+ FRA_colonial_form_the_legion_in_gabon_desc: ""
+ FRA_colonial_found_the_franceville_settlement: "Found the Franceville Settlement"
+ FRA_colonial_found_the_franceville_settlement_desc: ""
+ FRA_colonial_gabon_road_system: "Build the Gabon Road System"
+ FRA_colonial_gabon_road_system_desc: ""
+ FRA_colonial_connect_the_road_system_with_port_gentil: "Connect the road system with Port-Gentil"
+ FRA_colonial_connect_the_road_system_with_port_gentil_desc: ""
+ FRA_colonial_use_the_natives_as_workers: "Use the Natives as Workforce"
+ FRA_colonial_use_the_natives_as_workers_desc: ""
+ FRA_colonial_gabon_wood_companies: "Gabonese Wood Companies"
+ FRA_colonial_gabon_wood_companies_desc: ""
+ FRA_colonial_extract_ivory: "Extract Ivory"
+ FRA_colonial_extract_ivory_desc: ""
+ FRA_colonial_extract_gabonese_rubber: "Extract Gabonese Rubber"
+ FRA_colonial_extract_gabonese_rubber_desc: ""
+ FRA_colonial_gambia_trade: "The Gambia Trade"
+ FRA_colonial_gambia_trade_desc: "In the event the proposal fails, we can try again in a few years time."
   
   # Asia 
  FRA_french_indochina: "Colonize Indochina"
@@ -549,13 +549,13 @@
  FRA_mission_saint_dizier_belfort_rail: "Saint-Dizier-Belfort Railway"
  FRA_mission_carmaux_albi_rail_tt_1: "£railroad_connection_texticon Has Railway connection of level 2 between §Carmaux§! and §Albi§!\n"
  FRA_mission_carmaux_albi_rail: "Carmaux-Albi Railway"
- FRA_mission_caen_cherbourg_rail_trigger_tt: "£railroad_connection_texticon Has Railway connection of level 2 between §YCaen§! and §YCherbourg§!\n" #NT!
+ FRA_mission_caen_cherbourg_rail_trigger_tt: "£railroad_connection_texticon Has Railway connection of level 2 between §YCaen§! and §YCherbourg§!\n"
  FRA_mission_caen_cherbourg_rail: "Caen-Cherbourg Railway"
- FRA_mission_caen_argentan_rail_trigger_tt: "£railroad_connection_texticon Has Railway connection of level 2 between §YCaen§! and §YArgentan§!\n" #NT!
+ FRA_mission_caen_argentan_rail_trigger_tt: "£railroad_connection_texticon Has Railway connection of level 2 between §YCaen§! and §YArgentan§!\n"
  FRA_mission_caen_argentan_rail: "Caen-Argentan Railway"
- FRA_strengthen_the_ports_of_bordeaux_in_progress: "§GBordeaux Expansion in Progress.§!" #NT!
- FRA_strengthen_the_ports_of_marsailles_in_progress: "§GMarseille Expansion in Progress.§!" #NT!
- FRA_pereire_brothers_tt: "If §CAdvisor Is Selected§! Banking §YDecision Will Get Unlocked§! To §PImprove Advisor Traits§!" #NT!
+ FRA_strengthen_the_ports_of_bordeaux_in_progress: "§GBordeaux Expansion in Progress.§!"
+ FRA_strengthen_the_ports_of_marsailles_in_progress: "§GMarseille Expansion in Progress.§!"
+ FRA_pereire_brothers_tt: "If §CAdvisor Is Selected§! Banking §YDecision Will Get Unlocked§! To §PImprove Advisor Traits§!"
   
  ################################################## 
  #                     DECISIONS 
@@ -613,77 +613,77 @@
  FRA_garde_mobile_normandie: "Regiments from Normandie"
  FRA_garde_mobile_midi: "Regiments from Midi"
   
- FRA_decision_strengthen_the_ports_of_bordeaux: "Invest into Bordeaux Port Infrastructure" #NT!
- FRA_decision_invest_into_bordeaux_dockyard: "Invest into Bordeaux Dockyard Infrastructure" #NT!
+ FRA_decision_strengthen_the_ports_of_bordeaux: "Invest into Bordeaux Port Infrastructure"
+ FRA_decision_invest_into_bordeaux_dockyard: "Invest into Bordeaux Dockyard Infrastructure"
  FRA_mission_new_mines: "Open new mines"
- FRA_decision_support_french_steel_industry: "Support French Steel Industry" #NT!
- FRA_decision_credit_lyonnais: "Crédit lyonnais" #NT!
+ FRA_decision_support_french_steel_industry: "Support French Steel Industry"
+ FRA_decision_credit_lyonnais: "Crédit lyonnais"
  FRA_decision_category_industrialization: "French Industry"
- FRA_decision_category_industrialization_desc: "Napoleon III, benevolent Emperor of the French, continues to do his best to advance the work of the tricolor. With his advisors and many workers, His Majesty works tirelessly to deliver to the nation successes. While some are military and others political, these ones are economical. Our people need work, pay and living quarters. And all of this will be granted unto them by the expansion of French industry. With these most grand decrees, you Monsieur or Madame, shall help our noble Emperor push the Empire further into greatness and prosperity. From our foundries will be made the best artillery, and from our factories, the best pots, wires, beds, whatever! So onwards, to glory and prosperity!" #NT!
- FRA_decision_invest_lyon_silk: "Invest into Lyon Silk" #NT!
- FRA_decision_strengthen_the_ports_of_marseille: "Invest into Marseille Port Infrastructure" #NT!
- FRA_decision_invest_into_marseille_dockyard: "Invest into Marseille Dockyard Infrastructure" #NT!
- FRA_decision_narbonne_perpignan_rail: "Build the Narbonne-Perpigan Railway line" #NT!
- FRA_decision_tolouse_cette_rail: "Build the Toulouse Cette-Railway line" #NT!
- FRA_decision_saint_dizier_belfort_rail: "Build the St Dizier-Belfort Railway line" #NT!
- FRA_decision_carmaux_albi_rail: "Build the Carmoux-Albi Railway line" #NT!
- FRA_decision_caen_cherbourg_rail: "Build the Caen-Cherbourg Railway line" #NT!
- FRA_decision_caen_argentan_rail: "Build the Caen-Argentan Railway line" #NT!
- FRA_decision_acquire_locomotives: "Acquire Locomotives" #NT!
- FRA_decision_limited_land_redistribution: "Limited Land Redistribution" #NT!
- FRA_decision_break_the_hold_of_artisans: "Berak the hold of the Artisans" #NT!
- FRA_decision_redistribution_of_orleans_properties: "Redistribute the Orleans properties" #NT!
- FRA_decision_french_farmlands: "Develop French Farmlands" #NT!
- FRA_mission_rebuilding_vendee: "Rebuilding Vendee" #NT!
- FRA_mission_continued_industrial_advancement: "Continued Industrial Advancments" #NT!
- FRA_mission_a_new_manufactural_line: "New Manufacturing line" #NT!
- FRA_decision_reaffirming_imperial_ports_and_docks: "Reaffirm Imperial Ports and Docks" #NT!
- FRA_mission_foulds_begrudging_subsidies: "Foulds Begrudging Subsidies" #NT!
- FRA_decisions_vichy_baths: "Construction of Vichy Baths" #NT!
- FRA_decision_expand_tourism: "Expand Tourism" #NT!
- FRA_decision_enlarged_festivities_of_empire: "Enlarge the Empires Festivities" #NT!
- FRA_decision_expand_the_louvre: "Further Expansions of the Louvre" #NT!
- FRA_mission_economic_growth: "French Economic Growth" #NT!
- FRA_decision_help_pereire_brothers: "Help the Pereire Brothers" #NT!
- FRA_decision_support_banking: "Support Banking" #NT!
- FRA_mission_algeria_agriculture: "Algerian Agriculture" #NT!
- FRA_mission_develop_algeria: "Develop Algeria" #NT!
+ FRA_decision_category_industrialization_desc: "Napoleon III, benevolent Emperor of the French, continues to do his best to advance the work of the tricolor. With his advisors and many workers, His Majesty works tirelessly to deliver to the nation successes. While some are military and others political, these ones are economical. Our people need work, pay and living quarters. And all of this will be granted unto them by the expansion of French industry. With these most grand decrees, you Monsieur or Madame, shall help our noble Emperor push the Empire further into greatness and prosperity. From our foundries will be made the best artillery, and from our factories, the best pots, wires, beds, whatever! So onwards, to glory and prosperity!"
+ FRA_decision_invest_lyon_silk: "Invest into Lyon Silk"
+ FRA_decision_strengthen_the_ports_of_marseille: "Invest into Marseille Port Infrastructure"
+ FRA_decision_invest_into_marseille_dockyard: "Invest into Marseille Dockyard Infrastructure"
+ FRA_decision_narbonne_perpignan_rail: "Build the Narbonne-Perpigan Railway line"
+ FRA_decision_tolouse_cette_rail: "Build the Toulouse Cette-Railway line"
+ FRA_decision_saint_dizier_belfort_rail: "Build the St Dizier-Belfort Railway line"
+ FRA_decision_carmaux_albi_rail: "Build the Carmoux-Albi Railway line"
+ FRA_decision_caen_cherbourg_rail: "Build the Caen-Cherbourg Railway line"
+ FRA_decision_caen_argentan_rail: "Build the Caen-Argentan Railway line"
+ FRA_decision_acquire_locomotives: "Acquire Locomotives"
+ FRA_decision_limited_land_redistribution: "Limited Land Redistribution"
+ FRA_decision_break_the_hold_of_artisans: "Berak the hold of the Artisans"
+ FRA_decision_redistribution_of_orleans_properties: "Redistribute the Orleans properties"
+ FRA_decision_french_farmlands: "Develop French Farmlands"
+ FRA_mission_rebuilding_vendee: "Rebuilding Vendee"
+ FRA_mission_continued_industrial_advancement: "Continued Industrial Advancments"
+ FRA_mission_a_new_manufactural_line: "New Manufacturing line"
+ FRA_decision_reaffirming_imperial_ports_and_docks: "Reaffirm Imperial Ports and Docks"
+ FRA_mission_foulds_begrudging_subsidies: "Foulds Begrudging Subsidies"
+ FRA_decisions_vichy_baths: "Construction of Vichy Baths"
+ FRA_decision_expand_tourism: "Expand Tourism"
+ FRA_decision_enlarged_festivities_of_empire: "Enlarge the Empires Festivities"
+ FRA_decision_expand_the_louvre: "Further Expansions of the Louvre"
+ FRA_mission_economic_growth: "French Economic Growth"
+ FRA_decision_help_pereire_brothers: "Help the Pereire Brothers"
+ FRA_decision_support_banking: "Support Banking"
+ FRA_mission_algeria_agriculture: "Algerian Agriculture"
+ FRA_mission_develop_algeria: "Develop Algeria"
   
  ################################################## 
  #            BALANCE Of POWER (BOP) 
  ################################################## 
   
- FRA_Balance_of_Power_Napoleon: "Napoleon's Political Outlook" #NT!
- FRA_BOP_Napoleon_the_Emporer: "Napoleon the Emporer" #NT!
- FRA_BOP_Proggresive_Emporer: "A Liberal Emporer" #NT!
- FRA_BOP_Authoritarian_Emporer: "The Authoritarian Emporer" #NT!
- FRA_BOP_Proggresive_Emporer_Proggressive: "The Proggresive Emporer" #NT!
- FRA_BOP_Proggresive_Emporer_Revolutionary: "Revolutionary Napoleon" #NT!
- FRA_BOP_Authoritarian_Emporer_graceful: "The Graceful Emporer" #NT!
- FRA_BOP_Authoritarian_Emporer_ST_Napoleon: "Saint Napoleon of France" #NT!
+ FRA_Balance_of_Power_Napoleon: "Napoleon's Political Outlook"
+ FRA_BOP_Napoleon_the_Emporer: "Napoleon the Emporer"
+ FRA_BOP_Proggresive_Emporer: "A Liberal Emporer"
+ FRA_BOP_Authoritarian_Emporer: "The Authoritarian Emporer"
+ FRA_BOP_Proggresive_Emporer_Proggressive: "The Proggresive Emporer"
+ FRA_BOP_Proggresive_Emporer_Revolutionary: "Revolutionary Napoleon"
+ FRA_BOP_Authoritarian_Emporer_graceful: "The Graceful Emporer"
+ FRA_BOP_Authoritarian_Emporer_ST_Napoleon: "Saint Napoleon of France"
   
- FRA_BOP_category_decisions: "Balance of Power Decisons" #NT!
- FRA_BOP_appease_the_left: "Appease the Workers" #NT!
- FRA_BOP_appease_the_right: "Appease the Conservatives" #NT!
- FRA_BOP_progressive_laws: "Introduce Proggresive Laws" #NT!
- FRA_BOP_conservative_laws: "Introduce Conservative Laws" #NT!
+ FRA_BOP_category_decisions: "Balance of Power Decisons"
+ FRA_BOP_appease_the_left: "Appease the Workers"
+ FRA_BOP_appease_the_right: "Appease the Conservatives"
+ FRA_BOP_progressive_laws: "Introduce Proggresive Laws"
+ FRA_BOP_conservative_laws: "Introduce Conservative Laws"
   
- FRA_idea_BOP_oppsition: "Opposition to Napoleon's Policies" #NT!
- FRA_idea_BOP_oppsition_desc: "Napoleon III is the unifying figuire for the French people, this time however he couldn't keep both sides at bay which will lead to further consequences in the future if nothing is done" #NT!
+ FRA_idea_BOP_oppsition: "Opposition to Napoleon's Policies"
+ FRA_idea_BOP_oppsition_desc: "Napoleon III is the unifying figuire for the French people, this time however he couldn't keep both sides at bay which will lead to further consequences in the future if nothing is done"
   
   #Left is angry 
- nap_france.402.t: "Political Oppositions Forms" #NT!
- nap_france.402.d: "WIP" #NT!
- nap_france.402.a: "We will make some concessions" #NT!
- nap_france.402.b: "We'll just wait it out" #NT!
- nap_france.402.c: "They ain't gona stop us, let us go even further" #NT!
+ nap_france.402.t: "Political Oppositions Forms"
+ nap_france.402.d: "WIP"
+ nap_france.402.a: "We will make some concessions"
+ nap_france.402.b: "We'll just wait it out"
+ nap_france.402.c: "They ain't gona stop us, let us go even further"
   
   #Right is angry 
- nap_france.403.t: "Political Oppositions Forms" #NT!
- nap_france.403.d: "WIP" #NT!
- nap_france.403.a: "We will make some concessions" #NT!
- nap_france.403.b: "We'll just wait it out" #NT!
- nap_france.403.c: "They ain't gona stop us, let us go even further" #NT!
+ nap_france.403.t: "Political Oppositions Forms"
+ nap_france.403.d: "WIP"
+ nap_france.403.a: "We will make some concessions"
+ nap_france.403.b: "We'll just wait it out"
+ nap_france.403.c: "They ain't gona stop us, let us go even further"
   
   
  ################################################## 
@@ -691,7 +691,7 @@
  ################################################## 
   
   # National spirits 
- FRA_idea_law_general_security: "The Law of General Security" #NT!
+ FRA_idea_law_general_security: "The Law of General Security"
  FRA_idea_republican_spirit: "Republican Spirit"
  FRA_idea_republican_spirit_desc: "In 1852, Louis Napoléon Bonaparte, at the time President of the Second Republic, couped the republican government set in place after the July Monarchy to build his own empire, harkening back to his uncle, Napoléon Bonaparte. Republicanism isn't dead though, as politicians and people alike still fight for its return."
  FRA_idea_republican_spirit_2: "Republican Spirit"
@@ -731,13 +731,13 @@
  FRA_idea_jerome_mercantile_reforms_3: "Jérôme-Napoléon's Mercantile Reforms"
  FRA_idea_assemblee_generale: "Assemblée Générale"
  FRA_special_assembly: "Special Assembly"
- FRA_idea_french_agriculture: "French Agriculture" #NT!
- FRA_idea_french_agriculture2: "French Agriculture" #NT!
- FRA_idea_french_agriculture3: "French Agriculture" #NT!
- FRA_idea_french_agriculture4: "French Agriculture" #NT!
- FRA_idea_french_agriculture_trade: "Agricultural Trade" #NT!
- FRA_idea_colonial_regiments: "Colonial Regiments" #NT!
- FRA_idea_french_colonial_infantry: "Colonial Infantry Expansion" #NT!
+ FRA_idea_french_agriculture: "French Agriculture"
+ FRA_idea_french_agriculture2: "French Agriculture"
+ FRA_idea_french_agriculture3: "French Agriculture"
+ FRA_idea_french_agriculture4: "French Agriculture"
+ FRA_idea_french_agriculture_trade: "Agricultural Trade"
+ FRA_idea_colonial_regiments: "Colonial Regiments"
+ FRA_idea_french_colonial_infantry: "Colonial Infantry Expansion"
   
  FRA_ALG_french_colonial_rule: "French Colonial Rule"
  FRA_ALG_assimilation_colonial_model: "The Assimilation Colonial Model"
@@ -995,7 +995,7 @@
  nap_france.6.t: "The Carbonari leadership is ready to act"
  nap_france.6.d: "After days of planning and logistics, the Carbonari leaders have now notified us that they are ready to launch the revolt. They managed to rally under them the southern people, the people that are the most discontented with the Resorgimento, and they have pledged loyalty to their new leader."
  nap_france.6.a: "They are waiting for our signal"
- nap_france.6.b: "We refuse the offer." #NT!
+ nap_france.6.b: "We refuse the offer."
   
  nap_france.7.t: "The Carbonari Revolt"
  nap_france.7.d: "In the southern tip of Italy, Carbonari revolutionaries have managed to seize territory, in what they call an anti-Sardinian counter-Resorgimento. Supported by the French, they officialy declared war on them, quickly followed by a reaction from the Kingdom of the Two-Sicilies, holder of the original land they claims."
@@ -1008,8 +1008,8 @@
  nap_france.9.t: "Prussia has accepted our invitation"
  nap_france.9.d: "The minister-president of Prussia, [PRS.GetLeader], has accepted out invitation to a meeting. The best place for it would be the home of the empress, in Biarritz, where the beauty of the land comes with the equal distance to both Berlin and Paris, being a perfect neutral ground to discuss important political matters."
  nap_france.9.a: "A Franco-Prussian friendship is on the way !"
- nap_france.9.b: "Support the Union" #NT!
- nap_france.9.c: "Support the Confederates" #NT!
+ nap_france.9.b: "Support the Union"
+ nap_france.9.c: "Support the Confederates"
   
  nap_france.20.t: "Monaco votes to join France"
  nap_france.20.d: "In 1848, Menton and Roquebrune proclaim their independence from Monaco and become free cities protected by Kingdom of Sardinia-Piedmont. In 1860, Menton and Roquebrune voted to be integrated into France. The 1861 Franco-Monégasque Treaty confirms this integration. France has given financial compensation; Monaco is sovereign but we must follow French interests."
@@ -1187,7 +1187,7 @@
  nap_france.4.t: "The Orsini Letter"
  nap_france.4.d: "A few days after the infamous Orsini affair that shook our country, the perpetrator Felice Orsini himself sent a letter to our Emperor, asking for his help in the reunification of Italy under one flag. People are suspicious of the authenticity of this letter though, as Napoleon III has wanted to intervene in Italy for a while now."
  nap_france.4.a: "There is nothing fishy about this letter !"
- nap_france.4.b: "The cries turn to hitched gasps as the emperor is alive!" #NT!
+ nap_france.4.b: "The cries turn to hitched gasps as the emperor is alive!"
   
  nap_france.399.t: "The Death of Napoleon III"
  nap_france.399.d: "After years battling both Prussians and illness, the emperor Napoléon III Bonaparte has finally passed away. His reign was tumultuous, and wasn't very popular, but he has inspired France greatly, and brought modernity and industrialism into a nation that was struggling to find stabiltiy.\n\nHis son, Napoléon Eugène, is the imperial heir for the throne. While he might never rule France, he still has taken the title of "Napoléon IV", a title recognized by many Bonapartites already."
@@ -1201,18 +1201,18 @@
  nap_france.401.d: "The XIXth century was for France the century of great projects and great achievements. From 1840, Marseille launched a major counstruction program never before seen in the history of the city. One the most important investments was Rue Imperiale. Almost 2.500 workers were involved in the building. On the 15th of August, 1864, Rue Imperiale was inaugurated in the presence of Napoleon III. After the fall of the Second Empire, it became Rue de la Republique."
  nap_france.401.a: "Better living conditions for our people!"
   
- nap_france.404.t: "Use the gabonese people as workforce" #NT!
- nap_france.404.d: "" #NT!
- nap_france.404.a: "Welcome to the mines" #NT!
- nap_france.404.b: "That'd be unetethical" #NT!
+ nap_france.404.t: "Use the gabonese people as workforce"
+ nap_france.404.d: ""
+ nap_france.404.a: "Welcome to the mines"
+ nap_france.404.b: "That'd be unetethical"
   
- nap_france.405.t: "We won against the Gabonese people" #NT!
- nap_france.405.d: "" #NT!
- nap_france.405.a: "Another victory assured for the French People" #NT!
+ nap_france.405.t: "We won against the Gabonese people"
+ nap_france.405.d: ""
+ nap_france.405.a: "Another victory assured for the French People"
   
- nap_france.406.t: "The Gabonese Tribes Successfuly defend against the French agression" #NT!
- nap_france.406.d: "" #NT!
- nap_france.406.a: "This will be a big shame for France" #NT!
+ nap_france.406.t: "The Gabonese Tribes Successfuly defend against the French agression"
+ nap_france.406.d: ""
+ nap_france.406.a: "This will be a big shame for France"
   
    #CARBONARA RISORGIMENTO 
   
@@ -1422,7 +1422,7 @@
  fra_cobden_chevalier_treaty: "The Cobden-Chevalier Treaty"
  fra_aproach_uk: "French Diplomatic Approach"
  fra_deals_prussia: "French Deals"
- fra_german_monarchs_convention: "Presence at the German Monarchs' Convention" #NT!
+ fra_german_monarchs_convention: "Presence at the German Monarchs' Convention"
  fra_swiss_affairs: "Franco-Swiss Affairs"
  fra_support_civil_war: "French Support in the Civil War"
  fra_support_civil_war_other_side: "French Support of the enemy in the Civil War"
@@ -1440,7 +1440,7 @@
  fra_diplomatic_incident_1870: "Diplomatic Incident"
  fra_abolished_kowtow_for_us: "Abolished Kowtow for Us"
  fra_xenophobic_monarch: "Xenophobic Monarch"
- fra_ottoman_infantry_arms_deal: "Recent Arms Deal" #NT!
+ fra_ottoman_infantry_arms_deal: "Recent Arms Deal"
   
   
  ################################################# 
@@ -1664,20 +1664,20 @@
  third_rep_france.27.a: "Worrying"
   
  ###################TRAITS###################### 
- FRA_trait_empress_eugenie: "Empress Consort of The French" #NT!
- FRA_trait_jules_baroche: "French Empire Minister of Justice" #NT!
- FRA_trait_gustave_rouland: "French Empire Minister of Education and Cults" #NT!
- FRA_trait_prosper_laubat: "French Empire Minister of Marine and the Colonies" #NT!
- FRA_trait_claude_delangle: "An Imperial Magistrate" #NT!
- FRA_trait_pereire_brothers_1: "Early Bankers" #NT!
- FRA_trait_pereire_brothers_2: "Successful Bankers" #NT!
+ FRA_trait_empress_eugenie: "Empress Consort of The French"
+ FRA_trait_jules_baroche: "French Empire Minister of Justice"
+ FRA_trait_gustave_rouland: "French Empire Minister of Education and Cults"
+ FRA_trait_prosper_laubat: "French Empire Minister of Marine and the Colonies"
+ FRA_trait_claude_delangle: "An Imperial Magistrate"
+ FRA_trait_pereire_brothers_1: "Early Bankers"
+ FRA_trait_pereire_brothers_2: "Successful Bankers"
   
  ###################DYNAMIC MODIFIERS###################### 
- dynmod_FRA_imperial_army: "L'Armée de la Victoire" #NT!
- dynmod_FRA_imperial_army_desc: "The Army of Victory resides in France. It is the best in Europe, in the world! It's leader, the brave Emperor Napoleon, has given unto his army laurel after laurel, in all the corners of the world. From Algeria, to Crimea, to Italy and to Asia. The Imperial Army is the strongest of all! While the Imperial armoury can at times lack by a few years, the training provided to the Imperial Army is immaculate. The officer corps is the most veteran of all, and is honed through regular deployments to Algeria. Every officer who wants a good career, first tastes the merciless steel and powder of an Arab guerrilla. Then, he can face the fine lines of a European army, for he has seen much worse and is ready for much worse. Others, find homes in the Imperial foreign legion, which takes all the misfits of the world and turns them into patriotic Frenchmen, loyal to the Emperor and their legionary brothers unto death. Then of course, there are the Generals, similarly so some of the best. Who but Bazaine could lay claim to be the best cavalryman in Europe? Who but MacMahon could lay claim to lead the best infantry in Europe? None! Now naturally, pride is the death of victory, but the French Empire has earned it's pride, and it will continue to earn it for a long time. Vive l'Empire!" #NT!
+ dynmod_FRA_imperial_army: "L'Armée de la Victoire"
+ dynmod_FRA_imperial_army_desc: "The Army of Victory resides in France. It is the best in Europe, in the world! It's leader, the brave Emperor Napoleon, has given unto his army laurel after laurel, in all the corners of the world. From Algeria, to Crimea, to Italy and to Asia. The Imperial Army is the strongest of all! While the Imperial armoury can at times lack by a few years, the training provided to the Imperial Army is immaculate. The officer corps is the most veteran of all, and is honed through regular deployments to Algeria. Every officer who wants a good career, first tastes the merciless steel and powder of an Arab guerrilla. Then, he can face the fine lines of a European army, for he has seen much worse and is ready for much worse. Others, find homes in the Imperial foreign legion, which takes all the misfits of the world and turns them into patriotic Frenchmen, loyal to the Emperor and their legionary brothers unto death. Then of course, there are the Generals, similarly so some of the best. Who but Bazaine could lay claim to be the best cavalryman in Europe? Who but MacMahon could lay claim to lead the best infantry in Europe? None! Now naturally, pride is the death of victory, but the French Empire has earned it's pride, and it will continue to earn it for a long time. Vive l'Empire!"
   
- dynmod_FRA_imperial_navy: "La Grande Marine" #NT!
- dynmod_FRA_imperial_navy_desc: "The first Napoleon had the grand Army...Napoleon III, has the grand navy. Napoleon III has since his ascent to the presidency, and then throne, practically doubled the budget of the navy. He has also nearly doubled the number of effective sailors in the Navy. From some twenty thousand sailors, to almost forty thousand sailors. From some one hundred million Francs, to two hundred million Francs. A budget so large, even Britain's is starting to be caught up to. Now, while the dream of reaching Britain's ship count is questionable, due to Britain's large number of transport and supply ships relevant to their Empire; the Emperor has managed to parry them in the number of combatant ships. Over a hundred vessels sit just in the internal sea {Mediterranean}, defying every single navy in the area. The Italians can weep, Spanish cry, Ottomans wail; but the French Navy will always prevail. Now, why has the Emperor done this, now that he has Britain's friendship? The reason is rather simple, as the Russians say - Trust but verify. And apart from that, the Emperor has designs of Empire, if not always in Europe, then on other continents, and when someone has to blow things up who better than a ship with three hundred guns and explosive shells? As such, so long as the Emperor remains, so too will the Grand Navy." #NT!
+ dynmod_FRA_imperial_navy: "La Grande Marine"
+ dynmod_FRA_imperial_navy_desc: "The first Napoleon had the grand Army...Napoleon III, has the grand navy. Napoleon III has since his ascent to the presidency, and then throne, practically doubled the budget of the navy. He has also nearly doubled the number of effective sailors in the Navy. From some twenty thousand sailors, to almost forty thousand sailors. From some one hundred million Francs, to two hundred million Francs. A budget so large, even Britain's is starting to be caught up to. Now, while the dream of reaching Britain's ship count is questionable, due to Britain's large number of transport and supply ships relevant to their Empire; the Emperor has managed to parry them in the number of combatant ships. Over a hundred vessels sit just in the internal sea {Mediterranean}, defying every single navy in the area. The Italians can weep, Spanish cry, Ottomans wail; but the French Navy will always prevail. Now, why has the Emperor done this, now that he has Britain's friendship? The reason is rather simple, as the Russians say - Trust but verify. And apart from that, the Emperor has designs of Empire, if not always in Europe, then on other continents, and when someone has to blow things up who better than a ship with three hundred guns and explosive shells? As such, so long as the Emperor remains, so too will the Grand Navy."
   
  ################################################## 
  #                     FOCUS 
@@ -1793,9 +1793,9 @@
   
  FRA_decision_category_republican_army_reorganization: "Republican Army Reorganization"
  FRA_decision_category_luxembourg_crisis: "Luxembourg Crisis"
- FRA_decision_category_luxembourg_crisis_desc: "§LThe dissolution of the German Confederation might present us with the opportunity of acquiring the Grand Duchy of Luxembourg. The Prussian chancellor [PRS.GetLeader] had few objections when the topic arose at the meeting between His Imperial Majesty [FRA.GetLeader] and the Prussian head of government in Biarritz in September 1865, and we can hope for the goodwill of the Prussians after our neutrality in the German War.\n\nThe Dutch king still rules the duchy under a personal union, but following the Belgian Revolution of 1839 the territories of the Netherlands and Luxembourg have been separated. We also heard that William III of the Netherlands is in deep financial trouble. A better opportunity might not arise anytime soon...§!" #NT!
- FRA_decision_category_colonial_actions: "The French Colonial Empire" #NT!
- FRA_decision_category_colonial_actions_desc: "The French Colonial Empire extends, or shall if it doesn't already, across every continent and every sea. Though France has an interesting history when it comes to colonies, her time as a colonial empire has not yet come to pass. Through wars of conquest, intrigue, diplomacy, and any means made available the colonial possessions of France shall be expanded." #NT!
+ FRA_decision_category_luxembourg_crisis_desc: "§LThe dissolution of the German Confederation might present us with the opportunity of acquiring the Grand Duchy of Luxembourg. The Prussian chancellor [PRS.GetLeader] had few objections when the topic arose at the meeting between His Imperial Majesty [FRA.GetLeader] and the Prussian head of government in Biarritz in September 1865, and we can hope for the goodwill of the Prussians after our neutrality in the German War.\n\nThe Dutch king still rules the duchy under a personal union, but following the Belgian Revolution of 1839 the territories of the Netherlands and Luxembourg have been separated. We also heard that William III of the Netherlands is in deep financial trouble. A better opportunity might not arise anytime soon...§!"
+ FRA_decision_category_colonial_actions: "The French Colonial Empire"
+ FRA_decision_category_colonial_actions_desc: "The French Colonial Empire extends, or shall if it doesn't already, across every continent and every sea. Though France has an interesting history when it comes to colonies, her time as a colonial empire has not yet come to pass. Through wars of conquest, intrigue, diplomacy, and any means made available the colonial possessions of France shall be expanded."
   
  ################################################## 
  #                     DECISIONS 
@@ -1806,28 +1806,28 @@
  republican_army_reorganization_2: "Army Reorganization"
  republican_army_reorganization_1: "Army Reorganization"
   
- FRA_decision_attempt_to_buy_luxembourg: "Attempt to Buy Luxembourg" #NT!
+ FRA_decision_attempt_to_buy_luxembourg: "Attempt to Buy Luxembourg"
  FRA_decision_escalate_luxembourg_crisis: "Escalate the Luxembourg Crisis"
  FRA_mission_luxembourg_crisis: "Enforce Demands in Luxembourg"
  FRA_mission_luxembourg_crisis_continued: "Push for a Decisive Victory"
   
- FRA_war_mission_KBY: "The Invasion of Kabylia" #NT!
- FRA_KBY_victory_conditions_FRA_tt: "§Y[FRA.GetFlag]French Empire Victory Conditions(One of the following):§!\n\n - §gKabylia Has Reached 70% Capitulation Progress\n - The French Empire Controls Kabylia\n§!" #NT!
- FRA_KBY_victory_conditions_KBY_tt: "§Y[KBY.GetFlag]Kabylia Victory Conditions(One of the following):§!\n\n - §gKabylia Has Held Out Until August\n - Kabylia Has Captured All French Ports While Holding Kabylia\n§!" #NT!
- FRA_kabilya_victory_event_TT: "§YWe will have to do some reorganizing before attempting a new campaign against in Kabylia...!" #NT!
+ FRA_war_mission_KBY: "The Invasion of Kabylia"
+ FRA_KBY_victory_conditions_FRA_tt: "§Y[FRA.GetFlag]French Empire Victory Conditions(One of the following):§!\n\n - §gKabylia Has Reached 70% Capitulation Progress\n - The French Empire Controls Kabylia\n§!"
+ FRA_KBY_victory_conditions_KBY_tt: "§Y[KBY.GetFlag]Kabylia Victory Conditions(One of the following):§!\n\n - §gKabylia Has Held Out Until August\n - Kabylia Has Captured All French Ports While Holding Kabylia\n§!"
+ FRA_kabilya_victory_event_TT: "§YWe will have to do some reorganizing before attempting a new campaign against in Kabylia...!"
   
- FRA_gabon_victroy_for_FRA: "§Y[FRA.GetFlag]French Empire Victory Conditions(One of the following):§!\n\n - §YFrance§! controls §YOuter Gabon§! and §YMitsogo§!\n - §YGabon§! is over a §Y20% surrender progress§!\n  " #NT!
- FRA_gabon_victroy_for_BKW: "§Y[BKW.GetFlag]Central African Tribes Victory Conditions:§!\n\n - §YGabon§! controls §YInner Gabon§!" #NT!
- FRA_war_mission_gabon: "War on Gabon" #NT!
- FRA_decision_integrate_outer_gabon: "Integrate Outer Gabon" #NT!
- FRA_decision_gambia_trade: "Second Gambia Trade Proposal" #NT!
- FRA_decision_expand_buildingslots_in_franceville: "Expand the space in Franceville" #NT!
- FRA_decision_expand_industry_in_franceville: "Expand the industry in Franceville" #NT!
- FRA_decision_gabon_road_system: "Expand the Roads in Gabon" #NT!
- FRA_decision_connect_the_roads_to_the_ports: "Connect the roads to the ports" #NT!
- FRA_decision_expand_the_wood_extraction: "Expand the Wood Extraction" #NT!
- FRA_decision_extract_ivory: "Extract Ivory" #NT!
- FRA_colonial_decision_extract_gabonese_rubber: "Extract Rubber from the Gabonese Jungles" #NT!
+ FRA_gabon_victroy_for_FRA: "§Y[FRA.GetFlag]French Empire Victory Conditions(One of the following):§!\n\n - §YFrance§! controls §YOuter Gabon§! and §YMitsogo§!\n - §YGabon§! is over a §Y20% surrender progress§!\n  "
+ FRA_gabon_victroy_for_BKW: "§Y[BKW.GetFlag]Central African Tribes Victory Conditions:§!\n\n - §YGabon§! controls §YInner Gabon§!"
+ FRA_war_mission_gabon: "War on Gabon"
+ FRA_decision_integrate_outer_gabon: "Integrate Outer Gabon"
+ FRA_decision_gambia_trade: "Second Gambia Trade Proposal"
+ FRA_decision_expand_buildingslots_in_franceville: "Expand the space in Franceville"
+ FRA_decision_expand_industry_in_franceville: "Expand the industry in Franceville"
+ FRA_decision_gabon_road_system: "Expand the Roads in Gabon"
+ FRA_decision_connect_the_roads_to_the_ports: "Connect the roads to the ports"
+ FRA_decision_expand_the_wood_extraction: "Expand the Wood Extraction"
+ FRA_decision_extract_ivory: "Extract Ivory"
+ FRA_colonial_decision_extract_gabonese_rubber: "Extract Rubber from the Gabonese Jungles"
   
  ################################################## 
  #                     IDEAS 
@@ -1839,17 +1839,17 @@
  FRA_idea_deorganized_army_1: "Army Disorganized"
  FRA_idea_socialist_influence_2: "Socialist Influence"
   
- FRA_empire_autoritaire: "L'Empire Autoritaire" #NT!
- FRA_empire_autoritaire_desc: "His Majesty, the Emperor Napoleon III, runs a very tight ship. First as President and then as Emperor, the person of his majesty rarely shied away from decisive and often bloody measures to bring about political and social goals. This has not stopped, and continues to define the political landscape of the Empire. However, unlike in most authoritarian regimes, this has not brought about general suffering or mass surveillance for the purposes of bad ends. Rather however, it has resulted in a nation which is advancing in all aspects with rapid pace and ambition to overcome the entire continent! Within just the past decade, over 3,000 Kilometers of railways have been constructed. Several conflicts started either against or by the Empire have been won. Rights of the fairer sex, ignored or even crushed at times, now make great strides under the advice of Empress Eugenie and the personal interest of Emperor Napoleon III. The rights of the workers have also advanced, and the economic golden age as described by some is just getting started. Over a thousand banks have been opened up just by the current point, and the Authoritarian Empire with it's strong hold, seems to be pushing for even more. Naturally, this has come at the cost of certain political freedoms and the presence of the Gendarmerie Imperiale is undeniable. . .but, for the common Frenchman, this is a fine enough state. For if the Emperor will make France the only place where the right to eat is assured, the freedom to read is not needed." #NT!
+ FRA_empire_autoritaire: "L'Empire Autoritaire"
+ FRA_empire_autoritaire_desc: "His Majesty, the Emperor Napoleon III, runs a very tight ship. First as President and then as Emperor, the person of his majesty rarely shied away from decisive and often bloody measures to bring about political and social goals. This has not stopped, and continues to define the political landscape of the Empire. However, unlike in most authoritarian regimes, this has not brought about general suffering or mass surveillance for the purposes of bad ends. Rather however, it has resulted in a nation which is advancing in all aspects with rapid pace and ambition to overcome the entire continent! Within just the past decade, over 3,000 Kilometers of railways have been constructed. Several conflicts started either against or by the Empire have been won. Rights of the fairer sex, ignored or even crushed at times, now make great strides under the advice of Empress Eugenie and the personal interest of Emperor Napoleon III. The rights of the workers have also advanced, and the economic golden age as described by some is just getting started. Over a thousand banks have been opened up just by the current point, and the Authoritarian Empire with it's strong hold, seems to be pushing for even more. Naturally, this has come at the cost of certain political freedoms and the presence of the Gendarmerie Imperiale is undeniable. . .but, for the common Frenchman, this is a fine enough state. For if the Emperor will make France the only place where the right to eat is assured, the freedom to read is not needed."
   
- FRA_laurier_victoire: "Laurier de la Victoire" #NT!
- FRA_laurier_victoire_desc: "The French Empire's tricolor waves proudly across the world. The British, so arrogant, have grown to fear and respect the Emperor. The Russians have been struck down in the Crimean War and the petty Sultan of the Mohammedan faith understands who his superior is. The ones in Egypt stand ready, for the Emperor and his architects inquire most soundly unto a canal to bridge the seas. In Italy, the enemies of His Holiness and by proxy his most Imperial Majesty, lay dead and defeated. The French Empire shall be rivaled by none! This all has naturally led to a lot of good things in the fatherland. Trade flows from almost all corners of the globe, just as Faidhbere predicted it would. In the east, the peoples of the Balkans and of Poland look to us, rather than others, for guidance and liberation. And so, our influence spans Europe indirectly if not directly. The common man can read almost monthly, of our great victories occurring either now, or rarely more than two years in the past. And mothers can dream, that their child too shall earn the legion of honor for the Empire of a century grand. Vive l'Empire! Vive l'Armee! Vive la France!" #NT!
+ FRA_laurier_victoire: "Laurier de la Victoire"
+ FRA_laurier_victoire_desc: "The French Empire's tricolor waves proudly across the world. The British, so arrogant, have grown to fear and respect the Emperor. The Russians have been struck down in the Crimean War and the petty Sultan of the Mohammedan faith understands who his superior is. The ones in Egypt stand ready, for the Emperor and his architects inquire most soundly unto a canal to bridge the seas. In Italy, the enemies of His Holiness and by proxy his most Imperial Majesty, lay dead and defeated. The French Empire shall be rivaled by none! This all has naturally led to a lot of good things in the fatherland. Trade flows from almost all corners of the globe, just as Faidhbere predicted it would. In the east, the peoples of the Balkans and of Poland look to us, rather than others, for guidance and liberation. And so, our influence spans Europe indirectly if not directly. The common man can read almost monthly, of our great victories occurring either now, or rarely more than two years in the past. And mothers can dream, that their child too shall earn the legion of honor for the Empire of a century grand. Vive l'Empire! Vive l'Armee! Vive la France!"
   
- FRA_economie_liberale_projets_imperiaux: "Économie Libérale et Projets Impériaux" #NT!
- FRA_economie_liberale_projets_imperiaux_desc: "His Majesty has always had a self-contradictory economic and national policy. He is a 'Conservative Emperor' who advances women and social rights. He is a revolutionary who uses grapeshot on his former Italian allies. He is an infantryman, who designs artillery. He is a Monarch, who creates plans for civilian stoves. And this trend of doing what he usually should not, extends to economics too. His Majesty has been a massive supporter of liberal trade ideals. Low tariffs, low inquiry and other such things. On the other hand, he has been the most vigorous of builders, designers and planners. It is he who orders Haussmann to review prefectures and add to them various places of interest. It is he who continually bludgeons the rich with protections of the worker. And yet it is also he who slashes taxes to all within the nation, and the one who lets the British and Spanish trade on equal footing with the French. This has sadly, created some problems. The Imperial economy is heavily reliant on her colonies, which deliver to the Empire resources which are then sold and made profit off. Furthermore, the Emperor's policies while successful at making life 'wonderful' for most, has not granted unto the Empire mass-industrialization as he had wished. As such, until either he begins to construct state-owned factories to outpace Britain, or regulation goes down so much that the British practices come to France, the Empire will have a rather problematic budget to deal with." #NT!
+ FRA_economie_liberale_projets_imperiaux: "Économie Libérale et Projets Impériaux"
+ FRA_economie_liberale_projets_imperiaux_desc: "His Majesty has always had a self-contradictory economic and national policy. He is a 'Conservative Emperor' who advances women and social rights. He is a revolutionary who uses grapeshot on his former Italian allies. He is an infantryman, who designs artillery. He is a Monarch, who creates plans for civilian stoves. And this trend of doing what he usually should not, extends to economics too. His Majesty has been a massive supporter of liberal trade ideals. Low tariffs, low inquiry and other such things. On the other hand, he has been the most vigorous of builders, designers and planners. It is he who orders Haussmann to review prefectures and add to them various places of interest. It is he who continually bludgeons the rich with protections of the worker. And yet it is also he who slashes taxes to all within the nation, and the one who lets the British and Spanish trade on equal footing with the French. This has sadly, created some problems. The Imperial economy is heavily reliant on her colonies, which deliver to the Empire resources which are then sold and made profit off. Furthermore, the Emperor's policies while successful at making life 'wonderful' for most, has not granted unto the Empire mass-industrialization as he had wished. As such, until either he begins to construct state-owned factories to outpace Britain, or regulation goes down so much that the British practices come to France, the Empire will have a rather problematic budget to deal with."
   
- FRA_la_lumiere_directrice: "La Lumière Directrice" #NT!
- FRA_la_lumiere_directrice_desc: "Napoleon III, is the guiding light of the Empire. Without him, there would be no Empire, perhaps even no Republic back in 1848. Without him, the woman would still have no hope of studying, and the Algerians would be gassed daily by the King's troops. This creates an extreme problem for the Empire however. While the Emperor is healthy and agile, the Eagle is sure to soar over the entire world. But when His Majesty is sick, unable to rule or give his own commands. . .then the Empire is left without it's head, and the many forces united behind the Emperor begin to squabble. The Empire has it's Alexander, it's Ceasar, it's Augustus or rather fittingly - it's Napoleon. But what will the Empire do without him? The Empire thus has a ticking clock, to which is tied a dagger right above it's head. Some solution must be found. Perhaps the solution is to ensure that His Majesty is not the biggest cog of the machine? Perhaps it is to ensure that only the Emperor's firmest remain? Maybe, a grand system of checks and balances to oversee all? Whatever it may be, a decision must be made. For god help us if the clock strikes twelve, and the Emperor is not there." #NT!
+ FRA_la_lumiere_directrice: "La Lumière Directrice"
+ FRA_la_lumiere_directrice_desc: "Napoleon III, is the guiding light of the Empire. Without him, there would be no Empire, perhaps even no Republic back in 1848. Without him, the woman would still have no hope of studying, and the Algerians would be gassed daily by the King's troops. This creates an extreme problem for the Empire however. While the Emperor is healthy and agile, the Eagle is sure to soar over the entire world. But when His Majesty is sick, unable to rule or give his own commands. . .then the Empire is left without it's head, and the many forces united behind the Emperor begin to squabble. The Empire has it's Alexander, it's Ceasar, it's Augustus or rather fittingly - it's Napoleon. But what will the Empire do without him? The Empire thus has a ticking clock, to which is tied a dagger right above it's head. Some solution must be found. Perhaps the solution is to ensure that His Majesty is not the biggest cog of the machine? Perhaps it is to ensure that only the Emperor's firmest remain? Maybe, a grand system of checks and balances to oversee all? Whatever it may be, a decision must be made. For god help us if the clock strikes twelve, and the Emperor is not there."
   
  ################################################## 
  #                TUNISIA RELATED 

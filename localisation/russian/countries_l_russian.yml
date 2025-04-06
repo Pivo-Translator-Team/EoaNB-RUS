@@ -3211,27 +3211,27 @@
  BRA_social_egalitarianism_DEF: "The Republic of Brazil"
  BRA_social_egalitarianism_ADJ: "Brazilian"
   
- BHA_traditional_conservatism: "Bahia" #NT!
- BHA_traditional_conservatism_DEF: "Bahia" #NT!
- BHA_traditional_conservatism_ADJ: "Bahian" #NT!
- BHA_chauvinist_populism: "Bahia" #NT!
- BHA_chauvinist_populism_DEF: "Bahia" #NT!
- BHA_chauvinist_populism_ADJ: "Bahian" #NT!
- BHA_centrism: "Bahia" #NT!
- BHA_centrism_DEF: "Bahia" #NT!
- BHA_centrism_ADJ: "Bahian" #NT!
- BHA_radical_democracy: "Bahia" #NT!
- BHA_radical_democracy_DEF: "Bahia" #NT!
- BHA_radical_democracy_ADJ: "Bahian" #NT!
- BHA_autocracy: "Bahia" #NT!
- BHA_autocracy_DEF: "Bahia" #NT!
- BHA_autocracy_ADJ: "Bahian" #NT!
- BHA_ideology_social_liberalism: "Bahia" #NT!
- BHA_ideology_social_liberalism_DEF: "Bahia" #NT!
- BHA_ideology_social_liberalism_ADJ: "Bahian" #NT!
- BHA_social_egalitarianism: "Malês" #NT!
- BHA_social_egalitarianism_DEF: "Second Malês Revolt" #NT!
- BHA_social_egalitarianism_ADJ: "Bahian" #NT!
+ BHA_traditional_conservatism: "Bahia"
+ BHA_traditional_conservatism_DEF: "Bahia"
+ BHA_traditional_conservatism_ADJ: "Bahian"
+ BHA_chauvinist_populism: "Bahia"
+ BHA_chauvinist_populism_DEF: "Bahia"
+ BHA_chauvinist_populism_ADJ: "Bahian"
+ BHA_centrism: "Bahia"
+ BHA_centrism_DEF: "Bahia"
+ BHA_centrism_ADJ: "Bahian"
+ BHA_radical_democracy: "Bahia"
+ BHA_radical_democracy_DEF: "Bahia"
+ BHA_radical_democracy_ADJ: "Bahian"
+ BHA_autocracy: "Bahia"
+ BHA_autocracy_DEF: "Bahia"
+ BHA_autocracy_ADJ: "Bahian"
+ BHA_ideology_social_liberalism: "Bahia"
+ BHA_ideology_social_liberalism_DEF: "Bahia"
+ BHA_ideology_social_liberalism_ADJ: "Bahian"
+ BHA_social_egalitarianism: "Malês"
+ BHA_social_egalitarianism_DEF: "Second Malês Revolt"
+ BHA_social_egalitarianism_ADJ: "Bahian"
   
  COL_chauvinist_populism: "Нуэва Гран Колумбия"
  COL_chauvinist_populism_DEF: "Нуэва Гран Колумбия"
@@ -6555,41 +6555,11 @@
  HOB_fundamentalism_ADJ: "Хобьонск."
   
   
- IOT: "Itu o Tane" #NT!
- IOT_DEF: "The Itu o Tane District" #NT!
- IOT_ADJ: "Itu o Tanian" #NT!
+ TUA: "Tuamasaga"
+ TUA_DEF: "The Tuamasaga District"
+ TUA_ADJ: "Tuamasagan"
   
   
- IOF: "Itu o Fafine" #NT!
- IOF_DEF: "The Itu o Fafine District" #NT!
- IOF_ADJ: "Itu o Fafinian" #NT!
-  
-  
- FAA: "Fa'asaleleaga" #NT!
- FAA_DEF: "The Fa'asaleleaga District" #NT!
- FAA_ADJ: "Fa'asaleleagan" #NT!
-  
-  
- ANA: "A'ana" #NT!
- ANA_DEF: "The A'ana District" #NT!
- ANA_ADJ: "A'anan" #NT!
-  
-  
- TUA: "Tuamasaga" #NT!
- TUA_DEF: "The Tuamasaga District" #NT!
- TUA_ADJ: "Tuamasagan" #NT!
-  
-  
- ATU: "Atua" #NT!
- ATU_DEF: "The Atua District" #NT!
- ATU_ADJ: "Atuan" #NT!
-  
-  
- TUT: "Tutuila" #NT!
- TUT_DEF: "The Tutuila District" #NT!
- TUT_ADJ: "Tutuilan" #NT!
-  
-  
- TMA: "Manu'a" #NT!
- TMA_DEF: "The Manu'a District" #NT!
- TMA_ADJ: "Manu'an" #NT!
+ TMA: "Manu'a"
+ TMA_DEF: "The Manu'a District"
+ TMA_ADJ: "Manu'an"

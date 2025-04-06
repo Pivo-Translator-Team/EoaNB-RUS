@@ -555,7 +555,6 @@
  category_tribal_infantry: "Племенная пехота"
  armor_train_company: "Бронепоезд поддержки"
  category_armor_train_company: "Бронепоезда"
- armor_train_aa_company: "Anti-Air Train Support" #NT!
  UNIT_LEVEL_0: "Новички I"
  UNIT_LEVEL_1: "Новички II"
  UNIT_LEVEL_2: "Новички III"
@@ -666,8 +665,8 @@
  siege_artillery_towed_desc: "Буксируемая осадная артиллерия может быстрее перемещаться по полю боя."
  siege_artillery_support: "Поддержка осадной артиллерией"
  siege_artillery_support_desc: "Небольшая поддерживающая бригада с осадной артиллерией."
- modifier_experience_gain_gunboat_combat_factor: "Получение опыта в боях на канонерках"
  modifier_experience_gain_gunboat_training_factor: "Получение опыта на тренировках канонерок"
+ modifier_experience_gain_gunboat_combat_factor: "Получение опыта в боях на канонерках"
  battle_cruiser: "Линейный крейсер"
  battle_cruiser_desc: "Большой, вооруженный и бронированный боевой корабль класса крейсер."
  battleship: "Линкор"
@@ -753,4 +752,3 @@
  ARMY_COMPOSITION_HEADER: "§YСостав§!\n"
  ARMY_COMPOSITION_SPECIAL_HEADER: "\nТакже получает бонусы, основание:\n"
  ARMY_COMPOSITION_DELAYED: "От состава дивизии зависят применяемые бонусы советников и командиров. Батальоны с недостаточным снаряжением меньше пополняют значение, чем полностью укомплектованные батальоны."
-  

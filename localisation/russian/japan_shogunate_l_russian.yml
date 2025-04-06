@@ -51,7 +51,7 @@
  JAP_vic_ensei_kiki_jutsu_desc: "Написанное в 1854 году, Энсей Кики Дзюцу было пособием для японских ремесленников и инженеров, которое знакомило с западной практикой современных машин, механизации и металлургии."
  JAP_vic_nagasaki_technical_school: "Техническая Школа Нагасаки"
  JAP_vic_nagasaki_technical_school_desc: "При некоторой помощи со стороны западников мы могли бы основать в Нагасаки техническую школу для обучения новобранцев механике, техническому обслуживанию и инженерному делу."
- JAP_vic_fundamentals_of_erekiteru: "Fundamentals of Erekiteru" #NT!
+ JAP_vic_fundamentals_of_erekiteru: "Fundamentals of Erekiteru"
  JAP_vic_fundamentals_of_erekiteru_desc: "Изучение иностранных знаний об электричестве и энергии может позволить Японии привести в действие новые машины и создать более мощные инструменты."
  JAP_vic_purchase_american_ships: "Закупать Американские Корабли"
  JAP_vic_purchase_american_ships_desc: "Мы должны приобрести американский корабль и изучить его конструкцию."
@@ -147,7 +147,7 @@
  JAP_vic_revitalize_negotiations_with_europe: "Пойти на Уступки Европе"
  JAP_vic_revitalize_negotiations_with_europe_desc: "Опиумные войны показали, что Япония не готова к усилению напряженности в отношениях с Западом. Несмотря на то, что договоры заключены не в пользу Японии, некоторые уступки могут привести к более справедливому исходу, чем у наших соседей, которые безуспешно пытаются противостоять мощи Запада."
  JAP_vic_secure_ties_with_west: "Надежные Связи с Европой"
- JAP_vic_secure_ties_with_west_desc: "Establishing permanent diplomatic delegations and relations with Europe will aid us in seeking better relations with Europe" #NT!
+ JAP_vic_secure_ties_with_west_desc: "Establishing permanent diplomatic delegations and relations with Europe will aid us in seeking better relations with Europe"
  JAP_vic_security_against_opium: "Защита от Опиума"
  JAP_vic_security_against_opium_desc: "Мы должны убедиться, что не совершаем тех же ошибок, что и Цин.  Несмотря на то, что Запад вынудил нас открыть наши рынки, мы все равно должны быть в состоянии установить некоторые границы в отношении того, что может и чего не может попасть на наши острова."
  JAP_vic_security_against_harassment: "Защита от Притеснений"
@@ -1187,10 +1187,10 @@
  TSH_decision_purchase_support_equipment_desc: ""
  TSH_decision_purchase_foreign_artillery: "Закупка Иностранной Артиллерии"
  TSH_decision_purchase_foreign_artillery_desc: ""
- TSH_decision_kanrin_mahru: "Commission of the Kanrin Mahru" #NT!
- TSH_decision_kanrin_mahru_desc: "" #NT!
+ TSH_decision_kanrin_mahru: "Commission of the Kanrin Mahru"
+ TSH_decision_kanrin_mahru_desc: ""
  TSH_decision_catalogue_naval_assets: "Каталог Активов Кайгун"
- TSH_decision_catalogue_naval_assets_desc: "Before building up a new fleet, we must catalogue our naval assets!" #NT!
+ TSH_decision_catalogue_naval_assets_desc: "Before building up a new fleet, we must catalogue our naval assets!"
  TSH_decision_begin_centralization_of_naval_forces: "Инвестировать в Обновленный Кайгун"
  TSH_decision_begin_centralization_of_naval_forces_desc: ""
  TSH_decision_dutch_ship: "Купить Голландское Судно"

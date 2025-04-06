@@ -8,20 +8,6 @@
  OTO_allows_EGY_army_expansion: "[OTO.GetNameDef] allows [OTO.GetNameDef] army expansion"
  EGY_alining_with_OTO: "Egypt aligns with the Ottomans"
  EGY_bends_under_pressure: "Egypt bends under pressure"
- EGY_afr_increase_debt_1: "§R+1§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 1\n"
- EGY_afr_increase_debt_2: "§R+2§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 2\n"
- EGY_afr_increase_debt_3: "§R+3§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 3\n"
- EGY_afr_increase_debt_4: "§R+4§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 4\n"
- EGY_afr_increase_debt_5: "§R+5§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 5\n"
- EGY_afr_increase_debt_6: "§R+6§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 6\n"
- EGY_afr_increase_debt_7: "§R+7§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 7\n"
- EGY_afr_increase_debt_8: "§R+8§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 8\n"
- EGY_afr_increase_debt_9: "§R+9§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 9\n"
- EGY_afr_increase_debt_10: "§R+10§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 10\n"
- EGY_afr_increase_debt_15: "§R+15§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 15\n"
- EGY_afr_increase_debt_20: "§R+20§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 20\n"
- EGY_afr_increase_debt_25: "§R+25§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 25\n"
- EGY_afr_increase_debt_30: "§R+30§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Rincreases§! by 30\n"
  EGY_afr_decrease_debt_1: "§G-1§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Gdecreases§! by 1\n"
  EGY_afr_decrease_debt_2: "§G-2§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Gdecreases§! by 2\n"
  EGY_afr_decrease_debt_3: "§G-3§! £prosperity_texticon  §Y[Root.GetName]'s§! debt §Gdecreases§! by 3\n"
@@ -297,21 +283,21 @@
  baring_report_comissioned: "Baring Report Commissioned"
  EGY_block_the_canal: "Block the Canal"
  EGY_un_block_the_canal: "Unblock the Canal"
- EGY_overtaxed_landowners: "Overtaxed landowners" #NT!
+ EGY_overtaxed_landowners: "Overtaxed landowners"
   
- afr_EGY_vic.28.t: "Britain Sends fleet to Alexandria" #NT!
- afr_EGY_vic.28.d: "The British have sent a fleet of battleships to the coast of Alexandria, we can only assume this is to protect their stake in the Canel. However, the presence of the foreign fleet exacerbated the tensions in Alexandria between the nationalist forces and the large foreign and Christian population." #NT!
- afr_EGY_vic.28.a: "Worrying" #NT!
- afr_EGY_vic.29.t: "Britain bombards Alexandria" #NT!
- afr_EGY_vic.29.d: "l Admiral Seymour issued an ultimatum to 'Urabi's forces to stop fortifying or the British fleet would bombard the city. However, this was not done and at 7:00am Admiral Seymour aboard HMS Invincible signaled to HMS Alexandra to commence firing at the Ras El Tin fortifications followed by the general order to attack the enemy's batteries. It has been estimated that as many as 30 percent of the shells fired by the Royal Navy missed their targets and landed in the city itself, causing death and injury among the inhabitants, damaging or destroying many buildings, and starting fires which spread over the following days." #NT!
- afr_EGY_vic.29.a: "Worrying" #NT!
- afr_EGY_vic.30.t: "Revolts spread across country" #NT!
- afr_EGY_vic.30.d: "The attack on Alexandria has made tensions across the country much worse, with Urabi struggling to keep control. It is likely that Britain may intervene further" #NT!
- afr_EGY_vic.30.a: "Worrying" #NT!
- afr_EGY_vic.31.t: "Britain intervenes in revolts" #NT!
- afr_EGY_vic.31.d: "" #NT!
- afr_EGY_vic.31.a: "Worrying" #NT!
- afr_EGY_vic.31.t: "Britain intervenes in revolts" #NT!
- afr_EGY_vic.31.d: "Tension built over the summer of 1881 as both the Khedive and the Egyptian officers, now led by ʻUrabi, searched for supporters and gathered allies. In September the Khedive ordered ʻUrabi's regiment to leave Cairo. He refused and ordered the dismissal of the Turco-Circassian generals and the creation of an elected government. Our governmeant is unable to oppse the revolt." #NT!
- afr_EGY_vic.31.a: "Allow him to take control" #NT!
- afr_EGY_vic.31.b: "Crack down on the Officers" #NT!
+ afr_EGY_vic.28.t: "Britain Sends fleet to Alexandria"
+ afr_EGY_vic.28.d: "The British have sent a fleet of battleships to the coast of Alexandria, we can only assume this is to protect their stake in the Canel. However, the presence of the foreign fleet exacerbated the tensions in Alexandria between the nationalist forces and the large foreign and Christian population."
+ afr_EGY_vic.28.a: "Worrying"
+ afr_EGY_vic.29.t: "Britain bombards Alexandria"
+ afr_EGY_vic.29.d: "l Admiral Seymour issued an ultimatum to 'Urabi's forces to stop fortifying or the British fleet would bombard the city. However, this was not done and at 7:00am Admiral Seymour aboard HMS Invincible signaled to HMS Alexandra to commence firing at the Ras El Tin fortifications followed by the general order to attack the enemy's batteries. It has been estimated that as many as 30 percent of the shells fired by the Royal Navy missed their targets and landed in the city itself, causing death and injury among the inhabitants, damaging or destroying many buildings, and starting fires which spread over the following days."
+ afr_EGY_vic.29.a: "Worrying"
+ afr_EGY_vic.30.t: "Revolts spread across country"
+ afr_EGY_vic.30.d: "The attack on Alexandria has made tensions across the country much worse, with Urabi struggling to keep control. It is likely that Britain may intervene further"
+ afr_EGY_vic.30.a: "Worrying"
+ afr_EGY_vic.31.t: "Britain intervenes in revolts"
+ afr_EGY_vic.31.d: "Tension built over the summer of 1881 as both the Khedive and the Egyptian officers, now led by ʻUrabi, searched for supporters and gathered allies. In September the Khedive ordered ʻUrabi's regiment to leave Cairo. He refused and ordered the dismissal of the Turco-Circassian generals and the creation of an elected government. Our governmeant is unable to oppse the revolt."
+ afr_EGY_vic.31.a: "Allow him to take control"
+ afr_EGY_vic.31.t: "Britain intervenes in revolts"
+ afr_EGY_vic.31.d: "Tension built over the summer of 1881 as both the Khedive and the Egyptian officers, now led by ʻUrabi, searched for supporters and gathered allies. In September the Khedive ordered ʻUrabi's regiment to leave Cairo. He refused and ordered the dismissal of the Turco-Circassian generals and the creation of an elected government. Our governmeant is unable to oppse the revolt."
+ afr_EGY_vic.31.a: "Allow him to take control"
+ afr_EGY_vic.31.b: "Crack down on the Officers"

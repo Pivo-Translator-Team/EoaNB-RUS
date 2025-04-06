@@ -540,219 +540,219 @@
  ethiopia.7.d: "[From.GetName] has approached us asking us to invest a [Root.GetAdjective]  company into their nation"
  ethiopia.7.a: "A shipyard company"
  ethiopia.7.b: "A rubber plantation"
- ethiopia.8.t: "Truce of The Lion, Pharaoh, and Slave King" #NT!
- ethiopia.8.d: "This truce is for 15 years between [ETH.GetName], [EGY.GetName], and [ALZ.GetName]. The proposal was made in hopes of bringing stability and peace within the region." #NT!
- ethiopia.8.a: "Sign the truce with both parties!" #NT!
- ethiopia.8.b: "Truce with [ETH.GetName], but not the [ALZ.GetName]." #NT!
- ethiopia.8.c: "We shall have no truce with either party." #NT!
- ethiopia.9.t: "Gondor-Oromo Militias Neutralized!" #NT!
- ethiopia.9.d: "" #NT!
- ethiopia.9.a: "Send the military to the next militia!" #NT!
- ethiopia.9.b: "The Gondor-Oromo militias will no longer interfere." #NT!
- ethiopia.10.t: "Eritrean-Oromo Militias Neutralized!" #NT!
- ethiopia.10.d: "" #NT!
- ethiopia.10.a: "Send the military to the next militia!" #NT!
- ethiopia.10.b: "The Eritrean-Oromo militias will no longer interfere." #NT!
- ethiopia.11.t: "Gedaref-Oromo Militias Neutralized!" #NT!
- ethiopia.11.d: "" #NT!
- ethiopia.11.a: "The Gedaref-Oromo militias will no longer interfere." #NT!
- ethiopia.12.t: "Crackdown Progress Report" #NT!
- ethiopia.12.d: "" #NT!
- ethiopia.12.a: "This is bad! Martyrs cry independance!" #NT!
- ethiopia.12.b: "Continue the crackdown, we're almost finished here!" #NT!
+ ethiopia.8.t: "Truce of The Lion, Pharaoh, and Slave King"
+ ethiopia.8.d: "This truce is for 15 years between [ETH.GetName], [EGY.GetName], and [ALZ.GetName]. The proposal was made in hopes of bringing stability and peace within the region."
+ ethiopia.8.a: "Sign the truce with both parties!"
+ ethiopia.8.b: "Truce with [ETH.GetName], but not the [ALZ.GetName]."
+ ethiopia.8.c: "We shall have no truce with either party."
+ ethiopia.9.t: "Gondor-Oromo Militias Neutralized!"
+ ethiopia.9.d: ""
+ ethiopia.9.a: "Send the military to the next militia!"
+ ethiopia.9.b: "The Gondor-Oromo militias will no longer interfere."
+ ethiopia.10.t: "Eritrean-Oromo Militias Neutralized!"
+ ethiopia.10.d: ""
+ ethiopia.10.a: "Send the military to the next militia!"
+ ethiopia.10.b: "The Eritrean-Oromo militias will no longer interfere."
+ ethiopia.11.t: "Gedaref-Oromo Militias Neutralized!"
+ ethiopia.11.d: ""
+ ethiopia.11.a: "The Gedaref-Oromo militias will no longer interfere."
+ ethiopia.12.t: "Crackdown Progress Report"
+ ethiopia.12.d: ""
+ ethiopia.12.a: "This is bad! Martyrs cry independance!"
+ ethiopia.12.b: "Continue the crackdown, we're almost finished here!"
   
- ethiopia.17.t: "Oromo Tribes in [ETH.GetName] are Under Attack!" #NT!
- ethiopia.17.d: "Martyrs in [ETH.GetName] have died after the recent [ETH.GetAdjective] crackdown on native Oromo tribes. They've rallyed the surrounding tribes in rebellion against their attackers. They cry out to our nation, saying they are apart of [ORO.GetName], not [ETH.GetName]." #NT!
- ethiopia.17.a: "We fight for all Oromo people!" #NT!
+ ethiopia.17.t: "Oromo Tribes in [ETH.GetName] are Under Attack!"
+ ethiopia.17.d: "Martyrs in [ETH.GetName] have died after the recent [ETH.GetAdjective] crackdown on native Oromo tribes. They've rallyed the surrounding tribes in rebellion against their attackers. They cry out to our nation, saying they are apart of [ORO.GetName], not [ETH.GetName]."
+ ethiopia.17.a: "We fight for all Oromo people!"
   
- ethiopia.20.t: "Oromo Tribes in [ETH.GetName] are Under Attack!" #NT!
- ethiopia.20.d: "Martyrs in [ETH.GetName] have died after the recent [ETH.GetAdjective] crackdown on native Oromo tribes. They've rallyed the surrounding tribes in rebellion against their attackers. They cry out to our nation, saying they are apart of [ORO.GetName], not [ETH.GetName]." #NT!
- ethiopia.20.a: "We fight for all Oromo people!" #NT!
- ethiopia.21.1.t: "[From.GetName] wants to buy Eritrea" #NT!
- ethiopia.21.d: "" #NT!
- ethiopia.21.a: "Yes" #NT!
- ethiopia.21.b: "No" #NT!
- ethiopia.22.t: "[From.GetName] says Yes" #NT!
- ethiopia.22.d: "[From.GetName] agreed to sell Eritrea" #NT!
- ethiopia.22.a: "Wonderful" #NT!
- ethiopia.23.t: "[From.GetName] says No" #NT!
- ethiopia.23.d: "[From.GetName] declined to sell Eritrea" #NT!
- ethiopia.23.a: "They are digging their own grave" #NT!
- ethiopia.24.t: "[ETH.GetName] wants to become friends" #NT!
- ethiopia.24.d: "We have been vying with [ETH.GetName] for a long time, but the times are changing. [ETH.GetLeader] proposed to leave the old rivalry behind and become friends to survive in this modern world." #NT!
- ethiopia.24.a: "Absolutely. We need to adapt to the new situation." #NT!
- ethiopia.24.b: "Never. They were our enemy, they are our enemy and they will be our enemy." #NT!
- ethiopia.25.t: "[EGY.GetName] agrees to leave the past behind" #NT!
- ethiopia.25.d: "[EGY.GetLeader], the leader of [EGY.GetName] agreed to bury the hatchet and become our friend. Now we can look to the future." #NT!
- ethiopia.25.a: "Splendid" #NT!
- ethiopia.26.t: "[EGY.GetName] refuses to leave the past behind" #NT!
- ethiopia.26.d: "[EGY.GetLeader], the leader of [EGY.GetName] refuses to bury the hatchet and become our friend. Hopefully this won't be our ruin." #NT!
- ethiopia.26.a: "How shortsighted" #NT!
- ethiopia.27.t: "[ETH.GetName] wants to end the rivalry" #NT!
- ethiopia.27.d: "We might never become friends with [ETH.GetName] but they proposed to bury the old hatchet, and to look out for the future generations." #NT!
- ethiopia.27.a: "It's time to open a new chapter in our relations" #NT!
- ethiopia.27.b: "[EGY.GetName] has no need to make peace with such a weak enemy" #NT!
- ethiopia.28.t: "[EGY.GetName] agrees to end the rivalry" #NT!
- ethiopia.28.d: "The wise leader of [EGY.GetName], [EGY.GetLeader], agreed to end our countries rivalry" #NT!
- ethiopia.28.a: "Splendid" #NT!
- ethiopia.29.t: "[EGY.GetName] refuses to end the rivalry" #NT!
- ethiopia.29.d: "The population of [EGY.GetName] clings to its glorious past and refuses to adapt to the new world. Our rivalry continues." #NT!
- ethiopia.29.a: "An eye for an eye and the whole world will go blind" #NT!
- ethiopia.30.t: "Fortify the [EGY.GetAdjective] border" #NT!
- ethiopia.30.d: "[EGY.GetName] has been a strong rival for some time. It's time to prepare for an attack. We can either do the construction quickly, and risk an enemy attack or try to fortify the border in secret." #NT!
- ethiopia.30.a: "Rush the construction! We must fortify before [EGY.GetName] attacks!" #NT!
- ethiopia.30.b: "Keep it a secret, we wont win if they attack before the fortification is ready." #NT!
- ethiopia.31.t: "[ETH.GetName] started to fortify our border" #NT!
- ethiopia.31.d: "Our rival [ETH.GetName] started to fortify their border. They are obviously preparing for war!" #NT!
- ethiopia.31.a: "We have to strike now, before they start to plunder our country only to retreat behind these fortifications!" #NT!
- ethiopia.31.b: "As if their castles could help them! We will crush them no matter what." #NT!
- ethiopia.32.t: "[EGY.GetName] attacks our fortification efforts!" #NT!
+ ethiopia.20.t: "Oromo Tribes in [ETH.GetName] are Under Attack!"
+ ethiopia.20.d: "Martyrs in [ETH.GetName] have died after the recent [ETH.GetAdjective] crackdown on native Oromo tribes. They've rallyed the surrounding tribes in rebellion against their attackers. They cry out to our nation, saying they are apart of [ORO.GetName], not [ETH.GetName]."
+ ethiopia.20.a: "We fight for all Oromo people!"
+ ethiopia.21.1.t: "[From.GetName] wants to buy Eritrea"
+ ethiopia.21.d: ""
+ ethiopia.21.a: "Yes"
+ ethiopia.21.b: "No"
+ ethiopia.22.t: "[From.GetName] says Yes"
+ ethiopia.22.d: "[From.GetName] agreed to sell Eritrea"
+ ethiopia.22.a: "Wonderful"
+ ethiopia.23.t: "[From.GetName] says No"
+ ethiopia.23.d: "[From.GetName] declined to sell Eritrea"
+ ethiopia.23.a: "They are digging their own grave"
+ ethiopia.24.t: "[ETH.GetName] wants to become friends"
+ ethiopia.24.d: "We have been vying with [ETH.GetName] for a long time, but the times are changing. [ETH.GetLeader] proposed to leave the old rivalry behind and become friends to survive in this modern world."
+ ethiopia.24.a: "Absolutely. We need to adapt to the new situation."
+ ethiopia.24.b: "Never. They were our enemy, they are our enemy and they will be our enemy."
+ ethiopia.25.t: "[EGY.GetName] agrees to leave the past behind"
+ ethiopia.25.d: "[EGY.GetLeader], the leader of [EGY.GetName] agreed to bury the hatchet and become our friend. Now we can look to the future."
+ ethiopia.25.a: "Splendid"
+ ethiopia.26.t: "[EGY.GetName] refuses to leave the past behind"
+ ethiopia.26.d: "[EGY.GetLeader], the leader of [EGY.GetName] refuses to bury the hatchet and become our friend. Hopefully this won't be our ruin."
+ ethiopia.26.a: "How shortsighted"
+ ethiopia.27.t: "[ETH.GetName] wants to end the rivalry"
+ ethiopia.27.d: "We might never become friends with [ETH.GetName] but they proposed to bury the old hatchet, and to look out for the future generations."
+ ethiopia.27.a: "It's time to open a new chapter in our relations"
+ ethiopia.27.b: "[EGY.GetName] has no need to make peace with such a weak enemy"
+ ethiopia.28.t: "[EGY.GetName] agrees to end the rivalry"
+ ethiopia.28.d: "The wise leader of [EGY.GetName], [EGY.GetLeader], agreed to end our countries rivalry"
+ ethiopia.28.a: "Splendid"
+ ethiopia.29.t: "[EGY.GetName] refuses to end the rivalry"
+ ethiopia.29.d: "The population of [EGY.GetName] clings to its glorious past and refuses to adapt to the new world. Our rivalry continues."
+ ethiopia.29.a: "An eye for an eye and the whole world will go blind"
+ ethiopia.30.t: "Fortify the [EGY.GetAdjective] border"
+ ethiopia.30.d: "[EGY.GetName] has been a strong rival for some time. It's time to prepare for an attack. We can either do the construction quickly, and risk an enemy attack or try to fortify the border in secret."
+ ethiopia.30.a: "Rush the construction! We must fortify before [EGY.GetName] attacks!"
+ ethiopia.30.b: "Keep it a secret, we wont win if they attack before the fortification is ready."
+ ethiopia.31.t: "[ETH.GetName] started to fortify our border"
+ ethiopia.31.d: "Our rival [ETH.GetName] started to fortify their border. They are obviously preparing for war!"
+ ethiopia.31.a: "We have to strike now, before they start to plunder our country only to retreat behind these fortifications!"
+ ethiopia.31.b: "As if their castles could help them! We will crush them no matter what."
+ ethiopia.32.t: "[EGY.GetName] attacks our fortification efforts!"
   ethiopia.32.d: "Our rushed consturction of fortifiations was noticed by [EGY.GetName] and now they are attacking! 
- ethiopia.32.a: "Rush to the construction site! We will be helpless if those defenses are destroyed." #NT!
- ethiopia.33.t: "Conquer Eritra" #NT!
- ethiopia.33.d: "We need access to the sea. The fastest route would be through [MED.GetName], specifically Eritrea. If we move fast we can overrun them and finish the war before their overlord [EGY.GetName] can aid them! Additionally we will encourage a Sudanese uprising in the west." #NT!
- ethiopia.33.a: "Forward!" #NT!
- ethiopia.34.t: "[ETH.GetName] offers to support our quest to free our people!" #NT!
- ethiopia.34.d: "We got an offer from [ETH.GetName]. They will support our attempt to liberate our oppressed people in [EGY.GetName]. In exchange they want the provinces of the [EGY.GetName] vassal, [MED.GetName]" #NT!
- ethiopia.34.a: "It's time to free our people" #NT!
- ethiopia.34.b: "[ETH.GetName] is not strong enough to support such a cause" #NT!
- ethiopia.35.t: "Victory!" #NT!
- ethiopia.35.d: "We were able to win the conflict with [EGY.GetName] giving us a legitimate claim to these provinces." #NT!
- ethiopia.35.a: "Finally our people can be free!" #NT!
- ethiopia.36.t: "We lost!" #NT!
- ethiopia.36.d: "Our dream to free our people with [ETH.GetAdjective] help is over." #NT!
- ethiopia.36.a: "We might have lost this battle but the war will never be over until our people are free!" #NT!
- ethiopia.37.t: "Stalemate!" #NT!
- ethiopia.37.d: "Our attempt to free our people ended in a stalemate." #NT!
- ethiopia.37.a: "This proves that [EGY.GetName] can be beaten. We just have to wait for the right time..." #NT!
+ ethiopia.32.a: "Rush to the construction site! We will be helpless if those defenses are destroyed."
+ ethiopia.33.t: "Conquer Eritra"
+ ethiopia.33.d: "We need access to the sea. The fastest route would be through [MED.GetName], specifically Eritrea. If we move fast we can overrun them and finish the war before their overlord [EGY.GetName] can aid them! Additionally we will encourage a Sudanese uprising in the west."
+ ethiopia.33.a: "Forward!"
+ ethiopia.34.t: "[ETH.GetName] offers to support our quest to free our people!"
+ ethiopia.34.d: "We got an offer from [ETH.GetName]. They will support our attempt to liberate our oppressed people in [EGY.GetName]. In exchange they want the provinces of the [EGY.GetName] vassal, [MED.GetName]"
+ ethiopia.34.a: "It's time to free our people"
+ ethiopia.34.b: "[ETH.GetName] is not strong enough to support such a cause"
+ ethiopia.35.t: "Victory!"
+ ethiopia.35.d: "We were able to win the conflict with [EGY.GetName] giving us a legitimate claim to these provinces."
+ ethiopia.35.a: "Finally our people can be free!"
+ ethiopia.36.t: "We lost!"
+ ethiopia.36.d: "Our dream to free our people with [ETH.GetAdjective] help is over."
+ ethiopia.36.a: "We might have lost this battle but the war will never be over until our people are free!"
+ ethiopia.37.t: "Stalemate!"
+ ethiopia.37.d: "Our attempt to free our people ended in a stalemate."
+ ethiopia.37.a: "This proves that [EGY.GetName] can be beaten. We just have to wait for the right time..."
   
- ethiopia.42.t: "[ETH.GetName] becomes Protestant" #NT!
- ethiopia.42.d: "We can't live in the past. It is time to change our religion to show that we live in the present and look forward to the future." #NT!
- ethiopia.42.a: "The Protestant Denomination will be the right choice." #NT!
- ethiopia.43.t: "[ETH.GetName] becomes Catholic" #NT!
- ethiopia.43.d: "We can't live in the past. It is time to change our religion to show that we live in the present and look forward to the future." #NT!
- ethiopia.43.a: "The Catholic Denomination will be the right choice." #NT!
- ethiopia.44.t: "Islamic surge!" #NT!
- ethiopia.44.d: "There has been a radical Islamic surge amongst the Oromo people in the last few years. This faction now rivals the dominate religion." #NT!
- ethiopia.44.a: "It might be dangerous to have so many subjects of a different faith" #NT!
- ethiopia.45.t: "[ETH.GetName] main religion is Sunni Islamic." #NT!
- ethiopia.45.d: "We can't live in the past. It is time to change our religion to show that we live in the present and look forward to the future." #NT!
- ethiopia.45.a: "We are surrounded by Islamic countries. It would be the best to adopt their faith" #NT!
- ethiopia.46.t: "Ethiopia opens merchant ports" #NT!
- ethiopia.46.d: "[ETH.GetLeader] of [ETH.GetName] decided to open their ports for our merchants. We will be the first one to trade with their nation." #NT!
- ethiopia.46.a: "What a wonderful developement!" #NT!
- ethiopia.47.t: "[ETH.GetName] wants to establish a government sanctioned Trading Company." #NT!
- ethiopia.47.d: "[ETH.GetLeader] offered a monopoly of the resources within their country. In exchange this company should help them industrialize." #NT!
- ethiopia.47.a: "A §YCotton Company§! will §Gexploit§! their fertile land for §Ycotton§!!" #NT!
- ethiopia.47.b: "A §YLogging Company§! will §Gexploit§! their forests for §Ylumber§!!" #NT!
- ethiopia.47.c: "A §YRubber Plantation§! will §Gexploit§! their fertile land for §YRubber§!!" #NT!
- ethiopia.48.t: "[From.GetName] offered a cotton company" #NT!
- ethiopia.48.d: "In exchange for a monopoly, [From.GetName] offered to open a §YCotton Company§!" #NT!
- ethiopia.48.a: "A small price to pay" #NT!
- ethiopia.49.t: "[From.GetName] offered a logging company" #NT!
- ethiopia.49.d: "In exchange for a monopoly, [From.GetName] offered to open a §YLogging Company§!" #NT!
- ethiopia.49.a: "A small price to pay" #NT!
- ethiopia.50.t: "[From.GetName] offered a rubber company" #NT!
- ethiopia.50.d: "In exchange for a monopoly [From.GetName] offered to open a §YRubber Plantation§!" #NT!
- ethiopia.50.a: "A small price to pay" #NT!
- ethiopia.51.t: "[ETH.GetName] exports increased" #NT!
+ ethiopia.42.t: "[ETH.GetName] becomes Protestant"
+ ethiopia.42.d: "We can't live in the past. It is time to change our religion to show that we live in the present and look forward to the future."
+ ethiopia.42.a: "The Protestant Denomination will be the right choice."
+ ethiopia.43.t: "[ETH.GetName] becomes Catholic"
+ ethiopia.43.d: "We can't live in the past. It is time to change our religion to show that we live in the present and look forward to the future."
+ ethiopia.43.a: "The Catholic Denomination will be the right choice."
+ ethiopia.44.t: "Islamic surge!"
+ ethiopia.44.d: "There has been a radical Islamic surge amongst the Oromo people in the last few years. This faction now rivals the dominate religion."
+ ethiopia.44.a: "It might be dangerous to have so many subjects of a different faith"
+ ethiopia.45.t: "[ETH.GetName] main religion is Sunni Islamic."
+ ethiopia.45.d: "We can't live in the past. It is time to change our religion to show that we live in the present and look forward to the future."
+ ethiopia.45.a: "We are surrounded by Islamic countries. It would be the best to adopt their faith"
+ ethiopia.46.t: "Ethiopia opens merchant ports"
+ ethiopia.46.d: "[ETH.GetLeader] of [ETH.GetName] decided to open their ports for our merchants. We will be the first one to trade with their nation."
+ ethiopia.46.a: "What a wonderful developement!"
+ ethiopia.47.t: "[ETH.GetName] wants to establish a government sanctioned Trading Company."
+ ethiopia.47.d: "[ETH.GetLeader] offered a monopoly of the resources within their country. In exchange this company should help them industrialize."
+ ethiopia.47.a: "A §YCotton Company§! will §Gexploit§! their fertile land for §Ycotton§!!"
+ ethiopia.47.b: "A §YLogging Company§! will §Gexploit§! their forests for §Ylumber§!!"
+ ethiopia.47.c: "A §YRubber Plantation§! will §Gexploit§! their fertile land for §YRubber§!!"
+ ethiopia.48.t: "[From.GetName] offered a cotton company"
+ ethiopia.48.d: "In exchange for a monopoly, [From.GetName] offered to open a §YCotton Company§!"
+ ethiopia.48.a: "A small price to pay"
+ ethiopia.49.t: "[From.GetName] offered a logging company"
+ ethiopia.49.d: "In exchange for a monopoly, [From.GetName] offered to open a §YLogging Company§!"
+ ethiopia.49.a: "A small price to pay"
+ ethiopia.50.t: "[From.GetName] offered a rubber company"
+ ethiopia.50.d: "In exchange for a monopoly [From.GetName] offered to open a §YRubber Plantation§!"
+ ethiopia.50.a: "A small price to pay"
+ ethiopia.51.t: "[ETH.GetName] exports increased"
   ethiopia.51.d: "It's time to reap the benefits of the company we helped set up in [ETH.GetName] 
- ethiopia.51.a: "Good news" #NT!
- ethiopia.52.t: "Export profits" #NT!
- ethiopia.52.d: "As we agreed when we set up a company with [From.GetName] they will help us with our industrialisation." #NT!
- ethiopia.52.a: "Hopefully we can continue to profit from it." #NT!
- ethiopia.53.t: "[ETH.GetName] proclaims a coalition against Islam" #NT!
- ethiopia.53.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent." #NT!
- ethiopia.53.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:" #NT!
- ethiopia.53.b: "This matter is of no interest to our country" #NT!
- ethiopia.54.t: "[ETH.GetName] proclaims a coalition against Islam" #NT!
- ethiopia.54.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent." #NT!
- ethiopia.54.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:" #NT!
- ethiopia.54.b: "This matter is of no interest to our country" #NT!
- ethiopia.55.t: "[ETH.GetName] proclaims a coalition against Islam" #NT!
- ethiopia.55.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent." #NT!
- ethiopia.55.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:" #NT!
- ethiopia.55.b: "This matter is of no interest to our country" #NT!
- ethiopia.56.t: "[ETH.GetName] proclaims a coalition against Islam" #NT!
- ethiopia.56.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent." #NT!
- ethiopia.56.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:" #NT!
- ethiopia.56.b: "This matter is of no interest to our country" #NT!
- ethiopia.57.t: "[ETH.GetName] proclaims a coalition against Islam" #NT!
- ethiopia.57.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent." #NT!
- ethiopia.57.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:" #NT!
- ethiopia.57.b: "This matter is of no interest to our country" #NT!
- ethiopia.58.t: "[ETH.GetName] proclaims a coalition against Islam" #NT!
- ethiopia.58.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent." #NT!
- ethiopia.58.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:" #NT!
- ethiopia.58.b: "This matter is of no interest to our country" #NT!
- ethiopia.59.t: "[ENG.GetName] agrees to a coalition" #NT!
- ethiopia.59.d: "Our brothers in [ENG.GetName] agreed to join forces against the islamic infidels' raiders." #NT!
- ethiopia.59.a: "Finally we can be safe from these savages" #NT!
- ethiopia.60.t: "ENG.GetName] declined the coalition" #NT!
- ethiopia.60.d: "[ENG.GetName] decided to abandon us." #NT!
- ethiopia.60.a: "To hell with them" #NT!
- ethiopia.60.b: "Then their missionaries will join our people in hell" #NT!
- ethiopia.61.t: "[ETH.GetName] massacred our missionaries" #NT!
- ethiopia.61.d: "After the ridiciolous [ETH.GetAdjective] demand to form a coalition have been declined they purged our peaceful missionaries." #NT!
- ethiopia.61.a: "We won't let them get away with atrocity" #NT!
- ethiopia.62.t: "[ENG.GetName] invades" #NT!
- ethiopia.62.d: "After the recent decline in relations with [ENG.GetName] they finally showed their true colors and declared an imminent invasion." #NT!
- ethiopia.62.a: "How could things spiral out of control so fast" #NT!
- ethiopia.63.t: "The king is dead. Long live the king" #NT!
- ethiopia.63.d: "Today our king [ETH.GetLeader] commited suidide to escape the british invaders." #NT!
- ethiopia.63.a: "Hopefully that will be enough to appease them and make them leave" #NT!
- ethiopia.63.b: "Can we go back to before?" #NT!
- ethiopia.63.c: "Maybe things quiet down now?" #NT!
+ ethiopia.51.a: "Good news"
+ ethiopia.52.t: "Export profits"
+ ethiopia.52.d: "As we agreed when we set up a company with [From.GetName] they will help us with our industrialisation."
+ ethiopia.52.a: "Hopefully we can continue to profit from it."
+ ethiopia.53.t: "[ETH.GetName] proclaims a coalition against Islam"
+ ethiopia.53.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent."
+ ethiopia.53.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:"
+ ethiopia.53.b: "This matter is of no interest to our country"
+ ethiopia.54.t: "[ETH.GetName] proclaims a coalition against Islam"
+ ethiopia.54.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent."
+ ethiopia.54.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:"
+ ethiopia.54.b: "This matter is of no interest to our country"
+ ethiopia.55.t: "[ETH.GetName] proclaims a coalition against Islam"
+ ethiopia.55.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent."
+ ethiopia.55.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:"
+ ethiopia.55.b: "This matter is of no interest to our country"
+ ethiopia.56.t: "[ETH.GetName] proclaims a coalition against Islam"
+ ethiopia.56.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent."
+ ethiopia.56.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:"
+ ethiopia.56.b: "This matter is of no interest to our country"
+ ethiopia.57.t: "[ETH.GetName] proclaims a coalition against Islam"
+ ethiopia.57.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent."
+ ethiopia.57.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:"
+ ethiopia.57.b: "This matter is of no interest to our country"
+ ethiopia.58.t: "[ETH.GetName] proclaims a coalition against Islam"
+ ethiopia.58.d: "[ETH.GetName] are surrounded by islamic countries who frequently use their religion to plunder our country. To stop these attacks they want to form a coalition with our powerful nation as a deterrent."
+ ethiopia.58.a: "They are our fellow christians. If a few words are enough to protect them from these infidels..:"
+ ethiopia.58.b: "This matter is of no interest to our country"
+ ethiopia.59.t: "[ENG.GetName] agrees to a coalition"
+ ethiopia.59.d: "Our brothers in [ENG.GetName] agreed to join forces against the islamic infidels' raiders."
+ ethiopia.59.a: "Finally we can be safe from these savages"
+ ethiopia.60.t: "ENG.GetName] declined the coalition"
+ ethiopia.60.d: "[ENG.GetName] decided to abandon us."
+ ethiopia.60.a: "To hell with them"
+ ethiopia.60.b: "Then their missionaries will join our people in hell"
+ ethiopia.61.t: "[ETH.GetName] massacred our missionaries"
+ ethiopia.61.d: "After the ridiciolous [ETH.GetAdjective] demand to form a coalition have been declined they purged our peaceful missionaries."
+ ethiopia.61.a: "We won't let them get away with atrocity"
+ ethiopia.62.t: "[ENG.GetName] invades"
+ ethiopia.62.d: "After the recent decline in relations with [ENG.GetName] they finally showed their true colors and declared an imminent invasion."
+ ethiopia.62.a: "How could things spiral out of control so fast"
+ ethiopia.63.t: "The king is dead. Long live the king"
+ ethiopia.63.d: "Today our king [ETH.GetLeader] commited suidide to escape the british invaders."
+ ethiopia.63.a: "Hopefully that will be enough to appease them and make them leave"
+ ethiopia.63.b: "Can we go back to before?"
+ ethiopia.63.c: "Maybe things quiet down now?"
   
- ethiopia.69.t: "Send the military" #NT!
- ethiopia.69.d: "Let's send the military to suppress the clergy insurgents" #NT!
- ethiopia.69.a: "Go!" #NT!
- ethiopia.70.t: "Company protected" #NT!
- ethiopia.70.d: "Our military managed to suppress the insurgents around the company proper. There's no reason to fear any foreign intervention anymore." #NT!
- ethiopia.71.t: "Did nothing" #NT!
- ethiopia.71.d: "Our decision to do nothing doesn't appease the insurgents." #NT!
- ethiopia.71.a: "What do they want me to do" #NT!
- ethiopia.72.t: "Company assets protected" #NT!
- ethiopia.72.d: "The assets of our company in [FROM.GetName] were protected by their military" #NT!
- ethiopia.72.a: "Good. So we don't have to intervene ourselves" #NT!
- ethiopia.73.t: "Company assets attacked" #NT!
- ethiopia.73.d: "The assets of our company in [FROM.GetName] have been attacked by insurgents." #NT!
- ethiopia.73.a: "Our displeasure should be made known" #NT!
- ethiopia.74.t: "Civil War" #NT!
- ethiopia.74.d: "Our decisions have lead to an escalation of the insurgency. The insurgents have decided to overthrow the rule of [ETH.GetLeader]" #NT!
- ethiopia.74.a: "How could it come to this?" #NT!
- ethiopia.75.t: "[FROM.GetName] is happy" #NT!
- ethiopia.75.d: "[FROM.GetName] send us their thanks for the protection of the assests of their company." #NT!
- ethiopia.75.a: "The problems aren't over yet....." #NT!
- ethiopia.76.t: "[FROM.GetName] is mad" #NT!
- ethiopia.76.d: "[FROM.GetName] send us a warning that they might decide to close their company in our country if we can't protect it's assets in the future." #NT!
- ethiopia.76.a: "We have bigger things to worry about" #NT!
- ethiopia.77.t: "Islamic Raiding Party Detected!" #NT!
- ethiopia.77.d: "Scouts have detected [FROM.GetAdjective] troops near the border. We believe they are about to conduct raid a raid on our border!" #NT!
- ethiopia.77.a: "May the Lord give us strength to win this battle!" #NT!
+ ethiopia.69.t: "Send the military"
+ ethiopia.69.d: "Let's send the military to suppress the clergy insurgents"
+ ethiopia.69.a: "Go!"
+ ethiopia.70.t: "Company protected"
+ ethiopia.70.d: "Our military managed to suppress the insurgents around the company proper. There's no reason to fear any foreign intervention anymore."
+ ethiopia.71.t: "Did nothing"
+ ethiopia.71.d: "Our decision to do nothing doesn't appease the insurgents."
+ ethiopia.71.a: "What do they want me to do"
+ ethiopia.72.t: "Company assets protected"
+ ethiopia.72.d: "The assets of our company in [FROM.GetName] were protected by their military"
+ ethiopia.72.a: "Good. So we don't have to intervene ourselves"
+ ethiopia.73.t: "Company assets attacked"
+ ethiopia.73.d: "The assets of our company in [FROM.GetName] have been attacked by insurgents."
+ ethiopia.73.a: "Our displeasure should be made known"
+ ethiopia.74.t: "Civil War"
+ ethiopia.74.d: "Our decisions have lead to an escalation of the insurgency. The insurgents have decided to overthrow the rule of [ETH.GetLeader]"
+ ethiopia.74.a: "How could it come to this?"
+ ethiopia.75.t: "[FROM.GetName] is happy"
+ ethiopia.75.d: "[FROM.GetName] send us their thanks for the protection of the assests of their company."
+ ethiopia.75.a: "The problems aren't over yet....."
+ ethiopia.76.t: "[FROM.GetName] is mad"
+ ethiopia.76.d: "[FROM.GetName] send us a warning that they might decide to close their company in our country if we can't protect it's assets in the future."
+ ethiopia.76.a: "We have bigger things to worry about"
+ ethiopia.77.t: "Islamic Raiding Party Detected!"
+ ethiopia.77.d: "Scouts have detected [FROM.GetAdjective] troops near the border. We believe they are about to conduct raid a raid on our border!"
+ ethiopia.77.a: "May the Lord give us strength to win this battle!"
   
- ethiopia.80.t: "The Islamic Raid on [FROM.GetName] Begins!" #NT!
- ethiopia.80.a: "We shall contain the expanse of christian empires! Mashallah!" #NT!
- ethiopia.81.t: "Christian Raid Successful!" #NT!
- ethiopia.81.a: "Allahu Akbar! Send the loot to our stockpiles!" #NT!
- ethiopia.82.t: "Christian Raid Fails!" #NT!
- ethiopia.82.a: "Damn those infidels!" #NT!
- ethiopia.83.t: "Christian Raid Stalemate" #NT!
- ethiopia.83.a: "We must prepare better!" #NT!
- ethiopia.84.t: "[FROM.GetName] Sends Raiders!" #NT!
- ethiopia.84.a: "Prepare a defence of the stockpiles!" #NT!
- ethiopia.85.t: "Islamic Raiders Defeated!" #NT!
- ethiopia.85.a: "Praise God! He has lended us his strength!" #NT!
- ethiopia.86.t: "Islamic Raiders Rein Victorious!" #NT!
- ethiopia.86.a: "May the Lord damn them to hell!" #NT!
- ethiopia.87.t: "Islamic Raid Ends In Stalemate!" #NT!
- ethiopia.87.a: "We must prepare better!" #NT!
+ ethiopia.80.t: "The Islamic Raid on [FROM.GetName] Begins!"
+ ethiopia.80.a: "We shall contain the expanse of christian empires! Mashallah!"
+ ethiopia.81.t: "Christian Raid Successful!"
+ ethiopia.81.a: "Allahu Akbar! Send the loot to our stockpiles!"
+ ethiopia.82.t: "Christian Raid Fails!"
+ ethiopia.82.a: "Damn those infidels!"
+ ethiopia.83.t: "Christian Raid Stalemate"
+ ethiopia.83.a: "We must prepare better!"
+ ethiopia.84.t: "[FROM.GetName] Sends Raiders!"
+ ethiopia.84.a: "Prepare a defence of the stockpiles!"
+ ethiopia.85.t: "Islamic Raiders Defeated!"
+ ethiopia.85.a: "Praise God! He has lended us his strength!"
+ ethiopia.86.t: "Islamic Raiders Rein Victorious!"
+ ethiopia.86.a: "May the Lord damn them to hell!"
+ ethiopia.87.t: "Islamic Raid Ends In Stalemate!"
+ ethiopia.87.a: "We must prepare better!"
   
- ethiopia.93: "The Slave King's Raid" #NT!
- ethiopia.93.t: "The Slave King's Raid" #NT!
- ethiopia.93.d: "With §Y[ALZ.GetName]§! attacking §Y[EGY.GetName]§!, maybe we can ask our friend to a §YNon-Aggresion Pact§! or even more later on..." #NT!
- ethiopia.93.a: "Form our alliance with §Y[ALZ.GetName]§! and destabilize §Y[EGY.GetName]§!!" #NT!
- ethiopia.93.b: "They have provided enough distraction, no alliance with them is needed." #NT!
+ ethiopia.93: "The Slave King's Raid"
+ ethiopia.93.t: "The Slave King's Raid"
+ ethiopia.93.d: "With §Y[ALZ.GetName]§! attacking §Y[EGY.GetName]§!, maybe we can ask our friend to a §YNon-Aggresion Pact§! or even more later on..."
+ ethiopia.93.a: "Form our alliance with §Y[ALZ.GetName]§! and destabilize §Y[EGY.GetName]§!!"
+ ethiopia.93.b: "They have provided enough distraction, no alliance with them is needed."
   
   
  ##### company coup is old unfinished content 

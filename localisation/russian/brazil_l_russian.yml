@@ -85,18 +85,18 @@
  BRA_trait_uniform_equipment_bonus_1: "Sertanejo Tanned Leather"
  BRA_trait_uniform_equipment_bonus_2: "Gaúcho Tanned Leather "
   
- BRA_Balance_of_Power_1857: "Parlamentarismo "às Avessas"" #NT!
- BRA_BOP_stable: "Government Equilibrium" #NT!
- BRA_BOP_government: "Government" #NT!
- BRA_BOP_purge_opposition: "Increase Tensions in the Conservatives" #NT!
- BRA_BOP_strengthen_allies: "Strengthen Liberals in the Parliament" #NT!
- BRA_BOP_support_cabinet: "Support the Cabinet" #NT!
- BRA_BOP_boost_popularity: "Boost the Prime Minister's Popularity" #NT!
- BRA_BOP_opposition: "Opposition" #NT!
- BRA_BOP_increase_unity: "Opposition Unity" #NT!
- BRA_BOP_strengthen_opposition: "Strengthen Opposition in the Parliament" #NT!
- BRA_BOP_undermine_cabinet: "Undermine the Cabinet" #NT!
- BRA_BOP_criticize_pm: "Criticize the Prime Minister" #NT!
+ BRA_Balance_of_Power_1857: "Parlamentarismo "às Avessas""
+ BRA_BOP_stable: "Government Equilibrium"
+ BRA_BOP_government: "Government"
+ BRA_BOP_purge_opposition: "Increase Tensions in the Conservatives"
+ BRA_BOP_strengthen_allies: "Strengthen Liberals in the Parliament"
+ BRA_BOP_support_cabinet: "Support the Cabinet"
+ BRA_BOP_boost_popularity: "Boost the Prime Minister's Popularity"
+ BRA_BOP_opposition: "Opposition"
+ BRA_BOP_increase_unity: "Opposition Unity"
+ BRA_BOP_strengthen_opposition: "Strengthen Opposition in the Parliament"
+ BRA_BOP_undermine_cabinet: "Undermine the Cabinet"
+ BRA_BOP_criticize_pm: "Criticize the Prime Minister"
   
   ##Brazil FT 1857 
  BRA_the_rise_of_the_empire: "The Rise of The Empire"
@@ -141,12 +141,12 @@
  BRA_support_paid_labor_desc: "Our program to encourage European immigration has been a smashing success, and our coffee plantations are beginning to be revitalized by the presence of new wage laborers to work their fields. As the number of immigrants pouring into our country continues to increase, it is time that we think about shifting over more and more of our labor dependency from slaves to wage laborers."
  BRA_modernize_the_empire: "Modernize the Empire"
  BRA_modernize_the_empire_desc: "Despite the Empire of Brazil being a predominantly rural nation, it is not averse to change. Modernization must be encouraged throughout the Empire."
- BRA_urbanization_projects: "Urbanization Projects" #NT!
- BRA_urbanization_projects_desc: "The cities of our nation are lacking behind in comparison to the American and European cities in the matters of modernization, new modern lamps and sewage systems are required even in the city of Rio de Janeiro. We must begin allocating funds to these projects to ensure our cities can adapt to the new modern patterns of developed countries." #NT!
+ BRA_urbanization_projects: "Urbanization Projects"
+ BRA_urbanization_projects_desc: "The cities of our nation are lacking behind in comparison to the American and European cities in the matters of modernization, new modern lamps and sewage systems are required even in the city of Rio de Janeiro. We must begin allocating funds to these projects to ensure our cities can adapt to the new modern patterns of developed countries."
  BRA_the_coffee_boom: "The Coffee Boom"
  BRA_the_coffee_boom_desc: "Our coffee production has started and it is currently being successful. We should take advantage of that and use the profit gained from coffee to urbanize and connect our countries with new roads and way bigger cities."
- BRA_maua_companies: "Mauá's Companies" #NT!
- BRA_maua_companies_desc: "Irineu Evangelista de Sousa, the Baron of Mauá, has great plans for the future of the empire, his successful entrepreneurship skills have allowed him to open new businesses all around the country, and sometimes even outside of our borders. We must encourage him to continue his efforts in the modernization of our country." #NT!
+ BRA_maua_companies: "Mauá's Companies"
+ BRA_maua_companies_desc: "Irineu Evangelista de Sousa, the Baron of Mauá, has great plans for the future of the empire, his successful entrepreneurship skills have allowed him to open new businesses all around the country, and sometimes even outside of our borders. We must encourage him to continue his efforts in the modernization of our country."
  BRA_maua_bank_in_rio: "Mauá Bank In Rio de Janeiro City"
  BRA_maua_bank_in_rio_desc: "The Maua, Macgregor & Cia bank, founded by Irineu Evangelista de Sousa, grew to the point of having Banco do Brasil as its main competitor, the latter also founded by Irineu but incorporated by the Empire of Brazil. The growth of the bank Maua, Macgregor & Cia strengthens the Brazilian economy."
  BRA_maua_bank_in_montevideo: "Mauá Bank In Montevideo"
@@ -471,8 +471,8 @@
  BRA_1857_courts_police_force_desc: "This act proposes to regulate the discipline and organization of the Court's police force.\nThis act will be valid for 90 days, after which it must be ratified in parliament to become permanent law."
  BRA_1857_friendship_treaty_with_ottoman: "Friendship Treaty with [OTO.GetName]"
  BRA_1857_friendship_treaty_with_ottoman_desc: "This Act proposes establish a Friendship Treaty between Empire of Brazil and the Ottoman Empire."
- BRA_diplomatic_mission_platinean: "Platinean Diplomacy" #NT!
- BRA_diplomatic_mission_platinean_desc: "We must open up Diplomacy with our Southern Neighbors to achieve our interests" #NT!
+ BRA_diplomatic_mission_platinean: "Platinean Diplomacy"
+ BRA_diplomatic_mission_platinean_desc: "We must open up Diplomacy with our Southern Neighbors to achieve our interests"
  BRA_1857_trade_treaty_with_uruguay: "Trade Treaty with [URG.GetName]"
  BRA_1857_trade_treaty_with_uruguay_desc: "Trade Treaty between Brazil and the Uruguay Act."
  BRA_1857_treaty_with_argentina: "Treaty with [ARG.GetName]"
@@ -505,14 +505,14 @@
  BRA_1857_press_national_bank_desc: "In order to overcome the economic crisis, the finance minister puts pressure on the national bank by using its reserves to support the national currency. The national bank, being composed of public and private capital, can accept or refuse the demands of the minister of finance."
  BRA_1857_guarantee_bank_securities: "Guarantee Bank Securities"
  BRA_1857_guarantee_bank_securities_desc: "The finance minister used the national treasury as a guarantee for Banco Mauá & Mac Gregor to support the national currency."
- BRA_1857_metal_money_wins: "Metal Currency Wins" #NT!
- BRA_1857_metal_money_wins_desc: "Surprisingly, the metal currency tactic won against the proposed paper tactic." #NT!
- BRA_1857_collaborate_national_bank: "Collaborate with the National Bank" #NT!
- BRA_1857_collaborate_national_bank_desc: "To reduce the effects left by the 1857 Crisis we will need to side with the National Bank against the finance minister and pressure the National Bank to deny the demands of the minister." #NT!
- BRA_1857_treasury_reserves: "Utilize the Treasury Reserves." #NT!
- BRA_1857_treasury_reserves_desc: "We will utilize the National Treasury reserves in order to get the support of the 'Banco Mauá, MacGregor & Cia' to use the metal currency." #NT!
- BRA_1857_minting_new_currencies: "Mint New Currencies" #NT!
- BRA_1857_minting_new_currencies_desc: "We will invest into the minting of new coins in order to use the metal currency." #NT!
+ BRA_1857_metal_money_wins: "Metal Currency Wins"
+ BRA_1857_metal_money_wins_desc: "Surprisingly, the metal currency tactic won against the proposed paper tactic."
+ BRA_1857_collaborate_national_bank: "Collaborate with the National Bank"
+ BRA_1857_collaborate_national_bank_desc: "To reduce the effects left by the 1857 Crisis we will need to side with the National Bank against the finance minister and pressure the National Bank to deny the demands of the minister."
+ BRA_1857_treasury_reserves: "Utilize the Treasury Reserves."
+ BRA_1857_treasury_reserves_desc: "We will utilize the National Treasury reserves in order to get the support of the 'Banco Mauá, MacGregor & Cia' to use the metal currency."
+ BRA_1857_minting_new_currencies: "Mint New Currencies"
+ BRA_1857_minting_new_currencies_desc: "We will invest into the minting of new coins in order to use the metal currency."
  BRA_1857_panic_recovery: "Our Recovery From Panic"
  BRA_1857_panic_recovery_desc: "After a significant amount of time, we now can see the signs of recovery, because of, or perhaps despite, Sousa Franco's economic policies under the Olinda Presidency. Regardless, normalcy is returning to the North, although it's still a long way from the good times of 1856."
  BRA_1858_president_of_council_of_ministers: "President of Council of Ministers in 1858"
@@ -529,32 +529,32 @@
  BRA_1858_ban_slave_trade_desc: "The Eusébio de Queiros law that prohibited the international slave trade in Brazil must be strengthened, the amendment of certain articles will increase its effectiveness and help in the fight against the international slave trade."
  BRA_1858_commerce_regulation: "Commerce code regulation act"
  BRA_1858_commerce_regulation_desc: "Changing some articles of the Commerce Code can bring significant improvement to the economy of the Empire of Brazil."
- BRA_1858_reverse_bank_plurality: "Reverse Bank Plurality" #NT!
- BRA_1858_reverse_bank_plurality_desc: "During the Conciliatory Cabinets initiated with the Marquis of Paraná, there were many reforms that made the issuing of paper money and titles more flexible, which allowed private banks to issue money and titles without the quantity corresponding to the currency backing. We must revert these reforms." #NT!
+ BRA_1858_reverse_bank_plurality: "Reverse Bank Plurality"
+ BRA_1858_reverse_bank_plurality_desc: "During the Conciliatory Cabinets initiated with the Marquis of Paraná, there were many reforms that made the issuing of paper money and titles more flexible, which allowed private banks to issue money and titles without the quantity corresponding to the currency backing. We must revert these reforms."
  BRA_1858_protectionist_fees: "Trade and industry protection fee act"
  BRA_1858_protectionist_fees_desc: "In order to increase industrial production, the Alves Branco Law taxes the importation of certain products that already exist in local production in the Empire of Brazil. This law is responsible for the beginning of the industrialization of the Empire of Brazil and must be amended to further protect national production against imported products."
  BRA_1858_lands_law: "Strengthen the Land Law"
  BRA_1858_lands_law_desc: "The land law was the first attempt to organize over private property in the Empire of Brazil. The revision of this law can help in the colonization of lands to the west and in the increase of the work force."
  BRA_1858_navy_promotion: "The naval officer promotion act"
- BRA_1858_increase_navy_production: "Increase Naval Production" #NT!
- BRA_1858_increase_navy_production_desc: "The Imperial Brazilian Armada is one of the strongest in the world. But, in contrast, it lacks in numbers in comparison to the navies of Great Britain, Russia, France and the United States. We must increase the production of ships in our dockyard to strengthen our navy and make it the strongest in the American continent." #NT!
+ BRA_1858_increase_navy_production: "Increase Naval Production"
+ BRA_1858_increase_navy_production_desc: "The Imperial Brazilian Armada is one of the strongest in the world. But, in contrast, it lacks in numbers in comparison to the navies of Great Britain, Russia, France and the United States. We must increase the production of ships in our dockyard to strengthen our navy and make it the strongest in the American continent."
  BRA_1858_navy_promotion_desc: "The fleet of the Empire of Brazil needs a fair law for the promotion of naval officers."
  BRA_1858_military_reform: "The military reform"
  BRA_1858_military_reform_desc: "The Military of the Empire of Brazil needs to undergo a reform. A reformed army will be more effective in combat."
- BRA_1858_increase_arms_production: "Increase Arms Production" #NT!
- BRA_1858_increase_arms_production_desc: "Increasing the production of national military equipment is a required step towards making our military independent from foreign equipment dependency." #NT!
+ BRA_1858_increase_arms_production: "Increase Arms Production"
+ BRA_1858_increase_arms_production_desc: "Increasing the production of national military equipment is a required step towards making our military independent from foreign equipment dependency."
  BRA_1858_centralized_bank: "Centralized National Bank"
  BRA_1858_centralized_bank_desc: "The Empire of Brazil needs a centralized National Bank to have control over the national economy."
  BRA_1858_increase_gold_reserves: "Increase Gold Reserves"
  BRA_1858_increase_gold_reserves_desc: "Increasing national gold reserves will help stabilize the economy."
- BRA_1858_backed_currency: "Stabilize the Currency" #NT!
- BRA_1858_backed_currency_desc: "Since the Panic of 1857 brought chaos and economic turbulence to the Empire, our currency has been highly unstable. In order to stabilize it, we need to choose a Standard to bring value to our currency." #NT!
- BRA_1858_bimetallism: "Bimetallism" #NT!
- BRA_1858_bimetallism_desc: "Supporting the use of both the silver and gold standards is the best choice, why settle for one when we can have the best of both worlds?" #NT!
- BRA_1858_gold: "The Gold Standard" #NT!
- BRA_1858_gold_desc: "Supporting the use of the gold standard will strengthen our currency and the standard." #NT!
- BRA_1858_silver: "The Silver Standard" #NT!
- BRA_1858_silver_desc: "Supporting the use of the silver standard will strengthen our economy and boost the value of our currency, alongside boosting the standard's value." #NT!
+ BRA_1858_backed_currency: "Stabilize the Currency"
+ BRA_1858_backed_currency_desc: "Since the Panic of 1857 brought chaos and economic turbulence to the Empire, our currency has been highly unstable. In order to stabilize it, we need to choose a Standard to bring value to our currency."
+ BRA_1858_bimetallism: "Bimetallism"
+ BRA_1858_bimetallism_desc: "Supporting the use of both the silver and gold standards is the best choice, why settle for one when we can have the best of both worlds?"
+ BRA_1858_gold: "The Gold Standard"
+ BRA_1858_gold_desc: "Supporting the use of the gold standard will strengthen our currency and the standard."
+ BRA_1858_silver: "The Silver Standard"
+ BRA_1858_silver_desc: "Supporting the use of the silver standard will strengthen our economy and boost the value of our currency, alongside boosting the standard's value."
  BRA_1858_increase_food_production: "Increase food production"
  BRA_1858_increase_food_production_desc: "Increase food production."
  BRA_1858_conservative_cabinet: "Conservative Cabinet in 1858"
@@ -565,8 +565,8 @@
  BRA_1858_treasury_reform_desc: "Treasury Reform."
  BRA_1858_ballast_the_money: "Ballast The Money"
  BRA_1858_ballast_the_money_desc: "Ballast The Money."
- BRA_1858_acquisition_foodstuffs: "Acquire Foodstuffs" #NT!
- BRA_1858_acquisition_foodstuffs_desc: "The acquisition of foodstuffs from other countries will decrease the risk of famines in the Empire and alliviate the work of our farmers." #NT!
+ BRA_1858_acquisition_foodstuffs: "Acquire Foodstuffs"
+ BRA_1858_acquisition_foodstuffs_desc: "The acquisition of foodstuffs from other countries will decrease the risk of famines in the Empire and alliviate the work of our farmers."
  BRA_1858_confiscate_money_from_deads: "Confiscate Money From Deads"
  BRA_1858_confiscate_money_from_deads_desc: "Confiscate Money From Deads."
  BRA_1858_shooting_school: "Shooting School"
@@ -575,8 +575,8 @@
  BRA_1858_decorate_military_officers_desc: "Decorate Military Officers."
  BRA_1858_reform_navy_recruitment_and_promotion: "Reform Navy Recruitment And Promotion"
  BRA_1858_reform_navy_recruitment_and_promotion_desc: "Reform Navy Recruitment And Promotion."
- BRA_1858_armada_promotions: "Reform Navy Promotions" #NT!
- BRA_1858_armada_promotions_desc: "The system of promotions of the Armada currently in use has proven to be obsolete, if we want to correctly award the most qualified admirals and recruits we must reform this system." #NT!
+ BRA_1858_armada_promotions: "Reform Navy Promotions"
+ BRA_1858_armada_promotions_desc: "The system of promotions of the Armada currently in use has proven to be obsolete, if we want to correctly award the most qualified admirals and recruits we must reform this system."
  BRA_1858_encourage_immigration: "Encourage Immigration"
  BRA_1858_encourage_immigration_desc: "Encourage Immigration."
  BRA_1858_river_treaty_with_peru: "River Treaty With Peru"
@@ -593,14 +593,14 @@
  BRA_1858_conciliatory_cabinet_desc: "Conciliatory Cabinet."
  BRA_1858_government_program_conciliatory: "Government Program Conciliatory"
  BRA_1858_government_program_conciliatory_desc: "Government Program Conciliatory."
- BRA_1858_reform_secretary_navy: "Reform the Secretary of the Navy" #NT!
- BRA_1858_reform_secretary_navy_desc: "We must reform the Secretary of the Navy in order to improve their management of our glorious Armada." #NT!
- BRA_1858_reform_secretary_empire: "Reform the Secretary of the Empire" #NT!
- BRA_1858_reform_secretary_empire_desc: "The Secretary of the Empire is one of the most important in the country, it is responsible for most of the country's management, including immigration and public works. We must reform it in order to improve its administrative capabilities." #NT!
- BRA_1858_reform_secretary_justice: "Reform the Secretary of Justice" #NT!
- BRA_1858_reform_secretary_justice_desc: "We should reform the Secretary of Justice in order to secure free and fair rulings and guarantee that criminals, politicians or not, pay for their crimes." #NT!
- BRA_1858_reform_secretary_foreign: "Reform the Secretary of Foreign Affairs" #NT!
- BRA_1858_reform_secretary_foreign_desc: "Our excellent Secretary of Foreign Affairs could be further improved with some reforms." #NT!
+ BRA_1858_reform_secretary_navy: "Reform the Secretary of the Navy"
+ BRA_1858_reform_secretary_navy_desc: "We must reform the Secretary of the Navy in order to improve their management of our glorious Armada."
+ BRA_1858_reform_secretary_empire: "Reform the Secretary of the Empire"
+ BRA_1858_reform_secretary_empire_desc: "The Secretary of the Empire is one of the most important in the country, it is responsible for most of the country's management, including immigration and public works. We must reform it in order to improve its administrative capabilities."
+ BRA_1858_reform_secretary_justice: "Reform the Secretary of Justice"
+ BRA_1858_reform_secretary_justice_desc: "We should reform the Secretary of Justice in order to secure free and fair rulings and guarantee that criminals, politicians or not, pay for their crimes."
+ BRA_1858_reform_secretary_foreign: "Reform the Secretary of Foreign Affairs"
+ BRA_1858_reform_secretary_foreign_desc: "Our excellent Secretary of Foreign Affairs could be further improved with some reforms."
  BRA_1858_liberal_cabinet: "Liberal Cabinet"
  BRA_1858_liberal_cabinet_desc: "Liberal Cabinet."
  BRA_1858_government_program_liberal: "Government Program Liberal"
@@ -613,8 +613,8 @@
  BRA_1858_eliminate_national_bank_monopoly_desc: "Eliminate National Bank Monopoly."
  BRA_1858_eliminate_currency_issuance_tax: "Eliminate Currency Issuance Tax"
  BRA_1858_eliminate_currency_issuance_tax_desc: "Eliminate Currency Issuance Tax."
- BRA_1858_fiduciary_currency: "Fiduciary Currency" #NT!
- BRA_1858_fiduciary_currency_desc: "Establishing a relation of trust in the exchange of money and in the relation between giving and receiving a loan is a crucial step in securing a fair banking system." #NT!
+ BRA_1858_fiduciary_currency: "Fiduciary Currency"
+ BRA_1858_fiduciary_currency_desc: "Establishing a relation of trust in the exchange of money and in the relation between giving and receiving a loan is a crucial step in securing a fair banking system."
  BRA_1858_ensure_religious_freedom: "Ensure Religious Freedom"
  BRA_1858_ensure_religious_freedom_desc: "Ensure Religious Freedom."
  BRA_1858_introduce_taxes_to_the_church: "Introduce Taxes To The Church"
@@ -746,8 +746,8 @@
   
   
   ###Missions & Decisions 
- BRA_maracana_river_canalization: "Initiate Canalization Works in Rio de Janeiro" #NT!
- BRA_maracana_river_canalization_desc: "The River Engineering of the Maracanã River will be an infrastructure work that will provide water to the capital of the Empire. Increasing the population’s access to drinkable water could reduce the risk of diseases and increase the longevity rate of the Empire’s subjects." #NT!
+ BRA_maracana_river_canalization: "Initiate Canalization Works in Rio de Janeiro"
+ BRA_maracana_river_canalization_desc: "The River Engineering of the Maracanã River will be an infrastructure work that will provide water to the capital of the Empire. Increasing the population’s access to drinkable water could reduce the risk of diseases and increase the longevity rate of the Empire’s subjects."
  BRA_decision_weaken_the_elites: "Weaken the Elites"
  BRA_decision_weaken_the_elites_desc: "The Elites of our country dominate our politics and our economy, we need to defeat them!"
  BRA_decision_promote_shipbuilding_and_foundry: "Invest in the reconstruction of the Foundry and Shipyard of Ponta da Areia"
@@ -1059,102 +1059,102 @@
  BRA_decision_navy_officer_promotion_1858_desc: "Propose a fair law for the promotion of naval officers."
  BRA_decision_military_reform_1858: "The Army Reform"
  BRA_decision_military_reform_1858_desc: "Propose the army reform."
- BRA_Cocoa_Plantations_Modifier: "Cocoa Plantation" #NT!
- BRA_Cocoa_Plantations_Modifier_desc: "Cocoa Plantation" #NT!
- BRA_Coffee_Plantations_Modifier: "Coffee Plantation" #NT!
- BRA_Coffee_Plantations_Modifier_desc: "Coffee Plantation" #NT!
- BRA_Livestock_Ranch_Modifier: "Livestock Ranch" #NT!
- BRA_Livestock_Ranch_Modifier_desc: "Livestock Ranch" #NT!
- BRA_Sugar_Plantations_Modifier: "Sugar Plantation" #NT!
- BRA_Sugar_Plantations_Modifier_desc: "Sugar Plantation" #NT!
- BRA_Tobacco_Plantations_Modifier: "Tobacco Plantation" #NT!
- BRA_Tobacco_Plantations_Modifier_desc: "Tobacco Plantation" #NT!
- BRA_BOP_decision_category: "Parlamentarismo “às Avessas” decisions" #NT!
- BRA_platinean_diplomacy_category: "Platinean Diplomacy" #NT!
- BRA_platinean_diplomacy_category_desc: "We must engage with our Southern Neighbors to insure our Interests" #NT!
- BRA_mission_argentina: "Send a Diplomatic Mission to Argentina" #NT!
- BRA_mission_uruguay: "Send a Diplomatic Mission to Uruguay" #NT!
- BRA_mission_paraguay: "Send a Diplomatic Mission to Paraguay" #NT!
- BRA_treaty_argentina: "Propose a Treaty with Argentina to Parliament" #NT!
- #BRA_balance_to_power: "Brazil Balance to Power" #NT!
- #BRA_BOP_1857_Marquiz_of_Olinda_mid: "The Marquis of Olinda Presidency" #NT!
- #BRA_BOP_1857_conservative_divided_side: "The Conservative Party are Divided" #NT!
- #BRA_BOP_1857_parliament_tensions_side: "Tension in Parliament" #NT!
- #BRA_BOP_1857_rethink_the_taxes_sucess_side: "Revise The Custom Fees Act pass" #NT!
- #BRA_BOP_1857_reform_mortgage_system_sucess_side: "The Land Mortgage Act pass" #NT!
- #BRA_BOP_1857_trade_treaty_with_uruguay_sucess_side: "The Trade Treat with Uruguay pass" #NT!
- #BRA_BOP_1857_paper_money_wins_sucess_side: "Paper Currency Wins" #NT!
- #BRA_BOP_1857_british_money_sucess_side: "British money in public stations pass" #NT!
- #BRA_BOP_1857_press_national_bank_sucess_side: "Press National Bank works" #NT!
- #BRA_BOP_1857_guarantee_bank_securities_sucess_side: "Guarantee Bank Securities works" #NT!
- #BRA_BOP_1857_british_money_sucess_fail: "British money in public stations fail" #NT!
- #BRA_BOP_1857_press_national_bank_fail_side: "Press National Bank fail" #NT!
- #BRA_BOP_1857_guarantee_bank_securities_fail_side: "Guarantee Bank Securities works" #NT!
- #BRA_BOP_1857_victory_of_cabinet_conciliatory_side: "Victory of Cabinet Conciliatory" #NT!
- #BRA_BOP_1857_conservative_opposition_side: "The conservative opposition" #NT!
- #BRA_BOP_1857_parliamentary_opposition_side: "The parliamentary opposition" #NT!
- #BRA_BOP_1857_rethink_the_taxes_fail_side: "Revise The Custom Fees Act fail" #NT!
- #BRA_BOP_1857_reform_mortgage_system_fail_side: "The Land Mortgage Act fail" #NT!
- #BRA_BOP_1857_trade_treaty_with_uruguay_fail_side: "The Trade Treat with Uruguay fail" #NT!
- #BRA_BOP_1857_metal_money_sucess_side: "The Metal Currency Wins" #NT!
- #BRA_BOP_1857_minting_new_currencies_sucess_side: "Minting New Curreencies Works" #NT!
- #BRA_BOP_1857_collaborate_national_bank_sucess_side: "Collaborate National Bank Sucess" #NT!
- #BRA_BOP_1857_treasury_reserves_sucess_side: "Treasury Reserves Sucess" #NT!
- #BRA_BOP_1857_minting_new_currencies_sucess_side: "Minting New Curreencies Fail" #NT!
- #BRA_BOP_1857_collaborate_national_bank_sucess_side: "Collaborate National Bank Fail" #NT!
- #BRA_BOP_1857_treasury_reserves_sucess_side: "Treasury Reserves Fail" #NT!
- #BRA_BOP_1857_victory_of_parliament_conservative_side: "Victory of Parliament Conservative" #NT!
- #BRA_BOP_decision_category: "Brazil Balance to Power Decision" #NT!
- #BRA_BOP_1857_conservative_opposition: "The Conservative Opposition" #NT!
- #BRA_BOP_1857_parliamentary_opposition: "The Parliamentary Opposition" #NT!
- #BRA_BOP_1857_conservative_divided: "The Conservative Party are Divided" #NT!
- #BRA_BOP_1857_parliament_tensions: "Tension in Parliament" #NT!
- #BRA_BOP_1857_victory_of_parliament_conservative: "Victory of Parliament Conservative" #NT!
- #BRA_BOP_1857_victory_of_cabinet_conciliatory: "Victory of Cabinet Conciliatory" #NT!
- #BRA_BOP_1857_parliament_conservative_side: "Parliament Conservative" #NT!
- #BRA_BOP_1857_cabinet_conciliatory_side: "Cabinet Conciliatory" #NT!
- BRA_Livestock_Ranch_Money: "Livestock Ranch Money" #NT!
- BRA_Livestock_Ranch_Money_desc: "Livestock Ranch Total Money Income" #NT!
- BRA_Cocoa_Plantations_Money: "Cocoa Plantations Money" #NT!
- BRA_Cocoa_Plantations_Money_desc: "Cocoa Plantations Total Money Income" #NT!
- BRA_Tobacco_Plantations_Money: "Tobacco Plantations Money" #NT!
- BRA_Tobacco_Plantations_Money_desc: "Tobacco Plantations Total Money Income" #NT!
- BRA_Coffee_Plantations_Money: "Coffee Plantations Money" #NT!
- BRA_Coffee_Plantations_Money_desc: "Coffee Plantations Total Money Income" #NT!
- BRA_Sugar_Plantations_Money: "Sugar Plantations Money" #NT!
- BRA_Sugar_Plantations_Money_desc: "Sugar Plantations Total Money Income" #NT!
- dynmod_BRA_Agriculture_Money: "Brazilian Agriculture" #NT!
- dynmod_BRA_Agriculture_Money_desc: "The largest sector of the Brazilian economy is agriculture. One of the main reasons for Portuguese colonization is that the climatic variation found across the country allows for a multitude of potential economic activities. Be it coffee, tobacco, or sugarcane, there is an interest in its cultivation. However, this demonstrates that the economy of the Empire is, in its majority, still agrarian.\nMoney from Brazilian Agriculture: \n Livestock: [?BRA_Livestock_Country_Money] \n Coffee: [?BRA_Coffee_Country_Money]\n Sugar: [?BRA_Sugar_Country_Money] \n Tobacco: [?BRA_Tobacco_Country_Money] \n Cocoa: [?BRA_Livestock_Country_Money] \n Tea: [?BRA_Tea_Country_Money]" #NT!
- dynmod_BRA_Agriculture_effect_tt: "§CThis will §Ymodify§! the §YBrazilian Agriculture§! spirit with the following effects:§!\n" #NT!
- dynmod_BRA_New_World_Immigrants: "O Novo Mundo" #NT!
- dynmod_BRA_New_World_Immigrants_desc: "As a nation in the New World, the population of Brazil is formed by immigration from other countries. Starting with the Portuguese, many ethnicities have found and will still find their way to our shores. This comes with its benefits; the immigrants bring with them knowledge and tradition, which can improve our country's culture. Economic growth is due to the increase in the size of the population and the settlement of the interior. Immigration, however, decreased after the approval of the 'Land Law', which forced new settlers to buy the lands from the government instead of settling them for free. If the Empire desires to become an industrial power, it needs to keep encouraging immigration to the country and facilitate and expand it in any way possible." #NT!
- dynmod_BRA_New_World_Immigrants_effect_tt: "§CThis will §Ymodify§! the §YO Novo Mundo§! spirit with the following effects:§!\n" #NT!
- BRA_idea_conservative_divided: "Conservative Party divided" #NT!
- BRA_idea_conservative_divided_desc: "The Conservative Party is divided due to the President of the Council of Ministers appointing a Conciliatory Cabinet of liberals and conservatives." #NT!
- BRA_tax_carriers: "Carrier Badges Taxation" #NT!
- BRA_tax_carriers_desc: "As a result of a new law approved by the government of Salvador, the slave and free port carriers of the city are being forced to wear identification badges, which they themselves have to pay for." #NT!
- BRA_african_workers_strikes: "Carriers General Strikes" #NT!
- BRA_imperial_army: "Exército Imperial Brasileiro" #NT!
- BRA_imperial_army_desc: "The Army of the Empire of Brazil is one of the most formidable land forces in the American continent. It was first organized in the War of Independence in September 1822, mainly by old Luso-Brazilian troops which stayed in the mainland and joined the cause of Dom Pedro I. It emerged victorious from the skirmishes against the Portuguese troops and by 1824 the war was over. Since then, the army went through many conflicts, including the Cisplatina War and, most recently, the Platine War. Following the end of the Platine War, the army's state started to decay, the number of troops decreased, and the lack of equipment and modernization became clear. If we expect to emerge victorious in future conflicts and secure our interests, the army needs to be modernized, rearmed and become the strongest in South America!" #NT!
- BRA_imperial_navy: "Armada Imperial Brasileira" #NT!
- BRA_imperial_navy_desc: "The Brazilian Armada is among the strongest fleets in the entire globe. Born in the struggle of Independence in 1822, the navy quickly assembled itself in order to protect the mainland from further Portuguese aggression. With the war concluded in 1825, the navy would be of key importance in securing the Empire's interests in the Platine Basin, being of key importance in the wars fought in the region. The navy needs to grow larger and stronger to maintain the status quo achieved in the Platine War, and to protect the lands of the Empire from outside aggression. However, the Empire currently does not sustain the capabilities to produce ships, forcing us to acquire new vessels from foreigners, such as the British and the French. If we want to make sure Brazil rules the waves, we must allocate new funds, and modernize and expand our fleet!" #NT!
- BRA_imperial_army_effect_tt: "§CThis will §Ymodify§! the §YExército Imperial Brasileiro §! spirit with the following effects:§!\n" #NT!
- BRA_imperial_navy_effect_tt: "§CThis will §Ymodify§! the §YArmada Imperial Brasileira §! spirit with the following effects:§!\n" #NT!
- BRA_mission_Afro_Brazilian_Carriers_Strikes_in_Bahia: "Carrier General Strike in Bahia" #NT!
- brazil_papelist: "“Chose the Papelista Tactic”" #NT!
- brazil_metalist: "“Chose the Metalista Tactic”" #NT!
- BRA_aftermath_panic_of_1857: "Aftermath of the Economic Crisis" #NT!
- bahia_revolution: "Bahia Revolution!" #NT!
- BHA_trait_veteran_of_the_males_revolt: "Veteran of the Malês Revolt" #NT!
- Second_Males_Revolt_Peace_Treaty_Mission: "End of The Second Malês Revolt" #NT!
- Second_Males_Revolt_Peace_Treaty_Mission_desc: "The Second Malês Revolt will trigger peace if: \n§Y[BRA.GetName]§! wins the conflict upon capturing §YSalvador§!!\n§Y[BHA.GetName]§! wins the conflict upon capturing §YRecife§!!\n" #NT!
- Second_Males_Revolt_Mission_Brazil_WIN: "§Y[BRA.GetName]§! wins the conflict upon capturing §YSalvador§!!\n" #NT!
- Second_Males_Revolt_Mission_Bahia_WIN: "§Y[BHA.GetName]§! wins the conflict upon capturing §YRecife§!!\n" #NT!
- BRA_male_revolt_reparation: "Malês Reparations" #NT!
- BHA_trait_persistent_fighter: "Persistent Fighter" #NT!
- brazil_wins_males: "§Y[BRA.GetName]§! wins the Second Malês Revolt" #NT!
- bahia_wins_males: "§Y[BHA.GetName]§! wins the Second Malês Revolt" #NT!
- BRA_typographer_strikes: "Typographer Strikes" #NT!
+ BRA_Cocoa_Plantations_Modifier: "Cocoa Plantation"
+ BRA_Cocoa_Plantations_Modifier_desc: "Cocoa Plantation"
+ BRA_Coffee_Plantations_Modifier: "Coffee Plantation"
+ BRA_Coffee_Plantations_Modifier_desc: "Coffee Plantation"
+ BRA_Livestock_Ranch_Modifier: "Livestock Ranch"
+ BRA_Livestock_Ranch_Modifier_desc: "Livestock Ranch"
+ BRA_Sugar_Plantations_Modifier: "Sugar Plantation"
+ BRA_Sugar_Plantations_Modifier_desc: "Sugar Plantation"
+ BRA_Tobacco_Plantations_Modifier: "Tobacco Plantation"
+ BRA_Tobacco_Plantations_Modifier_desc: "Tobacco Plantation"
+ BRA_BOP_decision_category: "Parlamentarismo “às Avessas” decisions"
+ BRA_platinean_diplomacy_category: "Platinean Diplomacy"
+ BRA_platinean_diplomacy_category_desc: "We must engage with our Southern Neighbors to insure our Interests"
+ BRA_mission_argentina: "Send a Diplomatic Mission to Argentina"
+ BRA_mission_uruguay: "Send a Diplomatic Mission to Uruguay"
+ BRA_mission_paraguay: "Send a Diplomatic Mission to Paraguay"
+ BRA_treaty_argentina: "Propose a Treaty with Argentina to Parliament"
+ #BRA_balance_to_power: "Brazil Balance to Power"
+ #BRA_BOP_1857_Marquiz_of_Olinda_mid: "The Marquis of Olinda Presidency"
+ #BRA_BOP_1857_conservative_divided_side: "The Conservative Party are Divided"
+ #BRA_BOP_1857_parliament_tensions_side: "Tension in Parliament"
+ #BRA_BOP_1857_rethink_the_taxes_sucess_side: "Revise The Custom Fees Act pass"
+ #BRA_BOP_1857_reform_mortgage_system_sucess_side: "The Land Mortgage Act pass"
+ #BRA_BOP_1857_trade_treaty_with_uruguay_sucess_side: "The Trade Treat with Uruguay pass"
+ #BRA_BOP_1857_paper_money_wins_sucess_side: "Paper Currency Wins"
+ #BRA_BOP_1857_british_money_sucess_side: "British money in public stations pass"
+ #BRA_BOP_1857_press_national_bank_sucess_side: "Press National Bank works"
+ #BRA_BOP_1857_guarantee_bank_securities_sucess_side: "Guarantee Bank Securities works"
+ #BRA_BOP_1857_british_money_sucess_fail: "British money in public stations fail"
+ #BRA_BOP_1857_press_national_bank_fail_side: "Press National Bank fail"
+ #BRA_BOP_1857_guarantee_bank_securities_fail_side: "Guarantee Bank Securities works"
+ #BRA_BOP_1857_victory_of_cabinet_conciliatory_side: "Victory of Cabinet Conciliatory"
+ #BRA_BOP_1857_conservative_opposition_side: "The conservative opposition"
+ #BRA_BOP_1857_parliamentary_opposition_side: "The parliamentary opposition"
+ #BRA_BOP_1857_rethink_the_taxes_fail_side: "Revise The Custom Fees Act fail"
+ #BRA_BOP_1857_reform_mortgage_system_fail_side: "The Land Mortgage Act fail"
+ #BRA_BOP_1857_trade_treaty_with_uruguay_fail_side: "The Trade Treat with Uruguay fail"
+ #BRA_BOP_1857_metal_money_sucess_side: "The Metal Currency Wins"
+ #BRA_BOP_1857_minting_new_currencies_sucess_side: "Minting New Curreencies Fail"
+ #BRA_BOP_1857_collaborate_national_bank_sucess_side: "Collaborate National Bank Fail"
+ #BRA_BOP_1857_treasury_reserves_sucess_side: "Treasury Reserves Fail"
+ #BRA_BOP_1857_minting_new_currencies_sucess_side: "Minting New Curreencies Fail"
+ #BRA_BOP_1857_collaborate_national_bank_sucess_side: "Collaborate National Bank Fail"
+ #BRA_BOP_1857_treasury_reserves_sucess_side: "Treasury Reserves Fail"
+ #BRA_BOP_1857_victory_of_parliament_conservative_side: "Victory of Parliament Conservative"
+ #BRA_BOP_decision_category: "Brazil Balance to Power Decision"
+ #BRA_BOP_1857_conservative_opposition: "The Conservative Opposition"
+ #BRA_BOP_1857_parliamentary_opposition: "The Parliamentary Opposition"
+ #BRA_BOP_1857_conservative_divided: "The Conservative Party are Divided"
+ #BRA_BOP_1857_parliament_tensions: "Tension in Parliament"
+ #BRA_BOP_1857_victory_of_parliament_conservative: "Victory of Parliament Conservative"
+ #BRA_BOP_1857_victory_of_cabinet_conciliatory: "Victory of Cabinet Conciliatory"
+ #BRA_BOP_1857_parliament_conservative_side: "Parliament Conservative"
+ #BRA_BOP_1857_cabinet_conciliatory_side: "Cabinet Conciliatory"
+ BRA_Livestock_Ranch_Money: "Livestock Ranch Money"
+ BRA_Livestock_Ranch_Money_desc: "Livestock Ranch Total Money Income"
+ BRA_Cocoa_Plantations_Money: "Cocoa Plantations Money"
+ BRA_Cocoa_Plantations_Money_desc: "Cocoa Plantations Total Money Income"
+ BRA_Tobacco_Plantations_Money: "Tobacco Plantations Money"
+ BRA_Tobacco_Plantations_Money_desc: "Tobacco Plantations Total Money Income"
+ BRA_Coffee_Plantations_Money: "Coffee Plantations Money"
+ BRA_Coffee_Plantations_Money_desc: "Coffee Plantations Total Money Income"
+ BRA_Sugar_Plantations_Money: "Sugar Plantations Money"
+ BRA_Sugar_Plantations_Money_desc: "Sugar Plantations Total Money Income"
+ dynmod_BRA_Agriculture_Money: "Brazilian Agriculture"
+ dynmod_BRA_Agriculture_Money_desc: "The largest sector of the Brazilian economy is agriculture. One of the main reasons for Portuguese colonization is that the climatic variation found across the country allows for a multitude of potential economic activities. Be it coffee, tobacco, or sugarcane, there is an interest in its cultivation. However, this demonstrates that the economy of the Empire is, in its majority, still agrarian.\nMoney from Brazilian Agriculture: \n Livestock: [?BRA_Livestock_Country_Money] \n Coffee: [?BRA_Coffee_Country_Money]\n Sugar: [?BRA_Sugar_Country_Money] \n Tobacco: [?BRA_Tobacco_Country_Money] \n Cocoa: [?BRA_Livestock_Country_Money] \n Tea: [?BRA_Tea_Country_Money]"
+ dynmod_BRA_Agriculture_effect_tt: "§CThis will §Ymodify§! the §YBrazilian Agriculture§! spirit with the following effects:§!\n"
+ dynmod_BRA_New_World_Immigrants: "O Novo Mundo"
+ dynmod_BRA_New_World_Immigrants_desc: "As a nation in the New World, the population of Brazil is formed by immigration from other countries. Starting with the Portuguese, many ethnicities have found and will still find their way to our shores. This comes with its benefits; the immigrants bring with them knowledge and tradition, which can improve our country's culture. Economic growth is due to the increase in the size of the population and the settlement of the interior. Immigration, however, decreased after the approval of the 'Land Law', which forced new settlers to buy the lands from the government instead of settling them for free. If the Empire desires to become an industrial power, it needs to keep encouraging immigration to the country and facilitate and expand it in any way possible."
+ dynmod_BRA_New_World_Immigrants_effect_tt: "§CThis will §Ymodify§! the §YO Novo Mundo§! spirit with the following effects:§!\n"
+ BRA_idea_conservative_divided: "Conservative Party divided"
+ BRA_idea_conservative_divided_desc: "The Conservative Party is divided due to the President of the Council of Ministers appointing a Conciliatory Cabinet of liberals and conservatives."
+ BRA_tax_carriers: "Carrier Badges Taxation"
+ BRA_tax_carriers_desc: "As a result of a new law approved by the government of Salvador, the slave and free port carriers of the city are being forced to wear identification badges, which they themselves have to pay for."
+ BRA_african_workers_strikes: "Carriers General Strikes"
+ BRA_imperial_army: "Exército Imperial Brasileiro"
+ BRA_imperial_army_desc: "The Army of the Empire of Brazil is one of the most formidable land forces in the American continent. It was first organized in the War of Independence in September 1822, mainly by old Luso-Brazilian troops which stayed in the mainland and joined the cause of Dom Pedro I. It emerged victorious from the skirmishes against the Portuguese troops and by 1824 the war was over. Since then, the army went through many conflicts, including the Cisplatina War and, most recently, the Platine War. Following the end of the Platine War, the army's state started to decay, the number of troops decreased, and the lack of equipment and modernization became clear. If we expect to emerge victorious in future conflicts and secure our interests, the army needs to be modernized, rearmed and become the strongest in South America!"
+ BRA_imperial_navy: "Armada Imperial Brasileira"
+ BRA_imperial_navy_desc: "The Brazilian Armada is among the strongest fleets in the entire globe. Born in the struggle of Independence in 1822, the navy quickly assembled itself in order to protect the mainland from further Portuguese aggression. With the war concluded in 1825, the navy would be of key importance in securing the Empire's interests in the Platine Basin, being of key importance in the wars fought in the region. The navy needs to grow larger and stronger to maintain the status quo achieved in the Platine War, and to protect the lands of the Empire from outside aggression. However, the Empire currently does not sustain the capabilities to produce ships, forcing us to acquire new vessels from foreigners, such as the British and the French. If we want to make sure Brazil rules the waves, we must allocate new funds, and modernize and expand our fleet!"
+ BRA_imperial_army_effect_tt: "§CThis will §Ymodify§! the §YExército Imperial Brasileiro §! spirit with the following effects:§!\n"
+ BRA_imperial_navy_effect_tt: "§CThis will §Ymodify§! the §YArmada Imperial Brasileira §! spirit with the following effects:§!\n"
+ BRA_mission_Afro_Brazilian_Carriers_Strikes_in_Bahia: "Carrier General Strike in Bahia"
+ brazil_papelist: "“Chose the Papelista Tactic”"
+ brazil_metalist: "“Chose the Metalista Tactic”"
+ BRA_aftermath_panic_of_1857: "Aftermath of the Economic Crisis"
+ bahia_revolution: "Bahia Revolution!"
+ BHA_trait_veteran_of_the_males_revolt: "Veteran of the Malês Revolt"
+ Second_Males_Revolt_Peace_Treaty_Mission: "End of The Second Malês Revolt"
+ Second_Males_Revolt_Peace_Treaty_Mission_desc: "The Second Malês Revolt will trigger peace if: \n§Y[BRA.GetName]§! wins the conflict upon capturing §YSalvador§!!\n§Y[BHA.GetName]§! wins the conflict upon capturing §YRecife§!!\n"
+ Second_Males_Revolt_Mission_Brazil_WIN: "§Y[BRA.GetName]§! wins the conflict upon capturing §YSalvador§!!\n"
+ Second_Males_Revolt_Mission_Bahia_WIN: "§Y[BHA.GetName]§! wins the conflict upon capturing §YRecife§!!\n"
+ BRA_male_revolt_reparation: "Malês Reparations"
+ BHA_trait_persistent_fighter: "Persistent Fighter"
+ brazil_wins_males: "§Y[BRA.GetName]§! wins the Second Malês Revolt"
+ bahia_wins_males: "§Y[BHA.GetName]§! wins the Second Malês Revolt"
+ BRA_typographer_strikes: "Typographer Strikes"
   
  #Events 
   
@@ -1321,7 +1321,7 @@
  brazil.65.t: "Debate over economic policy"
  brazil.65.d: "There are two tactics of dealing with national finances and dealing with the crisis. \nThe metalistic tactic increases stability through the adoption of the gold standard and the monopoly of issuance by a national bank. \nWith an opposite guideline, the paper tactic proposes issuing plurality, allowing any bank to issue bonds equivalent to paper money. The market is self-regulating and guarantees monetary liquidity.\nThe current Minister of Finance is a staunch defender of banking plurality, and therefore a supporter of paper tactics."
  brazil.65.a: "Adopt paper tatics"
- brazil.65.b: "Adopt metal tactics" #NT!
+ brazil.65.b: "Adopt metal tactics"
  brazil.66.t: "The Ibicaba Revolt!"
  brazil.66.d: "The Ibicaba Revolt was a rebellion of foreign workers at the Ibicaba Farm in Limeira, within the province of Sao Paulo. They rebelled against the exploitation of their labor by Brazilian masters who used the partnership system. In the partnership system, rules were set for the organization of work and labor, and for the division of earnings from coffee production. However, the partnership system began to face problems. One of its most frequent problems was the immigrant revolts over mistreatment and their endless indebtedness to the coffee farmers. Immigrant workers demand better treatment conditions and fair pay for their work.\nThis revolt showed that it is necessary to replace the so-called partnership system by paying for work through salary instead.\nOur decision may affect relations with European countries."
  brazil.66.a: "Investigate the case but ignore the workers demands! We have to hide this scandal!"
@@ -1332,15 +1332,15 @@
  brazil.68.t: "The Scandal of the Ibicaba Revolt"
  brazil.68.d: "Our attempt to hide the Ibicaba Revolt was unsuccessful. \nThe scandal leaked and the European press reported the revolt and the treatment that the immigrants received from the Brazilian Lords. The European Kingdoms repudiated the treatment analogous to slavery that their people received and demand from the Empire of Brazil a better treatment of its citizens."
  brazil.68.a: "This is a disaster!"
- brazil.69.t: "The First Legislature After Reform!" #NT!
- brazil.69.d: "During the office of the Marquis of Paraná, in 1855, the last electoral reform took place. Proposed by Carneiro Leão, Marquis of Paraná, to avoid a conservative majority in the chamber, the famous 'Circles Law' aimed to revert the exclusion caused by the electoral reform of 1846 and generate a renewal in the parliament's staff. \nThe vast majority of the members of the conservative political group are landowners or public servants. The idea is that politicians must step away from public office for at least 6 months before being able to run for office, in order to reduce his influence on the electorate. \nIn addition to limiting the activities of public servants, the 1855 'Law of Circles' determines the division into circles, or electoral districts, in which each circle elects a deputy. Consequently, with the new rules and the decentralization of voting, there is a major renewal in parliament, which now is composed by a third by liberals." #NT!
- brazil.69.a: "Hooray for the legislature!" #NT!
- brazil.70.t: "History of the Empire of Brazil" #NT!
- brazil.70.d: "The country we know today as the Empire of Brazil was born in 1822, after years of being a united kingdom with Portugal. The attempt to reduce Brazil's autonomy backfired and resulted in the famous cry of Regent-Prince Pedro on September 7: “Independence or death!” In the years that followed, Brazil became independent and Pedro was crowned Emperor Dom Pedro I. Over the next decade, Brazil faced corruption, scandals, revolts and instability, all of which led to Dom Pedro I's abdication and his return to Portugal in 1831, leaving his 5-year-old son Pedro alone in Brazil. Over the next few years, the empire was barely able to remain intact, separatist revolts in Rio Grande do Sul and Santa Catarina as well as social and slave uprisings in the southeast, north and northeast of the country called the authority of the Regencial Council into question. Finally, in 1840, the parliament was forced by a coup d'état to accept the coronation of the 15-year-old Prince Pedro. Dom Pedro II then set out to stabilize and unite Brazil." #NT!
- brazil.70.a: "“Ave Glória...”" #NT!
- brazil.71.t: "The Reign of Dom Pedro II" #NT!
- brazil.71.d: "The coronation of Dom Pedro II resonated throughout the empire, and the image of the emperor led to a decrease in revolts and an increase in political stability. In 1847, the office of Prime-Minister was introduced, making the country an almost entirely parliamentary monarchy, considering that the monarch still appointed the Prime-Minister and senators based on a list of candidates sent by Parliament. Finally, in 1850, under the influence of British pressure, the controversial Eusébio de Queirós Act finally banned the transatlantic slave trade, beginning the long journey towards the abolition of slavery.\n\nThe secessionist uprisings in the south of the country were put down by the imperial army, and in March 1845, the Rio-Grandense Republic was dissolved, ending the secessionist chaos in the region.\nThe empire is now united and the eyes of the world are turned to Brazil, as the nation enjoys of economic growth and enters its Golden Age. Will the foundations laid by Dom Pedro II flourish into a strong, industrially modernized country? Or will it be destroyed by the advocates of slavery and the positivist cells that threaten our monarchy?" #NT!
- brazil.71.a: "“...Ave Império!”" #NT!
+ brazil.69.t: "The First Legislature After Reform!"
+ brazil.69.d: "During the office of the Marquis of Paraná, in 1855, the last electoral reform took place. Proposed by Carneiro Leão, Marquis of Paraná, to avoid a conservative majority in the chamber, the famous 'Circles Law' aimed to revert the exclusion caused by the electoral reform of 1846 and generate a renewal in the parliament's staff. \nThe vast majority of the members of the conservative political group are landowners or public servants. The idea is that politicians must step away from public office for at least 6 months before being able to run for office, in order to reduce his influence on the electorate. \nIn addition to limiting the activities of public servants, the 1855 'Law of Circles' determines the division into circles, or electoral districts, in which each circle elects a deputy. Consequently, with the new rules and the decentralization of voting, there is a major renewal in parliament, which now is composed by a third by liberals."
+ brazil.69.a: "Hooray for the legislature!"
+ brazil.70.t: "History of the Empire of Brazil"
+ brazil.70.d: "The country we know today as the Empire of Brazil was born in 1822, after years of being a united kingdom with Portugal. The attempt to reduce Brazil's autonomy backfired and resulted in the famous cry of Regent-Prince Pedro on September 7: “Independence or death!” In the years that followed, Brazil became independent and Pedro was crowned Emperor Dom Pedro I. Over the next decade, Brazil faced corruption, scandals, revolts and instability, all of which led to Dom Pedro I's abdication and his return to Portugal in 1831, leaving his 5-year-old son Pedro alone in Brazil. Over the next few years, the empire was barely able to remain intact, separatist revolts in Rio Grande do Sul and Santa Catarina as well as social and slave uprisings in the southeast, north and northeast of the country called the authority of the Regencial Council into question. Finally, in 1840, the parliament was forced by a coup d'état to accept the coronation of the 15-year-old Prince Pedro. Dom Pedro II then set out to stabilize and unite Brazil."
+ brazil.70.a: "“Ave Glória...”"
+ brazil.71.t: "The Reign of Dom Pedro II"
+ brazil.71.d: "The coronation of Dom Pedro II resonated throughout the empire, and the image of the emperor led to a decrease in revolts and an increase in political stability. In 1847, the office of Prime-Minister was introduced, making the country an almost entirely parliamentary monarchy, considering that the monarch still appointed the Prime-Minister and senators based on a list of candidates sent by Parliament. Finally, in 1850, under the influence of British pressure, the controversial Eusébio de Queirós Act finally banned the transatlantic slave trade, beginning the long journey towards the abolition of slavery.\n\nThe secessionist uprisings in the south of the country were put down by the imperial army, and in March 1845, the Rio-Grandense Republic was dissolved, ending the secessionist chaos in the region.\nThe empire is now united and the eyes of the world are turned to Brazil, as the nation enjoys of economic growth and enters its Golden Age. Will the foundations laid by Dom Pedro II flourish into a strong, industrially modernized country? Or will it be destroyed by the advocates of slavery and the positivist cells that threaten our monarchy?"
+ brazil.71.a: "“...Ave Império!”"
  brazil.300.t: "Promulgation of the Trade and Navigation Treaty between [BRA.GetNameDef] and [URG.GetNameDef]"
  brazil.300.d: "On [GetDateText] the government of [BRA.GetLeader] concludes with the government of [URG.GetLeader] an agreement on navigation and trade, ensuring good trade relations between [BRA.GetNameDef] and [URG.GetNameDef]."
  brazil.300.a: "Good news!"
@@ -1356,15 +1356,15 @@
  brazil.304.t: "Promulgation of the Boundary, Friendship and Trade Treaties between [BRA.GetNameDef] and [PAR.GetNameDef]"
  brazil.304.d: "On [GetDateText] the government of [BRA.GetLeader] concludes with the government of [PAR.GetLeader] an agreement on boundary, friendship and trade, ensuring good trade relations between [BRA.GetNameDef] and [PAR.GetNameDef]."
  brazil.304.a: "Good news!"
- brazil.304.b: "We decline!" #NT!
+ brazil.304.b: "We decline!"
  brazil.305.t: "Promulgation of the Boundary, Friendship and Trade Treaties between [BRA.GetNameDef] and [PAR.GetNameDef]"
  brazil.305.d: "On [GetDateText] the government of [BRA.GetLeader] concludes with the government of [PAR.GetLeader] an agreement on boundary, friendship and trade, ensuring good trade relations between [BRA.GetNameDef] and [PAR.GetNameDef]."
  brazil.305.a: "Good news!"
  brazil.306.t: "Promulgation of the Boundary, Friendship and Trade Treaties between [BRA.GetNameDef] and [ARG.GetNameDef]"
  brazil.306.d: "On [GetDateText] the government of [BRA.GetLeader] concludes with the government of [ARG.GetLeader] an agreement on boundary, friendship and trade, ensuring good trade relations between [BRA.GetNameDef] and [ARG.GetNameDef]."
  brazil.306.a: "Good news!"
- brazil.306.b: "We decline" #NT!
- brazil.306.c: "Good news!" #NT!
+ brazil.306.b: "We decline"
+ brazil.306.c: "Good news!"
  brazil.307.t: "Promulgation of the Boundary, Friendship and Trade Treaties between [BRA.GetNameDef] and [ARG.GetNameDef]"
  brazil.307.d: "On [GetDateText] the government of [BRA.GetLeader] concludes with the government of [ARG.GetLeader] an agreement on boundary, friendship and trade, ensuring good trade relations between [BRA.GetNameDef] and [ARG.GetNameDef]."
  brazil.307.a: "Good news!"
@@ -1396,16 +1396,16 @@
  brazil.315.b: "[URG.GetLeader]’s government allowed private [BRA.GetAdjetiveCap] investments in [URG.GetNameDef] only in small businesses."
  brazil.315.c: "[URG.GetNameDef]’s government rejected the proposal, but is interested in improving [URG.GetNameDef]’s trade relations with Brazil."
  brazil.315.e: "[URG.GetLeader]'s government ignored our proposal."
- brazil.316.t: "Which Argentina?" #NT!
- brazil.316.d: "Argentina is currently split in two: Buenos Aires on one side and the Argentine Confederation on the other. A choice to send a mission to one will almost definitely result in the other shunning us! To which Argentina should we send the mission?" #NT!
- brazil.316.a: "Buenos Aires is the true Argentina" #NT!
- brazil.316.b: "The Argentine Confederation is the only legitimate contender" #NT!
- brazil.317.t: "Promulgation of the Boundary, Friendship and Trade Treaties Between [BRA.GetNameDef] and [ARG.GetNameDef]" #NT!
- brazil.317.d: "On [GetDateText] the government of [BRA.GetLeader] failed to conclude with the government of [ARG.GetLeader] an agreement on boundary, friendship and trade, ensuring good trade relations between [BRA.GetNameDef] and [ARG.GetNameDef]." #NT!
- brazil.317.a: "Unfortunate" #NT!
- brazil.318.t: "Promulgation of the Boundary, Friendship and Trade Treaties Between [BRA.GetNameDef] and [PAR.GetNameDef]" #NT!
- brazil.318.d: "On [GetDateText] the government of [BRA.GetLeader] failed to conclude with the government of [PAR.GetLeader] an agreement on boundary, friendship and trade, ensuring good trade relations between [BRA.GetNameDef] and [PAR.GetNameDef]." #NT!
- brazil.318.a: "Unfortunate" #NT!
+ brazil.316.t: "Which Argentina?"
+ brazil.316.d: "Argentina is currently split in two: Buenos Aires on one side and the Argentine Confederation on the other. A choice to send a mission to one will almost definitely result in the other shunning us! To which Argentina should we send the mission?"
+ brazil.316.a: "Buenos Aires is the true Argentina"
+ brazil.316.b: "The Argentine Confederation is the only legitimate contender"
+ brazil.317.t: "Promulgation of the Boundary, Friendship and Trade Treaties Between [BRA.GetNameDef] and [ARG.GetNameDef]"
+ brazil.317.d: "On [GetDateText] the government of [BRA.GetLeader] failed to conclude with the government of [ARG.GetLeader] an agreement on boundary, friendship and trade, ensuring good trade relations between [BRA.GetNameDef] and [ARG.GetNameDef]."
+ brazil.317.a: "Unfortunate"
+ brazil.318.t: "Promulgation of the Boundary, Friendship and Trade Treaties Between [BRA.GetNameDef] and [PAR.GetNameDef]"
+ brazil.318.d: "On [GetDateText] the government of [BRA.GetLeader] failed to conclude with the government of [PAR.GetLeader] an agreement on boundary, friendship and trade, ensuring good trade relations between [BRA.GetNameDef] and [PAR.GetNameDef]."
+ brazil.318.a: "Unfortunate"
  brazil.501.t: "Result of putting pressure on the national bank"
  brazil.501.d: "The board of the national bank refused to use the reserves to support the national currency."
  brazil.501.a: "The effects of the crisis remain strong."
@@ -1696,52 +1696,52 @@
  brazil.563.t: "The São Paulo Tramsway"
  brazil.563.d: "The construction of The São Paulo Tramsway is finally completed."
  brazil.563.a: "Huzzah!"
- brazil.900.t: "General Strike in Bahia" #NT!
- brazil.900.d: "In response to the approval of a city-law in Salvador, Bahia, which forces the enslaved and free port carriers to use identification badges and forces the carriers to pay taxes for said badges, the carriers have gone into strike, with the general public siding with the carriers!" #NT!
- brazil.900.a: "Oh no!" #NT!
- brazil.901.t: "A Solution to the General Strike in Bahia?" #NT!
- brazil.901.d: "After approaching local politicians, three options were presented to deal with the strike in Salvador. The president of the Province of Bahia has suggested that repealing the law should end the general strike and bring back stability to the city, others say we should try and negotiate for more favourable terms, while some say we shouldn't negotiate with them, and use our military to suppress the strike. \nWhat should we do?" #NT!
- brazil.901.a: "Repeal the law" #NT!
- brazil.901.b: "Try to negotiate with the carriers" #NT!
- brazil.901.c: "Use the military to suppress the strikes" #NT!
- brazil.902.t: "Repealing the Law!" #NT!
- brazil.902.d: "On the recommendation of the president of the province of Bahia, it was decided to revoke the city-law in Salvador that would force slave and free carriers to wear identification and pay taxes for transport work. The strikers decided to end the strike that affected the transportation of goods in Bahia." #NT!
- brazil.902.a: "Thank God!" #NT!
- brazil.903.t: "Negotiations with the Carriers are Successful!" #NT!
- brazil.903.d: "Negotiations with the carriers have been successful! The carriers and the government of Salvador have reached a deal, where they will still wear identification badges, while not paying taxes for them! The general strike is over and the carriers have returned to work." #NT!
- brazil.903.a: "Thank God!" #NT!
- brazil.904.t: "Negotiations with the Carriers Fail!" #NT!
- brazil.904.d: "Negotiations have failed, we are forced to concede to their demands, and repeal the law. This has resulted in a small decrease to the legitimacy of Bahia's government, but the worst is over." #NT!
- brazil.904.a: "All for nothing..." #NT!
- brazil.905.t: "The Military Suppresses the Strikes" #NT!
- brazil.905.d: "The use of the military has successfully dispersed the strike, but that has resulted in a strong decrease of popularity for the government of Bahia. The carriers are furious that their demands were not met, resulting in damage to the port and infrastructure. Rumors of an uprising have been increasing ever since the end of the general strike, which worries the high command of the army and the country's parliament." #NT!
- brazil.905.a: "Actions have consequences..." #NT!
- brazil.906.t: "The Military Aggressively Suppresses the Strikes" #NT!
- brazil.906.d: "The use of the military has successfully dispersed the strike, but that has resulted in a strong decrease of popularity for the government of Bahia. The carriers are furious that their demands were not met, resulting in damage to the port, infrastructure and to the city's industry. Rumors of an uprising have been only increasing ever since the end of the general strike, which worries the high command of the army and the country's parliament." #NT!
- brazil.906.a: "Actions have consequences..." #NT!
- brazil.907.t: "Violence in Salvador Results in Massacre!" #NT!
- brazil.907.d: "Discontentment within the city of Salvador only increased since the military breakdown on the general strike. Today, a group of carrier strikers got into a fight with the military garrison in the city. The military were hit by stones and sticks, and responded with violence. This event led to the death of 11 carriers. As a response, the strikers have raided a depot of guns in the port of Salvador, and have sucessfully expelled the military garrison from the city." #NT!
- brazil.907.a: "The situation got out of hand..." #NT!
- brazil.909.t: "The Typographers Strikes!" #NT!
- brazil.909.d: "Due to an increase to the costs of food and renting, the typographers of Rio de Janeiro have decided to strike against low wages and demand a wage increase to 1000 réis per day. This strike has led to newspapers that normally would have four pages on the standard size having only 2 or none at all." #NT!
- brazil.909.a: "Oh no!" #NT!
- brazil.910.t: "A Solution to the Typographer Strike?" #NT!
- brazil.910.d: "The Papers owners, the writing bosses and investors have called for agressive repression and police intervention. The Minister of Finance Bernado de Sousa Franco suggested that the so called composers of the National Typography, subordinate to him, help to disperse the strike. What shall we do?" #NT!
- brazil.910.a: "Use typographers of the National Typography to penetrate the strike" #NT!
- brazil.910.b: "Use the police to disperse the strikers" #NT!
- brazil.910.c: "Do nothing" #NT!
- brazil.911.t: "National Typography Typographers Agree to Help Us" #NT!
- brazil.911.d: "The typographers have agreed to help us to stop the typographer strike in Rio de Janeiro, with their help, we have succeeded in doing so and the workers have returned to their daily life." #NT!
- brazil.911.a: "The strike is over!" #NT!
- brazil.912.t: "National Typography Typographers Side with the Strikers" #NT!
- brazil.912.d: "The typographers have refused to help us, and have instead met in assemblies and have demonstrated solidarity with their colleagues. We will have to concede to their demands." #NT!
- brazil.912.a: "We are forced to concede.." #NT!
- brazil.913.t: "Using the Police to Disperse the Strikers" #NT!
- brazil.913.d: "The use of police violence has successfully crushed the strike movement, but that has costed us lives and prestige. As the typographers have now grown discontent not only to their work conditions, but to the government of Rio de Janeiro." #NT!
- brazil.913.a: "A Brutal end.." #NT!
- brazil.914.t: "End of the Typographer Strike" #NT!
- brazil.914.d: "After weeks of demonstrations and manifestations of discontent and protest against the work conditions of the typographers, the leaders of the strike have decided to end the strike and have returned to work." #NT!
- brazil.914.a: "Back to work they go!" #NT!
+ brazil.900.t: "General Strike in Bahia"
+ brazil.900.d: "In response to the approval of a city-law in Salvador, Bahia, which forces the enslaved and free port carriers to use identification badges and forces the carriers to pay taxes for said badges, the carriers have gone into strike, with the general public siding with the carriers!"
+ brazil.900.a: "Oh no!"
+ brazil.901.t: "A Solution to the General Strike in Bahia?"
+ brazil.901.d: "After approaching local politicians, three options were presented to deal with the strike in Salvador. The president of the Province of Bahia has suggested that repealing the law should end the general strike and bring back stability to the city, others say we should try and negotiate for more favourable terms, while some say we shouldn't negotiate with them, and use our military to suppress the strike. \nWhat should we do?"
+ brazil.901.a: "Repeal the law"
+ brazil.901.b: "Try to negotiate with the carriers"
+ brazil.901.c: "Use the military to suppress the strikes"
+ brazil.902.t: "Repealing the Law!"
+ brazil.902.d: "On the recommendation of the president of the province of Bahia, it was decided to revoke the city-law in Salvador that would force slave and free carriers to wear identification and pay taxes for transport work. The strikers decided to end the strike that affected the transportation of goods in Bahia."
+ brazil.902.a: "Thank God!"
+ brazil.903.t: "Negotiations with the Carriers are Successful!"
+ brazil.903.d: "Negotiations with the carriers have been successful! The carriers and the government of Salvador have reached a deal, where they will still wear identification badges, while not paying taxes for them! The general strike is over and the carriers have returned to work."
+ brazil.903.a: "Thank God!"
+ brazil.904.t: "Negotiations with the Carriers Fail!"
+ brazil.904.d: "Negotiations have failed, we are forced to concede to their demands, and repeal the law. This has resulted in a small decrease to the legitimacy of Bahia's government, but the worst is over."
+ brazil.904.a: "All for nothing..."
+ brazil.905.t: "The Military Suppresses the Strikes"
+ brazil.905.d: "The use of the military has successfully dispersed the strike, but that has resulted in a strong decrease of popularity for the government of Bahia. The carriers are furious that their demands were not met, resulting in damage to the port and infrastructure. Rumors of an uprising have been increasing ever since the end of the general strike, which worries the high command of the army and the country's parliament."
+ brazil.905.a: "Actions have consequences..."
+ brazil.906.t: "The Military Aggressively Suppresses the Strikes"
+ brazil.906.d: "The use of the military has successfully dispersed the strike, but that has resulted in a strong decrease of popularity for the government of Bahia. The carriers are furious that their demands were not met, resulting in damage to the port, infrastructure and to the city's industry. Rumors of an uprising have been only increasing ever since the end of the general strike, which worries the high command of the army and the country's parliament."
+ brazil.906.a: "Actions have consequences..."
+ brazil.907.t: "Violence in Salvador Results in Massacre!"
+ brazil.907.d: "Discontentment within the city of Salvador only increased since the military breakdown on the general strike. Today, a group of carrier strikers got into a fight with the military garrison in the city. The military were hit by stones and sticks, and responded with violence. This event led to the death of 11 carriers. As a response, the strikers have raided a depot of guns in the port of Salvador, and have sucessfully expelled the military garrison from the city."
+ brazil.907.a: "The situation got out of hand..."
+ brazil.909.t: "The Typographers Strikes!"
+ brazil.909.d: "Due to an increase to the costs of food and renting, the typographers of Rio de Janeiro have decided to strike against low wages and demand a wage increase to 1000 réis per day. This strike has led to newspapers that normally would have four pages on the standard size having only 2 or none at all."
+ brazil.909.a: "Oh no!"
+ brazil.910.t: "A Solution to the Typographer Strike?"
+ brazil.910.d: "The Papers owners, the writing bosses and investors have called for agressive repression and police intervention. The Minister of Finance Bernado de Sousa Franco suggested that the so called composers of the National Typography, subordinate to him, help to disperse the strike. What shall we do?"
+ brazil.910.a: "Use typographers of the National Typography to penetrate the strike"
+ brazil.910.b: "Use the police to disperse the strikers"
+ brazil.910.c: "Do nothing"
+ brazil.911.t: "National Typography Typographers Agree to Help Us"
+ brazil.911.d: "The typographers have agreed to help us to stop the typographer strike in Rio de Janeiro, with their help, we have succeeded in doing so and the workers have returned to their daily life."
+ brazil.911.a: "The strike is over!"
+ brazil.912.t: "National Typography Typographers Side with the Strikers"
+ brazil.912.d: "The typographers have refused to help us, and have instead met in assemblies and have demonstrated solidarity with their colleagues. We will have to concede to their demands."
+ brazil.912.a: "We are forced to concede.."
+ brazil.913.t: "Using the Police to Disperse the Strikers"
+ brazil.913.d: "The use of police violence has successfully crushed the strike movement, but that has costed us lives and prestige. As the typographers have now grown discontent not only to their work conditions, but to the government of Rio de Janeiro."
+ brazil.913.a: "A Brutal end.."
+ brazil.914.t: "End of the Typographer Strike"
+ brazil.914.d: "After weeks of demonstrations and manifestations of discontent and protest against the work conditions of the typographers, the leaders of the strike have decided to end the strike and have returned to work."
+ brazil.914.a: "Back to work they go!"
  brazil.foreign.1.t: "New USA Minister in Brazil"
  brazil.foreign.1.d: "In October 1861, the new Representative Minister of the United States of America in Brazil, James Watson Webb, disembarked in Rio de Janeiro. The exchange is due to the fact that the previous American minister, Richard Kidder Meade Jr., extremely popular in Brazil, became an ally of the Confederate States of America, a country with which the states are in a state of Civil War. One of the new minister's missions is to get political support in Brazil to stop any aid and close the ports to the Confederates."
  brazil.foreign.1.d_USA: "In October 1861, President [USA.GetLeader] (Abraham Lincoln) added as the new US Minister in Brazil, James Watson Webb. Former Minister Richard Kidder Meade Jr., appointed by President James Buchanan, poses a threat to US interests as he openly supports the cause of the Confederation. The new minister has a mission to secure diplomatic support against traitors to the south and to attempt an economic treaty with the Empire of Brazil."
@@ -1851,9 +1851,9 @@
  brazil.foreign.23.b: "Ultimatum to Uruguay!"
  brazil.foreign.23.c: "We must support the interests of Brazilians in the region!"
  brazil.foreign.23.e: "We must support the interests of Argentinians in the region!"
- brazil.foreign.24.t: "War Breaks Out" #NT!
- brazil.foreign.24.d: "The Brazilian ultimatum was rejected by the Uruguayan government in Montevideo. In light of this, the Brazilian Minister Plenipotentiary informed the Blanco leaders that in rejecting the ultimatum, the Brazilian military received orders to initiate retaliation against Uruguay. The Brazilian intervention had the local support of the Colorado Rebels who saw the opportunity to finally take power in Montevideo. The sending of Brazilian troops against Uruguay, now commanded directly by officers of the imperial army, starts the Uruguay War." #NT!
- brazil.foreign.24.a: "We must fight for our country!" #NT!
+ brazil.foreign.24.t: "War Breaks Out"
+ brazil.foreign.24.d: "The Brazilian ultimatum was rejected by the Uruguayan government in Montevideo. In light of this, the Brazilian Minister Plenipotentiary informed the Blanco leaders that in rejecting the ultimatum, the Brazilian military received orders to initiate retaliation against Uruguay. The Brazilian intervention had the local support of the Colorado Rebels who saw the opportunity to finally take power in Montevideo. The sending of Brazilian troops against Uruguay, now commanded directly by officers of the imperial army, starts the Uruguay War."
+ brazil.foreign.24.a: "We must fight for our country!"
  brazil.foreign.news.1.t: "Uruguayan Civil War!"
  brazil.foreign.news.1.d: "Brigadier General Venâncio Flores, a platinum caudillo, started a revolt against the Fusionist government between Blancos and Colorados in Montevideo. Flores accuses the Montevideo government of having sympathies with the Blancos and calls their rebellion a liberating crusade, familiar terms from a Colorado struggle against the Blancos. The Colorados joined the rebellion, which attracted its members to deserters from military service in response to Flores appeal."
  brazil.foreign.news.1.a: "Crush the rebels!"
@@ -1906,13 +1906,13 @@
  brazil.prime.minister.appointed.1.d: "The President of the Council of Ministers (equivalent to the Prime Minister) is the position created to assist the exercise of Executive Power by the Emperor. Responsible for the appointment and formation of the Government Office, the President is also a counterweight to the elite of the General Assembly of the Empire (Parliament), choosing whether the Office or the Assembly prevails.\nDue to disagreements between the Cabinet and the Assembly, the Emperor may appoint a new President of the Council of Ministers."
  brazil.prime.minister.appointed.1.a: "Viscount of Abaeté, Conservative"
  brazil.prime.minister.appointed.1.b: "Eusébio de Queirós, Ultra Conservative"
- brazil.prime.minister.appointed.1.c: "Paulino Soares de Sousa, Viscount of Uruguai, Conservative" #NT!
+ brazil.prime.minister.appointed.1.c: "Paulino Soares de Sousa, Viscount of Uruguai, Conservative"
  brazil.prime.minister.appointed.1.e: "Francisco Furtado, Liberal"
  brazil.prime.minister.appointed.2.a: "Baron of Uruguaiana, Conservative Party"
  brazil.prime.minister.appointed.2.b: "Viscount of Rio Branco, Conservative Party"
  brazil.prime.minister.appointed.2.c: "Francisco Furtado, Liberal Party"
  brazil.prime.minister.appointed.2.e: "Marquis of Paranaguá, Liberal Party"
- brazil.prime.minister.appointed.2.f: "Teófilo Ottoni, Radical Liberal" #NT!
+ brazil.prime.minister.appointed.2.f: "Teófilo Ottoni, Radical Liberal"
  brazil.prime.minister.appointed.3.a: "Duke of Caxias, Conservative Party"
  brazil.prime.minister.appointed.3.b: "Viscount of Itaboraí, Conservative Party"
  brazil.prime.minister.appointed.3.c: "Nabuco de Araújo, Liberal Party"
@@ -1965,10 +1965,10 @@
  brazil_news.4.c: "Brittannia is victorious again!"
  brazil_news.5.t: "The Treaty of Ayacucho"
  brazil_news.5.d: "The Brazilian Diplomat Felippe Lopes Neto and Mariano Donato Muñoz have met in Ayacucho and decided to sign a treaty between the two nations of of friendship, boundaries, navigation, commerce and extradition. The border conflicts that were once present are now solved temporarily, as Brazilians are free to move into Bolivia and Bolivian ships are also free to travel and trade within Brazilian rivers."
- brazil_news.6.t: "The Treaty of Ayacucho fails" #NT!
+ brazil_news.6.t: "The Treaty of Ayacucho fails"
  brazil_news.5.a: "Peaceful news."
- brazil_news.6.d: "The Brazilian Diplomat Felippe Lopes Neto and Mariano Donato Muñoz have met in Ayacucho and failed to sign a treaty between the two nations" #NT!
- brazil_news.6.a: "Unfortunate" #NT!
+ brazil_news.6.d: "The Brazilian Diplomat Felippe Lopes Neto and Mariano Donato Muñoz have met in Ayacucho and failed to sign a treaty between the two nations"
+ brazil_news.6.a: "Unfortunate"
  brazil.minister.actions.0.t: "President of Council of Ministers"
  brazil.minister.actions.0.d: "Pedro de Araújo Lima, the Marquis of Olinda, was appointed as President of the Council of Ministers in May 1857 by Emperor Dom Pedro II, being scrutinized by the General Assembly of the Empire of Brazil shortly thereafter. In 1837, Pedro de Araújo Lima was one of the founders of the first national political association, the party of order. The party of order, also called regressist, is the direct successor of the Restoration Party, also called Caramuru, being formed from the union of the latter with dissidents of the Moderate Liberal Party, also called Ximangos, and had as its political objective the fight against liberal measures taken during the Regency of Diogo Antônio Feijó, popularly known as Father Feijó. Later the Party of Order adopted the name of the Conservative Party. In September 1837, with the resignation of the acting Regent Diogo Antônio Feijó, Pedro de Araújo Lima was elected Regent of the Empire of Brazil, after a fierce dispute with the liberal candidate, Antônio de Holanda Cavalcanti, and governed the country in the name of Dom Pedro II, who was 12 years old. During his regency, he implemented the policies of the regressive movement by editing in 1840 the Law of Interpretation of the Additional Act, which reversed the liberal measures adopted since 1834. During the regency period in Brazil, unemployment, large estates and the excessive power of large landowners provoked numerous uprisings, such as the Farroupilha, a separatist revolt in the provinces of Rio Grande do Sul and Santa Catarina, the Sabinada, a revolt in the province of Bahia, and the Cabanagem, a revolt in the province of Pará. Pedro de Araújo Lima faced the revolts with repression and strengthened the central government.\n	   In retaliation against the Conservative Party, on July 23, 1840, the Liberal Party, created from the union of the Exalted Liberal Party and the Moderate Liberal Party, engineered the Majority Coup, where Pedro II took the throne at 15 and Pedro de Araújo Lima, was removed from the Regency. Despite this, during the coronation of Pedro II in 1841, Pedro de Araújo Lima received the noble title of Viscount of Olinda. And in 1842 he was appointed Minister of the Council of State.\n	In 1848, with the victory of the Conservatives in the provincial elections, the Viscount of Olinda was appointed President of the Council of Ministers, a position created in July 1847 to head the State Council of Ministers. During this period Olinda appointed the deputy from Pará Herculano Pena as President of the province of Pernambuco. The response to this appointment was the beginning of an uprising in the province of Pernambuco, called the Praieira Revolution.\n	In 1854, Pedro de Araújo Lima was elevated from viscount to marquis. With the experience of the Marquis of Olinda, the Empire of Brazil will achieve prosperity."
  brazil.minister.actions.0.a: "Welcome to the 9th Cabinet of the Empire of Brazil, Pedro de Araújo Lima, Marquis of Olinda"
@@ -1983,9 +1983,9 @@
  brazil.minister.actions.5.d: "The President of the Council of Minister wants the appointment of advisors to compose his ministry."
  #brazil.minister.actions.5.d: "José Maria da Silva Paranhos, is simultaneously holding the position of Minister of Foreign Affairs and the position of Minister of War. Although Paranhos is an extraordinary professional, mainly in relations with neighboring countries, it is necessary to appoint a permanent Minister of War who will dedicate himself exclusively to the position. Manuel Felizardo de Sousa e Melo is the right man for the job. Having already held the position of Minister of War in previous cabinets, Sousa e Melo has the necessary experience for the position."
  brazil.minister.actions.5.a: "OK"
- brazil.minister.actions.6.t: "Conservative Party Divided" #NT!
- brazil.minister.actions.6.d: "The ultraconservative members of the Conservative Party expressed dissatisfaction with the choice of liberal ministers in the cabinet of Pedro de Araújo Lima, Marquis of Olinda, who is a founding member of the party.\nThe ultraconservative faction will oppose liberal measures proposed by the Olinda cabinet." #NT!
- brazil.minister.actions.6.a: "OK" #NT!
+ brazil.minister.actions.6.t: "Conservative Party Divided"
+ brazil.minister.actions.6.d: "The ultraconservative members of the Conservative Party expressed dissatisfaction with the choice of liberal ministers in the cabinet of Pedro de Araújo Lima, Marquis of Olinda, who is a founding member of the party.\nThe ultraconservative faction will oppose liberal measures proposed by the Olinda cabinet."
+ brazil.minister.actions.6.a: "OK"
  brazil_votes.1.t: "Medical School Regulations"
  brazil_votes.1.d: "With the objective of increasing the number of medical professionals working in Holy House of Mercy Hospitals, a Act is proposed to amend articles 280 and 292 of the supplementary regulation of the statute of medical school and faculties to enable the practice of medicine to students of the 4th year, 5th year and 6th year, after approval in the competitions for intern vacancies, and all functions assigned as an intern in all Holy House of Mercy Hospitals of Empire."
  brazil_votes.1.a: "Interesting"
@@ -2206,31 +2206,31 @@
  brazil_votes_results.22.a: "Yes!"
  brazil_votes_results.22.b: "No!"
  brazil_votes_results.22.c: "Damn!"
- brazil_votes.23.t: "Friendship Treaty between Brazil and the Argentine Confederation Act" #NT!
- brazil_votes.23.d: "This Act proposes to establish a Friendship Treaty between Empire of Brazil and the Argentine Confederation." #NT!
- brazil_votes.23.a: "Interesting" #NT!
- brazil_votes.23.b: "Abandon the idea" #NT!
- brazil_votes.23.c: "This is urgent, vote immediately" #NT!
- brazil_votes_results.23.t: "Result for voting on Friendship between Brazil and Argentina Act" #NT!
- brazil_votes_results.23.d: "\n\nAfter a careful counting of all the votes, the final results are:\n Yay: [?yay_votes] \n Nay : [?nay_votes]" #NT!
- brazil_votes_results.23.a: "Yes!" #NT!
- brazil_votes_results.23.b: "No!" #NT!
- brazil_votes_results.23.c: "Damn!" #NT!
- bahia.1.t: "The Second Malês Revolt!" #NT!
- bahia.1.d: "Our worse fears have turned into reality. The carrier strikers of Salvador have proclaimed their intention to take matters into their own hands. With our military garrison defeated and expelled from the city, we were unable to stop them from capturing Salvador. Luiza Mahin, a legendary and mythical figure from the Malês Revolt, has escaped from Rio de Janeiro and has arrived at Salvador to lead the Bahian slaves once again. After years of stability, internal conflict has returned to the Empire..." #NT!
- bahia.1.a: "Death to the rebels!!" #NT!
- BHA_uprising_decision_category: "Second Malês Revolt" #NT!
- BHA_mission_recruit_in_Bahia: "More Slaves Join the Revolt" #NT!
- BHA_mission_recruit_in_Bahia_desc: "Our fierce resistance has demonstrated our capacity and will to defeat Imperial troops and end hardships to our people! As a result, new recruits have joined our struggle against the Empire!" #NT!
- bahia.2.t: "More Slaves Join the Revolt!" #NT!
- bahia.2.d: "Our fierce resistance has demonstrated our capacity and will to defeat Imperial troops and end hardships to our people! As a result, new recruits have joined our struggle against the Empire!" #NT!
- bahia.2.a: "We shall be victorious!" #NT!
- bahia.3.t: "Second Malês Revolt Crushed" #NT!
- bahia.3.d: "Following our decisive capture of the Malês headquarters in Salvador, the Malês have surrendered to our army. The crisis that began with the carrier general strike can finally be considered over, and the threat to our national stability has been crushed. The damage done is not over however, as the Province of Bahia now needs to go through harsh reconstruction and a huge shift in its politics." #NT!
- bahia.3.a: "We are victorious!" #NT!
- bahia.4.t: "Triumph of the Second Malês Revolt" #NT!
- bahia.4.a: "What a nightmare!" #NT!
- bahia.4.d: "We have failed. Against all odds our army was not able to stop the Malês from capturing Recife and defeating our army in multiple combats. We have been forced to accept their demands and end the conflict. A shame to our army and our legitimacy, we can only hope the triumph of the Second Malês Revolt is quickly forgotten by our people, and that it falls in disgrace before it can encourage more rebellions and harm our stability even further." #NT!
- bahia.5.t: "The Malês Offer Peace" #NT!
- bahia.5.a: "Peace, but at what cost?" #NT!
- bahia.5.d: "Both our army and the Malês rebels have failed to make gains in the conflict, and as it stagnated and kept making damages to our economy and stability, we have accepted to negotiate with the Malês. We will remove the taxes placed upon the badges and grant amnesty to the rebels. In exchange, the Malês have accepted the usage of the identification badges and the reinstatement of the old Salvador government. A war that led to nowhere, fought over futile reasons. Which in the end achieved nothing, but destruction and harm to both us and the people of Salvador." #NT!
+ brazil_votes.23.t: "Friendship Treaty between Brazil and the Argentine Confederation Act"
+ brazil_votes.23.d: "This Act proposes to establish a Friendship Treaty between Empire of Brazil and the Argentine Confederation."
+ brazil_votes.23.a: "Interesting"
+ brazil_votes.23.b: "Abandon the idea"
+ brazil_votes.23.c: "This is urgent, vote immediately"
+ brazil_votes_results.23.t: "Result for voting on Friendship between Brazil and Argentina Act"
+ brazil_votes_results.23.d: "\n\nAfter a careful counting of all the votes, the final results are:\n Yay: [?yay_votes] \n Nay : [?nay_votes]"
+ brazil_votes_results.23.a: "Yes!"
+ brazil_votes_results.23.b: "No!"
+ brazil_votes_results.23.c: "Damn!"
+ bahia.1.t: "The Second Malês Revolt!"
+ bahia.1.d: "Our worse fears have turned into reality. The carrier strikers of Salvador have proclaimed their intention to take matters into their own hands. With our military garrison defeated and expelled from the city, we were unable to stop them from capturing Salvador. Luiza Mahin, a legendary and mythical figure from the Malês Revolt, has escaped from Rio de Janeiro and has arrived at Salvador to lead the Bahian slaves once again. After years of stability, internal conflict has returned to the Empire..."
+ bahia.1.a: "Death to the rebels!!"
+ BHA_uprising_decision_category: "Second Malês Revolt"
+ BHA_mission_recruit_in_Bahia: "More Slaves Join the Revolt"
+ BHA_mission_recruit_in_Bahia_desc: "Our fierce resistance has demonstrated our capacity and will to defeat Imperial troops and end hardships to our people! As a result, new recruits have joined our struggle against the Empire!"
+ bahia.2.t: "More Slaves Join the Revolt!"
+ bahia.2.d: "Our fierce resistance has demonstrated our capacity and will to defeat Imperial troops and end hardships to our people! As a result, new recruits have joined our struggle against the Empire!"
+ bahia.2.a: "We shall be victorious!"
+ bahia.3.t: "Second Malês Revolt Crushed"
+ bahia.3.d: "Following our decisive capture of the Malês headquarters in Salvador, the Malês have surrendered to our army. The crisis that began with the carrier general strike can finally be considered over, and the threat to our national stability has been crushed. The damage done is not over however, as the Province of Bahia now needs to go through harsh reconstruction and a huge shift in its politics."
+ bahia.3.a: "We are victorious!"
+ bahia.4.t: "Triumph of the Second Malês Revolt"
+ bahia.4.a: "What a nightmare!"
+ bahia.4.d: "We have failed. Against all odds our army was not able to stop the Malês from capturing Recife and defeating our army in multiple combats. We have been forced to accept their demands and end the conflict. A shame to our army and our legitimacy, we can only hope the triumph of the Second Malês Revolt is quickly forgotten by our people, and that it falls in disgrace before it can encourage more rebellions and harm our stability even further."
+ bahia.5.t: "The Malês Offer Peace"
+ bahia.5.a: "Peace, but at what cost?"
+ bahia.5.d: "Both our army and the Malês rebels have failed to make gains in the conflict, and as it stagnated and kept making damages to our economy and stability, we have accepted to negotiate with the Malês. We will remove the taxes placed upon the badges and grant amnesty to the rebels. In exchange, the Malês have accepted the usage of the identification badges and the reinstatement of the old Salvador government. A war that led to nowhere, fought over futile reasons. Which in the end achieved nothing, but destruction and harm to both us and the people of Salvador."

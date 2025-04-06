@@ -1042,8 +1042,8 @@
  modifier_production_speed_machine_parts_factory_factor_desc: "Изменяет скорость строительства Заводов Деталей Машин."
  modifier_production_speed_farm_factor: "Скорость Строительства §YФерм§!"
  modifier_production_speed_farm_factor_desc: "Изменяет скорость строительства Ферм."
- modifier_production_speed_fabric_weavery_factor: "§YFabric Weavery§! Construction Speed" #NT!
- modifier_production_speed_fabric_weavery_factor_desc: "Modifies the speed of Fabric Weavery construction speed" #NT!
+ modifier_production_speed_fabric_weavery_factor: "§YFabric Weavery§! Construction Speed"
+ modifier_production_speed_fabric_weavery_factor_desc: "Modifies the speed of Fabric Weavery construction speed"
  STAT_COMMON_ACCLIMATIZATION_WET_GAIN: "Коэффициент усиления влажной акклиматизации"
  STAT_COMMON_ACCLIMATIZATION_WET_GAIN_DESC: "Скорость передвижения акклиматизируется во влажном климате."
  STAT_COMMON_ACCLIMATIZATION_WET_GAIN_VALUE: "$VALUE|H1%$"
@@ -1079,30 +1079,66 @@
  state_resource_tungsten: "Вольфрам"
  state_resource_steel: "Сталь"
  state_resource_chromium: "Хром"
+ state_resource_coal: "Coal" #NT!
+ state_resource_iron: "Iron" #NT!
+ state_resource_wood: "Wood" #NT!
+ state_resource_fabric: "Fabric" #NT!
+ state_resource_machine_parts: "Machine Parts" #NT!
+ state_resource_cotton: "Cotton" #NT!
  temporary_state_resource_oil: "масло"
  temporary_state_resource_aluminium: "алюминий"
  temporary_state_resource_rubber: "Резинка"
  temporary_state_resource_tungsten: "Вольфрам"
  temporary_state_resource_steel: "Сталь"
  temporary_state_resource_chromium: "Хром"
+ temporary_state_resource_coal: "Coal" #NT!
+ temporary_state_resource_iron: "Iron" #NT!
+ temporary_state_resource_wood: "Wood" #NT!
+ temporary_state_resource_fabric: "Fabric" #NT!
+ temporary_state_resource_machine_parts: "Machine Parts" #NT!
+ temporary_state_resource_cotton: "Cotton" #NT!
  country_resource_oil: "Нефть"
  country_resource_aluminium: "Алюминий"
  country_resource_rubber: "Резина"
  country_resource_tungsten: "Вольфрам"
  country_resource_steel: "Сталь"
  country_resource_chromium: "Хром"
+ country_resource_coal: "Coal" #NT!
+ country_resource_coal_tt: "$country_resource_coal$: $RIGHT|+=$" #NT!
+ country_resource_iron: "Iron" #NT!
+ country_resource_iron_tt: "$country_resource_iron$: $RIGHT|+=$" #NT!
+ country_resource_wood: "Wood" #NT!
+ country_resource_wood_tt: "$country_resource_wood$: $RIGHT|+=$" #NT!
+ country_resource_fabric: "Fabric" #NT!
+ country_resource_fabric_tt: "$country_resource_fabric$: $RIGHT|+=$" #NT!
+ country_resource_machine_parts: "Fabric" #NT!
+ country_resource_machine_parts_tt: "$country_resource_machine_parts$: $RIGHT|+=$" #NT!
+ country_resource_cotton: "Cotton" #NT!
+ country_resource_cotton_tt: "$country_resource_cotton$: $RIGHT|+=$" #NT!
  state_resource_cost_oil: "Расход нефти"
  state_resource_cost_aluminium: "Потребление алюминия"
  state_resource_cost_rubber: "Расход резины"
  state_resource_cost_tungsten: "Потребление вольфрама"
  state_resource_cost_steel: "Расход стали"
  state_resource_cost_chromium: "Потребление хрома"
+ state_resource_cost_coal: "Coal Consumption" #NT!
+ state_resource_cost_iron: "Iron Consumption" #NT!
+ state_resource_cost_wood: "Wood Consumption" #NT!
+ state_resource_cost_fabric: "Fabric Consumption" #NT!
+ state_resource_cost_machine_parts: "Machine Part Consumption" #NT!
+ state_resource_cost_cotton: "Cotton Consumption" #NT!
  country_resource_cost_oil: "Расход нефти"
  country_resource_cost_aluminium: "Потребление алюминия"
  country_resource_cost_rubber: "Расход резины"
  country_resource_cost_tungsten: "Потребление вольфрама"
  country_resource_cost_steel: "Расход стали"
  country_resource_cost_chromium: "Потребление хрома"
+ country_resource_cost_coal: "Coal Consumption" #NT!
+ country_resource_cost_iron: "Iron Consumption" #NT!
+ country_resource_cost_wood: "Wood Consumption" #NT!
+ country_resource_cost_fabric: "Fabric Consumption" #NT!
+ country_resource_cost_machine_parts: "Machine Part Consumption" #NT!
+ country_resource_cost_cotton: "Cotton Consumption" #NT!
   
  FACTORED_BY: "Умножается на $VALUE|+%$"
  DECRYPTION_TOTAL_BASE: "Общее базовое значение: $VALUE|+.0$"
@@ -1186,20 +1222,20 @@
  modifier_state_production_speed_infrastructure_factor_desc: "Изменяет скорость строительства в этом регионе ($infrastructure$)."
  modifier_state_production_speed_arms_factory_factor: "§Y$arms_factory$§! — скорость строительства"
  modifier_state_production_speed_arms_factory_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$arms_factory$§!."
- modifier_state_production_speed_coal_mine_factor: "§Y$coal_mine$§! Construction Speed" #NT!
- modifier_state_production_speed_coal_mine_factor_desc: "Modifies the speed of §Y$coal_mine$§! construction in this state." #NT!
- modifier_state_production_speed_cotton_farm_factor: "£cotton_resource_texticon §Y$cotton_farm$§! Construction Speed" #NT!
- modifier_state_production_speed_cotton_farm_factor_desc: "Modifies the speed of §Y$cotton_farm$§! construction in this state." #NT!
- modifier_state_production_speed_farm_factor: "£food_resource_texticon §Y$farm$§! Construction Speed" #NT!
- modifier_state_production_speed_farm_factor_desc: "Modifies the speed of §Y$farm$§! construction in this state." #NT!
- modifier_state_production_speed_fabric_weavery_factor: "§Y$fabric_weavery$§! Construction Speed" #NT!
- modifier_state_production_speed_fabric_weavery_factor_desc: "Modifies the speed of §Y$fabric_weavery$§! construction in this state." #NT!
- modifier_state_production_speed_steel_mill_factor: "§Y$steel_mill$§! Construction Speed" #NT!
- modifier_state_production_speed_steel_mill_factor_desc: "Modifies the speed of §Y$steel_mill$§! construction in this state." #NT!
- modifier_state_production_speed_logging_camp_factor: "§Y$logging_camp$§! Construction Speed" #NT!
- modifier_state_production_speed_logging_camp_factor_desc: "Modifies the speed of §Y$logging_camp$§! construction in this state." #NT!
- modifier_state_production_speed_machine_parts_factory_factor: "§Y$machine_parts_factory$§! Construction Speed" #NT!
- modifier_state_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of §Y$machine_parts_factory$§! construction in this state." #NT!
+ modifier_state_production_speed_coal_mine_factor: "§Y$coal_mine$§! Construction Speed"
+ modifier_state_production_speed_coal_mine_factor_desc: "Modifies the speed of §Y$coal_mine$§! construction in this state."
+ modifier_state_production_speed_cotton_farm_factor: "£cotton_resource_texticon §Y$cotton_farm$§! Construction Speed"
+ modifier_state_production_speed_cotton_farm_factor_desc: "Modifies the speed of §Y$cotton_farm$§! construction in this state."
+ modifier_state_production_speed_farm_factor: "£food_resource_texticon §Y$farm$§! Construction Speed"
+ modifier_state_production_speed_farm_factor_desc: "Modifies the speed of §Y$farm$§! construction in this state."
+ modifier_state_production_speed_fabric_weavery_factor: "§Y$fabric_weavery$§! Construction Speed"
+ modifier_state_production_speed_fabric_weavery_factor_desc: "Modifies the speed of §Y$fabric_weavery$§! construction in this state."
+ modifier_state_production_speed_steel_mill_factor: "§Y$steel_mill$§! Construction Speed"
+ modifier_state_production_speed_steel_mill_factor_desc: "Modifies the speed of §Y$steel_mill$§! construction in this state."
+ modifier_state_production_speed_logging_camp_factor: "§Y$logging_camp$§! Construction Speed"
+ modifier_state_production_speed_logging_camp_factor_desc: "Modifies the speed of §Y$logging_camp$§! construction in this state."
+ modifier_state_production_speed_machine_parts_factory_factor: "§Y$machine_parts_factory$§! Construction Speed"
+ modifier_state_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of §Y$machine_parts_factory$§! construction in this state."
  modifier_state_production_speed_air_base_factor: "§Y$air_base$§! — скорость строительства"
  modifier_state_production_speed_air_base_factor_desc: "Изменяет скорость возведения следующей постройки в этом регионе: §Y$air_base$§!."
  modifier_state_production_speed_naval_base_factor: "§Y$naval_base$§! — скорость строительства"

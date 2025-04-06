@@ -456,8 +456,8 @@
  in_faction_active: "в альянсе с государством"
  military_access_active: "получает право на проход войск от государства"
  offer_military_access_active: "предоставляет право на проход войск государству"
- #docking_rights_active: "is getting docking rights from" #NT!
- #offer_docking_rights_active: "is giving docking rights to" #NT!
+ #docking_rights_active: "is getting docking rights from"
+ #offer_docking_rights_active: "is giving docking rights to"
  lend_lease_active: " обладает договором о ленд-лизе с государством"
  non_aggression_pact_active: "обладает пактом о ненападении с государством"
  improve_relation_active: "улучшает отношения с государством"
@@ -529,8 +529,8 @@
  DR_STRATEGIC_NOT_FRIENDSHIP: "У государства §Y$US|U$§! есть стратегические причины недружелюбно относиться к государству §Y$THEM$§!: "
  DR_STRATEGIC_ALLIANCE: "У государства §Y$US|U$§! есть стратегические причины стать союзником государства §Y$THEM$§!: "
  DR_STRATEGIC_SUPPORT: "У государства §Y$US|U$§! есть стратегические причины поддерживать государство §Y$THEM$§!: "
- #DR_STRATEGIC_NOT_ALLIANCE: "§Y$US|U$§! has strategic reasons to not ally §Y$THEM$§!:0 " #NT!
- #DR_STRATEGIC_NOT_SUPPORT: "§Y$US|U$§! has strategic reasons to not support §Y$THEM$§!: " #NT!
+ #DR_STRATEGIC_NOT_ALLIANCE: "§Y$US|U$§! has strategic reasons to not ally §Y$THEM$§!:0 "
+ #DR_STRATEGIC_NOT_SUPPORT: "§Y$US|U$§! has strategic reasons to not support §Y$THEM$§!: "
  DR_STRATEGIC_CONTAIN: "У государства §Y$US|U$§! есть стратегические причины остановить агрессию государства §Y$THEM$§!: "
  DR_STRATEGIC_NEUTRALITY_THREAT: "Государство §Y$US|U$§! ощущает угрозу с нашей стороны: "
  DR_STRATEGIC_DONT_JOIN: "У государства §Y$US|U$§! есть стратегические причины не вступать в войну: "
@@ -541,7 +541,7 @@
  DR_TRADE_INFLUENCE: "§Y$US|U$§! — торговое влияние на государство §Y$THEM$§!: "
  DR_TRADE_EMBARGO: "§Y$THEM$§! — эмбарго от государства §Y$US$§!: "
  DR_MARKET_CONTRACT_DURATION: "Длительность контракта: "
- DR_MARKET_TRADE_DESIRE: "§Y$US$§! is willing to trade with §Y$THEM$§!: " #NT!
+ DR_MARKET_TRADE_DESIRE: "§Y$US$§! is willing to trade with §Y$THEM$§!: "
  DR_LEND_LEASE: "Спасибо за помощь: "
  DR_LEND_LEASE_NO_EQUIPMENT_OR_REQUEST_HAS: "Государство $SENDER|UH$ нуждается в дополнительной технике или у §Yнас§! слишком много техники на складах."
  DR_VOLUNTEER: "Спасибо за помощь: "
@@ -555,7 +555,7 @@
  DR_OFFENSIVE_WAR: "Демократию призывают к наступательной войне: "
  DR_GUARANTEE: "§Y$US|U$§!: гарантии государства §Y$THEM$§! "
  DR_GUARANTEEING: "Государство §Y$US|U$§! дает гарантии государству §Y$THEM$§!: "
- #DR_SAME_IDEOLOGY: "§Y$THEM|U$§! has the same ideology: " #NT!
+ #DR_SAME_IDEOLOGY: "§Y$THEM|U$§! has the same ideology: "
  DR_FACTION_LOW_TENSION: "Уровень мировой напряженности §R$TENSION_DIFF$§! слишком незначителен, чтобы государство §Y$THEM$§! вступило в альянс с государством §Y$US$§!"
  DR_FACTION_TENSION: "Мировая напряженность: §G$TENSION_DIFF$§!"
  DR_FACTION_SURRENDER: "Государство §Y$THEM|U$§! проигрывает войну: "
@@ -718,18 +718,18 @@
  DIPLOMACY_REQUEST_EXP_FORCE_TITLE: "Запросить войска"
  DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC: "Запросить у государства-марионетки контроль над рядом дивизий. Поскольку вы обладаете сильным влиянием на их правительство, они обязательно одобрят запрос."
   
- #REQUEST_EXP_NOT_AI: "You can only request expeditionaries from AI controlled countries." #NT!
- #REQUEST_EXP_MUST_BE_IN_SAME_FACTION: "They are not in the same faction as you." #NT!
- #REQUEST_EXP_NOT_SHARING_WAR: "Sending expeditionary forces is considered an act of war and can't be done by a country that isn't in the war." #NT!
- #REQUEST_EXP_WE_ARE_NOT_AT_WAR: "You must be at war to receive expeditionary forces." #NT!
- #REQUEST_EXP_NOT_A_MASTER: "As a puppet, they can only send expeditionary forces to their master." #NT!
- #REQUEST_EXP_NOT_LEADER: "You are not the faction leader." #NT!
+ #REQUEST_EXP_NOT_AI: "You can only request expeditionaries from AI controlled countries."
+ #REQUEST_EXP_MUST_BE_IN_SAME_FACTION: "They are not in the same faction as you."
+ #REQUEST_EXP_NOT_SHARING_WAR: "Sending expeditionary forces is considered an act of war and can't be done by a country that isn't in the war."
+ #REQUEST_EXP_WE_ARE_NOT_AT_WAR: "You must be at war to receive expeditionary forces."
+ #REQUEST_EXP_NOT_A_MASTER: "As a puppet, they can only send expeditionary forces to their master."
+ #REQUEST_EXP_NOT_LEADER: "You are not the faction leader."
   
- #REQUEST_EXP_TOO_MANY_EXP_FORCES: "This request exceeds their expeditionary force limit" #NT!
- #REQUEST_EXP_COUDLNT_FIND_UNITS_SUITABLE: "They don't think they have enough units suitable for this order" #NT!
- #REQUEST_EXP_COUDLNT_NO_ORDERS_TO_EVALUATE: "There are no orders in this request to evaluate" #NT!
- #REQUEST_EXP_KILLING_MY_EXPEDITIONARIES: "They took a lot of casualties under our orders" #NT!
- #REQUEST_EXP_WE_NEED_OUR_FORCES: "They claim to need their armies elsewhere" #NT!
+ #REQUEST_EXP_TOO_MANY_EXP_FORCES: "This request exceeds their expeditionary force limit"
+ #REQUEST_EXP_COUDLNT_FIND_UNITS_SUITABLE: "They don't think they have enough units suitable for this order"
+ #REQUEST_EXP_COUDLNT_NO_ORDERS_TO_EVALUATE: "There are no orders in this request to evaluate"
+ #REQUEST_EXP_KILLING_MY_EXPEDITIONARIES: "They took a lot of casualties under our orders"
+ #REQUEST_EXP_WE_NEED_OUR_FORCES: "They claim to need their armies elsewhere"
   
  REQUEST_EXPEDITIONARY_FORCES_DESC: "Запросить контроль над дивизиями в кол-ве $COUNT|H$ у государства $TARGET|H$."
  REQUEST_SLIDER: "$VAL$"
@@ -763,8 +763,8 @@
  fascism_leanings_bad: "Интерес к фашизму"
  communism_leanings_good: "Интерес к коммунизму"
  communism_leanings_bad: "Интерес к коммунизму"
- #neutrality_leanings_good: "Authoritarian leanings" #NT!
- #neutrality_leanings_bad: "Authoritarian leanings" #NT!
+ #neutrality_leanings_good: "Authoritarian leanings"
+ #neutrality_leanings_bad: "Authoritarian leanings"
  tizard_relations: "Миссия Тизарда"
  tizard_refused: "Отказ от миссии Тизарда"
  sanctions: "Торговые санкции"
@@ -775,14 +775,14 @@
  burma_road_bad: "Бирманская дорога"
  unholy_alliance_opinion: "Нечестивый союз"
  unholy_alliance_trade: "Нечестивый союз"
- #ENG_guiding_the_colonies: "Guiding the Colonies" #NT!
- #ENG_three_nation_solution: "Three Nation Solution" #NT!
- #ENG_returned_our_territory: "Returned Our Territory" #NT!
- #ENG_maintaining_the_balance_of_power_bad: "Maintaining the Balance of Power" #NT!
- #ENG_maintaining_the_balance_of_power_good: "Maintaining the Balance of Power" #NT!
- #ENG_reassessed_continental_committments_bad: "Reassessed Continental Committments" #NT!
- #ENG_reassessed_continental_committments_good: "Reassessed Continental Committments" #NT!
- #ENG_broke_french_relations: "Broke French Relations" #NT!
+ #ENG_guiding_the_colonies: "Guiding the Colonies"
+ #ENG_three_nation_solution: "Three Nation Solution"
+ #ENG_returned_our_territory: "Returned Our Territory"
+ #ENG_maintaining_the_balance_of_power_bad: "Maintaining the Balance of Power"
+ #ENG_maintaining_the_balance_of_power_good: "Maintaining the Balance of Power"
+ #ENG_reassessed_continental_committments_bad: "Reassessed Continental Committments"
+ #ENG_reassessed_continental_committments_good: "Reassessed Continental Committments"
+ #ENG_broke_french_relations: "Broke French Relations"
  DIPLOMACY_BOOST_PARTY_POPULARITY_TITLE: "Увеличить популярность партии"
  DIPLOMACY_BOOST_PARTY_POPULARITY_ACTION_DESC: "Попытка увеличить поддержку политической партии."
  DIPLOMACY_BOOST_PARTY_POPULARTIY_ALREADY_BOOSTING: "Увеличение популярности партии уже началось"
@@ -911,24 +911,24 @@
  DIPLOMACY_DISMANTLE_FACTION_TITLE: "Распустить альянс"
  DIPLOMACY_DISMANTLE_FACTION_ACTION_DESC: "Наш альянс прекратит существование."
  DIPLOMACY_DISMANTLE_FACTION_DESC: "Распустить альянс $FACTION|H$"
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_TITLE: "Take over faction" #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_ACTION_DESC: "Assume faction leadership of $FACTION|H$." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_DESC: "Assume faction leadership of $FACTION|H$." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COST_DESC: "It will cost £pol_power $COST|Y$ to take over, and other faction members will be blocked from assuming leadership for the next $COOLDOWN|Y$ days." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_RECIPIENT_DESC: "$COUNTRY|U$ has assumed faction leadership of $FACTION$." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_OTHERS_DESC: "$COUNTRY|U$ has assumed faction leadership of $FACTION$." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_MANPOWER: "To sufficiently exceed the deployed manpower of the current leader and its subjects, we and our subjects need an effective $NEEDED|*Y$ deployed manpower, but only have $CURRENT|*Y$." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_FACTORIES: "To sufficiently exceed the number factories of the current leader, we need $NEEDED|*Y$ factories, but only have $CURRENT|*Y$." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_IN_ALL_WARS: "We need to be in all of the wars of the current faction leader." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IS_SUBJECT: "We cannot be a subject of another country." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_HAS_CAPITULATED: "We must not have capitulated." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_RECENTLY_CHANGED: "We must wait until after the first $COOLDOWN|Y$ days of the current leader's control, which is on $DATE|Y$." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_SUBJECT_PROGRESS: "   §RSubject§! of another country." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_CAPITULATED_PROGRESS: "   §RCapitulated§! in an ongoing war." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COOLDOWN_PROGRESS: "   $CURRENT|R$ days out of $NEEDED|Y$ since current faction leader assumed power." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IN_ALL_WARS_PROGRESS: "   $CURRENT|R$ enemies out of $NEEDED|Y$ shared with faction leader." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_MANPOWER_PROGRESS: "   $CURRENT|*R$ deployed manpower out of $NEEDED|*Y$ needed." #NT!
- #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_FACTORY_PROGRESS: "   $CURRENT|R$ factories out of $NEEDED|Y$ needed." #NT!
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_TITLE: "Take over faction"
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_ACTION_DESC: "Assume faction leadership of $FACTION|H$."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_DESC: "Assume faction leadership of $FACTION|H$."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COST_DESC: "It will cost £pol_power $COST|Y$ to take over, and other faction members will be blocked from assuming leadership for the next $COOLDOWN|Y$ days."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_RECIPIENT_DESC: "$COUNTRY|U$ has assumed faction leadership of $FACTION$."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_OTHERS_DESC: "$COUNTRY|U$ has assumed faction leadership of $FACTION$."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_MANPOWER: "To sufficiently exceed the deployed manpower of the current leader and its subjects, we and our subjects need an effective $NEEDED|*Y$ deployed manpower, but only have $CURRENT|*Y$."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_ENOUGH_FACTORIES: "To sufficiently exceed the number factories of the current leader, we need $NEEDED|*Y$ factories, but only have $CURRENT|*Y$."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_IN_ALL_WARS: "We need to be in all of the wars of the current faction leader."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IS_SUBJECT: "We cannot be a subject of another country."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_HAS_CAPITULATED: "We must not have capitulated."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_RECENTLY_CHANGED: "We must wait until after the first $COOLDOWN|Y$ days of the current leader's control, which is on $DATE|Y$."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_SUBJECT_PROGRESS: "   §RSubject§! of another country."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_NOT_CAPITULATED_PROGRESS: "   §RCapitulated§! in an ongoing war."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_COOLDOWN_PROGRESS: "   $CURRENT|R$ days out of $NEEDED|Y$ since current faction leader assumed power."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_IN_ALL_WARS_PROGRESS: "   $CURRENT|R$ enemies out of $NEEDED|Y$ shared with faction leader."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_MANPOWER_PROGRESS: "   $CURRENT|*R$ deployed manpower out of $NEEDED|*Y$ needed."
+ #DIPLOMACY_ASSUME_FACTION_LEADERSHIP_FACTORY_PROGRESS: "   $CURRENT|R$ factories out of $NEEDED|Y$ needed."
  DIPLOMACY_CALL_FLAG_CALL_ALLY: "Является союзником государства $COUNTRY|H$"
  DIPLOMACY_CALL_FLAG_CALL_GUARANTY: "Является гарантом государства $COUNTRY|H$"
  DIPLOMACY_CALL_FLAG_CALL_PUPPET: "Является марионеткой государства $COUNTRY|H$"
@@ -974,12 +974,12 @@
  DIPLOMACY_HOSTILE_STATUS: "Мы настроены враждебно"
  faction_general_desc: "Государство $COUNTRY|UY$ объединяет с другими странами альянс $FACTION|Y$."
  faction_general_extended_desc: "$COUNTRY2|UY$ и $COUNTRY1|Y$ состоят в одном и том же альянсе $FACTION|Y$."
- #FACTION_MEMBER_IS_FACTION_LEADER: "$COUNTRY|UY$ is the faction leader." #NT!
- #RELATION_FACTION_MEMBERS_NEAR_ASSUMING_LEADERSHIP_HEADER: "The following members are currently capable or nearly capable of assuming leadership of this faction:" #NT!
- #RELATION_FACTION_MEMBER_THAT_CAN_ASSUME_LEADERSHIP: "   $COUNTRY|UY$" #NT!
- #RELATION_FACTION_MEMBER_CAN_ASSUME_LEADERSHIP: "$COUNTRY|UY$ is currently capable of assuming leadership of this faction." #NT!
- #RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP: "$COUNTRY|UY$ is almost capable of assuming leadership leadership of this faction. ($PROGRESS|0%Y$)" #NT!
- #RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP_REASON_HEADER: "§HThey cannot yet assume leadership for the following reasons:§!" #NT!
+ #FACTION_MEMBER_IS_FACTION_LEADER: "$COUNTRY|UY$ is the faction leader."
+ #RELATION_FACTION_MEMBERS_NEAR_ASSUMING_LEADERSHIP_HEADER: "The following members are currently capable or nearly capable of assuming leadership of this faction:"
+ #RELATION_FACTION_MEMBER_THAT_CAN_ASSUME_LEADERSHIP: "   $COUNTRY|UY$"
+ #RELATION_FACTION_MEMBER_CAN_ASSUME_LEADERSHIP: "$COUNTRY|UY$ is currently capable of assuming leadership of this faction."
+ #RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP: "$COUNTRY|UY$ is almost capable of assuming leadership leadership of this faction. ($PROGRESS|0%Y$)"
+ #RELATION_FACTION_MEMBER_NEAR_ASSUMING_LEADERSHIP_REASON_HEADER: "§HThey cannot yet assume leadership for the following reasons:§!"
  war_initiator_desc: "Государство $COUNTRY|UY$ ведет наступательную войну"
  war_receiver_desc: "Государство $COUNTRY|UY$ ведет оборонительную войну"
  wargoal_initiator_desc: "У государства $COUNTRY|UY$ есть цели войны против других государств"
@@ -1243,24 +1243,24 @@
  GER_accept_british_naval_dominance_opinion: "Принятие британского морского господства"
  GER_netherlands_kaiser_accept_opinion: "Возвращение кайзера"
  GER_netherlands_kaiser_decline_opinion: "Взятие кайзера в заложники"
- QNG_xian_refused: "Refused to form the United Front" #NT!
+ QNG_xian_refused: "Refused to form the United Front"
  JAP_broke_the_london_naval_treaty: "Разрыв Лондонского морского соглашения"
- QNG_refused_support: "Refused Support" #NT!
- QNG_cooperation_with_the_communists_positive: "Cooperation With the Communists" #NT!
- QNG_cooperation_with_the_communists_negative: "Cooperation With the Communists" #NT!
- QNG_cooperation_with_the_nationalists_positive: "Cooperation With the Nationalists" #NT!
- QNG_cooperation_with_the_nationalists_negative: "Cooperation With the Nationalists" #NT!
+ QNG_refused_support: "Refused Support"
+ QNG_cooperation_with_the_communists_positive: "Cooperation With the Communists"
+ QNG_cooperation_with_the_communists_negative: "Cooperation With the Communists"
+ QNG_cooperation_with_the_nationalists_positive: "Cooperation With the Nationalists"
+ QNG_cooperation_with_the_nationalists_negative: "Cooperation With the Nationalists"
  POR_rejected_lease: "Отказ в ленд-лизе"
  USA_special_relationship: "Особые отношения"
  unilateral_war: "Односторонняя война"
  betrayed_alliance: "Нарушенный союз"
  DIPLOMACY_DOCKING_RIGHTS_TITLE: "Попросить право на стоянку"
- JAP_adapted_kokugaku: "Adapted Kokugaku" #NT!
- #revoked_embargo: "Revoked Embargo" #NT!
- eoanb_hai_independence_war: "Dominican Independence War" #NT!
- JUSTIFY_WARGOAL_KEY_TITLE: "Justify War" #NT!
- JUSTIFY_WARGOAL_KEY_ACTION_DESC: "Justify a wargoal against this country" #NT!
- DECLARE_WAR_KEY_TITLE: "Declare War" #NT!
+ JAP_adapted_kokugaku: "Adapted Kokugaku"
+ #revoked_embargo: "Revoked Embargo"
+ eoanb_hai_independence_war: "Dominican Independence War"
+ JUSTIFY_WARGOAL_KEY_TITLE: "Justify War"
+ JUSTIFY_WARGOAL_KEY_ACTION_DESC: "Justify a wargoal against this country"
+ DECLARE_WAR_KEY_TITLE: "Declare War"
  DECLARE_WAR_KEY_ACTION_DESC: "Declare war against this country" DIPLOMACY_DOCKING_RIGHTS_TITLE: "Declare war against this country" DIPLOMACY_DOCKING_RIGHTS_TITLE:0 "Ask for docking rights" #NT!
  DIPLOMACY_DOCKING_RIGHTS_DESC: "Право на стоянку позволит нашим кораблям пополнять запасы в их портах."
  DIPLOMACY_DOCKING_RIGHTS_ACTION_DESC: "Попросить разрешения для наших кораблей пополнять запасы в их портах."
@@ -1364,8 +1364,8 @@
  POR_rejected_the_royal_iberian_alliance: "Отвергает Королевский иберийский союз"
  POR_the_fifth_empire_has_threatening_ambitions: "У Пятой империи угрожающие амбиции"
  POR_iberian_communism: "Иберийский коммунизм"
- DIPLOMACY_SET_MOST_FAVOURABLE_tt: "Designates §C[$RIGHT$.GetNameDef]§! as §GMost Favoured§! Country" #NT!
- DIPLOMACY_SET_RIVAL_tt: "Designates §C[$RIGHT$.GetNameDef]§! as §RRival§! Country" #NT!
+ DIPLOMACY_SET_MOST_FAVOURABLE_tt: "Designates §C[$RIGHT$.GetNameDef]§! as §GMost Favoured§! Country"
+ DIPLOMACY_SET_RIVAL_tt: "Designates §C[$RIGHT$.GetNameDef]§! as §RRival§! Country"
  HAS_EMBARGO: "Мы уже ввели против них эмбарго"
  DIPLOMACY_PUPPET_NO: "Мы являемся марионеткой"
  DIPLOMACY_OUR_PUPPET_NO: "Это наша марионетка"

@@ -98,6 +98,9 @@
  CAREER_PROFILE_MIO_SIZE_UPS_LABEL: "Увеличение военно-промышленных организаций"
  CAREER_PROFILE_SPECIAL_FORCES_DEPLOYED_LABEL: "Развернуты войска специального назначения"
  CAREER_PROFILE_EQUIPMENT_SOLD_LABEL: "Продано единиц техники на рынке"
+ CAREER_PROFILE_SPECIAL_PROJECTS_COMPLETED_LABEL: "Завершенные специальные проекты"
+ CAREER_PROFILE_LAUNCHED_RAIDS_LABEL: "Начатые налеты"
+ CAREER_PROFILE_SCIENTIST_LEVEL_UPS_LABEL: "Повышение уровня ученых"
   
   # Medals 
  CAREER_PROFILE_STALWART_DEFENDER_MEDAL: "Стойкий защитник"
@@ -250,18 +253,12 @@
  CAREER_PROFILE_END_GAME_TAB_LABEL: "Статистика"
  CAREER_PROFILE_AWARDS_NOT_AVAILABLE_IN_MULTIPLAYER: "Награды недоступны в сетевой игре."
   
-  # DLC promotion 
- BY_BLOOD_ALONE: "По праву рождения"
- DLC_DESCRIPTION_dlc036: "Постройте новую империю, сопротивляйтесь иностранной агрессии или исследуйте пределы нейтралитета. Дополнение «По праву рождения» добавляет новые альтернативные варианты развития истории и игровые пути для Италии, Эфиопии и Швейцарии. Вас также ждут и другие значительные изменения."
- ARMS_AGAINST_TYRANNY: "Оружие против тирании"
- DLC_DESCRIPTION_dlc038: "Напишите новую захватывающую историю северных стран на фоне битвы европейских держав за право решать судьбу мира. Откройте новые ветки национального фокуса для Финляндии, Швеции, Дании и Норвегии. Повышайте эффективность военной промышленности за счет специализации и продавайте оружие на новом международном рынке."
-  
   # Profile Picture Tab 
  CAREER_PROFILE_TOOLTIP_BRONZE: "Для открытия требуется $NAME|H$ (бронза)"
  CAREER_PROFILE_TOOLTIP_SILVER: "Для открытия требуется $NAME|H$ (серебро)"
  CAREER_PROFILE_TOOLTIP_GOLD: "Для открытия требуется $NAME|H$ (золото)"
   
   
- TRIAL_OF_ALLEGIANCE: "Trial of Allegiance"
+ REQUIRES_DLC_TEXT: "Требуется DLC $DLC|Y$"
  DLC_OWNED_TEXT: "§GУ вас есть этот товар!§!"
  DLC_NOT_OWNED_TEXT: "§HНажмите, чтобы перейти на страницу этого товара в магазине.§!"
