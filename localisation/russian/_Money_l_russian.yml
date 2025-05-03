@@ -636,3 +636,22 @@
  GDP_list_sort_button_text: "ВВП" #NT!
  GDP_per_capita_list_sort_button_text: "ВВП на душу населения" #NT!
  GDP_main_text: "Средний ВВП: [?global.average_GDP|Y] §YB §! ВВП на душу населения: [?global.average_GDP_per_capita|Y0] ВВП страны:§Y [country_GDP_f] §! ВВП на душу населения: [?country_GDP_per_capita|Y0]" #NT!
+
+
+MONEY_VALUE_KILO: "$[?money|.2] Тыс. "
+MONEY_VALUE_MILL: "$[?money|.2] Млн. "
+MONEY_VALUE_BILL: "$[?money|.2] Млрд. "
+
+
+INCOME_VALUE_NORMAL: "+[?total_income_var|.2]"
+INCOME_VALUE_LARGE: "+[?total_income_var|.2]*"
+EXPENSE_VALUE_NORMAL: "-[?total_expenses_var|.2]"
+EXPENSE_VALUE_LARGE: "-[?total_expenses_var|.2]*"
+
+
+MONEY_UNIT_KILO: " Тыс. "
+MONEY_UNIT_MILL: " Млн. "
+MONEY_UNIT_BILL: " Млрд. "
+
+# Unemployment Display
+UNEMPLOYMENT_VALUE: "[?unemployment_value_modifier_temp|%2]"
