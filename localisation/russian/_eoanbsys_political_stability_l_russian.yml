@@ -143,12 +143,12 @@
  PS_tooltip_pol_positive_null: "Государство §Y[Root.GetName]§!: Имеет положительную §YПолитическую Стабильность§! (включая 0)\n"
  PS_tooltip_pol_negative: "Государство §Y[Root.GetName]§!: Имеет отрицательную §YПолитическую Стабильность§!\n"
  PS_tooltip_pol_negative_null: "Государство §Y[Root.GetName]§!: Имеет отрицательную §YПолитическую Стабильность§! (включая 0)\n"
- PS_tooltip_increase_by_one: "Прирост §bПолитической Стабильности§! на §G1§!\n"
- PS_tooltip_increase_by_two: "Прирост §bПолитической Стабильности§! на §G2§!\n"
- PS_tooltip_increase_by_three: "Прирост §bПолитической Стабильности§! на §G3§!\n"
- PS_tooltip_decrease_by_one: "Прирост §bПолитической Стабильности§! на §R-1§!\n"
- PS_tooltip_decrease_by_two: "Прирост §bПолитической Стабильности§! на §R-2§!\n"
- PS_tooltip_decrease_by_three: "Прирост §bПолитической Стабильности§! на §R-3§!\n"
+ PS_tooltip_increase_by_one: "Прирост §CПолитической Стабильности§! на §G1§!\n"
+ PS_tooltip_increase_by_two: "Прирост §CПолитической Стабильности§! на §G2§!\n"
+ PS_tooltip_increase_by_three: "Прирост §CПолитической Стабильности§! на §G3§!\n"
+ PS_tooltip_decrease_by_one: "Прирост §CПолитической Стабильности§! на §R-1§!\n"
+ PS_tooltip_decrease_by_two: "Прирост §CПолитической Стабильности§! на §R-2§!\n"
+ PS_tooltip_decrease_by_three: "Прирост §CПолитической Стабильности§! на §R-3§!\n"
  PS_tooltip_pol_had_destabilizing_events: "§Y[Root.GetName]§!: §YПроисходили политически дестабилизирующие происшествия!\n"
   
   ###INTERFACE### 

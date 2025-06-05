@@ -77,7 +77,7 @@
  political_legitimacy_subjects_loyal_pos1_tt: "\n Хорошая Лояльность Марионеток: §G+3%§!"
  political_legitimacy_subjects_loyal_pos2_tt: "\n Сильная Лояльность Марионеток: §G+9%§!"
   
- eoanb_political_legitimacy_change_tt: "Прирост §bЛегитимности§! [?political_legitimacy_change|%0+]\n"
+ eoanb_political_legitimacy_change_tt: "Прирост §CЛегитимности§! [?political_legitimacy_change|%0+]\n"
   
  rad_soc_status_0: "Радикальны Социалисты"
  rad_soc_status_1: "§GРадикальны Социалисты§!"
@@ -609,4 +609,4 @@
  eoanb_decision_legitimize_military_austerity_victorian: "Доказать Свою Воинскую Доблесть"
  eoanb_decision_gather_legitimacy_victorian: "Добиться Политической Легитимности"
   
- reform_screen_disabled_for_government_flag: " Правительство Государства §b[THIS.GetNameDef]§! заинтересовано в динамичных реформах"
+ reform_screen_disabled_for_government_flag: " Правительство Государства §C[THIS.GetNameDef]§! заинтересовано в динамичных реформах"

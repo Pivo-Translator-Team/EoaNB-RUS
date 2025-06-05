@@ -80,16 +80,16 @@
  EOANBSYS_pandemics_progress_scripted_really_low: "§R"
   
  # Progress Tooltips 
- EOANBSYS_pandemics_progress_add_half_tt: "Увеличивает Прогресс §bИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G0.5%§!"
- EOANBSYS_pandemics_progress_add_one_tt: "Увеличивает Прогресс §bИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G1%§!"
- EOANBSYS_pandemics_progress_add_two_tt: "Увеличивает Прогресс §bИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G2%§!"
- EOANBSYS_pandemics_progress_add_five_tt: "Увеличивает Прогресс §bИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G5%§!"
- EOANBSYS_pandemics_progress_add_ten_tt: "Увеличивает Прогресс §bИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G10%§!"
- EOANBSYS_pandemics_progress_add_twenty_tt: "Увеличивает Прогресс §bИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G20%§!"
- EOANBSYS_pandemics_progress_minus_half_tt: "Уменьшает Прогресс §bИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §R0.5%§!"
- EOANBSYS_pandemics_progress_minus_one_tt: "Уменьшает Прогресс §bИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §R1%§!"
- EOANBSYS_pandemics_progress_minus_two_tt: "Уменьшает Прогресс §bИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §R2%§!"
- EOANBSYS_pandemics_progress_minus_five_tt: "Уменьшает Прогресс §bИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §R5%§!"
+ EOANBSYS_pandemics_progress_add_half_tt: "Увеличивает Прогресс §CИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G0.5%§!"
+ EOANBSYS_pandemics_progress_add_one_tt: "Увеличивает Прогресс §CИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G1%§!"
+ EOANBSYS_pandemics_progress_add_two_tt: "Увеличивает Прогресс §CИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G2%§!"
+ EOANBSYS_pandemics_progress_add_five_tt: "Увеличивает Прогресс §CИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G5%§!"
+ EOANBSYS_pandemics_progress_add_ten_tt: "Увеличивает Прогресс §CИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G10%§!"
+ EOANBSYS_pandemics_progress_add_twenty_tt: "Увеличивает Прогресс §CИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §G20%§!"
+ EOANBSYS_pandemics_progress_minus_half_tt: "Уменьшает Прогресс §CИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §R0.5%§!"
+ EOANBSYS_pandemics_progress_minus_one_tt: "Уменьшает Прогресс §CИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §R1%§!"
+ EOANBSYS_pandemics_progress_minus_two_tt: "Уменьшает Прогресс §CИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §R2%§!"
+ EOANBSYS_pandemics_progress_minus_five_tt: "Уменьшает Прогресс §CИммунизации Заболевания: [EOANBSYS_pandemics_name_scripted]§! на §R5%§!"
   
  # Modifier Tooltips 
  EOANBSYS_pandemic_disease_transmission_add_ten_percent_tt: "Передача Заболевания: §R+10%§!"
