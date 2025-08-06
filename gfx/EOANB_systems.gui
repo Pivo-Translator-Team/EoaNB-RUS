@@ -1,0 +1,2404 @@
+# Institutions
+guiTypes = {
+	# Industrialization Progress
+	containerWindowType = {
+		name = "innovation_progress_container"
+		position = { x = 815 y = 4 }
+
+		buttonType = {
+			name = "innovation_progress_bg"
+			spriteType = "GFX_generic_box_smallest"
+			position = { x = 0 y = 0 }
+			shortcut = "ctrl+k"
+		}
+
+		iconType = {
+			name = "innovation_progress_icon"
+			spriteType = "GFX_institutions_innovation_progress"
+			position = { x = 1 y = 1 }
+
+			pdx_tooltip = INNOVATION_PROGRESS_TOOLTIP
+			pdx_tooltip_delayed = INNOVATION_PROGRESS_TOOLTIP_DELAYED
+		}
+
+		instantTextBoxType = {
+			name = "innovation_progress_text"
+			position = { x = 20 y = 4 }
+			font = "hoi_18mbs"
+			text = INNOVATION_PROGRESS_NUM
+			format = center
+			maxWidth = 46
+			maxHeight = 24
+			fixedsize = yes
+
+			pdx_tooltip = INNOVATION_PROGRESS_TOOLTIP
+			pdx_tooltip_delayed = INNOVATION_PROGRESS_TOOLTIP_DELAYED
+		}
+	}
+	containerWindowType = {
+		name = "humanities_progress_container"
+		position = { x = 884 y = 4 }
+
+		buttonType = {
+			name = "humanities_progress_bg"
+			spriteType = "GFX_generic_box_smallest"
+			position = { x = 0 y = 0 }
+			shortcut = "ctrl+l"
+		}
+
+		iconType = {
+			name = "humanities_progress_icon"
+			spriteType = "GFX_institutions_humanities_progress"
+			position = { x = 1 y = 1 }
+
+			pdx_tooltip = HUMANITIES_PROGRESS_TOOLTIP
+			pdx_tooltip_delayed = HUMANITIES_PROGRESS_TOOLTIP_DELAYED
+		}
+
+		instantTextBoxType = {
+			name = "humanities_progress_text"
+			position = { x = 20 y = 4 }
+			font = "hoi_18mbs"
+			text = HUMANITIES_PROGRESS_NUM
+			format = center
+			maxWidth = 46
+			maxHeight = 24
+			fixedsize = yes
+
+			pdx_tooltip = HUMANITIES_PROGRESS_TOOLTIP
+			pdx_tooltip_delayed = HUMANITIES_PROGRESS_TOOLTIP_DELAYED
+		}
+	}
+}
+# Colonialization
+guiTypes = {
+	# Colonial Power
+	containerWindowType = {
+		name = "colonial_power_container_1"
+		position = { x = 980 y = 4 }
+
+		buttonType = {
+			name = "colonial_power_bg"
+			spriteType = "GFX_generic_box_96"
+			position = { x = 0 y = 0 }
+		}
+
+		iconType = {
+			name = "colonial_power_icon"
+			spriteType = "GFX_colonial_power"
+			position = { x = 1 y = 1 }
+		}
+
+		instantTextBoxType = {
+			name = "colonial_power_text"
+			position = { x = 25 y = 4 }
+			font = "hoi_18mbs"
+			text = "[?colonial_power]/[?colonial_power_max]"
+			format = center
+			maxWidth = 64
+			maxHeight = 24
+			fixedsize = yes
+
+			pdx_tooltip = COLONIAL_POWER_TOOLTIP
+			pdx_tooltip_delayed = COLONIAL_POWER_TOOLTIP_DELAYED
+		}
+	}
+	# Colonization (State Screen)
+	containerWindowType = {
+		name = "progress_in_colonial_area_container"
+		position = { x = 0 y = -145 }
+		moveable = yes
+		iconType = {
+		name = "colonisation_progress_bg"
+			spriteType = "GFX_colonisation_menu"
+			position = { x = 0 y = 0 }
+		}
+		instantTextBoxType = {
+			name = "colonisation_progress_text"
+			position = { x = 25 y = 15 }
+			font = "hoi_18mbs"
+			text = "Colonial Progress in State"
+			format = center
+			maxWidth = 250
+			maxHeight = 24
+			fixedsize = yes
+		}
+		# buttonType = {
+		# 	name = "colonisation_progress_bg"
+		# 	spriteType = "GFX_pol_goal_bg"
+		# 	position = { x = 0 y = 0 }
+		# 	shortcut = "ctrl+o"
+		# }
+		buttonType = {
+			name = "colonisation_stage_1_bg"
+			spriteType = "GFX_colonial_progress"
+			frame = 1
+			position = { x = 9 y = 49 }
+			# shortcut = "ctrl+o"
+			pdx_tooltip = COLONISATION_STAGE_1_TOOLTIP
+			pdx_tooltip_delayed = COLONISATION_STAGE_1_TOOLTIP_DELAYED
+		}
+		buttonType = {
+			name = "colonisation_stage_2_bg"
+			spriteType = "GFX_colonial_progress"
+			frame = 2
+			position = { x = 57 y = 49 }
+			pdx_tooltip = COLONISATION_STAGE_2_TOOLTIP
+			pdx_tooltip_delayed = COLONISATION_STAGE_2_TOOLTIP_DELAYED
+			# shortcut = "ctrl+o"
+		}
+		buttonType = {
+			name = "colonisation_stage_3_bg"
+			spriteType = "GFX_colonial_progress"
+			position = { x = 105 y = 49 }
+			frame = 3
+			pdx_tooltip = COLONISATION_STAGE_3_TOOLTIP
+			pdx_tooltip_delayed = COLONISATION_STAGE_3_TOOLTIP_DELAYED
+			# shortcut = "ctrl+o"
+		}
+		buttonType = {
+			name = "colonisation_stage_4_bg"
+			spriteType = "GFX_colonial_progress"
+			position = { x = 152 y = 49 }
+			frame = 4
+			pdx_tooltip = COLONISATION_STAGE_4_TOOLTIP
+			pdx_tooltip_delayed = COLONISATION_STAGE_4_TOOLTIP_DELAYED
+			# shortcut = "ctrl+o"
+		}
+		buttonType = {
+			name = "colonisation_stage_5_bg"
+			spriteType = "GFX_colonial_progress"
+			position = { x = 214 y = 49 }
+			frame = 5
+			pdx_tooltip = COLONISATION_STAGE_5_TOOLTIP
+			pdx_tooltip_delayed = COLONISATION_STAGE_5_TOOLTIP_DELAYED
+			# shortcut = "ctrl+o"
+		}
+		buttonType = {
+			name = "colonisation_stage_6_bg"
+			spriteType = "GFX_colonial_progress"
+			position = { x = 262 y = 49 }
+			frame = 6
+			pdx_tooltip = COLONISATION_STAGE_6_TOOLTIP
+			pdx_tooltip_delayed = COLONISATION_STAGE_6_COLONIAL_POWER_TOOLTIP_DELAYED
+			# shortcut = "ctrl+o"
+		}
+		buttonType = {
+		name = "colonisation_stage_7_bg"
+		spriteType = "GFX_colonial_progress"
+		position = { x = 308 y = 49 }
+		frame = 7
+		pdx_tooltip = COLONISATION_STAGE_7_TOOLTIP
+		pdx_tooltip_delayed = COLONISATION_STAGE_7_COLONIAL_POWER_TOOLTIP_DELAYED
+		# shortcut = "ctrl+o"
+		}
+		iconType = {
+			name = "colonisation_stage_completed_1"
+			spriteType = "GFX_colonial_progress_completed"
+			position = { x = 9 y = 49 }
+			frame = 1
+		}
+		iconType = {
+			name = "colonisation_stage_completed_2"
+			spriteType = "GFX_colonial_progress_completed"
+			position = { x = 57 y = 49 }
+			frame = 2
+		}
+		iconType = {
+			name = "colonisation_stage_completed_3"
+			spriteType = "GFX_colonial_progress_completed"
+			position = { x = 105 y = 49 }
+			frame = 3
+		}
+		iconType = {
+			name = "colonisation_stage_completed_4"
+			spriteType = "GFX_colonial_progress_completed"
+			position = { x = 152 y = 49 }
+			frame = 4
+		}
+		iconType = {
+			name = "colonisation_stage_completed_5"
+			spriteType = "GFX_colonial_progress_completed"
+			position = { x = 214 y = 49 }
+			frame = 5
+		}
+		iconType = {
+			name = "colonisation_stage_completed_6"
+			spriteType = "GFX_colonial_progress_completed"
+			position = { x = 262 y = 49 }
+			frame = 6
+		}
+		iconType = {
+			name = "colonisation_stage_completed_7"
+			spriteType = "GFX_colonial_progress_completed"
+			position = { x = 308 y = 49 }
+			frame = 7
+		}
+		iconType = {
+			name = "colonisation_progress_icon"
+			spriteType = "GFX_colonial_power"
+			position = { x = 10 y = 10 }
+		}
+	}
+}
+# Great Projects
+guiTypes = {
+	# Suez Canal Construction
+	containerWindowType = {
+		name = "suez_canal_construction_window"
+		position = { x = 0 y = 0 }
+		size = { width = 100% height = 192 }
+
+		containerWindowType = {
+			name = "suez_construction_bar_bg"
+			position = { x = 6 y = 16 }
+			size = { width = 497 height = 30 }
+			background = {
+				name = "Background"
+				spriteType = "GFX_tiled_plain_bg_small"
+			}
+			clipping = yes
+		}
+
+		iconType = {
+			position = { x = 20 y = 20 }
+			name = "suez_construction_bar"
+			spriteType = "GFX_suez_construction_bar"
+		}
+		iconType = {
+			position = { x = 20 y = 20 }
+			name = "suez_inprogress_construction_bar"
+			spriteType = "GFX_suez_inprogress_construction_bar"
+		}
+		instantTextBoxType = {
+			name = "suez_construction_header"
+			position = { x = 0 y = -10 }
+			font = "hoi_24header"
+			text = SUEZCONSTRUCTIONHEADER
+			format = center
+			maxHeight = 24
+			maxWidth = 500
+		}
+		instantTextBoxType = {
+			name = "suez_operation_header"
+			position = { x = 0 y = -10 }
+			font = "hoi_24header"
+			text = SUEZOPERATIONHEADER
+			format = center
+			maxHeight = 24
+			maxWidth = 500
+		}
+		containerWindowType = {
+			position = { x = 14 y = 47 }
+			name = "suez_text_background"
+			background = {
+				name = "Background"
+				spriteType = "GFX_tiled_paper_bg"
+			}
+			size = { width = 250 height = 140 }
+
+			instantTextBoxType = {
+				name = "suez_construction_inprogress"
+				position = { x = 4 y = 3 }
+				font = "hoi_18mbs"
+				text = SUEZCONSTRUCTIONINPROGRESS
+				format = left
+				maxWidth = 240
+			}
+			instantTextBoxType = {
+				name = "suez_construction_yourprogress"
+				position = { x = 4 y = 53 }
+				font = "hoi_18mbs"
+				text = SUEZCONSTRUCTIONYOURPROGRESS
+				format = left
+				maxWidth = 240
+			}
+			instantTextBoxType = {
+				name = "suez_construction_status"
+				position = { x = 4 y = 103 }
+				font = "hoi_18mbs"
+				text = SUEZCONSTRUCTIONSTATUS
+				format = left
+				maxWidth = 240
+			}
+		}
+		instantTextBoxType = {
+			name = "suez_construction_progress"
+			position = { x = 165 y = 20 }
+			font = "hoi_18mbs"
+			text = SUEZCONSTRUCTIONPROGRESS
+			format = center
+			maxHeight = 24
+		}
+		containerWindowType = {
+			name = "suez_canal_stocks_gui_bg"
+			position = { x = 270 y = 42 }
+			size = { width = 230 height = 160 }
+
+			containerWindowType = {
+				name = "suez_canal_stocks_gui"
+				verticalScrollbar = "right_vertical_slider"
+				position = { x = 0 y = 0 }
+				size = { width = 220 height = 145 }
+				margin = { top = 34 bottom = 15 left = -5 right = 0 }
+				smooth_scrolling = yes
+				scroll_wheel_factor = 32
+				vertical_scroll_step = 32
+				clipping = yes
+				background = {
+					name = "Background"
+					spriteType = "GFX_tiled_frontend_upper_bar"
+				}
+
+				gridboxtype = {
+					name = "show_grid"
+					position = { x = 10 y = 0 }
+					size = { width = 100%% height = 100%% }
+					slotsize = { width = 100%% height = 32 }
+					add_horizontal = no
+					format = "UPPER_LEFT"
+					max_slots_horizontal = 1
+				}
+			}
+			instantTextboxType = {
+				name = "suez_investor_header"
+				position = { x = 10 y = 10 }
+				font = "hoi_18mbs"
+				text = "Current Suez Investors:"
+				maxWidth = 200
+				maxHeight = 14
+				format = center
+				fixedsize = yes
+			}
+		}
+	}
+	# Suez Stockholders
+	containerWindowType = {
+		name = "suez_stockholder_entry"
+		size = { width = 240 height = 35 }
+		# margin = { top = 5 bottom = 5 left = 0 right = 0 }
+		position = { x = -2 y = 0 }
+		# background = {
+		# 	name = "Background"
+		# 	spriteType = "GFX_tiled_bg"
+		# }
+		iconType = {
+			name = "investor_flag"
+			quadTextureSprite = "GFX_shield_small"
+			position = { x = 15 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+		instantTextboxType = {
+			name = "suez_investor_name"
+			position = { x = 50 y = 5 }
+			font = "hoi_18mbs"
+			text = "[?EGY.suezInvestors^i.GetName]"
+			maxWidth = 140
+			maxHeight = 14
+			format = left
+			fixedsize = yes
+		}
+	}
+	extendedScrollbarType = {
+		name = "right_vertical_slider_nmc"
+		position = { x = -18 y = 0 }
+		size = { width = 18 height = 18 }
+		startValue = 0
+		orientation = upper_right
+		origo = upper_right
+		smooth_scrolling = 0.25
+
+		# background = {
+			# name = "Background"
+			# quadTextureSprite = "GFX_scrollbar_vertical_bg"
+		# }
+
+		slider = {
+			name = "Slider"
+			quadTextureSprite = "GFX_scroll_drager"
+			position = { x = -2 y = -2 }
+		}
+
+		track = {
+			name = "Track"
+			quadTextureSprite = "GFX_scroll_track"
+			position = { x = 3 y = 0 }
+			alwaystransparent = yes
+		}
+
+		decreaseButton = {
+			name = "Decrease"
+			quadTextureSprite = "GFX_scroll_up"
+			position = { x = 2 y = 3 }
+		}
+
+		increaseButton = {
+			name = "Increase"
+			quadTextureSprite = "GFX_scroll_down"
+			position = { x = -17 y = -19 }
+		}
+	}
+}
+
+# Super Events
+guiTypes = {
+	containerWindowType = {
+		name = "superevents_container"
+		position = { x = -405 y = -325 }
+		orientation = center
+		origo = center
+		clipping = no
+		# show_sound = click_dog
+
+		iconType = {
+			position = { x = 20 y = 60 }
+			name = "super_cog1"
+			spriteType = "GFX_super_event_cog1"
+		}
+		iconType = {
+			position = { x = 0 y = 150 }
+			name = "super_cog2"
+			spriteType = "GFX_super_event_cog2"
+		}
+		iconType = {
+			position = { x = 630 y = 370 }
+			name = "super_cog3"
+			spriteType = "GFX_super_event_cog3"
+		}
+		# Images
+		iconType = {
+			position = { x = 73 y = 116 }
+			name = "debug_super_event"
+			spriteType = "GFX_debug_super_event"
+		}
+
+		# Quote Frame
+		iconType = {
+			position = { x = 0 y = 0 }
+			name = "main_frame"
+			spriteType = "GFX_super_event_frame_vic"
+		}
+		# Quote
+		buttonType = {
+			name = "ok_button"
+			spriteType = "GFX_button_super_event"
+			position = { x = 295 y = 555 }
+			# clicksound = click_dog
+			# shortcut = enter
+			buttonFont = "vic_36s"
+			text = "[get_super_event_button]"
+		}
+		instantTextBoxType = {
+			name = "superevent_text"
+			position = { x = 275 y = 40 }
+			font = "vic_36s"
+			text = "[get_super_event_title]"
+			format = center
+			maxWidth = 300
+			maxHeight = 24
+			fixedsize = yes
+		}
+		instantTextBoxType = {
+			name = "superevent_quote"
+			position = { x = 80 y = 405 }
+			font = "vic_36s"
+			text = "[get_super_event_quote]"
+			format = left
+			maxWidth = 695
+			maxHeight = 200
+			fixedsize = yes
+		}
+	}
+	# Sound
+	containerWindowType = {
+		name = "superevent_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = click_dog # sound effect here
+	}
+	containerWindowType = {
+		name = "berlin_conference_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_berlin_conference_super # sound effect here
+	}
+	containerWindowType = {
+		name = "scramble_for_africa_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = click_dog # sound effect here
+	}
+	containerWindowType = {
+		name = "crash_1857_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_panic_1857_super # sound effect here
+	}
+	containerWindowType = {
+		name = "suez_canal_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = click_dog# sound effect here
+	}
+	containerWindowType = {
+		name = "revolutions_across_italy_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_revolutions_italy_super # sound effect here
+	}
+	containerWindowType = {
+		name = "tuscan_risorgremento_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_risorgemento_tuscany_super # sound effect here
+	}
+	containerWindowType = {
+		name = "carvour_risorgremento_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_risorgemento_cavour_super # sound effect here
+	}
+	containerWindowType = {
+		name = "garibaldi_risorgremento_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_risorgemento_garibaldi_super # sound effect here
+	}
+	containerWindowType = {
+		name = "acw_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "collapse_union_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = usa_collapse_super # sound effect here
+	}
+	containerWindowType = {
+		name = "ger_unify_bismark_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "meji_restoration_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_imperial_victory_super # sound effect here
+	}
+	containerWindowType = {
+		name = "shogun_victory_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_shogunate_victory_super # sound effect here
+	}
+	containerWindowType = {
+		name = "ger_unify_social_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_ger_unify_social_super # sound effect here
+	}
+	containerWindowType = {
+		name = "ger_unify_liberal_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "ger_unify_wuttemberg_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "ger_unify_confed_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_confederation_super # sound effect here
+	}
+	containerWindowType = {
+		name = "poland_restoration_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "triple_alliance_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "irish_independance_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_irish_independance_super # sound effect here
+	}
+	containerWindowType = {
+		name = "roman_risorgremento_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_risorgemento_rome_super # sound effect here
+	}
+	containerWindowType = {
+		name = "papal_risorgremento_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_risorgemento_papal_super # sound effect here
+	}
+	containerWindowType = {
+		name = "sicilian_risorgremento_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_risorgemento_sicily_super # sound effect here
+	}
+	containerWindowType = {
+		name = "franco_prussian_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_franco_prussian_war_super # sound effect here
+	}
+	containerWindowType = {
+		name = "down_under_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_austrailia_unite_super # sound effect here
+	}
+	containerWindowType = {
+		name = "russio_turkish_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = Russo_Turkish_War_Super # sound effect here
+	}
+	containerWindowType = {
+		name = "qing_collapse_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "manned_flight_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = First_manned_Flight_super # sound effect here
+	}
+	containerWindowType = {
+		name = "orsini_affair_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = Orsini_Affair_super # sound effect here
+	}
+	containerWindowType = {
+		name = "panama_canal_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "1873_panic_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "sa_unifaction_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "canada_unifaction_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "100_days_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "xinghai_revo_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "great_war_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "2WW_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "krakatoa_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = Krakatoa_super # sound effect here
+	}
+	containerWindowType = {
+		name = "great_depression_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_Great_depression_super # sound effect here
+	}
+	containerWindowType = {
+		name = "great_famine_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "55_days_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_acw_super # sound effect here
+	}
+	containerWindowType = {
+		name = "mughal_restored_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		# show_sound = eoanb_mughal_restored_super # sound effect here
+	}
+
+
+	###Easter Egg Super Events
+	containerWindowType = {
+		name = "ger_acw_sound_container"
+		position = { x = -400 y = -300 }
+		orientation = center
+		Origo = center
+		clipping = no
+		show_sound = eoanb_acw_ger_super # sound effect here
+	}
+}
+# Campaigns
+guiTypes = {
+	# Great Game
+	containerWindowType = {
+		name = "great_game_influence_window"
+		position = { x = 0 y = -20 }
+		size = { width = 100% height = 500 }
+
+		containerWindowType = {
+			name = "great_game_main_map"
+			position = { x = 0 y = 0 }
+			size = { width = 490 height = 375 }
+			margin = { top = 0 bottom = 0 left = 5 right = 5 }
+
+			background = {
+				name = "Background"
+				spriteType = "GFX_tiled_plain_bg_small"
+			}
+			containerWindowType = {
+				name = "great_game_main_map"
+				position = { x = 0 y = 15 }
+				size = { width = 500 height = 340 }
+				margin = { top = 0 bottom = 0 left = 0 right = 0 }
+
+				background = {
+					name = "Background"
+					spriteType = "GFX_great_game_bg"
+				}
+				iconType = {
+					position = { x = 148 y = 115 }
+					name = "great_game_bukara_influence"
+					spriteType = "GFX_great_game_bukara"
+				}
+				iconType = {
+					position = { x = 103 y = 86 }
+					name = "great_game_khiva_influence"
+					spriteType = "GFX_great_game_khiva"
+				}
+				iconType = {
+					position = { x = 131 y = 168 }
+					name = "great_game_afghan_influence"
+					spriteType = "GFX_great_game_afghan"
+				}
+				iconType = {
+					position = { x = 225 y = 96 }
+					name = "great_game_kokand_influence"
+					spriteType = "GFX_great_game_kokand"
+				}
+				iconType = {
+					position = { x = 39 y = 107 }
+					name = "great_game_south_turkmen_influence"
+					spriteType = "GFX_great_game_south_turkmen"
+				}
+				iconType = {
+					position = { x = 16 y = 39 }
+					name = "great_game_north_turkmen_influence"
+					spriteType = "GFX_great_game_north_turkmen"
+				}
+				iconType = {
+					position = { x = 140 y = 171 }
+					name = "great_game_panjeh_influence"
+					spriteType = "GFX_great_game_panjeh"
+				}
+				iconType = {
+					position = { x = 197 y = 187 }
+					name = "great_game_peshawar_influence"
+					spriteType = "GFX_great_game_peshawar"
+				}
+				iconType = {
+					position = { x = 187 y = 109 }
+					name = "great_game_samarkand_influence"
+					spriteType = "GFX_great_game_samarkand"
+				}
+				iconType = {
+					position = { x = 50 y = 236 }
+					name = "great_game_persian_coast_influence"
+					spriteType = "GFX_great_game_persian_coast"
+				}
+				iconType = {
+					position = { x = 14 y = 218 }
+					name = "great_game_central_persia_influence"
+					spriteType = "GFX_great_game_central_persia"
+				}
+				iconType = {
+					position = { x = -1 y = 166 }
+					name = "great_game_persian_highlands_influence"
+					spriteType = "GFX_great_game_persian_highlands"
+				}
+				iconType = {
+					position = { x = 256 y = 156 }
+					name = "great_game_wukhan_influence"
+					spriteType = "GFX_great_game_wukhan"
+				}
+				iconType = {
+					position = { x = 350 y = 190 }
+					name = "great_game_tibet_influence"
+					spriteType = "GFX_great_game_tibet"
+				}
+				iconType = {
+					position = { x = 290 y = 11 }
+					name = "great_game_sikang_influence"
+					spriteType = "GFX_great_game_sikang"
+				}
+				iconType = {
+					position = { x = 284 y = -1 }
+					name = "great_game_kazakh_influence"
+					spriteType = "GFX_great_game_kazakh"
+				}
+			}
+
+			iconType = {
+				position = { x = 185 y = 165 }
+				name = "great_game_bukara_contest"
+				spriteType = "GFX_wargoal_icon"
+			}
+			iconType = {
+				position = { x = 248 y = 127 }
+				name = "great_game_kokand_contest"
+				spriteType = "GFX_wargoal_icon"
+			}
+			iconType = {
+				position = { x = 200 y = 140 }
+				name = "great_game_samarkand_contest"
+				spriteType = "GFX_wargoal_icon"
+			}
+			iconType = {
+				position = { x = 110 y = 105 }
+				name = "great_game_khiva_contest"
+				spriteType = "GFX_wargoal_icon"
+			}
+			iconType = {
+				position = { x = 95 y = 150 }
+				name = "great_game_turkmen_contest"
+				spriteType = "GFX_wargoal_icon"
+			}
+			iconType = {
+				position = { x = 185 y = 225 }
+				name = "great_game_afghan_contest"
+				spriteType = "GFX_wargoal_icon"
+			}
+			iconType = {
+				position = { x = 315 y = 89 }
+				name = "great_game_kazakh_contest"
+				spriteType = "GFX_wargoal_icon"
+			}
+			iconType = {
+				position = { x = 245 y = 235 }
+				name = "great_game_peshawar_contest"
+				spriteType = "GFX_wargoal_icon"
+			}
+			iconType = {
+				position = { x = 155 y = 190 }
+				name = "great_game_panjeh_contest"
+				spriteType = "GFX_wargoal_icon"
+			}
+			iconType = {
+				position = { x = 265 y = 173 }
+				name = "great_game_wukhan_contest"
+				spriteType = "GFX_wargoal_icon"
+			}
+
+			containerWindowType = {
+				 name = "great_game_persia_game"
+				 position = { x = 20 y = 227 }
+				 size = { width = 50 height = 50 }
+				 margin = { top = 0 bottom = 0 left = 0 right = 0 }
+
+				 iconType = {
+					position = { x = 0 y = 0 }
+					name = "great_game_influence_game_frame_PER"
+					quadTextureSprite = "GFX_great_game_influence_flag"
+				}
+				buttonType = {
+					position = { x = 36 y = 46 }
+					name = "great_game_invest_influence_game_frame_PER"
+					spriteType = "GFX_great_game_invest_influence_frame"
+					pdx_tooltip = PER_spend_gg_gain_influence
+				}
+				instantTextboxType = { #russian
+					name = "RUS_influence_PER"
+					position = { x = 21 y = 28 }
+					font = "hoi_16mbs"
+					text = "[?PER.RUS_gg_influence]"
+					maxWidth = 250
+					maxHeight = 14
+					format = left
+					fixedsize = yes
+				}
+				instantTextboxType = { #british
+					name = "ENG_influence_PER"
+					position = { x = 65 y = 28 }
+					font = "hoi_16mbs"
+					text = "[?PER.ENG_gg_influence]"
+					maxWidth = 250
+					maxHeight = 14
+					format = left
+					fixedsize = yes
+				}
+			}
+			containerWindowType = {
+				 name = "great_game_sikang_game"
+				 position = { x = 370 y = 115 }
+				 size = { width = 50 height = 50 }
+				 margin = { top = 0 bottom = 0 left = 0 right = 0 }
+
+				 iconType = {
+					position = { x = 0 y = 0 }
+					name = "great_game_influence_game_frame_SIK"
+					quadTextureSprite = "GFX_great_game_influence_flag"
+				}
+				buttonType = {
+					position = { x = 36 y = 46 }
+					name = "great_game_invest_influence_game_frame_SIK"
+					spriteType = "GFX_great_game_invest_influence_frame"
+					pdx_tooltip = SIK_spend_gg_gain_influence
+				}
+				instantTextboxType = { #russian
+					name = "RUS_influence_SIK"
+					position = { x = 21 y = 28 }
+					font = "hoi_16mbs"
+					text = "[?SIK.RUS_gg_influence]"
+					maxWidth = 250
+					maxHeight = 14
+					format = left
+					fixedsize = yes
+				}
+				instantTextboxType = { #british
+					name = "ENG_influence_SIK"
+					position = { x = 65 y = 28 }
+					font = "hoi_16mbs"
+					text = "[?SIK.ENG_gg_influence]"
+					maxWidth = 250
+					maxHeight = 14
+					format = left
+					fixedsize = yes
+				}
+			}
+			containerWindowType = {
+				 name = "great_game_tibet_game"
+				 position = { x = 380 y = 220 }
+				 size = { width = 50 height = 50 }
+				 margin = { top = 0 bottom = 0 left = 0 right = 0 }
+
+				 iconType = {
+					position = { x = 0 y = 0 }
+					name = "great_game_influence_game_frame_TIB"
+					quadTextureSprite = "GFX_great_game_influence_flag"
+				}
+				buttonType = {
+					position = { x = 36 y = 46 }
+					name = "great_game_invest_influence_game_frame_TIB"
+					spriteType = "GFX_great_game_invest_influence_frame"
+					pdx_tooltip = TIB_spend_gg_gain_influence
+				}
+				instantTextboxType = { #russian
+					name = "RUS_influence_TIB"
+					position = { x = 21 y = 28 }
+					font = "hoi_16mbs"
+					text = "[?TIB.RUS_gg_influence]"
+					maxWidth = 250
+					maxHeight = 14
+					format = left
+					fixedsize = yes
+				}
+				instantTextboxType = { #british
+					name = "ENG_influence_TIB"
+					position = { x = 65 y = 28 }
+					font = "hoi_16mbs"
+					text = "[?TIB.ENG_gg_influence]"
+					maxWidth = 250
+					maxHeight = 14
+					format = left
+					fixedsize = yes
+				}
+			}
+			containerWindowType = {
+				 name = "great_game_afghan_game"
+				 position = { x = 150 y = 200 }
+				 size = { width = 50 height = 50 }
+				 margin = { top = 0 bottom = 0 left = 0 right = 0 }
+
+				 iconType = {
+					position = { x = 0 y = 0 }
+					name = "great_game_influence_game_frame_AFG"
+					quadTextureSprite = "GFX_great_game_influence_flag"
+				}
+				buttonType = {
+					position = { x = 36 y = 46 }
+					name = "great_game_invest_influence_game_frame_AFG"
+					spriteType = "GFX_great_game_invest_influence_frame"
+					pdx_tooltip = AFG_spend_gg_gain_influence
+				}
+				instantTextboxType = { #russian
+					name = "RUS_influence_AFG"
+					position = { x = 21 y = 28 }
+					font = "hoi_16mbs"
+					text = "[?AFG.RUS_gg_influence]"
+					maxWidth = 250
+					maxHeight = 14
+					format = left
+					fixedsize = yes
+				}
+				instantTextboxType = { #british
+					name = "ENG_influence_AFG"
+					position = { x = 65 y = 28 }
+					font = "hoi_16mbs"
+					text = "[?AFG.ENG_gg_influence]"
+					maxWidth = 250
+					maxHeight = 14
+					format = left
+					fixedsize = yes
+				}
+			}
+		}
+		instantTextboxType = { #current phase
+			name = "current_phase"
+			position = { x = 200 y = 380 }
+			font = "vic_36"
+			text = "Phase [?global.great_game_stage]"
+			maxWidth = 250
+			maxHeight = 14
+			format = left
+			fixedsize = yes
+		}
+		instantTextboxType = { #russian
+			name = "RUS_point_total"
+			position = { x = 20 y = 450 }
+			font = "vic_18"
+			text = RUS_great_game_points_display
+			maxWidth = 250
+			maxHeight = 14
+			format = left
+			fixedsize = yes
+		}
+		instantTextboxType = { #british
+			name = "ENG_point_total"
+			position = { x = 250 y = 450 }
+			font = "vic_18"
+			text = ENG_great_game_points_display
+			maxWidth = 250
+			maxHeight = 14
+			format = left
+			fixedsize = yes
+		}
+	}
+	# Indochina Campaign
+	containerWindowType = {
+		name = "indochina_influence_window"
+		position = { x = 0 y = 0 }
+		size = { width = 100% height = 600 }
+		margin = { top = 0 bottom = 0 left = 0 right = 0 }
+
+		instantTextBoxType = {
+			name = "indochina_influence_header"
+			position = { x = 0 y = -10 }
+			font = "hoi_24header"
+			text = INDOCHINAINFLUENCEHEADER
+			format = center
+			maxHeight = 24
+			maxWidth = 500
+		}
+		containerWindowType = {
+			name = "indochina_cochin_bar_bg"
+			position = { x = 6 y = 16 }
+			size = { width = 497 height = 30 }
+			background = {
+				name = "Background"
+				spriteType = "GFX_tiled_plain_bg_small"
+			}
+			clipping = yes
+		}
+		iconType = {
+			position = { x = 20 y = 20 }
+			name = "indochina_cochin_bar"
+			spriteType = "GFX_suez_construction_bar"
+		}
+		iconType = {
+			position = { x = 20 y = 20 }
+			name = "indochina_cochin_inprogress_bar"
+			spriteType = "GFX_suez_inprogress_construction_bar"
+		}
+		instantTextBoxType = {
+			name = "indochina_cochin_progress"
+			position = { x = 165 y = 21 }
+			font = "hoi_18mbs"
+			text = INDOCHINACOCHINPROGRESS
+			format = center
+			maxHeight = 24
+		}
+		containerWindowType = {
+			name = "indochina_influence_map"
+			position = { x = 128 y = 50 }
+			size = { width = 490 height = 500 }
+			margin = { top = 0 bottom = 0 left = 0 right = 0 }
+
+			background = {
+				name = "Background"
+				spriteType = "GFX_indochina_map_background"
+				position = { x = 0 y = 0 }
+			}
+			# containerWindowType = {
+			# 	position = { x = 175 y = 36 }
+			# 	name = "indoc_influence_map_china"
+			# 	background = {
+			# 		name = "Background"
+			# 		spriteType = "GFX_tiled_paper_bg"
+			# 	}
+			# 	size = { width = 140 height = 100 }
+
+			# 	instantTextBoxType = {
+			# 		name = "indochina_cochin_progress"
+			# 		position = { x = 10 y = 5 }
+			# 		font = "hoi_18mbs"
+			# 		text = EOANB_INDOC_GET_CHINA
+			# 		maxHeight = 24
+			# 	}
+			# }
+			containerWindowType = {
+				name = "indochina_influence_states"
+				position = { x = -87 y = 7 }
+				buttonType = {
+					name = "indochina_influence_mandalay"
+					position = { x = 166 y = 44 }
+					spriteType = "GFX_indochina_map_mandalay"
+					pdx_tooltip = INDOC_INFLUENCE_MANDALAY
+				}
+				buttonType = {
+					name = "indochina_influence_north_malay"
+					position = { x = 228 y = 292 }
+					spriteType = "GFX_indochina_map_north_malay"
+					pdx_tooltip = INDOC_INFLUENCE_NORTH_MALAY
+				}
+				buttonType = {
+					name = "indochina_influence_burma"
+					position = { x = 147 y = 117 }
+					spriteType = "GFX_indochina_map_burma"
+					pdx_tooltip = INDOC_INFLUENCE_BURMA
+				}
+				buttonType = {
+					name = "indochina_influence_kayah"
+					position = { x = 186 y = 162 }
+					spriteType = "GFX_indochina_map_kayah"
+					pdx_tooltip = INDOC_INFLUENCE_KAYAH
+				}
+				buttonType = {
+					name = "indochina_influence_karen"
+					position = { x = 166 y = 209 }
+					spriteType = "GFX_indochina_map_karen"
+					pdx_tooltip = INDOC_INFLUENCE_KAREN
+				}
+				buttonType = {
+					name = "indochina_influence_shan"
+					position = { x = 216 y = 142 }
+					spriteType = "GFX_indochina_map_shan"
+					pdx_tooltip = INDOC_INFLUENCE_SHAN
+				}
+				buttonType = {
+					name = "indochina_influence_north_tenasserim"
+					position = { x = 216 y = 220 }
+					spriteType = "GFX_indochina_map_north_tenasserim"
+					pdx_tooltip = INDOC_INFLUENCE_TENASSERIM
+				}
+				buttonType = {
+					name = "indochina_influence_south_tenasserim"
+					position = { x = 224 y = 287 }
+					spriteType = "GFX_indochina_map_south_tenasserim"
+					pdx_tooltip = INDOC_INFLUENCE_SOUTH_TENASSERIM
+				}
+				buttonType = {
+					name = "indochina_influence_kanchanaburi"
+					position = { x = 228 y = 248 }
+					spriteType = "GFX_indochina_map_kanchanaburi"
+					pdx_tooltip = INDOC_INFLUENCE_KANCHANBURI
+				}
+				buttonType = {
+					name = "indochina_influence_bangkok"
+					position = { x = 250 y = 256 }
+					spriteType = "GFX_indochina_map_bangkok"
+					pdx_tooltip = INDOC_INFLUENCE_BANGKOK
+				}
+				buttonType = {
+					name = "indochina_influence_sukothai"
+					position = { x = 232 y = 224 }
+					spriteType = "GFX_indochina_map_sukothai"
+					pdx_tooltip = INDOC_INFLUENCE_SUKOTHAI
+				}
+				buttonType = {
+					name = "indochina_influence_lan_na"
+					position = { x = 218 y = 179 }
+					spriteType = "GFX_indochina_map_lan_na"
+					pdx_tooltip = INDOC_INFLUENCE_LAN_NA
+				}
+				buttonType = {
+					name = "indochina_influence_chathaburi"
+					position = { x = 269 y = 289 }
+					spriteType = "GFX_indochina_map_chathaburi"
+					pdx_tooltip = INDOC_INFLUENCE_CHATHABURI
+				}
+				buttonType = {
+					name = "indochina_influence_sa_kaeo"
+					position = { x = 274 y = 246 }
+					spriteType = "GFX_indochina_map_sa_kaeo"
+					pdx_tooltip = INDOC_INFLUENCE_SA_KAEO
+				}
+				buttonType = {
+					name = "indochina_influence_roi_et"
+					position = { x = 306 y = 237 }
+					spriteType = "GFX_indochina_map_roi_et"
+					pdx_tooltip = INDOC_INFLUENCE_ROI_ET
+				}
+				buttonType = {
+					name = "indochina_influence_nong_khai"
+					position = { x = 275 y = 212 }
+					spriteType = "GFX_indochina_map_nong_khai"
+					pdx_tooltip = INDOC_INFLUENCE_NONG_KHAI
+				}
+				buttonType = {
+					name = "indochina_influence_luangprabang"
+					position = { x = 258 y = 145 }
+					spriteType = "GFX_indochina_map_luangprabang"
+					pdx_tooltip = INDOC_INFLUENCE_LUANGPRABANG
+				}
+				buttonType = {
+					name = "indochina_influence_vientiane"
+					position = { x = 279 y = 188 }
+					spriteType = "GFX_indochina_map_vientiane"
+					pdx_tooltip = INDOC_INFLUENCE_VIENTIANE
+				}
+				buttonType = {
+					name = "indochina_influence_champasak"
+					position = { x = 331 y = 230 }
+					spriteType = "GFX_indochina_map_champasak"
+					pdx_tooltip = INDOC_INFLUENCE_CHAMPASAK
+				}
+				buttonType = {
+					name = "indochina_influence_preah_vihear"
+					position = { x = 306 y = 279 }
+					spriteType = "GFX_indochina_map_preah_vihear"
+					pdx_tooltip = INDOC_INFLUENCE_PREAH_VIHEAR
+				}
+				buttonType = {
+					name = "indochina_influence_siem_reap"
+					position = { x = 293 y = 282 }
+					spriteType = "GFX_indochina_map_siem_reap"
+					pdx_tooltip = INDOC_INFLUENCE_SIEM_REAP
+				}
+				buttonType = {
+					name = "indochina_influence_cambodia"
+					position = { x = 311 y = 284 }
+					spriteType = "GFX_indochina_map_cambodia"
+					pdx_tooltip = INDOC_INFLUENCE_CAMBODIA
+				}
+				buttonType = {
+					name = "indochina_influence_can_tho"
+					position = { x = 327 y = 337 }
+					spriteType = "GFX_indochina_map_can_tho"
+					pdx_tooltip = INDOC_INFLUENCE_CAN_THO
+				}
+				buttonType = {
+					name = "indochina_influence_sai_gon"
+					position = { x = 347 y = 302 }
+					spriteType = "GFX_indochina_map_sai_gon"
+					pdx_tooltip = INDOC_INFLUENCE_SAI_GON
+				}
+				buttonType = {
+					name = "indochina_influence_nam_ban"
+					position = { x = 372 y = 267 }
+					spriteType = "GFX_indochina_map_nam_ban"
+					pdx_tooltip = INDOC_INFLUENCE_NAM_BAN
+				}
+				buttonType = {
+					name = "indochina_influence_hai_duong"
+					position = { x = 381 y = 275 }
+					spriteType = "GFX_indochina_map_hai_duong"
+					pdx_tooltip = INDOC_INFLUENCE_HAI_DUONG
+				}
+				buttonType = {
+					name = "indochina_influence_da_nang"
+					position = { x = 369 y = 247 }
+					spriteType = "GFX_indochina_map_da_nang"
+					pdx_tooltip = INDOC_INFLUENCE_DA_NANG
+				}
+				buttonType = {
+					name = "indochina_influence_hue"
+					position = { x = 342 y = 210 }
+					spriteType = "GFX_indochina_map_hue"
+					pdx_tooltip = INDOC_INFLUENCE_HUE
+				}
+				buttonType = {
+					name = "indochina_influence_ha_noi"
+					position = { x = 330 y = 166 }
+					spriteType = "GFX_indochina_map_ha_noi"
+					pdx_tooltip = INDOC_INFLUENCE_HA_NOI
+				}
+				buttonType = {
+					name = "indochina_influence_hung_hoa"
+					position = { x = 295 y = 141 }
+					spriteType = "GFX_indochina_map_hung_hoa"
+					pdx_tooltip = INDOC_INFLUENCE_HUNG_HOA
+				}
+				buttonType = {
+					name = "indochina_influence_tonkin"
+					position = { x = 317 y = 130 }
+					spriteType = "GFX_indochina_map_tonkin"
+					pdx_tooltip = INDOC_INFLUENCE_TONKIN
+				}
+				buttonType = {
+					name = "indochina_influence_ratanakir"
+					position = { x = 353 y = 278 }
+					spriteType = "GFX_indochina_map_ratanakir"
+					pdx_tooltip = INDOC_INFLUENCE_RATANAKIR
+				}
+				buttonType = {
+					name = "indochina_influence_ky_son"
+					position = { x = 319 y = 190 }
+					spriteType = "GFX_indochina_map_ky_son"
+					pdx_tooltip = INDOC_INFLUENCE_KY_SON
+				}
+				buttonType = {
+					name = "indochina_influence_rakhine"
+					position = { x = 134 y = 150 }
+					spriteType = "GFX_indochina_map_rakhine"
+					pdx_tooltip = INDOC_INFLUENCE_RAKHINE
+				}
+				buttonType = {
+					name = "indochina_influence_sainyabuli"
+					position = { x = 263 y = 184 }
+					spriteType = "GFX_indochina_map_sainyabuli"
+					pdx_tooltip = INDOC_INFLUENCE_SAINYABULI
+				}
+			}
+		}
+		containerWindowType = {
+			name = "indochina_powers_gui"
+			verticalScrollbar = "right_vertical_slider"
+			position = { x = 9 y = 335 }
+			size = { width = 220 height = 173 }
+			margin = { top = 34 bottom = 15 left = -5 right = 0 }
+			smooth_scrolling = yes
+			scroll_wheel_factor = 32
+			vertical_scroll_step = 32
+			clipping = yes
+			background = {
+				name = "Background"
+				spriteType = "GFX_tiled_frontend_upper_bar"
+			}
+
+			gridboxtype = {
+				name = "indochina_colonial_powers_grid"
+				position = { x = 10 y = 0 }
+				size = { width = 100%% height = 100%% }
+				slotsize = { width = 100%% height = 32 }
+				add_horizontal = no
+				format = "UPPER_LEFT"
+				max_slots_horizontal = 1
+			}
+
+		}
+		instantTextBoxType = {
+			name = "indochina_powers_list_header"
+			position = { x = 23 y = 347 }
+			font = "hoi_18mbs"
+			text = "Relevant Powers:"
+			format = center
+			maxHeight = 24
+		}
+	}
+	# Indochina Influence
+	containerWindowType = {
+		name = "indochina_colonial_powers_grid_entry"
+		position = { x = 0 y = 0 }
+		size = { width = 280 height = 60 }
+
+
+		instantTextBoxType = {
+			name = "name"
+			position = { x = 40 y = 15 }
+			font = "hoi_18mbs"
+			text = "[?global.indochina_colonial_powers_array^i.GetName]"
+			format = left
+			maxWidth = 200
+			maxHeight = 24
+			fixedsize = yes
+		}
+
+		buttonType = {
+			name = "indochina_colonial_powers_flag"
+			quadTextureSprite = "GFX_shield_small"
+			position = { x = 5 y = 10 }
+			Orientation = "UPPER_LEFT"
+		}
+	}
+	# Taiping Princely Influence
+	containerWindowType = {
+		name = "taiping_princely_influence_window"
+		size = { width = 100% height = 350 }
+		#margin = { top = 5 bottom = 5 left = 0 right = 0 }
+		position = { x = -2 y = 0 }
+
+		#background = {
+		#	name = "Background"
+		#	spriteType = "GFX_tiled_bg"
+		#}
+		iconType = {
+			name = "taiping_princely_influence_li_xiucheng_p"
+			quadTextureSprite = "GFX_shield_small"
+			position = { x = 15 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+		iconType = {
+			position = { x = 20 y = 250 }
+			name = "taiping_princely_influence_li_xiucheng"
+			spriteType = "GFX_suez_construction_bar"
+		}
+		instantTextboxType = {
+			name = "taiping_princely_influence_li_xiucheng_name"
+			position = { x = 15 y = 80 }
+			font = "hoi_18mbs"
+			text = "Li Xiucheng"
+			maxWidth = 100
+			maxHeight = 14
+			format = center
+			fixedsize = yes
+		}
+
+		iconType = {
+			name = "taiping_princely_influence_chen_yucheng_p"
+			quadTextureSprite = "GFX_shield_small"
+			position = { x = 125 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+		iconType = {
+			position = { x = 130 y = 250 }
+			name = "taiping_princely_influence_chen_yucheng"
+			spriteType = "GFX_suez_construction_bar"
+		}
+		instantTextboxType = {
+			name = "taiping_princely_influence_chen_yucheng_name"
+			position = { x = 125 y = 80 }
+			font = "hoi_18mbs"
+			text = "Chen Yucheng"
+			maxWidth = 100
+			maxHeight = 14
+			format = center
+			fixedsize = yes
+		}
+		iconType = {
+			name = "taiping_princely_influence_hong_rengan_p"
+			quadTextureSprite = "GFX_shield_small"
+			position = { x = 245 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+		iconType = {
+			position = { x = 250 y = 250 }
+			name = "taiping_princely_influence_hong_rengan"
+			spriteType = "GFX_suez_construction_bar"
+		}
+		instantTextboxType = {
+			name = "taiping_princely_influence_hong_rengan_name"
+			position = { x = 245 y = 80 }
+			font = "hoi_18mbs"
+			text = "Hong Rengan"
+			maxWidth = 100
+			maxHeight = 14
+			format = center
+			fixedsize = yes
+		}
+		iconType = {
+			name = "taiping_princely_influence_lai_wenguang_p"
+			quadTextureSprite = "GFX_shield_small"
+			position = { x = 365 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+		iconType = {
+			position = { x = 370 y = 250 }
+			name = "taiping_princely_influence_lai_wenguang"
+			spriteType = "GFX_suez_construction_bar"
+		}
+		instantTextboxType = {
+			name = "taiping_princely_influence_lai_wenguang_name"
+			position = { x = 365 y = 80 }
+			font = "hoi_18mbs"
+			text = "Lai Wenguang"
+			maxWidth = 100
+			maxHeight = 14
+			format = center
+			fixedsize = yes
+		}
+	}
+	# # Riot of Rights
+	# containerWindowType = {
+	# 	name = "JAP_riot_of_rights_container"
+	# 	position = { x = 0 y = 0 }
+	# 	size = { height = 290 width = 580 }
+
+	# 	background = {
+	# 		name = "background"
+	# 		spriteType = "GFX_riot_of_rights_background"
+	# 	}
+	# 	background = {
+	# 		name = "background_front"
+	# 		spriteType = "GFX_riot_of_rights_background"
+	# 		alwaystransparent = yes
+	# 	}
+	# 	iconType = {
+	# 		name = "title_icon"
+	# 		spriteType = "GFX_riot_of_rights_title"
+	# 		position = { x = 20 y = 40 }
+	# 	}
+	# 	instantTextboxType = {
+	# 		name = "title_text"
+	# 		position = { x = 30 y = 48 }
+	# 		font = "hoi_18mbs"
+	# 		text = "[GetRiotofRightsIssue]"
+	# 		maxWidth = 200
+	# 		maxHeight = 20
+	# 		format = center
+	# 		fixedsize = yes
+
+	# 		pdx_tooltip = "[GetRiotofRightsIssue]"
+	# 	}
+	# 	iconType = {
+	# 		name = "japan_map"
+	# 		spriteType = "GFX_riot_of_rights_japan_map"
+	# 		position = { x = 8 y = 100 }
+	# 	}
+	# 	iconType = {
+	# 		name = "unrest_frame"
+	# 		spriteType = "GFX_riot_of_rights_unrest_frame"
+	# 		position = { x = 70 y = 140 }
+	# 	}
+	# 	iconType = {
+	# 		name = "unrest_icon"
+	# 		spriteType = "GFX_riot_of_rights_unrest_icon"
+	# 		position = { x = 60 y = 125 }
+	# 	}
+	# 	instantTextboxType = {
+	# 		name = "unrest_text"
+	# 		position = { x = 100 y = 145 }
+	# 		font = "hoi_18mbs"
+	# 		text = "[?JAP.JAP_riot_of_rights_unrest_level|.0-]"
+	# 		maxWidth = 30
+	# 		maxHeight = 20
+	# 		format = center
+	# 		fixedsize = yes
+	# 	}
+	# 	buttonType = {
+	# 		name = "state_background_1"
+	# 		spriteType = "GFX_riot_of_rights_state_background"
+	# 		position = { x = 255 y = 20 }
+
+	# 		pdx_tooltip = "Fukui"
+	# 	}
+	# 	buttonType = {
+	# 		name = "state_background_2"
+	# 		spriteType = "GFX_riot_of_rights_state_background"
+	# 		position = { x = 255 y = 60 }
+
+	# 		pdx_tooltip = "Takumatsu"
+	# 	}
+	# 	buttonType = {
+	# 		name = "state_background_3"
+	# 		spriteType = "GFX_riot_of_rights_state_background"
+	# 		position = { x = 255 y = 100 }
+
+	# 		pdx_tooltip = "Kochi"
+	# 	}
+	# 	buttonType = {
+	# 		name = "state_background_4"
+	# 		spriteType = "GFX_riot_of_rights_state_background"
+	# 		position = { x = 255 y = 140 }
+
+	# 		pdx_tooltip = "Kyoto"
+	# 	}
+	# 	buttonType = {
+	# 		name = "state_background_5"
+	# 		spriteType = "GFX_riot_of_rights_state_background"
+	# 		position = { x = 255 y = 180 }
+
+	# 		pdx_tooltip = "Okayama"
+	# 	}
+	# 	buttonType = {
+	# 		name = "state_background_6"
+	# 		spriteType = "GFX_riot_of_rights_state_background"
+	# 		position = { x = 255 y = 220 }
+
+	# 		pdx_tooltip = "Tottori"
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_header_1"
+	# 		position = { x = 270 y = 30 }
+	# 		font = "hoi_18mbs"
+	# 		text = "Fukui"
+	# 		maxWidth = 100
+	# 		maxHeight = 20
+	# 		format = left
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_header_2"
+	# 		position = { x = 270 y = 70 }
+	# 		font = "hoi_18mbs"
+	# 		text = "Takumatsu"
+	# 		maxWidth = 100
+	# 		maxHeight = 20
+	# 		format = left
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_header_3"
+	# 		position = { x = 270 y = 110 }
+	# 		font = "hoi_18mbs"
+	# 		text = "Kochi"
+	# 		maxWidth = 100
+	# 		maxHeight = 20
+	# 		format = left
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_header_4"
+	# 		position = { x = 270 y = 150 }
+	# 		font = "hoi_18mbs"
+	# 		text = "Kyoto"
+	# 		maxWidth = 100
+	# 		maxHeight = 20
+	# 		format = left
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_header_5"
+	# 		position = { x = 270 y = 190 }
+	# 		font = "hoi_18mbs"
+	# 		text = "Okayama"
+	# 		maxWidth = 100
+	# 		maxHeight = 20
+	# 		format = left
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_header_6"
+	# 		position = { x = 270 y = 230 }
+	# 		font = "hoi_18mbs"
+	# 		text = "Tottori"
+	# 		maxWidth = 100
+	# 		maxHeight = 20
+	# 		format = left
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_bank_1"
+	# 		position = { x = 400 y = 30 }
+	# 		font = "hoi_18mbs"
+	# 		text = "[?JAP_riot_of_rights_disorder_amount.535|%-]"
+	# 		maxWidth = 80
+	# 		maxHeight = 20
+	# 		format = right
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_bank_2"
+	# 		position = { x = 400 y = 70 }
+	# 		font = "hoi_18mbs"
+	# 		text = "[?JAP_riot_of_rights_disorder_amount.1269|%-]"
+	# 		maxWidth = 80
+	# 		maxHeight = 20
+	# 		format = right
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_bank_3"
+	# 		position = { x = 400 y = 110 }
+	# 		font = "hoi_18mbs"
+	# 		text = "[?JAP_riot_of_rights_disorder_amount.1053|%-]"
+	# 		maxWidth = 80
+	# 		maxHeight = 20
+	# 		format = right
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_bank_4"
+	# 		position = { x = 400 y = 150 }
+	# 		font = "hoi_18mbs"
+	# 		text = "[?JAP_riot_of_rights_disorder_amount.1106|%-]"
+	# 		maxWidth = 80
+	# 		maxHeight = 20
+	# 		format = right
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_bank_5"
+	# 		position = { x = 400 y = 190 }
+	# 		font = "hoi_18mbs"
+	# 		text = "[?JAP_riot_of_rights_disorder_amount.1261|%-]"
+	# 		maxWidth = 80
+	# 		maxHeight = 20
+	# 		format = right
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# 	instantTextBoxType = {
+	# 		name = "state_bank_6"
+	# 		position = { x = 400 y = 230 }
+	# 		font = "hoi_18mbs"
+	# 		text = "[?JAP_riot_of_rights_disorder_amount.529|%-]"
+	# 		maxWidth = 80
+	# 		maxHeight = 20
+	# 		format = right
+	# 		#fixedsize = yes
+	# 		alwaystransparent =yes
+	# 	}
+	# }
+	# Formosa Campaign
+	containerWindowType = {
+		name = "JAP_formosa_campaign_container"
+		position = { x = 0 y = 0 }
+		size = { height = 380 width = 500 }
+		moveable=yes
+
+		background = {
+			name = "background"
+			spriteType = "GFX_tiled_window_transparent"
+		}
+		iconType = {
+			name = "formosa_map_bg"
+			spriteType = "GFX_formosa_campaign_formosa_bg"
+			position = { x = 6 y = 2 }
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "formosa_china_flag"
+			quadTextureSprite = "GFX_flag_small2"
+			position = { x = 18 y = 14 }
+		}
+		iconType = {
+			name = "formosa_china_frame"
+			position = { x = 15 y = 11 }
+			spriteType = "GFX_small_flag_frame_thin2"
+			alwaystransparent = yes
+		}
+		iconType = {
+			name = "formosa_gaoshan_flag"
+			quadTextureSprite = "GFX_flag_small2"
+			position = { x = 310 y = 55 }
+		}
+		iconType = {
+			name = "formosa_gaoshan_frame"
+			position = { x = 307 y = 52 }
+			spriteType = "GFX_small_flag_frame_thin2"
+			alwaystransparent = yes
+		}
+		# Mudan
+			iconType = {
+				name = "formosa_mudan_status_icon"
+				spriteType = "GFX_formosa_campaign_status"
+				position = { x = 310 y = 130 }
+				alwaystransparent = yes
+			}
+			iconType = {
+				name = "formosa_mudan_mission_icon"
+				spriteType = "GFX_formosa_campaign_mission"
+				position = { x = 310 y = 130 }
+			}
+		#
+		# Lingulan
+			iconType = {
+				name = "formosa_lingulan_status_icon"
+				spriteType = "GFX_formosa_campaign_status"
+				position = { x = 385 y = 210 }
+				alwaystransparent = yes
+			}
+			iconType = {
+				name = "formosa_lingulan_mission_icon"
+				spriteType = "GFX_formosa_campaign_mission"
+				position = { x = 385 y = 210 }
+			}
+		#
+		# Koalut
+			iconType = {
+				name = "formosa_koalut_status_icon"
+				spriteType = "GFX_formosa_campaign_status"
+				position = { x = 360 y = 270 }
+				alwaystransparent = yes
+			}
+			iconType = {
+				name = "formosa_koalut_mission_icon"
+				spriteType = "GFX_formosa_campaign_mission"
+				position = { x = 360 y = 270 }
+			}
+		#
+		# Kwaling
+			iconType = {
+				name = "formosa_kwaling_status_icon"
+				spriteType = "GFX_formosa_campaign_status"
+				position = { x = 430 y = 260 }
+				alwaystransparent = yes
+			}
+			iconType = {
+				name = "formosa_kwaling_mission_icon"
+				spriteType = "GFX_formosa_campaign_mission"
+				position = { x = 430 y = 260 }
+			}
+		#
+		instantTextBoxType = {
+			name = "formosa_map_key_1"
+			position = { x = 14 y = 336 }
+			text = "ISLAND OF FORMOSA"
+			font = "hoi_16mbs"
+			format = center
+			maxWidth = 90
+		}
+		instantTextBoxType = {
+			name = "formosa_map_key_2"
+			position = { x = 254 y = 336 }
+			text = "SOUTH FORMOSA"
+			font = "hoi_16mbs"
+			format = center
+			maxWidth = 90
+		}
+	}
+# Ministry of Public Works
+	containerWindowType = {
+		name = "JAP_ministry_of_public_works_container"
+		position = { x = 30 y = 0 }
+		size = { height = 290 width = 280 }
+
+		iconType = {
+			name = "background"
+			spriteType = "GFX_ministry_of_public_works_background"
+			position = { x = 50 y = 0 }
+		}
+		iconType = {
+			name = "background_front"
+			spriteType = "GFX_ministry_of_public_works_background"
+			alwaystransparent = yes
+			position = { x = 50 y = 0 }
+		}
+		instantTextboxType = {
+			name = "railroad_text"
+			position = { x = 50 y = 15 }
+			font = "hoi_18mbs"
+			text = railroad_localization
+			maxWidth = 400
+			maxHeight = 20
+			format = center
+			fixedsize = yes
+		}
+		instantTextboxType = {
+			name = "mine_text"
+			position = { x = 50 y = 55 }
+			font = "hoi_18mbs"
+			text = mines_localization
+			maxWidth = 400
+			maxHeight = 20
+			format = center
+			fixedsize = yes
+		}
+		instantTextboxType = {
+			name = "telecommunication_text"
+			position = { x = 50 y = 95 }
+			font = "hoi_18mbs"
+			text = telecommunication_localization
+			maxWidth = 400
+			maxHeight = 20
+			format = center
+			fixedsize = yes
+		}
+		instantTextboxType = {
+			name = "shipyard_text"
+			position = { x = 50 y = 135 }
+			font = "hoi_18mbs"
+			text = shipyard_localization
+			maxWidth = 400
+			maxHeight = 20
+			format = center
+			fixedsize = yes
+		}
+		instantTextboxType = {
+			name = "steel_and_iron_text"
+			position = { x = 50 y = 175 }
+			font = "hoi_18mbs"
+			text = steel_iron_localization
+			maxWidth = 400
+			maxHeight = 20
+			format = center
+			fixedsize = yes
+		}
+		instantTextboxType = {
+			name = "manufacturing_text"
+			position = { x = 50 y = 215 }
+			font = "hoi_18mbs"
+			text = manufacturing_localization
+			maxWidth = 400
+			maxHeight = 20
+			format = center
+			fixedsize = yes
+		}
+		instantTextboxType = {
+			name = "upkeep_text"
+			position = { x = 50 y = 255 }
+			font = "hoi_18mbs"
+			text = upkeep_localization
+			maxWidth = 400
+			maxHeight = 20
+			format = center
+			fixedsize = yes
+		}
+	}
+}
+
+guiTypes = {
+
+	# containerWindowType = {
+	# 	name = "eoanbr_great_game_topbar_container"
+	# 	position = { x = 745 y = 4 }
+	# 	size = { width = 60 height = 60 }
+	# 	buttonType = {
+	# 		name = "eoanbr_great_game_topbar_menu_button"
+	# 		spriteType = "GFX_ability_icon_default"
+	# 		pdx_tooltip = eoanbr_great_game_topbar_menu_button_tt
+	# 		pdx_tooltip_delayed = eoanbr_great_game_topbar_menu_button_tt_delayed
+	# 	}
+	# }
+	containerWindowType = {
+		name = "eoanbr_great_game_decision_category_container"
+		position = { x = -4 y = 0 }
+		size = { width = 500 height = 520 }
+		orientation = center
+		origo = center
+
+		# moveable = yes
+
+		background = {
+			name = "bg2"
+			quadTextureSprite = "GFX_tiled_window_transparent"
+		}
+
+		containerWindowType = {
+			name = "eoanbr_great_game_decision_category_title_container"
+			position = { x = 0 y = 410 }
+			size = { width = 500 height = 90 }
+
+			#HEADER
+
+			instantTextBoxType = {
+				name ="eoanbr_great_game_text"
+				position = { x = 0 y = 0 }
+				font = "hoi_30header"
+				text = eoanbr_great_game_text
+				format = center
+				maxHeight = 24
+				maxWidth = 500
+				pdx_tooltip = eoanbr_great_game_text_tt
+				pdx_tooltip_delayed = eoanbr_great_game_text_tt_delayed
+			}
+
+			instantTextBoxType = {
+				name ="eoanbr_great_game_rus_pol_text"
+				position = { x = 20 y = 46 }
+				font = "hoi_20b"
+				text = eoanbr_great_game_rus_pol_text
+				format = center
+				maxHeight = 24
+				maxWidth = 60
+				pdx_tooltip = eoanbr_great_game_rus_pol_text
+				pdx_tooltip_delayed = eoanbr_great_game_rus_pol_text_tt_delayed
+			}
+
+			instantTextBoxType = {
+				name ="eoanbr_great_game_rus_dip_text"
+				position = { x = 210 y = 46 }
+				font = "hoi_20b"
+				text = eoanbr_great_game_rus_dip_text
+				format = center
+				maxHeight = 24
+				maxWidth = 60
+				pdx_tooltip = eoanbr_great_game_rus_dip_text
+				pdx_tooltip_delayed = eoanbr_great_game_rus_dip_text_tt_delayed
+			}
+
+			instantTextBoxType = {
+				name ="eoanbr_great_game_rus_mil_text"
+				position = { x = 400 y = 46 }
+				font = "hoi_20b"
+				text = eoanbr_great_game_rus_mil_text
+				format = center
+				maxHeight = 24
+				maxWidth = 60
+				pdx_tooltip = eoanbr_great_game_rus_mil_text
+				pdx_tooltip_delayed = eoanbr_great_game_rus_mil_text_tt_delayed
+			}
+
+			instantTextBoxType = {
+				name ="eoanbr_great_game_eng_pol_text"
+				position = { x = 20 y = 76 }
+				font = "hoi_20b"
+				text = eoanbr_great_game_eng_pol_text
+				format = center
+				maxHeight = 24
+				maxWidth = 60
+				pdx_tooltip = eoanbr_great_game_eng_pol_text
+				pdx_tooltip_delayed = eoanbr_great_game_eng_pol_text_tt_delayed
+			}
+
+			instantTextBoxType = {
+				name ="eoanbr_great_game_eng_dip_text"
+				position = { x = 210 y = 76 }
+				font = "hoi_20b"
+				text = eoanbr_great_game_eng_dip_text
+				format = center
+				maxHeight = 24
+				maxWidth = 60
+				pdx_tooltip = eoanbr_great_game_eng_dip_text
+				pdx_tooltip_delayed = eoanbr_great_game_eng_dip_text_tt_delayed
+			}
+
+			instantTextBoxType = {
+				name ="eoanbr_great_game_eng_mil_text"
+				position = { x = 400 y = 76 }
+				font = "hoi_20b"
+				text = eoanbr_great_game_eng_mil_text
+				format = center
+				maxHeight = 24
+				maxWidth = 60
+				pdx_tooltip = eoanbr_great_game_eng_mil_text
+				pdx_tooltip_delayed = eoanbr_great_game_eng_mil_text_tt_delayed
+			}
+		}
+		containerWindowType = {
+			name = "eoanbr_great_game_decision_category_map_container"
+			position = { x = 0 y = 0 }
+			size = { width = 600 height = 500 }
+
+			iconType = {
+				name = "eoanbr_great_game_background"
+				spriteType = "GFX_great_game_background"
+				position = { x = 0 y = 20 }
+			}
+			#State Buttons
+				buttonType = {
+					name = "eoanbr_great_game_afghani_hind_button"
+					spriteType = "GFX_great_game_afghani_hind_button"
+					position = { x =  225 y = 265 }
+					pdx_tooltip = "eoanbr_great_game_afghani_hind_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_afghanistan_button"
+					spriteType = "GFX_great_game_afghanistan_button"
+					position = { x =  165 y = 202 }
+					pdx_tooltip = "eoanbr_great_game_afghanistan_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_badakhshan_button"
+					spriteType = "GFX_great_game_badakhshan_button"
+					position = { x =  276 y = 188 }
+					pdx_tooltip = "eoanbr_great_game_badakhshan_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_bukhara_button"
+					spriteType = "GFX_great_game_bukhara_button"
+					position = { x =  190 y = 155 }
+					pdx_tooltip = "eoanbr_great_game_bukhara_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_east_kazakhstan_button"
+					spriteType = "GFX_great_game_east_kazakhstan_button"
+					position = { x =  384 y = 43 }
+					pdx_tooltip = "eoanbr_great_game_east_kazakhstan_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_india_button"
+					spriteType = "GFX_great_game_india_button"
+					position = { x =  165 y = 215 }
+					pdx_tooltip = "eoanbr_great_game_india_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_kazakhstan_button"
+					spriteType = "GFX_great_game_kazakhstan_button"
+					position = { x =  65 y = 20 }
+					pdx_tooltip = "eoanbr_great_game_kazakhstan_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_khiva_button"
+					spriteType = "GFX_great_game_khiva_button"
+					position = { x = 122 y = 112 }
+					pdx_tooltip = "eoanbr_great_game_khiva_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_kokand_button"
+					spriteType = "GFX_great_game_kokand_button"
+					position = { x =  215 y = 128 }
+					pdx_tooltip = "eoanbr_great_game_kokand_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_northern_iran_button"
+					spriteType = "GFX_great_game_northern_iran_button"
+					position = { x = 0 y = 179 }
+					pdx_tooltip = "eoanbr_great_game_northern_iran_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_southern_iran_button"
+					spriteType = "GFX_great_game_southern_iran_button"
+					position = { x =  20 y = 252 }
+					pdx_tooltip = "eoanbr_great_game_southern_iran_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_tibet_button"
+					spriteType = "GFX_great_game_tibet_button"
+					position = { x =  358 y = 229 }
+					pdx_tooltip = "eoanbr_great_game_tibet_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_turkestan_button"
+					spriteType = "GFX_great_game_turkestan_button"
+					position = { x =  305 y = 59 }
+					pdx_tooltip = "eoanbr_great_game_turkestan_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+				buttonType = {
+					name = "eoanbr_great_game_turkmens_button"
+					spriteType = "GFX_great_game_turkmens_button"
+					position = { x =  84 y = 146 }
+					pdx_tooltip = "eoanbr_great_game_turkmens_button_tt"
+					pdx_tooltip_delayed = "eoanbr_great_game_map_button_tt_delayed"
+				}
+			#
+			#State Glows
+				buttonType = {
+					name = "eoanbr_great_game_afghani_hind_button_glow"
+					spriteType = "GFX_great_game_afghani_hind_button_glow"
+					alwaystransparent = yes
+					position = { x =  225 y = 265 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_afghanistan_button_glow"
+					spriteType = "GFX_great_game_afghanistan_button_glow"
+					alwaystransparent = yes
+					position = { x =  165 y = 202 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_badakhshan_button_glow"
+					spriteType = "GFX_great_game_badakhshan_button_glow"
+					alwaystransparent = yes
+					position = { x =  276 y = 188 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_bukhara_button_glow"
+					spriteType = "GFX_great_game_bukhara_button_glow"
+					alwaystransparent = yes
+					position = { x =  190 y = 155 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_east_kazakhstan_button_glow"
+					spriteType = "GFX_great_game_east_kazakhstan_button_glow"
+					alwaystransparent = yes
+					position = { x =  355 y = 5 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_india_button_glow"
+					spriteType = "GFX_great_game_india_button_glow"
+					alwaystransparent = yes
+					position = { x =  165 y = 215 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_kazakhstan_button_glow"
+					spriteType = "GFX_great_game_kazakhstan_button_glow"
+					alwaystransparent = yes
+					position = { x =  65 y = 20 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_khiva_button_glow"
+					spriteType = "GFX_great_game_khiva_button_glow"
+					alwaystransparent = yes
+					position = { x = 122 y = 112 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_kokand_button_glow"
+					spriteType = "GFX_great_game_kokand_button_glow"
+					alwaystransparent = yes
+					position = { x =  215 y = 128 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_northern_iran_button_glow"
+					spriteType = "GFX_great_game_northern_iran_button_glow"
+					alwaystransparent = yes
+					position = { x = 0 y = 179 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_southern_iran_button_glow"
+					spriteType = "GFX_great_game_southern_iran_button_glow"
+					alwaystransparent = yes
+					position = { x =  20 y = 252 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_tibet_button_glow"
+					spriteType = "GFX_great_game_tibet_button_glow"
+					alwaystransparent = yes
+					position = { x =  358 y = 229 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_turkestan_button_glow"
+					spriteType = "GFX_great_game_turkestan_button_glow"
+					alwaystransparent = yes
+					position = { x =  305 y = 59 }
+				}
+				buttonType = {
+					name = "eoanbr_great_game_turkmens_button_glow"
+					spriteType = "GFX_great_game_turkmens_button_glow"
+					alwaystransparent = yes
+					position = { x =  84 y = 146 }
+				}
+			#
+		}
+	}
+}

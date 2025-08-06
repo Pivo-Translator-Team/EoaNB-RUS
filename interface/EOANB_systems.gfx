@@ -1,0 +1,1033 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_colonisation_menu"
+		texturefile = "gfx/interface/colonisation_menu.dds"
+	}
+	spriteType = {
+		name = "GFX_colonisation_menu"
+		texturefile = "gfx/interface/colonisation_menu.dds"
+	}
+	spriteType = {
+		name = "GFX_colonial_power"
+		texturefile = "gfx/interface/colonial_power.dds"
+	}
+	spriteType = {
+		name = "GFX_dci_small"
+		texturefile = "gfx/interface/dci_small.dds"
+	}
+	spriteType = {
+		name = "GFX_victorypoint_stateview_flipped_bg"
+		texturefile = "gfx/interface/victorypoint_stateview_flipped_dci_bg.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_reforming_regional_power"
+		texturefile = "gfx/interface/ideas/africa/idea_reforming_power.dds"
+	}
+	spriteType = {
+		name = "GFX_institutions_innovation_progress"
+		texturefile = "gfx/interface/institutions/institutions_innovation_progress.dds"
+		noOfFrames = 9
+	}
+	spriteType = {
+		name = "GFX_institutions_humanities_progress"
+		texturefile = "gfx/interface/institutions/institutions_humanities_progress.dds"
+		noOfFrames = 9
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_background"
+		texturefile = "gfx/interface/berlin_conference_background.dds"
+	}
+	spriteType = {
+		name = "GFX_news_event_scramble_africa"
+		texturefile = "gfx/event_pictures/event_scramble_africa.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_aus"
+		texturefile = "gfx/interface/conference_stuff/AUS_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_bel"
+		texturefile = "gfx/interface/conference_stuff/BEL_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_den"
+		texturefile = "gfx/interface/conference_stuff/DEN_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_eng"
+		texturefile = "gfx/interface/conference_stuff/ENG_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_fra"
+		texturefile = "gfx/interface/conference_stuff/FRA_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_ger"
+		texturefile = "gfx/interface/conference_stuff/GER_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_hol"
+		texturefile = "gfx/interface/conference_stuff/HOL_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_ita"
+		texturefile = "gfx/interface/conference_stuff/ITA_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_por"
+		texturefile = "gfx/interface/conference_stuff/POR_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_rus"
+		texturefile = "gfx/interface/conference_stuff/RUS_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_spa"
+		texturefile = "gfx/interface/conference_stuff/SPA_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_berlin_conference_swe"
+		texturefile = "gfx/interface/conference_stuff/SWE_conference.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_generic_colonial_power"
+		texturefile = "gfx/interface/ideas/colonial_power_idea.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ofs_bluebacks"
+		texturefile = "gfx/interface/ideas/OFS/bluebacks.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ofs_bluebacks_valued"
+		texturefile = "gfx/interface/ideas/OFS/bluebacks_valued.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ofs_bluebacks_very_valued"
+		texturefile = "gfx/interface/ideas/OFS/bluebacks_very_valued.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ofs_bluebacks_devalued"
+		texturefile = "gfx/interface/ideas/OFS/bluebacks_devalued.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ofs_bluebacks_very_devalued"
+		texturefile = "gfx/interface/ideas/OFS/bluebacks_very_devalued.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ofs_campbell_diamonds"
+		texturefile = "gfx/interface/ideas/OFS/campbell_diamonds.dds"
+	}
+
+	spriteType = {
+		name = "GFX_goal_trv_ofs_union"
+		texturefile = "gfx/interface/goals/southafrica/goal_trv_ofs_union.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_khedive_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_khedive_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_eyalet_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_eyalet_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_OTT_vassal_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_OTT_vassal_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_princely_state_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_princely_state_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_personal_union_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_personal_union_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_personal_union_2_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_personal_union_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_personal_union_3_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_personal_union_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_imperial_protectorate_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_imperial_protectorate_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_daimyo_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_daimyo_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_colonial_progress"
+		texturefile = "gfx/interface/conference_stuff/colonial_strip.dds"
+		noOfFrames = 7
+	}
+	spriteType = {
+		name = "GFX_colonial_progress_completed"
+		texturefile = "gfx/interface/conference_stuff/colonial_strip_completed.dds"
+		noOfFrames = 7
+	}
+	spriteType = {
+		name = "GFX_great_game_bukara"
+		texturefile = "gfx/interface/great_game/bukara.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_khiva"
+		texturefile = "gfx/interface/great_game/khiva.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_afghan"
+		texturefile = "gfx/interface/great_game/afghanistan.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_kokand"
+		texturefile = "gfx/interface/great_game/kokand.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_south_turkmen"
+		texturefile = "gfx/interface/great_game/south_turkmen.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_north_turkmen"
+		texturefile = "gfx/interface/great_game/north_turkmen.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_panjeh"
+		texturefile = "gfx/interface/great_game/panjeh.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_peshawar"
+		texturefile = "gfx/interface/great_game/peshawar.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_samarkand"
+		texturefile = "gfx/interface/great_game/samarkand.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_persian_coast"
+		texturefile = "gfx/interface/great_game/persian_coast.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_central_persia"
+		texturefile = "gfx/interface/great_game/central_persia.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_persian_highlands"
+		texturefile = "gfx/interface/great_game/persian_highlands.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_wukhan"
+		texturefile = "gfx/interface/great_game/wukhan.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_great_game_tibet"
+		texturefile = "gfx/interface/great_game/tibet.dds"
+		noOfFrames = 6
+	}
+	spriteType = {
+		name = "GFX_great_game_sikang"
+		texturefile = "gfx/interface/great_game/sikang.dds"
+		noOfFrames = 6
+	}
+	spriteType = {
+		name = "GFX_great_game_kazakh"
+		texturefile = "gfx/interface/great_game/kazakh.dds"
+		noOfFrames = 6
+	}
+	spriteType = {
+		name = "GFX_great_game_bg"
+		texturefile = "gfx/interface/great_game/background.dds"
+	}
+	spriteType = {
+		name = "GFX_great_game_invest_influence_frame"
+		texturefile = "gfx/interface/great_game/invest_influence_frame.dds"
+	}
+	maskedShieldType = {
+		name = "GFX_great_game_influence_flag"
+		textureFile1 = "gfx/interface/great_game/influence_frame.dds"
+		textureFile2 = "gfx/interface/great_game/influence_frame_bg.dds"
+		effectFile = "gfx/FX/maskedflag.lua"
+	}
+	progressbartype = {
+		name = "GFX_suez_construction_bar"
+		textureFile1 = "gfx/interface/logistics_status_progressbar.dds"
+		textureFile2 = "gfx/interface/tiled_window_transparent.dds"
+		size = { x = 470 y = 20 }
+		effectFile = "gfx/FX/progress.lua"
+	}
+	progressbartype = {
+		name = "GFX_suez_inprogress_construction_bar"
+		textureFile1 = "gfx/interface/logistics_status_progressbar_blue.dds"
+		textureFile2 = "gfx/interface/logistics_status_progressbar_bg.dds"
+		size = { x = 470 y = 20 }
+		effectFile = "gfx/FX/progress.lua"
+	}
+
+	spriteType = {
+		name = "GFX_autonomy_afr_colony_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_colony_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_afr_dominion_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_dominion_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_afr_colonial_company_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_colonial_company_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_afr_protectorate_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_imperial_protectorate_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_british_self_gov_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_british_self_gov_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_british_dominion_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_british_dominion_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_british_crown_colony_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_british_crown_colony_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_british_mandate_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_british_mandate_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_confederation_member_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_confederation_member_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_afr_empire_level_4_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_afr_empire_level_4_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_afr_empire_level_3_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_afr_empire_level_3_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_afr_empire_level_2_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_afr_empire_level_2_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_autonomy_afr_empire_level_1_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_afr_empire_level_1_icon.dds"
+	}
+
+	# Boshin War
+	spriteType = {
+		name = "GFX_boshin_emperor_symbol"
+		texturefile = "gfx/interface/great_game/boshin/emperor_symbol.dds"
+	}
+	spriteType = {
+		name = "GFX_boshin_shogun_symbol"
+		texturefile = "gfx/interface/great_game/boshin/shogun_symbol.dds"
+	}
+
+	# Indochina
+	spriteType = {
+		name = "GFX_indochina_map_bangkok"
+		texturefile = "gfx/interface/great_game/indochina/bangkok.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_burma"
+		texturefile = "gfx/interface/great_game/indochina/burma.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_cambodia"
+		texturefile = "gfx/interface/great_game/indochina/cambodia.dds"
+		noOfFrames = 9
+	}
+	spriteType = {
+		name = "GFX_indochina_map_can_tho"
+		texturefile = "gfx/interface/great_game/indochina/can_tho.dds"
+		noOfFrames = 9
+	}
+	spriteType = {
+		name = "GFX_indochina_map_champasak"
+		texturefile = "gfx/interface/great_game/indochina/champasak.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_chathaburi"
+		texturefile = "gfx/interface/great_game/indochina/chathaburi.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_da_nang"
+		texturefile = "gfx/interface/great_game/indochina/da_nang.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_ha_noi"
+		texturefile = "gfx/interface/great_game/indochina/ha_noi.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_hai_duong"
+		texturefile = "gfx/interface/great_game/indochina/hai_duong.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_hue"
+		texturefile = "gfx/interface/great_game/indochina/hue.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_hung_hoa"
+		texturefile = "gfx/interface/great_game/indochina/hung_hoa.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_kanchanaburi"
+		texturefile = "gfx/interface/great_game/indochina/kanchanaburi.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_karen"
+		texturefile = "gfx/interface/great_game/indochina/karen.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_kayah"
+		texturefile = "gfx/interface/great_game/indochina/kayah.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_ky_son"
+		texturefile = "gfx/interface/great_game/indochina/ky_son.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_lan_na"
+		texturefile = "gfx/interface/great_game/indochina/lan_na.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_luangprabang"
+		texturefile = "gfx/interface/great_game/indochina/luangprabang.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_mandalay"
+		texturefile = "gfx/interface/great_game/indochina/mandalay.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_man_ban"
+		texturefile = "gfx/interface/great_game/indochina/man_ban.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_nong_khai"
+		texturefile = "gfx/interface/great_game/indochina/nong_khai.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_north_malay"
+		texturefile = "gfx/interface/great_game/indochina/north_malay.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_north_tenasserim"
+		texturefile = "gfx/interface/great_game/indochina/north_tenasserim.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_preah_vihear"
+		texturefile = "gfx/interface/great_game/indochina/preah_vihear.dds"
+		noOfFrames = 9
+	}
+	spriteType = {
+		name = "GFX_indochina_map_rakhine"
+		texturefile = "gfx/interface/great_game/indochina/rakhine.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_ratanakir"
+		texturefile = "gfx/interface/great_game/indochina/ratanakir.dds"
+		noOfFrames = 9
+	}
+	spriteType = {
+		name = "GFX_indochina_map_roi_et"
+		texturefile = "gfx/interface/great_game/indochina/roi_et.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_sa_kaeo"
+		texturefile = "gfx/interface/great_game/indochina/sa_kaeo.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_sai_gon"
+		texturefile = "gfx/interface/great_game/indochina/sai_gon.dds"
+		noOfFrames = 9
+	}
+	spriteType = {
+		name = "GFX_indochina_map_sainyabuli"
+		texturefile = "gfx/interface/great_game/indochina/sainyabuli.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_shan"
+		texturefile = "gfx/interface/great_game/indochina/shan.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_siem_reap"
+		texturefile = "gfx/interface/great_game/indochina/siem_reap.dds"
+		noOfFrames = 9
+	}
+	spriteType = {
+		name = "GFX_indochina_map_south_tenasserim"
+		texturefile = "gfx/interface/great_game/indochina/south_tenasserim.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_sukothai"
+		texturefile = "gfx/interface/great_game/indochina/sukothai.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_tonkin"
+		texturefile = "gfx/interface/great_game/indochina/tonkin.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_vientiane"
+		texturefile = "gfx/interface/great_game/indochina/vientiane.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_nam_ban"
+		texturefile = "gfx/interface/great_game/indochina/nam_ban.dds"
+		noOfFrames = 5
+	}
+	spriteType = {
+		name = "GFX_indochina_map_background"
+		texturefile = "gfx/interface/great_game/indochina/background.dds"
+	}
+	spriteType = {
+		name = "GFX_indochina_map_catholic_mission"
+		texturefile = "gfx/interface/great_game/indochina/catholiccrossicon.dds"
+	}
+
+	spriteType = {
+		name = "GFX_internal_politics_party_colors"
+		texturefile = "gfx/interface/internal_politics_party_colors.dds"
+		noOfFrames = 31
+	}
+
+	spriteType = {
+		name = "GFX_ministry_of_public_works_background"
+		textureFile = "gfx/interface/decisions/scripted_gui/japan/ministry_of_public_works_background.dds"
+	}
+	spriteType = {
+		name = "GFX_riot_of_rights_background"
+		textureFile = "gfx/interface/decisions/scripted_gui/japan/riot_of_rights_background.dds"
+	}
+	spriteType = {
+		name = "GFX_riot_of_rights_japan_map"
+		textureFile = "gfx/interface/decisions/scripted_gui/japan/riot_of_rights_japan_map.dds"
+	}
+	spriteType = {
+		name = "GFX_riot_of_rights_state_background"
+		textureFile = "gfx/interface/decisions/scripted_gui/japan/riot_of_rights_state_background.dds"
+	}
+	spriteType = {
+		name = "GFX_riot_of_rights_title"
+		textureFile = "gfx/interface/decisions/scripted_gui/japan/riot_of_rights_title.dds"
+	}
+	spriteType = {
+		name = "GFX_riot_of_rights_unrest_frame"
+		textureFile = "gfx/interface/decisions/scripted_gui/japan/riot_of_rights_unrest_frame.dds"
+	}
+	spriteType = {
+		name = "GFX_riot_of_rights_unrest_icon"
+		textureFile = "gfx/interface/decisions/scripted_gui/japan/riot_of_rights_unrest_icon.dds"
+	}
+	spriteType = {
+		name = "GFX_formosa_campaign_formosa_bg"
+		textureFile = "gfx/interface/decisions/scripted_gui/japan/formosa_campaign_bg.dds"
+	}
+	spriteType = {
+		name = "GFX_formosa_campaign_mission"
+		textureFile = "gfx/interface/decisions/scripted_gui/japan/mission.dds"
+		noOfFrames = 4
+	}
+	spriteType = {
+		name = "GFX_formosa_campaign_status"
+		textureFile = "gfx/interface/decisions/scripted_gui/japan/status.dds"
+		noOfFrames = 5
+	}
+	#MNT guide
+	spriteType = {
+		name = "GFX_guide_background_bg"
+		texturefile = "gfx/interface/decisions/scripted_gui/montenegro/GUI_BACKGROUND.dds"
+	}
+	spriteType = {
+		name = "GFX_guide_outer_montenegro_mnt"
+		texturefile = "gfx/interface/decisions/scripted_gui/montenegro/GUI_DYN_MNT1.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_guide_outer_montenegro_hrz"
+		texturefile = "gfx/interface/decisions/scripted_gui/montenegro/GUI_DYN_MNT3.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_guide_podgorica"
+		texturefile = "gfx/interface/decisions/scripted_gui/montenegro/GUI_DYN_MNT2.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_guide_sanjak"
+		texturefile = "gfx/interface/decisions/scripted_gui/montenegro/GUI_DYN_MNT4.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_guide_herzegovina"
+		texturefile = "gfx/interface/decisions/scripted_gui/montenegro/GUI_DYN_HRZ.dds"
+		noOfFrames = 4
+	}
+	spriteType = {
+		name = "GFX_question_mark_gui"
+		texturefile = "gfx/interface/decisions/scripted_gui/montenegro/question_mark_gui.dds"
+	}
+	spriteType = {
+		name = "GFX_guide_herzegovina_uprising_image"
+		texturefile = "gfx/interface/decisions/scripted_gui/montenegro/GUI_herzegovina_uprising_image.dds"
+	}
+
+#Great Game GUI
+	spriteType = {
+		name = "GFX_great_game_background"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_background.dds"
+	}
+	spriteType = {
+		name = "GFX_great_game_afghani_hind_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_afghani_hind.dds"
+		noOfFrames = 5
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_afghanistan_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_afghanistan.dds"
+		noOfFrames = 5
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_badakhshan_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_badakhshan.dds"
+		noOfFrames = 3
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_bukhara_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_bukhara.dds"
+		noOfFrames = 3
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_east_kazakhstan_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_east_kazakhstan.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_india_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_india.dds"
+		noOfFrames = 3
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_kazakhstan_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_kazakhstan.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_khiva_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_khiva.dds"
+		noOfFrames = 3
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_kokand_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_kokand.dds"
+		noOfFrames = 3
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_northern_iran_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_northern_iran.dds"
+		noOfFrames = 5
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_southern_iran_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_southern_iran.dds"
+		noOfFrames = 5
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_tibet_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_tibet.dds"
+		noOfFrames = 3
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_turkestan_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_turkestan.dds"
+		noOfFrames = 2
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_turkmens_button"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_turkmens.dds"
+		noOfFrames = 3
+		transparencecheck = yes
+	}
+
+
+	spriteType = {
+		name = "GFX_great_game_afghani_hind_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_afghani_hind_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_afghanistan_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_afghanistan_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_badakhshan_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_badakhshan_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_bukhara_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_bukhara_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_east_kazakhstan_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_east_kazakhstan_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_india_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_india_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_kazakhstan_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_kazakhstan_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_khiva_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_khiva_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_kokand_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_kokand_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_northern_iran_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_northern_iran_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_southern_iran_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_southern_iran_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_tibet_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_tibet_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_turkestan_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_turkestan_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+	spriteType = {
+		name = "GFX_great_game_turkmens_button_glow"
+		texturefile = "gfx/interface/decisions/scripted_gui/great_game/gg_turkmens_glow.dds"
+		animation = {
+			animationmaskfile = "gfx/interface/decisions/scripted_gui/state_maps/great_game/great_game_map_zhaslyk_glow.dds"
+			setanimationtexturefile = "gfx/interface/goals/shine_overlay.dds"			# <- the animated file
+			animationrotation = -90			# -90 clockwise 90 counterclockwise(by default)
+			animationlooping = yes			# yes or no ;)
+			animationtime = 4			# in seconds
+			animationdelay = 0			# in seconds
+			animationblendmode = "add"			#add, multiply, overlay
+			animationtype = "pulsing"			#scrolling, rotating, pulsing
+			animationrotationoffset = {
+				x = 0
+				y = 0
+			}
+			animationtexturescale = {
+				x = 1
+				y = 1
+			}
+		}
+		transparencecheck = yes
+	}
+}
