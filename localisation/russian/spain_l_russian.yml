@@ -75,7 +75,7 @@
  spain_caribbean.5.a: "Surpress this revolt!"
  spain_caribbean.5.b: "Fight for Rojas! (Play as Puerto Rico)"
   
- spain_caribbean.6.t: "Cry of Lares surpressed" #NT!
+ spain_caribbean.6.t: "Cry of Lares surpressed"
  spain_caribbean.6.d: "The Cry of Lares has been stopped, the liberation army was crushed and the Puerto Rican forces have surrendered. The organized revolt still created a nationalistic sentiment within the Puerto Ricans and we need to choose how to deal with that. Will we exile and imprison the forces like we did to the leaders and surpress them or give them some loose autonomy?"
  spain_caribbean.6.a: "Victory for Spain!"
   
@@ -395,6 +395,116 @@
  SPR_national_exaltation: "Victory in Africa"
  SPR_national_exaltation_desc: "After the glorious victory over the infidels, our propaganda campaign comes to an end. Poets, musicians and artists of all kinds have already begun to work on the immortalization of our feat. We only have to take advantage of the stability that this event has given us and obtain economic profitability from the commercial treaties imposed on Morocco after the peace."
  SPR_national_exaltation_trigger: "§YSpanish-Morocco War§! is a success"
+  
+ SPR_morocco_expedition_fortify_ceuta_decision: "Укрепить [1029.GetName]"
+ SPR_morocco_expedition_fortify_ceuta_decision_desc: "Если мы укрепим [1029.GetName], то обеспечим, что в будущем Марокко будет сложно совершать на него набеги, а также сможем использовать его для начала атаки."
+ SPR_prepare_ceuta_tooltip: "Открывает решения, связанные с укреплением §Y[1029.GetName]§!."
+ SPR_morocco_expedition_fortify_melilla_decision: "Укрепить Мелилью"
+ SPR_morocco_expedition_fortify_melilla_decision_desc: "Если мы укрепим Мелилью, то обеспечим, что в будущем Марокко будет сложно совершать на неё набеги, а также сможем использовать её для начала атаки."
+ SPR_prepare_melilla_tooltip: "Открывает решения, связанные с укреплением §YМелильи§!."
+  
+ SPR_morocco_expedition_begin_invasion: "Начать войну с Марокко"
+ SPR_morocco_expedition_begin_invasion_desc: "Теперь, когда мы готовы, мы можем начать вторжение в Марокко."
+  
+ SPR_morocco_expedition_take_er_rif_mission: "Испано-Марокканская война"
+ SPR_morocco_expedition_take_er_rif_mission_desc: "[1029.GetName] являются ключевыми портовыми городами, которые могут поддерживать вторжение в Марокко. Они — ключевые позиции всей операции, без них испанские силы будут вынуждены покинуть войну. Если Испания достигнет [290.GetName], то начнутся мирные переговоры с Марокко и война закончится."
+ SPR_morocco_expedition_take_casablanca_mission: "Испано-Марокканская война"
+ SPR_morocco_expedition_take_casablanca_mission_desc: "[1029.GetName] являются ключевыми портовыми городами, которые могут поддерживать вторжение в Марокко. Они — ключевые позиции всей операции, без них испанские силы будут вынуждены покинуть войну. Касабланка — ключевой город для Марокко, и если он будет потерян, Марокко больше не сможет продолжать войну."
+  
+ SPR_morocco_expedition_state_controlled_trigger: "Контролируется §YИспанией§!"
+ SPR_morocco_expedition_state_not_controlled_trigger: "Не контролируется §YМарокко§!"
+  
+ SPR_morocco_expedition_has_not_began: "§YВойна с Марокко§! ещё не началась"
+  
+ morocco.2.t: "Племена провели несанкционированный набег на Испанию!"
+ morocco.2.d: ""
+ morocco.2.a: "Это может стать серьёзным инцидентом!"
+  
+ SPR_morocco_expedition.1.t: "Марокканские племена напали на нашу границу!"
+ SPR_morocco_expedition.1.d: ""
+ SPR_morocco_expedition.1.a: "Требуем прекратить набеги!"
+ SPR_morocco_expedition.1.b: "У нас есть более важные дела."
+  
+ SPR_morocco_expedition.2.t: "Испания требует прекращения набегов"
+ SPR_morocco_expedition.2.d: ""
+ SPR_morocco_expedition.2.a: "Это не в нашей власти..."
+ SPR_morocco_expedition.2.b: "Слово султана — закон, они прекратят!"
+  
+ SPR_morocco_expedition.3.t: "Марокканские племена снова напали!"
+ SPR_morocco_expedition.3.d: ""
+ SPR_morocco_expedition.3.a: "Мы позаботимся о том, чтобы это больше не повторилось..."
+  
+ SPR_morocco_expedition.4.t: "Испания готовится к войне!"
+ SPR_morocco_expedition.4.d: "Испания готовится к войне, что нам делать?"
+ SPR_morocco_expedition.4.a: "Надеемся, что они изменят своё мнение..."
+ SPR_morocco_expedition.4.b: "Объявим войну первыми!"
+  
+ SPR_morocco_expedition.5.t: "Местные племена напали на Испанию!"
+ SPR_morocco_expedition.5.d: ""
+ SPR_morocco_expedition.5.a: "Это может стать дипломатическим кошмаром..."
+  
+ SPR_morocco_expedition.6.t: "Испания объявляет войну!"
+ SPR_morocco_expedition.6.d: ""
+ SPR_morocco_expedition.6.a: "Готовимся к войне!"
+  
+ SPR_morocco_expedition.7.t: "Марокко объявляет войну!"
+ SPR_morocco_expedition.7.d: ""
+ SPR_morocco_expedition.7.a: "Что?!"
+  
+ SPR_morocco_expedition.8.t: "Испания захватывает [290.GetName]!"
+ SPR_morocco_expedition.8.d: ""
+ SPR_morocco_expedition.8.a: "Всё кончено!"
+ SPR_morocco_expedition.8.b: "Продолжаем сражаться!"
+  
+ SPR_morocco_expedition.9.t: "Марокко продолжает сражаться!"
+ SPR_morocco_expedition.9.d: ""
+ SPR_morocco_expedition.9.a: "Вперёд, на Касабланку!"
+  
+ SPR_morocco_expedition.10.t: "Испания захватывает Касабланку!"
+ SPR_morocco_expedition.10.d: ""
+ SPR_morocco_expedition.10.a: "Теперь всё точно кончено!"
+  
+ SPR_morocco_expedition.11.t: "Марокко сдаётся!"
+ SPR_morocco_expedition.11.d: ""
+ SPR_morocco_expedition.11.a: "Теперь к переговорам..."
+  
+ SPR_morocco_expedition.12.t: "Измучены войной!"
+ SPR_morocco_expedition.12.d: ""
+ SPR_morocco_expedition.12.a: "У нас нет выбора, кроме как заключить мир..."
+  
+ SPR_morocco_expedition.13.t: "Марокко удерживает [1029.GetName] и [1030.GetName]!"
+ SPR_morocco_expedition.13.d: ""
+ SPR_morocco_expedition.13.a: "У нас нет выбора, кроме как начать переговоры..."
+  
+ SPR_morocco_expedition.14.t: "Марокко удерживает [1029.GetName] и [1030.GetName]!"
+ SPR_morocco_expedition.14.d: ""
+ SPR_morocco_expedition.14.a: "Теперь к переговорам..."
+  
+ SPR_morocco_expedition.15.t: "Марокко соглашается с требованиями!"
+ SPR_morocco_expedition.15.d: ""
+ SPR_morocco_expedition.15.a: "Теперь время для фиесты!"
+  
+ SPR_morocco_expedition.16.t: "Требования Испании!"
+ SPR_morocco_expedition.16.d: ""
+ SPR_morocco_expedition.16.a: "Это разорило нас!"
+  
+ SPR_morocco_expedition.17.t: "Выдвинуть торговые требования Марокко?"
+ SPR_morocco_expedition.17.d: ""
+ SPR_morocco_expedition.17.a: "Они не в положении отказаться."
+ SPR_morocco_expedition.17.b: "Мы уже получили достаточно платежей..."
+  
+ SPR_morocco_expedition.18.t: "Испания выдвигает торговые требования!"
+ SPR_morocco_expedition.18.d: ""
+ SPR_morocco_expedition.18.a: "Мы не можем отказаться..."
+  
+ SPR_morocco_expedition.19.t: "Марокко принимает торговые требования!"
+ SPR_morocco_expedition.19.d: ""
+ SPR_morocco_expedition.19.a: "Отлично!"
+  
+ SPR_morocco_expedition.20.t: "Испания решительно настроена остановить налётчиков"
+ SPR_morocco_expedition.20.d: ""
+ SPR_morocco_expedition.20.a: "Мы можем позволить Испании научить Марокко манерам."
+  
  ## Europe ## 
  SPR_europe: "Europe"
  SPR_europe_desc: "We must begin to participate in the political life of the continent if we want the other European powers to count on us in the future."
@@ -509,6 +619,97 @@
  SPR_send_culis_to_the_caribbean_desc: ""
  SPR_formosa_disaster: "Formosa Disaster"
  SPR_formosa_disaster_desc: ""
+  
+  
+ SPH_expansion_decision_category: "Integrating the Unorganized Tribes"
+  
+ SPH_expansion_menu_open_623: "-------------------  §CManage [623.GetName]§!  -------------------"
+ SPH_expansion_menu_close_623: "-------------------  §CHide [623.GetName]§!  -------------------"
+ SPH_expansion_progress_623: "§Y[623.GetName]:§! §WIntegrate Unorganized Tribes§!"
+ SPH_expansion_progress_623_desc: "§WIntegration Progress:§! §G[?623.SPH_integration_progress_var]%§!\n-------------------\n§WRegion Type:§! §g[623.afr_empire_politics_state_category_scripted]§!\n§WInfrastructure: [?623.building_level@infrastructure]/3§!\n§WNaval Port: [623.SPH_has_naval_base_script]§!\n-------------------\n§WMajority Religion:§! [623.GetNationalReligionScript]\n§W[?623.GetNationalReligionScript] Popularity:§! [?623.state_religion_array_num^i|%g0]\n§WCompliance to Catholicism:§! [623.SPH_catholic_compliance_scripted]\n-------------------\n§WDetrimental Impact:§! §R[?623.detrimental_colonial_impact_value]§!\n§WAnti-Colonial Organization:§! §O[?623.DCI_organization_value]%§!"
+ SPH_establish_town_623: "§Y[623.GetName]:§! §WEstablish [623.SPH_establish_town_scripted]§!"
+ SPH_establish_town_623_desc: "[623.SPH_establish_town_desc_scripted]"
+ SPH_establish_logging_industry_623: "§Y[623.GetName]:§! §WLogging Camp Investment§!"
+ SPH_establish_logging_industry_623_desc: "[623.GetName] is rich with dense forests that can sustain a profitable logging economy. But before any profit can be made, an investment in the local logging industry would be required."
+  
+ SPH_expansion_menu_open_624: "-----------  §CManage [624.GetName]§!  -----------"
+ SPH_expansion_menu_close_624: "-----------  §CHide [624.GetName]§!  -----------"
+ SPH_expansion_progress_624: "§Y[624.GetName]:§! §WIntegrate Unorganized Tribes§!"
+ SPH_expansion_progress_624_desc: "§WIntegration Progress:§! §G[?624.SPH_integration_progress_var]%§!\n-------------------\n§WRegion Type:§! §g[624.afr_empire_politics_state_category_scripted]§!\n§WInfrastructure: [?624.building_level@infrastructure]/3§!\n§WNaval Port: [624.SPH_has_naval_base_script]§!\n-------------------\n§WMajority Religion:§! [624.GetNationalReligionScript]\n§W[?624.GetNationalReligionScript] Popularity:§! [?624.state_religion_array_num^i|%g0]\n§WCompliance to Catholicism:§! [624.SPH_catholic_compliance_scripted]\n-------------------\n§WDetrimental Impact:§! §R[?624.detrimental_colonial_impact_value]§!\n§WAnti-Colonial Organization:§! §O[?624.DCI_organization_value]%§!"
+ SPH_establish_town_624: "§Y[624.GetName]:§! §WEstablish [624.SPH_establish_town_scripted]§!"
+ SPH_establish_town_624_desc: "[624.SPH_establish_town_desc_scripted]"
+ SPH_establish_port_624: "§Y[624.GetName]:§! §WTrade Port Investment§!"
+ SPH_establish_port_624_desc: "If we want our outpost in [624.GetName] to develop further, it will require the investment of a trade port. Without a port, a a vibrant trade network will never form, which will limit it's economic capacity."
+ SPH_establish_logging_industry_624: "§Y[624.GetName]:§! §WLogging Camp Investment§!"
+ SPH_establish_logging_industry_624_desc: "[624.GetName] is rich with dense forests that can sustain a profitable logging economy. But before any profit can be made, an investment in the local logging industry would be required."
+  
+ SPH_expansion_menu_open_625: "------------------  §CManage [625.GetName]§!  ------------------"
+ SPH_expansion_menu_close_625: "------------------  §CHide [625.GetName]§!  ------------------"
+ SPH_expansion_progress_625: "§Y[625.GetName]:§! §WIntegrate Unorganized Tribes§!"
+ SPH_expansion_progress_625_desc: "§WIntegration Progress:§! §G[?625.SPH_integration_progress_var]%§!\n-------------------\n§WRegion Type:§! §g[625.afr_empire_politics_state_category_scripted]§!\n§WInfrastructure: [?625.building_level@infrastructure]/3§!\n§WNaval Port: [625.SPH_has_naval_base_script]§!\n-------------------\n§WMajority Religion:§! [625.GetNationalReligionScript]\n§W[?625.GetNationalReligionScript] Popularity:§! [?625.state_religion_array_num^i|%g0]\n§WCompliance to Catholicism:§! [625.SPH_catholic_compliance_scripted]\n-------------------\n§WDetrimental Impact:§! §R[?625.detrimental_colonial_impact_value]§!\n§WAnti-Colonial Organization:§! §O[?625.DCI_organization_value]%§!"
+ SPH_establish_town_625: "§Y[625.GetName]:§! §WEstablish [625.SPH_establish_town_scripted]§!"
+ SPH_establish_town_625_desc: "[625.SPH_establish_town_desc_scripted]"
+ SPH_establish_port_625: "§Y[625.GetName]:§! §WTrade Port Investment§!"
+ SPH_establish_port_625_desc: "If we want our outpost in [625.GetName] to develop further, it will require the investment of a trade port. Without a port, a a vibrant trade network will never form, which will limit it's economic capacity."
+ SPH_establish_logging_industry_625: "§Y[625.GetName]:§! §WLogging Camp Investment§!"
+ SPH_establish_logging_industry_625_desc: "[625.GetName] is rich with dense forests that can sustain a profitable logging economy. But before any profit can be made, an investment in the local logging industry would be required."
+  
+ SPH_expansion_menu_open_626: "----------------  §CManage [626.GetName]§!  ----------------"
+ SPH_expansion_menu_close_626: "----------------  §CHide [626.GetName]§!  ----------------"
+ SPH_expansion_progress_626: "§Y[626.GetName]:§! §WIntegrate Unorganized Tribes§!"
+ SPH_expansion_progress_626_desc: "§WIntegration Progress:§! §G[?626.SPH_integration_progress_var]%§!\n-------------------\n§WRegion Type:§! §g[626.afr_empire_politics_state_category_scripted]§!\n§WInfrastructure: [?626.building_level@infrastructure]/3§!\n§WNaval Port: [626.SPH_has_naval_base_script]§!\n-------------------\n§WMajority Religion:§! [626.GetNationalReligionScript]\n§W[?626.GetNationalReligionScript] Popularity:§! [?626.state_religion_array_num^i|%g0]\n§WCompliance to Catholicism:§! [626.SPH_catholic_compliance_scripted]\n-------------------\n§WDetrimental Impact:§! §R[?626.detrimental_colonial_impact_value]§!\n§WAnti-Colonial Organization:§! §O[?626.DCI_organization_value]%§!"
+ SPH_establish_town_626: "§Y[626.GetName]:§! §WEstablish [626.SPH_establish_town_scripted]§!"
+ SPH_establish_town_626_desc: "[626.SPH_establish_town_desc_scripted]"
+ SPH_establish_port_626: "§Y[626.GetName]:§! §WTrade Port Investment§!"
+ SPH_establish_port_626_desc: "If we want our outpost in [626.GetName] to develop further, it will require the investment of a trade port. Without a port, a a vibrant trade network will never form, which will limit it's economic capacity."
+  
+ SPH_expansion_menu_open_628: "------------------  §CManage [628.GetName]§!  ------------------"
+ SPH_expansion_menu_close_628: "------------------  §CHide [628.GetName]§!  ------------------"
+ SPH_expansion_progress_628: "§Y[628.GetName]:§! §WIntegrate Unorganized Tribes§!"
+ SPH_expansion_progress_628_desc: "§WIntegration Progress:§! §G[?628.SPH_integration_progress_var]%§!\n-------------------\n§WRegion Type:§! §g[628.afr_empire_politics_state_category_scripted]§!\n§WInfrastructure: [?628.building_level@infrastructure]/3§!\n§WNaval Port: [628.SPH_has_naval_base_script]§!\n-------------------\n§WMajority Religion:§! [628.GetNationalReligionScript]\n§W[?628.GetNationalReligionScript] Popularity:§! [?628.state_religion_array_num^i|%g0]\n§WCompliance to Catholicism:§! [628.SPH_catholic_compliance_scripted]\n-------------------\n§WDetrimental Impact:§! §R[?628.detrimental_colonial_impact_value]§!\n§WAnti-Colonial Organization:§! §O[?628.DCI_organization_value]%§!"
+ SPH_establish_town_628: "§Y[628.GetName]:§! §WEstablish [628.SPH_establish_town_scripted]§!"
+ SPH_establish_town_628_desc: "[628.SPH_establish_town_desc_scripted]"
+ SPH_establish_port_628: "§Y[628.GetName]:§! §WTrade Port Investment§!"
+ SPH_establish_port_628_desc: "If we want our outpost in [628.GetName] to develop further, it will require the investment of a trade port. Without a port, a a vibrant trade network will never form, which will limit it's economic capacity."
+ SPH_establish_logging_industry_628: "§Y[628.GetName]:§! §WLogging Camp Investment§!"
+ SPH_establish_logging_industry_628_desc: "[628.GetName] is rich with dense forests that can sustain a profitable logging economy. But before any profit can be made, an investment in the local logging industry would be required."
+  
+ SPH_has_a_port_tooltip: "Has a §YNaval Port§!"
+ SPH_has_naval_base_yes: "§GBuilt§!"
+ SPH_has_naval_base_no: "§RNone§!"
+ SPR_expansion_progress_outpost_tooltip: "Has an §YOutpost§! founded"
+ SPR_expansion_progress_village_tooltip: "Has a §YVillage§! founded"
+ SPR_expansion_progress_town_tooltip: "Has a §YTown§! founded"
+ SPH_tribal_cooperation_tooltip: "Has §YTribal Cooperation§!"
+ SPH_tribal_cooperation_or_village_tooltip: "A §YVillage§! has been founded or we have §YTribal Cooperation§! with our Outpost"
+  
+ SPH_catholic_compliance_high: "§GHigh§!"
+ SPH_catholic_compliance_med: "§OMed§!"
+ SPH_catholic_compliance_low: "§RLow§!"
+  
+ SPH_establish_town_outpost: "Outpost"
+ SPH_establish_town_outpost_desc: "We shall build a settlement and build a Spanish Outpost to establish contact with the unorganized tribes within the region."
+ SPH_establish_town_village: "Village"
+ SPH_establish_town_village_desc: "Investments will be made into the Outpost. Once investments are finished the outpost will transform into a thriving village with the capacity for economic growth."
+ SPH_establish_town_town: "Town"
+ SPH_establish_town_town_desc: "Further investments are made into the village so it can become a prosperous town with a capacity for more economic development."
+  
+ SPR_expansion_progress_tooltip: "Integration Ready"
+  
+  #Events 
+  
+ spain.20.t: "Apportionment of [FROM.GetAdjective] Governor"
+ spain.20.d: "Every three years the sitting ruler of the [ROOT.GetName] will appoint a new govenor for the [FROM.GetName]."
+ spain.20.a: "Retire [FROM.GetLeader], and appoint a new one."
+ spain.20.b: "Reappoint [FROM.GetLeader] to be govenor."
+  
+ spain.21.t: "[FROM.GetLeader] Appoints [ROOT.GetLeader] as Governor!"
+ spain.21.d: "Every three years the sitting ruler of the [FROM.GetName] will appoint a new govenor for the [ROOT.GetName]. This time the sitting govenor was replaced by [ROOT.GetLeader]."
+ spain.21.a: "We have little say in these matters."
+  
+ spain.22.t: "[FROM.GetLeader] Appoints [ROOT.GetLeader] as Governor!"
+ spain.22.d: "Every three years the sitting ruler of the [FROM.GetName] will appoint a new govenor for the [ROOT.GetName]. This time the sitting govenor was reapointed."
+ spain.22.a: "We have little say in these matters."
   
  ##### IDEAS ##### 
  #Country Ideas 

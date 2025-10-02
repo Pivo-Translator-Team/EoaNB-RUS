@@ -4,6 +4,9 @@
  #                    SPECIAL 
  ################################################## 
   
+ BEL_Auguste_Francotte_Companie: "Auguste Francotte & Companie" #NT!
+ BEL_trait_Auguste_Francotte_Companie: "Rifle Manufactory" #NT!
+  
  ################################################## 
  #                     FOCUS 
  ################################################## 
@@ -17,8 +20,8 @@
  BEL_linguistic_freedoms: "Linguistic Freedoms"
  BEL_coal_power_industry: "Coal Powered Industry"
  BEL_john_cockerill_machines: "Developments of the S.A. John Cockerill"
- BEL_sncb: "Found the SNCB"
- BEL_sncb_desc: "Société nationale des chemins de fer belges"
+ BEL_new_belgian_railway_lines: "New Belgian Railway Lines" #NT!
+ BEL_new_belgian_railway_lines: "Société nationale des chemins de fer belges" #NT!
  BEL_fn_herstal_company: "FN Herstal Company"
  BEL_force_publique: "Force Publique"
  BEL_protect_capital: "Protect the Capital"
@@ -155,28 +158,106 @@
  BEL_acknowledge_worker_conditions: "Acknowledge the Worker Condition"
  BEL_glass_and_ironworks: "Glass and Ironworks"
  BEL_pacific_colonies: "The Turquoise Island"
+ ## ARMY ## 
+ BEL_army_of_belgians: "Army of the Belgians" #NT!
+ BEL_infantry_and_rifled_muskets: "The Infantry and Rifled Muskets" #NT!
+ BEL_the_engineers: "The Engineers" #NT!
+ BEL_chasseurs_a_pied: "Chasseurs à Pied" #NT!
+ BEL_the_monster_mortar: "The Monster Mortar" #NT!
+ BEL_artillery_regiment_campagne: "Le Régiment d'Artillerie de Campagne" #NT!
+ BEL_cuirassiers_to_lancers: "Cuirassiers to Lancers" #NT!
+ BEL_army_of_conscripts: "An Army of Conscripts" #NT!
+ BEL_replacement_system: "The Replacement System" #NT!
+ BEL_keep_the_system: "Keep the System" #NT!
+ BEL_the_wealthy_shall_march: "The Wealthy Shall March!" #NT!
+ BEL_doctrinal_rapid_mobilization: "Doctrinal Rapid Mobilization" #NT!
+ BEL_modern_european_army: "A Modern European Army" #NT!
+ BEL_royal_military_academy_brussels: "Royal Military Academy of Brussels" #NT!
+ BEL_french_army_advisors: "French Army Advisors" #NT!
+ BEL_beverloo_camp: "Beverloo Camp" #NT!
+ BEL_fortify_key_cities: "Fortify Key Cities" #NT!
+ BEL_continue_national_redoubt: "Continue the National Redoubt" #NT!
+ BEL_namur_fortress: "The Namur Fortress" #NT!
+ BEL_liege_fortress: "The Fortress of Liege" #NT!
+ BEL_defensive_doctrines: "Defensive Doctrines" #NT!
+ BEL_reliance_on_fortresses: "Reliance on Fortresses" #NT!
+ BEL_layered_defense: "Layered Defense" #NT!
+ BEL_skirmisher_tactics: "Skirmisher Tactics" #NT!
+ BEL_finish_national_redoubt: "Finish the National Redoubt" #NT!
+ BEL_monitor_austrian_sardinian_war: "Monitor the Austro-Sardinian War" #NT!
+ BEL_the_mexican_expedition: "The Mexican Expedition" #NT!
+ BEL_observe_the_schleswig_wars: "Observe the Schleswig Wars" #NT!
+ BEL_watch_closely_brothers_war: "Closely Watch the Brothers War" #NT!
+ BEL_defend_heart_of_country: "Defend the Heart of the Country" #NT!
+ BEL_neutral_but_ready: "Neutral but Ready" #NT!
   
   #Custom Tooltips 
   
  BEL_flag_continental_system: "You need to participate in the continental system"
  BEL_flag_continental_isolation: "You need to keep your distance with the rest of the continent"
+ BEL_intervene_mexico_tt: "We will be able to send volunteers to France to aid their Mexican campaign.\n\nThe Mexican Intervention for France isn't Finished, so this focus will be automatically bypassed." #NT!
+ BEL_focus_infantry_and_rifled_muskets_tt: "§Y[ROOT.GetNameWithFlag]§! unlocks §YAuguste Francotte & Companie§! as a Company for Infantry Weapons" #NT!
   
  ################################################## 
  #                 DECISIONS 
  ################################################## 
+  
+ BEL_decision_category_military: "Military Development" #NT!
+ BEL_decision_infrastructure: "Infrastructure Development" #NT!
+ BEL_decision_keep_the_system: "Keep the System" #NT!
+ BEL_decision_change_the_system: "Change the System" #NT!
+ BEL_decision_wealthy_shall_march: "The Wealthy Shall March" #NT!
+ BEL_decision_continue_national_redoubt: "Continue the National Redoubt" #NT!
+ BEL_decision_namur_fortress: "The Namur Fortress" #NT!
+ BEL_decision_liege_fortress: "The Fortress of Liege" #NT!
+ BEL_decision_finish_national_redoubt: "Finish the National Redoubt" #NT!
   
  ################################################## 
  #          NATIONAL SPIRITS AND ADVISORS 
  ################################################## 
   
  BEL_idea_flemish_tensions: "Flemish Tensions"
+ BEL_idea_flemish_tensions_desc: "TODO" #NT!
  BEL_idea_industrial_revolution: "Belgian Industrial Revolution"
+ BEL_idea_industrial_revolution_desc: "TODO" #NT!
  BEL_idea_treaty_of_london: "Treaty of London"
+ BEL_idea_treaty_of_london_desc: "TODO" #NT!
  BEL_idea_catholic_liberal_dichotomy: "Catholic-Liberal Dichotomy"
+ BEL_idea_catholic_liberal_dichotomy_desc: "TODO" #NT!
+ BEL_idea_until_help_arrives: "Until Help Arrives" #NT!
+ BEL_idea_until_help_arrives_desc: "TODO" #NT!
+ BEL_idea_belgian_coal_market: "Belgian Coal Market" #NT!
+ BEL_idea_belgian_coal_market_desc: "TODO" #NT!
+ BEL_idea_impeccable_infrastructure: "Impeccable Infrastructure" #NT!
+ BEL_idea_impeccable_infrastructure_desc: "TODO" #NT!
+ BEL_idea_royal_military_academy_brussels: "Royal Military Academy of Brussels" #NT!
+ BEL_idea_royal_military_academy_brussels_1: "Royal Military Academy of Brussels" #NT!
+ BEL_idea_royal_military_academy_brussels_2: "Royal Military Academy of Brussels" #NT!
+ BEL_idea_royal_military_academy_brussels_3: "Royal Military Academy of Brussels" #NT!
+ BEL_idea_defensive_doctrine: "Defensive Doctrine" #NT!
+ BEL_idea_defensive_doctrine_1: "Defensive Doctrine" #NT!
+ BEL_idea_layered_defense: "Layered Defense" #NT!
+ BEL_idea_layered_defense_1: "Layered Defense" #NT!
+ BEL_idea_layered_defense_2: "Layered Defense" #NT!
+ BEL_idea_defend_the_heart: "Defend the Heart of the Country" #NT!
+ BEL_idea_modern_european_army: "A Modern European Army" #NT!
+ BEL_idea_doctrinal_rapid_mobilization: "Doctrinal Rapid Mobilization" #NT!
+ BEL_idea_wealthy_shall_march: "The Wealthy Shall March" #NT!
   
   #Advisor Traits 
  BEL_trait_Guillaume_Delcourt: "Maritime Advisor"
-  
+ BEL_trait_pierre_emmanuel: "Royal Belgian Minister of War" #NT!
+ BEL_trait_jacques_joseph: "" #NT!
+ BEL_trait_albert_goblet: "" #NT!
+ BEL_trait_auguste_goethals: "" #NT!
+ BEL_trait_adrien_goffinet: "" #NT!
+ BEL_trait_omer_ablay: "" #NT!
+ BEL_trait_bruno_renard: "" #NT!
+  #Theorists Traits 
+ BEL_trait_theorist_leonard_greindl: "" #NT!
+ BEL_trait_theorist_henri_guillaume: "" #NT!
+ BEL_trait_theorist_jean_baptiste_liagre: "" #NT!
+ BEL_trait_theorist_charles_pontus: "" #NT!
   #Heads of State 
  BEL_Leopold_I: "Leopold I"
  BEL_Leopold_II: "Leopold II"
@@ -192,18 +273,106 @@
  #belgium_event_naming.1.c: "I would like a bit of chaos."
  #belgium_event_naming.1.e: "Just let me play the game!"
   
+ belgium_election.1.t: "1857 Elections" #NT!
+ belgium_election.1.d: "" #NT!
+ belgium_election.1.a: "Victory for the Catholics" #NT!
+ belgium_election.1.b: "Victory for the Liberals" #NT!
+  
+ belgium_election.2.t: "1859 Elections" #NT!
+ belgium_election.2.d: "" #NT!
+ belgium_election.2.a: "Victory for the Catholics" #NT!
+ belgium_election.2.b: "Victory for the Liberals" #NT!
+  
+ belgium_election.3.t: "1861 Elections" #NT!
+ belgium_election.3.d: "" #NT!
+ belgium_election.3.a: "Victory for the Catholics" #NT!
+ belgium_election.3.b: "Victory for the Liberals" #NT!
+  
+ belgium_election.4.t: "1863 Elections" #NT!
+ belgium_election.4.d: "" #NT!
+ belgium_election.4.a: "Victory for the Catholics" #NT!
+ belgium_election.4.b: "Victory for the Liberals" #NT!
+  
+ belgium_election.5.t: "1864 Elections" #NT!
+ belgium_election.5.d: "" #NT!
+ belgium_election.5.a: "Victory for the Catholics" #NT!
+ belgium_election.5.b: "Victory for the Liberals" #NT!
+  
+ belgium_election.6.t: "1866 Elections" #NT!
+ belgium_election.6.d: "" #NT!
+ belgium_election.6.a: "Victory for the Catholics" #NT!
+ belgium_election.6.b: "Victory for the Liberals" #NT!
+  
+ belgium_election.7.t: "1868 Elections" #NT!
+ belgium_election.7.d: "" #NT!
+ belgium_election.7.a: "Victory for the Catholics" #NT!
+ belgium_election.7.b: "Victory for the Liberals" #NT!
+  
+ belgium_election.8.t: "1870 Elections" #NT!
+ belgium_election.8.d: "" #NT!
+ belgium_election.8.a: "It's a tie ?!" #NT!
+  
+ belgium_election.9.t: "1870 Elections" #NT!
+ belgium_election.9.d: "" #NT!
+ belgium_election.9.a: "Victory for the Catholics" #NT!
+ belgium_election.9.b: "Victory for the Liberals" #NT!
+  
+ belgium_event.1.t: "De Decker's retirement" #NT!
+ belgium_event.1.d: "" #NT!
+ belgium_event.1.a: "Jules d'Anethan will be his successor" #NT!
+ belgium_event.1.b: "Léonard Greindl will be his successor" #NT!
+  
+ belgium_event.2.t: "Rogier's retirement" #NT!
+ belgium_event.2.d: "" #NT!
+ belgium_event.2.a: "Walthère Frère-Orban will be his successor" #NT!
+ belgium_event.2.b: "Adolphe de Vrière will be his successor" #NT!
+  
+ belgium_event.5.t: "Birth of Leopold of Belgium, son of crown prince Leopold of Belgium" #NT!
+ belgium_event.5.d: "" #NT!
+ belgium_event.5.a: "The royal family sure love the name Leopold" #NT!
+  
+ belgium_event.6.t: "An assault on the 'Dubois widow'" #NT!
+ belgium_event.6.d: "" #NT!
+ belgium_event.6.a: "The whole country is shocked!" #NT!
+  
+ belgium_event.7.t: "The killers of the Dubois widow has been found!" #NT!
+ belgium_event.7.d: "" #NT!
+ belgium_event.7.a: "Hang th ... hum ... Give them a proper trial" #NT!
+  
+ belgium_event.9.t: "The trials of the 'Bande Noire'" #NT!
+ belgium_event.9.d: "" #NT!
+ belgium_event.9.a: "Good riddence" #NT!
+  
+ belgium_event.10.t: "Foundation of the Meetingpartij" #NT!
+ belgium_event.10.d: "" #NT!
+ belgium_event.10.a: "Flemmish politics is not Belgian politics" #NT!
   
  belgium_event.11.t: "Spreading of "fried potato sticks""
  belgium_event.11.d: "Since potatoes came to Europe from South America, its uses has always been seen as limited. Potato salad, mashed and boiled potatoes were the main way of consuming them, which, by itself, isn't a tasty meal. In the 18th century, Belgian cooks invented a new way of consuming it, by frying it in oil diced. This recipe might be old news, but now, new cooks found new ways of frying it. By cutting it in sticks, you can now consume it in a bag, and so it can be served in the streets. This has recently gained momentum around our biggest cities, and a lot of stall start to see its potential."
  belgium_event.11.a: "'Frites' would be a catchier name"
+  
+ belgium_event.13.t: "Leopold I's death" #NT!
+ belgium_event.13.d: "" #NT!
+ belgium_event.13.a: "" #NT!
+  
+ belgium_event.14.t: "Crowning of Léopold II" #NT!
+ belgium_event.14.d: "" #NT!
+ belgium_event.14.a: "" #NT!
   
  belgium_event.15.t: "The Continental Proclamation"
  belgium_event.15.d: "The diplomatic state of Europe has gone sour in the last couple of years. The wars with Austria and Denmark showed the warmongering side of Prussia, and in response France is starting to become distant and is now preparing a potential assault, and with the reunification of the german lands, we, in the middle of all of this, should claim our place in this system. Today Léopold II, our king, has proclaimed the new path of belgian diplomacy following his strenghtening of his reign. "We are at the edge of a new european order, and we should be aware of it or pay the consequences" he said during his declaration, but we need to decide if this awareness will lead to diplomatic independence, as is required by the British backed Treaty of London, or if it will on the contrary, lead to our intervention in a potential Franco-Prussian war."
  belgium_event.15.a: "An ally for the righteous side"
  belgium_event.15.b: "Defend our place in this system"
   
-  # Custom Tooltips 
+ belgium_event.100.t: "Jean Chapelié's Retirement from the Army" #NT!
+ belgium_event.100.d: "" #NT!
+ belgium_event.100.a: "Farewell" #NT!
   
+ belgium_event.101.t: "Leonard Greindl's Retirement from the Army" #NT!
+ belgium_event.101.d: "" #NT!
+ belgium_event.101.a: "Farewell" #NT!
+  
+ # Custom Tooltips 
  #BEL_event_dutch_rename_effect_tt: "The cities and states in §YFlanders§! and §BWallonia§! will be renamed to their §YDutch§! names!"
  #BEL_event_french_rename_effect_tt: "The cities and states in §YFlanders§! and §BWallonia§! will be renamed to their §BWalloon§! names!"
  #BEL_event_french_dutch_rename_effect_tt: "The cities and states in §YFlanders§! will be renamed to their §YDutch§! names and the cities and states in §BWallonia§! will be renamed to their §BWalloon§! names!"
@@ -212,3 +381,6 @@
  ################################################## 
  #            OPINION MODIFIERS 
  ################################################## 
+  
+ BEL_hired_french: "Hired a French general" #NT!
+ BEL_french_connections: "French connections" #NT!

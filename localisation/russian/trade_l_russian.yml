@@ -16,8 +16,7 @@
  TRADEVIEW_RES_SURPLUS: "Излишки:"
  TRADEVIEW_RES_IMPORTED: "Импорт:"
  TRADEVIEW_RES_EXPORTED: "Экспорт:"
- TRADEVIEW_RES_SPECIAL_PROJECT: "Проекты:"
- TRADEVIEW_RES_PRODUCTION: "Production:" #NT!
+ TRADEVIEW_RES_PRODUCTION: "Production:"
  TRADE_PRODUCED: "§TПроизведено: $VALUE|H$§!"
  TRADE_IMPORTED: "§TИмпортировано: $VALUE|H$§!"
  TRADE_EXPORTED: "§TЭкспортировано: $VALUE|H$§!"
@@ -41,7 +40,6 @@
  TRADEVIEW_RES_PRODUCED_DETAILS_LINE_ROUTE: "   $DEL$"
  TRADEVIEW_RES_USED_DETAILS: "§TНаши $CONSUMER|Y$ потребляют $NUM|H$ ед. ресурса «$RES|H$».§!"
  TRADEVIEW_PRODUCTION_LINES: "Производственные линии"
- TRADEVIEW_SPECIAL_PROJECTS: "Специальные проекты"
  TRADEVIEW_RES_NEEDED_NONE: "§TНашим производственным линиям не нужны закупки ресурса $RES|H$.§!"
  TRADEVIEW_RES_NEEDED_DETAILS: "§TНашим производственным линиям недостает ресурса $RES|H$. Нам нужно еще $NUM|0H$ ед., чтобы они работали в полную силу.§!"
  TRADEVIEW_RES_CONSUMPTION_PROD_LINE: " — Производство товара $PROD|H$ потребляет $NUM|H$ из $TOTAL|H$ ед."

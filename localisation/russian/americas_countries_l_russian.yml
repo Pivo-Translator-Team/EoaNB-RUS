@@ -580,10 +580,10 @@
  NEG_anarchism_DEF: "Региональный Оборонительный Совет Новая Англия"
  NEG_anarchism_ADJ: "Ново-Английск."
  NEG_autonomy_colony: "Новая Англия"
- NEG_autonomy_colony_DEF: "$OVERLORDADJ$ Колония Новая Англия
+ NEG_autonomy_colony_DEF: "The $OVERLORDADJ$ Colony of New England" #NT!
  NEG_autonomy_colony_ADJ: "$OVERLORDADJ$"
  NEG_autonomy_afr_colony: "Новая Англия"
- NEG_autonomy_afr_colony_DEF: "$OVERLORDADJ$ Колония Новая Англия
+ NEG_autonomy_afr_colony_DEF: "The $OVERLORDADJ$ Colony of New England" #NT!
  NEG_autonomy_afr_colony_ADJ: "$OVERLORDADJ$"
  NEG_autonomy_organized_incorporated_territory: "Новая Англия"
  NEG_autonomy_organized_incorporated_territory_DEF: "$OVERLORDADJ$ Территория Новая Англия"
@@ -592,7 +592,7 @@
  NEG_autonomy_dominion_DEF: "$OVERLORDADJ$ Доминион Новая Англия"
  NEG_autonomy_dominion_ADJ: "Ново-Английск."
  NEG_autonomy_afr_colonial_company: "Новая Англия"
- NEG_autonomy_afr_colonial_company_DEF: "$OVERLORDADJ$ Колония Новая Англия
+ NEG_autonomy_afr_colonial_company_DEF: "The $OVERLORDADJ$ Colony of New England" #NT!
  NEG_autonomy_afr_colonial_company_ADJ: "$OVERLORDADJ$"
   
  TEX_centrism: "Республика Техас"

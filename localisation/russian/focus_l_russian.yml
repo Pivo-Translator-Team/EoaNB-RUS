@@ -2,6 +2,7 @@
  WHILE_FOCUSING: "При выборе этого фокуса будут следующие эффекты:\n$EFF$"
  generic_focus: "Национальный фокус"
  FOCUS_CANCEL_BUTTON_DESC: "Cancel National Focus"
+ FOCUS_SHORTCUT_TOOLTIP: "§GЩелкните§!, чтобы переместиться к пути «$PATH|H$»."
  army_effort: "Развитие армии"
  army_effort_desc: "Несмотря на все новые возможности ведения боевых действий на море и в воздухе, сухопутные войска остаются ключевым элементом войны. При должной подготовке мы сумеем избежать прежнего ада в траншеях."
  equipment_effort: "Развитие снаряжения"
@@ -1932,9 +1933,9 @@
  eoanb_om_GER_PER_treaty: "Declaration of Friendship"
  eoanb_tt_GER_focus_china_military: "This allows §Y[PRS.GetNameDef]§! to spread its influence in §YChina§!."
  eoanb_om_GER_approaches_MEX: "Diplomatic Treaties"
- eoanb_tt_GER_focus_germanize_alsace_lorraine: "This focus unlocks §Ydecisions§! about the Germanization of our §YFrench§! territory.\n" #NT!
- eoanb_tt_GER_focus_germanize_schleswig: "This focus unlocks §Ydecisions§! about the Germanization of our §YDanish§! territory.\n" #NT!
- eoanb_tt_GER_focus_germanize_polish_lands: "This focus unlocks §Ydecisions§! about the Germanization of our §YPolish§! territory.\n" #NT!
+ eoanb_tt_GER_focus_germanize_alsace_lorraine: "This focus unlocks §Ydecisions§! about the Germanization of our §YFrench§! territory.\n"
+ eoanb_tt_GER_focus_germanize_schleswig: "This focus unlocks §Ydecisions§! about the Germanization of our §YDanish§! territory.\n"
+ eoanb_tt_GER_focus_germanize_polish_lands: "This focus unlocks §Ydecisions§! about the Germanization of our §YPolish§! territory.\n"
  eoanb_tt_GER_focus_germanization_nonfunctional: "§RGermanization is currently unavailable due to the culture system not yet being implemented.§!"
  eoanb_tt_GER_focus_denhardt_mission: "We will establish relations with all the African nations in the §YEthiopian§! area."
  eoanb_om_GER_established_denhardt: "Established Relations"
@@ -1980,7 +1981,7 @@
  eoanb_focus_continuous_goods_austerity_desc: "By enacting austerity programs in our country we will be able to save some industrial budget."
  eoanb_focus_continuous_share_technology: "Technology Sharing Program"
  eoanb_focus_continuous_share_technology_desc: "We will create a joint effort in our faction to share known technology between member states."
- eoanb_flag_frace_won_fra_prs: "France has won the Franco-Prussian War."
+ eoanb_flag_fra_won_fra_prs_war: "France has won the Franco-Prussian War." #NT!
  fra_orsini_failure: "The Orsini Attack has failed"
  fra_orsini_success: "The Orsini Attack has succeeded"
   

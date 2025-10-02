@@ -39,53 +39,46 @@
  eoanb_decision_war_austerity: "Продвигать [Root.GetAdjective] Жесткую Военную Экономию"
  eoanb_decision_war_austerity_desc: "Наш народ должен беречь свои ресурсы и помогать своему государству изо всех сил, чтобы мы выиграли войну!"
  eoanb_category_diplomatic_actions: "Дипломатические Действия"
- eoanb_decision_building_slot_victorian: "Развивать [Root.GetAdjective] Родину"
- eoanb_decision_building_slot_victorian_desc: "Наши регионы могли бы использовать небольшое финансирование для увеличения темпов развития, что позволило бы нам построить больше зданий в соответствующем районе."
- eoanb_decision_building_slot_victorian_cost: "[eoanb_decision_building_slot_victorian_cost_scripted]"
- eoanb_decision_building_slot_victorian_cost_blocked: "[eoanb_decision_building_slot_victorian_cost_blocked_scripted]"
- eoanb_decision_building_slot_victorian_cost_tooltip: "[eoanb_decision_building_slot_victorian_cost_tooltip_scripted]"
- eoanb_decision_building_slot_victorian_cost_loc: "£pol_power §H100§!"
- eoanb_decision_building_slot_victorian_cost_loc_blocked: "£pol_power §R100§!"
- eoanb_decision_building_slot_victorian_cost_loc_tooltip: "Это стоит §R100§! £pol_power для взятия решения"
+  
  eoanb_is_crisis_true: "§RГосударство [Root.GetNameDef] переживает Кризис!§!"
- eoanb_decision_promote_shipbuilding: "Субсидировать [Root.GetAdjective] Судостроительную Промышленность"
- eoanb_decision_promote_shipbuilding_desc: "Нам необходимо расширить наш военно-морской флот, и для этого нам нужно больше кораблей. Кампания по целевому финансированию наших верфей и военно-морских заводов поможет нам строить их в большем количестве."
- eoanb_decision_promote_shipbuilding_cost: "[eoanb_decision_promote_shipbuilding_cost_scripted]"
- eoanb_decision_promote_shipbuilding_cost_blocked: "[eoanb_decision_promote_shipbuilding_cost_blocked_scripted]"
- eoanb_decision_promote_shipbuilding_cost_tooltip: "[eoanb_decision_promote_shipbuilding_cost_tooltip_scripted]"
- eoanb_decision_promote_shipbuilding_cost_loc: "£pol_power §H200§!"
- eoanb_decision_promote_shipbuilding_cost_loc_blocked: "£pol_power §R200§!"
- eoanb_decision_promote_shipbuilding_cost_loc_tooltip: "Это стоит §R200§! £pol_power для принятия решения"
- eoanb_decision_infrastructure_investment_debt_cost: "[eoanb_decision_infrastructure_investment_debt_cost_scripted]"
- eoanb_decision_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_infrastructure_investment_debt_cost_blocked_scripted]"
- eoanb_decision_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_infrastructure_investment_debt_cost_tooltip_scripted]"
- eoanb_decision_infrastructure_investment_debt_cost_loc: "£pol_power §H50§!"
- eoanb_decision_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R50§!"
- eoanb_decision_infrastructure_investment_debt_cost_loc_tooltip: "Это стоит 50£pol_power для принятия решения."
- eoanb_decision_army_infrastructure_investment_debt_cost: "[eoanb_decision_army_infrastructure_investment_debt_cost_scripted]"
- eoanb_decision_army_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_army_infrastructure_investment_debt_cost_blocked_scripted]"
- eoanb_decision_army_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_army_infrastructure_investment_debt_cost_tooltip_scripted]"
- eoanb_decision_army_infrastructure_investment_debt_cost_loc: "£pol_power §H50§! £command_power §H50§!"
- eoanb_decision_army_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R50§! £command_power §R50§!"
- eoanb_decision_army_infrastructure_investment_debt_cost_loc_tooltip: "Это стоит 50£pol_power and 50£command_power для принятия решения."
- eoanb_decision_army_investment_debt_cost: "[eoanb_decision_army_investment_debt_cost_scripted]"
- eoanb_decision_army_investment_debt_cost_blocked: "[eoanb_decision_army_investment_debt_cost_blocked_scripted]"
- eoanb_decision_army_investment_debt_cost_tooltip: "[eoanb_decision_army_investment_debt_cost_tooltip_scripted]"
- eoanb_decision_army_investment_debt_cost_loc: "£pol_power §H25§!  £army_experience §H25§!  £command_power §H50§!"
- eoanb_decision_army_investment_debt_cost_loc_blocked: "£pol_power §R25§!  £army_experience §R25§!  £command_power §R50§!"
- eoanb_decision_army_investment_debt_cost_loc_tooltip: "Это стоит 25£pol_power, 25£army_experience, и 50£command_power для принятия решения."
- eoanb_decision_navy_infrastructure_investment_debt_cost: "[eoanb_decision_navy_infrastructure_investment_debt_cost_scripted]"
- eoanb_decision_navy_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_navy_infrastructure_investment_debt_cost_blocked_scripted]"
- eoanb_decision_navy_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_navy_infrastructure_investment_debt_cost_tooltip_scripted]"
- eoanb_decision_navy_infrastructure_investment_debt_cost_loc: "£pol_power §H100§! £navy_experience §H50§! £command_power §H50§!"
- eoanb_decision_navy_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R100§! £navy_experience §R50§! £command_power §R50§!"
- eoanb_decision_navy_infrastructure_investment_debt_cost_loc_tooltip: "Это стоит 100£pol_power, 50£navy_experience, и 50£command_power для принятия решения."
- eoanb_decision_navy_investment_debt_cost: "[eoanb_decision_navy_investment_debt_cost_scripted]"
- eoanb_decision_navy_investment_debt_cost_blocked: "[eoanb_decision_navy_investment_debt_cost_blocked_scripted]"
- eoanb_decision_navy_investment_debt_cost_tooltip: "[eoanb_decision_navy_investment_debt_cost_tooltip_scripted]"
- eoanb_decision_navy_investment_debt_cost_loc: "£pol_power §H25§!  £navy_experience §H25§!  £command_power §H50§!"
- eoanb_decision_navy_investment_debt_cost_loc_blocked: "£pol_power §R25§!  £navy_experience §R25§!  £command_power §R50§!"
- eoanb_decision_navy_investment_debt_cost_loc_tooltip: "Это стоит 25£pol_power, 25£navy_experience, and 50£command_power для принятия решения."
+  
+  #Debt Management (old) 
+ #eoanb_decision_promote_shipbuilding_cost: "[eoanb_decision_promote_shipbuilding_cost_scripted]" #NT!
+ #eoanb_decision_promote_shipbuilding_cost_blocked: "[eoanb_decision_promote_shipbuilding_cost_blocked_scripted]" #NT!
+ #eoanb_decision_promote_shipbuilding_cost_tooltip: "[eoanb_decision_promote_shipbuilding_cost_tooltip_scripted]" #NT!
+ #eoanb_decision_promote_shipbuilding_cost_loc: "£pol_power §H200§!" #NT!
+ #eoanb_decision_promote_shipbuilding_cost_loc_blocked: "£pol_power §R200§!" #NT!
+ #eoanb_decision_promote_shipbuilding_cost_loc_tooltip: "It costs §R200§! £pol_power to take the decision" #NT!
+ #eoanb_decision_infrastructure_investment_debt_cost: "[eoanb_decision_infrastructure_investment_debt_cost_scripted]" #NT!
+ #eoanb_decision_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_infrastructure_investment_debt_cost_blocked_scripted]" #NT!
+ #eoanb_decision_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_infrastructure_investment_debt_cost_tooltip_scripted]" #NT!
+ #eoanb_decision_infrastructure_investment_debt_cost_loc: "£pol_power §H50§!" #NT!
+ #eoanb_decision_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R50§!" #NT!
+ #eoanb_decision_infrastructure_investment_debt_cost_loc_tooltip: "It costs 50£pol_power to take the decision." #NT!
+ #eoanb_decision_army_infrastructure_investment_debt_cost: "[eoanb_decision_army_infrastructure_investment_debt_cost_scripted]" #NT!
+ #eoanb_decision_army_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_army_infrastructure_investment_debt_cost_blocked_scripted]" #NT!
+ #eoanb_decision_army_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_army_infrastructure_investment_debt_cost_tooltip_scripted]" #NT!
+ #eoanb_decision_army_infrastructure_investment_debt_cost_loc: "£pol_power §H50§! £command_power §H50§!" #NT!
+ #eoanb_decision_army_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R50§! £command_power §R50§!" #NT!
+ #eoanb_decision_army_infrastructure_investment_debt_cost_loc_tooltip: "It costs 50£pol_power and 50£command_power to take the decision." #NT!
+ #eoanb_decision_army_investment_debt_cost: "[eoanb_decision_army_investment_debt_cost_scripted]" #NT!
+ #eoanb_decision_army_investment_debt_cost_blocked: "[eoanb_decision_army_investment_debt_cost_blocked_scripted]" #NT!
+ #eoanb_decision_army_investment_debt_cost_tooltip: "[eoanb_decision_army_investment_debt_cost_tooltip_scripted]" #NT!
+ #eoanb_decision_army_investment_debt_cost_loc: "£pol_power §H25§!  £army_experience §H25§!  £command_power §H50§!" #NT!
+ #eoanb_decision_army_investment_debt_cost_loc_blocked: "£pol_power §R25§!  £army_experience §R25§!  £command_power §R50§!" #NT!
+ #eoanb_decision_army_investment_debt_cost_loc_tooltip: "It costs 25£pol_power, 25£army_experience, and 50£command_power to take the decision." #NT!
+ #eoanb_decision_navy_infrastructure_investment_debt_cost: "[eoanb_decision_navy_infrastructure_investment_debt_cost_scripted]" #NT!
+ #eoanb_decision_navy_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_navy_infrastructure_investment_debt_cost_blocked_scripted]" #NT!
+ #eoanb_decision_navy_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_navy_infrastructure_investment_debt_cost_tooltip_scripted]" #NT!
+ #eoanb_decision_navy_infrastructure_investment_debt_cost_loc: "£pol_power §H100§! £navy_experience §H50§! £command_power §H50§!" #NT!
+ #eoanb_decision_navy_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R100§! £navy_experience §R50§! £command_power §R50§!" #NT!
+ #eoanb_decision_navy_infrastructure_investment_debt_cost_loc_tooltip: "It costs 100£pol_power, 50£navy_experience, and 50£command_power to take the decision." #NT!
+ #eoanb_decision_navy_investment_debt_cost: "[eoanb_decision_navy_investment_debt_cost_scripted]" #NT!
+ #eoanb_decision_navy_investment_debt_cost_blocked: "[eoanb_decision_navy_investment_debt_cost_blocked_scripted]" #NT!
+ #eoanb_decision_navy_investment_debt_cost_tooltip: "[eoanb_decision_navy_investment_debt_cost_tooltip_scripted]" #NT!
+ #eoanb_decision_navy_investment_debt_cost_loc: "£pol_power §H25§!  £navy_experience §H25§!  £command_power §H50§!" #NT!
+ #eoanb_decision_navy_investment_debt_cost_loc_blocked: "£pol_power §R25§!  £navy_experience §R25§!  £command_power §R50§!" #NT!
+ #eoanb_decision_navy_investment_debt_cost_loc_tooltip: "It costs 25£pol_power, 25£navy_experience, and 50£command_power to take the decision." #NT!
  eoanb_decision_cost_1_debt_loc: "§R+1§! £prosperity_texticon"
  eoanb_decision_cost_1_debt_loc_tooltip: "§R+1§! £prosperity_texticon  долг Государства §Y[Root.GetName]§! §Rвозрастет§! на 1"
  eoanb_decision_cost_2_debt_loc: "§R+2§! £prosperity_texticon"
@@ -136,30 +129,36 @@
  eoanb_decision_cost_1_debt_100pp_loc: "£pol_power §H100§!  §R+1§! £prosperity_texticon"
  eoanb_decision_cost_1_debt_100pp_loc_blocked: "£pol_power §R100§!  §R+1§! £prosperity_texticon"
  eoanb_decision_cost_1_debt_100pp_loc_tooltip: "Это стоит 100£pol_power для принятия решения, and долг Государства §Y[Root.GetName]§! §Rвозрастет§! на 1"
- eoanb_command_power_10: "£command_power §H10§!" #NT!
- eoanb_command_power_10_blocked: "£command_power §R10§!" #NT!
- eoanb_command_power_10_tooltip: "It costs 10£command_power to take this decision!" #NT!
+ eoanb_command_power_10: "£command_power §H10§!"
+ eoanb_command_power_10_blocked: "£command_power §R10§!"
+ eoanb_command_power_10_tooltip: "It costs 10£command_power to take this decision!"
  eoanb_command_power_20: "£command_power §H20§!"
  eoanb_command_power_20_blocked: "£command_power §R20§!"
  eoanb_command_power_20_tooltip: "Это стоит 20£command_power для принятия решения!"
+ eoanb_command_power_30: "£command_power §H30§!" #NT!
+ eoanb_command_power_30_blocked: "£command_power §R30§!" #NT!
+ eoanb_command_power_30_tooltip: "It costs 30£command_power to take this decision!" #NT!
  eoanb_command_power_50: "£command_power §H50§!"
  eoanb_command_power_50_blocked: "£command_power §R50§!"
  eoanb_command_power_50_tooltip: "Это стоит 50£command_power для принятия решения."
  eoanb_command_power_100: "£command_power §H100§!"
  eoanb_command_power_100_blocked: "£command_power §R100§!"
  eoanb_command_power_100_tooltip: "Это стоит 100£command_power для принятия решения."
+ eoanb_command_power_50_army_experience_10: "£command_power §H50§!  £army_experience §H10§!" #NT!
+ eoanb_command_power_50_army_experience_10_blocked: "£command_power §R50§!  £army_experience §R10§!" #NT!
+ eoanb_command_power_50_army_experience_10_tooltip: "It costs 50£command_power and 10£army_experience to take the decision." #NT!
  eoanb_command_power_100_army_experience_25: "£command_power §H100§!  £army_experience §H25§!"
  eoanb_command_power_100_army_experience_25_blocked: "£command_power §R100§!  £army_experience §R25§!"
  eoanb_command_power_100_army_experience_25_tooltip: "Это стоит 100£command_power and 25£army_experience для принятия решения."
  eoanb_political_power_100_command_power_50: "£pol_power §H100§! £command_power §H50§!"
  eoanb_political_power_100_command_power_50_blocked: "£pol_power §R100§! £command_power §R50§!"
  eoanb_political_power_100_command_power_50_tooltip: "Это стоит 100£pol_power and 50£command_power для принятия решения."
- eoanb_political_power_100_command_power_100: "£pol_power §H100§! £command_power §H100§!" #NT!
- eoanb_political_power_100_command_power_100_blocked: "£pol_power §R100§! £command_power §R100§!" #NT!
- eoanb_political_power_100_command_power_100_tooltip: "It costs 100£pol_power and 100£command_power to take the decision." #NT!
- eoanb_political_power_40_command_power_25: "£pol_power §H40§! £command_power §H25§!" #NT!
- eoanb_political_power_40_command_power_25_blocked: "£pol_power §R40§! £command_power §R25§!" #NT!
- eoanb_political_power_40_command_power_25_tooltip: "It costs 40£pol_power and 25£command_power to take the decision." #NT!
+ eoanb_political_power_100_command_power_100: "£pol_power §H100§! £command_power §H100§!"
+ eoanb_political_power_100_command_power_100_blocked: "£pol_power §R100§! £command_power §R100§!"
+ eoanb_political_power_100_command_power_100_tooltip: "It costs 100£pol_power and 100£command_power to take the decision."
+ eoanb_political_power_40_command_power_25: "£pol_power §H40§! £command_power §H25§!"
+ eoanb_political_power_40_command_power_25_blocked: "£pol_power §R40§! £command_power §R25§!"
+ eoanb_political_power_40_command_power_25_tooltip: "It costs 40£pol_power and 25£command_power to take the decision."
  eoanb_political_power_20_command_power_50: "£pol_power §H20§! £command_power §H50§!"
  eoanb_political_power_20_command_power_50_blocked: "£pol_power §R20§! £command_power §R50§!"
  eoanb_political_power_20_command_power_50_tooltip: "Это стоит 20£pol_power and 50£command_power для принятия решения."
@@ -221,15 +220,13 @@
  eoanb_decision_AUS_gerconfed_frk: "Франкфуртские Реформакты"
  eoanb_decision_AUS_gerconfed_frk_desc: "Мы постараемся провести некоторые реформы в Германской Конфедерации, чтобы укрепить наши позиции."
  #eoanb_tt_decisions_aus_frk: "§YAll members of the German Confederation will get an event where they can vote on our proposal.§!"
- eoanb_var_votes_gerconfed_101_yes: "Number of Votes for the Frankfurt Reforms" #NT!
- eoanb_var_votes_gerconfed_101_no: "Number of Votes against the Frankfurt Reforms" #NT!
+ eoanb_var_votes_gerconfed_101_yes: "Number of Votes for the Frankfurt Reforms"
+ eoanb_var_votes_gerconfed_101_no: "Number of Votes against the Frankfurt Reforms"
  eoanb_tt_decisions_aus_frk: "§YВсе члены Германской Конфедерации примут участие в событии, на котором они смогут проголосовать за наше предложение.§!\n\n§GЗа каждый голос в нашу поддержку мы получим небольшую политическую власть.§!"
  eoanb_decision_AUS_gerconfed_frk2: "Франкфуртский Княжеский День"
  eoanb_decision_AUS_gerconfed_frk2_desc: "Мы пригласим всех членов Германской Конфедерации на заседание парламента во Франкфурте, где мы будем представлять наши интересы в отношении будущего Конфедерации."
  eoanb_decision_ALL_gerconfed_war1: "Провести Мобилизацию на Вторую Войну за Независимость"
  eoanb_decision_ALL_gerconfed_war1_desc: "Австрия находится в состоянии войны с Сардинией-Пьемонтом - из-за территории Ломбардии, поскольку Италия также является регионом, где государства борются за объединение, возможно, мы могли бы чему-то научиться в этой войне. Нам следует мобилизовать часть войск - если мы не воспользуемся этой возможностью, мы можем отстать."
- FRA_decision_general_amnesty: "Всеобщая Амнистия"
- FRA_decision_general_amnesty_desc: "Это немного подтолкнет нас к автократии."
  eoanb_decision_generic_seek_heir: "Искать наследника"
  eoanb_decision_generic_seek_heir_desc: "Государство [Root.GetNameDef] слишком долго оставалось без сильного преемника, и люди вступают в брак - мы должны искать наследника."
  eoanb_decision_generic_strengthen_heir: "Укрепить права нашего Наследника"
@@ -249,28 +246,7 @@
  eoanb_decision_generic_jiahd_against_christianity_desc: "Мы больше не можем терпеть неверных на наших границах! Мы должны напасть на них!"
  eoanb_decision_generic_hold_animist_festival: "Подношения нашим Богам"
  eoanb_decision_generic_hold_animist_festival_desc: "Мы должны устроить праздник, чтобы умилостивить наших Богов!"
- eoanb_tt_decision_industrializing: "§YГосударство [Root.GetName] начнёт индустриализацию!§!"
- eoanb_decision_generic_start_industrializing: "начать Индустриализацию"
- eoanb_decision_generic_start_industrializing_desc: "Нашей промышленности необходимо перейти к более эффективным методам производства."
- eoanb_decision_generic_start_industrializing_cost: "[eoanb_decision_generic_start_industrializing_cost_scripted]"
- eoanb_decision_generic_start_industrializing_cost_blocked: "[eoanb_decision_generic_start_industrializing_cost_blocked_scripted]"
- eoanb_decision_generic_start_industrializing_cost_tooltip: "[eoanb_decision_generic_start_industrializing_cost_tooltip_scripted]"
- eoanb_decision_generic_start_industrializing_cost_loc: "£pol_power §H250§!"
- eoanb_decision_generic_start_industrializing_cost_loc_blocked: "£pol_power §R250§!"
- eoanb_decision_generic_start_industrializing_cost_loc_tooltip: "Это стоит §R250§! £pol_power для принятия решения"
   
- eoanb_decision_generic_industrialiation: "Завершить Индустриализацию"
- eoanb_decision_generic_industrialiation_desc: "Нашей промышленности необходимо перейти к более эффективным методам производства."
- eoanb_decision_generic_industrialiation_cost: "[eoanb_decision_generic_industrialiation_cost_scripted]"
- eoanb_decision_generic_industrialiation_cost_blocked: "[eoanb_decision_generic_industrialiation_cost_blocked_scripted]"
- eoanb_decision_generic_industrialiation_cost_tooltip: "[eoanb_decision_generic_industrialiation_cost_tooltip_scripted]"
- eoanb_decision_generic_industrialiation_cost_loc: "£pol_power §H250§!"
- eoanb_decision_generic_industrialiation_cost_loc_blocked: "£pol_power §R250§!"
- eoanb_decision_generic_industrialiation_cost_loc_tooltip: "Это стоит §R250§! £pol_power для принятия решения"
-  
- eoanb_tt_decision_public_schools: "§YМы перейдем к системе государственных школ.§!"
- eoanb_decision_generic_public_schools: "Обеспечивать Государственное Образование"
- eoanb_decision_generic_public_schools_desc: "Чтобы обеспечить наше будущее, следующие поколения должны быть хорошо образованы."
  eoanb_flag_istanbul_renamed_constantinople: "Стамбул был переименован в Константинополь."
  eoanb_decision_generic_rename_constantinople: "Переименовать Стамбул в Константинополь"
  eoanb_decision_generic_rename_constantinople_desc: "Мы вернули священный Византийский город! Мы должны переименовать его соответствующим образом..."
@@ -336,8 +312,8 @@
  eoanb_tt_decision_recruit_colonial_infantry_1: "Вы получите дивизии §YКолониальной Пехоты§! в §YКейптауне§!."
  eoanb_decision_generic_recruit_colonial_troops_2: "Нанять Колониальную Пехоту"
  eoanb_decision_generic_recruit_colonial_troops_2_desc: "Мы наберем немного пехоты в наших Колониях.\n\n§YЭто решение будет доступно только один раз.§!"
- eoanb_decision_advance_to_the_napoleonic_age: "Advace to the Napoleonic Age" #NT!
- eoanb_decision_advance_to_the_napoleonic_age_desc: "We will adapt new and advanced tactics, but this will take some time!" #NT!
+ eoanb_decision_advance_to_the_napoleonic_age: "Advance to the Napoleonic Age"
+ eoanb_decision_advance_to_the_napoleonic_age_desc: "We will adapt new and advanced tactics, but this will take some time!"
  eoanb_tt_decision_recruit_colonial_infantry_2: "Вы получите дивизии §YКолониальной Пехоты§! в §YЛуанде§!."
  eoanb_decision_generic_recruit_colonial_troops_3: "Нанять Колониальную Пехоту"
  eoanb_decision_generic_recruit_colonial_troops_3_desc: "Мы наберем немного пехоты в наших Колониях.\n\n§YЭто решение будет доступно только один раз.§!"
@@ -356,18 +332,22 @@
  eoanb_decision_ENG_develop_IOM_desc: "Остров Мэн - это небольшой остров между Шотландией и Ирландией, который демонстрирует хорошие возможности для промышленного развития. Мы должны инвестировать в него."
  eoanb_om_ENG_developed_IOM: "Взаимопомощь"
   
- eoanb_political_power_10_command_power_15_army_xp_20: "£pol_power §H10§! £command_power §H15§! £army_experience §H20§!" #NT!
- eoanb_political_power_10_command_power_15_army_xp_20_blocked: "£pol_power §R10§! £command_power §R15§! £army_experience §R20§!" #NT!
- eoanb_political_power_10_command_power_15_army_xp_20_tooltip: "It costs 10£pol_power, 15£command_power and 20£army_experience to take the decision." #NT!
+ eoanb_political_power_10_command_power_15_army_xp_20: "£pol_power §H10§! £command_power §H15§! £army_experience §H20§!"
+ eoanb_political_power_10_command_power_15_army_xp_20_blocked: "£pol_power §R10§! £command_power §R15§! £army_experience §R20§!"
+ eoanb_political_power_10_command_power_15_army_xp_20_tooltip: "It costs 10£pol_power, 15£command_power and 20£army_experience to take the decision."
   
- eoanb_decision_advance_to_the_napoleonic_age: "Advance to the Napoleonic Age" #NT!
- eoanb_decision_advance_to_the_victorian_age: "Advance to the Victorian Age" #NT!
- eoanb_decision_napoleonic_idea_1: "Enhance our Napoleonic Tactics 1" #NT!
- eoanb_decision_napoleonic_idea_2: "Enhance our Napoleonic Tactics 2" #NT!
- eoanb_decision_napoleonic_idea_3: "Enhance our Napoleonic Tactics 3" #NT!
- eoanb_decision_victorian_1: "Enhance our Victorian Tactics 1" #NT!
- eoanb_decision_victorian_2: "Enhance our Victorian Tactics 2" #NT!
- eoanb_decision_victorian_3: "Enhance our Victorian Tactics 3" #NT!
+ eoanb_army_xp_15: "£army_experience §H15§!" #NT!
+ eoanb_army_xp_15_blocked: "£army_experience §R15§!" #NT!
+ eoanb_army_xp_15_tooltip: "It costs 15£army_experience to take the decision." #NT!
+  
+ eoanb_decision_advance_to_the_napoleonic_age: "Advance to the Napoleonic Age"
+ eoanb_decision_advance_to_the_victorian_age: "Advance to the Victorian Age"
+ eoanb_decision_napoleonic_idea_1: "Enhance our Napoleonic Tactics 1"
+ eoanb_decision_napoleonic_idea_2: "Enhance our Napoleonic Tactics 2"
+ eoanb_decision_napoleonic_idea_3: "Enhance our Napoleonic Tactics 3"
+ eoanb_decision_victorian_1: "Enhance our Victorian Tactics 1"
+ eoanb_decision_victorian_2: "Enhance our Victorian Tactics 2"
+ eoanb_decision_victorian_3: "Enhance our Victorian Tactics 3"
   
   
  eoanb_decision_generic_arrest_opposition_leaders: "Арестовывать Лидеров Оппозиции"
@@ -679,7 +659,7 @@
  ITA_decision_pasta_desc: "Итальянские иммигранты выбрали пасту в качестве культурного блюда Италии. Люди со всего мира отправляются в ближайшую Маленькую Италию, чтобы отведать Спагетти"
  ITA_brigindage_category_decisions: "Разбой"
  ITA_brigindage_category_decisions_desc: "С момента завершения объединения Италии Юг остается интересной проблемой. В сельской местности действует множество разбойничьих банд. Они недовольны нашим правлением и вдохновляют население Юга присоединиться к их идеологии."
- ITA_decision_deal_with_brigindage: "Deal with Brigandage"
+ ITA_decision_deal_with_brigindage: "Бороться с Разбоем"
  ITA_decisions_category_influence_minor_states: "Влияние на Минорные Государства"
  PIE_Manpower_Minor_States_blocked: "1000 Людских Ресурсов"
  ITA_decision_influence_parma: "Готовить Революционеров в Парме"
@@ -747,8 +727,8 @@
  Cesareo_Fernandez_Duro: "Сезарео Фернандес Дуро"
  Cesareo_Fernandez_Duro_desc: "Поступив в военно-морское училище всего в 15 лет, Дуро зарекомендовал себя достойным адмиралом."
  eoanb_trigger_tt_law_african_all: "Ваша нация, возможно, не является какой-либо разновидностью §YАфриканского Племени§!."
- POR_decisions_category_foreign_policy_and_army: "Foreign Policy and Army" #NT!
- POR_decision_buy_guns: "Buy Guns from the British" #NT!
+ POR_decisions_category_foreign_policy_and_army: "Foreign Policy and Army"
+ POR_decision_buy_guns: "Buy Guns from the British"
   
  eoanb_decision_ENG_build_dockyard_london: "Построить Военно-Морскую Верфь в Лондоне"
  eoanb_decision_ENG_build_dockyard_london_desc: "Мы будем инвестировать в судостроительную промышленность, финансируя строительство Военно-Морской Верфи в Лондоне."
@@ -838,8 +818,8 @@
  # DEBUG EVENTS 
  EOANBSYS_debug_decision_category: "Команды в Дебаге от Разрабов"
  EOANBSYS_debug_decision_category_desc: "§gВот несколько полезных команд Дебага EoaNB! <3§! — Vanadium"
- debug_decision_money_effect: "Calculate the Money" #NT!
- debug_decision_temporary_money_effect: "Calculate the Temporary Money" #NT!
+ debug_decision_money_effect: "Calculate the Money"
+ debug_decision_temporary_money_effect: "Calculate the Temporary Money"
  debug_decision_slot_machine: "Расширять Демократию"
  debug_decision_slot_machine_desc: "Теперь мы PEGI 18"
  debug_decision_begin_armageddon: "Начало Нового Конца"
@@ -877,8 +857,8 @@
  ##### Easter Egg Decisions 
  eoanb_category_eastereggs: "Решения-Пасхалочки"
  eoanb_decision_easteregg_geracwse: "Южногерманская Конфедерация"
- easteregg.2.t: "Formation of the South German Confederation" #NT!
- easteregg.2.d: "Following the German victory in the Civil War, Chancellor of the German Confederation - Otto Von Bismarck - has announced the formal creation of the Southern German Confederation on this date. This comes after a hard fought war against the so called Union. Many look on with wonder as to what this new German state could accomplish." #NT!
- easteregg.2.a: "How... Strange" #NT!
+ easteregg.2.t: "Formation of the South German Confederation"
+ easteregg.2.d: "Following the German victory in the Civil War, Chancellor of the German Confederation - Otto Von Bismarck - has announced the formal creation of the Southern German Confederation on this date. This comes after a hard fought war against the so called Union. Many look on with wonder as to what this new German state could accomplish."
+ easteregg.2.a: "How... Strange"
  GER_ACW_SUPEREVENT_FLAG: "Германия не выиграла Гражданскую Войну"
   

@@ -156,7 +156,6 @@
  MODIFIER_DEFENCE: "Оборона"
  MODIFIER_OFFENCE: "Атака"
  MODIFIER_NUCLEAR_PRODUCTION: "Разрешает ядерные бомбы"
- MODIFIER_NUCLEAR_PRODUCTION_FACTOR: "Производство радиоактивных материалов"
  MODIFIER_BUILDING_CONVERTION: "Конверсия фабрики"
  MODIFIER_NAVAL_SPEED_FACTOR: "Скорость флота"
  MODIFIER_XP_GAIN_FACTOR: "Опыт, получаемый лидером"
@@ -449,10 +448,6 @@
  modifier_production_speed_synthetic_refinery_factor_desc: "Изменяет скорость строительства нефтеперерабатывающих заводов."
  modifier_production_speed_radar_station_factor: "Скорость строительства §Yрадарных станций§!"
  modifier_production_speed_radar_station_factor_desc: "Изменяет скорость строительства радарных станций."
- modifier_production_speed_rocket_site_factor: "Скорость строительства §Yракетных площадок§!"
- modifier_production_speed_rocket_site_factor_desc: "Изменяет скорость строительства ракетных площадок."
- modifier_production_speed_nuclear_reactor_factor: "Скорость строительства §Yядерных реакторов§!"
- modifier_production_speed_nuclear_reactor_factor_desc: "Изменяет скорость строительства ядерных реакторов."
  modifier_production_speed_fuel_silo_factor: "Скорость строительства §Yтопливного хранилища§!"
  modifier_production_speed_fuel_silo_factor_desc: "Изменяет скорость строительства топливного хранилища."
  modifier_production_speed_rail_way_factor: "Скорость строительства §Yжелезных дорог§!"
@@ -1020,7 +1015,7 @@
  modifier_experience_gain_light_cruiser_combat_factor: "Получаемый боевой опыт легкого крейсера"
  modifier_experience_gain_submarine_training_factor: "Получаемый опыт за подготовку подводной лодки"
  modifier_experience_gain_submarine_combat_factor: "Получаемый боевой опыт подводной лодки"
- MODIFIER_ARMOR: " $VALUE|=+1%$"
+ MODIFIER_ARMOR: "£armor_texticon  Armor" #NT!
  MODIFIER_ARMY_STRENGTH: "£strenght_texticon  HP" #NT!
  MODIFIER_BREAKTHROUGH: "Прорыв"
  carrier_experience_bonus_max: "От опыта авианосца"
@@ -1175,10 +1170,7 @@
  modifier_state_production_fuel_silo_factor_desc: "Modifies the speed of §Y$fuel_silo$§! construction in this state." #NT!
  modifier_state_production_radar_station_factor: "£construction_speed_radar_texticon  §Y$radar_station$§! construction speed" #NT!
  modifier_state_production_radar_station_factor_desc: "Modifies the speed of §Y$radar_station$§! construction in this state." #NT!
- modifier_state_production_rocket_site_factor: "£construction_speed_rocket_texticon  §Y$rocket_site$§! construction speed" #NT!
- modifier_state_production_rocket_site_factor_desc: "Modifies the speed of §Y$rocket_site$§! construction in this state." #NT!
- modifier_state_production_nuclear_reactor_factor: "£construction_speed_reactor_texticon  §Y$nuclear_reactor$§! construction speed" #NT!
- modifier_state_production_nuclear_reactor_factor_desc: "Modifies the speed of §Y$nuclear_reactor$§! construction in this state." #NT!
+  
  intel_network_state_level_bonus: "£operative_mission_icons_small|1£Разведывательная сеть"
  intel_network_state_level_penalty: "£operative_mission_icons_small|1£Вражеская разведывательная сеть"
  created_intelligence_agency: "Разведывательное агентство"
@@ -1787,8 +1779,8 @@
  RESISTANCE_DECAY_VALUE_CAPPED: "£political_violence_loss_texticon  Resistance Decay: §G$VALUE|3$%§! (Capped from §G$VALUE_NON_CAPPED|3$%§!)" #NT!
  RESISTANCE_GROWTH_VALUE: "£political_violence_gain_texticon  Resistance Growth: §R$VALUE|3$%§!" #NT!
  RESISTANCE_GROWTH_VALUE_CAPPED: "£political_violence_gain_texticon  Resistance Growth: §R$VALUE|3$%§! (Capped from §R$VALUE_NON_CAPPED|3$%§!)" #NT!
- RESISTANCE_STRENGTH: "£political_violence_texticon  Resistance Strength: $TOT|%2-$" #NT!
- COMPLIANCE_STRENGTH: "£compliance_texticon  Compliance Strength: $TOT|%2+$" #NT!
+ RESISTANCE_STRENGTH: "£political_violence_texticon  Resistance Strength: $TOT|%-2$" #NT!
+ COMPLIANCE_STRENGTH: "£compliance_texticon  Compliance Strength: $TOT|%+2$" #NT!
  COMPLIANCE_GROWTH_VALUE: "£compliance_gain_texticon  Compliance Growth: §G$VALUE|3$%§!" #NT!
  COMPLIANCE_GROWTH_VALUE_CAPPED: "£compliance_gain_texticon  Compliance Growth: §G$VALUE|3$%§! (Capped from §G$VALUE_NON_CAPPED|3$%§!)" #NT!
  COMPLIANCE_DECAY_VALUE: "£compliance_gain_texticon  Compliance Growth: §R$VALUE|3$%§!" #NT!
@@ -1796,7 +1788,7 @@
  COMPLIANCE_DECAY_INFO: "Additional Compliance Change:" #NT!
  ADDITIONAL_RECRUITABLE_POPULATION_ENTRY: "£manpower_texticon  Additional Recruitable Population: $VALUE|+%3$" #NT!
  RECRUITABLE_POPULATION_ENTRY: "£manpower_texticon  Recruitable Population Factor: $VALUE|+%0$" #NT!
- RESISTANCE_TARGET_FLOW: "£political_violence_texticon  Resistance spread from $STATE|H$: $FLOW|-%1$" #NT!
+ RESISTANCE_TARGET_FLOW: "£political_violence_texticon  Resistance spread from $STATE|H$: $FLOW|%-1$" #NT!
  COMPLIANCE_ADDITIONAL_DAILY_GAIN: "£compliance_gain_texticon  Additional Daily Compliance Gain: $GAIN$" #NT!
  RESISTANCE_CHANCE_FOR_ACTIVITY: "£political_violence_texticon  Chance for resistance activity: $CHANCE|%.1H$" #NT!
  RESISTANCE_CHANCE_FOR_GARRISON_PENETRATE: "£political_violence_texticon  Chance for resistance to penetrate garrisons: $CHANCE|%.0H$" #NT!

@@ -114,6 +114,7 @@
  britain.36.t: "Alice's Adventures in Wonderland"
  britain.36.d: "Alice's Adventures in Wonderland is a novel written by English author Charles Lutwidge Dodgson under the pseudonym Lewis Carroll. It tells of a young girl named Alice, who fell through a rabbit hole into a fantasy world populated by peculiar, anthropomorphic creatures. Alice in Wonderland was published in 1865, three years after Charles Lutwidge Dodgson and the Reverend Robinson Duckworth rowed in a boat, on 4 July 1862 (this popular date of the "golden afternoon" might be a confusion or even another Alice-tale, for that particular day was cool, cloudy and rainy), up the Isis with the three young daughters of Henry Liddell: Lorina Charlotte Liddell (aged 13, born 1849) ("Prima" in the book's prefatory verse); Alice Pleasance Liddell (aged 10, born 1852) ("Secunda" in the prefatory verse); Edith Mary Liddell (aged 8, born 1853) ("Tertia" in the prefatory verse)."
  britain.36.a: "An Excellent Read"
+ britain.36.b: "An Excellent Read" #NT!
  britain.37.t: "The National Society for Women's Suffrage"
  britain.37.d: "The National Society for Women's Suffrage was the first national group in the United Kingdom to campaign for women's right to vote. Formed on 6 November 1867, by Lydia Becker, the organisation helped lay the foundations of the women's suffrage movement. Eliza Wigham, Jane Wigham and some of their friends set up an Edinburgh chapter of this National Society. Eliza and her friend Agnes McLaren became the secretaries. The national society was furthered later by the National Union of Women's Suffrage Societies and the Women's Social and Political Union."
  britain.37.a: "Close it!"
@@ -126,6 +127,7 @@
  britain.39.a: "Scotland won!"
  britain.39.b: "Draw."
  britain.39.c: "England won!"
+ britain.39.d: "First detailed description of football was given by William FitzStephen in about 1174–1183. He described the activities of London youths during the annual festival of Shrove Tuesday. Before the first meeting of the Football Association in The Freemasons' Tavern on Great Queen Street, London on 26 October 1863, there were no universally accepted rules for playing football. Six meetings near London's Covent Garden, at 81-82 Long Acre, ended in a split between the Football Association and what would have become the future rugby ten years later. Both of them had their own uniforms, rituals, gestures and highly formalised rules. Between 1870 and 1872, the Football Association (FA) organised five representative association football matches between teams representing England and Scotland, all held in London. The first of these matches was held at The Oval on 5 March 1870."
  britain.40.t: "British Red Cross Founded"
  britain.40.d: " On 4 August 1870, after a public meeting, the 'British National Society for Aid to the Sick and Wounded in War' was formed. It assisted in providing aid to both warring armies in the Franco-Prussian War and subsequent 19th-century conflicts, under the protection of the Red Cross Emblem. The society was one of several British volunteer medical organisations to serve in the war."
  britain.40.a: "Safety of our soldiers is important!"
@@ -685,75 +687,121 @@
  britain.201.t: "Formation of the F.A"
  britain.201.d: "In an attempt to once and for all standardize the rules of "football", eleven football clubs from London and some representatives from various schools met on the 26th of October to form the Football Association (also called the FA), which is meant to develop a set of rules and to be a governing body for the sport in England. The rules will be developed over a series of meetings in a short time, in various meetings with the clubs' representatives. The first president elected is Arthur Pember, captain of the N.N. Football Club. The first secretary appointed is E.C. Morley, the captain of the Barnes Football Club and a fierce supporter of the governing body."
  britain.201.a: "Success to Football, Irrespective of Class or Greed"
- britain.202.t: "Orange Free State" #NT!
- britain.202.d: "The Orange Free State has sent a formal request to become a British Colony. Many within government believe granting this request would cause issues for us in the future, especially if we choose to confederate South Africa. Additionally, we would struggle to be able to devide and rule the states in the region with Orange Free State as a colony. What should we do?" #NT!
- britain.202.a: "Agree" #NT!
- britain.202.b: "Not now" #NT!
- britain.203.t: "Orange Free State Mediation" #NT!
- britain.203.d: "President Boshoff has requested we mediate peace talks between them and the Basotho. The sooner their war ends, the sooner we can push our own agenda in the region." #NT!
- britain.203.a: "Peace at last" #NT!
- britain.204.t: "Besotho Requests Protection" #NT!
- britain.204.d: "King Moshoeshoe of Besotho has requested a protectorate status. While this new territory would be desirable, it may be too soon to agree to this under these current terms. It may be better to bide our time and wait to see what developments occur. In addition, if we grant the status of Protectorate, it would likely alienate the Orange Free State." #NT!
- britain.204.a: "Agree" #NT!
- britain.204.b: "Too Soon" #NT!
- britain.205.t: "Besotho Requests Protection... Again" #NT!
- britain.205.d: "King Moshoeshoe of Besotho has requested a protectorate status again. After their defeat to the Orange Free State, it seems King Moshoeshoe is more willing to accept all of oure demands. It would now be in our best interest to accept their request, we may not get another chance." #NT!
- britain.205.a: "Agree" #NT!
- britain.205.b: "Refuse" #NT!
- britain.206.t: "Griqualand West" #NT!
- britain.206.d: "Nicolaas Waterboer of Griqualand West has requested a Colony status again. After nearly entering open war with the Orange Free State, Waterboer is willing to become a Crown Colony of the British Empire. With the Diamond fields, it would now be in our best interest to accept their request, we may not get another chance." #NT!
- britain.206.a: "Agree" #NT!
- britain.206.b: "Refuse" #NT!
- britain.207.t: "Recognise Urabi's Authority in Egypt?" #NT!
- britain.207.d: "Tension built over the summer of 1881 as both the Khedive and the Egyptian officers, now led by ʻUrabi, searched for supporters and gathered allies. In September the Khedive ordered ʻUrabi's regiment to leave Cairo. He refused and ordered the dismissal of the Turco-Circassian generals and the creation of an elected government. Unable to oppose the revolt, Tewfiq agreed and a new chamber of deputies and government were established containing a number of ʻUrabi's allies. This puts our interests in the region at risk, should we continue to only recognise the Khedive's authority or should we allow this new government to continue?" #NT!
- britain.207.a: "Assert the primacy of the Khedive's authority" #NT!
- britain.207.b: "Recognise the new Government" #NT!
- britain.208.t: "Bombard Alexandria?" #NT!
- britain.208.d: "The presence of the foreign fleet exacerbated the tensions in Alexandria between the nationalist forces and the large foreign and Christian population. Ferocious riots erupted, possibly started by 'Urabi's supporters. Meanwhile, the garrison had continued to fortify the various forts and towers with additional guns, we should not allow this build up to continue. Should we send an ultimatum to Urabi's forces to stop fortifying?" #NT!
- britain.208.a: "Send the ultimatum" #NT!
- britain.208.b: "Do Nothing" #NT!
- britain.209.t: "Bombard Alexandria?" #NT!
- britain.209.d: "The bombardment of Alexandria has caused even greater turmoil in Egypt and revolts have spread across the country. We could take this opportunity to restore order and the Khedive's authority. If not, it would be only be a matter of time before Urabi's army restores order and likley taking control of the Suez." #NT!
- britain.209.a: "Intervene" #NT!
- britain.209.b: "Do Nothing" #NT!
- britain.210.t: "Bombay Burmah Trading Corporation" #NT!
- britain.210.d: "The Bombay Burmah Trading Corporation for under-reporting its extractions of teak from Toungoo and not paying its employees. The company can be fined by a Burmese court, and some of its timber was seized by the Burmese officials. However, this will likely anger the British government. Should we fine the company or let the British deal with it?" #NT!
- britain.210.a: "Fine the BBTC" #NT!
- britain.210.b: "Do Nothing" #NT!
- britain.211.t: "Bombay Burmah Trading Corporation Fined" #NT!
- britain.211.d: "A fine was imposed on the Bombay Burmah Trading Corporation for under-reporting its extractions of teak from Toungoo and not paying its employees. The company was fined by a Burmese court, and some of its timber was seized by the Burmese officials. The company claims the charges were false and the Burmese courts are corrupt. Should we demand the Burmese government accept a British-appointed arbitrator to settle the dispute?" #NT!
- britain.211.a: "Make the Demand" #NT!
- britain.211.b: "Do Nothing" #NT!
- britain.212.t: "Britain Demands British Appointed Arbitrator" #NT!
- britain.212.d: "The company was fined by a Burmese court, and some of its timber was seized by the Burmese officials. The company and the British government claimed the charges were false and the Burmese courts were corrupt. The British demanded the Burmese government accept a British-appointed arbitrator to settle the dispute. If we accept, it will make our government seem weak, we should not have to bow to a foreign power." #NT!
- britain.212.a: "Refuse" #NT!
- britain.212.b: "Accept" #NT!
- britain.213.t: "Send an ultimatum to Burma?" #NT!
- britain.213.d: "We demanded the Burmese government accept a British-appointed arbitrator to settle the dispute. However, they have refused this, this is not acceptable as they are questioning our power in the region. We cound send a untimatum demanding that the Burmese accept a new British resident in Mandalay, that any legal action or fines against the company be suspended until the arrival of the resident, that Burma submit to British control of its foreign relations and that Burma should provide the British with commercial facilities for the development of trade between northern Burma and China." #NT!
- britain.213.a: "Send it" #NT!
- britain.213.b: "Let it go" #NT!
- britain.214.t: "Accept British Ultimatum?" #NT!
- britain.214.d: "When we refused the British demands, they sent an ultimatum to us. The ultimatum demanded that the Burmese accept a new British resident in Mandalay, that any legal action or fines against the company be suspended until the arrival of the resident, that Burma submit to British control of its foreign relations and that Burma should provide the British with commercial facilities for the development of trade between northern Burma and China. The acceptance of the ultimatum would have ended any real Burmese independence and reduced the country to something similar to the semi-independent princely states of British India." #NT!
- britain.214.a: "Refuse" #NT!
- britain.214.b: "Accept" #NT!
- britain.215.t: "Burma Refuse the Ultimatum" #NT!
- britain.215.d: "A practical refusal of the terms having been received at Rangoon, the occupation of Mandalay and the dethronement of the Burmese king Thibaw Min were decided upon." #NT!
- britain.215.a: "To War!" #NT!
- britain.216.t: "Third Anglo-Burmese War Victory" #NT!
- britain.216.d: "Burma has been annex and a prolamation of the Governor-General of India has been made. By command of the Queen-Empress, it is hereby notified that the territories formerly governed by King Theebaw, will no longer be under his rule, but have become part of Her Majesty's dominions, and will during Her Majesty's pleasure, be administered by such Officers as the Viceroy and Governor-General may from time to time appoint." #NT!
- britain.216.a: "Great News!" #NT!
- britain.217.t: "British Courts Handle BBTC" #NT!
- britain.217.d: "British courts have taken over the case regarding the BBTC and will bestow a punishment fitting their crimes." #NT!
- britain.217.a: "Great News!" #NT!
- britain.218.t: "British Courts Handle BBTC" #NT!
- britain.218.d: "British courts have taken over the case regarding the BBTC and will investigate their crimes." #NT!
- britain.218.a: "Great News!" #NT!
- britain.219.t: "Aftermath of Anglo-Zulu War" #NT!
- britain.219.d: "Sir Bartle Frere, the High Commissioner in South Africa sent a provocative ultimatum  to the Zulu king Cetshwayo and upon its rejection sent Lord Chelmsford to invade Zululand. The war had several particularly bloody battles, including an opening victory of the Zulu at the Battle of Isandlwana, followed by the defence of Rorke's Drift by a small British Garrison from an attack by a large Zulu force. This war has ended Zulu dominance of the region. However, at a high cost.\n\nAfter the battle of Ulundi, the Zulu army dispersed, most of the leading chiefs tendered their submission, and Cetshwayo became a fugitive. Wolseley, having relieved Chelmsford after Ulundi, took over the final operations. The king was eventually captured and sent to Cape Town.\n\nChelmsford received a Knight Grand Cross of Bath, largely because of Ulundi. However, he was severely criticized by the Horse Guards investigation and will never serve in the field again. Due to his failure to request permission from London, Bartle Frere will be relegated to a minor post in Cape Town." #NT!
- britain.219.a: "What a Waste" #NT!
- britain.220.t: "Aftermath of Anglo-Zulu War" #NT!
- britain.220.d: "The London Colonial Office, under Secretary for the Colonies Lord Carnarvon has set in motion plans to impose a system of confederation on the various states of Southern Africa. The situation in southern Africa was complicated, not least in that several of its states were still independent and so required military conquest before being confederated. The Prime Minister of the Cape Colony has firmly rejected confederation under Britain, saying that it was not a model that was applicable to the diverse region, and that conflict would result from outside involvement in southern Africa at a time when state relations were particularly sensitive. The liberal Cape government also objected to the plan for ideological concerns; Its formal response, conveyed to London via Sir Henry Barkly, had been that any federation with the illiberal Boer republics would compromise the rights and franchise of the Cape's Black citizens, and was therefore unacceptable.\n\nDespite this, South Africa will be unfied under British rule and we will send whatever is required to do so." #NT!
- britain.220.a: "Expansion Time" #NT!
+ britain.202.t: "Orange Free State"
+ britain.202.d: "The Orange Free State has sent a formal request to become a British Colony. Many within government believe granting this request would cause issues for us in the future, especially if we choose to confederate South Africa. Additionally, we would struggle to be able to devide and rule the states in the region with Orange Free State as a colony. What should we do?"
+ britain.202.a: "Agree"
+ britain.202.b: "Not now"
+ britain.203.t: "Orange Free State Mediation"
+ britain.203.d: "President Boshoff has requested we mediate peace talks between them and the Basotho. The sooner their war ends, the sooner we can push our own agenda in the region."
+ britain.203.a: "Peace at last"
+ britain.204.t: "Besotho Requests Protection"
+ britain.204.d: "King Moshoeshoe of Besotho has requested a protectorate status. While this new territory would be desirable, it may be too soon to agree to this under these current terms. It may be better to bide our time and wait to see what developments occur. In addition, if we grant the status of Protectorate, it would likely alienate the Orange Free State."
+ britain.204.a: "Agree"
+ britain.204.b: "Too Soon"
+ britain.205.t: "Besotho Requests Protection... Again"
+ britain.205.d: "King Moshoeshoe of Besotho has requested a protectorate status again. After their defeat to the Orange Free State, it seems King Moshoeshoe is more willing to accept all of oure demands. It would now be in our best interest to accept their request, we may not get another chance."
+ britain.205.a: "Agree"
+ britain.205.b: "Refuse"
+ britain.206.t: "Griqualand West"
+ britain.206.d: "Nicolaas Waterboer of Griqualand West has requested a Colony status again. After nearly entering open war with the Orange Free State, Waterboer is willing to become a Crown Colony of the British Empire. With the Diamond fields, it would now be in our best interest to accept their request, we may not get another chance."
+ britain.206.a: "Agree"
+ britain.206.b: "Refuse"
+ britain.207.t: "Recognise Urabi's Authority in Egypt?"
+ britain.207.d: "Tension built over the summer of 1881 as both the Khedive and the Egyptian officers, now led by ʻUrabi, searched for supporters and gathered allies. In September the Khedive ordered ʻUrabi's regiment to leave Cairo. He refused and ordered the dismissal of the Turco-Circassian generals and the creation of an elected government. Unable to oppose the revolt, Tewfiq agreed and a new chamber of deputies and government were established containing a number of ʻUrabi's allies. This puts our interests in the region at risk, should we continue to only recognise the Khedive's authority or should we allow this new government to continue?"
+ britain.207.a: "Assert the primacy of the Khedive's authority"
+ britain.207.b: "Recognise the new Government"
+ britain.208.t: "Bombard Alexandria?"
+ britain.208.d: "The presence of the foreign fleet exacerbated the tensions in Alexandria between the nationalist forces and the large foreign and Christian population. Ferocious riots erupted, possibly started by 'Urabi's supporters. Meanwhile, the garrison had continued to fortify the various forts and towers with additional guns, we should not allow this build up to continue. Should we send an ultimatum to Urabi's forces to stop fortifying?"
+ britain.208.a: "Send the ultimatum"
+ britain.208.b: "Do Nothing"
+ britain.209.t: "Bombard Alexandria?"
+ britain.209.d: "The bombardment of Alexandria has caused even greater turmoil in Egypt and revolts have spread across the country. We could take this opportunity to restore order and the Khedive's authority. If not, it would be only be a matter of time before Urabi's army restores order and likley taking control of the Suez."
+ britain.209.a: "Intervene"
+ britain.209.b: "Do Nothing"
+ britain.210.t: "Bombay Burmah Trading Corporation"
+ britain.210.d: "The Bombay Burmah Trading Corporation for under-reporting its extractions of teak from Toungoo and not paying its employees. The company can be fined by a Burmese court, and some of its timber was seized by the Burmese officials. However, this will likely anger the British government. Should we fine the company or let the British deal with it?"
+ britain.210.a: "Fine the BBTC"
+ britain.210.b: "Do Nothing"
+ britain.211.t: "Bombay Burmah Trading Corporation Fined"
+ britain.211.d: "A fine was imposed on the Bombay Burmah Trading Corporation for under-reporting its extractions of teak from Toungoo and not paying its employees. The company was fined by a Burmese court, and some of its timber was seized by the Burmese officials. The company claims the charges were false and the Burmese courts are corrupt. Should we demand the Burmese government accept a British-appointed arbitrator to settle the dispute?"
+ britain.211.a: "Make the Demand"
+ britain.211.b: "Do Nothing"
+ britain.212.t: "Britain Demands British Appointed Arbitrator"
+ britain.212.d: "The company was fined by a Burmese court, and some of its timber was seized by the Burmese officials. The company and the British government claimed the charges were false and the Burmese courts were corrupt. The British demanded the Burmese government accept a British-appointed arbitrator to settle the dispute. If we accept, it will make our government seem weak, we should not have to bow to a foreign power."
+ britain.212.a: "Refuse"
+ britain.212.b: "Accept"
+ britain.213.t: "Send an ultimatum to Burma?"
+ britain.213.d: "We demanded the Burmese government accept a British-appointed arbitrator to settle the dispute. However, they have refused this, this is not acceptable as they are questioning our power in the region. We cound send a untimatum demanding that the Burmese accept a new British resident in Mandalay, that any legal action or fines against the company be suspended until the arrival of the resident, that Burma submit to British control of its foreign relations and that Burma should provide the British with commercial facilities for the development of trade between northern Burma and China."
+ britain.213.a: "Send it"
+ britain.213.b: "Let it go"
+ britain.214.t: "Accept British Ultimatum?"
+ britain.214.d: "When we refused the British demands, they sent an ultimatum to us. The ultimatum demanded that the Burmese accept a new British resident in Mandalay, that any legal action or fines against the company be suspended until the arrival of the resident, that Burma submit to British control of its foreign relations and that Burma should provide the British with commercial facilities for the development of trade between northern Burma and China. The acceptance of the ultimatum would have ended any real Burmese independence and reduced the country to something similar to the semi-independent princely states of British India."
+ britain.214.a: "Refuse"
+ britain.214.b: "Accept"
+ britain.215.t: "Burma Refuse the Ultimatum"
+ britain.215.d: "A practical refusal of the terms having been received at Rangoon, the occupation of Mandalay and the dethronement of the Burmese king Thibaw Min were decided upon."
+ britain.215.a: "To War!"
+ britain.216.t: "Third Anglo-Burmese War Victory"
+ britain.216.d: "Burma has been annex and a prolamation of the Governor-General of India has been made. By command of the Queen-Empress, it is hereby notified that the territories formerly governed by King Theebaw, will no longer be under his rule, but have become part of Her Majesty's dominions, and will during Her Majesty's pleasure, be administered by such Officers as the Viceroy and Governor-General may from time to time appoint."
+ britain.216.a: "Great News!"
+ britain.217.t: "British Courts Handle BBTC"
+ britain.217.d: "British courts have taken over the case regarding the BBTC and will bestow a punishment fitting their crimes."
+ britain.217.a: "Great News!"
+ britain.218.t: "British Courts Handle BBTC"
+ britain.218.d: "British courts have taken over the case regarding the BBTC and will investigate their crimes."
+ britain.218.a: "Great News!"
+ britain.219.t: "Aftermath of Anglo-Zulu War"
+ britain.219.d: "Sir Bartle Frere, the High Commissioner in South Africa sent a provocative ultimatum  to the Zulu king Cetshwayo and upon its rejection sent Lord Chelmsford to invade Zululand. The war had several particularly bloody battles, including an opening victory of the Zulu at the Battle of Isandlwana, followed by the defence of Rorke's Drift by a small British Garrison from an attack by a large Zulu force. This war has ended Zulu dominance of the region. However, at a high cost.\n\nAfter the battle of Ulundi, the Zulu army dispersed, most of the leading chiefs tendered their submission, and Cetshwayo became a fugitive. Wolseley, having relieved Chelmsford after Ulundi, took over the final operations. The king was eventually captured and sent to Cape Town.\n\nChelmsford received a Knight Grand Cross of Bath, largely because of Ulundi. However, he was severely criticized by the Horse Guards investigation and will never serve in the field again. Due to his failure to request permission from London, Bartle Frere will be relegated to a minor post in Cape Town."
+ britain.219.a: "What a Waste"
+ britain.220.t: "Aftermath of Anglo-Zulu War"
+ britain.220.d: "The London Colonial Office, under Secretary for the Colonies Lord Carnarvon has set in motion plans to impose a system of confederation on the various states of Southern Africa. The situation in southern Africa was complicated, not least in that several of its states were still independent and so required military conquest before being confederated. The Prime Minister of the Cape Colony has firmly rejected confederation under Britain, saying that it was not a model that was applicable to the diverse region, and that conflict would result from outside involvement in southern Africa at a time when state relations were particularly sensitive. The liberal Cape government also objected to the plan for ideological concerns; Its formal response, conveyed to London via Sir Henry Barkly, had been that any federation with the illiberal Boer republics would compromise the rights and franchise of the Cape's Black citizens, and was therefore unacceptable.\n\nDespite this, South Africa will be unfied under British rule and we will send whatever is required to do so."
+ britain.220.a: "Expansion Time"
+  
+ britain.223.t: "The Matrimonial Causes Act" #NT!
+ britain.223.a: "It's time for the church to adopt a more liberal position." #NT!
+ britain.223.b: "This is an insult to the vow and to God!" #NT!
+ britain.223.d: "Our parliament is voting on one issue today, The Matrimonial Causes Act. This one would allow married couples to divorce without having to seek parliamentary approval first. This proposal has been met with criticism especially from the conservative and religious factions, but also with praise from the Liberals. It is up to the parliament to decide now.\n\nThe parliament will vote on the Obscene Publications Act immediately afterwards." #NT!
+ britain.224.t: "The Burial Act" #NT!
+ britain.224.a: "We need to protect those in grief" #NT!
+ britain.224.b: "They're already dead... what does it matter?" #NT!
+ britain.224.d: "Our parliament is voting on one issue today, The Burial Act would regulate burial grounds. Regulating where and how deceased people may be buried, and provides for the exhumation of remains. If passed, this law would also make it illegal to disturb a grave." #NT!
+ britain.225.t: "Consolidate Criminal Law" #NT!
+ britain.225.a: "Much more efficient" #NT!
+ britain.225.d: "Parliament passed the Criminal Law Consolidation Act, which will simplfy the criminal law of the United Kingdom. This is done without changing the law, and is a way to tidy up areas of statute law that have become fragmented over time." #NT!
+ britain.226.t: "Expansion of Landord and Tenant Laws to Ireland" #NT!
+ britain.226.a: "We need to protect all tenants" #NT!
+ britain.226.b: "Ireland doesn't matter..." #NT!
+ britain.226.d: "A few years ago, Parliament passed laws expanding the rights of tenants in Great Britain. However, these rights were not given to tenants in Ireland. Of which, 97% of farmers tenants. As a result, this caused quite an upset in Ireland and many have been advocating for the same tenants rights for the whole United Kingdom." #NT!
+ britain.227.t: "The Newcastle Commission" #NT!
+ britain.227.a: "This Commission inquired into the state of public education in England and to consider and report what measures, if any, are required for the extension of sound and cheap elementary instruction to all classes of the people. In the 1850s, much of the schooling of the working-classes was still informal or semi-formal. On the whole there was little geographical consistency. Some schooling was provided privately, though most was organised through the workhouse schools, the Anglican National Schools and the non-conformist British Schools. The overall aim of this commission was to see whether public money was being well spent as grants to existing schools.\n\nThe commission concluded that the system was working though not as efficiently as it could. It was disparaging on the operation of factory schools. It reported: 'The number of children whose names ought to have been on the school books, in order that all might receive some education, was 2,655,767. The number we found to be actually on the books was 2,535,462, thus leaving 120,305 children without any school instruction whatever.' Furhtermore, 573,536 were attending private schools, such as Dame schools where a woman provided child care facilities and a little reading, writing and arithmetic in her own home. These failed to give the children an education which would be serviceable to them in after-life. The other 1,549,312 children were attending public elementary day schools belonging to the religious denominations (church schools), but all but 19.3% were under 12, so were in primary departments. Only 300,000 were receiving any form of extended education, which was believed to be essential. As many as 786,202 attend for less than 100 days in the year and can therefore hardly receive a serviceable amount of education.\n\nMuch, therefore, still remains to be done to bring up the state of elementary education in England and Wales to the degree of usefulness which we all regard as attainable and desirable." #NT!
+ britain.227.b: "Perhaps we shpould look into this?" #NT!
+ britain.228.t: "Policy on France" #NT!
+ britain.228.a: "Following the Crimean War, the British and French governments have been closely alligned in foreign policy, often working together towards a common goal. However, there are some within government that believe we should distance ourselves from France and return to the age old rivalry, especially in terms of colonial expansion. Despite this, it is clear we need to have an ally of the european continent to ensure peace and stability while we continue our splendid isolation. Although smaller and with no colonial holding, many believe Prussia would be the best option to ensure our intrests in Europe remain assured and that France can no longer be trusted. How should we proceed? It is obvious that which ever nation we choose to ally with, will anger the other as a rivalry between France and Prussia grows. " #NT!
+ britain.228.b: "France has been a trusted ally so far..." #NT!
+ britain.228.c: "Maybe Prussia would be the better ally..." #NT!
+ britain.229.t: "Electoral Corruption" #NT!
+ britain.229.a: "The 1865 general election was regarded by contemporaries as being a generally dull contest nationally, which exaggerated the degree of corruption within individual constituencies. The testimony is unanimous that in the General Election of 1865 there was more profuse and corrupt expenditure than was ever known before. As a result of allegations of corruption, 50 election petitions were lodged, of which 35 were pressed to a trial; 13 ended with the elected MP being unseated. In four cases a Royal Commission had to be appointed because of widespread corrupt practices in the constituency.\n\nAs a result, the Prime Minister has announced that he would introduce a new method for election petition trials, which were then determined by a committee of the House of Commons, resulting in the Parliamentary Elections Act, whereby two Judges of the Court of Common Pleas, Exchequer of Pleas or Queen's Bench would be designated to try election petitions with full judicial salaries." #NT!
+ britain.229.b: "No more corruption in elections... Right?" #NT!
+ britain.230.t: "Diplomacy or Military Force?" #NT!
+ britain.230.a: "As the worlds only super power, we are in the posistion to use our strength to bend other nations to our will. However, we must decide whether we should do this through diplomatic means or through our military strength..." #NT!
+ britain.230.b: "Diplomacy always wins..." #NT!
+ britain.230.c: "Ready for a Fight" #NT!
+ britain.231.t: "Empress of India" #NT!
+ britain.231.a: "The Royal Titles Bill was brought before Parliament and faced some opposistion, these fearing that the title was synonymous with absolutism. The bill passed to proclaim Queen Victoria as Empress of India.\n\nCelebrations will be held in Delhi in what is known as the Delhi Durbar, led by the Viceroy, Lord Lytton. Queen Victoria's full title will now be 'Victoria, by the Grace of God of the United Kingdom of Great Britain and Ireland Queen, Defender of the Faith, Empress of India'." #NT!
+ britain.231.b: "God Save the Queen... or Empress?" #NT!
+ britain.232.t: "Sanitary Codes Bill" #NT!
+ britain.232.a: "The General Medical Council, a conglomerate forged by the fires of parliament to regulate and oversee Britain’s doctors, was founded today under Elizabeth Tower. This act, moreover, made public this council’s own documentation on who is registered to practice medicine. For the sake of transparency and legitimacy has this been made, and by similar British principles shall this Act live on." #NT!
+ britain.232.b: "We need to reform our standards!" #NT!
+ britain.232.a: "Nah." #NT!
+ britain.233.t: "The Land Registry Act" #NT!
+ britain.233.a: "Much of the country is still owned by few wealthy land owners and it is very difficult to track how much these landowners actually own. As a result, it is hard to track how much tax these estates owe the Treasury. As such, a bill has been put forward to Parliament to reform the land Registry to force these land owners to report how much land they own. However, many will be put off this and will more likely to sell off much of their land instead." #NT!
+ britain.233.b: "We need to reform our standards!" #NT!
+ britain.233.a: "Nah." #NT!
+ britain.234.t: "Ireland's Place Within the Union" #NT!
+ britain.234.a: "While Ireland is so close to London, it often feels like they are the furthest... The persistant unrest in Ireland, caused by radical fanatics with the idea of a 'Free Ireland', has resulted in a growing portion withing Britain to seek a solution to this problem.\n\nMembers within our Cabinet have suggested to further integrate Northern Ireland, as it has an majority Protestant population, it is believed there would be little opposition to this. However, once word speads throughout the island that London is expanding its control over Ireland, then outrage will likely grow. Despite this, it is believed that this upset will fade over time.\n\nThis is a radical idea and others believe dangerous... should we keep the status-quo or seek to expand our control in Ireland?" #NT!
+ britain.234.b: "Keep the Status-quo" #NT!
+ britain.234.a: "Integrate Belfast" #NT!
+  
   
   ####Britain Votings 
  british_votes.1.t: "The Inclosure Act of 1857"
@@ -1118,7 +1166,6 @@
  eoanb_decision_ENG_invest_india_tea: "Invest in Indian Tea"
  ENG_idea_indian_tea1: "Indian Tea Investment"
  ENG_idea_indian_tea2: "Indian Tea"
- eoanb_flag_karl_marx_dead: "Karl Marx is dead"
  goverment_of_1865: "Government of 1865"
  goverment_of_1868: "Government of 1868"
  the_anderson_case: "The Anderson Case"
@@ -1140,15 +1187,44 @@
  ENG_british_protection_desc: "Britain had aligned their interests with the Ottoman Empire in order to hinder Russian expansion. Mutual interest united an unlikely alliance of countries to fight the prospect of Russia benefiting from the Ottomans."
  ENG_abolished_kowtow_for_us: "Abolished Kowtow for Us"
  ENG_xenophobic_monarch: "Xenophobic Monarch"
- ENG_ottoman_infantry_arms_deal: "Recent Arms Deal" #NT!
- ENG_ottoman_refuses_arms_deal: "Sublime Porte insisted on Autarky" #NT!
- ENG_idea_ashanti_stalemate: "Stalemate" #NT!
- ENG_idea_ashanti_stalemate.desc: "" #NT!
- ENG_idea_ashanti_win: "Recieving war reparations" #NT!
- ENG_idea_ashanti_win.desc: "" #NT!
- ENG_idea_ashanti_lose: "Paying war reparations" #NT!
- ENG_idea_ashanti_lose.desc: "" #NT!
- ENG_idea_expanded_political_intel_in_the_gulf: "Expanded Political Inteligence in the Persian Gulf" #NT!
+ ENG_ottoman_infantry_arms_deal: "Recent Arms Deal"
+ ENG_ottoman_refuses_arms_deal: "Sublime Porte insisted on Autarky"
+ ENG_idea_ashanti_stalemate: "Stalemate"
+ ENG_idea_ashanti_stalemate.desc: ""
+ ENG_idea_ashanti_win: "Recieving war reparations"
+ ENG_idea_ashanti_win.desc: ""
+ ENG_idea_ashanti_lose: "Paying war reparations"
+ ENG_idea_ashanti_lose.desc: ""
+ ENG_idea_expanded_political_intel_in_the_gulf: "Expanded Political Inteligence in the Persian Gulf"
+ ENG_idea_bloated_civil_service: "Bloated Civil Service" #NT!
+ ENG_idea_champion_education: "Champion Education" #NT!
+ ENG_idea_champion_education_2: "Champion Education" #NT!
+ ENG_idea_unhappy_aristocracy: "Unhappy Aristocracy" #NT!
+ ENG_idea_happy_aristocracy: "Happy Aristocracy" #NT!
+ ENG_idea_reformed_legal_system: "Reformed Legal System" #NT!
+ ENG_idea_agarian_policies: "Agarian Policies" #NT!
+ ENG_idea_corrupt_parliament: "Corrupt Parliament" #NT!
+ ENG_idea_religious_freedoms: "Greater Religious Freedoms" #NT!
+ ENG_idea_prepared_military: "Prepared Military" #NT!
+ ENG_idea_model_police: "Model Police Force" #NT!
+ ENG_idea_fairer_taxes: "Fair Tax System" #NT!
+ ENG_idea_liberal_society: "Growing Liberal Society" #NT!
+ ENG_idea_church_england_opposistion: "Church of England Opposistion" #NT!
+ ENG_idea_church_england_opposistion_2: "Church of England Opposistion" #NT!
+ ENG_idea_conservative_society: "Conservative Nation" #NT!
+ ENG_idea_god_crown_country: "God, Crown and Country" #NT!
+ ENG_idea_imperial_strength: "Imperial Strength" #NT!
+ ENG_idea_european_isolationism: "Великолепное Уединение"
+ ENG_idea_european_isolationism_desc: "После Наполеоновских Войн Британия решила проводить изоляционистскую европейскую политику, а это означало, что она очень неохотно вмешивается в европейские дела, если вообще вмешивается."
+ ENG_idea_european_isolationism_2: "Splendid Isolation" #NT!
+ ENG_idea_european_isolationism_2_desc: "After the Napoleonic Wars, Britain decided to follow an isolationist European policy, meaning that they only very reluctantly, if at all, interfere in European affairs." #NT!
+ ENG_idea_growing_spending: "Out of Control Government Spending" #NT!
+ ENG_idea_clean_governence: "Clean Governement" #NT!
+ ENG_idea_reformed_estates: "Reformed Land Registry" #NT!
+ ENG_idea_loyalty_over_merit: "Loyalty over Merit" #NT!
+ ENG_idea_effective_spending: "Efficient Government Spending" #NT!
+ ENG_idea_reformed_welfare: "Reformed Welfare System" #NT!
+ ENG_idea_reformed_welfare_bonus: "Excellent Welfare" #NT!
   
   ### Decisions 
  ENG_mission_sawmills_lothian: "Sawmills in Lothian"
@@ -1176,14 +1252,16 @@
  ENG_decision_regular_exercises_4: "Exercises in India"
  ENG_decision_regular_exercises_5: "Exercises in New Zealand"
  eoanb_decision_ENG_defend_OTO: "Defend the Ottomans"
- ENG_mission_defeat_sepoy_rebellion: "Defeat in India" #NT!
- ENG_defeat_egyptian_revolt: "Anglo-Egyptian War" #NT!
- ENG_defeat_burmese_war: "Third Anglo-Burmese War" #NT!
- ENG_mission_first_boer_war: "Anglo-Boer War" #NT!
- Anglo_ashanti_war_troops_mission_1863: "Sending help to defend Gold Coast" #NT!
- Anglo_ashanti_war_troops_mission_1863.desc: "" #NT!
- Anglo_ashanti_war_troops_mission_1873: "Sending help to defend Gold Coast" #NT!
- Anglo_ashanti_war_troops_mission_1873.desc: "" #NT!
+ eoanb_decision_ENG_zula_port: "Land in the Gulf of Zula" #NT!
+ ENG_mission_defeat_sepoy_rebellion: "Defeat in India"
+ ENG_defeat_egyptian_revolt: "Anglo-Egyptian War"
+ ENG_defeat_burmese_war: "Third Anglo-Burmese War"
+ ENG_mission_first_boer_war: "Anglo-Boer War"
+ Anglo_ashanti_war_troops_mission_1863: "Sending help to defend Gold Coast"
+ Anglo_ashanti_war_troops_mission_1863.desc: ""
+ Anglo_ashanti_war_troops_mission_1873: "Sending help to defend Gold Coast"
+ Anglo_ashanti_war_troops_mission_1873.desc: ""
+  
   
   ###Ireland 
  ENG_defeat_1867_ireland_rebellion: "Defeat in Ireland"
@@ -1301,6 +1379,26 @@
  ENG_munster_calm: "Fenians in Munster crushed"
  ENG_connaught_calm: "Fenians in Connaught crushed"
  ENG_fenian_uprising_ireland: "Fenian Uprising in Ireland"
+ eoanb_tt_irish_unrest_increase_1: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will increase by §R1§! point." #NT!
+ eoanb_tt_irish_unrest_increase_2: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will increase by §R2§! points." #NT!
+ eoanb_tt_irish_unrest_increase_3: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will increase by §R3§! points." #NT!
+ eoanb_tt_irish_unrest_increase_4: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will increase by §R4§! points." #NT!
+ eoanb_tt_irish_unrest_increase_5: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will increase by §R5§! points." #NT!
+ eoanb_tt_irish_unrest_increase_6: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will increase by §R6§! points." #NT!
+ eoanb_tt_irish_unrest_increase_7: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will increase by §R7§! points." #NT!
+ eoanb_tt_irish_unrest_increase_8: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will increase by §R8§! points." #NT!
+ eoanb_tt_irish_unrest_increase_9: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will increase by §R9§! points." #NT!
+ eoanb_tt_irish_unrest_increase_10: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will increase by §R10§! points." #NT!
+ eoanb_tt_irish_unrest_decrease_1: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will decrease by §G1§! point." #NT!
+ eoanb_tt_irish_unrest_decrease_2: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will decrease by §G2§! points." #NT!
+ eoanb_tt_irish_unrest_decrease_3: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will decrease by §G3§! points." #NT!
+ eoanb_tt_irish_unrest_decrease_4: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will decrease by §G4§! points." #NT!
+ eoanb_tt_irish_unrest_decrease_5: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will decrease by §G5§! points." #NT!
+ eoanb_tt_irish_unrest_decrease_6: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will decrease by §G6§! points." #NT!
+ eoanb_tt_irish_unrest_decrease_7: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will decrease by §G7§! points." #NT!
+ eoanb_tt_irish_unrest_decrease_8: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will decrease by §G8§! points." #NT!
+ eoanb_tt_irish_unrest_decrease_9: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will decrease by §G9§! points." #NT!
+ eoanb_tt_irish_unrest_decrease_10: "§RIrish Unrest§! in §Y[ENG.GetNameDef]§! will decrease by §G10§! points." #NT!
   
   ###Focus 
  ENG_focus_Palmerston_wins2: "Palmerston Wins the Elections"
@@ -1834,6 +1932,156 @@
  ENG_focus_watts_machines_desc: "Watts favours light hulls with good speed in his ships, and get that speed he has deviced an improved steam engine that can handle greater pressures than ever before. With the use of improved boilers and more effective steam usage by better design, these engines can produce power that propell our ships quickly!"
  ENG_focus_robinson_hulls: "Robinson's Hulls"
  ENG_focus_robinson_hulls_desc: "Robinson's armored hull designs are slightly slower than regular ships, but are more heavily armored and armed. Using clever distribution of iron and brass plates, these armor designs can protect the ship and her crew from most shell types of the day while firing back with impunity."
+ ENG_focus_1873_panic: "Panic of 1873" #NT!
+ ENG_focus_1873_panic_desc: "" #NT!
+ ENG_focus_raise_interest_rates: "Raise Interest Rates" #NT!
+ ENG_focus_raise_interest_rates_desc: "" #NT!
+ ENG_focus_static_supply_adjustment: "Static Supply Adjustment" #NT!
+ ENG_focus_static_supply_adjustment_desc: "" #NT!
+ ENG_focus_adjusting_capital_formation: "Adjusting Capital Formation" #NT!
+ ENG_focus_adjusting_capital_formation_desc: "" #NT!
+ britain_focus_1885: "Britain 1885-1900 Focus Tree" #NT!
+ ENG_focus_improve_civil_service: "Improve the Civil Service" #NT!
+ ENG_focus_improve_civil_service_desc: "" #NT!
+ ENG_focus_burial_act: "Burial Act" #NT!
+ ENG_focus_burial_act_desc: "" #NT!
+ ENG_focus_champion_education: "Champion Education Reform" #NT!
+ ENG_focus_champion_education_desc: "" #NT!
+ ENG_focus_encourage_maths: "Encourage teaching of Science and Maths" #NT!
+ ENG_focus_encourage_maths_desc: "" #NT!
+ ENG_focus_expand_tenants_rights: "Expand Landord and Tenant Laws to Ireland" #NT!
+ ENG_focus_expand_tenants_rights_desc: "" #NT!
+ ENG_focus_regulate_companies: "Regulate British Companies" #NT!
+ ENG_focus_regulate_companies_desc: "" #NT!
+ ENG_focus_criminal_law: "Consolidate Criminal Law" #NT!
+ ENG_focus_criminal_law_desc: "" #NT!
+ ENG_focus_lord_westbury: "Appoint Lord Westbury as Lord Chancellor" #NT!
+ ENG_focus_lord_westbury_desc: "" #NT!
+ ENG_focus_reform_legal_system: "Attempt to Reform the Legal System" #NT!
+ ENG_focus_reform_legal_system_desc: "" #NT!
+ ENG_focus_reform_land_registry: "Reform Land Registry" #NT!
+ ENG_focus_reform_land_registry_desc: "" #NT!
+ ENG_focus_defend_church: "Defend the Church of England" #NT!
+ ENG_focus_defend_church_desc: "" #NT!
+ ENG_focus_support_business: "Support British Businesses" #NT!
+ ENG_focus_support_business_desc: "" #NT!
+ ENG_focus_encourage_union: "Encourage the Union between Ireland" #NT!
+ ENG_focus_encourage_union_desc: "" #NT!
+ ENG_focus_no_social_reforms: "No Further Social Reform" #NT!
+ ENG_focus_no_social_reforms_desc: "" #NT!
+ ENG_focus_agarian_policies: "Introduce Agarian Policies" #NT!
+ ENG_focus_agarian_policies_desc: "" #NT!
+ ENG_focus_support_gentry: "Support the landed Gentry" #NT!
+ ENG_focus_support_gentry_desc: "" #NT!
+ ENG_focus_newcastle_commission: "Newcastle Commission" #NT!
+ ENG_focus_newcastle_commission_desc: "" #NT!
+ ENG_focus_french_policy: "Policy on France" #NT!
+ ENG_focus_french_policy_desc: "" #NT!
+ ENG_focus_electoral_courrupption: "Address the Electoral Corruption" #NT!
+ ENG_focus_electoral_courrupption_desc: "" #NT!
+ ENG_focus_expand_franchise: "Expand Franchise" #NT!
+ ENG_focus_expand_franchise_desc: "" #NT!
+ ENG_focus_reform_criminal_justice: "Reform Crimial Justice System" #NT!
+ ENG_focus_reform_criminal_justice_desc: "" #NT!
+ ENG_focus_education_accessible: "Make Education More Accessible" #NT!
+ ENG_focus_education_accessible_desc: "" #NT!
+ ENG_focus_religious_freedoms: "Extend Religious Freedoms" #NT!
+ ENG_focus_religious_freedoms_desc: "" #NT!
+ ENG_focus_robust_military: "Robust and Prepared Military" #NT!
+ ENG_focus_robust_military_desc: "" #NT!
+ ENG_focus_strong_police_force: "Strong National Police Force" #NT!
+ ENG_focus_strong_police_force_desc: "" #NT!
+ ENG_focus_maintain_social_order: "Maintain the Social Order" #NT!
+ ENG_focus_maintain_social_order_desc: "" #NT!
+ ENG_focus_reduce_taxes: "Reduce Taxes on The Poor" #NT!
+ ENG_focus_reduce_taxes_desc: "" #NT!
+ ENG_focus_one_man_one_vote: "One Man, One Vote" #NT!
+ ENG_focus_one_man_one_vote_desc: "" #NT!
+ ENG_focus_improve_workers: "Improve Workers Rights" #NT!
+ ENG_focus_improve_workers_desc: "" #NT!
+ ENG_focus_national_education: "National Education System" #NT!
+ ENG_focus_national_education_desc: "" #NT!
+ ENG_focus_liberty_restrictions: "Cut Restrictions on Individual Advancement" #NT!
+ ENG_focus_liberty_restrictions_desc: "" #NT!
+ ENG_focus_seperation_church_state: "Seperation of Church and State" #NT!
+ ENG_focus_seperation_church_state_desc: "" #NT!
+ ENG_focus_disestablishment_irish_church: "Disestablish the Church of England in Ireland" #NT!
+ ENG_focus_disestablishment_irish_church_desc: "" #NT!
+ ENG_focus_gradual_reform: "Gradual and Careful Reforms" #NT!
+ ENG_focus_gradual_reform_desc: "" #NT!
+ ENG_focus_oppose_radicalism: "Oppose Socialism and Republicism" #NT!
+ ENG_focus_oppose_radicalism_desc: "" #NT!
+ ENG_focus_support_monarchy: "Support the Monarchy and Church" #NT!
+ ENG_focus_support_monarchy_desc: "" #NT!
+ ENG_focus_strong_military: "Strong and Well Equiped Military" #NT!
+ ENG_focus_strong_military_desc: "" #NT!
+ ENG_focus_imperial_strength: "Maintain Imperial Strength" #NT!
+ ENG_focus_imperial_strength_desc: "" #NT!
+ ENG_focus_importance_law_order: "Importance of Law and Order" #NT!
+ ENG_focus_importance_law_order_desc: "" #NT!
+ ENG_focus_prosperity_from_empire: "Prosperity Comes from the Empire" #NT!
+ ENG_focus_prosperity_from_empire_desc: "" #NT!
+ ENG_focus_diplomacy_over_intervention: "Diplomacy over Military Intervention" #NT!
+ ENG_focus_diplomacy_over_intervention_desc: "" #NT!
+ ENG_focus_minimise_public_spending: "Minimise Public Expenditure" #NT!
+ ENG_focus_minimise_public_spending_desc: "" #NT!
+ ENG_focus_anti_corruption_measures: "Introduce anti-corruption Measures" #NT!
+ ENG_focus_further_democratisation: "Further Democratisation" #NT!
+ ENG_focus_further_democratisation_desc: "" #NT!
+ ENG_focus_abolish_plural_voting: "Abolish Plural Voting" #NT!
+ ENG_focus_abolish_plural_voting_desc: "" #NT!
+ ENG_focus_clean_governance: "Clean Governance" #NT!
+ ENG_focus_clean_governance_desc: "" #NT!
+ ENG_focus_break_large_estates: "Break up Large Estates" #NT!
+ ENG_focus_break_large_estates_desc: "" #NT!
+ ENG_focus_regulate_factories: "Regulate Factory Conditions" #NT!
+ ENG_focus_regulate_factories_desc: "" #NT!
+ ENG_focus_gradual_constitutional_reform: "Gradual Constitutional Refiorm" #NT!
+ ENG_focus_gradual_constitutional_reform_desc: "" #NT!
+ ENG_focus_champion_institutions: "Champion Importance of Traditional Institutions" #NT!
+ ENG_focus_champion_institutions_desc: "" #NT!
+ ENG_focus_political_appointments: "Political Appointments" #NT!
+ ENG_focus_political_appointments_desc: "" #NT!
+ ENG_focus_protect_industry: "Protect British Industry" #NT!
+ ENG_focus_protect_industry_desc: "" #NT!
+ ENG_focus_enourage_housing: "Encourage Working-Class Housing" #NT!
+ ENG_focus_enourage_housing_desc: "" #NT!
+ ENG_focus_sanitary_codes: "Update Sanitary Codes" #NT!
+ ENG_focus_sanitary_codes_desc: "" #NT!
+ ENG_focus_empress_india: "Empress of India" #NT!
+ ENG_focus_empress_india_desc: "" #NT!
+ ENG_focus_represent_classes: "Representation of all classes" #NT!
+ ENG_focus_represent_classes_desc: "" #NT!
+ ENG_focus_equitable_electoral_system: "Ensure a More Equitable Electoral System" #NT!
+ ENG_focus_equitable_electoral_system_desc: "" #NT!
+ ENG_focus_state_eduacation: "State Supported Education" #NT!
+ ENG_focus_state_eduacation_desc: "" #NT!
+ ENG_focus_compulsory_education: "Compulsory Education" #NT!
+ ENG_focus_compulsory_education_desc: "" #NT!
+ ENG_focus_sound_fiscal_management: "Sound Fiscal Management" #NT!
+ ENG_focus_sound_fiscal_management_desc: "" #NT!
+ ENG_focus_encourage_religious_freedom: "Encourage Religious Freedoms" #NT!
+ ENG_focus_encourage_religious_freedom_desc: "" #NT!
+ ENG_focus_resolve_tension_ireland: "Resolve the Relgious Tensions in Ireland" #NT!
+ ENG_focus_resolve_tension_ireland_desc: "" #NT!
+ ENG_focus_support_irish_tenants: "Support Irish Tenants" #NT!
+ ENG_focus_support_irish_tenants_desc: "" #NT!
+ ENG_focus_defenders_empire: "Defenders of the Empire" #NT!
+ ENG_focus_defenders_empire_desc: "" #NT!
+ ENG_focus_military_preparedness: "Military Prearedness" #NT!
+ ENG_focus_military_preparedness_desc: "" #NT!
+ ENG_focus_no_further_reform: "No Further Electoral Reform" #NT!
+ ENG_focus_no_further_reform_desc: "" #NT!
+ ENG_focus_prevent_political_instability: "Prevent Political Instability" #NT!
+ ENG_focus_prevent_political_instability_desc: "" #NT!
+ ENG_focus_defend_church_role: "Defend the Church's Role in the Nation" #NT!
+ ENG_focus_defend_church_role_desc: "" #NT!
+ ENG_focus_ireland_place: "Ireland’s place within the Union" #NT!
+ ENG_focus_ireland_place_desc: "" #NT!
+ ENG_focus_limited_welfare_reform: "Limited Welfare Reform" #NT!
+ ENG_focus_limited_welfare_reform_desc: "" #NT!
+ ENG_focus_argriculture_growth: "Growth of agriculture and industry" #NT!
+ ENG_focus_argriculture_growth_desc: "" #NT!
   
   ###Parliament - decisions 
  ENG_decision_dissolved_commons: "Dissolve the House of Commons"
@@ -1955,16 +2203,17 @@
  ENG_BOP_House_of_Lords_Strength_low: "Low House of Lords Strength"
  ENG_BOP_House_of_Lords_Strength_mid: "Medium House of Lords Strength"
  ENG_BOP_House_of_Lords_Strength_high: "High House of Lords Strength"
- ENG_decision_pay_parliamentarians: "Pay Parliamentarians" #NT!
- ENG_decision_pay_parliamentarians_desc: "Since the 17th century, government ministers were paid, while other MPs were not. Most of the men elected to the Commons had private incomes, while a few relied on financial support from a wealthy patron. This effectively restricted membership of Parliament to persons who were well-off." #NT!
- ENG_decision_end_proxy_voting: "End Proxy Voting" #NT!
- ENG_decision_end_proxy_voting_desc: "This reform would changed the House of Lords' standing orders to abolish proxy voting, preventing Lords from voting without taking the trouble to attend" #NT!
- ENG_decision_law_lords: "Establish Law Lords" #NT!
- ENG_decision_law_lords_desc: "Lords of Appeal in Ordinary, commonly known as Law Lords, were judges appointed to the British House of Lords, as a committee of the House, effectively to exercise the judicial functions of the House of Lords, which included acting as the highest appellate court for most domestic matters." #NT!
- ENG_decision_limit_party_lords: "Remove the Lords Spiritual" #NT!
- ENG_decision_limit_party_lords_desc: "Members of the House of Lords who sit by virtue of their ecclesiastical offices are known as Lords Spiritual. Comprising of the church's archbishops and bishops, restricted by the Bishopric of Manchester Act 1847, and by later Acts, the Lords Spiritual can now number no more than 26. However, many within the nation believe religious figures should hold no place in law making and thus should be removed from Parliament." #NT!
- ENG_decision_increase_lords: "Increase the House of Lords Powers" #NT!
- ENG_decision_increase_commons: "Increase the House of Commons Powers" #NT!
+ ENG_decision_pay_parliamentarians: "Pay Parliamentarians"
+ ENG_decision_pay_parliamentarians_desc: "Since the 17th century, government ministers were paid, while other MPs were not. Most of the men elected to the Commons had private incomes, while a few relied on financial support from a wealthy patron. This effectively restricted membership of Parliament to persons who were well-off."
+ ENG_decision_end_proxy_voting: "End Proxy Voting"
+ ENG_decision_end_proxy_voting_desc: "This reform would changed the House of Lords' standing orders to abolish proxy voting, preventing Lords from voting without taking the trouble to attend"
+ ENG_decision_law_lords: "Establish Law Lords"
+ ENG_decision_law_lords_desc: "Lords of Appeal in Ordinary, commonly known as Law Lords, were judges appointed to the British House of Lords, as a committee of the House, effectively to exercise the judicial functions of the House of Lords, which included acting as the highest appellate court for most domestic matters."
+ ENG_decision_limit_party_lords: "Remove the Lords Spiritual"
+ ENG_decision_limit_party_lords_desc: "Members of the House of Lords who sit by virtue of their ecclesiastical offices are known as Lords Spiritual. Comprising of the church's archbishops and bishops, restricted by the Bishopric of Manchester Act 1847, and by later Acts, the Lords Spiritual can now number no more than 26. However, many within the nation believe religious figures should hold no place in law making and thus should be removed from Parliament."
+ ENG_decision_increase_lords: "Increase the House of Lords Powers"
+ ENG_decision_increase_commons: "Increase the House of Commons Powers"
+  
   
   #Tool Tips 
  eoanb_tt_focus_ENG_invest_shipbuilding: "Unlocks §G2§! Decisions to build §YNaval Dockyards§!."
@@ -2019,4 +2268,4 @@
  eoanb_om_repealed_gse_act_ENG_RAJ: "Repeal of the GSE Act"
  eoanb_om_prepared_negotiations_ENG_RAJ: "Negotiatory Agreements"
  eoanb_tt_focus_ENG_repeal_regulatory_act: "§Y[RAJ.GetNameDef]§! gains §G100§! §YAutonomy Points§!"
-  
+ eoanb_tt_focus_ENG_end_1857: "§RTHE 1885 GENERAL ELECTION WILL LOAD THE NEXT FOCUS TREE§!" #NT!

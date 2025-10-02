@@ -47,12 +47,6 @@
  radar_station: "Радарная станция"
  radar_station_plural: "Радарные станции"
  radar_station_desc: "Радар позволяет вам получать информацию о вражеских войсках в соседних регионах.\nБольшой уровень радара в регионе увеличивает эффективную дальность действия радара.\nРадар также обеспечивает государство лучшем обнаружением вражеских воздушных сил, что дает вашим самолетам больше шансов поразить их.\nДалее радары увеличивают обнаружение вражеских флотов на море."
- rocket_site: "Ракетная площадка"
- rocket_site_plural: "Ракетные площадки"
- rocket_site_desc: "Это сооружение позволяет размещать в регионе произведенные вами ракеты."
- nuclear_reactor: "Ядерный реактор"
- nuclear_reactor_plural: "Ядерные реакторы"
- nuclear_reactor_desc: "Это сооружение производит в регионе обогащенный уран для использования в атомном оружии."
  BUILDING_BOMBED: "Сооружение $BUILDING$ подвергнуто бомбардировке!"
  BUILDING_SABOTAGED: "Сооружение $BUILDING$ стало объектом диверсии!"
  BUILDING_REPAIRED: "Сооружение $BUILDING$ восстановлено!"
@@ -63,7 +57,6 @@
  CAPACITY_PLUS: "$VAL$+$PLUS$/$MAX$"
  AIR_BASE_LEVEL: "$NAME|H$: $VAL|Y$"
  AIR_BASE_LEVEL_UNKNOWN: "$NAME|H$"
- ROCKET_SITE_CAPACITY: "Вместимость: $VAL$/$MAX$"
  NAVAL_BASE_LEVEL_UNKNOWN: "§YМорской Порт§!"
  NAVAL_BASE_LEVEL: "§YМорской Порт§!: $VAL|Y$"
  NAVAL_BASE_SUPPLY_LIMIT: "Пропускаемость припасов: $VAL|Y$"
@@ -81,6 +74,8 @@
  BUILDING_SLOT_REMOVE_CONSTRUCTION_LEVEL: "Удалить строящийся уровень сооружения."
  BUILDING_SLOT_REMOVE_CONVERSION_LEVEL: "Отменить конверсию сооружения."
  BUILDING_SLOT_REMOVE_COOLDOWN: "В военное время здания можно удалять лишь через каждые $DAYS|Y$ дн. Следующее удаление будет доступно $DATE|Y$."
+ BUILDING_TERRAIN_MAX_LEVEL: "$TERRAIN|H$ — текущий максимальный уровень: $MAXLEVEL|H$"
+ BUILDING_TERRAIN_BASE_MAX_LEVEL: "Базовый: $MAXLEVEL|H$"
  CLICK_TO_CONVERT: "§GЩелкните§!, чтобы конвертировать в: $BUILDING|Y$"
  INSERT_CONVERSION: "§GCtrl+ЛКМ§!, чтобы конвертировать и поставить в начало очереди."
  INSERT_CONSTRUCTION: "§GCtrl+ЛКМ§!, чтобы построить и поставить в начало очереди."
@@ -150,60 +145,60 @@
  #generator_factory_inactive: "Generator Manufactory §R(Closed)§!"
  #generator_factory_inactive_plural: "Generator Manufactories §R(Closed)§!"
  #generator_factory_inactive_desc: "§RThis Generator Manufactory has run out of resources and has been closed§!"
- modifier_production_speed_electronics_factory: "§YElectronics Factory§! construction speed" #NT!
- modifier_production_speed_electronics_factory_desc: "Modifies the speed of Electronics Factory construction." #NT!
+ modifier_production_speed_electronics_factory: "§YElectronics Factory§! construction speed"
+ modifier_production_speed_electronics_factory_desc: "Modifies the speed of Electronics Factory construction."
  modifier_production_speed_electronics_factory_factor: "Скорость Строительства §YЭлектронных Мануфактур§!"
  modifier_production_speed_electronics_factory_factor_desc: "Изменяет скорость строительства Электронных Мануфактур."
- modifier_production_speed_plastics_refinery: "§YPlastics Refinery§! construction speed" #NT!
- modifier_production_speed_plastics_refinery_desc: "Modifies the speed of Plastics Refinery construction." #NT!
+ modifier_production_speed_plastics_refinery: "§YPlastics Refinery§! construction speed"
+ modifier_production_speed_plastics_refinery_desc: "Modifies the speed of Plastics Refinery construction."
  modifier_production_speed_plastics_refinery_factor: "Скорость Строительства §YЗаводов по Переработке Пластмасс§!"
  modifier_production_speed_plastics_refinery_factor_desc: "Изменяет скорость строительства Заводов по Переработке Пластмасс."
- modifier_production_speed_ceramic_buners: "§YCeramic Burner§! construction speed" #NT!
- modifier_production_speed_ceramic_buners_desc: "Modifies the speed of Ceramic Burner construction." #NT!
+ modifier_production_speed_ceramic_buners: "§YCeramic Burner§! construction speed"
+ modifier_production_speed_ceramic_buners_desc: "Modifies the speed of Ceramic Burner construction."
  modifier_production_speed_ceramic_buners_factor: "Скорость Строительства §YКерамических Печей§!"
  modifier_production_speed_ceramic_buners_factor_desc: "Изменяет скорость строительства Керамических Печей."
  modifier_production_speed_generator_factory: "Скорость Строительства §YГенераторных Мануфактур§!"
  modifier_production_speed_generator_factory_desc: "Изменяет скорость строительства Генераторных Мануфактур."
  modifier_production_speed_generator_factory_factor: "Скорость Строительства §YГенераторных Мануфактур§!"
  modifier_production_speed_generator_factory_factor_desc: "Изменяет скорость строительства Генераторных Мануфактур."
- modifier_production_speed_coal_mine: "§YCoal Mine§! construction speed" #NT!
- modifier_production_speed_coal_mine_desc: "Modifies the speed of Coal Mine construction." #NT!
- #modifier_production_speed_coal_mine_factor: "§YCoal Mine§! construction speed" #NT!
- #modifier_production_speed_coal_mine_factor_desc: "Modifies the speed of Coal Mine construction." #NT!
- modifier_production_speed_cotton_farm: "§YCotton Farm§! construction speed" #NT!
- modifier_production_speed_cotton_farm_desc: "Modifies the speed of Cotton Farm construction." #NT!
- #modifier_production_speed_cotton_farm_factor: "§YCotton Farm§! construction speed" #NT!
- #modifier_production_speed_cotton_farm_factor_desc: "Modifies the speed of Cotton Farm construction." #NT!
- modifier_production_speed_steel_mill: "§YSteel Mill§! construction speed" #NT!
- modifier_production_speed_steel_mill_desc: "Modifies the speed of Steel Mill construction." #NT!
- #modifier_production_speed_steel_mill_factor: "§YSteel Mill§! construction speed" #NT!
- #modifier_production_speed_steel_mill_factor_desc: "Modifies the speed of Steel Mill construction." #NT!
- modifier_production_speed_logging_camp: "§YLogging Camp§! construction speed" #NT!
- modifier_production_speed_logging_camp_desc: "Modifies the speed of Logging Camp construction." #NT!
- #modifier_production_speed_logging_camp_factor: "§YLogging Camp§! construction speed" #NT!
- #modifier_production_speed_logging_camp_factor_desc: "Modifies the speed of Logging Camp construction." #NT!
- modifier_production_speed_machine_parts_factory: "§YMachine Parts Factory§! construction speed" #NT!
- modifier_production_speed_machine_parts_factory_desc: "Modifies the speed of Machine Parts Factory construction." #NT!
- #modifier_production_speed_machine_parts_factory_factor: "§YMachine Parts Factory§! construction speed" #NT!
- #modifier_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of Machine Parts Factory construction." #NT!
- modifier_production_speed_farm: "§YFarm§! construction speed" #NT!
- modifier_production_speed_farm_desc: "Modifies the speed of Farm construction." #NT!
+ modifier_production_speed_coal_mine: "§YCoal Mine§! construction speed"
+ modifier_production_speed_coal_mine_desc: "Modifies the speed of Coal Mine construction."
+ #modifier_production_speed_coal_mine_factor: "§YCoal Mine§! construction speed"
+ #modifier_production_speed_coal_mine_factor_desc: "Modifies the speed of Coal Mine construction."
+ modifier_production_speed_cotton_farm: "§YCotton Farm§! construction speed"
+ modifier_production_speed_cotton_farm_desc: "Modifies the speed of Cotton Farm construction."
+ #modifier_production_speed_cotton_farm_factor: "§YCotton Farm§! construction speed"
+ #modifier_production_speed_cotton_farm_factor_desc: "Modifies the speed of Cotton Farm construction."
+ modifier_production_speed_steel_mill: "§YSteel Mill§! construction speed"
+ modifier_production_speed_steel_mill_desc: "Modifies the speed of Steel Mill construction."
+ #modifier_production_speed_steel_mill_factor: "§YSteel Mill§! construction speed"
+ #modifier_production_speed_steel_mill_factor_desc: "Modifies the speed of Steel Mill construction."
+ modifier_production_speed_logging_camp: "§YLogging Camp§! construction speed"
+ modifier_production_speed_logging_camp_desc: "Modifies the speed of Logging Camp construction."
+ #modifier_production_speed_logging_camp_factor: "§YLogging Camp§! construction speed"
+ #modifier_production_speed_logging_camp_factor_desc: "Modifies the speed of Logging Camp construction."
+ modifier_production_speed_machine_parts_factory: "§YMachine Parts Factory§! construction speed"
+ modifier_production_speed_machine_parts_factory_desc: "Modifies the speed of Machine Parts Factory construction."
+ #modifier_production_speed_machine_parts_factory_factor: "§YMachine Parts Factory§! construction speed"
+ #modifier_production_speed_machine_parts_factory_factor_desc: "Modifies the speed of Machine Parts Factory construction."
+ modifier_production_speed_farm: "§YFarm§! construction speed"
+ modifier_production_speed_farm_desc: "Modifies the speed of Farm construction."
  #modifier_production_speed_farm_factor: "§YFarm§! construction speed"
  #modifier_production_speed_farm_factor_desc: "Modifies the speed of Farm construction."
- modifier_production_speed_synthetic_refinery_oil: "§YOil Refinery§! construction speed" #NT!
- modifier_production_speed_synthetic_refinery_oil_desc: "Modifies the speed of Oil Refinery construction." #NT!
+ modifier_production_speed_synthetic_refinery_oil: "§YOil Refinery§! construction speed"
+ modifier_production_speed_synthetic_refinery_oil_desc: "Modifies the speed of Oil Refinery construction."
  modifier_production_speed_synthetic_refinery_oil_factor: "Скорость Строительства §YНефтеперерабатывающих Заводов§!"
  modifier_production_speed_synthetic_refinery_oil_factor_desc: "Изменяет скорость строительства Нефтеперерабатывающих Заводов."
- modifier_production_speed_synthetic_refinery_rubber: "§YRubber Refinery§! construction speed" #NT!
- modifier_production_speed_synthetic_refinery_rubber_desc: "Modifies the speed of Rubber Refinery construction." #NT!
+ modifier_production_speed_synthetic_refinery_rubber: "§YRubber Refinery§! construction speed"
+ modifier_production_speed_synthetic_refinery_rubber_desc: "Modifies the speed of Rubber Refinery construction."
  modifier_production_speed_synthetic_refinery_rubber_factor: "Скорость Строительства §YЗаводов по Переработке Каучука§!"
  modifier_production_speed_synthetic_refinery_rubber_factor_desc: "Изменяет скорость строительства Заводов по Переработке Каучука."
- modifier_production_speed_fuel_silo_industrial: "§YIndustrial Fuel Silo§! construction speed" #NT!
- modifier_production_speed_fuel_silo_industrial_desc: "Modifies the speed of Industrial Fuel Silo construction." #NT!
+ modifier_production_speed_fuel_silo_industrial: "§YIndustrial Fuel Silo§! construction speed"
+ modifier_production_speed_fuel_silo_industrial_desc: "Modifies the speed of Industrial Fuel Silo construction."
  modifier_production_speed_fuel_silo_industrial_factor: "Скорость Строительства §YПромышленных Топливных Хранилищ§!"
  modifier_production_speed_fuel_silo_industrial_factor_desc: "Изменяет скорость строительства Промышленных Топливных Хранилищ."
- modifier_production_speed_fuel_silo_modern: "§YModern Fuel Silo§! construction speed" #NT!
- modifier_production_speed_fuel_silo_modern_desc: "Modifies the speed of Modern Fuel Silo construction." #NT!
+ modifier_production_speed_fuel_silo_modern: "§YModern Fuel Silo§! construction speed"
+ modifier_production_speed_fuel_silo_modern_desc: "Modifies the speed of Modern Fuel Silo construction."
  modifier_production_speed_fuel_silo_modern_factor: "Скорость Строительства §YСовременных Топливных Хранилищ§!"
  modifier_production_speed_fuel_silo_modern_factor_desc: "Изменяет скорость строительства Современных Топливных Хранилищ."
  modifier_production_speed_rail_way_factor: "Скорость строительства §Yжелезных дорог§!"
@@ -225,9 +220,12 @@
  trench: "Траншея"
  trench_desc: "Траншеи используются для повышения обороноспособности пехоты в провинции."
  trench_plural: "Траншеи"
- modifier_production_speed_trench: "§YTrench§! construction speed" #NT!
- modifier_production_speed_trench_desc: "Modifies the speed of Trench construction." #NT!
+ modifier_production_speed_trench: "§YTrench§! construction speed"
+ modifier_production_speed_trench_desc: "Modifies the speed of Trench construction."
  modifier_production_speed_trench_factor: "Скорость Строительства §YТраншей§!"
  modifier_production_speed_trench_factor_desc: "Изменяет скорость строительства Траншей."
  synthetic_refinery_amount: "$VALUE|Y0=$"
  synthetic_refinery_resource: "£resources_strip|$FRAME$"
+ dam: "Плотина"
+ dam_plural: "Плотины"
+ dam_desc: "Плотины обеспечивают региону дополнительную электроэнергию, повышая эффективность промышленности и добычу ресурсов."

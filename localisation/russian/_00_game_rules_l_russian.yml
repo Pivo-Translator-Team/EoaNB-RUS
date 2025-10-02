@@ -32,6 +32,20 @@
  RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY: "Российский Нейтралитет"
  RULE_OPTION_PIE_RISORGIMENTO_RUSSIA_NEUTRALITY_DESC: "Не желая вмешиваться в Итальянские дела, Россия даст гарантию нейтралитета в предстоящей войне и покончит с этим, отказавшись от дальнейшей помощи.\n\n§RТребуется:§!\n§YСардиния-Пьемонт уже в союзе с Францией.§!"
   
+ ## Kingdom of Two Sicilies 
+  
+ # House Divided - BoP after Ferdinando's death 
+  
+ NSC_HOUSE_DIVIDED: "£GFX_EOANB_game_rule_flag_NSC   Royal House Divided" #NT!
+ RULE_OPTION_NSC_HOUSE_DIVIDED_RANDOM: "Default" #NT!
+ RULE_OPTION_NSC_HOUSE_DIVIDED_RANDOM_DESC: "The Kingdom of the Two Sicilies is at a crossroads. The current ruler, Ferdinand II, is gravely ill, and doctors speculate that his reign is nearing its end. His son, Prince Francesco, intends to continue his father’s legacy by maintaining close ties with Austria. However, not everyone at court shares his vision." #NT!
+ RULE_OPTION_NSC_HOUSE_DIVIDED_FRANCESCO_II: "Francesco II Secures Throne" #NT!
+ RULE_OPTION_NSC_HOUSE_DIVIDED_FRANCESCO_II_DESC: "Despite doubts about his youth and inexperience, Francesco II secures victory in the balance of power against Maria Theresia. Backed by loyalists and the Church, he carries the Bourbon banner forward, determined to preserve tradition and resist Austrian influence over the Kingdom of the Two Sicilies." #NT!
+ RULE_OPTION_NSC_HOUSE_DIVIDED_A_NEW_REPUBLIC: "A New Republic Born!" #NT!
+ RULE_OPTION_NSC_HOUSE_DIVIDED_A_NEW_REPUBLIC_DESC: "The people have long suffered under the authoritarian Bourbon monarchy, and they yearn for its end. They aspire to seize the nation’s future and shape the destiny of the region together." #NT!
+ RULE_OPTION_NSC_HOUSE_DIVIDED_MARIA_TERESAS_COUP: "Maria Teresa's Coup" #NT!
+ RULE_OPTION_NSC_HOUSE_DIVIDED_MARIA_TERESAS_COUP_DESC: "With growing support among aristocrats and nationalists, Maria Theresia triumphs in the balance of power against Francesco II. Seen as a stronger and more independent leader, she promises to steer the Kingdom toward progress, loosen Austria’s grip, and shape a new future for Italy." #NT!
+  
  ## Kingdom of Württemberg 
   
  # Status of Liberalism (Integrated or Suppressed) 
@@ -43,15 +57,3 @@
  RULE_OPTION_WUR_LIBERALISM_STATUS_SUPPRESS_DESC: "Не желая допустить ее дальнейшего роста, Король Вильгельм сосредоточится на подавлении либеральных движений в стране."
  RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE: "Внедрение Либерализма"
  RULE_OPTION_WUR_LIBERALISM_STATUS_INTEGRATE_DESC: "После тщательного обдумывания, Король Вильгельм примет решение о внедрении либерализма в королевстве."
-  
- ##  Montenegro 
-  
- # Mechanics Complexity 
-  
-  
-  
- MNT_mechanic_complexity: "£GFX_EOANB_game_rule_flag_MNT   Сложность Механик Черногории" #NT!
- RULE_MNT_EASY_MECHANIC: "Легкие Механики" #NT!
- RULE_MNT_EASY_MECHANIC_DESC: "" #NT!
- RULE_MNT_COMPLEX_MECHANIC: "Сложные Механики" #NT!
- RULE_MNT_COMPLEX_MECHANIC_DESC: "" #NT!
