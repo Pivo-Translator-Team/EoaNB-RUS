@@ -227,9 +227,6 @@
  tank_designer_rocket_role_disallowed: "Добавить модуль, позволяющий выбирать роль §HРакетная артиллерия§!."
  tank_designer_flame: "Огнеметчик (рота обеспечения)"
  tank_designer_flame_role_disallowed: "Добавить модуль, позволяющий выбирать роль §H«Пламя»§!."
-  
-  # name list themes 
- l_english: 
   # name list themes -- updated to include country-specific and other new list names 
  NAME_THEME_RIVERS: "Реки"
  NAME_THEME_FISH: "Рыбы"
