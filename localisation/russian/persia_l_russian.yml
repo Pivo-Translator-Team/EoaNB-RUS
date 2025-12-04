@@ -369,9 +369,9 @@
  PER_idea_marcket_backup: "The Market Backup"
  PER_idea_british_trade: "British Trade"
  PER_idea_russia_trade: "Russian Trade"
- PER_idea_mine_deals: "Persian Mine Deals" #NT!
+ PER_idea_mine_deals: "Persian Mine Deals"
  PER_idea_economic_stagnation: "Economic Stagnation"
- PER_idea_goverment_incentives: "Government Incentives" #NT!
+ PER_idea_goverment_incentives: "Government Incentives"
   
   #Naval ideas 
  PER_idea_shipbuilding_program: "National Shipbuilding Program"
@@ -388,8 +388,8 @@
  PER_idea_reorganize_province_administration: "Reorganize Provincal Administration"
  PER_idea_russia_military_training: "Russian Military Training"
  PER_idea_limited_russia_military_training: "Russian Military Training"
- PER_idea_weakend_chieftains: "Weakend Chieftains" #NT!
- PER_idea_british_tensions: "British Tensions" #NT!
+ PER_idea_weakend_chieftains: "Weakend Chieftains"
+ PER_idea_british_tensions: "British Tensions"
   
   ### EVENTS ### 
  persia.1.t: "Повторная оккупация Систана"
@@ -826,9 +826,9 @@
   
  PER_decision_category_economy: "Persian Economy"
  PER_decision_renovate_shrines_khorosan: "Renovate the Imam Reza Shrine"
- PER_mission_support_of_industries: "The Effects of Government Incentives" #NT!
- PER_mission_support_of_industries_desc: "By financially supporting the development of new industries trough tax cuts and subsidies we hope for economic growth in the industrial capabilities and infrastructure." #NT!
- PER_decision_stop_the_program: "Stop the Incentives" #NT!
+ PER_mission_support_of_industries: "The Effects of Government Incentives"
+ PER_mission_support_of_industries_desc: "By financially supporting the development of new industries trough tax cuts and subsidies we hope for economic growth in the industrial capabilities and infrastructure."
+ PER_decision_stop_the_program: "Stop the Incentives"
  PER_decision_renovate_shrines_hamedan_masumeh: "Renovate the Fatima Masumeh Shrine"
  PER_decision_renovate_shrines_tehran: "Renovate the Shah Abdol-Azim Shrine"
  PER_decision_renovate_shrines_hamedan_jamkaran: "Renovate the Jamkaran Mosque"
@@ -1195,7 +1195,7 @@
  PER_masjids_tt: "Due to §YThe Secularist Shahanshah§! Focus nothing will happen"
  PER_new_naval_focuses_tt: "§YUnlocks a Set of New Naval Focuses§!"
  PER_mirza_mohammed_khan_date_tt: "Available after Promotion (1858.9.1)"
- PER_modifies_economy_tt: "Modify §YThe Persian Economy§! by:" #NT!
- PER_modifies_army_tt: "Modify §YThe Persian Army§! by:" #NT!
- PER_tax_incentive_effects_tt: "By offering §YTax§! breaks, §YSubsidies§!, and grants we will try to develop new Industries" #NT!
- PER_corruption_tt: "Fraudsters §Rexploiting§! the program" #NT!
+ PER_modifies_economy_tt: "Modify §YThe Persian Economy§! by:"
+ PER_modifies_army_tt: "Modify §YThe Persian Army§! by:"
+ PER_tax_incentive_effects_tt: "By offering §YTax§! breaks, §YSubsidies§!, and grants we will try to develop new Industries"
+ PER_corruption_tt: "Fraudsters §Rexploiting§! the program"

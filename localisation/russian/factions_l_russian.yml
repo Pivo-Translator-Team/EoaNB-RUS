@@ -74,6 +74,7 @@
  FACTION_NAME_THEO_4: "$CONTINENT_ADJ$ Пакт"
  FACTION_NAME_THEO_5: "$CONTINENT$ Альянс"
  faction_prussian_allies_ssw: "Германский Бунд"
+ faction_trias_allies_ssw: "Trias Allies" #NT!
  faction_prussian_allies: "Прусский Союз"
  faction_austrian_allies: "Великогерманский Бунд"
  faction_ngc: "Северо-Германская Конфедерация"
@@ -88,3 +89,57 @@
  faction_serbia_montenegro: "Союз Сербов"
  faction_russian_allies: "Союзники России"
  faction_greek_allies: "Греческий Союз"
+  
+ german_confederation_against_denmark_faction: "Deutscher Bund (NEU)" #NT!
+ faction_manifest_free_north_german_duchies_name: "Free the North German Duchies" #NT!
+ faction_manifest_free_north_german_duchies_desc: "TEST" #NT!
+ eoanb_faction_goal_control_holstein_name: "Control Holstein" #NT!
+ eoanb_faction_goal_control_holstein_desc: "TEST" #NT!
+ eoanb_faction_goal_control_schleswig_name: "Control Schleswig" #NT!
+ eoanb_faction_goal_control_schleswig_desc: "TEST" #NT!
+ eoanb_faction_goal_control_jutland_name: "Control Jutland" #NT!
+ eoanb_faction_goal_control_jutland_desc: "TEST" #NT!
+ eoanb_faction_goal_control_sjaelland_name: "Control Sjaelland" #NT!
+ eoanb_faction_goal_control_sjaelland_desc: "TEST" #NT!
+ eoanb_faction_goal_free_holstein_name: "Free Holstein" #NT!
+ eoanb_faction_goal_free_holstein_desc: "TEST" #NT!
+ eoanb_faction_goal_free_schleswig_name: "Free Schleswig" #NT!
+ eoanb_faction_goal_free_schleswig_desc: "TEST" #NT!
+  
+ german_war_prussian_allies: "Preußische Union" #NT!
+ faction_manifest_end_the_dualism_prussia_name: "End the German Dualism" #NT!
+ faction_manifest_end_the_dualism_prussia_desc: "TEST" #NT!
+ eoanb_faction_goal_control_hanover_name: "Control Hanover" #NT!
+ eoanb_faction_goal_control_hanover_desc: "TEST" #NT!
+ eoanb_faction_goal_control_saxony_name: "Control Saxony" #NT!
+ eoanb_faction_goal_control_saxony_desc: "TEST" #NT!
+ eoanb_faction_goal_control_bohemia_name: "Control Bohemia" #NT!
+ eoanb_faction_goal_control_bohemia_desc: "TEST" #NT!
+ eoanb_faction_goal_control_sudetenland_name: "Control Sudetenland" #NT!
+ eoanb_faction_goal_control_sudetenland_desc: "TEST" #NT!
+ eoanb_faction_goal_control_hesse_name: "Control Hesse" #NT!
+ eoanb_faction_goal_control_hesse_desc: "TEST" #NT!
+ eoanb_faction_goal_control_frankfurt_name: "Control Frankfurt" #NT!
+ eoanb_faction_goal_control_frankfurt_desc: "TEST" #NT!
+ eoanb_faction_goal_end_german_confederation_name: "End the German Confederation" #NT!
+ eoanb_faction_goal_end_german_confederation_desc: "TEST" #NT!
+ eoanb_faction_goal_control_northern_germany_name: "Control Northern Germany" #NT!
+ eoanb_faction_goal_control_northern_germany_desc: "TEST" #NT!
+  
+ german_war_austrian_allies: "Großdeutscher Bund" #NT!
+ faction_manifest_end_the_dualism_austria_name: "End the German Dualism" #NT!
+ faction_manifest_end_the_dualism_austria_desc: "TEST" #NT!
+ eoanb_faction_goal_control_lower_silesia_name: "Control Lower Silesia" #NT!
+ eoanb_faction_goal_control_lower_silesia_desc: "TEST" #NT!
+ eoanb_faction_goal_control_northern_saxony_name: "Control Northern Saxony" #NT!
+ eoanb_faction_goal_control_northern_saxony_desc: "TEST" #NT!
+ eoanb_faction_goal_control_brandenburg_name: "Control Brandenburg" #NT!
+ eoanb_faction_goal_control_brandenburg_desc: "TEST" #NT!
+ eoanb_faction_goal_control_upper_silesia_name: "Control Upper Silesia" #NT!
+ eoanb_faction_goal_control_upper_silesia_desc: "TEST" #NT!
+ eoanb_faction_goal_control_kattowitz_name: "Control Kattowitz" #NT!
+ eoanb_faction_goal_control_kattowitz_desc: "TEST" #NT!
+ eoanb_faction_goal_dominate_german_confederation_name: "Dominate the German Confederation" #NT!
+ eoanb_faction_goal_dominate_german_confederation_desc: "TEST" #NT!
+ eoanb_faction_goal_contain_prussia_name: "Contain Prussia" #NT!
+ eoanb_faction_goal_contain_prussia_desc: "TEST" #NT!

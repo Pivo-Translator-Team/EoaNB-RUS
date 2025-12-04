@@ -196,15 +196,15 @@
  afr_EGY_vic.20.a: "A New Gateway to the East"
  afr_EGY_vic.20.b: "Impressive"
  afr_EGY_vic.20.c: "Less Irrelevant Now"
- afr_EGY_vic.20.e: "Impressive." #NT!
- afr_EGY_vic.20.f: "I guess we might be less irrelevant now?" #NT!
+ afr_EGY_vic.20.e: "Impressive."
+ afr_EGY_vic.20.f: "I guess we might be less irrelevant now?"
  afr_EGY_vic.21.t: "[From.GetName] is using forced labour to build the Suez"
  afr_EGY_vic.21.d: "It has come to our attention that Egypt is using forced labor to build the Suez Canal. This is no better than slavery, we should do something about it"
  afr_EGY_vic.21.a: "Put pressure on the [From.GetNameDef] Government"
  afr_EGY_vic.21.b: "Incite a Bedouin revolt"
  afr_EGY_vic.22.t: "Formation of Compagnie Universelle du Canal Maritime de Suez"
  afr_EGY_vic.22.d: "After Obtaining enough capital, Compagnie Universelle du Canal Maritime de Suez has formed to construct the Suez Canal, backed by various french investors and the egyptian Grand Vizier, Let the construction of the Suez Canal Begin"
- afr_EGY_vic.22.a: "Alright, let's get started then." #NT!
+ afr_EGY_vic.22.a: "Alright, let's get started then."
  afr_EGY_vic.23.t: "Beginning the Construction of the Suez Canal"
  afr_EGY_vic.23.d: "After much negotiations and preparations, the French are now begun to build the canal."
  afr_EGY_vic.23.a: "Great!"
@@ -226,11 +226,11 @@
  EGY_moderate_disease_outbreak: "a §YModerate§! outbreak kills Workers from [This.GetName]"
  EGY_serious_disease_outbreak: "a §YSerious§! outbreak kills Workers from [This.GetName]"
  EGY_major_disease_outbreak: "a §YMajor§! outbreak kills Workers from [This.GetName]"
- Suez_Canal_investment_effect_tt: "You will be expected to contribute to the construction of the §YSuez Canal§!." #NT!
+ Suez_Canal_investment_effect_tt: "You will be expected to contribute to the construction of the §YSuez Canal§!."
  SUEZCONSTRUCTIONYOURPROGRESS: "Current Progress you have contributed to the §YSuez Canal§!: §G[?suez_investment]%§!"
  afr_suez_construction: "Suez Canal Construction"
  EGY_dedicate_military_workers: "Dedicate Military Forces as Workers"
- suez_canal_completed_trigger_tt: "Construction of the §YSuez Canal§! has been completed." #NT!
+ suez_canal_completed_trigger_tt: "Construction of the §YSuez Canal§! has been completed."
  EGY_open_the_canal: "Declare the Canal Open"
  GetSuezConstructionAvailibleYes: "Suez Canal Construction Status: §YConstruction Phase§!"
  GetSuezConstructionAvailibleNO: "Suez Canal Construction Status: §RPlanning Phase§!"
@@ -305,6 +305,6 @@
  afr_EGY_vic.31.a: "Allow him to take control"
  afr_EGY_vic.31.b: "Crack down on the Officers"
   
- suez_contributor_flag: "§Y[THIS.GetNameDef]§! has bought shares to participate in the construction of the §YSuez Canal§!." #NT!
- suez_constructor_flag: "§Y[THIS.GetNameDef]§! is actively participating in the construction of the §YSuez Canal§!." #NT!
- suez_build_flag: "The §YSuez Canal§! has been §Gcompleted§!." #NT!
+ suez_contributor_flag: "§Y[THIS.GetNameDef]§! has bought shares to participate in the construction of the §YSuez Canal§!."
+ suez_constructor_flag: "§Y[THIS.GetNameDef]§! is actively participating in the construction of the §YSuez Canal§!."
+ suez_build_flag: "The §YSuez Canal§! has been §Gcompleted§!."

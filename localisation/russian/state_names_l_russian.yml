@@ -1397,12 +1397,20 @@
  STATE_1396: "West Azerbaijan"
  STATE_1397: "Chaharmahal"
  STATE_1398: "East Fars"
- STATE_1399: "West Libyan Desert" #NT!
- STATE_1400: "Derna" #NT!
- STATE_1401: "South Cyrenaica" #NT!
- STATE_1402: "South Jaghbub" #NT!
- STATE_1403: "East Libyan Desert" #NT!
- STATE_1404: "Bay Islands" #NT!
- STATE_1405: "Fort Castillo" #NT!
- STATE_1406: "Seminole" #NT!
- STATE_1407: "Northern Latium" #NT!
+ STATE_1399: "West Libyan Desert"
+ STATE_1400: "Derna"
+ STATE_1401: "South Cyrenaica"
+ STATE_1402: "South Jaghbub"
+ STATE_1403: "East Libyan Desert"
+ STATE_1404: "Bay Islands"
+ STATE_1405: "Fort Castillo"
+ STATE_1406: "Seminole"
+ STATE_1407: "Northern Latium"
+ STATE_1408: "Senneterre" #NT!
+ STATE_1409: "Eastern Abbitibby" #NT!
+ STATE_1410: "Hamilton River" #NT!
+ STATE_1411: "Toronto" #NT!
+ STATE_1412: "Brakant" #NT!
+ STATE_1413: "Upper Guinea" #NT!
+ STATE_1414: "Orungu" #NT!
+ STATE_1415: "Northern Algerian Desert" #NT!

@@ -12,8 +12,8 @@
  production_efficiency_cap_factor_tooltip: "£prod_eff_cap Макс. эффективность производства: $RIGHT|+=%1$"
  production_factory_max_efficiency_factor_tooltip: "£prod_eff_cap Макс. эффективность производства: $RIGHT|+=%2$"
  production_factory_efficiency_gain_factor_tooltip: "£prod_eff Рост эффективности производства: $RIGHT|+=%2$"
- production_factory_start_efficiency_factor_tooltip: "£prod_eff Production Efficiency Base: $RIGHT|+=%2$" #NT!
- industrial_capacity_factory_tooltip: "£mil_factory Factory Output: $RIGHT|+=%2$" #NT!
+ production_factory_start_efficiency_factor_tooltip: "£prod_eff Production Efficiency Base: $RIGHT|+=%2$"
+ industrial_capacity_factory_tooltip: "£mil_factory Factory Output: $RIGHT|+=%2$"
  max_command_power_tooltip: "£command_power Изменение максимума командного ресурса: $RIGHT|+=0$"
  opinion_gain_factor_tooltip: "£increase_opinion_texticon Улучшает мнение: $RIGHT|+=%$"
  political_advisor_cost_factor_tooltip: "£political_advisor_texticon Затраты на политического советника: $RIGHT|-=%$"
@@ -38,7 +38,7 @@
  army_morale_factor_tooltip: "£army_morale_texticon Скорость восстановления дивизии: $RIGHT|+=%$"
  army_org_factor_tooltip: "£organization_gain_texticon Организация армии: $RIGHT|+=%$"
  army_org_regain_tooltip: "£army_organization_regain_texticon Восстановление организации армии: $RIGHT|+=%$"
- army_spending_cost_factor_tooltip: "Cost per Fielded Battalion: $RIGHT|+=%$" #NT!
+ army_spending_cost_factor_tooltip: "Cost per Fielded Battalion: $RIGHT|+=%$"
  military_leader_cost_factor_tooltip: "£army_leader_cost_texticon Стоимость командира: $RIGHT|+=%$"
  navy_leader_cost_factor_tooltip: "£navy_leader_cost_texticon Military Leader Cost: $RIGHT|+=%$"
  command_abilities_cost_factor_tooltip: "£ability_cost_texticon Стоимость способностей командира: $RIGHT|+=%$"
@@ -47,7 +47,7 @@
  money_income_tooltip: "£money_icon£ Money Income (Weekly): $RIGHT|+=$"
  money_income_factor_tooltip: "£money_icon£ Money Income Modifier: $RIGHT|+=$"
  tax_efficiency_factor_tooltip: "money_icon£ Tax Efficiency Factor: $RIGHT|+=$"
- inflation_change_factor_tooltip: "£money_icon£ Inflation Growth Modifier: $RIGHT|Y=%2$" #NT!
+ inflation_change_factor_tooltip: "£money_icon£ Inflation Growth Modifier: $RIGHT|Y=%2$"
  attack_army_factor_tooltip: "£attack_infantry_texticon Division Attack: $RIGHT|+=%$"
  defence_army_factor_tooltip: "£defence_infantry_texticon Division Defense: $RIGHT|+=%$"
  army_core_defence_factor_tooltip: "£defence_infantry_texticon Division Core Defense: $RIGHT|+=%$"
@@ -71,12 +71,12 @@
  naval_torpedo_enemy_critical_chance_factor_tooltip: "£torpedo_texticon  Enemy Torpedo critical chance: $RIGHT|+=%$"
  production_speed_naval_base_factor_tooltip: "£construction_speed_navalbase_texticon §YNaval base§! Construction Speed: $RIGHT|+=%2$"
  local_resources_factor_tooltip: "£resources_texticon Resource Gain Efficiency: $RIGHT|+=%2$"
- local_manpower_tooltip: "£manpower_texticon Local Manpower: $RIGHT|+=%2$" #NT!
- state_resources_factor_tooltip: "£resources_texticon Resources In The State: $RIGHT|+=%2$" #NT!
- local_supplies_tooltip: "£supply_consumption_texticon Local Supplies: $RIGHT|+=%2$" #NT!
+ local_manpower_tooltip: "£manpower_texticon Local Manpower: $RIGHT|+=%2$"
+ state_resources_factor_tooltip: "£resources_texticon Resources In The State: $RIGHT|+=%2$"
+ local_supplies_tooltip: "£supply_consumption_texticon Local Supplies: $RIGHT|+=%2$"
  production_speed_buildings_factor_tooltip: "£construction_speed_texticon Construction Speed: $RIGHT|+=%1$"
- local_factories_tooltip: "£civ_factory Local Factories: $RIGHT|+=%2$" #NT!
- local_building_slots_tooltip: "£civ_factory Local Max Factories in a State: $RIGHT|+=%2$" #NT!
+ local_factories_tooltip: "£civ_factory Local Factories: $RIGHT|+=%2$"
+ local_building_slots_tooltip: "£civ_factory Local Max Factories in a State: $RIGHT|+=%2$"
  min_export_tooltip: "£traded_goods_texticon Resources to Market: $RIGHT|+=%$"
  production_cost_max_convoy_tooltip: "£convoy_texticon Production Cost Max Convoy: $RIGHT|+=%2$"
  line_change_production_efficiency_factor_tooltip: "£production_efficiency_loss_texticon  Production Efficiency Retention: $RIGHT|+=%2$"
@@ -89,13 +89,13 @@
  monthly_population_tooltip: "£manpower_texticon Monthly Population: $RIGHT|+=%$"
  navy_leader_promotion_cost_tooltip: "£leader_promotion_cost_texticon Navy Leader Cost: $RIGHT|-=%$"
  navy_leader_start_level_tooltip: "£army_level_texticon Starting level of new navy leaders: $RIGHT|+=$"
- industry_repair_factor_tooltip: "£construction_speed_civfactory_texticon Industry Repair Speed: $RIGHT|+=%2$" #NT!
- industry_free_repair_factor_tooltip: "£industry_repair_texticon Free Repair: $RIGHT|+=%2$" #NT!
- special_forces_attack_factor_tooltip: "£attack_specops_texticon Special Forces Attack: $RIGHT|+=%2$" #NT!
- special_forces_defence_factor_tooltip: "£defence_specops_texticon Special Forces Defense: $RIGHT|+=%2$" #NT!
- special_forces_cap_tooltip: "£specops_training_speed_texticon Special Forces Capacity Multiplier: $RIGHT|+=%2$" #NT!
- army_artillery_attack_factor: "£attack_artillery_texticon Artillery Attack: $RIGHT|+=%2$" #NT!
- army_artillery_defence_factor: "£attack_artillery_texticon Artillery Defense: $RIGHT|+=%2$" #NT!
+ industry_repair_factor_tooltip: "£construction_speed_civfactory_texticon Industry Repair Speed: $RIGHT|+=%2$"
+ industry_free_repair_factor_tooltip: "£industry_repair_texticon Free Repair: $RIGHT|+=%2$"
+ special_forces_attack_factor_tooltip: "£attack_specops_texticon Special Forces Attack: $RIGHT|+=%2$"
+ special_forces_defence_factor_tooltip: "£defence_specops_texticon Special Forces Defense: $RIGHT|+=%2$"
+ special_forces_cap_tooltip: "£specops_training_speed_texticon Special Forces Capacity Multiplier: $RIGHT|+=%2$"
+ army_artillery_attack_factor: "£attack_artillery_texticon Artillery Attack: $RIGHT|+=%2$"
+ army_artillery_defence_factor: "£attack_artillery_texticon Artillery Defense: $RIGHT|+=%2$"
   
  #Political Drift factors 
  autocracy_drift_tooltip: "£autocracy_drift_texticon Daily Autocracy Support: $RIGHT|+=%$"

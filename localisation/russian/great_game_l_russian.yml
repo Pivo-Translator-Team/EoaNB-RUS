@@ -497,7 +497,6 @@
  TMS_idea_british_envoy: "British Envoy in Merv"
  idea_united_muslim_front: "United Muslim Front"
   
- great_game_RUS_kaufmann_peace_solution: "Talk with von Kaufmann about peacefull solution"
  great_game_gain_political_influence: "Gain Political Influence"
  great_game_gain_military_influence: "Gain Military Influence"
  great_game_gain_economic_influence: "Gain Economic Influence"
@@ -548,7 +547,7 @@
  gg_RUS_tt_need_manifest: "In order to unlock the invasion, you will need to complete the decision: §YThe Russian Manifest Destiny§!"
  gg_tt_dip_power_required: "This will require §Y[?dip_power_required|.2] Political Influence§!"
  gg_tt_eco_power_required: "This will require §Y[?eco_power_required|.2] Economic Influence§!"
- gg_tt_mil_power_required: "This will require §Y[?mil_power_required|2] Military Influence§!" #NT!
+ gg_tt_mil_power_required: "This will require §Y[?mil_power_required|2] Military Influence§!"
   
   
  #scripted_gui 

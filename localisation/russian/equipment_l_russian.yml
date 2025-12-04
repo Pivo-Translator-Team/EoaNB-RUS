@@ -3354,28 +3354,6 @@
  SOV_armored_car_at_equipment: "БА-64Е-37"
  SOV_armored_car_at_equipment_short: "БА-64Е-37"
   
- RUS_gw_armored_car_equipment: "Mgebrov-Renault"
- RUS_gw_armored_car_equipment_short: "M-R"
- RUS_iw_armored_car_equipment: "BA-10"
- RUS_iw_armored_car_equipment_short: "BA-10"
- RUS_armored_car_equipment_1: "BA-20"
- RUS_armored_car_equipment_1_short: "BA-20"
- RUS_armored_car_equipment_2: "BA-64"
- RUS_armored_car_equipment_2_short: "BA-64"
- RUS_armored_car_at_equipment: "BA-64E-37"
- RUS_armored_car_at_equipment_short: "BA-64E-37"
- SOV_gw_armored_car_equipment: "Mgebrov-Renault"
- SOV_gw_armored_car_equipment_short: "M-R"
- SOV_iw_armored_car_equipment: "BA-10"
- SOV_iw_armored_car_equipment_short: "BA-10"
- SOV_armored_car_equipment_1: "BA-20"
- SOV_armored_car_equipment_1_short: "BA-20"
- SOV_armored_car_equipment_2: "БА-64"
- SOV_armored_car_equipment_2_short: "БА-64"
- SOV_armored_car_at_equipment: "БА-64Е-37"
- SOV_armored_car_at_equipment_short: "БА-64Е-37"
-  
-  
  ITA_gw_armored_car_equipment: "«Фиат» AB611"
  ITA_gw_armored_car_equipment_short: "AB611"
  ITA_armored_car_equipment_1: "AB 40"
@@ -3582,7 +3560,7 @@
  FRA_amphibious_mechanized_equipment_1_short: "AML 60"
  FRA_amphibious_mechanized_equipment_2: "Panhard AML 90"
  FRA_amphibious_mechanized_equipment_2_short: "AML 90"
- EQUIPMENT_MODULE_NOT_ALLOWED: "§RUnavailable§!"
+ : "§RUnavailable§!" #NT!
   
   
   #EOANB stuff 
@@ -3745,6 +3723,7 @@
  AUS_infantry_equipment_rifle_8_desc: "We will develop a new infantry rifle, the Mannlicher–Schönauer M1903."
  AUS_infantry_equipment_rifle_9_desc: "We will develop a new infantry rifle, the Mannlicher M1913."
  AUS_infantry_equipment_rifle_10_desc: "We will develop a new infantry rifle, the Gewehr 98."
+  
   #BAD 
  BAD_infantry_equipment_rifle_0: "Infanteriegewehr M/1842"
  BAD_infantry_equipment_rifle_0_short: "Gewehr M/1842"
@@ -3754,8 +3733,8 @@
  BAD_infantry_equipment_rifle_2_short: "Gewehr M/1861"
  BAD_infantry_equipment_rifle_3: "Dreyse Zündnadelbüchse M/65"
  BAD_infantry_equipment_rifle_3_short: "Dreyse M/65"
-  #BAV 
   
+  #BAV 
  BAV_infantry_equipment_rifle_0: "Infanteriegewehr M/1842"
  BAV_infantry_equipment_rifle_0_short: "Gewehr M/1842"
  BAV_infantry_equipment_rifle_1: "Infanteriegewehr M/1858"
@@ -3765,9 +3744,10 @@
  BAV_infantry_equipment_rifle_3: "Werder-System M69"
  BAV_infantry_equipment_rifle_3_short: "Gewehr M69"
  BAV_infantry_equipment_rifle_4: "Gewehr 71"
+ BAV_infantry_equipment_rifle_4_short: "Mauser M/71" #NT!
  BAV_infantry_equipment_rifle_5: "Gewehr 88"
-  #BRE 
   
+  #BRE 
  BRE_infantry_equipment_rifle_0: "Dreyse Zündnadelgewehr M/41"
  BRE_infantry_equipment_rifle_0_short: "Dreyse M/41"
  BRE_infantry_equipment_rifle_1: "Dreyse Zündnadelbüchse M/54"
@@ -4212,10 +4192,10 @@
  HON_infantry_equipment_rifle_4: "Mauser Model 1871"
  HON_infantry_equipment_rifle_4_short: "Mauser Model 1871"
   #NSC 
- NSC_infantry_equipment_rifle_1: "R. M. di Mongiana" #NT!
- NSC_infantry_equipment_rifle_1_short: "R. M. di Mongiana" #NT!
- NSC_infantry_equipment_rifle_2: "Mongiana 1860" #NT!
- NSC_infantry_equipment_rifle_2_short: "Mongiana 1860" #NT!
+ NSC_infantry_equipment_rifle_1: "R. M. di Mongiana"
+ NSC_infantry_equipment_rifle_1_short: "R. M. di Mongiana"
+ NSC_infantry_equipment_rifle_2: "Mongiana 1860"
+ NSC_infantry_equipment_rifle_2_short: "Mongiana 1860"
   #NOR 
  NOR_infantry_equipment_rifle_0: "M1807 Infanterimuskett"
  NOR_infantry_equipment_rifle_0_short: "M1807 Infanterimuskett"
@@ -4254,48 +4234,6 @@
  RAJ_mtb_5: "Arjun Mk.2"
  RAJ_mtb_5_short: "Arjun Mk.2"
  RAJ_mtb_5_desc: ""
-  #RUS 
- RUS_mtb_1: "T-64"
- RUS_mtb_1_short: "T-64"
- RUS_mtb_2: "T-72"
- RUS_mtb_2_short: "T-72"
- RUS_mtb_3: "T-80"
- RUS_mtb_3_short: "T-80"
- RUS_mtb_4: "T-90"
- RUS_mtb_4_short: "T-90"
- RUS_mtb_5: "T-90A"
- RUS_mtb_5_short: "T-90A"
- RUS_mtb_6: "T-90AM"
- RUS_mtb_6_short: "T-90AM"
- RUS_future_tank_1: "T-14 Armata"
- RUS_future_tank_1_short: "Armata"
- RUS_future_tank_2: "T-95"
- RUS_future_tank_2_short: "T-95"
- RUS_jet_fighter_equipment_3: "Mikoyan-Gurevich MiG-19"
- RUS_jet_fighter_equipment_3_short: "MiG-19"
- RUS_jet_fighter_equipment_4: "Mikoyan-Gurevich MiG-21"
- RUS_jet_fighter_equipment_4_short: "MiG-21"
- #SOV 
- SOV_mtb_1: "T-64"
- SOV_mtb_1_short: "T-64"
- SOV_mtb_2: "T-72"
- SOV_mtb_2_short: "T-72"
- SOV_mtb_3: "T-80"
- SOV_mtb_3_short: "T-80"
- SOV_mtb_4: "T-90"
- SOV_mtb_4_short: "T-90"
- SOV_mtb_5: "T-90A"
- SOV_mtb_5_short: "T-90A"
- SOV_mtb_6: "T-90AM"
- SOV_mtb_6_short: "T-90AM"
- SOV_future_tank_1: "T-14 Armata"
- SOV_future_tank_1_short: "Armata"
- SOV_future_tank_2: "T-95"
- SOV_future_tank_2_short: "T-95"
- SOV_jet_fighter_equipment_3: "Mikoyan-Gurevich MiG-19"
- SOV_jet_fighter_equipment_3_short: "MiG-19"
- SOV_jet_fighter_equipment_4: "Mikoyan-Gurevich MiG-21"
- SOV_jet_fighter_equipment_4_short: "MiG-21"
   #SAX 
  SAX_infantry_equipment_rifle_0: "Infanteriegewehr Modell 1842 Augustin"
  SAX_infantry_equipment_rifle_0_short: "Augustin M/1842"
@@ -4642,9 +4580,9 @@
  ship_cannon_battery_1: "32-Pounder Naval Gun"
  ship_cannon_battery_1_short: "Cannon II"
  ship_cannon_battery_1_desc: "A cannon shooting cannonballs weighing 32 British pounds."
- ship_cannon_battery_2: "32-Pounder Naval Gun" #NT!
- ship_cannon_battery_2_short: "Cannon III" #NT!
- ship_cannon_battery_2_desc: "An improved cannon shooting cannonballs weighing 32 British pounds." #NT!
+ ship_cannon_battery_2: "32-Pounder Naval Gun"
+ ship_cannon_battery_2_short: "Cannon III"
+ ship_cannon_battery_2_desc: "An improved cannon shooting cannonballs weighing 32 British pounds."
  ship_cannon_battery_3: "Super-Heavy Smoothbore Naval Gun"
  ship_cannon_battery_3_short: "SH Cannon"
  ship_cannon_battery_3_desc: "A cannon shooting cannonballs and shells weighing 100 British pounds."
@@ -4719,7 +4657,7 @@
  modifier_experience_gain_cruiser_combat_factor: "Cruiser Combat XP Gain"
  modifier_experience_gain_battle_cruiser_training_factor: "Получаемый опыт за подготовку линейного крейсера"
  modifier_experience_gain_battle_cruiser_combat_factor: "Получаемый боевой опыт линейного крейсера"
- modifier_experience_gain_battleship_training_factor: "Получаемый опыт за подготовку линкора"
+ # modifier_experience_gain_battleship_training_factor: "Battleship Training XP Gain" #NT!
  modifier_experience_gain_dreadnought_training_factor: "Dreadnought Training XP Gain"
  modifier_experience_gain_dreadnought_combat_factor: "Dreadnought Combat XP Gain"
  modifier_experience_gain_submarine_training_factor: "Получаемый опыт за подготовку подводной лодки"

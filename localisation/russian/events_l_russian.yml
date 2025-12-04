@@ -28,10 +28,10 @@
  risorgimento.999.b: "We really can't afford this..."
   
  ###France 
- nap_france_flavor.36.t: "Public Outrage Over a Painting"
- nap_france_flavor.36.d: "The public in and around the Salon des Refusés has begun outcries and scandals over a recent addition by French painter Édouard Manet. His work, Le Déjeuner sur l'herbe (The Luncheon on the Grass) depicts two scarcely clothed women, one having a picnic with two fully dressed men. The work has garnered notoriety and controversy for its daring depiction and blatant nudity, a topic still controversial among Parisian artist circles."
- nap_france_flavor.36.a: "How Vulgar!"
- nap_france_flavor.36.b: "How Fascinating..."
+ nap_france.31.t: "Public Outrage Over a Painting" #NT!
+ nap_france.31.d: "The public in and around the Salon des Refusés has begun outcries and scandals over a recent addition by French painter Édouard Manet. His work, Le Déjeuner sur l'herbe (The Luncheon on the Grass) depicts two scarcely clothed women, one having a picnic with two fully dressed men. The work has garnered notoriety and controversy for its daring depiction and blatant nudity, a topic still controversial among Parisian artist circles." #NT!
+ nap_france.31.a: "How Vulgar!" #NT!
+ nap_france.31.b: "How Fascinating..." #NT!
   
  ###USA 
  usa.341.t: "The SS Central America Sinks"
@@ -141,9 +141,12 @@
  news_flavor.21.t: "Disaster strikes Sydney"
  news_flavor.21.d: "On this rainy and stormy night, the three masted ship, Dunbar, hit the cliffs of South Head on the way into Sydney harbour. There was only one survivor out of the 122 souls onboard, able seaman James Johnson managed to hold on to the cliff faces for at least a day before he was rescued. The harbour has been filled with the wreckage of the ship and the bodies of the poor souls that were onboard. The city of Sydney is in mourning."
  news_flavor.21.a: "May they rest in peace"
- news_flavor.22.t: "Death of Schopenhauer" #NT!
- news_flavor.22.d: "Arthur Schopenhauer, a German philosopher, passed away sitting at home on his couch after he lost his battle with pulmonary-respiratory failure. His primary contributions to the field of philosophy would be his doctrine on epistemology, metaphysics, aesthetics, and ethics. He wrote his first dissertation, On the Fourfold Root of the Principle of Sufficient Reason, while dodging military service in rural Thuringia. His 1818 book The World as Will and Representation is perhaps his most signficant work. He was among the first philosophers in Western tradition to share and affirm significant tenets of Indian philosophy, such as asceticism, denial of the self, and the notion of the world-as-appearance." #NT!
- news_flavor.22.a: "His true self persists even after his passing..." #NT!
+ news_flavor.22.t: "Death of Schopenhauer"
+ news_flavor.22.d: "Arthur Schopenhauer, a German philosopher, passed away sitting at home on his couch after he lost his battle with pulmonary-respiratory failure. His primary contributions to the field of philosophy would be his doctrine on epistemology, metaphysics, aesthetics, and ethics. He wrote his first dissertation, On the Fourfold Root of the Principle of Sufficient Reason, while dodging military service in rural Thuringia. His 1818 book The World as Will and Representation is perhaps his most signficant work. He was among the first philosophers in Western tradition to share and affirm significant tenets of Indian philosophy, such as asceticism, denial of the self, and the notion of the world-as-appearance."
+ news_flavor.22.a: "His true self persists even after his passing..."
+ news_flavor.23.t: "Death of Lola Montez" #NT!
+ news_flavor.23.d: "News reaches us of the death of Lola Montez, who passed away yesterday in New York City. Known throughout the courts and capitals of Europe for her striking beauty and turbulent adventures, the life of this remarkable woman reads as dramatically as any stage play. Born Eliza Gilbert in Country Sligo, Ireland, in 1821, she achieved fame under the name Lola Montez as a dancer who captivated audiences with her Spanish persona and temperament. Her career took her through London, Paris, and Munich, where her charm even ensnared King Ludwig I of Bavaria. Elevated to a Countess, she became a force in Bavarian politics before the revolution of 1848 drove her into exile. In the years that followed, her path led across continents—from theatrical tours in the United States and Australia to public lectures denouncing hypocrisy and moral pretense. To some, she remains a symbol of reckless ambition and moral scandal; to others, a woman of rare independence who lived by her own unyielding will. Lola Montez leaves behind a legend as vivid and controversial as the century she embodied." #NT!
+ news_flavor.23.a: "May she rest in peace now." #NT!
   
   #Asia General 
  eoanb_om_treaty_amity_commerce: "Treaty on Amity and Commerce"
@@ -651,9 +654,9 @@
  news.47.t: "Vienna Stock Exchange Crashes"
  news.47.d: "\nNews reaches us that the stock exchange in Vienna has crashed. It remains uncertain as of now what exactly caused the crash, but financial experts suspect that this might foreshadow a more serious economic crisis."
  news.47.a: "Let's hope it doesn't spiral out of control..."
- news.56.t: "Lavreotika Affair" #NT!
- news.56.d: "In 1864, Serpieri founded the Italian-French company Hilarion Roux & Cie in the port of Ergastiriacchia, Port of Laurio. The company undertook the exploitation of ancient mines and the mining of silver-bearing lead ores. In 1865 it opened a fully equipped plant with 18 furnaces, small ore washing facilities and a railway system. The company continued to expand rapidly. By 1867, it employed 1,200 workers, a record number compared to contemporary employment figures for the entire country.\n\n In the spring of 1871, the Franco-Italian Company began to make profits, especially when it began to mine in situ and slag. In the spring of 1871, however, France found itself in a delicate diplomatic situation after its defeat by Prussia. Greece tried to take advantage of this to improve its economic situation." #NT!
- news.56.a: "" #NT!
+ news.56.t: "Lavreotika Affair"
+ news.56.d: "In 1864, Serpieri founded the Italian-French company Hilarion Roux & Cie in the port of Ergastiriacchia, Port of Laurio. The company undertook the exploitation of ancient mines and the mining of silver-bearing lead ores. In 1865 it opened a fully equipped plant with 18 furnaces, small ore washing facilities and a railway system. The company continued to expand rapidly. By 1867, it employed 1,200 workers, a record number compared to contemporary employment figures for the entire country.\n\n In the spring of 1871, the Franco-Italian Company began to make profits, especially when it began to mine in situ and slag. In the spring of 1871, however, France found itself in a delicate diplomatic situation after its defeat by Prussia. Greece tried to take advantage of this to improve its economic situation."
+ news.56.a: ""
   
   #GER FLAVOUR NEWS EVENTS 
  news.51.t: "Excavations at Hisarlik - Priam's Treasure Found"
@@ -745,8 +748,8 @@
  generic.11.d: "This mod has a feature called \"Historical Flavor\", which, if enabled, from time to time will have events pop up providing the player with historical information about certain situations, historical figures, or events. This feature does not affect gameplay and is purely for educational and immersion purposes. Whether it is enabled is selected here.\n\nWhen playing in multiplayer, only the Host will see these events."
  generic.11.a: "Toggle Historical Flavor ON"
  generic.11.b: "Toggle Historical Flavor OFF"
- eoanb_tt_generic_1_a: "We will pursue a policy of increased §Ycentralization§!." #NT!
- eoanb_tt_generic_1_b: "We will pursue a policy of increased §Ydecentralization§!." #NT!
+ eoanb_tt_generic_1_a: "We will pursue a policy of increased §Ycentralization§!."
+ eoanb_tt_generic_1_b: "We will pursue a policy of increased §Ydecentralization§!."
  afr_colony_generic.1.t: "Our future Policy"
  afr_colony_generic.1.d: "Should we push for centralization or grant more regional autonomy? Both choices could have a serious impact on the future of our administration..."
  afr_colony_generic.1.a: "Centralize our government!"
@@ -939,7 +942,11 @@
  secondfijiexpedition.4.d: "Our man have taken the village, neutralized its defenders, and destroyed it!"
  secondfijiexpedition.4.a: "That will teach them not to mess with the USA!"
   
-  #Second Schleswig War 
+  ### SECOND SCHLESWIG WAR ### 
+ eoanb_flag_second_schleswig_war: "The Second Schleswig War is currently ongoing."
+ eoanb_flag_second_schleswig_war_gc: "The Second Schleswig War is currently ongoing."
+ eoanb_flag_second_schleswig_war_trias: "The (alt-history) Second Schleswig War (under Saxon leadership) is currently ongoing." #NT!
+ eoanb_flag_second_schleswig_war_end: "The Second Schleswig War has ended."
  secschwar.1.t: "A New Constitution for [DEN.GetNameDef]"
  secschwar.1.d: "Ever since the First Schleswig War and the London Protocol of 1852, the duchies to the south have been separated from the constitution of [DEN.GetNameDef]. This situation cannot possibly be tolerated any longer. We will have to find a way to integrate them into the nation state more strongly. Integrating Schleswig, which is not part of the German Confederation, into a closer personal union would be a big step forward."
  secschwar.1.a: "Frem!"
@@ -1042,8 +1049,6 @@
  secschwar.30.d: "The Danish are still refusing to give in to our demands. This means war! We will give the order to cross the Eider river within the next hours."
  secschwar.30.a: "Zu den Waffen!"
  eoanb_tt_event_secschwar_30: "§YWe will declare war on [DEN.GetNameDef]. Our target is to take the Duchy of Schleswig, meaning the two states north of Holstein.§!"
- eoanb_flag_second_schleswig_war: "The Second Schleswig War is currently ongoing."
- eoanb_flag_second_schleswig_war_end: "The Second Schleswig War has ended." #NT!
  secschwar.31.t: "Declaration of War against Denmark"
  secschwar.31.d: "Prussia has already declared war on [DEN.GetNameDef]. We will fulfill our agreement and join the war for the liberation of Schleswig."
  secschwar.31.a: "Zu den Waffen!"
@@ -1118,7 +1123,6 @@
  secschwar.49.d: "The Danish are still refusing to give in to our demands. This means war! We will give the order to cross the Eider river within the next hours."
  secschwar.49.a: "Zu den Waffen!"
  eoanb_tt_event_secschwar_49: "§YWe will declare war on [DEN.GetNameDef]. The other member states of the German Confederation will join us, as resolved through the federal execution.§!"
- eoanb_flag_second_schleswig_war_gc: "The Second Schleswig War is currently ongoing."
  secschwar.50.t: "Declaration of War against Denmark"
  secschwar.50.d: "Prussia has already declared war on [DEN.GetNameDef]. We will fulfill our agreement and join the war for the liberation of Schleswig."
  secschwar.50.a: "Zu den Waffen!"
@@ -1179,6 +1183,7 @@
  secschwar.67.t: "Attempt to Extend November Constitution to Holstein"
  secschwar.67.d: "Following our glorious victory in Holstein, we certainly need to take advantage of the situation. The November Constitution was devised as a compromise with regard to the special status of the duchies in the south, but now that Holstein has been freed from German occupation we should seize the opportunity to end Holstein's membership of the German Confederation and to extend the November Constitution to the Duchy of Holstein as well."
  secschwar.67.a: "Good idea."
+ secschwar.67.b: "Settle for Schleswig and let Holstein be free." #NT!
  secschwar.68.t: "Threaten War over the Duchy of Holstein"
  secschwar.68.d: "The peace talks have commenced and Denmark is looking to extend the November Constitution to Holstein and with that to end the membership of the duchy in the German Confederation and fully bind it to their kingdom constitutionally. This is another act of Danish insolence, the German public will be even more furious if this becomes public knowledge. We must not cave in to these impudent demands!"
  secschwar.68.a: "Holstein needs to be German!"
@@ -1268,7 +1273,7 @@
  secschwar.94.t: "Glücksburg Peace Treaty of [GetYear]"
  secschwar.94.d: "Despite our mediocre performance on the battlefield, the Duchy of Holstein and the predominantly German part of Schleswig have been freed from foreign oppression. Let's try to forget about our failure and be happy with the outcome of the peace negotiations."
  secschwar.94.a: "Three hoorays for Holstein and Duke Friedrich!"
-  #Danish Civil War 
+  #Danish Civil War alt-history scenario 
  secschwar.95.t: "The King Refuses to Sign the Constitution into Law"
  secschwar.95.d: ""
  secschwar.95.a: ""
@@ -1287,6 +1292,118 @@
  secschwar.100.t: "The Danish Civil War of [GetYear]"
  secschwar.100.d: ""
  secschwar.100.a: "So be it!"
+  #Trias alt-history scenario 
+ secschwar.501.t: "Vote on Activation of Federal Intervention against Denmark" #NT!
+ secschwar.501.d: "The German middle powers have unanimously put forward a motion to turn the current federal execution against Denmark into a proper intervention. This would mean war against Denmark to once and for all resolve the Schleswig-Holstein question in what we perceive would be the best interest of Germany and the Germans. The federal army currently deployed around Holstein would be expanded by troops of the motion's signatories in order to mount a serious offensive against the Danish fortifications behind the river Eider.\n\nTo be passed into action, however, the motion needs to find a two-thirds majority in the Federal Convention of the German Confederation. The other member states of the German Confederation now have to cast their votes. We can relatively safely rely on half of the votes to be in favour, but we still need support from some of the other German states to have a chance of passing the motion." #NT!
+ secschwar.501.a: "Let's hope we can get the necessary majority." #NT!
+ secschwar.502.t: "Vote on Activation of Federal Intervention against Denmark" #NT!
+ secschwar.502.d: "Led by the [SAX.GetName], the German middle powers have unanimously put forward a motion to turn the discussed federal execution against Denmark into a proper intervention. This would mean war against Denmark to once and for all resolve the Schleswig-Holstein question in - what they claim - 'the best interest of Germany and the Germans'. The federal army currently deployed in Holstein would be expanded by troops of the motion's signatories in order to mount a serious offensive against the Danish fortifications behind the river Eider.\n\nTo be passed into action, however, the motion needs to find a two-thirds majority in the Federal Convention of the German Confederation. The motion now lies before us. How should we decide?" #NT!
+ secschwar.502.a: "Vote in favour of the motion." #NT!
+ secschwar.502.b: "Vote against the motion." #NT!
+ secschwar.503.t_enough_support: "The Motion Passes" #NT!
+ secschwar.503.t_not_enough_support: "The Motion Fails" #NT!
+ secschwar.503.d_enough_support: "With [?SAX.GC_federal_intervention|0+] to [?no_votes_var|0-] votes the motion to turn the active federal execution against Denmark into a proper intervention has successfully secured the necessary two-thirds majority in the Federal Convention of the German Confederation. This means that we can now move forward according to the stipulations of the protocol which put the duty of military intervention against Denmark into the hands of the seven signatories of the motion." #NT!
+ secschwar.503.d_not_enough_support: "With [?SAX.GC_federal_intervention|0+] to [?no_votes_var|0-] votes the motion to turn the active federal execution against Denmark into a proper intervention has failed to secure the necessary two-thirds majority in the Federal Convention of the German Confederation. This means that we cannot move forward with our plan without causing great disturbance among German and international politics - a risk we can't possibly take in the current state of affairs." #NT!
+ secschwar.503.a: "Prepare for War!" #NT!
+ secschwar.503.b: "That is so very disappointing..." #NT!
+ secschwar.504.t: "Motion for Federal Intervention Against Denmark Granted" #NT!
+ secschwar.504.d: "The voting procedure regarding the possible federal intervention against Denmark is complete and the results are official. With [?SAX.GC_federal_intervention|0+] to [?no_votes_var|0-] votes the motion secured the necessary two-thirds majority and shall be put into action." #NT!
+ secschwar.504.a: "That will mean war!" #NT!
+ secschwar.505.t: "Motion for Federal Intervention Against Denmark Denied" #NT!
+ secschwar.505.d: "The voting procedure regarding the possible federal intervention against Denmark is complete and the results are official. With [?SAX.GC_federal_intervention|0+] to [?no_votes_var|0-] votes the motion failed to secure the necessary two-thirds majority and, thus, will not be put into action." #NT!
+ secschwar.505.a: "Ok then." #NT!
+  
+ secschwar.511.t: "Denmark's Response to Saxony's Ultimatum" #NT!
+ secschwar.511.d: "The government of the [SAX.GetName] has issued an ultimatum to us demanding that we vacate the Duchy of Schleswig and abolish the November Constitution within 72 hours or the German Confederation will activate the granted motion of federal intervention against us. Accepting the ultimatum in due time, however, is not possible without overthrowing our government and sacrificing our most vital defensive positions. The public will be absolutely outraged should we give in to the Germans' demands. How will we respond?" #NT!
+ secschwar.511.a: "We will not yield one inch of Danish territory!" #NT!
+ secschwar.511.b: "We have no other choice but to back down..." #NT!
+ secschwar.512.t: "Denmark's Ultimatum Has Expired" #NT!
+ secschwar.512.d: "The government of the [DEN.GetName] has thus far failed to accept our ultimatum. They have been acting up for long enough - it is time for war! The German people of Schleswig-Holstein will be freed from their oppressors after all and a new German middle state shall be born!" #NT!
+ secschwar.512.a: "Onward for the Vaterland!" #NT!
+ secschwar.513.t: "Denmark Has Accepted the Ultimatum" #NT!
+ secschwar.513.d: "[DEN.GetNameDef] has accepted our ultimatum, the Danish army has retreated further north. This is a great victory not only for the German people in Schleswig-Holstein, but also for our efforts to conduct common policy among the Trias. The result will be another German middle state to act as a counterbalance to Austria and Prussia that will make it easier to secure our independence." #NT!
+ secschwar.513.a: "Great news!" #NT!
+ secschwar.514.t: "Denmark Has Accepted the Ultimatum" #NT!
+ secschwar.514.d: "[DEN.GetNameDef] has accepted the ultimatum that Saxony issued in the name of the German Confederation. The Danish army has vacated the Duchies of Schleswig and Holstein. This is a great victory not only for the German people in Schleswig-Holstein, but also for the efforts of the German middle states who have conducted a common policy not many thought possible. Anyway, the [SCH.GetName] will finally be free from foreign oppression." #NT!
+ secschwar.514.a: "Great news!" #NT!
+ secschwar.515.t: "Denmark Has Accepted the Ultimatum" #NT!
+ secschwar.515.d: "[DEN.GetNameDef] has accepted the ultimatum that Saxony issued in the name of the German Confederation. The Danish army has vacated the Duchies of Schleswig and Holstein. Many consider this is a great victory not only for the German people in Schleswig-Holstein, but also for the efforts of the German middle states who have conducted an efficient and successful common policy. However, our noticeable absence from the decision-making process before the motion came to be voted upon in the Federal Convention certainly questions our dominance within the German Confederation." #NT!
+ secschwar.515.a: "We will have to wary of these developments." #NT!
+ secschwar.516.t: "Denmark Accepts German Ultimatum" #NT!
+ secschwar.516.d: "[DEN.GetNameDef] has accepted an ultimatum that Saxony issued in the name of the German Confederation. The Danish army has vacated the Duchies of Schleswig and Holstein in Northern Germany. This is a great victory not only for the German people in Schleswig-Holstein, but also for the efforts of the German middle states who have conducted a common policy not many thought possible. The noticeable absence of the [AUS.GetName] and the [PRS.GetName] from the decision-making process prior to the issue of the ultimatum certainly questions their dominance within the German Confederation." #NT!
+ secschwar.516.a: "Hm, seems like the tides might be changing in the German Confederation." #NT!
+ secschwar.517.t: "Declare War on Denmark" #NT!
+ secschwar.517.d: "The time has come to resolve the Schleswig-Holstein questions on the battlefield. We are determined that with faith in God and the fatherland as well as the support of our allies, we shall crush the Danish resistance and liberate the Duchies of Schleswig and Holstein from their oppression." #NT!
+ secschwar.517.a: "Forward!" #NT!
+ secschwar.518.t: "Join the War against Denmark" #NT!
+ secschwar.518.d: "The time has come to resolve the Schleswig-Holstein questions on the battlefield. We are determined that with faith in God and the fatherland as well as the support of our allies, we shall crush the Danish resistance and liberate the Duchies of Schleswig and Holstein from their oppression." #NT!
+ secschwar.518.a: "Forward!" #NT!
+  
+ secschwar.521.t: "We have to Sue for Peace" #NT!
+ secschwar.521.d: "We are beaten. Our armies are either hopelessly surrounded or on the run from German forces until they suffer the same fate. We need to stop the bloodshed before it's too late. Let's ask the Germans for peace." #NT!
+ secschwar.521.a: "En sort dag for Danmark..." #NT!
+ secschwar.522.t: "Denmark Sues for Peace" #NT!
+ secschwar.522.d: "The Danes have had enough of the bloodshed in a war they cannot win. We emerge victorious and have thus proven that the Trias can cooperate successfully when all middle powers are acting in accord with one another." #NT!
+ secschwar.522.a: "A giant leap for the Trias indeed!" #NT!
+ secschwar.523.t: "Peace of Flensburg" #NT!
+ secschwar.523.d: "[DEN.GetNameDef] was forced today to sign the Peace of Flensburg. The German Duchies will once again be ruled independently by a German prince and the fact that the Trias worked together so successfully surely is a welcome sign of what is yet to come." #NT!
+ secschwar.523.a: "A good day for Germany!" #NT!
+ secschwar.524.t: "End of the Second Schleswig War - Victory for the Germans" #NT!
+ secschwar.524.d: "\n[DEN.GetNameDef] was forced today to sign the Peace of Flensburg with the German Confederation. The German Duchies of Schleswig and Holstein will once again be ruled independently by a German prince. What is more surprising is the fact that the issues was not resolved by either of the German great powers, Austria or Prussia, but by the cooperation of the German middle states who worked together successfully acting in accord with one another." #NT!
+ secschwar.524.a: "Interesting." #NT!
+  
+ secschwar.531.t: "We Need to Seek a Peace Deal" #NT!
+ secschwar.531.d: "We have been beaten by Denmark in Holstein, this is a fact we will have to accept... The Danes have signalled their willingness to begin peace talks. Since we have been beaten on the battlefield, our bargaining position is certainly not ideal, although the German public is still vociferously demanding satisfaction from Denmark..." #NT!
+ secschwar.531.a: "We can only hope for a reasonable solution..." #NT!
+ secschwar.532.t: "Forced to Sign Armistice" #NT!
+ secschwar.532.d: "Our troops have been beaten by Denmark in Holstein, this is a fact we will have to accept... The Danes have signalled their willingness to begin peace talks. Since we have been beaten on the battlefield, our bargaining position is certainly not ideal, although the German public is still vociferously demanding satisfaction from Denmark..." #NT!
+ secschwar.532.a: "We can only hope for a reasonable solution..." #NT!
+ secschwar.533.t: "Victory over the Germans" #NT!
+ secschwar.533.d: "Following our victory on the battlefield, the Germans have approached us with a request for truce. We shall accept their offer and begin peace talks to find a satisfying solution to the Schleswig-Holstein question." #NT!
+ secschwar.533.a: "Let's find a lasting solution." #NT!
+ secschwar.534.t: "Attempt to Extend November Constitution to Holstein?" #NT!
+ secschwar.534.d: "Following our glorious victory in Holstein, we could certainly take advantage of the situation. The November Constitution was devised as a compromise with regard to the special status of the Duchy of Holstein in the south, but now that they have been firmly reestablished under our control we could seize the opportunity to end Holstein's membership of the German Confederation and to extend the November Constitution to the Duchy of Holstein as well. Should we go ahead with that?" #NT!
+ secschwar.534.a: "Good idea." #NT!
+ secschwar.534.b: "Settle for Schleswig and let Holstein be free." #NT!
+ secschwar.535.t: "Threaten War over the Duchy of Holstein" #NT!
+ secschwar.535.d: "The peace talks with Denmark have recently commenced but the Danish government is looking to extend the November Constitution to Holstein and with that to end the membership of the Duchy in the German Confederation and fully bind it to their realm constitutionally. This is another act of Danish insolence, the German public will be even more furious if this becomes public knowledge. We must not cave in to these impudent demands!" #NT!
+ secschwar.535.a: "Tell them this time we would get involved!" #NT!
+ secschwar.535.b: "Austria and Prussia won't let this happen, will they?" #NT!
+ secschwar.536.t: "Austria and Prussia Threaten War over the Duchy of Holstein" #NT!
+ secschwar.536.d: "News reaches us that Austria and Prussia are poised to go to war if we extend the November Constitution to Holstein - in fact, they demand that we release the Duchy as an independent member of the German Confederation. Some foreign diplomats point to the stipulations of the London Protocol, but that was nullified anyway, at least as far as we are concerned. They have, however, expressed their sympathies for the Germans' demands. We simpley cannot risk a war with the German hegemons without international support, though..." #NT!
+ secschwar.536.a: "Let's end the bloodshed." #NT!
+ secschwar.537.t: "London Peace Treaty of [GetYear]" #NT!
+ secschwar.537.d: "The international delegates have just signed the London Peace Treaty of [GetYear] to put an end to the Second Schleswig War. Although many in Denmark feel robbed of the fruits of their military victory, the Danes have shown the world that they are no pushovers, and their main target, the preservation of the November Constitution, was successful. Further demands might have provoked a war with even worse odds than the first time, so the Danish government decided to get what they can.\n\nIn the eyes of the German delegation, the worst has been averted and the Duchy of Holstein remains part of the German Confederation in independence with a German prince and German leadership. In light of their shortcomings on the battlefield, they can be very happy with the results of the peace talks and will have to make sure something like this does not repeat." #NT!
+ secschwar.537.a: "So be it." #NT!
+ secschwar.537.b: "Three hoorays for Holstein and Duke Friedrich!" #NT!
+ secschwar.538.t: "End of the Second Schleswig War - Victory for the Danes" #NT!
+ secschwar.538.d: "\nThe Second Schleswig War has come to an end. Although, Denmark has surprisingly won on the battlefield, the German public's sentiment rendered it virtually impossible for the Danes to maximize their gains. Whilst the November Constitution will remain in place and Schleswig will finally be a constitutionally sanctioned part of Denmark, the Duchy of Holstein will be freed from foreign rulership and placed under a German noble house with a legitimate claim to its throne. Holstein will also become a member of the German Confederation. This solution seems to constitute the best warrant for a sustainable peace in the region." #NT!
+ secschwar.538.a: "An interesting development." #NT!
+  
+ secschwar.541.t: "Stalemate in Schleswig-Holstein" #NT!
+ secschwar.541.d: "Although the Second Schleswig War has been going for a while, no clear victor has emerged so far. To avoid further bloodshed, the belligerents have agreed to a truce and will try to work out their differences diplomatically from here." #NT!
+ secschwar.541.a: "Time to mourn the death." #NT!
+ secschwar.542.t: "Stalemate in Schleswig-Holstein" #NT!
+ secschwar.542.d: "Although the Second Schleswig War has been going for a while, no clear victor has emerged so far. To avoid further bloodshed, the belligerents have agreed to a truce and will try to work out their differences diplomatically from here." #NT!
+ secschwar.542.a: "Time to mourn the death." #NT!
+ secschwar.543.t: "Stalemate in Schleswig-Holstein" #NT!
+ secschwar.543.d: "Although the Second Schleswig War has been going for a while, no clear victor has emerged so far. To avoid further bloodshed, the belligerents have agreed to a truce and will try to work out their differences diplomatically from here." #NT!
+ secschwar.543.a: "Time to mourn the death." #NT!
+ secschwar.544.t_den: "Lyksborg Peace Treaty of [GetYear]" #NT!
+ secschwar.544.t_ger: "Glücksburg Peace Treaty of [GetYear]" #NT!
+ secschwar.544.d_den: "The international delegates have just signed the Lyksborg Peace Treaty of [GetYear] to finally put an end to the Second Schleswig War. Although many in Denmark feel robbed of the fruits of our brave endurance and fighting spirit against the Germans, we have shown the world that we are no pushovers, and our main target, the preservation of the November Constitution, was successful. Further demands might have provoked a future war with even worse odds than this time, we will have to live with what we got." #NT!
+ secschwar.544.d_ger: "Thanks to the far-sighted prudence that the Danes have shown, we can be happy with the result of the peace negotiations at Glücksburg. Although we have not been victorious on the battlefield, the Duchy of Holstein and the predominantly German part of Schleswig have been freed from foreign influence and the King of Denmark no longer has a seat in the German Confederation's National Assembly. Nevertheless, we haven't fulfilled our war objectives against what is a secondary power at best... In light of our own shortcomings, we can be very happy with the results of the conference and will have to make sure something like this does not repeat." #NT!
+ secschwar.544.a: "So be it." #NT!
+ secschwar.545.t: "End of the Second Schleswig War - Stalemate" #NT!
+ secschwar.545.d: "The Second Schleswig War has finally come to an end. Although, Denmark was surprisingly able to resist the advances of its German opponents, the German public's sentiment rendered it virtually impossible for the Danes to profit too much. Whilst the November Constitution will remain in place, it will only apply to North Schleswig, which will become a constitutionally sanctioned part of Denmark. The southern part of Schleswig, which is predominantly German-speaking, and the Duchy of Holstein will be freed and placed under a German noble house with a legitimate claim to its throne. The now independent Duchy of Holstein will become a member of the German Confederation. This solution seems to constitute the best warrant for a sustainable peace in the region." #NT!
+ secschwar.545.a: "Let's hope so." #NT!
+  
+ secschwar.551.t: "[ROOT.GetNameDef] Finally Free" #NT!
+ secschwar.551.d: "Following the Peace Treaty with Denmark, the [ROOT.GetName] has finally been freed from its oppressors and put under a German monarch!" #NT!
+ secschwar.551.a: "Wohlan!" #NT!
+ secschwar.552.t: "[FROM.GetNameDef] - an Independent Member of the German Confederation" #NT!
+ secschwar.552.d: "Following the liberation from Danish oppression, the [FROM.GetName] has been solemnly admitted into the German Confederation. This is a proud day for all Germans!" #NT!
+ secschwar.552.a: "Hail Germany and hail Friedrich VIII!" #NT!
   
   #Heir System 
  eoanb_tt_event_heir_1_desperate: "§YWe will take most people as long as they have a somewhat valid claim.§!"
@@ -1554,7 +1671,7 @@
  sevenweekswar.47.d: "Following the granting of federal execution against our country in a matter that should only concern Austria and Prussia, the [PRS.GetName] regards said resolution as illicit and declares the German Confederation dissolved. This also marks the end of the Secret Police Union."
  sevenweekswar.47.a: "Zu den Waffen, Gott ist mit uns!"
  eoanb_flag_seven_weeks_war_ongoing: "The §YGerman War§! is currently ongoing."
- eoanb_flag_seven_weeks_war_end: "The §YGerman War§! has ended." #NT!
+ eoanb_flag_seven_weeks_war_end: "The §YGerman War§! has ended."
  PRS_declares_german_war: "§RThis means war!§! \n§YTaking Prague will greatly aid our chances of victory.§!\n"
  sevenweekswar.48.t: "Placeholder - Federal Execution Denied"
  sevenweekswar.48.d: ""
@@ -2203,36 +2320,36 @@
  lux_crisis.76.t: "The Peace of Luxembourg of [GetYear]"
  lux_crisis.76.d: "The peace talks following the ceasefire between the [FRA.GetName] and the [PRS.GetName] have reached a conclusion. The stipulations agreed upon will now be implemented, and peace has finally been restored for the foreseeable future. Many lives have been lost in this conflict, for a result that could have been achieved without a single shot fired, and the nations involved will certainly take some time to recover from this."
  lux_crisis.76.a: "Ok then, time to move on."
- lux_crisis.81.t: "Growing closer to [AUS.GetName] and Italy" #NT!
- lux_crisis.81.d: "Following the developments of the Luxembourg Crisis, our diplomats report that Austria and Italy are sympathetic to our struggle with the Prussians. For the time being it looks like we have at least improved our diplomatic reputation with these two countries, despite not being able to pursue our agenda in Luxembourg to full extent." #NT!
- lux_crisis.81.a: "Perhaps something to build on?" #NT!
- lux_crisis.82.t: "Growing closer to France" #NT!
- lux_crisis.82.d: "Following the developments of the Luxembourg Crisis, our diplomats can't help but feel sympathetic to the French amidst their struggle with the Prussians. The Prussians are causing quite a lot of trouble on the international stage and it might be advisable to improve our mutual relations with the other powers. For the time being we can at least count on French amity." #NT!
- lux_crisis.82.a: "Perhaps something to build on?" #NT!
- lux_crisis.83.t: "Possibility for an alliance?" #NT!
- lux_crisis.83.d: "The encouraging news about improving diplomatic relations with Austria and Italy could bear the possibility for an alliance against Prussia in the future. Although many at Quai d'Orsay believe this to be a long shot, we could test the waters with either one or even both of the other powers. The potential benefits are significant, but failure could also hurt our prestige and cost us even more support at home. How do we proceed?" #NT!
- lux_crisis.83.a: "Yes, try to form an alliance." #NT!
- lux_crisis.83.b: "No, it's not worth the effort." #NT!
- lux_crisis.84.t: "Possibility for an alliance with France?" #NT!
- lux_crisis.84.d: "The French have been encouraged by the news about improving diplomatic relations with us. They believe that this could be the basis for an alliance against Prussia in the future. Although many at our foreign ministry believe this to be a long shot, an agreement could potentially be beneficial. Failure, however, could also hurt our prestige and cost us support at home. How shall we respond to the French inquiry?" #NT!
- lux_crisis.84.a: "Yes, that could be possible." #NT!
- lux_crisis.84.b: "No, it's not worth the effort." #NT!
- lux_crisis.85.t: "[FROM.GetNameDef] Agrees to Diplomatic Talks" #NT!
- lux_crisis.85.d: "[FROM.GetName]'s diplomats have signalled their willingness to commence diplomatic talks over a possible alliance in the future. We should prepare ourselves and invite them to more serious talks once we are ready." #NT!
- lux_crisis.85.a: "Good news." #NT!
- lux_crisis.86.t: "[FROM.GetNameDef] not Interested in Diplomatic Talks" #NT!
- lux_crisis.86.d: "[FROM.GetName]'s diplomats have signalled their unwillingness to commence diplomatic talks over a possible alliance at this point. This seems to confirm the sceptics in our foreign ministry, but it was worth a try. Perhaps the [FROM.GetAdjective] diplomats will change their stance in the future?" #NT!
- lux_crisis.86.a: "Too bad." #NT!
+ lux_crisis.81.t: "Growing closer to [AUS.GetName] and Italy"
+ lux_crisis.81.d: "Following the developments of the Luxembourg Crisis, our diplomats report that Austria and Italy are sympathetic to our struggle with the Prussians. For the time being it looks like we have at least improved our diplomatic reputation with these two countries, despite not being able to pursue our agenda in Luxembourg to full extent."
+ lux_crisis.81.a: "Perhaps something to build on?"
+ lux_crisis.82.t: "Growing closer to France"
+ lux_crisis.82.d: "Following the developments of the Luxembourg Crisis, our diplomats can't help but feel sympathetic to the French amidst their struggle with the Prussians. The Prussians are causing quite a lot of trouble on the international stage and it might be advisable to improve our mutual relations with the other powers. For the time being we can at least count on French amity."
+ lux_crisis.82.a: "Perhaps something to build on?"
+ lux_crisis.83.t: "Possibility for an alliance?"
+ lux_crisis.83.d: "The encouraging news about improving diplomatic relations with Austria and Italy could bear the possibility for an alliance against Prussia in the future. Although many at Quai d'Orsay believe this to be a long shot, we could test the waters with either one or even both of the other powers. The potential benefits are significant, but failure could also hurt our prestige and cost us even more support at home. How do we proceed?"
+ lux_crisis.83.a: "Yes, try to form an alliance."
+ lux_crisis.83.b: "No, it's not worth the effort."
+ lux_crisis.84.t: "Possibility for an alliance with France?"
+ lux_crisis.84.d: "The French have been encouraged by the news about improving diplomatic relations with us. They believe that this could be the basis for an alliance against Prussia in the future. Although many at our foreign ministry believe this to be a long shot, an agreement could potentially be beneficial. Failure, however, could also hurt our prestige and cost us support at home. How shall we respond to the French inquiry?"
+ lux_crisis.84.a: "Yes, that could be possible."
+ lux_crisis.84.b: "No, it's not worth the effort."
+ lux_crisis.85.t: "[FROM.GetNameDef] Agrees to Diplomatic Talks"
+ lux_crisis.85.d: "[FROM.GetName]'s diplomats have signalled their willingness to commence diplomatic talks over a possible alliance in the future. We should prepare ourselves and invite them to more serious talks once we are ready."
+ lux_crisis.85.a: "Good news."
+ lux_crisis.86.t: "[FROM.GetNameDef] not Interested in Diplomatic Talks"
+ lux_crisis.86.d: "[FROM.GetName]'s diplomats have signalled their unwillingness to commence diplomatic talks over a possible alliance at this point. This seems to confirm the sceptics in our foreign ministry, but it was worth a try. Perhaps the [FROM.GetAdjective] diplomats will change their stance in the future?"
+ lux_crisis.86.a: "Too bad."
   
   #Franco-Prussian War 
  eoanb_flag_franco_prussian_war_ongoing: "The Franco-Prussian War is currently ongoing."
- eoanb_threat_franco_prussian_war: "Franco-Prussian War" #NT!
+ eoanb_threat_franco_prussian_war: "Franco-Prussian War"
  eoanb_tt_PRS_lost_fpw: "We will annex some German territory. Additionally, the southern German states will be strengthened, while Prussia will be weakened."
  eoanb_tt_PRS_won_fpw: "We will annex Alsace and the Southern German States. France will be weakened."
  fraprswar.1.t: "A Candidate for the Spanish Throne?"
  fraprswar.1.d: "One of our nobles has qualified for the Spanish Throne recently, we have the opportunity to lay claim to it and expand our influence now."
  fraprswar.1.a: "Sounds like a good opportunity..."
- eoanb_leopold_spanish_throne_candidate_effect_tt: "We will designate §YLeopold of Hohenzollern§! as candidate for the §YSpanish Throne§! and ." #NT!
+ eoanb_leopold_spanish_throne_candidate_effect_tt: "We will designate §YLeopold of Hohenzollern§! as candidate for the §YSpanish Throne§! and ."
  fraprswar.2.t: "Leopold of Prussia claims Spanish inheritance"
  fraprswar.2.d: "A Prussian noble has laid claim to the Spanish Throne! Leopold von Hohenzollern-Sigmaringen has named himself as the rightful successor to the Spanish Monarch family..."
  fraprswar.2.a: "We must contest his claim!"
@@ -2240,46 +2357,46 @@
  fraprswar.3.d: "France has demanded that we withdraw Leopolds claim to the Spanish Throne!"
  fraprswar.3.a: "Leopold accepts."
  fraprswar.3.b: "Leopold refuses."
- fraprswar.3.c: "Will we finally have a new king?" #NT!
+ fraprswar.3.c: "Will we finally have a new king?"
  fraprswar.4.t: "Leopold von Hohenzollern-Sigmaringen refuses!"
  fraprswar.4.d: "The Prussian Noble Leopold von Hohenzollern-Sigmaringen has refused to withdraw his claim! This is an aggressive act of disrespect towards us..."
  fraprswar.4.a: "We cannot let this stand."
- eoanb_contest_leopolds_candidacy_effect_tt: "We will demand that §YLeopold of Hohenzollern§! backs down from his candidacy for the §YSpanish Throne§!." #NT!
+ eoanb_contest_leopolds_candidacy_effect_tt: "We will demand that §YLeopold of Hohenzollern§! backs down from his candidacy for the §YSpanish Throne§!."
  fraprswar.4.b: "We have to back down..."
- eoanb_accept_leopolds_candidacy_effect_tt: "§ROur neighbors but especially our own people will perceive this as extremely weak, which may lead to increasing unrest or even a revolution against the reign of His Majesty.§!" #NT!
+ eoanb_accept_leopolds_candidacy_effect_tt: "§ROur neighbors but especially our own people will perceive this as extremely weak, which may lead to increasing unrest or even a revolution against the reign of His Majesty.§!"
  fraprswar.5.t: "The French Demands"
  fraprswar.5.d: "France has made some demands that would massively impact our political power in Europe after the claim crisis. What will our response to this event be?"
  fraprswar.5.a: "Do they think we will just succumb?!"
  fraprswar.5.b: "We can accept those restrictions."
- PRS_refuse_to_back_down_effect_tt: "If France decides to remain steadfast in their refusal to accept a Hohenzollern king on the Spanish throne, this could lead to §Rwar with France§!. In case the situation escalates into war, the chances that the §YSouth German states§! will stand by our side are §Rvery small§!." #NT!
+ PRS_refuse_to_back_down_effect_tt: "If France decides to remain steadfast in their refusal to accept a Hohenzollern king on the Spanish throne, this could lead to §Rwar with France§!. In case the situation escalates into war, the chances that the §YSouth German states§! will stand by our side are §Rvery small§!."
  fraprswar.6.t: "Leopold von Hohenzollern-Sigmaringen accepts!"
  fraprswar.6.d: "The Prussian noble has accepted our demands and withdrawn his claim to the Spanish Throne."
  fraprswar.6.a: "Let's go a bit further and make sure they never claim the throne again."
- FRA_demand_guarantee_effect_tt: "If the Hohenzollern refuse to provide a guarantee of abandoning their claim to the Spanish throne for all time, this could lead to §Rwar with Prussia§!." #NT!
- fraprswar.6.b: "Accept the situation as it is." #NT!
+ FRA_demand_guarantee_effect_tt: "If the Hohenzollern refuse to provide a guarantee of abandoning their claim to the Spanish throne for all time, this could lead to §Rwar with Prussia§!."
+ fraprswar.6.b: "Accept the situation as it is."
  fraprswar.7.t: "France demands no further claims"
  fraprswar.7.d: "After Leopolds show of weakness, the French appear to think that they can push us further and have demanded that we cease laying claims to foreign thrones entirely! This is an insult to our political position on the world stage!"
  fraprswar.7.a: "Refuse their ridiculous request."
  fraprswar.7.b: "Leave the affair to Bismarck."
- eoanb_accept_leopolds_backing_off_effect_tt: "§ROur people will perceive this as weak, which may lead to increasing unrest against the reign of His Majesty.§!" #NT!
+ eoanb_accept_leopolds_backing_off_effect_tt: "§ROur people will perceive this as weak, which may lead to increasing unrest against the reign of His Majesty.§!"
  fraprswar.8.t: "Prussia refuses!"
  fraprswar.8.d: "The Prussian rulership has refused our demands and will continue to claim thrones around Europe as they please..."
  fraprswar.8.a: "They must be taught a lesson!"
- fraprswar.8.b: "This should de-escalate the situation." #NT!
- south_germans_leopold_renounces_claim_effect_tt: "France should accept this and move on." #NT!
+ fraprswar.8.b: "This should de-escalate the situation."
+ south_germans_leopold_renounces_claim_effect_tt: "France should accept this and move on."
  fraprswar.9.t: "The Ems Dispatch"
  fraprswar.9.d: "Bismarck has highlighted the aggressive interventionist poliices of France, and how they threaten us with war over a mere inheritance dispute. There has been a roaring sentiment of war enthusiasm against France on the rise recently in response."
  fraprswar.9.a: "Condemn their aggressive tone."
- fraprswar.9.b: "This might escalate the crisis..." #NT!
- south_germans_leopold_forces_claim_effect_tt: "The French demands were probably justified. The Prussians seem to be pressing too much." #NT!
+ fraprswar.9.b: "This might escalate the crisis..."
+ south_germans_leopold_forces_claim_effect_tt: "The French demands were probably justified. The Prussians seem to be pressing too much."
  fraprswar.10.t: "Prussia condemns our requests."
  fraprswar.10.d: "Prussia has insulted our request for diplomatic neutrality in the affairs of hereditary monarchies, which is a grave insult to our nation! We cannot let this stand!"
  fraprswar.10.a: "That means war!"
- fraprswar.10.b: "Give in to their demands." #NT!
+ fraprswar.10.b: "Give in to their demands."
  fraprswar.11.t: "France is victorious!"
  fraprswar.11.d: "After our long and bloody campaign in Germany, we have finally managed to win the war against Prussia!"
  fraprswar.11.a: "We have won!"
- fraprswar.11.b: "Accept their refusal." #NT!
+ fraprswar.11.b: "Accept their refusal."
  fraprswar.12.t: "A call to Arms!"
  fraprswar.12.d: "Prussia has called us to arms against the French in what they describe as a national obligation. Our populace has taken to the streets in support of the Prussian effort and it would probably be wise to act in accordance with the public opinion. Should we join Prussia against France?"
  fraprswar.12.a: "Join them!"
@@ -2289,264 +2406,294 @@
  fraprswar.14.t: "We will have to pay war reparations..."
  fraprswar.14.d: "We have lost the war against the Germans... Adding insult to injury, we have not only lost Alsace and Lorraine, but we will also have to pay considerable war reparations."
  fraprswar.14.a: "A sad day for France."
- fraprswar.14.b: "Concede our diplomatic defeat..." #NT!
- fraprswar.15.t: "France Accepts our Refusal" #NT!
- fraprswar.15.d: "The French government has accepted our refusal to provide a public apology and the guarantee that we would never try to place a Hohenzollern on the Spanish throne again. This could settle the crisis once and for all, and we would come out of it without losing face.\n\nThe issue has severely angered our public, though, and there might still be a window of opportunity for us to turn the French demands into a diplomatic insult that would provoke a declaration of war by France... If we were to publish a dispatch condemning the French demands the public backlash in France might be enough to force their government's hand. So, how should we proceed?" #NT!
- fraprswar.15.a: "Publish the dispatch!" #NT!
- fraprswar.15.b: "Accept the status quo." #NT!
- fraprswar.16.t: "Prussia Publishes Insulting Dispatch" #NT!
- fraprswar.16.d: "Despite our acceptance of their refusal to provide the desired apology and guarantee, the Prussian government, led by [PRS.GetLeader], has just published a dispatch condemning our demands regarding the matter of the Spanish succession. Our press and public are absolutely fuming about this blatant insolence, and there can only be one answer now." #NT!
- fraprswar.16.a: "This means war!" #NT!
- fraprswar.17.t: "Prussia Publishes Insulting Dispatch" #NT!
- fraprswar.17.d: "The Prussian government, led by [PRS.GetLeader], has just published a dispatch, painting the picture that our ambassador, Count Benedetti, has annoyingly disturbed King Wilhelm I during his spa stay at Bad Ems with presumptuous demands with the result that the king refuses to see our ambassador again and that he had nothing further to say in the matter of Spanish succession. Our press and public are fuming about this blatant insolence, and there can only be one answer now." #NT!
- fraprswar.17.a: "This means war!" #NT!
- fraprswar.18.t: "France Prepares for War" #NT!
- fraprswar.18.d: "Our ambassador in France informs us that the French seem to be preparing for war. The time has come to resolve the conflict on the battlefield." #NT!
- fraprswar.18.a: "We will be prepared!" #NT!
- fraprswar.19.t: "Prussia Publishes Ems Dispatch" #NT!
- fraprswar.19.d: "Amidst the escalating diplomatic crisis between France and Prussia, the Prussian government, led by [PRS.GetLeader], has published a dispatch, painting the picture that French ambassador, Count Benedetti, has annoyingly disturbed Prussian King Wilhelm I during his spa stay at Bad Ems with presumptuous demands resulting in the king's refusal to meet the French ambassador again and that he had 'nothing further to say in the matter of Spanish succession'. The French press and public are fuming about this perceived Prussian insolence, and the situation seems likely to escalate as a consequence." #NT!
- fraprswar.19.a: "This will surely mean war, no?" #NT!
+ fraprswar.14.b: "Concede our diplomatic defeat..."
+ fraprswar.15.t: "France Accepts our Refusal"
+ fraprswar.15.d: "The French government has accepted our refusal to provide a public apology and the guarantee that we would never try to place a Hohenzollern on the Spanish throne again. This could settle the crisis once and for all, and we would come out of it without losing face.\n\nThe issue has severely angered our public, though, and there might still be a window of opportunity for us to turn the French demands into a diplomatic insult that would provoke a declaration of war by France... If we were to publish a dispatch condemning the French demands the public backlash in France might be enough to force their government's hand. So, how should we proceed?"
+ fraprswar.15.a: "Publish the dispatch!"
+ fraprswar.15.b: "Accept the status quo."
+ fraprswar.16.t: "Prussia Publishes Insulting Dispatch"
+ fraprswar.16.d: "Despite our acceptance of their refusal to provide the desired apology and guarantee, the Prussian government, led by [PRS.GetLeader], has just published a dispatch condemning our demands regarding the matter of the Spanish succession. Our press and public are absolutely fuming about this blatant insolence, and there can only be one answer now."
+ fraprswar.16.a: "This means war!"
+ fraprswar.17.t: "Prussia Publishes Insulting Dispatch"
+ fraprswar.17.d: "The Prussian government, led by [PRS.GetLeader], has just published a dispatch, painting the picture that our ambassador, Count Benedetti, has annoyingly disturbed King Wilhelm I during his spa stay at Bad Ems with presumptuous demands with the result that the king refuses to see our ambassador again and that he had nothing further to say in the matter of Spanish succession. Our press and public are fuming about this blatant insolence, and there can only be one answer now."
+ fraprswar.17.a: "This means war!"
+ fraprswar.18.t: "France Prepares for War"
+ fraprswar.18.d: "Our ambassador in France informs us that the French seem to be preparing for war. The time has come to resolve the conflict on the battlefield."
+ fraprswar.18.a: "We will be prepared!"
+ fraprswar.19.t: "Prussia Publishes Ems Dispatch"
+ fraprswar.19.d: "Amidst the escalating diplomatic crisis between France and Prussia, the Prussian government, led by [PRS.GetLeader], has published a dispatch, painting the picture that French ambassador, Count Benedetti, has annoyingly disturbed Prussian King Wilhelm I during his spa stay at Bad Ems with presumptuous demands resulting in the king's refusal to meet the French ambassador again and that he had 'nothing further to say in the matter of Spanish succession'. The French press and public are fuming about this perceived Prussian insolence, and the situation seems likely to escalate as a consequence."
+ fraprswar.19.a: "This will surely mean war, no?"
   
- fraprswar.28.t: "The Chassepot Gap" #NT!
- fraprswar.28.d: "The Chassepot Rifle has numerous small technological advantages over the rifles of our German adversaries. They add up and might be enough to give our infantry the edge on the battlefield." #NT!
- fraprswar.28.a: "Forward!" #NT!
- fraprswar.29.t: "Krupp Artillery" #NT!
- fraprswar.29.d: "The artillery machinery made by the Krupp company at Essen is state-of-the-art. It is superior to the artillery used by the French and are artillery brigades have an advantage on the battlefield as a result." #NT!
- fraprswar.29.a: "Forward!" #NT!
+ fraprswar.28.t: "The Chassepot Gap"
+ fraprswar.28.d: "The Chassepot Rifle has numerous small technological advantages over the rifles of our German adversaries. They add up and might be enough to give our infantry the edge on the battlefield."
+ fraprswar.28.a: "Forward!"
+ fraprswar.29.t: "Krupp Artillery"
+ fraprswar.29.d: "The artillery machinery made by the Krupp company at Essen is state-of-the-art. It is superior to the artillery used by the French and are artillery brigades have an advantage on the battlefield as a result."
+ fraprswar.29.a: "Forward!"
   
- fraprswar.31.t: "Prussian Call to Arms" #NT!
- fraprswar.31.d_forced_claim: "Prussia has called us to arms against France in what they describe as a national obligation. Nationalist-minded parts of our population have taken to the streets in support of the Prussian effort. The Prussians have, however, pressed their interests quite far and the irreconcilable behaviour of Prussian diplomacy has contributed a lot to escalating the crisis. Nonetheless, public opinion is sympathetic with Prussia, although some openly criticise the Prussian government. So, should we join Prussia in their war against France?" #NT!
- fraprswar.31.d_renounced_claim: "Prussia has called us to arms against France in what they describe as a national obligation. Our population has taken to the streets in support of the Prussian effort that they deem justified given the irreconcilable behaviour of French diplomacy. It would probably be wise to act in accordance with public opinion, else we might risk a potential overthrow in either case. So, should we join Prussia in their war against France?" #NT!
- fraprswar.31.a: "We will stand by their side!" #NT!
- fraprswar.31.b: "This is not our war to fight." #NT!
- south_germans_refuse_to_join_FPW_effect_tt: "This currently means §Rannexation§! in case of a Prussian victory." #NT!
- fraprswar.32.t: "French Army Defeated and Napoleon III Captured" #NT!
- fraprswar.32.d: "The last fort along the border has fallen, the French army remains defeated on the battlefield - a humiliation for France. To add insult to injury, French emperor Napoleon III has been captured by German troops who had encircled French forces in the region. The way to Paris now lies open to German forces and it could only be a matter of time until the French capital is controlled by soldiers wearing the Pickelhaube." #NT!
- fraprswar.32.a: "Great news!" #NT!
- fraprswar.32.b: "Great news!" #NT!
- fraprswar.32.c: "It might have been a mistake not to get involved..." #NT!
- fraprswar.33.t: "French Army Defeated and Napoleon III Captured" #NT!
- fraprswar.33.d: "The last fort along the border has fallen to German troops, the French army remains defeated on the battlefield - what a humiliation for France. To add insult to injury, French emperor Napoleon III has been captured by the Germans who had encircled French forces in the region. The way to Paris now lies open to German forces and it could only be a matter of time until the French capital is controlled by soldiers wearing the Pickelhaube." #NT!
- fraprswar.33.a: "Wow..." #NT!
- fraprswar.34.t: "Paris under Siege" #NT!
- fraprswar.34.d: "The French army has been unable to stop the Prussian advance so far, and now German forces surround the French capital, Paris, completely. This siege was something French generals knew was going to happen, but like often during this war, ineffectiveness and a lack of preparation led to disappointing performances on the battlefield. As a result, the Parisians will have to face difficult times for the foreseeable future." #NT!
- fraprswar.34.a: "Onward into Paris!" #NT!
- fraprswar.34.b: "We must break the siege to have a shot at victory!" #NT!
- fraprswar.34.c: "Onward into Paris!" #NT!
- fraprswar.34.e: "The German advance continues without us..." #NT!
- fraprswar.35.t: "Paris Siege Broken!" #NT!
- fraprswar.35.d: "French troops have succeeded in breaking the siege around Paris. This could significantly diminish the German war effort and upset the public in the German states. In France, however, the public are overjoyed at the news of their successful army and bursting with pride. They are ever more confident of victory." #NT!
- fraprswar.35.a: "Let's drive the Germans out of France!" #NT!
- fraprswar.35.b: "Who is responsible for this?!" #NT!
- fraprswar.35.c: "Who is responsible for this?!" #NT!
- fraprswar.35.e: "It seems the French are making progress." #NT!
- fraprswar.36.t: "French Army Pushes German Troops out of France!" #NT!
- fraprswar.36.d: "In a complete turn of events, French troops have pushed all German forces out of France. This development changes the outlook of the war dramatically, as it is now France who has gained the initiative, whilst the Germans fear a French invasion on German soil." #NT!
- fraprswar.36.a: "Onward to the Rhine!" #NT!
- fraprswar.36.b: "We must make sure the French will not get to the Rhine!" #NT!
- fraprswar.36.c: "We must make sure the French will not get to the Rhine!" #NT!
- fraprswar.36.e: "The tide is turning..." #NT!
- fraprswar.37.t: "French Army Pushes German Troops over the Rhine!" #NT!
- fraprswar.37.d: "The French army has managed to push German troops behind the Rhine. This geographical body is considered by some in France to be the country's natural border in the East. In contrast, the river also holds great significance in Germany, where it is considered to be truly Germanic and many artists and historians have produced works that celebrate the Rhine as the frontier of Germanic battles with powers from the West, particularly France, for decades.\n\nThe recent military development could thus have a lasting impact on the relationship between the two peoples." #NT!
- fraprswar.37.a: "Glory to France!" #NT!
- fraprswar.37.b: "And the worst has come to the worst..." #NT!
- fraprswar.37.c: "And the worst has come to the worst..." #NT!
- fraprswar.37.e: "We will see what the future holds for us." #NT!
- fraprswar.38.t: "French Army Conquers Forts along the Border!" #NT!
- fraprswar.38.d: "The French army has captured the most important line of fortifications along the Franco-German border. This means that the way to the Rhine now lies fairly open and the German troops might have an even more difficult time defending against French advancements on German soil." #NT!
- fraprswar.38.a: "Victory is near!" #NT!
- fraprswar.38.b: "We must reorganise our defence..." #NT!
- fraprswar.38.c: "We must reorganise our defence..." #NT!
- fraprswar.38.e: "It seems we might have made the right call..." #NT!
- fraprswar.39.t: "German Troops Push French Army out of Germany" #NT!
- fraprswar.39.d: "German forces have successfully managed to push the troops of the French army back out of Germany. The French army is now in retreatment and it will be difficult to turn the tide around again and stop the German advancement into France." #NT!
- fraprswar.39.a: "Onward!" #NT!
- fraprswar.39.b: "We must reorganise our defence..." #NT!
- fraprswar.39.c: "Onward!" #NT!
- fraprswar.39.e: "A heroic effort that we were not part of..." #NT!
- fraprswar.40.t: "Francs-Tireurs" #NT!
- fraprswar.40.d: "French civilians with shooting practice have taken up their arms to build partisan formations engaging in guerrilla warfare, causing panic and chaos in some areas under our occupation. Only the strictest punishment seems appropriate when apprehending these elements." #NT!
- fraprswar.40.a: "Damn!" #NT!
+ fraprswar.31.t: "Prussian Call to Arms"
+ fraprswar.31.d_forced_claim: "Prussia has called us to arms against France in what they describe as a national obligation. Nationalist-minded parts of our population have taken to the streets in support of the Prussian effort. The Prussians have, however, pressed their interests quite far and the irreconcilable behaviour of Prussian diplomacy has contributed a lot to escalating the crisis. Nonetheless, public opinion is sympathetic with Prussia, although some openly criticise the Prussian government. So, should we join Prussia in their war against France?"
+ fraprswar.31.d_renounced_claim: "Prussia has called us to arms against France in what they describe as a national obligation. Our population has taken to the streets in support of the Prussian effort that they deem justified given the irreconcilable behaviour of French diplomacy. It would probably be wise to act in accordance with public opinion, else we might risk a potential overthrow in either case. So, should we join Prussia in their war against France?"
+ fraprswar.31.a: "We will stand by their side!"
+ fraprswar.31.b: "This is not our war to fight."
+ south_germans_refuse_to_join_FPW_effect_tt: "This currently means §Rannexation§! in case of a Prussian victory."
+ fraprswar.32.t: "French Army Defeated and Napoleon III Captured"
+ fraprswar.32.d: "The last fort along the border has fallen, the French army remains defeated on the battlefield - a humiliation for France. To add insult to injury, French emperor Napoleon III has been captured by German troops who had encircled French forces in the region. The way to Paris now lies open to German forces and it could only be a matter of time until the French capital is controlled by soldiers wearing the Pickelhaube."
+ fraprswar.32.a: "Great news!"
+ fraprswar.32.b: "Great news!"
+ fraprswar.32.c: "It might have been a mistake not to get involved..."
+ fraprswar.33.t: "French Army Defeated and Napoleon III Captured"
+ fraprswar.33.d: "The last fort along the border has fallen to German troops, the French army remains defeated on the battlefield - what a humiliation for France. To add insult to injury, French emperor Napoleon III has been captured by the Germans who had encircled French forces in the region. The way to Paris now lies open to German forces and it could only be a matter of time until the French capital is controlled by soldiers wearing the Pickelhaube."
+ fraprswar.33.a: "Wow..."
+ fraprswar.34.t: "Paris under Siege"
+ fraprswar.34.d: "The French army has been unable to stop the Prussian advance so far, and now German forces surround the French capital, Paris, completely. This siege was something French generals knew was going to happen, but like often during this war, ineffectiveness and a lack of preparation led to disappointing performances on the battlefield. As a result, the Parisians will have to face difficult times for the foreseeable future."
+ fraprswar.34.a: "Onward into Paris!"
+ fraprswar.34.b: "We must break the siege to have a shot at victory!"
+ fraprswar.34.c: "Onward into Paris!"
+ fraprswar.34.e: "The German advance continues without us..."
+ fraprswar.35.t: "Paris Siege Broken!"
+ fraprswar.35.d: "French troops have succeeded in breaking the siege around Paris. This could significantly diminish the German war effort and upset the public in the German states. In France, however, the public are overjoyed at the news of their successful army and bursting with pride. They are ever more confident of victory."
+ fraprswar.35.a: "Let's drive the Germans out of France!"
+ fraprswar.35.b: "Who is responsible for this?!"
+ fraprswar.35.c: "Who is responsible for this?!"
+ fraprswar.35.e: "It seems the French are making progress."
+ fraprswar.36.t: "French Army Pushes German Troops out of France!"
+ fraprswar.36.d: "In a complete turn of events, French troops have pushed all German forces out of France. This development changes the outlook of the war dramatically, as it is now France who has gained the initiative, whilst the Germans fear a French invasion on German soil."
+ fraprswar.36.a: "Onward to the Rhine!"
+ fraprswar.36.b: "We must make sure the French will not get to the Rhine!"
+ fraprswar.36.c: "We must make sure the French will not get to the Rhine!"
+ fraprswar.36.e: "The tide is turning..."
+ fraprswar.37.t: "French Army Pushes German Troops over the Rhine!"
+ fraprswar.37.d: "The French army has managed to push German troops behind the Rhine. This geographical body is considered by some in France to be the country's natural border in the East. In contrast, the river also holds great significance in Germany, where it is considered to be truly Germanic and many artists and historians have produced works that celebrate the Rhine as the frontier of Germanic battles with powers from the West, particularly France, for decades.\n\nThe recent military development could thus have a lasting impact on the relationship between the two peoples."
+ fraprswar.37.a: "Glory to France!"
+ fraprswar.37.b: "And the worst has come to the worst..."
+ fraprswar.37.c: "And the worst has come to the worst..."
+ fraprswar.37.e: "We will see what the future holds for us."
+ fraprswar.38.t: "French Army Conquers Forts along the Border!"
+ fraprswar.38.d: "The French army has captured the most important line of fortifications along the Franco-German border. This means that the way to the Rhine now lies fairly open and the German troops might have an even more difficult time defending against French advancements on German soil."
+ fraprswar.38.a: "Victory is near!"
+ fraprswar.38.b: "We must reorganise our defence..."
+ fraprswar.38.c: "We must reorganise our defence..."
+ fraprswar.38.e: "It seems we might have made the right call..."
+ fraprswar.39.t: "German Troops Push French Army out of Germany"
+ fraprswar.39.d: "German forces have successfully managed to push the troops of the French army back out of Germany. The French army is now in retreatment and it will be difficult to turn the tide around again and stop the German advancement into France."
+ fraprswar.39.a: "Onward!"
+ fraprswar.39.b: "We must reorganise our defence..."
+ fraprswar.39.c: "Onward!"
+ fraprswar.39.e: "A heroic effort that we were not part of..."
+ fraprswar.40.t: "Francs-Tireurs"
+ fraprswar.40.d: "French civilians with shooting practice have taken up their arms to build partisan formations engaging in guerrilla warfare, causing panic and chaos in some areas under our occupation. Only the strictest punishment seems appropriate when apprehending these elements."
+ fraprswar.40.a: "Damn!"
   
- fraprswar.101.t: "Inquire for Peace with the Prussians?" #NT!
- fraprswar.101.d: "There was something else the British had to offer: a diplomatic channel to meet with the Prussians in secrecy. A meeting could be arranged without losing face in front of our populace. With the war going badly it might be time to ask the Prussian leadership for their conditions for peace.\n\nThe Ferrières Castle east of Paris offers a decent possibility for a secret meeting. It would, and would have to, stay out of public attention to protect the stability of the new French government, and to assure that the terms discussed will be debated fairly, but the British would make sure of that.\n\nDo we want to accept the British offer and inquire for peace with the Prussians?" #NT!
- fraprswar.101.a: "Go for it." #NT!
- fraprswar.101.b: "No chance!" #NT!
- fraprswar.102.t: "France Inquires about Peace Conditions" #NT!
- fraprswar.102.d: "We have received a message from the newly formed French government, and they seem willing to finally bend the knee. Confronted with the might of the Prussian army and its German allies, they have now asked us to discuss our peace terms at the Ferrières Castle near Paris. This discussion with the French foreign minister will allow us to put forward our demands from a position of strength.\n\nThe matter of considerable war reparations is obvious, but many especially among the Prussian leadership and public long for more. There has been vivid talk that the time has come to retake the lands of Alsace-Lorraine. Still inhabited primarily by ethnic Germans, these duchies fell to France when the power of the Roman-German emperors declined. Reclaiming this piece of German soil occupied by France would also present a good opportunity to strengthen the bond between the German states. It would undoubtedly cause resentment and uproar in France though.\n\nHow should we proceed?" #NT!
- fraprswar.102.a: "Demand Alsace-Lorraine and war reparations." #NT!
- fraprswar.102.b: "Settle for war reparations only." #NT!
- fraprswar.103.t: "The Prussian Demands" #NT!
- fraprswar.103.d: "In accordance with his leadership, [PRS.GetLeader] has agreed to peace, but at horrendous conditions! In addition to considerable war reparations, France shall renounce her claim to the territory of Alsace-Lorraine which would fall under the control of the [PRS.GetName].\n\nPeace is vital for France and the war has cost thousands of lives already, but these terms are surely hard to swallow and might well bring about the downfall of our provisional government. How should we respond to the demands presented by the Prussians?" #NT!
- fraprswar.103.a: "Reject these outrageous demands!" #NT!
- fraprswar.103.b: "A price has to be paid..." #NT!
- fraprswar.104.t: "The Prussian Demands" #NT!
- fraprswar.104.d: "In accordance with his leadership, [PRS.GetLeader] has agreed to peace at the following demands:\nFrance will accept its defeat and take active measures against the continuation of Francs-tireurs activities in areas temporary under Prussian control.\nFrance will demolish the border fortresses at Metz, Toul and Belfort.\nFrance will pay war reparations amounting to 500m Francs.\n\nPeace is vital for France and the war has cost thousands of lives already, but these terms are surely hard to swallow and might well bring about the downfall of our provisional government. How should we respond to the demands presented by the Prussians?" #NT!
- fraprswar.104.a: "Accept their demands." #NT!
- fraprswar.104.b: "Reject these ridiculous demands!" #NT!
- fraprswar.105.t: "France Accepts Peace Demands" #NT!
- fraprswar.105.d: "We have received news from the French government: After careful consideration they have rejected our demands for peace. This means that the war will go on and we will have to do our best to enforce our demands in another way." #NT!
- fraprswar.105.a: "Too bad." #NT!
- PRS_peace_demands_rejected_effect_tt: "It seems we will have to force their hand §Yon the battlefield§!." #NT!
- fraprswar.106.t: "France Accepts Peace Demands" #NT!
- fraprswar.106.d: "We have received news from the French government: After careful consideration they have accepted our demands for peace. This means that the war might soon be over." #NT!
- fraprswar.106.a: "Good." #NT!
- PRS_peace_demands_accepted_effect_tt: "An §Yarmistice§! will be signed in a few days time." #NT!
+ fraprswar.101.t: "Inquire for Peace with the Prussians?"
+ fraprswar.101.d: "There was something else the British had to offer: a diplomatic channel to meet with the Prussians in secrecy. A meeting could be arranged without losing face in front of our populace. With the war going badly it might be time to ask the Prussian leadership for their conditions for peace.\n\nThe Ferrières Castle east of Paris offers a decent possibility for a secret meeting. It would, and would have to, stay out of public attention to protect the stability of the new French government, and to assure that the terms discussed will be debated fairly, but the British would make sure of that.\n\nDo we want to accept the British offer and inquire for peace with the Prussians?"
+ fraprswar.101.a: "Go for it."
+ fraprswar.101.b: "No chance!"
+ fraprswar.102.t: "France Inquires about Peace Conditions"
+ fraprswar.102.d: "We have received a message from the newly formed French government, and they seem willing to finally bend the knee. Confronted with the might of the Prussian army and its German allies, they have now asked us to discuss our peace terms at the Ferrières Castle near Paris. This discussion with the French foreign minister will allow us to put forward our demands from a position of strength.\n\nThe matter of considerable war reparations is obvious, but many especially among the Prussian leadership and public long for more. There has been vivid talk that the time has come to retake the lands of Alsace-Lorraine. Still inhabited primarily by ethnic Germans, these duchies fell to France when the power of the Roman-German emperors declined. Reclaiming this piece of German soil occupied by France would also present a good opportunity to strengthen the bond between the German states. It would undoubtedly cause resentment and uproar in France though.\n\nHow should we proceed?"
+ fraprswar.102.a: "Demand Alsace-Lorraine and war reparations."
+ fraprswar.102.b: "Settle for war reparations only."
+ fraprswar.103.t: "The Prussian Demands"
+ fraprswar.103.d: "In accordance with his leadership, [PRS.GetLeader] has agreed to peace, but at horrendous conditions! In addition to considerable war reparations, France shall renounce her claim to the territory of Alsace-Lorraine which would fall under the control of the [PRS.GetName].\n\nPeace is vital for France and the war has cost thousands of lives already, but these terms are surely hard to swallow and might well bring about the downfall of our provisional government. How should we respond to the demands presented by the Prussians?"
+ fraprswar.103.a: "Reject these outrageous demands!"
+ fraprswar.103.b: "A price has to be paid..."
+ fraprswar.104.t: "The Prussian Demands"
+ fraprswar.104.d: "In accordance with his leadership, [PRS.GetLeader] has agreed to peace at the following demands:\nFrance will accept its defeat and take active measures against the continuation of Francs-tireurs activities in areas temporary under Prussian control.\nFrance will demolish the border fortresses at Metz, Toul and Belfort.\nFrance will pay war reparations amounting to 500m Francs.\n\nPeace is vital for France and the war has cost thousands of lives already, but these terms are surely hard to swallow and might well bring about the downfall of our provisional government. How should we respond to the demands presented by the Prussians?"
+ fraprswar.104.a: "Accept their demands."
+ fraprswar.104.b: "Reject these ridiculous demands!"
+ fraprswar.105.t: "France Accepts Peace Demands"
+ fraprswar.105.d: "We have received news from the French government: After careful consideration they have rejected our demands for peace. This means that the war will go on and we will have to do our best to enforce our demands in another way."
+ fraprswar.105.a: "Too bad."
+ PRS_peace_demands_rejected_effect_tt: "It seems we will have to force their hand §Yon the battlefield§!."
+ fraprswar.106.t: "France Accepts Peace Demands"
+ fraprswar.106.d: "We have received news from the French government: After careful consideration they have accepted our demands for peace. This means that the war might soon be over."
+ fraprswar.106.a: "Good."
+ PRS_peace_demands_accepted_effect_tt: "An §Yarmistice§! will be signed in a few days time."
   #Alternative route to peace (alt-history Prussian victory) 
- fraprswar.151.t: "French Army Defeated" #NT!
- fraprswar.151.d: "Even though the republican armies have been able to somewhat limit the German advance until today, the time has come to finally realise that this is a war we cannot win... We have to sue for peace." #NT!
- fraprswar.151.a: "Looks like this is the end..." #NT!
- fraprswar.152.t: "Paris Captured by Prussians" #NT!
- fraprswar.152.d: "The French capital has fallen into the hands of the Germans. The Government of National Defence has been captured and France is temporarily without a leadership. It seems that the war is over once and for all." #NT!
- fraprswar.152.a: "Looks like this is the end..." #NT!
+ fraprswar.151.t: "French Army Defeated"
+ fraprswar.151.d: "Even though the republican armies have been able to somewhat limit the German advance until today, the time has come to finally realise that this is a war we cannot win... We have to sue for peace."
+ fraprswar.151.a: "Looks like this is the end..."
+ fraprswar.152.t: "Paris Captured by Prussians"
+ fraprswar.152.d: "The French capital has fallen into the hands of the Germans. The Government of National Defence has been captured and France is temporarily without a leadership. It seems that the war is over once and for all."
+ fraprswar.152.a: "Looks like this is the end..."
   #Alternative route to peace (alt-history French victory) 
- fraprswar.171.t: "Prussian Army Defeated" #NT!
- fraprswar.171.d: "The French armies have been able to defeat their German adversaries on the battlefield. They have taken the war deep into German territory and are looking like the sure winners. It seems the war is lost for the Germans." #NT!
- fraprswar.171.a: "Looks like this is the end..." #NT!
- fraprswar.172.t: "Cologne Captured by the French" #NT!
- fraprswar.172.d: "Cologne has been captured by French armies! This looks like the end of the war, as the Rhine seems firmly in French hands right now. A long-lasting dream of French expansionists could come true..." #NT!
- fraprswar.172.a: "Looks like this is the end..." #NT!
+ fraprswar.171.t: "Prussian Army Defeated"
+ fraprswar.171.d: "The French armies have been able to defeat their German adversaries on the battlefield. They have taken the war deep into German territory and are looking like the sure winners. It seems the war is lost for the Germans."
+ fraprswar.171.a: "Looks like this is the end..."
+ fraprswar.172.t: "Cologne Captured by the French"
+ fraprswar.172.d: "Cologne has been captured by French armies! This looks like the end of the war, as the Rhine seems firmly in French hands right now. A long-lasting dream of French expansionists could come true..."
+ fraprswar.172.a: "Looks like this is the end..."
   #Stalemate (alt-history tie) 
- fraprswar.181.t: "Franco-Prussian War: Stalemate" #NT!
- fraprswar.181.d: "The Franco-Prussian War has been raging for years now, and all belligerents are exhausted and war-weary. The military leaderships of all parties involved have now struck an armistice to seize the fighting and come together to negotiate an amicable peace treaty.\n\nFor this, all countries have agreed to vacate any conquered regions and return to the pre-war status of territorial borders." #NT!
- fraprswar.181.a: "It's time to lay down arms." #NT!
- fraprswar.181.b: "It's time to lay down arms." #NT!
- fraprswar.181.c: "It's time to lay down arms." #NT!
- fra_prs_war_stalemate_effect_tt: "A peace will be signed when negotiations end." #NT!
- fraprswar.182.t: "The Peace of Baden-Baden" #NT!
- fraprswar.182.d: "The belligerents of the Franco-Prussian War have come together at the spa ressort of Baden-Baden to formally put an end to the war between their countries. All parties involved abstained from pressing for territorial gains or other displays of dominance in order to restore trust and cooperation in the future. A gruelling war could thus be brought to a conciliatory end. The only question that remains is what so many men had to give their lives for?" #NT!
- fraprswar.182.a: "Peace, finally." #NT!
- fraprswar.182.b: "Peace, finally." #NT!
- fraprswar.182.c: "Peace, finally." #NT!
- fra_prs_war_german_bonds_effect_tt: "Despite its §Runsatisfactory outcome§!, the war §Yhas brought the Germans closer together§!, as their struggle against the national enemy made them §Y more than just brothers-in-arms§!." #NT!
- fraprswar.183.t: "The Peace of Baden-Baden" #NT!
- fraprswar.183.d: "The belligerents of the Franco-Prussian War have come together at the spa ressort of Baden-Baden to formally put an end to the war between their countries. All parties involved abstained from pressing for territorial gains or other displays of dominance in order to restore trust and cooperation in the future. A gruelling war could thus be brought to a conciliatory end. The only question that remains is what so many men had to give their lives for?" #NT!
- fraprswar.183.a: "A good question indeed." #NT!
+ fraprswar.181.t: "Franco-Prussian War: Stalemate"
+ fraprswar.181.d: "The Franco-Prussian War has been raging for years now, and all belligerents are exhausted and war-weary. The military leaderships of all parties involved have now struck an armistice to seize the fighting and come together to negotiate an amicable peace treaty.\n\nFor this, all countries have agreed to vacate any conquered regions and return to the pre-war status of territorial borders."
+ fraprswar.181.a: "It's time to lay down arms."
+ fraprswar.181.b: "It's time to lay down arms."
+ fraprswar.181.c: "It's time to lay down arms."
+ fra_prs_war_stalemate_effect_tt: "A peace will be signed when negotiations end."
+ fraprswar.182.t: "The Peace of Baden-Baden"
+ fraprswar.182.d: "The belligerents of the Franco-Prussian War have come together at the spa ressort of Baden-Baden to formally put an end to the war between their countries. All parties involved abstained from pressing for territorial gains or other displays of dominance in order to restore trust and cooperation in the future. A gruelling war could thus be brought to a conciliatory end. The only question that remains is what so many men had to give their lives for?"
+ fraprswar.182.a: "Peace, finally."
+ fraprswar.182.b: "Peace, finally."
+ fraprswar.182.c: "Peace, finally."
+ fra_prs_war_german_bonds_effect_tt: "Despite its §Runsatisfactory outcome§!, the war §Yhas brought the Germans closer together§!, as their struggle against the national enemy made them §Y more than just brothers-in-arms§!."
+ fraprswar.183.t: "The Peace of Baden-Baden"
+ fraprswar.183.d: "The belligerents of the Franco-Prussian War have come together at the spa ressort of Baden-Baden to formally put an end to the war between their countries. All parties involved abstained from pressing for territorial gains or other displays of dominance in order to restore trust and cooperation in the future. A gruelling war could thus be brought to a conciliatory end. The only question that remains is what so many men had to give their lives for?"
+ fraprswar.183.a: "A good question indeed."
   #Armistice (historical) 
- fraprswar.201.t: "Armistice Signed" #NT!
- fraprswar.201.d: "After failing to mount a serious comeback against the invading German troops, the Republican government has been forced to sign an armistice with the Prussians. Although this means a serious military defeat and will enable the Prussians to press their demands on us, it is also an opportunity to finally establish law and order across the country.\n\nDuring the next few weeks, legislative elections will be held and negotiations will start to find a definitive peace agreement to finally end the Franco-Prussian War." #NT!
- fraprswar.201.a: "Finally, some peace and quiet..." #NT!
- FRA_armistice_fraprswar_effect_tt: "Prussian troops will §Ytemporarily occupy large parts of Northeastern France§! as a guarantee that we will hold up our end of an eventual peace deal." #NT!
- fraprswar.202.t: "Armistice Signed" #NT!
- fraprswar.202.d: "After failing to mount a serious comeback against our invasion of France, the French Republican government has been forced to sign an armistice. This means a serious military victory and will enable us to press our demands on France. While peace negotiations to finally end the Franco-Prussian War are underway, Prussian troops will temporarily occupy parts of Northeastern France. In the meantime, the French government will be able to hold legislative elections also in the occupied territories." #NT!
- fraprswar.202.a: "A major victory!" #NT!
- PRS_armistice_fraprswar_effect_tt: "Our troops will §Ytemporarily occupy large parts of Northeastern France§! as a guarantee that the French will hold up their end of an eventual peace deal." #NT!
- fraprswar.202.b: "A major victory!" #NT!
+ fraprswar.201.t: "Armistice Signed"
+ fraprswar.201.d: "After failing to mount a serious comeback against the invading German troops, the Republican government has been forced to sign an armistice with the Prussians. Although this means a serious military defeat and will enable the Prussians to press their demands on us, it is also an opportunity to finally establish law and order across the country.\n\nDuring the next few weeks, legislative elections will be held and negotiations will start to find a definitive peace agreement to finally end the Franco-Prussian War."
+ fraprswar.201.a: "Finally, some peace and quiet..."
+ FRA_armistice_fraprswar_effect_tt: "Prussian troops will §Ytemporarily occupy large parts of Northeastern France§! as a guarantee that we will hold up our end of an eventual peace deal."
+ fraprswar.202.t: "Armistice Signed"
+ fraprswar.202.d: "After failing to mount a serious comeback against our invasion of France, the French Republican government has been forced to sign an armistice. This means a serious military victory and will enable us to press our demands on France. While peace negotiations to finally end the Franco-Prussian War are underway, Prussian troops will temporarily occupy parts of Northeastern France. In the meantime, the French government will be able to hold legislative elections also in the occupied territories."
+ fraprswar.202.a: "A major victory!"
+ PRS_armistice_fraprswar_effect_tt: "Our troops will §Ytemporarily occupy large parts of Northeastern France§! as a guarantee that the French will hold up their end of an eventual peace deal."
+ fraprswar.202.b: "A major victory!"
   #Preliminary peace (historical) 
- fraprswar.211.t: "The Treaty of Versailles" #NT!
- fraprswar.211.d: "After a few weeks of difficult negotiations, a preliminary peace agreement has been signed by France and its adversaries.\n\nPending ratification by all governments involved, a formal peace treaty shall be signed at Frankfurt in due time." #NT!
- fraprswar.211.a: "That's going to hurt..." #NT!
- FRA_treaty_of_versailles_fraprswar_effect_tt: "Prussian troops will expand their §Ytemporary occupation zone§! to include §YParis§! and its surroundings as well as §Ylarger parts of Northeastern France§! as a guarantee that we will hold up our end of the agreed-upon peace deal." #NT!
- fraprswar.212.t: "The Treaty of Versailles" #NT!
- fraprswar.212.d: "After a few weeks of difficult negotiations, a preliminary peace agreement has been signed by France and its adversaries.\n\nPending ratification by all governments involved, a formal peace treaty shall be signed at Frankfurt in due time." #NT!
- fraprswar.212.a: "Great news!" #NT!
- PRS_treaty_of_versailles_fraprswar_effect_tt: "Our troops will expand their §Ytemporary occupation zone§! to include §YParis§! and its surroundings as well as §Ylarger parts of Northeastern France§! as a guarantee that France will hold up their end of the agreed-upon peace deal." #NT!
- fraprswar.212.b: "Great news!" #NT!
- fraprswar.213.t: "German Victory Parade in Paris" #NT!
- fraprswar.213.d: "Today, as stipulated in the preliminary peace agreement signed at Versailles, some 30,000 German troops led by Prussian generals marched through the streets of the French capital much to the amazement and disappointment of the Parisians, who seem to take the event as an insult, reinforcing their feeling of having been betrayed by their leaders as well as a sense of revanchism against the Germans." #NT!
- fraprswar.213.a: "Truly humiliating..." #NT!
- fraprswar.214.t: "German Victory Parade in Paris" #NT!
- fraprswar.214.d: "Today, as stipulated in the preliminary peace agreement signed at Versailles, some 30,000 German troops led by Prussian generals marched through the streets of the French capital much to the amazement and disappointment of the Parisians, who seem to take the event as an insult, reinforcing their feeling of having been betrayed by their leaders as well as a sense of revanchism against the Germans." #NT!
- fraprswar.214.a: "A great day for Germany!" #NT!
- fraprswar.214.b: "A great day for Germany!" #NT!
+ fraprswar.211.t: "The Treaty of Versailles"
+ fraprswar.211.d: "After a few weeks of difficult negotiations, a preliminary peace agreement has been signed by France and its adversaries.\n\nPending ratification by all governments involved, a formal peace treaty shall be signed at Frankfurt in due time."
+ fraprswar.211.a: "That's going to hurt..."
+ FRA_treaty_of_versailles_fraprswar_effect_tt: "Prussian troops will expand their §Ytemporary occupation zone§! to include §YParis§! and its surroundings as well as §Ylarger parts of Northeastern France§! as a guarantee that we will hold up our end of the agreed-upon peace deal."
+ fraprswar.212.t: "The Treaty of Versailles"
+ fraprswar.212.d: "After a few weeks of difficult negotiations, a preliminary peace agreement has been signed by France and its adversaries.\n\nPending ratification by all governments involved, a formal peace treaty shall be signed at Frankfurt in due time."
+ fraprswar.212.a: "Great news!"
+ PRS_treaty_of_versailles_fraprswar_effect_tt: "Our troops will expand their §Ytemporary occupation zone§! to include §YParis§! and its surroundings as well as §Ylarger parts of Northeastern France§! as a guarantee that France will hold up their end of the agreed-upon peace deal."
+ fraprswar.212.b: "Great news!"
+ fraprswar.213.t: "German Victory Parade in Paris"
+ fraprswar.213.d: "Today, as stipulated in the preliminary peace agreement signed at Versailles, some 30,000 German troops led by Prussian generals marched through the streets of the French capital much to the amazement and disappointment of the Parisians, who seem to take the event as an insult, reinforcing their feeling of having been betrayed by their leaders as well as a sense of revanchism against the Germans."
+ fraprswar.213.a: "Truly humiliating..."
+ fraprswar.214.t: "German Victory Parade in Paris"
+ fraprswar.214.d: "Today, as stipulated in the preliminary peace agreement signed at Versailles, some 30,000 German troops led by Prussian generals marched through the streets of the French capital much to the amazement and disappointment of the Parisians, who seem to take the event as an insult, reinforcing their feeling of having been betrayed by their leaders as well as a sense of revanchism against the Germans."
+ fraprswar.214.a: "A great day for Germany!"
+ fraprswar.214.b: "A great day for Germany!"
   #Armistice (alt-history French victory) 
- fraprswar.221.t: "Armistice Signed" #NT!
- fraprswar.221.d: "After failing to mount a serious defence against the invading French troops, the Prussian government has been forced to sign an armistice with France. This means a serious military defeat and will enable the French to press their demands on us. There is fear among politicians across Germany that the French will demand occupation all the way up the river Rhine, the alleged 'natural border' of France.\n\nDuring the next few weeks, negotiations will start to find a definitive peace agreement to formally end the Franco-Prussian War." #NT!
- fraprswar.221.a: "This is a disaster..." #NT!
- PRS_armistice_fraprswar_alt_effect_tt: "French troops will §Ytemporarily occupy all territory of German co-belligerents west of the river Rhine§! as a guarantee that we will hold up our end of an eventual peace deal." #NT!
- fraprswar.222.t: "Armistice Signed" #NT!
- fraprswar.222.d: "After failing to mount a serious defence against our invasion of Germany, the Prussian government has been forced to sign an armistice with us. This means a serious military victory and will enable us to press our demands on the Prussians and their allies. A long-cherished dream may finally come true: Establishing French control over the regions west of the river Rhine, the natural border of France.\n\nDuring the next few weeks, negotiations will start to find a definitive peace agreement to formally end the Franco-Prussian War." #NT!
- fraprswar.222.a: "A major victory!" #NT!
- FRA_armistice_fraprswar_alt_effect_tt: "Our troops will §Ytemporarily occupy all territory of German co-belligerents west of the river Rhine§! as a guarantee that the Germans will hold up their end of an eventual peace deal." #NT!
- fraprswar.223.t: "Armistice Signed" #NT!
- fraprswar.223.d: "After failing to mount a serious defence against the invading French troops, the Prussian government has been forced to sign an armistice with France. This means a serious military defeat and will enable the French to press their demands also on us. There is fear among politicians across Germany that the French will demand occupation all the way up the river Rhine, the alleged 'natural border' of France.\n\nDuring the next few weeks, negotiations will start to find a definitive peace agreement to formally end the Franco-Prussian War." #NT!
- fraprswar.223.a: "This is a disaster..." #NT!
- SOUTH_GERMANS_armistice_fraprswar_alt_effect_tt: "French troops will §Ytemporarily occupy all territory of German co-belligerents west of the river Rhine§! as a guarantee that we will hold up our end of an eventual peace deal." #NT!
+ fraprswar.221.t: "Armistice Signed"
+ fraprswar.221.d: "After failing to mount a serious defence against the invading French troops, the Prussian government has been forced to sign an armistice with France. This means a serious military defeat and will enable the French to press their demands on us. There is fear among politicians across Germany that the French will demand occupation all the way up the river Rhine, the alleged 'natural border' of France.\n\nDuring the next few weeks, negotiations will start to find a definitive peace agreement to formally end the Franco-Prussian War."
+ fraprswar.221.a: "This is a disaster..."
+ PRS_armistice_fraprswar_alt_effect_tt: "French troops will §Ytemporarily occupy all territory of German co-belligerents west of the river Rhine§! as a guarantee that we will hold up our end of an eventual peace deal."
+ fraprswar.222.t: "Armistice Signed"
+ fraprswar.222.d: "After failing to mount a serious defence against our invasion of Germany, the Prussian government has been forced to sign an armistice with us. This means a serious military victory and will enable us to press our demands on the Prussians and their allies. A long-cherished dream may finally come true: Establishing French control over the regions west of the river Rhine, the natural border of France.\n\nDuring the next few weeks, negotiations will start to find a definitive peace agreement to formally end the Franco-Prussian War."
+ fraprswar.222.a: "A major victory!"
+ FRA_armistice_fraprswar_alt_effect_tt: "Our troops will §Ytemporarily occupy all territory of German co-belligerents west of the river Rhine§! as a guarantee that the Germans will hold up their end of an eventual peace deal."
+ fraprswar.223.t: "Armistice Signed"
+ fraprswar.223.d: "After failing to mount a serious defence against the invading French troops, the Prussian government has been forced to sign an armistice with France. This means a serious military defeat and will enable the French to press their demands also on us. There is fear among politicians across Germany that the French will demand occupation all the way up the river Rhine, the alleged 'natural border' of France.\n\nDuring the next few weeks, negotiations will start to find a definitive peace agreement to formally end the Franco-Prussian War."
+ fraprswar.223.a: "This is a disaster..."
+ SOUTH_GERMANS_armistice_fraprswar_alt_effect_tt: "French troops will §Ytemporarily occupy all territory of German co-belligerents west of the river Rhine§! as a guarantee that we will hold up our end of an eventual peace deal."
   #Preliminary peace (alt-history French victory) 
- fraprswar.231.t: "Treaty of Strasbourg" #NT!
- fraprswar.231.d: "After a few weeks of difficult negotiations, a preliminary peace agreement has been signed by France and its adversaries at the Alsatian city of Strasbourg, a symbol for the unsuccessful German war on France. According to the preliminary treaty's stipulations, French troops will be allowed to temporarily occupy German lands east of the river Rhine to ensure the speedy resolution of the war in a formal peace treaty.\n\nPending ratification by all governments involved, a formal peace treaty shall be signed at Metz in due time." #NT!
- fraprswar.231.a: "That's going to hurt..." #NT!
- PRS_treaty_of_strasbourg_fraprswar_alt_effect_tt: "French troops will §Ytemporarily extend their occupation over large parts of Western and Central Germany§! as a guarantee that we will hold up our end of an eventual peace deal." #NT!
- fraprswar.232.t: "Treaty of Strasbourg" #NT!
- fraprswar.232.d: "After a few weeks of difficult negotiations, a preliminary peace agreement has been signed by France and its adversaries at the Alsatian city of Strasbourg, a symbol for the unsuccessful German war on France. According to the preliminary treaty's stipulations, French troops will be allowed to temporarily occupy German lands east of the river Rhine to ensure the speedy resolution of the war in a formal peace treaty.\n\nPending ratification by all governments involved, a formal peace treaty shall be signed at Metz in due time." #NT!
- fraprswar.232.a: "Great news!" #NT!
- FRA_treaty_of_strasbourg_fraprswar_alt_effect_tt: "Our troops will §Ytemporarily extend their occupation over large parts of Western and Central Germany§! as a guarantee that the Germans will hold up their end of an eventual peace deal." #NT!
- fraprswar.233.t: "Treaty of Strasbourg" #NT!
- fraprswar.233.d: "After a few weeks of difficult negotiations, a preliminary peace agreement has been signed by France and its adversaries at the Alsatian city of Strasbourg, a symbol for the unsuccessful German war on France. According to the preliminary treaty's stipulations, French troops will be allowed to temporarily occupy German lands east of the river Rhine to ensure the speedy resolution of the war in a formal peace treaty.\n\nPending ratification by all governments involved, a formal peace treaty shall be signed at Metz in due time." #NT!
- fraprswar.233.a: "That's going to hurt..." #NT!
- BAD_treaty_of_strasbourg_fraprswar_alt_effect_tt: "The outcome will very likely mean that §Your entire country§! might be §Rannexed by France§!." #NT!
- BAV_treaty_of_strasbourg_fraprswar_alt_effect_tt: "The outcome will very likely mean that §Ythe [42.GetName]§! might be §Rlost to France§!." #NT!
- HSD_treaty_of_strasbourg_fraprswar_alt_effect_tt: "The outcome will very likely mean that §Y[581.GetName]§! might be §Rlost to France§!." #NT!
+ fraprswar.231.t: "Treaty of Strasbourg"
+ fraprswar.231.d: "After a few weeks of difficult negotiations, a preliminary peace agreement has been signed by France and its adversaries at the Alsatian city of Strasbourg, a symbol for the unsuccessful German war on France. According to the preliminary treaty's stipulations, French troops will be allowed to temporarily occupy German lands east of the river Rhine to ensure the speedy resolution of the war in a formal peace treaty.\n\nPending ratification by all governments involved, a formal peace treaty shall be signed at Metz in due time."
+ fraprswar.231.a: "That's going to hurt..."
+ PRS_treaty_of_strasbourg_fraprswar_alt_effect_tt: "France will §Ypermanently annex all belligerents' territories up to the river Rhine§!. Moreover, we will also have to pay a §Ysignificant war indemnity§! to be paid within two years of signing the peace treaty."
+ fraprswar.232.t: "Treaty of Strasbourg"
+ fraprswar.232.d: "After a few weeks of difficult negotiations, a preliminary peace agreement has been signed by France and its adversaries at the Alsatian city of Strasbourg, a symbol for the unsuccessful German war on France. According to the preliminary treaty's stipulations, French troops will be allowed to temporarily occupy German lands east of the river Rhine to ensure the speedy resolution of the war in a formal peace treaty.\n\nPending ratification by all governments involved, a formal peace treaty shall be signed at Metz in due time."
+ fraprswar.232.a: "Great news!"
+ FRA_treaty_of_strasbourg_fraprswar_alt_effect_tt: "We will §Ypermanently annex all belligerents' territories up to the river Rhine§!. Moreover, the Germans will also have to pay a §Ysignificant war indemnity§! to be paid within two years of signing the peace treaty."
+ fraprswar.233.t: "Treaty of Strasbourg"
+ fraprswar.233.d: "After a few weeks of difficult negotiations, a preliminary peace agreement has been signed by France and its adversaries at the Alsatian city of Strasbourg, a symbol for the unsuccessful German war on France. According to the preliminary treaty's stipulations, French troops will be allowed to temporarily occupy German lands east of the river Rhine to ensure the speedy resolution of the war in a formal peace treaty.\n\nPending ratification by all governments involved, a formal peace treaty shall be signed at Metz in due time."
+ fraprswar.233.a: "That's going to hurt..."
+ BAD_treaty_of_strasbourg_fraprswar_alt_effect_tt: "The outcome will very likely mean that §Your entire country§! might be §Rannexed by France§!."
+ BAV_treaty_of_strasbourg_fraprswar_alt_effect_tt: "The outcome will very likely mean that §Ythe [42.GetName]§! might be §Rlost to France§!."
+ HSD_treaty_of_strasbourg_fraprswar_alt_effect_tt: "The outcome will very likely mean that §Y[581.GetName]§! might be §Rlost to France§!."
   #Peace treaty (historical) 
- fraprswar.251.t: "The Peace of Frankfurt" #NT!
- fraprswar.251.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Frankfurt. The war ends with the German side victorious, one Empire collapsed whilst another was born. The memory of the war and the stipulations of this treaty will surely have a lasting impact on the relation between the two peoples as well as the geopolitics of Europe in times to come." #NT!
- fraprswar.251.a: "One day we shall take revenge!" #NT!
- FRA_peace_of_frankfurt_fraprswar_effect_tt: "We have to accept the loss of §YAlsace and large parts of Lorraine§! to the Germans. Moreover, we will also have to pay a war indemnity amounting to §Yfive billion gold francs§! to be paid within three years of signing the peace treaty." #NT!
- fraprswar.251.b: "A day to forever remember!" #NT!
- PRS_peace_of_frankfurt_fraprswar_effect_tt: "We will right a long-standing wrong and liberate the former German lands in §YAlsace-Lorraine§! from French occupation. France will also have to pay a war indemnity amounting to §Yfive billion gold francs§! to be paid within three years of signing the peace treaty." #NT!
- fraprswar.251.c: "A day to forever remember!" #NT!
- fraprswar.252.t: "The Peace of Frankfurt" #NT!
- fraprswar.252.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Frankfurt. The war ends with the German side victorious, one Empire collapsed whilst another was born. The memory of the war and the stipulations of this treaty will surely have a lasting impact on the relation between the two peoples as well as the geopolitics of Europe in times to come." #NT!
- fraprswar.252.a: "Can the French ever forget that humiliation?" #NT!
- fraprswar.253.t: "France Pays War Indemnity" #NT!
- fraprswar.253.d: "We have lost the war against the Germans... Adding insult to injury, we have not only lost Alsace and Lorraine, but we will also have to pay enormous war indemnities. The Peace of Frankfurt sets the sum at precisely five billion gold francs, or the equivalent of 1450 tons of refined gold. This will surely hurt our economy, but to make sure that the German armies vacate French territory we will have to find ways to pay it..." #NT!
- fraprswar.253.a: "A sad day for France!" #NT!
- fraprswar.254.t: "France Pays War Indemnity" #NT!
- fraprswar.254.d: "Our victory over France is still fresh and not only have we annexed Alsace-Lorraine, the French were also forced to agree to enormous war indemnities. The Peace of Frankfurt sets the sum at precisely five billion gold francs, or the equivalent of 1450 tons of refined gold. This will surely boost our economy and we will make sure that the French find ways to pay it." #NT!
- fraprswar.254.a: "Another glorious day for Germany!" #NT!
- fraprswar.255.t: "German Troops Vacate France" #NT!
- fraprswar.255.d: "Several months after hostilities had ended, the last German troops have now withdrawn from France as our government has taken the necessary steps to hold up its end of the Peace of Frankfurt agreement, particularly concerning the payment of war indemnities. It's finally time to restore law and order." #NT!
- fraprswar.255.a: "We will not forget this!" #NT!
- fraprswar.256.t: "German Troops Vacate France" #NT!
- fraprswar.256.d: "Several months after hostilities had ended, the last German troops have now withdrawn from France as the French government has taken the necessary steps to hold up its end of the Peace of Frankfurt agreement, particularly concerning the payment of war indemnities. It's time to return to business as usual." #NT!
- fraprswar.256.a: "Alright then." #NT!
+ fraprswar.251.t: "The Peace of Frankfurt"
+ fraprswar.251.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Frankfurt. The war ends with the German side victorious, one Empire collapsed whilst another was born. The memory of the war and the stipulations of this treaty will surely have a lasting impact on the relation between the two peoples as well as the geopolitics of Europe in times to come."
+ fraprswar.251.a: "One day we shall take revenge!"
+ FRA_peace_of_frankfurt_fraprswar_effect_tt: "We have to accept the loss of §YAlsace and large parts of Lorraine§! to the Germans. Moreover, we will also have to pay a war indemnity amounting to §Yfive billion gold francs§! to be paid within three years of signing the peace treaty."
+ fraprswar.251.b: "A day to forever remember!"
+ PRS_peace_of_frankfurt_fraprswar_effect_tt: "We will right a long-standing wrong and liberate the former German lands in §YAlsace-Lorraine§! from French occupation. France will also have to pay a war indemnity amounting to §Yfive billion gold francs§! to be paid within three years of signing the peace treaty."
+ fraprswar.251.c: "A day to forever remember!"
+ fraprswar.252.t: "The Peace of Frankfurt"
+ fraprswar.252.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Frankfurt. The war ends with the German side victorious, one Empire collapsed whilst another was born. The memory of the war and the stipulations of this treaty will surely have a lasting impact on the relation between the two peoples as well as the geopolitics of Europe in times to come."
+ fraprswar.252.a: "Can the French ever forget that humiliation?"
+ fraprswar.253.t: "France Pays War Indemnity"
+ fraprswar.253.d: "We have lost the war against the Germans... Adding insult to injury, we have not only lost Alsace and Lorraine, but we will also have to pay enormous war indemnities. The Peace of Frankfurt sets the sum at precisely five billion gold francs, or the equivalent of 1450 tons of refined gold. This will surely hurt our economy, but to make sure that the German armies vacate French territory we will have to find ways to pay it..."
+ fraprswar.253.a: "A sad day for France!"
+ fraprswar.254.t: "France Pays War Indemnity"
+ fraprswar.254.d: "Our victory over France is still fresh and not only have we annexed Alsace-Lorraine, the French were also forced to agree to enormous war indemnities. The Peace of Frankfurt sets the sum at precisely five billion gold francs, or the equivalent of 1450 tons of refined gold. This will surely boost our economy and we will make sure that the French find ways to pay it."
+ fraprswar.254.a: "Another glorious day for Germany!"
+ fraprswar.255.t: "German Troops Vacate France"
+ fraprswar.255.d: "Several months after hostilities had ended, the last German troops have now withdrawn from France as our government has taken the necessary steps to hold up its end of the Peace of Frankfurt agreement, particularly concerning the payment of war indemnities. It's finally time to restore law and order."
+ fraprswar.255.a: "We will not forget this!"
+ fraprswar.256.t: "German Troops Vacate France"
+ fraprswar.256.d: "Several months after hostilities had ended, the last German troops have now withdrawn from France as the French government has taken the necessary steps to hold up its end of the Peace of Frankfurt agreement, particularly concerning the payment of war indemnities. It's time to return to business as usual."
+ fraprswar.256.a: "Alright then."
   #Peace treaty (alt-history Prussian victory) 
- fraprswar.261.t: "The Peace of Frankfurt" #NT!
- fraprswar.261.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Frankfurt. The war ends with the German side victorious, one Empire collapsed whilst another was born. The memory of the war and the stipulations of the peace treaty might be remembered for some time, but the experts share the verdict that France has been treated gently by the German victors." #NT!
- fraprswar.261.a: "We need to learn form our mistakes." #NT!
- FRA_peace_of_frankfurt_alt_fraprswar_effect_tt: "We will have to pay a war indemnity amounting to §Y7.5 billion gold francs§! to be paid within three years of signing the peace treaty. There will be no territorial compensation though." #NT!
- fraprswar.261.b: "We have proven the superiority of our ways." #NT!
- PRS_peace_of_frankfurt_alt_fraprswar_effect_tt: "France will have to pay a war indemnity amounting to §Y7.5 billion gold francs§! to be paid within three years of signing the peace treaty. There will be no territorial compensation though." #NT!
- fraprswar.261.c: "We have honourably fought for the fatherland!" #NT!
- fraprswar.262.t: "The Peace of Frankfurt" #NT!
- fraprswar.262.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Frankfurt. The war ends with the German side victorious, one Empire collapsed whilst another was born. The memory of the war and the stipulations of the peace treaty might be remembered for some time, but the experts share the verdict that France has been treated gently by the German victors." #NT!
- fraprswar.262.a: "The Germans have shown their strength." #NT!
- fraprswar.263.t: "France Pays War Indemnity" #NT!
- fraprswar.263.d: "We have lost the war against the Germans... As a result, we are expected to pay enormous war indemnities. The Peace of Frankfurt sets the sum at precisely 7.5 billion gold francs, or the equivalent of 2175 tons of refined gold. This will surely hurt our economy, but to make sure that the German armies vacate French territory we will have to find ways to pay it..." #NT!
- fraprswar.263.a: "A sad day for France!" #NT!
- fraprswar.264.t: "France Pays War Indemnity" #NT!
- fraprswar.264.d: "Our prestigious victory over France is still fresh and in addition to our glorious performance on the battlefield, the French were also forced to agree to enormous war indemnities. The Peace of Frankfurt sets the sum at precisely 7.5 billion gold francs, or the equivalent of 2175 tons of refined gold. This will surely boost our economy and we will make sure that the French find ways to pay it." #NT!
- fraprswar.264.a: "Another glorious day for Germany!" #NT!
+ fraprswar.261.t: "The Peace of Frankfurt"
+ fraprswar.261.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Frankfurt. The war ends with the German side victorious, one Empire collapsed whilst another was born. The memory of the war and the stipulations of the peace treaty might be remembered for some time, but the experts share the verdict that France has been treated gently by the German victors."
+ fraprswar.261.a: "We need to learn form our mistakes."
+ FRA_peace_of_frankfurt_alt_fraprswar_effect_tt: "We will have to pay a war indemnity amounting to §Y7.5 billion gold francs§! to be paid within three years of signing the peace treaty. There will be no territorial compensation though."
+ fraprswar.261.b: "We have proven the superiority of our ways."
+ PRS_peace_of_frankfurt_alt_fraprswar_effect_tt: "France will have to pay a war indemnity amounting to §Y7.5 billion gold francs§! to be paid within three years of signing the peace treaty. There will be no territorial compensation though."
+ fraprswar.261.c: "We have honourably fought for the fatherland!"
+ fraprswar.262.t: "The Peace of Frankfurt"
+ fraprswar.262.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Frankfurt. The war ends with the German side victorious, one Empire collapsed whilst another was born. The memory of the war and the stipulations of the peace treaty might be remembered for some time, but the experts share the verdict that France has been treated gently by the German victors."
+ fraprswar.262.a: "The Germans have shown their strength."
+ fraprswar.263.t: "France Pays War Indemnity"
+ fraprswar.263.d: "We have lost the war against the Germans... As a result, we are expected to pay enormous war indemnities. The Peace of Frankfurt sets the sum at precisely 7.5 billion gold francs, or the equivalent of 2175 tons of refined gold. This will surely hurt our economy, but to make sure that the German armies vacate French territory we will have to find ways to pay it..."
+ fraprswar.263.a: "A sad day for France!"
+ fraprswar.264.t: "France Pays War Indemnity"
+ fraprswar.264.d: "Our prestigious victory over France is still fresh and in addition to our glorious performance on the battlefield, the French were also forced to agree to enormous war indemnities. The Peace of Frankfurt sets the sum at precisely 7.5 billion gold francs, or the equivalent of 2175 tons of refined gold. This will surely boost our economy and we will make sure that the French find ways to pay it."
+ fraprswar.264.a: "Another glorious day for Germany!"
   #Peace treaty (alt-history French victory) 
- fraprswar.271.t: "The Peace of Metz" #NT!
- fraprswar.271.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Metz. The war ends with the French side victorious, whilst the Germans are crushed and the hopes of German nationalists of finally creating a German national state shattered. The memory of the war and the stipulations of this treaty will surely have a lasting impact on the relation between the two peoples as well as the geopolitics of Europe in times to come." #NT!
- fraprswar.271.a: "One day we shall take revenge!" #NT!
- PRS_treaty_of_strasbourg_fraprswar_alt_effect_tt: "France will §Ypermanently annex all belligerents' territories up to the river Rhine§!. Moreover, we will also have to pay a §Ysignificant war indemnity§! to be paid within two years of signing the peace treaty." #NT!
- fraprswar.271.b: "A day to forever remember!" #NT!
- FRA_treaty_of_strasbourg_fraprswar_alt_effect_tt: "We will §Ypermanently annex all belligerents' territories up to the river Rhine§!. Moreover, the Germans will also have to pay a §Ysignificant war indemnity§! to be paid within two years of signing the peace treaty." #NT!
- fraprswar.271.c: "One day we shall take revenge!" #NT!
- fraprswar.272.t: "The Peace of Metz" #NT!
- fraprswar.272.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Metz. The war ends with the French side victorious, whilst the Germans are crushed and the hopes of German nationalists of finally creating a German national state shattered. The memory of the war and the stipulations of this treaty will surely have a lasting impact on the relation between the two peoples as well as the geopolitics of Europe in times to come." #NT!
- fraprswar.272.a: "Can the Germans ever forget that humiliation?" #NT!
- fraprswar.273.t: "Prussia Pays War Indemnity" #NT!
- fraprswar.273.d: "We have lost the war against France... Adding insult to injury, we have not only lost German territories, but the German co-belligerents are also expected to pay significant war indemnities. The Peace of Metz sets the sum at precisely five billion gold francs, or the equivalent of 1450 tons of refined gold. This will surely hurt our economy, but to make sure that the French armies vacate our territory we will have to find ways to pay it..." #NT!
- fraprswar.273.a: "A sad day for Germany!" #NT!
- fraprswar.274.t: "[THIS.GetNameDef] Pays War Indemnity" #NT!
- fraprswar.274.d: "We have lost the war against France... Adding insult to injury, we have not only lost German territories, but the German co-belligerents are also expected to pay significant war indemnities. The Peace of Metz sets the sum at precisely five billion gold francs, or the equivalent of 1450 tons of refined gold. This will surely hurt our economy, but to make sure that the French armies vacate our territory we will have to find ways to pay it..." #NT!
- fraprswar.274.a: "A sad day for Germany!" #NT!
- fraprswar.275.t: "Germans Pay War Indemnity" #NT!
- fraprswar.275.d: "Our victory over the Germans is still fresh and not only have we annexed territory up to the river Rhine, the Germans were also forced to agree to significant war indemnities. The Peace of Metz sets the sum at precisely five billion gold francs, or the equivalent of 1450 tons of refined gold. This will surely boost our economy and we will make sure that the Germans find ways to pay it." #NT!
- fraprswar.275.a: "Another glorious day for France!" #NT!
- fraprswar.276.t: "French Troops Vacate Germany" #NT!
- fraprswar.276.d: "Several months after hostilities had ended, the last French troops have now withdrawn from our territory as our government has taken the necessary steps to hold up its end of the Peace of Metz agreement, particularly concerning the payment of war indemnities. It's finally time to restore law and order." #NT!
- fraprswar.276.a: "We will not forget this!" #NT!
- fraprswar.277.t: "French Troops Vacate Germany" #NT!
- fraprswar.277.d: "Several months after hostilities had ended, our last troops have now withdrawn from Germany as the German governments have taken the necessary steps to hold up their end of the Peace of Metz agreement, particularly concerning the payment of war indemnities. It's time to return to business as usual." #NT!
- fraprswar.277.a: "Alright then." #NT!
-  
- fraprswar.300.t: "Proclamation of the German Empire" #NT!
- fraprswar.300.d: "The time has come after all those years and the seemingly endless back and forth of conservative restoration, liberal agitation and the agonising stubbornness of particularism. The dreams of the countless Germans who have for so long striven for a united fatherland, have finally come true. Although the generals, conservative elites and crowned heads have been responsible for its proclamation, the result is still the same: The German Empire has risen like a phoenix from the ashes of history.\n\nKing of Prussia Wilhelm I was proclaimed as the new German Emperor after a resounding victory over France. Only time will tell if the new Empire can outlast the thousand-year continuity of the old, as the existing powers are watching this new player to the world stage very closely..." #NT!
- fraprswar.300.a: "Für das Vaterland!" #NT!
+ fraprswar.271.t: "The Peace of Metz"
+ fraprswar.271.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Metz. The war ends with the French side victorious, whilst the Germans are crushed and the hopes of German nationalists of finally creating a German national state shattered. The memory of the war and the stipulations of this treaty will surely have a lasting impact on the relation between the two peoples as well as the geopolitics of Europe in times to come."
+ fraprswar.271.a: "One day we shall take revenge!"
+ PRS_peace_of_metz_fraprswar_alt_effect_tt: "France will §Ypermanently annex all belligerents' territories up to the river Rhine§!. Moreover, we will also have to pay a §Ysignificant war indemnity§! to be paid within two years of signing the peace treaty." #NT!
+ fraprswar.271.b: "A day to forever remember!"
+ FRA_peace_of_metz_fraprswar_alt_effect_tt: "We will §Ypermanently annex all belligerents' territories up to the river Rhine§!. Moreover, the Germans will also have to pay a §Ysignificant war indemnity§! to be paid within two years of signing the peace treaty." #NT!
+ fraprswar.271.c: "One day we shall take revenge!"
+ fraprswar.272.t: "The Peace of Metz"
+ fraprswar.272.d: "The Franco-Prussian War has finally been put to a formal end with the signature of the Peace of Metz. The war ends with the French side victorious, whilst the Germans are crushed and the hopes of German nationalists of finally creating a German national state shattered. The memory of the war and the stipulations of this treaty will surely have a lasting impact on the relation between the two peoples as well as the geopolitics of Europe in times to come."
+ fraprswar.272.a: "Can the Germans ever forget that humiliation?"
+ fraprswar.273.t: "Prussia Pays War Indemnity"
+ fraprswar.273.d: "We have lost the war against France... Adding insult to injury, we have not only lost German territories, but the German co-belligerents are also expected to pay significant war indemnities. The Peace of Metz sets the sum at precisely five billion gold francs, or the equivalent of 1450 tons of refined gold. This will surely hurt our economy, but to make sure that the French armies vacate our territory we will have to find ways to pay it..."
+ fraprswar.273.a: "A sad day for Germany!"
+ fraprswar.274.t: "[THIS.GetNameDef] Pays War Indemnity"
+ fraprswar.274.d: "We have lost the war against France... Adding insult to injury, we have not only lost German territories, but the German co-belligerents are also expected to pay significant war indemnities. The Peace of Metz sets the sum at precisely five billion gold francs, or the equivalent of 1450 tons of refined gold. This will surely hurt our economy, but to make sure that the French armies vacate our territory we will have to find ways to pay it..."
+ fraprswar.274.a: "A sad day for Germany!"
+ fraprswar.275.t: "Germans Pay War Indemnity"
+ fraprswar.275.d: "Our victory over the Germans is still fresh and not only have we annexed territory up to the river Rhine, the Germans were also forced to agree to significant war indemnities. The Peace of Metz sets the sum at precisely five billion gold francs, or the equivalent of 1450 tons of refined gold. This will surely boost our economy and we will make sure that the Germans find ways to pay it."
+ fraprswar.275.a: "Another glorious day for France!"
+ fraprswar.276.t: "French Troops Vacate Germany"
+ fraprswar.276.d: "Several months after hostilities had ended, the last French troops have now withdrawn from our territory as our government has taken the necessary steps to hold up its end of the Peace of Metz agreement, particularly concerning the payment of war indemnities. It's finally time to restore law and order."
+ fraprswar.276.a: "We will not forget this!"
+ fraprswar.277.t: "French Troops Vacate Germany"
+ fraprswar.277.d: "Several months after hostilities had ended, our last troops have now withdrawn from Germany as the German governments have taken the necessary steps to hold up their end of the Peace of Metz agreement, particularly concerning the payment of war indemnities. It's time to return to business as usual."
+ fraprswar.277.a: "Alright then."
+  #Path to German Unification (historical) 
+ fraprswar.301.t: "Delbrück's Memorandum" #NT!
+ fraprswar.301.d: "Rudolph Delbrück, one of [PRS.GetLeader]'s closest advisors, has written a memorandum discussing a possible path to German unification via accession of the South German states to the North German Confederation. Delbrück's proposal would offer the South German states and their monarchs the possibility to retain the most important aspects of internal autonomy as well as a strong influence in national politics due to the federal character of the constitution of the North German Confederation." #NT!
+ fraprswar.301.a: "Sounds promising." #NT!
+ fraprswar.302.t: "Prussia Proposes Accession to the North German Confederation" #NT!
+ fraprswar.302.d: "The tide seems to be turning increasingly in favour of German unification, and the [PRS.GetName] has approached us with an interesting proposal: if we agree to join the North German Confederation, we would retain a great deal of autonomy internally thanks to the federal nature of the Confederation's constitution. We would also have influence over federal policy through the institution of the Bundesrat.\n\nOur population's positive opinion of German unification has been further strengthened by the war against France, and we should take this into account in our decision. How should we respond?" #NT!
+ fraprswar.302.a: "Accept the proposal." #NT!
+ South_German_accept_accession_to_ngc_effect_tt: "§RThis will mean you will eventually join the German Empire and stop being an independent country.§! §YHowever, you will have the opportunity to play on as the German Empire.§!" #NT!
+ fraprswar.302.b: "Refuse the proposal." #NT!
+ South_German_refuse_accession_to_ngc_effect_tt: "§RThis means refusal to obey with German unification and might give Prussia a casus belli against your country eventually.§!" #NT!
+ fraprswar.303.t: "[FROM.GetNameDef] Accepts Accession to the North German Confederation" #NT!
+ fraprswar.303.d: "The [FROM.GetName] has accepted our proposal for accession to the North German Confederation. [FROM.GetName]'s leadership have accepted our supremacy over external matters and will soon adopt the revised Confederation's constitution." #NT!
+ fraprswar.303.a: "One step closer to unification." #NT!
+ fraprswar.304.t: "[FROM.GetNameDef] Refuses Accession to the North German Confederation" #NT!
+ fraprswar.304.d: "The [FROM.GetName] has refused our proposal for accession to the North German Confederation. [FROM.GetName]'s leadership have thus denied our supremacy and are reluctant to give up parts of their autonomy. We will have to find another way to persuade them - or, if nothing else solves the problem, force their hand on the battlefield." #NT!
+ fraprswar.304.a: "We will see about that." #NT!
+ fraprswar.305.t: "Prussia Offers Money to Accept German Unification" #NT!
+ fraprswar.305.d: "His Majesty, King Ludwig II of Bavaria, remains stubborn in regards to the questions of German unity. He does have a weak spot, though, and the Prussians are trying to exploit it. His Majesty is considered a hopeless romantic who is more interested in building castles than in ruling his country, and his costly hobby is ruining our state finances. [PRS.GetLeader] is offering vast amounts of money for Ludwig to use as he pleases if he were to accept German unification under Prussian supremacy. It's practically a bribe - but one that the king is likely to accept." #NT!
+ fraprswar.305.a: "Take the deal." #NT!
+ Bavaria_accept_bribe_effect_tt: "§RThis will mean you will eventually join the German Empire and stop being an independent country.§! §YHowever, you will have the opportunity to play on as the German Empire.§!" #NT!
+ fraprswar.305.b: "Respectfully decline the offer." #NT!
+ Bavaria_refuse_bribe_effect_tt: "§RThis will give Prussia a casus belli against your country.§!" #NT!
+ fraprswar.306.t: "[FROM.GetNameDef] Accepts the Offer" #NT!
+ fraprswar.306.d: "The [FROM.GetName] has accepted our generous offer. King Ludwig II is willing to accept our supremacy over external matters and Bavaria will soon adopt the revised Confederation's constitution." #NT!
+ fraprswar.306.a: "Everything seems ready now." #NT!
+ fraprswar.307.t: "[FROM.GetNameDef] Declines the Offer" #NT!
+ fraprswar.307.d: "The [FROM.GetName] has declined our generous offer. They continue to deny our supremacy and it seems we will have to force their hand on the battlefield." #NT!
+ fraprswar.307.a: "War it is then?" #NT!
+ fraprswar.308.t: "[BAV.GetNameDef] Joins the North German Confederation" #NT!
+ fraprswar.308.d: "The [FROM.GetName] has finally joined the North German Confederation. Surely even the last sceptics must now concede that German unification is inevitable." #NT!
+ fraprswar.308.a: "Onward for the glory of the Vaterland!" #NT!
+ fraprswar.400.t: "Proclamation of the German Empire" #NT!
+ fraprswar.400.d: "The time has come after all those years and the seemingly endless back and forth of conservative restoration, liberal agitation and the agonising stubbornness of particularism. The dreams of the countless Germans who have for so long striven for a united fatherland, have finally come true. Although the generals, conservative elites and crowned heads have been responsible for its proclamation, the result is still the same: The German Empire has risen like a phoenix from the ashes of history.\n\nKing of Prussia Wilhelm I was proclaimed as the new German Emperor after a resounding victory over France. Only time will tell if the new Empire can outlast the thousand-year continuity of the old, as the existing powers are watching this new player to the world stage very closely..." #NT!
+ fraprswar.400.a: "Three cheers for His Majesty, Kaiser Wilhelm!" #NT!
   
   #Austria-Hungary 
  eoanb_tt_aushun_event_2_c: "§RThis may lead to a revolt in the future.§!"
@@ -2659,6 +2806,7 @@
  eoanb_flag_tied_7_weeks_war: "§YThe German War has ended in a tie.§!"
  eoanb_flag_won_luxembourg_crisis: "§YPrussia has decisively won the war over Luxembourg.§!"
  eoanb_flag_won_fra_prs_war: "§YPrussia has won the Franco-Prussian War.§!"
+ eoanb_flag_stalemate_fra_prs_war: "§YThe Franco-Prussian War has ended in a stalemate.§!" #NT!
  eoanb_om_AUS_HUN_slovakia_concession: "Treaty of Bratislava"
  eoanb_om_diplomatic_insult: "Diplomatic insult"
  eoanb_threat_ssw_war: "Second Schleswig War"
@@ -2777,7 +2925,6 @@
  eoanb_om_ENG_CAN_endorsed: "Endorsed Maritime Treaty"
  eoanb_om_ENG_CAN_denounced: "Denounced Maritime Treaty"
  eoanb_om_CAN_pro_ENG_quebec: "Cordial Diplomacy"
- eoanb_tt_event_britishcanada_9_b: "§Y[CAN.GetNameDef]§! gains §G50§! §YAutonomy Points§!"
   
   #Crisis of 1873 
  Country_is_in_1873_crisis: "§Y[THIS.GetNameDef]§! is currently in an economic crisis§!"
@@ -2934,24 +3081,24 @@
  advisor_death.23.d: "The [Root.GetAdjective] people today mourn the death of Wilhelm von Tegetthoff. Following years of exceptional work and dedication to his cause, von Tegetthoff's loss will be deeply felt by many."
  advisor_death.23.a: "Rest in peace."
   
- advisor_death.101.t: "Death of Bernardo Quaranta" #NT!
- advisor_death.101.d: "The [Root.GetAdjective] people today mourn the death of death of Bernardo Quaranta. Following years of exceptional work and dedication to his cause, Quaranta's loss will be deeply felt by many." #NT!
- advisor_death.101.a: "Rest in peace." #NT!
- advisor_death.102.t: "Death of Raffaelle Piria" #NT!
- advisor_death.102.d: "The [Root.GetAdjective] people today mourn the death of death of Raffaelle Piria. Following years of exceptional work and dedication to his cause, Piria's loss will be deeply felt by many." #NT!
- advisor_death.102.a: "Rest in peace." #NT!
- advisor_death.103.t: "Death of Luigi Giura" #NT!
- advisor_death.103.d: "The [Root.GetAdjective] people today mourn the death of death of Luigi Giura. Following years of exceptional work and dedication to his cause, Giura's loss will be deeply felt by many." #NT!
- advisor_death.103.a: "Rest in peace." #NT!
- advisor_death.104.t: "Death of Vincenzo Florio Sr." #NT!
- advisor_death.104.d: "The [Root.GetAdjective] people today mourn the death of death of Vincenzo Florio Sr. Following years of exceptional work and dedication to his cause, Florio's loss will be deeply felt by many." #NT!
- advisor_death.104.a: "Rest in peace." #NT!
- advisor_death.105.t: "Death of Giovanni Rossi" #NT!
- advisor_death.105.d: "The [Root.GetAdjective] people today mourn the death of death of Giovanni Rossi. Following years of exceptional work and dedication to his cause, Rossi's loss will be deeply felt by many." #NT!
- advisor_death.105.a: "Rest in peace." #NT!
- advisor_death.106.t: "Death of Benedetto Marzolla" #NT!
- advisor_death.106.d: "The [Root.GetAdjective] people today mourn the death of death of Benedetto Marzolla. Following years of exceptional work and dedication to his cause, Marzolla's loss will be deeply felt by many." #NT!
- advisor_death.106.a: "Rest in peace." #NT!
+ advisor_death.101.t: "Death of Bernardo Quaranta"
+ advisor_death.101.d: "The [Root.GetAdjective] people today mourn the death of death of Bernardo Quaranta. Following years of exceptional work and dedication to his cause, Quaranta's loss will be deeply felt by many."
+ advisor_death.101.a: "Rest in peace."
+ advisor_death.102.t: "Death of Raffaelle Piria"
+ advisor_death.102.d: "The [Root.GetAdjective] people today mourn the death of death of Raffaelle Piria. Following years of exceptional work and dedication to his cause, Piria's loss will be deeply felt by many."
+ advisor_death.102.a: "Rest in peace."
+ advisor_death.103.t: "Death of Luigi Giura"
+ advisor_death.103.d: "The [Root.GetAdjective] people today mourn the death of death of Luigi Giura. Following years of exceptional work and dedication to his cause, Giura's loss will be deeply felt by many."
+ advisor_death.103.a: "Rest in peace."
+ advisor_death.104.t: "Death of Vincenzo Florio Sr."
+ advisor_death.104.d: "The [Root.GetAdjective] people today mourn the death of death of Vincenzo Florio Sr. Following years of exceptional work and dedication to his cause, Florio's loss will be deeply felt by many."
+ advisor_death.104.a: "Rest in peace."
+ advisor_death.105.t: "Death of Giovanni Rossi"
+ advisor_death.105.d: "The [Root.GetAdjective] people today mourn the death of death of Giovanni Rossi. Following years of exceptional work and dedication to his cause, Rossi's loss will be deeply felt by many."
+ advisor_death.105.a: "Rest in peace."
+ advisor_death.106.t: "Death of Benedetto Marzolla"
+ advisor_death.106.d: "The [Root.GetAdjective] people today mourn the death of death of Benedetto Marzolla. Following years of exceptional work and dedication to his cause, Marzolla's loss will be deeply felt by many."
+ advisor_death.106.a: "Rest in peace."
   
  advisor_death.x.t: "Death of [Insert Name Here]"
  advisor_death.x.d: "The [Root.GetAdjective] people today mourn the death of [Insert Name Here]. Following years of exceptional work and dedication to [HIS/HER] cause, [Insert Name Here]'s loss will be deeply felt by many."

@@ -339,7 +339,7 @@
  MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR_DESC: "Изменяет скорость строительства всех сооружений."
  modifier_production_speed_infrastructure_factor: "Скорость строительства §Yинфраструктуры§!"
  modifier_production_speed_infrastructure_factor_desc: "Изменяет скорость строительства инфраструктуры."
- modifier_production_cost_farm_factor: "§YFarm§! Construction Speed: $RIGHT|G=%1$" #NT!
+ modifier_production_cost_farm_factor: "§YFarm§! Construction Speed: $RIGHT|G=%1$"
  modifier_production_speed_arms_factory_factor: "Скорость строительства §Yвоенных заводов§!"
  modifier_production_speed_arms_factory_factor_desc: "Изменяет скорость строительства военных заводов."
  modifier_production_speed_industrial_complex_factor: "Скорость строительства §Yфабрик§!"
@@ -922,23 +922,32 @@
  MODIFIER_AIR_EQUIPMENT_UPGRADE_XP_COST: "Стоимость оснащения авиации в опыте"
  MODIFIER_AIR_EQUIPMENT_UPGRADE_XP_COST_DESC: "Расход опыта при переоснащении авиации"
  MODIFIER_REPAIR_SPEED_FACTOR: "Скорость ремонта кораблей"
+ repair_speed_factor_tt: " $MODIFIER_REPAIR_SPEED_FACTOR$: $RIGHT|+=%1$"
  MODIFIER_STRIKE_FORCE_MOVING_ORG: "Потеря организации ударным соединением"
  MODIFIER_STRIKE_FORCE_MOVING_ORG_DESC: "Этот показатель влияет на потерю организации ударным соединением при перемещении"
  modifier_experience_gain_battle_cruiser_training_factor: "Получаемый опыт за подготовку линейного крейсера"
+ modifier_experience_gain_battle_cruiser_mission_factor: "Получаемый опыт от выполнения заданий линейным крейсером"
  modifier_experience_gain_battle_cruiser_combat_factor: "Получаемый боевой опыт линейного крейсера"
  modifier_experience_gain_battleship_training_factor: "Получаемый опыт за подготовку линкора"
+ modifier_experience_gain_battleship_mission_factor: "Получаемый опыт от выполнения заданий линкором"
  modifier_experience_gain_battleship_combat_factor: "Получаемый боевой опыт линкора"
  modifier_experience_gain_carrier_training_factor: "Получаемый опыт за подготовку авианосца"
+ modifier_experience_gain_carrier_mission_factor: "Получаемый опыт от выполнения заданий авианосцем"
  modifier_experience_gain_carrier_combat_factor: "Получаемый боевой опыт авианосца"
  modifier_experience_gain_destroyer_training_factor: "Получаемый опыт за подготовку эсминца"
+ modifier_experience_gain_destroyer_mission_factor: "Получаемый опыт от выполнения заданий эсминцем"
  modifier_experience_gain_destroyer_combat_factor: "Получаемый боевой опыт эсминца"
  modifier_experience_gain_heavy_cruiser_training_factor: "Получаемый опыт за подготовку тяжелого крейсера"
+ modifier_experience_gain_heavy_cruiser_mission_factor: "Получаемый опыт от выполнения заданий тяжелым крейсером"
  modifier_experience_gain_heavy_cruiser_combat_factor: "Получаемый боевой опыт тяжелого крейсера"
  modifier_experience_gain_heavy_ship_training_factor: "Получаемый опыт за подготовку сверхтяжелого линкора"
+ modifier_experience_gain_heavy_ship_mission_factor: "Получаемый опыт от выполнения заданий сверхтяжелым линкором"
  modifier_experience_gain_heavy_ship_combat_factor: "Получаемый боевой опыт сверхтяжелого линкора"
  modifier_experience_gain_light_cruiser_training_factor: "Получаемый опыт за подготовку легкого крейсера"
+ modifier_experience_gain_light_cruiser_mission_factor: "Получаемый опыт от выполнения заданий легким крейсером"
  modifier_experience_gain_light_cruiser_combat_factor: "Получаемый боевой опыт легкого крейсера"
  modifier_experience_gain_submarine_training_factor: "Получаемый опыт за подготовку подводной лодки"
+ modifier_experience_gain_submarine_mission_factor: "Получаемый опыт от выполнения заданий подводной лодкой"
  modifier_experience_gain_submarine_combat_factor: "Получаемый боевой опыт подводной лодки"
  political_advisor_cost_factor: "Затраты на политического советника"
  tank_manufacturers_cost_factor: "Затраты на танковую мануфактуру"
@@ -1827,3 +1836,16 @@
  whitespace_tt: " "
  large_plane_airframe_design_cost_factor: "Стоимость проекта большого самолета"
  MODIFIER_SPECIAL_FORCES_CAP_FLAT: "Лимит войск спецназа"
+  
+ modifier_experience_gain_coastal_submarine_mission_factor: "" #NT!
+ modifier_experience_gain_corvette_mission_factor: "" #NT!
+ modifier_experience_gain_cruiser_mission_factor: "" #NT!
+ modifier_experience_gain_dreadnought_mission_factor: "" #NT!
+ modifier_experience_gain_frigate_mission_factor: "" #NT!
+ modifier_experience_gain_gunboat_mission_factor: "" #NT!
+ modifier_experience_gain_ironclad_mission_factor: "" #NT!
+ modifier_experience_gain_lineship_mission_factor: "" #NT!
+ modifier_experience_gain_monitor_mission_factor: "" #NT!
+ modifier_experience_gain_primitive_rowboat_mission_factor: "" #NT!
+ modifier_experience_gain_primitive_sailing_boat_mission_factor: "" #NT!
+ modifier_experience_gain_torpedo_boat_mission_factor: "" #NT!

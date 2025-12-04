@@ -89,7 +89,6 @@
  EFFECT_ADD_TECH_BONUS_AHEAD_ONLY: "В течение $USES$$AHEAD|G.1$ лет — уменьшенный штраф за опережение времени для: $LIST|Y$."
  EFFECT_ADD_TECH_BONUS_BONUS_ONLY: "$USES$$BONUS|%0+$ Бонус к исследованиям для: $LIST|Y$."
  EFFECT_ADD_TECH_BONUS: "Сократит штраф за опережение времени на $AHEAD|.1G$ года/лет и даст $BONUS|%0+$ бонуса к исследованиям. Можно использовать $USES|H$ раз(а) при изучении следующих технологий: $LIST|H$."
- EFFECT_ADD_DOCTRINE_COST_REDUCTION: "$USES$$REDUCTION|G%.0$ Снижение стоимости: $LIST|Y$."
  EFFECT_DEMILITARIZED_ZONE: "Станет демилитаризованной зоной."
  EFFECT_NOT_DEMILITARIZED_ZONE: "Перестанет быть демилитаризованной зоной."
  EFFECT_ADD_RESEARCH_SLOT: "Будет получено ячеек для исследований: $COUNT|G$."

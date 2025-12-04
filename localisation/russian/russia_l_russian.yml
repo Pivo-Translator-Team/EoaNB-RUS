@@ -2192,7 +2192,7 @@
  RUS_decision_introduce_exams_for_promoted_officers: "Ввести Экзамены для Повышенных Офицеров"
  RUS_decision_introduce_exams_for_promoted_officers_desc: ""
  RUS_decision_berdan_rifle1: "Русская Казенозарядная Винтовка — Бердан Но.1"
- RUS_decision_berdan_rifle2: "Russian Breach-Loading Rifle - Berdan No2" #NT!
+ RUS_decision_berdan_rifle2: "Russian Breach-Loading Rifle - Berdan No2"
   
   #Zemstvas 
  RUS_decision_category_zemstva: "Земство"
@@ -2243,10 +2243,10 @@
  RUS_decision_order_siberian_gunboats: "Заказать Канонерские Лодки для Сибирской Военной Флотилии"
  RUS_decision_villafranca_maritime_contract: "Морской Контракт Виллафранка"
  RUS_mission_vladivostok_military_base: "Порт Владивосток"
- RUS_mission_vladivostok_military_base_trigger_tt: "§YHaishenwai§!: At least §YLevel 6 Naval Port§! and §YLevel 2 Coastal Fortification§! in §YVladivostok§!." #NT!
+ RUS_mission_vladivostok_military_base_trigger_tt: "§YHaishenwai§!: At least §YLevel 6 Naval Port§! and §YLevel 2 Coastal Fortification§! in §YVladivostok§!."
  RUS_mission_riga_reval_naval_fortifications: "Рижские и Ревельские Военно-Морские Укрепления"
- RUS_mission_riga_reval_naval_fortifications_riga_trigger_tt: "§YLivonia§!: At least §YLevel 3 Coastal Fortification§! in §YRiga§!." #NT!
- RUS_mission_riga_reval_naval_fortifications_reval_trigger_tt: "§YReval§!: At least §YLevel 3 Coastal Fortification§! in §YReval§!." #NT!
+ RUS_mission_riga_reval_naval_fortifications_riga_trigger_tt: "§YLivonia§!: At least §YLevel 3 Coastal Fortification§! in §YRiga§!."
+ RUS_mission_riga_reval_naval_fortifications_reval_trigger_tt: "§YReval§!: At least §YLevel 3 Coastal Fortification§! in §YReval§!."
  RUS_decision_naval_maintaince: "Закон о Поддержании Военно-Морского Флота"
  RUS_decision_general_admiral_ships: "Корабли класса "Генерал-Адмирал""
  RUS_decision_petropavlovsk_class_ships: "Корабли класса "Петропавловск""
@@ -2256,7 +2256,7 @@
  RUS_mission_avoid_bankruptcy: "Избежать Банкротства"
  RUS_mission_avoid_bankruptcy_desc: ""
  RUS_mission_avoid_bankruptcy_trigger_tt: "Государство §Y[RUS.GetNameDef]§! объявило §Rбанкротство§!."
- RUS_decision_debt_repayments: "Произвести Погашение Долга"
+ : "Make Debt Repayment" #NT!
  RUS_decision_debt_repayments_desc: "Если ситуация выйдет из-под контроля, наш долг может привести к банкротству, что будет иметь катастрофические последствия для нашей экономики и нашего положения в мире. Мы должны сделать все, что в наших силах, чтобы избежать этой ситуации."
  RUS_decision_debt_repayments_effect_tt: "\n§YВремя, необходимое для погашения долга, увеличивается с ростом размера нашего долга.§!\n\n"
  RUS_decision_debt_repayments_done: "Произведено Погашение Долга"

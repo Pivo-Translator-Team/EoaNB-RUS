@@ -43,42 +43,42 @@
  eoanb_is_crisis_true: "§RГосударство [Root.GetNameDef] переживает Кризис!§!"
   
   #Debt Management (old) 
- #eoanb_decision_promote_shipbuilding_cost: "[eoanb_decision_promote_shipbuilding_cost_scripted]" #NT!
- #eoanb_decision_promote_shipbuilding_cost_blocked: "[eoanb_decision_promote_shipbuilding_cost_blocked_scripted]" #NT!
- #eoanb_decision_promote_shipbuilding_cost_tooltip: "[eoanb_decision_promote_shipbuilding_cost_tooltip_scripted]" #NT!
- #eoanb_decision_promote_shipbuilding_cost_loc: "£pol_power §H200§!" #NT!
- #eoanb_decision_promote_shipbuilding_cost_loc_blocked: "£pol_power §R200§!" #NT!
- #eoanb_decision_promote_shipbuilding_cost_loc_tooltip: "It costs §R200§! £pol_power to take the decision" #NT!
- #eoanb_decision_infrastructure_investment_debt_cost: "[eoanb_decision_infrastructure_investment_debt_cost_scripted]" #NT!
- #eoanb_decision_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_infrastructure_investment_debt_cost_blocked_scripted]" #NT!
- #eoanb_decision_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_infrastructure_investment_debt_cost_tooltip_scripted]" #NT!
- #eoanb_decision_infrastructure_investment_debt_cost_loc: "£pol_power §H50§!" #NT!
- #eoanb_decision_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R50§!" #NT!
- #eoanb_decision_infrastructure_investment_debt_cost_loc_tooltip: "It costs 50£pol_power to take the decision." #NT!
- #eoanb_decision_army_infrastructure_investment_debt_cost: "[eoanb_decision_army_infrastructure_investment_debt_cost_scripted]" #NT!
- #eoanb_decision_army_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_army_infrastructure_investment_debt_cost_blocked_scripted]" #NT!
- #eoanb_decision_army_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_army_infrastructure_investment_debt_cost_tooltip_scripted]" #NT!
- #eoanb_decision_army_infrastructure_investment_debt_cost_loc: "£pol_power §H50§! £command_power §H50§!" #NT!
- #eoanb_decision_army_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R50§! £command_power §R50§!" #NT!
- #eoanb_decision_army_infrastructure_investment_debt_cost_loc_tooltip: "It costs 50£pol_power and 50£command_power to take the decision." #NT!
- #eoanb_decision_army_investment_debt_cost: "[eoanb_decision_army_investment_debt_cost_scripted]" #NT!
- #eoanb_decision_army_investment_debt_cost_blocked: "[eoanb_decision_army_investment_debt_cost_blocked_scripted]" #NT!
- #eoanb_decision_army_investment_debt_cost_tooltip: "[eoanb_decision_army_investment_debt_cost_tooltip_scripted]" #NT!
- #eoanb_decision_army_investment_debt_cost_loc: "£pol_power §H25§!  £army_experience §H25§!  £command_power §H50§!" #NT!
- #eoanb_decision_army_investment_debt_cost_loc_blocked: "£pol_power §R25§!  £army_experience §R25§!  £command_power §R50§!" #NT!
- #eoanb_decision_army_investment_debt_cost_loc_tooltip: "It costs 25£pol_power, 25£army_experience, and 50£command_power to take the decision." #NT!
- #eoanb_decision_navy_infrastructure_investment_debt_cost: "[eoanb_decision_navy_infrastructure_investment_debt_cost_scripted]" #NT!
- #eoanb_decision_navy_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_navy_infrastructure_investment_debt_cost_blocked_scripted]" #NT!
- #eoanb_decision_navy_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_navy_infrastructure_investment_debt_cost_tooltip_scripted]" #NT!
- #eoanb_decision_navy_infrastructure_investment_debt_cost_loc: "£pol_power §H100§! £navy_experience §H50§! £command_power §H50§!" #NT!
- #eoanb_decision_navy_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R100§! £navy_experience §R50§! £command_power §R50§!" #NT!
- #eoanb_decision_navy_infrastructure_investment_debt_cost_loc_tooltip: "It costs 100£pol_power, 50£navy_experience, and 50£command_power to take the decision." #NT!
- #eoanb_decision_navy_investment_debt_cost: "[eoanb_decision_navy_investment_debt_cost_scripted]" #NT!
- #eoanb_decision_navy_investment_debt_cost_blocked: "[eoanb_decision_navy_investment_debt_cost_blocked_scripted]" #NT!
- #eoanb_decision_navy_investment_debt_cost_tooltip: "[eoanb_decision_navy_investment_debt_cost_tooltip_scripted]" #NT!
- #eoanb_decision_navy_investment_debt_cost_loc: "£pol_power §H25§!  £navy_experience §H25§!  £command_power §H50§!" #NT!
- #eoanb_decision_navy_investment_debt_cost_loc_blocked: "£pol_power §R25§!  £navy_experience §R25§!  £command_power §R50§!" #NT!
- #eoanb_decision_navy_investment_debt_cost_loc_tooltip: "It costs 25£pol_power, 25£navy_experience, and 50£command_power to take the decision." #NT!
+ #eoanb_decision_promote_shipbuilding_cost: "[eoanb_decision_promote_shipbuilding_cost_scripted]"
+ #eoanb_decision_promote_shipbuilding_cost_blocked: "[eoanb_decision_promote_shipbuilding_cost_blocked_scripted]"
+ #eoanb_decision_promote_shipbuilding_cost_tooltip: "[eoanb_decision_promote_shipbuilding_cost_tooltip_scripted]"
+ #eoanb_decision_promote_shipbuilding_cost_loc: "£pol_power §H200§!"
+ #eoanb_decision_promote_shipbuilding_cost_loc_blocked: "£pol_power §R200§!"
+ #eoanb_decision_promote_shipbuilding_cost_loc_tooltip: "It costs §R200§! £pol_power to take the decision"
+ #eoanb_decision_infrastructure_investment_debt_cost: "[eoanb_decision_infrastructure_investment_debt_cost_scripted]"
+ #eoanb_decision_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_infrastructure_investment_debt_cost_blocked_scripted]"
+ #eoanb_decision_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_infrastructure_investment_debt_cost_tooltip_scripted]"
+ #eoanb_decision_infrastructure_investment_debt_cost_loc: "£pol_power §H50§!"
+ #eoanb_decision_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R50§!"
+ #eoanb_decision_infrastructure_investment_debt_cost_loc_tooltip: "It costs 50£pol_power to take the decision."
+ #eoanb_decision_army_infrastructure_investment_debt_cost: "[eoanb_decision_army_infrastructure_investment_debt_cost_scripted]"
+ #eoanb_decision_army_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_army_infrastructure_investment_debt_cost_blocked_scripted]"
+ #eoanb_decision_army_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_army_infrastructure_investment_debt_cost_tooltip_scripted]"
+ #eoanb_decision_army_infrastructure_investment_debt_cost_loc: "£pol_power §H50§! £command_power §H50§!"
+ #eoanb_decision_army_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R50§! £command_power §R50§!"
+ #eoanb_decision_army_infrastructure_investment_debt_cost_loc_tooltip: "It costs 50£pol_power and 50£command_power to take the decision."
+ #eoanb_decision_army_investment_debt_cost: "[eoanb_decision_army_investment_debt_cost_scripted]"
+ #eoanb_decision_army_investment_debt_cost_blocked: "[eoanb_decision_army_investment_debt_cost_blocked_scripted]"
+ #eoanb_decision_army_investment_debt_cost_tooltip: "[eoanb_decision_army_investment_debt_cost_tooltip_scripted]"
+ #eoanb_decision_army_investment_debt_cost_loc: "£pol_power §H25§!  £army_experience §H25§!  £command_power §H50§!"
+ #eoanb_decision_army_investment_debt_cost_loc_blocked: "£pol_power §R25§!  £army_experience §R25§!  £command_power §R50§!"
+ #eoanb_decision_army_investment_debt_cost_loc_tooltip: "It costs 25£pol_power, 25£army_experience, and 50£command_power to take the decision."
+ #eoanb_decision_navy_infrastructure_investment_debt_cost: "[eoanb_decision_navy_infrastructure_investment_debt_cost_scripted]"
+ #eoanb_decision_navy_infrastructure_investment_debt_cost_blocked: "[eoanb_decision_navy_infrastructure_investment_debt_cost_blocked_scripted]"
+ #eoanb_decision_navy_infrastructure_investment_debt_cost_tooltip: "[eoanb_decision_navy_infrastructure_investment_debt_cost_tooltip_scripted]"
+ #eoanb_decision_navy_infrastructure_investment_debt_cost_loc: "£pol_power §H100§! £navy_experience §H50§! £command_power §H50§!"
+ #eoanb_decision_navy_infrastructure_investment_debt_cost_loc_blocked: "£pol_power §R100§! £navy_experience §R50§! £command_power §R50§!"
+ #eoanb_decision_navy_infrastructure_investment_debt_cost_loc_tooltip: "It costs 100£pol_power, 50£navy_experience, and 50£command_power to take the decision."
+ #eoanb_decision_navy_investment_debt_cost: "[eoanb_decision_navy_investment_debt_cost_scripted]"
+ #eoanb_decision_navy_investment_debt_cost_blocked: "[eoanb_decision_navy_investment_debt_cost_blocked_scripted]"
+ #eoanb_decision_navy_investment_debt_cost_tooltip: "[eoanb_decision_navy_investment_debt_cost_tooltip_scripted]"
+ #eoanb_decision_navy_investment_debt_cost_loc: "£pol_power §H25§!  £navy_experience §H25§!  £command_power §H50§!"
+ #eoanb_decision_navy_investment_debt_cost_loc_blocked: "£pol_power §R25§!  £navy_experience §R25§!  £command_power §R50§!"
+ #eoanb_decision_navy_investment_debt_cost_loc_tooltip: "It costs 25£pol_power, 25£navy_experience, and 50£command_power to take the decision."
  eoanb_decision_cost_1_debt_loc: "§R+1§! £prosperity_texticon"
  eoanb_decision_cost_1_debt_loc_tooltip: "§R+1§! £prosperity_texticon  долг Государства §Y[Root.GetName]§! §Rвозрастет§! на 1"
  eoanb_decision_cost_2_debt_loc: "§R+2§! £prosperity_texticon"
@@ -135,18 +135,18 @@
  eoanb_command_power_20: "£command_power §H20§!"
  eoanb_command_power_20_blocked: "£command_power §R20§!"
  eoanb_command_power_20_tooltip: "Это стоит 20£command_power для принятия решения!"
- eoanb_command_power_30: "£command_power §H30§!" #NT!
- eoanb_command_power_30_blocked: "£command_power §R30§!" #NT!
- eoanb_command_power_30_tooltip: "It costs 30£command_power to take this decision!" #NT!
+ eoanb_command_power_30: "£command_power §H30§!"
+ eoanb_command_power_30_blocked: "£command_power §R30§!"
+ eoanb_command_power_30_tooltip: "It costs 30£command_power to take this decision!"
  eoanb_command_power_50: "£command_power §H50§!"
  eoanb_command_power_50_blocked: "£command_power §R50§!"
  eoanb_command_power_50_tooltip: "Это стоит 50£command_power для принятия решения."
  eoanb_command_power_100: "£command_power §H100§!"
  eoanb_command_power_100_blocked: "£command_power §R100§!"
  eoanb_command_power_100_tooltip: "Это стоит 100£command_power для принятия решения."
- eoanb_command_power_50_army_experience_10: "£command_power §H50§!  £army_experience §H10§!" #NT!
- eoanb_command_power_50_army_experience_10_blocked: "£command_power §R50§!  £army_experience §R10§!" #NT!
- eoanb_command_power_50_army_experience_10_tooltip: "It costs 50£command_power and 10£army_experience to take the decision." #NT!
+ eoanb_command_power_50_army_experience_10: "£command_power §H50§!  £army_experience §H10§!"
+ eoanb_command_power_50_army_experience_10_blocked: "£command_power §R50§!  £army_experience §R10§!"
+ eoanb_command_power_50_army_experience_10_tooltip: "It costs 50£command_power and 10£army_experience to take the decision."
  eoanb_command_power_100_army_experience_25: "£command_power §H100§!  £army_experience §H25§!"
  eoanb_command_power_100_army_experience_25_blocked: "£command_power §R100§!  £army_experience §R25§!"
  eoanb_command_power_100_army_experience_25_tooltip: "Это стоит 100£command_power and 25£army_experience для принятия решения."
@@ -312,7 +312,7 @@
  eoanb_tt_decision_recruit_colonial_infantry_1: "Вы получите дивизии §YКолониальной Пехоты§! в §YКейптауне§!."
  eoanb_decision_generic_recruit_colonial_troops_2: "Нанять Колониальную Пехоту"
  eoanb_decision_generic_recruit_colonial_troops_2_desc: "Мы наберем немного пехоты в наших Колониях.\n\n§YЭто решение будет доступно только один раз.§!"
- eoanb_decision_advance_to_the_napoleonic_age: "Advance to the Napoleonic Age"
+ : "Advace to the Napoleonic Age" #NT!
  eoanb_decision_advance_to_the_napoleonic_age_desc: "We will adapt new and advanced tactics, but this will take some time!"
  eoanb_tt_decision_recruit_colonial_infantry_2: "Вы получите дивизии §YКолониальной Пехоты§! в §YЛуанде§!."
  eoanb_decision_generic_recruit_colonial_troops_3: "Нанять Колониальную Пехоту"
@@ -336,9 +336,9 @@
  eoanb_political_power_10_command_power_15_army_xp_20_blocked: "£pol_power §R10§! £command_power §R15§! £army_experience §R20§!"
  eoanb_political_power_10_command_power_15_army_xp_20_tooltip: "It costs 10£pol_power, 15£command_power and 20£army_experience to take the decision."
   
- eoanb_army_xp_15: "£army_experience §H15§!" #NT!
- eoanb_army_xp_15_blocked: "£army_experience §R15§!" #NT!
- eoanb_army_xp_15_tooltip: "It costs 15£army_experience to take the decision." #NT!
+ eoanb_army_xp_15: "£army_experience §H15§!"
+ eoanb_army_xp_15_blocked: "£army_experience §R15§!"
+ eoanb_army_xp_15_tooltip: "It costs 15£army_experience to take the decision."
   
  eoanb_decision_advance_to_the_napoleonic_age: "Advance to the Napoleonic Age"
  eoanb_decision_advance_to_the_victorian_age: "Advance to the Victorian Age"

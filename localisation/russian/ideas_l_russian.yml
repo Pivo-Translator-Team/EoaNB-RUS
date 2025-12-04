@@ -923,7 +923,7 @@
  eoanb_light_ships_manufacturer: "Легкая Судостроительная Компания"
  eoanb_light_ships_manufacturer_desc: "Эта компания разрабатывает мощные и выносливые боевые корабли для нашего военно-морского флота."
  eoanb_heavy_ships_manufacturer: "Компания Производства Флагманов"
- eoanb_heavy_ships_manufacturer_desc: "This company develops powerful and tough capital ships for our navy." #NT!
+ eoanb_heavy_ships_manufacturer_desc: "This company develops powerful and tough capital ships for our navy."
  eoanb_trait_pol_author: "Популярный Политический Писателль"
  eoanb_trait_pol_author_desc: "Этот популярный писатель поддерживает правительство своими книгами. Мы можем назначить его советником."
  eoanb_trait_road_expert: "Эксперт по Инфраструктуре"
@@ -941,7 +941,7 @@
  eoanb_trait_military_leader: "Военный Лидер"
  eoanb_trait_military_leader_desc: "Этот человек - очень опытный и талантливый командир, работающий на армию."
  eoanb_trait_experienced_diplomat: "Опытный Дипломат"
- eoanb_trait_experienced_diplomat_desc: "This person is a highly experienced and talented diplomat, working for the state." #NT!
+ eoanb_trait_experienced_diplomat_desc: "This person is a highly experienced and talented diplomat, working for the state."
  eoanb_trait_efficient_administrator: "Эффективный Администратор"
  eoanb_trait_efficient_administrator_desc: "Этот человек - очень опытный и талантливый администратор, работающий на государство."
  eoanb_trait_warmonger: "Разжигатель Войны"
@@ -1044,7 +1044,7 @@
  eoanb_law_tt_post_digital_era: "§YПост-Цифровая Эра§! описывает эпоху, в которую технологии вышли за рамки простой цифровизации и достигли таких высот, о которых человечество еще несколько десятилетий назад и помыслить не могло.\n\nВ настоящее время это последняя эра в End of a new Beginning."
  eoanb_law_tt_pre_industrial_army: "§YТрадиционная Армия§! описывает обычное состояние военной тактики и структуры до промышленной революции. Его основными отличительными чертами были огромные армейские подразделения и линейная война.\n\nИзменение Армейской Эры происходит в зависимости от события, когда вы достаточно продвинулись в обоих направлениях: §YТехнологическая Эра§! и §YНаземная Доктрина§!."
  eoanb_law_tt_victorian_army: "§YВикторианская Армия§! описывает обычное состояние военной тактики и структуры в Викторианскую Эру. Его главными отличительными чертами были полковые бои и широкое использование артиллерии.\n\nИзменение Армейской Эры происходит в зависимости от события, когда вы достаточно продвинулись в обоих направлениях: §YТехнологическая Эра§! и §YНаземная Доктрина§!."
- eoanb_law_tt_napoleonic_army: "§YNapoleonic Army§! describes the usual state of military tactics and structure during the Napoleonic Era. Its main hallmarks were Regimental Warfare and high usage of Artillery.\n\nSwitching your Army Era law happens by event when you have advanced sufficiently in both §YTechnological Era§! and §YLand Doctrine§!." #NT!
+ eoanb_law_tt_napoleonic_army: "§YNapoleonic Army§! describes the usual state of military tactics and structure during the Napoleonic Era. Its main hallmarks were Regimental Warfare and high usage of Artillery.\n\nSwitching your Army Era law happens by event when you have advanced sufficiently in both §YTechnological Era§! and §YLand Doctrine§!."
  eoanb_law_tt_victorian_army_PRS: "§YПрусско-Викторианская Армия§! описывает особую структуру армии, использовавшуюся Пруссией в Викторианскую Эру.\n\nИзменение Армейской Эры происходит в зависимости от события, когда вы достаточно продвинулись в обоих направлениях: §YТехнологическая Эра§! и §YНаземная Доктрина§!."
  eoanb_law_tt_machine_army: "§YИндустриальная Армия§! описывает обычное состояние военной тактики и структуры в период между Франко-Прусской Войной и Первой Мировой Войной. Ее основными отличительными чертами были массовые пехотные армии, позиционная война и использование новейших технологий, таких как ранние самолеты или минометы.\n\nИзменение Армейской Эры происходит в зависимости от события, когда вы достаточно продвинулись в обоих направлениях: §YТехнологическая Эра§! и §YНаземная Доктрина§!."
  eoanb_law_tt_combined_arms: "§YКомбинированные Войска§! описывает обычное состояние военной тактики и структуры во время Первой и Второй Мировых Войн. Его основными отличительными чертами были использование общевойсковых формирований, новая танковая техника и тактика отделения.\n\nИзменение Армейской Эры происходит в зависимости от события, когда вы достаточно продвинулись в обоих направлениях: §YТехнологическая Эра§! и §YНаземная Доктрина§!."
@@ -1400,7 +1400,7 @@
  ENG_idea_jones_plan_2: "План Джонса"
  ENG_idea_jones_plan_2_desc: "Государство [ENG.GetNameDef] реформирует армию для достижения своей цели создания \"гражданской армии\"."
  ENG_idea_cardwell_reforms: "Реформы Кардуэлла"
- ENG_idea_cardwell_reforms_desc: "The military in [ENG.GetNameDef] is currently under quite the heavy reform, and this is putting a strain on the national resources and administration." #NT!
+ ENG_idea_cardwell_reforms_desc: "The military in [ENG.GetNameDef] is currently under quite the heavy reform, and this is putting a strain on the national resources and administration."
  ENG_idea_army_reforms: "Реформа Армии"
  ENG_idea_army_reforms_desc: "Государство [ENG.GetNameDef] извлекает выгоду из недавних армейских реформ."
  ENG_idea_army_reforms_2: "Реформа Армии"

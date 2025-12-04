@@ -1,0 +1,909 @@
+﻿l_russian:
+ FACTION_LEADER: "Лидер альянса: §Y$COUNTRY$§!"
+ FACTION_MEMBER: "Участник альянса: §Y$COUNTRY$§!"
+ FACTION_CREATED_UNDER_MASTER_TITLE: "Вступление в альянс метрополии"
+ FACTION_CREATED_UNDER_MASTER_MESSAGE: "Мы вступили в альянс $FACTION|H$ вместе с нашей метрополией"
+ FACTION_NAME_GER_fascism: "Ось"
+ FACTION_NAME_GER_none: "Ось"
+ FACTION_NAME_IDEOLOGY_DEFAULT: "Приверженцы идеологии $IDEOLOGY$"
+ french_alliance: "Французский Союз"
+ the_berlin_moscow_axis: "Ось Берлин-Москва"
+ domination_francaise: "Французский Доминион"
+ french_entente_alliance: "Французская Антанта"
+ daitoa_kyoeiken: "Сфера сопроцветания"
+ italy_empire_faction: "Новая Римская империя"
+ chinese_united_front: "Объединенный китайский фронт"
+ faction_template_wang_front: "Нанкинский фронт"
+ miedzymorze_faction: "Междуморье"
+ Allies: "Союзники"
+ Axis: "Ось"
+ Comintern: "Коминтерн"
+ western_pacific_sphere: "Западно-Тихоокеанская сфера влияния"
+ south_west_pacific_initiative: "Юго-Западная Тихоокеанская инициатива"
+ north_american_alliance: "Североамериканский альянс"
+ northern_sovereignty_coalition: "Северная суверенная коалиция"
+ SAF_faction_uotap: "Союз африканских народов"
+ ROM_BALKAN_FACTION: "Бухарестский договор"
+ HUN_BALKAN_FACTION: "Балканский пакт"
+ HUN_PACT_OF_ROME_FACTION: "Римский пакт"
+ ROM_CORDON_SANITAIRE_FACTION: "Санитарный кордон"
+ BALKAN_ENTENTE_FACTION: "Балканская Антанта"
+ CZE_little_entente: "Чешская Антанта"
+ GER_central_powers_faction: "Центральные державы"
+ GER_anti_communist_bloc: "Антикоммунистический блок"
+ JAP_the_old_alliance: "Старый альянс"
+ JAP_the_new_international: "Новый Интернационал"
+ CHI_the_peoples_front: "Народный фронт"
+ PRC_mao_faction: "Блок взаимопомощи"
+ USA_hemisphere_defense_faction: "Договор о взаимной помощи"
+ ENG_commonwealth_of_nations: "Содружество наций"
+ ENG_british_communist_alternative: "Британская коммунистическая альтернатива"
+ FACTION_NAME_DEMOCRATIC_1: "$CONTINENT_ADJ$ ассоциация"
+ FACTION_NAME_DEMOCRATIC_2: "$CONTINENT_ADJ$ Антанта"
+ FACTION_NAME_DEMOCRATIC_3: "$LEADER_COUNTRY_ADJ$ конкордат"
+ FACTION_NAME_DEMOCRATIC_4: "$LEADER_COUNTRY_ADJ$ союз"
+ FACTION_NAME_DEMOCRATIC_5: "$CONTINENT_ADJ$ коалиция"
+ FACTION_NAME_DEMOCRATIC_6: "$CONTINENT_ADJ$ федерация"
+ FACTION_NAME_COMMUNIST_1: "$LEADER_COUNTRY_ADJ$ договор"
+ FACTION_NAME_COMMUNIST_2: "$CONTINENT_ADJ$ синдикат"
+ FACTION_NAME_COMMUNIST_3: "$CONTINENT_ADJ$ объединение"
+ FACTION_NAME_COMMUNIST_4: "$CONTINENT_ADJ$ пакт"
+ FACTION_NAME_COMMUNIST_5: "$LEADER_COUNTRY_ADJ$ блок"
+ FACTION_NAME_FASCIST_1: "Братство континента $CONTINENT$"
+ FACTION_NAME_FASCIST_2: "$CONTINENT_ADJ$ группа"
+ FACTION_NAME_FASCIST_3: "$CONTINENT_ADJ$ лига"
+ FACTION_NAME_FASCIST_4: "Конфедерация континента $CONTINENT$"
+ FACTION_NAME_FASCIST_5: "$CONTINENT_ADJ$ конфедерация"
+ FACTION_NAME_NONALIGNED_1: "$CONTINENT_ADJ$ лига обороны"
+ FACTION_NAME_NONALIGNED_2: "$LEADER_COUNTRY_ADJ$ конгресс"
+ FACTION_NAME_NONALIGNED_3: "$CONTINENT_ADJ$ альянс"
+ FACTION_NAME_NONALIGNED_4: "Конфедерация $CONTINENT_ADJ$ народов"
+ FACTION_NAME_NONALIGNED_5: "$LEADER_COUNTRY_ADJ$ коалиция"
+ HOL_benelux: "Бенилюкс"
+ european_union: "Европейский союз"
+ MTG_USA_NORTH_AMERICAN_DOMINION_FACTION: "Коалиция"
+ anglo_italian_pact: "Англо-итальянский пакт"
+ ENG_coalition_of_free_commonwealth_states: "Коалиция Свободных Государств Содружества"
+ FRA_stresa_front: "Фронт Стрезы"
+ FRA_legitimist_faction: "Альянс легитимистов"
+ FRA_communist_faction: "Парижский договор"
+ SPA_latin_bloc: "Латинский блок"
+ SPC_international_bureau_of_revolutionary_socialist_unity: "Международное бюро революционного социалистического единства"
+ POR_popular_front_bloc: "Блок Народного фронта"
+ POR_royal_iberian_alliance: "Королевский Иберийский союз"
+ FRA_confederation_of_the_rhine: "Рейнская Конфедерация"
+ FRA_continental_system: "Континентальная система"
+ FRA_orleanist_faction: "Антифашистский блок"
+ BUL_greater_bulgarian_federation: "Великая Болгарская Федерация"
+ BUL_balkan_federation_democratic: "Лига Балканских конфедераций"
+ GRE_argos_alliance: "Аргосский альянс"
+ GRE_corfu_cooperative: "Сообщество Корфу"
+ TUR_balkan_pact: "Балканская Антанта"
+ TUR_covenant_of_the_mediterranean: "Средиземноморский пакт"
+ TUR_anti_bolshevik_accord: "Антибольшевистский договор"
+ spazio_vitale: "Жизненное пространство"
+ the_smyrna_friendship_pact: "Смирнский пакт"
+ the_saadabad_concordat: "Саадабадский конкордат"
+ POL_GER_ALLIANCE: "Ноябрьский альянс"
+ BROTHERHOOD: "Балтийское братство"
+ BALTIC_ENTENTE_FACTION: "Балтийская Антанта"
+ POL_baltic_alliance: "Балтийский альянс"
+ FINNO_ESTONIAN_SUPREMACY_LEAGUE: "Лига финского превосходства"
+ POL_habsburg_pact: "Пакт Габсбургов"
+ POL_LIT_SUPREMACY_LEAGUE: "Лига превосходства Содружества"
+ COMMONWEALTH_FACTION: "Альянс Содружества"
+ NPTO: "Северо-тихоокеанский договор"
+ TRIPLE_ENTENTE: "Тройственный союз"
+ ETH_organization_of_african_unity_faction: "Организация африканского единства"
+ ITA_united_socialist_front: "Объединенный социалистический фронт"
+ ITA_italian_confederation: "Итальянская конфедерация"
+ ITA_free_states_of_europe: "Свободные Штаты Европы"
+ ITA_italian_league: "Итальянская лига"
+ scandinavian_defense_union: "Скандинавский оборонительный союз"
+ FIN_northern_defense_front_faction: "Северный фронт обороны"
+ FIN_finnish_supremacy_league: "Лига финского превосходства"
+ NOR_northern_international: "Северный интернационал"
+ DEN_nordic_cooperation_alliance: "Союз скандинавского сотрудничества"
+ DEN_northern_national_front: "Северный национальный фронт"
+ DEN_northern_security_pact: "Северный договор о безопасности"
+ BRA_socialist_latin_american_cooperative: "Латиноамериканский Социалистический Кооператив"
+ AUS_royal_alliance: "Королевский имперский союз"
+ AUS_danubian_federation: "Дунайская федерация"
+ AUS_danubian_bloc: "Дунайский блок"
+ AUS_alpine_federation: "Альпийская федерация"
+ AUS_central_european_alliance: "Центральноевропейский союз"
+ AUS_habsburg_alliance: "Габсбургский альянс"
+ BEL_pride_of_the_golden_lion: "Прайд Золотого льва"
+ BEL_european_union: "Европейский союз"
+ AFG_turko_persian_union: "Турко-персидский союз"
+ BEL_benelux_union_faction: "Союз Бенилюкс"
+ BEL_SPR_alliance: "Бельгийско-испанский альянс"
+ PER_communist_faction: "Альянс Персидского залива"
+ eurasian_communist_bloc: "Советский евразийский союз"
+ PER_islamic_faction: "Исламское братство"
+ IRQ_arab_league_faction: "Арабская лига"
+ IRQ_meto: "Организация ближневосточного договора"
+ SSB_faction: "Саадабадский альянс"
+ MAN_popular_front: "Народный фронт"
+ PRC_the_peoples_front: "Народный фронт"
+ PRC_asian_democratic_union_faction: "Азиатский демократический союз"
+ defensive_democratic_faction: "Оборонительный демократический альянс"
+ regional_faction: "Региональный оборонительный пакт"
+ coalition_of_liberty_faction: "Коалиция свободы"
+ world_revolution_faction: "Мировая революция"
+ bulwark_pact_faction: "The Bulwark Pact" #NT!
+ industrial_powerhouse_faction: "The Industrial Charter" #NT!
+ african_unity_faction: "Африканское единство"
+ pan_american_faction: "Организация американских государств"
+ PHI_hispanic_coalition: "Испаноязычная коалиция"
+ european_unity_faction: "Европейское единство"
+ asian_dominance_faction: "The Asian Alliance" #NT!
+ middle_east_dominance_faction: "Ближневосточный пакт"
+  
+ FACTION_TITLE: "Альянс"
+ RULE_TYPE_ITEM_TOOLTIP: "Тип правила: $RULE_TYPE|H$"
+ RULE_MODIFIER_TOOLTIP: "Дает модификатор:\n$MODIFIER$"
+ FACTION_GOAL_ITEM_TOOLTIP: "Цель альянса: $FACTION_GOAL|H$"
+ FACTION_GOAL_PROGRESS_TOOLTIP: "Прогресс: $PROGRESS|%0$"
+ FACTION_PROGRESS_SECTION_DESC: "$NAME|Y$\n when progress is between: $MIN|%Y$ - $MAX|%Y$\nThe following applies:\n$MODIFIER$\n$RULE$\n$ACTIVATION_EFFECT$\n$DEACTIVATION_EFFECT$" #NT!
+ usa_commonwealth_faction: "Американское содружество"
+  
+ war_declaration_rules_applicability: "§gПока действует это правило, объявлять войну можно только государствам, отвечающим следующим требованиям:§!"
+ war_declaration_rule_any_country: "Любое государство"
+ war_declaration_rule_independent_countries_only: "Independent Countries Only" #NT!
+ war_declaration_rule_faction_leader_only: "Faction Leader Only" #NT!
+ war_declaration_rule_major_only: "Major Countries Only" #NT!
+ war_declaration_generated_tension_10: "Цель увеличила мировую напряженность хотя бы на 10%"
+ war_declaration_generated_tension_25: "Цель увеличила мировую напряженность хотя бы на 25%"
+ war_declaration_threat_75: "Мировая напряженность не менее 75%"
+ war_declaration_threat_50: "Мировая напряженность не менее 50%"
+ war_declaration_threat_25: "Мировая напряженность не менее 25%"
+ generate_wargoal_threat_reduction_20: "Снижение затрат на оправдание цели войны на 20%"
+ generate_wargoal_threat_reduction_40: "Снижение затрат на оправдание цели войны на 40%"
+  
+ call_to_war_rules_applicability: "§gПока действует это правило, призывать вступить в войну другие страны — участницы альянса могут только государства, отвечающие следующим требованиям:§!"
+ call_to_war_rule_faction_leader_only: "Только лидер альянса"
+ call_to_war_rule_major_only: "Только ведущие державы"
+ call_to_war_rule_independent_only: "Только независимые страны"
+  
+ guarantee_threat_reduction_15: "Снижение напряженности для гарантий на 15%"
+ guarantee_threat_reduction_40: "Снижение напряженности для гарантий на 40%"
+  
+ faction_peace_rule_puppeting_focus: "Puppeting Focus" #NT!
+ faction_peace_rule_liberation_focus: "Liberation Focus" #NT!
+ faction_peace_rule_no_puppeting: "Puppets Discouraged" #NT!
+ faction_peace_take_claimed_focus: "Take Claimed States Focus" #NT!
+  
+ faction_peace_rule_ideology_focus: "Ideology Focus" #NT!
+ faction_peace_rule_conquest_focus: "Conquest Focus" #NT!
+ faction_peace_china_focus: "Focus on China" #NT!
+ government_in_exile_allowed: "Разрешены правительства в изгнании"
+ government_in_exile_not_allowed: "Запрещены правительства в изгнании"
+  
+ faction_rule_modifier_encourage_liberate_tt: "§G20%§! снижение стоимости для мирного действия §Y«Освободить»§!\n§R5%§! повышение стоимости для мирного действия §Y«Захватить регионы»§!"
+ faction_rule_modifier_encourage_puppet_tt: "§G20%§! снижение стоимости для мирного действия §Y«Сделать марионеткой»§!\n§R5%§! повышение стоимости для мирного действия §Y«Захватить регионы»§!"
+ faction_rule_modifier_discourage_puppet_tt: "§R100%§! повышение стоимости для мирного действия §Y«Сделать марионеткой»§!"
+ faction_rule_modifier_encourage_force_government_tt: "§G20%§! снижение стоимости для мирного действия §Y«Заставить правительство»§!."
+ faction_rule_modifier_encourage_take_states_tt: "§G10%§! снижение стоимости для мирного действия §Y«Захватить регионы»§!\n§R5%§! повышение стоимости для мирного действия §Y«Освободить»§!"
+ faction_rule_modifier_encourage_take_claimed_states_tt: "§G20%§! снижение стоимости для мирного действия §Y«Захватить регионы»§! в отношении регионов, на которые заявлены претензии\n§R5%§! повышение стоимости для мирного действия §Y«Сделать марионеткой»§!"
+ faction_rule_modifier_encourage_chinese_states_tt: "§G5%§! снижение стоимости для мирного действия §Y«Захватить регионы»§! и §Y«Марионетка»§! в отношении китайских национальных территорий."
+  
+ manpower_contribution_disabled: "No Manpower Contribution" #NT!
+ manpower_contribution_small: "Limited Enforced Manpower Contribution" #NT!
+ manpower_contribution_medium: "Medium Enforced Manpower Contribution" #NT!
+ manpower_contribution_high: "High Enforced Manpower Contribution" #NT!
+  
+ dismissal_rules_applicability: "§gWhen active, only countries that fulfill the following conditions can be ejected from our Faction:§!" #NT!
+ dismissal_rule_ideology_not_democratic: "Недемократические страны"
+ dismissal_rule_ideology_not_communism: "Некоммунистические страны"
+ dismissal_rule_ideology_communist: "Коммунистические страны"
+ dismissal_rule_ideology_fascist: "Фашистские страны"
+ dismissal_rule_ideology_democratic: "Демократические страны"
+ dismissal_rule_world_tension: "Caused world Tension" #NT!
+ dismissal_rule_offensive_war: "Waging Independent Wars" #NT!
+  
+ change_leader_rules_applicability: "§gПока действует это правило, становиться лидерами альянса могут только государства, отвечающие следующим требованиям:§!"
+ change_leader_rule_manifest_below_35: "Показатель манифеста альянса ниже 35%"
+ change_leader_rule_never: "Never" #NT!
+ change_leader_rule_manpower: "Exceeds Leader's Deployed Manpower" #NT!
+ change_leader_rule_industry: "Exceeds Leader's Industry" #NT!
+  
+  # SEA faction effects 
+ ADD_FACTION_RULE_EFFECT: "Добавить правило «$RULE|H$» для альянса «$FACTION|H$»"
+ REMOVE_FACTION_RULE_EFFECT: "Удалить правило «$RULE|H$» для альянса «$FACTION|H$»"
+ SET_FACTION_RULE_EFFECT: "Установить правило «$RULE|H$» для альянса «$FACTION|H$»"
+ SET_FACTION_MEMBER_UPGRADE_MIN: "Установить улучшение «$UPGRADENAME$» на минимальный уровень $MIN|%H$ для альянса $FACTION|H$"
+ SET_FACTION_UPGRADE: "Установить улучшение «$UPGRADENAME$» для альянса $FACTION|H$"
+ SET_FACTION_UPGRADE_NO_FACTION: "Установить улучшение «$UPGRADENAME|H$» для альянса"
+ SET_FACTION_MEMBER_UPGRADE: "Установить улучшение «$UPGRADENAME$» для страны $COUNTRYNAME|H$"
+ SET_FACTION_MEMBER_UPGRADE_NO_FACTION: "Установить улучшение «$UPGRADENAME$» для страны $COUNTRYNAME|H$"
+ SET_FACTION_MANIFEST_EFFECT: "Изменить манифест альянса «$FACTION|H$» на «$GOAL|H$»"
+ ADD_FACTION_GOAL_EFFECT: "Добавить цель «$GOAL|H$» для альянса «$FACTION|H$»"
+ REMOVE_FACTION_GOAL_EFFECT: "Удалить манифест «$GOAL|H$» из альянса «$FACTION|H$»"
+ ADD_FACTION_INITIATIVE_EFFECT: "Добавить $AMOUNT|H0$ ед. инициативы альянсу «$FACTION|H$»"
+ ADD_FACTION_INITIATIVE_EFFECT_NO_FACTION: "Альянс получает $AMOUNT|H0$ оч. инициативы"
+ ADD_FACTION_INFLUENCE_EFFECT_NO_FACTION: "Добавить государству $COUNTRY|H$ $VAL$ ед. §Yвлияния в альянсе§!, если оно в альянсе"
+ ADD_FACTION_INFLUENCE_EFFECT: "§YВлияние в альянсе§! государства $COUNTRY|H$ увеличивается на $VAL$ ед., если оно состоит в альянсе «$FACTION|H$»"
+ FACTION_INFLUENCE_VALUE: "$VAL|H$"
+ FACTION_INFLUENCE_RATIO: "$VAL|H%$"
+ FACTION_RATIO: "$VAL|H%$"
+ ADD_FACTION_POWER_PROJECTION_EFFECT: "Добавить $VAL|H0$ ед. демонстрации силы альянсу $FACTION|H$"
+ ADD_FACTION_POWER_PROJECTION_EFFECT_NO_FACTION: "Добавить $VAL|H0$ ед. демонстрации силы альянса"
+ FACTION_ADD_EXTRA_GOAL_SLOT: "Добавить альянсу «$FACTION|H$» $VAL|+0$ ячеек целей категории $CATEGORY|H$"
+ FACTION_ADD_EXTRA_GOAL_SLOT_NO_FACTION: "Добавить вашему альянсу $VAL|+0$ шт. ячеек целей категории «$CATEGORY|H$»"
+  
+  # SEA faction triggers 
+ TRIGGER_HAS_FACTION_TEMPLATE: "Государство $COUNTRY|H$ состоит в альянсе «$FACTION|H$»"
+ TRIGGER_HAS_NOT_FACTION_TEMPLATE: "Государство $COUNTRY|H$ не состоит в альянсе «$FACTION|H$»"
+ TRIGGER_HAS_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ опережает текущего лидера альянса и его субъектов в развернутых людских ресурсах. $MISSING_EXPL$"
+ TRIGGER_HAS_NOT_MANPOWER_TO_BECOME_LEADER: "$COUNTRY|H$ не опережает текущего лидера альянса и его субъектов в развернутых людских ресурсах. $MISSING_EXPL$"
+ TRIGGER_HAS_INDUSTRY_TO_BECOME_LEADER: "$COUNTRY|H$ опережает лидера альянса по количеству фабрик. $MISSING_EXPL$"
+ TRIGGER_HAS_NOT_INDUSTRY_TO_BECOME_LEADER: "$COUNTRY|H$ не опережает лидера альянса по количеству фабрик. $MISSING_EXPL$"
+ TRIGGER_MISSING_EXPL: "Сейчас: $CURRENT|H*$. Минимальное требуемое значение: $MIN_NEED|H*$"
+ TRIGGER_HAS_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ имеет цель альянса «$GOAL|H$»"
+ TRIGGER_HAS_NOT_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ не имеет цели альянса «$GOAL|H$»"
+ TRIGGER_HAS_COMPLETED_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ — достигнута цель альянса «$GOAL|H$»"
+ TRIGGER_HAS_NOT_COMPLETED_FACTION_GOAL: "$COUNTRY_OR_FACTION|H$ — цель альянса «$GOAL|H$» не достигнута "
+ TRIGGER_HAS_POLITICAL_SUPPORT: "Государство $COUNTRY|H$ придерживается той же идеологии ($IDEOLOGY|H$), что и лидер."
+ TRIGGER_HAS_NOT_POLITICAL_SUPPORT: "Государство $COUNTRY|H$ не придерживается той же идеологии ($IDEOLOGY|H$), что и лидер."
+ FACTION_MANIFEST_FULFILLMENT_LESS_THAN: "Faction manifest fulfillment is less than $VALUE|H$" #NT!
+ FACTION_MANIFEST_FULFILLMENT_MORE_THAN: "Faction manifest fulfillment is greater than $VALUE|H$" #NT!
+ FACTION_UPGRADE_LESS_THAN: "Уровень улучшения в альянсе ниже «$UPGRADENAME|H$»"
+ FACTION_UPGRADE_MORE_THAN: "Уровень улучшения в альянсе выше «$UPGRADENAME|H$»"
+ FACTION_UPGRADE_EQUALS: "Обладает улучшением «$UPGRADENAME|H$» в альянсе"
+ FACTION_MEMBER_UPGRADE_LESS_THAN: "Уровень улучшения «$UPGRADENAME|H$» державы $COUNTRYNAME|H$ в альянсе ниже «$UPGRADENAME|H$"
+ FACTION_MEMBER_UPGRADE_MORE_THAN: "Уровень улучшения «$UPGRADENAME|H$» державы $COUNTRYNAME|H$ в альянсе выше «$UPGRADENAME|H$"
+ FACTION_MEMBER_UPGRADE_EQUALS: "Держава $COUNTRYNAME|H$ обладает улучшением «$UPGRADENAME|H$» в альянсе"
+ FACTION_GOAL_FULFILLMENT_IN_RANGE: "Прогресс достижения цели «$GOAL|H$» находится между $MIN|%0H$ и $MAX|%0H$"
+ FACTION_GOAL_FULFILLMENT_NOT_IN_RANGE: "Цель «$GOAL|H$» достигнута менее чем на $MIN|%0H$ или более чем на $MAX|%0H$"
+ FACTION_GOAL_FULFILLMENT_LESS_THAN: "Цель «$GOAL|H$» достигнута менее чем на $VALUE|%0H$"
+ FACTION_GOAL_FULFILLMENT_MORE_THAN: "Цель «$GOAL|H$» достигнута более чем на $VALUE|%0H$"
+ FACTION_POWER_PROJECTION_LESS_THAN: "Демонстрация силы альянса составляет меньше, чем $VALUE|H$"
+ FACTION_POWER_PROJECTION_MORE_THAN: "Демонстрация силы альянса составляет больше, чем $VALUE|H$"
+ FACTION_INFLUENCE_LESS_THAN: "Влияние альянса уступает $VALUE|H$"
+ FACTION_INFLUENCE_MORE_THAN: "Влияние альянса превышает $VALUE|H$"
+ FACTION_INFLUENCE_RANK_LESS_THAN: "Ранг влияния альянса уступает $VALUE|H0$"
+ FACTION_INFLUENCE_RANK_MORE_THAN: "Ранг влияния альянса превышает $VALUE|H0$"
+ guardians_of_peace_been_at_war_flag: "Государство принимало участие в войне"
+  
+  ## Manifests 
+ defense_of_democracy_goal_name: "Защита демократии"
+ defense_of_democracy_goal_desc: "Democracy is under threat. We must work together to ensure that the democratic countries in the world does not fall one by one." #NT!
+ containment_of_communism_goal_name: "Containment of Communism" #NT!
+ containment_of_communism_goal_desc: "Мир не будет спать спокойно, пока ему грозит коммунизм."
+ suppress_regional_fascism_goal_name: "Suppress fascism" #NT!
+ suppress_regional_fascism_goal_desc: "По планете грозит распространиться коричневая чума. Чем больше стран станет ее жертвой, тем опаснее будет обстановка в мире."
+ between_the_seas_goal_name: "Между морями"
+ between_the_seas_goal_desc: "Прочная стена в виде союзных территорий от Черного моря до Балтики оградит нас от любых угроз."
+ china_territorial_integrity_goal_name: "Территориальная целостность"
+ china_territorial_integrity_goal_desc: "China should be liberated and united under one ruling party. Only by regaining the control over our territories, from external and internal enemies, we can restore China to the glory it deserves." #NT!
+ china_chinese_consolidation_goal_name: "Единение Китая"
+  
+ china_wang_front_expansion_name: "Победа над империализмом"
+ china_wang_front_expansion_desc: "Пришло время дать отпор империалистам, которые хотят по-прежнему хозяйничать в Восточной Азии. Нам нужно создать свой союз держав в этом регионе, чтобы никто не смог поставить нас на колени."
+ china_asian_democratic_union_name: "$china_wang_front_expansion_name$"
+ china_asian_democratic_union_desc: "$china_wang_front_expansion_desc$"
+ strength_in_unity_goal_name: "Сила в единстве"
+ strength_in_unity_goal_desc: "Countries in our corner of the world should stand together. By building a strong faction, with many members, we can ensure that we have the best chances possible of remaining independent and avoid being dragged into conflicts we want to stay out of." #NT!
+ conquest_of_territory_goal_name: "Завоевание и доминирование"
+ conquest_of_territory_goal_desc: "Когда со всех сторон окружают враги, остается лишь одно: раздвигать границы. Экспансия поможет нам создать буферные зоны и завладеть новыми ресурсами."
+ spread_of_communism_goal_name: "Мировая революция"
+ spread_of_communism_goal_desc: "Пробил час восстания народных масс. А там, где они не способны восстать самостоятельно, им поможет наше оружие."
+  
+ control_of_the_balkans_goal_name: "Безопасность Балкан"
+ control_of_the_balkans_goal_desc: "Чужеземные державы всегда пытались распространить свое влияние на Балканах. Нам нужно держаться вместе и давать отпор любым попыткам захватчиков вторгнуться в наш регион."
+  
+ african_decolonization_goal_name: "Деколонизация Африки"
+ african_decolonization_goal_desc: "Пришло время Африке восстать против своих врагов и угнетателей. Мы должны освободить континент, и если понадобится — силой!"
+  
+ habsburg_hegemony_goal_name: "Габсбургская гегемония"
+ habsburg_hegemony_goal_desc: "Семья — важнейший элемент любого союза, и наш альянс — не исключение. Мы должны защитить власть европейских монархий и распространить среди них свое влияние."
+  
+ indifference_is_a_threat_goal_name: "Равнодушие — это угроза"
+ indifference_is_a_threat_goal_desc: "Учитывая, что крупный конфликт в Европе практически неминуем, мы должны избежать любых неожиданностей. Страны, отказывающиеся занять чью-либо сторону, должны быть исключены."
+  
+ security_through_expansion_goal_name: "Безопасность посредством экспансии"
+ security_through_expansion_goal_desc: "Расположенные вокруг наших границ государства станут для нас превосходным щитом, как только окажутся под нашей властью."
+  
+ an_iron_curtain_goal_name: "Железный занавес"
+ an_iron_curtain_goal_name_desc: "Чтобы лучше защитить родину, мы должны построить вокруг себя барьер из государств-марионеток, тогда никто не придет в наш дом без спроса."
+ eastern_european_security_goal_name: "Восточноевропейская безопасность"
+ eastern_european_security_goal_desc: "Чтобы защитить свои интересы в Восточной Европе, нам необходимо установить в странах к западу от нас дружественные нам режимы."
+  
+  ## Short term Goals 
+ building_up_guam_goal_name: "Building up Guam" #NT!
+ building_up_guam_goal_desc: "Нам нужно обеспечить себе доступ к [PHI.GetNameRuDat] на случай войны с [JAP.GetNameRuInst]. Кроме того, будет очень полезно иметь в регионе плацдарм для нашего флота. Для этого как раз подойдет [638.GetName]."
+ the_two_seas_goal_name: "The Two Seas" #NT!
+ the_two_seas_goal_desc: "Нам нужно обеспечить значительное военное присутствие как в Балтийском, так и в Черном море."
+ one_germany_goal_name: "One Germany" #NT!
+ one_germany_goal_desc: "Чтобы наша политическая опора получилась крепкой и надежной, нам понадобится сильная и объединенная Германия. Договоры, подписанные на Парижской мирной конференции, запрещают воссоединение страны — но мы докажем миру, что никакие договоры не способны сковать нашу волю."
+ guardians_of_peace_goal_name: "Guardians of Peace" #NT!
+ guardians_of_peace_goal_desc: "Тучи сгущаются на горизонте. Нам нужно предотвратить слишком раннее начало войны, чтобы у нашего союза было время на подготовку к неминуемому конфликту."
+ a_major_player_goal_name: "A Major Player" #NT!
+ a_major_player_goal_desc: "TODO" #NT!
+ growing_the_faction: "Growing the Faction" #NT!
+ growing_the_faction_desc: "TODO" #NT!
+ a_large_faction_goal_name: "A Large Faction" #NT!
+ a_large_faction_goal_desc: "TODO" #NT!
+ preemptive_strike_on_fascism_goal_name: "Preemptive Strike on Fascism" #NT!
+ preemptive_strike_on_fascism_goal_desc: "Не будем ждать, пока враг нанесет удар первым: инициатива должна быть на нашей стороне."
+ a_great_fortress_goal_name: "A Mighty Fortress" #NT!
+ a_great_fortress_goal_desc: "Нет ничего важнее подготовки. Укрепив пограничные регионы и важнейшие позиции по последнему слову фортификационной науки, мы станем непобедимы."
+ aggressive_defense_goal_name: "Aggressive Defense" #NT!
+ aggressive_defense_goal_desc: "We shall not yield one inch to the powers of fascism. The key is to defend at the borders, and whenever possible push into enemy territory." #NT!
+ war_on_communism_goal_name: "War on Communism" #NT!
+ war_on_communism_goal_desc: "Распространение коммунизма необходимо остановить любым путем."
+ defeat_of_communism_goal_name: "Defeat of Communism" #NT!
+ defeat_of_communism_goal_desc: "Борьбу с мировым коммунизмом надо начинать у себя дома. Сначала мы искореним коммунизм в этой части света."
+ defeat_of_fascism_goal_name: "Defeat of Fascism" #NT!
+ defeat_of_fascism_goal_desc: "Чтобы раз и навсегда покончить с распространением фашизма, нужно начать с себя. Мы искореним фашизм в этой части света."
+ defeat_of_anti_communists_goal_name: "Defeat of the Anti Communists" #NT!
+ defeat_of_anti_communists_goal_desc: "Первый шаг к мировой революции — это обращение региональных держав, которые нам противостоят. В первейшую очередь мы должны устранить все угрозы на нашей собственном континенте."
+ defeating_our_enemies_goal_name: "Defeating our Enemies" #NT!
+ defeating_our_enemies_goal_desc: "Времена сейчас смутные, и войны избежать не удастся. Мы должны сделать так, чтобы, когда она начнется, мы оказались на стороне победителей."
+ is_victor_in_pc_tt: "На стороне победителя на мирной конференции"
+ a_military_base_goal_name: "A Military Base" #NT!
+ a_military_base_goal_desc: "Священный поход против коммунизма невозможен без оружия, а массовое оружейное производство — без развитой военной промышленности."
+ a_military_base_tech_bonus: "A Military Base Goal Bonus" #NT!
+ resource_control_goal_name: "Secure the Resource Supply" #NT!
+ resource_control_goal_desc: "Альянсу необходимо убедиться, что в его распоряжении есть ресурсы, необходимые для борьбы с мировыми угрозами."
+ secure_european_continent_goal_name: "Fortress Europa" #NT!
+ secure_european_continent_goal_desc: "Мы должны убедиться что Европейский континент поддерживает наши цели. [faction.GetName] станет главной силой Европы."
+ secure_north_africa_goal_name: "Контроль над Северной Африкой"
+ secure_north_africa_goal_desc: "Мы должны стремиться к господству не только над Европой, но и обеспечить себе больше чем просто плацдарм в Северной Африке."
+ an_armored_fist_goal_name: "An Armored Fist" #NT!
+ an_armored_fist_goal_desc: "Новые времена создают возможности для новой тактики. Будущее за танками. Необходимо, чтобы у нашего союза было достаточно танков, чтобы добиться господства на поле боя."
+ an_infantry_army_goal_name: "An Infantry Army" #NT!
+ an_infantry_army_goal_desc: "Пехота — хребет любой армии. Чтобы наши притязания имели вес и на дипломатическом фронте, и на театре военных действий, нам понадобится много пехоты."
+ high_seas_fleet_goal_name: "The North Atlantic" #NT!
+ high_seas_fleet_goal_desc: "Ensuring that our enemies does not have control over the North Atlantic is vital to our operations. If we can disrupt that it both means we won't suffer the effects of a Naval blockade, and that our fleets can roam freely." #NT!
+ high_seas_fleet_tech_bonus: "High Seas Fleet Goal Bonus" #NT!
+ control_the_chinese_coast_goal_name: "Контроль над береговой линией"
+ control_the_chinese_coast_goal_desc: "В случае нападения мы должны стараться как можно дольше сохранять доступ к портам. Наше выживание зависит от возможности получать товары из заморских стран."
+ guerilla_expansion_goal_name: "Организация сопротивления"
+ guerilla_expansion_goal_desc: "Возможно, нам не хватит сил сражаться с врагом на его условиях. Поэтому мы дадим ему бой на наших условиях."
+ industrial_expansion_goal_name: "Расширение промышленности"
+ industrial_expansion_goal_desc: "Сила любого альянса заключается в первую очередь в крепкой промышленной базе. Чтобы занять место среди великих держав, придется нарастить производственную мощь."
+ industrial_expansion_tech_bonus: "Industrial Expansion Goal" #NT!
+ secure_chinese_waters_goal_name: "Установить контроль над водами Китая"
+ secure_chinese_waters_goal_desc: "Мы доминируем на земле, но, учитывая протяженную береговую линию, следует позаботиться о том, чтобы никто не мог напасть на нас с моря. Наша безопасность начинается далеко от берегов."
+ faction_goal_subjugate_the_faction_name: "Подчинить альянс"
+ faction_goal_subjugate_the_faction_desc: "The only way that we will be able to resist the onslaught of the foreign invaders is if we present a unified front with strong leadership. From many differnt voices a great choir shall sound." #NT!
+ faction_goal_north_subjugated_name: "Подчинить север"
+ faction_goal_north_subjugated_desc: "Если мы сконцентрируем усилия на интеграции этой части нашего альянса, остальные военачальники поймут, откуда ветер дует, и присмиреют."
+ faction_goal_west_subjugated_name: "Subjugate the South" #NT!
+ faction_goal_west_subjugated_desc: "Если мы сконцентрируем усилия на интеграции этой части нашего альянса, остальные военачальники поймут, откуда ветер дует, и присмиреют."
+ faction_goal_south_subjugated_name: "Subjugate the West" #NT!
+ faction_goal_south_subjugated_desc: "Если мы сконцентрируем усилия на интеграции этой части нашего альянса, остальные военачальники поймут, откуда ветер дует, и присмиреют."
+ faction_goal_no_japanese_in_china_name: "Изгнать захватчиков"
+ faction_goal_no_japanese_in_china_desc: "Наш народ больше не намерен терпеть издевательства со стороны Японии. Пора выгнать японцев из Китая."
+ faction_goal_the_northern_mandate_name: "The Northern Mandate" #NT!
+ faction_goal_the_northern_mandate_desc: "Чтобы дать нашему народу надежду на процветание, нам понадобятся территории и ресурсы, которыми богата Сибирь. Нынешние владельцы этой земли неспособны грамотно распорядиться ее богатствами, так что у нас есть на нее все права."
+ faction_goal_the_southern_mandate_name: "The Southern Mandate" #NT!
+ faction_goal_the_southern_mandate_desc: "В былые славные годы наше влияние распространялось на регионы к югу от нас, и мы вернем контроль над ними. Богатство этих земель подарит нам бесконечные возможности."
+ faction_goal_the_greater_game_name: "The Greater Game" #NT!
+ faction_goal_the_greater_game_desc: "Многие империи пытались подчинить Центральную Азию и были изгнаны. Пришла пора нам снова отправиться через степи на запад."
+ suppress_asian_communism_goal_name: "Борьба с коммунизмом в Азии"
+ suppress_asian_communism_goal_desc: "Коммунизм угрожает традиционному образу жизни и естественному порядку вещей. Мы должны объединенными усилиями искоренять его везде, где он поднимает голову."
+ strategic_resource_control_goal_name: "Контроль стратегических ресурсов"
+ strategic_resource_control_goal_desc: "Кто контролирует стратегические ресурсы, контролирует мировую политику."
+ align_china_goal_name: "Укрощение Китая"
+ align_china_goal_desc: "Различные китайские фракции угрожают безопасности всего региона. Наилучшим решением проблемы была бы их замена на дружественные нам."
+ control_the_chinese_capitals_goal_name: "Control the Chinese capitals" #NT!
+ control_the_chinese_capitals_goal_desc: "Если мы возьмем под контроль исторические столицы Китая, сопротивление нашим планам заметно ослабнет."
+ war_on_communism_in_asia_goal_name: "War on Communism" #NT!
+ war_on_communism_in_asia_goal_desc: "Окончательно победить коммунизм можно только силой оружия. Чтобы обезопасить себя от его влияния, мы должны искоренить эту заразу по всей Азии."
+ coastal_security_goal_name: "Coastal Security" #NT!
+ coastal_security_goal_desc: "Нам надо добиться полного контроля над морями Восточной и Юго-Восточной Азии. Только тогда мы сможем гарантировать, что западные империалисты не вторгнутся на наши берега."
+ secure_the_oil_supply_goal_name: "Контроль над поставками нефти"
+ secure_the_oil_supply_goal_desc: "Если мы планируем вести долгую войну, надо любой ценой обеспечить себе достаточные поставки нефти."
+ secure_the_oil_supply_tech_bonus: "Бонус цели «Контроль над поставками нефти»"
+ protector_of_peace_goal_name: "На страже мира"
+ protector_of_peace_goal_desc: "Мы не станем вмешиваться в войны, идущие в Европе и других частях света. Вместо этого мы будем поддерживать мир и побуждать другие страны к ненасильственному урегулированию конфликтов."
+ african_domination_goal_name: "Господство в Африке"
+ african_domination_goal_desc: "Наша высшая цель — оградить Африку от всякого иностранного влияния. Кто не с нами, те против нас, а значит, их необходимо подчинить своей воле."
+ contain_japanese_expansion_asia_goal_name: "Сдерживание японской экспансии"
+ contain_japanese_expansion_asia_goal_desc: "TODO" #NT!
+ pan_americanism_goal_name: "Панамериканизм"
+ pan_americanism_goal_desc: "Страны Америки должны объединиться. Только сообща мы сможем надежно защитить эту часть света и создать единый фронт, способный дать отпор любому."
+  
+ amerindian_liberation_goal_name: "Освобождение американских индейцев"
+ amerindian_liberation_goal_desc: "Туземные обитатели Нового Света должны быть освобождены от ига чужеземных захватчиков, которые их сейчас угнетают."
+ islamic_brotherhood_goal_name: "Исламское братство"
+ islamic_brotherhood_goal_desc: "Исламские страны всего мира должны объединиться, чтобы дать отпор тем, кто желает завоевать и поработить нас."
+  
+ baltic_security_goal_name: "Baltic Security" #NT!
+ baltic_security_goal_desc: "Чтобы обеспечить мирное будущее наших граждан, мы должны всеми силами защищать Балтию. Сохранив ее под своим контролем, мы дадим ее жителям надежду на процветание."
+  
+ nordic_defence_goal_name: "Nordic Defense" #NT!
+ nordic_defence_goal_desc: "In order to secure the futures of our citizens and civilians, we must protects the Nordic region with all we have. Only by keeping the imposing empires out, will we be able to thrive." #NT!
+  
+ european_dominance_goal_name: "European Dominance" #NT!
+ european_dominance_goal_desc: "Объединив большую часть Европы под одним знаменем, мы сможем создать прочный союз, способный устоять даже перед самыми опасными угрозами."
+ asian_dominance_goal_name: "Asian Dominance" #NT!
+ asian_dominance_goal_desc: "Когда наш альянс возьмет под контроль большую часть Азии, миру придется с нами считаться."
+ middle_east_dominance_goal_name: "Middle East Control" #NT!
+ middle_east_dominance_goal_desc: "Ближний Восток — огромное пространство от Аравийского полуострова и Ливана до Афганских гор. Мы должны объединить все эти земли и взять их под полный контроль. Этот регион может стать крупным игроком, если все будут работать вместе."
+  
+ the_arteries_of_trade_goal_name: "The Arteries of Trade" #NT!
+ the_arteries_of_trade_goal_desc: "Чтобы гарантировать выживание наших стран, мы должны взять под контроль основные торговые маршруты."
+ the_atomic_race_goal_name: "The Atomic Race" #NT!
+ the_atomic_race_goal_desc: "Мы должны позаботиться, чтобы наши нынешние и будущие враги не получили ядерное оружие раньше нас. Только став первыми, мы гарантированно защитим себя от посягательств других держав."
+ the_atomic_race_complete_trigger: "Участник альянса [ROOT.GetFactionName] — первая страна, завершившая проект атомной бомбы"
+ rule_the_waves_goal_name: "Править морями"
+ rule_the_waves_goal_desc: "Чтобы покорить мировой океан, понадобится великая армада. Основой её станут крупные корабли."
+ rule_the_waves_tech_bonus: "Бонус цели «Править морями»"
+ imperial_glory_goal_name: "Imperial Glory" #NT!
+ imperial_glory_goal_desc: "Мы должны удержать ключевые бастионы своей империи и ее союзников. Сохранив контроль над своими активами в разных частях света, мы покажем миру, что по-прежнему остаемся силой, с которой стоит считаться."
+  
+ production_quotas_goal_name: "Production Quotas" #NT!
+ production_quotas_goal_desc: "[ROOT.GetFactionName] не выстоит, если никто не будет защищать альянс с оружием в руках. И чем больше у нас будет оружия, тем лучше мы сможем дать отпор любой угрозе."
+ stall_the_fascist_threat_goal_name: "Задержать фашистскую угрозу"
+ stall_the_fascist_threat_goal_desc: "Фашизм расползается по миру, и наша задача — хотя бы замедлить этот процесс. Вскоре он наверняка поглотит Испанию, но мы тем не менее постараемся отсрочить ее поражение, пока сами не окажемся готовы противостоять новой чуме. Сковав вражеские войска в Испании, мы отвлечем их внимание, а значит — выиграем драгоценное время."
+ the_red_tide_goal_name: "The Red Tide" #NT!
+ the_red_tide_goal_desc: "Нет ничего важнее наземных операций, но для них нам понадобится десятимиллионная армия — оплот нашей безопасности."
+ military_infrastructure_goal_name: "Military Infrastructure" #NT!
+ military_infrastructure_goal_desc: "Развитая инфраструктура важна для того, чтобы обеспечить надлежащее снабжение защитников наших границ."
+ ensure_military_r_d_goal_name: "Ensure Military R&D" #NT!
+ ensure_military_r_d_goal_desc: "Мы должны обеспечить соответствие нашего военного уровня современным стандартам, создав предприятия, специализирующиеся на исследованиях и разработке передовых прототипов и новых концепций."
+ spy_master_goal_name: "Spy Master" #NT!
+ spy_master_goal_desc: "Один из участников альянса должен специализироваться на шпионаже и сборе разведданных, чтобы курировать и направлять операции альянса."
+  
+  # Mid term Goals 
+ undoing_brest_litowsk_goal_name: "Undoing Brest-Litowsk" #NT!
+ undoing_brest_litowsk_goal_desc: "The disgraseful peace of Brest Litowsk was never fully undone. It is time to erase the last parts of this shameful part of our history." #NT!
+  
+ marine_corps_goal_name: "Marine Corps" #NT!
+ marine_corps_goal_desc: "Развитие морских десантных войск сильно укрепит наш наступательный потенциал и позволит нам действовать на отдаленных территориях."
+ marine_corps_tech_bonus: "Marine Corps Goal Bonus" #NT!
+ submarine_force_goal_name: "Submarine Force" #NT!
+ submarine_force_goal_desc: "Чтобы перекрыть пути снабжения войск противника, нужен сильный подводный флот."
+ submarine_force_tech_bonus: "Submarine Force Goal Bonus" #NT!
+ convoy_escort_force_goal_name: "Convoy Escort Force" #NT!
+ convoy_escort_force_goal_desc: "Для защиты путей снабжения нам требуется достаточное количество кораблей сопровождения."
+ convoy_escort_force_tech_bonus: "Convoy Escort Force Goal Bonus" #NT!
+ air_superiority_goal_name: "Air Superiority" #NT!
+ air_superiority_goal_desc: "Контроль над воздушным пространством определяет успех и на суше, и на море. Для завоевания господства в воздухе нам требуется достаточное количество истребителей."
+ air_superiority_tech_bonus: "Air Superiority Goal Bonus" #NT!
+ control_mexican_oil_goal_name: "Контролировать мексиканскую нефть"
+ control_mexican_oil_goal_desc: "Завладев нефтяными месторождениями Мексики, мы обеспечим запасы топлива для промышленных и военных нужд."
+ control_curacao_oil_goal_name: "Контролировать нефть в Кюрасао"
+ control_curacao_oil_goal_desc: "НПЗ в Кюрасао перерабатывают большую часть венесуэльской нефти. Контроль над ними даст альянсу надежный источник нефтепродуктов."
+ control_venezuelan_oil_goal_name: "Контролировать венесуэльскую нефть"
+ control_venezuelan_oil_goal_desc: "Венесуэла обладает богатыми запасами углеводородов, которые могли бы обеспечить наш альянс топливом для ведения военных действий."
+ control_guyanan_bauxite_goal_name: "Контролировать гайанские бокситы"
+ control_guyanan_bauxite_goal_desc: "Контроль над месторождениями бокситов в Гайане обеспечит альянсу ресурсы для производства алюминия, необходимого для строительства самолетов."
+ control_suriname_bauxite_goal_name: "Контролировать суринамские месторождения бокситов"
+ control_suriname_bauxite_goal_desc: "Контроль над богатыми месторождениями бокситов в Суринаме даст нашему альянсу сырье, необходимое для развития авиапромышленности."
+ control_lappland_metals_goal_name: "Контролировать лапландские металлы"
+ control_lappland_metals_goal_desc: "Месторождения Лапландии станут для альянса надежным ресурсом железных и вольфрамовых руд, необходимых для производства вооружений."
+ control_ploiesti_oil_fields_goal_name: "Контролировать месторождения нефти в Плоешти"
+ control_ploiesti_oil_fields_goal_desc: "Контроль над нефтяными месторождениями Плоешти — единственными в Европе — жизненно важен, чтобы обеспечить альянс топливом для продолжения войны."
+ control_baku_oil_fields_goal_name: "Контролировать бакинские месторождения нефти"
+ control_baku_oil_fields_goal_desc: "Захват бакинских месторождений нефти даст нам доступ к обширным запасам углеводородов, без которых военные операции невозможны."
+ control_iraqi_oil_goal_name: "Контролировать иракскую нефть"
+ control_iraqi_oil_goal_desc: "Нефтедобывающие мощности Ирака сыграют важную роль в удовлетворении потребностей наших войск в топливе."
+ control_persian_oil_goal_name: "Контролировать персидскую нефть"
+ control_persian_oil_goal_desc: "Контроль над персидскими нефтяными месторождениями и НПЗ даст нам надежный источник топлива для решения наших военных задач."
+ control_chinese_metals_goal_name: "Контролировать китайские металлы"
+ control_chinese_metals_goal_desc: "Богатые запасы различных ценных металлов в Китае могут стать источником необходимых ресурсов для военной промышленности альянса."
+ control_malayan_riches_goal_name: "Контролировать малайские богатства"
+ control_malayan_riches_goal_desc: "Контроль над запасами вольфрама и каучука в Малайе сильно обогатит ресурсную базу альянса и обеспечит сырьем производство и военную логистику."
+ control_indonesian_riches_goal_name: "Контролировать индонезийские богатства"
+ control_indonesian_riches_goal_desc: "Индонезия богата каучуком, нефтью и другими полезными ископаемыми, необходимыми для нашей промышленной базы. Всё это поможет обеспечить сырьевую безопасность нашего альянса."
+ control_newfoundland_bases_goal_name: "Контролировать ньюфаундлендские базы"
+ control_newfoundland_bases_goal_desc: "Создание опорных пунктов в Ньюфаундленде даст нам возможность контролировать конвои в Северной Атлантике и доминировать в этом регионе."
+ control_bermuda_goal_name: "Контролировать Бермуды"
+ control_bermuda_goal_desc: "Bases in Bermuda would enable us more effective patrol the mid-Atlantic, and maintain more secure supply lines between continents." #NT!
+ control_bahamas_bases_goal_name: "Контролировать багамские базы"
+ control_bahamas_bases_goal_desc: "Базы на Багамах позволят нам держать под контролем морские пути в Карибском бассейне и защищать подходы к Северной и Южной Америке со стороны Атлантики."
+ control_panama_canal_goal_name: "Контролировать Панамский канал"
+ control_panama_canal_goal_desc: "Контроль над Панамским каналом важен для быстрого перемещения флотов между Атлантическим и Тихим океанами и обеспечения стратегической гибкости."
+ control_trinidad_goal_name: "Контролировать Тринидад"
+ control_trinidad_goal_desc: "Ключевое расположение Тринидада делает его крайне важным для контроля над поставками нефти в Карибском регионе и позволяет использовать остров как стратегический плацдарм на северном побережье Южной Америки."
+ control_azores_goal_name: "Контролировать Азорские острова"
+ control_azores_goal_desc: "Благодаря своему стратегическому расположению Азорские острова позволяют контролировать Центральную Атлантику, ликвидируя пробел в зоне действий подводных и противолодочных сил и гарантируя постоянное воздушное прикрытие конвоев."
+ control_iceland_goal_name: "Контролировать Исландию"
+ control_iceland_goal_desc: "Базы в Исландии позволят нам контролировать Датский пролив и удерживать инициативу в Североатлантическом транспортом коридоре."
+ control_faroe_islands_goal_name: "Контролировать Фарерские острова"
+ control_faroe_islands_goal_desc: "Стратегическое расположение Фарерских островов позволяет удерживать контроль над северными морскими путями и обеспечивать военные операции в Британии, Скандинавии и Арктике."
+ control_narvik_goal_name: "Контролировать Нарвик"
+ control_narvik_goal_desc: "Присутствие в Нарвике обеспечит нам доступ к важным поставкам железной руды и позволит держать под контролем линии снабжения в Арктике."
+ control_danish_belts_goal_name: "Контролировать Датские проливы"
+ control_danish_belts_goal_desc: "Гарнизон в Каттегате даст нам полный контроль над сообщением между Балтийским и Северным морями."
+ control_brittany_bases_goal_name: "Контролировать базы в Бретани"
+ control_brittany_bases_goal_desc: "Стратегические базы вдоль побережья Бретани позволят нам расширить радиус действия авиации и подлодок в Атлантике, а также откроют дорогу внутрь Европы."
+ control_gibraltar_goal_name: "Контролировать Гибралтар"
+ control_gibraltar_goal_desc: "Стратегическая база на Гибралтаре позволит нам контролировать перемещение судов между Средиземным морем и Атлантикой."
+ control_malta_goal_name: "Контролировать Мальту"
+ control_malta_goal_desc: "Контроль над Мальтой даст возможность дестабилизировать снабжение противника и обеспечит военное присутствие во всём Центральном Средиземноморье."
+ control_crete_goal_name: "Контролировать Крит"
+ control_crete_goal_desc: "Контроль над Критом откроет путь к господству в Восточном Средиземноморье и создаст удобную базу для операций в Эгейском море и Северной Африке."
+ control_cyprus_goal_name: "Контролировать Кипр"
+ control_cyprus_goal_desc: "Контроль над Кипром обеспечит снабжение операций в Восточном Средиземноморье и облегчит перелеты на Ближний Восток и обратно."
+ control_bosporus_goal_name: "Контролировать Босфор"
+ control_bosporus_goal_desc: "Захват пролива Босфор позволит нам контролировать все перемещения по воде между Черным и Средиземным морями."
+ control_dardanelles_goal_name: "Контролировать Дарданеллы"
+ control_dardanelles_goal_desc: "Удержание Дарданелл сделает возможным контроль над перемещением военных кораблей и торговых судов из Черного моря."
+ control_suez_canal_goal_name: "Контролировать Суэцкий канал"
+ control_suez_canal_goal_desc: "Обладание Суэцким каналом даст нам полный контроль над основной судоходной трассой между Европой и Азией и позволит быстро перебрасывать войска и ресурсы."
+ control_gulf_of_aden_bases_goal_name: "Контролировать базы в Аденском заливе"
+ control_gulf_of_aden_bases_goal_desc: "Стратегические базы вдоль Аденского залива позволят оборонять подходы к Красному морю и взять под контроль торговые пути между Европой, Африкой и Азией."
+ control_strait_of_hormuz_goal_name: "Контролировать Ормузский пролив"
+ control_strait_of_hormuz_goal_desc: "Стратегические базы в Ормузском проливе позволят контролировать доступ к жизненно важной персидской и иракской нефти."
+ control_ceylon_goal_name: "Контролировать Цейлон"
+ control_ceylon_goal_desc: "Захват Цейлона позволит доминировать в Индийском океане и защитить ключевые морские пути между Ближним Востоком и Юго-Восточной Азией."
+ control_singapore_goal_name: "Контролировать Сингапур"
+ control_singapore_goal_desc: "Мощная укрепленная военно-морская база Сингапур господствует над Малаккским проливом и регулирует движение между Индийским и Тихим океанами. Она должна быть нашей."
+ control_manila_goal_name: "Контролировать Манилу"
+ control_manila_goal_desc: "Укрепленная бухта Манилы позволит распространять влияние по всей западной части Тихого океана и обезопасит доступ к Ост-Индии и Южно-Китайскому морю."
+ control_okinawa_goal_name: "Контролировать Окинаву"
+ control_okinawa_goal_desc: "Контроль над Окинавой позволит проводить операции против японских метрополий и создать прочный оборонительный периметр в Тихом океане."
+ control_iwo_jima_goal_name: "Контролировать Иводзиму"
+ control_iwo_jima_goal_desc: "Захват Иводзимы позволит поддерживать дальние воздушные операции над Японией и расширит наше влияние в центральной части Тихого океана."
+ control_caroline_islands_goal_name: "Контролировать Каролинские острова"
+ control_caroline_islands_goal_desc: "Господство над Каролинскими островами и архипелагом Трук позволит вести непрерывные военно-морские и воздушные кампании в центральной части Тихого океана."
+ control_guadalcanal_goal_name: "Контролировать Гуадалканал"
+ control_guadalcanal_goal_desc: "Захват Гуадалканала позволит нам контролировать военно-морские операции в южной части Тихого океана и маршруты доступа в Австралию и из нее."
+ control_wake_island_goal_name: "Контролировать остров Уэйк"
+ control_wake_island_goal_desc: "Удержание острова Уэйк позволит расширить разведку и воздушное прикрытие на маршруты центральной части Тихого океана."
+ control_midway_island_goal_name: "Контролировать острова Мидуэй"
+ control_midway_island_goal_desc: "Контроль над Мидуэем позволит обезопасить центральную часть Тихого океана и предоставит ключевую базу для трансокеанических операций."
+ control_hawaii_goal_name: "Контролировать Гавайи"
+ control_hawaii_goal_desc: "Захват Перл-Харбора позволит закрепить наше присутствие в Тихом океане и облегчит координирование логистики по всему театру военных действий, а также откроет доступ к тихоокеанскому побережью Америки."
+ control_attu_island_goal_name: "Контролировать остров Атту"
+ control_attu_island_goal_desc: "Захват острова Атту позволит установить контроль над судоходными путями в северной части Тихого океана и проводить операции вдоль Алеутской гряды в направлении Аляски и американского тихоокеанского побережья."
+  
+  # Long term goals 
+ strategic_bombing_campaign_goal_name: "Strategic Bombing Campaign" #NT!
+ strategic_bombing_campaign_goal_desc: "Крупномасштабная кампания стратегических бомбардировок позволит планомерно подорвать промышленный потенциал противника, чтобы истощить его силы."
+ liberate_territory_goal_name: "Liberate Our Territory" #NT!
+ liberate_territory_goal_desc: "Враг оккупировал наши земли. Их освобождение должно стать для нас первоочередной целью."
+ great_offensive_goal_name: "Great Offensive" #NT!
+ great_offensive_goal_desc: "Масштабное наступление с захватом вражеской территории станет нашим первым шагом к окончательной победе в войне."
+  
+  # Goal Effect Tooltips 
+ FACTION_NAME: "§Y[ROOT.GetFactionName]§!"
+ ALL_FACTION_MEMBERS: "§YВсе участники альянса:§!"
+ THE_FACTION_LEADER: "§YЛидер альянса:§!"
+ THE_SPY_MASTER: "§YРуководитель разведсети:§!"
+ TARGET_STATE_CONTROLLERS: "§YВладельцы целей-регионов:§!"
+ FACTION_CONTROLLED_STATES: "§YРегионы под контролем альянса:§!"
+ INFLUENCE_TOP_THREE: "§Y3 участника альянса§! с наибольшим влиянием:"
+ INFLUENCE_TOP_TWO: "§Y2 участника альянса§! с наибольшим влиянием:"
+ INFLUENCE_ABOVE_30_PERCENT: "§YВсе участники альянса§!, имеющие хотя бы 30% влияния:"
+ AT_LEAST_70_OIL: "§YВсе участники альянса§!, имеющие хотя бы 70 ед. нефти:"
+ AT_LEAST_50_CIVS: "§YКаждый участник альянса§!, имеющий хотя бы §Y50 фабрик§!"
+ AT_LEAST_50_MILS: "§YКаждый участник альянса§!, имеющий хотя бы §Y50 военных заводов§!"
+  
+ GUERILLA_TOTAL_ABOVE_THRESHOLD: "Партизанские действия ведутся более чем в 4 регионах"
+ GUERILLA_ABOVE_THRESHOLD: "Каждый участник альянса, спровоцировавший хотя бы 2 атаки партизан:"
+ OWNS_LISTED_STATE: "Каждый участник альянса, владеющий одним из регионов:"
+ HAS_AT_LEAST_5K_INFANTRY_EQUIPMENT: "§YКаждый участник альянса§!, имеющий в запасе хотя бы 5000 ед. пехотного снаряжения"
+ HAS_DEPLOYED_AT_LEAST_5M_MANPOWER: "§YКаждый участник альянса§!, развернувший хотя бы 5 млн людских ресурсов"
+ ONE_PANZER_GENERAL: "§YОдин генерал§! с чертой §Y«$panzer_leader$»§! или §Y«$panzer_expert$»§!:"
+ ONE_INFANTRY_GENERAL: "§YОдин генерал§! с чертой §Y«$infantry_leader$»§! или §Y«$infantry_expert$»§!:"
+ ONE_ADMIRAL: "§YОдин адмирал§!:"
+ ONE_GENERAL: "§YОдин генерал§!:"
+ ALL_FACTION_MEMBERS_WITH_1_MARINE: "§YКаждый участник альянса§! использует хотя бы 1 дивизию §Yморской пехоты§!"
+ ALL_FACTION_MEMBERS_WITH_25_SUBMARINES: "§YКаждый участник альянса§! использует хотя бы 25 §Yподводных лодок§!"
+ ALL_FACTION_MEMBERS_WITH_25_SCREENING_SHIPS: "§YКаждый участник альянса§! использует хотя бы 25 §Yкораблей охранения§!"
+ ALL_FACTION_MEMBERS_WITH_250_FIGHTERS: "§YКаждый участник альянса§! использует хотя бы 250 §Yистребителей§!"
+ ALL_FACTION_MEMBERS_WITH_50_BOMBERS: "§YКаждый участник альянса§! использует хотя бы 50 §Yстратегических бомбардировщиков§!"
+ ENEMY_FACTION_STATES_BOMBED: "В последние 30 дней велась бомбардировка §Yвражеских национальных территорий§!"
+ FACTION_CORE_STATES_NOT_FULLY_CONTROLLED: "§YНациональные территории альянса§! не полностью под контролем §Yучастников альянса§!"
+ ENEMY_FACTION_CORE_STATES_CONTROLLED_BY_US: "§YНациональные территории вражеского альянса§! под контролем §Yучастников альянса§!"
+ PEACE_CONFERENCE_WINNERS: "Все страны-участницы мирной конференции на стороне победителя:"
+ SHORT_TERM: "Краткосрочный"
+ MEDIUM_TERM: "Среднесрочный"
+ LONG_TERM: "Долгосрочный"
+  
+  # SEA faction upgrades 
+ FACTION_UPGRADE_NAME_WITH_FACTION: "$FACTIONNAME|H$: $UPGRADENAME|$"
+ FACTION_UPGRADE_RESEARCH_NAME: "Обмен исследованиями $INDEX|H$"
+ FACTION_UPGRADE_RESEARCH_DESC: "Bonus to research if another faction member has already researched that technology." #NT!
+ FACTION_UPGRADE_FIRST_DESC: "Добавляется $NAME|H$, что дает: $VAL|.00H%$ $DESC$"
+ FACTION_UPGRADE_INCREASE: "Повысить"
+ FACTION_UPGRADE_DECREASE: "Понизить"
+ FACTION_UPGRADE_INCREASE_DESC_PERCENTILE: "Повышение бонуса с $OLDVAL|.00H%$ до $VAL|.00H%$"
+ FACTION_UPGRADE_DECREASE_DESC_PERCENTILE: "Понижение бонуса с $OLDVAL|.00H%$ до $VAL|.00H%$"
+ FACTION_UPGRADE_INCREASE_DESC: "Повышение бонуса с $OLDVAL|.1H$ до $VAL|.1H$"
+ FACTION_UPGRADE_DECREASE_DESC: "Понижение бонуса с $OLDVAL|.1H$ до $VAL|.1H$"
+ FACTION_UPGRADE_BONUS_PERCENTILE: "$VALUE|.00H%$"
+ FACTION_UPGRADE_BONUS: "$VALUE|.1H$"
+ FACTION_UPGRADE_NOT_ENOUGH_INITIATIVE: "£trigger_no£Not enough initiative. required:$VALUE|.0H$" #NT!
+ FACTION_UPGRADE_NO_FACTION: "Чтобы добавить улучшение альянса, необходимо состоять в нем"
+ FACTION_UPGRADE_BELOW_MINIMUM: "Не отвечает минимальным требованиям альянса"
+ FACTION_UPGRADE_NO_UPGRADE: "§RДостигнут предел§!"
+ FACTION_UPGRADE_INTELLIGENCE: "Обмен разведданными $INDEX|H$"
+ FACTION_UPGRADE_INTELLIGENCE_DESC: "Бонус к улучшению филиалов агентства, если другой член альянса уже исследовал это улучшение."
+ FACTION_UPGRADE_INTELLIGENCE_NAME_BONUS: "Обмен разведданными в альянсе: $BONUS|.0%$"
+ FACTION_UPGRADE_INTELLIGENCE_BONUS_DESC: "Faction intelligence allows you to complete agency upgrades quicker if another member of the faction has already unlocked that upgrade" #NT!
+ FACTION_UPGRADE_DOCTRINE: "$FACTIONNAME|$ Doctrine sharing $INDEX|$" #NT!
+ FACTION_UPGRADE_DOCTRINE_DESC: "Bonus to doctrine mastery if another faction member has already unlocked the next reward." #NT!
+ INTELLIGENCE_ADDITIONAL_UPGRADE_BONUS: "Снижение времени улучшения за счет:"
+ INTELLIGENCE_OPPURTUNITIES: "Бонус к скорости улучшения агентства в следующих улучшениях:"
+ INTELLIGENCE_OPPURTUNITIES_ITEM: "$NAME|H$"
+ FACTION_RECRUIT_SPIES_BUTTON: "Завербовать шпионов"
+  # SEA faction commander 
+ FACTION_COMMANDER_ALREADY_UNLOCKED_WARNING: "§RSupreme commander is already unlocked by: $COUNTRY|H$§!" #NT!
+ FACTION_COMMANDER_ALREADY_UNLOCKED_WARNING_PORTRAIT: "§RSupreme commander can only be set by: $COUNTRY|H$§!" #NT!
+ FACTION_COMMANDER_PORTRAIT: "Click to change supreme commander" #NT!
+ FACTION_COMMANDER_ALREADY_UNLOCK_BUTTON: "Unlock $VALUE$ £faction_initiative_texticon£" #NT!
+ FACTION_COMMANDER_EXT_DESC: "Supreme commanders can only be set by the country that unlocks it but can either be Field marshals or Admirals from any of the faction members." #NT!
+ FACTION_COMMANDER_DESC: "Supreme commanders grant $VALUE|.00H%$ of their bonuses to everyone in the faction." #NT!
+  
+ #SEA faction member upgrades 
+ FACTION_MANPOWER_CONTRIBUTION: "Manpower contribution $INDEX|H$" #NT!
+ FACTION_MANPOWER_CONTRIBUTION_DESC: "Give a portion of your monthly manpower gain to your faction's manpower pool in return for contribution based on the amount of manpower given." #NT!
+ FACTION_MANPOWER_NO_CONTRIBUTION_DESC: "Give £manpower_texticon  $VALUE|H0%$ monthly manpower to your faction's manpower pool." #NT!
+ FACTION_MANPOWER_CONTRIBUTION_VALUE_DESC: "Give £manpower_texticon  $VALUE|H0%$ of your monthly manpower gain to your faction's manpower pool in return for contribution based on the amount of people given." #NT!
+ REQUEST_FACTION_MANPOWER: "Request faction manpower for garrison" #NT!
+ REQUEST_FACTION_MANPOWER_BUTTON: "Request Support" #NT!
+ REQUEST_FACTION_MANPOWER_DESC: "Manpower needed to maintain your policies: $NEEDED|H*$ \nTotal manpower in the pool that is not from your country: $FREE|H*$\nCost for taking out selected amount of manpower $COST|.0H*$" #NT!
+ REQUEST_FACTION_MANPOWER_VALUES: "$VAL|^1H$"
+ FACTION_MANPOWER_VALUE: "£manpower_texticon£ $VALUE$"
+ REQUEST_FACTION_MANPOWER_BUTTON_NO_MANPOWER: "There is no manpower you can take out" #NT!
+ REQUEST_FACTION_MANPOWER_BUTTON_NO_GARRISON_NEEDED: "You don't need any garrison support" #NT!
+ REQUEST_FACTION_MANPOWER_BUTTON_DESC: "TODO Describe what the garrison support actually does" #NT!
+ FACTION_MANPOWER_DESC: "Общие людские ресурсы в резерве: $ALL|H*$ \nПереданные вами ресурсы: $YOUR|H*$\nДоступные для выведения ресурсы: $FREE|H*$\n"
+ FACTION_MEMBER_UPGRADE_BELOW_MIN: "§RНе отвечает минимальным требованиям альянса.§!"
+  
+ #SEA Strategic Region 
+ FACTION_THEATER_HEADER: "Театр альянса"
+ FACTION_STRAT_REGION_INSTRUCTION: "Закрепить участников альянса за регионами"
+ FACTION_STRAT_REGION_ARMY: "Общее число дивизий"
+ FACTION_STRAT_REGION_NAVY: "Общее число оперативных соединений"
+ FACTION_STRAT_REGION_DESC: "Assign strategic regions, so your allies know where they can concentrate their forces. (TODO, DESCRIBE CURRENT STRATEGIC REGIONS?)" #NT!
+ DELETE_FACTION_THEATER: "§RУдалить§! театр альянса"
+ CREATE_FACTION_THEATER: "Create" #NT!
+ FACTION_COUNTRY_ALREADY_IN_THEATER: "§RУже назначен на театр§!"
+ FACTION_SUPREME_COMMANDER_MAX_NUM_COUNTRY_REACHED: "§RКомандующий не может возглавлять еще больше государств§!"
+  
+ #SEA Faction program 
+ FACTION_CANT_ASSIGN_SCIENTIST_SAME_COUNTRY: "Невозможно назначить еще одного ученого на собственный спецпроект"
+ FACTION_CANT_ASSIGN_SCIENTIST_MORE: "Дополнительно можно назначить только одного ученого"
+ FACTION_ASSIGN_SCIENTIST_COST: "£pol_power  $VALUE|0$"
+ FACTION_ASSIGN_SCIENTIST_COST_CANNOT_AFFORD: "£pol_power  §R$VALUE|0$§!"
+ FACTION_ASSIGN_SCIENTIST: "Щелкните, чтобы назначить в комплекс дополнительного ученого"
+ FACTION_UNASSIGN_SCIENTIST: "Отозвать дополнительного ученого"
+  
+ FACTION_UNASSIGN_PROJECT_POPUP_TITLE: "Закрыть доступ к комплексу"
+ FACTION_UNASSIGN_PROJECT_POPUP_DESC: "Закрыть доступ к комплексу в регионе $STATE_NAME|Y$?"
+  
+ FACTION_INITIATIVE_TRANSACTION_TYPE_GOAL: "Faction Goal" #NT!
+ FACTION_INITIATIVE_TRANSACTION_TYPE_RULE: "Faction Rule" #NT!
+ FACTION_INITIATIVE_TRANSACTION_TYPE_RESEARCH: "Faction Research" #NT!
+ FACTION_INITIATIVE_TRANSACTION_TYPE_MILITARY: "Military Operations" #NT!
+ FACTION_INITIATIVE_TRANSACTION_TYPE_INTELLIGENCE: "Intelligence" #NT!
+ FACTION_INITIATIVE_TRANSACTION: "$COUNTRY|H$ spent $AMOUNT|H$ £faction_initiative_texticon£ on $TYPE|H$" #NT!
+ #SEA Faction Intelligence Agency 
+ FACTION_NO_AGENCY: "Нет разведывательного агентства"
+ FACTION_AGENCY_ADD: "§GЩелкните, чтобы добавить $GROUP|H$§!"
+ FACTION_SPY_MASTER: "Руководитель разведки"
+ FACTION_HEAD_OF_CRYPTOLOGY: "Начальник криптологической службы"
+ FACTION_HEAD_OF_COUNTER_INTELLIGENCE: "Начальник контрразведки"
+ FACTION_HEAD_OF_OPERATIONS: "Начальник оперативного штаба"
+  # SEA faction UI 
+ VIEW_EXISTING_FACTIONS: "Альянсы"
+ VIEW_FACTION: "Посмотреть альянсы"
+ CREATE_FACTION: "Создать альянс"
+ FACTION_RULES_TITLE: "Правила альянса"
+ FACTION_GOALS_TITLE: "Цели альянса"
+ FACTION_GOALS_CANCEL_TRIGGER_HEADER: "§HЭта цель будет отменена, если:§!"
+ FACTION_GOALS_CANCEL_EFFECT_HEADER: "§HЭффекты отмены:§!"
+  
+ FACTION_BUTTON_NAME: "$NAME|$" #NT!
+ FACTION_BUTTON_DESC: "Управлять альянсом, чтобы помочь союзникам и получить бонусы за вклад"
+ FACTION_BUTTON_OPEN_VIEW: "§GClick§! to open the faction window" #NT!
+ FACTION_BUTTON_COMPLETED_HEADER: "Completed Faction Goal:" #NT!
+ FACTION_BUTTON_CANCELED_HEADER: "Failed Faction Goal:" #NT!
+ FACTION_BUTTON_GOAL_NAME: "$GOALNAME|H$"
+ FACTION_BUTTON_OPEN_TAB: "Go to the Faction Goals Tab to replace the Goal" #NT!
+ FACTION_BUTTON_INITIATIVE: "Faction Initiatives possible to spend: $VAL|H$" #NT!
+  
+ FACTION_INTEL_NO_ADVISOR: "Не назначен советник по разведке"
+ FACTION_INTEL_ADVISOR_NOT_ENOUGH_INITIATIVE: "§RНедостаточно инициативы§!"
+  
+ FACTION_INTEL_HEADER_SPYMASTER: "Руководитель разведки"
+ FACTION_INTEL_HEADER_CRYPTOLOGY: "Криптология"
+ FACTION_INTEL_HEADER_COUNTER: "Контрразведка"
+ FACTION_INTEL_HEADER_OPERATIONS: "Операции"
+  
+ FACTION_INTEL_OPEN_AGENCY_UPGRADES: "Открыть улучшения агентства"
+ FACTION_INTEL_NO_DEPARTMENT_CREATED: "§RНи одного департамента не создано§!"
+ FACTION_INTEL_NO_DEPARTMENT_CREATED_VISIBILITY: "Cannot contribute until you have created an §HIntellegence Agency§!" #NT!
+ FACTION_INTEL_NOT_OWN_POSTION: "§RЭто не ваша должность§!"
+ FACTION_INTEL_ADVISOR: "Советник по разведке"
+ FACTION_INTEL_TAKE_OVER: "Take over $VALUE$ £faction_initiative_texticon£" #NT!
+ FACTION_INTEL_SHARING_BONUS: "§HБонус обмена разведданными:§! $NUM|+=%.0$"
+ FACTION_INTEL_OWNER: "§HДля государства, занимающего эту должность:§!"
+ FACTION_INTEL_OTHERS: "§HДля других государств, если должность занята:§!"
+ FACTION_INTEL_HEAD_OF_SPYMASTER: "§HРуководитель разведки§!"
+ FACTION_INTEL_HEAD_OF_CRYPTOLOGY: "Начальник криптологической службы"
+ FACTION_INTEL_HEAD_OF_COUNTER: "Начальник контрразведки"
+ FACTION_INTEL_HEAD_OF_OPERATIONS: "Начальник оперативного штаба"
+  
+ FACTION_INTEL_SPY_GAIN: "$HEADOF$ $NUM|+=$"
+  
+ FACTION_INTEL_SPYMASTER_BONUS: "Вы сможете контролировать больше агентов. Их количество зависит от размера вашего альянса."
+ FACTION_INTEL_HEAD_OF_BONUS: "Ячейки для агентов: $NUM|+=$"
+ FACTION_INTEL_FROM_ADIVSOR: "§HОт советника:§!"
+ CREATE_FACTION_INVITE_TITLE: "Пригласить страны"
+ CREATE_FACTION_INVITE_ALL: "Пригласить все готовые согласиться страны"
+ CREATE_FACTION_INVITE_AMOUNT: "(стран: $VAL|$)"
+ CREATE_FACTION_FACTION_LEADER: "Лидер альянса: $LEADER|H$"
+ CREATE_FACTION_FACTION_INFLUENCE: "Estimated top $VAL|H$ §HFaction Influence§!:\n" #NT!
+ CREATE_FACTION_FACTION_INFLUENCE_ENTRY: "$ENTRY|$ ($VAL|.0H%$)\n"
+ CREATE_FACTION_IDENTITY_TITLE: "Отличительные черты альянса"
+ CREATE_FACTION_TEMPLATE_TITLE: "Шаблон альянса: $TEMPLATE|H$"
+ FACTION_GOAL_FULFILLMENT: "Fulfillment: $VAL|H$" #NT!
+ CHANGE_RULE_WINDOW_SUBTITLE: "Заменить правило альянса?"
+ CHANGE_GOAL_WINDOW_SUBTITLE: "Select new goal" #NT!
+ FACTION_INITIATIVE_TOOLTIP: "§HFaction Initiative§!\n\nSpend §YFaction Initiative§! to reshape the faction by changing §Hgoals§!, setting §Hrules§!, appointing §HSupreme Commanders§!, and more." #NT!
+ FACTION_INITIATIVE_EXPLANATION: "§gОчки инициативы начисляются преимущественно за выполнение целей. Иногда их можно получить за завершение фокусов и участие в событиях и других происшествиях в мире.§!"
+ FACTION_INITIATIVE_PROGRESS_TOOLTIP: "Продвижение к следующему очку инициативы: $PROGRESS|.3H$"
+ FACTION_INITIATIVE_PASSIVE_GENERATION_TOOLTIP: "Ежедневно вы получаете $DAILYPROGRESS|.3H$\nСледующее очко инициативы вы получите через $DAYS|.0H$ дн."
+ FACTION_INITIATIVE_PASSIVE_GENERATION_DESC: "§gОчки инициативы альянса также создаются пассивно (это зависит от прогресса в выполнении манифеста) и распределяются между участниками в зависимости от влияния§!"
+ FACTION_RESEARCH_BUTTON: "Открытые исследования"
+ FACTION_RESEARCH_OPPORTUNITIES_NO_BONUS: "§RАльянс сейчас не делится исследованиями§!"
+ FACTION_RESEARCH_OPPORTUNITIES: "(возможности: $VAL|H$)"
+ FACTION_MANPOWERPOOL_LABEL: "ЛРА:"
+ FACTION_POWER_PROJECTION: "Демонстрация силы альянса: $VAL|0H$"
+ FACTION_INFLUENCE: "Влияние: $VAL|H$"
+ LEAVE_FACTION_BUTTON: "Выйти из альянса"
+ DISMANTLE_FACTION_BUTTON: "Распустить альянс"
+ FACTION_PING_CONFIRM_BUTTON: "Подтвердить"
+ FACTION_INFLUENCE_TITLE: "Влияние альянса"
+ FACTION_LEADER_TITLE: "Faction Leader" #NT!
+ FACTION_SUPREME_COMMANDER_TITLE: "Supreme Commander" #NT!
+ FACTION_MEMBERS_LIST_BUTTON: "Members List" #NT!
+ FACTION_INVITE_COUNTRIES_BUTTON: "Пригласить страны"
+ FACTION_INITIATIVE_COST: "£faction_initiative_texticon£ $VALUE|0$"
+ FACTION_INITIATIVE_COST_CANT_AFFORD: "§RНе хватает средств: £faction_initiative_texticon£ $VALUE|0$§!"
+ FACTION_PP_COST: "£pol_power£ $VALUE|0$"
+ FACTION_RULE_CONFRIMATION: "Изменить правило"
+ FACTION_RULE_CONFRIMATION_REMOVE: "Удалить правило"
+ FACTION_RULE_ALREADY_SET: "§RПравило уже используется§!"
+ FACTION_RULE_CONFRIMATION_DESC: "Change faction rule from $OLDRULENAME|H$ to $NEWRULENAME|H$" #NT!
+ FACTION_RULE_CONFRIMATION_DESC_REMOVE: "Remove $CURRENTRULENAME|H$ from your faction" #NT!
+ FACTION_RULE_CONFRIMATION_DESC_ADD: "Add $NEWRULENAME|H$ to your faction" #NT!
+ FACTION_RULE_EDIT_ALL: "Все правила"
+ FACTION_RULE_AVAILABLE: "Rule Availability:" #NT!
+ FACTION_RULE_CAN_REMOVE: "Can Remove the Rule:" #NT!
+ FACTION_RULE_TYPE_GROUP_TITLE: "$TYPE|$ — $GROUP|H$"
+ FACTION_RULE_SHOW_COMPLETED: "Показать выполненные цели"
+ FACTION_RULE_SHOW_UNAVAILABLE: "Показать недоступные цели"
+ FACTION_GOAL_EDIT_ALL: "Все цели"
+ FACTION_SP_FACILITIES: "Комплексы особых проектов"
+ FACTION_SP_OPEN_FACILITY: "Открыть комплекс: $COST|H$"
+ FACTION_BECOME_LEADER_BUTTON: "Become Faction Leader $COST$" #NT!
+ FACTION_LEADER_ALREADY: "§R$COUNTRY|$ уже во главе альянса§!"
+ FACTION_LEADER_INFLUENCE_RATIO_TOO_LOW: "Слишком низкий показатель влияния альянса"
+ FACTION_ICON: "Значок"
+ FACTION_COLOR: "Цвет"
+ ADD_FACILITY_BUTTON: "Добавить комплекс"
+ ADD_FACILITY_DESCRIPTION: "Are you sure you want to spent $COST|.0$£faction_initiative_texticon for your $FACILITYNAME|H$ in $STATE|H$ to be added to the $FACTIONNAME|H$ for others to support your research" #NT!
+ ADD_GOAL_TITLE: "Добавить цель"
+ ADD_GOAL_CANNOT_AFFORD: "§RYou cannot afford adding a goal, as it costs $COST|.0$£faction_initiative_texticon §!" #NT!
+ REPLACE_GOAL_TT_ALREADY_SELECTED: "§RЦель уже активна§!"
+ ADD_GOAL_TT_ALREADY_COMPLETED: "§RЦель уже выполнена§!"
+ REPLACE_GOAL_TT: "$GOALNAME|H$ has not been completed and therefore replacing it would cost $COST|.0$£faction_initiative_texticon" #NT!
+ REPLACE_GOAL_TT_CANNOT_AFFORD: "§RYou cannot replace $GOALNAME|H$, as it costs $COST|.0$£faction_initiative_texticon §!" #NT!
+ ADD_GOAL_DESCRIPTION: "Are you sure you want to add $GOALNAME|H$? It will cost $COST|.0$£faction_initiative_texticon if you want to replace it. Faction leaders can replace a goal for free if it has been completed" #NT!
+ REPLACE_GOAL_DESCRIPTION: "Вы действительно хотите заменить цель «$OLDGOALNAME|H$» на цель «$GOALNAME|H$»?"
+ REPLACE_GOAL_DESCRIPTION_COST: "Are you sure you want to replace $OLDGOALNAME|H$ with $GOALNAME|H$? It will cost $COST|.0$£faction_initiative_texticon" #NT!
+ FACTION_FACILITY_COUNT: "Ячейки комплексов: $COUNT|H$/$MAX|H$"
+ FACTION_RESEARCH_FACILITY_NOT_ENOUGH_INITIATIVE: "§RНедостаточно инициативы для открытия нового исследовательского комплекса§!"
+ FACTION_RESEARCH_FACILITY_MAX_REACHED: "§RДостигнут предел исследовательских комплексов§!"
+ FACTION_SCIENTIST_ALREADY_ASSIGNED_AS_SUPPORT: "£trigger_no Уже работает дополнительным ученым в комплексе в регионе $STATE|Y$"
+  
+ FACTION_SUPREME_COMMANDER_TYPE_SORT_ALL: "Отображаются фельдмаршалы и адмиралы"
+ FACTION_SUPREME_COMMANDER_TYPE_SORT_FM: "Отображаются только фельдмаршалы"
+ FACTION_SUPREME_COMMANDER_TYPE_SORT_AD: "Отображаются только адмиралы"
+ FACTION_UNIT_IS_SUPREME_COMMANDER: "§RIs being used as supreme commander§!" #NT!
+  
+ NEW_FACTION_WINDOW_TITLE: "Выбрать §Hшаблон фракции§!"
+ NEW_FACTION_WINDOW_SHOW_UNAVAILABLE_CHECKBOX: "Показать недоступные шаблоны"
+ FACTION_CONFIRM_BECOME_LEADER_DESC: "Стать лидером альянса $FACTION|H$.\nЗатраты составят £pol_power£ $COST|G$. Другие члены альянса не смогут получить лидерство в течение $COOLDOWN|Y$ дн."
+ FACTION_SETUP_WINDOW_TITLE: "Создать альянс"
+ FACTION_SETUP_CREATE_FACTION_BUTTON: "Создать альянс"
+ FACTION_SETUP_INVITE_COUNTRIES_BUTTON: "Пригласить страны"
+ FACTION_CHOOSE_ICON: "Choose Faction Icon" #NT!
+ CANNOT_REMOVE_FACTION_RULE: "§RНевозможно удалить правило «$RULE|H$»§!"
+ NEW_FACTION_WINDOW_GOAL: "Цели: $VALUE|H$"
+ NEW_FACTION_WINDOW_RULES: "Правила: $VALUE|H$"
+ NEW_FACTION_WINDOW_MANIFEST: "Манифест:\n$NAME|H$"
+ NEW_FACTION_WINDOW_RULES_TOOLTIP: "§HDefault Rules:§!" #NT!
+ NEW_FACTION_WINDOW_RULES_TOOLTIP_ENTRY: "- $TYPE|H$ - $NAME|$" #NT!
+ NEW_FACTION_WINDOW_GOALS_TOOLTIP: "§HНачальные цели:§!"
+ NEW_FACTION_WINDOW_GOALS_TOOLTIP_ENTRY: "— $NAME|$"
+ SETUP_FACTION_WINDOW_MANIFEST: "Manifesto:$NAME|H$" #NT!
+  
+ SEE_FACTIONS_BUTTON: "Просмотреть альянсы"
+ FACTION_NO_MANIFEST: "Нет манифеста§R!§!"
+ RULES_TAB_LABEL: "Правила"
+ RESEARCH_TAB_LABEL: "Исследования"
+ ARMY_TAB_LABEL: "Вооруженные силы"
+ INDUSTRY_TAB_LABEL: "Промышленность"
+ INTELLIGENCE_TAB_LABEL: "Разведка"
+ FACTION_ADD_GOAL: "Добавить цель категории «$CATEGORY|H$»"
+  
+  #SEA Power Projection 
+ POWER_PROJECTION_FROM_EFFECTS: "Демонстрация силы от эффектов и целей: $VAL|0H$"
+ INDUSTRIAL_POWER_PROJECTION: "Демонстрация силы от промышленности: $VAL|0H$"
+ ARMY_POWER_PROJECTION: "Демонстрация силы от армии: $VAL|0H$"
+ NAVAL_POWER_PROJECTION: "Демонстрация силы от флота: $VAL|0H$"
+ AIR_POWER_PROJECTION: "Демонстрация силы от авиации: $VAL|0H$"
+ POWER_PROJECTION_IN_FACTION_RATIO: "Доля в общем вкладе: $VAL|H%$"
+ TOTAL_POWER_PROJECTION: "Суммарная демонстрация силы: $VAL|0H$"
+  
+  #SEA Influence 
+ CONTRIBUTION_INFLUENCE: "Влияние вклада: $VAL|H$ $MOD$"
+ WAR_SCORE_INFLUENCE: "Влияние военного счета: $VAL|H$ $MOD$"
+ FROM_EFFECTS_INFLUENCE: "Влияние событий: $VAL|H$ $MOD$"
+ INDUSTRIAL_CAPACITY_INFLUENCE: "Влияние промышленного потенциала: $VAL|H$ $MOD$"
+ FACTION_LEADER_BONUS_INFLUENCE: "Влияние лидера альянса по умолчанию: $VAL|H$ $MOD$"
+ TOTAL_INFLUENCE: "Total Influence $VAL|H$" #NT!
+ FACTION_INFLUENCE_PERCENTAGE: "($VAL|.0%$)"
+ FACTION_INFLUENCE_TOOLTIP_HEADER: "$NAME$ §H($VAL|.2H%$)§!"
+  
+ #SEA Contribution 
+ CONTRIBUTION_INFLUENCE_EXPECTED_GAIN: "§HОжидаемый объем получаемого вклада:\n§!"
+ CONTRIBUTION_SUPPORTIVE_SCIENTIST_EXPECTED_GAIN: "Дополнительные ученые: $VAL|H$ §Hв день§!"
+ CONTRIBUTION_MANPOWER_EXPECTED_GAIN: "Передача людских ресурсов: $VAL|H$ §Hв месяц§!"
+ CONTRIBUTION_EXPIDITIONARY_FORCES_EXPECTED_GAIN: "Экспедиционные войска: $VAL|H$ §Hв день§!"
+ CONTRIBUTION_SUBJECT_SCALER_EXPECTED_GAIN: "§RПолучаемый вклад составит §!$VAL|H%$ §Rввиду статуса субъекта§!"
+  # SEA Faction Diplomacy 
+ DR_FACTION_POWER_PROJECTION: "Демонстрация силы альянса: "
+  
+ FACTION_THEATER_DEFAULT_NAME: "Faction Theater" #NT!
+ FACTION_THEATER_SELECT_ALL: "Select all" #NT!
+ FACTION_THEATER_NEW_THEATER_BUTTON: "Новый театр"
+ FACTION_THEATER_REGION_COUNT: "£state  $NUM$"
+ FACTION_THEATER_EXECUTION_MODE_LABEL: "Режим выполнения:"
+ FACTION_THEATER_REGION_TOOLTIP_HEADER: "$REGION|H$ is part of the faction theater $THEATER|H$ with $NUM|H$ countries:" #NT!
+ FACTION_THEATER_REGION_TOOLTIP_COUNTRY: "   @$TAG$ $COUNTRY$" #NT!
+ FACTION_THEATER_REGION_TOOLTIP_DELAYED: "§GClick§! to select faction theater" #NT!
+ FACTION_MAX_NUMBER_OF_THEATERS: "§RМаксимальное число созданных театров — $NUM$!§!"
+  
+  # Sort 
+ RULES_SORT_NAME: "§GЩелкните§!, чтобы отсортировать по названию"
+ dismissal_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Отставка»§!"
+ change_leader_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Смена лидера»§!"
+ member_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Членство»§!"
+ contribution_rule_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Передача людских ресурсов»§!"
+ joining_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Присоединение»§!"
+ peace_conference_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Мирная конференция»§!"
+ war_declaration_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Объявление войны»§!"
+ call_to_war_rules_filter_tooltip: "§GЩелкните§!, чтобы включить/отключить фильтр §H«Призыв вступить в войну»§!"
+  
+  #Tabs 
+ FACTION_GOALS_TAB_TT: "§HЦели альянса§!\nЗдесь можно просматривать и изменять текущие цели."
+ FACTION_RULES_TAB_TT: "§HПравила альянса§!\nЗдесь можно просматривать и изменять правила, которые соблюдает ваш альянс."
+ FACTION_RESEARCH_TAB_TT: "§HИсследования в рамках альянса§!\nЗдесь можно учреждать комплексы для обмена знаниями и совместных исследований."
+ FACTION_ARMY_TAB_TT: "§HFaction Military Operations§!\nRequest garrison manpower, manage supreme commanders and faction theaters, and set up doctrine sharing." #NT!
+ FACTION_INTELLIGENCE_TAB_TT: "§HРазведка альянса§!\nЗдесь можно организовать обмен разведданными и сменить руководителя разведсети альянса."
+ FACTION_INTELLIGENCE_TAB: "Разведданные альянса"
+  #Ranking 
+ FACTION_RANKING: "Global Faction Rank: $VAL|H$" #NT!
+ FACTION_POWER_RANKING_TOOLTIP: "§HFaction Ranking§!\n\nBased on our §HFaction Power Projection§! of $VAL|0H$, our faction is ranked $RANK|H$ in the world. To view other faction ranks, §Gclick§! See Factions below." #NT!
+ RANK_TEXT_FACTION: "$VALUE|H$"
+ POWER_PROJECTION_BLURB: "\n§gОт демонстрации силы альянса зависит готовность стран принимать приглашения в альянс. Также этот показатель позволяет влиять на исходы мирных конференций, если те зашли в тупик.§!"
+ COUNTRY_FPP_ITEM: "$VALUE|0H$" #NT!
+  
+ THEATER_ASSIGNED_COUNTRIES: "$NUM$/$MAX$"
+ THEATER_ASSIGNED_REGIONS: "$NUM$/$MAX$"
+ THEATER_SUPPLY_USAGE_MODIFIER: "$VAL|0%-$" #NT!
+ THEATER_COMMANDER_MODIFIER: "$NAME|H$ commanding armed forces of the $FACTION|H$ in the $THEATER|H$: $VAL$" #NT!
+  
+  
+  # AI Faction Theater Names 
+ theater_western_europe: "Западная Европа"
+ theater_eastern_europe: "Восточная Европа"
+ theater_barbarossa_north: "Северная группа армий"
+ theater_barbarossa_center: "Центральная группа армий"
+ theater_barbarossa_south: "Южная группа армий"
+ theater_north_sea_region: "Регион Северного моря"
+ theater_southern_europe: "Южная Европа"
+ theater_scandinavia: "Scandinavia" #NT!

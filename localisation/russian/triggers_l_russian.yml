@@ -597,7 +597,7 @@
  TRIGGER_IS_NOT_CAPITAL: "Не является столичным регионом"
  TRIGGER_MANPOWER_IN_DEPLOYMENT_QUEUE: "людские ресурсы в очереди на развертывание"
  TRIGGER_ARMY_MANPOWER_IN_STATE_OF_TYPE: "людские ресурсы развернуты в регионе $STATE|H$ из $TYPE|H$ дивизий."
- TRIGGER_ARMY_MANPOWER_IN_STATE: "людские ресурсы развернуты в регионе $STATE|H$."
+  
  TRIGGER_STOCKPILE_RATIO_LESS_THAN: "На полях сражений меньше, чем $VALUE|%0Y$ от общего количества ($EQUIPMENT$)"
  TRIGGER_STOCKPILE_MORE_THAN: "На полях сражений больше, чем $VALUE|%0Y$ от общего количества ($EQUIPMENT$)"
  TRIGGER_HAS_GAME_RULE: "В игровых правилах §Y$RULE$§! выбран параметр §Y$OPTION$§!."
@@ -630,7 +630,6 @@
  TRIGGER_HAS_MINED: "Мины на побережье государства $OPPONENT|H$"
  TRIGGER_COMPARE_NAVIES: "Размер флота по сравнению с: §Y$NAME$§!"
  TRIGGER_COMPARE_CAPITAL_NAVIES: "Количество крупных кораблей по сравнению с: §Y$NAME$§!"
- TRIGGER_NUM_DAYS_SINCE_LAST_STRATEGIC_BOMBING: "Дней со времени последней стратегической бомбардировки"
  TRIGGER_CASUALTIES_INFLICTED_BY: "Жертвы от противника $OPPONENT|H$"
  TRIGGER_RECEIVED_EXPEDITIONARY_FORCES: "Экспедиционный корпус от государства $SENDER|H$"
  TRIGGER_HAS_WEATHER: "Погода $WEATHER|H$"

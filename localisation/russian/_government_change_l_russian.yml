@@ -12,3 +12,18 @@
  gov_change_to_free_city_tt: "§CНаше Правительство Станет §!§RВольным Городом§!"
  gov_change_to_military_junta_tt: "§CНаше Правительство Станет §!§RВоенной Хунтой§!"
  gov_change_to_anarchy_tt: "§CНаше правительство падёт в §!§RАнархию§!"
+  
+   #THIS LOCATION IS TEMPORARY 
+ #VL_state_tt: "[VL_state]" #NT!
+ VL_desc_tt: "[VL_desc]" #NT!
+ VL_header: "[VL_status] [VL_name]" #NT!
+ #VL_Title: "§C[FROM.VL_status]§! of [FROM.GetFlag]§Y[FROM.GetName]§!\n" #NT!
+ VL_Generic: "Second in Command" #NT!
+ VL_Emperor: "Emperor" #NT!
+ VL_King: "King" #NT!
+ VL_Queen: "Queen" #NT!
+ VL_VP: "Vice President" #NT!
+  
+ VL_trait_Komei: "" #NT!
+ VL_state_Komei: "§Y$Komei$§!\n$VL_trait_Komei$" #NT!
+ VL_desc_Komei: "" #NT!

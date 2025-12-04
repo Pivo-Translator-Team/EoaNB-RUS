@@ -108,9 +108,9 @@
  austria.44.t: "Railway Accident Near Cerhovice"
  austria.44.d: ""
  austria.44.a: "What a tragedy!"
- austria.45.t: "The Party of Rights Formed in Croatia" #NT!
- austria.45.d: "The party was founded by two influential Croatian nationalist politicians, Ante Starčević and Eugen Kvaternik, with the goal of greater autonomy for the Kingdom of Croatia and self-rule in the Empire. They have both moderates and hard-liners in the party who have different visions about reaching their goals, but one thing is common in them: their love for Croatia." #NT!
- austria.45.a: "Splendid!" #NT!
+ austria.45.t: "The Party of Rights Formed in Croatia"
+ austria.45.d: "The party was founded by two influential Croatian nationalist politicians, Ante Starčević and Eugen Kvaternik, with the goal of greater autonomy for the Kingdom of Croatia and self-rule in the Empire. They have both moderates and hard-liners in the party who have different visions about reaching their goals, but one thing is common in them: their love for Croatia."
+ austria.45.a: "Splendid!"
   
  austria.50.t: "You've Made it to the End"
  austria.50.d: "Hello, dear player we are really pleased you played our content and hope you have real fun. Here, our current content ends. If you want, you can try to play other paths or even try out other countries. If you find any bugs or misspellings, you can report them to our discord server."
@@ -537,7 +537,14 @@
  austria.405.t: "Franz Joseph Crowned King of Hungary"
  austria.405.d: "Today, Emperor Franz Joseph I, ruler of the Austrian Empire, was crowned I. Ferenc József, King of Hungary. The ceremony, the final step in this great compromise between the two kingdoms, will formalize the union of both crown.\n\nThe Austrian Empire has now been reformed into a dual-monarchy, and now that it has found peace, it can look outwards into Europe. The Austrian Empire has finally resolved one of their greatest issues."
  austria.405.a: "It is no longer Austria, but Austria-Hungary!"
- austria.405.b: "We have earned a place in the Empire! (Play as Hungary)" #NT!
+ austria.405.b: "We have earned a place in the Empire! (Play as Hungary)"
+  
+ austria.406.t: "Decide on the name of the Empire" #NT!
+ austria.406.d: "We need to decide how we want to be called. Our first option is to use our regularly used names. And our second option is to go by our official names. It's in your hand to decide" #NT!
+ austria.406.a: "Use the regular names" #NT!
+ AUS_regular_name_tt: "[AUS.GetFlag] Austria will be named: §YAustrian Empire§!\n[HUN.GetFlag] Hungary will be named: §YKingdom of Hungary§!" #NT!
+ austria.406.b: "Use the official names" #NT!
+ AUS_official_name_tt: "[AUS.GetFlag] Austria will be named: §YCisleithania§!\n[HUN.GetFlag] Hungary will be named: §YTransleithania§!" #NT!
   
   ###ALT-HISTORY EVENTS 
   #HUNGARIAN REVOLUTION EVENTS 
@@ -1332,12 +1339,12 @@
  AUS_decision_suppress_west_slavic_nationalism_desc: "Народы западнославянских земель Богемии-Моравии и Словакии, и раньше заключавшие союзы с немецкими либералами, являются для нас постоянной занозой в боку и стремятся помешать политике барона фон Баха и его коллег. Мы должны как можно быстрее с ними разобраться."
  AUS_decision_suppress_south_slavic_nationalism: "Подавление южнославянского национализма"
  AUS_decision_suppress_south_slavic_nationalism_desc: "Разделенные между имперской короной Австрии и землями Короны Святого Стефана, но объединенные под властью императора Франца Иосифа, южнославянские народы Далматинского побережья имеют переменчивую историю взаимоотношений с Империей в целом. Мы должны быть готовы к любым неприятностям."
- AUS_decision_suppress_romanian_nationalism: "Suppress Romanian Nationalism" #NT!
- AUS_decision_suppress_romanian_nationalism_desc: "The Romanian intellectuals in Transylvania grow ever bolder in their demands. Deploy gendarmes to monitor schools and churches, arrest agitators, and reinforce Hungarian administrative control over the region. A few well-placed executions should remind them of their proper place in the Empire." #NT!
- AUS_decision_suppress_german_nationalism: "Suppress German Nationalism" #NT!
- AUS_decision_suppress_german_nationalism_desc: "Even our loyal German burghers now whisper of 'Greater Germany'—a treasonous fantasy of unity with Prussia. Dissolve pan-German student fraternities, censor liberal newspapers in Vienna, and promote Catholic loyalty to the dynasty over ethnic solidarity." #NT!
- AUS_decision_suppress_ukranian_nationalism: "Suppress Rusyn Nationalism" #NT!
- AUS_decision_suppress_ukranian_nationalism_desc: "The Ruthenian peasants may not even call themselves 'Ukrainians' yet, but their radical priests and Vienna-based exiles stir trouble in Galicia. Strengthen Polish landlord authority, ban Cyrillic publications, and dispatch troops to Lemberg." #NT!
+ AUS_decision_suppress_romanian_nationalism: "Suppress Romanian Nationalism"
+ AUS_decision_suppress_romanian_nationalism_desc: "The Romanian intellectuals in Transylvania grow ever bolder in their demands. Deploy gendarmes to monitor schools and churches, arrest agitators, and reinforce Hungarian administrative control over the region. A few well-placed executions should remind them of their proper place in the Empire."
+ AUS_decision_suppress_german_nationalism: "Suppress German Nationalism"
+ AUS_decision_suppress_german_nationalism_desc: "Even our loyal German burghers now whisper of 'Greater Germany'—a treasonous fantasy of unity with Prussia. Dissolve pan-German student fraternities, censor liberal newspapers in Vienna, and promote Catholic loyalty to the dynasty over ethnic solidarity."
+ AUS_decision_suppress_ukranian_nationalism: "Suppress Rusyn Nationalism"
+ AUS_decision_suppress_ukranian_nationalism_desc: "The Ruthenian peasants may not even call themselves 'Ukrainians' yet, but their radical priests and Vienna-based exiles stir trouble in Galicia. Strengthen Polish landlord authority, ban Cyrillic publications, and dispatch troops to Lemberg."
  AUS_decision_suppress_polish_nationalism: "Подавление польского национализма"
  AUS_decision_suppress_polish_nationalism_desc: "Польское государство, разделенное на части могущественными соседями во второй половине XVIII в., было восстановлено в 1807 г. под эгидой Наполеона, но после его поражения быстро распалось. По решению Венского конгресса польская община вступила в личную унию с Россией, а остальная часть была поделена между нами и пруссаками. В наших галицийских владениях проживает немало поляков, которые, хотя и лояльны до сих пор, могут помнить времена польского величия, поэтому мы должны быть в курсе их деятельности."
  AUS_increase_hungarian_nationalism_by_half_tt: "§YРиск беспорядков в Венгрии§!: §R+0.5%§!\n"
@@ -1368,48 +1375,48 @@
  AUS_decrease_west_slavic_nationalism_by_three_tt: "§YРиск беспорядков в наших западнославянских землях§!: §G-3%§!\n"
  AUS_decrease_west_slavic_nationalism_by_four_tt: "§YРиск беспорядков в наших западнославянских землях§!: §G-4%§!\n"
  AUS_decrease_west_slavic_nationalism_by_five_tt: "§YРиск беспорядков в наших западнославянских землях§!: §G-5%§!\n"
- AUS_increase_romanian_nationalism_by_half_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+0.5%§!\n" #NT!
- AUS_increase_romanian_nationalism_by_one_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+1%§!\n" #NT!
- AUS_increase_romanian_nationalism_by_two_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+2%§!\n" #NT!
- AUS_increase_romanian_nationalism_by_three_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+3%§!\n" #NT!
- AUS_increase_romanian_nationalism_by_four_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+4%§!\n" #NT!
- AUS_increase_romanian_nationalism_by_five_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+5%§!\n" #NT!
- AUS_increase_romanian_nationalism_by_six_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+6%§!\n" #NT!
- AUS_increase_romanian_nationalism_by_ten_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+10%§!\n" #NT!
- AUS_decrease_romanian_nationalism_by_half_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-0.5%§!\n" #NT!
- AUS_decrease_romanian_nationalism_by_one_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-1%§!\n" #NT!
- AUS_decrease_romanian_nationalism_by_two_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-2%§!\n" #NT!
- AUS_decrease_romanian_nationalism_by_three_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-3%§!\n" #NT!
- AUS_decrease_romanian_nationalism_by_four_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-4%§!\n" #NT!
- AUS_decrease_romanian_nationalism_by_five_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-5%§!\n" #NT!
- AUS_increase_german_nationalism_by_half_tt: "§YRisk for Uproar in our German Lands§!: §R+0.5%§!\n" #NT!
- AUS_increase_german_nationalism_by_one_tt: "§YRisk for Uproar in our German Lands§!: §R+1%§!\n" #NT!
- AUS_increase_german_nationalism_by_two_tt: "§YRisk for Uproar in our German Lands§!: §R+2%§!\n" #NT!
- AUS_increase_german_nationalism_by_three_tt: "§YRisk for Uproar in our German Lands§!: §R+3%§!\n" #NT!
- AUS_increase_german_nationalism_by_four_tt: "§YRisk for Uproar in our German Lands§!: §R+4%§!\n" #NT!
- AUS_increase_german_nationalism_by_five_tt: "§YRisk for Uproar in our German Lands§!: §R+5%§!\n" #NT!
- AUS_increase_german_nationalism_by_six_tt: "§YRisk for Uproar in our German Lands§!: §R+6%§!\n" #NT!
- AUS_increase_german_nationalism_by_ten_tt: "§YRisk for Uproar in our German Lands§!: §R+10%§!\n" #NT!
- AUS_decrease_german_nationalism_by_half_tt: "§YRisk for Uproar in our German Lands§!: §G-0.5%§!\n" #NT!
- AUS_decrease_german_nationalism_by_one_tt: "§YRisk for Uproar in our German Lands§!: §G-1%§!\n" #NT!
- AUS_decrease_german_nationalism_by_two_tt: "§YRisk for Uproar in our German Lands§!: §G-2%§!\n" #NT!
- AUS_decrease_german_nationalism_by_three_tt: "§YRisk for Uproar in our German Lands§!: §G-3%§!\n" #NT!
- AUS_decrease_german_nationalism_by_four_tt: "§YRisk for Uproar in our German Lands§!: §G-4%§!\n" #NT!
- AUS_decrease_german_nationalism_by_five_tt: "§YRisk for Uproar in our German Lands§!: §G-5%§!\n" #NT!
- AUS_increase_ukranian_nationalism_by_half_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+0.5%§!\n" #NT!
- AUS_increase_ukranian_nationalism_by_one_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+1%§!\n" #NT!
- AUS_increase_ukranian_nationalism_by_two_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+2%§!\n" #NT!
- AUS_increase_ukranian_nationalism_by_three_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+3%§!\n" #NT!
- AUS_increase_ukranian_nationalism_by_four_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+4%§!\n" #NT!
- AUS_increase_ukranian_nationalism_by_five_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+5%§!\n" #NT!
- AUS_increase_ukranian_nationalism_by_six_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+6%§!\n" #NT!
- AUS_increase_ukranian_nationalism_by_ten_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+10%§!\n" #NT!
- AUS_decrease_ukranian_nationalism_by_half_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-0.5%§!\n" #NT!
- AUS_decrease_ukranian_nationalism_by_one_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-1%§!\n" #NT!
- AUS_decrease_ukranian_nationalism_by_two_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-2%§!\n" #NT!
- AUS_decrease_ukranian_nationalism_by_three_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-3%§!\n" #NT!
- AUS_decrease_ukranian_nationalism_by_four_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-4%§!\n" #NT!
- AUS_decrease_ukranian_nationalism_by_five_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-5%§!\n" #NT!
+ AUS_increase_romanian_nationalism_by_half_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+0.5%§!\n"
+ AUS_increase_romanian_nationalism_by_one_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+1%§!\n"
+ AUS_increase_romanian_nationalism_by_two_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+2%§!\n"
+ AUS_increase_romanian_nationalism_by_three_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+3%§!\n"
+ AUS_increase_romanian_nationalism_by_four_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+4%§!\n"
+ AUS_increase_romanian_nationalism_by_five_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+5%§!\n"
+ AUS_increase_romanian_nationalism_by_six_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+6%§!\n"
+ AUS_increase_romanian_nationalism_by_ten_tt: "§YRisk for Uproar in our Romanian Lands§!: §R+10%§!\n"
+ AUS_decrease_romanian_nationalism_by_half_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-0.5%§!\n"
+ AUS_decrease_romanian_nationalism_by_one_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-1%§!\n"
+ AUS_decrease_romanian_nationalism_by_two_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-2%§!\n"
+ AUS_decrease_romanian_nationalism_by_three_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-3%§!\n"
+ AUS_decrease_romanian_nationalism_by_four_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-4%§!\n"
+ AUS_decrease_romanian_nationalism_by_five_tt: "§YRisk for Uproar in our Romanian Lands§!: §G-5%§!\n"
+ AUS_increase_german_nationalism_by_half_tt: "§YRisk for Uproar in our German Lands§!: §R+0.5%§!\n"
+ AUS_increase_german_nationalism_by_one_tt: "§YRisk for Uproar in our German Lands§!: §R+1%§!\n"
+ AUS_increase_german_nationalism_by_two_tt: "§YRisk for Uproar in our German Lands§!: §R+2%§!\n"
+ AUS_increase_german_nationalism_by_three_tt: "§YRisk for Uproar in our German Lands§!: §R+3%§!\n"
+ AUS_increase_german_nationalism_by_four_tt: "§YRisk for Uproar in our German Lands§!: §R+4%§!\n"
+ AUS_increase_german_nationalism_by_five_tt: "§YRisk for Uproar in our German Lands§!: §R+5%§!\n"
+ AUS_increase_german_nationalism_by_six_tt: "§YRisk for Uproar in our German Lands§!: §R+6%§!\n"
+ AUS_increase_german_nationalism_by_ten_tt: "§YRisk for Uproar in our German Lands§!: §R+10%§!\n"
+ AUS_decrease_german_nationalism_by_half_tt: "§YRisk for Uproar in our German Lands§!: §G-0.5%§!\n"
+ AUS_decrease_german_nationalism_by_one_tt: "§YRisk for Uproar in our German Lands§!: §G-1%§!\n"
+ AUS_decrease_german_nationalism_by_two_tt: "§YRisk for Uproar in our German Lands§!: §G-2%§!\n"
+ AUS_decrease_german_nationalism_by_three_tt: "§YRisk for Uproar in our German Lands§!: §G-3%§!\n"
+ AUS_decrease_german_nationalism_by_four_tt: "§YRisk for Uproar in our German Lands§!: §G-4%§!\n"
+ AUS_decrease_german_nationalism_by_five_tt: "§YRisk for Uproar in our German Lands§!: §G-5%§!\n"
+ AUS_increase_ukranian_nationalism_by_half_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+0.5%§!\n"
+ AUS_increase_ukranian_nationalism_by_one_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+1%§!\n"
+ AUS_increase_ukranian_nationalism_by_two_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+2%§!\n"
+ AUS_increase_ukranian_nationalism_by_three_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+3%§!\n"
+ AUS_increase_ukranian_nationalism_by_four_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+4%§!\n"
+ AUS_increase_ukranian_nationalism_by_five_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+5%§!\n"
+ AUS_increase_ukranian_nationalism_by_six_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+6%§!\n"
+ AUS_increase_ukranian_nationalism_by_ten_tt: "§YRisk for Uproar in our Rusyn Lands§!: §R+10%§!\n"
+ AUS_decrease_ukranian_nationalism_by_half_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-0.5%§!\n"
+ AUS_decrease_ukranian_nationalism_by_one_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-1%§!\n"
+ AUS_decrease_ukranian_nationalism_by_two_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-2%§!\n"
+ AUS_decrease_ukranian_nationalism_by_three_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-3%§!\n"
+ AUS_decrease_ukranian_nationalism_by_four_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-4%§!\n"
+ AUS_decrease_ukranian_nationalism_by_five_tt: "§YRisk for Uproar in our Rusyn Lands§!: §G-5%§!\n"
  AUS_increase_south_slavic_nationalism_by_half_tt: "§YРиск беспорядков в наших южнославянских землях§!: §R+0.5%§!\n"
  AUS_increase_south_slavic_nationalism_by_one_tt: "§YРиск беспорядков в наших южнославянских землях§!: §R+1%§!\n"
  AUS_increase_south_slavic_nationalism_by_two_tt: "§YРиск беспорядков в наших южнославянских землях§!: §R+2%§!\n"
@@ -1446,7 +1453,7 @@
  AUS_decrease_all_nationalisms_by_two_tt: "§YРиск беспорядков в наших негерманских землях§!: §G-2%§!\n"
  AUS_decrease_all_nationalisms_by_three_tt: "§YРиск беспорядков в наших негерманских землях§!: §G-3%§!\n"
  AUS_decrease_all_nationalisms_by_four_tt: "§YРиск беспорядков в наших негерманских землях§!: §G-4%§!\n"
- AUS_decrease_all_nationalisms_by_five_tt: "§YRisk for Uproar in all our non-German Lands§!: §G-5%§!\n" #NT!
+ AUS_decrease_all_nationalisms_by_five_tt: "§YRisk for Uproar in all our non-German Lands§!: §G-5%§!\n"
   
   #Domestic Politics 
  AUS_decision_category_domestic_politics: "Внутренняя политика"
@@ -1840,8 +1847,8 @@
  AUS_idea_hauslab_assault_desc: ""
  AUS_idea_stosstaktik: "Тактика шокового воздействия"
  AUS_idea_stosstaktik_desc: ""
- AUS_idea_stosstaktik_2: "Stoßtaktik" #NT!
- AUS_idea_stosstaktik_2_desc: "Stosstaktik, or 'shock tactics,' is a bold new approach to military operations that emphasizes the use of concentrated, rapid assaults to break enemy lines and create disarray within their ranks. By focusing on speed, surprise, and coordination between infantry and supporting units, Stosstaktik will enable Austria to achieve swift victories and maintain momentum on the battlefield. This tactic will redefine the Austrian military’s approach to warfare, making it more adaptable to modern challenges." #NT!
+ AUS_idea_stosstaktik_2: "Stoßtaktik"
+ AUS_idea_stosstaktik_2_desc: "Stosstaktik, or 'shock tactics,' is a bold new approach to military operations that emphasizes the use of concentrated, rapid assaults to break enemy lines and create disarray within their ranks. By focusing on speed, surprise, and coordination between infantry and supporting units, Stosstaktik will enable Austria to achieve swift victories and maintain momentum on the battlefield. This tactic will redefine the Austrian military’s approach to warfare, making it more adaptable to modern challenges."
   
   #Navy 
  AUS_idea_navy_spending_cuts_1: "Сокращение расходов на ВМФ"
@@ -1960,7 +1967,7 @@
  POLITICS_ARCHDUKE_RAINER_DESC: "Эрцгерцог Райнер Фердинанд Австрийский - один из нескольких высокопоставленных членов монархии Габсбургов. Эрцгерцог изучал право в Вене и, как большинство представителей монаршей фамилии мужского пола, поступил на службу в императорскую армию. В 1852 г. он женился на своей двоюродной сестре эрцгерцогине Марии Каролине Австрийской, и этот брак оказался очень счастливым. Эрцгерцог лишь в малой степени интересовался политикой, но при дворе его считали идеальным человеком для продолжения абсолютизма в империи, поэтому Франц Иосиф назначил его министром внутренних дел. Эрцгерцог - это, пожалуй, то, что нужно империи, прагматичный лидер, хотя, как и император, возможно, несколько инертный. Большая часть фактической власти принадлежит фракции абсолютистов при дворе, и их задача состоит в том, чтобы все мужчины и женщины в империи были верными подданными Его Величества."
  POLITICS_RICHARD_VON_BELCREDI_DESC: "Вместо Антона фон Шмерлинга на пост министра внутренних дел был назначен граф Рихард фон Белькреди. Граф - выходец из маркграфства Моравия, хотя его семья происходит из Ломбардии, изучал право в Праге, а затем в Вене. Уже будучи членом ландтага с 1861 г., он является опытным бюрократом и противником так называемого 'компромисса' с венграми. Граф выступает за федерализацию империи, хотя и в консервативном варианте, когда местная знать сохраняет практически всю власть, для борьбы с различными сепаратистскими движениями. В конечном итоге от императора зависит, останется ли граф фон Белькреди на посту министра внутренних дел надолго, или его заменят более сговорчивым и покладистым политиком, как в случае с Антоном фон Шмерлингом."
  POLITICS_FRIEDRICH_FERDINAND_VON_BEUST_DESC: "Граф Фридрих Фердинанд фон Бейст - странный выбор на пост статс-министра: он и саксонец, и протестант. Несмотря на это, он является ярым противником Пруссии, нанесшей нам столь серьезную обиду, а также очень компетентным государственным деятелем. Есть надежда, что граф положит конец переговорам с мадьярами и вернет веру в монархию. Пора, чтобы несчастье закончилось и наступил новый период мира и стабильности..."
- POLITICS_FRANZ_JOSEPH_DESC: "§RNEED TO BE ADDED§!" #NT!
+ POLITICS_FRANZ_JOSEPH_DESC: "§RNEED TO BE ADDED§!"
   
   #Advisor Traits 
  AUS_trait_Abraham_Ganz: "Отец Ganz Works"
@@ -1994,46 +2001,46 @@
  AUS_trait_Archduke_Maximilian_Calming_Figure_desc: "Вопреки всему, эрцгерцогу Максимилиану удалось успокоить общественное давление и националистические настроения в наших владениях в Северной Италии. Хотя Итальянское национальное движение, несомненно, продолжит свою деятельность и останется серьезной угрозой нашему господству в регионе, успокаивающая аура эрцгерцога должна оказать стабилизирующее воздействие в ближайшем будущем."
   
   #Multinational Empire 
- mne_decision_name_tt: "[?v.GetTokenLocalizedKey]" #NT!
- mne_decision_name_tt_delayed: "" #NT!
- mne_decision_cost_tt: "[GetAustrianMNEDecisionCost]" #NT!
- mne_decision_cost_finished: "£trigger_yes Complete" #NT!
- mne_decision_cost_clicked: "£trigger_yes Active" #NT!
- mne_cost_yes_yes: "£trigger_yes [?lp_cost@var:v] £pol_power  £trigger_yes [?debt_cost@var:v] £prosperity_texticon" #NT!
- mne_cost_yes_no: "£trigger_yes [?lp_cost@var:v] £pol_power  £trigger_no §R[?debt_cost@var:v]§! £prosperity_texticon" #NT!
- mne_cost_no_yes: "£trigger_no §R[?lp_cost@var:v]§! £pol_power  £trigger_yes [?debt_cost@var:v] £prosperity_texticon" #NT!
- mne_cost_no_no: "£trigger_no §R[?lp_cost@var:v]§! £pol_power  £trigger_no §R[?debt_cost@var:v]§! £prosperity_texticon" #NT!
- mne_cost_yes: "£trigger_yes [?lp_cost@var:v] £pol_power" #NT!
- mne_cost_no: "£trigger_no §R[?lp_cost@var:v]§! £pol_power" #NT!
- mne_decision_select_tt: "[!AUS_multinational_empire_decision_select_click]" #NT!
- mne_decision_select_effect: "[GetAustrianMNEDecisionEffect]" #NT!
- mne_decision_completed_effect: "§GCompleted§!" #NT!
- mne_decision_select_active_effect: "§YDecision Active§!" #NT!
- mne_decision_select_cost_effect: "§C[ROOT.GetNameWithFlag]§!:\n Enact §Y[?v.GetTokenLocalizedKey]§!\n £pol_power Political Power: §R-[?lp_cost@var:v]§!" #NT!
- mne_propose_decision_tt: "Unlocks a £GFX_decision_icon_small §YMinority Decision§!" #NT!
- mne_decision_timeout: "[GetAustrianMNEDecisionTimeOut]" #NT!
- mne_decision_timeout_1: "[?aus_mne_category_1_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_2: "[?aus_mne_category_2_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_3: "[?aus_mne_category_3_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_4: "[?aus_mne_category_4_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_5: "[?aus_mne_category_5_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_6: "[?aus_mne_category_6_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_7: "[?aus_mne_category_7_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_8: "[?aus_mne_category_8_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_9: "[?aus_mne_category_9_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_10: "[?aus_mne_category_10_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_11: "[?aus_mne_category_11_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_12: "[?aus_mne_category_12_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_13: "[?aus_mne_category_13_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_14: "[?aus_mne_category_14_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_15: "[?aus_mne_category_15_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_16: "[?aus_mne_category_16_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_17: "[?aus_mne_category_17_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_18: "[?aus_mne_category_18_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_19: "[?aus_mne_category_19_decision_ongoing:days_left] days" #NT!
- mne_decision_timeout_error: "§RError§!" #NT!
- AUS_decision_multinational_empire_test_juan: "Test Juan" #NT!
- AUS_decision_multinational_empire_test_chew: "Test Chew" #NT!
+ mne_decision_name_tt: "[?v.GetTokenLocalizedKey]"
+ mne_decision_name_tt_delayed: ""
+ mne_decision_cost_tt: "[GetAustrianMNEDecisionCost]"
+ mne_decision_cost_finished: "£trigger_yes Complete"
+ mne_decision_cost_clicked: "£trigger_yes Active"
+ mne_cost_yes_yes: "£trigger_yes [?lp_cost@var:v] £pol_power  £trigger_yes [?debt_cost@var:v] £prosperity_texticon"
+ mne_cost_yes_no: "£trigger_yes [?lp_cost@var:v] £pol_power  £trigger_no §R[?debt_cost@var:v]§! £prosperity_texticon"
+ mne_cost_no_yes: "£trigger_no §R[?lp_cost@var:v]§! £pol_power  £trigger_yes [?debt_cost@var:v] £prosperity_texticon"
+ mne_cost_no_no: "£trigger_no §R[?lp_cost@var:v]§! £pol_power  £trigger_no §R[?debt_cost@var:v]§! £prosperity_texticon"
+ mne_cost_yes: "£trigger_yes [?lp_cost@var:v] £pol_power"
+ mne_cost_no: "£trigger_no §R[?lp_cost@var:v]§! £pol_power"
+ mne_decision_select_tt: "[!AUS_multinational_empire_decision_select_click]"
+ mne_decision_select_effect: "[GetAustrianMNEDecisionEffect]"
+ mne_decision_completed_effect: "§GCompleted§!"
+ mne_decision_select_active_effect: "§YDecision Active§!"
+ mne_decision_select_cost_effect: "§C[ROOT.GetNameWithFlag]§!:\n Enact §Y[?v.GetTokenLocalizedKey]§!\n £pol_power Political Power: §R-[?lp_cost@var:v]§!"
+ mne_propose_decision_tt: "Unlocks a £GFX_decision_icon_small §YMinority Decision§!"
+ mne_decision_timeout: "[GetAustrianMNEDecisionTimeOut]"
+ mne_decision_timeout_1: "[?aus_mne_category_1_decision_ongoing:days_left] days"
+ mne_decision_timeout_2: "[?aus_mne_category_2_decision_ongoing:days_left] days"
+ mne_decision_timeout_3: "[?aus_mne_category_3_decision_ongoing:days_left] days"
+ mne_decision_timeout_4: "[?aus_mne_category_4_decision_ongoing:days_left] days"
+ mne_decision_timeout_5: "[?aus_mne_category_5_decision_ongoing:days_left] days"
+ mne_decision_timeout_6: "[?aus_mne_category_6_decision_ongoing:days_left] days"
+ mne_decision_timeout_7: "[?aus_mne_category_7_decision_ongoing:days_left] days"
+ mne_decision_timeout_8: "[?aus_mne_category_8_decision_ongoing:days_left] days"
+ mne_decision_timeout_9: "[?aus_mne_category_9_decision_ongoing:days_left] days"
+ mne_decision_timeout_10: "[?aus_mne_category_10_decision_ongoing:days_left] days"
+ mne_decision_timeout_11: "[?aus_mne_category_11_decision_ongoing:days_left] days"
+ mne_decision_timeout_12: "[?aus_mne_category_12_decision_ongoing:days_left] days"
+ mne_decision_timeout_13: "[?aus_mne_category_13_decision_ongoing:days_left] days"
+ mne_decision_timeout_14: "[?aus_mne_category_14_decision_ongoing:days_left] days"
+ mne_decision_timeout_15: "[?aus_mne_category_15_decision_ongoing:days_left] days"
+ mne_decision_timeout_16: "[?aus_mne_category_16_decision_ongoing:days_left] days"
+ mne_decision_timeout_17: "[?aus_mne_category_17_decision_ongoing:days_left] days"
+ mne_decision_timeout_18: "[?aus_mne_category_18_decision_ongoing:days_left] days"
+ mne_decision_timeout_19: "[?aus_mne_category_19_decision_ongoing:days_left] days"
+ mne_decision_timeout_error: "§RError§!"
+ AUS_decision_multinational_empire_test_juan: "Test Juan"
+ AUS_decision_multinational_empire_test_chew: "Test Chew"
   
   ###Misc 
  dynmod_AUS_naval_reform: "Реформа ВМФ"
@@ -2065,76 +2072,76 @@
  AUS_POL_REVOLT_RISK_LESS_THAN_25_trigger_tt: "§YРиск беспорядков в наших польских землях ниже 25%§!\n"
   
  AUS_ITA_REVOLT_RISK_LESS_THAN_60_trigger_tt: "§YРиск беспорядков в наших итальянских землях ниже 60%§!\n"
- challenge_of_multination_empire_loc: "The Multinational Empire" #NT!
- AUS_challenge_of_multination_empire_decisions_title: "Decisions" #NT!
- AUS_challenge_of_multination_empire_area_name: "Name" #NT!
- AUS_challenge_of_multination_empire_area_description: "Description" #NT!
- decisions_name: "Decisions" #NT!
+ challenge_of_multination_empire_loc: "The Multinational Empire"
+ AUS_challenge_of_multination_empire_decisions_title: "Decisions"
+ AUS_challenge_of_multination_empire_area_name: "Name"
+ AUS_challenge_of_multination_empire_area_description: "Description"
+ decisions_name: "Decisions"
   
- AUS_state_1_tooltip: "[AUS.GetFlag] §YGerman Lands§! \n\nRisk of Uproar: §t[?GER_UPROAR_RISK|%-1]" #NT!
- AUS_state_2_tooltip: "[LVN.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]" #NT!
- AUS_state_2_alternate_tooltip: "[ITA.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]" #NT!
- AUS_state_3_tooltip: "[CZE.GetFlag] §YCzech Lands§! \n\nRisk of Uproar: §t[?CZE_REVOLT_RISK|%-1]" #NT!
- AUS_state_4_tooltip: "[CRO.GetFlag] §YCroat Lands§! \n\nRisk of Uproar: §t[?CRO_REVOLT_RISK|%-1]" #NT!
- AUS_state_5_tooltip: "[POL.GetFlag] §YPolish Lands§! \n\nRisk of Uproar: §t[?POL_REVOLT_RISK|%-1]" #NT!
- AUS_state_6_tooltip: "[UKR.GetFlag] §YRusyn Lands§! \n\nRisk of Uproar: §t[?UKR_REVOLT_RISK|%-1]" #NT!
- AUS_state_7_tooltip: "[SLO.GetFlag] §YSlovak Lands§! \n\nRisk of Uproar: §t[?CZE_REVOLT_RISK|%-1]" #NT!
- AUS_state_8_tooltip: "[CRO.GetFlag] §YCroat Lands§! \n\nRisk of Uproar: §t[?CRO_REVOLT_RISK|%-1]" #NT!
- AUS_state_9_tooltip: "[BOS.GetFlag] §YBosnian Lands§! \n\nRisk of Uproar: §t[?CRO_REVOLT_RISK|%-1]" #NT!
- AUS_state_10_tooltip: "[HUN.GetFlag] §YHungarian Lands§! \n\nRisk of Uproar: §t[?HUN_REVOLT_RISK|%-1]" #NT!
- AUS_state_11_tooltip: "[ROM.GetFlag] §YRomanian Lands§! \n\nRisk of Uproar: §t[?ROM_REVOLT_RISK|%-1]" #NT!
- AUS_state_12_tooltip: "[SER.GetFlag] §YSerb Lands§! \n\nRisk of Uproar: §t[?CRO_REVOLT_RISK|%-1]" #NT!
- AUS_state_13_tooltip: "[SLV.GetFlag] §YSlovene Lands§! \n\nRisk of Uproar: §t[?CRO_REVOLT_RISK|%-1]" #NT!
- AUS_state_14_tooltip: "[ROM.GetFlag] §YRomanian Lands§! \n\nRisk of Uproar: §t[?ROM_REVOLT_RISK|%-1]" #NT!
- AUS_state_15_tooltip: "[UKR.GetFlag] §YRusyn Lands§! \n\nRisk of Uproar: §t[?UKR_REVOLT_RISK|%-1]" #NT!
- AUS_state_16_tooltip: "[LVN.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]" #NT!
- AUS_state_16_alternate_tooltip: "[ITA.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]" #NT!
- AUS_state_17_tooltip: "[LVN.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]" #NT!
- AUS_state_17_alternate_tooltip: "[ITA.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]" #NT!
- AUS_state_18_tooltip: "[AUS.GetFlag] §YGerman Lands§! \n\nRisk of Uproar: §t[?GER_UPROAR_RISK|%-1]" #NT!
- AUS_state_19_tooltip: "[POL.GetFlag] §YPolish Lands§! \n\nRisk of Uproar: §t[?POL_REVOLT_RISK|%-1]" #NT!
+ AUS_state_1_tooltip: "[AUS.GetFlag] §YGerman Lands§! \n\nRisk of Uproar: §t[?GER_UPROAR_RISK|%-1]"
+ AUS_state_2_tooltip: "[LVN.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]"
+ AUS_state_2_alternate_tooltip: "[ITA.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]"
+ AUS_state_3_tooltip: "[CZE.GetFlag] §YCzech Lands§! \n\nRisk of Uproar: §t[?CZE_REVOLT_RISK|%-1]"
+ AUS_state_4_tooltip: "[CRO.GetFlag] §YCroat Lands§! \n\nRisk of Uproar: §t[?CRO_REVOLT_RISK|%-1]"
+ AUS_state_5_tooltip: "[POL.GetFlag] §YPolish Lands§! \n\nRisk of Uproar: §t[?POL_REVOLT_RISK|%-1]"
+ AUS_state_6_tooltip: "[UKR.GetFlag] §YRusyn Lands§! \n\nRisk of Uproar: §t[?UKR_REVOLT_RISK|%-1]"
+ AUS_state_7_tooltip: "[SLO.GetFlag] §YSlovak Lands§! \n\nRisk of Uproar: §t[?CZE_REVOLT_RISK|%-1]"
+ AUS_state_8_tooltip: "[CRO.GetFlag] §YCroat Lands§! \n\nRisk of Uproar: §t[?CRO_REVOLT_RISK|%-1]"
+ AUS_state_9_tooltip: "[BOS.GetFlag] §YBosnian Lands§! \n\nRisk of Uproar: §t[?CRO_REVOLT_RISK|%-1]"
+ AUS_state_10_tooltip: "[HUN.GetFlag] §YHungarian Lands§! \n\nRisk of Uproar: §t[?HUN_REVOLT_RISK|%-1]"
+ AUS_state_11_tooltip: "[ROM.GetFlag] §YRomanian Lands§! \n\nRisk of Uproar: §t[?ROM_REVOLT_RISK|%-1]"
+ AUS_state_12_tooltip: "[SER.GetFlag] §YSerb Lands§! \n\nRisk of Uproar: §t[?CRO_REVOLT_RISK|%-1]"
+ AUS_state_13_tooltip: "[SLV.GetFlag] §YSlovene Lands§! \n\nRisk of Uproar: §t[?CRO_REVOLT_RISK|%-1]"
+ AUS_state_14_tooltip: "[ROM.GetFlag] §YRomanian Lands§! \n\nRisk of Uproar: §t[?ROM_REVOLT_RISK|%-1]"
+ AUS_state_15_tooltip: "[UKR.GetFlag] §YRusyn Lands§! \n\nRisk of Uproar: §t[?UKR_REVOLT_RISK|%-1]"
+ AUS_state_16_tooltip: "[LVN.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]"
+ AUS_state_16_alternate_tooltip: "[ITA.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]"
+ AUS_state_17_tooltip: "[LVN.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]"
+ AUS_state_17_alternate_tooltip: "[ITA.GetFlag] §YItalian Lands§! \n\nRisk of Uproar: §t[?ITA_UPROAR_RISK|%-1]"
+ AUS_state_18_tooltip: "[AUS.GetFlag] §YGerman Lands§! \n\nRisk of Uproar: §t[?GER_UPROAR_RISK|%-1]"
+ AUS_state_19_tooltip: "[POL.GetFlag] §YPolish Lands§! \n\nRisk of Uproar: §t[?POL_REVOLT_RISK|%-1]"
   
- area_name_1: "Austria - Sudetenland" #NT!
- area_name_1_alternative: "Austria - Sudetenland" #NT!
- area_name_2: "South Tyrol - Istria" #NT!
- area_name_2_alternative: "South Tyrol - Istria" #NT!
- area_name_3: "Bohemia" #NT!
- area_name_4: "Croatia - Slavonia" #NT!
- area_name_5: "Western Galicia" #NT!
- area_name_5_alternative: "Western Galicia" #NT!
- area_name_6: "Eastern Galicia" #NT!
- area_name_7: "Slovakia" #NT!
- area_name_8: "Dalmatia" #NT!
- area_name_9: "Bosnia" #NT!
- area_name_10: "Inner Hungarian" #NT!
- area_name_11: "Transylvania" #NT!
- area_name_11_alternate: "Transylvania" #NT!
- area_name_12: "Vojvodina" #NT!
- area_name_13: "Slovenia" #NT!
- area_name_14: "Bukovina" #NT!
- area_name_14_alternate: "Bukovina" #NT!
- area_name_15: "Carpathian Ruthenia" #NT!
- area_name_16: "Venetia" #NT!
- area_name_17: "Lombardy" #NT!
- area_name_18: "Lower Silesia" #NT!
- area_name_19: "Upper Silesia" #NT!
+ area_name_1: "Austria - Sudetenland"
+ area_name_1_alternative: "Austria - Sudetenland"
+ area_name_2: "South Tyrol - Istria"
+ area_name_2_alternative: "South Tyrol - Istria"
+ area_name_3: "Bohemia"
+ area_name_4: "Croatia - Slavonia"
+ area_name_5: "Western Galicia"
+ area_name_5_alternative: "Western Galicia"
+ area_name_6: "Eastern Galicia"
+ area_name_7: "Slovakia"
+ area_name_8: "Dalmatia"
+ area_name_9: "Bosnia"
+ area_name_10: "Inner Hungarian"
+ area_name_11: "Transylvania"
+ area_name_11_alternate: "Transylvania"
+ area_name_12: "Vojvodina"
+ area_name_13: "Slovenia"
+ area_name_14: "Bukovina"
+ area_name_14_alternate: "Bukovina"
+ area_name_15: "Carpathian Ruthenia"
+ area_name_16: "Venetia"
+ area_name_17: "Lombardy"
+ area_name_18: "Lower Silesia"
+ area_name_19: "Upper Silesia"
   
- area_1_description: "Austria is a predominantly German-speaking region, historically the heart of the Habsburg Empire. The Austrian people have long been loyal subjects of the imperial monarchy, with a strong attachment to their traditions and the stability the Habsburgs provide. However, the rise of nationalism in the 19th century has sparked calls for greater recognition of Austria’s central role within the empire.\n\nWhile Austria remains loyal to the empire, the 1848 Revolution revealed a desire for more political influence. Though suppressed, the revolution furthered Austria’s aspirations for a more prominent role in imperial governance.\n\nIn Sudetenland, the German-speaking population, part of the Bohemian lands, faces tensions with Czech nationalism. They seek recognition within the imperial structure, emphasizing the region’s identity as integral to Austria's imperial heartland." #NT!
- area_2_description: "The Italians of South Tyrol and Istria occupy the empire’s vulnerable southwestern frontier. Though long under Habsburg rule, rising Italian nationalism—driven by aspirations of unification and independence—intensifies tensions, particularly in South Tyrol. Here, the growing Italo-German conflict becomes evident, with the German-speaking population feeling increasingly threatened by the Italian push for dominance.\n\nWhile some Italians in the region remain loyal to Vienna, many view the Empire as a foreign overlord, and the Italian nationalist movement gains momentum.\n\nIn Istria, a mix of Italian, Croatian, and Slovenian communities creates further complexity, but the Italian presence remains dominant along the coast. Failure to address the cultural aspirations of these regions or signs of imperial weakness could spark separatist movements, inviting external interference from the expanding Italian states." #NT!
- area_3_description: "Bohemia is predominantly inhabited by Czechs, who maintain a strong sense of national identity and pride. Historically, the region has been a core part of the Habsburg Empire, but the 19th century has seen rising nationalist sentiments and increasing calls for greater autonomy. While the Czech population has long been subjects of the Habsburgs, the push for political reform grows stronger, fueled by a deep desire for greater cultural and political recognition.\n\nThe relationship between the imperial government and Czech political leaders remains strained, especially following events like the 1848 Revolution, where Czech nationalists sought more autonomy within the Empire. Although the revolution was suppressed and their hopes dashed, the legacy of defeat has fostered mistrust and resentment towards the Habsburgs.\n\nThe Austrian monarchy now faces the challenge of managing these historical grievances and addressing the growing aspirations of the Czech people, all while seeking to avoid further unrest that could destabilize the region." #NT!
- area_4_description: "The Kingdom of Croatia and Slavonia, predominantly inhabited by Croats, has long been under Habsburg rule. Despite this, a rising sense of national identity and aspirations for greater autonomy are growing. The region remains deeply connected to its unique cultural traditions, setting it apart within the Empire.\n\nThe relationship with the imperial government has been stable, largely due to Croatian resistance against Hungarian influence. Fearing Hungarian centralization, Croatian nationalists rebelled during the 1848 Revolution, staying loyal to the crown while hoping for greater autonomy. This goal, left unanswered, deepened mistrust between the two factions.\n\nThe Austrian monarchy now faces the challenge of balancing Croatian aspirations with Hungarian interests while preventing further unrest that could destabilize the region." #NT!
- area_5_description: "Western Galicia is predominantly inhabited by Poles up to the San River, beyond which settlements of Galician Ruthenians begin. The Polish population is known for their cheerful and carefree nature, often indulging in hobbies, yet they also possess a deep sense of resilience and bravery in the face of adversity.\n\nThe relationship between the imperial government and Polish leaders has been strained, particularly due to their long-standing aspirations to restore Polish statehood. Tensions have escalated since events like the 1846 Galician Peasant Uprising and the 1848 Kraków Uprising. In 1846, Austrian authorities, with the help of local peasants, suppressed the uprising, resulting in the massacre of Polish landowners and the involvement of Russian-Austrian forces in Krakow.\n\nThese events have left a legacy of mistrust and resentment, creating a volatile atmosphere in the region. The Austrian monarchy now faces the challenge of addressing Polish grievances while preventing further unrest or potential insurrection that could destabilize Galicia." #NT!
- area_6_description: "Eastern Galicia, predominantly inhabited by Rusyns, is an integral part of the Habsburg Empire. The Rusyn population is known for their melancholic, calm, and simple nature, marked by a strong sense of loyalty and hard work. While they are unpretentious and hospitable, their deep connection to the Greek-Catholic Church is a defining aspect of their identity.\n\nThe relationship between the Rusyns and the imperial government has been generally stable, as they have shown loyalty to the crown during key events, including the Krakow and 1848 uprisings. However, their admiration for the Russian troops sent against the Hungarian uprising reveals their underlying affinity with the Russian Empire. This connection has caused tension with the neighboring Polish population and imperial officials, who view the Rusyns' ties to Russia with suspicion.\n\nThe Austrian monarchy now faces the challenge of managing the delicate balance between maintaining the loyalty of the Rusyns and preventing their ties to Russia from escalating into further unrest in the region." #NT!
- area_7_description: "Slovakia, predominantly inhabited by Slovaks, forms a significant part of the Habsburg Empire’s northern territories. The Slovak people are known for their strong community bonds, cultural traditions, and loyalty to the imperial crown, though a growing national consciousness has sparked calls for greater recognition and rights.\n\nTensions have emerged due to the dominance of Hungarian authorities, with many Slovaks feeling marginalized under Magyarization policies. While their demands remain moderate, there is rising frustration over limited political representation and cultural suppression.\n\nThe Austrian monarchy must now carefully address Slovak aspirations to preserve their loyalty and avoid further unrest, especially as national identities strengthen across the empire." #NT!
- area_8_description: "Dalmatia, predominantly inhabited by Croats, is a coastal region under Habsburg rule. The Dalmatian population is known for their resilience, strong sense of regional identity, and deep connection to their maritime heritage. While loyal to the imperial crown, there is growing discontent as the region feels increasingly disconnected from the broader Croatian lands within the Empire.\n\nThe relationship between the imperial government and Dalmatian leaders has been strained, particularly as calls for the unification of all Croatian lands into a single crownland grow stronger. Tensions have been further exacerbated by the large Italian minority in the region, particularly in the larger cities, where their presence often leads to cultural and political friction.\n\nThe Austrian monarchy now faces the challenge of addressing these aspirations and managing the delicate balance between Croats and Italians while preventing further unrest or rebellion in the region." #NT!
- area_9_description: "Bosnia, a region of ethnic diversity, has been under Habsburg rule since its acquisition following the Ottoman defeat in the Russo-Turkish War. The Bosnian population, including Bosniaks, Croats, and Serbs, is known for its cultural and religious diversity, which contributes to a complex social fabric. While some groups remain loyal to the imperial crown, rising nationalist sentiments are pushing others to seek greater autonomy and self-determination.\n\nThe relationship between the imperial government and regional leaders has become increasingly strained, as each ethnic group demands more political representation and influence. Tensions have been escalating, particularly between the Muslim Bosniaks and the surrounding Christian populations, with growing calls for unity and independence. The Austrian monarchy now faces the challenge of managing these competing aspirations and preventing unrest that could destabilize the region." #NT!
- area_10_description: "Inner Hungary, or Hungary Proper, forms the political and cultural heartland of the Kingdom of Hungary within the Habsburg Empire. Predominantly inhabited by ethnic Magyars, the region is marked by a strong sense of national pride, historical tradition, and a determined push for greater sovereignty.\n\nThe relationship between the imperial government and Hungarian leaders has long been tense, especially following the 1848 Revolution, where Hungarian nationalists rose in armed rebellion against Habsburg rule. The uprising was brutally suppressed with the help of Russian intervention, leaving a lasting legacy of resentment and unresolved national aspirations.\n\nThe Austrian monarchy continues to face challenges in balancing imperial authority with Hungarian demands, as efforts at centralization clash with enduring Magyar efforts for autonomy and national revival." #NT!
- area_11_description: "Transylvania, a multiethnic region within the Habsburg Empire, is predominantly inhabited by Romanians, alongside a significant Magyar population in Szeklerland and a small Saxon minority settled since the 12th century. Each group maintains distinct cultural and political identities. Once autonomous, the region has seen its self-governance eroded under growing Hungarian dominance, fueling ethnic and political tensions.\n\nThe Romanian majority, long marginalized, has grown increasingly vocal in demanding equal rights and recognition. These tensions deepened after the 1848 Revolution, during which most Romanians sided with the imperial crown against the Hungarian uprising.\n\nThe Austrian monarchy now faces the challenge of managing these competing national aspirations and maintaining stability in a region where unresolved grievances threaten the unity of the Empire." #NT!
- area_12_description: "Vojvodina, a fertile region in the southern part of the Habsburg Empire, is home to a diverse population, with Serbs forming the largest ethnic group alongside Hungarians, Germans, and others. Known for their strong Orthodox traditions and cultural resilience, the Serbs of Vojvodina have long sought recognition and protection of their national rights.\n\nThe region’s relationship with the imperial government has been shaped by its strategic importance and history of resistance, particularly during the 1848 Revolution, when Serbs in Vojvodina rose against Hungarian rule and declared loyalty to the Habsburg crown in hopes of gaining autonomy.\n\nToday, the Austrian monarchy must balance the Serbs’ aspirations for self-rule with the interests of other ethnic groups and the broader goal of maintaining order in this contested and politically sensitive region." #NT!
- area_13_description: "Slovenia, inhabited predominantly by Slovenes, forms a mountainous and strategically important part of the Habsburg Empire. The Slovene people are known for their industriousness, cultural pride, and strong attachment to their language, Catholic faith, and rural traditions. Though long loyal to the crown, a rising national consciousness has begun to stir demands for greater recognition.\n\nRelations with the imperial government remain stable, but increasingly marked by calls to unite all Slovene-inhabited lands—currently split across various crownlands—into a single administrative unit. While these demands are moderate, they reflect growing aspirations for cultural and political consolidation.\n\nThe Austrian monarchy must now manage these aspirations carefully, as ignoring them could alienate a loyal population and risk encouraging more radical elements within the Slovene movement." #NT!
- area_14_description: "Bukovina, primarily inhabited by Moldovans, became home to Russians and other ethnic groups beginning in the 17th century. Recently separated from the Kingdom of Galicia and Lodomeria, the region now sees a balance between the local Moldovan population and the Rusyns.\n\nThe Rusyns, who do not adhere to the Greek-Catholic Church, remain distinct in their religious and cultural practices, which has contributed to tensions with both the Moldovans and German settlers. Political focus in the region has largely centered on the influence of these German colonists, as well as the competing aspirations of the Moldovan and Rusyn communities.\n\nThe Austrian monarchy faces the challenge of managing these diverse groups and maintaining stability in a region marked by ethnic and religious divisions, with potential for unrest if local tensions are left unresolved." #NT!
- area_15_description: "Carpathian Ruthenia, nestled in the mountainous borderlands of the empire, is predominantly inhabited by Rusyns—a distinct Eastern Slavic population shaped by geographic isolation and centuries of interaction with Western Slavic and non-Slavic neighbors. While maintaining many archaic elements of traditional Russian culture, they have also absorbed influences from their surrounding environment, giving rise to a unique ethnocultural identity.\n\nThe Rusyns have largely preserved their language, customs, and Orthodox faith, despite repeated efforts to integrate them into the Greek-Catholic Church. Like their Galician counterparts, they have remained loyal to the imperial crown, yet quietly sympathetic to the Russian Empire, a sentiment that continues to provoke unease among the surrounding Hungarian population.\n\nThe Habsburg monarchy now faces the challenge of maintaining loyalty in this remote and culturally complex region, while preventing any external influence from turning local sympathies into unrest or political agitation." #NT!
- area_16_description: "Venetia, with its predominantly Italian population, remains a restless region within the Habsburg Empire. Incorporated into imperial rule after the Congress of Vienna in 1815, many Venetians still view Austrian authority as foreign, recalling their past as an independent republic with pride and a strong sense of cultural distinction.\n\nNationalist sentiment, driven by the broader Italian unification movement, has grown steadily—particularly among the urban middle class and intellectuals. While some segments of the population remain loyal to the crown, many advocate for unification with the united Italian state as a means of reclaiming their national identity.\n\nThe Austrian monarchy faces the ongoing challenge of preserving imperial control over Venetia, where loyalty is tenuous and Italian aspirations for independence remain a potent source of tension." #NT!
- area_17_description: "Lombardy, a prosperous and culturally vibrant region of the Habsburg Empire, is predominantly inhabited by Italians with a strong sense of regional identity and historical independence. Once part of the Duchy of Milan, Lombardy was integrated into imperial rule after the Congress of Vienna in 1815, but many Lombards continue to view Vienna's presence with skepticism.\n\nThe region has become a center of Italian nationalist thought, particularly among the educated middle class and urban elites. Memories of Austrian repression during the 1848 uprisings remain fresh, and calls for united Italian state have only intensified in recent years.\n\nFor the Austrian monarchy, Lombardy represents both a valuable economic asset and a source of persistent unrest. Managing rising nationalist sentiment while retaining control over this strategic region remains a critical challenge for imperial stability." #NT!
- area_18_description: "Lower Silesia, newly integrated into the Habsburg Empire following victory in the Bruderkrieg, is a region with a mixed population of Germans, Czechs, and Poles. Once under Prussian rule, its inhabitants are adjusting to imperial authority, though many retain a strong Prussian cultural identity and administrative tradition.\n\nThe region's German-speaking majority remains cautious but largely cooperative, while Czech and Polish minorities express hope that Habsburg rule will offer greater cultural and religious freedoms than under previous governance. However, tensions linger beneath the surface, particularly among elites concerned about the loss of Prussian influence.\n\nFor the Austrian monarchy, Lower Silesia offers both strategic value and political complexity. Maintaining order and securing loyalty in this recently acquired territory will require careful administration and sensitivity to its diverse population and legacy of foreign rule." #NT!
- area_19_description: "Upper Silesia, annexed by the Habsburg Empire following victory in the Bruderkrieg, is a resource-rich and ethnically mixed region inhabited primarily by Poles, Germans, and Silesians with a distinct local identity. Formerly under Prussian control, the population is still adjusting to the new imperial administration, with lingering loyalties to the old regime among some German elites.\n\nThe Polish-speaking majority, long subjected to Germanization efforts, views the Habsburg takeover with cautious optimism, hoping for greater cultural recognition and religious freedom under Vienna’s rule. However, economic hardship and regional tensions persist, particularly in urban centers where ethnic divisions are most pronounced.\n\nFor the Austrian monarchy, Upper Silesia represents both a strategic industrial asset and a delicate political challenge. Ensuring stability and integrating the region into the imperial framework will require balancing competing national identities and addressing local grievances." #NT!
+ area_1_description: "Austria is a predominantly German-speaking region, historically the heart of the Habsburg Empire. The Austrian people have long been loyal subjects of the imperial monarchy, with a strong attachment to their traditions and the stability the Habsburgs provide. However, the rise of nationalism in the 19th century has sparked calls for greater recognition of Austria’s central role within the empire.\n\nWhile Austria remains loyal to the empire, the 1848 Revolution revealed a desire for more political influence. Though suppressed, the revolution furthered Austria’s aspirations for a more prominent role in imperial governance.\n\nIn Sudetenland, the German-speaking population, part of the Bohemian lands, faces tensions with Czech nationalism. They seek recognition within the imperial structure, emphasizing the region’s identity as integral to Austria's imperial heartland."
+ area_2_description: "The Italians of South Tyrol and Istria occupy the empire’s vulnerable southwestern frontier. Though long under Habsburg rule, rising Italian nationalism—driven by aspirations of unification and independence—intensifies tensions, particularly in South Tyrol. Here, the growing Italo-German conflict becomes evident, with the German-speaking population feeling increasingly threatened by the Italian push for dominance.\n\nWhile some Italians in the region remain loyal to Vienna, many view the Empire as a foreign overlord, and the Italian nationalist movement gains momentum.\n\nIn Istria, a mix of Italian, Croatian, and Slovenian communities creates further complexity, but the Italian presence remains dominant along the coast. Failure to address the cultural aspirations of these regions or signs of imperial weakness could spark separatist movements, inviting external interference from the expanding Italian states."
+ area_3_description: "Bohemia is predominantly inhabited by Czechs, who maintain a strong sense of national identity and pride. Historically, the region has been a core part of the Habsburg Empire, but the 19th century has seen rising nationalist sentiments and increasing calls for greater autonomy. While the Czech population has long been subjects of the Habsburgs, the push for political reform grows stronger, fueled by a deep desire for greater cultural and political recognition.\n\nThe relationship between the imperial government and Czech political leaders remains strained, especially following events like the 1848 Revolution, where Czech nationalists sought more autonomy within the Empire. Although the revolution was suppressed and their hopes dashed, the legacy of defeat has fostered mistrust and resentment towards the Habsburgs.\n\nThe Austrian monarchy now faces the challenge of managing these historical grievances and addressing the growing aspirations of the Czech people, all while seeking to avoid further unrest that could destabilize the region."
+ area_4_description: "The Kingdom of Croatia and Slavonia, predominantly inhabited by Croats, has long been under Habsburg rule. Despite this, a rising sense of national identity and aspirations for greater autonomy are growing. The region remains deeply connected to its unique cultural traditions, setting it apart within the Empire.\n\nThe relationship with the imperial government has been stable, largely due to Croatian resistance against Hungarian influence. Fearing Hungarian centralization, Croatian nationalists rebelled during the 1848 Revolution, staying loyal to the crown while hoping for greater autonomy. This goal, left unanswered, deepened mistrust between the two factions.\n\nThe Austrian monarchy now faces the challenge of balancing Croatian aspirations with Hungarian interests while preventing further unrest that could destabilize the region."
+ area_5_description: "Western Galicia is predominantly inhabited by Poles up to the San River, beyond which settlements of Galician Ruthenians begin. The Polish population is known for their cheerful and carefree nature, often indulging in hobbies, yet they also possess a deep sense of resilience and bravery in the face of adversity.\n\nThe relationship between the imperial government and Polish leaders has been strained, particularly due to their long-standing aspirations to restore Polish statehood. Tensions have escalated since events like the 1846 Galician Peasant Uprising and the 1848 Kraków Uprising. In 1846, Austrian authorities, with the help of local peasants, suppressed the uprising, resulting in the massacre of Polish landowners and the involvement of Russian-Austrian forces in Krakow.\n\nThese events have left a legacy of mistrust and resentment, creating a volatile atmosphere in the region. The Austrian monarchy now faces the challenge of addressing Polish grievances while preventing further unrest or potential insurrection that could destabilize Galicia."
+ area_6_description: "Eastern Galicia, predominantly inhabited by Rusyns, is an integral part of the Habsburg Empire. The Rusyn population is known for their melancholic, calm, and simple nature, marked by a strong sense of loyalty and hard work. While they are unpretentious and hospitable, their deep connection to the Greek-Catholic Church is a defining aspect of their identity.\n\nThe relationship between the Rusyns and the imperial government has been generally stable, as they have shown loyalty to the crown during key events, including the Krakow and 1848 uprisings. However, their admiration for the Russian troops sent against the Hungarian uprising reveals their underlying affinity with the Russian Empire. This connection has caused tension with the neighboring Polish population and imperial officials, who view the Rusyns' ties to Russia with suspicion.\n\nThe Austrian monarchy now faces the challenge of managing the delicate balance between maintaining the loyalty of the Rusyns and preventing their ties to Russia from escalating into further unrest in the region."
+ area_7_description: "Slovakia, predominantly inhabited by Slovaks, forms a significant part of the Habsburg Empire’s northern territories. The Slovak people are known for their strong community bonds, cultural traditions, and loyalty to the imperial crown, though a growing national consciousness has sparked calls for greater recognition and rights.\n\nTensions have emerged due to the dominance of Hungarian authorities, with many Slovaks feeling marginalized under Magyarization policies. While their demands remain moderate, there is rising frustration over limited political representation and cultural suppression.\n\nThe Austrian monarchy must now carefully address Slovak aspirations to preserve their loyalty and avoid further unrest, especially as national identities strengthen across the empire."
+ area_8_description: "Dalmatia, predominantly inhabited by Croats, is a coastal region under Habsburg rule. The Dalmatian population is known for their resilience, strong sense of regional identity, and deep connection to their maritime heritage. While loyal to the imperial crown, there is growing discontent as the region feels increasingly disconnected from the broader Croatian lands within the Empire.\n\nThe relationship between the imperial government and Dalmatian leaders has been strained, particularly as calls for the unification of all Croatian lands into a single crownland grow stronger. Tensions have been further exacerbated by the large Italian minority in the region, particularly in the larger cities, where their presence often leads to cultural and political friction.\n\nThe Austrian monarchy now faces the challenge of addressing these aspirations and managing the delicate balance between Croats and Italians while preventing further unrest or rebellion in the region."
+ area_9_description: "Bosnia, a region of ethnic diversity, has been under Habsburg rule since its acquisition following the Ottoman defeat in the Russo-Turkish War. The Bosnian population, including Bosniaks, Croats, and Serbs, is known for its cultural and religious diversity, which contributes to a complex social fabric. While some groups remain loyal to the imperial crown, rising nationalist sentiments are pushing others to seek greater autonomy and self-determination.\n\nThe relationship between the imperial government and regional leaders has become increasingly strained, as each ethnic group demands more political representation and influence. Tensions have been escalating, particularly between the Muslim Bosniaks and the surrounding Christian populations, with growing calls for unity and independence. The Austrian monarchy now faces the challenge of managing these competing aspirations and preventing unrest that could destabilize the region."
+ area_10_description: "Inner Hungary, or Hungary Proper, forms the political and cultural heartland of the Kingdom of Hungary within the Habsburg Empire. Predominantly inhabited by ethnic Magyars, the region is marked by a strong sense of national pride, historical tradition, and a determined push for greater sovereignty.\n\nThe relationship between the imperial government and Hungarian leaders has long been tense, especially following the 1848 Revolution, where Hungarian nationalists rose in armed rebellion against Habsburg rule. The uprising was brutally suppressed with the help of Russian intervention, leaving a lasting legacy of resentment and unresolved national aspirations.\n\nThe Austrian monarchy continues to face challenges in balancing imperial authority with Hungarian demands, as efforts at centralization clash with enduring Magyar efforts for autonomy and national revival."
+ area_11_description: "Transylvania, a multiethnic region within the Habsburg Empire, is predominantly inhabited by Romanians, alongside a significant Magyar population in Szeklerland and a small Saxon minority settled since the 12th century. Each group maintains distinct cultural and political identities. Once autonomous, the region has seen its self-governance eroded under growing Hungarian dominance, fueling ethnic and political tensions.\n\nThe Romanian majority, long marginalized, has grown increasingly vocal in demanding equal rights and recognition. These tensions deepened after the 1848 Revolution, during which most Romanians sided with the imperial crown against the Hungarian uprising.\n\nThe Austrian monarchy now faces the challenge of managing these competing national aspirations and maintaining stability in a region where unresolved grievances threaten the unity of the Empire."
+ area_12_description: "Vojvodina, a fertile region in the southern part of the Habsburg Empire, is home to a diverse population, with Serbs forming the largest ethnic group alongside Hungarians, Germans, and others. Known for their strong Orthodox traditions and cultural resilience, the Serbs of Vojvodina have long sought recognition and protection of their national rights.\n\nThe region’s relationship with the imperial government has been shaped by its strategic importance and history of resistance, particularly during the 1848 Revolution, when Serbs in Vojvodina rose against Hungarian rule and declared loyalty to the Habsburg crown in hopes of gaining autonomy.\n\nToday, the Austrian monarchy must balance the Serbs’ aspirations for self-rule with the interests of other ethnic groups and the broader goal of maintaining order in this contested and politically sensitive region."
+ area_13_description: "Slovenia, inhabited predominantly by Slovenes, forms a mountainous and strategically important part of the Habsburg Empire. The Slovene people are known for their industriousness, cultural pride, and strong attachment to their language, Catholic faith, and rural traditions. Though long loyal to the crown, a rising national consciousness has begun to stir demands for greater recognition.\n\nRelations with the imperial government remain stable, but increasingly marked by calls to unite all Slovene-inhabited lands—currently split across various crownlands—into a single administrative unit. While these demands are moderate, they reflect growing aspirations for cultural and political consolidation.\n\nThe Austrian monarchy must now manage these aspirations carefully, as ignoring them could alienate a loyal population and risk encouraging more radical elements within the Slovene movement."
+ area_14_description: "Bukovina, primarily inhabited by Moldovans, became home to Russians and other ethnic groups beginning in the 17th century. Recently separated from the Kingdom of Galicia and Lodomeria, the region now sees a balance between the local Moldovan population and the Rusyns.\n\nThe Rusyns, who do not adhere to the Greek-Catholic Church, remain distinct in their religious and cultural practices, which has contributed to tensions with both the Moldovans and German settlers. Political focus in the region has largely centered on the influence of these German colonists, as well as the competing aspirations of the Moldovan and Rusyn communities.\n\nThe Austrian monarchy faces the challenge of managing these diverse groups and maintaining stability in a region marked by ethnic and religious divisions, with potential for unrest if local tensions are left unresolved."
+ area_15_description: "Carpathian Ruthenia, nestled in the mountainous borderlands of the empire, is predominantly inhabited by Rusyns—a distinct Eastern Slavic population shaped by geographic isolation and centuries of interaction with Western Slavic and non-Slavic neighbors. While maintaining many archaic elements of traditional Russian culture, they have also absorbed influences from their surrounding environment, giving rise to a unique ethnocultural identity.\n\nThe Rusyns have largely preserved their language, customs, and Orthodox faith, despite repeated efforts to integrate them into the Greek-Catholic Church. Like their Galician counterparts, they have remained loyal to the imperial crown, yet quietly sympathetic to the Russian Empire, a sentiment that continues to provoke unease among the surrounding Hungarian population.\n\nThe Habsburg monarchy now faces the challenge of maintaining loyalty in this remote and culturally complex region, while preventing any external influence from turning local sympathies into unrest or political agitation."
+ area_16_description: "Venetia, with its predominantly Italian population, remains a restless region within the Habsburg Empire. Incorporated into imperial rule after the Congress of Vienna in 1815, many Venetians still view Austrian authority as foreign, recalling their past as an independent republic with pride and a strong sense of cultural distinction.\n\nNationalist sentiment, driven by the broader Italian unification movement, has grown steadily—particularly among the urban middle class and intellectuals. While some segments of the population remain loyal to the crown, many advocate for unification with the united Italian state as a means of reclaiming their national identity.\n\nThe Austrian monarchy faces the ongoing challenge of preserving imperial control over Venetia, where loyalty is tenuous and Italian aspirations for independence remain a potent source of tension."
+ area_17_description: "Lombardy, a prosperous and culturally vibrant region of the Habsburg Empire, is predominantly inhabited by Italians with a strong sense of regional identity and historical independence. Once part of the Duchy of Milan, Lombardy was integrated into imperial rule after the Congress of Vienna in 1815, but many Lombards continue to view Vienna's presence with skepticism.\n\nThe region has become a center of Italian nationalist thought, particularly among the educated middle class and urban elites. Memories of Austrian repression during the 1848 uprisings remain fresh, and calls for united Italian state have only intensified in recent years.\n\nFor the Austrian monarchy, Lombardy represents both a valuable economic asset and a source of persistent unrest. Managing rising nationalist sentiment while retaining control over this strategic region remains a critical challenge for imperial stability."
+ area_18_description: "Lower Silesia, newly integrated into the Habsburg Empire following victory in the Bruderkrieg, is a region with a mixed population of Germans, Czechs, and Poles. Once under Prussian rule, its inhabitants are adjusting to imperial authority, though many retain a strong Prussian cultural identity and administrative tradition.\n\nThe region's German-speaking majority remains cautious but largely cooperative, while Czech and Polish minorities express hope that Habsburg rule will offer greater cultural and religious freedoms than under previous governance. However, tensions linger beneath the surface, particularly among elites concerned about the loss of Prussian influence.\n\nFor the Austrian monarchy, Lower Silesia offers both strategic value and political complexity. Maintaining order and securing loyalty in this recently acquired territory will require careful administration and sensitivity to its diverse population and legacy of foreign rule."
+ area_19_description: "Upper Silesia, annexed by the Habsburg Empire following victory in the Bruderkrieg, is a resource-rich and ethnically mixed region inhabited primarily by Poles, Germans, and Silesians with a distinct local identity. Formerly under Prussian control, the population is still adjusting to the new imperial administration, with lingering loyalties to the old regime among some German elites.\n\nThe Polish-speaking majority, long subjected to Germanization efforts, views the Habsburg takeover with cautious optimism, hoping for greater cultural recognition and religious freedom under Vienna’s rule. However, economic hardship and regional tensions persist, particularly in urban centers where ethnic divisions are most pronounced.\n\nFor the Austrian monarchy, Upper Silesia represents both a strategic industrial asset and a delicate political challenge. Ensuring stability and integrating the region into the imperial framework will require balancing competing national identities and addressing local grievances."

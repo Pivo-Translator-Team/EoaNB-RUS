@@ -637,7 +637,7 @@
  flamethrower_support_company_desc: "Пехота, оснащенная огнеметами."
  sniper_team_support: "Снайперские команды"
  sniper_team_support_desc: "Меткие стрелки и корректировщики для устранения пехоты."
- mountaineers: "Горно-стрелковые войска"
+   "Mountaineers" "Mountaineers" #NT!
  mountaineers_desc: "Боевые действия в горах сопряжены с высокой опасностью для пехоты, но порой их не избежать. Проведя среди наших солдат специальную подготовку для ведения боя в горах, мы минимизируем риск."
  shock_troops: "Штурмовые войска"
  shock_troops_desc: "Штурмовые войска превосходны в боях в городах и другой плотной местности."
@@ -711,7 +711,7 @@
  mot_artillery_brigade_desc: ""
  mot_rocket_artillery_brigade: "Моторизированная реактивная артиллерия"
  mot_rocket_artillery_brigade_desc: ""
- armored_car: "Бронемашина"
+   "Armored Car" "Armored Car" #NT!
  armored_car_desc: ""
  wired_signal_company: "Телеграфная сигнальная рота"
  feudal_cavalry: "Феодальная кавалерия"

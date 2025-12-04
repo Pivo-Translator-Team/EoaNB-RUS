@@ -1,4 +1,174 @@
 ﻿l_russian:
+ UCT_autocracy: "Невзятая Территория"
+ UCT_autocracy_DEF: "The Unclaimed Territory" #NT!
+ UCT_autocracy_ADJ: "Unclaimed" #NT!
+  
+ SPR_victorian_centrism: "Королевство Испания"
+ SPR_victorian_centrism_DEF: "Королевство Испания"
+ SPR_victorian_centrism_ADJ: "Испанск."
+ SPR_victorian_traditional_conservatism: "Королевство Испания"
+ SPR_victorian_traditional_conservatism_DEF: "Королевство Испания"
+ SPR_victorian_traditional_conservatism_ADJ: "Испанск."
+ SPR_victorian_social_egalitarianism: "Королевство Испания"
+ SPR_victorian_social_egalitarianism_DEF: "Королевство Испания"
+ SPR_victorian_social_egalitarianism_ADJ: "Испанск."
+ SPR_victorian_ideology_radical_socialism: "Испанская Республика"
+ SPR_victorian_ideology_radical_socialism_DEF: "Испанская Республика"
+ SPR_victorian_ideology_radical_socialism_ADJ: "Испанск."
+ SPR_victorian_ideology_social_liberalism: "Испанская Республика"
+ SPR_victorian_ideology_social_liberalism_DEF: "Испанская Республика"
+ SPR_victorian_ideology_social_liberalism_ADJ: "Испанск."
+ SPR_victorian_autocracy: "Испанская Империя"
+ SPR_victorian_autocracy_DEF: "Испанская Империя"
+ SPR_victorian_autocracy_ADJ: "Испанск."
+ SPR_victorian_fundamentalism: "Великая Папская Область"
+ SPR_victorian_fundamentalism_DEF: "Великая Папская Область"
+ SPR_victorian_fundamentalism_ADJ: "Испанск."
+ SPR_victorian_radical_democracy: "Испанская Республика"
+ SPR_victorian_radical_democracy_DEF: "Испанская Республика"
+ SPR_victorian_radical_democracy_ADJ: "Испанск."
+ SPR_victorian_chauvinist_populism: "Испанская Империя"
+ SPR_victorian_chauvinist_populism_DEF: "Испанская Империя"
+ SPR_victorian_chauvinist_populism_ADJ: "Испанск."
+ SPR_victorian_anarchism: "Испанская Республика"
+ SPR_victorian_anarchism_DEF: "Испанская Республика"
+ SPR_victorian_anarchism_ADJ: "Испанск."
+  
+ POL_autocracy_autonomy_dominion: "Конгресс Польши"
+  
+ TIC_Rebels_radical_democracy: "Болонская Хунта"
+ TIC_Rebels_radical_democracy_DEF: "Болонская Хунта"
+ TIC_Rebels_radical_democracy_ADJ: "Болонск."
+  
+ SRC_autonomy_colony: "Западно-Австралийская Колония"
+ SRC_autonomy_dominion: "Западная Австралия"
+  
+ ALK_autonomy_organized_incorporated_territory: "Департамент Аляски"
+ ALK_autonomy_organized_incorporated_territory_DEF: "Департамент Аляски"
+ ALK_autonomy_organized_incorporated_territory_ADJ: "Аляскинск."
+  
+ CIM_autonomy_organized_unincorporated_territory: "Полоса Общественной Земли"
+ CIM_autonomy_organized_unincorporated_territory_DEF: "Полоса Общественной Земли"
+ CIM_autonomy_organized_unincorporated_territory_ADJ: "Поселенческ."
+  
+ DAK_autonomy_organized_unincorporated_territory: "Территория Небраска"
+ DAK_autonomy_organized_unincorporated_territory_DEF: "Территория Небраска"
+ DAK_autonomy_organized_unincorporated_territory_ADJ: "Небраскск."
+ DAK_autonomy_organized_incorporated_territory: "Территория Небраска"
+ DAK_autonomy_organized_incorporated_territory_DEF: "Территория Небраска"
+ DAK_autonomy_organized_incorporated_territory_ADJ: "Небраскск."
+ DAK_autonomy_autonomous_territory: "Территория Небраска"
+ DAK_autonomy_autonomous_territory_DEF: "Территория Небраска"
+ DAK_autonomy_autonomous_territory_ADJ: "Небраскск."
+  
+ KNS_autonomy_organized_unincorporated_territory: "Территория Канзас"
+ KNS_autonomy_organized_unincorporated_territory_DEF: "Территория Канзас"
+ KNS_autonomy_organized_unincorporated_territory_ADJ: "Канзасск."
+ KNS_autonomy_organized_incorporated_territory: "Территория Канзас"
+ KNS_autonomy_organized_incorporated_territory_DEF: "Территория Канзас"
+ KNS_autonomy_organized_incorporated_territory_ADJ: "Канзасск."
+ KNS_autonomy_autonomous_territory: "Территория Канзас"
+ KNS_autonomy_autonomous_territory_DEF: "Территория Канзас"
+ KNS_autonomy_autonomous_territory_ADJ: "Канзасск."
+  
+ UTA_autonomy_organized_unincorporated_territory: "Территория Юта"
+ UTA_autonomy_organized_unincorporated_territory_DEF: "Территория Юта"
+ UTA_autonomy_organized_unincorporated_territory_ADJ: "Ютинск."
+ UTA_autonomy_organized_incorporated_territory: "Территория Юта"
+ UTA_autonomy_organized_incorporated_territory_DEF: "Территория Юта"
+ UTA_autonomy_organized_incorporated_territory_ADJ: "Ютинск."
+ UTA_autonomy_autonomous_territory: "Территория Юта"
+ UTA_autonomy_autonomous_territory_DEF: "Территория Юта"
+ UTA_autonomy_autonomous_territory_ADJ: "Ютинск."
+  
+ NMX_autonomy_organized_unincorporated_territory: "Территория Нью-Мексико"
+ NMX_autonomy_organized_unincorporated_territory_DEF: "Территория Нью-Мексико"
+ NMX_autonomy_organized_unincorporated_territory_ADJ: "Нью-Мексиканск."
+ NMX_autonomy_organized_incorporated_territory: "Территория Нью-Мексико"
+ NMX_autonomy_organized_incorporated_territory_DEF: "Территория Нью-Мексико"
+ NMX_autonomy_organized_incorporated_territory_ADJ: "Нью-Мексиканск."
+ NMX_autonomy_autonomous_territory: "Территория Нью-Мексико"
+ NMX_autonomy_autonomous_territory_DEF: "Территория Нью-Мексико"
+ NMX_autonomy_autonomous_territory_ADJ: "Нью-Мексиканск."
+  
+ ORE_autonomy_organized_unincorporated_territory: "Территория Орегон"
+ ORE_autonomy_organized_unincorporated_territory_DEF: "Территория Орегон"
+ ORE_autonomy_organized_unincorporated_territory_ADJ: "Орегонск."
+ ORE_autonomy_organized_incorporated_territory: "Территория Орегон"
+ ORE_autonomy_organized_incorporated_territory_DEF: "Территория Орегон"
+ ORE_autonomy_organized_incorporated_territory_ADJ: "Орегонск."
+ ORE_autonomy_autonomous_territory: "Территория Орегон"
+ ORE_autonomy_autonomous_territory_DEF: "Территория Орегон"
+ ORE_autonomy_autonomous_territory_ADJ: "Орегонск."
+  
+ WSH_autonomy_organized_unincorporated_territory: "Территория Вашингтон"
+ WSH_autonomy_organized_unincorporated_territory_DEF: "Территория Вашингтон"
+ WSH_autonomy_organized_unincorporated_territory_ADJ: "Вашингтонск."
+ WSH_autonomy_organized_incorporated_territory: "Территория Вашингтон"
+ WSH_autonomy_organized_incorporated_territory_DEF: "Территория Вашингтон"
+ WSH_autonomy_organized_incorporated_territory_ADJ: "Вашингтонск."
+ WSH_autonomy_autonomous_territory: "Территория Вашингтон"
+ WSH_autonomy_autonomous_territory_DEF: "Территория Вашингтон"
+ WSH_autonomy_autonomous_territory_ADJ: "Вашингтонск."
+  
+ MIN_autonomy_organized_unincorporated_territory: "Территория Миннесота"
+ MIN_autonomy_organized_unincorporated_territory_DEF: "Территория Миннесота"
+ MIN_autonomy_organized_unincorporated_territory_ADJ: "Миннесотск."
+ MIN_autonomy_organized_incorporated_territory: "Территория Миннесота"
+ MIN_autonomy_organized_incorporated_territory_DEF: "Территория Миннесота"
+ MIN_autonomy_organized_incorporated_territory_ADJ: "Миннесотск."
+ MIN_autonomy_autonomous_territory: "Территория Миннесота"
+ MIN_autonomy_autonomous_territory_DEF: "Территория Миннесота"
+ MIN_autonomy_autonomous_territory_ADJ: "Миннесотск."
+  
+ OKL_autonomy_organized_unincorporated_territory: "Индийская Иерритория"
+ OKL_autonomy_organized_unincorporated_territory_DEF: "Индийская Иерритория"
+ OKL_autonomy_organized_unincorporated_territory_ADJ: "Оклахомск."
+ OKL_autonomy_organized_incorporated_territory: "Индийская Иерритория"
+ OKL_autonomy_organized_incorporated_territory_DEF: "Индийская Иерритория"
+ OKL_autonomy_organized_incorporated_territory_ADJ: "Оклахомск."
+ OKL_autonomy_autonomous_territory: "Индийская Иерритория"
+ OKL_autonomy_autonomous_territory_DEF: "Индийская Иерритория"
+ OKL_autonomy_autonomous_territory_ADJ: "Оклахомск."
+  
+ DAL_ITA_Protectorate: "Итальянский Протекторат Далмация"
+ DAL_ITA_Protectorate_DEF: "The Italian Protectorate of Dalmatia" #NT!
+ DAL_ITA_Protectorate_ADJ: "Dalmatian" #NT!
+  
+ MNC_PIE_autonomy_protectorate: "Протекторат Монако"
+ MNC_PIE_autonomy_protectorate_DEF: "Протекторат Монако"
+ MNC_PIE_autonomy_protectorate_ADJ: "Монегаскск."
+  
+ DOM_SPC_cosmetic_centrism: "General Captaincy of Santo Domingo"
+ DOM_SPC_cosmetic_centrism_DEF: "Доминиканск."
+ DOM_SPC_cosmetic_centrism_ADJ: "Доминиканск."
+ DOM_SPC_cosmetic_traditional_conservatism: "General Captaincy of Santo Domingo"
+ DOM_SPC_cosmetic_traditional_conservatism_DEF: "Доминиканск."
+ DOM_SPC_cosmetic_traditional_conservatism_ADJ: "Доминиканск."
+ DOM_SPC_cosmetic_social_egalitarianism: "General Captaincy of Santo Domingo"
+ DOM_SPC_cosmetic_social_egalitarianism_DEF: "Доминиканск."
+ DOM_SPC_cosmetic_social_egalitarianism_ADJ: "Доминиканск."
+ DOM_SPC_cosmetic_ideology_radical_socialism: "General Captaincy of Santo Domingo"
+ DOM_SPC_cosmetic_ideology_radical_socialism_DEF: "Доминиканск."
+ DOM_SPC_cosmetic_ideology_radical_socialism_ADJ: "Доминиканск."
+ DOM_SPC_cosmetic_ideology_social_liberalism: "General Captaincy of Santo Domingo"
+ DOM_SPC_cosmetic_ideology_social_liberalism_DEF: "Доминиканск."
+ DOM_SPC_cosmetic_ideology_social_liberalism_ADJ: "Доминиканск."
+ DOM_SPC_cosmetic_autocracy: "General Captaincy of Santo Domingo"
+ DOM_SPC_cosmetic_autocracy_DEF: "Доминиканск."
+ DOM_SPC_cosmetic_autocracy_ADJ: "Доминиканск."
+ DOM_SPC_cosmetic_fundamentalism: "General Captaincy of Santo Domingo"
+ DOM_SPC_cosmetic_fundamentalism_DEF: "Испанские Карибы"
+ DOM_SPC_cosmetic_fundamentalism_ADJ: "Доминиканск."
+ DOM_SPC_cosmetic_radical_democracy: "General Captaincy of Santo Domingo"
+ DOM_SPC_cosmetic_radical_democracy_DEF: "Доминиканск."
+ DOM_SPC_cosmetic_radical_democracy_ADJ: "Доминиканск."
+ DOM_SPC_cosmetic_chauvinist_populism: "General Captaincy of Santo Domingo"
+ DOM_SPC_cosmetic_chauvinist_populism_DEF: "Доминиканск."
+ DOM_SPC_cosmetic_chauvinist_populism_ADJ: "Доминиканск."
+ DOM_SPC_cosmetic_anarchism: "General Captaincy of Santo Domingo"
+ DOM_SPC_cosmetic_anarchism_DEF: "Доминиканск."
+ DOM_SPC_cosmetic_anarchism_ADJ: "Доминиканск."
   
  APA_tribal_cosmetic_1: "Племена Апачи"
  NAV_tribal_cosmetic_1: "Племена Навахо"
@@ -32,7 +202,7 @@
  TUG_tribal_cosmetic_1: "Племена Кель-Эйр"
  BDA_tribal_cosmetic_1: "Племена Банда"
  BAT_tribal_cosmetic_1: "Кланы Тсваны"
- HAS_tribal_cosmetic_1: "Hausa Kingdoms" #NT!
+ HAS_tribal_cosmetic_1: "Hausa Kingdoms"
  BMG_tribal_cosmetic_1: "Племена Бамангвато"
  NDE_tribal_cosmetic_1: "Племена Ндебеле"
  SAA_tribal_cosmetic_1: "Племена Саан"
@@ -278,6 +448,10 @@
  WYO_nomad_cosmetic_2: "Кочевники ВаЯо"
  HJZ_nomad_cosmetic_2: "Кочевники Хеджаз"
   
+ KBY_mokrani_revolt: "Mokrani Revolt" #NT!
+ KBY_mokrani_revolt_DEF: "The Mokrani Revolt" #NT!
+ KBY_mokrani_revolt_ADJ: "Kabylian" #NT!
+  
  PRS_cosmetic_republic: "Прусская Республика"
  PRS_cosmetic_republic_DEF: "Республика Пруссия"
   
@@ -366,52 +540,52 @@
  PIE_focus_ITA_chauvinist_populism_ADJ: "Итальянск."
  PIE_focus_ITA_fundamentalism_ADJ: "Итальянск."
   
- NSC_ITA_confederation_centrism: "Italian Confederation" #NT!
- NSC_ITA_confederation_traditional_conservatism: "Italian Confederation" #NT!
- NSC_ITA_confederation_social_egalitarianism: "Italian Confederation" #NT!
- NSC_ITA_confederation_ideology_radical_socialism: "Italian Confederation" #NT!
- NSC_ITA_confederation_ideology_social_liberalism: "Italian Confederation" #NT!
- NSC_ITA_confederation_autocracy: "Italian Confederation" #NT!
- NSC_ITA_confederation_radical_democracy: "Italian Confederation" #NT!
- NSC_ITA_confederation_anarchism: "Italian Confederation" #NT!
- NSC_ITA_confederation_chauvinist_populism: "Italian Confederation" #NT!
- NSC_ITA_confederation_fundamentalism: "Italian Confederation" #NT!
- NSC_ITA_confederation_centrism_DEF: "The Italian Confederation" #NT!
- NSC_ITA_confederation_traditional_conservatism_DEF: "The Italian Confederation" #NT!
- NSC_ITA_confederation_social_egalitarianism_DEF: "The Italian Confederation" #NT!
- NSC_ITA_confederation_ideology_radical_socialism_DEF: "The Italian Confederation" #NT!
- NSC_ITA_confederation_ideology_social_liberalism_DEF: "The Italian Confederation" #NT!
- NSC_ITA_confederation_autocracy_DEF: "The Italian Confederation" #NT!
+ NSC_ITA_confederation_centrism: "Italian Confederation"
+ NSC_ITA_confederation_traditional_conservatism: "Italian Confederation"
+ NSC_ITA_confederation_social_egalitarianism: "Italian Confederation"
+ NSC_ITA_confederation_ideology_radical_socialism: "Italian Confederation"
+ NSC_ITA_confederation_ideology_social_liberalism: "Italian Confederation"
+ NSC_ITA_confederation_autocracy: "Italian Confederation"
+ NSC_ITA_confederation_radical_democracy: "Italian Confederation"
+ NSC_ITA_confederation_anarchism: "Italian Confederation"
+ NSC_ITA_confederation_chauvinist_populism: "Italian Confederation"
+ NSC_ITA_confederation_fundamentalism: "Italian Confederation"
+ NSC_ITA_confederation_centrism_DEF: "The Italian Confederation"
+ NSC_ITA_confederation_traditional_conservatism_DEF: "The Italian Confederation"
+ NSC_ITA_confederation_social_egalitarianism_DEF: "The Italian Confederation"
+ NSC_ITA_confederation_ideology_radical_socialism_DEF: "The Italian Confederation"
+ NSC_ITA_confederation_ideology_social_liberalism_DEF: "The Italian Confederation"
+ NSC_ITA_confederation_autocracy_DEF: "The Italian Confederation"
   NSC_ITA_confederation_radical_democracy_DEF: "The Italian Confederation 
- NSC_ITA_confederation_anarchism_DEF: "The Italian Confederation" #NT!
- NSC_ITA_confederation_chauvinist_populism_DEF: "The Italian Confederation" #NT!
- NSC_ITA_confederation_fundamentalism_DEF: "The Italian Confederation" #NT!
- NSC_ITA_confederation_centrism_ADJ: "Italian" #NT!
- NSC_ITA_confederation_traditional_conservatism_ADJ: "Italian" #NT!
- NSC_ITA_confederation_social_egalitarianism_ADJ: "Italian" #NT!
- NSC_ITA_confederation_ideology_radical_socialism_ADJ: "Italian" #NT!
- NSC_ITA_confederation_ideology_social_liberalism_ADJ: "Italian" #NT!
- NSC_ITA_confederation_autocracy_ADJ: "Italian" #NT!
- NSC_ITA_confederation_radical_democracy_ADJ: "Italian" #NT!
- NSC_ITA_confederation_anarchism_ADJ: "Italian" #NT!
- NSC_ITA_confederation_chauvinist_populism_ADJ: "Italian" #NT!
- NSC_ITA_confederation_fundamentalism_ADJ: "Italian" #NT!
+ NSC_ITA_confederation_anarchism_DEF: "The Italian Confederation"
+ NSC_ITA_confederation_chauvinist_populism_DEF: "The Italian Confederation"
+ NSC_ITA_confederation_fundamentalism_DEF: "The Italian Confederation"
+ NSC_ITA_confederation_centrism_ADJ: "Italian"
+ NSC_ITA_confederation_traditional_conservatism_ADJ: "Italian"
+ NSC_ITA_confederation_social_egalitarianism_ADJ: "Italian"
+ NSC_ITA_confederation_ideology_radical_socialism_ADJ: "Italian"
+ NSC_ITA_confederation_ideology_social_liberalism_ADJ: "Italian"
+ NSC_ITA_confederation_autocracy_ADJ: "Italian"
+ NSC_ITA_confederation_radical_democracy_ADJ: "Italian"
+ NSC_ITA_confederation_anarchism_ADJ: "Italian"
+ NSC_ITA_confederation_chauvinist_populism_ADJ: "Italian"
+ NSC_ITA_confederation_fundamentalism_ADJ: "Italian"
   
- NSC_republic_centrism: "Republic of Two Sicilies" #NT!
- NSC_republic_centrism_DEF: "The Republic of Two Sicilies" #NT!
- NSC_republic_centrism_ADJ: "Sicilian" #NT!
- NSC_republic_traditional_conservatism: "Republic of Two Sicilies" #NT!
- NSC_republic_traditional_conservatism_DEF: "The Republic of Two Sicilies" #NT!
- NSC_republic_traditional_conservatism_ADJ: "Sicilian" #NT!
- NSC_republic_social_egalitarianism: "Republic of Two Sicilies" #NT!
- NSC_republic_social_egalitarianism_DEF: "The Republic of Two Sicilies" #NT!
- NSC_republicC_social_egalitarianism_ADJ: "Sicilian" #NT!
- NSC_republic_ideology_radical_socialism: "Republic of Two Sicilies" #NT!
- NSC_republic_ideology_radical_socialism_DEF: "The Republic of Two Sicilies" #NT!
- NSC_republic_ideology_radical_socialism_ADJ: "Sicilian" #NT!
- NSC_republic_ideology_social_liberalism: "Republic of Two Sicilies" #NT!
- NSC_republic_ideology_social_liberalism_DEF: "The Republic of Two Sicilies" #NT!
- NSC_republic_ideology_social_liberalism_ADJ: "Sicilian" #NT!
+ NSC_republic_centrism: "Republic of Two Sicilies"
+ NSC_republic_centrism_DEF: "The Republic of Two Sicilies"
+ NSC_republic_centrism_ADJ: "Sicilian"
+ NSC_republic_traditional_conservatism: "Republic of Two Sicilies"
+ NSC_republic_traditional_conservatism_DEF: "The Republic of Two Sicilies"
+ NSC_republic_traditional_conservatism_ADJ: "Sicilian"
+ NSC_republic_social_egalitarianism: "Republic of Two Sicilies"
+ NSC_republic_social_egalitarianism_DEF: "The Republic of Two Sicilies"
+ NSC_republicC_social_egalitarianism_ADJ: "Sicilian"
+ NSC_republic_ideology_radical_socialism: "Republic of Two Sicilies"
+ NSC_republic_ideology_radical_socialism_DEF: "The Republic of Two Sicilies"
+ NSC_republic_ideology_radical_socialism_ADJ: "Sicilian"
+ NSC_republic_ideology_social_liberalism: "Republic of Two Sicilies"
+ NSC_republic_ideology_social_liberalism_DEF: "The Republic of Two Sicilies"
+ NSC_republic_ideology_social_liberalism_ADJ: "Sicilian"
   
  CBI_garibaldi_radical_democracy: "Диктатура Сицилии"
  CBI_garibaldi_radical_democracy_DEF: "Диктатура Сицилии"
@@ -563,98 +737,160 @@
  AUS_HUN_dual_chauvinist_populism_ADJ: "Австро-Венгерск."
  AUS_HUN_dual_fundamentalism_ADJ: "Австро-Венгерск."
   
- AUH_dual_centrism: "Transleithania" #NT!
- AUH_dual_traditional_conservatism: "Transleithania" #NT!
- AUH_dual_social_egalitarianism: "Transleithania" #NT!
- AUH_dual_ideology_radical_socialism: "Transleithania" #NT!
- AUH_dual_ideology_social_liberalism: "Transleithania" #NT!
- AUH_dual_autocracy: "Transleithania" #NT!
- AUH_dual_radical_democracy: "Transleithania" #NT!
- AUH_dual_anarchism: "Transleithania" #NT!
- AUH_dual_chauvinist_populism: "Transleithania" #NT!
- AUH_dual_fundamentalism: "Transleithania" #NT!
- AUH_dual_centrism_DEF: "Transleithania" #NT!
- AUH_dual_traditional_conservatism_DEF: "Transleithania" #NT!
- AUH_dual_social_egalitarianism_DEF: "Transleithania" #NT!
- AUH_dual_ideology_radical_socialism_DEF: "Transleithania" #NT!
- AUH_dual_ideology_social_liberalism_DEF: "Transleithania" #NT!
- AUH_dual_autocracy_DEF: "Transleithania" #NT!
- AUH_dual_radical_democracy_DEF: "Transleithania" #NT!
- AUH_dual_anarchism_DEF: "Transleithania" #NT!
- AUH_dual_chauvinist_populism_DEF: "Transleithania" #NT!
- AUH_dual_fundamentalism_DEF: "Transleithania" #NT!
- AUH_dual_centrism_ADJ: "Hungarian" #NT!
- AUH_dual_traditional_conservatism_ADJ: "Hungarian" #NT!
- AUH_dual_social_egalitarianism_ADJ: "Hungarian" #NT!
- AUH_dual_ideology_radical_socialism_ADJ: "Hungarian" #NT!
- AUH_dual_ideology_social_liberalism_ADJ: "Hungarian" #NT!
- AUH_dual_autocracy_ADJ: "Hungarian" #NT!
- AUH_dual_radical_democracy_ADJ: "Hungarian" #NT!
- AUH_dual_anarchism_ADJ: "Hungarian" #NT!
- AUH_dual_chauvinist_populism_ADJ: "Hungarian" #NT!
- AUH_dual_fundamentalism_ADJ: "Hungarian" #NT!
+ AUS_HUN_dual_regular_names_centrism: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_traditional_conservatism: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_social_egalitarianism: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_ideology_radical_socialism: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_ideology_social_liberalism: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_autocracy: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_radical_democracy: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_anarchism: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_chauvinist_populism: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_fundamentalism: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_centrism_DEF: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_traditional_conservatism_DEF: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_social_egalitarianism_DEF: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_ideology_radical_socialism_DEF: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_ideology_social_liberalism_DEF: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_autocracy_DEF: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_radical_democracy_DEF: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_anarchism_DEF: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_chauvinist_populism_DEF: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_fundamentalism_DEF: "Austrian Empire" #NT!
+ AUS_HUN_dual_regular_names_centrism_ADJ: "Austrian" #NT!
+ AUS_HUN_dual_regular_names_traditional_conservatism_ADJ: "Austrian" #NT!
+ AUS_HUN_dual_regular_names_social_egalitarianism_ADJ: "Austrian" #NT!
+ AUS_HUN_dual_regular_names_ideology_radical_socialism_ADJ: "Austrian" #NT!
+ AUS_HUN_dual_regular_names_ideology_social_liberalism_ADJ: "Austrian" #NT!
+ AUS_HUN_dual_regular_names_autocracy_ADJ: "Austrian" #NT!
+ AUS_HUN_dual_regular_names_radical_democracy_ADJ: "Austrian" #NT!
+ AUS_HUN_dual_regular_names_anarchism_ADJ: "Austrian" #NT!
+ AUS_HUN_dual_regular_names_chauvinist_populism_ADJ: "Austrian" #NT!
+ AUS_HUN_dual_regular_names_fundamentalism_ADJ: "Austrian" #NT!
   
- BOS_austria_puppet_centrism: "Bosnian Condominium" #NT!
- BOS_austria_puppet_traditional_conservatism: "Bosnian Condominium" #NT!
- BOS_austria_puppet_social_egalitarianism: "Bosnian Condominium" #NT!
- BOS_austria_puppet_ideology_radical_socialism: "Bosnian Condominium" #NT!
- BOS_austria_puppet_ideology_social_liberalism: "Bosnian Condominium" #NT!
- BOS_austria_puppet_autocracy: "Bosnian Condominium" #NT!
- BOS_austria_puppet_radical_democracy: "Bosnian Condominium" #NT!
- BOS_austria_puppet_anarchism: "Bosnian Condominium" #NT!
- BOS_austria_puppet_chauvinist_populism: "Bosnian Condominium" #NT!
- BOS_austria_puppet_fundamentalism: "Bosnian Condominium" #NT!
- BOS_austria_puppet_centrism_DEF: "Bosnian Condominium" #NT!
- BOS_austria_puppet_traditional_conservatism_DEF: "Bosnian Condominium" #NT!
- BOS_austria_puppet_social_egalitarianism_DEF: "Bosnian Condominium" #NT!
- BOS_austria_puppet_ideology_radical_socialism_DEF: "Bosnian Condominium" #NT!
- BOS_austria_puppet_ideology_social_liberalism_DEF: "Bosnian Condominium" #NT!
- BOS_austria_puppet_autocracy_DEF: "Bosnian Condominium" #NT!
- BOS_austria_puppet_radical_democracy_DEF: "Bosnian Condominium" #NT!
- BOS_austria_puppet_anarchism_DEF: "Bosnian Condominium" #NT!
- BOS_austria_puppet_chauvinist_populism_DEF: "Bosnian Condominium" #NT!
- BOS_austria_puppet_fundamentalism_DEF: "Bosnian Condominium" #NT!
- BOS_austria_puppet_centrism_ADJ: "Bosnian" #NT!
- BOS_austria_puppet_traditional_conservatism_ADJ: "Bosnian" #NT!
- BOS_austria_puppet_social_egalitarianism_ADJ: "Bosnian" #NT!
- BOS_austria_puppet_ideology_radical_socialism_ADJ: "Bosnian" #NT!
- BOS_austria_puppet_ideology_social_liberalism_ADJ: "Bosnian" #NT!
- BOS_austria_puppet_autocracy_ADJ: "Bosnian" #NT!
- BOS_austria_puppet_radical_democracy_ADJ: "Bosnian" #NT!
- BOS_austria_puppet_anarchism_ADJ: "Bosnian" #NT!
- BOS_austria_puppet_chauvinist_populism_ADJ: "Bosnian" #NT!
- BOS_austria_puppet_fundamentalism_ADJ: "Bosnian" #NT!
+ AUH_dual_centrism: "Transleithania"
+ AUH_dual_traditional_conservatism: "Transleithania"
+ AUH_dual_social_egalitarianism: "Transleithania"
+ AUH_dual_ideology_radical_socialism: "Transleithania"
+ AUH_dual_ideology_social_liberalism: "Transleithania"
+ AUH_dual_autocracy: "Transleithania"
+ AUH_dual_radical_democracy: "Transleithania"
+ AUH_dual_anarchism: "Transleithania"
+ AUH_dual_chauvinist_populism: "Transleithania"
+ AUH_dual_fundamentalism: "Transleithania"
+ AUH_dual_centrism_DEF: "Transleithania"
+ AUH_dual_traditional_conservatism_DEF: "Transleithania"
+ AUH_dual_social_egalitarianism_DEF: "Transleithania"
+ AUH_dual_ideology_radical_socialism_DEF: "Transleithania"
+ AUH_dual_ideology_social_liberalism_DEF: "Transleithania"
+ AUH_dual_autocracy_DEF: "Transleithania"
+ AUH_dual_radical_democracy_DEF: "Transleithania"
+ AUH_dual_anarchism_DEF: "Transleithania"
+ AUH_dual_chauvinist_populism_DEF: "Transleithania"
+ AUH_dual_fundamentalism_DEF: "Transleithania"
+ AUH_dual_centrism_ADJ: "Hungarian"
+ AUH_dual_traditional_conservatism_ADJ: "Hungarian"
+ AUH_dual_social_egalitarianism_ADJ: "Hungarian"
+ AUH_dual_ideology_radical_socialism_ADJ: "Hungarian"
+ AUH_dual_ideology_social_liberalism_ADJ: "Hungarian"
+ AUH_dual_autocracy_ADJ: "Hungarian"
+ AUH_dual_radical_democracy_ADJ: "Hungarian"
+ AUH_dual_anarchism_ADJ: "Hungarian"
+ AUH_dual_chauvinist_populism_ADJ: "Hungarian"
+ AUH_dual_fundamentalism_ADJ: "Hungarian"
   
- CZE_Bohemian_puppet_centrism: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_traditional_conservatism: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_social_egalitarianism: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_ideology_radical_socialism: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_ideology_social_liberalism: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_autocracy: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_radical_democracy: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_anarchism: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_chauvinist_populism: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_fundamentalism: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_centrism_DEF: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_traditional_conservatism_DEF: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_social_egalitarianism_DEF: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_ideology_radical_socialism_DEF: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_ideology_social_liberalism_DEF: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_autocracy_DEF: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_radical_democracy_DEF: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_anarchism_DEF: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_chauvinist_populism_DEF: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_fundamentalism_DEF: "Kingdom of Bohemia" #NT!
- CZE_Bohemian_puppet_centrism_ADJ: "Bohemian" #NT!
- CZE_Bohemian_puppet_traditional_conservatism_ADJ: "Bohemian" #NT!
- CZE_Bohemian_puppet_social_egalitarianism_ADJ: "Bohemian" #NT!
- CZE_Bohemian_puppet_ideology_radical_socialism_ADJ: "Bohemian" #NT!
- CZE_Bohemian_puppet_ideology_social_liberalism_ADJ: "Bohemian" #NT!
- CZE_Bohemian_puppet_autocracy_ADJ: "Bohemian" #NT!
- CZE_Bohemian_puppet_radical_democracy_ADJ: "Bohemian" #NT!
- CZE_Bohemian_puppet_anarchism_ADJ: "Bohemian" #NT!
- CZE_Bohemian_puppet_chauvinist_populism_ADJ: "Bohemian" #NT!
- CZE_Bohemian_puppet_fundamentalism_ADJ: "Bohemian" #NT!
+ AUH_dual_regular_names_centrism: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_traditional_conservatism: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_social_egalitarianism: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_ideology_radical_socialism: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_ideology_social_liberalism: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_autocracy: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_radical_democracy: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_anarchism: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_chauvinist_populism: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_fundamentalism: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_centrism_DEF: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_traditional_conservatism_DEF: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_social_egalitarianism_DEF: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_ideology_radical_socialism_DEF: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_ideology_social_liberalism_DEF: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_autocracy_DEF: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_radical_democracy_DEF: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_anarchism_DEF: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_chauvinist_populism_DEF: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_fundamentalism_DEF: "Kingdom of Hungary" #NT!
+ AUH_dual_regular_names_centrism_ADJ: "Hungarian" #NT!
+ AUH_dual_regular_names_traditional_conservatism_ADJ: "Hungarian" #NT!
+ AUH_dual_regular_names_social_egalitarianism_ADJ: "Hungarian" #NT!
+ AUH_dual_regular_names_ideology_radical_socialism_ADJ: "Hungarian" #NT!
+ AUH_dual_regular_names_ideology_social_liberalism_ADJ: "Hungarian" #NT!
+ AUH_dual_regular_names_autocracy_ADJ: "Hungarian" #NT!
+ AUH_dual_regular_names_radical_democracy_ADJ: "Hungarian" #NT!
+ AUH_dual_regular_names_anarchism_ADJ: "Hungarian" #NT!
+ AUH_dual_regular_names_chauvinist_populism_ADJ: "Hungarian" #NT!
+ AUH_dual_regular_names_fundamentalism_ADJ: "Hungarian" #NT!
+  
+ BOS_austria_puppet_centrism: "Bosnian Condominium"
+ BOS_austria_puppet_traditional_conservatism: "Bosnian Condominium"
+ BOS_austria_puppet_social_egalitarianism: "Bosnian Condominium"
+ BOS_austria_puppet_ideology_radical_socialism: "Bosnian Condominium"
+ BOS_austria_puppet_ideology_social_liberalism: "Bosnian Condominium"
+ BOS_austria_puppet_autocracy: "Bosnian Condominium"
+ BOS_austria_puppet_radical_democracy: "Bosnian Condominium"
+ BOS_austria_puppet_anarchism: "Bosnian Condominium"
+ BOS_austria_puppet_chauvinist_populism: "Bosnian Condominium"
+ BOS_austria_puppet_fundamentalism: "Bosnian Condominium"
+ BOS_austria_puppet_centrism_DEF: "Bosnian Condominium"
+ BOS_austria_puppet_traditional_conservatism_DEF: "Bosnian Condominium"
+ BOS_austria_puppet_social_egalitarianism_DEF: "Bosnian Condominium"
+ BOS_austria_puppet_ideology_radical_socialism_DEF: "Bosnian Condominium"
+ BOS_austria_puppet_ideology_social_liberalism_DEF: "Bosnian Condominium"
+ BOS_austria_puppet_autocracy_DEF: "Bosnian Condominium"
+ BOS_austria_puppet_radical_democracy_DEF: "Bosnian Condominium"
+ BOS_austria_puppet_anarchism_DEF: "Bosnian Condominium"
+ BOS_austria_puppet_chauvinist_populism_DEF: "Bosnian Condominium"
+ BOS_austria_puppet_fundamentalism_DEF: "Bosnian Condominium"
+ BOS_austria_puppet_centrism_ADJ: "Bosnian"
+ BOS_austria_puppet_traditional_conservatism_ADJ: "Bosnian"
+ BOS_austria_puppet_social_egalitarianism_ADJ: "Bosnian"
+ BOS_austria_puppet_ideology_radical_socialism_ADJ: "Bosnian"
+ BOS_austria_puppet_ideology_social_liberalism_ADJ: "Bosnian"
+ BOS_austria_puppet_autocracy_ADJ: "Bosnian"
+ BOS_austria_puppet_radical_democracy_ADJ: "Bosnian"
+ BOS_austria_puppet_anarchism_ADJ: "Bosnian"
+ BOS_austria_puppet_chauvinist_populism_ADJ: "Bosnian"
+ BOS_austria_puppet_fundamentalism_ADJ: "Bosnian"
+  
+ CZE_Bohemian_puppet_centrism: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_traditional_conservatism: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_social_egalitarianism: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_ideology_radical_socialism: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_ideology_social_liberalism: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_autocracy: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_radical_democracy: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_anarchism: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_chauvinist_populism: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_fundamentalism: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_centrism_DEF: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_traditional_conservatism_DEF: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_social_egalitarianism_DEF: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_ideology_radical_socialism_DEF: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_ideology_social_liberalism_DEF: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_autocracy_DEF: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_radical_democracy_DEF: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_anarchism_DEF: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_chauvinist_populism_DEF: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_fundamentalism_DEF: "Kingdom of Bohemia"
+ CZE_Bohemian_puppet_centrism_ADJ: "Bohemian"
+ CZE_Bohemian_puppet_traditional_conservatism_ADJ: "Bohemian"
+ CZE_Bohemian_puppet_social_egalitarianism_ADJ: "Bohemian"
+ CZE_Bohemian_puppet_ideology_radical_socialism_ADJ: "Bohemian"
+ CZE_Bohemian_puppet_ideology_social_liberalism_ADJ: "Bohemian"
+ CZE_Bohemian_puppet_autocracy_ADJ: "Bohemian"
+ CZE_Bohemian_puppet_radical_democracy_ADJ: "Bohemian"
+ CZE_Bohemian_puppet_anarchism_ADJ: "Bohemian"
+ CZE_Bohemian_puppet_chauvinist_populism_ADJ: "Bohemian"
+ CZE_Bohemian_puppet_fundamentalism_ADJ: "Bohemian"
   
  PIE_habsburg_kingdom_of_piedmont_centrism: "Королевство Пьемонт"
  PIE_habsburg_kingdom_of_piedmont_traditional_conservatism: "Королевство Пьемонт"
@@ -1148,98 +1384,98 @@
  GRE_republic_chauvinist_populism_ADJ: "Греческ."
  GRE_republic_fundamentalism_ADJ: "Греческ."
   
- GRE_military_junta_centrism: "Greek Junta" #NT!
- GRE_military_junta_traditional_conservatism: "Greek Junta" #NT!
- GRE_military_junta_social_egalitarianism: "Greek Junta" #NT!
- GRE_military_junta_ideology_radical_socialism: "Greek Junta" #NT!
- GRE_military_junta_ideology_social_liberalism: "Greek Junta" #NT!
- GRE_military_junta_autocracy: "Greek Junta" #NT!
- GRE_military_junta_radical_democracy: "Greek Junta" #NT!
- GRE_military_junta_anarchism: "Greek Junta" #NT!
- GRE_military_junta_chauvinist_populism: "Greek Junta" #NT!
- GRE_military_junta_fundamentalism: "Greek Junta" #NT!
- GRE_military_junta_centrism_DEF: "The Greek Junta" #NT!
- GRE_military_junta_traditional_conservatism_DEF: "The Greek Junta" #NT!
- GRE_military_junta_egalitarianism_DEF: "The Greek Junta" #NT!
- GRE_military_junta_ideology_radical_socialism_DEF: "The Greek Junta" #NT!
- GRE_military_junta_ideology_social_liberalism_DEF: "The Greek Junta" #NT!
- GRE_military_junta_autocracy_DEF: "The Greek Junta" #NT!
- GRE_military_junta_radical_democracy_DEF: "The Greek Junta" #NT!
- GRE_military_junta_anarchism_DEF: "The Greek Junta" #NT!
- GRE_military_junta_chauvinist_populism_DEF: "The Greek Junta" #NT!
- GRE_military_junta_fundamentalism_DEF: "The Greek Junta" #NT!
- GRE_military_junta_centrism_ADJ: "Greek" #NT!
- GRE_military_junta_traditional_conservatism_ADJ: "Greek" #NT!
- GRE_military_junta_social_egalitarianism_ADJ: "Greek" #NT!
- GRE_military_junta_ideology_radical_socialism_ADJ: "Greek" #NT!
- GRE_military_junta_ideology_social_liberalism_ADJ: "Greek" #NT!
- GRE_military_junta_autocracy_ADJ: "Greek" #NT!
- GRE_military_junta_radical_democracy_ADJ: "Greek" #NT!
- GRE_military_junta_anarchism_ADJ: "Greek" #NT!
- GRE_military_junta_chauvinist_populism_ADJ: "Greek" #NT!
- GRE_military_junta_fundamentalism_ADJ: "Greek" #NT!
+ GRE_military_junta_centrism: "Greek Junta"
+ GRE_military_junta_traditional_conservatism: "Greek Junta"
+ GRE_military_junta_social_egalitarianism: "Greek Junta"
+ GRE_military_junta_ideology_radical_socialism: "Greek Junta"
+ GRE_military_junta_ideology_social_liberalism: "Greek Junta"
+ GRE_military_junta_autocracy: "Greek Junta"
+ GRE_military_junta_radical_democracy: "Greek Junta"
+ GRE_military_junta_anarchism: "Greek Junta"
+ GRE_military_junta_chauvinist_populism: "Greek Junta"
+ GRE_military_junta_fundamentalism: "Greek Junta"
+ GRE_military_junta_centrism_DEF: "The Greek Junta"
+ GRE_military_junta_traditional_conservatism_DEF: "The Greek Junta"
+ GRE_military_junta_egalitarianism_DEF: "The Greek Junta"
+ GRE_military_junta_ideology_radical_socialism_DEF: "The Greek Junta"
+ GRE_military_junta_ideology_social_liberalism_DEF: "The Greek Junta"
+ GRE_military_junta_autocracy_DEF: "The Greek Junta"
+ GRE_military_junta_radical_democracy_DEF: "The Greek Junta"
+ GRE_military_junta_anarchism_DEF: "The Greek Junta"
+ GRE_military_junta_chauvinist_populism_DEF: "The Greek Junta"
+ GRE_military_junta_fundamentalism_DEF: "The Greek Junta"
+ GRE_military_junta_centrism_ADJ: "Greek"
+ GRE_military_junta_traditional_conservatism_ADJ: "Greek"
+ GRE_military_junta_social_egalitarianism_ADJ: "Greek"
+ GRE_military_junta_ideology_radical_socialism_ADJ: "Greek"
+ GRE_military_junta_ideology_social_liberalism_ADJ: "Greek"
+ GRE_military_junta_autocracy_ADJ: "Greek"
+ GRE_military_junta_radical_democracy_ADJ: "Greek"
+ GRE_military_junta_anarchism_ADJ: "Greek"
+ GRE_military_junta_chauvinist_populism_ADJ: "Greek"
+ GRE_military_junta_fundamentalism_ADJ: "Greek"
   
- GRE_greek_state_centrism: "Greek State" #NT!
- GRE_greek_state_traditional_conservatism: "Greek State" #NT!
- GRE_greek_state_social_egalitarianism: "Greek State" #NT!
- GRE_greek_state_ideology_radical_socialism: "Greek State" #NT!
- GRE_greek_state_ideology_social_liberalism: "Greek State" #NT!
- GRE_greek_state_autocracy: "Greek State" #NT!
- GRE_greek_state_radical_democracy: "Greek State" #NT!
- GRE_greek_state_anarchism: "Greek State" #NT!
- GRE_greek_state_chauvinist_populism: "Greek State" #NT!
- GRE_greek_state_fundamentalism: "Greek State" #NT!
- GRE_greek_state_centrism_DEF: "The Greek State" #NT!
- GRE_greek_state_traditional_conservatism_DEF: "The Greek State" #NT!
- GRE_greek_state_egalitarianism_DEF: "The Greek State" #NT!
- GRE_greek_state_ideology_radical_socialism_DEF: "The Greek State" #NT!
- GRE_greek_state_ideology_social_liberalism_DEF: "The Greek State" #NT!
- GRE_greek_state_autocracy_DEF: "The Greek State" #NT!
- GRE_greek_state_radical_democracy_DEF: "The Greek State" #NT!
- GRE_greek_state_anarchism_DEF: "The Greek State" #NT!
- GRE_greek_state_chauvinist_populism_DEF: "The Greek State" #NT!
- GRE_greek_state_fundamentalism_DEF: "The Greek State" #NT!
- GRE_greek_state_centrism_ADJ: "Greek" #NT!
- GRE_greek_state_traditional_conservatism_ADJ: "Greek" #NT!
- GRE_greek_state_social_egalitarianism_ADJ: "Greek" #NT!
- GRE_greek_state_ideology_radical_socialism_ADJ: "Greek" #NT!
- GRE_greek_state_ideology_social_liberalism_ADJ: "Greek" #NT!
- GRE_greek_state_autocracy_ADJ: "Greek" #NT!
- GRE_greek_state_radical_democracy_ADJ: "Greek" #NT!
- GRE_greek_state_anarchism_ADJ: "Greek" #NT!
- GRE_greek_state_chauvinist_populism_ADJ: "Greek" #NT!
- GRE_greek_state_fundamentalism_ADJ: "Greek" #NT!
+ GRE_greek_state_centrism: "Greek State"
+ GRE_greek_state_traditional_conservatism: "Greek State"
+ GRE_greek_state_social_egalitarianism: "Greek State"
+ GRE_greek_state_ideology_radical_socialism: "Greek State"
+ GRE_greek_state_ideology_social_liberalism: "Greek State"
+ GRE_greek_state_autocracy: "Greek State"
+ GRE_greek_state_radical_democracy: "Greek State"
+ GRE_greek_state_anarchism: "Greek State"
+ GRE_greek_state_chauvinist_populism: "Greek State"
+ GRE_greek_state_fundamentalism: "Greek State"
+ GRE_greek_state_centrism_DEF: "The Greek State"
+ GRE_greek_state_traditional_conservatism_DEF: "The Greek State"
+ GRE_greek_state_egalitarianism_DEF: "The Greek State"
+ GRE_greek_state_ideology_radical_socialism_DEF: "The Greek State"
+ GRE_greek_state_ideology_social_liberalism_DEF: "The Greek State"
+ GRE_greek_state_autocracy_DEF: "The Greek State"
+ GRE_greek_state_radical_democracy_DEF: "The Greek State"
+ GRE_greek_state_anarchism_DEF: "The Greek State"
+ GRE_greek_state_chauvinist_populism_DEF: "The Greek State"
+ GRE_greek_state_fundamentalism_DEF: "The Greek State"
+ GRE_greek_state_centrism_ADJ: "Greek"
+ GRE_greek_state_traditional_conservatism_ADJ: "Greek"
+ GRE_greek_state_social_egalitarianism_ADJ: "Greek"
+ GRE_greek_state_ideology_radical_socialism_ADJ: "Greek"
+ GRE_greek_state_ideology_social_liberalism_ADJ: "Greek"
+ GRE_greek_state_autocracy_ADJ: "Greek"
+ GRE_greek_state_radical_democracy_ADJ: "Greek"
+ GRE_greek_state_anarchism_ADJ: "Greek"
+ GRE_greek_state_chauvinist_populism_ADJ: "Greek"
+ GRE_greek_state_fundamentalism_ADJ: "Greek"
   
- GRE_kingdom_centrism: "Kingdom of Greece" #NT!
- GRE_kingdom_traditional_conservatism: "Kingdom of Greece" #NT!
- GRE_kingdom_social_egalitarianism: "Kingdom of Greece" #NT!
- GRE_kingdom_ideology_radical_socialism: "Kingdom of Greece" #NT!
- GRE_kingdom_ideology_social_liberalism: "Kingdom of Greece" #NT!
- GRE_kingdom_autocracy: "Kingdom of Greece" #NT!
- GRE_kingdom_radical_democracy: "Kingdom of Greece" #NT!
- GRE_kingdom_anarchism: "Kingdom of Greece" #NT!
- GRE_kingdom_chauvinist_populism: "Kingdom of Greece" #NT!
- GRE_kingdom_fundamentalism: "Kingdom of Greece" #NT!
- GRE_kingdom_centrism_DEF: "The Kingdom of Greece" #NT!
- GRE_kingdom_traditional_conservatism_DEF: "The Kingdom of Greece" #NT!
- GRE_kingdom_egalitarianism_DEF: "The Kingdom of Greece" #NT!
- GRE_kingdom_ideology_radical_socialism_DEF: "The Kingdom of Greece" #NT!
- GRE_kingdom_ideology_social_liberalism_DEF: "The Kingdom of Greece" #NT!
- GRE_kingdom_autocracy_DEF: "The Kingdom of Greece" #NT!
- GRE_kingdom_radical_democracy_DEF: "The Kingdom of Greece" #NT!
- GRE_kingdom_anarchism_DEF: "The Kingdom of Greece" #NT!
- GRE_kingdom_chauvinist_populism_DEF: "The Kingdom of Greece" #NT!
- GRE_kingdom_fundamentalism_DEF: "The Kingdom of Greece" #NT!
- GRE_kingdom_centrism_ADJ: "Greek" #NT!
- GRE_kingdom_traditional_conservatism_ADJ: "Greek" #NT!
- GRE_kingdom_social_egalitarianism_ADJ: "Greek" #NT!
- GRE_kingdom_ideology_radical_socialism_ADJ: "Greek" #NT!
- GRE_kingdom_ideology_social_liberalism_ADJ: "Greek" #NT!
- GRE_kingdom_autocracy_ADJ: "Greek" #NT!
- GRE_kingdom_radical_democracy_ADJ: "Greek" #NT!
- GRE_kingdom_anarchism_ADJ: "Greek" #NT!
- GRE_kingdom_chauvinist_populism_ADJ: "Greek" #NT!
- GRE_kingdom_fundamentalism_ADJ: "Greek" #NT!
+ GRE_kingdom_centrism: "Kingdom of Greece"
+ GRE_kingdom_traditional_conservatism: "Kingdom of Greece"
+ GRE_kingdom_social_egalitarianism: "Kingdom of Greece"
+ GRE_kingdom_ideology_radical_socialism: "Kingdom of Greece"
+ GRE_kingdom_ideology_social_liberalism: "Kingdom of Greece"
+ GRE_kingdom_autocracy: "Kingdom of Greece"
+ GRE_kingdom_radical_democracy: "Kingdom of Greece"
+ GRE_kingdom_anarchism: "Kingdom of Greece"
+ GRE_kingdom_chauvinist_populism: "Kingdom of Greece"
+ GRE_kingdom_fundamentalism: "Kingdom of Greece"
+ GRE_kingdom_centrism_DEF: "The Kingdom of Greece"
+ GRE_kingdom_traditional_conservatism_DEF: "The Kingdom of Greece"
+ GRE_kingdom_egalitarianism_DEF: "The Kingdom of Greece"
+ GRE_kingdom_ideology_radical_socialism_DEF: "The Kingdom of Greece"
+ GRE_kingdom_ideology_social_liberalism_DEF: "The Kingdom of Greece"
+ GRE_kingdom_autocracy_DEF: "The Kingdom of Greece"
+ GRE_kingdom_radical_democracy_DEF: "The Kingdom of Greece"
+ GRE_kingdom_anarchism_DEF: "The Kingdom of Greece"
+ GRE_kingdom_chauvinist_populism_DEF: "The Kingdom of Greece"
+ GRE_kingdom_fundamentalism_DEF: "The Kingdom of Greece"
+ GRE_kingdom_centrism_ADJ: "Greek"
+ GRE_kingdom_traditional_conservatism_ADJ: "Greek"
+ GRE_kingdom_social_egalitarianism_ADJ: "Greek"
+ GRE_kingdom_ideology_radical_socialism_ADJ: "Greek"
+ GRE_kingdom_ideology_social_liberalism_ADJ: "Greek"
+ GRE_kingdom_autocracy_ADJ: "Greek"
+ GRE_kingdom_radical_democracy_ADJ: "Greek"
+ GRE_kingdom_anarchism_ADJ: "Greek"
+ GRE_kingdom_chauvinist_populism_ADJ: "Greek"
+ GRE_kingdom_fundamentalism_ADJ: "Greek"
   
  LVN_Lombardy_centrism: "Королевство Ломбардия"
  LVN_Lombardy_traditional_conservatism: "Королевство Ломбардия"
@@ -2120,8 +2356,6 @@
  COL_united_chauvinism_populism_ADJ: "Колумбийск."
  COL_united_fundamentalism_ADJ: "Колумбийск."
   
-  
-  
  MAN_cosmetic_qing_puppet_autocracy: "Маньчжурия"
  MAN_cosmetic_qing_puppet_autocracy_ADJ: "Маньчжурск."
  MAN_cosmetic_qing_puppet_autocracy_DEF: "Провинция Маньчжурия"
@@ -2309,37 +2543,6 @@
  LIB_colony_usa: "Американская Западная Африка"
  LIB_colony_usa_DEF: "Американская Западная Африка"
  LIB_colony_usa_ADJ: "Американск."
-  
- KRU_republic_centrism: "Республика Кру"
- KRU_republic_traditional_conservatism: "Республика Кру"
- KRU_republic_social_egalitarianism: "Коммуна Кру"
- KRU_republic_ideology_radical_socialism: "Коммуна Кру"
- KRU_republic_ideology_social_liberalism: "Советская Республика Кру"
- KRU_republic_autocracy: "Королевство Кру"
- KRU_republic_radical_democracy: "Республика Кру"
- KRU_republic_anarchism: "Свободное Государство Кру"
- KRU_republic_chauvinist_populism: "Реорганизованное Свободное Государство Кру"
- KRU_republic_fundamentalism: "Кру"
- KRU_republic_centrism_DEF: "Республика Кру"
- KRU_republic_traditional_conservatism_DEF: "Республика Кру"
- KRU_republic_social_egalitarianism_DEF: "Коммуна Кру"
- KRU_republic_ideology_radical_socialism_DEF: "Коммуна Кру"
- KRU_republic_ideology_social_liberalism_DEF: "Советская Республика Кру"
- KRU_republic_autocracy_DEF: "Королевство Кру"
- KRU_republic_radical_democracy_DEF: "Республика Кру"
- KRU_republic_anarchism_DEF: "Свободное Государство Кру"
- KRU_republic_chauvinist_populism_DEF: "Реорганизованное Свободное Государство Кру"
- KRU_republic_fundamentalism_DEF: "Кру"
- KRU_republic_centrism_ADJ: "Круск."
- KRU_republic_traditional_conservatism_ADJ: "Круск."
- KRU_republic_social_egalitarianism_ADJ: "Круск."
- KRU_republic_ideology_radical_socialism_ADJ: "Круск."
- KRU_republic_ideology_social_liberalism_ADJ: "Круск."
- KRU_republic_autocracy_ADJ: "Круск."
- KRU_republic_radical_democracy_ADJ: "Круск."
- KRU_republic_anarchism_ADJ: "Круск."
- KRU_republic_chauvinist_populism_ADJ: "Круск."
- KRU_republic_fundamentalism_ADJ: "Круск."
   
  ETH_British_Trade_Company_centrism: "Эфиопская Торговая Компания"
  ETH_British_Trade_Company_traditional_conservatism: "Эфиопская Торговая Компания"
@@ -3143,6 +3346,8 @@
  ALB_league_of_prizren_fundamentalism_ADJ: "Албанск."
   
  NOR_SWE_union: "Норвегия"
+ NOR_SWE_union_DEF: "The Kingdom of Norway" #NT!
+ NOR_SWE_union_ADJ: "Norwegian" #NT!
   
  SIK_transoxiana_centrism: "Трансоксания"
  SIK_transoxiana_traditional_conservatism: "Трансоксания"
@@ -3488,8 +3693,8 @@
  BAH_ADJ: "Байанск."
  BAH_DEF: "Бахия де Тодос ос Сантос"
   
- AFR_tribes_central: "Central African Tribes" #NT!
- AFR_tribes_south: "South African Tribes" #NT!
- AFR_tribes_east: "East African Tribes" #NT!
- AFR_tribes_west: "West African Tribes" #NT!
- AFR_tribes_sahara: "Sahara African Tribes" #NT!
+ AFR_tribes_central: "Central African Tribes"
+ AFR_tribes_south: "South African Tribes"
+ AFR_tribes_east: "East African Tribes"
+ AFR_tribes_west: "West African Tribes"
+ AFR_tribes_sahara: "Sahara African Tribes"

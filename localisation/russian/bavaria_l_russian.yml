@@ -1,5 +1,19 @@
 ﻿l_russian:
  ###Missions and Decisions### 
+ #Economy 
+ BAV_decision_category_economy: "Экономика Баварии"
+ BAV_decision_category_economy_desc: "" #NT!
+ BAV_mission_industrializing: "Индустриализация"
+ BAV_mission_industrializing_desc: "" #NT!
+ BAV_decision_enact_free_enterprise: "Enact Free Enterprise"
+ BAV_decision_enact_free_enterprise_desc: "" #NT!
+ BAV_decision_establish_an_industrial_code: "Establish an Industrial Code"
+ BAV_decision_establish_an_industrial_code_desc: "" #NT!
+ BAV_decision_railway_upgrade: "Модернизация железной дороги"
+ BAV_decision_railway_upgrade_desc: "Наша железнодорожная сеть больше не справляется с задачей поддержки, не говоря уже о стимулировании современной промышленности. Модернизация и расширение не только исправят эту проблему, но и предоставят важные контракты для нашей промышленности, а также возможность расширить торговлю."
+ BAV_decision_railway_upgrade_trigger_tt: "Имеется §YЖелезнодорожное соединение§! между §YПассау§! и §YНюрнбергом§!, а также между §YБерхтесгаденом§! и §YМюнхеном§!\n"
+  
+ #Trias Policy 
  BAV_decision_category_common_policy: "Общая политика с германскими государствами"
  BAV_decision_common_policy_wurttemberg: "Попробовать установить общую политику с Вюртембергом"
  BAV_decision_common_policy_baden: "Попробовать установить общую политику с Баденом"
@@ -16,20 +30,19 @@
  BAV_decision_invite_SAX_trias: "Пригласить §YСаксонию§! в Триас"
  BAV_decision_invite_HAN_trias: "Пригласить §YГанновер§! в Триас"
   
- BAV_decision_category_economy: "Экономика Баварии"
- BAV_mission_industrializing: "Индустриализация"
- BAV_decision_enact_free_enterprise: "Enact Free Enterprise"
- BAV_decision_establish_an_industrial_code: "Establish an Industrial Code"
- BAV_decision_railway_upgrade: "Модернизация железной дороги"
- BAV_decision_railway_upgrade_desc: "Наша железнодорожная сеть больше не справляется с задачей поддержки, не говоря уже о стимулировании современной промышленности. Модернизация и расширение не только исправят эту проблему, но и предоставят важные контракты для нашей промышленности, а также возможность расширить торговлю."
- BAV_decision_railway_upgrade_trigger_tt: "Имеется §YЖелезнодорожное соединение§! между §YПассау§! и §YНюрнбергом§!, а также между §YБерхтесгаденом§! и §YМюнхеном§!\n"
+ ### FOCUS TREE ### 
+ bavaria_focus: "Bavaria Focus Tree" #NT!
   
- ###Focus### 
- BAV_bavarianagriculture: "Баварское сельское хозяйство"
- BAV_bavarianagriculture_desc: "Бавария в основном является аграрным обществом. Мы должны учитывать это и развивать данное направление."
- BAV_bavarianindustry: "Баварская промышленность"
- BAV_bavarianindustry_desc: "Великие державы по всему миру начинают индустриализацию. Нам следует начать делать то же самое, чтобы не оказаться ещё более отстающими от них."
- #BAV_bavarianarmy: "Bavarian Army"
+ #Economy 
+ BAV_bavarias_economy: "Bavaria's Economy" #NT!
+ BAV_bavarias_economy_desc: "" #NT!
+ BAV_bavarian_agriculture: "Bavarian Agriculture" #NT!
+ BAV_bavarian_agriculture_desc: "Bavaria is mainly an agricultural society. We should keep this in mind and expand on it." #NT!
+ BAV_bavarian_industry: "Bavarian Industry" #NT!
+ BAV_bavarian_industry_desc: "The big powers around the world are starting to industrialize. We should begin doing that too, as to not be even more inferior to them." #NT!
+ BAV_bavarian_trade_and_commerce: "Bavarian Trade and Commerce" #NT!
+ BAV_bavarian_trade_and_commerce_desc: "" #NT!
+ BAV_bavarianarmy: "Баварская армия"
  BAV_bavarianarmy_desc: "Наша армия в плачевном состоянии и крайне нуждается в модернизации. Сильная армия обеспечит защиту государства и народа за нашими границами, а также предоставит нам достаточную свободу действий в контексте политики союзов."
  BAV_bavariannationalguard: "Баварская национальная гвардия"
  BAV_bavariannationalguard_desc: "Теперь у нас есть возможность создать национальную гвардию для нашей страны. Национальная гвардия обеспечит нас достаточным количеством военных резервов в случае чрезвычайной ситуации."
@@ -552,8 +565,8 @@
  BAV_sueddeutscher_zollverein: "Южногерманский таможенный союз"
  BAV_sueddeutscher_zollverein_desc: ""
  BAV_catholicchurch: "Католическая церковь"
- BAV_idea_german_war_reparations: "Bavarian War Reparations" #NT!
- BAV_idea_german_war_reparations_desc: "In accordance with the to stipulations of our peace deal with France, we will pay a fixed amount of war reparations to France over the next time." #NT!
+ BAV_idea_german_war_reparations: "Bavarian War Reparations"
+ BAV_idea_german_war_reparations_desc: "In accordance with the to stipulations of our peace deal with France, we will pay a fixed amount of war reparations to France over the next time."
  BAV_bavarianarmy: "Баварская армия"
  BAV_wantsmiddlepower: "Средняя держава"
  BAV_learnedfromthefrench: "Изучено у французов"

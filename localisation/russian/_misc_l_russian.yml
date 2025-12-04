@@ -16,7 +16,7 @@
  om_berlin_congress_forced_into_a_corner: "Берлинский Конгресс - Загнан в Угол"
  om_berlin_congress_honest_broker: "Берлинский Конгресс - Честный Брокер"
  om_berlin_congress_betrayal: "Берлинский Конгресс - Предательство"
- om_hostile_relations: "Hostile Relations" #NT!
+ om_hostile_relations: "Hostile Relations"
  SPR_Aureliano_Maestre_de_San_Juan: "Аурелиано Маэстре де сан Хуан"
  SPR_Jose_de_Salamanca: "Хосе де Саламанка"
  SPR_Rafael_Perez_del_Alamon: "Рафаэль Перес дель Аламо"
@@ -100,11 +100,11 @@
  PRU_custom_effect_docks_tt: "Начнется блокада Эквадорских портов."
  PRU_custom_effect_americanist_tt: "Американские коллеги будут воспринимать нас, как друзей."
  eoanb_decision_reopen_textile_mill: "Восстановить Текстильную Фабрику"
- eoanb_decision_reopen_textile_mill_desc: "We must reopen a textile mill." #NT!
+ eoanb_decision_reopen_textile_mill_desc: "We must reopen a textile mill."
  eoanb_decision_reopen_steel_mill: "Восстановить Металлургический комбинат."
- eoanb_decision_reopen_steel_mill_desc: "We must reopen a steel mill." #NT!
+ eoanb_decision_reopen_steel_mill_desc: "We must reopen a steel mill."
  eoanb_decision_reopen_machine_parts_factory: "Восстановить машиностроительный завод"
- eoanb_decision_reopen_machine_parts_factory_desc: "We must reopen a machine parts factory." #NT!
+ eoanb_decision_reopen_machine_parts_factory_desc: "We must reopen a machine parts factory."
  eoanb_trigger_has_4_cotton: "Имеет избыток не менее 4 единиц Хлопка!"
  eoanb_trigger_has_2_iron: "Имеет избыток не менее 2 единиц Стали!"
  eoanb_trigger_has_4_coal: "Имеет избыток не менее 4 единиц угля!"
@@ -129,9 +129,9 @@
  POLITICS_KARL_NESSELRODE_DESC: "Бывший дипломат и гос. секретарь, Карл Нессельроде сейчас является одиннадцатым канцлером Российской Империи."
  PAP_Med_Trade: "Средиземноморские Купцы"
  PAP_Med_Trade_desc: "Средиземное море издавна использовалось для торговли между государствами. Мы должны улучшить наши возможности по его использованию."
- PAP_Take_Italy_Force: "Unite Italy by Force!" #NT!
- PAP_Take_Italy_Force_desc: "Piedmont was right, we must unify Italy under our rule!" #NT!
- PAP_Med_Merchants: "Mediterranean Merchants" #NT!
+ PAP_Take_Italy_Force: "Unite Italy by Force!"
+ PAP_Take_Italy_Force_desc: "Piedmont was right, we must unify Italy under our rule!"
+ PAP_Med_Merchants: "Mediterranean Merchants"
  PAR_custom_effect_paraguay: "Солано Лопес возьмет на себя управление Парагваем, как законный наследник своего отца."
  PAR_custom_effect_paraguay2: "Солано начнет процесс милитаризации."
  PAR_custom_effect_paraguay3: "Резервы будут направлены на усиление нашей армии."
@@ -170,10 +170,10 @@
  USA_CONGRESS_BUTTON_TOOLTIP_DELAYED: "§RВ разработке!§!"
  UNIQUE_GOVERNMENT_MECHANIC_DESC: "Это ваша Уникальная Правительственная Механика"
  law_pre_industrial_army_chinese: "Китайская Традиционная Армия"
- law_pre_industrial_army_chinese_desc: "This army is made by standards of Chinese Pre-Industrial Army." #NT!
+ law_pre_industrial_army_chinese_desc: "This army is made by standards of Chinese Pre-Industrial Army."
  POP_displayed: "[Root.GetTotalPopulation]"
  POP_tooltip: "§YНаселение§!\nОбщая численность населения:§Y [Root.GetTotalPopulation]§!"
- POP_tooltip_delayed: "" #NT!
+ POP_tooltip_delayed: ""
  Tribal_Army_Raised: "Племенная армия была поднята"
  branch_propaganda: "Отдел Пропаганды"
  branch_command: "Командование & Управление"
@@ -228,13 +228,15 @@
  EOANB_cant_call_neutral_vassal: "Заявили о нетрайлитете"
  EOANB_PRU_civil_war_no_USA_intervention: "Америка Не Будет Вмешиваться"
  embassy_accepted: "Посольство Принято"
+ royal_ties: "Royal Ties" #NT!
+ royal_marriage: "Royal Marriage" #NT!
  BRA_boundary_treaty: "Договор о Границе"
  BRA_friendship_treaty: "Договор о Дружбе"
  BRA_trade_treaty: "Торговый Договор"
  BRA_navigation_treaty: "Навигационный Договор"
  BRA_trade_and_navigation_treaty: "Договор о Торговле и Навигации"
  BRA_accepts_ENG_currency: "Бразилия принимает Британскую валюту"
- URG_accepts_BRA_investment: "Brazilian private investment in Uruguay" #NT!
+ URG_accepts_BRA_investment: "Brazilian private investment in Uruguay"
   
  decision_cost_CP_15: "£command_power §Y15§!"
  decision_cost_CP_15_blocked: "£command_power §R15§!"
@@ -245,8 +247,8 @@
  decision_cost_CP_50: "£command_power §Y50§!"
  decision_cost_CP_50_blocked: "£command_power §R50§!"
  decision_cost_CP_50_tooltip: "Стоимость принятия решения: £command_power §Y50§!"
- generic_skip_one_line_tt: " \n"
+ # generic_skip_one_line_tt: " \n" #NT!
   
- color_red: "§R" #NT!
- color_yellow: "§Y" #NT!
- color_green: "§G" #NT!
+ color_red: "§R"
+ color_yellow: "§Y"
+ color_green: "§G"

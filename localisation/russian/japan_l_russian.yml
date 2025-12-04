@@ -304,7 +304,7 @@
  imperial_restoration_desc: ""
  seek_american_support: "Искать Американской Поддержки"
  seek_american_support_desc: ""
- rally_imperialists: "Rally the Imperialist" #NT!
+ rally_imperialists: "Rally the Imperialist"
  rally_imperalists_desc: ""
  raise_imperial_banner: "Воздвижение Императорского Знамени"
  raise_imperial_banner_desc: ""
@@ -349,7 +349,7 @@
  JAP_question_han_system_desc: "В течение сотен лет система Хань позволяла мелким, более автономным даймё существовать отдельно от главного правительства. С началом новой эпохи Мэйдзи, когда мы должны централизовать и объединить Японию, мы должны поставить под сомнение эту систему ради высшего блага."
  JAP_let_the_domains_live: "Продолжение Даймё"
  JAP_let_the_domains_live_desc: "Местные Даймё обеспечили свою верность и преданность императору, доблестно сражаясь и служа делу Реставрации. Благодаря этим действиям император обеспечил минимальное вмешательство нового правительства в дела местных Даймё."
- AP_reward_loyal_domain: "Reward Loyal Domains" #NT!
+ AP_reward_loyal_domain: "Reward Loyal Domains"
  JAP_reward_loyal_domain_desc: "Те, кто доблестно сражался с нами, будут вознаграждены сверх всяких мечтаний. Те, кто пренебрег нашим делом, будут наказаны."
  JAP_allow_greater_autonomy: "Установить Широкое Автономное Правление"
  JAP_allow_greater_autonomy_desc: "Несправедливо продолжать относиться к верным даймё как к простым подданным, предоставление им большей автономии в управлении своими владениями укрепит их нерушимую верность Императору и нации."
@@ -728,16 +728,8 @@
  TSH_spirit_vic_han_sankin_kotai_obligations2_desc: "Санкин-Котай — является практикой обязательного присутствия дайме-вассала в столице сегуна в течение определенного периода времени, прежде чем ему разрешалось вернуться в свой обычный дом в Хане. Это регулярное посещение, сопровождавшееся пышными процессиями из столицы и обратно, было дорогостоящим и отнимало много времени. Кроме того, семья дайме находилась в столице в качестве заложников на время их отсутствия. Это чрезвычайно затрудняло перспективу восстания или войны, что, в свою очередь, делало сегунат Токугава очень стабильным как единственную державу, располагавшую средствами для ведения войны."
  TSH_spirit_vic_tozama_domain: "Домены Тозама"
  TSH_spirit_vic_tozama_domain_desc: "Домены Тозама - это владения дайме, которые считаются аутсайдерами политического ландшафта сегуната Токугава. Многие из этих владений передаются по наследству от семей, которые выступали против возвышения сегуната Токугава в 17 веке. Из-за такого неудобного положения многие из этих дайме менее склонны поддерживать сегуна."
- TSH_spirit_vic_tozama_domain_mad: "Домены Тозама"
- TSH_spirit_vic_tozama_domain_mad_desc: "Домены Тозама - это владения дайме, которые считаются аутсайдерами политического ландшафта сегуната Токугава. Многие из этих владений передаются по наследству от семей, которые выступали против возвышения сегуната Токугава в 17 веке. Из-за такого неудобного положения многие из этих дайме менее склонны поддерживать сегуна."
- TSH_spirit_vic_tozama_domain_happy: "Домены Тозама"
- TSH_spirit_vic_tozama_domain_happy_desc: "Домены Тозама - это владения дайме, которые считаются аутсайдерами политического ландшафта сегуната Токугава. Многие из этих владений передаются по наследству от семей, которые выступали против возвышения сегуната Токугава в 17 веке. Из-за такого неудобного положения многие из этих дайме менее склонны поддерживать сегуна."
  TSH_spirit_vic_fudai_domain: "Домены Фудаи"
  TSH_spirit_vic_fudai_domain_desc: "Домены Фудаи - это дайме, которые считаются инсайдерами политического ландшафта сегуната Токугава. Многие из этих владений являются наследственными, передаваемыми по наследству семейным линиям, которые либо являются важными ветвями правящего клана Токугава, либо были искренними сторонниками Токугавы во время их прихода к власти в 17 веке."
- TSH_spirit_vic_fudai_domain_mad: "Домены Фудаи"
- TSH_spirit_vic_fudai_domain_mad_desc: "Домены Фудаи - это дайме, которые считаются инсайдерами политического ландшафта сегуната Токугава. Многие из этих владений являются наследственными, передаваемыми по наследству семейным линиям, которые либо являются важными ветвями правящего клана Токугава, либо были искренними сторонниками Токугавы во время их прихода к власти в 17 веке."
- TSH_spirit_vic_fudai_domain_happy: "Домены Фудаи"
- TSH_spirit_vic_fudai_domain_happy_desc: "Домены Фудаи - это дайме, которые считаются инсайдерами политического ландшафта сегуната Токугава. Многие из этих владений являются наследственными, передаваемыми по наследству семейным линиям, которые либо являются важными ветвями правящего клана Токугава, либо были искренними сторонниками Токугавы во время их прихода к власти в 17 веке."
  TSH_spirit_vic_hatamoto_troops: "Хатамото"
  TSH_spirit_vic_hatamoto_troops_desc: "Хатамото были самураями, находившимися на прямой службе у сегуната Токугава. Их боевая доблесть и верность Бакуфу прославили их на всю Японию"
  TSH_spirit_vic_han_ansei_purge: "Чистка Ансея"
@@ -791,7 +783,7 @@
  TSH_spirit_koninklijke_marine_training: "Морская Подготовка в Конинклейке"
  TSH_spirit_koninklijke_marine_training_desc: "Голландцы прислали офицеров для обучения наших будущих новобранцев в военно-морском флоте."
  TSH_spirit_royal_navy_training: "Обучение с Британскими Офицерами"
- TSH_spirit_royal_navy_training: "Обучение с Британскими Офицерами"
+ TSH_spirit_royal_navy_training_desc: "The British have sent officers to train our future naval recruits." #NT!
  TSH_spirit_eng_win_anglo_satsuma_war: "Репарации За Инцидент в Сацуме"
  TSH_spirit_eng_win_anglo_satsuma_war_desc: "Гибель наших торговцев и простых людей никогда не останется безнаказанной. Справедливое требование возмещения ущерба для семей жертв даст миру понять, что не стоит связываться с Государством [ROOT.GetName]"
   # Boshin War 
@@ -1086,7 +1078,7 @@
  JAP_tokugawa_shogunate.7.t: "Кокера в Сацуме"
  JAP_tokugawa_shogunate.7.d: "Кокера распространилась на княжество Сацума!"
  JAP_tokugawa_shogunate.7.a: "Бакуфу не нужно знать о нашей слабости!"
- JAP_tokugawa_shogunate.7.a: "Бакуфу не нужно знать о нашей слабости!"
+ JAP_tokugawa_shogunate.7.b: "The Bakufu need not know our weakness!" #NT!
  JAP_tokugawa_shogunate.7.c: "Мы должны послать помощь."
  JAP_tokugawa_shogunate.7.e: "Тодзама сами справятся с этим."
  JAP_tokugawa_shogunate.8.t: "Токугава Бакуфу посылает помощь"
@@ -1593,7 +1585,7 @@
  JAP_tokugawa_shogunate.171.b: "They can have the island..."
  JAP_tokugawa_shogunate.172.t: "Japan gives us Tsushima!"
  JAP_tokugawa_shogunate.172.d: "The Japanese have agreed to our demands and drafted a treaty legally putting us in possession of the island of Tsushima. The Crisis that had broken out over the island has officially been declared to have ended, and the situation is now resolved - without conflict."
- JAP_tokugawa_shogunate.172.a: "How nice of them." #NT!
+ JAP_tokugawa_shogunate.172.a: "How nice of them."
  JAP_tokugawa_shogunate.173.t: "Japan calls for our aid!"
  JAP_tokugawa_shogunate.173.d: "The island of Tsushima is a small, but militarily and strategically interesting island in the East China Sea/Sea of Japan. It has come into the spotlight recently when a Russian ship landed on its shores, with the intent to seize ownership of the island so that a Russian Naval Port may be constructed there. The Japanese have objected, and have called us to back them up in this conflict. How will we respond?"
  JAP_tokugawa_shogunate.173.a: "[ENG.GetNameDef] stands at their side!"
@@ -1603,11 +1595,11 @@
  JAP_tokugawa_shogunate.174.a: "Horrible!"
  JAP_tokugawa_shogunate.175.t: "The Tsushima Incident"
  JAP_tokugawa_shogunate.175.d: "Another clash has taken place on Tsushima when a local peasant leader gathered a troop and tried to assault the naval port, where the Russian flag had been raised, earlier today. The leader was killed by Russian rifle fire, and two Japanese citizens taken hostage, as the Russians fended off the assault. This incident has only served to further increase the tensions between us and [RUS.GetNameDef]..."
- JAP_tokugawa_shogunate.175.a: "How much more must this island endure?" #NT!
+ JAP_tokugawa_shogunate.175.a: "How much more must this island endure?"
  JAP_tokugawa_shogunate.176.t: "The Coastline Charter"
  JAP_tokugawa_shogunate.176.d: "The Russians have drafted a treaty to resolve the recent crisis over Tsushima - in their favor, of course. The treaty states that they are to receive rights to the coastline of the island (effectively giving them control over it), with the right to build naval ports and dock ships fully included. Our government can say what it will, but the Tsushima local authorities ultimately have the final say. Let us see how they decided."
  JAP_tokugawa_shogunate.176.a: "The Tsushima Authorities accepted."
- JAP_tokugawa_shogunate.176.b: "The Tsushima Authorities refused." #NT!
+ JAP_tokugawa_shogunate.176.b: "The Tsushima Authorities refused."
  JAP_tokugawa_shogunate.177.t: "Britain stands on Japan's side!"
  JAP_tokugawa_shogunate.177.d: "[ENG.GetNameDef] has just publicly announced that it is backing [JAP.GetNameDef] in the ongoing Tsushima crisis! This means that if a war should erupt over the island, we will most likely have to fight off the British as well as the Japanese..."
  JAP_tokugawa_shogunate.177.a: "That is bad for us."
@@ -1617,7 +1609,7 @@
  JAP_tokugawa_shogunate.178.b: "Let them know that we will not back down!"
  JAP_tokugawa_shogunate.179.t: "Russia has backed down"
  JAP_tokugawa_shogunate.179.d: "[RUS.GetNameDef] has backed down in the Tsushima Crisis, resolving the situation and restoring peace to the island, whose citizens were already growing more and more anxious with every day of Russian presence. They have now withdrawn their troops and ships from the island, and business is quickly going back to the usual."
- JAP_tokugawa_shogunate.179.a: "Conflict avoided." #NT!
+ JAP_tokugawa_shogunate.179.a: "Conflict avoided."
  JAP_tokugawa_shogunate.180.t: "The Russians refuse to back down!"
  JAP_tokugawa_shogunate.180.d: "[RUS.GetNameDef] seems to have really set their eye on Tsushima, because they refused to back down even when the local authorities gave them a clear no. Maybe we should just give them the island - or maybe the threat of war will contain their imperialist desires."
  JAP_tokugawa_shogunate.180.a: "Threaten War unless they back down!"
@@ -1626,25 +1618,25 @@
  JAP_tokugawa_shogunate.181.t: "Japan threatens us with War!"
  JAP_tokugawa_shogunate.181.d: "[JAP.GetNameDef] has threatened war over the island of Tsushima in the ongoing crisis after we have announced our refusal to back down! We could recede at the last moment now, or we could try to enforce our will by way of the sword!"
  JAP_tokugawa_shogunate.181.a: "We will back down then...we can't afford this conflict."
- JAP_tokugawa_shogunate.181.b: "They can have a war!" #NT!
+ JAP_tokugawa_shogunate.181.b: "They can have a war!"
  JAP_tokugawa_shogunate.182.t: "[RUS.GetNameDef] declares war on [JAP.GetNameDef]!"
  JAP_tokugawa_shogunate.182.d: "[RUS.GetNameDef] has declared war on the Japanese over the island of Tsushima, which was the focal point of an ongoing crisis which has now erupted in violence! We have guaranteed the Japanese that we are their backers in this conflict - so we are obliged to come to their aid."
  JAP_tokugawa_shogunate.182.a: "We shall fight them off!"
- JAP_tokugawa_shogunate.182.b: "We will come to Japans aid!" #NT!
+ JAP_tokugawa_shogunate.182.b: "We will come to Japans aid!"
  JAP_tokugawa_shogunate.183.t: "We have lost the war!"
  JAP_tokugawa_shogunate.183.d: "Despite our best efforts, Russia has been defeated in military conflict! The Tsushima crisis is coming to an end - but not the one we hoped for. Let us hope our enemies have mercy on us...and that that reflects in their treaty, which will inevitably be imposed..."
- JAP_tokugawa_shogunate.183.a: "A terrible humiliation of [RUS.GetNameDef]..." #NT!
+ JAP_tokugawa_shogunate.183.a: "A terrible humiliation of [RUS.GetNameDef]..."
  JAP_tokugawa_shogunate.184.t: "Peace Treaty - open our ports to Britain?"
  JAP_tokugawa_shogunate.184.d: "Part of the peace treaty signed over the Tsushima War included a section stating that [JAP.GetNameDef] is to open their ports to [ENG.GetNameDef], but many isolationists in our country oppose this. Should we try to break the treaty, or go along with it?"
  JAP_tokugawa_shogunate.184.a: "Yes, the British deserve an exception."
- JAP_tokugawa_shogunate.184.b: "No, that can not be allowed." #NT!
- JAP_tokugawa_shogunate.185.t: "[JAP.GetNameDef] breaks the Peace Treaty!" #NT!
- JAP_tokugawa_shogunate.185.d: "The Japanese have violated the peace treaty of the Tsushima War just mere days after it was signed by refusing to let our ships dock in their ports, despite it being clearly stated in the treaty that we should henceforth be allowed to do so! How should we handle this?" #NT!
- JAP_tokugawa_shogunate.185.a: "We have to accept their policy of isolation." #NT!
- JAP_tokugawa_shogunate.185.b: "If they want another war, they can have it!" #NT!
+ JAP_tokugawa_shogunate.184.b: "No, that can not be allowed."
+ JAP_tokugawa_shogunate.185.t: "[JAP.GetNameDef] breaks the Peace Treaty!"
+ JAP_tokugawa_shogunate.185.d: "The Japanese have violated the peace treaty of the Tsushima War just mere days after it was signed by refusing to let our ships dock in their ports, despite it being clearly stated in the treaty that we should henceforth be allowed to do so! How should we handle this?"
+ JAP_tokugawa_shogunate.185.a: "We have to accept their policy of isolation."
+ JAP_tokugawa_shogunate.185.b: "If they want another war, they can have it!"
  JAP_tokugawa_shogunate.186.t: "We have won the war!"
  JAP_tokugawa_shogunate.186.d: "[RUS.GetNameDef] celebrates another victory tonight, as the Japanese have announced their surrender over what came to be called the \"Tsushima War\"! We are now free to draft a peace treaty and begin negotiations."
- JAP_tokugawa_shogunate.186.a: "A great victory for [RUS.GetNameDef]!" #NT!
+ JAP_tokugawa_shogunate.186.a: "A great victory for [RUS.GetNameDef]!"
   
  JAP_tokugawa_shogunate.200.t: "[JAP.GetLeader] declares return of Imperial Rule"
  JAP_tokugawa_shogunate.200.d: "After long running tensions and the decline of Shogunate Authority, Emperor Meiji of the Yamato House has declared a new age of Japan where the Chrysanthemum Throne will once again dirrectly ordain the will of Japan. Across the japanese islands, Daimyos are in revolt, joining the Imperial Cause and denouncing the will of the Bakufu Council in Edo! After centuries of internal peace, war has returned to Japan!"
@@ -2370,8 +2362,6 @@
  JAP_character_emperor_meiji_desc: "Принц Муцухито родился 3 ноября 1852 года в небольшом доме, принадлежавшем его деду по материнской линии, на северной оконечности Гошо. В наше время рождение считается источником загрязнения окружающей среды, поэтому принц императорской семьи родился не во дворце. Вместо этого члены императорской семьи обычно появляются на свет недалеко от дома отца беременной женщины. Что касается титула юного принца Сочи, то его мать, Накаяма Есико, была дочерью исполняющего обязанности главного советника Накаямы Тадаясу и наложницей императора Комэя.\n \nИз-за того, что императорский образ жизни был настолько скрыт за закрытыми дверями, его юношеская индивидуальность подвергалась сомнению. Иногда его считали здоровым и сильным, немного хулиганистым, и он был исключительно талантлив в сумо. Другие описывают его как хрупкого и часто болеющего человека. Но сейчас, в его возрасте, он возмужал и вырос, и его считают настоящим лидером народа.\n \nЮный принц родился в эпоху великих перемен в Японии. Знаменательным событием этих перемен стало появление в июле 1853 года коммодора Мэтью Перри и его "Черных Кораблей" в гавани Эдо. Их смог поднимается все выше, закрывая горизонт над столицей. Впервые по крайней мере за 250 лет сегунат предпринял весьма необычный шаг - проконсультировался с императорским двором из-за кризиса, вызванного прибытием Перри. Разговоры о "неравноправных договорах", отказе от тарифных полномочий и права судить иностранцев в их собственных судах распространились по всей стране. После того, как сегуны согласились принять эти договоры, император Комэй пришел в такую ярость, что пригрозил отречься от престола, хотя даже для этого требовалось согласие сегунов."
   
  ###CUSTOM EFFECTS TOOLTIPS### 
- operative_geisha: "Geisha"
- operative_geisha_desc: "Geisha" #NT!
  hokkaido: "Хоккайдо"
   
   # GENERAL FOCUS TOOLTIPS # 

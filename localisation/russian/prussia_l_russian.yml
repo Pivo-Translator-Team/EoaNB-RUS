@@ -1264,12 +1264,16 @@
  PRS_mission_expand_danzig_port_infrastructure_desc: ""
   
  #Second Schleswig War 
- PRS_decision_category_sh_question: "Вопрос Шлезвига-Гольштейна"
- PRS_decision_category_sh_question_desc: "§YГерцогства Шлезвиг и Гольштейн§! считаются неотъемлемой частью Германии. Однако они находятся под правлением §YДании§!, которую немцы считают §Yиностранной династией§!, и это не соответствует настроениям немецкой общественности в эту §Yэпоху национализма§!. Теперь хрупкое соглашение, установленное в §YЛондонском протоколе 1852 года§!, вот-вот рухнет, и §Yвоенный конфликт§! кажется неизбежным."
+ eoanb_decision_category_schleswig_holstein_question: "The Schleswig-Holstein Question" #NT!
+ eoanb_decision_category_schleswig_holstein_question_desc: "The §Yduchies of Schleswig and Holstein§! are considered to be an integral part of Germany. They are ruled, however, by §Y[DEN.GetName]§!, which the Germans consider to be a §Yforeign dynasty§! and this fact does not resonate well with the German public in this §Yage of nationalism§!. Now, the fragile arrangement that was set in the §YLondon Protocol of 1852§! is about to break apart and §Ymilitary conflict§! seems to be inevitable." #NT!
  PRS_decision_support_augustenburg: "Поддержать дом Августенбург"
  PRS_decision_support_augustenburg_desc: "Герцог Фридрих Кристиан Август Шлезвиг-Гольштейн-Зондербург-Августенбург провозгласил себя законным правителем Шлезвиг-Гольштейна, и мы охотно поддержим его притязания против иностранных угнетателей."
- PRS_decision_support_bundesexekution: "Поддержать Федеральную экзекуцию против Дании"
- PRS_decision_support_bundesexekution_desc: "Федеральная армия уже сделала первые шаги по освобождению Шлезвиг-Гольштейна, и мы будем полностью поддерживать усилия Германского союза."
+ PRS_decision_lead_bundesexekution: "Lead the Bundesexekution" #NT!
+ PRS_decision_lead_bundesexekution_desc: "The federal army has already taken the first steps in Schleswig-Holstein's liberation and we will lead the German Confederation's efforts to take back the German Duchies in the north once and for all." #NT!
+ PRS_decision_lead_bundesexekution_trigger_tt: "§YIf the Trias, led by §Gthe [SAX.GetName]§!, acts quickly and in accord with the German Confederation, they will take leadership of the war and we can support them instead.§!" #NT!
+ PRS_decision_support_bundesintervention: "Support Bundesintervention against Denmark" #NT!
+ PRS_decision_support_bundesintervention_desc: "The federal army has already taken the first steps in Schleswig-Holstein's liberation and we will support the German Confederation's efforts wholeheartedly." #NT!
+ PRS_decision_support_bundesintervention_effect_tt: "§YWe will join the war against Denmark once it starts.§!" #NT!
  dynmod_PRS_SSW_holstein_supply: "Плохое снабжение"
  dynmod_PRS_SSW_holstein_supply_desc: ""
  PRS_mission_win_war_with_denmark: "Вторая Шлезвигская война"
@@ -1280,6 +1284,7 @@
  PRS_decision_cooperate_with_austria_desc: "Германский союз может желать другого решения, но им придется столкнуться с реальностью. Только Пруссия и Австрия обладают военной мощью, чтобы раз и навсегда решить вопрос Шлезвиг-Гольштейна, и мы готовы сделать это."
  PRS_decision_invade_schleswig: "Вторгнуться в Шлезвиг"
  PRS_decision_invade_schleswig_desc: "Датские махинации должны закончиться. Они могут запугивать немецкие меньшинства, но Пруссия и Австрия не отступят и не бросят народ Шлезвига."
+ PRS_decision_invade_schleswig_trigger_tt: "§RWe have to act fast! If the Trias, led by §Gthe [SAX.GetName]§! acts quickly and in accord with the German Confederation, we cannot go through with the war on our own terms.§!" #NT!
  PRS_mission_london_conference: "Вторая Шлезвигская война"
  PRS_mission_london_conference_desc: "Несмотря на отсутствие интереса к военному вмешательству, другие великие державы Европы обеспокоены возможным нарушением баланса сил в результате конфликта по поводу Шлезвиг-Гольштейна. Обе стороны считают, что их casus belli законен, и если одна из сторон сможет доказать свою победу в этой войне, она наверняка окажется в выгодном положении на международной мирной конференции."
  PRS_mission_finish_war_with_denmark: "Завершить Вторую Шлезвигскую войну"
@@ -1307,7 +1312,6 @@
  PRS_decision_ask_access_denmark: "Вывести наши войска с датских островов"
  PRS_decision_ask_access_denmark_desc: "Некоторые наши полки всё ещё застряли на островах, находящихся под контролем Дании. Чтобы обеспечить им безопасный переход на наши корабли, нам нужно запросить временный доступ к датским портам для эвакуации наших войск с их территории. Датчане с радостью от них избавятся..."
  PRS_decision_ask_access_denmark_effect_tt: "§YДания отзовёт военный доступ через месяц.§!"
- PRS_DEN_sh_war_effect_tt: "§RВнимание! В предстоящей войне с Данией не проводите морские вторжения и не занимайте Борнхольм, иначе сценарный перемирие может не сработать, и вы застрянете в своём прогрессе к объединению Германии.\n\n§!"
   
  #German War/Seven Weeks War 
  PRS_decision_category_german_war: "Немецкий дуализм"
@@ -1329,44 +1333,46 @@
  PRS_decision_ask_access_hohzolsigrin_desc: "Некоторые наши полки застряли в провинции Гогенцоллерн-Зигмаринген, которая принадлежит нам, после войны с Австрией. Эти войска юридически не имеют права возвращаться на нашу территорию, поэтому мы должны запросить доступ у Южногерманских государств, чтобы вернуть их. У них не будет особого выбора отказать..."
  PRS_decision_ask_access_hohzolsigrin_effect_tt: "§YЮжные государства отзовут военный доступ через месяц.§!"
  PRS_disband_mobilized_divisions_7WW_effect_tt: "\n\n§YЛюбые мобилизованные дивизии будут расформированы. Обычные шаблоны будут разблокированы.§!"
- PRS_disband_mobilized_divisions_FPW_effect_tt: "\n\n§YAny mobilized divisions will be disbanded.§!" #NT!
+ PRS_disband_mobilized_divisions_FPW_effect_tt: "\n\n§YAny mobilized divisions will be disbanded.§!"
  PRS_disband_mobilized_divisions_effect_tt: "\n\n§YЛюбые мобилизованные дивизии будут расформированы.§!"
   
  #Franco-Prussian War 
- PRS_decision_category_franco_prussian_war: "French-German Enmity" #NT!
- PRS_decision_category_franco_prussian_war_desc: "The enmity between France and Germany has a long tradition that can be traced back to ancient and medieval times. Even Caesar noted differences between the Gauls and the Germanic tribes. A long history of hostilities ensued that has shaped the rivalry between the French and the Germans in our time. As an established great power, France views itself as the natural leader of continental Europe, and it is in its very interest to keep Germany weak and divided. Prussia, on the other hand, has recently emerged as the dominant force in northern Germany with even more far-reaching ambitions - a development that surely has the potential to result in a lasting conflict." #NT!
- PRS_FRA_mission_franco_prussian_war_PRS_effect_tt: "§G[FRA.GetNameDef] will have to sue for peace.§!" #NT!
- PRS_FRA_mission_franco_prussian_war_FRA_effect_tt: "§G[PRS.GetNameDef] will have to sue for peace.§!" #NT!
- PRS_decision_support_leopolds_candidacy: "Support Leopold's Candidacy for the Spanish Throne" #NT!
- PRS_decision_support_leopolds_candidacy_desc: "His Majesty the King's close relative, Leopold von Hohenzollern, from the Catholic Prussian branch line of Hohenzollern-Sigmaringen, has been designated as a promising candidate for the vacant Spanish throne. As this would surely be a very prestigious nomination, we could support his candidacy publicly. This could, however, exasperate the French who might view a Hohenzollern king in Spain as unacceptable and protest against this alleged encirclement by Prussians..." #NT!
- PRS_decision_support_leopolds_candidacy_effect_tt: "§YLeopold von Hohenzollern§! will lay claim to the §YSpanish throne§!." #NT!
- FRA_decision_denounce_prussia_for_provoking_france: "Denounce Prussia for Provoking France" #NT!
- FRA_decision_denounce_prussia_for_provoking_france_desc: "We suspect the Prussian government behind the decision to designate Hohenzollern prince Leopold as candidate for the Spanish throne. This is an outright insult of France and must be publicly denounced as such!" #NT!
- PRS_decision_publish_the_ems_dispatch: "Publish the Ems Dispatch" #NT!
- PRS_decision_publish_the_ems_dispatch_desc: "The French have overstepped the mark by pressing King Wilhelm I into providing an apology and a guarantee. We can use this situation to our advantage to provoke the French into making another mistake! [PRS.GetLeader] will publish a shortened version of the King's message to insult French diplomacy." #NT!
- PRS_decision_publish_the_ems_dispatch_effect_tt: "This will very likely result in a §Rdeclaration of war§! from §YFrance§!." #NT!
- FRA_decision_declare_war_on_prussia: "Declare War on Prussia" #NT!
- FRA_decision_declare_war_on_prussia_desc: "The Prussians have overstepped the mark with their ignorance, it is time to show them who is boss on the battlefield!" #NT!
- PRS_decision_declare_war_on_france: "Declare War on France" #NT!
- PRS_decision_declare_war_on_france_desc: "The French have overstepped the mark with their ridiculous demands, it is time to show them who is boss on the battlefield!" #NT!
- PRS_FRA_mission_franco_prussian_war: "The Franco-Prussian War" #NT!
- PRS_FRA_mission_franco_prussian_war_desc: "The Franco-Prussian War" #NT!
- PRS_mission_seize_forts_up_to_sedan: "Seize the Forts up to Sedan" #NT!
- PRS_mission_seize_forts_up_to_sedan_desc: "In order to deal a devastating blow to the French army and their morale, we need to seize the numerous forts close to our border. Once we have achieved this goal, the way to Paris, to victory, to glory to Germany will be wide open!" #NT!
- PRS_mission_besiege_paris: "Besiege Paris" #NT!
- PRS_mission_besiege_paris_desc: "The way to Paris lies wide open, the French government and leadership are in a state of chaos. We need to create a fait accompli and surround Paris and besiege the French capital." #NT!
- PRS_mission_besiege_paris_trigger_tt: "The French capital, §YParis§!, is §Ysurrounded by German troops§! and under siege." #NT!
- PRS_mission_push_back_the_french: "Push Back the French" #NT!
- PRS_mission_push_back_the_french_desc: "The time has come to drive the French back out of Germany. We need to gather all our forces and unleash the military potential of Germany to mount a counter-offensive to reconquer the German territories lost ot France!" #NT!
- PRS_mission_push_back_the_french_trigger_tt: "§YNo German territory west of the Rhine or bordering France is§! §Runder French control.§!" #NT!
- FRA_mission_seize_forts_along_the_border: "Seize the Forts along the Border" #NT!
- FRA_mission_seize_forts_along_the_border_desc: "The Germans have built considerable fortifications along the border. We must take these strongholds to make sure we can push them further." #NT!
- FRA_mission_break_paris_siege: "Break Siege of Paris" #NT!
- FRA_mission_break_paris_siege_desc: "The Germans are besieging our grand capital! If we want to have a chance at victory or even stalemate, we need to break the siege and repel their attack on Paris." #NT!
- FRA_mission_break_paris_siege_trigger_tt: "§YParis§!, is §Rnot surrounded§! by §YGerman troops§!." #NT!
- FRA_mission_push_back_the_germans: "Push Back the Germans" #NT!
- FRA_mission_push_back_the_germans_desc: "The time has come to drive the Germans out of France. Let's put all our differences aside and unite behind this common goal for all of France!" #NT!
- FRA_mission_push_back_the_germans_trigger_tt: "§YNo French mainland territory is§! §Runder German control.§!" #NT!
+ PRS_decision_category_franco_prussian_war: "French-German Enmity"
+ PRS_decision_category_franco_prussian_war_desc: "The enmity between France and Germany has a long tradition that can be traced back to ancient and medieval times. Even Caesar noted differences between the Gauls and the Germanic tribes. A long history of hostilities ensued that has shaped the rivalry between the French and the Germans in our time. As an established great power, France views itself as the natural leader of continental Europe, and it is in its very interest to keep Germany weak and divided. Prussia, on the other hand, has recently emerged as the dominant force in northern Germany with even more far-reaching ambitions - a development that surely has the potential to result in a lasting conflict."
+ PRS_FRA_mission_franco_prussian_war_PRS_effect_tt: "§G[FRA.GetNameDef] will have to sue for peace.§!"
+ PRS_FRA_mission_franco_prussian_war_FRA_effect_tt: "§G[PRS.GetNameDef] will have to sue for peace.§!"
+ PRS_decision_support_leopolds_candidacy: "Support Leopold's Candidacy for the Spanish Throne"
+ PRS_decision_support_leopolds_candidacy_desc: "His Majesty the King's close relative, Leopold von Hohenzollern, from the Catholic Prussian branch line of Hohenzollern-Sigmaringen, has been designated as a promising candidate for the vacant Spanish throne. As this would surely be a very prestigious nomination, we could support his candidacy publicly. This could, however, exasperate the French who might view a Hohenzollern king in Spain as unacceptable and protest against this alleged encirclement by Prussians..."
+ PRS_decision_support_leopolds_candidacy_effect_tt: "§YLeopold von Hohenzollern§! will lay claim to the §YSpanish throne§!."
+ FRA_decision_denounce_prussia_for_provoking_france: "Denounce Prussia for Provoking France"
+ FRA_decision_denounce_prussia_for_provoking_france_desc: "We suspect the Prussian government behind the decision to designate Hohenzollern prince Leopold as candidate for the Spanish throne. This is an outright insult of France and must be publicly denounced as such!"
+ PRS_decision_publish_the_ems_dispatch: "Publish the Ems Dispatch"
+ PRS_decision_publish_the_ems_dispatch_desc: "The French have overstepped the mark by pressing King Wilhelm I into providing an apology and a guarantee. We can use this situation to our advantage to provoke the French into making another mistake! [PRS.GetLeader] will publish a shortened version of the King's message to insult French diplomacy."
+ PRS_decision_publish_the_ems_dispatch_effect_tt: "This will very likely result in a §Rdeclaration of war§! from §YFrance§!."
+ FRA_decision_declare_war_on_prussia: "Declare War on Prussia"
+ FRA_decision_declare_war_on_prussia_desc: "The Prussians have overstepped the mark with their ignorance, it is time to show them who is boss on the battlefield!"
+ PRS_decision_declare_war_on_france: "Declare War on France"
+ PRS_decision_declare_war_on_france_desc: "The French have overstepped the mark with their ridiculous demands, it is time to show them who is boss on the battlefield!"
+ PRS_FRA_mission_franco_prussian_war: "The Franco-Prussian War"
+ PRS_FRA_mission_franco_prussian_war_desc: "The Franco-Prussian War"
+ PRS_mission_seize_forts_up_to_sedan: "Seize the Forts up to Sedan"
+ PRS_mission_seize_forts_up_to_sedan_desc: "In order to deal a devastating blow to the French army and their morale, we need to seize the numerous forts close to our border. Once we have achieved this goal, the way to Paris, to victory, to glory to Germany will be wide open!"
+ PRS_mission_besiege_paris: "Besiege Paris"
+ PRS_mission_besiege_paris_desc: "The way to Paris lies wide open, the French government and leadership are in a state of chaos. We need to create a fait accompli and surround Paris and besiege the French capital."
+ PRS_mission_besiege_paris_trigger_tt: "The French capital, §YParis§!, is §Ysurrounded by German troops§! and under siege."
+ PRS_mission_push_back_the_french: "Push Back the French"
+ PRS_mission_push_back_the_french_desc: "The time has come to drive the French back out of Germany. We need to gather all our forces and unleash the military potential of Germany to mount a counter-offensive to reconquer the German territories lost ot France!"
+ PRS_mission_push_back_the_french_trigger_tt: "§YNo German territory west of the Rhine or bordering France is§! §Runder French control.§!"
+ FRA_mission_seize_forts_along_the_border: "Seize the Forts along the Border"
+ FRA_mission_seize_forts_along_the_border_desc: "The Germans have built considerable fortifications along the border. We must take these strongholds to make sure we can push them further."
+ FRA_mission_break_paris_siege: "Break Siege of Paris"
+ FRA_mission_break_paris_siege_desc: "The Germans are besieging our grand capital! If we want to have a chance at victory or even stalemate, we need to break the siege and repel their attack on Paris."
+ FRA_mission_break_paris_siege_trigger_tt: "§YParis§!, is §Rnot surrounded§! by §YGerman troops§!."
+ FRA_mission_push_back_the_germans: "Push Back the Germans"
+ FRA_mission_push_back_the_germans_desc: "The time has come to drive the Germans out of France. Let's put all our differences aside and unite behind this common goal for all of France!"
+ FRA_mission_push_back_the_germans_trigger_tt: "§YNo French mainland territory is§! §Runder German control.§!"
+ FRA_mission_push_the_germans_behind_the_rhine: "Push the Germans behind the Rhine" #NT!
+ FRA_mission_push_the_germans_behind_the_rhine_desc: "The Germans have been unable to resist our advance. Now is the time to seize the moment and push them back behind the Rhine. Perhaps we can even establish permanent control over the territories west of the Rhine currently under German control that way - a long-cherished dream of French nationalists." #NT!
   
  #Politics of the North German Confederation 
  PRS_decision_category_NGC_politics: "Политика Северогерманского союза"
@@ -1743,7 +1749,6 @@
  PRS_focus_convenient_alliance_desc: "Наша победа во Второй Шлезвигской войне вновь вдохнула жизнь в германское национальное движение — и Пруссия является их главной надеждой. Многие либералы также хотят увидеть объединение Германии. Возможно, мы сможем использовать это как рычаг для ослабления либеральной оппозиции нашему правительству."
  PRS_focus_ask_for_indemnitat: "Индемнитетный вопрос"
  PRS_focus_ask_for_indemnitat_desc: "Реформа армии оказалась очень эффективной. Наши противники были вынуждены просить мира, и мы закрепили гегемонию Пруссии в Германии. Теперь пришло время договориться с внутренней оппозицией. Успех наших мер склонил на нашу сторону ряд либералов, и мы можем предложить им обещание объединенной Германии. Таким образом, мы, возможно, сможем разделить либеральное движение..."
- PRS_schleswig_holstein_question_trigger_tt: "§YШлезвиг-Гольштейнский вопрос решен§!, либо военным, либо дипломатическим путем.\n\n"
  PRS_german_dualism_trigger_tt: "§YГерманская война окончена§!, и мы ее не проиграли.\n\n"
   
  #North German Confederation - HISTORICAL 
@@ -1955,14 +1960,14 @@
  PRS_dreyse_rifle_1_desc: "Винтовка Дрейзе, разработанная одноименной оружейной фабрикой из Зёммерды, в самом сердце Тюрингии, является первой в мире массово производимой казнозарядной винтовкой, готовой к военному использованию. Мы безусловно можем использовать это технологическое преимущество против наших соперников..."
  PRS_dreyse_rifle_2: "Винтовка Дрейзе"
  PRS_dreyse_rifle_2_desc: "Винтовка Дрейзе, разработанная одноименной оружейной фабрикой из Зёммерды, в самом сердце Тюрингии, является первой в мире массово производимой казнозарядной винтовкой, готовой к военному использованию. Мы безусловно можем использовать это технологическое преимущество против наших соперников..."
- PRS_dreyse_rifle_ai_1: "Dreyse Breechloading Rifle" #NT!
- PRS_dreyse_rifle_ai_1_desc: "The Dreyse rifle, developed by the eponymous rifle factory from Sömmerda, in the middle of the Thuringian hinterland, is the first-ever mass-produced breechloading rifle ready for military use. We can certainly take advantage of this technological upside against our rivals..." #NT!
- PRS_dreyse_rifle_ai_2: "Dreyse Breechloading Rifle" #NT!
- PRS_dreyse_rifle_ai_2_desc: "The Dreyse rifle, developed by the eponymous rifle factory from Sömmerda, in the middle of the Thuringian hinterland, is the first-ever mass-produced breechloading rifle ready for military use. We can certainly take advantage of this technological upside against our rivals..." #NT!
+ PRS_dreyse_rifle_ai_1: "Dreyse Breechloading Rifle"
+ PRS_dreyse_rifle_ai_1_desc: "The Dreyse rifle, developed by the eponymous rifle factory from Sömmerda, in the middle of the Thuringian hinterland, is the first-ever mass-produced breechloading rifle ready for military use. We can certainly take advantage of this technological upside against our rivals..."
+ PRS_dreyse_rifle_ai_2: "Dreyse Breechloading Rifle"
+ PRS_dreyse_rifle_ai_2_desc: "The Dreyse rifle, developed by the eponymous rifle factory from Sömmerda, in the middle of the Thuringian hinterland, is the first-ever mass-produced breechloading rifle ready for military use. We can certainly take advantage of this technological upside against our rivals..."
  PRS_idea_french_war_reparations: "Французские военные репарации"
  PRS_idea_french_war_reparations_desc: "В соответствии с условиями мирного договора с Францией, мы будем получать фиксированную сумму военных репараций от Франции в течение определенного времени."
- PRS_idea_prussian_war_reparations: "Prussian War Reparations" #NT!
- PRS_idea_prussian_war_reparations_desc: "In accordance with the to stipulations of our peace deal with France, we will pay a fixed amount of war reparations to France over the next time." #NT!
+ PRS_idea_prussian_war_reparations: "Prussian War Reparations"
+ PRS_idea_prussian_war_reparations_desc: "In accordance with the to stipulations of our peace deal with France, we will pay a fixed amount of war reparations to France over the next time."
  dynmod_PRS_war_preparations: "Прусские военные приготовления"
  dynmod_PRS_war_preparations_desc: "Германский союз вот-вот распадется — это означает войну с Австрией. Нам нужно подготовить страну к возможному кровопролитному и затяжному военному конфликту."
  PRS_war_preparations_effect_tt: "§CЭто §Yизменит§! дух §Yвоенных приготовлений§! со следующими эффектами:§!\n"
@@ -1970,8 +1975,8 @@
  PRS_idea_army_reserves_mobilizing_desc: "Прусские армейские резервы мобилизуются в связи с продолжающейся войной, укрепляя [PRS.GetAdjective] армию."
  PRS_idea_collective_struggle_against_france: "Коллективная борьба против Франции"
  PRS_idea_collective_struggle_against_france_desc: "Французы отклонили наше мирное предложение и открыли свои истинные намерения — граница по Рейну. Мы должны сделать все возможное, чтобы их мечты никогда не сбылись."
- PRS_idea_krupp_artillery: "Krupp Artillery Advantage" #NT!
- PRS_idea_krupp_artillery_desc: "The artillery machinery made by the Krupp company at Essen is state-of-the-art. It is superior to the artillery used by the French and are artillery brigades have an advantage on the battlefield as a result." #NT!
+ PRS_idea_krupp_artillery: "Krupp Artillery Advantage"
+ PRS_idea_krupp_artillery_desc: "The artillery machinery made by the Krupp company at Essen is state-of-the-art. It is superior to the artillery used by the French and are artillery brigades have an advantage on the battlefield as a result."
   
  #Navy 
  PRS_idea_build_high_sea_fleet: "Building Up a High Seas Fleet"
@@ -2082,8 +2087,8 @@
  PRS_idea_undermine_france_desc: "Кто-то подрывает политические усилия этой страны..."
  PRS_idea_fp_mil_boost: "За Отечество!"
  PRS_idea_fp_mil_boost_desc: "Вся страна охвачена волной энтузиазма, чтобы выиграть этот последний конфликт для объединения Германии."
- PRS_idea_francstireurs: "Francs-Tireurs" #NT!
- PRS_idea_francstireurs_desc: "French civilians with shooting practice have taken up their arms to build partisan formations engaging in guerrilla warfare, causing panic and chaos in some areas under our occupation. Only the strictest punishment seems appropriate when apprehending these elements." #NT!
+ PRS_idea_francstireurs: "Francs-Tireurs"
+ PRS_idea_francstireurs_desc: "French civilians with shooting practice have taken up their arms to build partisan formations engaging in guerrilla warfare, causing panic and chaos in some areas under our occupation. Only the strictest punishment seems appropriate when apprehending these elements."
  PRS_idea_weakened_sww: "Военная неполноценность"
  PRS_idea_weakened_sww_desc: "Армии этой страны не могут сравниться с Пруссией."
  PRS_idea_rapid_expansion: "Чрезмерное расширение"
@@ -2178,8 +2183,8 @@
  PRS_trait_Bismarck_Iron_Chancellor_desc: "Бисмарк казался потерянным после выборов 1863 года, держась лишь благодаря поддержке угрюмого короля. Однако войны с Данией и Австрией открыли путь к славе. Как феникс из пепла, Бисмарк стоит крепче, чем когда-либо."
  PRS_trait_Bismarck_Iron_Chancellor_1: "Железный канцлер"
  PRS_trait_Bismarck_Iron_Chancellor_1_desc: "Канцлер Бисмарк навсегда останется в истории как архитектор объединения Германии. Это репутация, которой он наверняка сможет воспользоваться."
- PRS_trait_Friedrich_III: "Modernization Enthusiast" #NT!
- PRS_trait_Friedrich_III_desc: "Friedrich III, the Prussian monarch, is committed to modernize the country. In part because of his wife, a daughter of Queen Victoria, and his personal experiences but also due to the recent success of the country, Friedrich has an admiration for British constitutionalism. He sympathizes with establishing a constitutional monarchy in Prussia through liberal reforms and greater civic freedoms, setting him apart from the views of his father." #NT!
+ PRS_trait_Friedrich_III: "Modernization Enthusiast"
+ PRS_trait_Friedrich_III_desc: "Friedrich III, the Prussian monarch, is committed to modernize the country. In part because of his wife, a daughter of Queen Victoria, and his personal experiences but also due to the recent success of the country, Friedrich has an admiration for British constitutionalism. He sympathizes with establishing a constitutional monarchy in Prussia through liberal reforms and greater civic freedoms, setting him apart from the views of his father."
   
  #Heads of State 
  PRS_Friedrich_Wilhelm_IV: "Король Фридрих Вильгельм IV Прусский"
@@ -2214,7 +2219,6 @@
  PRS_GC_GOOD_RELATIONS_NGC: "Исторически хорошие отношения"
  eoanb_om_PRS_SWI_neuchatel_crisis: "Идёт Нёшательский кризис"
  eoanb_om_PRS_SWI_neuchatel_crisis_resolved: "Нёшательский кризис разрешён"
- PRS_ENG_WEDDING: "Королевские связи"
  eoanb_om_heydt_edict: "Указ Хейдта"
  eoanb_om_PRS_eulenburg_expedition: "Дипломатический контакт"
  eoanb_om_PRS_henry_heuksen_lite: "Убийство Генри Хёйксена"
@@ -2243,6 +2247,7 @@
  PRS_AUS_SCHLESWIG_REL: "Сотрудничество в вопросе Шлезвиг-Гольштейна"
  PRS_AUS_GC_SCHLESWIG_REL: "Игнорирование резолюции Бундестага"
  PRS_SCHLESWIG_SUPPORT_REL: "Поддержка Германского союза в вопросе Шлезвиг-Гольштейна"
+ PRS_SCHLESWIG_LEAD_BUNDESEXEKUTION_REL: "Leading Bundesexekution against Denmark" #NT!
  PRS_SCHLESWIG_SUPPORT_BUNDESEXEKUTION_REL: "Поддержка Бундесэкзекуции против Дании"
  PRS_SCHLESWIG_WAR_CONTINUES_REL: "Провал Лондонской конференции"
  eoanb_SCHLESWIG_GC_MEMBER_REL: "Освобождение Шлезвиг-Гольштейна"
@@ -2293,3 +2298,4 @@
  PRS_compromise_negotiated_flag: "§YКомпромисс с парламентом успешно достигнут.§!"
  PRS_owns_all_ger_unify_state: "Все необходимые §Yземли§! для §Yобъединения Германии§! принадлежат §Y[Root.GetNameDef]§!"
  PRS_owns_all_ger_unify_state_socialist: "Все необходимые §Yземли§! для §Yобъединения Германии§! принадлежат §Y[Root.GetNameDef]§!"
+ schleswig_holstein_question_resolved_trigger_tt: "The §YSchleswig-Holstein Question has been resolved§!, either through war or diplomatic means.\n\n" #NT!

@@ -392,7 +392,6 @@
  afr_vast_forces_2: "Centralized Military Command"
  afr_vast_forces_3: "Centralized Military Command"
  afr_vast_forces_4: "Centralized Military Command"
- afr_vast_forces_4: "Centralized Military Command"
  afr_centralized_command_structure_3: "Centralized Military Command"
  afr_centralized_command_structure_4: "Centralized Military Command"
  afr_centralized_command_structure_5: "Centralized Military Command"
@@ -734,7 +733,7 @@
  EDC_BORDER_TRIBE_JOINS_LARGE: "A Band of Warriors join our army"
  EDC_afr_is_tribal: "Is a §YTribal State§!"
  eoanb_decision_raise_tribal_army: "Raise our Tribal Army"
- autonomy_collaboration_government: "Коллаборационистское правительство"
+ : "Collaboration Government" #NT!
  eoanb_found_air_command: "Found Air Command"
  eoanb_found_naval_command: "Found Naval Command"
   
@@ -787,7 +786,6 @@
  EDC_western_education_system_tooltip: "\n§GAdopts a §!§YWestern Inspired Education§!§G system.§!\n"
  EDC_eastern_education_system_tooltip: "\n§GAdopts an §!§YEastern Inspired Education§!§G system.§!\n"
   
- TRV_focus_political_reforms: "Political Reforms"
  afr_european_style_militaries: "European Style Militaries"
  afr_adopt_limited_constitution: "Adopt a Limited Constitution"
  eoanb_tt_technology_petroleum_society: "You need to be in the §YOil Era§! or above"
@@ -859,6 +857,11 @@
   
  uct.2.t: "Unification of Fiji"
  uct.2.d: "After Centuries of internal fighting the Kingdom of Fiji has risen again in the pacific, forging ties with [END.GetName], [FIJ.GetName] hopes to take its place as a power in the pacific once again."
+  
+ uct.3.t: "Establishment of the Kingdom of Fiji" #NT!
+ uct.3.d: "After centuries of internal fighting, the Kingdom of Fiji has risen again in the Pacific, forging ties with [END.GetName], [FIJ.GetName] hopes to take its place as a power in the Pacific region once more." #NT!
+ uct.3.a: "We shall see." #NT!
+ uct.3.b: "We have different plans." #NT!
   
  # Inwards Oriented Kingdom # 
   

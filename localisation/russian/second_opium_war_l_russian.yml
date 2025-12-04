@@ -12,8 +12,8 @@
  eoanb_om_FRA_ENG_arrow_incident: "The Arrow Incident"
  eoanb_om_ENG_burnt_summer_palace: "Burnt Summer Palace"
  eoanb_om_ENG_burnt_forbidden_city: "Burnt Forbidden City"
- CHI_idea_unequal_treaties_1: "Unequal Treaties" #NT!
- CHI_idea_unequal_treaties_2: "Unequal Treaties" #NT!
+ CHI_idea_unequal_treaties_1: "Unequal Treaties"
+ CHI_idea_unequal_treaties_2: "Unequal Treaties"
  CHI_idea_tianjin_treaty: "Treaty of Tianjin"
  CHI_idea_tianjin_treaty_euro: "Treaty of Tianjin"
  CHI_idea_army_defeated: "Army Defeated"
@@ -33,11 +33,11 @@
  eoanb_decision_sow_LEG_assault_canton: "Assault Canton"
  eoanb_decision_sow_LEG_assault_taku1: "Assault Taku Forts"
  eoanb_decision_sow_LEG_assault_taku_2: "Second Assault on Taku Forts"
- eoanb_decision_sow_LEG_assault_taku_effect_tt: "We will see whether the assault is successful." #NT!
+ eoanb_decision_sow_LEG_assault_taku_effect_tt: "We will see whether the assault is successful."
  eoanb_decision_sow_LEG_assault_taku_3: "Third Assault on Taku Forts"
- eoanb_decision_sow_LEG_assault_taku_3_effect_tt: "We will launch a third attack against the Taku Forts to see if we can finally break them." #NT!
+ eoanb_decision_sow_LEG_assault_taku_3_effect_tt: "We will launch a third attack against the Taku Forts to see if we can finally break them."
  eoanb_decision_sow_LEG_assault_Bejing: "Assault Peking"
- eoanb_decision_sow_LEG_assault_Bejing_effect_tt: "We will launch and assault on Peking to teach the Chinese a lesson." #NT!
+ eoanb_decision_sow_LEG_assault_Bejing_effect_tt: "We will launch and assault on Peking to teach the Chinese a lesson."
  eoanb_decision_sow_RUS_send_ultimatum: "Send an ultimatum to the Qing"
  eoanb_mission_sow_defend_canton: "Defend Canton"
  eoanb_mission_sow_defend_taku2_3: "Defend Taku Forts"
@@ -60,8 +60,8 @@
   #Flags 
  QNG_taku_fortified: "Taku Forts are reinforced"
  QNG_canton_fortified: "Canton Forts are reinforced"
- SOW_anglo_french_yes: "[FRA.GetFlag]§YFrance§! §Gparticipates§! in the §YSecond Opium War§!." #NT!
- SOW_anglo_french_no: "[FRA.GetFlag]§YFrance§! does §Rnot participate§! in the §YSecond Opium War§!." #NT!
+ SOW_anglo_french_yes: "[FRA.GetFlag]§YFrance§! §Gparticipates§! in the §YSecond Opium War§!."
+ SOW_anglo_french_no: "[FRA.GetFlag]§YFrance§! does §Rnot participate§! in the §YSecond Opium War§!."
   
   # Events 
  secondopiumwarnew.1.t: "Prepare to Attack Canton"
@@ -128,9 +128,9 @@
  secondopiumwarnew.19.t: "Treaty of Tianjin"
  secondopiumwarnew.19.d: "With the outbreak of the Second Opium War and an Anglo-French alliance banded against the Qing Empire, it is clear the Qing state cannot withstand the pressure of the West. The newly-ratified Treaty of Tianjin has forced the flow of commercial trade to continue throughout eleven ports across the Chinese coast, this time including the United States and Russia despite lack of combat. The Great Powers now watch closely with the intention of carving a slice out of the weakened Qing Empire."
  secondopiumwarnew.19.a: "Sign It..."
- secondopiumwarnew.19.b: "Sign It." #NT!
- secondopiumwarnew.19.c: "Sign It." #NT!
- secondopiumwarnew.19.e: "Sign It." #NT!
+ secondopiumwarnew.19.b: "Sign It."
+ secondopiumwarnew.19.c: "Sign It."
+ secondopiumwarnew.19.e: "Sign It."
  secondopiumwarnew.20.t: "The British Offends Our Emissary!"
  secondopiumwarnew.20.d: "The Xianfeng Emperor dispatched ministers for peace talks, but the British diplomatic envoy, Harry Parkes, insulted the imperial emissary during the talks. This surely can not stand, the Barbarians should not be allowed to insult their superiors like this. The British should be arrested and punished, teach these Barbarians some manners…"
  secondopiumwarnew.20.a: "No! Let it Slide!"
@@ -166,9 +166,9 @@
  secondopiumwarnew.29.t: "Peking Convention"
  secondopiumwarnew.29.d: "While the emperor cowers far away from the capital, his brother will take his place in ratifying the previous treaty, with more being placed on the table to compensate for the sudden mutiny. Eleven trading ports have been opened for trade exclusively with the West.\n\nUnder Article 6, the Kowloon Peninsula, north of Hong Kong, was ceded perpetuity to Britain’s previously gained colony of Hong Kong. Further ratification of the Treaty of Aigun, which was signed in the same year as the Tianjin, resulted in further loss of territory, the province of Haishenwai was ceded to the Russians."
  secondopiumwarnew.29.a: "The War Ends..."
- secondopiumwarnew.29.b: "The War Ends..." #NT!
- secondopiumwarnew.29.c: "The War Ends..." #NT!
- secondopiumwarnew.29.e: "The War Ends..." #NT!
+ secondopiumwarnew.29.b: "The War Ends..."
+ secondopiumwarnew.29.c: "The War Ends..."
+ secondopiumwarnew.29.e: "The War Ends..."
  secondopiumwarnew.30.t: "Russia Send Ultimatum!"
  secondopiumwarnew.30.d: "Since the reign of Catherine the Great, Russia has desired to become a naval power in the Pacific. It did so by annexing the Kamchatka Peninsula and establishing the naval outpost of Petropavlovsk-Kamchatsky in 1740, as well as naval outposts in Russian America and near the Amur watershed, encouraging Russians to go there and settle, and slowly developing a strong military presence in the Amur region. The Qing Empire never governed that region effectively or conducted territorial surveys, and these Russian advances went unnoticed.\n\nGovernor-General of the Far East Nikolay Muraviev camped tens of thousands of troops on the borders of Mongolia and Manchuria, preparing to make legal Russian de facto control over the Amur from past settlement. Muraviev seized the opportunity when it was clear that we were losing the Second Opium War, and threatened us with a war on a second front if we did not accept the Russian demands."
  secondopiumwarnew.30.a: "Accept"
@@ -176,7 +176,7 @@
  secondopiumwarnew.31.t: "Treaty of Aigun"
  secondopiumwarnew.31.d: "After stationing tens of thousands of men along the Mongolian and Manchurian borders, the looming threat of a two-front invasion of the warring Qing Empire against the British and French has forced the Chinese to surrender. Diplomat Nikolay Muravyov-Amursky was sent to negotiate the terms of peace. The lands north of the Amur River have been under Qing control since the Nerchinsk Treaty of 1689 between the Tsardom of Russia and the Qing Dynasty. Under this new treaty, the borders have been redefined to give Russian control of the area north of the Amur River in Manchuria, the ancestral home of the Manchu people."
  secondopiumwarnew.31.a: "Sign"
- QNG_treaty_of_aigun_effect_tt: "We will cede Khabarovsk to Russia. Haishenwei will be governed by a joint Sino-Russian condominium guaranteed by both countries." #NT!
+ QNG_treaty_of_aigun_effect_tt: "We will cede Khabarovsk to Russia. Haishenwei will be governed by a joint Sino-Russian condominium guaranteed by both countries."
  secondopiumwarnew.32.t: "Russia Fails to take Manchuria!"
  secondopiumwarnew.32.d: "After the Russian Ultimatum for Outer Manchuria was not accepted by Great Qing, the Russians would admit defeat, surrendering claims of the regions, and would also begin the demobilization process on the mongolian border, shortly before this a battle had occurred, between a force of Ten Thousand Russian soldiers, and Forty Thousand Qing Soldiers, with the Russians being heavily outnumbered, and forced to retreat."
  secondopiumwarnew.32.a: "The Qing Beat the Odds!"

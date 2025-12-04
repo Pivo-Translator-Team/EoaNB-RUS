@@ -205,8 +205,8 @@
  WUR_victorian_integrate_liberalism: "Integrated Liberalism"
  WUR_victorian_schultheisswesen_enforce: "Reformed Schultheißwesen"
  WUR_victorian_schultheisswesen_neglect: "Enforced Schultheißwesen"
- WUR_idea_german_war_reparations: "Wurttemberger War Reparations" #NT!
- WUR_idea_german_war_reparations_desc: "In accordance with the to stipulations of our peace deal with France, we will pay a fixed amount of war reparations to France over the next time." #NT!
+ WUR_idea_german_war_reparations: "Wurttemberger War Reparations"
+ WUR_idea_german_war_reparations_desc: "In accordance with the to stipulations of our peace deal with France, we will pay a fixed amount of war reparations to France over the next time."
  WUR_wayofneutrality: "The Way of Neutrality"
  WUR_wayofneutrality_desc: "[WUR.GetNameDef] prefers to be friends with everyone."
  WUR_start_liberalize: "Liberalization"

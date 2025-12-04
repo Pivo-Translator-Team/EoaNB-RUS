@@ -523,6 +523,8 @@
  reform_name_25_8: "Прусский закон о торговле и тарифах от [GetYear]"
   
    #Danish Custom Votes 
+ reform_name_26_1: "The New Business Act of [GetYear]" #NT!
+ reform_name_26_2: "The Stöðulög Act of [GetYear]" #NT!
  reform_name_26_3: "Закон о военно-морском порту Холмен от [GetYear]"
  reform_name_26_4: "Закон о дублировании пехотных батальонов военного времени от [GetYear]"
  reform_name_26_5: "Датский закон о воинской повинности от [GetYear]"
