@@ -2256,7 +2256,7 @@
  RUS_mission_avoid_bankruptcy: "Избежать Банкротства"
  RUS_mission_avoid_bankruptcy_desc: ""
  RUS_mission_avoid_bankruptcy_trigger_tt: "Государство §Y[RUS.GetNameDef]§! объявило §Rбанкротство§!."
- : "Make Debt Repayment" #NT!
+  
  RUS_decision_debt_repayments_desc: "Если ситуация выйдет из-под контроля, наш долг может привести к банкротству, что будет иметь катастрофические последствия для нашей экономики и нашего положения в мире. Мы должны сделать все, что в наших силах, чтобы избежать этой ситуации."
  RUS_decision_debt_repayments_effect_tt: "\n§YВремя, необходимое для погашения долга, увеличивается с ростом размера нашего долга.§!\n\n"
  RUS_decision_debt_repayments_done: "Произведено Погашение Долга"

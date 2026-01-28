@@ -227,6 +227,9 @@
  tank_designer_rocket_role_disallowed: "Добавить модуль, позволяющий выбирать роль §HРакетная артиллерия§!."
  tank_designer_flame: "Огнеметчик (рота обеспечения)"
  tank_designer_flame_role_disallowed: "Добавить модуль, позволяющий выбирать роль §H«Пламя»§!."
+  
+  # name list themes 
+ l_english: 
   # name list themes -- updated to include country-specific and other new list names 
  NAME_THEME_RIVERS: "Реки"
  NAME_THEME_FISH: "Рыбы"
@@ -342,5 +345,14 @@
  DESIGNER_SELECT_NICHE_DISABLED: "В дивизии нет бронетехники"
  DESIGNER_SELECT_NICHE_DISABLED_DELAYED: "Чтобы открыть возможность выбора §Yметки оборудования§!, добавьте батальон бронетехники или роту поддержки."
   
-  
-  
+ OUR_EQUIPMENT: "Во владении"
+ FOREIGN_EQUIPMENT: "Иностранное"
+ OBSOLETE_EQUIPMENT: "Устаревшее"
+ HISTORICAL_TEMPLATE_ENABLED: "Создать шаблон «$ROLE|H$», как можно сильнее совпадающий с «$NAME|H$»."
+ FILTER_FLAG_VARIANT_TOOLTIP: "Щелкните, чтобы включить фильтр по проектам государства $COUNTRY|H$"
+ EQUIPMENT_DESIGNER_NAVAL_DOMINANCE_BREAKDOWN: "§YПревосходство на море§!\nПоказатель превосходства на море, обеспечиваемого этим кораблем."
+ HULL_NAME: "$NAME$: $VALUE|+=0$"
+ DOMINANCE_SPEED_FACTOR: "Макс. скорость: $VALUE|+=%$"
+ DOMINANCE_RANGE_FACTOR: "Макс. дальность: $VALUE|+=%$"
+ DOMINANCE_HG_FACTOR: "Атака тяжелых орудий: $VALUE|+=%$"
+ DOMINANCE_CARRIER_SIZE_FACTOR: "Размер авианосца: $VALUE|+=%$"

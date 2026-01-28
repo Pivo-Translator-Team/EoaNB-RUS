@@ -539,12 +539,12 @@
  austria.405.a: "It is no longer Austria, but Austria-Hungary!"
  austria.405.b: "We have earned a place in the Empire! (Play as Hungary)"
   
- austria.406.t: "Decide on the name of the Empire" #NT!
- austria.406.d: "We need to decide how we want to be called. Our first option is to use our regularly used names. And our second option is to go by our official names. It's in your hand to decide" #NT!
- austria.406.a: "Use the regular names" #NT!
- AUS_regular_name_tt: "[AUS.GetFlag] Austria will be named: §YAustrian Empire§!\n[HUN.GetFlag] Hungary will be named: §YKingdom of Hungary§!" #NT!
- austria.406.b: "Use the official names" #NT!
- AUS_official_name_tt: "[AUS.GetFlag] Austria will be named: §YCisleithania§!\n[HUN.GetFlag] Hungary will be named: §YTransleithania§!" #NT!
+ austria.406.t: "Decide on the name of the Empire"
+ austria.406.d: "We need to decide how we want to be called. Our first option is to use our regularly used names. And our second option is to go by our official names. It's in your hand to decide"
+ austria.406.a: "Use the regular names"
+ AUS_regular_name_tt: "[AUS.GetFlag] Austria will be named: §YAustrian Empire§!\n[HUN.GetFlag] Hungary will be named: §YKingdom of Hungary§!"
+ austria.406.b: "Use the official names"
+ AUS_official_name_tt: "[AUS.GetFlag] Austria will be named: §YCisleithania§!\n[HUN.GetFlag] Hungary will be named: §YTransleithania§!"
   
   ###ALT-HISTORY EVENTS 
   #HUNGARIAN REVOLUTION EVENTS 

@@ -228,8 +228,8 @@
  EOANB_cant_call_neutral_vassal: "Заявили о нетрайлитете"
  EOANB_PRU_civil_war_no_USA_intervention: "Америка Не Будет Вмешиваться"
  embassy_accepted: "Посольство Принято"
- royal_ties: "Royal Ties" #NT!
- royal_marriage: "Royal Marriage" #NT!
+ royal_ties: "Royal Ties"
+ royal_marriage: "Royal Marriage"
  BRA_boundary_treaty: "Договор о Границе"
  BRA_friendship_treaty: "Договор о Дружбе"
  BRA_trade_treaty: "Торговый Договор"
@@ -247,7 +247,7 @@
  decision_cost_CP_50: "£command_power §Y50§!"
  decision_cost_CP_50_blocked: "£command_power §R50§!"
  decision_cost_CP_50_tooltip: "Стоимость принятия решения: £command_power §Y50§!"
- # generic_skip_one_line_tt: " \n" #NT!
+ # generic_skip_one_line_tt: " \n"
   
  color_red: "§R"
  color_yellow: "§Y"

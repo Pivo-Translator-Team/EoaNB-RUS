@@ -25,8 +25,8 @@
  CAM_ask_french_protectorate: "Ask to be a French Protectorate"
  CAM_ask_french_protectorate_tt: "The French leaders will be notified that you request their protection."
   
- FRA_establish_protectorate_lebanon: "Establish protectorate over Mount Lebanon" #NT!
- FRA_establish_protectorate_lebanon_desc: "Convert the region into a French protectorate!" #NT!
+ FRA_establish_protectorate_lebanon: "Establish protectorate over Mount Lebanon"
+ FRA_establish_protectorate_lebanon_desc: "Convert the region into a French protectorate!"
   
  suez_canal_preparations: "Suez Canal Preparations"
  suez_canal_preparations_desc: "Suez Canal Preparations"
@@ -146,17 +146,17 @@
  FRA_decision_category_latin_monetary_union: "Latin Monetary Union"
  FRA_decision_category_latin_monetary_union_desc: "[FRA.GetNameDef] is a powerful country with a prosperous economy. Our never-resting merchants demand more and more trade opportunities and our industry requires resources and foreign markets that our colonies alone cannot fully satisfy. Creating a monetary union could do wonders in facilitating an increase in trade opportunities whilst also increasing our influence in other countries. It is a path surely worth pursuing."
   
- FRA_decision_build_frontier_forts: "Authorise Frontier Fortifications" #NT!
- FRA_decision_build_frontier_forts_desc: "Commission a program of frontier works and batteries along the eastern marches to deter aggression from German states and reassure our border provinces. This will require an important investment from the treasury and years of construction, but will strengthen our strategic posture." #NT!
+ FRA_decision_build_frontier_forts: "Authorise Frontier Fortifications"
+ FRA_decision_build_frontier_forts_desc: "Commission a program of frontier works and batteries along the eastern marches to deter aggression from German states and reassure our border provinces. This will require an important investment from the treasury and years of construction, but will strengthen our strategic posture."
   
- FRA_hold_legislative_session: "Hold Special Legislative Session" #NT!
- FRA_hold_legislative_session_desc: "Call the Corps Législatif into a special sitting, to present controlled reforms and extract a mandate from moderate deputies. It will provide a substantive boost to political capital and legitimacy." #NT!
+ FRA_hold_legislative_session: "Hold Special Legislative Session"
+ FRA_hold_legislative_session_desc: "Call the Corps Législatif into a special sitting, to present controlled reforms and extract a mandate from moderate deputies. It will provide a substantive boost to political capital and legitimacy."
   
- FRA_assemble_generals: "Assemble the Generals" #NT!
- FRA_assemble_generals_desc: "Summon the senior commanders to Paris for parades, honours and private pledges of loyalty. It will cement the Emperor's backers among the officer corps." #NT!
+ FRA_assemble_generals: "Assemble the Generals"
+ FRA_assemble_generals_desc: "Summon the senior commanders to Paris for parades, honours and private pledges of loyalty. It will cement the Emperor's backers among the officer corps."
   
- FRA_form_justice_commission: "Form a Commission of Inquiry" #NT!
- FRA_form_justice_commission_desc: "Create an independent commission to investigate the charges, restore public trust and seal the scandal. Completing the decision restores stability and political capital." #NT!
+ FRA_form_justice_commission: "Form a Commission of Inquiry"
+ FRA_form_justice_commission_desc: "Create an independent commission to investigate the charges, restore public trust and seal the scandal. Completing the decision restores stability and political capital."
   
   
  ################################################## 
@@ -193,8 +193,8 @@
  FRA_extrajudicial_executions_desc: ""
  FRA_a_family_gathering: "A Family Gathering"
  FRA_a_family_gathering_desc: ""
- FRA_reform_the_army: "Reform the Army" #NT!
- FRA_reform_the_army_desc: "Under the guidance of our benevolent Emperor, France must decide whether to modernise the army along the lines of aggressive manoeuvre or to invest in fortifications and artillery. This reform will influence training, procurement and doctrine in the years to come." #NT!
+ FRA_reform_the_army: "Reform the Army"
+ FRA_reform_the_army_desc: "Under the guidance of our benevolent Emperor, France must decide whether to modernise the army along the lines of aggressive manoeuvre or to invest in fortifications and artillery. This reform will influence training, procurement and doctrine in the years to come."
   
   
  FRA_target_the_opposition: "Purge the Anarchists"
@@ -446,27 +446,27 @@
  FRA_focus_administration_of_the_colony_desc: "We deliberate on the future of Algerian administration. One proposed plan advocates centralization, aiming to unify governance and improve coordination across the colony. Another favors decentralization, granting autonomy to address local needs and promote community participation in decision-making. These discussions are pivotal, defining our approach to governance and shaping our interactions with Algerian populations. Centralization promises uniformity and stronger control over policy implementation, ensuring efficient administration and strategic alignment with imperial objectives. Conversely, decentralization offers flexibility and responsiveness to diverse local conditions, fostering local governance and enhancing community engagement. The outcome of these deliberations will significantly impact our colonial policies, influencing our ability to maintain stability and advance our interests in North Africa. This critical juncture reflects our commitment to evolving and adapting our administrative strategies to effectively govern Algeria while navigating complex socio-political landscapes."
  FRA_focus_assimilation_colonial_model_algeria: "Model of Assimilation"
  FRA_focus_assimilation_colonial_model_algeria_desc: "We face crucial decisions regarding the administration of Algeria. Some advocate for assimilating Algeria and its people into French institutions, viewing it as an important part of our nation, as declared by us during our brief rule. Others argue for maintaining Algeria's autonomy, favoring a more independent colonial status that respects local governance and traditions. Another viewpoint proposes a structure akin to a French viceroyalty, balancing local autonomy with centralized oversight. These discussions highlight diverse visions for Algeria's future within our empire. The outcome will shape our colonial policies, influencing governance strategies and relationships with Algerian communities. Our commitment is to navigate these considerations while advancing imperial interests and ensuring stability in North Africa."
- FRA_focus_The_Future_of_Algeria: "The Future of Algeria" #NT!
- FRA_focus_The_Future_of_Algeria_desc: "The long dispute over Algeria’s governance is brought to a close. A disciplined civil administration will replace improvisation, cadastral surveys will regularise tenure, and the civil status of indigenous subjects will stand clearly delineated against that of French citizens. By curbing speculative seizures and affirming metropolitan legal primacy, we bind the province more securely to Imperial policy. The Emperor expects pacification to follow from order: lawful commerce expanded, measured assimilation pursued, and Algeria held fast within the orbit of France." #NT!
+ FRA_focus_The_Future_of_Algeria: "The Future of Algeria"
+ FRA_focus_The_Future_of_Algeria_desc: "The long dispute over Algeria’s governance is brought to a close. A disciplined civil administration will replace improvisation, cadastral surveys will regularise tenure, and the civil status of indigenous subjects will stand clearly delineated against that of French citizens. By curbing speculative seizures and affirming metropolitan legal primacy, we bind the province more securely to Imperial policy. The Emperor expects pacification to follow from order: lawful commerce expanded, measured assimilation pursued, and Algeria held fast within the orbit of France."
  FRA_interests_in_syria: "Interests in Syria"
   
- : "Interests in Syria" #NT!
+  
  FRA_interests_in_syria_desc: ""
  FRA_intervention_lebanon: "Intervention in Lebanon"
  FRA_intervention_lebanon_desc: ""
- nap_france.499.t: "An Ultimatum from Paris" #NT!
- nap_france.499.d: "France has delivered a clear ultimatum to the Sublime Porte: concede a French protectorate over Mount Lebanon to 'ensure the safety of Christians and French interests' — or face the consequences. The Ottoman cabinet must decide whether to yield and avoid immediate confrontation, or refuse and risk a sharp diplomatic rupture with France." #NT!
- nap_france.499.a: "Yield — concede Lebanon to France to avoid immediate conflict." #NT!
- nap_france.499.b: "Refuse — we will not surrender sovereign territory under threat." #NT!
+ nap_france.499.t: "An Ultimatum from Paris"
+ nap_france.499.d: "France has delivered a clear ultimatum to the Sublime Porte: concede a French protectorate over Mount Lebanon to 'ensure the safety of Christians and French interests' — or face the consequences. The Ottoman cabinet must decide whether to yield and avoid immediate confrontation, or refuse and risk a sharp diplomatic rupture with France."
+ nap_france.499.a: "Yield — concede Lebanon to France to avoid immediate conflict."
+ nap_france.499.b: "Refuse — we will not surrender sovereign territory under threat."
   
- nap_france.500.t: "Unrest in Mount Lebanon" #NT!
- nap_france.500.d: "Reports arrive of rising sectarian tensions and fears of massacres in Mount Lebanon. Your colonial and diplomatic advisers press for intervention to protect French interests and co-religionists. How shall France proceed?" #NT!
- nap_france.500.a: "Establish a protectorate over Mount Lebanon. This will commit resources but secure influence." #NT!
- nap_france.500.b: "Withdraw — avoid further entanglements and conserve resources." #NT!
+ nap_france.500.t: "Unrest in Mount Lebanon"
+ nap_france.500.d: "Reports arrive of rising sectarian tensions and fears of massacres in Mount Lebanon. Your colonial and diplomatic advisers press for intervention to protect French interests and co-religionists. How shall France proceed?"
+ nap_france.500.a: "Establish a protectorate over Mount Lebanon. This will commit resources but secure influence."
+ nap_france.500.b: "Withdraw — avoid further entanglements and conserve resources."
   
- FRA_establish_protectorate_lebanon: "Establish protectorate over Mount Lebanon" #NT!
- FRA_establish_protectorate_lebanon_desc: "Convert the region into a French protectorate!" #NT!
- lebanon_protectorate_available_flag: "We can establish a protectorate over Mount Lebanon." #NT!
+ FRA_establish_protectorate_lebanon: "Establish protectorate over Mount Lebanon"
+ FRA_establish_protectorate_lebanon_desc: "Convert the region into a French protectorate!"
+ lebanon_protectorate_available_flag: "We can establish a protectorate over Mount Lebanon."
   
   
   # Africa - Senegal 
@@ -818,13 +818,13 @@
  ################################################## 
   
  FRA_Balance_of_Power_Napoleon: "Napoleon's Political Outlook"
- FRA_BOP_Napoleon_the_Emporer: "Napoleon the Emporer"
- FRA_BOP_Progressive_Emporer: "A Liberal Emporer"
- FRA_BOP_Authoritarian_Emporer: "The Authoritarian Emporer"
- FRA_BOP_Progressive_Emporer_Progressive: "The Progressive Emporer"
- FRA_BOP_Progressive_Emporer_Revolutionary: "Revolutionary Napoleon"
- FRA_BOP_Authoritarian_Emporer_Graceful: "The Graceful Emporer"
- FRA_BOP_Authoritarian_Emporer_Saint_Napoleon: "Saint Napoleon of France"
+ FRA_BOP_Napoleon_the_Emperor: "Napoleon the Emperor" #NT!
+ FRA_BOP_Progressive_Emperor: "A Liberal Emperor" #NT!
+ FRA_BOP_Authoritarian_Emperor: "The Authoritarian Emperor" #NT!
+ FRA_BOP_Progressive_Emperor_Progressive: "The Progressive Emperor" #NT!
+ FRA_BOP_Progressive_Emperor_Revolutionary: "Revolutionary Napoleon" #NT!
+ FRA_BOP_Authoritarian_Emperor_Graceful: "The Graceful Emperor" #NT!
+ FRA_BOP_Authoritarian_Emperor_Saint_Napoleon: "Saint Napoleon of France" #NT!
   
  FRA_BOP_category_decisions: "Balance of Power Decisons"
  FRA_BOP_appease_the_left: "Appease the Workers"
@@ -962,26 +962,26 @@
  FRA_idea_chassepot_gap: "The Chassepot Gap"
  FRA_idea_chassepot_gap_desc: "The Chassepot Rifle has numerous small technological advantages over the rifles of our German adversaries. They add up and might be enough to give our infantry the edge on the battlefield."
   
- : "Legislative Mandate" #NT!
- _desc: "A temporary mandate obtained through controlled legislative theatre. Grants modest stability and war-support while it lasts." #NT!
   
- FRA_idea_military_patronage: "Military Patronage" #NT!
- FRA_idea_military_patronage_desc: "A concentrated season of honours, appointments and dining at the Tuileries for senior officers. Bolsters loyalty and cohesion in the officer corps and reassures conservative backers." #NT!
+ _desc: "A temporary mandate obtained through controlled legislative theatre. Grants modest stability and war-support while it lasts."
   
- FRA_idea_crackdown_stability: "Crackdown: Calm and Fear" #NT!
- : "Short-term internal calm achieved through secret and brutal measures. Legitimacy suffers even as streets are pacified." #NT!
+ FRA_idea_military_patronage: "Military Patronage"
+ FRA_idea_military_patronage_desc: "A concentrated season of honours, appointments and dining at the Tuileries for senior officers. Bolsters loyalty and cohesion in the officer corps and reassures conservative backers."
   
- FRA_idea_patriotic_exhibition: "Patriotic Exhibition" #NT!
- FRA_idea_patriotic_exhibition_desc: "A successful domestic spectacle that improves war support and short-term stability." #NT!
+ FRA_idea_crackdown_stability: "Crackdown: Calm and Fear"
   
- FRA_idea_bonapartist_unity: "Bonapartist Unity" #NT!
- : "A surge in dynastic legitimacy and conservative support following the family's public reunion. Reduced unrest and increased support for the regime." #NT!
   
- FRA_idea_offensive_posture: "Offensive Doctrine" #NT!
- FRA_idea_offensive_posture_desc: "The hawks of the War Ministry demand a doctrine of attack: regiments trained for shock, mobile artillery and bold cavalry action. Our forces will gain in offensive vigour and manoeuvre, but at the cost of weakened entrenchments and reduced staying power in protracted defence." #NT!
+ FRA_idea_patriotic_exhibition: "Patriotic Exhibition"
+ FRA_idea_patriotic_exhibition_desc: "A successful domestic spectacle that improves war support and short-term stability."
   
- FRA_idea_defensive_posture: "Defensive Doctrine" #NT!
- FRA_idea_defensive_posture_desc: "The cautious school presses for forts, fixed batteries and iron logistics. Our armies will be schooled to hold ground immovably and to blunt the enemy's blows, but offensive élan and rapid manoeuvre will be sacrificed." #NT!
+ FRA_idea_bonapartist_unity: "Bonapartist Unity"
+  
+  
+ FRA_idea_offensive_posture: "Offensive Doctrine"
+ FRA_idea_offensive_posture_desc: "The hawks of the War Ministry demand a doctrine of attack: regiments trained for shock, mobile artillery and bold cavalry action. Our forces will gain in offensive vigour and manoeuvre, but at the cost of weakened entrenchments and reduced staying power in protracted defence."
+  
+ FRA_idea_defensive_posture: "Defensive Doctrine"
+ FRA_idea_defensive_posture_desc: "The cautious school presses for forts, fixed batteries and iron logistics. Our armies will be schooled to hold ground immovably and to blunt the enemy's blows, but offensive élan and rapid manoeuvre will be sacrificed."
   
   # Leaders 
  POLITICS_NAPOLEON_III_DESC: "Charles-Louis-Napoleon Bonaparte, also called Louis-Napoleon Bonaparte, is a nephew of the Emperor Napoleon the First as the 3rd son of Louis-Napoleon Bonaparte, called Louis Bonaparte, the King of Holland. Napoleon the First considered him as a grandson as a son of Hortense de Beauharnais the daughter of Josephine. In 1816, all the Bonapartes were banned from France, Charles-Louis-Napoleon Bonaparte was exiled to Arenenberg (Switzerland) with his mother. In 1832 he was awarded Swiss nationality. 1832 was also the year of the death of the son of Napoleon the First. Charles-Louis-Napoleon Bonaparte became the leader of the Bonaparte dynasty as his brothers are also dead. He attempted several uprisings, most notably Strasbourg (1836) and Boulogne-sur-Mer (1840). The 1848 Revolution allowed him to run for deputation. He became the first elected president in 1848. In December 1851 he organized a coup d’état and in December 1852 he became the Emperor Napoleon III. Napoleon III was married in 1853 to Eugénie de Montijo and a son was born in March 1856 who is the godchild of the Pope Pius IX."
@@ -1099,89 +1099,89 @@
  france.813.d: "A long-held dream may finally come true: a canal connecting the Mediterranean Sea with the Red Sea.\n\nAfter obtaining a concession from Sa'id Pasha, the Khedive of Egypt and Sudan, that would allow the construction of a canal across the Egyptian desert connecting the Mediterranean Sea with the Red Sea, a multinational commission drafted a precise plan on how to construct the Suez Canal. After that, former French diplomat Ferdinand de Lesseps, the main initiator behind the plan, successfully managed to secure the funding for the giant project. A Suez Canal Company has been set up to oversee the construction process and will be allowed to operate the canal for 99 years from its opening.\n\nThe final planning for the construction of the Suez Canal has now been completed. The initial phase of construction is ready and the excavation process can finally start."
  france.813.a: "Interesting developments indeed."
   
- france.901.t: "Military takeover in the French Republic" #NT!
- france.901.d: "Following the recent formation of the provisionnal government of France, ministers and socialist leaders were trying to find a compromise, and to agree on a future course of action for the French Republic. However, the military wanted otherwise. Led by the legetimist general Patrice de Mac-Mahon, the French Army has toppled the nascent republican government, and has installed their own military junta. The short-term republic is still defended by many in France, and that coup will probably be followed by more chaos, as France recovers from their war against Prussia." #NT!
- france.901.a: "A short lived republic" #NT!
+ france.901.t: "Military takeover in the French Republic"
+ france.901.d: "Following the recent formation of the provisionnal government of France, ministers and socialist leaders were trying to find a compromise, and to agree on a future course of action for the French Republic. However, the military wanted otherwise. Led by the legetimist general Patrice de Mac-Mahon, the French Army has toppled the nascent republican government, and has installed their own military junta. The short-term republic is still defended by many in France, and that coup will probably be followed by more chaos, as France recovers from their war against Prussia."
+ france.901.a: "A short lived republic"
   
- france.902.t: "Military revolts against the French Republic" #NT!
- france.902.d: "The recent attempt at arresting the French general Patrice de Mac-Mahon has been a disaster for the newly formed French republican government. The Army has organized themselves, and has risen up against the regime. Led by Mac-Mahon himself, the military revolt has taken hold of South-Western France already, and are already fighting against the loyalist army of France. This turn of events is one of the many tribulations France has faced since the start of the war, and it seems unlikely that they will stop anytime soon." #NT!
- france.902.a: "There are some nostalgic of the Empire" #NT!
+ france.902.t: "Military revolts against the French Republic"
+ france.902.d: "The recent attempt at arresting the French general Patrice de Mac-Mahon has been a disaster for the newly formed French republican government. The Army has organized themselves, and has risen up against the regime. Led by Mac-Mahon himself, the military revolt has taken hold of South-Western France already, and are already fighting against the loyalist army of France. This turn of events is one of the many tribulations France has faced since the start of the war, and it seems unlikely that they will stop anytime soon."
+ france.902.a: "There are some nostalgic of the Empire"
   
- france.903.t: "The End of the French Empire" #NT!
- france.903.d: "Following the capture of the French Emperor in this most recent war with the Prussians, a political power vacuum was created with the effective capture of the cheif executive of the french government. Republicans within the French Imperial Government seized the oppurtunity and declared a new Republic. Making this the 3rd French Republic, and, depending on how you count, the 12th French government in 90 years." #NT!
- france.903.a: "A new dawn for France" #NT!
+ france.903.t: "The End of the French Empire"
+ france.903.d: "Following the capture of the French Emperor in this most recent war with the Prussians, a political power vacuum was created with the effective capture of the cheif executive of the french government. Republicans within the French Imperial Government seized the oppurtunity and declared a new Republic. Making this the 3rd French Republic, and, depending on how you count, the 12th French government in 90 years."
+ france.903.a: "A new dawn for France"
   
- france.904.t: "The French Civil War" #NT!
- france.904.d: "" #NT!
- france.904.a: "Split between the Army and the People" #NT!
+ france.904.t: "The French Civil War"
+ france.904.d: ""
+ france.904.a: "Split between the Army and the People"
   
- france.905.t: "Socialist Coup in the French Empire" #NT!
- france.905.d: "After forbidding French syndicalists to come back ffrom the Internationale in London, general strikes have shattered France. The Emperor and the Army have failed to restore order. The royal claimer, the count of Chambord, called Henri V by his supporters have failed to restore the Monarchy.\nFrance is now a Socialist Republic." #NT!
- france.905.a: "The Empire was doomed to fall" #NT!
+ france.905.t: "Socialist Coup in the French Empire"
+ france.905.d: "After forbidding French syndicalists to come back ffrom the Internationale in London, general strikes have shattered France. The Emperor and the Army have failed to restore order. The royal claimer, the count of Chambord, called Henri V by his supporters have failed to restore the Monarchy.\nFrance is now a Socialist Republic."
+ france.905.a: "The Empire was doomed to fall"
   
- nap_france.501.t: "Napoleon III has been assassinated" #NT!
- nap_france.501.d: "On the 14th of January, 1858, the Emperor and the Empress attended the theatre on the Rue Le Pelletier. Orisini and his partners in crime detonated 3 bombs. The first bomb was thrown too far but the second broke glasses and the third destroyed the Imperial luxury salon. The Emperor is dead but the Empress, covered by his blood, is alive. Whereas she is totally shocked by the event, she is the latest hope for the Empire to survive." #NT!
- nap_france.501.a: "A great tragedy" #NT!
+ nap_france.501.t: "Napoleon III has been assassinated"
+ nap_france.501.d: "On the 14th of January, 1858, the Emperor and the Empress attended the theatre on the Rue Le Pelletier. Orisini and his partners in crime detonated 3 bombs. The first bomb was thrown too far but the second broke glasses and the third destroyed the Imperial luxury salon. The Emperor is dead but the Empress, covered by his blood, is alive. Whereas she is totally shocked by the event, she is the latest hope for the Empire to survive."
+ nap_france.501.a: "A great tragedy"
   
- nap_france.503.t: "Napoleon III Attacked With a Bomb" #NT!
- nap_france.503.d: "On the 14th of January, 1858, the Emperor and the Empress attended the theatre on the Rue Le Pelletier. Orisini and his partners in crime detonated 3 bombs. The first bomb was thrown too far but the second broke glasses and the third destroyed the Imperial luxury salon. The Emperor and the Empress are covered in blood but they are safe and sound. The steel walls of the car have protected them. The Imperial couple continued on to the theatre to show they are still alive." #NT!
- nap_france.503.a: "How will the French Empire react ?" #NT!
+ nap_france.503.t: "Napoleon III Attacked With a Bomb"
+ nap_france.503.d: "On the 14th of January, 1858, the Emperor and the Empress attended the theatre on the Rue Le Pelletier. Orisini and his partners in crime detonated 3 bombs. The first bomb was thrown too far but the second broke glasses and the third destroyed the Imperial luxury salon. The Emperor and the Empress are covered in blood but they are safe and sound. The steel walls of the car have protected them. The Imperial couple continued on to the theatre to show they are still alive."
+ nap_france.503.a: "How will the French Empire react ?"
   
- france.255.t: "End of the Cochinchina war" #NT!
- france.255.d: "The treaty of Saigon ended the Cochinchina war.\nFrance and Spain will get war reparations.\nSpain was not interested by any territorial gains.\nBut France has obtained the provinces under its control in the lower Cochinchina." #NT!
- france.255.a: "France has a new colony" #NT!
+ france.255.t: "End of the Cochinchina war"
+ france.255.d: "The treaty of Saigon ended the Cochinchina war.\nFrance and Spain will get war reparations.\nSpain was not interested by any territorial gains.\nBut France has obtained the provinces under its control in the lower Cochinchina."
+ france.255.a: "France has a new colony"
   
- france.256.t: "End of the Cochinchina war" #NT!
- france.256.d: "The treaty of Saigon ended the Cochinchina war.\nFrance and Spain will get war reparations.\nSpain and France were not interested by any territorial gains." #NT!
- france.256.a: "A long war for few results" #NT!
+ france.256.t: "End of the Cochinchina war"
+ france.256.d: "The treaty of Saigon ended the Cochinchina war.\nFrance and Spain will get war reparations.\nSpain and France were not interested by any territorial gains."
+ france.256.a: "A long war for few results"
   
- nap_france.28.t: "The Besançon Universal Exposition" #NT!
- nap_france.28.d: "This year, Besançon organized a universal exposition to present the newest advancements in horlogy and industry. Even if it's not a true universal exposition organized by the Bureau International des Expositions (BIE), the Besançon exposition is sponsored by Prince Napoleon." #NT!
- nap_france.28.a: "We can use a train to go to this exposition" #NT!
+ nap_france.28.t: "The Besançon Universal Exposition"
+ nap_france.28.d: "This year, Besançon organized a universal exposition to present the newest advancements in horlogy and industry. Even if it's not a true universal exposition organized by the Bureau International des Expositions (BIE), the Besançon exposition is sponsored by Prince Napoleon."
+ nap_france.28.a: "We can use a train to go to this exposition"
   
- nap_france.27.t: "Final transfer of Napoleon I" #NT!
- nap_france.27.d: "Napoleon's ashes were returned to France in 1840. The coffin has been set in the chapelle Saint Jérôme. The final coffin is finished, and the ashes will be transferred to it under the Invalides Dome in the presence of Napoleon III." #NT!
- nap_france.27.a: "Now he is home" #NT!
+ nap_france.27.t: "Final transfer of Napoleon I"
+ nap_france.27.d: "Napoleon's ashes were returned to France in 1840. The coffin has been set in the chapelle Saint Jérôme. The final coffin is finished, and the ashes will be transferred to it under the Invalides Dome in the presence of Napoleon III."
+ nap_france.27.a: "Now he is home"
   
- nap_france.29.t: "First woman with bachelor degree" #NT!
- nap_france.29.d: "In 1844, Julie-Victoire Daubié got a teacher's certificate of ability which allows her to become a governess. In 1859, she wrote a 300-pages essay \"The Poor Woman in the 19th Century. Female Conditions and Resources\" and won the competition of the Imperial Academy of Science and Fine Letters of Lyon. This year, she presented to the Baccalaureat exam with the Lyon University and was granted her degree." #NT!
- nap_france.29.a: "I wait her news article about women's conditions" #NT!
+ nap_france.29.t: "First woman with bachelor degree"
+ nap_france.29.d: "In 1844, Julie-Victoire Daubié got a teacher's certificate of ability which allows her to become a governess. In 1859, she wrote a 300-pages essay \"The Poor Woman in the 19th Century. Female Conditions and Resources\" and won the competition of the Imperial Academy of Science and Fine Letters of Lyon. This year, she presented to the Baccalaureat exam with the Lyon University and was granted her degree."
+ nap_france.29.a: "I wait her news article about women's conditions"
   
- nap_france.30.t: "Restoration of Notre-Dame de Paris" #NT!
- nap_france.30.d: "Made famous by Victor Hugo's 1831 novel 'The Hunchback of Notre-Dame', the beautiful cathedral on Île de la Cité in the middle of the Seine was the coronation site of Napoleon Bonaparte. The cathedral has now been restored after 20 years of work directed by Eugène Viollet-le-Duc (and the late Jean-Baptiste Lasus). The original spire from the 13th century, which was removed in 1786, has been replaced by a new one." #NT!
- nap_france.30.a: "The new spire will be visible for (1.5) centuries!" #NT!
+ nap_france.30.t: "Restoration of Notre-Dame de Paris"
+ nap_france.30.d: "Made famous by Victor Hugo's 1831 novel 'The Hunchback of Notre-Dame', the beautiful cathedral on Île de la Cité in the middle of the Seine was the coronation site of Napoleon Bonaparte. The cathedral has now been restored after 20 years of work directed by Eugène Viollet-le-Duc (and the late Jean-Baptiste Lasus). The original spire from the 13th century, which was removed in 1786, has been replaced by a new one."
+ nap_france.30.a: "The new spire will be visible for (1.5) centuries!"
   
- france.171.t: "Napoleon III is ill!" #NT!
- france.171.d: "The doctors discovered a bladder stone in Napoleon III, responsible for numerous severe pain in the lower abdomen and urinary discomfort. The 6 years spent imprisoned at Ham between 1840 and 1846 have fragilized his health. Combining rheumatism, haemorrhoidal attacks, digestive problems and gout attacks, the Emperor went to Plombières and then Vichy each year for a cure, making these two towns famous. But it is not enough, he has more and more crisis." #NT!
- france.171.a: "Nobody must know." #NT!
+ france.171.t: "Napoleon III is ill!"
+ france.171.d: "The doctors discovered a bladder stone in Napoleon III, responsible for numerous severe pain in the lower abdomen and urinary discomfort. The 6 years spent imprisoned at Ham between 1840 and 1846 have fragilized his health. Combining rheumatism, haemorrhoidal attacks, digestive problems and gout attacks, the Emperor went to Plombières and then Vichy each year for a cure, making these two towns famous. But it is not enough, he has more and more crisis."
+ france.171.a: "Nobody must know."
   
- france.172.t: "Discomfort during public appearance" #NT!
- france.172.d: "The first symptoms of illness were apparent today during a public appearance. It is demotivating for our people. We should really think how to secure future of France. The Prince is only 7 years old ..." #NT!
- france.172.a: "It is getting worse ..." #NT!
+ france.172.t: "Discomfort during public appearance"
+ france.172.d: "The first symptoms of illness were apparent today during a public appearance. It is demotivating for our people. We should really think how to secure future of France. The Prince is only 7 years old ..."
+ france.172.a: "It is getting worse ..."
   
- france.173.t: "Eugenie is preparing to assume a regency" #NT!
- france.173.d: "Napoleon III moves slowly with a cane but the Empress support him and now will be prepared to support the Empire.\nWe have to prepare for the future like our Empress! The Empire has to be secured, so the decision about regency is very important and should prepare France for worse times." #NT!
- france.173.a: "Thank God for our Empress!" #NT!
+ france.173.t: "Eugenie is preparing to assume a regency"
+ france.173.d: "Napoleon III moves slowly with a cane but the Empress support him and now will be prepared to support the Empire.\nWe have to prepare for the future like our Empress! The Empire has to be secured, so the decision about regency is very important and should prepare France for worse times."
+ france.173.a: "Thank God for our Empress!"
   
- france.174.t: "Napoleon and his urinary problems..." #NT!
- france.174.d: "Napoleon III is at his worst. But no one wants to take the risk of operating on him. Senate President Troplong and Field Marshal Niel, both also suffering from a bladder stone, died as a result of the operation. The seriousness of the disease is underestimated for "the greater good".\nHorseback riding is very painful for Napoleon III, people worried. Especially when our relations with Prussia and it's allies are getting worse. Let's hope it won't negatively influence our military during the coming war." #NT!
- france.174.a: "We hope that it won't influence him while commanding our forces" #NT!
+ france.174.t: "Napoleon and his urinary problems..."
+ france.174.d: "Napoleon III is at his worst. But no one wants to take the risk of operating on him. Senate President Troplong and Field Marshal Niel, both also suffering from a bladder stone, died as a result of the operation. The seriousness of the disease is underestimated for "the greater good".\nHorseback riding is very painful for Napoleon III, people worried. Especially when our relations with Prussia and it's allies are getting worse. Let's hope it won't negatively influence our military during the coming war."
+ france.174.a: "We hope that it won't influence him while commanding our forces"
   
- nap_france.32.t: "Granier Family in Les Bouillens estate" #NT!
- nap_france.32.d: "" #NT!
- nap_france.32.a: "What a wonderful news!" #NT!
+ nap_france.32.t: "Rock of Solutré Site"
+ nap_france.32.d: ""
+ nap_france.32.a: "Good to hear"
   
- nap_france.32.t: "Rock of Solutré Site" #NT!
- nap_france.32.d: "" #NT!
- nap_france.32.a: "Good to hear" #NT!
+ nap_france.32.t: "Rock of Solutré Site"
+ nap_france.32.d: ""
+ nap_france.32.a: "Good to hear"
   
- france.175.t: "Liver Operation Fails" #NT!
- france.175.d: "The surgery on Emperor Napoleon III has narrowly succeeded in saving his life, but the outcome is far from ideal. The emperor emerges weakened and visibly aged, unable to fully resume his former duties. Though he still holds the imperial title, power now increasingly shifts to his advisors and inner circle. The court is uneasy, and doubts grow about the long-term stability of the Empire." #NT!
- france.175.a: "He lives, but the Empire must adapt." #NT!
+ france.175.t: "Liver Operation Fails"
+ france.175.d: "The surgery on Emperor Napoleon III has narrowly succeeded in saving his life, but the outcome is far from ideal. The emperor emerges weakened and visibly aged, unable to fully resume his former duties. Though he still holds the imperial title, power now increasingly shifts to his advisors and inner circle. The court is uneasy, and doubts grow about the long-term stability of the Empire."
+ france.175.a: "He lives, but the Empire must adapt."
   
- france.176.t: "Liver Operation Succeeds" #NT!
- france.176.d: "Against all expectations, the emperor’s surgery has been a success. Napoleon III has recovered swiftly and now returns to the reins of power with newfound vigor. His appearance in public has rallied the French people, and his renewed leadership has breathed fresh life into the empire. The future of France looks stronger than ever under his restored command." #NT!
- france.176.a: "Long live the Emperor!" #NT!
+ france.176.t: "Liver Operation Succeeds"
+ france.176.d: "Against all expectations, the emperor’s surgery has been a success. Napoleon III has recovered swiftly and now returns to the reins of power with newfound vigor. His appearance in public has rallied the French people, and his renewed leadership has breathed fresh life into the empire. The future of France looks stronger than ever under his restored command."
+ france.176.a: "Long live the Emperor!"
   
    # Event Text 
  nap_france.3.t: "The Expansion of the LGOC"
@@ -1435,10 +1435,10 @@
  nap_france.406.d: ""
  nap_france.406.a: "This will be a big shame for France"
   
- nap_france.820.t: "Jean Laborde Establishes the Consulate" #NT!
- nap_france.820.d: "Long a figure of curiosity and utility at the Merina court, Jean Laborde has signalled readiness to formalise France's presence upon Madagascar. A modest consular post in Tananarive would grant us political insight and commercial leverage. Yet a formal appointment also risks provoking rival interests and awakening native suspicion. Shall the Emperor’s will be made manifest now, or shall we delay and observe further?" #NT!
- nap_france.820.a: "Appoint Laborde at once—Imperial prestige demands it." #NT!
- nap_france.820.b: "Not yet; a discreet survey will suffice for now." #NT!
+ nap_france.820.t: "Jean Laborde Establishes the Consulate"
+ nap_france.820.d: "Long a figure of curiosity and utility at the Merina court, Jean Laborde has signalled readiness to formalise France's presence upon Madagascar. A modest consular post in Tananarive would grant us political insight and commercial leverage. Yet a formal appointment also risks provoking rival interests and awakening native suspicion. Shall the Emperor’s will be made manifest now, or shall we delay and observe further?"
+ nap_france.820.a: "Appoint Laborde at once—Imperial prestige demands it."
+ nap_france.820.b: "Not yet; a discreet survey will suffice for now."
   
    #CARBONARA RISORGIMENTO 
   
@@ -1722,17 +1722,17 @@
  fra_abolished_kowtow_for_us: "Abolished Kowtow for Us"
  fra_xenophobic_monarch: "Xenophobic Monarch"
  fra_ottoman_infantry_arms_deal: "Recent Arms Deal"
- fra_hai_french_slave_trade: "Slave Trade" #NT!
- fra_warm_reception: "Warm Reception" #NT!
- fra_warm_reception_desc: "A temporary improvement in opinion after measured reforms or reassuring diplomatic gestures." #NT!
- fra_wary: "Wary Response" #NT!
- fra_wary_desc: "A cautious, slightly negative reaction to perceived militarisation or assertive moves." #NT!
- fra_distanced: "Diplomatic Distance" #NT!
- fra_distanced_desc: "A prolonged cooling of relations following scandalous or extra-legal activity." #NT!
- fra_walewski_accepted: "Walewski Received Favourably" #NT!
- fra_walewski_accepted_desc: "Recent diplomacy in London has warmed relations." #NT!
- fra_walewski_denied: "Walewski Rebuffed" #NT!
- fra_walewski_denied_desc: "Our envoy’s démarche was declined, chilling relations." #NT!
+ fra_hai_french_slave_trade: "Slave Trade"
+ fra_warm_reception: "Warm Reception"
+ fra_warm_reception_desc: "A temporary improvement in opinion after measured reforms or reassuring diplomatic gestures."
+ fra_wary: "Wary Response"
+ fra_wary_desc: "A cautious, slightly negative reaction to perceived militarisation or assertive moves."
+ fra_distanced: "Diplomatic Distance"
+ fra_distanced_desc: "A prolonged cooling of relations following scandalous or extra-legal activity."
+ fra_walewski_accepted: "Walewski Received Favourably"
+ fra_walewski_accepted_desc: "Recent diplomacy in London has warmed relations."
+ fra_walewski_denied: "Walewski Rebuffed"
+ fra_walewski_denied_desc: "Our envoy’s démarche was declined, chilling relations."
  ################################################# 
  ################################################## 
  #           FRENCH EMPIRE 
@@ -1744,176 +1744,176 @@
  ################################################## 
   
   # Events: france.100 - france.105 
- france.100.t: "A Choice for the Emperor" #NT!
- france.100.d: "The Orsini attempt has rocked Paris. Napoléon III must choose: stage reforms at the Palais Bourbon to placate moderates, rally the army at the Champ de Mars to reassure order, or crush conspirators by secret means. The Empress and ministers urge caution; the salons and the Rue de Rivoli already whisper of consequences. Each course will reshape the character of the Empire." #NT!
- france.100.a: "Call a Special Session at the Palais Bourbon and offer measured reforms" #NT!
- france.100.b: "Rally the army at the Champ de Mars and reward the generals" #NT!
- france.100.c: "Authorize the préfets to purge conspirators in secret" #NT!
+ france.100.t: "A Choice for the Emperor"
+ france.100.d: "The Orsini attempt has rocked Paris. Napoléon III must choose: stage reforms at the Palais Bourbon to placate moderates, rally the army at the Champ de Mars to reassure order, or crush conspirators by secret means. The Empress and ministers urge caution; the salons and the Rue de Rivoli already whisper of consequences. Each course will reshape the character of the Empire."
+ france.100.a: "Call a Special Session at the Palais Bourbon and offer measured reforms"
+ france.100.b: "Rally the army at the Champ de Mars and reward the generals"
+ france.100.c: "Authorize the préfets to purge conspirators in secret"
   
- france.101.t: "A Special Sitting at the Palais Bourbon" #NT!
- france.101.d: "A carefully choreographed sitting of the Corps Législatif is planned; measured concessions are offered as political theatre to re-establish the Emperor's authority among deputies and the capital's bourgeoisie." #NT!
- france.101.a: "Open the Palais Bourbon session and present the staged reforms" #NT!
- france.101.b: "Postpone, refine the text and rehearse the deputies" #NT!
+ france.101.t: "A Special Sitting at the Palais Bourbon"
+ france.101.d: "A carefully choreographed sitting of the Corps Législatif is planned; measured concessions are offered as political theatre to re-establish the Emperor's authority among deputies and the capital's bourgeoisie."
+ france.101.a: "Open the Palais Bourbon session and present the staged reforms"
+ france.101.b: "Postpone, refine the text and rehearse the deputies"
   
- france.102.t: "Marshals and Generals in Paris" #NT!
- france.102.d: "Senior commanders converge on the Tuileries and Champ de Mars — their goodwill is valuable, but the spectacle must be weighed against opinion in the chambers and among the people. The préfets and the administration will see the parades made neat, but Paris observes every pageant closely." #NT!
- france.102.a: "Grant honours at the Tuileries and secure the generals' pledges" #NT!
- france.102.b: "Keep ceremonies short and return the army to its barracks" #NT!
+ france.102.t: "Marshals and Generals in Paris"
+ france.102.d: "Senior commanders converge on the Tuileries and Champ de Mars — their goodwill is valuable, but the spectacle must be weighed against opinion in the chambers and among the people. The préfets and the administration will see the parades made neat, but Paris observes every pageant closely."
+ france.102.a: "Grant honours at the Tuileries and secure the generals' pledges"
+ france.102.b: "Keep ceremonies short and return the army to its barracks"
   
- france.103.t: "Patriotic Initiatives" #NT!
- france.103.d: "National exhibitions, colonial pageants and diplomatic gestures — staged with imperial flair — can rekindle popular pride and divert attention from domestic unease. Flags, regimental banners and even colonial contingents from Algeria lend spectacle." #NT!
- france.103.a: "Launch a national exhibition and colonial parade" #NT!
- france.103.b: "Issue proclamations and modest celebrations" #NT!
+ france.103.t: "Patriotic Initiatives"
+ france.103.d: "National exhibitions, colonial pageants and diplomatic gestures — staged with imperial flair — can rekindle popular pride and divert attention from domestic unease. Flags, regimental banners and even colonial contingents from Algeria lend spectacle."
+ france.103.a: "Launch a national exhibition and colonial parade"
+ france.103.b: "Issue proclamations and modest celebrations"
   
- france.104.t: "A Secret Directive" #NT!
- france.104.d: "A darker order: clandestine operations and summary measures handled quietly by préfets, the Sûreté and police into the night. Speedy and efficient, such methods risk feeding the salons and foreign presses and poisoning the Emperor's standing if exposed. This is the sort of thing the Rue de Rivoli would whisper about and which even the Empress might find troubling." #NT!
- france.104.a: "Authorize clandestine measures through the préfets" #NT!
- france.104.b: "Convene a public commission of inquiry and place suspects on trial" #NT!
+ france.104.t: "A Secret Directive"
+ france.104.d: "A darker order: clandestine operations and summary measures handled quietly by préfets, the Sûreté and police into the night. Speedy and efficient, such methods risk feeding the salons and foreign presses and poisoning the Emperor's standing if exposed. This is the sort of thing the Rue de Rivoli would whisper about and which even the Empress might find troubling."
+ france.104.a: "Authorize clandestine measures through the préfets"
+ france.104.b: "Convene a public commission of inquiry and place suspects on trial"
   
- france.105.t: "A Family Gathering at the Tuileries" #NT!
- france.105.d: "A stately reunion at the Tuileries of the House of Bonaparte, provincial notables and city grandees — pageantry, speeches and favours meant to stitch together support and present the Emperor as the guarantor of order. Empress Eugénie will lend imperial grace to the ceremonies; the spectacle calls to mind the courts of old and the promise of dynastic continuity." #NT!
- france.105.a: "Stage the grand gathering" #NT!
- france.105.b: "Hold a modest commemoration" #NT!
+ france.105.t: "A Family Gathering at the Tuileries"
+ france.105.d: "A stately reunion at the Tuileries of the House of Bonaparte, provincial notables and city grandees — pageantry, speeches and favours meant to stitch together support and present the Emperor as the guarantor of order. Empress Eugénie will lend imperial grace to the ceremonies; the spectacle calls to mind the courts of old and the promise of dynastic continuity."
+ france.105.a: "Stage the grand gathering"
+ france.105.b: "Hold a modest commemoration"
   
    # Follow-up events 
- france.110.t: "Foreign Reactions" #NT!
- france.110.d: "The staged reforms and the Emperor's show of moderation have been noted by London and other courts — a modest easing of suspicion that helps France's diplomatic posture." #NT!
- france.110.a: "A cautious sigh from abroad" #NT!
+ france.110.t: "Foreign Reactions"
+ france.110.d: "The staged reforms and the Emperor's show of moderation have been noted by London and other courts — a modest easing of suspicion that helps France's diplomatic posture."
+ france.110.a: "A cautious sigh from abroad"
   
- france.111.t: "Generals in the Capital" #NT!
- france.111.d: "The parade and audiences given to commanders in Paris have been watched by foreign chancelleries; Berlin interprets this as a nervous asserting of military prestige." #NT!
- france.111.a: "Remarked in Berlin" #NT!
+ france.111.t: "Generals in the Capital"
+ france.111.d: "The parade and audiences given to commanders in Paris have been watched by foreign chancelleries; Berlin interprets this as a nervous asserting of military prestige."
+ france.111.a: "Remarked in Berlin"
   
- france.112.t: "News of a Crackdown" #NT!
- france.112.d: "Whispers of secret detentions and shadow tribunals have reached the foreign press. Diplomats signal discomfort and even some clubs murmur uneasily; the regime's critics sharpen their pens." #NT!
- france.112.a: "Diplomatic coolness and a stir at home" #NT!
+ france.112.t: "News of a Crackdown"
+ france.112.d: "Whispers of secret detentions and shadow tribunals have reached the foreign press. Diplomats signal discomfort and even some clubs murmur uneasily; the regime's critics sharpen their pens."
+ france.112.a: "Diplomatic coolness and a stir at home"
   
- france.113.t: "Colonial Pageantry" #NT!
- france.113.d: "Public exhibitions and colonial pageants have brightened the capital and produced a small wave of patriotic fervour; abroad it reads as a confident, if cautious, display." #NT!
- france.113.a: "Appeals to pride" #NT!
+ france.113.t: "Colonial Pageantry"
+ france.113.d: "Public exhibitions and colonial pageants have brightened the capital and produced a small wave of patriotic fervour; abroad it reads as a confident, if cautious, display."
+ france.113.a: "Appeals to pride"
   
- france.114.t: "Dynastic Reassurance" #NT!
- france.114.d: "The family gathering has sent a clear signal: the dynasty and its supporters remain united. Several courts adjust their expectations accordingly." #NT!
- france.114.a: "Diplomatic calm" #NT!
+ france.114.t: "Dynastic Reassurance"
+ france.114.d: "The family gathering has sent a clear signal: the dynasty and its supporters remain united. Several courts adjust their expectations accordingly."
+ france.114.a: "Diplomatic calm"
   
    # Scandal events and decisions 
- france.120.t: "Leaks and Public Outrage" #NT!
- france.120.d: "The presses and cafés hum with stories of secret arrests and rough justice. Deputies and clubs press for explanations: a scandal of this nature tests the palace's relationships with conservative notables and the restless republican press alike." #NT!
- france.120.a: "Calls for a public inquiry and a calm answer" #NT!
+ france.120.t: "Leaks and Public Outrage"
+ france.120.d: "The presses and cafés hum with stories of secret arrests and rough justice. Deputies and clubs press for explanations: a scandal of this nature tests the palace's relationships with conservative notables and the restless republican press alike."
+ france.120.a: "Calls for a public inquiry and a calm answer"
   
- france.121.t: "Pressure Builds" #NT!
- france.121.d: "Letters, petitions and street meetings multiply. The Emperor must choose between forming a composed commission of jurists and magistrates to answer the public, or resisting entirely and risking continued agitation in the cafés and chambers." #NT!
- france.121.a: "The capital demands a composed commission" #NT!
+ france.121.t: "Pressure Builds"
+ france.121.d: "Letters, petitions and street meetings multiply. The Emperor must choose between forming a composed commission of jurists and magistrates to answer the public, or resisting entirely and risking continued agitation in the cafés and chambers."
+ france.121.a: "The capital demands a composed commission"
   
- france.122.t: "Commission Established" #NT!
- france.122.d: "A composed commission — jurists, magistrates and respected figures — is convened and their measured report reassures many. A welcomed balm for foreign courts and for cautious deputies in the Palais Bourbon." #NT!
- france.122.a: "The commission reports; antiquated wounds are closed" #NT!
+ france.122.t: "Commission Established"
+ france.122.d: "A composed commission — jurists, magistrates and respected figures — is convened and their measured report reassures many. A welcomed balm for foreign courts and for cautious deputies in the Palais Bourbon."
+ france.122.a: "The commission reports; antiquated wounds are closed"
   
   # Events: Law of General Security chain 
- france.1.t: "The Law of General Security" #NT!
- france.1.d: "Following the Orsini affair and the deepening unrest, the Emperor's ministers have drafted a sweeping Law of General Security. It permits the internment, exile, or deportation of suspects without the ordinary guarantees of justice. Conservatives hail it as a shield for the Empire; liberals decry it as a return to arbitrary rule. The Chamber murmurs; Paris watches." #NT!
- france.1.a: "Promulgate the law—order before all" #NT!
- france.1.b: "No—France shall not return to arbitrariness" #NT!
+ france.1.t: "The Law of General Security"
+ france.1.d: "Following the Orsini affair and the deepening unrest, the Emperor's ministers have drafted a sweeping Law of General Security. It permits the internment, exile, or deportation of suspects without the ordinary guarantees of justice. Conservatives hail it as a shield for the Empire; liberals decry it as a return to arbitrary rule. The Chamber murmurs; Paris watches."
+ france.1.a: "Promulgate the law—order before all"
+ france.1.b: "No—France shall not return to arbitrariness"
   
- france.2.t: "Tighten Public Instruction" #NT!
- france.2.d: "The Council now proposes to curb the excesses of philosophy and subversive instruction in lycées and faculties. The Ministry will direct curricula and suppress doctrines deemed corrosive to faith and loyalty. Our supporters predict a calmer youth; the opposition foresees a dimming of France’s intellectual light." #NT!
- france.2.a: "Curtail the teachings of philosophy" #NT!
- france.2.b: "Schools must remain free in spirit" #NT!
+ france.2.t: "Tighten Public Instruction"
+ france.2.d: "The Council now proposes to curb the excesses of philosophy and subversive instruction in lycées and faculties. The Ministry will direct curricula and suppress doctrines deemed corrosive to faith and loyalty. Our supporters predict a calmer youth; the opposition foresees a dimming of France’s intellectual light."
+ france.2.a: "Curtail the teachings of philosophy"
+ france.2.b: "Schools must remain free in spirit"
   
- france.3.t: "Require Legislative Allegiance" #NT!
- france.3.d: "To consolidate the Empire’s authority, certain deputies and senators might be required to pledge explicit allegiance to the imperial constitution. The measure would bind the Chambers to the Emperor’s policy—but risks igniting accusations of servility and despotism." #NT!
- france.3.a: "Bind the Chambers to the Emperor" #NT!
- france.3.b: "We rule by persuasion, not compulsion" #NT!
+ france.3.t: "Require Legislative Allegiance"
+ france.3.d: "To consolidate the Empire’s authority, certain deputies and senators might be required to pledge explicit allegiance to the imperial constitution. The measure would bind the Chambers to the Emperor’s policy—but risks igniting accusations of servility and despotism."
+ france.3.a: "Bind the Chambers to the Emperor"
+ france.3.b: "We rule by persuasion, not compulsion"
   
   # Events: Walewski to Britain 
- france.20.t: "Walewski’s Mission to Britain" #NT!
- france.20.d: "Count Alexandre Walewski departs for London bearing the Emperor’s reassurances and requests. His task: soothe British anxieties, negotiate indulgences, and secure tacit cooperation. The courtiers whisper; Europe leans in." #NT!
- france.20.ok: "Proceed" #NT!
+ france.20.t: "Walewski’s Mission to Britain"
+ france.20.d: "Count Alexandre Walewski departs for London bearing the Emperor’s reassurances and requests. His task: soothe British anxieties, negotiate indulgences, and secure tacit cooperation. The courtiers whisper; Europe leans in."
+ france.20.ok: "Proceed"
   
- france.21.t: "French Envoy in London" #NT!
- france.21.d: "Count Walewski presents the Emperor’s views with elegance and firmness. He hints at the need for British goodwill—and forbearance—toward imperial measures taken in the interest of security. Shall we meet him halfway?" #NT!
- france.21.a: "Receive Walewski warmly and oblige France" #NT!
- france.21.b: "Decline his overtures—Britain bows to none" #NT!
- france.22.t: "London Receives Walewski" #NT!
- france.22.d: "Word reaches the Tuileries: the British Cabinet received Count Walewski favourably. Concessions were made in tone and spirit, if not in parchment. For now, the Channel grows calmer; our measures may proceed with less foreign ire." #NT!
- france.23.t: "Walewski Rebuffed in London" #NT!
- france.23.d: "Dispatches from our envoy report a cool audience and a firmer British posture. London declines to indulge the Empire’s request. Relations have chilled; our margin to act narrows in the face of British scrutiny." #NT!
- france.22.ok: "Understood" #NT!
- france.23.ok: "Unfortunate" #NT!
+ france.21.t: "French Envoy in London"
+ france.21.d: "Count Walewski presents the Emperor’s views with elegance and firmness. He hints at the need for British goodwill—and forbearance—toward imperial measures taken in the interest of security. Shall we meet him halfway?"
+ france.21.a: "Receive Walewski warmly and oblige France"
+ france.21.b: "Decline his overtures—Britain bows to none"
+ france.22.t: "London Receives Walewski"
+ france.22.d: "Word reaches the Tuileries: the British Cabinet received Count Walewski favourably. Concessions were made in tone and spirit, if not in parchment. For now, the Channel grows calmer; our measures may proceed with less foreign ire."
+ france.23.t: "Walewski Rebuffed in London"
+ france.23.d: "Dispatches from our envoy report a cool audience and a firmer British posture. London declines to indulge the Empire’s request. Relations have chilled; our margin to act narrows in the face of British scrutiny."
+ france.22.ok: "Understood"
+ france.23.ok: "Unfortunate"
   
   # Targeted notifications for affected countries 
- france.110_eng.t: "Notes from Paris" #NT!
- france.110_eng.d: "London notices the staged reforms in Paris and records a modest easing of suspicion toward the Empire." #NT!
- france.110_eng.a: "A cautious British notice" #NT!
+ france.110_eng.t: "Notes from Paris"
+ france.110_eng.d: "London notices the staged reforms in Paris and records a modest easing of suspicion toward the Empire."
+ france.110_eng.a: "A cautious British notice"
   
- france.110_aus.t: "Notes from Paris" #NT!
- france.110_aus.d: "Viennese circles register the Emperor's measured gestures: for now the court breathes easier." #NT!
- france.110_aus.a: "A cautious Viennese notice" #NT!
+ france.110_aus.t: "Notes from Paris"
+ france.110_aus.d: "Viennese circles register the Emperor's measured gestures: for now the court breathes easier."
+ france.110_aus.a: "A cautious Viennese notice"
   
- france.111_pru.t: "A Parade to Watch" #NT!
- france.111_pru.d: "Berlin comments on the honours given to French commanders — a public display of military prestige that gives the chancelleries something to note." #NT!
- france.111_pru.a: "A brief dispatch from Berlin" #NT!
+ france.111_pru.t: "A Parade to Watch"
+ france.111_pru.d: "Berlin comments on the honours given to French commanders — a public display of military prestige that gives the chancelleries something to note."
+ france.111_pru.a: "A brief dispatch from Berlin"
   
- france.112_eng.t: "Disturbing Rumours from Paris" #NT!
- france.112_eng.d: "Reports of clandestine detentions and shadow tribunals in Paris have reached the British press and diplomatic salons; ministers express their concern." #NT!
- france.112_eng.a: "A worrying report" #NT!
+ france.112_eng.t: "Disturbing Rumours from Paris"
+ france.112_eng.d: "Reports of clandestine detentions and shadow tribunals in Paris have reached the British press and diplomatic salons; ministers express their concern."
+ france.112_eng.a: "A worrying report"
   
- france.113_eng.t: "Colonial Pageantry Observed" #NT!
- france.113_eng.d: "London notes France's public exhibitions and colonial pageantry — a confident display that registers with observers." #NT!
- france.113_eng.a: "A short dispatch" #NT!
+ france.113_eng.t: "Colonial Pageantry Observed"
+ france.113_eng.d: "London notes France's public exhibitions and colonial pageantry — a confident display that registers with observers."
+ france.113_eng.a: "A short dispatch"
   
- france.114_eng.t: "Dynastic Reassurance Noted" #NT!
- france.114_eng.d: "British courts and papers note the Emperor's family reunion and the show of dynastic unity; for many it registers as a signal of stability." #NT!
- france.114_eng.a: "A polite notice" #NT!
+ france.114_eng.t: "Dynastic Reassurance Noted"
+ france.114_eng.d: "British courts and papers note the Emperor's family reunion and the show of dynastic unity; for many it registers as a signal of stability."
+ france.114_eng.a: "A polite notice"
   
- france.114_pru.t: "Dynastic Reassurance Noted" #NT!
- france.114_pru.d: "Berlin notes the public reunion of the Bonapartes and the signal it sends to Europe's conservative courts." #NT!
- france.114_pru.a: "A brief dispatch" #NT!
+ france.114_pru.t: "Dynastic Reassurance Noted"
+ france.114_pru.d: "Berlin notes the public reunion of the Bonapartes and the signal it sends to Europe's conservative courts."
+ france.114_pru.a: "A brief dispatch"
   
   ##################################### 
   
- france.201.t: "The Invasion of Kabylia" #NT!
- france.201.d: "A fortified force of around 5,000 Kabyles have been holding out in the Kabylia region of our Algerian colony for some time now. We were informed today that General Randon, who took over the command of the troops in Algeria in May, has completed his preparations to finish off the last pocket of resistance in Algeria. We expect this final conquest of Algeria to be swift, the resistance in Kabylia should be cleared out shortly." #NT!
- france.201.a: "Well, hopefully." #NT!
+ france.201.t: "The Invasion of Kabylia"
+ france.201.d: "A fortified force of around 5,000 Kabyles have been holding out in the Kabylia region of our Algerian colony for some time now. We were informed today that General Randon, who took over the command of the troops in Algeria in May, has completed his preparations to finish off the last pocket of resistance in Algeria. We expect this final conquest of Algeria to be swift, the resistance in Kabylia should be cleared out shortly."
+ france.201.a: "Well, hopefully."
   
- france.202.t: "The French Invasion of 1857" #NT!
- france.202.d: "The time has finally come. The French have managed to organize their forces for an attack on our fortified position in Kabylia. Our forces are small, outnumbered, and outgunned, but their fighting spirit is fully intact. Although it may take a miracle to hold out against the French, it is a miracle we have been praying for and our soldiers are confident that by God's grace we shall prevail." #NT!
- france.202.a: "For liberty!" #NT!
+ france.202.t: "The French Invasion of 1857"
+ france.202.d: "The time has finally come. The French have managed to organize their forces for an attack on our fortified position in Kabylia. Our forces are small, outnumbered, and outgunned, but their fighting spirit is fully intact. Although it may take a miracle to hold out against the French, it is a miracle we have been praying for and our soldiers are confident that by God's grace we shall prevail."
+ france.202.a: "For liberty!"
   
- france.203.t: "The French Invasion of Kabylia" #NT!
- france.203.d: "A fortified force of around 5,000 Kabyles, natives of the mountainous north of the country, have been holding out in the Kabylia region of the French colony in Algeria for some time now. They have repeatedly posed problems through vigorous resistance against French occupation of their homeland. It seems now that the French are determined to finish off the last pocket of resistance in Algeria. They expect this final conquest of Algeria to be swift, with the resistance in Kabylia supposed to be cleared out in short time." #NT!
- france.203.a: "Interesting." #NT!
+ france.203.t: "The French Invasion of Kabylia"
+ france.203.d: "A fortified force of around 5,000 Kabyles, natives of the mountainous north of the country, have been holding out in the Kabylia region of the French colony in Algeria for some time now. They have repeatedly posed problems through vigorous resistance against French occupation of their homeland. It seems now that the French are determined to finish off the last pocket of resistance in Algeria. They expect this final conquest of Algeria to be swift, with the resistance in Kabylia supposed to be cleared out in short time."
+ france.203.a: "Interesting."
   
- france.204.t: "French Victory in Kabylia" #NT!
- france.204.d: "General Randon's campaign in Kabylia, the last region in Algeria to resist against our colonial expansion, has succeeded. An agreement is being worked out with the remaining Kabyles to bring their region under the control of the colonial government in Algeria. With this campaign over we can now begin larger projects in the development of the colony." #NT!
- france.204.a: "The work has just begun." #NT!
+ france.204.t: "French Victory in Kabylia"
+ france.204.d: "General Randon's campaign in Kabylia, the last region in Algeria to resist against our colonial expansion, has succeeded. An agreement is being worked out with the remaining Kabyles to bring their region under the control of the colonial government in Algeria. With this campaign over we can now begin larger projects in the development of the colony."
+ france.204.a: "The work has just begun."
   
- france.205.t: "French Victory in Kabylia" #NT!
- france.205.d: "With the successful military invasion led be General Randon, the colony's governor, the French conquest of the Kabylia region in Northern Algeria has been completed. An agreement is being worked out with the remaining Kabyles to bring their region under the control of the colonial government in Algiers." #NT!
- france.205.a: "Will this be the end of their resistance against French rule?" #NT!
+ france.205.t: "French Victory in Kabylia"
+ france.205.d: "With the successful military invasion led be General Randon, the colony's governor, the French conquest of the Kabylia region in Northern Algeria has been completed. An agreement is being worked out with the remaining Kabyles to bring their region under the control of the colonial government in Algiers."
+ france.205.a: "Will this be the end of their resistance against French rule?"
   
- france.206.t: "Kabylia Natives Stand Firm" #NT!
- france.206.d: "In what can only be described as a miraculous turn of circumstances, the Kabyles in Northern Algeria have managed to hold out against the French forces under General Randon. Many wonder whether the General is past his prime or if he is merely being used as a scapegoat for this defeat. This will certainly slow the French designs for the development of the Algerian colony and the Kabylia natives will celebrate this as a great victory for years to come." #NT!
- france.206.a: "We have to accept their independence - for now." #NT!
- france.206.b: "Remove Randon from his post as governor." #NT!
- france.206.c: "We stood our ground!" #NT!
+ france.206.t: "Kabylia Natives Stand Firm"
+ france.206.d: "In what can only be described as a miraculous turn of circumstances, the Kabyles in Northern Algeria have managed to hold out against the French forces under General Randon. Many wonder whether the General is past his prime or if he is merely being used as a scapegoat for this defeat. This will certainly slow the French designs for the development of the Algerian colony and the Kabylia natives will celebrate this as a great victory for years to come."
+ france.206.a: "We have to accept their independence - for now."
+ france.206.b: "Remove Randon from his post as governor."
+ france.206.c: "We stood our ground!"
   
- france.207.t: "Kabylia Natives Stand Firm" #NT!
- france.207.d: "In what can only be described as a miraculous turn of circumstances, the Kabyles in Northern Algeria have managed to hold out against the French forces under General Randon. Many wonder whether the General is past his prime or if he is merely being used as a scapegoat for this defeat. This will certainly slow the French designs for the development of the Algerian colony and the Kabylia natives will celebrate this as a great victory for years to come." #NT!
- france.207.a: "That's a surprise for sure!" #NT!
+ france.207.t: "Kabylia Natives Stand Firm"
+ france.207.d: "In what can only be described as a miraculous turn of circumstances, the Kabyles in Northern Algeria have managed to hold out against the French forces under General Randon. Many wonder whether the General is past his prime or if he is merely being used as a scapegoat for this defeat. This will certainly slow the French designs for the development of the Algerian colony and the Kabylia natives will celebrate this as a great victory for years to come."
+ france.207.a: "That's a surprise for sure!"
   
- france.211.t: "The Mokrani Revolt" #NT!
- france.211.d: "The French control of their colonial territory in Algeria seems to have been recently contested by raids of the local natives. The native population of the Kabylia region in the mountainous north of the country has so far been able to retain their independence, but the French seem determined to put an end to it. Although the struggle isn't a guarenteed victory for the French Empire, the combined efforts of a great power will be tough to match for the native raiders of Kabylia." #NT!
- france.211.a: "Let's wait and see what happens." #NT!
+ france.211.t: "The Mokrani Revolt"
+ france.211.d: "The French control of their colonial territory in Algeria seems to have been recently contested by raids of the local natives. The native population of the Kabylia region in the mountainous north of the country has so far been able to retain their independence, but the French seem determined to put an end to it. Although the struggle isn't a guarenteed victory for the French Empire, the combined efforts of a great power will be tough to match for the native raiders of Kabylia."
+ france.211.a: "Let's wait and see what happens."
   
- france.231.t: "The Siege of Fort Medina" #NT!
- france.231.d: "News reached us today from our colony in Senegal of a siege of one of our forts. According to reports, Fort Medina on the bank of the Senegal River was besieged by Toucouleur forces starting in late April of this year. The fort's commander Paul Holle and a short garrison managed to hold off the attacks of the tribal armies. The siege finally broke when governor Louis Faidherbe arrived on a gunboat with reinforcements from the colonial capital. The governor is supposed to be signing an agreement with the leader of the Toucouleur army which should give our colony more breathing room along the Niger River. Many have noted that the bulk of our forces were composed of native soldiers who have proved themselves quite well in battle. Governor Faidherbe has already requested the expansion of the colonial forces in Senegal." #NT!
- france.231.a: "We May Need to Focus our Attention on this Colony" #NT!
+ france.231.t: "The Siege of Fort Medina"
+ france.231.d: "News reached us today from our colony in Senegal of a siege of one of our forts. According to reports, Fort Medina on the bank of the Senegal River was besieged by Toucouleur forces starting in late April of this year. The fort's commander Paul Holle and a short garrison managed to hold off the attacks of the tribal armies. The siege finally broke when governor Louis Faidherbe arrived on a gunboat with reinforcements from the colonial capital. The governor is supposed to be signing an agreement with the leader of the Toucouleur army which should give our colony more breathing room along the Niger River. Many have noted that the bulk of our forces were composed of native soldiers who have proved themselves quite well in battle. Governor Faidherbe has already requested the expansion of the colonial forces in Senegal."
+ france.231.a: "We May Need to Focus our Attention on this Colony"
   
- nap_france.300.t: "An Army Reforged: The Doctrine in Conflict" #NT!
- nap_france.300.d: "The War Ministry has erupted into a debate now that the time of the Crimean war is over. Marshals and ministers thunder in council: some demand bold, sweeping manoeuvre and decisive attack to restore France's military mastery; others plead for prudence — forts, heavier batteries and iron supply lines to hold our frontiers. The Emperor must choose; this single decision will bind training, organisation and procurement for a generation." #NT!
- nap_france.300.a: "For France Glory — We must decisively attack" #NT!
- nap_france.300.b: "Raise the ramparts — for the defence of France" #NT!
+ nap_france.300.t: "An Army Reforged: The Doctrine in Conflict"
+ nap_france.300.d: "The War Ministry has erupted into a debate now that the time of the Crimean war is over. Marshals and ministers thunder in council: some demand bold, sweeping manoeuvre and decisive attack to restore France's military mastery; others plead for prudence — forts, heavier batteries and iron supply lines to hold our frontiers. The Emperor must choose; this single decision will bind training, organisation and procurement for a generation."
+ nap_france.300.a: "For France Glory — We must decisively attack"
+ nap_france.300.b: "Raise the ramparts — for the defence of France"
   
  ################################################# 
  ################################################## 
@@ -2034,9 +2034,9 @@
  france.561.a: "Putting Marx's words into action, huh?"
  france.561.b: "Will this mean even more trouble for us?"
   
- france.581.t: "The Savoy Rebellion" #NT!
- france.581.d: "The Savoyards have risen against our legal 'reattachement' of Savoy to France. It seems the locals would prefer to remain a part of Italy or even join... Switzerland? Regardless, the rebels have taken the local capital of Chambéry and are arming to defend themselves. We must move and move swiftly, less we be routed a second time by peasants with guns." #NT!
- france.581.a: "It seems they won't integrate this easily..." #NT!
+ france.581.t: "The Savoy Rebellion"
+ france.581.d: "The Savoyards have risen against our legal 'reattachement' of Savoy to France. It seems the locals would prefer to remain a part of Italy or even join... Switzerland? Regardless, the rebels have taken the local capital of Chambéry and are arming to defend themselves. We must move and move swiftly, less we be routed a second time by peasants with guns."
+ france.581.a: "It seems they won't integrate this easily..."
   
  # 1871 LEGISLATIVE ELECTION 
   
@@ -2097,14 +2097,14 @@
  dynmod_FRA_imperial_navy: "La Grande Marine"
  dynmod_FRA_imperial_navy_desc: "The first Napoleon had the grand Army...Napoleon III, has the grand navy. Napoleon III has since his ascent to the presidency, and then throne, practically doubled the budget of the navy. He has also nearly doubled the number of effective sailors in the Navy. From some twenty thousand sailors, to almost forty thousand sailors. From some one hundred million Francs, to two hundred million Francs. A budget so large, even Britain's is starting to be caught up to. Now, while the dream of reaching Britain's ship count is questionable, due to Britain's large number of transport and supply ships relevant to their Empire; the Emperor has managed to parry them in the number of combatant ships. Over a hundred vessels sit just in the internal sea {Mediterranean}, defying every single navy in the area. The Italians can weep, Spanish cry, Ottomans wail; but the French Navy will always prevail. Now, why has the Emperor done this, now that he has Britain's friendship? The reason is rather simple, as the Russians say - Trust but verify. And apart from that, the Emperor has designs of Empire, if not always in Europe, then on other continents, and when someone has to blow things up who better than a ship with three hundred guns and explosive shells? As such, so long as the Emperor remains, so too will the Grand Navy."
   
- FRA_bonapartist_unity: "Bonapartist Unity" #NT!
- FRA_bonapartist_unity_desc: "A surge in dynastic legitimacy and conservative support following the family's public reunion. Reduced unrest and increased support for the regime." #NT!
+ FRA_bonapartist_unity: "Bonapartist Unity"
+ FRA_bonapartist_unity_desc: "A surge in dynastic legitimacy and conservative support following the family's public reunion. Reduced unrest and increased support for the regime."
   
- FRA_legislative_mandate: "Legislative Mandate" #NT!
- FRA_legislative_mandate_desc: "A temporary boost to the government's political capital and perceived legitimacy after a successful special session." #NT!
+ FRA_legislative_mandate: "Legislative Mandate"
+ FRA_legislative_mandate_desc: "A temporary boost to the government's political capital and perceived legitimacy after a successful special session."
   
- FRA_crackdown_stability: "Crackdown: Calm and Fear" #NT!
- FRA_crackdown_stability_desc: "Short-term internal calm achieved through secret and brutal measures. Legitimacy suffers even as streets are pacified." #NT!
+ FRA_crackdown_stability: "Crackdown: Calm and Fear"
+ FRA_crackdown_stability_desc: "Short-term internal calm achieved through secret and brutal measures. Legitimacy suffers even as streets are pacified."
   
  ################################################## 
  #                     FOCUS 
@@ -2238,9 +2238,9 @@
  FRA_mission_luxembourg_crisis: "Enforce Demands in Luxembourg"
  FRA_mission_luxembourg_crisis_continued: "Push for a Decisive Victory"
   
- FRA_mission_invasion_of_kabylia: "The Invasion of Kabylia" #NT!
- FRA_mission_invasion_of_kabylia_fra_trigger_tt: "§Y[FRA.GetFlag]French Empire Victory Conditions(One of the following):§!\n\n - §gKabylia Has Reached 70% Capitulation Progress\n - The French Empire Controls Kabylia\n§!" #NT!
- FRA_mission_invasion_of_kabylia_kby_trigger_tt: "§Y[KBY.GetFlag]Kabylia Victory Conditions(One of the following):§!\n\n - §gKabylia Has Held Out Until August\n - Kabylia Has Captured All French Ports While Holding Kabylia\n§!" #NT!
+ FRA_mission_invasion_of_kabylia: "The Invasion of Kabylia"
+ FRA_mission_invasion_of_kabylia_fra_trigger_tt: "§Y[FRA.GetFlag]French Empire Victory Conditions(One of the following):§!\n\n - §gKabylia Has Reached 70% Capitulation Progress\n - The French Empire Controls Kabylia\n§!"
+ FRA_mission_invasion_of_kabylia_kby_trigger_tt: "§Y[KBY.GetFlag]Kabylia Victory Conditions(One of the following):§!\n\n - §gKabylia Has Held Out Until August\n - Kabylia Has Captured All French Ports While Holding Kabylia\n§!"
  FRA_kabilya_victory_event_TT: "§YWe will have to do some reorganizing before attempting a new campaign against in Kabylia...!"
   
  FRA_gabon_victroy_for_FRA: "§Y[FRA.GetFlag]French Empire Victory Conditions(One of the following):§!\n\n - §YFrance§! controls §YOuter Gabon§! and §YMitsogo§!\n - §YGabon§! is over a §Y20% surrender progress§!\n  "
@@ -2256,8 +2256,8 @@
  FRA_decision_extract_ivory: "Extract Ivory"
  FRA_colonial_decision_extract_gabonese_rubber: "Extract Rubber from the Gabonese Jungles"
   
- FRA_allow_frontier_forts: "Frontier fortification programme authorised" #NT!
- FRA_allow_frontier_forts_desc: "The government has authorised an imperial programme of frontier works — a chain of forts and batteries to deter aggression on the marches. The state may now proceed with decisions to construct permanent defences along the border." #NT!
+ FRA_allow_frontier_forts: "Frontier fortification programme authorised"
+ FRA_allow_frontier_forts_desc: "The government has authorised an imperial programme of frontier works — a chain of forts and batteries to deter aggression on the marches. The state may now proceed with decisions to construct permanent defences along the border."
   
  ################################################## 
  #                     IDEAS 
@@ -2281,33 +2281,33 @@
  FRA_la_lumiere_directrice: "La Lumière Directrice"
  FRA_la_lumiere_directrice_desc: "Napoleon III, is the guiding light of the Empire. Without him, there would be no Empire, perhaps even no Republic back in 1848. Without him, the woman would still have no hope of studying, and the Algerians would be gassed daily by the King's troops. This creates an extreme problem for the Empire however. While the Emperor is healthy and agile, the Eagle is sure to soar over the entire world. But when His Majesty is sick, unable to rule or give his own commands. . .then the Empire is left without it's head, and the many forces united behind the Emperor begin to squabble. The Empire has it's Alexander, it's Ceasar, it's Augustus or rather fittingly - it's Napoleon. But what will the Empire do without him? The Empire thus has a ticking clock, to which is tied a dagger right above it's head. Some solution must be found. Perhaps the solution is to ensure that His Majesty is not the biggest cog of the machine? Perhaps it is to ensure that only the Emperor's firmest remain? Maybe, a grand system of checks and balances to oversee all? Whatever it may be, a decision must be made. For god help us if the clock strikes twelve, and the Emperor is not there."
   
- FRA_idea_legislative_mandate: "Legislative Mandate" #NT!
- FRA_idea_legislative_mandate_desc: "A temporary mandate obtained through controlled legislative theatre. Grants modest stability and war-support while it lasts." #NT!
+ FRA_idea_legislative_mandate: "Legislative Mandate"
+ FRA_idea_legislative_mandate_desc: "A temporary mandate obtained through controlled legislative theatre. Grants modest stability and war-support while it lasts."
   
- FRA_idea_military_patronage: "Military Patronage" #NT!
- FRA_idea_military_patronage_desc: "A concentrated season of honours, appointments and dining at the Tuileries for senior officers. Bolsters loyalty and cohesion in the officer corps and reassures conservative backers." #NT!
+ FRA_idea_military_patronage: "Military Patronage"
+ FRA_idea_military_patronage_desc: "A concentrated season of honours, appointments and dining at the Tuileries for senior officers. Bolsters loyalty and cohesion in the officer corps and reassures conservative backers."
   
- FRA_idea_crackdown_stability: "Crackdown: Calm and Fear" #NT!
- FRA_idea_crackdown_stability_desc: "Short-term internal calm achieved through secret and brutal measures. Legitimacy suffers even as streets are pacified." #NT!
+ FRA_idea_crackdown_stability: "Crackdown: Calm and Fear"
+ FRA_idea_crackdown_stability_desc: "Short-term internal calm achieved through secret and brutal measures. Legitimacy suffers even as streets are pacified."
   
- FRA_idea_patriotic_exhibition: "Patriotic Exhibition" #NT!
- FRA_idea_patriotic_exhibition_desc: "A successful domestic spectacle that improves war support and short-term stability." #NT!
+ FRA_idea_patriotic_exhibition: "Patriotic Exhibition"
+ FRA_idea_patriotic_exhibition_desc: "A successful domestic spectacle that improves war support and short-term stability."
   
- FRA_idea_bonapartist_unity: "Bonapartist Unity" #NT!
- FRA_idea_bonapartist_unity_desc: "A surge in dynastic legitimacy and conservative support following the family's public reunion. Reduced unrest and increased support for the regime." #NT!
+ FRA_idea_bonapartist_unity: "Bonapartist Unity"
+ FRA_idea_bonapartist_unity_desc: "A surge in dynastic legitimacy and conservative support following the family's public reunion. Reduced unrest and increased support for the regime."
   
- FRA_idea_senatus_consulte: "Senatus-Consulte for Algeria" #NT!
- FRA_idea_senatus_consulte_desc: "A definitive legal framework for Algeria clarifies civil status and property under imperial law. By affirming French protection and setting a pathway—however exacting—to citizenship, we temper unrest, encourage lawful participation, and bind the province more tightly to the Empire." #NT!
+ FRA_idea_senatus_consulte: "Senatus-Consulte for Algeria"
+ FRA_idea_senatus_consulte_desc: "A definitive legal framework for Algeria clarifies civil status and property under imperial law. By affirming French protection and setting a pathway—however exacting—to citizenship, we temper unrest, encourage lawful participation, and bind the province more tightly to the Empire."
   
- FRA_idea_law_general_security_t1: "Law of General Security" #NT!
- FRA_idea_law_general_security_t1_desc: "A statute empowering the government to intern, exile, or deport those suspected of threatening the public order, outside the common forms of justice. A heavy instrument—yet deemed necessary by the Emperor’s ministers." #NT!
- FRA_idea_law_general_security_t2: "Law of General Security – Tightened Instruction" #NT!
- FRA_idea_law_general_security_t2_desc: "Alongside the Security Law, the Ministry tightens its grip on public instruction, curbing philosophy and doctrines thought subversive. Authority rises, inquiry dims." #NT!
- FRA_idea_law_general_security_t3: "Law of General Security – Legislative Allegiance" #NT!
- FRA_idea_law_general_security_t3_desc: "The Chambers, bound by explicit pledges of allegiance, now move in closer concert with the imperial will. The apparatus of state turns with fewer frictions—at the cost of liberty’s breadth." #NT!
+ FRA_idea_law_general_security_t1: "Law of General Security"
+ FRA_idea_law_general_security_t1_desc: "A statute empowering the government to intern, exile, or deport those suspected of threatening the public order, outside the common forms of justice. A heavy instrument—yet deemed necessary by the Emperor’s ministers."
+ FRA_idea_law_general_security_t2: "Law of General Security – Tightened Instruction"
+ FRA_idea_law_general_security_t2_desc: "Alongside the Security Law, the Ministry tightens its grip on public instruction, curbing philosophy and doctrines thought subversive. Authority rises, inquiry dims."
+ FRA_idea_law_general_security_t3: "Law of General Security – Legislative Allegiance"
+ FRA_idea_law_general_security_t3_desc: "The Chambers, bound by explicit pledges of allegiance, now move in closer concert with the imperial will. The apparatus of state turns with fewer frictions—at the cost of liberty’s breadth."
   
- FRA_idea_bonapartist_networks: "Bonapartist Agent Networks" #NT!
- FRA_idea_bonapartist_networks_desc: "A discreet apparatus of loyalists, informants, and prefects who blunt political agitation before it can spread—strengthening the Empire’s hold over public opinion." #NT!
+ FRA_idea_bonapartist_networks: "Bonapartist Agent Networks"
+ FRA_idea_bonapartist_networks_desc: "A discreet apparatus of loyalists, informants, and prefects who blunt political agitation before it can spread—strengthening the Empire’s hold over public opinion."
   
  ################################################## 
  #                TUNISIA RELATED 
@@ -2338,4 +2338,3 @@
  CPR_event.1.t: "Гюстав Поль Клюзере возвращается из Лиона!"
  CPR_event.1.d: ""
  CPR_event.1.a: "С возвращением, генерал!"
-  

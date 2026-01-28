@@ -212,7 +212,7 @@
  ORE_autocracy_party_long: "Дом Каскадии"
  ORE_autocracy_party: "Каскадские Империалисты"
  ORE_chauvinist_populism_party_long: "Каскадские Националисты"
- ORE_chauvinist_populism_party: "Cascadian Nationalists" #NT!
+ ORE_chauvinist_populism_party: "Cascadian Nationalists"
   
  TEX_ideology_social_liberalism_party_long: "Радикальная Социалистическая Партия Техаса"
  TEX_ideology_social_liberalism_party: "Радикальные Социалисты"
@@ -446,14 +446,14 @@
   
  SAR_centrism_party: "Исторически Левые"
  SAR_traditional_conservatism_party: "Исторически Правые"
- SAR_social_egalitarianism_party: "Anti-Monarchists" #NT!
+ SAR_social_egalitarianism_party: "Anti-Monarchists"
  SAR_ideology_radical_socialism_party: "Сардинская Социалистическая Партия"
- SAR_ideology_social_liberalism_party: "Communist Party" #NT!
+ SAR_ideology_social_liberalism_party: "Communist Party"
  SAR_autocracy_party: "Дом Савойи"
- SAR_radical_democracy_party: "Reactionary Party" #NT!
- SAR_anarchism_party: "Anarchists" #NT!
- SAR_chauvinist_populism_party: "Piedmontese Party" #NT!
- SAR_fundamentalism_party: "Neo-Guelphist Party" #NT!
+ SAR_radical_democracy_party: "Reactionary Party"
+ SAR_anarchism_party: "Anarchists"
+ SAR_chauvinist_populism_party: "Piedmontese Party"
+ SAR_fundamentalism_party: "Neo-Guelphist Party"
   
  MOD_autocracy_party: "Дом Габсбургов"
  MOD_centrism_party: "Исторически Правые"
@@ -1165,3 +1165,43 @@
   
  MSQ_House_of_Miskito: "House of Miskito"
  MSQ_House_of_Miskito_long: "The House of Miskito"
+  
+ TUK_fundamentalism_party: "The Tijaniyya order" #NT!
+ TUK_fundamentalism_party_long: "at-Tariqah at-Tijaniyyah fi Bilad as-Sudan" #NT!
+ TUK_autocracy_party: "Tall dynasty" #NT!
+ TUK_autocracy_party_long: "Tall dynasty" #NT!
+  
+ HMD_autocracy_party: "Lobo dynasty" #NT!
+ HMD_autocracy_party_long: "Lobo dynasty" #NT!
+  
+ SGO_autocracy_party: "Ngolosi dynasty" #NT!
+ SGO_autocracy_party_long: "Ngolosi dynasty" #NT!
+  
+ KND_autocracy_party: "Traore dynasty" #NT!
+ KND_autocracy_party_long: "Traore dynasty" #NT!
+  
+ WTR_autocracy_party: "Wattara dynasty" #NT!
+ WTR_autocracy_party_long: "Wattara dynasty" #NT!
+  
+ DGB_autocracy_party: "Gbewaa dynasty" #NT!
+ DGB_autocracy_party_long: "Gbewaa dynasty" #NT!
+  
+ BNA_autocracy_party: "Awlad Siyad" #NT!
+ BNA_autocracy_party_long: "Awlad Siyad" #NT!
+  
+ MRT_autocracy_party: "Awlad Ahmad ould Daman" #NT!
+ MRT_autocracy_party_long: "Awlad Ahmed ould Daman" #NT!
+  
+ KAG_autocracy_party: "Kel Ghela" #NT!
+ KAG_autocracy_party_long: "Kel Ghela" #NT!
+  
+ KAD_autocracy_party: "Kel Afella" #NT!
+ KAD_autocracy_party_long: "Kel Afella" #NT!
+  
+ AIR_autocracy_party: "Kel Owey" #NT!
+ AIR_autocracy_party_long: "Kel Owey" #NT!
+  
+ SAL_fundamentalism_party: "The Tijaniyya order" #NT!
+ SAL_fundamentalism_party_long: "at-Tariqah at-Tijaniyyah fi Bilad as-Sudan" #NT!
+  
+  

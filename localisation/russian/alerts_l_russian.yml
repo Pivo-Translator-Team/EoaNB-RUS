@@ -220,7 +220,7 @@
  alert_out_of_fuel_instant: "§HНедостаток топлива§!"
  alert_out_of_fuel_delayed_header: "Требуется: §Yнефть ($VALUE$)§!\nНефть нужна для работы наземной техники, самолетов и кораблей."
  alert_out_of_fuel_delayed_entry_army: "§YАрмия§!\nКогда запас горючего составляет $LOW_THRESHOLD|Y1%$, боевые способности начинают снижаться.\nПри §Y0%§! топлива:\nСкорость: $ARMY_SPEED_PENALTY|R1%$\nБоевые способности (снаряжение, потребляющее топливо): $ARMY_COMBAT_PENALTY|R1%$\nПолучаемый опыт за подготовку: $ARMY_TRAINING_XP_GAIN|R1%$ в день"
- alert_out_of_fuel_delayed_entry_air: "§YАвиация§!\nПри недостатке топлива:\nЭффективность заданий: $AIR_EFFICIENCY_PENALTY|R1%$"
+  alert_out_of_fuel_delayed_entry_air: "It shouldn't come back later on in the game. 
  alert_out_of_fuel_delayed_entry_navy: "§YФлот§!\nПри недостатке топлива:"
  alert_out_of_fuel_delayed_subentry_navy_speed: "Скорость: $NAVAL_SPEED_PENALTY|R1%$"
  alert_out_of_fuel_delayed_subentry_navy_range: "Дальность: $NAVAL_RANGE_PENALTY|R1%$"
@@ -235,3 +235,5 @@
  alert_lack_of_power_delayed_mil: "Каждый £mil_factory военный завод производит на $VALUE|H$ £production_cost меньше продукции, а модификатор заводского производства уменьшается на $PERCENTAGE|.0R%$"
  alert_lack_of_power_delayed_nav: "Каждая £nav_dockyard_texticon верфь производит на $VALUE|H$ £navprod_cost меньше продукции, а модификатор производительности верфи уменьшается на $PERCENTAGE|.0R%$"
  alert_faction_can_select_goal_instant: "§HВы можете выбрать новую цель альянса§!"
+ alert_faction_can_select_goal_delayed_header: "Если мы будем бездействовать, выбрать цель смогут другие члены альянса"
+  

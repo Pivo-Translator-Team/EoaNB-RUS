@@ -1264,16 +1264,16 @@
  PRS_mission_expand_danzig_port_infrastructure_desc: ""
   
  #Second Schleswig War 
- eoanb_decision_category_schleswig_holstein_question: "The Schleswig-Holstein Question" #NT!
- eoanb_decision_category_schleswig_holstein_question_desc: "The §Yduchies of Schleswig and Holstein§! are considered to be an integral part of Germany. They are ruled, however, by §Y[DEN.GetName]§!, which the Germans consider to be a §Yforeign dynasty§! and this fact does not resonate well with the German public in this §Yage of nationalism§!. Now, the fragile arrangement that was set in the §YLondon Protocol of 1852§! is about to break apart and §Ymilitary conflict§! seems to be inevitable." #NT!
+ eoanb_decision_category_schleswig_holstein_question: "The Schleswig-Holstein Question"
+ eoanb_decision_category_schleswig_holstein_question_desc: "The §Yduchies of Schleswig and Holstein§! are considered to be an integral part of Germany. They are ruled, however, by §Y[DEN.GetName]§!, which the Germans consider to be a §Yforeign dynasty§! and this fact does not resonate well with the German public in this §Yage of nationalism§!. Now, the fragile arrangement that was set in the §YLondon Protocol of 1852§! is about to break apart and §Ymilitary conflict§! seems to be inevitable."
  PRS_decision_support_augustenburg: "Поддержать дом Августенбург"
  PRS_decision_support_augustenburg_desc: "Герцог Фридрих Кристиан Август Шлезвиг-Гольштейн-Зондербург-Августенбург провозгласил себя законным правителем Шлезвиг-Гольштейна, и мы охотно поддержим его притязания против иностранных угнетателей."
- PRS_decision_lead_bundesexekution: "Lead the Bundesexekution" #NT!
- PRS_decision_lead_bundesexekution_desc: "The federal army has already taken the first steps in Schleswig-Holstein's liberation and we will lead the German Confederation's efforts to take back the German Duchies in the north once and for all." #NT!
- PRS_decision_lead_bundesexekution_trigger_tt: "§YIf the Trias, led by §Gthe [SAX.GetName]§!, acts quickly and in accord with the German Confederation, they will take leadership of the war and we can support them instead.§!" #NT!
- PRS_decision_support_bundesintervention: "Support Bundesintervention against Denmark" #NT!
- PRS_decision_support_bundesintervention_desc: "The federal army has already taken the first steps in Schleswig-Holstein's liberation and we will support the German Confederation's efforts wholeheartedly." #NT!
- PRS_decision_support_bundesintervention_effect_tt: "§YWe will join the war against Denmark once it starts.§!" #NT!
+ PRS_decision_lead_bundesexekution: "Lead the Bundesexekution"
+ PRS_decision_lead_bundesexekution_desc: "The federal army has already taken the first steps in Schleswig-Holstein's liberation and we will lead the German Confederation's efforts to take back the German Duchies in the north once and for all."
+ PRS_decision_lead_bundesexekution_trigger_tt: "§YIf the Trias, led by §Gthe [SAX.GetName]§!, acts quickly and in accord with the German Confederation, they will take leadership of the war and we can support them instead.§!"
+ PRS_decision_support_bundesintervention: "Support Bundesintervention against Denmark"
+ PRS_decision_support_bundesintervention_desc: "The federal army has already taken the first steps in Schleswig-Holstein's liberation and we will support the German Confederation's efforts wholeheartedly."
+ PRS_decision_support_bundesintervention_effect_tt: "§YWe will join the war against Denmark once it starts.§!"
  dynmod_PRS_SSW_holstein_supply: "Плохое снабжение"
  dynmod_PRS_SSW_holstein_supply_desc: ""
  PRS_mission_win_war_with_denmark: "Вторая Шлезвигская война"
@@ -1284,7 +1284,7 @@
  PRS_decision_cooperate_with_austria_desc: "Германский союз может желать другого решения, но им придется столкнуться с реальностью. Только Пруссия и Австрия обладают военной мощью, чтобы раз и навсегда решить вопрос Шлезвиг-Гольштейна, и мы готовы сделать это."
  PRS_decision_invade_schleswig: "Вторгнуться в Шлезвиг"
  PRS_decision_invade_schleswig_desc: "Датские махинации должны закончиться. Они могут запугивать немецкие меньшинства, но Пруссия и Австрия не отступят и не бросят народ Шлезвига."
- PRS_decision_invade_schleswig_trigger_tt: "§RWe have to act fast! If the Trias, led by §Gthe [SAX.GetName]§! acts quickly and in accord with the German Confederation, we cannot go through with the war on our own terms.§!" #NT!
+ PRS_decision_invade_schleswig_trigger_tt: "§RWe have to act fast! If the Trias, led by §Gthe [SAX.GetName]§! acts quickly and in accord with the German Confederation, we cannot go through with the war on our own terms.§!"
  PRS_mission_london_conference: "Вторая Шлезвигская война"
  PRS_mission_london_conference_desc: "Несмотря на отсутствие интереса к военному вмешательству, другие великие державы Европы обеспокоены возможным нарушением баланса сил в результате конфликта по поводу Шлезвиг-Гольштейна. Обе стороны считают, что их casus belli законен, и если одна из сторон сможет доказать свою победу в этой войне, она наверняка окажется в выгодном положении на международной мирной конференции."
  PRS_mission_finish_war_with_denmark: "Завершить Вторую Шлезвигскую войну"
@@ -1371,8 +1371,8 @@
  FRA_mission_push_back_the_germans: "Push Back the Germans"
  FRA_mission_push_back_the_germans_desc: "The time has come to drive the Germans out of France. Let's put all our differences aside and unite behind this common goal for all of France!"
  FRA_mission_push_back_the_germans_trigger_tt: "§YNo French mainland territory is§! §Runder German control.§!"
- FRA_mission_push_the_germans_behind_the_rhine: "Push the Germans behind the Rhine" #NT!
- FRA_mission_push_the_germans_behind_the_rhine_desc: "The Germans have been unable to resist our advance. Now is the time to seize the moment and push them back behind the Rhine. Perhaps we can even establish permanent control over the territories west of the Rhine currently under German control that way - a long-cherished dream of French nationalists." #NT!
+ FRA_mission_push_the_germans_behind_the_rhine: "Push the Germans behind the Rhine"
+ FRA_mission_push_the_germans_behind_the_rhine_desc: "The Germans have been unable to resist our advance. Now is the time to seize the moment and push them back behind the Rhine. Perhaps we can even establish permanent control over the territories west of the Rhine currently under German control that way - a long-cherished dream of French nationalists."
   
  #Politics of the North German Confederation 
  PRS_decision_category_NGC_politics: "Политика Северогерманского союза"
@@ -2247,7 +2247,7 @@
  PRS_AUS_SCHLESWIG_REL: "Сотрудничество в вопросе Шлезвиг-Гольштейна"
  PRS_AUS_GC_SCHLESWIG_REL: "Игнорирование резолюции Бундестага"
  PRS_SCHLESWIG_SUPPORT_REL: "Поддержка Германского союза в вопросе Шлезвиг-Гольштейна"
- PRS_SCHLESWIG_LEAD_BUNDESEXEKUTION_REL: "Leading Bundesexekution against Denmark" #NT!
+ PRS_SCHLESWIG_LEAD_BUNDESEXEKUTION_REL: "Leading Bundesexekution against Denmark"
  PRS_SCHLESWIG_SUPPORT_BUNDESEXEKUTION_REL: "Поддержка Бундесэкзекуции против Дании"
  PRS_SCHLESWIG_WAR_CONTINUES_REL: "Провал Лондонской конференции"
  eoanb_SCHLESWIG_GC_MEMBER_REL: "Освобождение Шлезвиг-Гольштейна"
@@ -2298,4 +2298,4 @@
  PRS_compromise_negotiated_flag: "§YКомпромисс с парламентом успешно достигнут.§!"
  PRS_owns_all_ger_unify_state: "Все необходимые §Yземли§! для §Yобъединения Германии§! принадлежат §Y[Root.GetNameDef]§!"
  PRS_owns_all_ger_unify_state_socialist: "Все необходимые §Yземли§! для §Yобъединения Германии§! принадлежат §Y[Root.GetNameDef]§!"
- schleswig_holstein_question_resolved_trigger_tt: "The §YSchleswig-Holstein Question has been resolved§!, either through war or diplomatic means.\n\n" #NT!
+ schleswig_holstein_question_resolved_trigger_tt: "The §YSchleswig-Holstein Question has been resolved§!, either through war or diplomatic means.\n\n"

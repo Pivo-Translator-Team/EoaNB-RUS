@@ -12,6 +12,10 @@
  arab_events.2.d: "Посланник от нашего брата из [From.GetName] прибыл с требованием нашего полного подчинения. Как нам ответить?"
  arab_events.2.a: "Подчиниться"
  arab_events.2.b: "Объявить независимость"
+ arab_events.3.t: "Oman Offers an Alliance for Our Freedom" #NT!
+ arab_events.3.d: "After the death of Sa'id bin Sultan, the Omani empire was left divided, with Thuwaini seizing power in the Omani mainland. Despite [ZAN.GetNameDef]'s newfound primacy, we had no choice but to accept a costly tribute in exchange for a supply of horses. Now, realizing his untenable position, [OMA.GetLeader] wishes to revise the deal, promising us an equal alliance in exchange for peace." #NT!
+ arab_events.3.a: "The sons of Sa'id should be equal" #NT!
+ arab_events.3.b: "We shouldn't disrupt the current order" #NT!
  arab_events.4.t: "Подчинение §YМаджид ибн Саида§!"
  arab_events.4.d: "Большая процессия прибыла из §Y[From.GetName]§!, неся нашего брата, который публично принес клятву верности нам и всем нашим потомкам. Это восстановило наш контроль над нашими африканскими территориями."
  arab_events.4.a: "Он понял смысл"
@@ -19,6 +23,9 @@
  arab_events.5.d: "Наш давний автономный вассал [From.GetNameDef] прекратил уплату дани. Какова будет наша реакция?"
  arab_events.5.a: "Навязать нашу волю, к войне!"
  arab_events.5.b: "Мы должны отпустить их"
+ arab_events.6.t: "Zanzibar Accepts Our Alliance Offer" #NT!
+ arab_events.6.d: "The sultan in [ZAN.GetNameDef] has accepted our alliance. While we will miss the tribute, this was the best course of action to preserve the legacy of Sa'id." #NT!
+ arab_events.6.a: "Who cared about that tribute?" #NT!
  arab_events.7.t: "Оман заявляет о намерении вернуть колониальные территории"
  arab_events.7.d: "Многие годы Оман находился в упадке, что привело к потере значительной части колоний, включая нашу колонию Договорный Оман, и к медленному снижению контроля над Занзибаром. Однако после невероятного разворота правительство Омана восстановило контроль над Занзибаром и объявило о намерении вернуть утраченные земли."
  arab_events.7.a: "Отправить предупреждение держаться подальше от Договорного Омана"
@@ -45,19 +52,19 @@
  arab_events.12.a: "Отказаться"
  arab_events.12.b: "Передать его"
  arab_events.18.t: "Навязать нашу волю [559.GetName]?"
+ arab_events.18.d: "Правители [559.GetName] долгое время платили нам дань, но теперь пришло время укрепить наш контроль над регионом. Как мы должны поступить?"
  arab_events.18.a: "Не рисковать, отправить войска"
  arab_events.18.b: "Требовать возврата государства"
  arab_events.18.c: "Требовать вассализации"
- arab_events.18.d: "Правители [559.GetName] долгое время платили нам дань, но теперь пришло время укрепить наш контроль над регионом. Как мы должны поступить?"
  arab_events.19.t: "Оман требует подчинения"
  arab_events.19.d: "Посланник от султана Омана прибыл с требованием вернуть нас под их протекторат. Каков наш ответ?"
  arab_events.19.a: "Согласиться"
  arab_events.19.b: "Отказаться"
  arab_events.21.t: "Навязать нашу волю [821.GetName]?"
+ arab_events.21.d: "Правители [821.GetName] долгое время платили нам дань, но теперь пришло время укрепить наш контроль над регионом. Как мы должны поступить?"
  arab_events.21.a: "Не рисковать, отправить войска"
  arab_events.21.b: "Требовать возврата государства"
  arab_events.21.c: "Требовать вассализации"
- arab_events.21.d: "Правители [821.GetName] долгое время платили нам дань, но теперь пришло время укрепить наш контроль над регионом. Как мы должны поступить?"
  arab_events.23.t: "Наша позиция по отношению к Англии?"
  arab_events.23.a: "Оставаться дружелюбными"
  arab_events.23.b: "Стать нейтральными"
@@ -74,9 +81,9 @@
  arab_events.25.d: "Оно останется разделенным"
  arab_events.26.t: "Оман требует нашего подчинения"
  arab_events.27.t: "Выбор Индии"
+ arab_events.27.d: "После того как сипаи выиграли свою войну за независимость, нам предстоит выбрать, с какой Индией торговать. Какую бы Индию мы ни выбрали, это увеличит враждебность с другой."
  arab_events.27.a: "Выбрать Сипаев"
  arab_events.27.b: "Выбрать Индию"
- arab_events.27.d: "После того как сипаи выиграли свою войну за независимость, нам предстоит выбрать, с какой Индией торговать. Какую бы Индию мы ни выбрали, это увеличит враждебность с другой."
  arab_events.28.t: "Оман предлагает дешевую торговлю"
  arab_events.28.d: "Правительство Омана отправило торговую делегацию, предлагающую дешевую торговлю и развитый перевалочный пункт для торговли с Европой."
  arab_events.28.a: "Согласиться"
@@ -214,7 +221,7 @@
  OMA_Ghafiri_backs_azzan: "Гаффири поддерживают Аззана"
  OMA_Ghafiri_remains_neutral: "Гаффири остаются нейтральными"
  OMA_Hinawi_gives_support: "Хинави оказывают поддержку"
- OMA_Hinwai_backs_azzan: "Хинави поддерживают Аззана"
+ OMA_Hinawi_backs_azzan: "the Hināwī giving backing to Azzan" #NT!
  OMA_paying_the_hinawi: "Оплата племени Хинави"
  OMA_paying_the_ghafiri: "Оплата племени Гаффири"
  OMA_lost_MAH_war: "§YOман§!: Проиграл войну с Махрой"

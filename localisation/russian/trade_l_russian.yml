@@ -84,6 +84,8 @@
  TRADE_ROUTE_CONVOY_IMPORT_LAND: "$RES|H$ из провинции $FR|H$"
  TRADE_ROUTE_CONVOY_EXPORT: "Экспорт ресурса $RES|H$ в: $TO|H$ ( $CONVOYS|Y$ £convoy_texticon )"
  TRADE_ROUTE_CONVOY_EXPORT_LAND: "$RES|H$ — $TO|H$"
+ CONVOY_DOMINANCE_COST_REDUCTION: "(£naval_dominance_texticon£: $REDUCTION|%0-=$)"
+ CONVOY_DOMINANCE_COST_REDUCTION_EXPLANATION: "£naval_dominance_texticon£ §YПревосходство на море§! может снизить потребность в конвоях на максимум $REDUCTION|%0+$ на полностью контролируемых морских путях. \n"
  TRADE_ROUTE_INTERNATIONAL_MARKET_IMPORT_SEA: "§YПокупает§! у государства $COUNTRY|Y$ (контракты: $CONTRACT_COUNT|Y$, $CONVOYS|Y$ £convoy_texticon£)"
  TRADE_ROUTE_INTERNATIONAL_MARKET_IMPORT_LAND: "§YПокупает§! у государства $COUNTRY|Y$ (контракты: $CONTRACT_COUNT|Y$)"
  TRADE_ROUTE_INTERNATIONAL_MARKET_EXPORT_SEA: "§YПродает§! государству $COUNTRY|Y$ (контракты: $CONTRACT_COUNT|Y$, $CONVOYS|Y$ £convoy_texticon£)"

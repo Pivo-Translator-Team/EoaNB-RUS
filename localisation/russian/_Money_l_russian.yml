@@ -210,7 +210,7 @@
  ADD_UNEMPLOYMENT_EFFECT_TT: "Уровень §Yбезработицы§! в [This.GetAdjective] изменён на [?unemployment_value|%2-=].\n"
  CHANGE_UNEMPLOYMENT_VALUE_MODIFIER_TT: "Изменено влияние §Yбезработицы§! (текущий уровень: [?current_value|-2%=]) на [?modifier_value|-2%=].\n"
  TAKE_LOAN_EFFECT_TT: "Взять §Y[?loans_amount|0]§! займов. \n§YЭффекты каждого займа:§! \n"
- TAKE_OVER_DEBT_EFFECT_TT: "Take over [FROM.GetName]'s debt of §Y[?FROM.current_loans_sum|0][GetCurrentSIUnit][GetCurrencyTextIcon]§!.\n" #NT!
+ TAKE_OVER_DEBT_EFFECT_TT: "Take over [FROM.GetName]'s debt of §Y[?FROM.current_loans_sum|0][GetCurrentSIUnit][GetCurrencyTextIcon]§!.\n"
   
   # Scripted Triggers: 
  HAS_TAKEN_A_LOAN: "Взял займ"
@@ -352,41 +352,41 @@
  money_income_factor: "£money_icon£ Модификатор денежных поступлений"
  money_expenses: "£money_icon£ Денежные расходы (ежемесячно)"
  money_expenses_factor: "£money_icon£ Модификатор денежных расходов"
- #money_income_factor_from_ideas: "§Ymoney_income_factor_from_ideas§! has no effect and should be hidden" #NT!
- #money_income_factor_from_decisions: "§Ymoney_income_factor_from_decisions§! has no effect and should be hidden" #NT!
- #money_expenses_factor_from_ideas: "§Ymoney_expenses_factor_from_ideas§! has no effect and should be hidden" #NT!
- #money_expenses_factor_from_decisions: "§Ymoney_expenses_factor_from_decisions§! has no effect and should be hidden" #NT!
- #inflation_change_factor_from_ideas: "§Yinflation_change_factor_from_ideas§! has no effect and should be hidden" #NT!
- #inflation_change_factor_from_decisions: "§Yinflation_change_factor_from_decisions§! has no effect and should be hidden" #NT!
- #tax_efficiency_factor_from_ideas: "§Ytax_efficiency_factor_from_ideas§! has no effect and should be hidden" #NT!
- #tax_efficiency_factor_from_decisions: "§Ytax_efficiency_factor_from_decisions§! has no effect and should be hidden" #NT!
- #consumer_goods_income_factor_from_ideas: "§Yconsumer_goods_income_factor_from_ideas§! has no effect and should be hidden" #NT!
- #consumer_goods_income_factor_from_decisions: "§Yconsumer_goods_income_factor_from_decisions§! has no effect and should be hidden" #NT!
+ #money_income_factor_from_ideas: "§Ymoney_income_factor_from_ideas§! has no effect and should be hidden"
+ #money_income_factor_from_decisions: "§Ymoney_income_factor_from_decisions§! has no effect and should be hidden"
+ #money_expenses_factor_from_ideas: "§Ymoney_expenses_factor_from_ideas§! has no effect and should be hidden"
+ #money_expenses_factor_from_decisions: "§Ymoney_expenses_factor_from_decisions§! has no effect and should be hidden"
+ #inflation_change_factor_from_ideas: "§Yinflation_change_factor_from_ideas§! has no effect and should be hidden"
+ #inflation_change_factor_from_decisions: "§Yinflation_change_factor_from_decisions§! has no effect and should be hidden"
+ #tax_efficiency_factor_from_ideas: "§Ytax_efficiency_factor_from_ideas§! has no effect and should be hidden"
+ #tax_efficiency_factor_from_decisions: "§Ytax_efficiency_factor_from_decisions§! has no effect and should be hidden"
+ #consumer_goods_income_factor_from_ideas: "§Yconsumer_goods_income_factor_from_ideas§! has no effect and should be hidden"
+ #consumer_goods_income_factor_from_decisions: "§Yconsumer_goods_income_factor_from_decisions§! has no effect and should be hidden"
  social_spending_cost_factor: "Расходы на социальные нужды на миллион основного населения"
- #social_spending_cost_factor_from_ideas: "§Ysocial_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- #social_spending_cost_factor_from_decisions: "§Ysocial_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
+ #social_spending_cost_factor_from_ideas: "§Ysocial_spending_cost_factor_from_ideas§! has no effect and should be hidden"
+ #social_spending_cost_factor_from_decisions: "§Ysocial_spending_cost_factor_from_ideas§! has no effect and should be hidden"
  army_spending_cost_factor: "Стоимость на каждую задействованную батальонную единицу"
- #army_spending_cost_factor_from_ideas: "§Yarmy_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- #army_spending_cost_factor_from_decisions: "§Yarmy_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
+ #army_spending_cost_factor_from_ideas: "§Yarmy_spending_cost_factor_from_ideas§! has no effect and should be hidden"
+ #army_spending_cost_factor_from_decisions: "§Yarmy_spending_cost_factor_from_ideas§! has no effect and should be hidden"
  research_spending_cost_factor: "Стоимость на каждую исследовательскую ячейку"
- #research_spending_cost_factor_from_ideas: "§Yresearch_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- #research_spending_cost_factor_from_decisions: "§Yresearch_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
+ #research_spending_cost_factor_from_ideas: "§Yresearch_spending_cost_factor_from_ideas§! has no effect and should be hidden"
+ #research_spending_cost_factor_from_decisions: "§Yresearch_spending_cost_factor_from_ideas§! has no effect and should be hidden"
  additional_research_slots_cosmetical: "Исследовательские ячейки"
  weekly_unemployment_change: "Еженедельное изменение безработицы"
  monthly_unemployment_change: "Ежемесячное изменение безработицы"
  unemployment_value_factor: "Влияние безработицы"
   
  navy_spending_cost_factor: "Стоимость за каждый корабль"
- #navy_spending_cost_factor_from_ideas: "§Ynavy_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- #navy_spending_cost_factor_from_decisions: "§Ynavy_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
+ #navy_spending_cost_factor_from_ideas: "§Ynavy_spending_cost_factor_from_ideas§! has no effect and should be hidden"
+ #navy_spending_cost_factor_from_decisions: "§Ynavy_spending_cost_factor_from_ideas§! has no effect and should be hidden"
   
  road_spending_cost_factor: "Стоимость за каждую единицу инфраструктуры"
- #road_spending_cost_factor_from_ideas: "§Yroad_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- #road_spending_cost_factor_from_decisions: "§Yroad_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
+ #road_spending_cost_factor_from_ideas: "§Yroad_spending_cost_factor_from_ideas§! has no effect and should be hidden"
+ #road_spending_cost_factor_from_decisions: "§Yroad_spending_cost_factor_from_ideas§! has no effect and should be hidden"
   
  law_spending_cost_factor: "Стоимость за единицу стабильности"
- #law_spending_cost_factor_from_ideas: "§Ylaw_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
- #law_spending_cost_factor_from_decisions: "§Ylaw_spending_cost_factor_from_ideas§! has no effect and should be hidden" #NT!
+ #law_spending_cost_factor_from_ideas: "§Ylaw_spending_cost_factor_from_ideas§! has no effect and should be hidden"
+ #law_spending_cost_factor_from_decisions: "§Ylaw_spending_cost_factor_from_ideas§! has no effect and should be hidden"
   
   # Scripted Localisation: 
  string_taxes_slider_button_left_tt_max_level_reached: "§RМы не можем дальше снизить §Yуровень налогообложения§!.§W"

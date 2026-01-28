@@ -203,24 +203,24 @@
  GER_decision_unite_liberal_monarchy_desc: "Мы объединим немецкие государства под одним императором, с идеалами либерализма и свободы!"
  GER_decision_unite_liberal_monarchy_trigger_tt: "§Y[Root.GetNameDef]§! — монархия и владеет большинством важных немецких государств, а также либо §Y[8.GetName]§!, либо §Y[28.GetName]§!, либо обеими."
  GER_decision_unite_liberal_monarchy_effect_tt: "§GМы объединим Германию как либеральную монархию!§!\n\n"
- GER_decision_category_unite_germany_bismarck: "Unification of Germany" #NT!
- GER_decision_category_unite_germany_bismarck_desc: "A unification of Germany seems to be within reach. If we play our cards right and if victory on the battlefield allows, we shall end the German fragmentation once and for all." #NT!
- GER_decision_propose_accession_to_ngc_bad: "Propose Accession to the North German Confederation to Baden" #NT!
- GER_decision_propose_accession_to_ngc_bad_desc: "We shall invite [BAD.GetFlag][BAD.GetName] to join the North German Confederation." #NT!
- GER_decision_propose_accession_to_ngc_bav: "Propose Accession to the North German Confederation to Bavaria" #NT!
- GER_decision_propose_accession_to_ngc_bav_desc: "We shall invite [BAV.GetFlag][BAV.GetName] to join the North German Confederation." #NT!
- GER_decision_propose_accession_to_ngc_hsd: "Propose Accession to the North German Confederation to Hesse-Darmstadt" #NT!
- GER_decision_propose_accession_to_ngc_hsd_desc: "We shall invite [HSD.GetFlag][HSD.GetName] to join the North German Confederation." #NT!
- GER_decision_propose_accession_to_ngc_wur: "Propose Accession to the North German Confederation to Wurttemberg" #NT!
- GER_decision_propose_accession_to_ngc_wur_desc: "We shall invite [WUR.GetFlag][WUR.GetName] to join the North German Confederation." #NT!
- GER_decision_bribe_king_ludwig: "Bribe King Ludwig II of Bavaria" #NT!
- GER_decision_bribe_king_ludwig_desc: "The Bavarians continue to deny our supremacy over Germany, and instead they want to preserve their full independence. His Majesty, King Ludwig II of Bavaria, remains stubborn and unwilling to accept the facts. He does have a weak spot, though, that we could try to exploit. He's considered a hopeless romantic who is more interested in building castles than in ruling his country, and His Majesty's costly hobby is ruining state finances. We could use the confiscated assets of the House of Guelphs that fell into our hands after the annexation of the Kingdom of Hanover to bribe the king. The funds are dispensable and, even more importantly, out of parliament's control." #NT!
- GER_decision_prepare_kaiserbrief: "Prepare the Kaiserbrief" #NT!
- GER_decision_prepare_kaiserbrief_desc: "Everything is set to finally unite the German states under the roof of the German Empire. King Wilhelm I, however, remains sceptical. [PRS.GetLeader] will draft a letter that will be sent by King Ludwig II of Bavaria to persuade His Majesty King Wilhelm of accepting the crown of the German Emperor in the name of the German nobles." #NT!
- GER_decision_unite_germany_bismarck: "Proclaim the German Empire!" #NT!
- GER_decision_unite_germany_bismarck_desc: "The time has come to finally unite the German states under one banner. We shall proclaim the German Empire with the King of Prussia as German Emperor!" #NT!
- GER_decision_unite_germany_bismarck_trigger_tt: "§Y[Root.GetNameDef]§! owns most of the important German States, and fully controls either §Y[8.GetName]§! or §Y[28.GetName]§! or both.\n\n" #NT!
- GER_decision_unite_germany_bismarck_effect_tt: "§GWe will unite Germany as an authoritarian empire!§!\n\n" #NT!
+ GER_decision_category_unite_germany_bismarck: "Unification of Germany"
+ GER_decision_category_unite_germany_bismarck_desc: "A unification of Germany seems to be within reach. If we play our cards right and if victory on the battlefield allows, we shall end the German fragmentation once and for all."
+ GER_decision_propose_accession_to_ngc_bad: "Propose Accession to the North German Confederation to Baden"
+ GER_decision_propose_accession_to_ngc_bad_desc: "We shall invite [BAD.GetFlag][BAD.GetName] to join the North German Confederation."
+ GER_decision_propose_accession_to_ngc_bav: "Propose Accession to the North German Confederation to Bavaria"
+ GER_decision_propose_accession_to_ngc_bav_desc: "We shall invite [BAV.GetFlag][BAV.GetName] to join the North German Confederation."
+ GER_decision_propose_accession_to_ngc_hsd: "Propose Accession to the North German Confederation to Hesse-Darmstadt"
+ GER_decision_propose_accession_to_ngc_hsd_desc: "We shall invite [HSD.GetFlag][HSD.GetName] to join the North German Confederation."
+ GER_decision_propose_accession_to_ngc_wur: "Propose Accession to the North German Confederation to Wurttemberg"
+ GER_decision_propose_accession_to_ngc_wur_desc: "We shall invite [WUR.GetFlag][WUR.GetName] to join the North German Confederation."
+ GER_decision_bribe_king_ludwig: "Bribe King Ludwig II of Bavaria"
+ GER_decision_bribe_king_ludwig_desc: "The Bavarians continue to deny our supremacy over Germany, and instead they want to preserve their full independence. His Majesty, King Ludwig II of Bavaria, remains stubborn and unwilling to accept the facts. He does have a weak spot, though, that we could try to exploit. He's considered a hopeless romantic who is more interested in building castles than in ruling his country, and His Majesty's costly hobby is ruining state finances. We could use the confiscated assets of the House of Guelphs that fell into our hands after the annexation of the Kingdom of Hanover to bribe the king. The funds are dispensable and, even more importantly, out of parliament's control."
+ GER_decision_prepare_kaiserbrief: "Prepare the Kaiserbrief"
+ GER_decision_prepare_kaiserbrief_desc: "Everything is set to finally unite the German states under the roof of the German Empire. King Wilhelm I, however, remains sceptical. [PRS.GetLeader] will draft a letter that will be sent by King Ludwig II of Bavaria to persuade His Majesty King Wilhelm of accepting the crown of the German Emperor in the name of the German nobles."
+ GER_decision_unite_germany_bismarck: "Proclaim the German Empire!"
+ GER_decision_unite_germany_bismarck_desc: "The time has come to finally unite the German states under one banner. We shall proclaim the German Empire with the King of Prussia as German Emperor!"
+ GER_decision_unite_germany_bismarck_trigger_tt: "§Y[Root.GetNameDef]§! owns most of the important German States, and fully controls either §Y[8.GetName]§! or §Y[28.GetName]§! or both.\n\n"
+ GER_decision_unite_germany_bismarck_effect_tt: "§GWe will unite Germany as an authoritarian empire!§!\n\n"
  GER_decision_category_unite_socialist: "Объединение Германии (Социалистическое)"
  GER_decision_category_unite_socialist_desc: ""
  GER_decision_unite_socialist: "Объединить немецкие государства!"

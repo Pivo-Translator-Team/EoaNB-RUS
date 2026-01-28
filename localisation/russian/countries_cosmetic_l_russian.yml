@@ -1,7 +1,7 @@
 ﻿l_russian:
  UCT_autocracy: "Невзятая Территория"
- UCT_autocracy_DEF: "The Unclaimed Territory" #NT!
- UCT_autocracy_ADJ: "Unclaimed" #NT!
+ UCT_autocracy_DEF: "The Unclaimed Territory"
+ UCT_autocracy_ADJ: "Unclaimed"
   
  SPR_victorian_centrism: "Королевство Испания"
  SPR_victorian_centrism_DEF: "Королевство Испания"
@@ -132,8 +132,8 @@
  OKL_autonomy_autonomous_territory_ADJ: "Оклахомск."
   
  DAL_ITA_Protectorate: "Итальянский Протекторат Далмация"
- DAL_ITA_Protectorate_DEF: "The Italian Protectorate of Dalmatia" #NT!
- DAL_ITA_Protectorate_ADJ: "Dalmatian" #NT!
+ DAL_ITA_Protectorate_DEF: "The Italian Protectorate of Dalmatia"
+ DAL_ITA_Protectorate_ADJ: "Dalmatian"
   
  MNC_PIE_autonomy_protectorate: "Протекторат Монако"
  MNC_PIE_autonomy_protectorate_DEF: "Протекторат Монако"
@@ -448,9 +448,9 @@
  WYO_nomad_cosmetic_2: "Кочевники ВаЯо"
  HJZ_nomad_cosmetic_2: "Кочевники Хеджаз"
   
- KBY_mokrani_revolt: "Mokrani Revolt" #NT!
- KBY_mokrani_revolt_DEF: "The Mokrani Revolt" #NT!
- KBY_mokrani_revolt_ADJ: "Kabylian" #NT!
+ KBY_mokrani_revolt: "Mokrani Revolt"
+ KBY_mokrani_revolt_DEF: "The Mokrani Revolt"
+ KBY_mokrani_revolt_ADJ: "Kabylian"
   
  PRS_cosmetic_republic: "Прусская Республика"
  PRS_cosmetic_republic_DEF: "Республика Пруссия"
@@ -737,36 +737,36 @@
  AUS_HUN_dual_chauvinist_populism_ADJ: "Австро-Венгерск."
  AUS_HUN_dual_fundamentalism_ADJ: "Австро-Венгерск."
   
- AUS_HUN_dual_regular_names_centrism: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_traditional_conservatism: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_social_egalitarianism: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_ideology_radical_socialism: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_ideology_social_liberalism: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_autocracy: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_radical_democracy: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_anarchism: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_chauvinist_populism: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_fundamentalism: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_centrism_DEF: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_traditional_conservatism_DEF: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_social_egalitarianism_DEF: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_ideology_radical_socialism_DEF: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_ideology_social_liberalism_DEF: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_autocracy_DEF: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_radical_democracy_DEF: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_anarchism_DEF: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_chauvinist_populism_DEF: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_fundamentalism_DEF: "Austrian Empire" #NT!
- AUS_HUN_dual_regular_names_centrism_ADJ: "Austrian" #NT!
- AUS_HUN_dual_regular_names_traditional_conservatism_ADJ: "Austrian" #NT!
- AUS_HUN_dual_regular_names_social_egalitarianism_ADJ: "Austrian" #NT!
- AUS_HUN_dual_regular_names_ideology_radical_socialism_ADJ: "Austrian" #NT!
- AUS_HUN_dual_regular_names_ideology_social_liberalism_ADJ: "Austrian" #NT!
- AUS_HUN_dual_regular_names_autocracy_ADJ: "Austrian" #NT!
- AUS_HUN_dual_regular_names_radical_democracy_ADJ: "Austrian" #NT!
- AUS_HUN_dual_regular_names_anarchism_ADJ: "Austrian" #NT!
- AUS_HUN_dual_regular_names_chauvinist_populism_ADJ: "Austrian" #NT!
- AUS_HUN_dual_regular_names_fundamentalism_ADJ: "Austrian" #NT!
+ AUS_HUN_dual_regular_names_centrism: "Austrian Empire"
+ AUS_HUN_dual_regular_names_traditional_conservatism: "Austrian Empire"
+ AUS_HUN_dual_regular_names_social_egalitarianism: "Austrian Empire"
+ AUS_HUN_dual_regular_names_ideology_radical_socialism: "Austrian Empire"
+ AUS_HUN_dual_regular_names_ideology_social_liberalism: "Austrian Empire"
+ AUS_HUN_dual_regular_names_autocracy: "Austrian Empire"
+ AUS_HUN_dual_regular_names_radical_democracy: "Austrian Empire"
+ AUS_HUN_dual_regular_names_anarchism: "Austrian Empire"
+ AUS_HUN_dual_regular_names_chauvinist_populism: "Austrian Empire"
+ AUS_HUN_dual_regular_names_fundamentalism: "Austrian Empire"
+ AUS_HUN_dual_regular_names_centrism_DEF: "Austrian Empire"
+ AUS_HUN_dual_regular_names_traditional_conservatism_DEF: "Austrian Empire"
+ AUS_HUN_dual_regular_names_social_egalitarianism_DEF: "Austrian Empire"
+ AUS_HUN_dual_regular_names_ideology_radical_socialism_DEF: "Austrian Empire"
+ AUS_HUN_dual_regular_names_ideology_social_liberalism_DEF: "Austrian Empire"
+ AUS_HUN_dual_regular_names_autocracy_DEF: "Austrian Empire"
+ AUS_HUN_dual_regular_names_radical_democracy_DEF: "Austrian Empire"
+ AUS_HUN_dual_regular_names_anarchism_DEF: "Austrian Empire"
+ AUS_HUN_dual_regular_names_chauvinist_populism_DEF: "Austrian Empire"
+ AUS_HUN_dual_regular_names_fundamentalism_DEF: "Austrian Empire"
+ AUS_HUN_dual_regular_names_centrism_ADJ: "Austrian"
+ AUS_HUN_dual_regular_names_traditional_conservatism_ADJ: "Austrian"
+ AUS_HUN_dual_regular_names_social_egalitarianism_ADJ: "Austrian"
+ AUS_HUN_dual_regular_names_ideology_radical_socialism_ADJ: "Austrian"
+ AUS_HUN_dual_regular_names_ideology_social_liberalism_ADJ: "Austrian"
+ AUS_HUN_dual_regular_names_autocracy_ADJ: "Austrian"
+ AUS_HUN_dual_regular_names_radical_democracy_ADJ: "Austrian"
+ AUS_HUN_dual_regular_names_anarchism_ADJ: "Austrian"
+ AUS_HUN_dual_regular_names_chauvinist_populism_ADJ: "Austrian"
+ AUS_HUN_dual_regular_names_fundamentalism_ADJ: "Austrian"
   
  AUH_dual_centrism: "Transleithania"
  AUH_dual_traditional_conservatism: "Transleithania"
@@ -799,36 +799,36 @@
  AUH_dual_chauvinist_populism_ADJ: "Hungarian"
  AUH_dual_fundamentalism_ADJ: "Hungarian"
   
- AUH_dual_regular_names_centrism: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_traditional_conservatism: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_social_egalitarianism: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_ideology_radical_socialism: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_ideology_social_liberalism: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_autocracy: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_radical_democracy: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_anarchism: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_chauvinist_populism: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_fundamentalism: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_centrism_DEF: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_traditional_conservatism_DEF: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_social_egalitarianism_DEF: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_ideology_radical_socialism_DEF: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_ideology_social_liberalism_DEF: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_autocracy_DEF: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_radical_democracy_DEF: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_anarchism_DEF: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_chauvinist_populism_DEF: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_fundamentalism_DEF: "Kingdom of Hungary" #NT!
- AUH_dual_regular_names_centrism_ADJ: "Hungarian" #NT!
- AUH_dual_regular_names_traditional_conservatism_ADJ: "Hungarian" #NT!
- AUH_dual_regular_names_social_egalitarianism_ADJ: "Hungarian" #NT!
- AUH_dual_regular_names_ideology_radical_socialism_ADJ: "Hungarian" #NT!
- AUH_dual_regular_names_ideology_social_liberalism_ADJ: "Hungarian" #NT!
- AUH_dual_regular_names_autocracy_ADJ: "Hungarian" #NT!
- AUH_dual_regular_names_radical_democracy_ADJ: "Hungarian" #NT!
- AUH_dual_regular_names_anarchism_ADJ: "Hungarian" #NT!
- AUH_dual_regular_names_chauvinist_populism_ADJ: "Hungarian" #NT!
- AUH_dual_regular_names_fundamentalism_ADJ: "Hungarian" #NT!
+ AUH_dual_regular_names_centrism: "Kingdom of Hungary"
+ AUH_dual_regular_names_traditional_conservatism: "Kingdom of Hungary"
+ AUH_dual_regular_names_social_egalitarianism: "Kingdom of Hungary"
+ AUH_dual_regular_names_ideology_radical_socialism: "Kingdom of Hungary"
+ AUH_dual_regular_names_ideology_social_liberalism: "Kingdom of Hungary"
+ AUH_dual_regular_names_autocracy: "Kingdom of Hungary"
+ AUH_dual_regular_names_radical_democracy: "Kingdom of Hungary"
+ AUH_dual_regular_names_anarchism: "Kingdom of Hungary"
+ AUH_dual_regular_names_chauvinist_populism: "Kingdom of Hungary"
+ AUH_dual_regular_names_fundamentalism: "Kingdom of Hungary"
+ AUH_dual_regular_names_centrism_DEF: "Kingdom of Hungary"
+ AUH_dual_regular_names_traditional_conservatism_DEF: "Kingdom of Hungary"
+ AUH_dual_regular_names_social_egalitarianism_DEF: "Kingdom of Hungary"
+ AUH_dual_regular_names_ideology_radical_socialism_DEF: "Kingdom of Hungary"
+ AUH_dual_regular_names_ideology_social_liberalism_DEF: "Kingdom of Hungary"
+ AUH_dual_regular_names_autocracy_DEF: "Kingdom of Hungary"
+ AUH_dual_regular_names_radical_democracy_DEF: "Kingdom of Hungary"
+ AUH_dual_regular_names_anarchism_DEF: "Kingdom of Hungary"
+ AUH_dual_regular_names_chauvinist_populism_DEF: "Kingdom of Hungary"
+ AUH_dual_regular_names_fundamentalism_DEF: "Kingdom of Hungary"
+ AUH_dual_regular_names_centrism_ADJ: "Hungarian"
+ AUH_dual_regular_names_traditional_conservatism_ADJ: "Hungarian"
+ AUH_dual_regular_names_social_egalitarianism_ADJ: "Hungarian"
+ AUH_dual_regular_names_ideology_radical_socialism_ADJ: "Hungarian"
+ AUH_dual_regular_names_ideology_social_liberalism_ADJ: "Hungarian"
+ AUH_dual_regular_names_autocracy_ADJ: "Hungarian"
+ AUH_dual_regular_names_radical_democracy_ADJ: "Hungarian"
+ AUH_dual_regular_names_anarchism_ADJ: "Hungarian"
+ AUH_dual_regular_names_chauvinist_populism_ADJ: "Hungarian"
+ AUH_dual_regular_names_fundamentalism_ADJ: "Hungarian"
   
  BOS_austria_puppet_centrism: "Bosnian Condominium"
  BOS_austria_puppet_traditional_conservatism: "Bosnian Condominium"
@@ -3346,8 +3346,8 @@
  ALB_league_of_prizren_fundamentalism_ADJ: "Албанск."
   
  NOR_SWE_union: "Норвегия"
- NOR_SWE_union_DEF: "The Kingdom of Norway" #NT!
- NOR_SWE_union_ADJ: "Norwegian" #NT!
+ NOR_SWE_union_DEF: "The Kingdom of Norway"
+ NOR_SWE_union_ADJ: "Norwegian"
   
  SIK_transoxiana_centrism: "Трансоксания"
  SIK_transoxiana_traditional_conservatism: "Трансоксания"
@@ -3696,5 +3696,3 @@
  AFR_tribes_central: "Central African Tribes"
  AFR_tribes_south: "South African Tribes"
  AFR_tribes_east: "East African Tribes"
- AFR_tribes_west: "West African Tribes"
- AFR_tribes_sahara: "Sahara African Tribes"
