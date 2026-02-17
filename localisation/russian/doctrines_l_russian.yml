@@ -774,359 +774,362 @@
   
   
  #EOANB# 
+  
+ l_english: 
+  
   # DOCTRINE FOLDERS 
  land_doctrine_folder: "Армейские доктрины"
  naval_doctrine_folder: "Военно-морские доктрины"
  air_doctrine_folder: "Воздушные доктрины"
   
   # GRAND DOCTRINES 
- GRAND_DOCTRINE_NAPOLEONIC_ERA: "Napoleonic Era" #NT!
- grand_doctrine_napoleonic_era_desc: "The age of the line and column - Napoleonic doctrine emphasizes massed formations, decisive cavalry charges, and concentrated artillery barrages to shatter enemy armies in pitched battle." #NT!
- GRAND_DOCTRINE_VICTORIAN_ERA: "Victorian Era" #NT!
- grand_doctrine_victorian_era_desc: "Industrial warfare demands adaptation - Victorian doctrine integrates modern rifled weapons, professional standing armies, and colonial experience into a comprehensive military system." #NT!
+ GRAND_DOCTRINE_NAPOLEONIC_ERA: "Napoleonic Era"
+ grand_doctrine_napoleonic_era_desc: "The age of the line and column - Napoleonic doctrine emphasizes massed formations, decisive cavalry charges, and concentrated artillery barrages to shatter enemy armies in pitched battle."
+ GRAND_DOCTRINE_VICTORIAN_ERA: "Victorian Era"
+ grand_doctrine_victorian_era_desc: "Industrial warfare demands adaptation - Victorian doctrine integrates modern rifled weapons, professional standing armies, and colonial experience into a comprehensive military system."
   
   # DOCTRINE TRACKS 
- DOCTRINE_TRACK_NAPOLEONIC_CAVALRY: "Napoleonic Cavalry" #NT!
- DOCTRINE_TRACK_NAPOLEONIC_INFANTRY: "Napoleonic Infantry" #NT!
- DOCTRINE_TRACK_NAPOLEONIC_ARTILLERY: "Napoleonic Artillery" #NT!
- DOCTRINE_TRACK_VICTORIAN_MOBILITY: "Victorian Cavalry" #NT!
- DOCTRINE_TRACK_VICTORIAN_INFANTRY: "Victorian Infantry" #NT!
- DOCTRINE_TRACK_VICTORIAN_INFANTRY_HEAVY: "Victorian Infantry Heavy" #NT!
- DOCTRINE_TRACK_VICTORIAN_ARTILLERY: "Victorian Artillery" #NT!
- DOCTRINE_TRACK_VICTORIAN_COLONIAL: "Colonial Warfare" #NT!
- DOCTRINE_TRACK_VICTORIAN_PROFESSIONAL: "Professional Army" #NT!
- DOCTRINE_TRACK_VICTORIAN_CAVALRY: "Victorian Cavalry" #NT!
- DOCTRINE_TRACK_VICTORIAN_CAVALRY_2: "Victorian Cavalry Specialists" #NT!
+ DOCTRINE_TRACK_NAPOLEONIC_CAVALRY: "Napoleonic Cavalry"
+ DOCTRINE_TRACK_NAPOLEONIC_INFANTRY: "Napoleonic Infantry"
+ DOCTRINE_TRACK_NAPOLEONIC_ARTILLERY: "Napoleonic Artillery"
+ DOCTRINE_TRACK_VICTORIAN_MOBILITY: "Victorian Cavalry"
+ DOCTRINE_TRACK_VICTORIAN_INFANTRY: "Victorian Infantry"
+ DOCTRINE_TRACK_VICTORIAN_INFANTRY_HEAVY: "Victorian Infantry Heavy"
+ DOCTRINE_TRACK_VICTORIAN_ARTILLERY: "Victorian Artillery"
+ DOCTRINE_TRACK_VICTORIAN_COLONIAL: "Colonial Warfare"
+ DOCTRINE_TRACK_VICTORIAN_PROFESSIONAL: "Professional Army"
+ DOCTRINE_TRACK_VICTORIAN_CAVALRY: "Victorian Cavalry"
+ DOCTRINE_TRACK_VICTORIAN_CAVALRY_2: "Victorian Cavalry Specialists"
   
   # NAPOLEONIC CAVALRY SUB-DOCTRINES 
- SUBDOCTRINE_NAPOLEONIC_HEAVY_CAVALRY: "Heavy Cavalry" #NT!
- SUBDOCTRINE_NAPOLEONIC_HEAVY_CAVALRY_DESC: "Cuirassiers and heavy dragoons form the hammer of the army. Massed charges at the decisive moment can break enemy formations and turn the tide of battle." #NT!
- SUBDOCTRINE_NAPOLEONIC_LIGHT_CAVALRY: "Light Cavalry" #NT!
- SUBDOCTRINE_NAPOLEONIC_LIGHT_CAVALRY_DESC: "Hussars and chasseurs serve as the eyes of the army. Swift reconnaissance and screening operations provide commanders with vital intelligence while denying it to the enemy." #NT!
+ SUBDOCTRINE_NAPOLEONIC_HEAVY_CAVALRY: "Heavy Cavalry"
+ SUBDOCTRINE_NAPOLEONIC_HEAVY_CAVALRY_DESC: "Cuirassiers and heavy dragoons form the hammer of the army. Massed charges at the decisive moment can break enemy formations and turn the tide of battle."
+ SUBDOCTRINE_NAPOLEONIC_LIGHT_CAVALRY: "Light Cavalry"
+ SUBDOCTRINE_NAPOLEONIC_LIGHT_CAVALRY_DESC: "Hussars and chasseurs serve as the eyes of the army. Swift reconnaissance and screening operations provide commanders with vital intelligence while denying it to the enemy."
   
   # NAPOLEONIC INFANTRY SUB-DOCTRINES 
- SUBDOCTRINE_NAPOLEONIC_CONSERVATIVE: "Conservative Doctrine" #NT!
- SUBDOCTRINE_NAPOLEONIC_CONSERVATIVE_DESC: "Time-tested tactics emphasizing disciplined linear formations and prepared defensive positions. Hold the line at all costs while artillery does its bloody work." #NT!
- SUBDOCTRINE_NAPOLEONIC_INNOVATIVE: "Innovative Doctrine" #NT!
- SUBDOCTRINE_NAPOLEONIC_INNOVATIVE_DESC: "Revolutionary tactics combining flexible column attacks with devastating line volleys. Adapt formations to the situation and seize the initiative from the enemy." #NT!
+ SUBDOCTRINE_NAPOLEONIC_CONSERVATIVE: "Conservative Doctrine"
+ SUBDOCTRINE_NAPOLEONIC_CONSERVATIVE_DESC: "Time-tested tactics emphasizing disciplined linear formations and prepared defensive positions. Hold the line at all costs while artillery does its bloody work."
+ SUBDOCTRINE_NAPOLEONIC_INNOVATIVE: "Innovative Doctrine"
+ SUBDOCTRINE_NAPOLEONIC_INNOVATIVE_DESC: "Revolutionary tactics combining flexible column attacks with devastating line volleys. Adapt formations to the situation and seize the initiative from the enemy."
   
   # NAPOLEONIC ARTILLERY SUB-DOCTRINES 
- SUBDOCTRINE_NAPOLEONIC_LIGHT_ARTILLERY: "Light Artillery" #NT!
- SUBDOCTRINE_NAPOLEONIC_LIGHT_ARTILLERY_DESC: "Horse artillery and light field pieces provide mobile fire support, rapidly deploying to exploit tactical opportunities and support advancing formations." #NT!
- SUBDOCTRINE_NAPOLEONIC_HEAVY_ARTILLERY: "Heavy Artillery" #NT!
- SUBDOCTRINE_NAPOLEONIC_HEAVY_ARTILLERY_DESC: "Massed heavy guns deliver devastating bombardments that can shatter enemy formations and reduce fortifications to rubble before the assault." #NT!
+ SUBDOCTRINE_NAPOLEONIC_LIGHT_ARTILLERY: "Light Artillery"
+ SUBDOCTRINE_NAPOLEONIC_LIGHT_ARTILLERY_DESC: "Horse artillery and light field pieces provide mobile fire support, rapidly deploying to exploit tactical opportunities and support advancing formations."
+ SUBDOCTRINE_NAPOLEONIC_HEAVY_ARTILLERY: "Heavy Artillery"
+ SUBDOCTRINE_NAPOLEONIC_HEAVY_ARTILLERY_DESC: "Massed heavy guns deliver devastating bombardments that can shatter enemy formations and reduce fortifications to rubble before the assault."
   
   # VICTORIAN MOBILITY SUB-DOCTRINES 
- SUBDOCTRINE_VICTORIAN_LANCERS: "Lancers" #NT!
- SUBDOCTRINE_VICTORIAN_LANCERS_DESC: "The lance remains a devastating weapon in skilled hands. Uhlan regiments deliver shock charges that can break even steady infantry if the timing is right." #NT!
- SUBDOCTRINE_VICTORIAN_LIGHT_CAVALRY: "Light Cavalry" #NT!
- SUBDOCTRINE_VICTORIAN_LIGHT_CAVALRY_DESC: "Modern light cavalry emphasizes reconnaissance and screening over shock action. Speed and mobility allow them to gather intelligence and disrupt enemy communications." #NT!
- SUBDOCTRINE_VICTORIAN_MOUNTED_INFANTRY: "Mounted Infantry" #NT!
- SUBDOCTRINE_VICTORIAN_MOUNTED_INFANTRY_DESC: "Combining the mobility of cavalry with the firepower of infantry, mounted infantry can rapidly seize key terrain and hold it against counterattack." #NT!
+ SUBDOCTRINE_VICTORIAN_LANCERS: "Lancers"
+ SUBDOCTRINE_VICTORIAN_LANCERS_DESC: "The lance remains a devastating weapon in skilled hands. Uhlan regiments deliver shock charges that can break even steady infantry if the timing is right."
+ SUBDOCTRINE_VICTORIAN_LIGHT_CAVALRY: "Light Cavalry"
+ SUBDOCTRINE_VICTORIAN_LIGHT_CAVALRY_DESC: "Modern light cavalry emphasizes reconnaissance and screening over shock action. Speed and mobility allow them to gather intelligence and disrupt enemy communications."
+ SUBDOCTRINE_VICTORIAN_MOUNTED_INFANTRY: "Mounted Infantry"
+ SUBDOCTRINE_VICTORIAN_MOUNTED_INFANTRY_DESC: "Combining the mobility of cavalry with the firepower of infantry, mounted infantry can rapidly seize key terrain and hold it against counterattack."
   
   # VICTORIAN INFANTRY SUB-DOCTRINES 
- SUBDOCTRINE_VICTORIAN_DEEP_BATTLES: "Deep Battles" #NT!
- SUBDOCTRINE_VICTORIAN_DEEP_BATTLES_DESC: "Defense in depth absorbs enemy attacks while preserving strength for counterstrokes. Multiple defensive lines ensure that breakthroughs can be contained and eliminated." #NT!
- SUBDOCTRINE_VICTORIAN_AGGRESSIVE: "Aggressive Tactics" #NT!
- SUBDOCTRINE_VICTORIAN_AGGRESSIVE_DESC: "Modern firepower demands new offensive methods. Fire and movement tactics allow infantry to close with the enemy while maintaining suppressive fire." #NT!
+ SUBDOCTRINE_VICTORIAN_DEEP_BATTLES: "Deep Battles"
+ SUBDOCTRINE_VICTORIAN_DEEP_BATTLES_DESC: "Defense in depth absorbs enemy attacks while preserving strength for counterstrokes. Multiple defensive lines ensure that breakthroughs can be contained and eliminated."
+ SUBDOCTRINE_VICTORIAN_AGGRESSIVE: "Aggressive Tactics"
+ SUBDOCTRINE_VICTORIAN_AGGRESSIVE_DESC: "Modern firepower demands new offensive methods. Fire and movement tactics allow infantry to close with the enemy while maintaining suppressive fire."
   
   # VICTORIAN ARTILLERY SUB-DOCTRINES 
- SUBDOCTRINE_VICTORIAN_FIELD_ARTILLERY: "Field Artillery" #NT!
- SUBDOCTRINE_VICTORIAN_FIELD_ARTILLERY_DESC: "Rifled field guns provide accurate, mobile fire support. Close integration with infantry allows artillery to respond rapidly to tactical developments." #NT!
- SUBDOCTRINE_VICTORIAN_SIEGE_ARTILLERY: "Siege Artillery" #NT!
- SUBDOCTRINE_VICTORIAN_SIEGE_ARTILLERY_DESC: "Heavy howitzers and siege guns can reduce the strongest fortifications. Plunging fire devastates enemies in prepared positions." #NT!
- SUBDOCTRINE_VICTORIAN_MACHINE_GUNS: "Machine Guns" #NT!
- SUBDOCTRINE_VICTORIAN_MACHINE_GUNS_DESC: "The machine gun transforms defensive warfare. A handful of guns can hold ground against overwhelming numbers, fundamentally changing the calculus of battle." #NT!
+ SUBDOCTRINE_VICTORIAN_FIELD_ARTILLERY: "Field Artillery"
+ SUBDOCTRINE_VICTORIAN_FIELD_ARTILLERY_DESC: "Rifled field guns provide accurate, mobile fire support. Close integration with infantry allows artillery to respond rapidly to tactical developments."
+ SUBDOCTRINE_VICTORIAN_SIEGE_ARTILLERY: "Siege Artillery"
+ SUBDOCTRINE_VICTORIAN_SIEGE_ARTILLERY_DESC: "Heavy howitzers and siege guns can reduce the strongest fortifications. Plunging fire devastates enemies in prepared positions."
+ SUBDOCTRINE_VICTORIAN_MACHINE_GUNS: "Machine Guns"
+ SUBDOCTRINE_VICTORIAN_MACHINE_GUNS_DESC: "The machine gun transforms defensive warfare. A handful of guns can hold ground against overwhelming numbers, fundamentally changing the calculus of battle."
   
   # VICTORIAN COLONIAL & PROFESSIONAL SUB-DOCTRINES 
- SUBDOCTRINE_VICTORIAN_COLONIAL: "Colonial Warfare" #NT!
- SUBDOCTRINE_VICTORIAN_COLONIAL_DESC: "Experience in colonial conflicts teaches adaptation to difficult terrain and climate. Native auxiliaries extend the reach of regular forces across vast territories." #NT!
- SUBDOCTRINE_VICTORIAN_PROFESSIONAL: "Professional Army" #NT!
- SUBDOCTRINE_VICTORIAN_PROFESSIONAL_DESC: "A professional standing army with standardized training and experienced officers forms the backbone of modern military power. Quality triumphs over mere quantity." #NT!
+ SUBDOCTRINE_VICTORIAN_COLONIAL: "Colonial Warfare"
+ SUBDOCTRINE_VICTORIAN_COLONIAL_DESC: "Experience in colonial conflicts teaches adaptation to difficult terrain and climate. Native auxiliaries extend the reach of regular forces across vast territories."
+ SUBDOCTRINE_VICTORIAN_PROFESSIONAL: "Professional Army"
+ SUBDOCTRINE_VICTORIAN_PROFESSIONAL_DESC: "A professional standing army with standardized training and experienced officers forms the backbone of modern military power. Quality triumphs over mere quantity."
   
   # NAPOLEONIC HEAVY CAVALRY REWARDS 
- napoleonic_heavy_cavalry_doctrine_doctrine_nap_cavalry_shock: "Shock Tactics" #NT!
- napoleonic_heavy_cavalry_doctrine_doctrine_nap_cavalry_pursuit: "Relentless Pursuit" #NT!
- napoleonic_heavy_cavalry_doctrine_doctrine_nap_cavalry_clearing: "Battlefield Clearing" #NT!
- napoleonic_heavy_cavalry_doctrine_doctrine_nap_rearguard: "Rearguard Actions" #NT!
- napoleonic_heavy_cavalry_doctrine_doctrine_nap_cavalry_dominance: "Cavalry Dominance" #NT!
+ napoleonic_heavy_cavalry_doctrine_doctrine_nap_cavalry_shock: "Shock Tactics"
+ napoleonic_heavy_cavalry_doctrine_doctrine_nap_cavalry_pursuit: "Relentless Pursuit"
+ napoleonic_heavy_cavalry_doctrine_doctrine_nap_cavalry_clearing: "Battlefield Clearing"
+ napoleonic_heavy_cavalry_doctrine_doctrine_nap_rearguard: "Rearguard Actions"
+ napoleonic_heavy_cavalry_doctrine_doctrine_nap_cavalry_dominance: "Cavalry Dominance"
   
   # NAPOLEONIC LIGHT CAVALRY REWARDS 
- napoleonic_light_cavalry_doctrine_doctrine_nap_reconnaissance: "Advanced Reconnaissance" #NT!
- napoleonic_light_cavalry_doctrine_doctrine_nap_screening: "Screening Operations" #NT!
- napoleonic_light_cavalry_doctrine_doctrine_nap_pursuit_enemy: "Enemy Pursuit" #NT!
- napoleonic_light_cavalry_doctrine_doctrine_nap_harassment: "Harassment Tactics" #NT!
- napoleonic_light_cavalry_doctrine_doctrine_nap_light_cav_excellence: "Light Cavalry Excellence" #NT!
+ napoleonic_light_cavalry_doctrine_doctrine_nap_reconnaissance: "Advanced Reconnaissance"
+ napoleonic_light_cavalry_doctrine_doctrine_nap_screening: "Screening Operations"
+ napoleonic_light_cavalry_doctrine_doctrine_nap_pursuit_enemy: "Enemy Pursuit"
+ napoleonic_light_cavalry_doctrine_doctrine_nap_harassment: "Harassment Tactics"
+ napoleonic_light_cavalry_doctrine_doctrine_nap_light_cav_excellence: "Light Cavalry Excellence"
   
   # NAPOLEONIC CONSERVATIVE INFANTRY REWARDS 
- napoleonic_conservative_doctrine_doctrine_nap_defensive_tactics: "Defensive Tactics" #NT!
- napoleonic_conservative_doctrine_doctrine_nap_square_formation: "Infantry Square" #NT!
- napoleonic_conservative_doctrine_doctrine_nap_fortification: "Field Fortifications" #NT!
- napoleonic_conservative_doctrine_doctrine_nap_corps_defensive: "Corps Defense" #NT!
- napoleonic_conservative_doctrine_doctrine_nap_stubborn_defense: "Stubborn Defense" #NT!
+ napoleonic_conservative_doctrine_doctrine_nap_defensive_tactics: "Defensive Tactics"
+ napoleonic_conservative_doctrine_doctrine_nap_square_formation: "Infantry Square"
+ napoleonic_conservative_doctrine_doctrine_nap_fortification: "Field Fortifications"
+ napoleonic_conservative_doctrine_doctrine_nap_corps_defensive: "Corps Defense"
+ napoleonic_conservative_doctrine_doctrine_nap_stubborn_defense: "Stubborn Defense"
   
   # NAPOLEONIC INNOVATIVE INFANTRY REWARDS 
- napoleonic_innovative_doctrine_doctrine_nap_focus_offense: "Offensive Focus" #NT!
- napoleonic_innovative_doctrine_doctrine_nap_column_formation: "Attack Column" #NT!
- napoleonic_innovative_doctrine_doctrine_nap_line_formation: "Line Formation" #NT!
- napoleonic_innovative_doctrine_doctrine_nap_mixed_orders: "Mixed Order Tactics" #NT!
- napoleonic_innovative_doctrine_doctrine_nap_skirmishing: "Skirmisher Screens" #NT!
- napoleonic_innovative_doctrine_doctrine_nap_corps_offensive: "Corps Offensive" #NT!
+ napoleonic_innovative_doctrine_doctrine_nap_focus_offense: "Offensive Focus"
+ napoleonic_innovative_doctrine_doctrine_nap_column_formation: "Attack Column"
+ napoleonic_innovative_doctrine_doctrine_nap_line_formation: "Line Formation"
+ napoleonic_innovative_doctrine_doctrine_nap_mixed_orders: "Mixed Order Tactics"
+ napoleonic_innovative_doctrine_doctrine_nap_skirmishing: "Skirmisher Screens"
+ napoleonic_innovative_doctrine_doctrine_nap_corps_offensive: "Corps Offensive"
   
   # NAPOLEONIC LIGHT ARTILLERY REWARDS 
- napoleonic_light_artillery_doctrine_doctrine_nap_mobile_artillery: "Mobile Batteries" #NT!
- napoleonic_light_artillery_doctrine_doctrine_nap_flying_battery: "Flying Battery" #NT!
- napoleonic_light_artillery_doctrine_doctrine_nap_grand_battery: "Grand Battery" #NT!
- napoleonic_light_artillery_doctrine_doctrine_nap_heavier_shells: "Heavier Shells" #NT!
- napoleonic_light_artillery_doctrine_doctrine_nap_standardized_production: "Standardized Production" #NT!
+ napoleonic_light_artillery_doctrine_doctrine_nap_mobile_artillery: "Mobile Batteries"
+ napoleonic_light_artillery_doctrine_doctrine_nap_flying_battery: "Flying Battery"
+ napoleonic_light_artillery_doctrine_doctrine_nap_grand_battery: "Grand Battery"
+ napoleonic_light_artillery_doctrine_doctrine_nap_heavier_shells: "Heavier Shells"
+ napoleonic_light_artillery_doctrine_doctrine_nap_standardized_production: "Standardized Production"
   
   # NAPOLEONIC HEAVY ARTILLERY REWARDS 
- napoleonic_heavy_artillery_doctrine_doctrine_nap_splash_damage: "Concentrated Fire" #NT!
- napoleonic_heavy_artillery_doctrine_doctrine_nap_fort_buster: "Fortress Reduction" #NT!
- napoleonic_heavy_artillery_doctrine_doctrine_nap_bigger_barrels: "Larger Calibers" #NT!
- napoleonic_heavy_artillery_doctrine_doctrine_nap_siege_warfare: "Siege Warfare" #NT!
- napoleonic_heavy_artillery_doctrine_doctrine_nap_heavy_standardization: "Heavy Standardization" #NT!
+ napoleonic_heavy_artillery_doctrine_doctrine_nap_splash_damage: "Concentrated Fire"
+ napoleonic_heavy_artillery_doctrine_doctrine_nap_fort_buster: "Fortress Reduction"
+ napoleonic_heavy_artillery_doctrine_doctrine_nap_bigger_barrels: "Larger Calibers"
+ napoleonic_heavy_artillery_doctrine_doctrine_nap_siege_warfare: "Siege Warfare"
+ napoleonic_heavy_artillery_doctrine_doctrine_nap_heavy_standardization: "Heavy Standardization"
   
   # VICTORIAN LANCERS REWARDS 
- victorian_lancers_doctrine_doctrine_vic_charge_formations: "Charge Formations" #NT!
- victorian_lancers_doctrine_doctrine_vic_exploit_weakness: "Exploit Weakness" #NT!
- victorian_lancers_doctrine_doctrine_vic_overwhelm_defenses: "Overwhelm Defenses" #NT!
- victorian_lancers_doctrine_doctrine_vic_create_openings: "Create Openings" #NT!
- victorian_lancers_doctrine_doctrine_vic_capitalize_momentum: "Capitalize Momentum" #NT!
- victorian_lancers_doctrine_doctrine_vic_evolve_lancers: "Lancer Evolution" #NT!
+ victorian_lancers_doctrine_doctrine_vic_charge_formations: "Charge Formations"
+ victorian_lancers_doctrine_doctrine_vic_exploit_weakness: "Exploit Weakness"
+ victorian_lancers_doctrine_doctrine_vic_overwhelm_defenses: "Overwhelm Defenses"
+ victorian_lancers_doctrine_doctrine_vic_create_openings: "Create Openings"
+ victorian_lancers_doctrine_doctrine_vic_capitalize_momentum: "Capitalize Momentum"
+ victorian_lancers_doctrine_doctrine_vic_evolve_lancers: "Lancer Evolution"
   
   # VICTORIAN LIGHT CAVALRY REWARDS 
- victorian_light_cavalry_doctrine_doctrine_vic_screening_ops: "Screening Operations" #NT!
- victorian_light_cavalry_doctrine_doctrine_vic_patrol_battlefield: "Battlefield Patrols" #NT!
- victorian_light_cavalry_doctrine_doctrine_vic_raid_outposts: "Outpost Raids" #NT!
- victorian_light_cavalry_doctrine_doctrine_vic_disrupt_comms: "Disrupt Communications" #NT!
- victorian_light_cavalry_doctrine_doctrine_vic_evolve_light_cav: "Light Cavalry Evolution" #NT!
+ victorian_light_cavalry_doctrine_doctrine_vic_screening_ops: "Screening Operations"
+ victorian_light_cavalry_doctrine_doctrine_vic_patrol_battlefield: "Battlefield Patrols"
+ victorian_light_cavalry_doctrine_doctrine_vic_raid_outposts: "Outpost Raids"
+ victorian_light_cavalry_doctrine_doctrine_vic_disrupt_comms: "Disrupt Communications"
+ victorian_light_cavalry_doctrine_doctrine_vic_evolve_light_cav: "Light Cavalry Evolution"
   
   # VICTORIAN MOUNTED INFANTRY REWARDS 
- victorian_mounted_infantry_doctrine_doctrine_vic_hybrid_nature: "Hybrid Warfare" #NT!
- victorian_mounted_infantry_doctrine_doctrine_vic_rapid_mobility: "Rapid Deployment" #NT!
- victorian_mounted_infantry_doctrine_doctrine_vic_terrain_adapt: "Terrain Adaptation" #NT!
- victorian_mounted_infantry_doctrine_doctrine_vic_utilize_gaps: "Exploit Gaps" #NT!
- victorian_mounted_infantry_doctrine_doctrine_vic_mounted_charges: "Mounted Charges" #NT!
- victorian_mounted_infantry_doctrine_doctrine_vic_evolve_mounted: "Mounted Infantry Evolution" #NT!
+ victorian_mounted_infantry_doctrine_doctrine_vic_hybrid_nature: "Hybrid Warfare"
+ victorian_mounted_infantry_doctrine_doctrine_vic_rapid_mobility: "Rapid Deployment"
+ victorian_mounted_infantry_doctrine_doctrine_vic_terrain_adapt: "Terrain Adaptation"
+ victorian_mounted_infantry_doctrine_doctrine_vic_utilize_gaps: "Exploit Gaps"
+ victorian_mounted_infantry_doctrine_doctrine_vic_mounted_charges: "Mounted Charges"
+ victorian_mounted_infantry_doctrine_doctrine_vic_evolve_mounted: "Mounted Infantry Evolution"
   
   # VICTORIAN DEEP BATTLES REWARDS 
- victorian_deep_battles_doctrine_doctrine_vic_cover: "Improved Cover" #NT!
- victorian_deep_battles_doctrine_doctrine_vic_concentric_defense: "Concentric Defense" #NT!
- victorian_deep_battles_doctrine_doctrine_vic_perimeter_defense: "Perimeter Defense" #NT!
- victorian_deep_battles_doctrine_doctrine_vic_counter_attacks: "Counterattack Doctrine" #NT!
- victorian_deep_battles_doctrine_doctrine_vic_improve_skirmishers: "Improved Skirmishers" #NT!
- victorian_deep_battles_doctrine_doctrine_vic_ambushes: "Ambush Tactics" #NT!
+ victorian_deep_battles_doctrine_doctrine_vic_cover: "Improved Cover"
+ victorian_deep_battles_doctrine_doctrine_vic_concentric_defense: "Concentric Defense"
+ victorian_deep_battles_doctrine_doctrine_vic_perimeter_defense: "Perimeter Defense"
+ victorian_deep_battles_doctrine_doctrine_vic_counter_attacks: "Counterattack Doctrine"
+ victorian_deep_battles_doctrine_doctrine_vic_improve_skirmishers: "Improved Skirmishers"
+ victorian_deep_battles_doctrine_doctrine_vic_ambushes: "Ambush Tactics"
   
   # VICTORIAN AGGRESSIVE TACTICS REWARDS 
- victorian_aggressive_tactics_doctrine_doctrine_vic_fire_advance: "Fire and Advance" #NT!
- victorian_aggressive_tactics_doctrine_doctrine_vic_bayonet_charges: "Bayonet Charges" #NT!
- victorian_aggressive_tactics_doctrine_doctrine_vic_reckless_advance: "Reckless Advance" #NT!
- victorian_aggressive_tactics_doctrine_doctrine_vic_tactical_flanking: "Tactical Flanking" #NT!
- victorian_aggressive_tactics_doctrine_doctrine_vic_improve_skirmishers_agg: "Aggressive Skirmishers" #NT!
- victorian_aggressive_tactics_doctrine_doctrine_vic_hit_run: "Hit and Run" #NT!
+ victorian_aggressive_tactics_doctrine_doctrine_vic_fire_advance: "Fire and Advance"
+ victorian_aggressive_tactics_doctrine_doctrine_vic_bayonet_charges: "Bayonet Charges"
+ victorian_aggressive_tactics_doctrine_doctrine_vic_reckless_advance: "Reckless Advance"
+ victorian_aggressive_tactics_doctrine_doctrine_vic_tactical_flanking: "Tactical Flanking"
+ victorian_aggressive_tactics_doctrine_doctrine_vic_improve_skirmishers_agg: "Aggressive Skirmishers"
+ victorian_aggressive_tactics_doctrine_doctrine_vic_hit_run: "Hit and Run"
   
   # VICTORIAN FIELD ARTILLERY REWARDS 
- victorian_field_artillery_doctrine_doctrine_vic_integration_troops: "Infantry Integration" #NT!
- victorian_field_artillery_doctrine_doctrine_vic_counter_battery: "Counter-Battery Fire" #NT!
- victorian_field_artillery_doctrine_doctrine_vic_rapid_relocation: "Rapid Relocation" #NT!
- victorian_field_artillery_doctrine_doctrine_vic_improve_accuracy: "Improved Accuracy" #NT!
- victorian_field_artillery_doctrine_doctrine_vic_improved_mobility: "Improved Mobility" #NT!
+ victorian_field_artillery_doctrine_doctrine_vic_integration_troops: "Infantry Integration"
+ victorian_field_artillery_doctrine_doctrine_vic_counter_battery: "Counter-Battery Fire"
+ victorian_field_artillery_doctrine_doctrine_vic_rapid_relocation: "Rapid Relocation"
+ victorian_field_artillery_doctrine_doctrine_vic_improve_accuracy: "Improved Accuracy"
+ victorian_field_artillery_doctrine_doctrine_vic_improved_mobility: "Improved Mobility"
   
   # VICTORIAN SIEGE ARTILLERY REWARDS 
- victorian_siege_artillery_doctrine_doctrine_vic_explosive_shells: "Explosive Shells" #NT!
- victorian_siege_artillery_doctrine_doctrine_vic_breach_formations: "Breach Enemy Formations" #NT!
- victorian_siege_artillery_doctrine_doctrine_vic_improve_range: "Extended Range" #NT!
- victorian_siege_artillery_doctrine_doctrine_vic_siege_mastery: "Siege Mastery" #NT!
- victorian_siege_artillery_doctrine_doctrine_vic_improved_mobility_siege: "Improved Siege Mobility" #NT!
+ victorian_siege_artillery_doctrine_doctrine_vic_explosive_shells: "Explosive Shells"
+ victorian_siege_artillery_doctrine_doctrine_vic_breach_formations: "Breach Enemy Formations"
+ victorian_siege_artillery_doctrine_doctrine_vic_improve_range: "Extended Range"
+ victorian_siege_artillery_doctrine_doctrine_vic_siege_mastery: "Siege Mastery"
+ victorian_siege_artillery_doctrine_doctrine_vic_improved_mobility_siege: "Improved Siege Mobility"
   
   # VICTORIAN MACHINE GUNS REWARDS 
- victorian_machine_guns_doctrine_doctrine_vic_mitrailleuse: "Mitrailleuse Tactics" #NT!
- victorian_machine_guns_doctrine_doctrine_vic_raining_gunfire: "Sustained Fire" #NT!
- victorian_machine_guns_doctrine_doctrine_vic_rotating_barrels: "Rotating Barrels" #NT!
- victorian_machine_guns_doctrine_doctrine_vic_gatling_gun: "Gatling Gun Doctrine" #NT!
- victorian_machine_guns_doctrine_doctrine_vic_mg_suppression: "Suppressive Fire" #NT!
+ victorian_machine_guns_doctrine_doctrine_vic_mitrailleuse: "Mitrailleuse Tactics"
+ victorian_machine_guns_doctrine_doctrine_vic_raining_gunfire: "Sustained Fire"
+ victorian_machine_guns_doctrine_doctrine_vic_rotating_barrels: "Rotating Barrels"
+ victorian_machine_guns_doctrine_doctrine_vic_gatling_gun: "Gatling Gun Doctrine"
+ victorian_machine_guns_doctrine_doctrine_vic_mg_suppression: "Suppressive Fire"
   
   # VICTORIAN COLONIAL WARFARE REWARDS 
- victorian_colonial_warfare_doctrine_doctrine_vic_exploit_regions: "Regional Exploitation" #NT!
- victorian_colonial_warfare_doctrine_doctrine_vic_asymmetric_warfare: "Asymmetric Warfare" #NT!
- victorian_colonial_warfare_doctrine_doctrine_vic_colonial_troops: "Colonial Troops" #NT!
- victorian_colonial_warfare_doctrine_doctrine_vic_fighting_forces: "Native Fighting Forces" #NT!
- victorian_colonial_warfare_doctrine_doctrine_vic_garrison_forces: "Garrison Doctrine" #NT!
- victorian_colonial_warfare_doctrine_doctrine_vic_native_supply: "Local Supply Networks" #NT!
- victorian_colonial_warfare_doctrine_doctrine_vic_climate_adapt: "Climate Adaptation" #NT!
- victorian_colonial_warfare_doctrine_doctrine_vic_colonial_training: "Colonial Training" #NT!
+ victorian_colonial_warfare_doctrine_doctrine_vic_exploit_regions: "Regional Exploitation"
+ victorian_colonial_warfare_doctrine_doctrine_vic_asymmetric_warfare: "Asymmetric Warfare"
+ victorian_colonial_warfare_doctrine_doctrine_vic_colonial_troops: "Colonial Troops"
+ victorian_colonial_warfare_doctrine_doctrine_vic_fighting_forces: "Native Fighting Forces"
+ victorian_colonial_warfare_doctrine_doctrine_vic_garrison_forces: "Garrison Doctrine"
+ victorian_colonial_warfare_doctrine_doctrine_vic_native_supply: "Local Supply Networks"
+ victorian_colonial_warfare_doctrine_doctrine_vic_climate_adapt: "Climate Adaptation"
+ victorian_colonial_warfare_doctrine_doctrine_vic_colonial_training: "Colonial Training"
   
   # VICTORIAN PROFESSIONAL ARMY REWARDS 
- victorian_professional_army_doctrine_doctrine_vic_standardize_training: "Standardized Training" #NT!
- victorian_professional_army_doctrine_doctrine_vic_military_education: "Military Education" #NT!
- victorian_professional_army_doctrine_doctrine_vic_defensive_education: "Defensive Instruction" #NT!
- victorian_professional_army_doctrine_doctrine_vic_offensive_education: "Offensive Instruction" #NT!
- victorian_professional_army_doctrine_doctrine_vic_officer_corps: "Professional Officer Corps" #NT!
- victorian_professional_army_doctrine_doctrine_vic_combined_arms: "Combined Arms Operations" #NT!
+ victorian_professional_army_doctrine_doctrine_vic_standardize_training: "Standardized Training"
+ victorian_professional_army_doctrine_doctrine_vic_military_education: "Military Education"
+ victorian_professional_army_doctrine_doctrine_vic_defensive_education: "Defensive Instruction"
+ victorian_professional_army_doctrine_doctrine_vic_offensive_education: "Offensive Instruction"
+ victorian_professional_army_doctrine_doctrine_vic_officer_corps: "Professional Officer Corps"
+ victorian_professional_army_doctrine_doctrine_vic_combined_arms: "Combined Arms Operations"
   
   # NAVAL GRAND DOCTRINES 
- GRAND_DOCTRINE_VICTORIAN_NAVAL: "Victorian Naval Doctrine" #NT!
- grand_doctrine_victorian_naval_desc: "The ironclad age demands new naval thinking - Victorian doctrine integrates steam propulsion, armored warships, and modern gunnery into a comprehensive maritime strategy for controlling the seas." #NT!
- GRAND_DOCTRINE_MACHINE_AGE_NAVAL: "Machine Age Naval Doctrine" #NT!
- grand_doctrine_machine_age_naval_desc: "Dreadnoughts and submarines herald a new era of naval warfare - Machine Age doctrine embraces revolutionary technologies to project power across the globe's oceans." #NT!
+ GRAND_DOCTRINE_VICTORIAN_NAVAL: "Victorian Naval Doctrine"
+ grand_doctrine_victorian_naval_desc: "The ironclad age demands new naval thinking - Victorian doctrine integrates steam propulsion, armored warships, and modern gunnery into a comprehensive maritime strategy for controlling the seas."
+ GRAND_DOCTRINE_MACHINE_AGE_NAVAL: "Machine Age Naval Doctrine"
+ grand_doctrine_machine_age_naval_desc: "Dreadnoughts and submarines herald a new era of naval warfare - Machine Age doctrine embraces revolutionary technologies to project power across the globe's oceans."
   
   # NAVAL DOCTRINE TRACKS 
- DOCTRINE_TRACK_VICTORIAN_NAVAL_SCREENS: "Victorian Screens" #NT!
- DOCTRINE_TRACK_VICTORIAN_NAVAL_CAPITAL: "Victorian Capital Ships" #NT!
- DOCTRINE_TRACK_VICTORIAN_NAVAL_TRADE: "Victorian Trade Warfare" #NT!
- DOCTRINE_TRACK_MACHINE_AGE_NAVAL_BATTLEFLEET: "Machine Age Battlefleet" #NT!
- DOCTRINE_TRACK_MACHINE_AGE_NAVAL_SCREENS: "Machine Age Screens" #NT!
- DOCTRINE_TRACK_MACHINE_AGE_NAVAL_SUBMARINE: "Machine Age Submarines" #NT!
- DOCTRINE_TRACK_MACHINE_AGE_NAVAL_CARRIER: "Machine Age Carriers" #NT!
+ DOCTRINE_TRACK_VICTORIAN_NAVAL_SCREENS: "Victorian Screens"
+ DOCTRINE_TRACK_VICTORIAN_NAVAL_CAPITAL: "Victorian Capital Ships"
+ DOCTRINE_TRACK_VICTORIAN_NAVAL_TRADE: "Victorian Trade Warfare"
+ DOCTRINE_TRACK_MACHINE_AGE_NAVAL_BATTLEFLEET: "Machine Age Battlefleet"
+ DOCTRINE_TRACK_MACHINE_AGE_NAVAL_SCREENS: "Machine Age Screens"
+ DOCTRINE_TRACK_MACHINE_AGE_NAVAL_SUBMARINE: "Machine Age Submarines"
+ DOCTRINE_TRACK_MACHINE_AGE_NAVAL_CARRIER: "Machine Age Carriers"
   
   # VICTORIAN NAVAL SCREENS SUB-DOCTRINES 
- SUBDOCTRINE_VICTORIAN_COASTAL_DEFENSE: "Coastal Defense" #NT!
- SUBDOCTRINE_VICTORIAN_COASTAL_DEFENSE_DESC: "Shore batteries and patrol vessels form an interlocking defensive network. Monitors and torpedo boats lurking in home waters can repel even the mightiest invasion fleet." #NT!
- SUBDOCTRINE_VICTORIAN_TORPEDO_WARFARE: "Torpedo Warfare" #NT!
- SUBDOCTRINE_VICTORIAN_TORPEDO_WARFARE_DESC: "The self-propelled torpedo transforms naval combat. Swift torpedo boats closing under cover of darkness can cripple capital ships at a fraction of the cost." #NT!
+ SUBDOCTRINE_VICTORIAN_COASTAL_DEFENSE: "Coastal Defense"
+ SUBDOCTRINE_VICTORIAN_COASTAL_DEFENSE_DESC: "Shore batteries and patrol vessels form an interlocking defensive network. Monitors and torpedo boats lurking in home waters can repel even the mightiest invasion fleet."
+ SUBDOCTRINE_VICTORIAN_TORPEDO_WARFARE: "Torpedo Warfare"
+ SUBDOCTRINE_VICTORIAN_TORPEDO_WARFARE_DESC: "The self-propelled torpedo transforms naval combat. Swift torpedo boats closing under cover of darkness can cripple capital ships at a fraction of the cost."
   
   # VICTORIAN NAVAL CAPITAL SUB-DOCTRINES 
- SUBDOCTRINE_VICTORIAN_IRONCLAD: "Ironclad Doctrine" #NT!
- SUBDOCTRINE_VICTORIAN_IRONCLAD_DESC: "Iron armor and steam power render wooden walls obsolete. Ironclad warships combine devastating firepower with unprecedented protection to dominate the battle line." #NT!
- SUBDOCTRINE_VICTORIAN_CRUISER: "Cruiser Doctrine" #NT!
- SUBDOCTRINE_VICTORIAN_CRUISER_DESC: "Cruisers are the workhorses of the fleet - showing the flag in distant waters, protecting trade routes, and hunting down commerce raiders across the globe." #NT!
+ SUBDOCTRINE_VICTORIAN_IRONCLAD: "Ironclad Doctrine"
+ SUBDOCTRINE_VICTORIAN_IRONCLAD_DESC: "Iron armor and steam power render wooden walls obsolete. Ironclad warships combine devastating firepower with unprecedented protection to dominate the battle line."
+ SUBDOCTRINE_VICTORIAN_CRUISER: "Cruiser Doctrine"
+ SUBDOCTRINE_VICTORIAN_CRUISER_DESC: "Cruisers are the workhorses of the fleet - showing the flag in distant waters, protecting trade routes, and hunting down commerce raiders across the globe."
   
   # VICTORIAN NAVAL TRADE SUB-DOCTRINES 
- SUBDOCTRINE_VICTORIAN_TRADE_PROTECTION: "Trade Protection" #NT!
- SUBDOCTRINE_VICTORIAN_TRADE_PROTECTION_DESC: "The lifeblood of empire flows through maritime trade. Convoy systems and dedicated escort vessels ensure vital commerce reaches port despite enemy predation." #NT!
- SUBDOCTRINE_VICTORIAN_COMMERCE_RAIDING: "Commerce Raiding" #NT!
- SUBDOCTRINE_VICTORIAN_COMMERCE_RAIDING_DESC: "Strike at the enemy's commerce and you strike at their ability to wage war. Fast raiders operating independently can strangle an opponent's economy without risking a fleet action." #NT!
+ SUBDOCTRINE_VICTORIAN_TRADE_PROTECTION: "Trade Protection"
+ SUBDOCTRINE_VICTORIAN_TRADE_PROTECTION_DESC: "The lifeblood of empire flows through maritime trade. Convoy systems and dedicated escort vessels ensure vital commerce reaches port despite enemy predation."
+ SUBDOCTRINE_VICTORIAN_COMMERCE_RAIDING: "Commerce Raiding"
+ SUBDOCTRINE_VICTORIAN_COMMERCE_RAIDING_DESC: "Strike at the enemy's commerce and you strike at their ability to wage war. Fast raiders operating independently can strangle an opponent's economy without risking a fleet action."
   
   # MACHINE AGE BATTLEFLEET SUB-DOCTRINES 
- SUBDOCTRINE_MACHINE_AGE_BATTLESHIP: "Battleship Doctrine" #NT!
- SUBDOCTRINE_MACHINE_AGE_BATTLESHIP_DESC: "The all-big-gun battleship represents the ultimate expression of naval power. Dreadnoughts in line of battle can annihilate any opposing force in a decisive fleet engagement." #NT!
- SUBDOCTRINE_MACHINE_AGE_BATTLECRUISER: "Battlecruiser Doctrine" #NT!
- SUBDOCTRINE_MACHINE_AGE_BATTLECRUISER_DESC: "Speed is armor - battlecruisers sacrifice protection for velocity and firepower. They hunt down cruisers with impunity and scout ahead of the battle line." #NT!
+ SUBDOCTRINE_MACHINE_AGE_BATTLESHIP: "Battleship Doctrine"
+ SUBDOCTRINE_MACHINE_AGE_BATTLESHIP_DESC: "The all-big-gun battleship represents the ultimate expression of naval power. Dreadnoughts in line of battle can annihilate any opposing force in a decisive fleet engagement."
+ SUBDOCTRINE_MACHINE_AGE_BATTLECRUISER: "Battlecruiser Doctrine"
+ SUBDOCTRINE_MACHINE_AGE_BATTLECRUISER_DESC: "Speed is armor - battlecruisers sacrifice protection for velocity and firepower. They hunt down cruisers with impunity and scout ahead of the battle line."
   
   # MACHINE AGE SCREENS SUB-DOCTRINES 
- SUBDOCTRINE_MACHINE_AGE_DESTROYER: "Destroyer Doctrine" #NT!
- SUBDOCTRINE_MACHINE_AGE_DESTROYER_DESC: "Destroyers have evolved from mere torpedo boats into versatile warships. They screen the fleet, hunt submarines, and deliver devastating torpedo attacks." #NT!
- SUBDOCTRINE_MACHINE_AGE_CRUISER_SCREEN: "Cruiser Screen Doctrine" #NT!
- SUBDOCTRINE_MACHINE_AGE_CRUISER_SCREEN_DESC: "Light cruisers form the eyes of the fleet, scouting ahead and screening capital ships from destroyer attacks while hunting enemy raiders." #NT!
+ SUBDOCTRINE_MACHINE_AGE_DESTROYER: "Destroyer Doctrine"
+ SUBDOCTRINE_MACHINE_AGE_DESTROYER_DESC: "Destroyers have evolved from mere torpedo boats into versatile warships. They screen the fleet, hunt submarines, and deliver devastating torpedo attacks."
+ SUBDOCTRINE_MACHINE_AGE_CRUISER_SCREEN: "Cruiser Screen Doctrine"
+ SUBDOCTRINE_MACHINE_AGE_CRUISER_SCREEN_DESC: "Light cruisers form the eyes of the fleet, scouting ahead and screening capital ships from destroyer attacks while hunting enemy raiders."
   
   # MACHINE AGE SUBMARINE SUB-DOCTRINES 
- SUBDOCTRINE_MACHINE_AGE_SUBMARINE_WARFARE: "Submarine Warfare" #NT!
- SUBDOCTRINE_MACHINE_AGE_SUBMARINE_WARFARE_DESC: "The submarine lurks beneath the waves, invisible and deadly. Coordinated wolfpack tactics can devastate enemy shipping and starve nations into submission." #NT!
- SUBDOCTRINE_MACHINE_AGE_COASTAL_SUBMARINE: "Coastal Submarine Doctrine" #NT!
- SUBDOCTRINE_MACHINE_AGE_COASTAL_SUBMARINE_DESC: "Smaller coastal submarines defend home waters through ambush tactics. Lurking in shallow waters and near harbors, they deny the enemy freedom of movement." #NT!
+ SUBDOCTRINE_MACHINE_AGE_SUBMARINE_WARFARE: "Submarine Warfare"
+ SUBDOCTRINE_MACHINE_AGE_SUBMARINE_WARFARE_DESC: "The submarine lurks beneath the waves, invisible and deadly. Coordinated wolfpack tactics can devastate enemy shipping and starve nations into submission."
+ SUBDOCTRINE_MACHINE_AGE_COASTAL_SUBMARINE: "Coastal Submarine Doctrine"
+ SUBDOCTRINE_MACHINE_AGE_COASTAL_SUBMARINE_DESC: "Smaller coastal submarines defend home waters through ambush tactics. Lurking in shallow waters and near harbors, they deny the enemy freedom of movement."
   
   # MACHINE AGE CARRIER SUB-DOCTRINES 
- SUBDOCTRINE_MACHINE_AGE_CARRIER: "Carrier Doctrine" #NT!
- SUBDOCTRINE_MACHINE_AGE_CARRIER_DESC: "Aircraft carriers extend striking power beyond the horizon. Carrier task forces can project air power across vast stretches of ocean, striking enemies who never see the fleet." #NT!
- SUBDOCTRINE_MACHINE_AGE_NAVAL_AVIATION_SUPPORT: "Naval Aviation Support" #NT!
- SUBDOCTRINE_MACHINE_AGE_NAVAL_AVIATION_SUPPORT_DESC: "Naval aviation multiplies the fleet's effectiveness. Reconnaissance aircraft extend vision while fighters and bombers provide cover and striking power." #NT!
+ SUBDOCTRINE_MACHINE_AGE_CARRIER: "Carrier Doctrine"
+ SUBDOCTRINE_MACHINE_AGE_CARRIER_DESC: "Aircraft carriers extend striking power beyond the horizon. Carrier task forces can project air power across vast stretches of ocean, striking enemies who never see the fleet."
+ SUBDOCTRINE_MACHINE_AGE_NAVAL_AVIATION_SUPPORT: "Naval Aviation Support"
+ SUBDOCTRINE_MACHINE_AGE_NAVAL_AVIATION_SUPPORT_DESC: "Naval aviation multiplies the fleet's effectiveness. Reconnaissance aircraft extend vision while fighters and bombers provide cover and striking power."
   
   # VICTORIAN COASTAL DEFENSE REWARDS 
- victorian_coastal_defense_doctrine_doctrine_vic_naval_shore_batteries: "Shore Batteries" #NT!
- victorian_coastal_defense_doctrine_doctrine_vic_naval_coastal_patrol: "Coastal Patrol" #NT!
- victorian_coastal_defense_doctrine_doctrine_vic_naval_harbor_defense: "Harbor Defense" #NT!
- victorian_coastal_defense_doctrine_doctrine_vic_naval_minelaying: "Minelaying Operations" #NT!
- victorian_coastal_defense_doctrine_doctrine_vic_naval_coastal_excellence: "Coastal Defense Excellence" #NT!
+ victorian_coastal_defense_doctrine_doctrine_vic_naval_shore_batteries: "Shore Batteries"
+ victorian_coastal_defense_doctrine_doctrine_vic_naval_coastal_patrol: "Coastal Patrol"
+ victorian_coastal_defense_doctrine_doctrine_vic_naval_harbor_defense: "Harbor Defense"
+ victorian_coastal_defense_doctrine_doctrine_vic_naval_minelaying: "Minelaying Operations"
+ victorian_coastal_defense_doctrine_doctrine_vic_naval_coastal_excellence: "Coastal Defense Excellence"
   
   # VICTORIAN TORPEDO WARFARE REWARDS 
- victorian_torpedo_warfare_doctrine_doctrine_vic_naval_torpedo_attack: "Torpedo Attack" #NT!
- victorian_torpedo_warfare_doctrine_doctrine_vic_naval_night_attacks: "Night Attacks" #NT!
- victorian_torpedo_warfare_doctrine_doctrine_vic_naval_hit_and_run: "Hit and Run" #NT!
- victorian_torpedo_warfare_doctrine_doctrine_vic_naval_coordinated_strikes: "Coordinated Strikes" #NT!
- victorian_torpedo_warfare_doctrine_doctrine_vic_naval_torpedo_excellence: "Torpedo Warfare Excellence" #NT!
+ victorian_torpedo_warfare_doctrine_doctrine_vic_naval_torpedo_attack: "Torpedo Attack"
+ victorian_torpedo_warfare_doctrine_doctrine_vic_naval_night_attacks: "Night Attacks"
+ victorian_torpedo_warfare_doctrine_doctrine_vic_naval_hit_and_run: "Hit and Run"
+ victorian_torpedo_warfare_doctrine_doctrine_vic_naval_coordinated_strikes: "Coordinated Strikes"
+ victorian_torpedo_warfare_doctrine_doctrine_vic_naval_torpedo_excellence: "Torpedo Warfare Excellence"
   
   # VICTORIAN IRONCLAD REWARDS 
- victorian_ironclad_doctrine_doctrine_vic_naval_armored_belt: "Armored Belt" #NT!
- victorian_ironclad_doctrine_doctrine_vic_naval_turret_ships: "Turret Ships" #NT!
- victorian_ironclad_doctrine_doctrine_vic_naval_steam_tactics: "Steam Tactics" #NT!
- victorian_ironclad_doctrine_doctrine_vic_naval_broadside_fire: "Broadside Fire" #NT!
- victorian_ironclad_doctrine_doctrine_vic_naval_ironclad_excellence: "Ironclad Excellence" #NT!
+ victorian_ironclad_doctrine_doctrine_vic_naval_armored_belt: "Armored Belt"
+ victorian_ironclad_doctrine_doctrine_vic_naval_turret_ships: "Turret Ships"
+ victorian_ironclad_doctrine_doctrine_vic_naval_steam_tactics: "Steam Tactics"
+ victorian_ironclad_doctrine_doctrine_vic_naval_broadside_fire: "Broadside Fire"
+ victorian_ironclad_doctrine_doctrine_vic_naval_ironclad_excellence: "Ironclad Excellence"
   
   # VICTORIAN CRUISER REWARDS 
- victorian_cruiser_doctrine_doctrine_vic_naval_cruiser_patrol: "Cruiser Patrol" #NT!
- victorian_cruiser_doctrine_doctrine_vic_naval_station_keeping: "Station Keeping" #NT!
- victorian_cruiser_doctrine_doctrine_vic_naval_commerce_protection: "Commerce Protection" #NT!
- victorian_cruiser_doctrine_doctrine_vic_naval_gunboat_diplomacy: "Gunboat Diplomacy" #NT!
- victorian_cruiser_doctrine_doctrine_vic_naval_cruiser_excellence: "Cruiser Excellence" #NT!
+ victorian_cruiser_doctrine_doctrine_vic_naval_cruiser_patrol: "Cruiser Patrol"
+ victorian_cruiser_doctrine_doctrine_vic_naval_station_keeping: "Station Keeping"
+ victorian_cruiser_doctrine_doctrine_vic_naval_commerce_protection: "Commerce Protection"
+ victorian_cruiser_doctrine_doctrine_vic_naval_gunboat_diplomacy: "Gunboat Diplomacy"
+ victorian_cruiser_doctrine_doctrine_vic_naval_cruiser_excellence: "Cruiser Excellence"
   
   # VICTORIAN TRADE PROTECTION REWARDS 
- victorian_trade_protection_doctrine_doctrine_vic_naval_convoy_system: "Convoy System" #NT!
- victorian_trade_protection_doctrine_doctrine_vic_naval_patrol_routes: "Patrol Routes" #NT!
- victorian_trade_protection_doctrine_doctrine_vic_naval_escort_tactics: "Escort Tactics" #NT!
- victorian_trade_protection_doctrine_doctrine_vic_naval_commerce_raiders: "Counter-Raiders" #NT!
- victorian_trade_protection_doctrine_doctrine_vic_naval_trade_excellence: "Trade Protection Excellence" #NT!
+ victorian_trade_protection_doctrine_doctrine_vic_naval_convoy_system: "Convoy System"
+ victorian_trade_protection_doctrine_doctrine_vic_naval_patrol_routes: "Patrol Routes"
+ victorian_trade_protection_doctrine_doctrine_vic_naval_escort_tactics: "Escort Tactics"
+ victorian_trade_protection_doctrine_doctrine_vic_naval_commerce_raiders: "Counter-Raiders"
+ victorian_trade_protection_doctrine_doctrine_vic_naval_trade_excellence: "Trade Protection Excellence"
   
   # VICTORIAN COMMERCE RAIDING REWARDS 
- victorian_commerce_raiding_doctrine_doctrine_vic_naval_raider_tactics: "Raider Tactics" #NT!
- victorian_commerce_raiding_doctrine_doctrine_vic_naval_lone_wolf: "Lone Wolf Operations" #NT!
- victorian_commerce_raiding_doctrine_doctrine_vic_naval_prize_rules: "Prize Rules" #NT!
- victorian_commerce_raiding_doctrine_doctrine_vic_naval_auxiliary_cruisers: "Auxiliary Cruisers" #NT!
- victorian_commerce_raiding_doctrine_doctrine_vic_naval_raiding_excellence: "Commerce Raiding Excellence" #NT!
+ victorian_commerce_raiding_doctrine_doctrine_vic_naval_raider_tactics: "Raider Tactics"
+ victorian_commerce_raiding_doctrine_doctrine_vic_naval_lone_wolf: "Lone Wolf Operations"
+ victorian_commerce_raiding_doctrine_doctrine_vic_naval_prize_rules: "Prize Rules"
+ victorian_commerce_raiding_doctrine_doctrine_vic_naval_auxiliary_cruisers: "Auxiliary Cruisers"
+ victorian_commerce_raiding_doctrine_doctrine_vic_naval_raiding_excellence: "Commerce Raiding Excellence"
   
   # MACHINE AGE BATTLESHIP REWARDS 
- machine_age_battleship_doctrine_doctrine_machine_naval_big_guns: "Big Gun Philosophy" #NT!
- machine_age_battleship_doctrine_doctrine_machine_naval_armor_schemes: "Advanced Armor Schemes" #NT!
- machine_age_battleship_doctrine_doctrine_machine_naval_fire_control: "Fire Control Systems" #NT!
- machine_age_battleship_doctrine_doctrine_machine_naval_fleet_in_being: "Fleet in Being" #NT!
- machine_age_battleship_doctrine_doctrine_machine_naval_decisive_battle: "Decisive Battle" #NT!
- machine_age_battleship_doctrine_doctrine_machine_naval_battleship_excellence: "Battleship Excellence" #NT!
+ machine_age_battleship_doctrine_doctrine_machine_naval_big_guns: "Big Gun Philosophy"
+ machine_age_battleship_doctrine_doctrine_machine_naval_armor_schemes: "Advanced Armor Schemes"
+ machine_age_battleship_doctrine_doctrine_machine_naval_fire_control: "Fire Control Systems"
+ machine_age_battleship_doctrine_doctrine_machine_naval_fleet_in_being: "Fleet in Being"
+ machine_age_battleship_doctrine_doctrine_machine_naval_decisive_battle: "Decisive Battle"
+ machine_age_battleship_doctrine_doctrine_machine_naval_battleship_excellence: "Battleship Excellence"
   
   # MACHINE AGE BATTLECRUISER REWARDS 
- machine_age_battlecruiser_doctrine_doctrine_machine_naval_speed_is_armor: "Speed Is Armor" #NT!
- machine_age_battlecruiser_doctrine_doctrine_machine_naval_pursuit_tactics: "Pursuit Tactics" #NT!
- machine_age_battlecruiser_doctrine_doctrine_machine_naval_scouting_force: "Scouting Force" #NT!
- machine_age_battlecruiser_doctrine_doctrine_machine_naval_heavy_cruiser_screen: "Heavy Cruiser Screen" #NT!
- machine_age_battlecruiser_doctrine_doctrine_machine_naval_battlecruiser_excellence: "Battlecruiser Excellence" #NT!
+ machine_age_battlecruiser_doctrine_doctrine_machine_naval_speed_is_armor: "Speed Is Armor"
+ machine_age_battlecruiser_doctrine_doctrine_machine_naval_pursuit_tactics: "Pursuit Tactics"
+ machine_age_battlecruiser_doctrine_doctrine_machine_naval_scouting_force: "Scouting Force"
+ machine_age_battlecruiser_doctrine_doctrine_machine_naval_heavy_cruiser_screen: "Heavy Cruiser Screen"
+ machine_age_battlecruiser_doctrine_doctrine_machine_naval_battlecruiser_excellence: "Battlecruiser Excellence"
   
   # MACHINE AGE DESTROYER REWARDS 
- machine_age_destroyer_doctrine_doctrine_machine_naval_torpedo_attacks: "Torpedo Attacks" #NT!
- machine_age_destroyer_doctrine_doctrine_machine_naval_asw_tactics: "Anti-Submarine Warfare" #NT!
- machine_age_destroyer_doctrine_doctrine_machine_naval_screen_coordination: "Screen Coordination" #NT!
- machine_age_destroyer_doctrine_doctrine_machine_naval_flotilla_tactics: "Flotilla Tactics" #NT!
- machine_age_destroyer_doctrine_doctrine_machine_naval_destroyer_excellence: "Destroyer Excellence" #NT!
+ machine_age_destroyer_doctrine_doctrine_machine_naval_torpedo_attacks: "Torpedo Attacks"
+ machine_age_destroyer_doctrine_doctrine_machine_naval_asw_tactics: "Anti-Submarine Warfare"
+ machine_age_destroyer_doctrine_doctrine_machine_naval_screen_coordination: "Screen Coordination"
+ machine_age_destroyer_doctrine_doctrine_machine_naval_flotilla_tactics: "Flotilla Tactics"
+ machine_age_destroyer_doctrine_doctrine_machine_naval_destroyer_excellence: "Destroyer Excellence"
   
   # MACHINE AGE CRUISER SCREEN REWARDS 
- machine_age_cruiser_screen_doctrine_doctrine_machine_naval_light_cruiser_screen: "Light Cruiser Screen" #NT!
- machine_age_cruiser_screen_doctrine_doctrine_machine_naval_aa_cruisers: "Anti-Air Cruisers" #NT!
- machine_age_cruiser_screen_doctrine_doctrine_machine_naval_cruiser_flotilla: "Cruiser Flotilla" #NT!
- machine_age_cruiser_screen_doctrine_doctrine_machine_naval_raider_hunting: "Raider Hunting" #NT!
- machine_age_cruiser_screen_doctrine_doctrine_machine_naval_cruiser_screen_excellence: "Cruiser Screen Excellence" #NT!
+ machine_age_cruiser_screen_doctrine_doctrine_machine_naval_light_cruiser_screen: "Light Cruiser Screen"
+ machine_age_cruiser_screen_doctrine_doctrine_machine_naval_aa_cruisers: "Anti-Air Cruisers"
+ machine_age_cruiser_screen_doctrine_doctrine_machine_naval_cruiser_flotilla: "Cruiser Flotilla"
+ machine_age_cruiser_screen_doctrine_doctrine_machine_naval_raider_hunting: "Raider Hunting"
+ machine_age_cruiser_screen_doctrine_doctrine_machine_naval_cruiser_screen_excellence: "Cruiser Screen Excellence"
   
   # MACHINE AGE SUBMARINE WARFARE REWARDS 
- machine_age_submarine_warfare_doctrine_doctrine_machine_naval_wolfpack: "Wolfpack Tactics" #NT!
- machine_age_submarine_warfare_doctrine_doctrine_machine_naval_silent_running: "Silent Running" #NT!
- machine_age_submarine_warfare_doctrine_doctrine_machine_naval_torpedo_improvements: "Torpedo Improvements" #NT!
- machine_age_submarine_warfare_doctrine_doctrine_machine_naval_commerce_destruction: "Commerce Destruction" #NT!
- machine_age_submarine_warfare_doctrine_doctrine_machine_naval_submarine_excellence: "Submarine Excellence" #NT!
+ machine_age_submarine_warfare_doctrine_doctrine_machine_naval_wolfpack: "Wolfpack Tactics"
+ machine_age_submarine_warfare_doctrine_doctrine_machine_naval_silent_running: "Silent Running"
+ machine_age_submarine_warfare_doctrine_doctrine_machine_naval_torpedo_improvements: "Torpedo Improvements"
+ machine_age_submarine_warfare_doctrine_doctrine_machine_naval_commerce_destruction: "Commerce Destruction"
+ machine_age_submarine_warfare_doctrine_doctrine_machine_naval_submarine_excellence: "Submarine Excellence"
   
   # MACHINE AGE COASTAL SUBMARINE REWARDS 
- machine_age_coastal_submarine_doctrine_doctrine_machine_naval_ambush_tactics: "Ambush Tactics" #NT!
- machine_age_coastal_submarine_doctrine_doctrine_machine_naval_coastal_defense_sub: "Coastal Defense Submarines" #NT!
- machine_age_coastal_submarine_doctrine_doctrine_machine_naval_minelaying_sub: "Submarine Minelaying" #NT!
- machine_age_coastal_submarine_doctrine_doctrine_machine_naval_harbor_denial: "Harbor Denial" #NT!
- machine_age_coastal_submarine_doctrine_doctrine_machine_naval_coastal_sub_excellence: "Coastal Submarine Excellence" #NT!
+ machine_age_coastal_submarine_doctrine_doctrine_machine_naval_ambush_tactics: "Ambush Tactics"
+ machine_age_coastal_submarine_doctrine_doctrine_machine_naval_coastal_defense_sub: "Coastal Defense Submarines"
+ machine_age_coastal_submarine_doctrine_doctrine_machine_naval_minelaying_sub: "Submarine Minelaying"
+ machine_age_coastal_submarine_doctrine_doctrine_machine_naval_harbor_denial: "Harbor Denial"
+ machine_age_coastal_submarine_doctrine_doctrine_machine_naval_coastal_sub_excellence: "Coastal Submarine Excellence"
   
   # MACHINE AGE CARRIER REWARDS 
- machine_age_carrier_doctrine_doctrine_machine_naval_carrier_ops: "Carrier Operations" #NT!
- machine_age_carrier_doctrine_doctrine_machine_naval_air_group_training: "Air Group Training" #NT!
- machine_age_carrier_doctrine_doctrine_machine_naval_carrier_strike: "Carrier Strike" #NT!
- machine_age_carrier_doctrine_doctrine_machine_naval_carrier_screens: "Carrier Screens" #NT!
- machine_age_carrier_doctrine_doctrine_machine_naval_carrier_task_force: "Carrier Task Force" #NT!
- machine_age_carrier_doctrine_doctrine_machine_naval_carrier_excellence: "Carrier Excellence" #NT!
+ machine_age_carrier_doctrine_doctrine_machine_naval_carrier_ops: "Carrier Operations"
+ machine_age_carrier_doctrine_doctrine_machine_naval_air_group_training: "Air Group Training"
+ machine_age_carrier_doctrine_doctrine_machine_naval_carrier_strike: "Carrier Strike"
+ machine_age_carrier_doctrine_doctrine_machine_naval_carrier_screens: "Carrier Screens"
+ machine_age_carrier_doctrine_doctrine_machine_naval_carrier_task_force: "Carrier Task Force"
+ machine_age_carrier_doctrine_doctrine_machine_naval_carrier_excellence: "Carrier Excellence"
   
   # MACHINE AGE NAVAL AVIATION SUPPORT REWARDS 
- machine_age_naval_aviation_support_doctrine_doctrine_machine_naval_recon_aircraft: "Reconnaissance Aircraft" #NT!
- machine_age_naval_aviation_support_doctrine_doctrine_machine_naval_fighter_cover: "Fighter Cover" #NT!
- machine_age_naval_aviation_support_doctrine_doctrine_machine_naval_strike_coordination: "Strike Coordination" #NT!
- machine_age_naval_aviation_support_doctrine_doctrine_machine_naval_combined_arms: "Combined Arms Operations" #NT!
- machine_age_naval_aviation_support_doctrine_doctrine_machine_naval_aviation_excellence: "Naval Aviation Excellence" #NT!
+ machine_age_naval_aviation_support_doctrine_doctrine_machine_naval_recon_aircraft: "Reconnaissance Aircraft"
+ machine_age_naval_aviation_support_doctrine_doctrine_machine_naval_fighter_cover: "Fighter Cover"
+ machine_age_naval_aviation_support_doctrine_doctrine_machine_naval_strike_coordination: "Strike Coordination"
+ machine_age_naval_aviation_support_doctrine_doctrine_machine_naval_combined_arms: "Combined Arms Operations"
+ machine_age_naval_aviation_support_doctrine_doctrine_machine_naval_aviation_excellence: "Naval Aviation Excellence"
   
   # AIR GRAND DOCTRINES 
- GRAND_DOCTRINE_VICTORIAN_AIR: "Victorian Air Doctrine" #NT!
- grand_doctrine_victorian_air_desc: "The conquest of the skies begins - Victorian doctrine pioneers the military applications of balloons and early aircraft for reconnaissance, artillery spotting, and strategic bombardment." #NT!
- GRAND_DOCTRINE_MACHINE_AGE_AIR: "Machine Age Air Doctrine" #NT!
- grand_doctrine_machine_age_air_desc: "Powered flight revolutionizes warfare - Machine Age doctrine harnesses fighters, bombers, and naval aviation to dominate the three-dimensional battlefield." #NT!
+ GRAND_DOCTRINE_VICTORIAN_AIR: "Victorian Air Doctrine"
+ grand_doctrine_victorian_air_desc: "The conquest of the skies begins - Victorian doctrine pioneers the military applications of balloons and early aircraft for reconnaissance, artillery spotting, and strategic bombardment."
+ GRAND_DOCTRINE_MACHINE_AGE_AIR: "Machine Age Air Doctrine"
+ grand_doctrine_machine_age_air_desc: "Powered flight revolutionizes warfare - Machine Age doctrine harnesses fighters, bombers, and naval aviation to dominate the three-dimensional battlefield."
   
   # AIR DOCTRINE TRACKS - BASE 
  DOCTRINE_TRACK_FIGHTER_AIRCRAFT: "Истребители"
@@ -1135,123 +1138,123 @@
  DOCTRINE_TRACK_HEAVY_AIRCRAFT: "Тяжелая авиация"
   
   # AIR DOCTRINE TRACKS - VICTORIAN 
- DOCTRINE_TRACK_VICTORIAN_AIR_OBSERVATION: "Victorian Observation" #NT!
- DOCTRINE_TRACK_VICTORIAN_AIR_BOMBING: "Victorian Bombing" #NT!
+ DOCTRINE_TRACK_VICTORIAN_AIR_OBSERVATION: "Victorian Observation"
+ DOCTRINE_TRACK_VICTORIAN_AIR_BOMBING: "Victorian Bombing"
   
   # AIR DOCTRINE TRACKS - MACHINE AGE 
- DOCTRINE_TRACK_MACHINE_AGE_AIR_SUPERIORITY: "Machine Age Air Superiority" #NT!
- DOCTRINE_TRACK_MACHINE_AGE_TACTICAL_AIR: "Machine Age Tactical Air" #NT!
- DOCTRINE_TRACK_MACHINE_AGE_STRATEGIC_AIR: "Machine Age Strategic Air" #NT!
- DOCTRINE_TRACK_MACHINE_AGE_NAVAL_AIR: "Machine Age Naval Air" #NT!
+ DOCTRINE_TRACK_MACHINE_AGE_AIR_SUPERIORITY: "Machine Age Air Superiority"
+ DOCTRINE_TRACK_MACHINE_AGE_TACTICAL_AIR: "Machine Age Tactical Air"
+ DOCTRINE_TRACK_MACHINE_AGE_STRATEGIC_AIR: "Machine Age Strategic Air"
+ DOCTRINE_TRACK_MACHINE_AGE_NAVAL_AIR: "Machine Age Naval Air"
   
   # VICTORIAN AIR OBSERVATION SUB-DOCTRINES 
- SUBDOCTRINE_VICTORIAN_BALLOON_RECON: "Balloon Reconnaissance" #NT!
- SUBDOCTRINE_VICTORIAN_BALLOON_RECON_DESC: "Tethered observation balloons provide commanders with an unprecedented view of the battlefield. From their lofty perches, observers can spot enemy movements and direct artillery fire with deadly precision." #NT!
- SUBDOCTRINE_VICTORIAN_AERIAL_SCOUTING: "Aerial Scouting" #NT!
- SUBDOCTRINE_VICTORIAN_AERIAL_SCOUTING_DESC: "Heavier-than-air craft offer mobility that balloons cannot match. Scout aircraft range far beyond friendly lines, photographing enemy positions and providing vital intelligence for operational planning." #NT!
+ SUBDOCTRINE_VICTORIAN_BALLOON_RECON: "Balloon Reconnaissance"
+ SUBDOCTRINE_VICTORIAN_BALLOON_RECON_DESC: "Tethered observation balloons provide commanders with an unprecedented view of the battlefield. From their lofty perches, observers can spot enemy movements and direct artillery fire with deadly precision."
+ SUBDOCTRINE_VICTORIAN_AERIAL_SCOUTING: "Aerial Scouting"
+ SUBDOCTRINE_VICTORIAN_AERIAL_SCOUTING_DESC: "Heavier-than-air craft offer mobility that balloons cannot match. Scout aircraft range far beyond friendly lines, photographing enemy positions and providing vital intelligence for operational planning."
   
   # VICTORIAN AIR BOMBING SUB-DOCTRINES 
- SUBDOCTRINE_VICTORIAN_AERIAL_BOMBARDMENT: "Aerial Bombardment" #NT!
- SUBDOCTRINE_VICTORIAN_AERIAL_BOMBARDMENT_DESC: "Zeppelins carry the war to enemy cities and industrial centers. Strategic bombing from the air can terrorize civilian populations and cripple war production far behind the front lines." #NT!
- SUBDOCTRINE_VICTORIAN_AIRSHIP_OPS: "Airship Operations" #NT!
- SUBDOCTRINE_VICTORIAN_AIRSHIP_OPS_DESC: "Mastering lighter-than-air operations requires specialized knowledge in navigation, meteorology, and crew training. Well-maintained airships with experienced crews can operate in conditions that ground lesser aviators." #NT!
+ SUBDOCTRINE_VICTORIAN_AERIAL_BOMBARDMENT: "Aerial Bombardment"
+ SUBDOCTRINE_VICTORIAN_AERIAL_BOMBARDMENT_DESC: "Zeppelins carry the war to enemy cities and industrial centers. Strategic bombing from the air can terrorize civilian populations and cripple war production far behind the front lines."
+ SUBDOCTRINE_VICTORIAN_AIRSHIP_OPS: "Airship Operations"
+ SUBDOCTRINE_VICTORIAN_AIRSHIP_OPS_DESC: "Mastering lighter-than-air operations requires specialized knowledge in navigation, meteorology, and crew training. Well-maintained airships with experienced crews can operate in conditions that ground lesser aviators."
   
   # MACHINE AGE AIR SUPERIORITY SUB-DOCTRINES 
- SUBDOCTRINE_MACHINE_AGE_FIGHTER: "Fighter Doctrine" #NT!
- SUBDOCTRINE_MACHINE_AGE_FIGHTER_DESC: "Control of the air is the prerequisite for all other aerial operations. Agile fighter aircraft engaging in dogfights above the trenches determine which side can operate freely in the skies." #NT!
- SUBDOCTRINE_MACHINE_AGE_INTERCEPTOR: "Interceptor Doctrine" #NT!
- SUBDOCTRINE_MACHINE_AGE_INTERCEPTOR_DESC: "Heavy fighters sacrifice agility for firepower and range. They excel at destroying enemy bombers and providing long-range escort for friendly strike aircraft deep into hostile territory." #NT!
+ SUBDOCTRINE_MACHINE_AGE_FIGHTER: "Fighter Doctrine"
+ SUBDOCTRINE_MACHINE_AGE_FIGHTER_DESC: "Control of the air is the prerequisite for all other aerial operations. Agile fighter aircraft engaging in dogfights above the trenches determine which side can operate freely in the skies."
+ SUBDOCTRINE_MACHINE_AGE_INTERCEPTOR: "Interceptor Doctrine"
+ SUBDOCTRINE_MACHINE_AGE_INTERCEPTOR_DESC: "Heavy fighters sacrifice agility for firepower and range. They excel at destroying enemy bombers and providing long-range escort for friendly strike aircraft deep into hostile territory."
   
   # MACHINE AGE TACTICAL AIR SUB-DOCTRINES 
- SUBDOCTRINE_MACHINE_AGE_CAS: "Close Air Support" #NT!
- SUBDOCTRINE_MACHINE_AGE_CAS_DESC: "Dedicated ground attack aircraft bring devastating firepower directly to the front lines. Dive bombers and attack planes can shatter enemy formations and break the deadlock of trench warfare." #NT!
- SUBDOCTRINE_MACHINE_AGE_TAC_BOMBING: "Tactical Bombing" #NT!
- SUBDOCTRINE_MACHINE_AGE_TAC_BOMBING_DESC: "Medium bombers strike at enemy supply lines, railheads, and concentrations just behind the front. Tactical bombing disrupts the enemy's ability to reinforce and resupply their forward positions." #NT!
+ SUBDOCTRINE_MACHINE_AGE_CAS: "Close Air Support"
+ SUBDOCTRINE_MACHINE_AGE_CAS_DESC: "Dedicated ground attack aircraft bring devastating firepower directly to the front lines. Dive bombers and attack planes can shatter enemy formations and break the deadlock of trench warfare."
+ SUBDOCTRINE_MACHINE_AGE_TAC_BOMBING: "Tactical Bombing"
+ SUBDOCTRINE_MACHINE_AGE_TAC_BOMBING_DESC: "Medium bombers strike at enemy supply lines, railheads, and concentrations just behind the front. Tactical bombing disrupts the enemy's ability to reinforce and resupply their forward positions."
   
   # MACHINE AGE STRATEGIC AIR SUB-DOCTRINES 
- SUBDOCTRINE_MACHINE_AGE_STRAT_BOMBING: "Strategic Bombing" #NT!
- SUBDOCTRINE_MACHINE_AGE_STRAT_BOMBING_DESC: "Heavy bombers carry massive payloads deep into enemy territory. Strategic bombing campaigns against factories, cities, and infrastructure can cripple a nation's ability to wage war." #NT!
+ SUBDOCTRINE_MACHINE_AGE_STRAT_BOMBING: "Strategic Bombing"
+ SUBDOCTRINE_MACHINE_AGE_STRAT_BOMBING_DESC: "Heavy bombers carry massive payloads deep into enemy territory. Strategic bombing campaigns against factories, cities, and infrastructure can cripple a nation's ability to wage war."
   
   # MACHINE AGE NAVAL AIR SUB-DOCTRINES 
- SUBDOCTRINE_MACHINE_AGE_NAVAL_AVIATION: "Naval Aviation" #NT!
- SUBDOCTRINE_MACHINE_AGE_NAVAL_AVIATION_DESC: "Land-based naval aircraft extend striking power far out to sea. Torpedo bombers and patrol aircraft can find and destroy enemy fleets without risking capital ships in surface engagements." #NT!
- SUBDOCTRINE_MACHINE_AGE_CARRIER_AVIATION: "Carrier Aviation" #NT!
- SUBDOCTRINE_MACHINE_AGE_CARRIER_AVIATION_DESC: "Aircraft carriers project air power across the oceans. Carrier-based fighters, bombers, and torpedo planes can strike enemy fleets and shore installations thousands of miles from home." #NT!
+ SUBDOCTRINE_MACHINE_AGE_NAVAL_AVIATION: "Naval Aviation"
+ SUBDOCTRINE_MACHINE_AGE_NAVAL_AVIATION_DESC: "Land-based naval aircraft extend striking power far out to sea. Torpedo bombers and patrol aircraft can find and destroy enemy fleets without risking capital ships in surface engagements."
+ SUBDOCTRINE_MACHINE_AGE_CARRIER_AVIATION: "Carrier Aviation"
+ SUBDOCTRINE_MACHINE_AGE_CARRIER_AVIATION_DESC: "Aircraft carriers project air power across the oceans. Carrier-based fighters, bombers, and torpedo planes can strike enemy fleets and shore installations thousands of miles from home."
   
   # VICTORIAN BALLOON RECONNAISSANCE REWARDS 
- victorian_balloon_reconnaissance_doctrine_doctrine_vic_air_tethered_observation: "Tethered Observation" #NT!
- victorian_balloon_reconnaissance_doctrine_doctrine_vic_air_artillery_spotting: "Artillery Spotting" #NT!
- victorian_balloon_reconnaissance_doctrine_doctrine_vic_air_signal_corps: "Signal Corps Integration" #NT!
- victorian_balloon_reconnaissance_doctrine_doctrine_vic_air_weather_observation: "Weather Observation" #NT!
- victorian_balloon_reconnaissance_doctrine_doctrine_vic_air_recon_excellence: "Reconnaissance Excellence" #NT!
+ victorian_balloon_reconnaissance_doctrine_doctrine_vic_air_tethered_observation: "Tethered Observation"
+ victorian_balloon_reconnaissance_doctrine_doctrine_vic_air_artillery_spotting: "Artillery Spotting"
+ victorian_balloon_reconnaissance_doctrine_doctrine_vic_air_signal_corps: "Signal Corps Integration"
+ victorian_balloon_reconnaissance_doctrine_doctrine_vic_air_weather_observation: "Weather Observation"
+ victorian_balloon_reconnaissance_doctrine_doctrine_vic_air_recon_excellence: "Reconnaissance Excellence"
   
   # VICTORIAN AERIAL SCOUTING REWARDS 
- victorian_aerial_scouting_doctrine_doctrine_vic_air_extended_patrols: "Extended Patrols" #NT!
- victorian_aerial_scouting_doctrine_doctrine_vic_air_photographic_recon: "Photographic Reconnaissance" #NT!
- victorian_aerial_scouting_doctrine_doctrine_vic_air_pilot_training: "Pilot Training" #NT!
- victorian_aerial_scouting_doctrine_doctrine_vic_air_forward_observers: "Forward Observers" #NT!
- victorian_aerial_scouting_doctrine_doctrine_vic_air_scout_mastery: "Scout Mastery" #NT!
+ victorian_aerial_scouting_doctrine_doctrine_vic_air_extended_patrols: "Extended Patrols"
+ victorian_aerial_scouting_doctrine_doctrine_vic_air_photographic_recon: "Photographic Reconnaissance"
+ victorian_aerial_scouting_doctrine_doctrine_vic_air_pilot_training: "Pilot Training"
+ victorian_aerial_scouting_doctrine_doctrine_vic_air_forward_observers: "Forward Observers"
+ victorian_aerial_scouting_doctrine_doctrine_vic_air_scout_mastery: "Scout Mastery"
   
   # VICTORIAN AERIAL BOMBARDMENT REWARDS 
- victorian_aerial_bombardment_doctrine_doctrine_vic_air_incendiary_bombs: "Incendiary Bombs" #NT!
- victorian_aerial_bombardment_doctrine_doctrine_vic_air_night_raids: "Night Raids" #NT!
- victorian_aerial_bombardment_doctrine_doctrine_vic_air_formation_bombing: "Formation Bombing" #NT!
- victorian_aerial_bombardment_doctrine_doctrine_vic_air_terror_bombing: "Terror Bombing" #NT!
- victorian_aerial_bombardment_doctrine_doctrine_vic_air_strategic_vision: "Strategic Vision" #NT!
+ victorian_aerial_bombardment_doctrine_doctrine_vic_air_incendiary_bombs: "Incendiary Bombs"
+ victorian_aerial_bombardment_doctrine_doctrine_vic_air_night_raids: "Night Raids"
+ victorian_aerial_bombardment_doctrine_doctrine_vic_air_formation_bombing: "Formation Bombing"
+ victorian_aerial_bombardment_doctrine_doctrine_vic_air_terror_bombing: "Terror Bombing"
+ victorian_aerial_bombardment_doctrine_doctrine_vic_air_strategic_vision: "Strategic Vision"
   
   # VICTORIAN AIRSHIP OPERATIONS REWARDS 
- victorian_airship_operations_doctrine_doctrine_vic_air_gas_improvements: "Gas Improvements" #NT!
- victorian_airship_operations_doctrine_doctrine_vic_air_crew_training: "Crew Training" #NT!
- victorian_airship_operations_doctrine_doctrine_vic_air_navigation: "Advanced Navigation" #NT!
- victorian_airship_operations_doctrine_doctrine_vic_air_ground_crews: "Ground Crews" #NT!
- victorian_airship_operations_doctrine_doctrine_vic_air_airship_mastery: "Airship Mastery" #NT!
+ victorian_airship_operations_doctrine_doctrine_vic_air_gas_improvements: "Gas Improvements"
+ victorian_airship_operations_doctrine_doctrine_vic_air_crew_training: "Crew Training"
+ victorian_airship_operations_doctrine_doctrine_vic_air_navigation: "Advanced Navigation"
+ victorian_airship_operations_doctrine_doctrine_vic_air_ground_crews: "Ground Crews"
+ victorian_airship_operations_doctrine_doctrine_vic_air_airship_mastery: "Airship Mastery"
   
   # MACHINE AGE FIGHTER REWARDS 
- machine_age_fighter_doctrine_doctrine_machine_dogfighting: "Dogfighting Tactics" #NT!
- machine_age_fighter_doctrine_doctrine_machine_boom_zoom: "Boom and Zoom" #NT!
- machine_age_fighter_doctrine_doctrine_machine_ace_pilots: "Ace Pilots" #NT!
- machine_age_fighter_doctrine_doctrine_machine_escort_tactics: "Escort Tactics" #NT!
- machine_age_fighter_doctrine_doctrine_machine_fighter_excellence: "Fighter Excellence" #NT!
+ machine_age_fighter_doctrine_doctrine_machine_dogfighting: "Dogfighting Tactics"
+ machine_age_fighter_doctrine_doctrine_machine_boom_zoom: "Boom and Zoom"
+ machine_age_fighter_doctrine_doctrine_machine_ace_pilots: "Ace Pilots"
+ machine_age_fighter_doctrine_doctrine_machine_escort_tactics: "Escort Tactics"
+ machine_age_fighter_doctrine_doctrine_machine_fighter_excellence: "Fighter Excellence"
   
   # MACHINE AGE INTERCEPTOR REWARDS 
- machine_age_interceptor_doctrine_doctrine_machine_heavy_fighters: "Heavy Fighters" #NT!
- machine_age_interceptor_doctrine_doctrine_machine_night_fighters: "Night Fighters" #NT!
- machine_age_interceptor_doctrine_doctrine_machine_interceptor_excellence: "Interceptor Excellence" #NT!
+ machine_age_interceptor_doctrine_doctrine_machine_heavy_fighters: "Heavy Fighters"
+ machine_age_interceptor_doctrine_doctrine_machine_night_fighters: "Night Fighters"
+ machine_age_interceptor_doctrine_doctrine_machine_interceptor_excellence: "Interceptor Excellence"
   
   # MACHINE AGE CLOSE AIR SUPPORT REWARDS 
- machine_age_close_air_support_doctrine_doctrine_machine_dive_bombing: "Dive Bombing" #NT!
- machine_age_close_air_support_doctrine_doctrine_machine_ground_attack: "Ground Attack" #NT!
- machine_age_close_air_support_doctrine_doctrine_machine_tank_busting: "Tank Busting" #NT!
- machine_age_close_air_support_doctrine_doctrine_machine_battlefield_interdiction: "Battlefield Interdiction" #NT!
- machine_age_close_air_support_doctrine_doctrine_machine_cas_excellence: "Close Air Support Excellence" #NT!
+ machine_age_close_air_support_doctrine_doctrine_machine_dive_bombing: "Dive Bombing"
+ machine_age_close_air_support_doctrine_doctrine_machine_ground_attack: "Ground Attack"
+ machine_age_close_air_support_doctrine_doctrine_machine_tank_busting: "Tank Busting"
+ machine_age_close_air_support_doctrine_doctrine_machine_battlefield_interdiction: "Battlefield Interdiction"
+ machine_age_close_air_support_doctrine_doctrine_machine_cas_excellence: "Close Air Support Excellence"
   
   # MACHINE AGE TACTICAL BOMBING REWARDS 
- machine_age_tactical_bombing_doctrine_doctrine_machine_medium_bomber: "Medium Bombers" #NT!
- machine_age_tactical_bombing_doctrine_doctrine_machine_precision_bombing: "Precision Bombing" #NT!
- machine_age_tactical_bombing_doctrine_doctrine_machine_flexible_targeting: "Flexible Targeting" #NT!
- machine_age_tactical_bombing_doctrine_doctrine_machine_tac_excellence: "Tactical Bombing Excellence" #NT!
+ machine_age_tactical_bombing_doctrine_doctrine_machine_medium_bomber: "Medium Bombers"
+ machine_age_tactical_bombing_doctrine_doctrine_machine_precision_bombing: "Precision Bombing"
+ machine_age_tactical_bombing_doctrine_doctrine_machine_flexible_targeting: "Flexible Targeting"
+ machine_age_tactical_bombing_doctrine_doctrine_machine_tac_excellence: "Tactical Bombing Excellence"
   
   # MACHINE AGE STRATEGIC BOMBING REWARDS 
- machine_age_strategic_bombing_doctrine_doctrine_machine_heavy_bombers: "Heavy Bombers" #NT!
- machine_age_strategic_bombing_doctrine_doctrine_machine_carpet_bombing: "Carpet Bombing" #NT!
- machine_age_strategic_bombing_doctrine_doctrine_machine_industrial_targeting: "Industrial Targeting" #NT!
- machine_age_strategic_bombing_doctrine_doctrine_machine_formation_flying: "Formation Flying" #NT!
- machine_age_strategic_bombing_doctrine_doctrine_machine_strat_excellence: "Strategic Bombing Excellence" #NT!
+ machine_age_strategic_bombing_doctrine_doctrine_machine_heavy_bombers: "Heavy Bombers"
+ machine_age_strategic_bombing_doctrine_doctrine_machine_carpet_bombing: "Carpet Bombing"
+ machine_age_strategic_bombing_doctrine_doctrine_machine_industrial_targeting: "Industrial Targeting"
+ machine_age_strategic_bombing_doctrine_doctrine_machine_formation_flying: "Formation Flying"
+ machine_age_strategic_bombing_doctrine_doctrine_machine_strat_excellence: "Strategic Bombing Excellence"
   
   # MACHINE AGE NAVAL AVIATION REWARDS 
- machine_age_naval_aviation_doctrine_doctrine_machine_torpedo_bombing: "Torpedo Bombing" #NT!
- machine_age_naval_aviation_doctrine_doctrine_machine_skip_bombing: "Skip Bombing" #NT!
- machine_age_naval_aviation_doctrine_doctrine_machine_naval_reconnaissance: "Naval Reconnaissance" #NT!
- machine_age_naval_aviation_doctrine_doctrine_machine_anti_shipping: "Anti-Shipping Operations" #NT!
- machine_age_naval_aviation_doctrine_doctrine_machine_naval_air_excellence: "Naval Aviation Excellence" #NT!
+ machine_age_naval_aviation_doctrine_doctrine_machine_torpedo_bombing: "Torpedo Bombing"
+ machine_age_naval_aviation_doctrine_doctrine_machine_skip_bombing: "Skip Bombing"
+ machine_age_naval_aviation_doctrine_doctrine_machine_naval_reconnaissance: "Naval Reconnaissance"
+ machine_age_naval_aviation_doctrine_doctrine_machine_anti_shipping: "Anti-Shipping Operations"
+ machine_age_naval_aviation_doctrine_doctrine_machine_naval_air_excellence: "Naval Aviation Excellence"
   
   # MACHINE AGE CARRIER AVIATION REWARDS 
- machine_age_carrier_aviation_doctrine_doctrine_machine_carrier_fighters: "Carrier Fighters" #NT!
- machine_age_carrier_aviation_doctrine_doctrine_machine_carrier_cas: "Carrier Close Air Support" #NT!
- machine_age_carrier_aviation_doctrine_doctrine_machine_carrier_strike: "Carrier Strike" #NT!
- machine_age_carrier_aviation_doctrine_doctrine_machine_deck_operations: "Deck Operations" #NT!
- machine_age_carrier_aviation_doctrine_doctrine_machine_carrier_coordination: "Carrier Coordination" #NT!
- machine_age_carrier_aviation_doctrine_doctrine_machine_carrier_excellence: "Carrier Aviation Excellence" #NT!
+ machine_age_carrier_aviation_doctrine_doctrine_machine_carrier_fighters: "Carrier Fighters"
+ machine_age_carrier_aviation_doctrine_doctrine_machine_carrier_cas: "Carrier Close Air Support"
+ machine_age_carrier_aviation_doctrine_doctrine_machine_carrier_strike: "Carrier Strike"
+ machine_age_carrier_aviation_doctrine_doctrine_machine_deck_operations: "Deck Operations"
+ machine_age_carrier_aviation_doctrine_doctrine_machine_carrier_coordination: "Carrier Coordination"
+ machine_age_carrier_aviation_doctrine_doctrine_machine_carrier_excellence: "Carrier Aviation Excellence"
   
   
   # TACTICS 
@@ -1268,14 +1271,14 @@
  tactic_skirmisher_ambush: "Skirmisher Ambushes"
  tactic_fire_and_advance: "Fire and Advance"
  tactic_tactical_flanking: "Tactical Flanking"
- tactic_line_attack: "Line Attack" #NT!
- tactic_line_defence: "Line Defence" #NT!
- tactic_bayonet_charge_attack: "Bayonet Charge" #NT!
- tactic_bayonet_charge_defence: "Bayonet Defense" #NT!
- tactic_cavalry_charge_attack: "Cavalry Charge" #NT!
- tactic_cavalry_charge_defence: "Cavalry Counter-Charge" #NT!
- tactic_artillery_bombardment: "Artillery Bombardment" #NT!
+ tactic_line_attack: "Line Attack"
+ tactic_line_defence: "Line Defence"
+ tactic_bayonet_charge_attack: "Bayonet Charge"
+ tactic_bayonet_charge_defence: "Bayonet Defense"
+ tactic_cavalry_charge_attack: "Cavalry Charge"
+ tactic_cavalry_charge_defence: "Cavalry Counter-Charge"
+ tactic_artillery_bombardment: "Artillery Bombardment"
   
   # Tooltips: 
- doctrine_napoleonic_trigger_tt: "Have the §YNapoleonic Era§! National Spirit." #NT!
- doctrine_victorian_trigger_tt: "You have to complete the §YNapoleonic Doctrines§! or have one of the §YVictorian Era§! National Spirit." #NT!
+ doctrine_napoleonic_trigger_tt: "Have the §YNapoleonic Era§! National Spirit."
+ doctrine_victorian_trigger_tt: "You have to complete the §YNapoleonic Doctrines§! or have one of the §YVictorian Era§! National Spirit."

@@ -818,13 +818,13 @@
  ################################################## 
   
  FRA_Balance_of_Power_Napoleon: "Napoleon's Political Outlook"
- FRA_BOP_Napoleon_the_Emperor: "Napoleon the Emperor" #NT!
- FRA_BOP_Progressive_Emperor: "A Liberal Emperor" #NT!
- FRA_BOP_Authoritarian_Emperor: "The Authoritarian Emperor" #NT!
- FRA_BOP_Progressive_Emperor_Progressive: "The Progressive Emperor" #NT!
- FRA_BOP_Progressive_Emperor_Revolutionary: "Revolutionary Napoleon" #NT!
- FRA_BOP_Authoritarian_Emperor_Graceful: "The Graceful Emperor" #NT!
- FRA_BOP_Authoritarian_Emperor_Saint_Napoleon: "Saint Napoleon of France" #NT!
+ FRA_BOP_Napoleon_the_Emperor: "Napoleon the Emperor"
+ FRA_BOP_Progressive_Emperor: "A Liberal Emperor"
+ FRA_BOP_Authoritarian_Emperor: "The Authoritarian Emperor"
+ FRA_BOP_Progressive_Emperor_Progressive: "The Progressive Emperor"
+ FRA_BOP_Progressive_Emperor_Revolutionary: "Revolutionary Napoleon"
+ FRA_BOP_Authoritarian_Emperor_Graceful: "The Graceful Emperor"
+ FRA_BOP_Authoritarian_Emperor_Saint_Napoleon: "Saint Napoleon of France"
   
  FRA_BOP_category_decisions: "Balance of Power Decisons"
  FRA_BOP_appease_the_left: "Appease the Workers"
