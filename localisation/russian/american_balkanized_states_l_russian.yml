@@ -1,209 +1,210 @@
 ﻿l_russian:
-  # Statehood Stuff 
- balkanized_american_states_core_states:0 "[Root.GetAdj] Решения о предоставлении статуса штата" #LOC!
- balkanized_american_states_core_states_desc:0 "Страна [Root.GetNameWithFlag] в настоящее время имеет §C[?ROOT.usa_state_count] регионов§!." #LOC!
- balkanized_american_states_core_states_decision_switch:0 "Переключить отображение решений §Hпредоставлении статуса штата§!" #LOC!
- balkanized_american_states_core_states_decision_switch_desc:0 "Переключить отображение решений §Hпредоставлении статуса штата§!." #LOC!
- balkanized_american_states_core_states_decision_switch_on:0 "§CОткрыть§! решения §Hпредоставления статуса штата§!" #LOC!
- balkanized_american_states_core_states_decision_switch_off:0 "§CСкрыть§! решения §Hпредоставления статуса штата§!" #LOC!
- balkanized_american_states_core_states_decision:0 "Предоставить Стране [FROM.GetName] Статус Штата" #LOC!
- balkanized_usa.8.t:0 "[From.GetName] становится штатом!" #LOC!
- balkanized_usa.8.d:0 "После нескольких месяцев подготовки и юридических процедур территория [FROM.GetName] наконец готова к предоставлению статуса штата." #LOC!
- balkanized_usa.8.d_slavery_debate:0 "После нескольких месяцев подготовки и юридических процедур территория [FROM.GetName] наконец готова к предоставлению статуса штата. Но теперь необходимо, наконец, ответить на вопрос: должно ли оно присоединиться как свободный или рабовладельческий штат?" #LOC!
- balkanized_usa.8.a:0 "Хорошо!" #LOC!
- balkanized_usa.8.b:0 "Свободный штат!" #LOC!
- balkanized_usa.8.c:0 "Рабовладельческий штат!" #LOC!
- NA_B_Disregardable_State:0 "§YШтат является неподходящим§!" #LOC!
- NA_B_Resistant_Population:0 "Имеет §Yсопротивляющееся население§!" #LOC!
- balkanized_american_states_core_states_decision_tooltip_effect_senate:0 "Штат §Y[FROM.GetName]§! получает §C2 места в Сенате§!\n" #LOC!
- balkanized_american_states_core_states_decision_tooltip_effect_house:0 "Штат §Y[FROM.GetName]§! получает §C1 место в Палате Представителей§!\n" #LOC!
- balkanized_american_states_core_states_decision_tooltip_1:0 "[FROM.GetName] — это §Yподходящий штат§!." #LOC!
- balkanized_american_states_core_states_decision_tooltip_2:0 "В Штате [FROM.GetName] нет §Yсопротивляющегося населения§!." #LOC!
- balkanized_american_states_core_states_decision_tooltip_3:0 "Население Штата [FROM.GetName] составляет не менее §Y40,000§!." #LOC!
- balkanized_american_states_core_states_decision_tooltip_4:0 "Столица [Root.Capital.GetName] присоеденина к штату [FROM.GetName]" #LOC!
- balkanized_american_states_core_states_decision_tooltip_effect:0 "становится национальной территорией страны [ROOT.GetName]!\n" #LOC!
- USA_admit_state_add_stars_tt:0 "Страна §C[Root.GetNameWithFlag]§! получает §G+1 штат§!" #LOC!
- NA_B_idea_working_class_exploitation_low:0 "Эксплуатация рабочего класса: §R[?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]§!" #LOC!
- NA_B_idea_working_class_exploitation_low_desc:0 "§WОрганизация рабочего класса:§! §Y[?ROOT.NA_B_idea_working_class_organization_score_var@ROOT]%§!\n\nРабочая организация обычно остается в застое при низком уровне эксплуатации рабочих. Рабочий класс в странее [ROOT.GetNameDef] подвергается жесткой эксплуатации и работает в ужасных условиях за пропитание. Дальнейшая эксплуатация приведет к тому, что рабочие организуются для противодействия эксплуатации.\n\nСтрана [ROOT.GetName] имеет уровень эксплуатации рабочих [?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]. Это значение увеличивается при тяжелых условиях труда и низком представительстве и уменьшается при хороших условиях труда и положительном представительстве." #LOC!
- NA_B_idea_working_class_exploitation_medium:0 "Эксплуатация рабочего класса: §R[?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]§!" #LOC!
- NA_B_idea_working_class_exploitation_high:0 "Эксплуатация рабочего класса: §R[?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]§!" #LOC!
-  # Congress Mechanic 
-  
-  
- NA_B_idea_working_class_exploitation_medium_desc:0 "§WОрганизация рабочего класса:§! §Y[?ROOT.NA_B_idea_working_class_organization_score_var@ROOT]%§!\n\nРабочая организация будет продолжать расти, когда уровень эксплуатации рабочих останется выше низкого уровня. Рабочий класс в стране [ROOT.GetNameDef] подвергается жесткой эксплуатации и работает в ужасных условиях за пропитание. Чтобы противостоять этой эксплуатации, профсоюзные организации сотрудничают с работниками, чтобы начать забастовки за улучшение условий и снижение эксплуатации.\n\nСтрана [ROOT.GetName] имеет уровень эксплуатации работников [?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]. Это значение увеличивается при тяжелых условиях труда и низком представительстве и уменьшается при хороших условиях труда и положительном представительстве." #LOC!
- NA_B_idea_working_class_exploitation_high_desc:0 "§WОрганизация рабочего класса:§! §Y[?ROOT.NA_B_idea_working_class_organization_score_var@ROOT]%§!\n\nРабочая организация будет продолжать расти, когда уровень эксплуатации рабочих останется выше низкого уровня. Рабочий класс в стране [ROOT.GetNameDef] подвергается жесткой эксплуатации и работает в ужасных условиях за пропитание. Благодаря этой эксплуатации радикальные республиканцы и анархистские фракции стали более популярными. Продолжающаяся эксплуатация радикализировала профсоюзные организации, и теперь они организуют всеобщие забастовки, чтобы закрыть целые учреждения и потребовать немедленного прекращения эксплуатации.\n\nСтрана [ROOT.GetName] имеет уровень эксплуатации рабочих [?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]. Это значение увеличивается при тяжелых условиях труда и низком представительстве и уменьшается при хороших условиях труда и положительном представительстве." #LOC!
- NA_B_reliance_on_water_transportation:0 "Опора на внутренние реки" #LOC!
- NA_B_reliance_on_water_transportation_desc:0 "Страна [ROOT.GetNameDef] полагается на свои внутренние водные каналы для облегчения экономической торговли, транспорта и процветания." #LOC!
- balkanized_usa.9.t:0 "Выборы в Конгресс" #LOC!
- balkanized_usa.9.desc:0 "Сегодня граждане со всей страны [ROOT.GetName] проголосовали за то, чтобы их сенаторы и представители были отправлены в столицу страны для представления их интересов в национальном Конгрессе. Хотя мы надеемся в результате получить партийное большинство, мы легко можем столкнуться с Конгрессом, который заблокирует почти все законы, которые мы пытаемся принять." #LOC!
- balkanized_usa.9.a:0 "Будем надеяться, что мы победим" #LOC!
- USA_congressional_branch_idea:0 "Отделение Конгресса" #LOC!
- USA_congressional_branch_idea_desc:0 "§YМеста в Сенате: \n§!![USA_congressional_branch_idea_senate_ideology_radical_socialism][USA_congressional_branch_idea_senate_social_egalitarianism][USA_congressional_branch_idea_senate_centrism][USA_congressional_branch_idea_senate_traditional_conservatism][USA_congressional_branch_idea_senate_fundamentalism][USA_congressional_branch_idea_senate_radical_democracy][USA_congressional_branch_idea_senate_autocracy][USA_congressional_branch_idea_senate_chauvinist_populism][USA_congressional_branch_idea_senate_anarchism]\n§YМеста в Палате Представителей:§!\n[USA_congressional_branch_idea_house_ideology_radical_socialism][USA_congressional_branch_idea_house_social_egalitarianism][USA_congressional_branch_idea_house_centrism][USA_congressional_branch_idea_house_traditional_conservatism][USA_congressional_branch_idea_house_fundamentalism][USA_congressional_branch_idea_house_radical_democracy][USA_congressional_branch_idea_house_autocracy][USA_congressional_branch_idea_house_chauvinist_populism][USA_congressional_branch_idea_house_anarchism]\nСтрана [ROOT.GetName] разделила свою государственную власть на исполнительную, судебную и конгрессную." #LOC!
- USA_congressional_branch_idea_senate_centrism_tt:0 "§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_senate_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_senate_traditional_conservatism_tt:0 "§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_senate_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_senate_social_egalitarianism_tt:0 "§W[ROOT.get_social_egalarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalarianism_senate_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_senate_ideology_radical_socialism_tt:0 "§W[ROOT.get_ideology_radical_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_ideology_radical_socialism_senate_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_senate_autocracy_tt:0 "§W[ROOT.get_autocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_senate_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_senate_fundamentalism_tt:0 "§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_senate_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_senate_radical_democracy_tt:0 "§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_senate_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_senate_chauvinist_populism_tt:0 "§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_senate_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_senate_anarchism_tt:0 "§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_senate_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_house_centrism_tt:0 "§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_house_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_house_traditional_conservatism_tt:0 "§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_house_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_house_social_egalitarianism_tt:0 "§W[ROOT.get_social_egalarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalarianism_house_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_house_ideology_radical_socialism_tt:0 "§W[ROOT.get_ideology_radical_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_ideology_radical_socialism_house_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_house_autocracy_tt:0 "§W[ROOT.get_autocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_house_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_house_fundamentalism_tt:0 "§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_house_seats@ROOT]§!\n" #LOC!
-  
-  
-  
- NA_B_congressional_branch_idea:0 "Отделение Конгресса" #LOC!
-  
- USA_congressional_branch_idea_house_radical_democracy_tt:0 "§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_house_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_house_chauvinist_populism_tt:0 "§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_house_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_house_anarchism_tt:0 "§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_house_seats@ROOT]§!\n" #LOC!
- USA_judicial_branch_idea:0 "Отделение Верховного Суда" #LOC!
- USA_judicial_branch_idea_desc:0 "§YМеста в Верховном Суде:§!\n[USA_congressional_branch_idea_supreme_court_ideology_radical_socialism][USA_congressional_branch_idea_supreme_court_social_egalitarianism][USA_congressional_branch_idea_supreme_court_centrism][USA_congressional_branch_idea_supreme_court_traditional_conservatism][USA_congressional_branch_idea_supreme_court_fundamentalism][USA_congressional_branch_idea_supreme_court_radical_democracy][USA_congressional_branch_idea_supreme_court_autocracy][USA_congressional_branch_idea_supreme_court_chauvinist_populism][USA_congressional_branch_idea_supreme_court_anarchism]\n\nСтрана [ROOT.GetName] разделила свою государственную власть на исполнительную, судебную и конгрессную." #LOC!
- USA_congressional_branch_idea_supreme_court_centrism_tt:0 "§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_supreme_court_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_supreme_court_traditional_conservatism_tt:0 "§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_supreme_court_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_supreme_court_social_egalitarianism_tt:0 "§W[ROOT.get_social_egalarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalarianism_supreme_court_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_supreme_court_ideology_radical_socialism_tt:0 "§W[ROOT.get_ideology_radical_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_ideology_radical_socialism_supreme_court_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_supreme_court_autocracy_tt:0 "§W[ROOT.get_autocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_supreme_court_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_supreme_court_fundamentalism_tt:0 "§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_supreme_court_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_supreme_court_radical_democracy_tt:0 "§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_supreme_court_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_supreme_court_chauvinist_populism_tt:0 "§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_supreme_court_seats@ROOT]§!\n" #LOC!
- USA_congressional_branch_idea_supreme_court_anarchism_tt:0 "§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_supreme_court_seats@ROOT]§!\n" #LOC!
- USA_executive_branch_idea:0 "Исполнительная власть" #LOC!
- USA_executive_branch_idea_desc:0 "§WДействующий президент:§! §Y[ROOT.GetLeader]§!\n§WПолитическая принадлежность:§! §Y[ROOT.GetRulingParty]§!\n\n Страна [ROOT.GetName] разделила это государственная власть, разделенная на исполнительную, судебную и Конгресс." #LOC!
- na_b_union_representation_act:0 "Обеспеченное законодательное представительство профсоюзов" #LOC!
- NA_B_congressional_branch_idea_desc:0 "§YМеста в Сенате:§!\n§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_senate_seats@ROOT]§!\n§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_senate_seats@ROOT]§!\n§W[ROOT.get_social_egalarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalarianism_senate_seats@ROOT]§!\n§W[ROOT.get_ideology_radical_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_ideology_radical_socialism_senate_seats@ROOT]§!\n§W[ROOT.get_autoocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_senate_seats@ROOT]§!\n§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_senate_seats@ROOT]§!\n§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_senate_seats@ROOT]§!\n§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_senate_seats@ROOT]§!\n§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_senate_seats@ROOT]§!\n\n§YМеста в доме:§!\n§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_house_seats@ROOT]§!\n§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_house_seats@ROOT]§!\n§W[ROOT.get_social_egalarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalarianism_house_seats@ROOT]§!\n§W[ROOT.get_ideology_radical_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_ideology_radical_socialism_house_seats@ROOT]§!\n§W[ROOT.get_autocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_house_seats@ROOT]§!\n§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_house_seats@ROOT]§!\n§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_house_seats@ROOT]§!\n§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_house_seats@ROOT]§!\n§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_house_seats@ROOT]§!\n\nСтрана [ROOT.GetName] разделила свою государственную власть на исполнительную, судебную и конгрессную." #LOC!
- NA_B_judicial_branch_idea:0 "Судебная власть" #LOC!
- NA_B_judicial_branch_idea_desc:0 "§YМеста Верховного суда:§!\n§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_social_egalarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalarianism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_ideology_radical_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_ideology_radical_socialism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_autocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_supreme_court_seats@ROOT]§!\n§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_supreme_court_seats@ROOT]§!\n§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_supreme_court_seats@ROOT]§!\n\n[ROOT.GetName] разделил свою правительственную власть на исполнительную, судебную и Конгрессскую ветви власти по образцу Соединенных Штатов до распада." #LOC!
- NA_B_executive_branch_idea:0 "Исполнительная власть" #LOC!
- NA_B_executive_branch_idea_desc:0 "§WДействующий президент:§! §Y[ROOT.GetLeader]§!\n§WПолитическая принадлежность:§! §Y[ROOT.GetRulingParty]§!\n\n[ROOT.GetName] разделился это правительственная власть, разделенная на исполнительную, судебную и Конгресс, по образцу Соединенных Штатов до коллапса." #LOC!
- NA_B_mantle_of_the_states_calculator_check_1_state_tooltip:0 "Значение: [?THIS.NA_B_state_pop_points@THIS]\n" #LOC!
- NA_B_mantle_of_the_states_calculator_check_2_state_tooltip:0 "Значение: [?THIS.NA_B_mantle_of_the_state_points@THIS]\n" #LOC!
-  
-  
-  
-  
-  
-  
-  
-  
- NA_B_mantle_of_the_states_calculator_check_3_state_tooltip:0 "КОРЕНЬ: [ROOT.GetName]\nTHIS: [THIS.GetName]\nPREV: [PREV.GetName]" #LOC!
- NA_B_embargo_slaver_state_trade:0 "Эмбарго на рабовладельческие государства" #LOC!
- NA_B_embargo_slaver_state_opinion:0 "Эмбарго на рабовладельческие государства" #LOC!
- NA_B_embargo_successor_state_trade:0 "Эмбарго на государства-преемники" #LOC!
- NA_B_embargo_successor_state_opinion:0 "Эмбарго на государства-преемники" #LOC!
- NA_B_rival_successor_state_trade:0 "Соперничающее государство-преемник" #LOC!
- NA_B_rival_successor_state_opinion:0 "Соперничающее государство-преемник" #LOC!
- NA_B_successor_of_the_usa_highest:0 "Мантия Штатов" #LOC!
- NA_B_successor_of_the_usa_highest_desc:0 "§WЛегитимность:§! §CВедущий преемник§!\n§WОценка:§! §Y[?ROOT.NA_B_mantle_of_the_states_score_var@ROOT]§!\n\nКак только распад Пришёл союз, наследие Соединённых Штатов стало призывом к сплочению некоторых штатов. Эти государства, утверждающие, что являются преемниками распавшегося союза, борются за легитимность этого титула. Ибо только один может носить «Мантию Штатов» и восстановить себя в качестве законного преемника Соединенных Штатов!" #LOC!
- NA_B_successor_of_the_usa_high:0 "Государство-преемник" #LOC!
- NA_B_successor_of_the_usa_high_desc:0 "§WЛегитимность:§! §GПретендент§!\n§WОценка:§! §Y[?ROOT.NA_B_mantle_of_the_states_score_var@ROOT]§!\n\nКак только распадется союз Наследие Соединенных Штатов стало призывом к сплочению некоторых штатов. Эти государства, утверждающие, что являются преемниками распавшегося союза, борются за легитимность этого титула. Ибо только один может носить «Мантию Штатов» и восстановить себя в качестве законного преемника Соединенных Штатов!" #LOC!
- NA_B_successor_of_the_usa_medium:0 "Государство-преемник" #LOC!
- NA_B_successor_of_the_usa_medium_desc:0 "§WЛегитимность:§! §OMinor§!\n§WОценка:§! §Y[?ROOT.NA_B_mantle_of_the_states_score_var@ROOT]§!\n\nКак только наступил распад союза, наследие Соединенных Штатов стало призывом к сплочению некоторых штатов. Эти государства, утверждающие, что являются преемниками распавшегося союза, борются за легитимность этого титула. Ибо только один может носить «Мантию Штатов» и восстановить себя в качестве законного преемника Соединенных Штатов!" #LOC!
- NA_B_successor_of_the_usa_low:0 "Государство-преемник" #LOC!
- NA_B_successor_of_the_usa_low_desc:0 "§WЛегитимность:§! §RНезначительная§!\n§WОценка:§! §Y[?ROOT.NA_B_mantle_of_the_states_score_var@ROOT]§!\n\nКак только распадется союз Наследие Соединенных Штатов стало призывом к сплочению некоторых штатов. Эти государства, утверждающие, что являются преемниками распавшегося союза, борются за легитимность этого титула. Ибо только один может носить «Мантию Штатов» и восстановить себя в качестве законного преемника Соединенных Штатов!" #LOC!
- USA_statehood_national_guard_established_here_tooltip:0 "создаст отряд §Y[THIS.GetName] Militia§!.\n" #LOC!
- acw_has_started_scripted_trigger_tooltip:0 "§YГражданская война в США§! началась!" #LOC!
- acw_has_concluded_scripted_trigger_tooltip:0 "§YГражданская война в США§! завершилась!" #LOC!
- acw_has_been_avoided_started_scripted_trigger_tooltip:0 "§YГражданской войны в США§! удалось избежать!" #LOC!
- acw_american_civil_war_focus_cant_be_done_started_tooltip:0 "§gПоскольку §!§YГражданская война в США§!§g началась §!§R§!§g, это невозможно сделать.§!" #LOC!
- acw_american_civil_war_focus_cant_be_done_concluded_tooltip:0 "§gПоскольку §!§YГражданская война в США§!§g является §!§RЗавершена§!§g, это невозможно сделать.§!" #LOC!
- acw_american_civil_war_focus_cant_be_done_avoided_tooltip:0 "§gПоскольку §!§YГражданская война в США§!§g §!§RИзбегается§!§g, это невозможно сделать.§!" #LOC!
- balkanized_usa.1.t:0 "Отладка американской балканизации!" #LOC!
- balkanized_usa.1.d:0 "§RЭто событие создаст следующие страны§!:\n Каскадия - §CEstiQT§!\n Калифорния - §OНеназначено§!\n Дезерет - §OНеназначено§!\n Дакота - §CGarion132§!\n Пуэбло - §OНеназначен§!\n Техас - §OНеназначен§!\n Оклахома - §OНеназначен§!\n Канзас — §CRandomGuy45678§!\n Великие озера — §OНеназначено§!\n Миссури — §OНеназначено§!\n Кентукки — §OНеназначено§!\n Канава - §OНеназначено§!\n Конфедерация - §OНеназначено§!\n Атлантические Штаты - §COrmr1§!\n Коммуна Манхэттен - §CCoggernaut§!\n Новая Англия - §CВанадий§!\n Аляска - §OНеназначенный§!\n Куба - §OНе назначено§!\n" #LOC!
-  
-  
-  
-  
- balkanized_usa.31.d:0 "" #LOC!
-  
-  
- usa_state_event.8.t:0 "Мантия Штатов" #LOC!
-  
- usa_state_event.9.t:0 "Мантия Штатов" #LOC!
- balkanized_usa.1.a:0 "Настройки по умолчанию!" #LOC!
- balkanized_usa.1_tooltip:0 "В течение следующих 30 дней штаты выйдут из союза. §WРешения о событии появятся для вас, чтобы §! §Rпереключить теги§! §Wпри необходимости§!.\n" #LOC!
- balkanized_usa.1.b:0 "Гарантия §gManhattan Commune§! и §gKanawha§!!" #LOC!
- balkanized_usa.1.c:0 "Гарантия §gМанхэттенская коммуна§!, §gКанава§!, §gАляска§! и §gКуба§!!" #LOC!
- balkanized_usa.1.e:0 "На самом деле, §Cневажно§!." #LOC!
- is_successor_state_tooltip:0 "Является §Yштатом-правопреемником§! §YUnited States§!" #LOC!
- not_successor_state_tooltip:0 "Не является §Yгосударством-правопреемником §! §YСоединённых Штатов§!" #LOC!
- has_ambitions_for_mantle_tooltip:0 "Имеет амбиции на §YМантию Штатов§!." #LOC!
- has_no_ambitions_for_mantle_tooltip:0 "Не имеет амбиций на §YМантию Штатов§!." #LOC!
- is_former_usa_state_tooltip:0 "Когда-то был частью §YUnited States§!." #LOC!
- NA_B_is_american_allowed_tooltip:0 "Является ли §Hамериканским§!" #LOC!
- balkanized_usa.31.t:0 "Каскадное движение за независимость" #LOC!
- balkanized_usa.31.a:0 "Слава Каскадии!" #LOC!
- balkanized_usa.31.b:0 "Слава Орегону!" #LOC!
- balkanized_usa_test_kansas.1.t:0 "[KNS.GetName] Отделяется!" #LOC!
- balkanized_usa_test_kansas.1.d:0 "[KNS.GetName] решил выйти из состава [USA.GetName] по какой-то случайной причине. Как странно!" #LOC!
- balkanized_usa_test_kansas.1.a:0 "Мы приведем [KNS.GetName] к славе!" #LOC!
- balkanized_usa_test_kansas.1.b:0 "Сессия так рано?" #LOC!
- usa_state_event.8.d:0 "Как только произошел распад союза, наследие Соединенных Штатов стало призывом к сплочению некоторых независимых государств. Эти государства, утверждающие, что являются преемниками распавшегося союза, борются за легитимность этого титула. Ибо только один может носить «Мантию Штатов» и восстановить себя в качестве законного преемника Соединенных Штатов!\n\nВ наших городах вспыхнули митинги, приветствующие [ROOT.GetName] объявить себя Государством-преемником. Они хотят, чтобы эта нация взяла на себя мантию Штатов и воссоединила распавшийся союз. Остается единственный вопрос: объявим ли мы себя официальным государством-преемником?" #LOC!
- usa_state_event.8.a:0 "Объявляем себя государством-преемником! Мантия Штатов по праву принадлежит нам!" #LOC!
- usa_state_event.8.b:0 "У нас нет амбиций по восстановлению Соединенных Штатов." #LOC!
- usa_state_event.9.d:0 "Как только произошел распад союза, наследие Соединенных Штатов стало призывом к сплочению некоторых штатов. Эти государства, утверждающие, что являются преемниками распавшегося союза, борются за легитимность этого титула. Ибо только один может носить «Мантию Штатов» и восстановить себя в качестве законного преемника Соединенных Штатов!\n\nРегион, который когда-то назывался Соединенными Штатами, превратился в зону военных действий с небольшой стабильностью. Вакуум власти сделал политический ландшафт созревшим для измены и предательства. Пламя неизбежно утихнет, но это вызывает вопрос, который волнует всех. Кто восстанет из пепла горящих Соединенных Штатов?" #LOC!
- usa_state_event.9.a:0 "Мантия Штатов по праву принадлежит нам!" #LOC!
- usa_state_event.9.b:0 "Пусть они ссорятся из-за титула." #LOC!
-  
-  
-  
-  
-  
-  
-  
- balkanized_state_border_skirmish.8.a:0 "Нам следует подготовиться к этой пограничной войне." #LOC!
-  
-  
-  
- usa_state_event.9.c:0 "Это чистый хаос!" #LOC!
- balkanized_state_border_skirmish.1.t:0 "Перестрелка-штурм прошла успешно!" #LOC!
- balkanized_state_border_skirmish.1.d:0 "Наши войска вернулись со своей гордостью, такой же хвастливой, как всегда! Схватка была выиграна, что еще больше повысило нашу легитимность владения «Мантией Государств»!" #LOC!
- balkanized_state_border_skirmish.1.a:0 "Отличный! Несите в запас!" #LOC!
- balkanized_state_border_skirmish.2.t:0 "Штурмовая перестрелка не удалась!" #LOC!
- balkanized_state_border_skirmish.2.d:0 "Наши войска возвращаются домой после неудачной пограничной стычки. Схватка не только была проиграна, но и из-за нашей неудачи наша легитимность владения «Мантией Государств» снизилась!" #LOC!
- balkanized_state_border_skirmish.2.a:0 "Это ужасно!" #LOC!
- balkanized_state_border_skirmish.3.t:0 "Тупик на границе!" #LOC!
- balkanized_state_border_skirmish.3.d:0 "То, что началось как стычка, превратилось в полномасштабную пограничную войну, которую не может выдержать ни одна сторона. Обе стороны решили прекратить огонь, поскольку продолжение приграничной войны стало слишком дорогостоящим. Наша легитимность не изменилась." #LOC!
- balkanized_state_border_skirmish.3.a:0 "Лишь временная неудача..." #LOC!
- balkanized_state_border_skirmish.5.t:0 "Защита в схватке прошла успешно!" #LOC!
- balkanized_state_border_skirmish.5.d:0 "Агрессорам в этой стычке нет равных по защите нашей границы!" #LOC!
- balkanized_state_border_skirmish.5.a:0 "Им не удастся так легко разграбить наши запасы!" #LOC!
- balkanized_state_border_skirmish.6.t:0 "Защита в схватке не удалась!" #LOC!
- balkanized_state_border_skirmish.6.d:0 "Пограничная оборона была плохо оборудована для защиты города от вражеских сил!" #LOC!
- balkanized_state_border_skirmish.6.a:0 "Надеюсь, они не украли многого!" #LOC!
- balkanized_state_border_skirmish.7.t:0 "Тупик на границе!" #LOC!
- balkanized_state_border_skirmish.7.d:0 "То, что началось как стычка, превратилось в полномасштабную пограничную войну, которую не может выдержать ни одна сторона. Обе стороны решили прекратить огонь, поскольку продолжение приграничной войны стало слишком дорогостоящим." #LOC!
- balkanized_state_border_skirmish.7.a:0 "Кажется, мы можем пока расслабиться..." #LOC!
- balkanized_state_border_skirmish.8.t:0 "[FROM.GetAdjective] На границе обнаружены силы!" #LOC!
- balkanized_state_border_skirmish.8.d:0 "Мы должны подготовиться к предстоящей стычке на нашей границе с [FROM.GetName]!" #LOC!
- set_border_war_data_balkanized_state_border_skirmish_neighbor_combat_width_tooltip:0 "Разведка предсказала, что §YБоевая ширина§! для этой §YПограничной войны§! составит §R40§!." #LOC!
- balkanized_state_border_skirmish_category:0 "Американские гражданские войны" #LOC!
- balkanized_state_border_skirmish_category_desc:0 "§YГражданские войны в США:§!\nРаспад Соединенных Штатов Америки привел к тому, что бывшие штаты начали бороться за свои территориальные претензии. Некоторые даже объявили себя государствами-правопреемниками ныне распавшихся Соединенных Штатов.\n\n§YМантия Штатов:§!\nКак только произошел распад союза, наследие Соединенных Штатов стало призывом к сплочению некоторых независимых государств. Эти государства, утверждающие, что являются преемниками распавшегося союза, борются за легитимность этого титула. Ибо только один может носить «Мантию Штатов» и восстановить себя в качестве законного преемника Соединенных Штатов!" #LOC!
- balkanized_state_border_skirmish_neighbor_diplomacy_trigger:0 "Не имеет §Yдипломатических договоров§! с §Y[FROM.GetName]§!" #LOC!
- balkanized_state_border_skirmish_neighbor_command_power_more_than_99:0 "£command_power §H100§!" #LOC!
- balkanized_state_border_skirmish_neighbor_command_power_more_than_99_blocked:0 "£command_power §R100§!" #LOC!
-  
-  
-  # Vanadiums stuffs 
-  
-  # Idea Tooltips 
-  
-  #Event Tooltips 
-  
-  # Opinion Modifiers 
- balkanized_state_border_skirmish_neighbor:0 "Легитимная стычка: граница [FROM.GetAdjective]" #LOC!
- balkanized_state_border_skirmish_neighbor_desc:0 "Мы начнем стычку на границе [FROM.GetName] в надежде успешно повысить нашу легитимность владения §YМантией Государств§!." #LOC!
- balkanized_state_border_skirmish_neighbor_at_peace_trigger:0 "Не §YСхватка§! или §YВойна§! с кем-либо" #LOC!
- balkanized_state_border_skirmish_neighbor_command_power_more_than_99_tooltip:0 "Чтобы начать §YSkirmish of Legitimacy§!, необходимо 100 фунтов стерлингов." #LOC!
- NA_B_Spirit_New_World_Democracies:0 "Демократии Нового Света" #LOC!
- NA_B_Spirit_New_World_Democracies_desc:0 "Демократии Нового Света, отделенные океанами от Старого Света, имеют шанс вырасти." #LOC!
- Gen_America_Overextended:0 "Перенапряженный" #LOC!
- Gen_America_Overextended_desc:0 "[Root.GetNameDef] слишком расширен." #LOC!
- 01_GENAMER_IDEA_tt:0 "§W[Root.GetName]§! имеет все следующее:\n — имеет §Gдемократическое§! правительство\n — имеет капитал в §YАмерике§! \n — имеет одно из следующих:\n — есть §YIndependent§!\n - §ROverlord§! также имеет §GАмериканскую систему§!\n" #LOC!
- 01_GENAMER_MOBIL_tt:0 "\n§Y[THIS.GetName]§! выделит часть своего населения для формирования §Yдивизии государственной милиции§!.\n\n" #LOC!
- fellow_american:0 "Член американской системы" #LOC!
+ # Statehood Stuff #NT!
+ balkanized_american_states_core_states: "[Root.GetAdj] Решения о государственности".
+ balkanized_american_states_core_states_desc: "[Root.GetNameWithFlag] в настоящее время имеет §C[?ROOT.usa_state_count] штатов§!".
+ balkanized_american_states_core_states_decision_switch: "Переключить решения о предоставлении статуса штата".
+ balkanized_american_states_core_states_decision_switch_desc: "Переключает видимость  решения §HПредоставление статуса штата§!"
+ balkanized_american_states_core_states_decision_switch_on: "§CОткрыть§! Решения §HПредоставление статуса штата§!"
+ balkanized_american_states_core_states_decision_switch_off: "§CСпрятать§! Решения §HПредоставление статуса штата§!"
+ balkanized_american_states_core_states_decision: "Предоставить [FROM.GetName] государственность".
+ balkanized_usa.8.t: "[From.GetName] становится штатом!"
+ balkanized_usa.8.d: "После месяцев подготовки и юридических процедур территория [FROM.GetName] наконец готова к предоставлению государственности".
+ balkanized_usa.8.d_slavery_debate: "После месяцев подготовки и юридических процедур территория [FROM.GetName] наконец готова к предоставлению государственности. Но теперь необходимо наконец ответить на вопрос, должна ли она присоединиться в качестве свободного или рабовладельческого государства?".
+ balkanized_usa.8.a: "Хорошо!"
+ balkanized_usa.8.b: "Свободным штатом!"
+ balkanized_usa.8.c: "Рабским штатом!"
+ NA_B_Disregardable_State: "§YШтат, не подлежащий учету§!".
+ NA_B_Resistant_Population: " Имеет §YУстойчивое население§!"
+ balkanized_american_states_core_states_decision_tooltip_effect_senate: "§Y[FROM.GetName]§! получает §B2 места в Сенате§!\n"
+ balkanized_american_states_core_states_decision_tooltip_effect_house: "§Y[FROM.GetName]§! получает  §b1 место в Палате представителей§!\n"
+ balkanized_american_states_core_states_decision_tooltip_1: "[FROM.GetName] §YСоответствующий штат§!".
+ balkanized_american_states_core_states_decision_tooltip_2: "В [FROM.GetName] нет §YУстойчивого населения§!".
+balkanized_american_states_core_states_decision_tooltip_3: "Население [FROM.GetName] составляет не менее §Y40,000§!".
+ balkanized_american_states_core_states_decision_tooltip_4: "[Root.Capital.GetName] соединен с [FROM.GetName]".
+ balkanized_american_states_core_states_decision_tooltip_effect: "становится штатом и национальной территорией [ROOT.GetName]!\n"
+ USA_admit_state_add_stars_tt:0 "§C[Root.GetNameWithFlag]§! получает §G+1 Пехота§!".
+
+ NA_B_idea_working_class_exploitation_low: "Эксплуатация рабочего класса: §R[?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]§!"
+ NA_B_idea_working_class_exploitation_low_desc: "§WОрганизация рабочего класса:§! §Y[?ROOT.NA_B_idea_working_class_organization_score_var@ROOT]%§!\n\nОрганизация рабочего класса обычно остается в застое, когда существует низкий уровень эксплуатации рабочего класса. Рабочий класс в [ROOT.GetNameDef] сильно эксплуатируется, работая в ужасных условиях за прожиточный минимум. Дальнейшая эксплуатация приведет к тому, что рабочие организуются для борьбы с эксплуатацией.\n\n[ROOT.GetName] имеет уровень эксплуатации рабочих [?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]. Это значение увеличивается при тяжелых условиях труда и низком представительстве, и уменьшается при хороших условиях труда и положительном представительстве."
+ NA_B_idea_working_class_exploitation_medium: "Эксплуатация рабочего класса: §R[?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]§!".
+ NA_B_idea_working_class_exploitation_medium_desc: "§WОрганизация рабочего класса:§! §Y[?ROOT.NA_B_idea_working_class_organization_score_var@ROOT]%§!\n\nОрганизация рабочего класса будет продолжать расти, если уровень эксплуатации рабочих остается выше низкого. Рабочий класс в [ROOT.GetNameDef] сильно эксплуатируется, работая в ужасных условиях за прожиточный минимум. Чтобы противостоять этой эксплуатации, рабочие организации сотрудничают с рабочими, чтобы начать забастовки за лучшие условия и меньшую эксплуатацию.\n\n[ROOT.GetName] имеет уровень эксплуатации рабочих [?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]. Это значение увеличивается при тяжелых условиях труда и низком представительстве, и уменьшается при хороших условиях труда и положительном представительстве."
+ NA_B_idea_working_class_exploitation_high: "Эксплуатация рабочего класса: §R[?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]§!".
+ NA_B_idea_working_class_exploitation_high_desc: "§WОрганизация рабочего класса:§! §Y[?ROOT.NA_B_idea_working_class_organization_score_var@ROOT]%§!\n\nОрганизация рабочего класса будет продолжать расти, если уровень эксплуатации рабочих остается выше низкого. Рабочий класс в [ROOT.GetNameDef] сильно эксплуатируется, работая в ужасных условиях за прожиточный минимум. Из-за этой эксплуатации радикальные республиканцы и анархистские фракции стали более популярными. Продолжающаяся эксплуатация радикализировала рабочие организации, и теперь они организуют всеобщие забастовки, закрывая целые учреждения, чтобы потребовать немедленного прекращения эксплуатации.\n\n[ROOT.GetName] имеет уровень эксплуатации рабочих [?ROOT.NA_B_idea_working_class_exploitation_score_var@ROOT]. Это значение увеличивается при тяжелых условиях труда и низком представительстве, и уменьшается при хороших условиях труда и положительном представительстве."
+ NA_B_reliance_on_water_transportation: "Зависимость от внутренних рек"
+ NA_B_reliance_on_water_transportation_desc: "[ROOT.GetNameDef] полагается на свои внутренние водные каналы для облегчения экономической торговли, транспортировки и процветания."
+ # Congress Mechanic #NT!
+ balkanized_usa.9.t: "Выборы в Конгресс"
+ balkanized_usa.9.desc: "Сегодня граждане по всей [ROOT.GetName] голосовали за своих сенаторов и представителей, которые будут направлены в национальный Капитолий, чтобы представлять их интересы в национальном Конгрессе. Хотя мы надеемся получить в результате партийное большинство, мы легко можем столкнуться с Конгрессом, который будет блокировать почти все законы, которые мы попытаемся принять."
+ balkanized_usa.9.a: "Будем надеяться, что мы победим"
+
+ USA_congressional_branch_idea: "Отделение Конгресса"
+ USA_congressional_branch_idea_desc: "§YМеста в Сенате:\n§! [USA_congressional_branch_idea_senate_vanguard_communism][USA_congressional_branch_idea_senate_collectivist_socialism][USA_congressional_branch_idea_senate_social_egalitarianism][USA_congressional_branch_idea_senate_centrism][USA_congressional_branch_idea_senate_traditional_conservatism][USA_congressional_branch_idea_senate_fundamentalism][USA_congressional_branch_idea_senate_radical_democracy][USA_congressional_branch_idea_senate_autocracy][USA_congressional_branch_idea_senate_chauvinist_populism][USA_congressional_branch_idea_senate_anarchism]\n§YМеста в палате представителей: §! \n[USA_congressional_branch_idea_house_vanguard_communism][USA_congressional_branch_idea_house_collectivist_socialism][USA_congressional_branch_idea_house_social_egalitarianism][USA_congressional_branch_idea_house_centrism][USA_congressional_branch_idea_house_traditional_conservatism][USA_congressional_branch_idea_house_fundamentalism][USA_congressional_branch_idea_house_radical_democracy][USA_congressional_branch_idea_house_autocracy][USA_congressional_branch_idea_house_chauvinist_populism][USA_congressional_branch_idea_house_anarchism]\nThe [ROOT. GetName] разделил свою правительственную власть на исполнительную, судебную и конгрессную ветви."
+
+ USA_congressional_branch_idea_senate_centrism_tt: "§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_senate_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_senate_traditional_conservatism_tt: "§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_senate_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_senate_social_egalitarianism_tt: "§W[ROOT.get_social_egalitarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalitarianism_senate_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_senate_ideology_radical_socialism_tt: "§W[ROOT.get_ideology_radical_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_ideology_radical_socialism_senate_seats@ROOT]§!\n" #NT!
+ USA_congressional_branch_idea_senate_autocracy_tt: "§W[ROOT.get_autocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_senate_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_senate_fundamentalism_tt: "§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_senate_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_senate_radical_democracy_tt: "§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_senate_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_senate_chauvinist_populism_tt: "§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_senate_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_senate_anarchism_tt: "§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_senate_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_house_centrism_tt: "§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_house_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_house_traditional_conservatism_tt: "§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_house_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_house_social_egalitarianism_tt: "§W[ROOT.get_social_egalitarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalitarianism_house_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_house_ideology_radical_socialism_tt: "§W[ROOT.get_ideology_radical_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_ideology_radical_socialism_house_seats@ROOT]§!\n" #NT!
+ USA_congressional_branch_idea_house_autocracy_tt: "§W[ROOT.get_autocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_house_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_house_fundamentalism_tt: "§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_house_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_house_radical_democracy_tt: "§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_house_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_house_chauvinist_populism_tt: "§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_house_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_house_anarchism_tt: "§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_house_seats@ROOT]§!\n"
+
+ USA_judicial_branch_idea: "Судебная ветвь власти"
+ USA_judicial_branch_idea_desc: "§Ysupreme_court Места:§! \n[USA_congressional_branch_idea_supreme_court_vanguard_communism][USA_congressional_branch_idea_supreme_court_collectivist_socialism][USA_congressional_branch_idea_supreme_court_social_egalitarianism][USA_congressional_branch_idea_supreme_court_centrism][USA_congressional_branch_idea_supreme_court_traditional_conservatism][USA_congressional_branch_idea_supreme_court_fundamentalism][USA_congressional_branch_idea_supreme_court_radical_democracy][USA_congressional_branch_idea_supreme_court_autocracy][USA_congressional_branch_idea_supreme_court_chauvinist_populism][USA_congressional_branch_idea_supreme_court_anarchism]\n\nThe [ROOT. GetName] разделил свою правительственную власть на исполнительную, судебную и конгрессную ветви."
+ USA_congressional_branch_idea_supreme_court_centrism_tt: "§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_supreme_court_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_supreme_court_traditional_conservatism_tt: "§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_supreme_court_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_supreme_court_social_egalitarianism_tt: "§W[ROOT.get_social_egalitarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalitarianism_supreme_court_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_supreme_court_ideology_radical_socialism_tt: "§W[ROOT.get_ideology_radical_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_ideology_radical_socialism_supreme_court_seats@ROOT]§!\n" #NT!
+ USA_congressional_branch_idea_supreme_court_autocracy_tt: "§W[ROOT.get_autocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_supreme_court_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_supreme_court_fundamentalism_tt: "§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_supreme_court_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_supreme_court_radical_democracy_tt: "§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_supreme_court_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_supreme_court_chauvinist_populism_tt: "§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_supreme_court_seats@ROOT]§!\n"
+ USA_congressional_branch_idea_supreme_court_anarchism_tt: "§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_supreme_court_seats@ROOT]§!\n"
+ USA_executive_branch_idea: "Исполнительная власть"
+ USA_executive_branch_idea_desc: "§WМесто президента:§! §Y[ROOT.GetLeader]§!\n§WПолитическая принадлежность:§! §Y[ROOT.GetRulingParty]§!\n\nВ стране [ROOT.GetName] государственная власть разделена на исполнительную, судебную и конгрессную ветви."
+
+ na_b_union_representation_act: "Обеспечение законодательного представительства профсоюзов".
+
+ NA_B_congressional_branch_idea: "Конгресс"
+ NA_B_congressional_branch_idea_desc: "§YМеста в Сенате:§!\n§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_senate_seats@ROOT]§!\n§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_senate_seats@ROOT]§!\n§W[ROOT.get_social_egalitarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalitarianism_senate_seats@ROOT]§!\n§W[ROOT.get_collectivist_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_collectivist_socialism_senate_seats@ROOT]§!\n§W[ROOT.get_vanguard_communism_NA_B_Party]:§! §Y[?ROOT.NA_B_vanguard_communism_senate_seats@ROOT]§!\n§W[ROOT.get_autocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_senate_seats@ROOT]§!\n§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_senate_seats@ROOT]§!\n§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_senate_seats@ROOT]§!\n§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_senate_seats@ROOT]§!\n§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_senate_seats@ROOT]§!\n\n§YМеста в Палате Представителей:§!\n§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_house_seats@ROOT]§!\n§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_house_seats@ROOT]§!\n§W[ROOT.get_social_egalitarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalitarianism_house_seats@ROOT]§!\n§W[ROOT.get_collectivist_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_collectivist_socialism_house_seats@ROOT]§!\n§W[ROOT.get_vanguard_communism_NA_B_Party]:§! §Y[?ROOT.NA_B_vanguard_communism_house_seats@ROOT]§!\n§W[ROOT.get_autocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_house_seats@ROOT]§!\n§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_house_seats@ROOT]§!\n§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_house_seats@ROOT]§!\n§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_house_seats@ROOT]§!\n§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_house_seats@ROOT]§!\n\nПравительство [ROOT.GetName] разделило свою государственную власть на исполнительную, судебную и конгрессную ветви по образцу до распада Соединенных Штатов."
+ NA_B_judicial_branch_idea: "Судебная ветвь власти"
+ NA_B_judicial_branch_idea_desc: "§YЗаседания верховного суда:§!\n§W[ROOT.get_centrism_NA_B_Party]:§! §Y[?ROOT.NA_B_centrism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_traditional_conservatism_NA_B_Party]:§! §Y[?ROOT.NA_B_traditional_conservatism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_social_egalitarianism_NA_B_Party]:§! §Y[?ROOT.NA_B_social_egalitarianism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_collectivist_socialism_NA_B_Party]:§! §Y[?ROOT.NA_B_collectivist_socialism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_vanguard_communism_NA_B_Party]:§! §Y[?ROOT.NA_B_vanguard_communism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_autocracy_NA_B_Party]:§! §Y[?ROOT.NA_B_autocracy_supreme_court_seats@ROOT]§!\n§W[ROOT.get_fundamentalism_NA_B_Party]:§! §Y[?ROOT.NA_B_fundamentalism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_radical_democracy_NA_B_Party]:§! §Y[?ROOT.NA_B_radical_democracy_supreme_court_seats@ROOT]§!\n§W[ROOT.get_chauvinist_populism_NA_B_Party]:§! §Y[?ROOT.NA_B_chauvinist_populism_supreme_court_seats@ROOT]§!\n§W[ROOT.get_anarchism_NA_B_Party]:§! §Y[?ROOT.NA_B_anarchism_supreme_court_seats@ROOT]§!\n\n[ROOT.GetName] разделил свою правительственную власть на исполнительную, судебную и конгрессную ветви по образцу до распада Соединенных Штатов."
+ NA_B_executive_branch_idea: "Исполнительная власть"
+ NA_B_executive_branch_idea_desc: "§WМесто президента:§! §Y[ROOT.GetLeader]§!\n§WПолитическая принадлежность:§! §Y[ROOT.GetRulingParty]§!\n\n [ROOT.GetName] разделил свою правительственную власть на исполнительную, судебную и конгрессную ветви по образцу до распада Соединенных Штатов."
+
+ NA_B_mantle_of_the_states_calculator_check_1_state_tooltip: "Стоимость: [?THIS.NA_B_state_pop_points@THIS]\n"
+ NA_B_mantle_of_the_states_calculator_check_2_state_tooltip: "Стоимость: [?THIS.NA_B_mantle_of_the_state_points@THIS]\n"
+
+ NA_B_mantle_of_the_states_calculator_check_3_state_tooltip: "ROOT: [ROOT.GetName]\nTHIS: [THIS.GetName]\nPREV: [PREV.GetName]"
+
+ NA_B_embargo_slaver_state_trade: "Эмбарго на рабские штаты"
+ NA_B_embargo_slaver_state_opinion: "Эмбарго на рабовладельческие штаты"
+ NA_B_embargo_successor_state_trade: "Эмбарго на штаты-преемники"
+ NA_B_embargo_successor_state_opinion: "Эмбарго в отношении штатов-преемников"
+ NA_B_rival_successor_state_trade: "Соперничающий штат-преемник"
+ NA_B_rival_successor_state_opinion: "Соперничающий штат-преемник"
+
+ NA_B_successor_of_the_usa_highest: "Мантия Штатов"
+ NA_B_successor_of_the_usa_highest_desc: "§WЛегитимность§! §Лидер-преемник:§!\n§WОчки:§! §Y[?ROOT.NA_B_mantle_of_the_states_score_var@ROOT]§!\n\nКак только наступил распад Союза, наследие Соединенных Штатов стало призывом к сплочению для некоторых штатов. Эти государства, претендующие на роль преемников распавшегося союза, борются за легитимность этого титула. Ведь только один может обладать "мантией штатов" и восстановить себя в качестве законного преемника Соединенных Штатов!".
+ NA_B_successor_of_the_usa_high: "Государство-преемник"
+ NA_B_successor_of_the_usa_high_desc: "§WЛегитимность:§! §GПретендент§!\n§WОчки:§! §Y[?ROOT.NA_B_mantle_of_the_states_score_var@ROOT]§!\n\nКак только наступил распад Союза, наследие Соединенных Штатов стало призывом к сплочению для некоторых штатов. Эти государства, претендующие на роль преемников распавшегося союза, борются за легитимность этого титула. Ведь только один может обладать "мантией штатов" и восстановить себя в качестве законного преемника Соединенных Штатов!".
+ NA_B_successor_of_the_usa_medium: "Штат-преемник"
+ NA_B_successor_of_the_usa_medium_desc: "§WЛегитимность:§! §OМинор§!\n§WSОчки:§! §Y[?ROOT.NA_B_mantle_of_the_states_score_var@ROOT]§!\n\nКак только наступил распад Союза, наследие Соединенных Штатов стало призывом к сплочению для некоторых штатов. Эти государства, претендующие на роль преемников распавшегося союза, борются за легитимность этого титула. Ведь только один может обладать "мантией штатов" и восстановить себя в качестве законного преемника Соединенных Штатов!".
+ NA_B_successor_of_the_usa_low: "Штат-преемник"
+ NA_B_successor_of_the_usa_low_desc: "§WЛегитимность:§! §RНезначительный§!\n§WОчки:§! §Y[?ROOT.NA_B_mantle_of_the_states_score_var@ROOT]§!\n\nКак только наступил распад Союза, наследие Соединенных Штатов стало призывом к сплочению для некоторых штатов. Эти государства, претендующие на роль преемников распавшегося союза, борются за легитимность этого титула. Ведь только один может обладать "мантией штатов" и восстановить себя в качестве законного преемника Соединенных Штатов!".
+
+
+ USA_statehood_national_guard_established_here_tooltip: "создаст §Y[THIS.GetName] Ополченское§! подразделение.\n"
+
+ acw_has_started_scripted_trigger_tooltip: "Гражданская война в Америке началась!".
+ acw_has_concluded_scripted_trigger_tooltip: "§YАмериканская гражданская война§! завершилась!"
+ acw_has_been_avoided_started_scripted_trigger_tooltip: "§YАмериканская гражданская война§! была предотвращена!".
+
+ acw_american_civil_war_focus_cant_be_done_started_tooltip: "§gПоскольку §!§YАмериканская гражданская война§!§g была §!§RНачата§!§g, это не может быть сделано.§!".
+ acw_american_civil_war_focus_cant_be_done_concluded_tooltip: "§gПоскольку §!§YАмериканская гражданская война§!§g является §!§RЗаключенной§!§g, это не может быть сделано.§!".
+ acw_american_civil_war_focus_cant_be_done_avoided_tooltip: "§gПоскольку §!§YАмериканская гражданская война§!§g является §!§RИзбегнутой§!§g, это не может быть сделано.§!".
+
+ balkanized_usa.1.t: "Отладка балканизации Америки!"
+ balkanized_usa.1.d: "§RЭто событие породит следующие страны§!:\n Каскадия - §CEstiQT§!\n Калифорния - §OНераспределенный§!\n Дезерет - §OНераспределенный§! \n Дакота - §CGarion132§!\n Пуэбло - §OНераспределенный§!\n Техас - §OНераспределенный§!\n Оклахома - §OНераспределенный§!\n Канзас - §CRandomGuy45678§! \n Великие озера - §OUnassigned§!\n Миссури - §OUnassigned§!\n Кентукки - §OНераспределенный§!\n Канавха - §OНераспределенный§!\n Конфедерация - §OНераспределенный§! \nАтлантические Штаты - §COrmr1§!\n Манхэттенская Коммуна - §CCoggernaut§!\n Новая Англия - §CVanadium§!\n Аляска - §OНераспределенный§!\n Куба - §OНераспределенный§!\n"
+ balkanized_usa.1.a: "Настройки по умолчанию!"
+ balkanized_usa.1_tooltip: "В течение следующих 30 дней штаты выйдут из союза. §YВсе решения появятся для вас§! §RПереключить теги§! §WВ случае необходимости§!.\n"
+ balkanized_usa.1.b: "Гарантируйте §gМанхэттенскую коммуну§! и §gКанаву§!!!"
+ balkanized_usa.1.c: "Гарантировать §gМанхэттенскую коммуну§!, §gКанавха§!, §gАляску§! и §gКубу§!".
+ balkanized_usa.1.e: "Вообще-то, §Cневажно§!!!".
+
+ is_successor_state_tooltip: "Является §YШтатом-преемником§! §YСоединенных Штатов§!"
+ not_successor_state_tooltip: "Не является §YШтатом-преемником§! §YСоединенных Штатов§!".
+
+ has_ambitions_for_mantle_tooltip: "Имеет амбиции в отношении §YМантии Штатов§!".
+ has_no_ambitions_for_mantle_tooltip: "Не имеет амбиций в отношении §YМантии Штатов§!".
+
+ is_former_usa_state_tooltip: "Когда-то был частью §YСоединённых Штатов§!".
+ NA_B_is_american_allowed_tooltip: "Является §HАмериканским§!".
+
+ balkanized_usa.31.t: "Каскадское движение за независимость"
+ balkanized_usa.31.d: ""
+ balkanized_usa.31.a: "Слава Каскадии!"
+ balkanized_usa.31.b: "Слава Орегону!"
+
+ balkanized_usa_test_kansas.1.t: "[KNS.GetName] Отделяется!".
+ balkanized_usa_test_kansas.1.d: "[KNS.GetName] решил отделиться от [USA.GetName] по какой-то случайной причине. Как странно!"
+ balkanized_usa_test_kansas.1.a: "Мы приведем [KNS.GetName] к славе!".
+ balkanized_usa_test_kansas.1.b: "Сессия так рано?"
+
+ usa_state_event.8.t: "Мантия штатов"
+ usa_state_event.8.d: "Как только наступил распад Союза, наследие Соединенных Штатов стало призывом к митингу для некоторых независимых государств. Эти государства, претендующие на роль преемников распавшегося союза, борются за легитимность этого титула. Ведь только один может обладать "Мантией Штатов" и восстановить себя в качестве законного преемника Соединенных Штатов!\n\nВ наших городах вспыхнули митинги, призывающие [ROOT.GetName] объявить себя государством-преемником. Они хотят, чтобы эта нация взяла в руки мантию Штатов и воссоединила распавшийся союз. Остается только один вопрос: объявим ли и мы себя официальным государством-преемником?".
+ usa_state_event.8.a: "Провозгласим себя государством-преемником! Мантия Штатов принадлежит нам по праву!".
+ usa_state_event.8.b: "У нас нет амбиций по восстановлению Соединенных Штатов".
+
+ usa_state_event.9.t: "Мантия Штатов"
+ usa_state_event.9.d: "Как только наступил распад Союза, наследие Соединенных Штатов стало призывом к митингу для некоторых штатов. Эти штаты, претендующие на роль преемников распавшегося союза, борются за легитимность этого титула. Ведь только один может обладать "мантией Штатов" и восстановить себя в качестве законного преемника Соединенных Штатов.\n\nРегион, который когда-то назывался Соединенными Штатами, превратился в зону боевых действий с низкой стабильностью. Вакуум власти оставил политический ландшафт созревшим для измены и предательства. Пламя неизбежно уляжется, но это порождает вопрос, который интересует всех. Кто восстанет из пепла горящих Соединенных Штатов?".
+ usa_state_event.9.a: "Мантия Штатов принадлежит нам по праву!".
+ usa_state_event.9.b: "Пусть они спорят из-за титула".
+ usa_state_event.9.c: "Это чистый хаос!"
+
+ balkanized_state_border_skirmish.1.t: "Штурм границы успешен!".
+ balkanized_state_border_skirmish.1.d: "Наши войска вернулись с гордостью, как никогда! Стычка была выиграна, что еще больше повысило нашу легитимность в обладании "Мантией государств"!".
+ balkanized_state_border_skirmish.1.a: "Превосходно! Принесите его в запас!".
+
+ balkanized_state_border_skirmish.2.t: "Штурм стычки провален!".
+ balkanized_state_border_skirmish.2.d: "Наши войска возвращаются домой после неудачной пограничной стычки. Стычка была не только проиграна, но из-за нашей неудачи наша легитимность в обладании "Мантией государств" снизилась!".
+ balkanized_state_border_skirmish.2.a: "Это ужасно!"
+
+ balkanized_state_border_skirmish.3.t: "Тупик на границе!".
+ balkanized_state_border_skirmish.3.d: "То, что началось как стычка, превратилось в полномасштабную пограничную войну, которую не может выдержать ни одна из сторон. Обе стороны решили прекратить огонь, так как продолжать пограничную войну стало слишком дорого. Наша легитимность осталась неизменной".
+ balkanized_state_border_skirmish.3.a: "Только временная неудача...".
+
+ balkanized_state_border_skirmish.5.t: "Оборона стычки успешна!"
+ balkanized_state_border_skirmish.5.d: "Агрессоры стычки не справились с защитой нашей границы!".
+ balkanized_state_border_skirmish.5.a: "Они не смогут так легко разграбить наши запасы!"
+
+ balkanized_state_border_skirmish.6.t: "Защита стычки провалена!"
+ balkanized_state_border_skirmish.6.d: "Пограничная оборона была плохо оборудована для защиты города от вражеских сил!".
+ balkanized_state_border_skirmish.6.a: "Надеюсь, им не удалось много урвать!"
+
+ balkanized_state_border_skirmish.7.t: "Тупик на границе!".
+ balkanized_state_border_skirmish.7.d: "То, что началось как стычка, превратилось в полномасштабную пограничную войну, которую не может выдержать ни одна из сторон. Обе стороны решили прекратить огонь, так как продолжение пограничной войны стало слишком дорогостоящим."
+ balkanized_state_border_skirmish.7.a: "Похоже, мы можем расслабиться на время...".
+
+ balkanized_state_border_skirmish.8.t: "[FROM.GetAdjective] Силы обнаружены на границе!".
+ balkanized_state_border_skirmish.8.d: "Мы должны подготовиться к предстоящей стычке на нашей границе с [FROM.GetName]!".
+ balkanized_state_border_skirmish.8.a: "Мы должны подготовиться к пограничной войне".
+set_border_war_data_balkanized_state_border_skirmish_neighbor_combat_width_tooltip: "Разведка предсказала, что §YШирина Фронта§! для этой §YПограничной Войны§! будет §R40§!".
+
+
+
+ balkanized_state_border_skirmish_category: "Гражданские войны в Америке"
+ balkanized_state_border_skirmish_category_desc: "§YАмериканские гражданские войны:§!\nРаспад Соединенных Штатов Америки привел к тому, что бывшие государства боролись за свои территориальные претензии. Некоторые даже объявили себя государствами-преемниками распавшихся Соединенных Штатов Америки.\n\n§YМантия Штатов:§!\nКак только произошел распад Союза, наследие Соединенных Штатов Америки стало призывом для некоторых независимых государств. Эти государства, претендующие на роль преемников распавшегося союза, борются за легитимность этого титула. Ведь только один может обладать "мантией Штатов" и восстановить себя в качестве законного преемника Соединенных Штатов!".
+ balkanized_state_border_skirmish_neighbor: "Стычка за легитимность: [FROM.GetAdjective] Граница".
+ balkanized_state_border_skirmish_neighbor_desc: "Мы начнем стычку на границе [FROM.GetName], в надежде успешно повысить нашу легитимность на владение §YМантией Штатов§!".
+ balkanized_state_border_skirmish_neighbor_at_peace_trigger: "Не находится в §Yсхватке§! или в §Yвойне§! с кем-либо".
+ balkanized_state_border_skirmish_neighbor_diplomacy_trigger: "Не имеет §Yдипломатических договоров§! с §Y[FROM.GetName]§!".
+ balkanized_state_border_skirmish_neighbor_command_power_more_than_99: "£command_power §H100§!".
+ balkanized_state_border_skirmish_neighbor_command_power_more_than_99_blocked: "£command_power §R100§!".
+ balkanized_state_border_skirmish_neighbor_command_power_more_than_99_tooltip: "Стоит 100£command_power чтобы начать §YСхватку за легитимность§!".
+
+
+ # Vanadiums stuffs #NT!
+ NA_B_Spirit_New_World_Democracies: "Демократии Нового Света"
+ NA_B_Spirit_New_World_Democracies_desc: "Отделенные океанами от Старого Света, демократии Нового Света имеют шанс развиваться."
+ Gen_America_Overextended: "Перенапряжение"
+ Gen_America_Overextended_desc: "[Root.GetNameDef] является перенапряженным"
+
+ # Idea Tooltips #NT!
+ 01_GENAMER_IDEA_tt: "§W[Root.GetName]§! имеет все следующее:\n - имеет §Gдемократическое§! правительство\n - имеет столицу в §YАмерике§! \n - Имеет одно из следующих:\n - Является §Yнезависимым§!\n - §RПовелитель§! также имеет §GАмериканскую Систему§!\n"
+
+ #Event Tooltips #NT!
+ 01_GENAMER_MOBIL_tt: "\n§Y[THIS.GetName]§! выделит часть своего населения для формирования §YШтатского Ополчения§!.\n\n".
+
+ # Opinion Modifiers #NT!
+ fellow_american: "Участник американской системы"
